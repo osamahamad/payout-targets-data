@@ -13,6 +13,7 @@
  app.strattic.com
  b.gtld-servers.net (DNS service; DNS related)
  com.citymapper.app.release
+ developers.vendhq.com
  https://api.ibops.net/ad-management
  https://github.com/crypto-org-chain/chain-main
  https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/entitlements
@@ -4640,6 +4641,7 @@ https://developer.zendesk.com/documentation/zendesk-sdks/#ios
 https://developers.elementor.com/
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
+https://developers.vendhq.com/
 https://devportal.rec.net/
 https://devstaging.pcapcloud.com/*
 https://dexalot.com
@@ -5696,6 +5698,7 @@ https://partners.viator.com
 https://partners.westernunion.com
 https://partners.westernunion.com 
 https://pay.unity.com
+https://payment-connectors.vendhq.com/
 https://paymentoptimizerdashboard.pinepg.in/
 https://payments.caffeine.tv
 https://paymentstatus.westernunion.com
@@ -6426,6 +6429,7 @@ https://www.unscreen.com
 https://www.upwork.com
 https://www.usaa.com
 https://www.usaainsurance.com/
+https://www.vendhq.com/
 https://www.verisign.com
 https://www.vtcprodapi.maf.ae/svc/svcHifi.svc/SaveOCRReceipt
 https://www.web.com
@@ -6473,6 +6477,7 @@ https://yeswehack.com
 https://you.23andme.com
 https://you.cag.us-west-2.int.23andme.us
 https://youcouldbe.com
+https://yourstore.retail.lightspeed.app/signin/?return=%2F
 https://zabbix.intergamma.nl/*
 https://{account-code}-0.app.pentest.digistorm.com/admin
 https://{account-code}-0.app.pentest.digistorm.com/forms/enrol-form/start
@@ -7075,6 +7080,7 @@ pay.ibex.exchange
 pay.truelayer[-sandbox].com
 pay.unity.com
 paydirect.truelayer[-sandbox].com
+payment-connectors.vendhq.com
 payment.deezer.com
 payment.pixiv.net
 payment.truelayer[-sandbox].com
@@ -7291,6 +7297,7 @@ secure.rezserver.com
 secure.sharefile.com
 secure.sharefile.eu
 secure.tumblr.com
+secure.vendhq.com
 secure.westernunion.com
 secureauth.westernunion.com
 securemail.usaa.com
@@ -8072,6 +8079,7 @@ www.urbancompany.com
 www.usa.gov
 www.valvesoftware.com
 www.vascoworldwide.net
+www.vendhq.com
 www.veriff.com
 www.verisign.com (Website; non-DNS related)
 www.vfstasheel.com
@@ -8178,6 +8186,7 @@ yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yourstore.retail.lightspeed.app
 yrityspalvelu.tapiola.fi
 ywh.admin.zecible.fr
 ywh.api.zecible.fr
