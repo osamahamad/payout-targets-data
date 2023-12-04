@@ -1,16 +1,61 @@
-*.henchman.io
-*ensemble*.yahoo.com
-*omega*.yahoo.com
-7 News
-Other (Misc)
-Techcrunch
-Yahoo Open Source Projects
-Yahoo! (Misc)
-asupport.suivo.com
-aweb.suivo.com
-https://add-in.stag.henchman.io
-https://api-dashboard.stag.henchman.io
-https://api-search.stag.henchman.io
-https://auth.stag.henchman.io
-https://dashboard.stag.henchman.io
-https://ops-dashboard.stag.henchman.io
+*.intel.com
+*.intigriti.io
+*.intigriti.me
+*.intigriti.net
+*pwn.intigriti.rocks
+1099986434
+Firmware
+Hardware
+Software
+Tier 1 subdomains
+Tier 3 subdomains
+Ubisoft
+any intigriti CTF or challenge
+api.intercom.io
+app-pwn.intigriti.rocks
+autodiscover.intigriti.com
+blog.intigriti.com
+careers.intigriti.com
+click.intigriti.com
+com.ada.app
+go.intigriti.com
+hey.bild.de
+https://api.mobile.ada.com
+https://care-navigation-admin-bff.int.eu.enterprise.ada.com
+https://care-navigation-admin-fe.int.eu.enterprise.ada.com
+https://care-navigation-bff.int.eu.enterprise.ada.com
+https://care-navigation-fe.int.eu.enterprise.ada.com
+https://demo-prod-assessment-bff.ada-prod-eu.prod.gcp.ada.com
+https://demo-prod-hcp-report-bff.ada-prod-eu.prod.gcp.ada.com
+https://demo.enterprise.ada.com
+https://demo.handover.enterprise.ada.com
+https://demo.sso.enterprise.ada.com
+https://id.ada.com
+https://meinkonto.bild.de/
+https://secure.mypass.de/
+https://vip-club.computerbild.de/
+kb.intigriti.com
+mail.intigriti.com
+newsletter.intigriti.com
+our hubspot pages (/hs-fs/, /hubfs/, /hs/, /_hcms/, landing/, report/, webinar/, /datasheet, /customer/, /video/...)
+play.bild.de
+sportbild.bild.de
+status.intigriti.com
+swag.intigriti.com
+t.intigriti.com
+trust.intigriti.com
+welcome.intigriti.com
+www.autobild.de
+www.bild.de
+www.bild.tv
+www.bz-berlin.de
+www.computerbild.de
+www.ein-herz-fuer-kinder.de
+www.fitbook.de
+www.intigriti.com
+www.myhomebook.de
+www.petbook.de
+www.stylebook.de
+www.techbook.de
+www.travelbook.de
+www.welt.de
