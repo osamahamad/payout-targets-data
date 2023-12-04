@@ -1,5 +1,26 @@
-https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP
-https://github.com/Agoric/agoric-sdk/tree/master/packages/inter-protocol
-https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe
-https://github.com/endojs
-https://github.com/endojs/endo/tree/master/packages/ses
+*.anchors.atlas.ripe.net
+*.probes.atlas.ripe.net
+193.0.0.160/27
+2001:67c:2e8:3::/64
+Any *.ripe.net host that is located outside of the in-scope IP ranges
+Any of the beta/dev environments
+RIPE Meeting network (2001:67c:64::/48 and 193.0.24.0/21)
+autodiscover.innogames.de
+call.innogames.com
+conferencing.innogames.com
+exams.ripe.net
+future.portofantwerp.com
+future.portofantwerpbruges.com
+igjam.eu
+jamf.innogames.com
+jobs.portofantwerp.com
+jobs.portofantwerpbruges.com
+mailout.innogames.de
+media.portofantwerp.com
+media.portofantwerpbruges.com
+meet.innogames.com
+mra.innogames.com
+register.portofantwerp.com
+register.portofantwerpbruges.com
+ripe(1to87).ripe.net
+sip.innogames.com

@@ -79,6 +79,9 @@
 *.portofantwerp.com
 *.portofantwerpbruges.com
 *.ripe.net
+*.anchors.atlas.ripe.net
+*.probes.atlas.ripe.net
+Any *.ripe.net host that is located outside of the in-scope IP ranges
 *.rhinternal.net
 *.robinhood.com
 *.robinhood.net

@@ -146,15 +146,24 @@ xs1.elvenar.com
 xs1.forgeofempires.com
 xs1.grepolis.com
 xs1.tribalwars.cash
+autodiscover.innogames.de
+call.innogames.com
+conferencing.innogames.com
 exchange.innogames.de
 forum.innogames.com
 gamejam.innogames.de
+igjam.eu
+jamf.innogames.com
 lyncdiscover.innogames.de
 mail.innogames.com
 mail.innogames.de
+mailout.innogames.de
+meet.innogames.com
+mra.innogames.com
 newsroom.innogames.com
 om-cdn.innogames.de
 pn.innogames.com
+sip.innogames.com
 sip.innogames.de
 slack.innogames.de
 surveys.innogames.de
@@ -347,6 +356,14 @@ wiki.portofantwerp.com
 wiki.portofantwerpbruges.com
 www.oursustainableport.com
 www.portofantwerpbruges.com
+future.portofantwerp.com
+future.portofantwerpbruges.com
+jobs.portofantwerp.com
+jobs.portofantwerpbruges.com
+media.portofantwerp.com
+media.portofantwerpbruges.com
+register.portofantwerp.com
+register.portofantwerpbruges.com
 access.ripe.net
 https://github.com/RIPE-NCC/rpki-commons
 https://github.com/RIPE-NCC/rpki-core
@@ -358,6 +375,12 @@ https://github.com/RIPE-NCC/rpki-publication-server
 https://github.com/RIPE-NCC/rpki-ta-0
 https://github.com/RIPE-NCC/rsyncit
 Assets owned by RIPE NCC
+193.0.0.160/27
+2001:67c:2e8:3::/64
+Any of the beta/dev environments
+exams.ripe.net
+RIPE Meeting network (2001:67c:64::/48 and 193.0.24.0/21)
+ripe(1to87).ripe.net
 938003185
 com.robinhood.android
 www.elvetino.ch

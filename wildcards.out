@@ -49,6 +49,7 @@
 *.aliyun-inc.com
 *.aliyun.com
 *.amplitude-game.com
+*.anchors.atlas.ripe.net
 *.apex-football.com
 *.api.dailymotion.com
 *.api.originenergy.com.au
@@ -615,6 +616,7 @@
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
+*.probes.atlas.ripe.net
 *.prod-networks.chainstack.com
 *.prod-networks.chainstack.net
 *.prod.cloud.netflix.com
@@ -904,6 +906,7 @@
 *idp*.uzleuven.be
 *omega*.yahoo.com
 *stag*.uzleuven.be
+Any *.ripe.net host that is located outside of the in-scope IP ranges
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 B2 APIs (*.backblazeb2.com)
