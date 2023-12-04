@@ -92,6 +92,7 @@ Any *.ripe.net host that is located outside of the in-scope IP ranges
 *.saytechnologies.com
 *.say.rocks
 *.sentiance.com
+www.simscale.com/forum/users/*.json
 *.sqills.com
 *.sqills.team
 *.red.sqills.team
