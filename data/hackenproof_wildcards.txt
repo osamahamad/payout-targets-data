@@ -1,7 +1,3 @@
-*.avalabs.org
-*.avax.network
-*.avax-test.network
-*.avax-dev.network
 *.big.one
 *.bigone.com
 *.bingx.com
@@ -33,3 +29,7 @@
 *.tickets.ua
 *.vertexprotocol.com
 *.white.market
+*.avalabs.org
+*.avax.network
+*.avax-test.network
+*.avax-dev.network
