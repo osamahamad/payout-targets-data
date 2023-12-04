@@ -317,7 +317,6 @@
 *.hellofax.com
 *.hellosign.com
 *.helloworks.com
-*.henchman.io
 *.here.com
 *.hereapi.com
 *.hey.com
@@ -375,14 +374,10 @@
 *.innogames.de
 *.instacart.com
 *.instacart.tools
-*.intel.com
 *.intercomassets.com / *.intercomcdn.com
 *.intergamma-test.nl
 *.intergamma.cloud
 *.intergamma.nl/*
-*.intigriti.io
-*.intigriti.me
-*.intigriti.net
 *.irccloud-cdn.com
 *.irccloud.com
 *.je-apis.com - UK legacy API
@@ -900,9 +895,7 @@
 *.zdev.net
 *.zomans.com
 *.zomato.com
-*ensemble*.yahoo.com
 *idp*.uzleuven.be
-*omega*.yahoo.com
 *stag*.uzleuven.be
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance

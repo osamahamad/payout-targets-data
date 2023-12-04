@@ -375,7 +375,6 @@
 *.hellofax.com
 *.hellosign.com
 *.helloworks.com
-*.henchman.io
 *.here.com
 *.hereapi.com
 *.hey.com
@@ -433,14 +432,10 @@
 *.innogames.de
 *.instacart.com
 *.instacart.tools
-*.intel.com
 *.intercomassets.com / *.intercomcdn.com
 *.intergamma-test.nl
 *.intergamma.cloud
 *.intergamma.nl/*
-*.intigriti.io
-*.intigriti.me
-*.intigriti.net
 *.irccloud-cdn.com
 *.irccloud.com
 *.je-apis.com - UK legacy API
@@ -966,12 +961,9 @@
 *dev.uzleuven.be
 *developer.cloud.com
 *emailsignature.trustpilot.com
-*ensemble*.yahoo.com
 *idp*.uzleuven.be
 *invitations-api.trustpilot.com
 *legal.trustpilot.com
-*omega*.yahoo.com
-*pwn.intigriti.rocks
 *racing.fanduel.com
 *share.trustpilot.com
 *signalservice.comcast.net
@@ -1004,7 +996,6 @@
 107.167.96.0/19
 1079537578
 1080248000
-1099986434
 10x.redoxengine.com
 1101145849
 1114799709
@@ -1146,7 +1137,6 @@
 657777015
 66.232.20.0/23
 669969610
-7 News
 737216887
 740514933
 77.111.244.0/22
@@ -1756,7 +1746,6 @@ Finicity Decisioning
 Finicity- Data Services
 FireTV
 Firefox extension (download at:   https://addons.mozilla.org/firefox/addon/pinterest/)
-Firmware
 FishEye
 Flash Player
 Fleet Server
@@ -1825,7 +1814,6 @@ Hackathon for Jira - Cloud - https://marketplace.atlassian.com/apps/1214757/hack
 Halp Answers for Confluence in Slack - Cloud - https://marketplace.atlassian.com/apps/1222365/halp-answers-for-confluence-in-slack?hosting=cloud
 Halp application for Microsoft Teams
 Halp application for Slack
-Hardware
 Hardware found on https://www.ezviz.com/category/security-wifi-cameras
 Hardware found on https://www.ezviz.com/category/smart-home
 Harmony Remote Software
@@ -2185,7 +2173,6 @@ Orbi Android App
 Orbi iOS App 
 Orbot
 Other
-Other (Misc)
 Other (misc)
 Other - (all other Atlassian targets)
 Other - Please describe
@@ -2365,7 +2352,6 @@ Smartchain Blockchain
 Snaps
 Snaps Development Packages
 Social Media Accounts
-Software
 Software Supply Chain
 Sophos Central
 SoundCloud Android app
@@ -2457,7 +2443,6 @@ Team Calendars for Confluence - Cloud - https://marketplace.atlassian.com/apps/7
 Team Calendars for Confluence - DataCenter - https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=datacenter
 Team Calendars for Confluence - Server - https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=server
 TechCrunch
-Techcrunch
 Ternoa Indexer
 Ternoa Mainnet:
 Tesla Energy hardware you own
@@ -2490,9 +2475,7 @@ Tidal Client for iOS
 Tidal Desktop Client
 Tidal Official Clients (e.g. Sonos, Tesla, etc.)
 Tier 1
-Tier 1 subdomains
 Tier 2
-Tier 3 subdomains
 Tier A - Core Assets
 Tier B - Non Core (Bitmoji, Playcanvas)
 Tier1
@@ -2543,7 +2526,6 @@ USAA Mobile Application for Android
 USAA Mobile Application for iOS
 USB Flash Drive Control
 USB Unifying and LightSpeed Receivers
-Ubisoft
 Ultimate Ears Speakers
 UniFi
 UniFi Access
@@ -2667,7 +2649,6 @@ Yahoo Finance
 Yahoo HK News
 Yahoo Mail
 Yahoo News
-Yahoo Open Source Projects
 Yahoo Open Source Projects (misc)
 Yahoo Search
 Yahoo Sports: Best Ball
@@ -2682,7 +2663,6 @@ Yahoo Sports: Rivals
 Yahoo Sports: Rivals Forums
 Yahoo Video
 Yahoo Weather
-Yahoo! (Misc)
 Yahoo! (misc)
 Yield Farming
 Your Own GitLab Instance
@@ -2808,7 +2788,6 @@ analytics.krisp.ai
 analytics.ninjakiwi.com
 analytics.pinelabs.com
 analytics.prosus.com
-any intigriti CTF or challenge
 anytask.thesecurityteam.rocks
 ap-s.cloud.com
 apay-us.amazon.com
@@ -2906,7 +2885,6 @@ api.iciparisxl.lu
 api.iciparisxl.nl
 api.infomaniak.com
 api.instacart.com
-api.intercom.io
 api.irccloud.com
 api.kolesa.kz
 api.krisha.kz
@@ -3015,7 +2993,6 @@ apigateway.vidaxl.io
 apigw.foliofn.com
 apis.mail.yahoo.com
 apis.onecloud.harman.com
-app-pwn.intigriti.rocks
 app.alasco.de
 app.asana.com
 app.avtoelon.uz
@@ -3123,7 +3100,6 @@ assets.hyatt.com
 assets.spotify.com
 assets.tumblr.com
 astra.datastax.com
-asupport.suivo.com
 atarkasher.co.il
 aus5.mozilla.org
 auth.23andme.com
@@ -3145,14 +3121,12 @@ auth.truelayer[-sandbox].com
 authn.usaa.com
 authz.workbox.dk
 autocomplete.booking.com
-autodiscover.intigriti.com
 autodiscover.uzleuven.be
 autointerface.stag.visma.net
 autoupdate.geo.opera.com
 autoupdateapi.lansweeper.com
 avtoelon.uz
 aw.visa.com
-aweb.suivo.com
 ax-stage.maventa.com
 azreporting.naspers.com/vpn/index.html
 b2b.tvgnetwork.com
@@ -3207,7 +3181,6 @@ blog.chaturbate.com
 blog.coingecko.com
 blog.creditkarma.com
 blog.etsy.com
-blog.intigriti.com
 blog.irccloud.com
 blog.malwarebytes.com
 blog.newrelic.com
@@ -3283,7 +3256,6 @@ capturingreality.com
 card.starbucks.com.sg
 careers.booking.com
 careers.fortmatic.com
-careers.intigriti.com
 careers.takeaway.com
 careers.tiktok.com
 careers.ui.com
@@ -3329,7 +3301,6 @@ circolocorecords.com/
 citrix.cloud.com
 clario.co
 classroom.github.com
-click.intigriti.com
 clientcert.gamma.redoxstage.com
 cliente.hostgator.com.br/
 cloud.acrobat.com
@@ -3373,7 +3344,6 @@ com.Hyatt
 com.Slack
 com.acronis.abc
 com.acronis.acronistrueimage
-com.ada.app
 com.adobe.PSMobile
 com.adobe.echosign
 com.adobe.fas
@@ -4041,7 +4011,6 @@ global.bitexen.com
 global.bittrex.com
 globaljourney.tomorrowland.com
 gnip.com
-go.intigriti.com
 gold.xnxx.com
 goldmansachsindices.com
 gov.near.org
@@ -4099,7 +4068,6 @@ helpcenter.affirm.ca
 helpcenter.affirm.com
 helpx.adobe.com
 hey-mail
-hey.bild.de
 heyfiesta.com
 hg.mozilla.org
 hilton.com
@@ -4216,7 +4184,6 @@ https://account.withings.com
 https://accounts.creditkarma.com
 https://accounts.opera.com
 https://accounts.welcomesoftware.com/
-https://add-in.stag.henchman.io
 https://addons.mozilla.org/en-US/firefox/addon/cyberghost-vpn-free-proxy/
 https://addons.mozilla.org/en-US/firefox/addon/pinterest/
 https://addons.mozilla.org/en-US/firefox/addon/private-internet-access-ext/
@@ -4258,9 +4225,7 @@ https://anytask.thesecurityteam.rocks
 https://anytask.thesecurityteam.rocks/
 https://api-a.usaa.com
 https://api-ch-gva-2.exoscale.com/v2
-https://api-dashboard.stag.henchman.io
 https://api-js.datadome.co
-https://api-search.stag.henchman.io
 https://api-staging.pingone.com/*
 https://api-test.nicehash.com
 https://api-test.nicex.com
@@ -4309,7 +4274,6 @@ https://api.justeat-int.com
 https://api.kennasecurity.com
 https://api.letsexchange.io/doc
 https://api.linen.app/
-https://api.mobile.ada.com
 https://api.moneyboxapp.com/
 https://api.neogov.com
 https://api.netgear.com
@@ -4515,7 +4479,6 @@ https://auth.foxy.io/
 https://auth.immutable.com/
 https://auth.opera.com
 https://auth.seek.com
-https://auth.stag.henchman.io
 https://auth.wyze.com
 https://authn.usaa.com/
 https://authy.com/download/
@@ -4599,10 +4562,6 @@ https://canva.cn/developers
 https://canva.com/developers
 https://carbonneutral.ampol.com.au/
 https://cards.ampol.com.au
-https://care-navigation-admin-bff.int.eu.enterprise.ada.com
-https://care-navigation-admin-fe.int.eu.enterprise.ada.com
-https://care-navigation-bff.int.eu.enterprise.ada.com
-https://care-navigation-fe.int.eu.enterprise.ada.com
 https://careers.takeaway.com
 https://cash.app
 https://cashback.opera.com/
@@ -4673,7 +4632,6 @@ https://dashboard.pantheon.io
 https://dashboard.rapyd.net/
 https://dashboard.sendbird.com
 https://dashboard.sendbird.com/
-https://dashboard.stag.henchman.io
 https://dashboard.unity3d.com
 https://data.coda.io/*
 https://data.limeinternal.com
@@ -4683,12 +4641,7 @@ https://dbc-a1ba5468-749b.staging.cloud.databricks.com/
 https://dcfgatewaytst1.marriott.com/
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
-https://demo-prod-assessment-bff.ada-prod-eu.prod.gcp.ada.com
-https://demo-prod-hcp-report-bff.ada-prod-eu.prod.gcp.ada.com
-https://demo.enterprise.ada.com
-https://demo.handover.enterprise.ada.com
 https://demo.priceless.com/
-https://demo.sso.enterprise.ada.com
 https://desk-api-{region}.sendbird.com
 https://dev.tutoring.classdojo.com
 https://devedge.t-mobile.com
@@ -5211,7 +5164,6 @@ https://huddle.bluejeans.com
 https://hug.personio.com
 https://ichnaea.netflix.com
 https://icu.eu-west-2.outscale.com
-https://id.ada.com
 https://id.atlassian.com/login
 https://id.unity.com
 https://identity.bugcrowd.com/
@@ -5636,7 +5588,6 @@ https://mcssl.com
 https://mediacenter.23andme.com
 https://medical.23andme.com
 https://meechum.netflix.com
-https://meinkonto.bild.de/
 https://menulog.co.nz
 https://menulog.com.au
 https://meraki.cisco.com
@@ -5712,7 +5663,6 @@ https://opendata-demo.test-socrata.com
 https://opendata.test-socrata.com
 https://opendata.test-socrata.com/admin/gateway
 https://opensea.io/
-https://ops-dashboard.stag.henchman.io
 https://ops-tool.internal.bbp-mettle.co.uk/
 https://optimizely-edge.com
 https://orchard.limeinternal.com
@@ -5970,7 +5920,6 @@ https://sapi-live.lh.us-west-2.prd.23andme.us
 https://screenplayer.20min.ch
 https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secure.indeed.com
-https://secure.mypass.de/
 https://secure.neogov.com
 https://secure.westernunion.com
 https://secureauth.westernunion.com
@@ -6135,7 +6084,6 @@ https://vault-staging.getmoneytree.com
 https://vendorss.usaa.com
 https://viatorapi.viator.com/service/directory
 https://videoplayer.20min.ch
-https://vip-club.computerbild.de/
 https://virtuswap.io/
 https://vlagg.usaa.com
 https://vlapi.usaa.com
@@ -6657,7 +6605,6 @@ kassa.gamma.be/*
 kassa.gamma.nl/*
 kassa.karwei.nl/*
 kb.databricks.com
-kb.intigriti.com
 kbill.mackeeper.com
 kinepolis-studio.be
 kinepolis.megatix.be
@@ -6801,7 +6748,6 @@ magisto.com,www.magisto.com
 mail.gamma.be
 mail.gamma.nl
 mail.infomaniak.com
-mail.intigriti.com
 mail.karwei.nl
 mailpoet.com
 main.trafficfactory.biz
@@ -6966,7 +6912,6 @@ neuralprisma.com
 new-order.eu-east-1.indriverapp.com
 new.reddit.com
 new.www.vaxvacationaccess.com
-newsletter.intigriti.com
 newsletter.nextcloud.com
 newsletter.thuisbezorgd.nl
 newsroom.images.hyatt.com
@@ -7103,7 +7048,6 @@ org.toshi.distribution
 org.vom8x8.sipua
 ota-staging.onecloud.harman.com
 ota.onecloud.harman.com
-our hubspot pages (/hs-fs/, /hubfs/, /hs/, /_hcms/, landing/, report/, webinar/, /datasheet, /customer/, /video/...)
 outage.logitech.com
 outagehistory.logitech.com
 p.grabtaxi.com
@@ -7165,7 +7109,6 @@ platform.8x8.com
 platform.8x8pilot.com
 platform.adobe.com
 platform.teleport.sh
-play.bild.de
 play.google.com/store/apps/details?id=com.crowdstrike.falconmobile
 play.google.com/store/apps/details?id=fr.assurancemaladie.monespacesante&showAllReviews=true (Android)
 playartifact.com
@@ -7459,7 +7402,6 @@ spectacles.com
 speeddials.opera.com
 speedtest.xfinity.com
 sport-components.sporza.be
-sportbild.bild.de
 sportsbook.fanduel.com
 sporza.be
 sprint.com
@@ -7502,7 +7444,6 @@ stationapi.veriff.com
 stats.nextcloud.com
 status.adobe.com
 status.delen.be
-status.intigriti.com
 status.larksuite.com
 status.mobile.monash
 status.oasis.io
@@ -7563,7 +7504,6 @@ support.steampowered.com
 supportal.netlify.app
 surveyserver.nextcloud.com
 svn.notebleue.pro
-swag.intigriti.com
 swiftcapital.com
 swiftfinancial.com
 swiss-backup*.infomaniak.com
@@ -7574,7 +7514,6 @@ synthetics.eu.newrelic.com
 synthetics.newrelic.com
 t-mobile.com
 t.co
-t.intigriti.com
 t.swapcard.com
 t.umblr.com
 talk.brave.com
@@ -7637,7 +7576,6 @@ trm.pinelabs.com
 trm.pinepaymentsolutions.com
 truck-api.eu-east-1.indriverapp.com
 truelayer-signing
-trust.intigriti.com
 try.discourse.org
 tunnistus.lahitapiola.fi
 tunnistus.s-ryhma.fi
@@ -7773,7 +7711,6 @@ webwinkel.parool.nl
 webwinkel.trouw.nl
 webwinkel.volkskrant.nl
 welcome.infomaniak.com
-welcome.intigriti.com
 werkenbijdefensie.nl
 werkenbijderet.nl
 werkenbijdnb.nl
@@ -7845,10 +7782,7 @@ www.arubainstanton.com
 www.astrogaming.com
 www.atg.se
 www.authorize.net
-www.autobild.de
 www.beachbound.com
-www.bild.de
-www.bild.tv
 www.bitexen.com
 www.bitmoji.com
 www.bitstamp.net - Bitstamp Application & API
@@ -7862,7 +7796,6 @@ www.bookabach.co.nz
 www.bookingholdings.com
 www.boomplay.com
 www.bumble.com
-www.bz-berlin.de
 www.cadelam.be
 www.cadelux.lu/en
 www.cardinalcommerce.com
@@ -7883,7 +7816,6 @@ www.coinstore.com
 www.cointr.com
 www.cointr.pro
 www.compass.com
-www.computerbild.de
 www.contrastsecurity.com
 www.counter-strike.net
 www.creditkarma.ca
@@ -7914,7 +7846,6 @@ www.ebookers.com
 www.ebookers.fi
 www.editeur.am.monespacesante.fr
 www.editeur.api.monespacesante.fr
-www.ein-herz-fuer-kinder.de
 www.elastic.co
 www.elvetino.ch
 www.etoro.com
@@ -7932,7 +7863,6 @@ www.fewo-direkt.de
 www.figma.com
 www.files.com
 www.fing.com
-www.fitbook.de
 www.flights.com
 www.forescout.com
 www.fortress.com.hk
@@ -7964,7 +7894,6 @@ www.iciparisxl.lu
 www.iciparisxl.nl
 www.infomaniak.com
 www.instacart.com
-www.intigriti.com
 www.irccloud.com
 www.jaybirdsport.com
 www.karwei.nl/*
@@ -8037,7 +7966,6 @@ www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
 www.myetherwallet.com
-www.myhomebook.de
 www.naspers.com
 www.netflix.com
 www.networksolutions.com
@@ -8055,7 +7983,6 @@ www.paypal-*.com
 www.personio.com
 www.personio.de
 www.personio.es
-www.petbook.de
 www.pineperks.in
 www.pixiv.net
 www.planethoster.com
@@ -8110,7 +8037,6 @@ www.starbucksreserve.com
 www.status-takeaway.com/status
 www.stayz.com.au
 www.stripe.partners
-www.stylebook.de
 www.superdrug.com
 www.swiftcapital.com
 www.swiftfinancial.com
@@ -8121,7 +8047,6 @@ www.takeaway.com/drivers
 www.takeaway.com/foodwiki/
 www.tapiola.fi
 www.teamfortress.com
-www.techbook.de
 www.tecno-mobile.com
 www.temu.com
 www.theperfumeshop.com
@@ -8134,7 +8059,6 @@ www.torfs.be
 www.torfs.nl
 www.trafficfactory.com
 www.transsicura.ch
-www.travelbook.de
 www.travelocity.ca
 www.travelocity.com
 www.trendyol.com
@@ -8210,7 +8134,6 @@ www.watsons.com.sg
 www.watsons.com.tr
 www.watsons.com.tw
 www.wearehackerone.com
-www.welt.de
 www.werkenbijbakertilly.nl
 www.wickr.com
 www.wotif.com
