@@ -92,6 +92,9 @@ Any *.ripe.net host that is located outside of the in-scope IP ranges
 *.sentiance.com
 *.sqills.com
 *.sqills.team
+*.red.sqills.team
+booking.*.cloud.sqills.com
+booking.*.sqills.com
 *.aroundtheworld.tomorrowland.com
 *.tomorrowland.com
 *.trouw.nl

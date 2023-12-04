@@ -643,6 +643,7 @@
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
+*.red.sqills.team
 *.reddit.com
 *.redditblog.com
 *.reddithelp.com
@@ -915,6 +916,8 @@ Internal Web services - *.internal.exoscale.ch
 api*.netflix.com
 api-*.soundcloud.com
 assets.enjin.io,cdn.enjin.io,*.cdn.enjin.io,*.cdn.enjin.cn,cdn.enjin.cn,cdn.enjinx.io,cdn.enjinx.cn,enjinusercontent.com,*.enjinusercontent.com
+booking.*.cloud.sqills.com
+booking.*.sqills.com
 dcfgateway*.marriott.com
 gateway*.marriott.com
 h1-*your-own-instance*.cloud.mattermost.com
