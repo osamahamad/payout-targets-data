@@ -681,6 +681,7 @@
 *.prod.cryptology.com
 *.prod.dradis.netflix.com
 *.prod.ftl.netflix.com
+*.prod.nube.tech
 *.proofhq.com
 *.prowly.com
 *.psynet.gg
@@ -3180,6 +3181,7 @@ badoocdn.com
 ballistic.com
 ballistic.com.br
 bankaccountdata.gocardless.com, ob.gocardless.com
+banks.truelayer.com
 basecamp3.exe
 basicattentiontoken.org
 battles.tv
@@ -3299,6 +3301,7 @@ careers.intigriti.com
 careers.sqills.com
 careers.takeaway.com
 careers.tiktok.com
+careers.truelayer.com
 careers.ui.com
 cargo.indrive.com
 cars.booking.com
@@ -3875,6 +3878,7 @@ docs.newrelic.com
 docs.nextcloud.com
 docs.redoxengine.com
 docs.sentiance.com
+docs.truelayer.com
 documentcloud.adobe.com
 documents.adobe.com
 donate.mastercard.com
@@ -6621,6 +6625,8 @@ img.ibood.com
 img.swapcard.com
 imx.community
 inapp.clario.co
+index.truelayer.com
+info.truelayer.com
 infomaniak.events
 infrastructure.eu.newrelic.com
 infrastructure.newrelic.com
@@ -7179,6 +7185,7 @@ partners.databricks.com
 partners.etoro.com
 partners.shopify.com
 partners.usaa.com
+partners.vidaxl.com
 passport.larksuite.com
 passwordchallenge.marriott.com
 pay-api.truelayer[-sandbox].com
@@ -7477,6 +7484,7 @@ shopifyinbox.com
 shoppers.instacart.com
 shoppingcart.shipt.com
 shops-services.vidaxl.org
+signin.truelayer.com
 sijoitusvakuutus.lahitapiola.fi
 simperium.com
 simplenote.com
@@ -7620,6 +7628,7 @@ support.nextcloud.com
 support.personio.de
 support.rockstargames.com
 support.steampowered.com
+support.truelayer.com
 supportal.netlify.app
 surveys.innogames.de
 surveyserver.nextcloud.com
@@ -7698,6 +7707,7 @@ trm.pinelabs.com
 trm.pinepaymentsolutions.com
 truck-api.eu-east-1.indriverapp.com
 truelayer-signing
+truelayer.zendesk.com
 trust.intigriti.com
 try.discourse.org
 tunnistus.lahitapiola.fi

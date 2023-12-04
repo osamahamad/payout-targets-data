@@ -482,6 +482,14 @@ TrueLayer for Magento (Magento plugin)
 TrueLayer for WooCommerce (WordPress plugin)
 truelayer-signing
 webhooks.truelayer[-sandbox].com
+banks.truelayer.com
+careers.truelayer.com
+docs.truelayer.com
+index.truelayer.com
+info.truelayer.com
+signin.truelayer.com
+support.truelayer.com
+truelayer.zendesk.com
 elect.tweakers.net
 134.58.179.102-103
 autodiscover.uzleuven.be
@@ -723,3 +731,4 @@ qa1-apigateway.vidaxl.io
 staging-apigateway.vidaxl.io
 staging-db.vidaxl.io
 staging.vidaxl.io
+partners.vidaxl.com
