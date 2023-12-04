@@ -317,6 +317,7 @@
 *.hellofax.com
 *.hellosign.com
 *.helloworks.com
+*.henchman.io
 *.here.com
 *.hereapi.com
 *.hey.com
@@ -895,7 +896,9 @@
 *.zdev.net
 *.zomans.com
 *.zomato.com
+*ensemble*.yahoo.com
 *idp*.uzleuven.be
+*omega*.yahoo.com
 *stag*.uzleuven.be
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
