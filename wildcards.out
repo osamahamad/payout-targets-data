@@ -49,7 +49,6 @@
 *.aliyun-inc.com
 *.aliyun.com
 *.amplitude-game.com
-*.anchors.atlas.ripe.net
 *.apex-football.com
 *.api.dailymotion.com
 *.api.originenergy.com.au
@@ -151,7 +150,6 @@
 *.chimecard.com
 *.chimepayments.com
 *.chmfin.com
-*.cineramabios.nl
 *.citrixworkspacesapi.net
 *.citymeal.com
 *.claritymoney.com
@@ -382,9 +380,6 @@
 *.intergamma-test.nl
 *.intergamma.cloud
 *.intergamma.nl/*
-*.intigriti.io
-*.intigriti.me
-*.intigriti.net
 *.irccloud-cdn.com
 *.irccloud.com
 *.je-apis.com - UK legacy API
@@ -617,7 +612,6 @@
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
-*.probes.atlas.ripe.net
 *.prod-networks.chainstack.com
 *.prod-networks.chainstack.net
 *.prod.cloud.netflix.com
@@ -645,7 +639,6 @@
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
-*.red.sqills.team
 *.reddit.com
 *.redditblog.com
 *.reddithelp.com
@@ -909,7 +902,6 @@
 *idp*.uzleuven.be
 *omega*.yahoo.com
 *stag*.uzleuven.be
-Any *.ripe.net host that is located outside of the in-scope IP ranges
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 B2 APIs (*.backblazeb2.com)
@@ -918,8 +910,6 @@ Internal Web services - *.internal.exoscale.ch
 api*.netflix.com
 api-*.soundcloud.com
 assets.enjin.io,cdn.enjin.io,*.cdn.enjin.io,*.cdn.enjin.cn,cdn.enjin.cn,cdn.enjinx.io,cdn.enjinx.cn,enjinusercontent.com,*.enjinusercontent.com
-booking.*.cloud.sqills.com
-booking.*.sqills.com
 dcfgateway*.marriott.com
 gateway*.marriott.com
 h1-*your-own-instance*.cloud.mattermost.com
@@ -928,12 +918,10 @@ matrix.agent.*.tchap.gouv.fr
 munin-*.wordpress.org
 onboarding-*.cloud.com
 service-*.ibood.com
-shop.*.be
 swiss-backup*.infomaniak.com
 terra-*.indriverapp.com
 test*.redoxengine.com
 vcc-*.8x8.com
 www.paypal-*.com
-www.simscale.com/forum/users/*.json
 xhomeapi-*.cloud.comcast.net
 xhomeapi-*.codebig2.net

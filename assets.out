@@ -29,34 +29,10 @@
 (yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 (yoursubdomain).us.iws.cloud.com
-* demorgen.be/inloggen
-* demorgen.be/login
-* demorgen.be/registreren
-* demorgen.be/service
 * hln.be/inloggen
 * hln.be/login
 * hln.be/registreren
-* hln.be/service
-* humo.be/inloggen
-* humo.be/login
 * humo.be/registreren
-* humo.be/service
-* libelle.nl/inloggen
-* libelle.nl/login
-* libelle.nl/registreren
-* libelle.nl/service
-* parool.nl/inloggen
-* parool.nl/login
-* parool.nl/registreren
-* parool.nl/service
-* trouw.nl/inloggen
-* trouw.nl/login
-* trouw.nl/registreren
-* trouw.nl/service
-* vtmgo.be/inloggen
-* vtmgo.be/login
-* vtmgo.be/registreren
-* vtmgo.be/service
 *-api-*.acronis.com
 *-bugcrowd.foxycart.com (read below for details)
 *-cvr-aws-*.sys.comcast.net
@@ -107,7 +83,6 @@
 *.aliyun-inc.com
 *.aliyun.com
 *.amplitude-game.com
-*.anchors.atlas.ripe.net
 *.apex-football.com
 *.api.dailymotion.com
 *.api.originenergy.com.au
@@ -209,7 +184,6 @@
 *.chimecard.com
 *.chimepayments.com
 *.chmfin.com
-*.cineramabios.nl
 *.citrixworkspacesapi.net
 *.citymeal.com
 *.claritymoney.com
@@ -440,9 +414,6 @@
 *.intergamma-test.nl
 *.intergamma.cloud
 *.intergamma.nl/*
-*.intigriti.io
-*.intigriti.me
-*.intigriti.net
 *.irccloud-cdn.com
 *.irccloud.com
 *.je-apis.com - UK legacy API
@@ -675,7 +646,6 @@
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
-*.probes.atlas.ripe.net
 *.prod-networks.chainstack.com
 *.prod-networks.chainstack.net
 *.prod.cloud.netflix.com
@@ -703,7 +673,6 @@
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
-*.red.sqills.team
 *.reddit.com
 *.redditblog.com
 *.reddithelp.com
@@ -1071,14 +1040,12 @@
 192.251.125.0/24
 192.251.126.0/24
 193.0.0.0/19 and 2001:67c:2e8::/48
-193.0.0.160/27
 194.90.151.192/28
 194.90.25.80/29
 194.90.89.165/32
 195.189.143.0/24
 199.66.248.0/22
 1shoppingcart.com
-2001:67c:2e8:3::/64
 203.79.37.2/29
 203.89.100.0/22
 206.166.248.0/23
@@ -1297,7 +1264,6 @@ Android agent
 Android mobile app
 Animate
 Announcement Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1217289/announcement-plugin-for-bamboo?hosting=server
-Any *.ripe.net host that is located outside of the in-scope IP ranges
 Any FIS asset is in scope
 Any Host Verified To Be Owned By Kenna (Domains/IP space/etc.)
 Any IP belonging to Liberapay
@@ -1309,7 +1275,6 @@ Any host or verified to be owned by Western Union (domains/IP space/etc.)
 Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Any host/web property verified to be owned by Twilio
 Any host/web property/mobile app verified to be owned by Indeed
-Any of the beta/dev environments
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 Any other Epic games owned asset not listed in the out of scope section
 Any other Malwarebytes asset
@@ -2312,7 +2277,6 @@ Questions for Confluence - Cloud - https://marketplace.atlassian.com/apps/121164
 Questions for Confluence - DataCenter - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=datacenter
 Questions for Confluence - Server - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=server
 Queue Priority Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1216287/queue-priority-plugin-for-bamboo?hosting=server
-RIPE Meeting network (2001:67c:64::/48 and 193.0.24.0/21)
 RYOT
 Read Me - https://trello.com/power-ups/5a2de0c41ae4a1537bb0055d/read-me
 Rec Room PC Standalone App
@@ -2698,7 +2662,6 @@ Yield Farming
 Your Own GitLab Instance
 Zendesk - https://trello.com/power-ups/56940ede94fd60cf95f7ce6a/zendesk
 Zero days that affect Intigriti or participating customers (listed below)
-_weather.sentiance.com
 a.root-servers.net (DNS service; DNS related)
 a1.verisigndns.com (DNS service; DNS related)
 a1ttqkupgmaxeg-ats.iot.ap-east-1.amazonaws.com
@@ -2708,10 +2671,6 @@ a4k.amazon.com
 a5s.hackerone-ext-content.com
 ab-platform-api.eu-east-1.indriverapp.com
 ab2b0c50cdc7b445391f99d4957850c5-cd4ccfdb37dfafad.elb.us-east-1.amazonaws.com
-abonnement.demorgen.be
-abonnement.humo.be
-abonnement.parool.nl
-abonnement.trouw.nl
 about.gitlab.com
 academy-outbound-ads.tiktok.com
 academy.databricks.com
@@ -2786,7 +2745,6 @@ advocates.databricks.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
 aemdam.usaa360.com
 affiliate-program.amazon.com
-afspraakmaken.gamma.nl
 agency.indeedflex.com
 agents.tasheer.com
 agents.vfstasheel.com
@@ -2818,7 +2776,6 @@ analytics.krisp.ai
 analytics.ninjakiwi.com
 analytics.pinelabs.com
 analytics.prosus.com
-any intigriti CTF or challenge
 anytask.thesecurityteam.rocks
 ap-s.cloud.com
 apay-us.amazon.com
@@ -2841,8 +2798,6 @@ api-wallet.venly.io
 api.23andme.com
 api.account.clario.co
 api.adm.cloud.com
-api.afspraakmaken.gamma.be
-api.afspraakmaken.gamma.nl
 api.airbnb.com
 api.aiven.io
 api.alasco.de
@@ -2916,7 +2871,6 @@ api.iciparisxl.lu
 api.iciparisxl.nl
 api.infomaniak.com
 api.instacart.com
-api.intercom.io
 api.irccloud.com
 api.kolesa.kz
 api.krisha.kz
@@ -2927,7 +2881,6 @@ api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
-api.maakafspraak.karwei.nl
 api.magic.link
 api.mapbox.com
 api.mercadolibre.com
@@ -3155,8 +3108,6 @@ auth.truelayer[-sandbox].com
 authn.usaa.com
 authz.workbox.dk
 autocomplete.booking.com
-autodiscover.innogames.de
-autodiscover.intigriti.com
 autodiscover.uzleuven.be
 autointerface.stag.visma.net
 autoupdate.geo.opera.com
@@ -3182,7 +3133,6 @@ badoocdn.com
 ballistic.com
 ballistic.com.br
 bankaccountdata.gocardless.com, ob.gocardless.com
-banks.truelayer.com
 basecamp3.exe
 basicattentiontoken.org
 battles.tv
@@ -3201,7 +3151,6 @@ behance.net
 beta-cloud.acronis.com
 beta.ibood.com
 beta.rarible.com
-betadoc.sentiance.com
 bff.ketnet.be
 bigcommerce-adapter.judge.me
 billing-pci.etoro.com
@@ -3219,7 +3168,6 @@ blog.chaturbate.com
 blog.coingecko.com
 blog.creditkarma.com
 blog.etsy.com
-blog.intigriti.com
 blog.irccloud.com
 blog.malwarebytes.com
 blog.newrelic.com
@@ -3239,8 +3187,6 @@ book.beachbound.com
 book.booktandl.com
 book.cheapcaribbean.com
 book.extraholidaysvacations.com
-booking.*.cloud.sqills.com
-booking.*.sqills.com
 booking.beachbound.com
 booking.cheapcaribbean.com
 booking.com
@@ -3286,7 +3232,6 @@ caffeine-helper.x86.exe
 caffeine.exe
 caldav.larksuite.com
 calendar.infomaniak.com
-call.innogames.com
 callbacks.airbnb.com
 cam.notebleue.pro
 campaign.adobe.com
@@ -3298,11 +3243,8 @@ capturingreality.com
 card.starbucks.com.sg
 careers.booking.com
 careers.fortmatic.com
-careers.intigriti.com
-careers.sqills.com
 careers.takeaway.com
 careers.tiktok.com
-careers.truelayer.com
 careers.ui.com
 cargo.indrive.com
 cars.booking.com
@@ -3346,7 +3288,6 @@ circolocorecords.com/
 citrix.cloud.com
 clario.co
 classroom.github.com
-click.intigriti.com
 clientcert.gamma.redoxstage.com
 cliente.hostgator.com.br/
 cloud.acrobat.com
@@ -3717,7 +3658,6 @@ community.ui.com
 components.frame.io
 components.stag.tomorrowland.com
 components.tomorrowland.com
-conferencing.innogames.com
 configure.bmw.de
 configure.mini.de
 confluence.hyattdev.com
@@ -3833,7 +3773,6 @@ derivws.com
 design.gitlab.com
 design.ui.com
 dev-training.ui.com
-dev.kinepolis.com
 dev.takeaway.com/html/
 devedge.t-mobile.com
 developer.amazon.com/alexa/*
@@ -3880,7 +3819,6 @@ docs.newrelic.com
 docs.nextcloud.com
 docs.redoxengine.com
 docs.sentiance.com
-docs.truelayer.com
 documentcloud.adobe.com
 documents.adobe.com
 donate.mastercard.com
@@ -3925,7 +3863,6 @@ eets.gamma.redoxstage.com
 effecthouse.tiktok.com
 egaming.kinepolis.es
 elastic.co credentials
-elect.tweakers.net
 embed.tumblr.com
 embed.vhx.tv
 en.vidaxl.ae
@@ -3948,9 +3885,7 @@ events-staging.venly.market
 events.launchdarkly.com
 events.onecloud.harman.com
 events.venly.market
-exams.ripe.net
 exchange.adobe.com
-exchange.innogames.de
 exchange.opera.com
 exmo.com
 exmo.me
@@ -4015,7 +3950,6 @@ form.asana.com
 forms.nexuzhealth.be
 fortmatic.com
 fortnite.com
-forum.innogames.com
 forum.playcanvas.com
 forum.portswigger.net
 forum.sketchfab.com
@@ -4027,12 +3961,9 @@ frankd.yoti.com
 freight.amazon.*
 fresh.amazon.*
 fs.rarible.com
-future.portofantwerp.com
-future.portofantwerpbruges.com
 fv3lfbdyjh.infomaniak.site
 fw-update.ubnt.com
 fw.ring.com/*
-gamejam.innogames.de
 gaming.logicool.co.jp
 gamma.grab.co
 gamma.redoxstage.com
@@ -4067,7 +3998,6 @@ global.bitexen.com
 global.bittrex.com
 globaljourney.tomorrowland.com
 gnip.com
-go.intigriti.com
 gold.xnxx.com
 goldmansachsindices.com
 gov.near.org
@@ -6391,7 +6321,6 @@ https://www.microsoft.com/en-us/p/keeperchat/9pdqtcpn4kxn#activetab=pivot:overvi
 https://www.monash.edu
 https://www.naspers.com
 https://www.networksolutions.com
-https://www.nexuzhealth.com/nl/mynexuzhealthpro
 https://www.npmjs.com/package/@forge/cli
 https://www.npmjs.com/package/@forge/cli	
 https://www.oculus.com/experiences/quest/2173678582678296
@@ -6468,10 +6397,8 @@ https://www.recreation.gov/use-our-data
 https://www.recreation.gov/whats-new
 https://www.remove.bg
 https://www.routerprotocol.com/
-https://www.saytechnologies.com/contact/sales
 https://www.sharerewards.com/
 https://www.simplify.com/commerce/ 
-https://www.simscale.com/api/v1/projects/*
 https://www.sitemercado.com.br
 https://www.skidxb.com/
 https://www.skroutz.gr/
@@ -6622,21 +6549,17 @@ idp-contact.nexuzhealth.be
 idp-mobile.nexuzhealth.be
 idp.fr.cloud.gov
 ifttt-adaptor.pub.kube.dm.gg
-igjam.eu
 images2.triseptsolutions.com
 imagine.magento.com
 img.ibood.com
 img.swapcard.com
 imx.community
 inapp.clario.co
-index.truelayer.com
-info.truelayer.com
 infomaniak.events
 infrastructure.eu.newrelic.com
 infrastructure.newrelic.com
 injob.indriver.com
 innogames.com
-innovatie.vrt.be
 insights-by-sentiance/id1608074635
 insights.deribit.com
 insights.eu.newrelic.com
@@ -6680,19 +6603,13 @@ itmss://apps.apple.com/us/app/id1510360750?ign-mscache=1
 itv7.itv.com
 iwgo.westernunion.com
 ix2smbdyjt.infomaniak.site
-jamf.innogames.com
 jimmobile.be
 jira.grab.com
 jira.hyattdev.com
 jira.logitech.com
-jobs.kinepolis.com
 jobs.kiwi.com
 jobs.krisp.ai
 jobs.marriott.com
-jobs.portofantwerp.com
-jobs.portofantwerpbruges.com
-jobs.sentiance.com
-jobs.uzleuven.be
 jointhemoment.net
 journeys-2/id984087229?mt=8
 journeys-api.sentiance.com/v2
@@ -6707,12 +6624,10 @@ k8s.gcr.io
 k8s.io
 kaatje.ketnet.be
 kartaview.org
-karwei-2018.hetmooistegordijn.nl
 kassa.gamma.be/*
 kassa.gamma.nl/*
 kassa.karwei.nl/*
 kb.databricks.com
-kb.intigriti.com
 kbill.mackeeper.com
 kinepolis-studio.be
 kinepolis.megatix.be
@@ -6737,14 +6652,12 @@ kyc-src.etoro.com
 kyc.etoro.com
 kz.kolesa
 kz.krisha
-l.kinepolis.com
 l.usaa.com
 l75pvbdyjo.infomaniak.site
 label-studio-public.sonantic.io
 labs.data.gov
 labs.databricks.com
 ladex.exchange
-landing-automotive.sentiance.com
 landing.coingecko.com
 lando.services.mozilla.com
 lark-frontier.byteoversea.com
@@ -6833,7 +6746,6 @@ lsaconsumerevents3.onecloud.harman.com
 luxfilmfestfilms.megatix.be
 luxfilmfestproducts.megatix.be
 luxfilmfesttickets.megatix.be
-lyncdiscover.innogames.de
 m.4njbets.tvg.com
 m.airbnb.com
 m.avtoelon.uz
@@ -6845,7 +6757,6 @@ m.krisha.kz
 m.poloniex.com
 m.reddit.com
 m.trendyol.com
-maakafspraak.karwei.nl
 macOS app
 mackeeper.com
 magazine.ketnet.be
@@ -6855,14 +6766,7 @@ magentolive.com
 magic.veriff.me
 magiceden.io
 magisto.com,www.magisto.com
-mail.gamma.be
-mail.gamma.nl
 mail.infomaniak.com
-mail.innogames.com
-mail.innogames.de
-mail.intigriti.com
-mail.karwei.nl
-mailout.innogames.de
 mailpoet.com
 main.trafficfactory.biz
 mainnet-boot-0.ternoa.network
@@ -6906,19 +6810,15 @@ maximo-accpt.portofantwerpbruges.com
 maximo.portofantwerp.com
 maximo.portofantwerpbruges.com
 maximum-status.com
-mb.sentiance.com
 mcssl.com
 mdm.weareone.world
 mds.voiapp.io
 me.store.ui.com
 media-services-public.vrt.be
 media.nexuzhealth.be/patient/
-media.portofantwerp.com
-media.portofantwerpbruges.com
 media.triseptsolutions.com
 mediacenter.23andme.com
 medical.23andme.com
-meet.innogames.com
 meetings.hyatt.com
 meetiobook.com
 meraki.cisco.com
@@ -6974,7 +6874,6 @@ monitor.firefox.com
 moonpay.com
 movieapi.kinepolis.megatix.be
 mozilla-pontoon-staging.herokuapp.com
-mra.innogames.com
 msg.playcanvas.com
 mstatic.usaa.com
 mta-sts.wearehackerone.com
@@ -7030,11 +6929,9 @@ neuralprisma.com
 new-order.eu-east-1.indriverapp.com
 new.reddit.com
 new.www.vaxvacationaccess.com
-newsletter.intigriti.com
 newsletter.nextcloud.com
 newsletter.thuisbezorgd.nl
 newsroom.images.hyatt.com
-newsroom.innogames.com
 next.airbnb.com
 nextcloud.com
 nextcloud/3rdparty
@@ -7130,7 +7027,6 @@ octopus.com
 odoo14.notebleue.pro
 offsite.omise.co
 old.reddit.com
-om-cdn.innogames.de
 omgpro.airbnb.com
 on-premises software
 on-ramp.metaswap-dev.codefi.network
@@ -7154,7 +7050,6 @@ open.larksuite.com
 openai.com
 openapi.starbucks.com
 opensea.io
-openx.kinepolis.com
 oprc.portofantwerpbruges.com
 ops-tool.internal.bbp-mettle.co.uk
 ops.lime.bike
@@ -7170,7 +7065,6 @@ org.toshi.distribution
 org.vom8x8.sipua
 ota-staging.onecloud.harman.com
 ota.onecloud.harman.com
-our hubspot pages (/hs-fs/, /hubfs/, /hs/, /_hcms/, landing/, report/, webinar/, /datasheet, /customer/, /video/...)
 outage.logitech.com
 outagehistory.logitech.com
 p.grabtaxi.com
@@ -7193,7 +7087,6 @@ partners.databricks.com
 partners.etoro.com
 partners.shopify.com
 partners.usaa.com
-partners.vidaxl.com
 passport.larksuite.com
 passwordchallenge.marriott.com
 pay-api.truelayer[-sandbox].com
@@ -7219,7 +7112,6 @@ pentesting.gethypr.com
 pentesting2.gethypr.com
 pentesting3.gethypr.com
 peopleview.naspers.com
-personio.slack.com
 phabricator.allizom.org
 photos.amazon.*
 photoshop.com
@@ -7245,7 +7137,6 @@ player.vimeo.com
 player.vrt.be
 playwonderbox.com
 playwonderbox.com.br
-pn.innogames.com
 portal-api.coinmarketcap.com
 portal.au.frontegg.com
 portal.indeedflex.com
@@ -7270,7 +7161,6 @@ preprod2.monespacesante.fr
 prequal.swiftfinancial.com
 presentationtracking.netflix.com
 press.priceline.com
-press.sentiance.com
 prime.amazon.*
 prime.coinbase.com
 primenow.amazon.*
@@ -7324,8 +7214,6 @@ qa1-apigateway.vidaxl.io
 qatest.nl
 qwantjunior.com
 r.etoro.com
-raamdecoratieconfigurator.gamma.be
-raamdecoratieconfigurator.gamma.nl
 rankings.etoro.com
 rari.foundation
 rarible.com
@@ -7334,8 +7222,6 @@ reddit.secure.force.com
 redditforbusiness.com
 register-accpt.portofantwerp.com
 register-accpt.portofantwerpbruges.com
-register.portofantwerp.com
-register.portofantwerpbruges.com
 registre.notebleue.pro
 registry.gitlab.com
 rei.com
@@ -7379,7 +7265,6 @@ restaurant-api.takeaway.com
 reviewer.pullrequest.com
 rezagent.triseptsolutions.com
 ring.com/*
-ripe(1to87).ripe.net
 rma.ui.com
 ro.superbet.games
 ro.superbet.sport
@@ -7465,7 +7350,6 @@ share.doppler.com
 share.portofantwerp.com
 share.portofantwerpbruges.com
 shavar.services.mozilla.com
-shop.*.be
 shop.adobe.com
 shop.app
 shop.demorgen.be
@@ -7484,7 +7368,6 @@ shop.thuisbezorgd.nl
 shop.tiktok.com
 shop.trouw.nl
 shop.volkskrant.nl
-shop.vtm.be
 shop.wyndhamvacationownership.trisept.travel
 shopbylook.amazon.*
 shopify.plus
@@ -7492,13 +7375,10 @@ shopifyinbox.com
 shoppers.instacart.com
 shoppingcart.shipt.com
 shops-services.vidaxl.org
-signin.truelayer.com
 sijoitusvakuutus.lahitapiola.fi
 simperium.com
 simplenote.com
 siorc.xfinity.com
-sip.innogames.com
-sip.innogames.de
 sketch.pixiv.net
 skills-store.amazon.com
 skinport.com
@@ -7507,7 +7387,6 @@ skyscanner.net/hotels/book/*
 slack-imgs.com
 slack-redir.net
 slack.com
-slack.innogames.de
 slackatwork.com
 slackb.com
 smartinet.xfinity.com
@@ -7578,12 +7457,10 @@ stationapi.veriff.com
 stats.nextcloud.com
 status.adobe.com
 status.delen.be
-status.intigriti.com
 status.larksuite.com
 status.mobile.monash
 status.oasis.io
 status.slack.com
-statuspage.personio.de
 steam.exe
 steamcommunity.com
 stock.adobe.com
@@ -7633,15 +7510,11 @@ support.monespacesante.fr
 support.mozilla.org
 support.newrelic.com
 support.nextcloud.com
-support.personio.de
 support.rockstargames.com
 support.steampowered.com
-support.truelayer.com
 supportal.netlify.app
-surveys.innogames.de
 surveyserver.nextcloud.com
 svn.notebleue.pro
-swag.intigriti.com
 swiftcapital.com
 swiftfinancial.com
 swiss-backup*.infomaniak.com
@@ -7652,7 +7525,6 @@ synthetics.eu.newrelic.com
 synthetics.newrelic.com
 t-mobile.com
 t.co
-t.intigriti.com
 t.swapcard.com
 t.umblr.com
 talk.brave.com
@@ -7715,8 +7587,6 @@ trm.pinelabs.com
 trm.pinepaymentsolutions.com
 truck-api.eu-east-1.indriverapp.com
 truelayer-signing
-truelayer.zendesk.com
-trust.intigriti.com
 try.discourse.org
 tunnistus.lahitapiola.fi
 tunnistus.s-ryhma.fi
@@ -7774,7 +7644,6 @@ vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
 vacations.vallarta.grandvelas.com
 vacations.velasvallarta.com
-vacatures.uzleuven.be
 vault.omise.co
 vcc-*.8x8.com
 vcn-hackerone.affirm-odin.com
@@ -7853,7 +7722,6 @@ webwinkel.parool.nl
 webwinkel.trouw.nl
 webwinkel.volkskrant.nl
 welcome.infomaniak.com
-welcome.intigriti.com
 werkenbijdefensie.nl
 werkenbijderet.nl
 werkenbijdnb.nl
@@ -8132,9 +8000,6 @@ www.pangleglobal.com
 www.parool.nl
 www.parool.nl/abonnementen
 www.paypal-*.com
-www.personio.com
-www.personio.de
-www.personio.es
 www.petbook.de
 www.pineperks.in
 www.pixiv.net
@@ -8170,9 +8035,7 @@ www.samenfittorfs.be
 www.sbbcargo.com
 www.schoenentorfs.be
 www.schoenentorfs.nl
-www.sentiance.com
 www.shipt.com
-www.simscale.com/forum/users/*.json
 www.six-group.com
 www.socialdeal.nl
 www.sokos.fi
@@ -8282,7 +8145,6 @@ www.voiscooters.com
 www.volkskrant.nl
 www.volkskrant.nl/abonnementen
 www.vrbo.com
-www.vznkul.be
 www.watsons.co.id
 www.watsons.co.th
 www.watsons.com.hk

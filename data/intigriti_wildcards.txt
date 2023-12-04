@@ -52,7 +52,6 @@
 *.kinepolis.nl
 *.landmarkcinemas.com
 *.mjrtheatres.com
-*.cineramabios.nl
 *.lansweeper.com
 *.libelle.nl
 *.mas.mobilevikings.be
@@ -81,9 +80,6 @@
 *.portofantwerp.com
 *.portofantwerpbruges.com
 *.ripe.net
-*.anchors.atlas.ripe.net
-*.probes.atlas.ripe.net
-Any *.ripe.net host that is located outside of the in-scope IP ranges
 *.rhinternal.net
 *.robinhood.com
 *.robinhood.net
@@ -92,12 +88,8 @@ Any *.ripe.net host that is located outside of the in-scope IP ranges
 *.saytechnologies.com
 *.say.rocks
 *.sentiance.com
-www.simscale.com/forum/users/*.json
 *.sqills.com
 *.sqills.team
-*.red.sqills.team
-booking.*.cloud.sqills.com
-booking.*.sqills.com
 *.aroundtheworld.tomorrowland.com
 *.tomorrowland.com
 *.trouw.nl
@@ -115,7 +107,6 @@ booking.*.sqills.com
 *idp*.uzleuven.be
 *stag*.uzleuven.be
 *.uphold.com
-shop.*.be
 *.vtm.be
 *.vtmgo.be
 *.veriff.com
@@ -130,6 +121,3 @@ shop.*.be
 *.ibood.io
 *.ibood.com
 service-*.ibood.com
-*.intigriti.io
-*.intigriti.me
-*.intigriti.net
