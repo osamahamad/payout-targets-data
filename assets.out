@@ -15,7 +15,6 @@
  com.citymapper.app.release
  developers.vendhq.com
  https://api.ibops.net/ad-management
- https://github.com/crypto-org-chain/chain-main
  https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/entitlements
  meechum.netflix.com
  tsock.us1.twilio.com
@@ -3695,7 +3694,6 @@ crisp.ninja
 crm.clario.co
 crm.nextcloud.com
 cruises.priceline.com
-crypto.org
 cryptology.com
 cryptowallet.opera-api.com
 cs.money
@@ -7529,7 +7527,6 @@ test.rarible.com
 testapi.redoxengine.com
 testapp.redoxengine.com
 testing.maventa.com
-testnet-croeseid-4.crypto.org
 testnet.bitmex.com
 testnet.immutable.com
 tf2.exe
