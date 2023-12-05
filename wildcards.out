@@ -170,6 +170,7 @@
 *.coinmetro.com
 *.coinsbit.io
 *.comcast.com
+*.contactallerg(y|ie).uzleuven.be
 *.contentsquare.com
 *.cornershop.io/*
 *.cornershopapp.com/*
@@ -423,6 +424,7 @@
 *.kortathjonustan.is
 *.krisp.ai
 *.kucoin.com
+*.kwsdose.be
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.landmarkcinemas.com
@@ -494,6 +496,7 @@
 *.metrobyt-mobile.com
 *.mevo.com
 *.mi.com
+*.mir.uzleuven.be
 *.miui.com
 *.miwifi.com
 *.mixamo.com
@@ -598,6 +601,7 @@
 *.platformservices.io
 *.playlist.link
 *.playstation.net
+*.playuzleuven.be
 *.pods.link
 *.popjam.com
 *.portofantwerp.com
@@ -829,6 +833,7 @@
 *.unrealtournament.com
 *.unscreen.com
 *.uphold.com
+*.uzleuven.*
 *.vacationhomerentals.com
 *.venmo.com
 *.vennhypotheken.nl
@@ -894,7 +899,9 @@
 *.zomans.com
 *.zomato.com
 *ensemble*.yahoo.com
+*idp*.uzleuven.be
 *omega*.yahoo.com
+*stag*.uzleuven.be
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 B2 APIs (*.backblazeb2.com)
