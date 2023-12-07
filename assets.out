@@ -1283,7 +1283,6 @@ Any public cloud resource or infrastructure operated and managed by REI.
 Any publicly accessible TripAdvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
 Any publicly facing host owned by Etsy, including the below:
 Any related DPG media domain
-Any related Torfs domain
 Any resource created or accessed with the Outscale Cloud, on all regions
 Any subdomain application issue
 Any subdomain infrastructure issue
@@ -7716,7 +7715,6 @@ wiki.portofantwerpbruges.com
 wiki.teamfortress.com
 wiki.ui.com
 winecellar.zomato.com
-winkels.torfs.be
 winterpackages.tomorrowland.com
 wise.com
 wonderboxapi.com
@@ -8007,10 +8005,7 @@ www.ritzcarlton.com/
 www.rocaton.com
 www.s-kaupat.fi
 www.s-pankki.fi
-www.samenfittorfs.be
 www.sbbcargo.com
-www.schoenentorfs.be
-www.schoenentorfs.nl
 www.shipt.com
 www.six-group.com
 www.socialdeal.nl
@@ -8050,8 +8045,6 @@ www.thumbzilla.com
 www.tide.co
 www.tink.com
 www.tomorrowland.com
-www.torfs.be
-www.torfs.nl
 www.trafficfactory.com
 www.transsicura.ch
 www.travelbook.de
