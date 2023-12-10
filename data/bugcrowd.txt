@@ -131,15 +131,15 @@ Atlassian Start (https://start.atlassian.com)
 Bamboo
 Beacon
 Bitbucket Cloud including Bitbucket Pipelines (https://bitbucket.org)
-Bitbucket Server
+Bitbucket Data Center
 Confluence Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)
 Confluence Cloud Mobile App for Android
 Confluence Cloud Mobile App for iOS
 Confluence Cloud Premium (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)
 Confluence Companion App for macOS and Windows
 Confluence Data Center
-Confluence Server Mobile App for Android
-Confluence Server Mobile App for iOS
+Confluence Data Center Mobile App for Android
+Confluence Data Center Mobile App for iOS
 Crowd
 Crucible
 FishEye
@@ -147,14 +147,14 @@ Forge Platform
 GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)
 Jira Cloud Mobile App for Android
 Jira Cloud Mobile App for iOS
-Jira Core Server
+Jira Core Data Center
+Jira Data Center Mobile App for Android
+Jira Data Center Mobile App for iOS
 Jira Product Discovery
-Jira Server Mobile App for Android
-Jira Server Mobile App for iOS
 Jira Service Management Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)
-Jira Service Management Server
+Jira Service Management Data Center
 Jira Software Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)
-Jira Software Server
+Jira Software Data Center
 Jira Work Management Cloud formerly Jira Core (bugbounty-test-<bugcrowd-name>.atlassian.net)
 Other - (all other Atlassian targets)
 Sourcetree for macOS and Windows (https://www.sourcetreeapp.com/)
@@ -791,9 +791,8 @@ https://www.bluejeans.com/
 https://www.bluejeans.com/downloads
 https://www.bluejeans.com/downloads
 https://www.bluejeans.com/downloads
-http://security-testing-env-dashboard.k8s.test-001.d-usw-2.braze.com
-https://bug-bounty.braze.com/
-https://security-testing-env-api.k8s.test-001.d-usw-2.braze.com/
+https://security-testing-env-api.k8s.tools-001.d-use-1.braze.com/
+https://security-testing-env-dashboard.k8s.tools-001.d-use-1.braze.com/
 Crowdcontrol
 api.bugcrowd.com
 bugcrowd.com
@@ -1913,7 +1912,6 @@ https://www.oculus.com/experiences/quest/2173678582678296
 https://www.oculus.com/experiences/rift/1257029974329451
 https://www.xbox.com/en-us/games/store/rec-room/9pgpqk0xthrz
 iOS
-https://domains.dotgov.gov
 Electroneum Android App
 Electroneum iOS App
 Legacy Blockchain 

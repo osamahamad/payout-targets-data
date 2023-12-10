@@ -41,6 +41,59 @@ https://github.com/aurora-is-near/aurora-engine/tree/master/etc/eth-contracts
 https://github.com/aurora-is-near/aurora-engine/tree/develop/etc/eth-contracts
 https://github.com/aurora-is-near/sputnikvm
 https://aurora.plus/
+Prod contract address: BTC.b
+Prod contract address: 1INCH.e
+Prod contract address: AAVE.e
+Prod contract address: ALPHA.e
+Prod contract address: BAT.e
+Prod contract address: BUSD.e
+Prod contract address: COMP.e
+Prod contract address: CRV.e
+Prod contract address: DAI.e
+Prod contract address: GRT.e
+Prod contract address: LINK.e
+Prod contract address: MKR.e
+Prod contract address: SHIB.e
+Prod contract address: SNX.e
+Prod contract address: SUSHI.e
+Prod contract address: SWAP.e
+Prod contract address: UMA.e
+Prod contract address: UNI.e
+Prod contract address: USDC.e
+Prod contract address: USDT.e
+Prod contract address: WBTC.e
+Prod contract address: WETH.e
+Prod contract address: WOO.e
+Prod contract address: YFI.e
+Prod contract address: ZRX.e
+Prod EVM Bridge Enclave Address: Avalanche
+Prod BTC Bridge Enclave Address: Avalanche
+Prod EVM Bridge Enclave Address: Ethereum
+Prod BTC Bridge Enclave Address: Bitcoin
+Testnet bridge front end for testing
+Testnet EVM Bridge Enclave address: Avalanche:
+Testnet Bridge Enclave address: Ethereum (Goerli)
+Testnet Bridge Enclave address: Bitcoin
+Testnet contract address (subject to change): BTC.b
+Testnet contract address (subject to change): DAI.e
+Testnet contract address (subject to change): LINK.e
+Testnet contract address (subject to change): USDC.e
+Testnet contract address (subject to change): USDT.e
+Testnet contract address (subject to change): WBTC.e
+Testnet contract address (subject to change): WETH.e
+Prod bridge front end (reporting only - please test on testnet)
+Enclave server (please test on testnet only)
+Ava Labs Warden server and blob storage endpoints (please test on testnet only)
+Testnet Bridge Enclave Address: Avalanche
+AvalancheGo
+Coreth
+subnet-evm
+api.avax.network
+api.avax-test.network
+support.avalabs.org
+Avalanche-Wallet
+AvalancheJS
+Avalanche-Wallet-SDK
 www.bkex.com
 https://bkexapi.github.io/docs/api_zh.htm
 https://play.google.com/store/apps/details?id=com.yayd.exchangglobal
@@ -142,6 +195,9 @@ https://api.coinstore.com/api
 wss://ws.coinstore.com/s/ws
 https://futures.coinstore.com/api
 wss://ws-futures.coinstore.com/socket.io/
+Core Browser Extension
+Core Web Wallet
+Core Android App
 cryptology.com
 https://docs.cryptology.com/
 https://play.google.com/store/apps/details?id=com.cryptology.flutter
@@ -510,60 +566,4 @@ https://www.xt.com
 https://doc.xt.com
 https://apps.apple.com/app/apple-store/id1556596708
 https://play.google.com/store/apps/details?id=com.app.xt
-Prod contract address: BTC.b
-Prod contract address: 1INCH.e
-Prod contract address: AAVE.e
-Prod contract address: ALPHA.e
-Prod contract address: BAT.e
-Prod contract address: BUSD.e
-Prod contract address: COMP.e
-Prod contract address: CRV.e
-Prod contract address: DAI.e
-Prod contract address: GRT.e
-Prod contract address: LINK.e
-Prod contract address: MKR.e
-Prod contract address: SHIB.e
-Prod contract address: SNX.e
-Prod contract address: SUSHI.e
-Prod contract address: SWAP.e
-Prod contract address: UMA.e
-Prod contract address: UNI.e
-Prod contract address: USDC.e
-Prod contract address: USDT.e
-Prod contract address: WBTC.e
-Prod contract address: WETH.e
-Prod contract address: WOO.e
-Prod contract address: YFI.e
-Prod contract address: ZRX.e
-Prod EVM Bridge Enclave Address: Avalanche
-Prod BTC Bridge Enclave Address: Avalanche
-Prod EVM Bridge Enclave Address: Ethereum
-Prod BTC Bridge Enclave Address: Bitcoin
-Testnet bridge front end for testing
-Testnet EVM Bridge Enclave address: Avalanche:
-Testnet Bridge Enclave address: Ethereum (Goerli)
-Testnet Bridge Enclave address: Bitcoin
-Testnet contract address (subject to change): BTC.b
-Testnet contract address (subject to change): DAI.e
-Testnet contract address (subject to change): LINK.e
-Testnet contract address (subject to change): USDC.e
-Testnet contract address (subject to change): USDT.e
-Testnet contract address (subject to change): WBTC.e
-Testnet contract address (subject to change): WETH.e
-Prod bridge front end (reporting only - please test on testnet)
-Enclave server (please test on testnet only)
-Ava Labs Warden server and blob storage endpoints (please test on testnet only)
-Testnet Bridge Enclave Address: Avalanche
-AvalancheGo
-Coreth
-subnet-evm
-api.avax.network
-api.avax-test.network
-support.avalabs.org
-Avalanche-Wallet
-AvalancheJS
-Avalanche-Wallet-SDK
-Core Browser Extension
-Core Web Wallet
-Core Android App
 https://bitcastle.io/en

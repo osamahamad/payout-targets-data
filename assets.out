@@ -215,6 +215,7 @@
 *.creditkarma.com
 *.crossclip.com
 *.crowdstrike.com
+*.crypto.com
 *.cryptology.com
 *.cryptopunks.app
 *.cubicmotion.com
@@ -538,6 +539,7 @@
 *.mmcdn.com
 *.mobilevikings.be
 *.mobilitygraph.hereapi.com
+*.mona.co
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -1283,6 +1285,7 @@ Any public cloud resource or infrastructure operated and managed by REI.
 Any publicly accessible TripAdvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
 Any publicly facing host owned by Etsy, including the below:
 Any related DPG media domain
+Any related Torfs domain
 Any resource created or accessed with the Outscale Cloud, on all regions
 Any subdomain application issue
 Any subdomain infrastructure issue
@@ -1437,8 +1440,8 @@ Bitbucket Cloud Migration Assistant - Data Center - https://marketplace.atlassia
 Bitbucket Cloud Migration Assistant - Server - https://marketplace.atlassian.com/apps/1226610/bitbucket-cloud-migration-assistant?hosting=server
 Bitbucket Cloud for Slack (Official) - Cloud - https://marketplace.atlassian.com/apps/1218781/bitbucket-cloud-for-slack-official?hosting=cloud
 Bitbucket Cloud including Bitbucket Pipelines (https://bitbucket.org)
+Bitbucket Data Center
 Bitbucket Pipelines for Jira - Cloud - https://marketplace.atlassian.com/apps/1220820/bitbucket-pipelines-for-jira?hosting=cloud
-Bitbucket Server
 Bitbucket Server Backup Client - Server - https://marketplace.atlassian.com/apps/1211500/bitbucket-server-backup-client?hosting=server
 Bitbucket Server Protect Unmerged Hook - Data Center - https://marketplace.atlassian.com/apps/1211203/bitbucket-server-protect-unmerged-hook?hosting=datacenter
 Bitbucket Server Protect Unmerged Hook - Server - https://marketplace.atlassian.com/apps/1211203/bitbucket-server-protect-unmerged-hook?hosting=server
@@ -1572,9 +1575,9 @@ Confluence Cloud for Slack (Official) - Cloud - https://marketplace.atlassian.co
 Confluence Cloud for Slack - Cloud - https://marketplace.atlassian.com/apps/1219498/confluence-cloud-for-slack?hosting=cloud
 Confluence Companion App for macOS and Windows
 Confluence Data Center
+Confluence Data Center Mobile App for Android
+Confluence Data Center Mobile App for iOS
 Confluence Issue Tab Plugin for Jira - Server - https://marketplace.atlassian.com/apps/1211312/confluence-issue-tab-plugin-for-jira?hosting=server
-Confluence Server Mobile App for Android
-Confluence Server Mobile App for iOS
 Confluence Server for Slack (Official) - DataCenter - https://marketplace.atlassian.com/apps/1220186/confluence-server-for-slack-official?hosting=datacenter
 Confluence Server for Slack (Official) - Sever - https://marketplace.atlassian.com/apps/1220186/confluence-server-for-slack-official?hosting=server
 Confluence Slack Automation Integration by Halp - Cloud - https://marketplace.atlassian.com/apps/1222365/confluence-slack-automation-integration-by-halp?hosting=cloud
@@ -1769,6 +1772,7 @@ GitHub for mobile
 GitHub repositories
 GitHub webhooks for Fisheye - Server - https://marketplace.atlassian.com/apps/1223584/github-webhooks-for-fisheye?hosting=server
 GitLab and GitHub repos listed on this page
+GitLab for Jira Cloud
 GlotPress
 Go TTC
 Go agent
@@ -1872,19 +1876,19 @@ Jira Cloud for Microsoft Teams - Cloud - https://marketplace.atlassian.com/apps/
 Jira Cloud for Outlook (Official) - Cloud - https://marketplace.atlassian.com/apps/1220666/jira-cloud-for-outlook-official?hosting=cloud
 Jira Cloud for Slack (Official) - Cloud - https://marketplace.atlassian.com/apps/1216863/jira-cloud-for-slack-official?hosting=cloud&tab=overview
 Jira Cloud for Slack - Cloud - https://marketplace.atlassian.com/apps/1215948/jira-cloud-for-slack?hosting=cloud
-Jira Core Server
+Jira Core Data Center
+Jira Data Center Mobile App for Android
+Jira Data Center Mobile App for iOS
 Jira Enterprise Scale Assessment Tool - DataCenter - https://marketplace.atlassian.com/apps/1227744/jira-enterprise-scale-assessment-tool?hosting=datacenter&tab=overview
 Jira Enterprise Scale Assessment Tool - Server - https://marketplace.atlassian.com/apps/1227744/jira-enterprise-scale-assessment-tool?hosting=server
 Jira Product Discovery
-Jira Server Mobile App for Android
-Jira Server Mobile App for iOS
 Jira Server for Slack (Official) - DataCenter - https://marketplace.atlassian.com/apps/1220099/jira-server-for-slack-official?hosting=datacenter
 Jira Server for Slack (Official) - Server - https://marketplace.atlassian.com/apps/1220099/jira-server-for-slack-official?hosting=server
 Jira Service Management Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)
-Jira Service Management Server
+Jira Service Management Data Center
 Jira Service Management Widget - Cloud - https://marketplace.atlassian.com/apps/1217230/jira-service-management-widget?hosting=cloud
 Jira Software Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)
-Jira Software Server
+Jira Software Data Center
 Jira Trello Power-Up - Cloud - https://marketplace.atlassian.com/apps/1216625/jira-trello-power-up?hosting=cloud
 Jira Work Management Cloud formerly Jira Core (bugbounty-test-<bugcrowd-name>.atlassian.net)
 Jira to Jira Issue Copy - Server - https://marketplace.atlassian.com/apps/678725/jira-to-jira-issue-copy?hosting=server
@@ -2155,7 +2159,6 @@ Other
 Other (Misc)
 Other (misc)
 Other - (all other Atlassian targets)
-Other - Please describe
 Other APK Assets
 Other Acronis Domains
 Other Acronis executables
@@ -3309,6 +3312,7 @@ code.yoti.com
 codex.one
 codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
 cognito-idp.eu-west-1.amazonaws.com
+coinbase.com
 coinmarketcap.com
 coldfusion.adobe.com
 com.1debit.ChimeProdApp
@@ -4076,6 +4080,7 @@ http://app.scaleft.com/
 http://artists.soundcloud.com/
 http://backend-api.devicecloud.production.forescoutcloud.net/api/v1/settings
 http://bitso.com/alpha
+http://coinbase.com
 http://datapod-1-druid-ingest.production.forescoutcloud.net/v1/upload
 http://datapod-1-druid-query.production.forescoutcloud.net/v1/polling
 http://datapod-1-druid-query.production.forescoutcloud.net/v1/query/agg
@@ -4122,7 +4127,6 @@ http://rei.com/rei-garage
 http://rosetta.oasis.dev/api/mainnet
 http://sapphire.oasis.io
 http://secure.netflix.com
-http://security-testing-env-dashboard.k8s.test-001.d-usw-2.braze.com
 http://skinport.com/blog/
 http://socialdeal.nl/inspirations/bluemonday/
 http://stage.nl.echobox.dev/
@@ -4515,7 +4519,6 @@ https://bscscan.com/address/0xb891Aeb2130805171796644a2af76Fc7Ff25a0b9
 https://bscscan.com/address/0xcB0620b181140e57D1C0D8b724cde623cA963c8C
 https://bscscan.com/address/0xec203E7676C45455BF8cb43D28F9556F014Ab461
 https://bscscan.com/token/0x5C65BAdf7F97345B7B92776b22255c973234EfE7
-https://bug-bounty.braze.com/
 https://bugcrowd.com/programs
 https://bugcrowd.hotdoc.com.au
 https://bugcrowd.hotdoc.com.au (Patients)
@@ -4657,7 +4660,6 @@ https://docs.keeper.io/sso-connect-guide/
 https://docs.mapbox.com/android/
 https://docs.mapbox.com/api/
 https://docs.mapbox.com/ios/maps/overview/
-https://domains.dotgov.gov
 https://domainscope.com/ 
 https://donate.mastercard.com
 https://download.bkexer.xin/app/download/android/app-release.apk
@@ -5929,7 +5931,8 @@ https://secure.neogov.com
 https://secure.westernunion.com
 https://secureauth.westernunion.com
 https://securemail.usaa.com
-https://security-testing-env-api.k8s.test-001.d-usw-2.braze.com/
+https://security-testing-env-api.k8s.tools-001.d-use-1.braze.com/
+https://security-testing-env-dashboard.k8s.tools-001.d-use-1.braze.com/
 https://seekcdn.com
 https://segment.com/docs/sources/
 https://selector.viator.com
@@ -6553,6 +6556,7 @@ internal-api.larksuite.com
 internal-docs.netlify.com
 internal.netlify.com
 internal.whitebit.com
+international.coinbase.com
 interseller.io
 interviews.monash.edu
 intigriti.voipgrid.nl
@@ -7047,7 +7051,6 @@ outage.logitech.com
 outagehistory.logitech.com
 p.grabtaxi.com
 pabets.tvg.com
-paradex.io
 partner.apps.monash.edu
 partner.logitech.com
 partner.steamgames.com
@@ -7715,6 +7718,7 @@ wiki.portofantwerpbruges.com
 wiki.teamfortress.com
 wiki.ui.com
 winecellar.zomato.com
+winkels.torfs.be
 winterpackages.tomorrowland.com
 wise.com
 wonderboxapi.com
@@ -8005,7 +8009,10 @@ www.ritzcarlton.com/
 www.rocaton.com
 www.s-kaupat.fi
 www.s-pankki.fi
+www.samenfittorfs.be
 www.sbbcargo.com
+www.schoenentorfs.be
+www.schoenentorfs.nl
 www.shipt.com
 www.six-group.com
 www.socialdeal.nl
@@ -8045,6 +8052,8 @@ www.thumbzilla.com
 www.tide.co
 www.tink.com
 www.tomorrowland.com
+www.torfs.be
+www.torfs.nl
 www.trafficfactory.com
 www.transsicura.ch
 www.travelbook.de
