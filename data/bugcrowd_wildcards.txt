@@ -85,6 +85,35 @@ Internal Web services - *.internal.exoscale.ch
 *.intercomassets.com / *.intercomcdn.com
 *.jora.com
 *.jora.xyz
+*.10bis.co.il
+*.beta.scoober.com
+*.bistro.sk
+*.citymeal.com
+*.eat.ch
+*.je-apis.com - UK legacy API
+*.just-data.io
+*.just-eat.co.uk - UK food ordering
+*.just-eat.com 
+*.just-eat.dk
+*.just-eat.es - Spain food ordering
+*.just-eat.fr
+*.just-eat.ie - Ireland food ordering
+*.just-eat.io
+*.just-eat.it - Italy food ordering
+*.just-eat.no
+*.justeat-int.com
+*.justeattakeaway.com
+*.lieferando.at
+*.lieferando.de
+*.menulog.co.nz - New Zealand food ordering
+*.menulog.com.au - Australia food ordering
+*.pyszne.pl
+*.scoober.com
+*.skipthedishes.com - Canada food ordering
+*.takeaway.com
+*.thuisbezorgd.nl
+*.yourdelivery.de
+*.takeawayriders.com/ 
 *.designify.com
 *.kaleido.ai
 *.remove.bg
@@ -182,35 +211,6 @@ api-*.soundcloud.com
 *.metrobyt-mobile.com
 *.sprint.com
 *.t-mobile.com
-*.10bis.co.il
-*.beta.scoober.com
-*.bistro.sk
-*.citymeal.com
-*.eat.ch
-*.je-apis.com - UK legacy API
-*.just-data.io
-*.just-eat.co.uk - UK food ordering
-*.just-eat.com 
-*.just-eat.dk
-*.just-eat.es - Spain food ordering
-*.just-eat.fr
-*.just-eat.ie - Ireland food ordering
-*.just-eat.io
-*.just-eat.it - Italy food ordering
-*.just-eat.no
-*.justeat-int.com
-*.justeattakeaway.com
-*.lieferando.at
-*.lieferando.de
-*.menulog.co.nz - New Zealand food ordering
-*.menulog.com.au - Australia food ordering
-*.pyszne.pl
-*.scoober.com
-*.skipthedishes.com - Canada food ordering
-*.takeaway.com
-*.thuisbezorgd.nl
-*.yourdelivery.de
-*.takeawayriders.com/ 
 *.solarcity.com
 *.tesla.cn
 *.tesla.com
