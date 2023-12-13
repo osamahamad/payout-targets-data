@@ -149,6 +149,7 @@
 *.bokundemo.com
 *.bokuntest.com
 *.bonne-terre-data-layer.com
+*.booking.com
 *.boozt.com
 *.booztlet.com
 *.boredapeyachtclub.com
@@ -685,6 +686,7 @@
 *.reflexion.net
 *.registry.eu
 *.remove.bg
+*.rentalcars.com
 *.reposify.com
 *.restintergamma.nl
 *.rhinternal.net
@@ -4128,6 +4130,7 @@ http://rei.com/learn/expert-advice
 http://rei.com/rei-garage
 http://rosetta.oasis.dev/api/mainnet
 http://sapphire.oasis.io
+http://secure-iphone-xml.booking.com/json/
 http://secure.netflix.com
 http://skinport.com/blog/
 http://socialdeal.nl/inspirations/bluemonday/
@@ -5933,6 +5936,7 @@ https://sandbox.open-xchange.com
 https://sapi-live.lh.us-west-2.prd.23andme.us
 https://screenplayer.20min.ch
 https://sec-test-<intigriti handle>-<nn>.personio.de
+https://secure-iphone-xml.booking.com/json/
 https://secure.indeed.com
 https://secure.mypass.de/
 https://secure.neogov.com
@@ -6547,6 +6551,7 @@ img.ibood.com
 img.swapcard.com
 imx.community
 inapp.clario.co
+indicative-pricing.taxi.booking.com
 infomaniak.events
 infrastructure.eu.newrelic.com
 infrastructure.newrelic.com
@@ -6640,6 +6645,7 @@ kumulus.uzleuven.be
 kuna.io
 kundenstimme.sbb.ch
 kws-companion/id1342124012
+kyc-onboarding.booking.com
 kyc-src.etoro.com
 kyc.etoro.com
 kz.kolesa
@@ -7087,12 +7093,15 @@ pay.crypto.com
 pay.ibex.exchange
 pay.truelayer[-sandbox].com
 pay.unity.com
+paybridge.booking.com
 paydirect.truelayer[-sandbox].com
 payment-connectors.vendhq.com
 payment.deezer.com
 payment.pixiv.net
 payment.truelayer[-sandbox].com
+paymentcomponent.booking.com
 payments.amazon.*
+paynotifications.booking.com
 payouts.truelayer[-sandbox].com
 paypal.me
 paypalobjects.com
@@ -7105,6 +7114,7 @@ pentesting2.gethypr.com
 pentesting3.gethypr.com
 peopleview.naspers.com
 phabricator.allizom.org
+phone-validation.taxi.booking.com
 photos.amazon.*
 photoshop.com
 piaservers.com
@@ -7492,6 +7502,7 @@ suggestions.opera-api.com
 super-services.indriverapp.com
 super6.skysports.com
 supplier.auth.toag.booking.com
+supply-xml.booking.com
 support-api.airbnb.com
 support.avalabs.org
 support.creditkarma.ca
@@ -7528,6 +7539,7 @@ tapi-demo.etoro.com
 tapi-real.etoro.com
 tax.crypto.com
 taxi.booking.com
+taxis.booking.com
 team-irc.irccloud.com
 team.swapcard.com
 teams.krisp.ai
