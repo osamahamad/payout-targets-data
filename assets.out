@@ -583,6 +583,10 @@
 *.nordvpn.com
 *.nr-data.net
 *.nr-ops.net
+*.nu.com.co	
+*.nu.com.mx	
+*.nubank.com.br	
+*.nuinvest.com.br	
 *.octopus.com
 *.oda.com
 *.odcdn.com.au
@@ -2104,6 +2108,8 @@ NordVPN - Linux Executable
 NordVPN - MacOS Executable
 NordVPN - Windows Executable
 NordVPN Browser Extension
+Nubank Android: Playstore
+Nubank iOS App
 OKT Chain
 OKX Wallet Chrome Extension
 OKX Wallet Edge Add-ons
@@ -4345,6 +4351,7 @@ https://apps.apple.com/au/app/certsy/id1617796159
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
+https://apps.apple.com/br/app/nubank-conta-e-cart%C3%A3o/id814456780
 https://apps.apple.com/ca/app/credit-karma/id1398558151?ls=1
 https://apps.apple.com/ch/app/die-post/id378676700
 https://apps.apple.com/fr/app/blablalines-covoiturage/id1225543288
@@ -5661,6 +5668,8 @@ https://net.geo.opera.com
 https://newsletter.thuisbezorgd.nl
 https://nice.wfmusaa.com
 https://nmtracking.netflix.com
+https://nu.com.mx/
+https://nubank.com.br/
 https://nvoice.usaa.com/
 https://octopus.com
 https://octopus.com/downloads
@@ -5795,6 +5804,7 @@ https://play.google.com/store/apps/details?id=com.moonpay
 https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.nicehash.metallum&hl=en
 https://play.google.com/store/apps/details?id=com.nth.swisspost&hl=de_CH&gl=US
+https://play.google.com/store/apps/details?id=com.nu.production&hl=pt_BR&gl=US&pli=1
 https://play.google.com/store/apps/details?id=com.okinc.okcoin.intl
 https://play.google.com/store/apps/details?id=com.okta.android.auth&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.opera.app.news
@@ -6317,6 +6327,7 @@ https://www.naspers.com
 https://www.networksolutions.com
 https://www.npmjs.com/package/@forge/cli
 https://www.npmjs.com/package/@forge/cli	
+https://www.nuinvest.com.br/
 https://www.oculus.com/experiences/quest/2173678582678296
 https://www.oculus.com/experiences/rift/1257029974329451
 https://www.okcoin.com/

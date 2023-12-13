@@ -141,6 +141,10 @@ Internal Web services - *.internal.exoscale.ch
 *.prod.dradis.netflix.com
 *.prod.ftl.netflix.com
 api*.netflix.com
+*.nu.com.co	
+*.nu.com.mx	
+*.nubank.com.br	
+*.nuinvest.com.br	
 *.octopus.com
 *.openai.com
 *.openai.org
