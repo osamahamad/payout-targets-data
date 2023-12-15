@@ -559,6 +559,7 @@
 *.napoleondice.be
 *.napoleongames.be
 *.napoleonsports.be
+*.naspers.com
 *.neat.com.hk
 *.neat.hk
 *.neat.wtf
@@ -659,6 +660,7 @@
 *.prod.ftl.netflix.com
 *.prod.nube.tech
 *.proofhq.com
+*.prosus.com
 *.prowly.com
 *.psynet.gg
 *.psyonix.com
@@ -3111,7 +3113,6 @@ aw.visa.com
 aweb.suivo.com
 aws.indrive.tech
 ax-stage.maventa.com
-azreporting.naspers.com/vpn/index.html
 b2b.tvgnetwork.com
 b2b.vidaxl.com
 b2bapi-a.usaa.com
@@ -3736,6 +3737,7 @@ dashboard2.omise.co
 data.ketnet.be
 data.mail.yahoo.com
 data.ninjakiwi.com
+data.prosus.com
 data.rarible.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
@@ -4071,6 +4073,7 @@ horizonchaseturbo.com
 hostgator.com.br/
 hotel-deals.marriott.com
 hotornot.com
+hr.prosus.com
 ht.pornhub.com
 ht.visa.com
 http://(yoursubdomain).sharefile.com/sf/v3/
@@ -4119,6 +4122,7 @@ http://member-qa.chime.com/users/sign_in
 http://mgmtpod-1.production.forescoutcloud.net/oauth/token
 http://miro.com/app
 http://miro.com/blog
+http://nav.naspers.com/
 http://play.google.com/store/apps/details?id=fr.doctolib.www
 http://portfolio.metamask.io
 http://prosus.com
@@ -4132,6 +4136,7 @@ http://secure-iphone-xml.booking.com/json/
 http://secure.netflix.com
 http://skinport.com/blog/
 http://socialdeal.nl/inspirations/bluemonday/
+http://speakup.naspers.com/
 http://stage.nl.echobox.dev/
 http://stage.sl.echobox.dev/
 http://vimeo.com/api
@@ -4461,7 +4466,6 @@ https://auth.wyze.com
 https://authn.usaa.com/
 https://authy.com/download/
 https://autoupdate.geo.opera.com
-https://azreporting.naspers.com/vpn/index.html
 https://b2bapi-a.usaa.com
 https://b2bapi.usaa.com
 https://b2blsapi-a.usaa.com
@@ -4616,6 +4620,7 @@ https://dashboard.sendbird.com/
 https://dashboard.stag.henchman.io
 https://dashboard.unity3d.com
 https://data.coda.io/*
+https://data.prosus.com/
 https://datadome.co
 https://dataportal.originenergy.com.au
 https://dbc-a1ba5468-749b.staging.cloud.databricks.com/
@@ -5169,6 +5174,7 @@ https://hipaa.staging.gearset.com/
 https://hk.westernunion.com
 https://home.classdojo.com
 https://home.xfinity.com
+https://hr.prosus.com/
 https://hub.immutable.com/
 https://huddle.bluejeans.com
 https://hug.personio.com
@@ -6902,6 +6908,8 @@ mynk.ninjakiwi.com
 myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
 myvpn.usaa.com
+naspers.com
+nav.naspers.com
 near.org
 neoket.net
 nessus.fr.cloud.gov
@@ -7395,6 +7403,7 @@ soundcloud.org
 sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com
 spaces.pm
 spark.adobe.com
+speakup.naspers.com
 spectacles.com
 speeddials.opera.com
 speedtest.xfinity.com
@@ -7966,7 +7975,6 @@ www.mrjet.se
 www.mundi.com.br
 www.myetherwallet.com
 www.myhomebook.de
-www.naspers.com
 www.netflix.com
 www.networksolutions.com
 www.omise.co
