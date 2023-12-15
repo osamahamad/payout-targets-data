@@ -396,6 +396,7 @@
 *.imtbl.com
 *.incapsula.com
 *.indeed.com
+*.indeed.net
 *.indeed.tech
 *.indeedflex.com
 *.indrive.com
@@ -2720,7 +2721,6 @@ admin.booking.com
 admin.foxy.io
 admin.foxycart.com
 admin.fr.cloud.gov
-admin.indeedflex.com
 admin.instacart.com
 admin.rarible.com
 admin.rezserver.com
@@ -2729,7 +2729,6 @@ admin.shipt.com
 admin.shopify.com
 admin.smartsheet.com
 admin.stage.vismaonline.com
-admin.syftapp.com
 admin.wickr.com
 admincms.monespacesante.fr
 adminconsole.adobe.com
@@ -2745,7 +2744,6 @@ advocates.databricks.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
 aemdam.usaa360.com
 affiliate-program.amazon.com
-agency.indeedflex.com
 agents.tasheer.com
 agents.vfstasheel.com
 aggregator.etoro.com
@@ -4174,7 +4172,6 @@ https://[your-subdomain].kennasecurity.com
 https://a2m.bluejeans.com
 https://aax.com
 https://account.bitpanda.com
-https://account.indeed.com
 https://account.post.ch
 https://account.t-mobile.com
 https://account.withings.com
@@ -4193,13 +4190,10 @@ https://admin.atlassian.com/
 https://admin.atlassian.com/atlassian-access
 https://admin.foxy.io/
 https://admin.foxycart.com
-https://admin.indeedflex.com/
 https://admin.moneyboxapp.org/
-https://admin.syftapp.com/
 https://admin3.pentest.clicsante.ca
 https://aemdam.usaa360.com/
 https://affiliate.cryptology.com/
-https://agency.indeedflex.com/
 https://agent.apps.monash.edu/
 https://agentportal.westernunion.com
 https://airflow-prod.coda.io/*
@@ -4215,7 +4209,6 @@ https://ampol.com.au/
 https://ampolenergy.com.au
 https://analytics-admin.prosus.com
 https://analytics.cloud.unity3d.com
-https://analytics.indeed.com
 https://analytics.neogov.com
 https://analytics.welcomesoftware.com/
 https://anytask.thesecurityteam.rocks
@@ -4502,7 +4495,6 @@ https://basescan.org/address/0xdd4536dD9636564D891c919416880a3e250f975A
 https://beacon.netflix.com
 https://bigcommerce.com/blog
 https://bigcommerce.com/make-it-big
-https://billing.indeed.com
 https://billingonline.post.ch/OnlinePayment/Web/v1/BOI
 https://billingserver.pinelabs.com/
 https://bingx-api.github.io/docs/swap/introduce.html
@@ -4704,7 +4696,6 @@ https://eim.eu-west-2.outscale.com
 https://electroneum.com/
 https://elementor.com/
 https://elementor.com/*
-https://employers.indeed.com/
 https://en-gb.napoleoncasino.be/wimi/game/play/slug/napoleon-spinner
 https://en-gb.napoleoncasino.be/wimi/game/play/slug/napoleon-spinner-deluxe
 https://en-gb.napoleoncasino.be/wimi/game/play/slug/napoleon-spinner-max
@@ -5209,11 +5200,11 @@ https://ik.imagekit.io/
 https://imagekit.io/
 https://imagekit.io/dashboard
 https://images.caffeine.tv/
+https://indeed.net
 https://indeed.tech
 https://india.westernunion.com
 https://infra.coda.io/*
 https://internal.exoscale.ch
-https://interviews.indeed.com
 https://interviews.monash.edu/
 https://investor.bullish.com
 https://investor.bullish.com/
@@ -5300,7 +5291,6 @@ https://m.bitforex.com/en/download
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
 https://m.csqtrk.net
 https://m.westernunion.com
-https://m5.apply.indeed.com
 https://machinefi.com/
 https://maf-holding-prod.apigee.net
 https://manage.statuspage.io
@@ -5655,7 +5645,6 @@ https://my.elementor.com/
 https://my.exness.com/pa/pim/manager
 https://my.exness.com/pa/socialtrading
 https://my.exness.com/webtrading/
-https://my.indeed.com
 https://my.monash
 https://my.planethoster.com
 https://my.salt.ch
@@ -5908,8 +5897,6 @@ https://polygonscan.com/address/0xD3a69BfaC779AE0D97ae7c4f1Bb77d2Be6C2B943
 https://polygonscan.com/address/0xE0cc76334405EE8b39213E620587d815967af39C
 https://portal.exoscale.com/
 https://portal.ifood.com.br
-https://portal.indeedflex.com
-https://portal.syftapp.com/
 https://portal3.pentest.clicsante.ca
 https://pprd2020.cybermalveillance.gouv.fr
 https://presentationtracking.netflix.com
@@ -5923,7 +5910,6 @@ https://primetime.bluejeans.com
 https://pro.opensea.io/
 https://production.maf.auth0.com
 https://production.maf.auth0.com/api/v2/
-https://profile.indeed.com
 https://profile.pentest.clicsante.ca
 https://prs.payments.r1s-prod.com
 https://public-ipfs-mainnet.ternoa.network
@@ -5941,7 +5927,7 @@ https://rentals.tripadvisor.com
 https://reptox.cnesst.gouv.qc.ca
 https://res.cloudinary.com
 https://research.23andme.com
-https://resumes.indeed.com
+https://resume.com
 https://rewards.gdx.org/
 https://rusadminappt.vfsglobal.com/Global-Admin/
 https://s.contentsquare.net
@@ -5957,7 +5943,6 @@ https://sapi-live.lh.us-west-2.prd.23andme.us
 https://screenplayer.20min.ch
 https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secure-iphone-xml.booking.com/json/
-https://secure.indeed.com
 https://secure.mypass.de/
 https://secure.neogov.com
 https://secure.westernunion.com
@@ -6266,7 +6251,6 @@ https://www.iciparisxl.be/blog/
 https://www.iciparisxl.lu/blog/
 https://www.iciparisxl.nl/blog/
 https://www.ifood.com.br
-https://www.indeed.com
 https://www.indeed.com/
 https://www.intercom.com
 https://www.intercom.com/
@@ -7164,7 +7148,6 @@ playwonderbox.com
 playwonderbox.com.br
 portal-api.coinmarketcap.com
 portal.au.frontegg.com
-portal.indeedflex.com
 portal.nextcloud.com
 portal.polygon.technology
 portal.taxi.booking.com
@@ -7288,6 +7271,7 @@ reservations.rezserver.com
 reservations.wynnvacations.com
 resources.krisp.ai
 restaurant-api.takeaway.com
+resume.com
 reviewer.pullrequest.com
 rezagent.triseptsolutions.com
 ring.com/*
