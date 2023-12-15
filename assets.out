@@ -651,6 +651,7 @@
 *.prd.mobilevikings.be
 *.preempt.com
 *.preemptsecurity.com
+*.privateinternetaccess.com
 *.prod-networks.chainstack.com
 *.prod-networks.chainstack.net
 *.prod.cloud.netflix.com
@@ -2186,6 +2187,16 @@ P2P functionality
 PHANTOM Phone Series
 PHP SDK
 PHP agent
+PIA APIs
+PIA Android application
+PIA Chrome extension
+PIA Firefox extension
+PIA Linux application
+PIA Opera extension
+PIA VPN servers
+PIA Windows application
+PIA iOS application
+PIA macOS application
 PNS (subdomains)
 PNS.HongKong.Android
 PNS.HongKong.iOS
@@ -4159,6 +4170,8 @@ https://accounts.welcomesoftware.com/
 https://add-in.stag.henchman.io
 https://addons.mozilla.org/en-US/firefox/addon/cyberghost-vpn-free-proxy/
 https://addons.mozilla.org/en-US/firefox/addon/pinterest/
+https://addons.mozilla.org/en-US/firefox/addon/private-internet-access-ext/
+https://addons.opera.com/en/extensions/details/private-internet-access-extension/
 https://adhoc-bugcrowd-studio.cdn-code.org
 https://adhoc-bugcrowd.cdn-code.org
 https://admin-roundups.moneyboxapp.org/
@@ -4399,6 +4412,7 @@ https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
 https://apps.apple.com/us/app/paper-by-dropbox/id1126623662
 https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/pionex/id1485348891
+https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
 https://apps.apple.com/us/app/rac-go/id6444858115
 https://apps.apple.com/us/app/share-rewards/id1465450657
 https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
@@ -4548,6 +4562,7 @@ https://chrome.coin98.com
 https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad
 https://chrome.google.com/webstore/detail/ibotta-browser-extension/mfaedmjlefifhnhpgipjjiiekchaimpk?hl=en-US
 https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en
+https://chrome.google.com/webstore/detail/private-internet-access/jplnlifepflhkbkgonidnobkakhmpnmh
 https://chrome.google.com/webstore/detail/stay-secure-with-cybergho/ffbkglfijbcbgblgflchnbphjdllaogb
 https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcmnfgpnmkkhmkllnlflef
 https://clickhou.se/bugcrowd
@@ -5794,6 +5809,7 @@ https://play.google.com/store/apps/details?id=com.pinterest.twa&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.pionex.client&referrer=utm_source%3Dofficialweb
 https://play.google.com/store/apps/details?id=com.planet.toobit&pli=1
 https://play.google.com/store/apps/details?id=com.pointpay.bank
+https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&hl=en
 https://play.google.com/store/apps/details?id=com.probit.app.android2.release.global
 https://play.google.com/store/apps/details?id=com.sc.lazada&hl=en_SG
 https://play.google.com/store/apps/details?id=com.scu.bsafe
@@ -6318,6 +6334,10 @@ https://www.pionex.com/
 https://www.planethoster.com
 https://www.portal.hostgator.com
 https://www.ppr.kiwai-enr.fr/
+https://www.privateinternetaccess.com/
+https://www.privateinternetaccess.com/download/linux-vpn
+https://www.privateinternetaccess.com/download/mac-vpn
+https://www.privateinternetaccess.com/download/windows-vpn
 https://www.probit.com
 https://www.recreation.gov/
 https://www.recreation.gov/about-us
@@ -7088,6 +7108,7 @@ phabricator.allizom.org
 phone-validation.taxi.booking.com
 photos.amazon.*
 photoshop.com
+piaservers.com
 pigeon.swiftfinancial.com
 piuk.blockchain.android
 plaid.com
@@ -7140,6 +7161,7 @@ priority.eu-east-1.indriverapp.com
 prisma-ai.com
 prismalabsteam.com
 privacy.ketnet.be
+privateinternetaccess.com
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 pro-api.coinmarketcap.com
