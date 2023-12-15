@@ -1,0 +1,373 @@
+*.LCX.com
+*.avalabs.org
+*.avax-dev.network
+*.avax-test.network
+*.avax.network
+*.big.one
+*.bigone.com
+*.bingx.com
+*.bingx.pro
+*.bitforex.com
+*.bitkub.com
+*.bitmart.com
+*.bittrex.com
+*.chainstacklabs.com
+*.coingecko.com
+*.coinmetro.com
+*.coinsbit.io
+*.cryptology.com
+*.dex-trade.com
+*.exmo.com
+*.exmo.me
+*.hotbit.io
+*.kucoin.com
+*.p2pify.com
+*.prod-networks.chainstack.com
+*.prod-networks.chainstack.net
+*.prod.cryptology.com
+*.pumb.ua
+*.status.app
+*.status.im
+*.tickets.ua
+*.vertexprotocol.com
+3rd party services
+API & Websocket
+Android Wallet
+Ava Labs Warden server and blob storage endpoints (please test on testnet only)
+Avalanche-Wallet
+Avalanche-Wallet-SDK
+AvalancheGo
+AvalancheJS
+BSC Bridge
+BSC ERC20Handler
+BSC Feemanager
+BSC HandlerReserve
+BSC Voter
+Core Android App
+Core Browser Extension
+Core Web Wallet
+Coreth
+Crypviser Network
+Enclave server (please test on testnet only)
+Go TTC
+IOS
+KuCoin Mobile Application for Android
+KuCoin Mobile Application for iOS
+Lending and Borrowing
+Mac App
+Mobile App
+Multiplier
+NFTs
+P2P functionality
+Polygon Mainnet ERC20Handler
+Polygon Mainnet Feemanager
+Polygon Mainnet HandlerReserve
+Polygon Mainnet Voter
+PoolStake
+PoolStakeFactory
+Prod BTC Bridge Enclave Address: Avalanche
+Prod BTC Bridge Enclave Address: Bitcoin
+Prod EVM Bridge Enclave Address: Avalanche
+Prod EVM Bridge Enclave Address: Ethereum
+Prod bridge front end (reporting only - please test on testnet)
+Prod contract address: 1INCH.e
+Prod contract address: AAVE.e
+Prod contract address: ALPHA.e
+Prod contract address: BAT.e
+Prod contract address: BTC.b
+Prod contract address: BUSD.e
+Prod contract address: COMP.e
+Prod contract address: CRV.e
+Prod contract address: DAI.e
+Prod contract address: GRT.e
+Prod contract address: LINK.e
+Prod contract address: MKR.e
+Prod contract address: SHIB.e
+Prod contract address: SNX.e
+Prod contract address: SUSHI.e
+Prod contract address: SWAP.e
+Prod contract address: UMA.e
+Prod contract address: UNI.e
+Prod contract address: USDC.e
+Prod contract address: USDT.e
+Prod contract address: WBTC.e
+Prod contract address: WETH.e
+Prod contract address: WOO.e
+Prod contract address: YFI.e
+Prod contract address: ZRX.e
+Smart Contract - Smart Contract: Polygon Router SDK
+Smart Contract - Smart Contract: Polygon Staking
+Smart Contract: Polygon Mainnet Bridge
+Smart Contracts
+Status Smart Contracts
+TTC Connect
+TTC Connect APK
+TTC Connect Wallet
+TTC SDK Android
+TTC SDK iOS
+Tacsk.fuib.com
+Ternoa Indexer
+Ternoa Mainnet:
+Testnet Bridge Enclave Address: Avalanche
+Testnet Bridge Enclave address: Bitcoin
+Testnet Bridge Enclave address: Ethereum (Goerli)
+Testnet EVM Bridge Enclave address: Avalanche:
+Testnet bridge front end for testing
+Testnet contract address (subject to change): BTC.b
+Testnet contract address (subject to change): DAI.e
+Testnet contract address (subject to change): LINK.e
+Testnet contract address (subject to change): USDC.e
+Testnet contract address (subject to change): USDT.e
+Testnet contract address (subject to change): WBTC.e
+Testnet contract address (subject to change): WETH.e
+The ShapeShift Mobile App: https://apps.apple.com/us/app/shapeshift-buy-trade-crypto/id996569075
+The Shapeshift Mobile App: https://play.google.com/store/apps/details?id=com.shapeshift.droid_shapeshift&hl=en_US&gl=US
+VIP191
+Web
+Windows App
+Yield Farming
+api.avax-test.network
+api.avax.network
+api.bitcoin.shapeshift.com
+api.chainstack.com
+api.codex.one
+api.coingecko.com
+api.dex-trade.com
+api.ethereum.shapeshift.com
+api.geckoterminal.com
+api.kuna.io
+app.lachain.io
+app.shapeshift.com
+auth.bittrex.com
+blog.coingecko.com
+chainstack.com
+codex.one
+console.chainstack.com
+cryptology.com
+dex-trade.com
+docs.chainstack.com
+exmo.com
+exmo.me
+gate.io
+geckoterminal.com
+global.bittrex.com
+hackenproof.com
+http://exzo.network
+http://github.com/AssetMantle/modules
+http://github.com/AssetMantle/node
+https://aax.com
+https://affiliate.cryptology.com/
+https://alpha.yellow.org
+https://api.big.one/
+https://api.btse.com
+https://api.coinstore.com
+https://api.coinstore.com/api
+https://api.exmo.com
+https://api.linen.app/
+https://app.allbridge.io
+https://app.routerprotocol.com/
+https://apps.apple.com/app/apple-store/id1480509067
+https://apps.apple.com/app/apple-store/id1556596708
+https://apps.apple.com/app/id1465314783
+https://apps.apple.com/app/id1567160644
+https://apps.apple.com/in/app/fitburn/id6444105607
+https://apps.apple.com/ng/app/btse/id1494556510
+https://apps.apple.com/ua/app/iopay-multichain-crypto-wallet/id1478086371
+https://apps.apple.com/ua/app/kuna-io-покупка-продажа-btc/id1457062155?l=ru
+https://apps.apple.com/us/app/aex%E5%AE%89%E9%93%B6/id1542565144
+https://apps.apple.com/us/app/bigone/id1485385044
+https://apps.apple.com/us/app/bingbon-global/id1500217666?ls=1
+https://apps.apple.com/us/app/bitmart-buy-bitcoin-crypto/id1396382871
+https://apps.apple.com/us/app/bkex-intellefund/id1455006421
+https://apps.apple.com/us/app/coin98-wallet/id1561969966
+https://apps.apple.com/us/app/cryptologygo-buy-trade-btc/id6448920037
+https://apps.apple.com/us/app/okcoin-bitcoin-trading-exch/id867444712?mt=8
+https://apps.apple.com/us/app/status-private-communication/id1178893006
+https://apps.apple.com/us/app/ternoa-wallet/id1562180877#?platform=iphone
+https://apps.apple.com/us/app/tidex/id1632072370
+https://aurora.plus/
+https://babel-api.mainnet.iotex.io
+https://bingx-api.github.io/docs/swap/introduce.html
+https://bitmart.com/
+https://bittrex.github.io/api/v3
+https://bkex-dev-pub-hz.oss-cn-hangzhou.aliyuncs.com/downloadlink/localdlgn.html
+https://bkex-dev-pub-hz.oss-cn-hangzhou.aliyuncs.com/downloadlink/localdlgw.html
+https://bkexapi.github.io/docs/api_zh.htm
+https://blog.whitebit.com/
+https://bridge.ternoa.network/
+https://bridgr-testnet.polkalokr.com/
+https://bscscan.com/token/0x5C65BAdf7F97345B7B92776b22255c973234EfE7
+https://chrome.coin98.com
+https://coinstore-openapi.github.io/en/#45fa4e00db
+https://doc.xt.com
+https://docs.allbridge.io/allbridge-overview/bridge-contracts
+https://docs.cryptology.com/
+https://download.bkexer.xin/app/download/android/app-release.apk
+https://etherscan.io/address/0x051ad3f020274910065dcb421629cd2e6e5b46c4
+https://etherscan.io/address/0x23ddd3e3692d1861ed57ede224608875809e127f
+https://etherscan.io/address/0x3be7Df8dB39996a837041bb8Ee0dAdf60F767038
+https://etherscan.io/address/0x6BFaD42cFC4EfC96f529D786D643Ff4A8B89FA52
+https://etherscan.io/address/0x85F17Cf997934a597031b2E18a9aB6ebD4B9f6a4
+https://etherscan.io/address/0x88f975d5a1153ea92af66e7c4292576a329c04b6
+https://explorer.near.org/accounts/aurora
+https://explorer.near.org/accounts/e-near.near
+https://explorer.near.org/accounts/factory.bridge.near
+https://explorer.near.org/accounts/prover.bridge.near
+https://futures.coinstore.com/api
+https://github.com/DODOEX/dodo-limit-order/blob/main/src/DODOLimitOrder.sol
+https://github.com/DODOEX/dodo-route-contract
+https://github.com/DODOEX/dodo-v3/tree/main/contracts/DODOV3MM
+https://github.com/Dexalot/contracts
+https://github.com/ExzoNetwork/Exzo-Network-Blockchain
+https://github.com/ExzoNetwork/Exzo-Network-Native-Block-Explorer
+https://github.com/ExzoNetwork/Exzo-Network-account-sponsor
+https://github.com/ExzoNetwork/exzo-network-web3.js
+https://github.com/ExzoNetwork/web-wallet
+https://github.com/ExzoNetwork/web3.js
+https://github.com/FitburnEngineering/Fitburn.Contracts
+https://github.com/GridexProtocol
+https://github.com/JOJOexchange/smart-contract-EVM
+https://github.com/LATOKEN/lachain
+https://github.com/NXT-Technologies-INC/NXTChain/tree/main/Permission%20Smart%20Contract
+https://github.com/P2B-team/p2b-api-docs
+https://github.com/PandoraDigital/smart-contract
+https://github.com/Plisio
+https://github.com/Virtuswap/v1-core/tree/main/contracts
+https://github.com/aurora-is-near/aurora-engine/tree/develop/engine
+https://github.com/aurora-is-near/aurora-engine/tree/develop/engine-precompiles
+https://github.com/aurora-is-near/aurora-engine/tree/develop/engine-sdk
+https://github.com/aurora-is-near/aurora-engine/tree/develop/engine-transactions
+https://github.com/aurora-is-near/aurora-engine/tree/develop/engine-types
+https://github.com/aurora-is-near/aurora-engine/tree/develop/etc/eth-contracts
+https://github.com/aurora-is-near/aurora-engine/tree/master/engine
+https://github.com/aurora-is-near/aurora-engine/tree/master/engine-precompiles
+https://github.com/aurora-is-near/aurora-engine/tree/master/engine-sdk
+https://github.com/aurora-is-near/aurora-engine/tree/master/engine-transactions
+https://github.com/aurora-is-near/aurora-engine/tree/master/engine-types
+https://github.com/aurora-is-near/aurora-engine/tree/master/etc/eth-contracts
+https://github.com/aurora-is-near/near-erc20-connector/releases/tag/v1.0.1
+https://github.com/aurora-is-near/rainbow-bridge/releases/tag/0.2.1
+https://github.com/aurora-is-near/rainbow-token-connector/releases/tag/0.1.6
+https://github.com/aurora-is-near/sputnikvm
+https://github.com/capsule-corp-ternoa/chainbridge-solidity/tree/master/contracts
+https://github.com/capsule-corp-ternoa/ternoa-js
+https://github.com/near-examples/FT
+https://github.com/near-examples/NFT/tree/console
+https://github.com/near/core-contracts
+https://github.com/near/core-contracts/tree/master/lockup
+https://github.com/near/core-contracts/tree/master/lockup-factory
+https://github.com/near/core-contracts/tree/master/multisig
+https://github.com/near/core-contracts/tree/master/multisig-factory
+https://github.com/near/core-contracts/tree/master/staking-pool
+https://github.com/near/core-contracts/tree/master/staking-pool-factory
+https://github.com/near/core-contracts/tree/master/whitelist
+https://github.com/near/near-cli
+https://github.com/near/near-cli-rs
+https://github.com/near/near-linkdrop
+https://github.com/near/near-sdk-js
+https://github.com/near/near-sdk-rs
+https://github.com/near/nearcore
+https://github.com/status-im/go-waku
+https://github.com/status-im/go-waku/tree/master/examples
+https://github.com/vechain/thor
+https://github.com/vertex-protocol/vertex-contracts
+https://github.com/waku-org/js-waku
+https://github.com/waku-org/js-waku-examples
+https://h5.coinstore.com
+https://hacken.live/2BY3A8k
+https://iopay.me
+https://iopay.me/
+https://iotex.io/
+https://iotexapi.com/
+https://iotexscan.io/
+https://iotexscout.io/
+https://iotube.org/
+https://ipfs-mainnet.trnnfr.com/
+https://itunes.apple.com/us/app/aax/id1434278660?mt=8
+https://jojo.exchange/
+https://link.swisstronik.com/04j
+https://link.swisstronik.com/486
+https://link.swisstronik.com/anb
+https://link.swisstronik.com/d0t
+https://link.swisstronik.com/m2k
+https://link.swisstronik.com/nfj
+https://link.swisstronik.com/zky
+https://link.swisstronik.com/zs7
+https://m.bitforex.com/en/download
+https://machinefi.com/
+https://p2pb2b.com/
+https://pandora.digital
+https://play.google.com/store/apps/details?id=app.linen.wallet
+https://play.google.com/store/apps/details?id=coin98.crypto.finance.media&pli=1
+https://play.google.com/store/apps/details?id=com.aax.exchange
+https://play.google.com/store/apps/details?id=com.aex.aexApp
+https://play.google.com/store/apps/details?id=com.app.xt
+https://play.google.com/store/apps/details?id=com.bitmart.bitmarket&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.bittrex.trade
+https://play.google.com/store/apps/details?id=com.btse.finance
+https://play.google.com/store/apps/details?id=com.cryptology.flutter
+https://play.google.com/store/apps/details?id=com.deepcoin.app.global
+https://play.google.com/store/apps/details?id=com.io.coinstore
+https://play.google.com/store/apps/details?id=com.okinc.okcoin.intl
+https://play.google.com/store/apps/details?id=com.ternoa.wallet.prod
+https://play.google.com/store/apps/details?id=com.tidex.app.exchange
+https://play.google.com/store/apps/details?id=com.yayd.exchangglobal
+https://play.google.com/store/apps/details?id=io.fitburn.mobile
+https://play.google.com/store/apps/details?id=io.iotex.iopay.gp
+https://play.google.com/store/apps/details?id=kuna.beta
+https://play.google.com/store/apps/details?id=net.plisio.app&pli=1
+https://play.google.com/store/apps/details?id=one.big
+https://play.google.com/store/apps/details?id=pro.bingbon.app
+https://plisio.net/
+https://plisio.net/documentation
+https://public-ipfs-mainnet.ternoa.network
+https://rewards.gdx.org/
+https://standalone2.fuib.com
+https://status-im-files.ams3.cdn.digitaloceanspaces.com/StatusIm-Desktop-v0.9.0-ef27bb.dmg
+https://status-im-files.ams3.cdn.digitaloceanspaces.com/StatusIm-Desktop-v0.9.0-ef27bb.exe
+https://status-im-files.ams3.cdn.digitaloceanspaces.com/StatusIm-Desktop-v0.9.0-ef27bb.tar.gz
+https://status-im-files.ams3.cdn.digitaloceanspaces.com/StatusIm-Mobile-v1.19.0-d6a6c4.apk
+https://tickets.kz/
+https://tidex.com/
+https://virtuswap.io/
+https://www.aax.com/apidoc/index.html#introduction
+https://www.aex.com
+https://www.aex.com/page/doc/zh/guide/guide.html
+https://www.bit.com/
+https://www.bit.com/docs/en-us/futures.html#introduction
+https://www.bit.com/legacy/propertyCenter/assets
+https://www.btse.com
+https://www.deepcoin.com/
+https://www.deepcoin.com/en/apiPage
+https://www.fitburn.ai
+https://www.okcoin.com/
+https://www.okcoin.com/docs/en/
+https://www.okx.com/web3
+https://www.routerprotocol.com/
+https://www.xt.com
+iOS Wallet
+internal.whitebit.com
+kissandfly.com
+kuna.io
+ladex.exchange
+landing.coingecko.com
+mainnet-boot-0.ternoa.network
+mainnet-boot-1.ternoa.network
+mainnet-boot-2.ternoa.network
+mainnet.ternoa.network
+pro.kuna.io
+shapeshift.com
+stage.bittrex.com
+static.bittrex.com
+subnet-evm
+support.avalabs.org
+ternoa.com Eth-Ternoa bridge
+tickets.kz/my
+travelfrom.fr
+wallet.near.org
+web.bittrex.com
+whitebit.com
+wss://ws-futures.coinstore.com/socket.io/
+wss://ws.coinstore.com/s/ws
+www.bkex.com
+www.coinstore.com

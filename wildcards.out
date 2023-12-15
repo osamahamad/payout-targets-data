@@ -13,6 +13,7 @@
 *.8x8cloud.net
 *.8x8staging.com
 *.Daraz.com
+*.LCX.com
 *.YOUR-TESTING-STORE.mybigcommerce.com/
 *.a.exodus.io
 *.acc-pub.mobilevikings.be
@@ -69,6 +70,10 @@
 *.atg.se
 *.atlastunnel.com
 *.audicagame.com
+*.avalabs.org
+*.avax-dev.network
+*.avax-test.network
+*.avax.network
 *.ayco.com
 *.backblazeb2.com
 *.base.org
@@ -82,18 +87,26 @@
 *.betfair.se
 *.betsharedservices.io
 *.betviewapi.com
+*.big.one
 *.bigcommerce.com
 *.bigcommerce.net
+*.bigone.com
 *.binance.com
 *.binance.us
 *.binary.com
 *.bingo.com
+*.bingx.com
+*.bingx.pro
 *.bistro.sk
 *.bitdefender.com
 *.bitdefender.net
+*.bitforex.com
+*.bitkub.com
+*.bitmart.com
 *.bitmex.com
 *.bitrue.com
 *.bitstamp.net - Bitstamp Supporting Services
+*.bittrex.com
 *.bizible.com
 *.blinkforhome.com/*
 *.blockchain.com
@@ -129,6 +142,7 @@
 *.cbhq.net
 *.certsy.com
 *.certsynonprod.com
+*.chainstacklabs.com
 *.chalet.8x8.com
 *.chalet.8x8.com/ws/v1
 *.chime.com
@@ -152,6 +166,9 @@
 *.code.gov
 *.cognitiveperformer.com
 *.coinbase.com
+*.coingecko.com
+*.coinmetro.com
+*.coinsbit.io
 *.comcast.com
 *.contactallerg(y|ie).uzleuven.be
 *.contentsquare.com
@@ -165,6 +182,7 @@
 *.crossclip.com
 *.crowdstrike.com
 *.crypto.com
+*.cryptology.com
 *.cryptopunks.app
 *.cubicmotion.com
 *.cyberghost.com
@@ -191,6 +209,7 @@
 *.dev.grindr.io
 *.dev.mobilevikings.be
 *.devicelock.com
+*.dex-trade.com
 *.dh-commerce.com 
 *.dibz.co.uk
 *.dm.gg
@@ -218,6 +237,8 @@
 *.eu.newrelic.com
 *.eurid.eu
 *.europolitan.se
+*.exmo.com
+*.exmo.me
 *.exodus.com
 *.exodus.io
 *.expressvpn.com
@@ -315,6 +336,7 @@
 *.hmxwebservices.com
 *.holidaylettings.com
 *.honestdollar.com
+*.hotbit.io
 *.hoteltonight-test.com
 *.housetrip.com
 *.hs-sites.com
@@ -403,6 +425,7 @@
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
+*.kucoin.com
 *.kwsdose.be
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -560,6 +583,7 @@
 *.outfra.xyz
 *.ovo.id
 *.ownit.se
+*.p2pify.com
 *.p8t.us
 *.packet8.net
 *.paddypartners.com
@@ -595,7 +619,10 @@
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
+*.prod-networks.chainstack.com
+*.prod-networks.chainstack.net
 *.prod.cloud.netflix.com
+*.prod.cryptology.com
 *.prod.dradis.netflix.com
 *.prod.ftl.netflix.com
 *.prod.nube.tech
@@ -604,6 +631,7 @@
 *.prowly.com
 *.psynet.gg
 *.psyonix.com
+*.pumb.ua
 *.pyszne.pl
 *.qaglobal-liquidity.gs.com
 *.quip.com
@@ -731,6 +759,8 @@
 *.ssr.ccp.xcal.tv 
 *.staging-airtableblocks.com
 *.staging.airtable.com
+*.status.app
+*.status.im
 *.statuspage.io
 *.storspiller.com
 *.streamlabs.com
@@ -767,6 +797,7 @@
 *.threatdown.com
 *.thuisbezorgd.nl
 *.ticketing.cm.com
+*.tickets.ua
 *.tidal.com
 *.tidalhifi.com
 *.tiktok.com
@@ -818,6 +849,7 @@
 *.veriff.com
 *.verse.events
 *.verse.me
+*.vertexprotocol.com
 *.vfsevisa.com
 *.vfsglobal.(com|co.uk|ca)
 *.vhx.tv
