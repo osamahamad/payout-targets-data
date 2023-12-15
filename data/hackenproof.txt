@@ -1,11 +1,3 @@
-https://aax.com
-https://play.google.com/store/apps/details?id=com.aax.exchange
-https://itunes.apple.com/us/app/aax/id1434278660?mt=8
-https://www.aax.com/apidoc/index.html#introduction
-https://www.aex.com
-https://www.aex.com/page/doc/zh/guide/guide.html
-https://apps.apple.com/us/app/aex%E5%AE%89%E9%93%B6/id1542565144
-https://play.google.com/store/apps/details?id=com.aex.aexApp
 https://t.me/AlfredTradesBot?start=hackenproof
 https://app.allbridge.io
 https://docs.allbridge.io/allbridge-overview/bridge-contracts
@@ -41,79 +33,12 @@ https://github.com/aurora-is-near/aurora-engine/tree/master/etc/eth-contracts
 https://github.com/aurora-is-near/aurora-engine/tree/develop/etc/eth-contracts
 https://github.com/aurora-is-near/sputnikvm
 https://aurora.plus/
-Prod contract address: BTC.b
-Prod contract address: 1INCH.e
-Prod contract address: AAVE.e
-Prod contract address: ALPHA.e
-Prod contract address: BAT.e
-Prod contract address: BUSD.e
-Prod contract address: COMP.e
-Prod contract address: CRV.e
-Prod contract address: DAI.e
-Prod contract address: GRT.e
-Prod contract address: LINK.e
-Prod contract address: MKR.e
-Prod contract address: SHIB.e
-Prod contract address: SNX.e
-Prod contract address: SUSHI.e
-Prod contract address: SWAP.e
-Prod contract address: UMA.e
-Prod contract address: UNI.e
-Prod contract address: USDC.e
-Prod contract address: USDT.e
-Prod contract address: WBTC.e
-Prod contract address: WETH.e
-Prod contract address: WOO.e
-Prod contract address: YFI.e
-Prod contract address: ZRX.e
-Prod EVM Bridge Enclave Address: Avalanche
-Prod BTC Bridge Enclave Address: Avalanche
-Prod EVM Bridge Enclave Address: Ethereum
-Prod BTC Bridge Enclave Address: Bitcoin
-Testnet bridge front end for testing
-Testnet EVM Bridge Enclave address: Avalanche:
-Testnet Bridge Enclave address: Ethereum (Goerli)
-Testnet Bridge Enclave address: Bitcoin
-Testnet contract address (subject to change): BTC.b
-Testnet contract address (subject to change): DAI.e
-Testnet contract address (subject to change): LINK.e
-Testnet contract address (subject to change): USDC.e
-Testnet contract address (subject to change): USDT.e
-Testnet contract address (subject to change): WBTC.e
-Testnet contract address (subject to change): WETH.e
-Prod bridge front end (reporting only - please test on testnet)
-Enclave server (please test on testnet only)
-Ava Labs Warden server and blob storage endpoints (please test on testnet only)
-Testnet Bridge Enclave Address: Avalanche
-AvalancheGo
-Coreth
-subnet-evm
-api.avax.network
-api.avax-test.network
-support.avalabs.org
-Avalanche-Wallet
-AvalancheJS
-Avalanche-Wallet-SDK
-www.bkex.com
-https://bkexapi.github.io/docs/api_zh.htm
-https://play.google.com/store/apps/details?id=com.yayd.exchangglobal
-https://download.bkexer.xin/app/download/android/app-release.apk
-https://apps.apple.com/us/app/bkex-intellefund/id1455006421
-https://bkex-dev-pub-hz.oss-cn-hangzhou.aliyuncs.com/downloadlink/localdlgn.html
-https://bkex-dev-pub-hz.oss-cn-hangzhou.aliyuncs.com/downloadlink/localdlgw.html
-https://www.btse.com
-https://api.btse.com
-https://play.google.com/store/apps/details?id=com.btse.finance
-https://apps.apple.com/ng/app/btse/id1494556510
 https://play.google.com/store/apps/details?id=one.big
 https://api.big.one/
 https://apps.apple.com/us/app/bigone/id1485385044
 https://play.google.com/store/apps/details?id=pro.bingbon.app
 https://apps.apple.com/us/app/bingbon-global/id1500217666?ls=1
 https://bingx-api.github.io/docs/swap/introduce.html
-https://www.bit.com/
-https://www.bit.com/docs/en-us/futures.html#introduction
-https://www.bit.com/legacy/propertyCenter/assets
 https://m.bitforex.com/en/download
 https://apps.apple.com/us/app/bitmart-buy-bitcoin-crypto/id1396382871
 https://play.google.com/store/apps/details?id=com.bitmart.bitmarket&hl=en_US&gl=US
@@ -128,31 +53,17 @@ com.bitexen.exchange - Android App Bitexen
 ID 1388036461 - iOS App Bitexen
 com.bitexenglobal.exchangeapp - Android App Bitexen Global
 ID 1634643482 - iOS App Bitexen Global
-iOS App
-Android App
 https://github.com/Bitrue/bitrue-official-api-docs
 Android App
 iOS App
-auth.bittrex.com
-global.bittrex.com
-static.bittrex.com
-web.bittrex.com
-https://bittrex.github.io/api/v3
-https://play.google.com/store/apps/details?id=com.bittrex.trade
-https://apps.apple.com/app/id1465314783
-stage.bittrex.com
 blofin.com
 https://apps.apple.com/tt/app/blofin/id1616804346
 https://play.google.com/store/apps/details?id=com.blofin.android
-Smart Contracts
-Web
 www.citex.info
 www.citex.io
 https://play.google.com/store/apps/details?id=com.chainup.exchange.CITEX
 https://github.com/spritheremm/CITEX-Spot-Open-API
 https://apps.apple.com/ua/app/citex-mining-exchange/id1546706074
-codex.one
-api.codex.one
 https://github.com/chain4travel/caminogo
 https://github.com/chain4travel/caminoethvm
 https://github.com/chain4travel/camino-node
@@ -166,15 +77,6 @@ https://github.com/identity-com/on-chain-identity-gateway/tree/main/solana
 https://play.google.com/store/apps/details?id=coin98.crypto.finance.media&pli=1
 https://apps.apple.com/us/app/coin98-wallet/id1561969966
 https://chrome.coin98.com
-api.coingecko.com
-Android App
-iOS App
-Chrome Extension
-blog.coingecko.com
-landing.coingecko.com
-api.geckoterminal.com
-geckoterminal.com
-API
 www.cointr.pro
 www.cointr.com
 api.cointr.pro
@@ -198,25 +100,9 @@ https://api.coinstore.com/api
 wss://ws.coinstore.com/s/ws
 https://futures.coinstore.com/api
 wss://ws-futures.coinstore.com/socket.io/
-Core Browser Extension
-Core Web Wallet
-Core Android App
-cryptology.com
-https://docs.cryptology.com/
-https://play.google.com/store/apps/details?id=com.cryptology.flutter
-https://apps.apple.com/us/app/cryptologygo-buy-trade-btc/id6448920037
-https://affiliate.cryptology.com/
-Crypviser Network
-https://hacken.live/2BY3A8k
-https://github.com/DODOEX/dodo-v3/tree/main/contracts/DODOV3MM
 https://github.com/DODOEX/dodo-route-contract
 https://github.com/DODOEX/dodo-limit-order/blob/main/src/DODOLimitOrder.sol
-https://www.deepcoin.com/
-https://www.deepcoin.com/en/apiPage
-https://play.google.com/store/apps/details?id=com.deepcoin.app.global
 https://github.com/DeltaPrimeLabs/deltaprime-primeloans/tree/dev/main
-dex-trade.com
-api.dex-trade.com
 https://github.com/Dexalot/contracts
 https://dexalot.com
 https://api.dexalot.com
@@ -227,42 +113,11 @@ https://github.com/dao-envelop/envelop-protocol-v1/blob/master/contracts/Envelop
 https://github.com/dao-envelop/envelop-protocol-v1/blob/master/contracts/AdvancedWhiteList.sol
 https://testnet.tonscan.org/address/EQBQMoFbX2YFU5YP9_0VHdtMFnQMjsM9pH22r9ZSRpYg8Z29
 https://app.evaa.finance/
-exmo.com
-exmo.me
-https://api.exmo.com
-Mobile App
-Mobile App
 Chrome Extention
 https://github.com/enkryptcom/enKrypt
-https://github.com/ExzoNetwork/Exzo-Network-Blockchain
-https://github.com/ExzoNetwork/exzo-network-web3.js
-https://github.com/ExzoNetwork/Exzo-Network-account-sponsor
-https://github.com/ExzoNetwork/web-wallet
-https://github.com/ExzoNetwork/web3.js
-https://github.com/ExzoNetwork/Exzo-Network-Native-Block-Explorer
-http://exzo.network
 https://exchange.fastex.com/
 https://github.com/Filmio-Inc/contracts
 https://app.film.io/
-https://github.com/FitburnEngineering/Fitburn.Contracts
-https://www.fitburn.ai
-https://apps.apple.com/in/app/fitburn/id6444105607
-https://play.google.com/store/apps/details?id=io.fitburn.mobile
-gate.io
-iOS App
-Android App
-Windows App
-Mac App
-API & Websocket
-https://github.com/GridexProtocol
-https://rewards.gdx.org/
-Web
-IOS
-Android
-hackenproof.com
-API
-Android App
-iOS App
 https://iotex.io/
 https://iotexscan.io/
 https://iotexscout.io/
@@ -281,28 +136,14 @@ https://bscscan.com/address/0xA5776459837651ed4DE8Ed922e123D5898EfE5a2
 https://bscscan.com/address/0xcB0620b181140e57D1C0D8b724cde623cA963c8C
 https://bscscan.com/address/0xec203E7676C45455BF8cb43D28F9556F014Ab461
 https://bscscan.com/address/0x625EdAB184b3B517654097875F1D8C9820163e31
-Yield Farming
 KuCoin Mobile Application for Android
 KuCoin Mobile Application for iOS
-pro.kuna.io
-kuna.io
-api.kuna.io
-https://apps.apple.com/ua/app/kuna-io-покупка-продажа-btc/id1457062155?l=ru
-https://play.google.com/store/apps/details?id=kuna.beta
-app.lachain.io
-ladex.exchange
-https://github.com/LATOKEN/lachain
-API
 latoken.com
 API
 iOS App
 Android App
 https://letsexchange.io/
 https://api.letsexchange.io/doc
-https://apps.apple.com/app/apple-store/id1480509067
-https://api.linen.app/
-https://play.google.com/store/apps/details?id=app.linen.wallet
-https://bscscan.com/token/0x5C65BAdf7F97345B7B92776b22255c973234EfE7
 https://github.com/locksonic/xnft-contracts-bug-bounty-locksonic
 https://etherscan.io/address/0xf51B9C9a1c12e7E48BEC15DC358D0C1f0d7Eb3be
 https://etherscan.io/address/0x56a76bcC92361f6DF8D75476feD8843EdC70e1C9
@@ -333,7 +174,6 @@ near.org
 docs.near.org
 wiki.near.org
 gov.near.org
-https://github.com/NXT-Technologies-INC/NXTChain/tree/main/Permission%20Smart%20Contract
 https://github.com/near/core-contracts
 https://github.com/near/core-contracts/tree/master/lockup-factory
 https://github.com/near/core-contracts/tree/master/multisig-factory
@@ -357,29 +197,11 @@ https://test.nicehash.com/
 https://test.nicex.com/
 https://test.nicex.com/my/
 https://api-test.nicex.com/
-P2P functionality
-NFTs
-Lending and Borrowing
-https://www.okx.com/docs-v5/en/#market-maker-program
-https://www.okx.com/docs/en/
-Android App
-iOS App
-https://www.okx.com/web3
-OKT Chain
-OKX Wallet Chrome Extension
-OKX Wallet Edge Add-ons
-OKX Wallet Safari Extension
 https://www.okcoin.com/
 https://www.okcoin.com/docs/en/
 https://play.google.com/store/apps/details?id=com.okinc.okcoin.intl
 https://apps.apple.com/us/app/okcoin-bitcoin-trading-exch/id867444712?mt=8
-https://alpha.yellow.org
-https://p2pb2b.com/
-https://github.com/P2B-team/p2b-api-docs
 https://github.com/capsule-corp-ternoa/ternoa-pallets
-https://github.com/PandoraDigital/smart-contract
-https://pandora.digital
-https://standalone2.fuib.com
 https://www.pionex.com/
 https://play.google.com/store/apps/details?id=com.pionex.client&referrer=utm_source%3Dofficialweb
 https://apps.apple.com/us/app/pionex/id1485348891
@@ -396,13 +218,10 @@ https://apps.apple.com/us/app/id1512836089
 https://exchange.pointpay.io/trade-classic
 https://exchange.pointpay.io/buy-crypto
 https://exchange.pointpay.io/launchpad/projects
-https://bridgr-testnet.polkalokr.com/
-https://bridgr-testnet.polkalokr.com/
 https://www.probit.com
 https://api.probit.com/api/
 https://play.google.com/store/apps/details?id=com.probit.app.android2.release.global
 https://apps.apple.com/app/probit-global/id1621264266
-Tacsk.fuib.com
 BSC Voter
 BSC Bridge
 BSC ERC20Handler
@@ -477,14 +296,6 @@ https://polygonscan.com/address/0x15F0Ca26781C3852f8166eD2ebce5D18265cceb7
 https://polygonscan.com/address/0x1b18770E5198983AF04B3735d01E09A57d27bD43
 https://polygonscan.com/address/0x3aD736904E9e65189c3000c7DD2c8AC8bB7cD4e3
 https://polygonscan.com/address/0x27e1e4E6BC79D93032abef01025811B7E4727e85
-https://link.swisstronik.com/nfj
-https://link.swisstronik.com/m2k
-https://link.swisstronik.com/04j
-https://link.swisstronik.com/zky
-https://link.swisstronik.com/zs7
-https://link.swisstronik.com/d0t
-https://link.swisstronik.com/486
-https://link.swisstronik.com/anb
 https://polygonscan.com/address/0x255707b70bf90aa112006e1b07b9aea6de021424
 https://polygonscan.com/address/0x6678814c273d5088114B6E40cC49C8DB04F9bC29
 https://polygonscan.com/address/0x286c02C93f3CF48BB759A93756779A1C78bCF833
@@ -506,27 +317,7 @@ https://github.com/tetu-io/tetu-contracts-v2/blob/master/contracts/vault/Strateg
 https://github.com/tetu-io/tetu-contracts-v2/blob/master/contracts/vault/TetuVaultV2.sol
 https://github.com/tetu-io/tetu-contracts-v2/blob/master/contracts/vault/VaultInsurance.sol
 https://github.com/tetu-io/tetu-contracts-v2/blob/master/contracts/ve/VeTetu.sol
-TTC Connect Wallet
-TTC Connect
-TTC Connect APK
-Go TTC
-TTC SDK Android
-TTC SDK iOS
 https://github.com/capsule-corp-ternoa/ternoa-enclaves
-https://github.com/capsule-corp-ternoa/chainbridge-solidity/tree/master/contracts
-https://bridge.ternoa.network/
-https://apps.apple.com/us/app/ternoa-wallet/id1562180877#?platform=iphone
-https://play.google.com/store/apps/details?id=com.ternoa.wallet.prod
-https://github.com/capsule-corp-ternoa/ternoa-js
-Ternoa Mainnet:
-mainnet.ternoa.network
-mainnet-boot-0.ternoa.network
-mainnet-boot-1.ternoa.network
-mainnet-boot-2.ternoa.network
-Ternoa Indexer
-https://public-ipfs-mainnet.ternoa.network
-https://ipfs-mainnet.trnnfr.com/
-ternoa.com Eth-Ternoa bridge
 https://tickets.kz/
 tickets.kz/my
 kissandfly.com
@@ -540,30 +331,19 @@ https://play.google.com/store/apps/details?id=com.planet.toobit&pli=1
 https://apps.apple.com/app/id1660882885
 https://apps.apple.com/ua/app/trustee-plus-crypto-neobank/id1634455978
 https://play.google.com/store/apps/details?id=com.trusteeplus
-Multiplier
-PoolStake
-PoolStakeFactory
 https://arbiscan.io/address/0x9198989a85e35adec46309e06684dca444c9cf27#code
 https://arbiscan.io/address/0x739fe1BE8CbBeaeA96fEA55c4052Cd87796c0a89
 https://arbiscan.io/address/0x316142C166AdA230D0aFAD9493ef4bF053289269
 https://arbiscan.io/address/0xc53A53552191BeE184557A15f114a87a757e5b6F
 https://arbiscan.io/address/0x0E8A12e59C2c528333e84a12b0fA4B817A35909A
 https://arbiscan.io/address/0x9566db22DC32E54234d2D0Ae7B72f44e05158239
-https://github.com/vechain/thor
-VIP191
 iOS Wallet
 Android Wallet
 https://github.com/vertex-protocol/vertex-contracts
-https://virtuswap.io/
-https://github.com/Virtuswap/v1-core/tree/main/contracts
 https://github.com/waku-org/js-waku
 https://github.com/waku-org/js-waku-examples
 https://github.com/status-im/go-waku
 https://github.com/status-im/go-waku/tree/master/examples
-whitebit.com
-internal.whitebit.com
-Android App
-iOS App
 https://blog.whitebit.com/
 https://github.com/whitebit-exchange/wbt
 https://www.xt.com

@@ -47,7 +47,6 @@
 *.8x8cloud.net
 *.8x8staging.com
 *.Daraz.com
-*.LCX.com
 *.YOUR-TESTING-STORE.mybigcommerce.com/
 *.a.exodus.io
 *.acc-pub.mobilevikings.be
@@ -104,10 +103,6 @@
 *.atg.se
 *.atlastunnel.com
 *.audicagame.com
-*.avalabs.org
-*.avax-dev.network
-*.avax-test.network
-*.avax.network
 *.ayco.com
 *.backblazeb2.com
 *.base.org
@@ -135,12 +130,10 @@
 *.bitdefender.com
 *.bitdefender.net
 *.bitforex.com
-*.bitkub.com
 *.bitmart.com
 *.bitmex.com
 *.bitrue.com
 *.bitstamp.net - Bitstamp Supporting Services
-*.bittrex.com
 *.bizible.com
 *.blinkforhome.com/*
 *.blockchain.com
@@ -200,8 +193,6 @@
 *.code.gov
 *.cognitiveperformer.com
 *.coinbase.com
-*.coingecko.com
-*.coinmetro.com
 *.coinsbit.io
 *.comcast.com
 *.contactallerg(y|ie).uzleuven.be
@@ -216,7 +207,6 @@
 *.crossclip.com
 *.crowdstrike.com
 *.crypto.com
-*.cryptology.com
 *.cryptopunks.app
 *.cubicmotion.com
 *.cyberghost.com
@@ -243,7 +233,6 @@
 *.dev.grindr.io
 *.dev.mobilevikings.be
 *.devicelock.com
-*.dex-trade.com
 *.dh-commerce.com 
 *.dibz.co.uk
 *.dm.gg
@@ -271,8 +260,6 @@
 *.eu.newrelic.com
 *.eurid.eu
 *.europolitan.se
-*.exmo.com
-*.exmo.me
 *.exodus.com
 *.exodus.io
 *.expressvpn.com
@@ -370,7 +357,6 @@
 *.hmxwebservices.com
 *.holidaylettings.com
 *.honestdollar.com
-*.hotbit.io
 *.hoteltonight-test.com
 *.housetrip.com
 *.hs-sites.com
@@ -656,7 +642,6 @@
 *.prod-networks.chainstack.com
 *.prod-networks.chainstack.net
 *.prod.cloud.netflix.com
-*.prod.cryptology.com
 *.prod.dradis.netflix.com
 *.prod.ftl.netflix.com
 *.prod.nube.tech
@@ -665,7 +650,6 @@
 *.prowly.com
 *.psynet.gg
 *.psyonix.com
-*.pumb.ua
 *.pyszne.pl
 *.qaglobal-liquidity.gs.com
 *.quip.com
@@ -1190,7 +1174,6 @@ AOL Mail
 AOL Mobile Apps
 AOL Search
 API
-API & Websocket
 API Shield
 AS41690
 AWS Service Catalog for JSM Cloud - Cloud - https://marketplace.atlassian.com/apps/1221551/aws-service-catalog-for-jsm-cloud?hosting=cloud
@@ -1406,11 +1389,6 @@ Automation for Jira - Data Center and Server - Server - https://marketplace.atla
 Automation for Jira - DataCenter - https://marketplace.atlassian.com/apps/1215460/automation-for-jira?hosting=datacenter
 Automation for Jira - Server Lite - Server - https://marketplace.atlassian.com/apps/1211836/automation-for-jira-server-lite?hosting=server
 Automotive Security
-Ava Labs Warden server and blob storage endpoints (please test on testnet only)
-Avalanche-Wallet
-Avalanche-Wallet-SDK
-AvalancheGo
-AvalancheJS
 B2 APIs (*.backblazeb2.com)
 BBPress Core
 BSC Bridge
@@ -1598,11 +1576,7 @@ Continuous Plugin Deployment for Bamboo - Server - https://marketplace.atlassian
 Contrast TeamServer - See "Testing Instructions" below
 Copy Source for Fisheye and Crucible - Server - https://marketplace.atlassian.com/apps/1215624/copy-source-for-fisheye-and-crucible?hosting=server
 Copy Space for Confluence - Server - https://marketplace.atlassian.com/apps/212/copy-space-for-confluence?hosting=server
-Core Android App
-Core Browser Extension
 Core Priceless.com - demo.priceless.com
-Core Web Wallet
-Coreth
 Corporate Targets
 CosmWasm
 Cosmos SDK
@@ -1618,7 +1592,6 @@ Crowdcontrol
 Crowdsignal
 Crucible
 Crucible build status - Server - https://marketplace.atlassian.com/apps/1224728/crucible-build-status?hosting=server
-Crypviser Network
 Custom Fields - https://trello.com/power-ups/56d5e249a98895a9797bebb9/custom-fields
 CyberGhost APIs
 CyberGhost Android application
@@ -1688,7 +1661,6 @@ Electroneum Android App
 Electroneum iOS App
 Embedded Marketplace for Confluence - Cloud - https://marketplace.atlassian.com/apps/1218875/embedded-marketplace-for-confluence?hosting=cloud
 Embedded Marketplace for Jira - Cloud - https://marketplace.atlassian.com/apps/1218864/embedded-marketplace-for-jira?hosting=cloud
-Enclave server (please test on testnet only)
 Engadget
 Enjin - Ethereum ERC-1155 Contract
 Enjin Coin - Ethereum ERC-20 Contract
@@ -1781,7 +1753,6 @@ GitHub webhooks for Fisheye - Server - https://marketplace.atlassian.com/apps/12
 GitLab and GitHub repos listed on this page
 GitLab for Jira Cloud
 GlotPress
-Go TTC
 Go agent
 Google Cloud Plateform Instances
 Google Drive - https://trello.com/power-ups/55a5d916446f517774210006/google-drive
@@ -1828,7 +1799,6 @@ ICIParisXL.App.Android
 ICIParisXL.App.IOS
 ID 1388036461 - iOS App Bitexen
 ID 1634643482 - iOS App Bitexen Global
-IOS
 IOS App MEW wallet
 Ibotta App Data & Memory
 Icons for Jira - Server - https://marketplace.atlassian.com/apps/1214988/icons-for-jira?hosting=server
@@ -1945,7 +1915,6 @@ Latest version of Wise iOS App
 LaunchDarkly Open Source SDKs
 Legacy API
 Legacy Blockchain 
-Lending and Borrowing
 Lens Studio
 Lightroom
 Lightroom Classic
@@ -1973,7 +1942,6 @@ Loudr
 Low Cost Access
 Luna
 MIUI OS for Xiaomi Phone
-Mac App
 Mac OS Executable: Download here https://www.larksuite.com/download
 Mac OS Executable: Download here https://www.okx.com/download
 Mac Personal Backup Clients
@@ -2050,7 +2018,6 @@ Microsoft Teams for Confluence Cloud - Cloud - https://marketplace.atlassian.com
 Microsoft Teams for Jira - DataCenter - https://marketplace.atlassian.com/apps/1217836/microsoft-teams-for-jira?hosting=datacenter
 Microsoft Teams for Jira - Server - https://marketplace.atlassian.com/apps/1217836/microsoft-teams-for-jira?hosting=server
 Miro SDK
-Mobile App
 Mobile Apps	iOS and Android
 Mobile Connect Plugin for Jira - Server - https://marketplace.atlassian.com/apps/322837/mobile-connect-plugin-for-jira?hosting=server
 Mobile Plugin for Jira - DataCenter - https://marketplace.atlassian.com/apps/1220151/mobile-plugin-for-jira-data-center-and-server?hosting=datacenter
@@ -2086,10 +2053,8 @@ MongoDB Spark Connector
 MongoDB VS Code Plugin
 Mozilla VPN Clients
 Multi-factor Auth - Feature
-Multiplier
 My Ampol
 My Reminders for Jira - Cloud - https://marketplace.atlassian.com/apps/1212778/my-reminders-for-jira?hosting=cloud
-NFTs
 Netflix Mobile Application for Android
 Netflix Mobile Application for iOS
 Newsroom
@@ -2188,7 +2153,6 @@ Other assets owned by Personio
 Other non-production infrastructure
 Other publicly-released plugins
 Other youneedabudget.com domains not listed
-P2P functionality
 PHANTOM Phone Series
 PHP SDK
 PHP agent
@@ -2230,8 +2194,6 @@ Polygon Mainnet ERC20Handler
 Polygon Mainnet Feemanager
 Polygon Mainnet HandlerReserve
 Polygon Mainnet Voter
-PoolStake
-PoolStakeFactory
 PowerDNS authoritative server, recursor and DNSdist (see "Software packages" and "Source-code")
 Pre-Post Build Command Runner - Server - https://marketplace.atlassian.com/apps/5581/pre-post-build-command-runner?hosting=server
 Preact
@@ -2246,36 +2208,6 @@ ProForma Lite: Forms & Checklists - Datacenter - https://marketplace.atlassian.c
 ProForma Lite: Forms & Checklists - Server - https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?hosting=server
 ProForma: Forms & Checklist for Jira - Datacenter - https://marketplace.atlassian.com/apps/1215833/proforma-forms-checklist-for-jira?hosting=datacenter
 ProForma: Forms & Checklist for Jira - Server - https://marketplace.atlassian.com/apps/1215833/proforma-forms-checklist-for-jira?hosting=server
-Prod BTC Bridge Enclave Address: Avalanche
-Prod BTC Bridge Enclave Address: Bitcoin
-Prod EVM Bridge Enclave Address: Avalanche
-Prod EVM Bridge Enclave Address: Ethereum
-Prod bridge front end (reporting only - please test on testnet)
-Prod contract address: 1INCH.e
-Prod contract address: AAVE.e
-Prod contract address: ALPHA.e
-Prod contract address: BAT.e
-Prod contract address: BTC.b
-Prod contract address: BUSD.e
-Prod contract address: COMP.e
-Prod contract address: CRV.e
-Prod contract address: DAI.e
-Prod contract address: GRT.e
-Prod contract address: LINK.e
-Prod contract address: MKR.e
-Prod contract address: SHIB.e
-Prod contract address: SNX.e
-Prod contract address: SUSHI.e
-Prod contract address: SWAP.e
-Prod contract address: UMA.e
-Prod contract address: UNI.e
-Prod contract address: USDC.e
-Prod contract address: USDT.e
-Prod contract address: WBTC.e
-Prod contract address: WETH.e
-Prod contract address: WOO.e
-Prod contract address: YFI.e
-Prod contract address: ZRX.e
 Product Delivery
 Project transfer for Crucible - Server - https://marketplace.atlassian.com/apps/1221227/project-transfer-for-crucible?hosting=server
 Protocol of the Swiss Post Voting System
@@ -2340,7 +2272,6 @@ Slack - https://trello.com/power-ups/55a5d917446f51777421000a/slack
 Smart Contract - Smart Contract: Polygon Router SDK
 Smart Contract - Smart Contract: Polygon Staking
 Smart Contract: Polygon Mainnet Bridge
-Smart Contracts
 Smartchain Blockchain
 Snaps
 Snaps Development Packages
@@ -2415,11 +2346,6 @@ T-Mobile Android App
 T-Mobile Tuesdays - Android
 T-Mobile Tuesdays - iOS
 T-Mobile iOS App
-TTC Connect
-TTC Connect APK
-TTC Connect Wallet
-TTC SDK Android
-TTC SDK iOS
 TV - Xfinity hardware and services
 TW Media: Front Page
 TW Media: News
@@ -2429,29 +2355,14 @@ TW eCommerce: Shopping
 TW eCommerce: Store
 TW eCommerce: Used Car
 Tablets
-Tacsk.fuib.com
 Team Calendars for Confluence - Cloud - https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=cloud
 Team Calendars for Confluence - DataCenter - https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=datacenter
 Team Calendars for Confluence - Server - https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=server
 TechCrunch
 Techcrunch
-Ternoa Indexer
-Ternoa Mainnet:
 Tesla Energy hardware you own
 Tesla vehicle hardware that you own
-Testnet Bridge Enclave Address: Avalanche
-Testnet Bridge Enclave address: Bitcoin
-Testnet Bridge Enclave address: Ethereum (Goerli)
-Testnet EVM Bridge Enclave address: Avalanche:
 Testnet Mirror Node APIs
-Testnet bridge front end for testing
-Testnet contract address (subject to change): BTC.b
-Testnet contract address (subject to change): DAI.e
-Testnet contract address (subject to change): LINK.e
-Testnet contract address (subject to change): USDC.e
-Testnet contract address (subject to change): USDT.e
-Testnet contract address (subject to change): WBTC.e
-Testnet contract address (subject to change): WETH.e
 The Perfume Shop (subdomains)
 The ShapeShift Mobile App: https://apps.apple.com/us/app/shapeshift-buy-trade-crypto/id996569075
 The Shapeshift Mobile App: https://play.google.com/store/apps/details?id=com.shapeshift.droid_shapeshift&hl=en_US&gl=US
@@ -2543,7 +2454,6 @@ VFS for Git for Bitbucket Server - Server - https://marketplace.atlassian.com/ap
 VHX Branded Customer Android Apps
 VHX Branded Customer Roku Apps
 VHX Branded Customer iOS Apps
-VIP191
 VPN servers
 VPN: vpn.monash.edu
 Variable tasks for Bamboo - Server - https://marketplace.atlassian.com/apps/1212549/variable-tasks-for-bamboo?hosting=server
@@ -2584,7 +2494,6 @@ Watsons.Thailand.Android
 Watsons.Thailand.IOS
 Watsons.Turkey.Android
 Watsons.Turkey.iOS
-Web
 Web Playback SDK
 Web Portal
 Web Post Hooks for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1211539/web-post-hooks-for-bitbucket-server?hosting=server
@@ -2605,7 +2514,6 @@ Wickr Pro OS X
 Wickr Pro Windows
 Wickr Pro iOS
 Wickr Pro/Wickr Me (all related technical components) (up to)
-Windows App
 Windows Desktop Application
 Windows Executable
 Windows OS Executable: Download here https://www.larksuite.com/download
@@ -2661,7 +2569,6 @@ Yahoo Video
 Yahoo Weather
 Yahoo! (Misc)
 Yahoo! (misc)
-Yield Farming
 Your Own GitLab Instance
 Zendesk - https://trello.com/power-ups/56940ede94fd60cf95f7ce6a/zendesk
 Zero days that affect Intigriti or participating customers (listed below)
@@ -2805,8 +2712,6 @@ api.anytask.thesecurityteam.rocks
 api.arkane.network
 api.atg.se
 api.au.frontegg.com
-api.avax-test.network
-api.avax.network
 api.avtoelon.uz
 api.binance.com
 api.bitcoin.shapeshift.com
@@ -2819,9 +2724,7 @@ api.chainstack.com
 api.cloudflare.com
 api.cm.com
 api.cmtelecom.com
-api.codex.one
 api.coinbase.com
-api.coingecko.com
 api.coinmarketcap.com
 api.cointr.com
 api.cointr.pro
@@ -2831,7 +2734,6 @@ api.dashlane.com
 api.data.gov
 api.deezer.com
 api.deriv.com
-api.dex-trade.com
 api.digital.delen.be
 api.digital.delen.lu
 api.direct.playstation.com
@@ -2851,7 +2753,6 @@ api.foxycart.com
 api.fr.cloud.gov
 api.frame.io
 api.gamma.redoxstage.com
-api.geckoterminal.com
 api.getbase.com
 api.github.com
 api.grabpay.com
@@ -2873,7 +2774,6 @@ api.irccloud.com
 api.kolesa.kz
 api.krisha.kz
 api.krisp.ai
-api.kuna.io
 api.lahitapiola.fi
 api.lansweeper.com
 api.larksuite.com
@@ -3005,7 +2905,6 @@ app.kolesa.kz
 app.krisha.kz
 app.kruidvat.be
 app.kruidvat.nl
-app.lachain.io
 app.lansweeper.com
 app.lansweeper.com/trial
 app.larksuite.com
@@ -3089,7 +2988,6 @@ asupport.suivo.com
 atarkasher.co.il
 aus5.mozilla.org
 auth.23andme.com
-auth.bittrex.com
 auth.cag.us-west-2.int.23andme.us
 auth.crypto.com
 auth.digital.delen.be
@@ -3167,7 +3065,6 @@ blocklist.opera-api.com
 blofin.com
 blog.23andme.com
 blog.chaturbate.com
-blog.coingecko.com
 blog.creditkarma.com
 blog.etsy.com
 blog.irccloud.com
@@ -3322,7 +3219,6 @@ codacontent.io
 codahosted.io
 code.playcanvas.com
 code.yoti.com
-codex.one
 codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
 cognito-idp.eu-west-1.amazonaws.com
 coinbase.com
@@ -3708,7 +3604,6 @@ crisp.ninja
 crm.clario.co
 crm.nextcloud.com
 cruises.priceline.com
-cryptology.com
 cryptowallet.opera-api.com
 cs.money
 csgo.exe
@@ -3796,7 +3691,6 @@ developer.zendesk.com
 developers.smartsheet.com
 developers.tiktok.com
 developers.veriff.me
-dex-trade.com
 diagrams.fr.cloud.gov
 dic.pixiv.net
 digili.s-cloud.fi
@@ -3891,8 +3785,6 @@ events.onecloud.harman.com
 events.venly.market
 exchange.adobe.com
 exchange.opera.com
-exmo.com
-exmo.me
 exness.com
 exnessaffiliates.com
 exodus-movement.exodus
@@ -3971,11 +3863,9 @@ fw.ring.com/*
 gaming.logicool.co.jp
 gamma.grab.co
 gamma.redoxstage.com
-gate.io
 gateway*.marriott.com
 gateway.reddit.com
 gateway.skyscanner.net/*
-geckoterminal.com
 gehmmocbbkpblljhkekmfhjpfbkclbph
 geminiadvisory.io
 geofilters.snapchat.com
@@ -3999,7 +3889,6 @@ github.com/transferwise/*
 gitlab.com
 global-api.citymapper.com
 global.bitexen.com
-global.bittrex.com
 globaljourney.tomorrowland.com
 gnip.com
 gold.xnxx.com
@@ -4026,7 +3915,6 @@ h1-your-domain.zendesk.com
 hack1.mtrx.ovh
 hackathon-photos-us-east-2.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
-hackenproof.com
 hackerone-ext-content.com
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
@@ -4115,7 +4003,6 @@ http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/overlappingz
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
 http://emerald.oasis.dev
 http://expressobutiolem.onion
-http://exzo.network
 http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
 http://github.com/AssetMantle/modules
 http://github.com/AssetMantle/node
@@ -4170,7 +4057,6 @@ https://8x8.vc/xmpp-websocket
 https://STORE-YOURSTOREHash.mybigcommerce.com/
 https://[your-subdomain].kennasecurity.com
 https://a2m.bluejeans.com
-https://aax.com
 https://account.bitpanda.com
 https://account.post.ch
 https://account.t-mobile.com
@@ -4193,14 +4079,12 @@ https://admin.foxycart.com
 https://admin.moneyboxapp.org/
 https://admin3.pentest.clicsante.ca
 https://aemdam.usaa360.com/
-https://affiliate.cryptology.com/
 https://agent.apps.monash.edu/
 https://agentportal.westernunion.com
 https://airflow-prod.coda.io/*
 https://airflow-prod.ops.coda.io/*
 https://aiven.io/
 https://album.link
-https://alpha.yellow.org
 https://alumni-friends.monash.edu
 https://amazonpay.amazon.in/*
 https://amp.20min.ch
@@ -4234,7 +4118,6 @@ https://api.bitpanda.com
 https://api.bitstorage.finance/
 https://api.blablalines.com
 https://api.bluejeans.com/
-https://api.btse.com
 https://api.bugcrowd.com
 https://api.caffeine.tv/
 https://api.cag.us-west-2.int.23andme.us
@@ -4247,7 +4130,6 @@ https://api.creditkarma.com
 https://api.datadome.co
 https://api.dexalot.com
 https://api.electroneum.com/
-https://api.exmo.com
 https://api.exoscale.com/compute
 https://api.fishbowlapp.com/*
 https://api.foxycart.com/
@@ -4265,7 +4147,6 @@ https://api.intercom.io
 https://api.justeat-int.com
 https://api.kennasecurity.com
 https://api.letsexchange.io/doc
-https://api.linen.app/
 https://api.mobile.ada.com
 https://api.moneyboxapp.com/
 https://api.neogov.com
@@ -4337,12 +4218,10 @@ https://app.withings.com
 https://appgallery.huawei.com/#/app/C100570215
 https://apps-staging.pingone.com/*
 https://apps.apple.com/ID/app/id1142114207
-https://apps.apple.com/app/apple-store/id1480509067
 https://apps.apple.com/app/apple-store/id1556596708
 https://apps.apple.com/app/bitpanda-buy-bitcoin-crypto/id1449018960
 https://apps.apple.com/app/id1216446440
 https://apps.apple.com/app/id1450306065
-https://apps.apple.com/app/id1465314783
 https://apps.apple.com/app/id1567160644
 https://apps.apple.com/app/id1635031432
 https://apps.apple.com/app/id1660882885
@@ -4368,10 +4247,8 @@ https://apps.apple.com/gb/app/indeed-flex-job-search/id1013812731
 https://apps.apple.com/gb/app/moneybox-save-and-invest/id1049797239
 https://apps.apple.com/id/app/dana/id1437123008
 https://apps.apple.com/in/app/fave-cashback-for-upi/id1538911340
-https://apps.apple.com/in/app/fitburn/id6444105607
 https://apps.apple.com/in/app/myplutus/id1042552445
 https://apps.apple.com/in/app/pineperks/id908644471
-https://apps.apple.com/ng/app/btse/id1494556510
 https://apps.apple.com/qa/app/ooredoo-qatar/id619828745
 https://apps.apple.com/se/app/atg-live/id1608156355
 https://apps.apple.com/se/app/atg/id1434660322
@@ -4380,18 +4257,15 @@ https://apps.apple.com/si/app/nicehash/id1372054956
 https://apps.apple.com/tt/app/blofin/id1616804346
 https://apps.apple.com/ua/app/citex-mining-exchange/id1546706074
 https://apps.apple.com/ua/app/iopay-multichain-crypto-wallet/id1478086371
-https://apps.apple.com/ua/app/kuna-io-покупка-продажа-btc/id1457062155?l=ru
 https://apps.apple.com/ua/app/trustee-plus-crypto-neobank/id1634455978
 https://apps.apple.com/us/app/%E5%B1%A5%E6%AD%B4%E6%9B%B8%E4%BD%9C%E6%88%90-%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%89/id1484451230
 https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
-https://apps.apple.com/us/app/aex%E5%AE%89%E9%93%B6/id1542565144
 https://apps.apple.com/us/app/asana-mobile/id489969512
 https://apps.apple.com/us/app/backblaze/id628638330
 https://apps.apple.com/us/app/bigone/id1485385044
 https://apps.apple.com/us/app/bingbon-global/id1500217666?ls=1
 https://apps.apple.com/us/app/bitmart-buy-bitcoin-crypto/id1396382871
 https://apps.apple.com/us/app/bitstamp/id1406825640
-https://apps.apple.com/us/app/bkex-intellefund/id1455006421
 https://apps.apple.com/us/app/bybit-app/id1488296980
 https://apps.apple.com/us/app/caffeine-live-streaming/id1170629931
 https://apps.apple.com/us/app/coin98-wallet/id1561969966
@@ -4399,7 +4273,6 @@ https://apps.apple.com/us/app/coinw/id1494077068
 https://apps.apple.com/us/app/confluence-cloud/id1006971684
 https://apps.apple.com/us/app/confluence-server/id1288365159
 https://apps.apple.com/us/app/credit-karma/id519817714
-https://apps.apple.com/us/app/cryptologygo-buy-trade-btc/id6448920037
 https://apps.apple.com/us/app/dropbox-emm/id1080074001
 https://apps.apple.com/us/app/dropbox-secure-cloud-storage/id327630330
 https://apps.apple.com/us/app/electroneum/id1270774992
@@ -4432,7 +4305,6 @@ https://apps.apple.com/us/app/status-private-communication/id1178893006
 https://apps.apple.com/us/app/step-next-generation-banking/id1438006983?mt=8
 https://apps.apple.com/us/app/t-mobile-tuesdays/id1111876388
 https://apps.apple.com/us/app/t-mobile/id561625752
-https://apps.apple.com/us/app/ternoa-wallet/id1562180877#?platform=iphone
 https://apps.apple.com/us/app/tesla/id582007913
 https://apps.apple.com/us/app/tidex/id1632072370
 https://apps.apple.com/us/app/under-armour/id1092704571
@@ -4502,10 +4374,6 @@ https://bitcastle.io/en
 https://bitdelta.com/
 https://bitmart.com/
 https://bitstorage.finance/
-https://bittrex.github.io/api/v3
-https://bkex-dev-pub-hz.oss-cn-hangzhou.aliyuncs.com/downloadlink/localdlgn.html
-https://bkex-dev-pub-hz.oss-cn-hangzhou.aliyuncs.com/downloadlink/localdlgw.html
-https://bkexapi.github.io/docs/api_zh.htm
 https://blablacardaily.com
 https://blog.23andme.com
 https://blog.bitpanda.com
@@ -4519,8 +4387,6 @@ https://bot-tester.datadome.co/
 https://bounty.cryptobox.com
 https://bounty.legapass.com
 https://brand.takeaway.com
-https://bridge.ternoa.network/
-https://bridgr-testnet.polkalokr.com/
 https://browser-notifications.opera.com
 https://bscscan.com/address/0x391BeCc8DAaf32b9ba8e602e9527Bf9DA04C8deb
 https://bscscan.com/address/0x41A00e3FbE7F479A99bA6822704d9c5dEB611F22
@@ -4532,7 +4398,6 @@ https://bscscan.com/address/0xCa20a50ea454Bd9F37a895182ff3309F251Fd7cE
 https://bscscan.com/address/0xb891Aeb2130805171796644a2af76Fc7Ff25a0b9
 https://bscscan.com/address/0xcB0620b181140e57D1C0D8b724cde623cA963c8C
 https://bscscan.com/address/0xec203E7676C45455BF8cb43D28F9556F014Ab461
-https://bscscan.com/token/0x5C65BAdf7F97345B7B92776b22255c973234EfE7
 https://bugcrowd.com/programs
 https://bugcrowd.hotdoc.com.au
 https://bugcrowd.hotdoc.com.au (Patients)
@@ -4666,7 +4531,6 @@ https://dockhand.netflix.com
 https://docs.aiven.io/
 https://docs.allbridge.io/allbridge-overview/bridge-contracts
 https://docs.bugcrowd.com/
-https://docs.cryptology.com/
 https://docs.eazybi.com/
 https://docs.immutable.com/
 https://docs.keeper.io/kcm
@@ -4679,7 +4543,6 @@ https://docs.mapbox.com/api/
 https://docs.mapbox.com/ios/maps/overview/
 https://domainscope.com/ 
 https://donate.mastercard.com
-https://download.bkexer.xin/app/download/android/app-release.apk
 https://download.krisp.ai/mac
 https://download.krisp.ai/win
 https://download.opera.com
@@ -4802,22 +4665,12 @@ https://github.com/Chia-Network/chiavdf
 https://github.com/ClickHouse/ClickHouse
 https://github.com/DODOEX/dodo-limit-order/blob/main/src/DODOLimitOrder.sol
 https://github.com/DODOEX/dodo-route-contract
-https://github.com/DODOEX/dodo-v3/tree/main/contracts/DODOV3MM
 https://github.com/DeltaPrimeLabs/deltaprime-primeloans/tree/dev/main
 https://github.com/Dexalot/contracts
 https://github.com/DopplerHQ/cli
 https://github.com/Electron
-https://github.com/ExzoNetwork/Exzo-Network-Blockchain
-https://github.com/ExzoNetwork/Exzo-Network-Native-Block-Explorer
-https://github.com/ExzoNetwork/Exzo-Network-account-sponsor
-https://github.com/ExzoNetwork/exzo-network-web3.js
-https://github.com/ExzoNetwork/web-wallet
-https://github.com/ExzoNetwork/web3.js
 https://github.com/Filmio-Inc/contracts
-https://github.com/FitburnEngineering/Fitburn.Contracts
-https://github.com/GridexProtocol
 https://github.com/JOJOexchange/smart-contract-EVM
-https://github.com/LATOKEN/lachain
 https://github.com/MyEtherWallet/MyEtherWallet
 https://github.com/MystenLabs/sui/tree/main/crates/sui-framework
 https://github.com/MystenLabs/sui/tree/testnet/crates/json-rpc
@@ -4829,7 +4682,6 @@ https://github.com/MystenLabs/sui/tree/testnet/crates/sui-types
 https://github.com/MystenLabs/sui/tree/testnet/crates/sui-verifier
 https://github.com/MystenLabs/sui/tree/testnet/external-crates/move
 https://github.com/MystenLabs/sui/tree/testnet/narwhal
-https://github.com/NXT-Technologies-INC/NXTChain/tree/main/Permission%20Smart%20Contract
 https://github.com/Netflix/atlas
 https://github.com/Netflix/conductor
 https://github.com/Netflix/dispatch
@@ -4837,8 +4689,6 @@ https://github.com/Netflix/spectator
 https://github.com/Netflix/zuul
 https://github.com/Nginx
 https://github.com/OctopusDeploy
-https://github.com/P2B-team/p2b-api-docs
-https://github.com/PandoraDigital/smart-contract
 https://github.com/Plisio
 https://github.com/ProjectOpenSea/seaport#deployments
 https://github.com/RIPE-NCC/rpki-commons
@@ -4848,7 +4698,6 @@ https://github.com/RIPE-NCC/rpki-publication-server
 https://github.com/RIPE-NCC/rpki-ta-0
 https://github.com/RIPE-NCC/rsyncit
 https://github.com/RIPE-NCC/whois
-https://github.com/Virtuswap/v1-core/tree/main/contracts
 https://github.com/adobe/*
 https://github.com/apache/airflow
 https://github.com/apache/httpd
@@ -4880,9 +4729,7 @@ https://github.com/brave-intl/publishers
 https://github.com/brave/brave-core
 https://github.com/brave/brave-ios
 https://github.com/brave/vault-updater
-https://github.com/capsule-corp-ternoa/chainbridge-solidity/tree/master/contracts
 https://github.com/capsule-corp-ternoa/ternoa-enclaves
-https://github.com/capsule-corp-ternoa/ternoa-js
 https://github.com/capsule-corp-ternoa/ternoa-pallets
 https://github.com/chain4travel/camino-node
 https://github.com/chain4travel/caminoethvm
@@ -5144,7 +4991,6 @@ https://github.com/transferwise/*
 https://github.com/tronprotocol/java-tron
 https://github.com/trustwallet/wallet-core/
 https://github.com/valvesoftware
-https://github.com/vechain/thor
 https://github.com/vertex-protocol/vertex-contracts
 https://github.com/waku-org/js-waku
 https://github.com/waku-org/js-waku-examples
@@ -5166,7 +5012,6 @@ https://gwapi2.tripadvisor.com
 https://gx.games
 https://gx.opera-api.com
 https://h5.coinstore.com
-https://hacken.live/2BY3A8k
 https://hackme.matrixreq.com
 https://halp.com/halp-integrations/microsoft-teams
 https://he.elementor.com/
@@ -5216,12 +5061,10 @@ https://iotexapi.com/
 https://iotexscan.io/
 https://iotexscout.io/
 https://iotube.org/
-https://ipfs-mainnet.trnnfr.com/
 https://iphone-xml.booking.com/json/
 https://itunes.apple.com/fr/app/blablacar-trusted-carpooling/id341329033?l=en&mt=8
 https://itunes.apple.com/gb/app/uconnect-live/id881830261?mt=8
 https://itunes.apple.com/pl/app/panda-uconnect/id1117321678?mt=8
-https://itunes.apple.com/us/app/aax/id1434278660?mt=8
 https://itunes.apple.com/us/app/cash-app/id711923939?mt=8
 https://itunes.apple.com/us/app/irobot-home/id1012014442?mt=8
 https://itunes.apple.com/us/app/lieferando-de/id419724490?l=es&mt=8
@@ -5263,14 +5106,6 @@ https://learn.neogov.com
 https://lensstudio.snapchat.com/api/
 https://letsexchange.io/
 https://library.elementor.com/
-https://link.swisstronik.com/04j
-https://link.swisstronik.com/486
-https://link.swisstronik.com/anb
-https://link.swisstronik.com/d0t
-https://link.swisstronik.com/m2k
-https://link.swisstronik.com/nfj
-https://link.swisstronik.com/zky
-https://link.swisstronik.com/zs7
 https://link.x.immutable.com/
 https://linktr.ee
 https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
@@ -5697,11 +5532,9 @@ https://ort-admin.pingone.com/*
 https://ort-authenticator.pingone.com/*
 https://ort-desktop.pingone.com/*
 https://osu.eu-west-2.outscale.com
-https://p2pb2b.com/
 https://paasportal.episerver.net/
 https://paasportal.episerver.net/api/v1.0/
 https://pab.donneesquebec.ca
-https://pandora.digital
 https://partner-feeds.20min.ch
 https://partner.apps.monash.edu
 https://partnerapi.tapayments.com
@@ -5743,7 +5576,6 @@ https://pinepgconsole.in:9099
 https://pionex-doc.gitbook.io/apidocs/
 https://pixabay.com/
 https://platform.openai.com/playground
-https://play.google.com/store/apps/details?id=app.linen.wallet
 https://play.google.com/store/apps/details?id=au.com.ampol.flagship&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=au.com.ampol.teamapp
 https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US
@@ -5752,10 +5584,8 @@ https://play.google.com/store/apps/details?id=br.com.tapps.moneytree&hl=en_US&gl
 https://play.google.com/store/apps/details?id=co.datadome.app
 https://play.google.com/store/apps/details?id=coin98.crypto.finance.media&pli=1
 https://play.google.com/store/apps/details?id=com.AgainstGravity.RecRoom
-https://play.google.com/store/apps/details?id=com.aax.exchange
 https://play.google.com/store/apps/details?id=com.acn.uc&hl=en
 https://play.google.com/store/apps/details?id=com.acorns.android&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.aex.aexApp
 https://play.google.com/store/apps/details?id=com.app.xt
 https://play.google.com/store/apps/details?id=com.asana.app&hl=en
 https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.core&hl=en_US&gl=US
@@ -5767,10 +5597,8 @@ https://play.google.com/store/apps/details?id=com.bigcommerce.mobile
 https://play.google.com/store/apps/details?id=com.bitmart.bitmarket&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.bitmex.app.android.testnet
 https://play.google.com/store/apps/details?id=com.bitpanda.bitpanda
-https://play.google.com/store/apps/details?id=com.bittrex.trade
 https://play.google.com/store/apps/details?id=com.blablalines
 https://play.google.com/store/apps/details?id=com.blofin.android
-https://play.google.com/store/apps/details?id=com.btse.finance
 https://play.google.com/store/apps/details?id=com.bybit.app&hl=en
 https://play.google.com/store/apps/details?id=com.callpod.android_apps.keeper&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.certsy.app
@@ -5779,9 +5607,7 @@ https://play.google.com/store/apps/details?id=com.coinw.win&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.comuto&hl=en
 https://play.google.com/store/apps/details?id=com.creditkarma.mobile&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.creditkarma.mobile.international
-https://play.google.com/store/apps/details?id=com.cryptology.flutter
 https://play.google.com/store/apps/details?id=com.dailymotion.dailymotion&hl=fr&gl=US
-https://play.google.com/store/apps/details?id=com.deepcoin.app.global
 https://play.google.com/store/apps/details?id=com.dropbox.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.dropbox.app.hellosign&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.dropbox.paper&hl=en_US&gl=US
@@ -5831,7 +5657,6 @@ https://play.google.com/store/apps/details?id=com.squareup.cash
 https://play.google.com/store/apps/details?id=com.step.step
 https://play.google.com/store/apps/details?id=com.swapcard.apps.android&hl=fr
 https://play.google.com/store/apps/details?id=com.syftapp.android
-https://play.google.com/store/apps/details?id=com.ternoa.wallet.prod
 https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.tidex.app.exchange
 https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
@@ -5843,17 +5668,14 @@ https://play.google.com/store/apps/details?id=com.usaa.mobile.android.usaa&hl=en
 https://play.google.com/store/apps/details?id=com.viator.mobile.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.westernunion.android.mtapp&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.xfinity.digitalhome&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.yayd.exchangglobal
 https://play.google.com/store/apps/details?id=com.yopeso.lieferando&hl=en_US
 https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost
 https://play.google.com/store/apps/details?id=edu.monash.monashmobile
 https://play.google.com/store/apps/details?id=fr.gouv.tchap.a&hl=fr
 https://play.google.com/store/apps/details?id=id.dana&hl=en
-https://play.google.com/store/apps/details?id=io.fitburn.mobile
 https://play.google.com/store/apps/details?id=io.gonative.android.xjndrq&hl=fr
 https://play.google.com/store/apps/details?id=io.iotex.iopay.gp
 https://play.google.com/store/apps/details?id=io.opensea&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=kuna.beta
 https://play.google.com/store/apps/details?id=net.bitstamp.app
 https://play.google.com/store/apps/details?id=net.bitstamp.appgo
 https://play.google.com/store/apps/details?id=net.plisio.app&pli=1
@@ -5913,7 +5735,6 @@ https://production.maf.auth0.com
 https://production.maf.auth0.com/api/v2/
 https://profile.pentest.clicsante.ca
 https://prs.payments.r1s-prod.com
-https://public-ipfs-mainnet.ternoa.network
 https://public.je-apis.com
 https://radio.api.soundtrackyourbrand.com/
 https://rarible.com/
@@ -5929,7 +5750,6 @@ https://reptox.cnesst.gouv.qc.ca
 https://res.cloudinary.com
 https://research.23andme.com
 https://resume.com
-https://rewards.gdx.org/
 https://rusadminappt.vfsglobal.com/Global-Admin/
 https://s.contentsquare.net
 https://s.usaa.com/
@@ -5996,7 +5816,6 @@ https://staging-prime.navan.com
 https://staging.airtable.com/admin
 https://staging.coda.io/*
 https://staging.gearset.com/
-https://standalone2.fuib.com
 https://start.1password.com
 https://start.atlassian.com
 https://static-images.ifood.com.br
@@ -6112,7 +5931,6 @@ https://vendorss.usaa.com
 https://viatorapi.viator.com/service/directory
 https://videoplayer.20min.ch
 https://vip-club.computerbild.de/
-https://virtuswap.io/
 https://vlagg.usaa.com
 https://vlapi.usaa.com
 https://vroid.com/studio
@@ -6150,9 +5968,6 @@ https://wuinsights.westernunion.com
 https://www.*mongodb.com/*
 https://www.20min.ch
 https://www.24heures.ch
-https://www.aax.com/apidoc/index.html#introduction
-https://www.aex.com
-https://www.aex.com/page/doc/zh/guide/guide.html
 https://www.amazon.com/amazoncash
 https://www.amazon.com/dppui/*
 https://www.amazon.com/gp/buy/*
@@ -6190,9 +6005,6 @@ https://www.bigcommerce.net
 https://www.binance.com/
 https://www.binance.us/
 https://www.binancecnt.com/
-https://www.bit.com/
-https://www.bit.com/docs/en-us/futures.html#introduction
-https://www.bit.com/legacy/propertyCenter/assets
 https://www.bitdefender.com/business/smb-products/business-security.html?cid=ppc|b|google|smb&s_kwcid=AL!6076!3!514235572261!p!!g!!bitdefender%20business&utm_term=bitdefender%20business&utm_campaign=USA+SMB+Branded+30&utm_source=adwords&utm_medium=ppc&hsa_acc=8155205354&hsa_cam=7848657822&hsa_grp=124745713150&hsa_ad=514235572261&hsa_src=g&hsa_tgt=kwd-308396066873&hsa_kw=bitdefender%20business&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwqIiFBhAHEiwANg9szk-Rr3iSn4mrwsvAUOn-pzrO12ufWDmyCLopWigaLQW0t_xtlBE65RoCr6kQAvD_BwE
 https://www.bitpanda.com
 https://www.bitpanda.com/
@@ -6204,7 +6016,6 @@ https://www.bluejeans.com/
 https://www.bluejeans.com/downloads
 https://www.bookbeat.[se|fi|dk|co.uk|de|pl|dk|ch|at|no|nl|be|es|it|fr]
 https://www.bookbeat.com
-https://www.btse.com
 https://www.caffeine.tv/
 https://www.cart.hostgator.com.br
 https://www.cfr.org/
@@ -6224,8 +6035,6 @@ https://www.cyberghostvpn.com/en_US/apps/macos-vpn
 https://www.cyberghostvpn.com/en_US/apps/windows-vpn
 https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&target=launcher_macosx
 https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
-https://www.deepcoin.com/
-https://www.deepcoin.com/en/apiPage
 https://www.derbund.ch
 https://www.designify.com
 https://www.domain.com
@@ -6241,7 +6050,6 @@ https://www.eu.lululemon.com
 https://www.eu.lululemon.com/
 https://www.expressvpn.com
 https://www.fishbowlapp.com/*
-https://www.fitburn.ai
 https://www.foreignaffairs.com/
 https://www.gamemaker.io
 https://www.glassdoor.com/*
@@ -6331,7 +6139,6 @@ https://www.okta.com/fastpass/
 https://www.okta.com/products/advanced-server-access/
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
-https://www.okx.com/web3
 https://www.ooredoo.qa
 https://www.opera.com/
 https://www.opera.com/computer/thanks?ni=eapgx&os=windows
@@ -6576,7 +6383,6 @@ internal-api-lark-api.larksuite.com
 internal-api.larksuite.com
 internal-docs.netlify.com
 internal.netlify.com
-internal.whitebit.com
 international.coinbase.com
 interseller.io
 interviews.monash.edu
@@ -6649,7 +6455,6 @@ krisp.ai
 kubernetes-csi.github.io
 kubernetes.io
 kumulus.uzleuven.be
-kuna.io
 kundenstimme.sbb.ch
 kws-companion/id1342124012
 kyc-onboarding.booking.com
@@ -6662,8 +6467,6 @@ l75pvbdyjo.infomaniak.site
 label-studio-public.sonantic.io
 labs.data.gov
 labs.databricks.com
-ladex.exchange
-landing.coingecko.com
 lando.services.mozilla.com
 lark-frontier.byteoversea.com
 larksuite.com
@@ -6774,10 +6577,6 @@ magisto.com,www.magisto.com
 mail.infomaniak.com
 mailpoet.com
 main.trafficfactory.biz
-mainnet-boot-0.ternoa.network
-mainnet-boot-1.ternoa.network
-mainnet-boot-2.ternoa.network
-mainnet.ternoa.network
 maintenance.logitech.com
 manage-sandbox.gocardless.com
 manage.blockscore.com
@@ -7180,7 +6979,6 @@ pro-api.coinmarketcap.com
 pro.coinbase.com
 pro.coinmarketcap.com
 pro.doctolib.(fr|de|it) (see "about freemium scope")
-pro.kuna.io
 pro.opensea.io
 prod.ros.rockstargames.com
 proddata.xobni.yahoo.com
@@ -7424,7 +7222,6 @@ sso.8x8.com
 sso.8x8pilot.com
 sso.marriott.com
 sso.oft.hyatt.com
-stage.bittrex.com
 stage.landmarkcinemas.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 staging-admin.shipt.com
@@ -7449,7 +7246,6 @@ staking-uat.codefi.network
 staking.codefi.network
 static-cdn.clario.co
 static.apps.nextcloud.com
-static.bittrex.com
 static.rarible.com
 static.thuisbezorgd.nl
 static.usaa.com
@@ -7491,7 +7287,6 @@ stubru.be/luister/select
 studentplacements.monash.edu
 studio-api.swapcard.com
 studio.swapcard.com
-subnet-evm
 substance3d.com
 suggestions.opera-api.com
 super-services.indriverapp.com
@@ -7499,7 +7294,6 @@ super6.skysports.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
 support-api.airbnb.com
-support.avalabs.org
 support.creditkarma.ca
 support.cs.money
 support.databricks.com
@@ -7542,7 +7336,6 @@ tech.palm.id
 teleport.sh
 temp.rarible.com
 tequila.kiwi.com
-ternoa.com Eth-Ternoa bridge
 terra-*.indriverapp.com
 test*.redoxengine.com
 test.deribit.com
@@ -7701,7 +7494,6 @@ watchgod.polygon.technology
 watchlistapi.etoro.com
 weather.opera-api.com
 web-app.eevee.bbp-mettle.co.uk
-web.bittrex.com
 web.grindr.com
 web.snapchat.com
 web.tide.co
@@ -7723,7 +7515,6 @@ webwinkel.volkskrant.nl
 welcome.infomaniak.com
 wga.volans.tech
 whatsnew.krisp.ai
-whitebit.com
 widget.cloudinary.com
 widget.rentalcars.com
 wiki-accpt.portofantwerp.com
@@ -7795,7 +7586,6 @@ www.bitexen.com
 www.bitmoji.com
 www.bitstamp.net - Bitstamp Application & API
 www.bitstrips.com
-www.bkex.com
 www.blockchain.info
 www.blueskytours.com
 www.bmw-motorrad.de
