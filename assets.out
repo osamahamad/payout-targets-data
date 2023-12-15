@@ -516,7 +516,6 @@
 *.marketo.com
 *.mas.mobilevikings.be
 *.mattermost.com
-*.maximum.nl
 *.mb-cosmos.com
 *.mbamupdates.com
 *.mcssl.com
@@ -2700,7 +2699,6 @@ accounts.shopify.com
 accounts.snapchat.com
 accounts.stage.evernote.com
 accountsettings.connect.identity.stagaws.visma.com
-acme-challenge.nl
 acrobat.adobe.com
 acrobatoauth.adobe.com
 activate.codefi.network
@@ -3786,7 +3784,6 @@ developer.zendesk.com
 developers.smartsheet.com
 developers.tiktok.com
 developers.veriff.me
-devmaximum.com
 dex-trade.com
 diagrams.fr.cloud.gov
 dic.pixiv.net
@@ -3820,7 +3817,6 @@ documents.adobe.com
 donate.mastercard.com
 donations.livestream.com
 dookeydash.com
-doorstromen.mijnkombijdepolitie.nl
 doppler
 doppler.team
 dota2.exe
@@ -3829,7 +3825,6 @@ download.nextcloud.com
 download.opera.com
 downloads.datastax.com
 drone.vidaxl.io
-dropr.nl
 e-Commerce
 eIDAS Bridge  (see program description for github link)
 eaccounting.stage.vismaonline.com
@@ -6796,12 +6791,10 @@ masq.qwant.com
 matomo.cloud
 matrix.agent.*.tchap.gouv.fr
 matrix.redditspace.com
-maxcldapp.net
 maximo-accpt.portofantwerp.com
 maximo-accpt.portofantwerpbruges.com
 maximo.portofantwerp.com
 maximo.portofantwerpbruges.com
-maximum-status.com
 mcssl.com
 mdm.weareone.world
 mds.voiapp.io
@@ -6837,7 +6830,6 @@ mijn.gamma.be/*
 mijn.gamma.nl/*
 mijn.karwei.nl/*
 mijnacc.uzleuven.be
-mijnkombijdepolitie.nl
 mirc.uzleuven.be
 miro.com
 mix-dev.monash.edu/*
@@ -6995,10 +6987,8 @@ nl.gamma.verf
 nl.karwei.app.android
 nl.vidaxl.be
 nmtracking.netflix.com
-no-reply.cloud
 no.kolonial.tienda
 node.e2ro.com/*
-nossl.nl
 novel.pixiv.net
 npm CLI
 npmjs.com
@@ -7151,7 +7141,6 @@ preprod.auth.monespacesante.fr
 preprod.editeur.am.monespacesante.fr
 preprod.editeur.api.monespacesante.fr
 preprod.monespacesante.fr
-preprod.nl
 preprod1.grindr.com
 preprod1.monespacesante.fr
 preprod2.monespacesante.fr
@@ -7207,7 +7196,6 @@ py.pl
 qa-db.vidaxl.io
 qa.vidaxl.io
 qa1-apigateway.vidaxl.io
-qatest.nl
 qwantjunior.com
 r.etoro.com
 rankings.etoro.com
@@ -7276,9 +7264,6 @@ rpm.newrelic.com/accounts/*/browser
 rpm.newrelic.com/accounts/*/mobile
 rt.playcanvas.com
 rubygems.org
-ruddercms.com
-ruddercms.nl
-rudderplatform.com
 s-boards.qwant.com
 s.qwant.com
 s.reddit.com
@@ -7721,9 +7706,6 @@ webwinkel.parool.nl
 webwinkel.trouw.nl
 webwinkel.volkskrant.nl
 welcome.infomaniak.com
-werkenbijdefensie.nl
-werkenbijderet.nl
-werkenbijdnb.nl
 wga.volans.tech
 whatsnew.krisp.ai
 whitebit.com
@@ -7759,7 +7741,6 @@ wp-dev3.chime.com
 wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
-wp-mail.nl
 wp-qa.chime.com
 ws.blockchain.info
 ws.sorare.com
@@ -8156,7 +8137,6 @@ www.watsons.com.tr
 www.watsons.com.tw
 www.wearehackerone.com
 www.welt.de
-www.werkenbijbakertilly.nl
 www.wickr.com
 www.wotif.com
 www.wynnvacations.com
