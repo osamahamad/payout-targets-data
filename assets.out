@@ -219,6 +219,8 @@
 *.cryptology.com
 *.cryptopunks.app
 *.cubicmotion.com
+*.cyberghost.com
+*.cyberghostvpn.com
 *.cyberoam.com
 *.dailyadvent.com
 *.dailymotion.com
@@ -1618,6 +1620,17 @@ Crucible
 Crucible build status - Server - https://marketplace.atlassian.com/apps/1224728/crucible-build-status?hosting=server
 Crypviser Network
 Custom Fields - https://trello.com/power-ups/56d5e249a98895a9797bebb9/custom-fields
+CyberGhost APIs
+CyberGhost Android application
+CyberGhost Chrome extension
+CyberGhost Firefox extension
+CyberGhost Linux application
+CyberGhost PS3+PS4 apps
+CyberGhost VPN servers
+CyberGhost Windows application
+CyberGhost Xbox One + Xbox360 apps
+CyberGhost iOS application
+CyberGhost macOS application
 DSE, Opscenter
 DSP
 Dashcards  - https://trello.com/power-ups/6048e897c73d032a983e2a7c/dashcards
@@ -3709,6 +3722,8 @@ customers.gitlab.com
 customers.mattermost.com
 customerupdates.nextcloud.com
 cw.visa.com
+cyberghost.app
+cyberghost.com
 cysiv.com
 d1.utv.usaa.com
 d2.utv.usaa.com
@@ -4163,6 +4178,7 @@ https://accounts.creditkarma.com
 https://accounts.opera.com
 https://accounts.welcomesoftware.com/
 https://add-in.stag.henchman.io
+https://addons.mozilla.org/en-US/firefox/addon/cyberghost-vpn-free-proxy/
 https://addons.mozilla.org/en-US/firefox/addon/pinterest/
 https://addons.mozilla.org/en-US/firefox/addon/private-internet-access-ext/
 https://addons.opera.com/en/extensions/details/private-internet-access-extension/
@@ -4388,6 +4404,7 @@ https://apps.apple.com/us/app/dropbox-secure-cloud-storage/id327630330
 https://apps.apple.com/us/app/electroneum/id1270774992
 https://apps.apple.com/us/app/hubspot/id1107711722
 https://apps.apple.com/us/app/id1512836089
+https://apps.apple.com/us/app/id583009522
 https://apps.apple.com/us/app/indeed-connect-for-employers/id6443822731
 https://apps.apple.com/us/app/indeed-job-search/id309735670
 https://apps.apple.com/us/app/jira-cloud-by-atlassian/id1006972087
@@ -4556,6 +4573,7 @@ https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeo
 https://chrome.google.com/webstore/detail/ibotta-browser-extension/mfaedmjlefifhnhpgipjjiiekchaimpk?hl=en-US
 https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en
 https://chrome.google.com/webstore/detail/private-internet-access/jplnlifepflhkbkgonidnobkakhmpnmh
+https://chrome.google.com/webstore/detail/stay-secure-with-cybergho/ffbkglfijbcbgblgflchnbphjdllaogb
 https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcmnfgpnmkkhmkllnlflef
 https://clickhou.se/bugcrowd
 https://client.acorns.com
@@ -4601,6 +4619,7 @@ https://cuba.westernunion.com
 https://customer-api.datadome.co
 https://customerevents.netflix.com
 https://customerportal.winconnect.com.au/login
+https://cyberghost.com
 https://d1.utv.usaa.com
 https://d2.utv.usaa.com
 https://daily.blablacar.fr
@@ -5825,6 +5844,7 @@ https://play.google.com/store/apps/details?id=com.westernunion.android.mtapp&hl=
 https://play.google.com/store/apps/details?id=com.xfinity.digitalhome&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.yayd.exchangglobal
 https://play.google.com/store/apps/details?id=com.yopeso.lieferando&hl=en_US
+https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost
 https://play.google.com/store/apps/details?id=edu.monash.monashmobile
 https://play.google.com/store/apps/details?id=fr.gouv.tchap.a&hl=fr
 https://play.google.com/store/apps/details?id=id.dana&hl=en
@@ -6197,6 +6217,10 @@ https://www.creditkarma.com
 https://www.creditkarma.com/reviews/
 https://www.creditkarma.com/savings
 https://www.cyber.gouv.qc.ca
+https://www.cyberghostvpn.com/
+https://www.cyberghostvpn.com/en_US/apps/linux-vpn
+https://www.cyberghostvpn.com/en_US/apps/macos-vpn
+https://www.cyberghostvpn.com/en_US/apps/windows-vpn
 https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&target=launcher_macosx
 https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
 https://www.deepcoin.com/
