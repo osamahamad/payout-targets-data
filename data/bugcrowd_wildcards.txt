@@ -46,8 +46,6 @@ Backblaze Website (*.backblaze.com)
 *.creditkarma.co.uk
 *.creditkarma.com
 *.seedfi.com
-*.cyberghost.com
-*.cyberghostvpn.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.sandbox.directly.com/
@@ -173,6 +171,7 @@ api*.netflix.com
 *.pexels.com
 *.pinterest.com Web Apps
 *.pixabay.com/
+*.privateinternetaccess.com
 *.privateinternetaccess.com
 *.naspers.com
 *.prosus.com
