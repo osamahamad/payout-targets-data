@@ -48,8 +48,6 @@ Backblaze Website (*.backblaze.com)
 *.seedfi.com
 *.cyberghost.com
 *.cyberghostvpn.com
-*.cyberghost.com
-*.cyberghostvpn.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.sandbox.directly.com/
@@ -175,6 +173,7 @@ api*.netflix.com
 *.pexels.com
 *.pinterest.com Web Apps
 *.pixabay.com/
+*.privateinternetaccess.com
 *.naspers.com
 *.prosus.com
 *.quizlet.com
