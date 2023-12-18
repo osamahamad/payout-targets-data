@@ -389,9 +389,11 @@ users-api.truelayer.com
 C# SDK
 console-backend.truelayer[-sandbox].com
 console.truelayer[-sandbox].com
+hpp.truelayer[-sandbox].com
 iOS SDK
 Java SDK
 PHP SDK
+React Native SDK
 Rust SDK
 TrueLayer for Magento (Magento plugin)
 TrueLayer for WooCommerce (WordPress plugin)
