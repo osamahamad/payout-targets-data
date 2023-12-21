@@ -309,12 +309,6 @@
 *.gitlap.com
 *.glassdoor.com/*
 *.global-liquidity.gs.com
-*.gocardless-cicd.io
-*.gocardless-lab.io
-*.gocardless-staging.io
-*.gocardless.com
-*.gocardless.dev
-*.gocardless.io,*.gocardless-banking.io
 *.goldman.com
 *.goldmanpfm.com
 *.goldmansachs.com
@@ -388,7 +382,6 @@
 *.hypr.com
 *.ibood.com
 *.ibood.io
-*.igpayment.com
 *.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
@@ -407,8 +400,6 @@
 *.infra-prod.nsvcs.net
 *.infrastructure-data.newrelic.com
 *.infrastructure.newrelic.com
-*.innogames.com
-*.innogames.de
 *.instacart.com
 *.instacart.tools
 *.intel.com
@@ -1640,6 +1631,8 @@ Delegated Directory Pruning for Crowd - Server - https://marketplace.atlassian.c
 Dependabot
 Dependency Graph Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1215979/dependency-graph-plugin-for-bamboo?hosting=server
 Desktop Client
+Desktop MFA for Windows
+Desktop MFA for macOS
 Developer Assistant for Confluence - Cloud - https://marketplace.atlassian.com/apps/1229446/developer-assistant-for-confluence?hosting=cloud
 Developer Assistant for Jira - Cloud - https://marketplace.atlassian.com/apps/1229343/developer-assistant-for-jira?hosting=cloud
 Developer Platform Playground
@@ -2135,6 +2128,7 @@ Okta Browser Plugin (IE / Firefox / Chrome)
 Okta On-Prem Agents ( AD, LDAP, RDP, IWA )
 Okta Verify (Android)
 Okta Verify (Mac OS)
+Okta Verify (Windows)
 Okta Verify (iOS)
 Omega
 OneDrive - https://trello.com/power-ups/5940440775fbe327abd3329f/onedrive
@@ -2209,6 +2203,7 @@ Package Tracker - https://trello.com/power-ups/55a5d917446f51777421000d/package-
 Packet Forward Middleware
 Paper Desktop Application
 Parcast
+Password Sync for macOS
 PayFriends/PayAnyone Features
 Peephole Cam
 Permission Lockdown for Bitbucket Server - DataCenter - https://marketplace.atlassian.com/apps/1217941/permission-lockdown-for-bitbucket-server?hosting=datacenter
@@ -2786,7 +2781,6 @@ api-boards.qwant.com
 api-eu.floqast.app
 api-ne.mackeeper.com
 api-saas.dana.id
-api-sandbox.gocardless.com
 api-sandbox.uphold.com
 api-staging.airtable.com
 api-staging.venly.market
@@ -3133,7 +3127,6 @@ badoo.com
 badoocdn.com
 ballistic.com
 ballistic.com.br
-bankaccountdata.gocardless.com, ob.gocardless.com
 basecamp3.exe
 basicattentiontoken.org
 battles.tv
@@ -3250,7 +3243,6 @@ careers.tiktok.com
 careers.ui.com
 cargo.indrive.com
 cars.booking.com
-cart.hostgator.com.br
 cart.starbucks.co.jp
 cashback.opera.com
 cashier-src.etoro.com
@@ -3291,7 +3283,6 @@ citrix.cloud.com
 clario.co
 classroom.github.com
 clientcert.gamma.redoxstage.com
-cliente.hostgator.com.br/
 cloud.acrobat.com
 cloud.coinbase.com
 cloud.connect.justeattakeaway.com
@@ -3357,6 +3348,7 @@ com.amazon.tahoe.freetime
 com.amazon.tails
 com.anchorfminc.Anchor
 com.android.browser
+com.anker.AnkerMake
 com.application.zomato
 com.application.zomatomerchant
 com.aqupepgames.projectpepe
@@ -3409,6 +3401,7 @@ com.einnovation.temu
 com.enjin.mobile.wallet
 com.etoro.openbook
 com.etoro.wallet
+com.eufylife.EufyHome
 com.evernote.android
 com.exness.android.pa
 com.exness.investments
@@ -3454,8 +3447,6 @@ com.hotwire.hotels
 com.hypr.one
 com.ibood.app
 com.immediasemi.android.blink
-com.innogames.elvenar - Android
-com.innogames.foeandroid
 com.instacart.client
 com.inthepocket.kinepolis
 com.iphone.workfront
@@ -3503,6 +3494,9 @@ com.nicehash.metallum
 com.nicehash.mobile
 com.nordpass.android.app.password.manager
 com.nordvpn.android
+com.oceanwing.FDMPrint
+com.oceanwing.battery.cam
+com.oceanwing.care.cam
 com.onedebit.chime
 com.orbitz
 com.paddypower.sportsbook.u.inhouse
@@ -3532,6 +3526,8 @@ com.scopely.monopolygo
 com.scopely.startrek
 com.scopely.yux
 com.scorpio.securitycom
+com.security.BatteryCam
+com.security.care
 com.sentiance.journeys
 com.sentiance.journeys2
 com.sgiggle.Mango
@@ -3664,7 +3660,6 @@ components.tomorrowland.com
 configure.bmw.de
 configure.mini.de
 confluence.hyattdev.com
-connect-sandbox.gocardless.com
 connect.8x8.com
 connect.arkane.network
 connect.deezer.com
@@ -4080,7 +4075,6 @@ homes-and-villas.marriott.com
 horizonchase.com
 horizonchase.com.br
 horizonchaseturbo.com
-hostgator.com.br/
 hotel-deals.marriott.com
 hotornot.com
 hpp.truelayer[-sandbox].com
@@ -4576,7 +4570,6 @@ https://chrome.google.com/webstore/detail/stay-secure-with-cybergho/ffbkglfijbcb
 https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcmnfgpnmkkhmkllnlflef
 https://clickhou.se/bugcrowd
 https://client.acorns.com
-https://cliente.hostgator.com.br/
 https://clients.multiplayer.classdojo.com/launcher/prod/latest
 https://clients3.pentest.clicsante.ca
 https://cloudinary.com/console
@@ -5707,6 +5700,7 @@ https://partners.usaa.com
 https://partners.viator.com
 https://partners.westernunion.com
 https://partners.westernunion.com 
+https://passport.eufy.com/?app=eufy-us
 https://pay.unity.com
 https://payment-connectors.vendhq.com/
 https://paymentoptimizerdashboard.pinepg.in/
@@ -6094,6 +6088,10 @@ https://unity3d.com/get-unity/download/archive
 https://updates.arlo.com
 https://updates.netgear.com/arlo
 https://upload.imagekit.io/
+https://us.eufy.com/products/e8213181
+https://us.eufy.com/products/t8410121
+https://us.eufy.com/products/t88511d1
+https://us.eufy.com/products/t88711w1
 https://user-profile-prod.coda.io/*
 https://user-profile-test.coda.io/*
 https://utv.usaa.com
@@ -6151,6 +6149,7 @@ https://www.amazon.com/gp/buy/*
 https://www.amazon.com/luna/*
 https://www.amazon.in/wealth/*
 https://www.amazonpay.in/*
+https://www.ankermake.com/products/m5?variant=42744298373269
 https://www.anytask.com/
 https://www.api.hpr.kiwai-normandie.fr/
 https://www.api.kiwai-normandie.fr
@@ -6194,11 +6193,9 @@ https://www.bitstamp.net/
 https://www.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
 https://www.bluejeans.com/
 https://www.bluejeans.com/downloads
-https://www.bookbeat.[se|fi|dk|co.uk|de|pl|dk|ch|at|no|nl|be|es|it|fr]
 https://www.bookbeat.com
 https://www.btse.com
 https://www.caffeine.tv/
-https://www.cart.hostgator.com.br
 https://www.cfr.org/
 https://www.classdojo.com
 https://www.cloudvector.com/
@@ -6552,7 +6549,6 @@ infrastructure.eu.newrelic.com
 infrastructure.newrelic.com
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
-innogames.com
 insights-by-sentiance/id1608074635
 insights.deribit.com
 insights.eu.newrelic.com
@@ -6769,7 +6765,6 @@ mainnet-boot-1.ternoa.network
 mainnet-boot-2.ternoa.network
 mainnet.ternoa.network
 maintenance.logitech.com
-manage-sandbox.gocardless.com
 manage.blockscore.com
 manage.grab.co
 manage.statuspage.io
@@ -7006,7 +7001,6 @@ nvio.mx
 nvoice.usaa.com
 nw.ring.com/*
 nz.co.vista.android.movie.mjrtheatres
-oauth-sandbox.gocardless.com
 oauth.deriv.com
 oauth.developers.stagaws.visma.com
 oauth.reddit.com
@@ -7078,7 +7072,6 @@ partners.usaa.com
 passport.larksuite.com
 passwordchallenge.marriott.com
 pay-api.truelayer[-sandbox].com
-pay-sandbox.gocardless.com
 pay.8x8.com
 pay.amazon.*
 pay.crypto.com
@@ -7489,7 +7482,6 @@ support.creditkarma.ca
 support.cs.money
 support.databricks.com
 support.greenhouse.io
-support.innogames.com
 support.logi.com
 support.malwarebytes.com
 support.monespacesante.fr
@@ -7570,7 +7562,6 @@ trbinance.com
 trello.com
 trendyol.com
 tria.ge
-tribalwars.cash
 trm.pinelabs.com
 trm.pinepaymentsolutions.com
 truck-api.eu-east-1.indriverapp.com
@@ -7869,7 +7860,6 @@ www.gamma.be/*
 www.gamma.nl/*
 www.getaroom.com
 www.globalhotelchoices.com
-www.gocardless.com
 www.goodrx.com
 www.greenhouse.io
 www.hackerone.com
@@ -8149,20 +8139,9 @@ x2.fortmatic.com
 xFi Gateways (e.g., XB3, XB6, XB7)
 xFi Pods
 xd.adobe.com
-xero-sandbox.gocardless.com
 xhomeapi-*.cloud.comcast.net
 xhomeapi-*.codebig2.net
 xray.october.eu
-xs.elvenar.com
-xs.forgeofempires.com
-xs.grepolis.com
-xs0.elvenar.com
-xs0.forgeofempires.com
-xs0.grepolis.com
-xs1.elvenar.com
-xs1.forgeofempires.com
-xs1.grepolis.com
-xs1.tribalwars.cash
 xtramile.grabpay.com
 yapi.clario.co
 yelptop100.com

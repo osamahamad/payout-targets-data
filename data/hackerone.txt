@@ -135,6 +135,19 @@ push.services.mozilla.com
 shavar.services.mozilla.com
 sync.services.mozilla.com
 www.six-group.com
+com.anker.AnkerMake
+com.eufylife.EufyHome
+com.oceanwing.FDMPrint
+com.oceanwing.battery.cam
+com.oceanwing.care.cam
+com.security.BatteryCam
+com.security.care
+https://passport.eufy.com/?app=eufy-us
+https://us.eufy.com/products/e8213181
+https://us.eufy.com/products/t8410121
+https://us.eufy.com/products/t88511d1
+https://us.eufy.com/products/t88711w1
+https://www.ankermake.com/products/m5?variant=42744298373269
 1023499075
 api-user.e2ro.com/*
 com.eero.android
@@ -1151,14 +1164,6 @@ io.cornershop.ios
 1541949985
 com.coinspot.app
 www.coinspot.com.au
-api-sandbox.gocardless.com
-bankaccountdata.gocardless.com, ob.gocardless.com
-connect-sandbox.gocardless.com
-manage-sandbox.gocardless.com
-oauth-sandbox.gocardless.com
-pay-sandbox.gocardless.com
-www.gocardless.com
-xero-sandbox.gocardless.com
 194.90.151.192/28
 194.90.25.80/29
 194.90.89.165/32
