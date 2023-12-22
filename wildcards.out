@@ -348,6 +348,7 @@
 *.hypr.com
 *.ibood.com
 *.ibood.io
+*.igpayment.com
 *.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
@@ -366,6 +367,8 @@
 *.infra-prod.nsvcs.net
 *.infrastructure-data.newrelic.com
 *.infrastructure.newrelic.com
+*.innogames.com
+*.innogames.de
 *.instacart.com
 *.instacart.tools
 *.intel.com
