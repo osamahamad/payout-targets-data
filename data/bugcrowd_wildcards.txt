@@ -58,6 +58,10 @@ Backblaze Website (*.backblaze.com)
 *.hellofax.com
 *.hellosign.com
 *.helloworks.com
+*.epam.com
+*.lab.epam.com
+*.opensource.epam.com
+*.projects.epam.com
 Internal Web services - *.internal.exoscale.ch
 *.expressvpn.com
 *.xvservice.net

@@ -266,6 +266,7 @@
 *.elasticnet.co
 *.elstc.co
 *.eops.nl
+*.epam.com
 *.epicgames.com
 *.epicgames.dev
 *.eu.floqast.app
@@ -456,6 +457,7 @@
 *.krisp.ai
 *.kucoin.com
 *.kwsdose.be
+*.lab.epam.com
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.landmarkcinemas.com
@@ -594,6 +596,7 @@
 *.onegraph.com
 *.openai.com
 *.openai.org
+*.opensource.epam.com
 *.opera-mini.net
 *.opera.com
 *.opera.news
@@ -655,6 +658,7 @@
 *.prod.dradis.netflix.com
 *.prod.ftl.netflix.com
 *.prod.nube.tech
+*.projects.epam.com
 *.proofhq.com
 *.prosus.com
 *.prowly.com
@@ -1832,6 +1836,7 @@ Identity Management (IDM)
 Illustrator
 Image Paste for Fisheye/Crucible - Server - https://marketplace.atlassian.com/apps/1215192/image-paste-for-fisheye-crucible?hosting=server
 Images
+In Scope - Points only
 In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)
 InCopy
 InDesign
@@ -2675,6 +2680,7 @@ ab2b0c50cdc7b445391f99d4957850c5-cd4ccfdb37dfafad.elb.us-east-1.amazonaws.com
 about.gitlab.com
 academy-outbound-ads.tiktok.com
 academy.databricks.com
+access.epam.com
 access.ripe.net
 accommodations.booking.com
 account.acronis.com
@@ -2774,6 +2780,7 @@ analytics.ninjakiwi.com
 analytics.pinelabs.com
 analytics.prosus.com
 anytask.thesecurityteam.rocks
+anywhere.epam.com
 ap-s.cloud.com
 apay-us.amazon.com
 api*.netflix.com
@@ -4172,6 +4179,7 @@ https://STORE-YOURSTOREHash.mybigcommerce.com/
 https://[your-subdomain].kennasecurity.com
 https://a2m.bluejeans.com
 https://aax.com
+https://access.epam.com/
 https://account.bitpanda.com
 https://account.post.ch
 https://account.t-mobile.com
@@ -4214,6 +4222,7 @@ https://analytics.neogov.com
 https://analytics.welcomesoftware.com/
 https://anytask.thesecurityteam.rocks
 https://anytask.thesecurityteam.rocks/
+https://anywhere.epam.com/
 https://api-a.usaa.com
 https://api-ch-gva-2.exoscale.com/v2
 https://api-dashboard.stag.henchman.io
@@ -5245,6 +5254,7 @@ https://keepersecurity.eu/vault
 https://kiwi.partner.viator.com
 https://kw-bugcrowd-pub.bounty.kiteworks.dev/
 https://l.usaa.com/
+https://lab.epam.com
 https://laptop-updates.brave.com/latest/dev/debian64
 https://laptop-updates.brave.com/latest/dev/ubuntu64
 https://laptop-updates.brave.com/latest/fedora64
@@ -5687,6 +5697,7 @@ https://opendata-demo.test-socrata.com
 https://opendata.test-socrata.com
 https://opendata.test-socrata.com/admin/gateway
 https://opensea.io/
+https://opensource.epam.com
 https://ops-dashboard.stag.henchman.io
 https://ops-tool.internal.bbp-mettle.co.uk/
 https://optimizely-edge.com
@@ -5909,6 +5920,7 @@ https://pro.opensea.io/
 https://production.maf.auth0.com
 https://production.maf.auth0.com/api/v2/
 https://profile.pentest.clicsante.ca
+https://projects.epam.com
 https://prs.payments.r1s-prod.com
 https://public-ipfs-mainnet.ternoa.network
 https://public.je-apis.com
@@ -6234,6 +6246,7 @@ https://www.driveuconnect.eu
 https://www.dropbox.com/capture
 https://www.dropbox.com/desktop
 https://www.dropbox.com/paper
+https://www.epam.com/
 https://www.etsy.com
 https://www.etsy.com/developers/documentation/getting_started/api_basics
 https://www.etsy.com/mobile
