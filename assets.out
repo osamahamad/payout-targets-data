@@ -1689,8 +1689,6 @@ Embedded Marketplace for Confluence - Cloud - https://marketplace.atlassian.com/
 Embedded Marketplace for Jira - Cloud - https://marketplace.atlassian.com/apps/1218864/embedded-marketplace-for-jira?hosting=cloud
 Enclave server (please test on testnet only)
 Engadget
-Enjin - Ethereum ERC-1155 Contract
-Enjin Coin - Ethereum ERC-20 Contract
 Ensemble
 Entity Property Tool for Jira - Cloud - https://marketplace.atlassian.com/apps/1214509/entity-property-tool-for-jira?hosting=cloud
 EpicGamesLauncher.exe    
@@ -2842,7 +2840,6 @@ api.digital.delen.lu
 api.direct.playstation.com
 api.doppler.com
 api.editeur.preprod.monespacesante.fr
-api.enjinx.io
 api.ethereum.shapeshift.com
 api.etoro.com
 api.evernote.com
@@ -3085,7 +3082,6 @@ asiointi.lahitapiola.fi
 askpam.ai
 assets.adobe.com
 assets.airbnb.com
-assets.enjin.io,cdn.enjin.io,*.cdn.enjin.io,*.cdn.enjin.cn,cdn.enjin.cn,cdn.enjinx.io,cdn.enjinx.cn,enjinusercontent.com,*.enjinusercontent.com
 assets.hyatt.com
 assets.spotify.com
 assets.tumblr.com
@@ -3151,7 +3147,6 @@ be.nexuzhealth.mobile.mynexuz
 be.vrt.ketnet.ketnetjr
 be.vrt.vrtnu
 beacon.netflix.com
-beam.enjin.io,jumpnet.beam.enjin.io
 behance.net
 beta-cloud.acronis.com
 beta.ibood.com
@@ -3301,7 +3296,6 @@ cloud.coinbase.com
 cloud.connect.justeattakeaway.com
 cloud.connect.takeaway.com
 cloud.elastic.co
-cloud.enjin.io,goerli.cloud.enjin.io,jumpnet.cloud.enjin.io
 cloud.gov
 cloud.gravitational.io
 cloud.malwarebytes.com
@@ -3411,7 +3405,6 @@ com.dolap.android
 com.ebookers
 com.eero.android
 com.einnovation.temu
-com.enjin.mobile.wallet
 com.etoro.openbook
 com.etoro.wallet
 com.eufylife.EufyHome
@@ -3882,7 +3875,6 @@ en.vidaxl.ca
 eng.magiceden.dev
 eng.magiceden.io
 engine.october.eu
-enjinx.io
 epptool-ctld.verisign-grs.com (EPP service; DNS related)
 errors.hackerone.net
 etickets.infomaniak.com

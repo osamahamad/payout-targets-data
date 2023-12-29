@@ -916,7 +916,6 @@ Backblaze Website (*.backblaze.com)
 Internal Web services - *.internal.exoscale.ch
 api*.netflix.com
 api-*.soundcloud.com
-assets.enjin.io,cdn.enjin.io,*.cdn.enjin.io,*.cdn.enjin.cn,cdn.enjin.cn,cdn.enjinx.io,cdn.enjinx.cn,enjinusercontent.com,*.enjinusercontent.com
 dcfgateway*.marriott.com
 gateway*.marriott.com
 h1-*your-own-instance*.cloud.mattermost.com
