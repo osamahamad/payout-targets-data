@@ -153,8 +153,6 @@
 *.cloudvector.com/
 *.clubhouse.com
 *.clubhouseapi.com
-*.cm.com
-*.cmtelecom.com
 *.coda.io/*
 *.code.gov
 *.cognitiveperformer.com
@@ -163,6 +161,7 @@
 *.coinmetro.com
 *.coinsbit.io
 *.comcast.com
+*.contactallerg(y|ie).uzleuven.be
 *.contentsquare.com
 *.cornershop.io/*
 *.cornershopapp.com/*
@@ -377,9 +376,11 @@
 *.kortathjonustan.is
 *.krisp.ai
 *.kucoin.com
+*.kwsdose.be
 *.lab.epam.com
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
+*.lansweeper.com
 *.lazada-seller.cn
 *.lazada.(sg|vn|co.id|co.th|com|com.ph|com.my) (+)
 *.lazada.(sg|vn|co.id|co.th|com|com.ph|com.my) (++)
@@ -443,6 +444,7 @@
 *.metrobyt-mobile.com
 *.mevo.com
 *.mi.com
+*.mir.uzleuven.be
 *.miui.com
 *.miwifi.com
 *.mixamo.com
@@ -464,6 +466,10 @@
 *.myteksi.net
 *.namestudio.com
 *.namestudioforsocial.com
+*.napoleoncasino.be
+*.napoleondice.be
+*.napoleongames.be
+*.napoleonsports.be
 *.naspers.com
 *.neat.com.hk
 *.neat.hk
@@ -537,6 +543,7 @@
 *.platformservices.io
 *.playlist.link
 *.playstation.net
+*.playuzleuven.be
 *.pods.link
 *.popjam.com
 *.ppbdev.com
@@ -614,6 +621,7 @@
 *.sellzone.com
 *.semrush.com
 *.semrush.net
+*.sentiance.com
 *.seoab.io
 *.seoquake.com
 *.services-prod.nsvcs.net
@@ -703,7 +711,6 @@
 *.testnet.immutable.com
 *.threatdown.com
 *.thuisbezorgd.nl
-*.ticketing.cm.com
 *.tickets.ua
 *.tidal.com
 *.tidalhifi.com
@@ -720,6 +727,9 @@
 *.transferwise.com
 *.trello.services
 *.trip.com
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tt.omtrdc.net
@@ -739,9 +749,11 @@
 *.unrealengine.com
 *.unrealtournament.com
 *.unscreen.com
+*.uzleuven.*
 *.vacationhomerentals.com
 *.venmo.com
 *.vennhypotheken.nl
+*.veriff.com
 *.verse.events
 *.verse.me
 *.vertexprotocol.com
@@ -789,6 +801,10 @@
 *.zdev.net
 *.zomans.com
 *.zomato.com
+*ensemble*.yahoo.com
+*idp*.uzleuven.be
+*omega*.yahoo.com
+*stag*.uzleuven.be
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 B2 APIs (*.backblazeb2.com)
