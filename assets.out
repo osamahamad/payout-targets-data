@@ -769,7 +769,6 @@
 *.vacationhomerentals.com
 *.venmo.com
 *.vennhypotheken.nl
-*.veriff.com
 *.verse.events
 *.verse.me
 *.vertexprotocol.com
@@ -872,6 +871,7 @@
 1294578643
 1298908406
 1324809509
+134.58.179.82
 1343620481
 140.95.0.0/16
 141.0.8.0/21
@@ -882,7 +882,6 @@
 1452166623
 1456293789
 1467720176
-1467907532
 1476615877
 1486322860
 1491791513
@@ -2571,7 +2570,6 @@ airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 aiven.io
 akismet.com
-alchemy.veriff.com
 alert.logitech.com
 alertmanager.fr.cloud.gov
 alerts.eu.newrelic.com
@@ -2649,7 +2647,6 @@ api.evernote.com
 api.excalls.mobi
 api.facemojikeyboard.com
 api.figma.com
-api.flamingo-eu.veriff.com
 api.foliofn.com
 api.fortmatic.com
 api.foxycart.com
@@ -2742,9 +2739,7 @@ api.tumblr.com
 api.twilio.com
 api.unity.com
 api.upwork.com/graphql
-api.us.veriff.me
 api.usaa.com
-api.veriff.me
 api.vhx.tv
 api.vimeo.com
 api.watsons.co.id
@@ -2893,6 +2888,9 @@ basecamp3.exe
 basicattentiontoken.org
 bb.visa.com
 bd.visa.com
+be.nexuzhealth.mobile.cpv
+be.nexuzhealth.mobile.kws
+be.nexuzhealth.mobile.mynexuz
 beacon.netflix.com
 behance.net
 beta-cloud.acronis.com
@@ -3337,7 +3335,6 @@ com.urbanclap.provider
 com.urbanclap.urbanclap
 com.valvesoftware.Steam
 com.venmo
-com.veriff.demo
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
 com.vrbo.android
@@ -3496,7 +3493,6 @@ developer.valvesoftware.com
 developer.zendesk.com
 developers.smartsheet.com
 developers.tiktok.com
-developers.veriff.me
 dex-trade.com
 diagrams.fr.cloud.gov
 dic.pixiv.net
@@ -3626,6 +3622,7 @@ fm.anchor.android
 fonts.adobe.com
 forecastapp.com
 form.asana.com
+forms.nexuzhealth.be
 fortmatic.com
 fortnite.com
 forum.playcanvas.com
@@ -6151,6 +6148,7 @@ id1520720139
 id1534920947
 ide.x.ai
 identity.monash.edu
+idp-mobile.nexuzhealth.be
 idp.fr.cloud.gov
 ifttt-adaptor.pub.kube.dm.gg
 images2.triseptsolutions.com
@@ -6234,6 +6232,7 @@ krisp.ai
 kubernetes-csi.github.io
 kubernetes.io
 kuna.io
+kws-companion/id1342124012
 kyc-onboarding.booking.com
 kyc-src.etoro.com
 kyc.etoro.com
@@ -6310,7 +6309,6 @@ logs.fr.cloud.gov
 logs.nextcloud.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 lookup.nextcloud.com
-louvre.veriff.me
 lsaconsumerevents1.onecloud.harman.com
 lsaconsumerevents2.onecloud.harman.com
 lsaconsumerevents3.onecloud.harman.com
@@ -6329,7 +6327,6 @@ mackeeper.com
 magento.com
 magentocommerce.com
 magentolive.com
-magic.veriff.me
 magiceden.io
 magisto.com,www.magisto.com
 mail.infomaniak.com
@@ -6402,6 +6399,7 @@ mkapi.mackeeper.com
 mlivetickets.monash.edu
 mobile-prod.tvg.com
 mobile.monash
+mobile.nexuzhealth.be
 mobile.s-pankki.fi
 mobile.usaa.com
 mobileapi.lystit.com
@@ -6437,6 +6435,9 @@ my.swiftfinancial.com
 my.thesecurityteam.rocks
 mydesktop.usaa.com
 mydesktop.wu.com
+mynexuz.be
+mynexuz.be/myUZ/
+mynexuzhealth/id1459856321
 myvpn.usaa.com
 naspers.com
 nav.naspers.com
@@ -6898,8 +6899,6 @@ static.bittrex.com
 static.rarible.com
 static.thuisbezorgd.nl
 static.usaa.com
-station.veriff.com
-stationapi.veriff.com
 stats.nextcloud.com
 status.adobe.com
 status.larksuite.com
@@ -7416,7 +7415,6 @@ www.usa.gov
 www.valvesoftware.com
 www.vascoworldwide.net
 www.vendhq.com
-www.veriff.com
 www.verisign.com (Website; non-DNS related)
 www.vfstasheel.com
 www.vfsvisaonline.com
