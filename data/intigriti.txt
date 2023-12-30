@@ -24,6 +24,27 @@ myaccount.ad.nl
 webwinkel.ad.nl
 www.ad.nl
 www.ad.nl/abonnementen
+hey.bild.de
+https://meinkonto.bild.de/
+https://secure.mypass.de/
+https://vip-club.computerbild.de/
+sportbild.bild.de
+Tier 1 subdomains
+www.bild.de
+www.bild.tv
+www.computerbild.de
+www.welt.de
+play.bild.de
+www.autobild.de
+www.bz-berlin.de
+Tier 3 subdomains
+www.ein-herz-fuer-kinder.de
+www.fitbook.de
+www.myhomebook.de
+www.petbook.de
+www.stylebook.de
+www.techbook.de
+www.travelbook.de
 login.cm.com
 api.cm.com
 api.cmtelecom.com
@@ -32,8 +53,13 @@ cm.com/[locale]/register
 cm.com/app/messagingtrial/
 www.cm.com
 demo.globalticket.com/*
-app-pwn.intigriti.rocks
-https://justonweb.be/fines/
+1416625210
+com.freshfoodventures.crisp
+crisp.ninja
+for-hackers.crisp.kitchen
+for-hackers.crisp.nl
+for-hackers.crispapp.nl
+https://for-hackers.crispapp.nl/web-rn/
 Any related DPG media domain
 myaccount.demorgen.be
 shop.demorgen.be
@@ -103,9 +129,6 @@ xs1.elvenar.com
 xs1.forgeofempires.com
 xs1.grepolis.com
 xs1.tribalwars.cash
-Hardware
-Firmware
-Software
 949829216
 950680989
 950693949
@@ -183,15 +206,6 @@ on-premises software
 OT scanner
 www.lansweeper.com
 www.libelle.nl
-mobilevikings.be
-api.unleashed.be
-jimmobile.be
-uwa.mobilevikings.be
-vpn.mobilevikings.be
-mgm.mobilevikings.be
-vikingco.be
-vikingdeals.be
-vikinglab.be
 134.58.179.82
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
@@ -289,16 +303,6 @@ www.sbbcargo.com
 www.transsicura.ch
 kundenstimme.sbb.ch
 sbbstimme.sbb.ch
-api.sentiance.com
-com.sentiance.journeys2
-controltower.sentiance.com
-https://apps.apple.com/us/app/rac-go/id6444858115
-https://play.google.com/store/apps/details?id=com.sentiance.saferdriver
-insights-by-sentiance/id1608074635
-journeys-api.sentiance.com/v2
-com.sentiance.journeys
-journeys-2/id984087229?mt=8
-docs.sentiance.com
 SimScale API
 SimScale Platform
 SimScale Website
@@ -320,8 +324,6 @@ https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://radio.api.soundtrackyourbrand.com/
 https://www.soundtrackyourbrand.com
 macOS app
-aweb.suivo.com
-asupport.suivo.com
 artists.tomorrowland.com/production-website/33117
 cognito-idp.eu-west-1.amazonaws.com
 com.tomorrowland.oneworldradio
@@ -537,7 +539,6 @@ Yahoo Video
 Yahoo Weather
 Yahoo! (Misc)
 yimg.com
-Zero days that affect Intigriti or participating customers (listed below)
 hub.vznkul.be/*
 hub.vznkul.be/services/interhub/InterHubService
 hub.vznkul.be/services/intrahub/IntraHubService

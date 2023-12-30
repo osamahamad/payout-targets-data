@@ -16,8 +16,6 @@
 *.LCX.com
 *.YOUR-TESTING-STORE.mybigcommerce.com/
 *.a.exodus.io
-*.acc-pub.mobilevikings.be
-*.acc.mobilevikings.be
 *.account.api.here.com
 *.account.here.com
 *.acorns.com
@@ -206,9 +204,7 @@
 *.deriv.com
 *.derivws.com
 *.designify.com
-*.dev-pub.mobilevikings.be
 *.dev.grindr.io
-*.dev.mobilevikings.be
 *.devicelock.com
 *.dex-trade.com
 *.dh-commerce.com 
@@ -373,7 +369,6 @@
 *.innogames.de
 *.instacart.com
 *.instacart.tools
-*.intel.com
 *.intercomassets.com / *.intercomcdn.com
 *.intergamma-test.nl
 *.intergamma.cloud
@@ -478,7 +473,6 @@
 *.marcus.com
 *.mariacasino.com
 *.marketo.com
-*.mas.mobilevikings.be
 *.mattermost.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -500,7 +494,6 @@
 *.mixamo.com
 *.mjrtheatres.com
 *.mmcdn.com
-*.mobilevikings.be
 *.mobilitygraph.hereapi.com
 *.mona.co
 *.moonpay.com
@@ -612,8 +605,6 @@
 *.portofantwerp.com
 *.portofantwerpbruges.com
 *.ppbdev.com
-*.prd-pub.mobilevikings.be
-*.prd.mobilevikings.be
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
@@ -700,7 +691,6 @@
 *.sellzone.com
 *.semrush.com
 *.semrush.net
-*.sentiance.com
 *.seoab.io
 *.seoquake.com
 *.services-prod.nsvcs.net
