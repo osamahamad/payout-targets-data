@@ -43,7 +43,6 @@
 *.alimama.com
 *.aliyun-inc.com
 *.aliyun.com
-*.allegro.pl.allegrosandbox.pl
 *.amplitude-game.com
 *.apex-football.com
 *.api.dailymotion.com
@@ -124,6 +123,7 @@
 *.bugcrowd.com/auth/*
 *.byairbnb.com
 *.bybit.com
+*.c-point.be
 *.canva-apps.cn
 *.canva-apps.com
 *.canva.cn
@@ -538,6 +538,8 @@
 *.playstation.net
 *.pods.link
 *.popjam.com
+*.portofantwerp.com
+*.portofantwerpbruges.com
 *.ppbdev.com
 *.preempt.com
 *.preemptsecurity.com

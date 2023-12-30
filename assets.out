@@ -73,7 +73,6 @@
 *.alimama.com
 *.aliyun-inc.com
 *.aliyun.com
-*.allegro.pl.allegrosandbox.pl
 *.amplitude-game.com
 *.apex-football.com
 *.api.dailymotion.com
@@ -154,6 +153,7 @@
 *.bugcrowd.com/auth/*
 *.byairbnb.com
 *.bybit.com
+*.c-point.be
 *.canva-apps.cn
 *.canva-apps.com
 *.canva.cn
@@ -568,6 +568,8 @@
 *.playstation.net
 *.pods.link
 *.popjam.com
+*.portofantwerp.com
+*.portofantwerpbruges.com
 *.ppbdev.com
 *.preempt.com
 *.preemptsecurity.com
@@ -899,6 +901,7 @@
 167.187.0.0/16
 1671793296
 185.26.180.0/22
+188.118.8.0/25
 192.251.123.0/24
 192.251.124.0/24
 192.251.125.0/24
@@ -998,6 +1001,7 @@
 930441707
 936983378
 937011954453721119
+94.107.237.192/26
 944011620
 947984433
 961114489414094898
@@ -2595,6 +2599,8 @@ apay-us.amazon.com
 api*.netflix.com
 api-*.soundcloud.com
 api-a.usaa.com
+api-accpt.portofantwerp.com
+api-accpt.portofantwerpbruges.com
 api-boards.qwant.com
 api-eu.floqast.app
 api-ne.mackeeper.com
@@ -2696,6 +2702,8 @@ api.pinterest.com
 api.planethoster.net
 api.pns.hk
 api.poloniex.com
+api.portofantwerp.com
+api.portofantwerpbruges.com
 api.preprod.monespacesante.fr
 api.production.cde.tamg.cloud
 api.profiler.firefox.com
@@ -2827,10 +2835,14 @@ app.watsons.com.tr
 appapi.neuralprisma.com
 applause1.magisto.com
 applications.frame.io
+apps-accpt.portofantwerp.com
+apps-accpt.portofantwerpbruges.com
 apps.apple.com/fr/app/mon-espace-sant%C3%A9/id1589255019 (iOS)
 apps.apple.com/us/app/crowdstrike-falcon/id1458815656
 apps.meraki.io
 apps.nextcloud.com
+apps.portofantwerp.com
+apps.portofantwerpbruges.com
 apps.zendesk.com
 aqtooling.com
 aquiris.com.br
@@ -2839,6 +2851,10 @@ aquiristech.com
 argocd.indrive.dev
 arrive-server.shopifycloud.com
 artifactory.corp.mongodb.com/
+as2-accpt.portofantwerp.com
+as2-accpt.portofantwerpbruges.com
+as2.portofantwerp.com
+as2.portofantwerpbruges.com
 asana.com
 asiointi.lahitapiola.fi
 askpam.ai
@@ -3494,6 +3510,7 @@ dex-trade.com
 diagrams.fr.cloud.gov
 dic.pixiv.net
 digili.s-cloud.fi
+digitalspecs.portofantwerpbruges.com
 direct-hackerone.affirm-odin.com
 direct.playstation.com
 discuss.newrelic.com
@@ -6280,6 +6297,7 @@ log.rarible.com
 logging.rarible.com
 logilife.logitech.com
 login-4ngbets.us.betfair.com
+login-accpt.portofantwerpbruges.com
 login-ia.tvg.com
 login.en.travelbrandsagent.com
 login.fr.cloud.gov
@@ -6288,6 +6306,7 @@ login.infomaniak.com
 login.newrelic.com
 login.pabets.tvg.com
 login.playcanvas.com
+login.portofantwerpbruges.com
 login.starbucks.co.jp
 login.swapcard.com
 login.tide.co
@@ -6360,6 +6379,10 @@ masq.qwant.com
 matomo.cloud
 matrix.agent.*.tchap.gouv.fr
 matrix.redditspace.com
+maximo-accpt.portofantwerp.com
+maximo-accpt.portofantwerpbruges.com
+maximo.portofantwerp.com
+maximo.portofantwerpbruges.com
 mcssl.com
 me.store.ui.com
 mediacenter.23andme.com
@@ -6414,6 +6437,8 @@ mta-sts.wearehackerone.com
 munin-*.wordpress.org
 mus1.badoo.com
 music.amazon.com
+my-accpt.portofantwerp.com
+my-accpt.portofantwerpbruges.com
 my.account.sony.com
 my.exness.com
 my.loanbuilder.com
@@ -6422,6 +6447,8 @@ my.monash
 my.plaid.com
 my.planethoster.com
 my.playstation.com
+my.portofantwerp.com
+my.portofantwerpbruges.com
 my.pressable.com
 my.snapchat.com
 my.swiftfinancial.com
@@ -6545,6 +6572,7 @@ open.larksuite.com
 openai.com
 openapi.starbucks.com
 opensea.io
+oprc.portofantwerpbruges.com
 ops-tool.internal.bbp-mettle.co.uk
 opsgenie-bamboo-plugin - Server - https://marketplace.atlassian.com/apps/1224300/opsgenie-bamboo-plugin?hosting=server
 opslogin.fr.cloud.gov
@@ -6698,6 +6726,8 @@ rarible.com
 read.amazon.com
 reddit.secure.force.com
 redditforbusiness.com
+register-accpt.portofantwerp.com
+register-accpt.portofantwerpbruges.com
 registre.notebleue.pro
 registry.gitlab.com
 rei.com
@@ -6798,13 +6828,21 @@ sensei.pixiv.net
 serveur10.notebleue.com
 service.platform.tripadvisor.com
 service.tvg.com
+servicedesk-accpt.portofantwerp.com
+servicedesk-accpt.portofantwerpbruges.com
+servicedesk.portofantwerp.com
+servicedesk.portofantwerpbruges.com
 sf-rp-eu.sharefile.com
 sf-rp-us.sharefile.com
 sf-rp.sharefile.com
 sftp.gamma.redoxstage.com
 sh.reddit.com
 shapeshift.com
+share-accpt.portofantwerp.com
+share-accpt.portofantwerpbruges.com
 share.doppler.com
+share.portofantwerp.com
+share.portofantwerpbruges.com
 shavar.services.mozilla.com
 shop.adobe.com
 shop.app
@@ -7102,6 +7140,10 @@ web.grindr.com
 web.snapchat.com
 web.tide.co
 webapi.clario.co
+webapps-accpt.portofantwerp.com
+webapps-accpt.portofantwerpbruges.com
+webapps.portofantwerp.com
+webapps.portofantwerpbruges.com
 webhooks-api-experimental.codefi.network
 webhooks.booking.com
 webhooks.gamma.redoxstage.com
@@ -7113,9 +7155,13 @@ whatsnew.krisp.ai
 whitebit.com
 widget.cloudinary.com
 widget.rentalcars.com
+wiki-accpt.portofantwerp.com
+wiki-accpt.portofantwerpbruges.com
 wiki.cs.money
 wiki.grab.com
 wiki.near.org
+wiki.portofantwerp.com
+wiki.portofantwerpbruges.com
 wiki.teamfortress.com
 wiki.ui.com
 winecellar.zomato.com
@@ -7320,6 +7366,7 @@ www.omise.co
 www.opera.com
 www.opn.ooo
 www.orbitz.com
+www.oursustainableport.com
 www.ovh.com
 www.ovh.com/manager
 www.pangleglobal.com
@@ -7329,6 +7376,7 @@ www.pixiv.net
 www.planethoster.com
 www.pns.hk
 www.poloniex.com
+www.portofantwerpbruges.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.com
 www.practicalmoneyskills.org
