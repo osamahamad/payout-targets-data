@@ -123,7 +123,6 @@
 *.bugcrowd.com/auth/*
 *.byairbnb.com
 *.bybit.com
-*.c-point.be
 *.canva-apps.cn
 *.canva-apps.com
 *.canva.cn
@@ -320,6 +319,7 @@
 *.hyperpure.com
 *.hyperwallet.com
 *.hypr.com
+*.igpayment.com
 *.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
@@ -338,6 +338,8 @@
 *.infra-prod.nsvcs.net
 *.infrastructure-data.newrelic.com
 *.infrastructure.newrelic.com
+*.innogames.com
+*.innogames.de
 *.instacart.com
 *.instacart.tools
 *.intercomassets.com / *.intercomcdn.com
@@ -538,8 +540,6 @@
 *.playstation.net
 *.pods.link
 *.popjam.com
-*.portofantwerp.com
-*.portofantwerpbruges.com
 *.ppbdev.com
 *.preempt.com
 *.preemptsecurity.com
