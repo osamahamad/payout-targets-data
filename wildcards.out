@@ -261,8 +261,6 @@
 *.fortnite.com
 *.found.io
 *.front.com
-*.gamma.be/*
-*.gamma.nl/*
 *.getbouncer.com
 *.getmeetio.com
 *.github.net
@@ -370,9 +368,6 @@
 *.instacart.com
 *.instacart.tools
 *.intercomassets.com / *.intercomcdn.com
-*.intergamma-test.nl
-*.intergamma.cloud
-*.intergamma.nl/*
 *.irccloud-cdn.com
 *.irccloud.com
 *.je-apis.com - UK legacy API
@@ -398,8 +393,6 @@
 *.justeat-int.com
 *.justeattakeaway.com
 *.kaleido.ai
-*.karwei.nl/*
-*.karweioutletstore.nl
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
 *.kes.kindredext.net
@@ -512,10 +505,6 @@
 *.myteksi.net
 *.namestudio.com
 *.namestudioforsocial.com
-*.napoleoncasino.be
-*.napoleondice.be
-*.napoleongames.be
-*.napoleonsports.be
 *.naspers.com
 *.neat.com.hk
 *.neat.hk
@@ -650,9 +639,7 @@
 *.remove.bg
 *.rentalcars.com
 *.reposify.com
-*.restintergamma.nl
 *.rhinternal.net
-*.ripe.net
 *.robinhood.com
 *.robinhood.net
 *.roblox.com
@@ -804,9 +791,6 @@
 *.trello.services
 *.trip.com
 *.trouw.nl
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tt.omtrdc.net
@@ -834,7 +818,6 @@
 *.vacationhomerentals.com
 *.venmo.com
 *.vennhypotheken.nl
-*.veriff.com
 *.verse.events
 *.verse.me
 *.vertexprotocol.com
@@ -859,9 +842,6 @@
 *.wavecell.com
 *.wealthsimple.com
 *.wenewmoments.com
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
 *.westernunion.*
 *.white.market
 *.whois.eu

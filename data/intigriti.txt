@@ -11,40 +11,10 @@ https://demo-prod-hcp-report-bff.ada-prod-eu.prod.gcp.ada.com
 https://demo.enterprise.ada.com
 https://demo.handover.enterprise.ada.com
 https://demo.sso.enterprise.ada.com
-https://api.the-strip.eu
-https://cdn.the-strip.eu
-https://en-gb.napoleoncasino.be/wimi/game/play/slug/napoleon-spinner
-https://en-gb.napoleoncasino.be/wimi/game/play/slug/napoleon-spinner-deluxe
-https://en-gb.napoleoncasino.be/wimi/game/play/slug/napoleon-spinner-max
-https://en-gb.napoleondice.be/wimi/game/play/slug/dice-spinner
-https://en-gb.napoleondice.be/wimi/game/play/slug/multi-jackpot-cards
-https://en-gb.napoleondice.be/wimi/game/play/slug/pick-a-tiki
-wss://socketcluster.the-strip.eu
 myaccount.ad.nl
 webwinkel.ad.nl
 www.ad.nl
 www.ad.nl/abonnementen
-hey.bild.de
-https://meinkonto.bild.de/
-https://secure.mypass.de/
-https://vip-club.computerbild.de/
-sportbild.bild.de
-Tier 1 subdomains
-www.bild.de
-www.bild.tv
-www.computerbild.de
-www.welt.de
-play.bild.de
-www.autobild.de
-www.bz-berlin.de
-Tier 3 subdomains
-www.ein-herz-fuer-kinder.de
-www.fitbook.de
-www.myhomebook.de
-www.petbook.de
-www.stylebook.de
-www.techbook.de
-www.travelbook.de
 login.cm.com
 api.cm.com
 api.cmtelecom.com
@@ -91,10 +61,6 @@ www.delen.bank
 www.delen.be/en
 my.eurid.eu
 YADIFA authoritative name server
-service.fing.com
-app.fing.com
-Fing desktop
-www.fing.com
 955837609
 com.here.app.maps
 * hln.be/inloggen
@@ -129,24 +95,6 @@ xs1.elvenar.com
 xs1.forgeofempires.com
 xs1.grepolis.com
 xs1.tribalwars.cash
-949829216
-950680989
-950693949
-be.gamma.app.android
-kassa.gamma.be/*
-kassa.gamma.nl/*
-kassa.karwei.nl/*
-mijn.gamma.be/*
-mijn.gamma.nl/*
-mijn.karwei.nl/*
-nl.gamma.app.android
-nl.karwei.app.android
-www.gamma.be/*
-www.gamma.nl/*
-www.karwei.nl/*
-1558129454
-https://zabbix.intergamma.nl/*
-nl.gamma.verf
 booking.mjrtheatres.com
 extras.landmarkcinemas.com
 ferrero.kinepolis.lu
@@ -285,17 +233,6 @@ wiki.portofantwerp.com
 wiki.portofantwerpbruges.com
 www.oursustainableport.com
 www.portofantwerpbruges.com
-access.ripe.net
-https://github.com/RIPE-NCC/rpki-commons
-https://github.com/RIPE-NCC/rpki-core
-https://github.com/RIPE-NCC/whois
-lirportal.ripe.net
-193.0.0.0/19 and 2001:67c:2e8::/48
-https://github.com/RIPE-NCC/rpki-monitoring
-https://github.com/RIPE-NCC/rpki-publication-server
-https://github.com/RIPE-NCC/rpki-ta-0
-https://github.com/RIPE-NCC/rsyncit
-Assets owned by RIPE NCC
 938003185
 com.robinhood.android
 www.elvetino.ch
@@ -337,42 +274,11 @@ winterpackages.tomorrowland.com
 www.tomorrowland.com
 components.stag.tomorrowland.com
 components.tomorrowland.com
-winkels.torfs.be
-www.schoenentorfs.be
-www.schoenentorfs.nl
-www.torfs.be
-www.torfs.nl
-www.samenfittorfs.be
-Any related Torfs domain
 myaccount.trouw.nl
 shop.trouw.nl
 webwinkel.trouw.nl
 www.trouw.nl
 www.trouw.nl/abonnementen
-api.truelayer[-sandbox].com
-auth.truelayer[-sandbox].com
-login-api.truelayer[-sandbox].com
-login.truelayer[-sandbox].com
-onboarding-api.truelayer.com
-pay-api.truelayer[-sandbox].com
-pay.truelayer[-sandbox].com
-paydirect.truelayer[-sandbox].com
-payment.truelayer[-sandbox].com
-payouts.truelayer[-sandbox].com
-users-api.truelayer.com
-C# SDK
-console-backend.truelayer[-sandbox].com
-console.truelayer[-sandbox].com
-hpp.truelayer[-sandbox].com
-iOS SDK
-Java SDK
-PHP SDK
-React Native SDK
-Rust SDK
-TrueLayer for Magento (Magento plugin)
-TrueLayer for WooCommerce (WordPress plugin)
-truelayer-signing
-webhooks.truelayer[-sandbox].com
 134.58.179.102-103
 autodiscover.uzleuven.be
 ecrf.uzleuven.be
@@ -406,37 +312,6 @@ com.uphold.wallet
 uphold.com/dashboard
 api-sandbox.uphold.com
 sandbox.uphold.com/dashboard
-vrtnws-api.vrt.be
-1001982587
-1337574835
-4ever.ketnet.be
-api.sporza.be
-api.vrt.radio
-be.vrt.ketnet.ketnetjr
-be.vrt.vrtnu
-bff.ketnet.be
-cds.vrt.radio
-content.ketnet.be
-data.ketnet.be
-dedokterbeashow.ketnet.be
-juniormusical.ketnet.be
-kaatje.ketnet.be
-live-cf-vrt.akamaized.net
-login.vrt.be
-magazine.ketnet.be
-media-services-public.vrt.be
-ondemand-vrt.akamaized.net
-player.vrt.be
-privacy.ketnet.be
-profiel.vrt.be
-remix-cf-vrt.akamaized.net
-senior-bff.ketnet.be
-sport-components.sporza.be
-sporza.be
-stubru.be/luister/select
-vrt.be/vrtnu
-vrt.be/vrtnws
-www.ketnet.be
 myaccount.vtm.be
 vtm.be/vtmgo
 vtmgo.be
@@ -453,18 +328,6 @@ wallet.venly.io
 api-staging.venly.market
 events-staging.venly.market
 staging.venly.market
-1467907532
-alchemy.veriff.com
-api.flamingo-eu.veriff.com
-api.us.veriff.me
-api.veriff.me
-com.veriff.demo
-louvre.veriff.me
-magic.veriff.me
-station.veriff.com
-stationapi.veriff.com
-developers.veriff.me
-www.veriff.com
 564141518
 accountsettings.connect.identity.stagaws.visma.com
 admin.stage.vismaonline.com
@@ -559,34 +422,3 @@ www.ibood.com
 beta.ibood.com
 feeds.ibood.com
 img.ibood.com
-*pwn.intigriti.rocks
-www.intigriti.com
-api.vidaxl.com
-ar.vidaxl.sa.com
-b2b.vidaxl.com
-cms.woger-cdn.com
-customer-services.vidaxl.org
-en.vidaxl.ae
-en.vidaxl.ca
-fps-extr-services.vidaxl.org
-fr.vidaxl.ch
-is.vidaxl.is
-nexus.vidaxl.org
-nl.vidaxl.be
-serviceportal.vidaxl.com
-shops-services.vidaxl.org
-tracking.vidaxl.com
-uk.vidaxl.com.ua
-vidaxl.zendesk.com
-www.dropshippingxl.com
-www.vidaxl.<TLD>
-apigateway.vidaxl.io
-app.vidaxl.io
-corporate.vidaxl.com
-drone.vidaxl.io
-qa-db.vidaxl.io
-qa.vidaxl.io
-qa1-apigateway.vidaxl.io
-staging-apigateway.vidaxl.io
-staging-db.vidaxl.io
-staging.vidaxl.io
