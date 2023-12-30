@@ -84,6 +84,7 @@
 *.app.spacelift.dev
 *.arlo.com (production servers only)
 *.arloxcld.com (production servers only)
+*.aroundtheworld.tomorrowland.com
 *.artist.link
 *.artstation.com
 *.arubanetworks.com
@@ -349,7 +350,6 @@
 *.hyperpure.com
 *.hyperwallet.com
 *.hypr.com
-*.igpayment.com
 *.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
@@ -368,8 +368,6 @@
 *.infra-prod.nsvcs.net
 *.infrastructure-data.newrelic.com
 *.infrastructure.newrelic.com
-*.innogames.com
-*.innogames.de
 *.instacart.com
 *.instacart.tools
 *.intercomassets.com / *.intercomcdn.com
@@ -743,6 +741,7 @@
 *.tinderops.net
 *.tinderwebstaging.com
 *.tmall.com
+*.tomorrowland.com
 *.touchtechpayments.com
 *.tr.ee
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
@@ -2841,6 +2840,7 @@ aquiristech.com
 argocd.indrive.dev
 arrive-server.shopifycloud.com
 artifactory.corp.mongodb.com/
+artists.tomorrowland.com/production-website/33117
 asana.com
 asiointi.lahitapiola.fi
 askpam.ai
@@ -3050,6 +3050,7 @@ code.playcanvas.com
 code.yoti.com
 codex.one
 codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
+cognito-idp.eu-west-1.amazonaws.com
 coinbase.com
 coinmarketcap.com
 coldfusion.adobe.com
@@ -3177,8 +3178,6 @@ com.hotornot.app
 com.hotwire.hotels
 com.hypr.one
 com.immediasemi.android.blink
-com.innogames.elvenar - Android
-com.innogames.foeandroid
 com.instacart.client
 com.iphone.workfront
 com.irccloud.IRCCloud
@@ -3303,6 +3302,7 @@ com.tiktok.tv
 com.tiktokshop.seller
 com.tinder
 com.tinyspeck.chatlyio
+com.tomorrowland.oneworldradio
 com.toyopagroup.picaboo
 com.transsion.aivoiceassistant
 com.transsion.applock
@@ -3378,6 +3378,8 @@ community.forescout.com
 community.logitech.com
 community.ui.com
 components.frame.io
+components.stag.tomorrowland.com
+components.tomorrowland.com
 configure.bmw.de
 configure.mini.de
 confluence.hyattdev.com
@@ -3669,6 +3671,7 @@ gitlab.com
 global-api.citymapper.com
 global.bitexen.com
 global.bittrex.com
+globaljourney.tomorrowland.com
 gnip.com
 gold.xnxx.com
 goldmansachsindices.com
@@ -6161,7 +6164,6 @@ infrastructure.eu.newrelic.com
 infrastructure.newrelic.com
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
-innogames.com
 insights.deribit.com
 insights.eu.newrelic.com
 insights.newrelic.com
@@ -6366,6 +6368,7 @@ matomo.cloud
 matrix.agent.*.tchap.gouv.fr
 matrix.redditspace.com
 mcssl.com
+mdm.weareone.world
 me.store.ui.com
 mediacenter.23andme.com
 medical.23andme.com
@@ -6431,6 +6434,7 @@ my.pressable.com
 my.snapchat.com
 my.swiftfinancial.com
 my.thesecurityteam.rocks
+my.tomorrowland.com
 mydesktop.usaa.com
 mydesktop.wu.com
 myvpn.usaa.com
@@ -6537,12 +6541,14 @@ on-ramp.metaswap-dev.codefi.network
 onboarding-*.cloud.com
 onboarding.cloud.com
 onboarding.greenhouse.io
+one-world-radio-tomorrowland/id1485778856
 one.airbnb.com
 one.dash.cloudflare.com
 one.newrelic.com
 onepush.query.yahoo.com
 onevasco.com
 oneview.malwarebytes.com
+oneworldradio.tomorrowland.com
 online.s-pankki.fi
 open-api.polygon.technology
 open.airbnb.com
@@ -6858,6 +6864,7 @@ socket.frame.io
 sorare.com
 soundcloud.com
 soundcloud.org
+sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com
 spaces.pm
 spark.adobe.com
 spectacles.com
@@ -6939,7 +6946,6 @@ support.creditkarma.ca
 support.cs.money
 support.databricks.com
 support.greenhouse.io
-support.innogames.com
 support.logi.com
 support.malwarebytes.com
 support.monespacesante.fr
@@ -7011,7 +7017,6 @@ trbinance.com
 trello.com
 trendyol.com
 tria.ge
-tribalwars.cash
 trm.pinelabs.com
 trm.pinepaymentsolutions.com
 truck-api.eu-east-1.indriverapp.com
@@ -7126,6 +7131,7 @@ wiki.near.org
 wiki.teamfortress.com
 wiki.ui.com
 winecellar.zomato.com
+winterpackages.tomorrowland.com
 wise.com
 wonderboxapi.com
 wonderboxdev.com
@@ -7388,6 +7394,7 @@ www.theperfumeshop.com
 www.thuisbezorgd.nl/aanmelden
 www.tide.co
 www.tink.com
+www.tomorrowland.com
 www.trafficfactory.com
 www.travelocity.ca
 www.travelocity.com
@@ -7484,16 +7491,6 @@ xd.adobe.com
 xhomeapi-*.cloud.comcast.net
 xhomeapi-*.codebig2.net
 xray.october.eu
-xs.elvenar.com
-xs.forgeofempires.com
-xs.grepolis.com
-xs0.elvenar.com
-xs0.forgeofempires.com
-xs0.grepolis.com
-xs1.elvenar.com
-xs1.forgeofempires.com
-xs1.grepolis.com
-xs1.tribalwars.cash
 xtramile.grabpay.com
 yapi.clario.co
 yelptop100.com
