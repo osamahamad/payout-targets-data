@@ -73,6 +73,7 @@
 *.alimama.com
 *.aliyun-inc.com
 *.aliyun.com
+*.allegro.pl.allegrosandbox.pl
 *.amplitude-game.com
 *.apex-football.com
 *.api.dailymotion.com
@@ -620,7 +621,6 @@
 *.runnr.in
 *.s-cloud.net
 *.sandbox.directly.com/
-*.sbb.ch
 *.sbgcdn.com
 *.sbgcore.com
 *.sbgorigin.com
@@ -711,7 +711,6 @@
 *.superpal.io/*
 *.support.originenergy.com.au
 *.swiftype.com
-*.swisspass.ch
 *.sys.comcast.net
 *.t-mobile.com
 *.takeaway.com
@@ -783,7 +782,6 @@
 *.vine.co
 *.vladcazino.ro
 *.vod2.infomaniak.com
-*.voiscooters.com
 *.vpn.hackerone.net
 *.wavecell.com
 *.wealthsimple.com
@@ -875,7 +873,6 @@
 1298908406
 1324809509
 1343620481
-1395921017
 140.95.0.0/16
 141.0.8.0/21
 141.94.220.124
@@ -3957,7 +3954,6 @@ https://api.tripadvisor.com
 https://api.twilio.com
 https://api.unity.com
 https://api.usaa.com/
-https://api.voiapp.io/
 https://api.welcomesoftware.com/
 https://api.welcomesoftware.com/ 
 https://api.woo.org/
@@ -6189,7 +6185,6 @@ io.metamask
 io.metamask.Metamask
 io.opensea - Android App
 io.opensea - iOS App
-io.voiapp.voi
 ir.ui.com
 irc.irccloud.com
 irccloud.com
@@ -6232,7 +6227,6 @@ krisp.ai
 kubernetes-csi.github.io
 kubernetes.io
 kuna.io
-kundenstimme.sbb.ch
 kyc-onboarding.booking.com
 kyc-src.etoro.com
 kyc.etoro.com
@@ -6367,7 +6361,6 @@ matomo.cloud
 matrix.agent.*.tchap.gouv.fr
 matrix.redditspace.com
 mcssl.com
-mds.voiapp.io
 me.store.ui.com
 mediacenter.23andme.com
 medical.23andme.com
@@ -6715,7 +6708,6 @@ remix.com
 remoteaccess.westernunion.com
 rentals.tripadvisor.com
 repo.magento.com
-report.voi.com
 res.blueskytours.globalbookingsolutions.com
 res.en.travelbrandsagent.com
 res.fr.travelbrandsagent.com
@@ -6770,7 +6762,6 @@ s3://faraday-secret
 s3://faraday-uploads
 safe.tumblr.com
 salesportal.hyatt.com
-sbbstimme.sbb.ch
 scan.nextcloud.com
 scan.snapchat.com
 scapegoat.hyatt.com
@@ -7089,7 +7080,6 @@ vlagg.usaa.com
 vlapi.usaa.com
 voapi.8x8.com
 vod.infomaniak.com
-voi.com
 volans.tech
 vpn.mozilla.org
 vroid.com
@@ -7231,7 +7221,6 @@ www.ebookers.fi
 www.editeur.am.monespacesante.fr
 www.editeur.api.monespacesante.fr
 www.elastic.co
-www.elvetino.ch
 www.etoro.com
 www.etsy.com
 www.evernote.com
@@ -7358,7 +7347,6 @@ www.ritzcarlton.com/
 www.rocaton.com
 www.s-kaupat.fi
 www.s-pankki.fi
-www.sbbcargo.com
 www.shipt.com
 www.six-group.com
 www.sokos.fi
@@ -7394,7 +7382,6 @@ www.thuisbezorgd.nl/aanmelden
 www.tide.co
 www.tink.com
 www.trafficfactory.com
-www.transsicura.ch
 www.travelocity.ca
 www.travelocity.com
 www.trendyol.com
@@ -7453,7 +7440,6 @@ www.visa.com.sg
 www.visa.com.tr
 www.visa.com.tw
 www.visa.com.vn
-www.voiscooters.com
 www.vrbo.com
 www.watsons.co.id
 www.watsons.co.th
