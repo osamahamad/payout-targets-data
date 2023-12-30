@@ -234,6 +234,7 @@
 *.deliveroo.*
 *.dell.com/*
 *.delltechnologies.com/* 
+*.demorgen.be
 *.deribit.com
 *.deriv.cloud
 *.deriv.com
@@ -783,6 +784,8 @@
 *.spinaway.com
 *.sportinglife.com
 *.sprint.com
+*.sqills.com
+*.sqills.team
 *.square.com
 *.squareup.com
 *.srvcs.tumblr.com
@@ -1012,7 +1015,6 @@
 140.95.0.0/16
 141.0.8.0/21
 141.94.220.124
-1416625210
 1431768824
 1436732536
 1439784468
@@ -3415,7 +3417,6 @@ com.flashgap.fruitz
 com.flutter.bem.release
 com.foxnextgames.m3
 com.frame.FrameIO
-com.freshfoodventures.crisp
 com.frontapp.mobile
 com.futuresimple.base
 com.getmeetio.*
@@ -3701,7 +3702,6 @@ creativecloud.adobe.com
 creator.amazon.com
 creatormarketplace.tiktok.com
 creators.basicattentiontoken.org
-crisp.ninja
 crm.clario.co
 crm.nextcloud.com
 cruises.priceline.com
@@ -3942,9 +3942,6 @@ flow.opera.com
 flyiin.com
 fm.anchor.android
 fonts.adobe.com
-for-hackers.crisp.kitchen
-for-hackers.crisp.nl
-for-hackers.crispapp.nl
 forecastapp.com
 form.asana.com
 forms.nexuzhealth.be
@@ -4755,7 +4752,6 @@ https://filezilla-project.org/download.php?type=server&show_all=1
 https://flo.uri.sh
 https://flourish.studio/
 https://flow.opera.com
-https://for-hackers.crispapp.nl/web-rn/
 https://form.asana.com
 https://foundation.westernunion.com
 https://foxycart-demo.foxycart.com/cart
@@ -6898,6 +6894,7 @@ my.swiftfinancial.com
 my.thesecurityteam.rocks
 my.tomorrowland.com
 myaccount.ad.nl
+myaccount.demorgen.be
 myaccount.hln.be
 myaccount.humo.be
 myaccount.parool.nl
@@ -7340,6 +7337,7 @@ share.portofantwerpbruges.com
 shavar.services.mozilla.com
 shop.adobe.com
 shop.app
+shop.demorgen.be
 shop.humo.be
 shop.infomaniak.com
 shop.judge.me
@@ -7819,6 +7817,8 @@ www.datastax.com
 www.deezer.com
 www.delen.bank
 www.delen.be/en
+www.demorgen.be
+www.demorgen.be/abonnementen
 www.directverify.in
 www.docswallet.com
 www.doctolib.(fr|de|it)
