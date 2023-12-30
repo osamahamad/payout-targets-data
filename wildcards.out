@@ -16,8 +16,6 @@
 *.LCX.com
 *.YOUR-TESTING-STORE.mybigcommerce.com/
 *.a.exodus.io
-*.acc-pub.mobilevikings.be
-*.acc.mobilevikings.be
 *.acorns.com
 *.acrobat.com
 *.acronis.com
@@ -155,8 +153,6 @@
 *.cloudvector.com/
 *.clubhouse.com
 *.clubhouseapi.com
-*.cm.com
-*.cmtelecom.com
 *.coda.io/*
 *.code.gov
 *.cognitiveperformer.com
@@ -192,15 +188,12 @@
 *.deliveroo.*
 *.dell.com/*
 *.delltechnologies.com/* 
-*.demorgen.be
 *.deribit.com
 *.deriv.cloud
 *.deriv.com
 *.derivws.com
 *.designify.com
-*.dev-pub.mobilevikings.be
 *.dev.grindr.io
-*.dev.mobilevikings.be
 *.devicelock.com
 *.dex-trade.com
 *.dh-commerce.com 
@@ -346,7 +339,6 @@
 *.infrastructure.newrelic.com
 *.instacart.com
 *.instacart.tools
-*.intel.com
 *.intercomassets.com / *.intercomcdn.com
 *.irccloud-cdn.com
 *.irccloud.com
@@ -397,7 +389,6 @@
 *.lex.(co.id|com.my|in.th|ph|vn) (+)
 *.lex.(co.id|com.my|in.th|ph|vn) (++)
 *.lex.(co.id|com.my|in.th|ph|vn) (+++)
-*.libelle.nl
 *.liberapay.com
 *.lieferando.at
 *.lieferando.de
@@ -436,7 +427,6 @@
 *.marcus.com
 *.mariacasino.com
 *.marketo.com
-*.mas.mobilevikings.be
 *.mattermost.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -455,7 +445,6 @@
 *.miwifi.com
 *.mixamo.com
 *.mmcdn.com
-*.mobilevikings.be
 *.mona.co
 *.moonpay.com
 *.moonpaycloud.com
@@ -549,8 +538,6 @@
 *.pods.link
 *.popjam.com
 *.ppbdev.com
-*.prd-pub.mobilevikings.be
-*.prd.mobilevikings.be
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
@@ -714,7 +701,6 @@
 *.testnet.immutable.com
 *.threatdown.com
 *.thuisbezorgd.nl
-*.ticketing.cm.com
 *.tickets.ua
 *.tidal.com
 *.tidalhifi.com
@@ -766,10 +752,6 @@
 *.vine.co
 *.vladcazino.ro
 *.vod2.infomaniak.com
-*.voipgrid.nl
-*.voys.be
-*.voys.co
-*.voys.nl
 *.vpn.hackerone.net
 *.wavecell.com
 *.wealthsimple.com
@@ -805,8 +787,6 @@
 *.zdev.net
 *.zomans.com
 *.zomato.com
-*ensemble*.yahoo.com
-*omega*.yahoo.com
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 B2 APIs (*.backblazeb2.com)
