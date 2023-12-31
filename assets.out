@@ -369,7 +369,6 @@
 *.infrastructure.newrelic.com
 *.instacart.com
 *.instacart.tools
-*.intel.com
 *.intercomassets.com / *.intercomcdn.com
 *.irccloud-cdn.com
 *.irccloud.com
@@ -826,6 +825,7 @@
 *emailsignature.trustpilot.com
 *invitations-api.trustpilot.com
 *legal.trustpilot.com
+*pwn.intigriti.rocks
 *racing.fanduel.com
 *share.trustpilot.com
 *signalservice.comcast.net
@@ -1573,7 +1573,6 @@ Finicity Decisioning
 Finicity- Data Services
 FireTV
 Firefox extension (download at:   https://addons.mozilla.org/firefox/addon/pinterest/)
-Firmware
 FishEye
 Flash Player
 Fleet Server
@@ -1643,7 +1642,6 @@ Hackathon for Jira - Cloud - https://marketplace.atlassian.com/apps/1214757/hack
 Halp Answers for Confluence in Slack - Cloud - https://marketplace.atlassian.com/apps/1222365/halp-answers-for-confluence-in-slack?hosting=cloud
 Halp application for Microsoft Teams
 Halp application for Slack
-Hardware
 Hardware found on https://www.ezviz.com/category/security-wifi-cameras
 Hardware found on https://www.ezviz.com/category/smart-home
 Harmony Remote Software
@@ -2176,7 +2174,6 @@ Smartchain Blockchain
 Snaps
 Snaps Development Packages
 Social Media Accounts
-Software
 Software Supply Chain
 Sophos Central
 SoundCloud Android app
@@ -7261,6 +7258,7 @@ www.iciparisxl.lu
 www.iciparisxl.nl
 www.infomaniak.com
 www.instacart.com
+www.intigriti.com
 www.irccloud.com
 www.jaybirdsport.com
 www.kayak.com
