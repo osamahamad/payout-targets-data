@@ -419,6 +419,7 @@
 *.lex.(co.id|com.my|in.th|ph|vn) (+)
 *.lex.(co.id|com.my|in.th|ph|vn) (++)
 *.lex.(co.id|com.my|in.th|ph|vn) (+++)
+*.libelle.nl
 *.liberapay.com
 *.lieferando.at
 *.lieferando.de
@@ -7250,6 +7251,7 @@ www.lahitapiola.fi
 www.lastminute.co.nz
 www.lastminute.com.au
 www.leather.io
+www.libelle.nl
 www.linkedin.com
 www.livestream.com
 www.loanbuilder.com
