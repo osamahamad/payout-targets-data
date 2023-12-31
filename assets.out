@@ -84,7 +84,6 @@
 *.app.spacelift.dev
 *.arlo.com (production servers only)
 *.arloxcld.com (production servers only)
-*.aroundtheworld.tomorrowland.com
 *.artist.link
 *.artstation.com
 *.arubanetworks.com
@@ -509,7 +508,9 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
+*.ninjakiwi.com
 *.niumba.com
+*.nkstatic.com
 *.nnip.com
 *.nordvpn.com
 *.nr-data.net
@@ -688,6 +689,7 @@
 *.sophos.com
 *.soundcloud.com
 *.soundcloud.org
+*.souparea.com
 *.spinaway.com
 *.sportinglife.com
 *.sprint.com
@@ -741,7 +743,6 @@
 *.tinderops.net
 *.tinderwebstaging.com
 *.tmall.com
-*.tomorrowland.com
 *.touchtechpayments.com
 *.tr.ee
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
@@ -2587,6 +2588,7 @@ amp.reddit.com
 analytics-admin.prosus.com
 analytics.cloud.unity3d.com
 analytics.krisp.ai
+analytics.ninjakiwi.com
 analytics.pinelabs.com
 analytics.prosus.com
 anytask.thesecurityteam.rocks
@@ -2689,6 +2691,7 @@ api.mergify.com
 api.miro.com
 api.monespacesante.fr
 api.netlify.com
+api.ninjakiwi.com
 api.october.eu
 api.omise.co
 api.openai.com
@@ -2840,7 +2843,6 @@ aquiristech.com
 argocd.indrive.dev
 arrive-server.shopifycloud.com
 artifactory.corp.mongodb.com/
-artists.tomorrowland.com/production-website/33117
 asana.com
 asiointi.lahitapiola.fi
 askpam.ai
@@ -2888,6 +2890,7 @@ ballistic.com
 ballistic.com.br
 basecamp3.exe
 basicattentiontoken.org
+battles.tv
 bb.visa.com
 bd.visa.com
 beacon.netflix.com
@@ -2951,6 +2954,7 @@ bugcrowd-oie-%username%-2.oktapreview.com
 bugcrowd.com
 bugs.opera.com
 bugzilla.mozilla.org
+builds-auckland.ninja.kiwi
 bullsheet.me
 burn.polygon.technology
 business.kayak.com
@@ -3050,7 +3054,6 @@ code.playcanvas.com
 code.yoti.com
 codex.one
 codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
-cognito-idp.eu-west-1.amazonaws.com
 coinbase.com
 coinmarketcap.com
 coldfusion.adobe.com
@@ -3302,7 +3305,6 @@ com.tiktok.tv
 com.tiktokshop.seller
 com.tinder
 com.tinyspeck.chatlyio
-com.tomorrowland.oneworldradio
 com.toyopagroup.picaboo
 com.transsion.aivoiceassistant
 com.transsion.applock
@@ -3378,8 +3380,6 @@ community.forescout.com
 community.logitech.com
 community.ui.com
 components.frame.io
-components.stag.tomorrowland.com
-components.tomorrowland.com
 configure.bmw.de
 configure.mini.de
 confluence.hyattdev.com
@@ -3421,6 +3421,7 @@ cryptowallet.opera-api.com
 cs.money
 csgo.exe
 csp-pci.prod.codebig2.net
+ct.ninjakiwi.com
 ctf.hacker101.com
 custody.coinbase.com
 customer-academy.databricks.com
@@ -3452,6 +3453,7 @@ dashboard.razorpay.com
 dashboard.unity3d.com
 dashboard2.omise.co
 data.mail.yahoo.com
+data.ninjakiwi.com
 data.prosus.com
 data.rarible.com
 databricks.com
@@ -3671,7 +3673,6 @@ gitlab.com
 global-api.citymapper.com
 global.bitexen.com
 global.bittrex.com
-globaljourney.tomorrowland.com
 gnip.com
 gold.xnxx.com
 goldmansachsindices.com
@@ -6368,7 +6369,6 @@ matomo.cloud
 matrix.agent.*.tchap.gouv.fr
 matrix.redditspace.com
 mcssl.com
-mdm.weareone.world
 me.store.ui.com
 mediacenter.23andme.com
 medical.23andme.com
@@ -6434,9 +6434,9 @@ my.pressable.com
 my.snapchat.com
 my.swiftfinancial.com
 my.thesecurityteam.rocks
-my.tomorrowland.com
 mydesktop.usaa.com
 mydesktop.wu.com
+mynk.ninjakiwi.com
 myvpn.usaa.com
 naspers.com
 nav.naspers.com
@@ -6517,6 +6517,8 @@ nextcloud/viewer
 nextcloud/workflow_script
 nice.wfmusaa.com
 nicetryapril.na1.echosignsandbox.com
+ninja.kiwi
+ninjakiwi.com
 nmtracking.netflix.com
 node.e2ro.com/*
 novel.pixiv.net
@@ -6541,14 +6543,12 @@ on-ramp.metaswap-dev.codefi.network
 onboarding-*.cloud.com
 onboarding.cloud.com
 onboarding.greenhouse.io
-one-world-radio-tomorrowland/id1485778856
 one.airbnb.com
 one.dash.cloudflare.com
 one.newrelic.com
 onepush.query.yahoo.com
 onevasco.com
 oneview.malwarebytes.com
-oneworldradio.tomorrowland.com
 online.s-pankki.fi
 open-api.polygon.technology
 open.airbnb.com
@@ -6864,7 +6864,6 @@ socket.frame.io
 sorare.com
 soundcloud.com
 soundcloud.org
-sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com
 spaces.pm
 spark.adobe.com
 spectacles.com
@@ -7131,7 +7130,6 @@ wiki.near.org
 wiki.teamfortress.com
 wiki.ui.com
 winecellar.zomato.com
-winterpackages.tomorrowland.com
 wise.com
 wonderboxapi.com
 wonderboxdev.com
@@ -7394,7 +7392,6 @@ www.theperfumeshop.com
 www.thuisbezorgd.nl/aanmelden
 www.tide.co
 www.tink.com
-www.tomorrowland.com
 www.trafficfactory.com
 www.travelocity.ca
 www.travelocity.com
