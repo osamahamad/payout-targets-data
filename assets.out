@@ -508,7 +508,9 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
+*.ninjakiwi.com
 *.niumba.com
+*.nkstatic.com
 *.nnip.com
 *.nordvpn.com
 *.nr-data.net
@@ -687,6 +689,7 @@
 *.sophos.com
 *.soundcloud.com
 *.soundcloud.org
+*.souparea.com
 *.spinaway.com
 *.sportinglife.com
 *.sprint.com
@@ -855,8 +858,6 @@
 107.167.96.0/19
 1080248000
 10x.redoxengine.com
-1114799709
-1114800186
 1118448159
 1127881507
 1174276185
@@ -2587,6 +2588,7 @@ amp.reddit.com
 analytics-admin.prosus.com
 analytics.cloud.unity3d.com
 analytics.krisp.ai
+analytics.ninjakiwi.com
 analytics.pinelabs.com
 analytics.prosus.com
 anytask.thesecurityteam.rocks
@@ -2689,6 +2691,7 @@ api.mergify.com
 api.miro.com
 api.monespacesante.fr
 api.netlify.com
+api.ninjakiwi.com
 api.october.eu
 api.omise.co
 api.openai.com
@@ -2721,7 +2724,6 @@ api.smtp2go.com
 api.sokos.fi
 api.sonantic.io
 api.sorare.com
-api.soundtrackyourbrand.com
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -2888,6 +2890,7 @@ ballistic.com
 ballistic.com.br
 basecamp3.exe
 basicattentiontoken.org
+battles.tv
 bb.visa.com
 bd.visa.com
 beacon.netflix.com
@@ -2896,7 +2899,6 @@ beta-cloud.acronis.com
 beta.rarible.com
 bigcommerce-adapter.judge.me
 billing-pci.etoro.com
-billing.api.soundtrackyourbrand.com
 billing.etoro.com
 billing.ring.com/*
 billingsupport.chaturbate.com
@@ -2952,13 +2954,12 @@ bugcrowd-oie-%username%-2.oktapreview.com
 bugcrowd.com
 bugs.opera.com
 bugzilla.mozilla.org
-builds.soundtrackyourbrand.com
+builds-auckland.ninja.kiwi
 bullsheet.me
 burn.polygon.technology
 business.kayak.com
 business.linkedin.com
 business.snapchat.com
-business.soundtrackyourbrand.com
 business.tiktok.com
 businesshelp.snapchat.com
 buy.logitech.com
@@ -3270,7 +3271,6 @@ com.slack.slackmdm
 com.smartsheet.android
 com.smartsheet.smartsheet
 com.snapchat.android
-com.soundtrackyourbrand.soundtrack.player
 com.soundtrap.studioapp
 com.spotify.client
 com.spotify.kids
@@ -3421,6 +3421,7 @@ cryptowallet.opera-api.com
 cs.money
 csgo.exe
 csp-pci.prod.codebig2.net
+ct.ninjakiwi.com
 ctf.hacker101.com
 custody.coinbase.com
 customer-academy.databricks.com
@@ -3452,6 +3453,7 @@ dashboard.razorpay.com
 dashboard.unity3d.com
 dashboard2.omise.co
 data.mail.yahoo.com
+data.ninjakiwi.com
 data.prosus.com
 data.rarible.com
 databricks.com
@@ -4125,7 +4127,6 @@ https://asymetrix.io/
 https://aurora.plus/
 https://auth-ywh.it.authentification.si.gouv.qc.ca
 https://auth.23andme.com
-https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
 https://auth.cag.us-west-2.int.23andme.us
 https://auth.datadome.co
@@ -4202,7 +4203,6 @@ https://bugcrowd.hotdoc.com.au/dashboard (Clinic Dashboard)
 https://bugs.opera.com/
 https://build.caffeine.tv/
 https://build.twilio.com/s/
-https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
@@ -5540,7 +5540,6 @@ https://projects.epam.com
 https://prs.payments.r1s-prod.com
 https://public-ipfs-mainnet.ternoa.network
 https://public.je-apis.com
-https://radio.api.soundtrackyourbrand.com/
 https://rarible.com/
 https://rc.fstr.rocks
 https://realtime.caffeine.tv/
@@ -6021,7 +6020,6 @@ https://www.sitemercado.com.br
 https://www.skidxb.com/
 https://www.skroutz.gr/
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
-https://www.soundtrackyourbrand.com
 https://www.sourcetreeapp.com/
 https://www.status-takeaway.com/status
 https://www.superdrug.com/blog/
@@ -6327,7 +6325,6 @@ m.krisha.kz
 m.poloniex.com
 m.reddit.com
 m.trendyol.com
-macOS app
 mackeeper.com
 magento.com
 magentocommerce.com
@@ -6439,6 +6436,7 @@ my.swiftfinancial.com
 my.thesecurityteam.rocks
 mydesktop.usaa.com
 mydesktop.wu.com
+mynk.ninjakiwi.com
 myvpn.usaa.com
 naspers.com
 nav.naspers.com
@@ -6519,6 +6517,8 @@ nextcloud/viewer
 nextcloud/workflow_script
 nice.wfmusaa.com
 nicetryapril.na1.echosignsandbox.com
+ninja.kiwi
+ninjakiwi.com
 nmtracking.netflix.com
 node.e2ro.com/*
 novel.pixiv.net
