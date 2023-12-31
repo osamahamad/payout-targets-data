@@ -369,6 +369,7 @@
 *.infrastructure.newrelic.com
 *.instacart.com
 *.instacart.tools
+*.intel.com
 *.intercomassets.com / *.intercomcdn.com
 *.irccloud-cdn.com
 *.irccloud.com
@@ -508,9 +509,7 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
-*.ninjakiwi.com
 *.niumba.com
-*.nkstatic.com
 *.nnip.com
 *.nordvpn.com
 *.nr-data.net
@@ -689,7 +688,6 @@
 *.sophos.com
 *.soundcloud.com
 *.soundcloud.org
-*.souparea.com
 *.spinaway.com
 *.sportinglife.com
 *.sprint.com
@@ -828,6 +826,7 @@
 *emailsignature.trustpilot.com
 *invitations-api.trustpilot.com
 *legal.trustpilot.com
+*pwn.intigriti.rocks
 *racing.fanduel.com
 *share.trustpilot.com
 *signalservice.comcast.net
@@ -1575,6 +1574,7 @@ Finicity Decisioning
 Finicity- Data Services
 FireTV
 Firefox extension (download at:   https://addons.mozilla.org/firefox/addon/pinterest/)
+Firmware
 FishEye
 Flash Player
 Fleet Server
@@ -1644,6 +1644,7 @@ Hackathon for Jira - Cloud - https://marketplace.atlassian.com/apps/1214757/hack
 Halp Answers for Confluence in Slack - Cloud - https://marketplace.atlassian.com/apps/1222365/halp-answers-for-confluence-in-slack?hosting=cloud
 Halp application for Microsoft Teams
 Halp application for Slack
+Hardware
 Hardware found on https://www.ezviz.com/category/security-wifi-cameras
 Hardware found on https://www.ezviz.com/category/smart-home
 Harmony Remote Software
@@ -1978,7 +1979,6 @@ Okta Verify (iOS)
 Omega
 OneDrive - https://trello.com/power-ups/5940440775fbe327abd3329f/onedrive
 Online Marketplace
-Open Source
 Open Source - Atlas
 Open Source - Conductor
 Open Source - Consoleme
@@ -2176,6 +2176,7 @@ Smartchain Blockchain
 Snaps
 Snaps Development Packages
 Social Media Accounts
+Software
 Software Supply Chain
 Sophos Central
 SoundCloud Android app
@@ -2588,7 +2589,6 @@ amp.reddit.com
 analytics-admin.prosus.com
 analytics.cloud.unity3d.com
 analytics.krisp.ai
-analytics.ninjakiwi.com
 analytics.pinelabs.com
 analytics.prosus.com
 anytask.thesecurityteam.rocks
@@ -2625,7 +2625,6 @@ api.bitso.com
 api.blockchain.info
 api.blockscore.com
 api.bugcrowd.com
-api.cag.us-west-2.int.23andme.us
 api.chainstack.com
 api.cloudflare.com
 api.codex.one
@@ -2691,7 +2690,6 @@ api.mergify.com
 api.miro.com
 api.monespacesante.fr
 api.netlify.com
-api.ninjakiwi.com
 api.october.eu
 api.omise.co
 api.openai.com
@@ -2856,7 +2854,6 @@ atarkasher.co.il
 aus5.mozilla.org
 auth.23andme.com
 auth.bittrex.com
-auth.cag.us-west-2.int.23andme.us
 auth.crypto.com
 auth.foxy.io
 auth.indrive.tech
@@ -2890,7 +2887,6 @@ ballistic.com
 ballistic.com.br
 basecamp3.exe
 basicattentiontoken.org
-battles.tv
 bb.visa.com
 bd.visa.com
 beacon.netflix.com
@@ -2954,7 +2950,6 @@ bugcrowd-oie-%username%-2.oktapreview.com
 bugcrowd.com
 bugs.opera.com
 bugzilla.mozilla.org
-builds-auckland.ninja.kiwi
 bullsheet.me
 burn.polygon.technology
 business.kayak.com
@@ -3421,7 +3416,6 @@ cryptowallet.opera-api.com
 cs.money
 csgo.exe
 csp-pci.prod.codebig2.net
-ct.ninjakiwi.com
 ctf.hacker101.com
 custody.coinbase.com
 customer-academy.databricks.com
@@ -3453,7 +3447,6 @@ dashboard.razorpay.com
 dashboard.unity3d.com
 dashboard2.omise.co
 data.mail.yahoo.com
-data.ninjakiwi.com
 data.prosus.com
 data.rarible.com
 databricks.com
@@ -3893,7 +3886,6 @@ https://api-test.nicex.com/
 https://api-{app-id}.calls.sendbird.com
 https://api-{application_id}.sendbird.com
 https://api.20min.ch/
-https://api.23andme.com
 https://api.aiven.io/login
 https://api.anytask.com/
 https://api.anytask.thesecurityteam.rocks
@@ -3905,7 +3897,6 @@ https://api.bluejeans.com/
 https://api.btse.com
 https://api.bugcrowd.com
 https://api.caffeine.tv/
-https://api.cag.us-west-2.int.23andme.us
 https://api.classdojo.com
 https://api.cloudinary.com
 https://api.coinstore.com
@@ -4126,9 +4117,7 @@ https://asana.com/download
 https://asymetrix.io/
 https://aurora.plus/
 https://auth-ywh.it.authentification.si.gouv.qc.ca
-https://auth.23andme.com
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
-https://auth.cag.us-west-2.int.23andme.us
 https://auth.datadome.co
 https://auth.foxy.io/
 https://auth.immutable.com/
@@ -4168,7 +4157,6 @@ https://bkex-dev-pub-hz.oss-cn-hangzhou.aliyuncs.com/downloadlink/localdlgn.html
 https://bkex-dev-pub-hz.oss-cn-hangzhou.aliyuncs.com/downloadlink/localdlgw.html
 https://bkexapi.github.io/docs/api_zh.htm
 https://blablacardaily.com
-https://blog.23andme.com
 https://blog.bitpanda.com
 https://blog.bitpanda.com/en
 https://blog.creditkarma.com/
@@ -4336,7 +4324,6 @@ https://drive.google.com/file/d/1UMVjnsnIpD4qOp_xzbmbv71SutI3xyDb/view?usp=share
 https://dxc.episerver.net/ 
 https://ebanking.westernunionbank.com
 https://edge.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua))
-https://education.23andme.com
 https://eforms.neogov.com
 https://egypt.westernunion.com
 https://eim.eu-west-2.outscale.com
@@ -4424,7 +4411,6 @@ https://github.com/18f/federalist-proxy
 https://github.com/18f/identity-idp
 https://github.com/18f/identity-saml-rails
 https://github.com/18f/identity-saml-sinatra
-https://github.com/23andMe
 https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP
 https://github.com/Agoric/agoric-sdk/tree/master/packages/inter-protocol
 https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe
@@ -5240,8 +5226,6 @@ https://matrix.i.tchap.gouv.fr
 https://mc.sendgrid.com/
 https://mcs.arlo.com
 https://mcssl.com
-https://mediacenter.23andme.com
-https://medical.23andme.com
 https://meechum.netflix.com
 https://menulog.co.nz
 https://menulog.com.au
@@ -5551,7 +5535,6 @@ https://remoteaccess.westernunion.com
 https://rentals.tripadvisor.com
 https://reptox.cnesst.gouv.qc.ca
 https://res.cloudinary.com
-https://research.23andme.com
 https://resume.com
 https://rewards.gdx.org/
 https://rusadminappt.vfsglobal.com/Global-Admin/
@@ -5631,7 +5614,6 @@ https://status-takeaway.com/status
 https://status-takeaway.com/status.
 https://status.mobile.monash/
 https://storage.googleapis.com/kubernetes-release/
-https://store.23andme.com
 https://store.playstation.com/en-us/product/UP2662-CUSA08481_00-RECROOM000000001
 https://store.playstation.com/en-us/product/UP2662-PPSA05532_00-6681199027107223
 https://store.steampowered.com/app/471710/Rec_Room/
@@ -5665,7 +5647,6 @@ https://testflight.apple.com/join/533gFghn
 https://testflight.apple.com/join/e4owjwMX
 https://testnet.tonscan.org/address/EQBQMoFbX2YFU5YP9_0VHdtMFnQMjsM9pH22r9ZSRpYg8Z29
 https://tfb.t-mobile.com
-https://therapeutics.23andme.com
 https://thinkglobalhealth.org
 https://ticket.multiplayer.classdojo.com
 https://tickets.kz/
@@ -6102,8 +6083,6 @@ https://wwws-staging.moneytree.jp/link/mobile/#/signup?client_id=38d99a6e8e9fc87
 https://x.woo.org/
 https://xyzbmojn.net/
 https://yeswehack.com
-https://you.23andme.com
-https://you.cag.us-west-2.int.23andme.us
 https://youcouldbe.com
 https://yourstore.retail.lightspeed.app/signin/?return=%2F
 https://{account-code}-0.app.pentest.digistorm.com/admin
@@ -6436,7 +6415,6 @@ my.swiftfinancial.com
 my.thesecurityteam.rocks
 mydesktop.usaa.com
 mydesktop.wu.com
-mynk.ninjakiwi.com
 myvpn.usaa.com
 naspers.com
 nav.naspers.com
@@ -6517,8 +6495,6 @@ nextcloud/viewer
 nextcloud/workflow_script
 nice.wfmusaa.com
 nicetryapril.na1.echosignsandbox.com
-ninja.kiwi
-ninjakiwi.com
 nmtracking.netflix.com
 node.e2ro.com/*
 novel.pixiv.net
@@ -7269,6 +7245,7 @@ www.iciparisxl.lu
 www.iciparisxl.nl
 www.infomaniak.com
 www.instacart.com
+www.intigriti.com
 www.irccloud.com
 www.jaybirdsport.com
 www.kayak.com
@@ -7493,7 +7470,6 @@ yapi.clario.co
 yelptop100.com
 yimg.com
 you.23andme.com
-you.cag.us-west-2.int.23andme.us
 your-assigned-subdomain.files.com
 your-store.myshopify.com
 yourcompany.udemy.com
