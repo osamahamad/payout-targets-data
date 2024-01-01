@@ -50,6 +50,7 @@
 *.acrobat.com
 *.acronis.com
 *.acronis.work
+*.ad.nl
 *.adobe.com
 *.adobe.io
 *.adobeaemcloud.com
@@ -317,7 +318,6 @@
 *.guilded.gg
 *.hackerone-ext-content.com
 *.hackerone-user-content.com/
-*.hardware.info
 *.harmonixmusic.com
 *.harmonyremote.com
 *.hellofax.com
@@ -346,8 +346,6 @@
 *.hubspot.net
 *.hubspotemail.net
 *.humio.com
-*.hwigroup.com
-*.hwigroup.net
 *.hypermint.com
 *.hyperpure.com
 *.hyperwallet.com
@@ -693,6 +691,8 @@
 *.spinaway.com
 *.sportinglife.com
 *.sprint.com
+*.sqills.com
+*.sqills.team
 *.square.com
 *.squareup.com
 *.srvcs.tumblr.com
@@ -750,9 +750,6 @@
 *.transferwise.com
 *.trello.services
 *.trip.com
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tt.omtrdc.net
@@ -1334,7 +1331,6 @@ Burp Suite Enterprise Edition
 Burp Suite Extension (BApps)
 Burp Suite Pro/Community
 Butler for Trello
-C# SDK
 C100447517
 C103149579
 CAMON Phone Series
@@ -1703,7 +1699,6 @@ IoS App
 Ipython Notebook Viewer - Cloud - https://marketplace.atlassian.com/apps/1218117/ipython-notebook-viewer?hosting=cloud
 Issue Edit Notifications for Jira - Server - https://marketplace.atlassian.com/apps/1211504/issue-edit-notifications-for-jira?hosting=server
 JMeter Aggregator for Bamboo - Server - https://marketplace.atlassian.com/apps/5902/jmeter-aggregator-for-bamboo?hosting=server
-Java SDK
 Java agent
 JavaScript Charts for Jira Cloud - Cloud - https://marketplace.atlassian.com/apps/1214527/javascript-charts-for-jira-cloud?hosting=cloud
 Jenkins for Jira (official) - Cloud - https://marketplace.atlassian.com/apps/1227791/jenkins-for-jira-official?hosting=cloud
@@ -2029,7 +2024,6 @@ Other publicly-released plugins
 Other ynab.com domains not listed
 P2P functionality
 PHANTOM Phone Series
-PHP SDK
 PHP agent
 PIA APIs
 PIA Android application
@@ -2126,7 +2120,6 @@ Questions for Confluence - DataCenter - https://marketplace.atlassian.com/apps/1
 Questions for Confluence - Server - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=server
 Queue Priority Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1216287/queue-priority-plugin-for-bamboo?hosting=server
 RYOT
-React Native SDK
 Read Me - https://trello.com/power-ups/5a2de0c41ae4a1537bb0055d/read-me
 Rec Room PC Standalone App
 Rec Room Studio
@@ -2146,7 +2139,6 @@ Roblox Client
 Roblox Studio
 Rockstar Games Launcher
 Ruby agent
-Rust SDK
 SBT Task Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1214713/sbt-task-plugin-for-bamboo?hosting=server
 SEEK mobile app for Android
 SEEK mobile app for iOS
@@ -2303,9 +2295,7 @@ Tidal Client for iOS
 Tidal Desktop Client
 Tidal Official Clients (e.g. Sonos, Tesla, etc.)
 Tier 1
-Tier 1 subdomains
 Tier 2
-Tier 3 subdomains
 Tier A - Core Assets
 Tier B - Non Core (Bitmoji, Playcanvas)
 Tier1
@@ -2332,8 +2322,6 @@ Troubleshooting and Support - Crowd - Server - https://marketplace.atlassian.com
 Troubleshooting and Support - FeCru - Server - https://marketplace.atlassian.com/apps/1217747/troubleshooting-and-support-fecru?hosting=server
 Troubleshooting and Support - Jira - DataCenter - https://marketplace.atlassian.com/apps/1217696/troubleshooting-and-support-jira?hosting=datacenter
 Troubleshooting and Support - Jira - Server - https://marketplace.atlassian.com/apps/1217696/troubleshooting-and-support-jira?hosting=server
-TrueLayer for Magento (Magento plugin)
-TrueLayer for WooCommerce (WordPress plugin)
 Trustwallet Android App
 Trustwallet iOS App
 Turnstile
@@ -2747,7 +2735,6 @@ api.tide.co
 api.tideplatform.in
 api.trello.com
 api.tripadvisor.com
-api.truelayer[-sandbox].com
 api.tumblr.com
 api.twilio.com
 api.unity.com
@@ -2876,7 +2863,6 @@ auth.preprod.monespacesante.fr
 auth.seek.com
 auth.services.adobe.com
 auth.skypicker.com
-auth.truelayer[-sandbox].com
 auth2.indrive.tech
 authn.usaa.com
 autocomplete.booking.com
@@ -3394,11 +3380,9 @@ connect.8x8.com
 connect.deezer.com
 connect.monash.edu
 consensys.net
-console-backend.truelayer[-sandbox].com
 console.aiven.io
 console.chainstack.com
 console.dashlane.com
-console.truelayer[-sandbox].com
 contact.krisp.ai
 contacts.infomaniak.com
 content.usaa.com
@@ -3737,7 +3721,6 @@ helpcenter.affirm.ca
 helpcenter.affirm.com
 helpx.adobe.com
 hey-mail
-hey.bild.de
 heyfiesta.com
 hg.mozilla.org
 hilton.com
@@ -3762,7 +3745,6 @@ horizonchaseturbo.com
 hostgator.com.br/
 hotel-deals.marriott.com
 hotornot.com
-hpp.truelayer[-sandbox].com
 hr.prosus.com
 ht.visa.com
 http://(yoursubdomain).sharefile.com/sf/v3/
@@ -5243,7 +5225,6 @@ https://mc.sendgrid.com/
 https://mcs.arlo.com
 https://mcssl.com
 https://meechum.netflix.com
-https://meinkonto.bild.de/
 https://menulog.co.nz
 https://menulog.com.au
 https://meraki.cisco.com
@@ -5565,7 +5546,6 @@ https://sandbox.directly.com/dashboard/index
 https://sandbox.open-xchange.com
 https://screenplayer.20min.ch
 https://secure-iphone-xml.booking.com/json/
-https://secure.mypass.de/
 https://secure.neogov.com
 https://secure.westernunion.com
 https://secureauth.westernunion.com
@@ -5733,7 +5713,6 @@ https://vault-staging.getmoneytree.com
 https://vendorss.usaa.com
 https://viatorapi.viator.com/service/directory
 https://videoplayer.20min.ch
-https://vip-club.computerbild.de/
 https://virtuswap.io/
 https://vlagg.usaa.com
 https://vlapi.usaa.com
@@ -6240,7 +6219,6 @@ log.rarible.com
 logging.rarible.com
 logilife.logitech.com
 login-4ngbets.us.betfair.com
-login-api.truelayer[-sandbox].com
 login-ia.tvg.com
 login.en.travelbrandsagent.com
 login.fr.cloud.gov
@@ -6252,7 +6230,6 @@ login.playcanvas.com
 login.starbucks.co.jp
 login.swapcard.com
 login.tide.co
-login.truelayer[-sandbox].com
 login.tvg.com
 login.www.vaxvacationaccess.com
 logistics.amazon.*
@@ -6388,6 +6365,7 @@ my.pressable.com
 my.snapchat.com
 my.swiftfinancial.com
 my.thesecurityteam.rocks
+myaccount.ad.nl
 mydesktop.usaa.com
 mydesktop.wu.com
 myvpn.usaa.com
@@ -6492,7 +6470,6 @@ old.reddit.com
 omgpro.airbnb.com
 on-ramp.metaswap-dev.codefi.network
 onboarding-*.cloud.com
-onboarding-api.truelayer.com
 onboarding.cloud.com
 onboarding.greenhouse.io
 one.airbnb.com
@@ -6544,23 +6521,18 @@ partners.shopify.com
 partners.usaa.com
 passport.larksuite.com
 passwordchallenge.marriott.com
-pay-api.truelayer[-sandbox].com
 pay.8x8.com
 pay.amazon.*
 pay.crypto.com
 pay.ibex.exchange
-pay.truelayer[-sandbox].com
 pay.unity.com
 paybridge.booking.com
-paydirect.truelayer[-sandbox].com
 payment-connectors.vendhq.com
 payment.deezer.com
 payment.pixiv.net
-payment.truelayer[-sandbox].com
 paymentcomponent.booking.com
 payments.amazon.*
 paynotifications.booking.com
-payouts.truelayer[-sandbox].com
 paypal.me
 paypalobjects.com
 payroll.razorpay.com
@@ -6584,7 +6556,6 @@ platform.8x8pilot.com
 platform.adobe.com
 platform.remix.com
 platform.teleport.sh
-play.bild.de
 play.google.com/store/apps/details?id=com.crowdstrike.falconmobile
 play.google.com/store/apps/details?id=fr.assurancemaladie.monespacesante&showAllReviews=true (Android)
 playartifact.com
@@ -6827,7 +6798,6 @@ spark.adobe.com
 spectacles.com
 speeddials.opera.com
 speedtest.xfinity.com
-sportbild.bild.de
 sportsbook.fanduel.com
 sprint.com
 ssh.fr.cloud.gov
@@ -6978,7 +6948,6 @@ tria.ge
 trm.pinelabs.com
 trm.pinepaymentsolutions.com
 truck-api.eu-east-1.indriverapp.com
-truelayer-signing
 try.discourse.org
 tunnistus.lahitapiola.fi
 tunnistus.s-ryhma.fi
@@ -7015,7 +6984,6 @@ usaainsurance.com
 user-profile-staging.8x8.com
 user-profile.8x8.com
 usercontent.apps.nextcloud.com
-users-api.truelayer.com
 utv.usaa.com
 uz.avtoelon
 v.utv.usaa.com
@@ -7077,9 +7045,9 @@ webapi.clario.co
 webhooks-api-experimental.codefi.network
 webhooks.booking.com
 webhooks.gamma.redoxstage.com
-webhooks.truelayer[-sandbox].com
 webmail.usaa.com
 webtoolbox.notebleue.pro
+webwinkel.ad.nl
 welcome.infomaniak.com
 wga.volans.tech
 whatsnew.krisp.ai
@@ -7126,6 +7094,8 @@ wuinsights.westernunion.com
 www.32red.com
 www.4njbets.com
 www.abritel.fr
+www.ad.nl
+www.ad.nl/abonnementen
 www.airbnb.com
 www.algolia.com
 www.alibabagroup.com
@@ -7138,10 +7108,7 @@ www.arubainstanton.com
 www.astrogaming.com
 www.atg.se
 www.authorize.net
-www.autobild.de
 www.beachbound.com
-www.bild.de
-www.bild.tv
 www.bitexen.com
 www.bitmoji.com
 www.bitstamp.net - Bitstamp Application & API
@@ -7155,7 +7122,6 @@ www.bookabach.co.nz
 www.bookingholdings.com
 www.boomplay.com
 www.bumble.com
-www.bz-berlin.de
 www.cardinalcommerce.com
 www.carrentals.com
 www.cheapcaribbean.com
@@ -7172,7 +7138,6 @@ www.coinstore.com
 www.cointr.com
 www.cointr.pro
 www.compass.com
-www.computerbild.de
 www.contrastsecurity.com
 www.counter-strike.net
 www.creditkarma.ca
@@ -7198,7 +7163,6 @@ www.ebookers.com
 www.ebookers.fi
 www.editeur.am.monespacesante.fr
 www.editeur.api.monespacesante.fr
-www.ein-herz-fuer-kinder.de
 www.elastic.co
 www.etoro.com
 www.etsy.com
@@ -7214,7 +7178,6 @@ www.fedramp.gov
 www.fewo-direkt.de
 www.figma.com
 www.files.com
-www.fitbook.de
 www.flights.com
 www.forescout.com
 www.fortress.com.hk
@@ -7294,7 +7257,6 @@ www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
 www.myetherwallet.com
-www.myhomebook.de
 www.netflix.com
 www.networksolutions.com
 www.omise.co
@@ -7305,7 +7267,6 @@ www.ovh.com
 www.ovh.com/manager
 www.pangleglobal.com
 www.paypal-*.com
-www.petbook.de
 www.pineperks.in
 www.pixiv.net
 www.planethoster.com
@@ -7347,7 +7308,6 @@ www.starbucksreserve.com
 www.status-takeaway.com/status
 www.stayz.com.au
 www.stripe.partners
-www.stylebook.de
 www.superdrug.com
 www.swiftcapital.com
 www.swiftfinancial.com
@@ -7358,7 +7318,6 @@ www.takeaway.com/drivers
 www.takeaway.com/foodwiki/
 www.tapiola.fi
 www.teamfortress.com
-www.techbook.de
 www.tecno-mobile.com
 www.temu.com
 www.theperfumeshop.com
@@ -7366,7 +7325,6 @@ www.thuisbezorgd.nl/aanmelden
 www.tide.co
 www.tink.com
 www.trafficfactory.com
-www.travelbook.de
 www.travelocity.ca
 www.travelocity.com
 www.trendyol.com
@@ -7435,7 +7393,6 @@ www.watsons.com.sg
 www.watsons.com.tr
 www.watsons.com.tw
 www.wearehackerone.com
-www.welt.de
 www.wickr.com
 www.wotif.com
 www.wynnvacations.com

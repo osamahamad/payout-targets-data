@@ -20,6 +20,7 @@
 *.acrobat.com
 *.acronis.com
 *.acronis.work
+*.ad.nl
 *.adobe.com
 *.adobe.io
 *.adobeaemcloud.com
@@ -287,7 +288,6 @@
 *.guilded.gg
 *.hackerone-ext-content.com
 *.hackerone-user-content.com/
-*.hardware.info
 *.harmonixmusic.com
 *.harmonyremote.com
 *.hellofax.com
@@ -316,8 +316,6 @@
 *.hubspot.net
 *.hubspotemail.net
 *.humio.com
-*.hwigroup.com
-*.hwigroup.net
 *.hypermint.com
 *.hyperpure.com
 *.hyperwallet.com
@@ -663,6 +661,8 @@
 *.spinaway.com
 *.sportinglife.com
 *.sprint.com
+*.sqills.com
+*.sqills.team
 *.square.com
 *.squareup.com
 *.srvcs.tumblr.com
@@ -720,9 +720,6 @@
 *.transferwise.com
 *.trello.services
 *.trip.com
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tt.omtrdc.net
