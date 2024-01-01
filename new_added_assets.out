@@ -1,13 +1,50 @@
-*.veriff.com
-1467907532
-alchemy.veriff.com
-api.flamingo-eu.veriff.com
-api.us.veriff.me
-api.veriff.me
-com.veriff.demo
-developers.veriff.me
-louvre.veriff.me
-magic.veriff.me
-station.veriff.com
-stationapi.veriff.com
-www.veriff.com
+*.hardware.info
+*.hwigroup.com
+*.hwigroup.net
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
+C# SDK
+Java SDK
+PHP SDK
+React Native SDK
+Rust SDK
+Tier 1 subdomains
+Tier 3 subdomains
+TrueLayer for Magento (Magento plugin)
+TrueLayer for WooCommerce (WordPress plugin)
+api.truelayer[-sandbox].com
+auth.truelayer[-sandbox].com
+console-backend.truelayer[-sandbox].com
+console.truelayer[-sandbox].com
+hey.bild.de
+hpp.truelayer[-sandbox].com
+https://meinkonto.bild.de/
+https://secure.mypass.de/
+https://vip-club.computerbild.de/
+login-api.truelayer[-sandbox].com
+login.truelayer[-sandbox].com
+onboarding-api.truelayer.com
+pay-api.truelayer[-sandbox].com
+pay.truelayer[-sandbox].com
+paydirect.truelayer[-sandbox].com
+payment.truelayer[-sandbox].com
+payouts.truelayer[-sandbox].com
+play.bild.de
+sportbild.bild.de
+truelayer-signing
+users-api.truelayer.com
+webhooks.truelayer[-sandbox].com
+www.autobild.de
+www.bild.de
+www.bild.tv
+www.bz-berlin.de
+www.computerbild.de
+www.ein-herz-fuer-kinder.de
+www.fitbook.de
+www.myhomebook.de
+www.petbook.de
+www.stylebook.de
+www.techbook.de
+www.travelbook.de
+www.welt.de
