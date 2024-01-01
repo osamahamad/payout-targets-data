@@ -349,8 +349,6 @@
 *.hyperpure.com
 *.hyperwallet.com
 *.hypr.com
-*.ibood.com
-*.ibood.io
 *.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
@@ -749,6 +747,7 @@
 *.transferwise.com
 *.trello.services
 *.trip.com
+*.trouw.nl
 *.tstaging.com
 *.tstaging.tools
 *.tt.omtrdc.net
@@ -859,7 +858,6 @@
 10x.redoxengine.com
 1118448159
 1127881507
-1135288773
 1174276185
 1180074773
 1192506963
@@ -2665,7 +2663,6 @@ api.gx.games/gxc
 api.gx.games/profile
 api.gx.games/session
 api.hackerone.com
-api.ibood.com
 api.iciparisxl.be
 api.iciparisxl.lu
 api.iciparisxl.nl
@@ -2891,7 +2888,6 @@ bd.visa.com
 beacon.netflix.com
 behance.net
 beta-cloud.acronis.com
-beta.ibood.com
 beta.rarible.com
 bigcommerce-adapter.judge.me
 billing-pci.etoro.com
@@ -3175,7 +3171,6 @@ com.hoffnung
 com.hotornot.app
 com.hotwire.hotels
 com.hypr.one
-com.ibood.app
 com.immediasemi.android.blink
 com.instacart.client
 com.iphone.workfront
@@ -3599,7 +3594,6 @@ federalist-proxy.app.cloud.gov
 federalist.18f.gov
 federation.data.gov
 feedback.logitech.com
-feeds.ibood.com
 fetlife.com
 fhir.redoxengine.com
 fi.lahitapiola.lemmikkihelppi
@@ -6091,7 +6085,6 @@ idp.fr.cloud.gov
 ifttt-adaptor.pub.kube.dm.gg
 images2.triseptsolutions.com
 imagine.magento.com
-img.ibood.com
 img.swapcard.com
 imx.community
 inapp.clario.co
@@ -6360,7 +6353,6 @@ mus1.badoo.com
 music.amazon.com
 my.account.sony.com
 my.exness.com
-my.ibood.com
 my.loanbuilder.com
 my.malwarebytes.com
 my.monash
@@ -6371,6 +6363,7 @@ my.pressable.com
 my.snapchat.com
 my.swiftfinancial.com
 my.thesecurityteam.rocks
+myaccount.trouw.nl
 mydesktop.usaa.com
 mydesktop.wu.com
 myvpn.usaa.com
@@ -6741,7 +6734,6 @@ select.logitech.com
 selector.viator.com
 sensei.pixiv.net
 serveur10.notebleue.com
-service-*.ibood.com
 service.platform.tripadvisor.com
 service.tvg.com
 sf-rp-eu.sharefile.com
@@ -6761,6 +6753,7 @@ shop.monash.edu
 shop.shipt.com
 shop.thuisbezorgd.nl
 shop.tiktok.com
+shop.trouw.nl
 shop.wyndhamvacationownership.trisept.travel
 shopbylook.amazon.*
 shopify.plus
@@ -7053,6 +7046,7 @@ webhooks.booking.com
 webhooks.gamma.redoxstage.com
 webmail.usaa.com
 webtoolbox.notebleue.pro
+webwinkel.trouw.nl
 welcome.infomaniak.com
 wga.volans.tech
 whatsnew.krisp.ai
@@ -7199,7 +7193,6 @@ www.hotwire.com
 www.hotwirepartnercentral.com
 www.hyatt.com
 www.hyattconnect.com
-www.ibood.com
 www.iciparisxl.be
 www.iciparisxl.lu
 www.iciparisxl.nl
@@ -7336,6 +7329,8 @@ www.tripadvisor.com
 www.triseptapi.com
 www.triseptdemo.com
 www.triseptsolutions.com
+www.trouw.nl
+www.trouw.nl/abonnementen
 www.tumblr.com
 www.tvg.com
 www.udemy.com

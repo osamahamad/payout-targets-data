@@ -319,8 +319,6 @@
 *.hyperpure.com
 *.hyperwallet.com
 *.hypr.com
-*.ibood.com
-*.ibood.io
 *.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
@@ -719,6 +717,7 @@
 *.transferwise.com
 *.trello.services
 *.trip.com
+*.trouw.nl
 *.tstaging.com
 *.tstaging.tools
 *.tt.omtrdc.net
@@ -802,7 +801,6 @@ intercity-*.eu-east-1.indriverapp.com
 matrix.agent.*.tchap.gouv.fr
 munin-*.wordpress.org
 onboarding-*.cloud.com
-service-*.ibood.com
 swiss-backup*.infomaniak.com
 terra-*.indriverapp.com
 test*.redoxengine.com
