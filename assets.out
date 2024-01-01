@@ -191,6 +191,7 @@
 *.coinmetro.com
 *.coinsbit.io
 *.comcast.com
+*.contactallerg(y|ie).uzleuven.be
 *.contentsquare.com
 *.cornershop.io/*
 *.cornershopapp.com/*
@@ -405,6 +406,7 @@
 *.kortathjonustan.is
 *.krisp.ai
 *.kucoin.com
+*.kwsdose.be
 *.lab.epam.com
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -471,6 +473,7 @@
 *.metrobyt-mobile.com
 *.mevo.com
 *.mi.com
+*.mir.uzleuven.be
 *.miui.com
 *.miwifi.com
 *.mixamo.com
@@ -565,6 +568,7 @@
 *.platformservices.io
 *.playlist.link
 *.playstation.net
+*.playuzleuven.be
 *.pods.link
 *.popjam.com
 *.ppbdev.com
@@ -766,6 +770,7 @@
 *.unrealengine.com
 *.unrealtournament.com
 *.unscreen.com
+*.uzleuven.*
 *.vacationhomerentals.com
 *.venmo.com
 *.vennhypotheken.nl
@@ -821,14 +826,17 @@
 *b2b.trustpilot.com
 *business.trustpilot.com
 *central.arubanetworks.com
+*dev.uzleuven.be
 *developer.cloud.com
 *emailsignature.trustpilot.com
+*idp*.uzleuven.be
 *invitations-api.trustpilot.com
 *legal.trustpilot.com
 *racing.fanduel.com
 *share.trustpilot.com
 *signalservice.comcast.net
 *signup.business.trustpilot.com
+*stag*.uzleuven.be
 *tidalhi.fi
 *uat.marriott.com
 *ubereats.com
@@ -871,6 +879,7 @@
 1294578643
 1298908406
 1324809509
+134.58.179.102-103
 1343620481
 140.95.0.0/16
 141.0.8.0/21
@@ -2863,6 +2872,7 @@ auth.skypicker.com
 auth2.indrive.tech
 authn.usaa.com
 autocomplete.booking.com
+autodiscover.uzleuven.be
 autoupdate.geo.opera.com
 avtoelon.uz
 aw.visa.com
@@ -3496,6 +3506,8 @@ discuss.newrelic.com
 distribution-xml.booking.com
 dl.clario.co
 dmxleo.com
+dns1.uzleuven.be
+dns2.uzleuven.be
 doaction.org
 dockhand.netflix.com
 docs.bugcrowd.com
@@ -3525,6 +3537,7 @@ e-Commerce
 eIDAS Bridge  (see program description for github link)
 eassessment.monash.edu
 ebsext.oft.hyatt.com
+ecrf.uzleuven.be
 edex.adobe.com
 edgeapi.slack.com
 editeur.am.monespacesante.fr
@@ -3580,7 +3593,9 @@ ext-gw.lahitapiola.fi
 external.indrive.dev
 external.logitech.com
 externalconnect.usaa.com
+extranet-asa.uzleuven.be
 extranet.s-pankki.fi
+extranet.uzleuven.be
 falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com
 falcon-sandbox.com
 fallguys.com
@@ -3600,6 +3615,7 @@ fi.lahitapiola.mobile
 fi.spankki
 file-storage-front.eu-east-1.indriverapp.com
 file.larksuite.com
+files.uzleuven.be
 fileshare.ze.monash.edu
 firefly.adobe.com
 firefox-ci-tc.services.mozilla.com
@@ -6162,6 +6178,7 @@ krisha.kz
 krisp.ai
 kubernetes-csi.github.io
 kubernetes.io
+kumulus.uzleuven.be
 kuna.io
 kyc-onboarding.booking.com
 kyc-src.etoro.com
@@ -6196,6 +6213,8 @@ link.omise.co
 linkpop.com
 links.rarible.com
 linksplus-dashboard.omise.co
+liquidfiles.uzleuven.be
+liquidfilestest.uzleuven.be
 lisasijoitus.lahitapiola.fi
 list-v2--netlify-plugins.netlify.app
 lists.nextcloud.com
@@ -6321,6 +6340,8 @@ mgmtpod-1.production.forescoutcloud.net
 mgs-gw.m.dana.id
 mgs.marriott.com
 mguest.usaa.com
+mijnacc.uzleuven.be
+mirc.uzleuven.be
 miro.com
 mix-dev.monash.edu/*
 mix-qat.monash.edu/*
@@ -6350,6 +6371,8 @@ mta-sts.wearehackerone.com
 munin-*.wordpress.org
 mus1.badoo.com
 music.amazon.com
+mx1.uzleuven.be
+mx2.uzleuven.be
 my.account.sony.com
 my.exness.com
 my.loanbuilder.com
@@ -6533,6 +6556,7 @@ paypal.me
 paypalobjects.com
 payroll.razorpay.com
 pb.deribit.com
+pcrstudioruzb.uzleuven.be
 pentesting.gethypr.com
 pentesting2.gethypr.com
 pentesting3.gethypr.com
@@ -6571,6 +6595,8 @@ portfolio.adobe.com
 portfolio.metamask.io
 portswigger.net
 prd-ring-web-us.prd.rings.solutions
+prddnighting01.uzleuven.be
+prddsplunkhf.uzleuven.be
 preprod.am.monespacesante.fr
 preprod.api.monespacesante.fr
 preprod.auth.monespacesante.fr
@@ -6854,6 +6880,7 @@ streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streams.etoro.com
 sts.etoro.com
+sts.uzleuven.be
 studentplacements.monash.edu
 studio-api.swapcard.com
 studio.swapcard.com
@@ -6918,6 +6945,7 @@ testapi.redoxengine.com
 testapp.redoxengine.com
 testnet.bitmex.com
 testnet.immutable.com
+teststs.uzleuven.be
 tf2.exe
 tfb.t-mobile.com
 theblog.adobe.com
@@ -6982,6 +7010,7 @@ user-profile.8x8.com
 usercontent.apps.nextcloud.com
 utv.usaa.com
 uz.avtoelon
+uzlcm12cmg1.uzleuven.be
 v.utv.usaa.com
 vacations.grandclass.grandvelas.com
 vacations.hotelcasavelas.com
@@ -7019,6 +7048,8 @@ vod.infomaniak.com
 volans.tech
 vpn.mozilla.org
 vroid.com
+w1.uzleuven.be
+w1.uzleuven.be/random
 waf.cumulusfire.net
 wallet.etoro.com
 wallet.near.org
@@ -7338,6 +7369,7 @@ www.upwork.com/api
 www.urbanclap.com
 www.urbancompany.com
 www.usa.gov
+www.uzleuven.be
 www.valvesoftware.com
 www.vascoworldwide.net
 www.vendhq.com
@@ -7440,6 +7472,7 @@ ywh.static.zecible.fr
 ywh.update.zecible.fr
 zerobounce.in
 zerobounce.net
+ziekenhuisschool.be
 zodia.studio
 zopim.com
 履歴書作成 (Universal Resume) Android
