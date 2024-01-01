@@ -962,6 +962,7 @@
 547702041
 549057844
 563291345
+564141518
 566635048
 589698942
 597940518
@@ -993,7 +994,6 @@
 905382680
 905953485
 91.203.96.0/22
-910898851
 926252661
 930441707
 936983378
@@ -2522,6 +2522,7 @@ accounts.reddit.com
 accounts.shopify.com
 accounts.snapchat.com
 accounts.stage.evernote.com
+accountsettings.connect.identity.stagaws.visma.com
 acrobat.adobe.com
 acrobatoauth.adobe.com
 activate.codefi.network
@@ -2545,6 +2546,7 @@ admin.ring.com/*
 admin.shipt.com
 admin.shopify.com
 admin.smartsheet.com
+admin.stage.vismaonline.com
 admin.wickr.com
 admincms.monespacesante.fr
 adminconsole.adobe.com
@@ -2563,6 +2565,7 @@ affiliate-program.amazon.com
 agents.tasheer.com
 agents.vfstasheel.com
 aggregator.etoro.com
+ai-testing.maventa.com
 aiq-prod.codebig2.net
 airFiber
 airMAX
@@ -2750,6 +2753,7 @@ api.watsons.com.sg
 api.watsons.com.tw
 api.wisdomtreeprimeapp.com
 api.wordpress.org
+api.workbox.dk
 api.x.ai
 api.yoti.com
 api.zerobounce.in
@@ -2798,7 +2802,6 @@ app.marionnaud.sk
 app.moderntreasury.com
 app.mona.co
 app.netlify.com
-app.nl.socialdeal
 app.nordpass.com
 app.october.eu
 app.opsgenie.com
@@ -2826,6 +2829,7 @@ app.theperfumeshop.com
 app.tide.co
 app.vidaxl.io
 app.watsons.com.tr
+app.workbox.dk
 appapi.neuralprisma.com
 applause1.magisto.com
 applications.frame.io
@@ -2868,11 +2872,14 @@ auth.services.adobe.com
 auth.skypicker.com
 auth2.indrive.tech
 authn.usaa.com
+authz.workbox.dk
 autocomplete.booking.com
+autointerface.stag.visma.net
 autoupdate.geo.opera.com
 avtoelon.uz
 aw.visa.com
 aws.indrive.tech
+ax-stage.maventa.com
 b2b.tvgnetwork.com
 b2b.vidaxl.com
 b2bapi-a.usaa.com
@@ -3338,6 +3345,7 @@ com.valvesoftware.Steam
 com.venmo
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
+com.visma.blue
 com.vrbo.android
 com.wealthsimple
 com.wealthsimple.wealthsimple
@@ -3383,6 +3391,7 @@ configure.mini.de
 confluence.hyattdev.com
 connect.8x8.com
 connect.deezer.com
+connect.identity.stagaws.visma.com
 connect.monash.edu
 consensys.net
 console.aiven.io
@@ -3534,6 +3543,8 @@ downloads.datastax.com
 drone.vidaxl.io
 e-Commerce
 eIDAS Bridge  (see program description for github link)
+eaccounting.stage.vismaonline.com
+eaccountingprinting.stage.vismaonline.com
 eassessment.monash.edu
 ebsext.oft.hyatt.com
 edex.adobe.com
@@ -3821,7 +3832,6 @@ http://sapphire.oasis.io
 http://secure-iphone-xml.booking.com/json/
 http://secure.netflix.com
 http://skinport.com/blog/
-http://socialdeal.nl/inspirations/bluemonday/
 http://stage.nl.echobox.dev/
 http://stage.sl.echobox.dev/
 http://vimeo.com/api
@@ -3836,7 +3846,6 @@ http://www.lululemon.co.kr/
 http://www.netflix.com
 http://www.register.com
 http://www.shopmarriott.com
-http://www.whynot.com/
 http://www1.domain.com/
 https://*-prod.arlo.com
 https://1shoppingcart.com
@@ -5966,7 +5975,6 @@ https://www.simplify.com/commerce/
 https://www.sitemercado.com.br
 https://www.skidxb.com/
 https://www.skroutz.gr/
-https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
 https://www.sourcetreeapp.com/
 https://www.status-takeaway.com/status
@@ -6098,6 +6106,7 @@ id1520720139
 id1534920947
 ide.x.ai
 identity.monash.edu
+identity.stage.vismaonline.com
 idp.fr.cloud.gov
 ifttt-adaptor.pub.kube.dm.gg
 images2.triseptsolutions.com
@@ -6383,6 +6392,8 @@ my.swiftfinancial.com
 my.thesecurityteam.rocks
 mydesktop.usaa.com
 mydesktop.wu.com
+myservices-api.stage.vismaonline.com
+myservices.stage.vismaonline.com
 myvpn.usaa.com
 naspers.com
 nav.naspers.com
@@ -6476,6 +6487,7 @@ nvio.mx
 nvoice.usaa.com
 nw.ring.com/*
 oauth.deriv.com
+oauth.developers.stagaws.visma.com
 oauth.reddit.com
 oauth.ring.com/*
 obs-sensors.iris.acceptance.forescoutcloud.net
@@ -6945,6 +6957,7 @@ test.nicex.com
 test.rarible.com
 testapi.redoxengine.com
 testapp.redoxengine.com
+testing.maventa.com
 testnet.bitmex.com
 testnet.immutable.com
 tf2.exe
@@ -7318,7 +7331,6 @@ www.s-kaupat.fi
 www.s-pankki.fi
 www.shipt.com
 www.six-group.com
-www.socialdeal.nl
 www.sokos.fi
 www.spiketrap.io
 www.starbucks.ca
