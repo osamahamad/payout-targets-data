@@ -855,8 +855,6 @@
 107.167.96.0/19
 1080248000
 10x.redoxengine.com
-1114799709
-1114800186
 1118448159
 1127881507
 1174276185
@@ -995,6 +993,7 @@
 905382680
 905953485
 91.203.96.0/22
+910898851
 926252661
 930441707
 936983378
@@ -2719,7 +2718,6 @@ api.smtp2go.com
 api.sokos.fi
 api.sonantic.io
 api.sorare.com
-api.soundtrackyourbrand.com
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -2798,6 +2796,7 @@ app.marionnaud.sk
 app.moderntreasury.com
 app.mona.co
 app.netlify.com
+app.nl.socialdeal
 app.nordpass.com
 app.october.eu
 app.opsgenie.com
@@ -2893,7 +2892,6 @@ beta-cloud.acronis.com
 beta.rarible.com
 bigcommerce-adapter.judge.me
 billing-pci.etoro.com
-billing.api.soundtrackyourbrand.com
 billing.etoro.com
 billing.ring.com/*
 billingsupport.chaturbate.com
@@ -2949,13 +2947,11 @@ bugcrowd-oie-%username%-2.oktapreview.com
 bugcrowd.com
 bugs.opera.com
 bugzilla.mozilla.org
-builds.soundtrackyourbrand.com
 bullsheet.me
 burn.polygon.technology
 business.kayak.com
 business.linkedin.com
 business.snapchat.com
-business.soundtrackyourbrand.com
 business.tiktok.com
 businesshelp.snapchat.com
 buy.logitech.com
@@ -3267,7 +3263,6 @@ com.slack.slackmdm
 com.smartsheet.android
 com.smartsheet.smartsheet
 com.snapchat.android
-com.soundtrackyourbrand.soundtrack.player
 com.soundtrap.studioapp
 com.spotify.client
 com.spotify.kids
@@ -3813,6 +3808,7 @@ http://sapphire.oasis.io
 http://secure-iphone-xml.booking.com/json/
 http://secure.netflix.com
 http://skinport.com/blog/
+http://socialdeal.nl/inspirations/bluemonday/
 http://stage.nl.echobox.dev/
 http://stage.sl.echobox.dev/
 http://vimeo.com/api
@@ -3827,6 +3823,7 @@ http://www.lululemon.co.kr/
 http://www.netflix.com
 http://www.register.com
 http://www.shopmarriott.com
+http://www.whynot.com/
 http://www1.domain.com/
 https://*-prod.arlo.com
 https://1shoppingcart.com
@@ -4119,7 +4116,6 @@ https://asana.com/download
 https://asymetrix.io/
 https://aurora.plus/
 https://auth-ywh.it.authentification.si.gouv.qc.ca
-https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.foxy.io/
@@ -4194,7 +4190,6 @@ https://bugcrowd.hotdoc.com.au/dashboard (Clinic Dashboard)
 https://bugs.opera.com/
 https://build.caffeine.tv/
 https://build.twilio.com/s/
-https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
@@ -5527,7 +5522,6 @@ https://profile.pentest.clicsante.ca
 https://projects.epam.com
 https://public-ipfs-mainnet.ternoa.network
 https://public.je-apis.com
-https://radio.api.soundtrackyourbrand.com/
 https://rarible.com/
 https://rc.fstr.rocks
 https://realtime.caffeine.tv/
@@ -5959,8 +5953,8 @@ https://www.simplify.com/commerce/
 https://www.sitemercado.com.br
 https://www.skidxb.com/
 https://www.skroutz.gr/
+https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
-https://www.soundtrackyourbrand.com
 https://www.sourcetreeapp.com/
 https://www.status-takeaway.com/status
 https://www.superdrug.com/blog/
@@ -6264,7 +6258,6 @@ m.krisha.kz
 m.poloniex.com
 m.reddit.com
 m.trendyol.com
-macOS app
 mackeeper.com
 magento.com
 magentocommerce.com
@@ -7297,6 +7290,7 @@ www.s-kaupat.fi
 www.s-pankki.fi
 www.shipt.com
 www.six-group.com
+www.socialdeal.nl
 www.sokos.fi
 www.spiketrap.io
 www.starbucks.ca
