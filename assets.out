@@ -369,7 +369,6 @@
 *.infrastructure.newrelic.com
 *.instacart.com
 *.instacart.tools
-*.intel.com
 *.intercomassets.com / *.intercomcdn.com
 *.irccloud-cdn.com
 *.irccloud.com
@@ -493,10 +492,6 @@
 *.myteksi.net
 *.namestudio.com
 *.namestudioforsocial.com
-*.napoleoncasino.be
-*.napoleondice.be
-*.napoleongames.be
-*.napoleonsports.be
 *.naspers.com
 *.neat.com.hk
 *.neat.hk
@@ -1577,7 +1572,6 @@ Finicity Decisioning
 Finicity- Data Services
 FireTV
 Firefox extension (download at:   https://addons.mozilla.org/firefox/addon/pinterest/)
-Firmware
 FishEye
 Flash Player
 Fleet Server
@@ -1647,7 +1641,6 @@ Hackathon for Jira - Cloud - https://marketplace.atlassian.com/apps/1214757/hack
 Halp Answers for Confluence in Slack - Cloud - https://marketplace.atlassian.com/apps/1222365/halp-answers-for-confluence-in-slack?hosting=cloud
 Halp application for Microsoft Teams
 Halp application for Slack
-Hardware
 Hardware found on https://www.ezviz.com/category/security-wifi-cameras
 Hardware found on https://www.ezviz.com/category/smart-home
 Harmony Remote Software
@@ -2179,7 +2172,6 @@ Smartchain Blockchain
 Snaps
 Snaps Development Packages
 Social Media Accounts
-Software
 Software Supply Chain
 Sophos Central
 SoundCloud Android app
@@ -2349,6 +2341,7 @@ USAA Mobile Application for Android
 USAA Mobile Application for iOS
 USB Flash Drive Control
 USB Unifying and LightSpeed Receivers
+Ubisoft
 Ultimate Ears Speakers
 UniFi
 UniFi Access
@@ -2489,6 +2482,7 @@ Yahoo! (misc)
 Yield Farming
 Your Own GitLab Instance
 Zendesk - https://trello.com/power-ups/56940ede94fd60cf95f7ce6a/zendesk
+Zero days that affect Intigriti or participating customers (listed below)
 a.root-servers.net (DNS service; DNS related)
 a1.verisigndns.com (DNS service; DNS related)
 a1ttqkupgmaxeg-ats.iot.ap-east-1.amazonaws.com
