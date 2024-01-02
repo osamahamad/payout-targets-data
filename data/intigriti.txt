@@ -1,56 +1,310 @@
-Any related DPG media domain
-188.118.8.0/25
-94.107.237.192/26
-api-accpt.portofantwerp.com
-api-accpt.portofantwerpbruges.com
-api.portofantwerp.com
-api.portofantwerpbruges.com
-apps-accpt.portofantwerp.com
-apps-accpt.portofantwerpbruges.com
-apps.portofantwerp.com
-apps.portofantwerpbruges.com
-as2-accpt.portofantwerp.com
-as2-accpt.portofantwerpbruges.com
-as2.portofantwerp.com
-as2.portofantwerpbruges.com
-digitalspecs.portofantwerpbruges.com
-login-accpt.portofantwerpbruges.com
-login.portofantwerpbruges.com
-maximo-accpt.portofantwerp.com
-maximo-accpt.portofantwerpbruges.com
-maximo.portofantwerp.com
-maximo.portofantwerpbruges.com
-maximo.portofantwerpbruges.com
-my-accpt.portofantwerp.com
-my-accpt.portofantwerpbruges.com
-my.portofantwerp.com
-my.portofantwerpbruges.com
-oprc.portofantwerpbruges.com
-register-accpt.portofantwerp.com
-register-accpt.portofantwerpbruges.com
-servicedesk-accpt.portofantwerp.com
-servicedesk-accpt.portofantwerpbruges.com
-servicedesk.portofantwerp.com
-servicedesk.portofantwerpbruges.com
-share-accpt.portofantwerp.com
-share-accpt.portofantwerpbruges.com
-share.portofantwerp.com
-share.portofantwerpbruges.com
-webapps-accpt.portofantwerp.com
-webapps-accpt.portofantwerpbruges.com
-webapps.portofantwerp.com
-webapps.portofantwerpbruges.com
-wiki-accpt.portofantwerp.com
-wiki-accpt.portofantwerpbruges.com
-wiki.portofantwerp.com
-wiki.portofantwerpbruges.com
-www.oursustainableport.com
-www.portofantwerpbruges.com
-winkels.torfs.be
-www.schoenentorfs.be
-www.schoenentorfs.nl
-www.torfs.be
-www.torfs.nl
-www.samenfittorfs.be
-Any related Torfs domain
-Ubisoft
+1099986434
+com.ada.app
+https://api.mobile.ada.com
+https://id.ada.com
+https://care-navigation-admin-bff.int.eu.enterprise.ada.com
+https://care-navigation-admin-fe.int.eu.enterprise.ada.com
+https://care-navigation-bff.int.eu.enterprise.ada.com
+https://care-navigation-fe.int.eu.enterprise.ada.com
+https://demo-prod-assessment-bff.ada-prod-eu.prod.gcp.ada.com
+https://demo-prod-hcp-report-bff.ada-prod-eu.prod.gcp.ada.com
+https://demo.enterprise.ada.com
+https://demo.handover.enterprise.ada.com
+https://demo.sso.enterprise.ada.com
+hey.bild.de
+https://meinkonto.bild.de/
+https://secure.mypass.de/
+https://vip-club.computerbild.de/
+sportbild.bild.de
+Tier 1 subdomains
+www.bild.de
+www.bild.tv
+www.computerbild.de
+www.welt.de
+play.bild.de
+www.autobild.de
+www.bz-berlin.de
+Tier 3 subdomains
+www.ein-herz-fuer-kinder.de
+www.fitbook.de
+www.myhomebook.de
+www.petbook.de
+www.stylebook.de
+www.techbook.de
+www.travelbook.de
+login.cm.com
+api.cm.com
+api.cmtelecom.com
+cm.com/[locale]/app/*
+cm.com/[locale]/register
+cm.com/app/messagingtrial/
+www.cm.com
+demo.globalticket.com/*
+955837609
+com.here.app.maps
+support.innogames.com
+com.innogames.elvenar - Android
+com.innogames.foeandroid
+innogames.com
+tribalwars.cash
+xs.elvenar.com
+xs.forgeofempires.com
+xs.grepolis.com
+xs0.elvenar.com
+xs0.forgeofempires.com
+xs0.grepolis.com
+xs1.elvenar.com
+xs1.forgeofempires.com
+xs1.grepolis.com
+xs1.tribalwars.cash
+Hardware
+Firmware
+Software
+booking.mjrtheatres.com
+extras.landmarkcinemas.com
+ferrero.kinepolis.lu
+identityserver.landmarkcinemas.com
+kinepolis.megatix.be
+luxfilmfestfilms.megatix.be
+luxfilmfestproducts.megatix.be
+luxfilmfesttickets.megatix.be
+movieapi.kinepolis.megatix.be
+tickets.kinepolis.be
+tickets.kinepolis.ch
+tickets.kinepolis.es
+tickets.kinepolis.fr
+tickets.kinepolis.lu
+tickets.kinepolis.nl
+userprofile-ui.landmarkcinemas.com
+www.kinepolis.be
+www.kinepolis.ch
+www.kinepolis.com
+www.kinepolis.es
+www.kinepolis.fr
+www.kinepolis.lu
+www.kinepolis.nl
+www.landmarkcinemas.com
+www.mjrtheatres.com
+business.kinepolis.be
+business.kinepolis.lu
+business.kinepolis.nl
+com.inthepocket.kinepolis
+extras-acc.landmarkcinemas.com
+https://movieclub-int.kinepolis.com
+https://movienow-int.kinepolis.be/admin
+https://shop-acc.kinepolis.be/
+identityserver-acc.landmarkcinemas.com
+kinepolis-studio.be
+kinepolis/id368204284
+nz.co.vista.android.movie.mjrtheatres
+shop.kinepolis.be
+shop.kinepolis.es
+shop.kinepolis.fr
+shop.kinepolis.lu
+stage.landmarkcinemas.com
+userprofile-acc.landmarkcinemas.com
+www.kinepolis.biz
+www.kinepolisempresas.com/
+522089287
+egaming.kinepolis.es
+mobilevikings.be
+api.unleashed.be
+jimmobile.be
+uwa.mobilevikings.be
+vpn.mobilevikings.be
+mgm.mobilevikings.be
+vikingco.be
+vikingdeals.be
+vikinglab.be
+https://hug.personio.com
+https://sec-test-<intigriti handle>-<nn>.personio.de
+https://www.personio.com/free-trial/
+https://www.personio.de/kostenlos-testen/
+Other assets owned by Personio
+access.ripe.net
+https://github.com/RIPE-NCC/rpki-commons
+https://github.com/RIPE-NCC/rpki-core
+https://github.com/RIPE-NCC/whois
+lirportal.ripe.net
+193.0.0.0/19 and 2001:67c:2e8::/48
+https://github.com/RIPE-NCC/rpki-monitoring
+https://github.com/RIPE-NCC/rpki-publication-server
+https://github.com/RIPE-NCC/rpki-ta-0
+https://github.com/RIPE-NCC/rsyncit
+Assets owned by RIPE NCC
+www.elvetino.ch
+www.sbbcargo.com
+www.transsicura.ch
+kundenstimme.sbb.ch
+sbbstimme.sbb.ch
+1114799709
+1114800186
+api.soundtrackyourbrand.com
+billing.api.soundtrackyourbrand.com
+builds.soundtrackyourbrand.com
+business.soundtrackyourbrand.com
+com.soundtrackyourbrand.soundtrack.player
+https://auth.api.soundtrackyourbrand.com/
+https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
+https://radio.api.soundtrackyourbrand.com/
+https://www.soundtrackyourbrand.com
+macOS app
+aweb.suivo.com
+asupport.suivo.com
+artists.tomorrowland.com/production-website/33117
+cognito-idp.eu-west-1.amazonaws.com
+com.tomorrowland.oneworldradio
+globaljourney.tomorrowland.com
+mdm.weareone.world
+my.tomorrowland.com
+one-world-radio-tomorrowland/id1485778856
+oneworldradio.tomorrowland.com
+sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com
+winterpackages.tomorrowland.com
+www.tomorrowland.com
+components.stag.tomorrowland.com
+components.tomorrowland.com
+api.truelayer[-sandbox].com
+auth.truelayer[-sandbox].com
+login-api.truelayer[-sandbox].com
+login.truelayer[-sandbox].com
+onboarding-api.truelayer.com
+pay-api.truelayer[-sandbox].com
+pay.truelayer[-sandbox].com
+paydirect.truelayer[-sandbox].com
+payment.truelayer[-sandbox].com
+payouts.truelayer[-sandbox].com
+users-api.truelayer.com
+C# SDK
+console-backend.truelayer[-sandbox].com
+console.truelayer[-sandbox].com
+hpp.truelayer[-sandbox].com
+iOS SDK
+Java SDK
+PHP SDK
+React Native SDK
+Rust SDK
+TrueLayer for Magento (Magento plugin)
+TrueLayer for WooCommerce (WordPress plugin)
+truelayer-signing
+webhooks.truelayer[-sandbox].com
+134.58.179.102-103
+autodiscover.uzleuven.be
+ecrf.uzleuven.be
+extranet-asa.uzleuven.be
+extranet.uzleuven.be
+liquidfiles.uzleuven.be
+mx1.uzleuven.be
+mx2.uzleuven.be
+pcrstudioruzb.uzleuven.be
+prddsplunkhf.uzleuven.be
+sts.uzleuven.be
+www.uzleuven.be
+dns1.uzleuven.be
+dns2.uzleuven.be
+liquidfilestest.uzleuven.be
+teststs.uzleuven.be
+uzlcm12cmg1.uzleuven.be
+w1.uzleuven.be
+*dev.uzleuven.be
+files.uzleuven.be
+kumulus.uzleuven.be
+mijnacc.uzleuven.be
+mirc.uzleuven.be
+prddnighting01.uzleuven.be
+w1.uzleuven.be/random
+ziekenhuisschool.be
+vrtnws-api.vrt.be
+1001982587
+1337574835
+4ever.ketnet.be
+api.sporza.be
+api.vrt.radio
+be.vrt.ketnet.ketnetjr
+be.vrt.vrtnu
+bff.ketnet.be
+cds.vrt.radio
+content.ketnet.be
+data.ketnet.be
+dedokterbeashow.ketnet.be
+juniormusical.ketnet.be
+kaatje.ketnet.be
+live-cf-vrt.akamaized.net
+login.vrt.be
+magazine.ketnet.be
+media-services-public.vrt.be
+ondemand-vrt.akamaized.net
+player.vrt.be
+privacy.ketnet.be
+profiel.vrt.be
+remix-cf-vrt.akamaized.net
+senior-bff.ketnet.be
+sport-components.sporza.be
+sporza.be
+stubru.be/luister/select
+vrt.be/vrtnu
+vrt.be/vrtnws
+www.ketnet.be
+1467907532
+alchemy.veriff.com
+api.flamingo-eu.veriff.com
+api.us.veriff.me
+api.veriff.me
+com.veriff.demo
+louvre.veriff.me
+magic.veriff.me
+station.veriff.com
+stationapi.veriff.com
+developers.veriff.me
+www.veriff.com
+intigriti.voipgrid.nl
+7 News
+AOL (misc)
+AOL Help
+AOL Homepage
+AOL Mail
+AOL Search
+apis.mail.yahoo.com
+Autoblog
+data.mail.yahoo.com
+Engadget
+Flurry
+Gemini
+Low Cost Access
+Membership
+onepush.query.yahoo.com
+Online Marketplace
+Other (Misc)
+proddata.xobni.yahoo.com
+Social Media Accounts
+Techcrunch
+TW eCommerce: Auctions
+TW eCommerce: Shopping
+TW eCommerce: Store
+TW eCommerce: Used Car
+TW Media: Front Page
+TW Media: News
+TW Media: Stock
+Yahoo Calendar
+Yahoo Finance
+Yahoo HK News
+Yahoo Mail
+Yahoo News
+Yahoo Open Source Projects
+Yahoo Search
+Yahoo Sports: Best Ball
+Yahoo Sports: Daily Fantasy
+Yahoo Sports: Editorial
+Yahoo Sports: Fantasy Games
+Yahoo Sports: Fantasy Slate/PicknWin
+Yahoo Sports: Fantasy Sports
+Yahoo Sports: Fantasy Wallet
+Yahoo Sports: Mobile
+Yahoo Sports: Rivals
+Yahoo Sports: Rivals Forums
+Yahoo Video
+Yahoo Weather
+Yahoo! (Misc)
+yimg.com
+*pwn.intigriti.rocks
+www.intigriti.com

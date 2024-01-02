@@ -17,6 +17,10 @@
 *.LCX.com
 *.YOUR-TESTING-STORE.mybigcommerce.com/
 *.a.exodus.io
+*.acc-pub.mobilevikings.be
+*.acc.mobilevikings.be
+*.account.api.here.com
+*.account.here.com
 *.acorns.com
 *.acrobat.com
 *.acronis.com
@@ -55,6 +59,7 @@
 *.app.spacelift.dev
 *.arlo.com (production servers only)
 *.arloxcld.com (production servers only)
+*.aroundtheworld.tomorrowland.com
 *.artist.link
 *.artstation.com
 *.arubanetworks.com
@@ -124,7 +129,6 @@
 *.bugcrowd.com/auth/*
 *.byairbnb.com
 *.bybit.com
-*.c-point.be
 *.canva-apps.cn
 *.canva-apps.com
 *.canva.cn
@@ -155,6 +159,8 @@
 *.cloudvector.com/
 *.clubhouse.com
 *.clubhouseapi.com
+*.cm.com
+*.cmtelecom.com
 *.coda.io/*
 *.code.gov
 *.cognitiveperformer.com
@@ -163,6 +169,7 @@
 *.coinmetro.com
 *.coinsbit.io
 *.comcast.com
+*.contactallerg(y|ie).uzleuven.be
 *.contentsquare.com
 *.cornershop.io/*
 *.cornershopapp.com/*
@@ -195,7 +202,9 @@
 *.deriv.com
 *.derivws.com
 *.designify.com
+*.dev-pub.mobilevikings.be
 *.dev.grindr.io
+*.dev.mobilevikings.be
 *.devicelock.com
 *.dex-trade.com
 *.dh-commerce.com 
@@ -206,8 +215,6 @@
 *.doctolib.(fr|de|it|com|net)
 *.domainscope.com
 *.download.originenergy.com.au
-*.dpgmedia.be
-*.dpgmedia.nl
 *.dropbox.com    
 *.dropboxer.net
 *.dropboxforum.com
@@ -302,6 +309,8 @@
 *.hellofax.com
 *.hellosign.com
 *.helloworks.com
+*.here.com
+*.hereapi.com
 *.hey.com
 *.highrolling.nu
 *.highwebmedia.com
@@ -329,6 +338,7 @@
 *.hyperpure.com
 *.hyperwallet.com
 *.hypr.com
+*.igpayment.com
 *.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
@@ -347,8 +357,11 @@
 *.infra-prod.nsvcs.net
 *.infrastructure-data.newrelic.com
 *.infrastructure.newrelic.com
+*.innogames.com
+*.innogames.de
 *.instacart.com
 *.instacart.tools
+*.intel.com
 *.intercomassets.com / *.intercomcdn.com
 *.irccloud-cdn.com
 *.irccloud.com
@@ -379,15 +392,24 @@
 *.kdrive.infomaniak.com
 *.kes.kindredext.net
 *.kindredext.net
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
 *.kiwi.com
+*.klubcinema.fr
 *.kolikkopelit.com
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
 *.kucoin.com
+*.kwsdose.be
 *.lab.epam.com
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
+*.landmarkcinemas.com
 *.lazada-seller.cn
 *.lazada.(sg|vn|co.id|co.th|com|com.ph|com.my) (+)
 *.lazada.(sg|vn|co.id|co.th|com|com.ph|com.my) (++)
@@ -437,6 +459,7 @@
 *.marcus.com
 *.mariacasino.com
 *.marketo.com
+*.mas.mobilevikings.be
 *.mattermost.com
 *.maximum.nl
 *.mb-cosmos.com
@@ -445,6 +468,7 @@
 *.mdvmm.xyz
 *.mediatonic.co.uk
 *.meebits.app
+*.megatix.be
 *.melonapp.com
 *.menulog.co.nz - New Zealand food ordering
 *.menulog.com.au - Australia food ordering
@@ -452,10 +476,14 @@
 *.metrobyt-mobile.com
 *.mevo.com
 *.mi.com
+*.mir.uzleuven.be
 *.miui.com
 *.miwifi.com
 *.mixamo.com
+*.mjrtheatres.com
 *.mmcdn.com
+*.mobilevikings.be
+*.mobilitygraph.hereapi.com
 *.mona.co
 *.moonpay.com
 *.moonpaycloud.com
@@ -473,6 +501,10 @@
 *.myteksi.net
 *.namestudio.com
 *.namestudioforsocial.com
+*.napoleoncasino.be
+*.napoleondice.be
+*.napoleongames.be
+*.napoleonsports.be
 *.naspers.com
 *.neat.com.hk
 *.neat.hk
@@ -539,6 +571,11 @@
 *.payoneer.com
 *.paypal.com
 *.paypalcorp.com
+*.personio-internal.de
+*.personio.de
+*.personio.de/whistleblowing
+*.personio.tools
+*.personiowhistleblowing.com
 *.pexels.com
 *.phonegap.com
 *.pinterest.com Web Apps
@@ -546,11 +583,12 @@
 *.platformservices.io
 *.playlist.link
 *.playstation.net
+*.playuzleuven.be
 *.pods.link
 *.popjam.com
-*.portofantwerp.com
-*.portofantwerpbruges.com
 *.ppbdev.com
+*.prd-pub.mobilevikings.be
+*.prd.mobilevikings.be
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
@@ -594,15 +632,18 @@
 *.remove.bg
 *.rentalcars.com
 *.reposify.com
+*.ripe.net
 *.roblox.com
 *.rocketleague.com
 *.rockstargames.com
 *.romwe.com
+*.router.hereapi.com
 *.rtcdn.caffeine.tv
 *.rukkaz.com
 *.runnr.in
 *.s-cloud.net
 *.sandbox.directly.com/
+*.sbb.ch
 *.sbgcdn.com
 *.sbgcore.com
 *.sbgorigin.com
@@ -611,6 +652,7 @@
 *.sc-core.net
 *.sc-corp.net
 *.scatec.io
+*.scbe.api.here.com
 *.scene7.com
 *.scoober.com
 *.scopely.com
@@ -686,6 +728,7 @@
 *.streamlabs.com
 *.streamlabscharity.com
 *.stripe.com
+*.subp-router.hereapi.com
 *.superawesome.com
 *.superawesome.tv
 *.superbet.ro
@@ -693,6 +736,7 @@
 *.superpal.io/*
 *.support.originenergy.com.au
 *.swiftype.com
+*.swisspass.ch
 *.sys.comcast.net
 *.t-mobile.com
 *.takeaway.com
@@ -714,6 +758,7 @@
 *.testnet.immutable.com
 *.threatdown.com
 *.thuisbezorgd.nl
+*.ticketing.cm.com
 *.tickets.ua
 *.tidal.com
 *.tidalhifi.com
@@ -723,6 +768,7 @@
 *.tinderops.net
 *.tinderwebstaging.com
 *.tmall.com
+*.tomorrowland.com
 *.touchtechpayments.com
 *.tr.ee
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
@@ -730,6 +776,9 @@
 *.transferwise.com
 *.trello.services
 *.trip.com
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tt.omtrdc.net
@@ -749,9 +798,11 @@
 *.unrealengine.com
 *.unrealtournament.com
 *.unscreen.com
+*.uzleuven.*
 *.vacationhomerentals.com
 *.venmo.com
 *.vennhypotheken.nl
+*.veriff.com
 *.verse.events
 *.verse.me
 *.vertexprotocol.com
@@ -764,6 +815,10 @@
 *.vine.co
 *.vladcazino.ro
 *.vod2.infomaniak.com
+*.voipgrid.nl
+*.voys.be
+*.voys.co
+*.voys.nl
 *.vpn.hackerone.net
 *.wavecell.com
 *.wealthsimple.com
@@ -799,6 +854,10 @@
 *.zdev.net
 *.zomans.com
 *.zomato.com
+*ensemble*.yahoo.com
+*idp*.uzleuven.be
+*omega*.yahoo.com
+*stag*.uzleuven.be
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 B2 APIs (*.backblazeb2.com)
