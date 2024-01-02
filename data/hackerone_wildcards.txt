@@ -119,6 +119,12 @@ vcc-*.8x8.com
 *.cornershopapp.com/*
 *.superpal.com/*
 *.superpal.io/*
+*.gocardless-cicd.io
+*.gocardless-lab.io
+*.gocardless-staging.io
+*.gocardless.com
+*.gocardless.dev
+*.gocardless.io,*.gocardless-banking.io
 *.line-apps.com
 *.line.biz
 *.line.me
@@ -402,6 +408,7 @@ munin-*.wordpress.org
 *.tstaging.com
 *.tstaging.tools
 *.fetlife.com
+*.maximum.nl
 *.algolia.net
 *.algolianet.com
 *.grab-sure.com

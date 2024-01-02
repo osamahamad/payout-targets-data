@@ -234,6 +234,8 @@
 *.doctolib.(fr|de|it|com|net)
 *.domainscope.com
 *.download.originenergy.com.au
+*.dpgmedia.be
+*.dpgmedia.nl
 *.dropbox.com    
 *.dropboxer.net
 *.dropboxforum.com
@@ -286,6 +288,12 @@
 *.gitlap.com
 *.glassdoor.com/*
 *.global-liquidity.gs.com
+*.gocardless-cicd.io
+*.gocardless-lab.io
+*.gocardless-staging.io
+*.gocardless.com
+*.gocardless.dev
+*.gocardless.io,*.gocardless-banking.io
 *.goldman.com
 *.goldmanpfm.com
 *.goldmansachs.com
@@ -458,6 +466,7 @@
 *.mariacasino.com
 *.marketo.com
 *.mattermost.com
+*.maximum.nl
 *.mb-cosmos.com
 *.mbamupdates.com
 *.mcssl.com
@@ -1133,6 +1142,7 @@ Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure o
 Any public cloud resource or infrastructure operated and managed by REI.
 Any publicly accessible TripAdvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
 Any publicly facing host owned by Etsy, including the below:
+Any related DPG media domain
 Any resource created or accessed with the Outscale Cloud, on all regions
 Any subdomain application issue
 Any subdomain infrastructure issue
@@ -2521,6 +2531,7 @@ accounts.reddit.com
 accounts.shopify.com
 accounts.snapchat.com
 accounts.stage.evernote.com
+acme-challenge.nl
 acrobat.adobe.com
 acrobatoauth.adobe.com
 activate.codefi.network
@@ -2597,6 +2608,7 @@ api-boards.qwant.com
 api-eu.floqast.app
 api-ne.mackeeper.com
 api-saas.dana.id
+api-sandbox.gocardless.com
 api-staging.airtable.com
 api-user.e2ro.com/*
 api-v2.frame.io
@@ -2880,6 +2892,7 @@ badoo.com
 badoocdn.com
 ballistic.com
 ballistic.com.br
+bankaccountdata.gocardless.com, ob.gocardless.com
 basecamp3.exe
 basicattentiontoken.org
 bb.visa.com
@@ -3373,6 +3386,7 @@ components.frame.io
 configure.bmw.de
 configure.mini.de
 confluence.hyattdev.com
+connect-sandbox.gocardless.com
 connect.8x8.com
 connect.deezer.com
 connect.monash.edu
@@ -3486,6 +3500,7 @@ developer.valvesoftware.com
 developer.zendesk.com
 developers.smartsheet.com
 developers.tiktok.com
+devmaximum.com
 dex-trade.com
 diagrams.fr.cloud.gov
 dic.pixiv.net
@@ -3514,6 +3529,7 @@ documents.adobe.com
 donate.mastercard.com
 donations.livestream.com
 dookeydash.com
+doorstromen.mijnkombijdepolitie.nl
 doppler
 doppler.team
 dota2.exe
@@ -3521,6 +3537,7 @@ download.krisp.ai
 download.nextcloud.com
 download.opera.com
 downloads.datastax.com
+dropr.nl
 e-Commerce
 eIDAS Bridge  (see program description for github link)
 eassessment.monash.edu
@@ -6267,6 +6284,7 @@ mainnet-boot-1.ternoa.network
 mainnet-boot-2.ternoa.network
 mainnet.ternoa.network
 maintenance.logitech.com
+manage-sandbox.gocardless.com
 manage.blockscore.com
 manage.grab.co
 manage.statuspage.io
@@ -6296,6 +6314,8 @@ masq.qwant.com
 matomo.cloud
 matrix.agent.*.tchap.gouv.fr
 matrix.redditspace.com
+maxcldapp.net
+maximum-status.com
 mcssl.com
 me.store.ui.com
 mediacenter.23andme.com
@@ -6321,6 +6341,7 @@ mgmtpod-1.production.forescoutcloud.net
 mgs-gw.m.dana.id
 mgs.marriott.com
 mguest.usaa.com
+mijnkombijdepolitie.nl
 miro.com
 mix-dev.monash.edu/*
 mix-qat.monash.edu/*
@@ -6445,7 +6466,9 @@ nextcloud/workflow_script
 nice.wfmusaa.com
 nicetryapril.na1.echosignsandbox.com
 nmtracking.netflix.com
+no-reply.cloud
 node.e2ro.com/*
+nossl.nl
 novel.pixiv.net
 npm CLI
 npmjs.com
@@ -6454,6 +6477,7 @@ nvio.ar
 nvio.mx
 nvoice.usaa.com
 nw.ring.com/*
+oauth-sandbox.gocardless.com
 oauth.deriv.com
 oauth.reddit.com
 oauth.ring.com/*
@@ -6517,6 +6541,7 @@ partners.shopify.com
 partners.usaa.com
 passport.larksuite.com
 passwordchallenge.marriott.com
+pay-sandbox.gocardless.com
 pay.8x8.com
 pay.amazon.*
 pay.crypto.com
@@ -6577,6 +6602,7 @@ preprod.auth.monespacesante.fr
 preprod.editeur.am.monespacesante.fr
 preprod.editeur.api.monespacesante.fr
 preprod.monespacesante.fr
+preprod.nl
 preprod1.grindr.com
 preprod1.monespacesante.fr
 preprod2.monespacesante.fr
@@ -6626,6 +6652,7 @@ push.services.mozilla.com
 pushfeed.nextcloud.com
 pwapi.ex2b.com
 py.pl
+qatest.nl
 qwantjunior.com
 r.etoro.com
 rankings.etoro.com
@@ -6686,6 +6713,9 @@ rpm.newrelic.com/accounts/*/browser
 rpm.newrelic.com/accounts/*/mobile
 rt.playcanvas.com
 rubygems.org
+ruddercms.com
+ruddercms.nl
+rudderplatform.com
 s-boards.qwant.com
 s.qwant.com
 s.reddit.com
@@ -7044,6 +7074,9 @@ webhooks.gamma.redoxstage.com
 webmail.usaa.com
 webtoolbox.notebleue.pro
 welcome.infomaniak.com
+werkenbijdefensie.nl
+werkenbijderet.nl
+werkenbijdnb.nl
 wga.volans.tech
 whatsnew.krisp.ai
 whitebit.com
@@ -7074,6 +7107,7 @@ wp-dev3.chime.com
 wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
+wp-mail.nl
 wp-qa.chime.com
 ws.blockchain.info
 ws.sorare.com
@@ -7179,6 +7213,7 @@ www.funjet.com
 www.gamemaker.io
 www.getaroom.com
 www.globalhotelchoices.com
+www.gocardless.com
 www.goodrx.com
 www.greenhouse.io
 www.hackerone.com
@@ -7386,6 +7421,7 @@ www.watsons.com.sg
 www.watsons.com.tr
 www.watsons.com.tw
 www.wearehackerone.com
+www.werkenbijbakertilly.nl
 www.wickr.com
 www.wotif.com
 www.wynnvacations.com
@@ -7410,6 +7446,7 @@ x2.fortmatic.com
 xFi Gateways (e.g., XB3, XB6, XB7)
 xFi Pods
 xd.adobe.com
+xero-sandbox.gocardless.com
 xhomeapi-*.cloud.comcast.net
 xhomeapi-*.codebig2.net
 xray.october.eu
