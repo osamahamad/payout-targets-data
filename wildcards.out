@@ -339,6 +339,7 @@
 *.infrastructure.newrelic.com
 *.instacart.com
 *.instacart.tools
+*.intel.com
 *.intercomassets.com / *.intercomcdn.com
 *.irccloud-cdn.com
 *.irccloud.com
@@ -478,9 +479,7 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
-*.ninjakiwi.com
 *.niumba.com
-*.nkstatic.com
 *.nnip.com
 *.nordvpn.com
 *.nr-data.net
@@ -659,7 +658,6 @@
 *.sophos.com
 *.soundcloud.com
 *.soundcloud.org
-*.souparea.com
 *.spinaway.com
 *.sportinglife.com
 *.sprint.com

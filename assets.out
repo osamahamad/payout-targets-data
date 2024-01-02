@@ -369,6 +369,7 @@
 *.infrastructure.newrelic.com
 *.instacart.com
 *.instacart.tools
+*.intel.com
 *.intercomassets.com / *.intercomcdn.com
 *.irccloud-cdn.com
 *.irccloud.com
@@ -508,9 +509,7 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
-*.ninjakiwi.com
 *.niumba.com
-*.nkstatic.com
 *.nnip.com
 *.nordvpn.com
 *.nr-data.net
@@ -689,7 +688,6 @@
 *.sophos.com
 *.soundcloud.com
 *.soundcloud.org
-*.souparea.com
 *.spinaway.com
 *.sportinglife.com
 *.sprint.com
@@ -1575,6 +1573,7 @@ Finicity Decisioning
 Finicity- Data Services
 FireTV
 Firefox extension (download at:   https://addons.mozilla.org/firefox/addon/pinterest/)
+Firmware
 FishEye
 Flash Player
 Fleet Server
@@ -1644,6 +1643,7 @@ Hackathon for Jira - Cloud - https://marketplace.atlassian.com/apps/1214757/hack
 Halp Answers for Confluence in Slack - Cloud - https://marketplace.atlassian.com/apps/1222365/halp-answers-for-confluence-in-slack?hosting=cloud
 Halp application for Microsoft Teams
 Halp application for Slack
+Hardware
 Hardware found on https://www.ezviz.com/category/security-wifi-cameras
 Hardware found on https://www.ezviz.com/category/smart-home
 Harmony Remote Software
@@ -2175,6 +2175,7 @@ Smartchain Blockchain
 Snaps
 Snaps Development Packages
 Social Media Accounts
+Software
 Software Supply Chain
 Sophos Central
 SoundCloud Android app
@@ -2587,7 +2588,6 @@ amp.reddit.com
 analytics-admin.prosus.com
 analytics.cloud.unity3d.com
 analytics.krisp.ai
-analytics.ninjakiwi.com
 analytics.pinelabs.com
 analytics.prosus.com
 anytask.thesecurityteam.rocks
@@ -2689,7 +2689,6 @@ api.mergify.com
 api.miro.com
 api.monespacesante.fr
 api.netlify.com
-api.ninjakiwi.com
 api.october.eu
 api.omise.co
 api.openai.com
@@ -2887,7 +2886,6 @@ ballistic.com
 ballistic.com.br
 basecamp3.exe
 basicattentiontoken.org
-battles.tv
 bb.visa.com
 bd.visa.com
 beacon.netflix.com
@@ -2951,7 +2949,6 @@ bugcrowd-oie-%username%-2.oktapreview.com
 bugcrowd.com
 bugs.opera.com
 bugzilla.mozilla.org
-builds-auckland.ninja.kiwi
 bullsheet.me
 burn.polygon.technology
 business.kayak.com
@@ -3418,7 +3415,6 @@ cryptowallet.opera-api.com
 cs.money
 csgo.exe
 csp-pci.prod.codebig2.net
-ct.ninjakiwi.com
 ctf.hacker101.com
 custody.coinbase.com
 customer-academy.databricks.com
@@ -3450,7 +3446,6 @@ dashboard.razorpay.com
 dashboard.unity3d.com
 dashboard2.omise.co
 data.mail.yahoo.com
-data.ninjakiwi.com
 data.prosus.com
 data.rarible.com
 databricks.com
@@ -6373,7 +6368,6 @@ my.swiftfinancial.com
 my.thesecurityteam.rocks
 mydesktop.usaa.com
 mydesktop.wu.com
-mynk.ninjakiwi.com
 myvpn.usaa.com
 naspers.com
 nav.naspers.com
@@ -6454,8 +6448,6 @@ nextcloud/viewer
 nextcloud/workflow_script
 nice.wfmusaa.com
 nicetryapril.na1.echosignsandbox.com
-ninja.kiwi
-ninjakiwi.com
 nmtracking.netflix.com
 node.e2ro.com/*
 novel.pixiv.net
