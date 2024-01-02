@@ -1,0 +1,38 @@
+* hln.be/inloggen
+* hln.be/login
+* hln.be/registreren
+*.allegro.pl.allegrosandbox.pl
+*.hln.be
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
+C# SDK
+Java SDK
+PHP SDK
+React Native SDK
+Rust SDK
+SimScale API
+SimScale Platform
+SimScale Website
+TrueLayer for Magento (Magento plugin)
+TrueLayer for WooCommerce (WordPress plugin)
+api.truelayer[-sandbox].com
+auth.truelayer[-sandbox].com
+console-backend.truelayer[-sandbox].com
+console.truelayer[-sandbox].com
+hln.be
+hpp.truelayer[-sandbox].com
+https://www.hostgator.com.br/
+login-api.truelayer[-sandbox].com
+login.truelayer[-sandbox].com
+myaccount.hln.be
+onboarding-api.truelayer.com
+pay-api.truelayer[-sandbox].com
+pay.truelayer[-sandbox].com
+paydirect.truelayer[-sandbox].com
+payment.truelayer[-sandbox].com
+payouts.truelayer[-sandbox].com
+truelayer-signing
+users-api.truelayer.com
+webhooks.truelayer[-sandbox].com
+www.hln.be
