@@ -774,7 +774,6 @@
 *.unrealengine.com
 *.unrealtournament.com
 *.unscreen.com
-*.uphold.com
 *.vacationhomerentals.com
 *.venmo.com
 *.vennhypotheken.nl
@@ -790,6 +789,7 @@
 *.vine.co
 *.vladcazino.ro
 *.vod2.infomaniak.com
+*.volkskrant.nl
 *.vpn.hackerone.net
 *.wavecell.com
 *.wealthsimple.com
@@ -864,7 +864,6 @@
 107.167.96.0/19
 1080248000
 10x.redoxengine.com
-1101145849
 1118448159
 1127881507
 1174276185
@@ -2609,7 +2608,6 @@ api-eu.floqast.app
 api-ne.mackeeper.com
 api-saas.dana.id
 api-sandbox.gocardless.com
-api-sandbox.uphold.com
 api-staging.airtable.com
 api-user.e2ro.com/*
 api-v2.frame.io
@@ -2748,7 +2746,6 @@ api.tripadvisor.com
 api.tumblr.com
 api.twilio.com
 api.unity.com
-api.uphold.com
 api.upwork.com/graphql
 api.usaa.com
 api.vhx.tv
@@ -3340,7 +3337,6 @@ com.ubnt.ucrm
 com.ubnt.umobile
 com.unibet.casino
 com.unibet.unibetpro
-com.uphold.wallet
 com.urbanclap.provider
 com.urbanclap.urbanclap
 com.valvesoftware.Steam
@@ -5625,7 +5621,6 @@ https://src.mastercard.com/profile/enroll
 https://stage.emailreporting.service.echobox.com/
 https://staging-app.ynab.com/
 https://staging-prime.navan.com
-https://staging.airtable.com/admin
 https://staging.coda.io/*
 https://staging.gearset.com/
 https://standalone2.fuib.com
@@ -6403,6 +6398,7 @@ my.pressable.com
 my.snapchat.com
 my.swiftfinancial.com
 my.thesecurityteam.rocks
+myaccount.volkskrant.nl
 mydesktop.usaa.com
 mydesktop.wu.com
 myvpn.usaa.com
@@ -6751,7 +6747,6 @@ s3://faraday-secret
 s3://faraday-uploads
 safe.tumblr.com
 salesportal.hyatt.com
-sandbox.uphold.com/dashboard
 scan.nextcloud.com
 scan.snapchat.com
 scapegoat.hyatt.com
@@ -6805,6 +6800,7 @@ shop.monash.edu
 shop.shipt.com
 shop.thuisbezorgd.nl
 shop.tiktok.com
+shop.volkskrant.nl
 shop.wyndhamvacationownership.trisept.travel
 shopbylook.amazon.*
 shopify.plus
@@ -7021,7 +7017,6 @@ updates.forescout.com
 updates.frame.io
 updates.nextcloud.com
 updatetracker.clario.co
-uphold.com/dashboard
 upld.krisp.ai
 upsell.hyatt.com
 url5145.krisp.ai
@@ -7098,6 +7093,7 @@ webhooks.booking.com
 webhooks.gamma.redoxstage.com
 webmail.usaa.com
 webtoolbox.notebleue.pro
+webwinkel.volkskrant.nl
 welcome.infomaniak.com
 werkenbijdefensie.nl
 werkenbijderet.nl
@@ -7439,6 +7435,8 @@ www.visa.com.sg
 www.visa.com.tr
 www.visa.com.tw
 www.visa.com.vn
+www.volkskrant.nl
+www.volkskrant.nl/abonnementen
 www.vrbo.com
 www.watsons.co.id
 www.watsons.co.th
