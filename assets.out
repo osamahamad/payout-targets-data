@@ -51,7 +51,6 @@
 *.acrobat.com
 *.acronis.com
 *.acronis.work
-*.ad.nl
 *.adobe.com
 *.adobe.io
 *.adobeaemcloud.com
@@ -775,6 +774,7 @@
 *.unrealengine.com
 *.unrealtournament.com
 *.unscreen.com
+*.uphold.com
 *.vacationhomerentals.com
 *.venmo.com
 *.vennhypotheken.nl
@@ -864,6 +864,7 @@
 107.167.96.0/19
 1080248000
 10x.redoxengine.com
+1101145849
 1118448159
 1127881507
 1174276185
@@ -2608,6 +2609,7 @@ api-eu.floqast.app
 api-ne.mackeeper.com
 api-saas.dana.id
 api-sandbox.gocardless.com
+api-sandbox.uphold.com
 api-staging.airtable.com
 api-user.e2ro.com/*
 api-v2.frame.io
@@ -2746,6 +2748,7 @@ api.tripadvisor.com
 api.tumblr.com
 api.twilio.com
 api.unity.com
+api.uphold.com
 api.upwork.com/graphql
 api.usaa.com
 api.vhx.tv
@@ -3337,6 +3340,7 @@ com.ubnt.ucrm
 com.ubnt.umobile
 com.unibet.casino
 com.unibet.unibetpro
+com.uphold.wallet
 com.urbanclap.provider
 com.urbanclap.urbanclap
 com.valvesoftware.Steam
@@ -4046,6 +4050,7 @@ https://apps.apple.com/in/app/myplutus/id1042552445
 https://apps.apple.com/in/app/pineperks/id908644471
 https://apps.apple.com/ng/app/btse/id1494556510
 https://apps.apple.com/qa/app/ooredoo-qatar/id619828745
+https://apps.apple.com/ru/app/myraif/id1582978231
 https://apps.apple.com/se/app/atg-live/id1608156355
 https://apps.apple.com/se/app/atg/id1434660322
 https://apps.apple.com/sg/app/lazada-seller-center/id1315605408
@@ -4054,6 +4059,8 @@ https://apps.apple.com/tt/app/blofin/id1616804346
 https://apps.apple.com/ua/app/citex-mining-exchange/id1546706074
 https://apps.apple.com/ua/app/iopay-multichain-crypto-wallet/id1478086371
 https://apps.apple.com/ua/app/kuna-io-покупка-продажа-btc/id1457062155?l=ru
+https://apps.apple.com/ua/app/raiffeisen-business-online/id1500897229
+https://apps.apple.com/ua/app/raiffeisen-online-ua/id1383858144?l=uk?l=uk
 https://apps.apple.com/ua/app/trustee-plus-crypto-neobank/id1634455978
 https://apps.apple.com/us/app/%E5%B1%A5%E6%AD%B4%E6%9B%B8%E4%BD%9C%E6%88%90-%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%89/id1484451230
 https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
@@ -4871,7 +4878,6 @@ https://judge.me/reviews
 https://just-eat.es
 https://just-eat.io/
 https://just-eat.it
-https://justonweb.be/fines/
 https://keepersecurity.com
 https://keepersecurity.com.au/vault
 https://keepersecurity.com/console
@@ -5307,6 +5313,7 @@ https://odesli.com
 https://offer.tidal.com/download
 https://onboard.neogov.com
 https://online.monash.edu/
+https://online.raiffeisen.ua/
 https://onlinena.vfsglobal.dz/AppointmentAdmin/
 https://openai.com/
 https://openai.org
@@ -5491,6 +5498,9 @@ https://play.google.com/store/apps/details?id=pro.cointr
 https://play.google.com/store/apps/details?id=qa.ooredoo.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=se.atg.live&hl=en&gl=SE
 https://play.google.com/store/apps/details?id=tv.caffeine.app&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=ua.aval.biz.client.android&hl=uk
+https://play.google.com/store/apps/details?id=ua.aval.dbo.client.android
+https://play.google.com/store/apps/details?id=ua.raiffeisen.myraif
 https://playlist.link
 https://plisio.net/
 https://plisio.net/documentation
@@ -5543,6 +5553,7 @@ https://projects.epam.com
 https://public-ipfs-mainnet.ternoa.network
 https://public.je-apis.com
 https://rarible.com/
+https://rbo.raiffeisen.ua/
 https://rc.fstr.rocks
 https://realtime.caffeine.tv/
 https://rec.net/
@@ -5749,6 +5760,7 @@ https://walletproxy2.tapayments.com
 https://wbsapi.withings.net
 https://web-app.eevee.bbp-mettle.co.uk/login
 https://web.bitpanda.com
+https://web.raiffeisen.ua/
 https://webmail.usaa.com
 https://webrtc.8x8.com/
 https://westernunionbank.com
@@ -6391,7 +6403,6 @@ my.pressable.com
 my.snapchat.com
 my.swiftfinancial.com
 my.thesecurityteam.rocks
-myaccount.ad.nl
 mydesktop.usaa.com
 mydesktop.wu.com
 myvpn.usaa.com
@@ -6740,6 +6751,7 @@ s3://faraday-secret
 s3://faraday-uploads
 safe.tumblr.com
 salesportal.hyatt.com
+sandbox.uphold.com/dashboard
 scan.nextcloud.com
 scan.snapchat.com
 scapegoat.hyatt.com
@@ -7009,6 +7021,7 @@ updates.forescout.com
 updates.frame.io
 updates.nextcloud.com
 updatetracker.clario.co
+uphold.com/dashboard
 upld.krisp.ai
 upsell.hyatt.com
 url5145.krisp.ai
@@ -7085,7 +7098,6 @@ webhooks.booking.com
 webhooks.gamma.redoxstage.com
 webmail.usaa.com
 webtoolbox.notebleue.pro
-webwinkel.ad.nl
 welcome.infomaniak.com
 werkenbijdefensie.nl
 werkenbijderet.nl
@@ -7136,8 +7148,6 @@ wuinsights.westernunion.com
 www.32red.com
 www.4njbets.com
 www.abritel.fr
-www.ad.nl
-www.ad.nl/abonnementen
 www.airbnb.com
 www.algolia.com
 www.alibabagroup.com
