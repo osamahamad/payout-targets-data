@@ -183,8 +183,6 @@
 *.cloudvector.com/
 *.clubhouse.com
 *.clubhouseapi.com
-*.cm.com
-*.cmtelecom.com
 *.coda.io/*
 *.code.gov
 *.cognitiveperformer.com
@@ -733,7 +731,6 @@
 *.testnet.immutable.com
 *.threatdown.com
 *.thuisbezorgd.nl
-*.ticketing.cm.com
 *.tickets.ua
 *.tidal.com
 *.tidalhifi.com
@@ -755,6 +752,9 @@
 *.tt.omtrdc.net
 *.tubemogul.com
 *.tumblr.com
+*.tweakblogs.net
+*.tweakers.net
+*.tweakimg.net
 *.twimg.com
 *.twitter.com
 *.typekit.com
@@ -784,7 +784,6 @@
 *.vine.co
 *.vladcazino.ro
 *.vod2.infomaniak.com
-*.volkskrant.nl
 *.vpn.hackerone.net
 *.wavecell.com
 *.wealthsimple.com
@@ -2626,8 +2625,6 @@ api.blockscore.com
 api.bugcrowd.com
 api.chainstack.com
 api.cloudflare.com
-api.cm.com
-api.cmtelecom.com
 api.codex.one
 api.coinbase.com
 api.coingecko.com
@@ -3037,9 +3034,6 @@ cloud.update.justeattakeaway.com
 cloud.update.takeaway.com
 cloud8.8x8.com
 cloudflareworkers.com
-cm.com/[locale]/app/*
-cm.com/[locale]/register
-cm.com/app/messagingtrial/
 cms.mobile.monash
 cms.monespacesante.fr
 co.mona.android
@@ -3474,7 +3468,6 @@ debug.clairvoyance.indrive.tech
 decision.swiftfinancial.com
 delta.app
 demo.cloud.databricks.com
-demo.globalticket.com/*
 demo.plaid.com
 derivws.com
 design.gitlab.com
@@ -6227,7 +6220,6 @@ logging.rarible.com
 logilife.logitech.com
 login-4ngbets.us.betfair.com
 login-ia.tvg.com
-login.cm.com
 login.en.travelbrandsagent.com
 login.fr.cloud.gov
 login.fr.travelbrandsagent.com
@@ -6373,7 +6365,6 @@ my.pressable.com
 my.snapchat.com
 my.swiftfinancial.com
 my.thesecurityteam.rocks
-myaccount.volkskrant.nl
 mydesktop.usaa.com
 mydesktop.wu.com
 myvpn.usaa.com
@@ -6763,7 +6754,6 @@ shop.monash.edu
 shop.shipt.com
 shop.thuisbezorgd.nl
 shop.tiktok.com
-shop.volkskrant.nl
 shop.wyndhamvacationownership.trisept.travel
 shopbylook.amazon.*
 shopify.plus
@@ -7056,7 +7046,6 @@ webhooks.booking.com
 webhooks.gamma.redoxstage.com
 webmail.usaa.com
 webtoolbox.notebleue.pro
-webwinkel.volkskrant.nl
 welcome.infomaniak.com
 wga.volans.tech
 whatsnew.krisp.ai
@@ -7139,7 +7128,6 @@ www.chime.com
 www.citex.info
 www.citex.io
 www.cloud.com
-www.cm.com
 www.coinhako.com
 www.coinspot.com.au
 www.coinstore.com
@@ -7391,8 +7379,6 @@ www.visa.com.sg
 www.visa.com.tr
 www.visa.com.tw
 www.visa.com.vn
-www.volkskrant.nl
-www.volkskrant.nl/abonnementen
 www.vrbo.com
 www.watsons.co.id
 www.watsons.co.th

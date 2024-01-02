@@ -153,8 +153,6 @@
 *.cloudvector.com/
 *.clubhouse.com
 *.clubhouseapi.com
-*.cm.com
-*.cmtelecom.com
 *.coda.io/*
 *.code.gov
 *.cognitiveperformer.com
@@ -703,7 +701,6 @@
 *.testnet.immutable.com
 *.threatdown.com
 *.thuisbezorgd.nl
-*.ticketing.cm.com
 *.tickets.ua
 *.tidal.com
 *.tidalhifi.com
@@ -725,6 +722,9 @@
 *.tt.omtrdc.net
 *.tubemogul.com
 *.tumblr.com
+*.tweakblogs.net
+*.tweakers.net
+*.tweakimg.net
 *.twimg.com
 *.twitter.com
 *.typekit.com
@@ -754,7 +754,6 @@
 *.vine.co
 *.vladcazino.ro
 *.vod2.infomaniak.com
-*.volkskrant.nl
 *.vpn.hackerone.net
 *.wavecell.com
 *.wealthsimple.com
