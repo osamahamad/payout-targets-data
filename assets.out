@@ -84,6 +84,7 @@
 *.app.spacelift.dev
 *.arlo.com (production servers only)
 *.arloxcld.com (production servers only)
+*.aroundtheworld.tomorrowland.com
 *.artist.link
 *.artstation.com
 *.arubanetworks.com
@@ -620,6 +621,8 @@
 *.runnr.in
 *.s-cloud.net
 *.sandbox.directly.com/
+*.say.rocks
+*.saytechnologies.com
 *.sbgcdn.com
 *.sbgcore.com
 *.sbgorigin.com
@@ -740,6 +743,7 @@
 *.tinderops.net
 *.tinderwebstaging.com
 *.tmall.com
+*.tomorrowland.com
 *.touchtechpayments.com
 *.tr.ee
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
@@ -2836,6 +2840,7 @@ aquiristech.com
 argocd.indrive.dev
 arrive-server.shopifycloud.com
 artifactory.corp.mongodb.com/
+artists.tomorrowland.com/production-website/33117
 asana.com
 asiointi.lahitapiola.fi
 askpam.ai
@@ -3044,6 +3049,7 @@ code.playcanvas.com
 code.yoti.com
 codex.one
 codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
+cognito-idp.eu-west-1.amazonaws.com
 coinbase.com
 coinmarketcap.com
 coldfusion.adobe.com
@@ -3295,6 +3301,7 @@ com.tiktok.tv
 com.tiktokshop.seller
 com.tinder
 com.tinyspeck.chatlyio
+com.tomorrowland.oneworldradio
 com.toyopagroup.picaboo
 com.transsion.aivoiceassistant
 com.transsion.applock
@@ -3370,6 +3377,8 @@ community.forescout.com
 community.logitech.com
 community.ui.com
 components.frame.io
+components.stag.tomorrowland.com
+components.tomorrowland.com
 configure.bmw.de
 configure.mini.de
 confluence.hyattdev.com
@@ -3661,6 +3670,7 @@ gitlab.com
 global-api.citymapper.com
 global.bitexen.com
 global.bittrex.com
+globaljourney.tomorrowland.com
 gnip.com
 gold.xnxx.com
 goldmansachsindices.com
@@ -6297,6 +6307,7 @@ matomo.cloud
 matrix.agent.*.tchap.gouv.fr
 matrix.redditspace.com
 mcssl.com
+mdm.weareone.world
 me.store.ui.com
 mediacenter.23andme.com
 medical.23andme.com
@@ -6362,6 +6373,7 @@ my.pressable.com
 my.snapchat.com
 my.swiftfinancial.com
 my.thesecurityteam.rocks
+my.tomorrowland.com
 mydesktop.usaa.com
 mydesktop.wu.com
 myvpn.usaa.com
@@ -6468,12 +6480,14 @@ on-ramp.metaswap-dev.codefi.network
 onboarding-*.cloud.com
 onboarding.cloud.com
 onboarding.greenhouse.io
+one-world-radio-tomorrowland/id1485778856
 one.airbnb.com
 one.dash.cloudflare.com
 one.newrelic.com
 onepush.query.yahoo.com
 onevasco.com
 oneview.malwarebytes.com
+oneworldradio.tomorrowland.com
 online.s-pankki.fi
 open-api.polygon.technology
 open.airbnb.com
@@ -6789,6 +6803,7 @@ socket.frame.io
 sorare.com
 soundcloud.com
 soundcloud.org
+sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com
 spaces.pm
 spark.adobe.com
 spectacles.com
@@ -7055,6 +7070,7 @@ wiki.near.org
 wiki.teamfortress.com
 wiki.ui.com
 winecellar.zomato.com
+winterpackages.tomorrowland.com
 wise.com
 wonderboxapi.com
 wonderboxdev.com
@@ -7317,6 +7333,7 @@ www.theperfumeshop.com
 www.thuisbezorgd.nl/aanmelden
 www.tide.co
 www.tink.com
+www.tomorrowland.com
 www.trafficfactory.com
 www.travelocity.ca
 www.travelocity.com
