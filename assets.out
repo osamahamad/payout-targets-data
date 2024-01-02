@@ -419,6 +419,7 @@
 *.lex.(co.id|com.my|in.th|ph|vn) (+)
 *.lex.(co.id|com.my|in.th|ph|vn) (++)
 *.lex.(co.id|com.my|in.th|ph|vn) (+++)
+*.libelle.nl
 *.liberapay.com
 *.lieferando.at
 *.lieferando.de
@@ -769,6 +770,7 @@
 *.vacationhomerentals.com
 *.venmo.com
 *.vennhypotheken.nl
+*.veriff.com
 *.verse.events
 *.verse.me
 *.vertexprotocol.com
@@ -881,6 +883,7 @@
 1452166623
 1456293789
 1467720176
+1467907532
 1476615877
 1486322860
 1491791513
@@ -2568,6 +2571,7 @@ airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 aiven.io
 akismet.com
+alchemy.veriff.com
 alert.logitech.com
 alertmanager.fr.cloud.gov
 alerts.eu.newrelic.com
@@ -2644,6 +2648,7 @@ api.evernote.com
 api.excalls.mobi
 api.facemojikeyboard.com
 api.figma.com
+api.flamingo-eu.veriff.com
 api.foliofn.com
 api.fortmatic.com
 api.foxycart.com
@@ -2736,7 +2741,9 @@ api.tumblr.com
 api.twilio.com
 api.unity.com
 api.upwork.com/graphql
+api.us.veriff.me
 api.usaa.com
+api.veriff.me
 api.vhx.tv
 api.vimeo.com
 api.watsons.co.id
@@ -3328,6 +3335,7 @@ com.urbanclap.provider
 com.urbanclap.urbanclap
 com.valvesoftware.Steam
 com.venmo
+com.veriff.demo
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
 com.vrbo.android
@@ -3486,6 +3494,7 @@ developer.valvesoftware.com
 developer.zendesk.com
 developers.smartsheet.com
 developers.tiktok.com
+developers.veriff.me
 dex-trade.com
 diagrams.fr.cloud.gov
 dic.pixiv.net
@@ -6239,6 +6248,7 @@ logs.fr.cloud.gov
 logs.nextcloud.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 lookup.nextcloud.com
+louvre.veriff.me
 lsaconsumerevents1.onecloud.harman.com
 lsaconsumerevents2.onecloud.harman.com
 lsaconsumerevents3.onecloud.harman.com
@@ -6257,6 +6267,7 @@ mackeeper.com
 magento.com
 magentocommerce.com
 magentolive.com
+magic.veriff.me
 magiceden.io
 magisto.com,www.magisto.com
 mail.infomaniak.com
@@ -6825,6 +6836,8 @@ static.bittrex.com
 static.rarible.com
 static.thuisbezorgd.nl
 static.usaa.com
+station.veriff.com
+stationapi.veriff.com
 stats.nextcloud.com
 status.adobe.com
 status.larksuite.com
@@ -7204,6 +7217,7 @@ www.lahitapiola.fi
 www.lastminute.co.nz
 www.lastminute.com.au
 www.leather.io
+www.libelle.nl
 www.linkedin.com
 www.livestream.com
 www.loanbuilder.com
@@ -7341,6 +7355,7 @@ www.usa.gov
 www.valvesoftware.com
 www.vascoworldwide.net
 www.vendhq.com
+www.veriff.com
 www.verisign.com (Website; non-DNS related)
 www.vfstasheel.com
 www.vfsvisaonline.com
