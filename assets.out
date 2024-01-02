@@ -419,7 +419,6 @@
 *.lex.(co.id|com.my|in.th|ph|vn) (+)
 *.lex.(co.id|com.my|in.th|ph|vn) (++)
 *.lex.(co.id|com.my|in.th|ph|vn) (+++)
-*.libelle.nl
 *.liberapay.com
 *.lieferando.at
 *.lieferando.de
@@ -770,7 +769,6 @@
 *.vacationhomerentals.com
 *.venmo.com
 *.vennhypotheken.nl
-*.veriff.com
 *.verse.events
 *.verse.me
 *.vertexprotocol.com
@@ -883,7 +881,6 @@
 1452166623
 1456293789
 1467720176
-1467907532
 1476615877
 1486322860
 1491791513
@@ -2295,7 +2292,9 @@ Tidal Client for iOS
 Tidal Desktop Client
 Tidal Official Clients (e.g. Sonos, Tesla, etc.)
 Tier 1
+Tier 1 subdomains
 Tier 2
+Tier 3 subdomains
 Tier A - Core Assets
 Tier B - Non Core (Bitmoji, Playcanvas)
 Tier1
@@ -2571,7 +2570,6 @@ airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 aiven.io
 akismet.com
-alchemy.veriff.com
 alert.logitech.com
 alertmanager.fr.cloud.gov
 alerts.eu.newrelic.com
@@ -2648,7 +2646,6 @@ api.evernote.com
 api.excalls.mobi
 api.facemojikeyboard.com
 api.figma.com
-api.flamingo-eu.veriff.com
 api.foliofn.com
 api.fortmatic.com
 api.foxycart.com
@@ -2741,9 +2738,7 @@ api.tumblr.com
 api.twilio.com
 api.unity.com
 api.upwork.com/graphql
-api.us.veriff.me
 api.usaa.com
-api.veriff.me
 api.vhx.tv
 api.vimeo.com
 api.watsons.co.id
@@ -3335,7 +3330,6 @@ com.urbanclap.provider
 com.urbanclap.urbanclap
 com.valvesoftware.Steam
 com.venmo
-com.veriff.demo
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
 com.vrbo.android
@@ -3494,7 +3488,6 @@ developer.valvesoftware.com
 developer.zendesk.com
 developers.smartsheet.com
 developers.tiktok.com
-developers.veriff.me
 dex-trade.com
 diagrams.fr.cloud.gov
 dic.pixiv.net
@@ -3727,6 +3720,7 @@ helpcenter.affirm.ca
 helpcenter.affirm.com
 helpx.adobe.com
 hey-mail
+hey.bild.de
 heyfiesta.com
 hg.mozilla.org
 hilton.com
@@ -5231,6 +5225,7 @@ https://mc.sendgrid.com/
 https://mcs.arlo.com
 https://mcssl.com
 https://meechum.netflix.com
+https://meinkonto.bild.de/
 https://menulog.co.nz
 https://menulog.com.au
 https://meraki.cisco.com
@@ -5552,6 +5547,7 @@ https://sandbox.directly.com/dashboard/index
 https://sandbox.open-xchange.com
 https://screenplayer.20min.ch
 https://secure-iphone-xml.booking.com/json/
+https://secure.mypass.de/
 https://secure.neogov.com
 https://secure.westernunion.com
 https://secureauth.westernunion.com
@@ -5719,6 +5715,7 @@ https://vault-staging.getmoneytree.com
 https://vendorss.usaa.com
 https://viatorapi.viator.com/service/directory
 https://videoplayer.20min.ch
+https://vip-club.computerbild.de/
 https://virtuswap.io/
 https://vlagg.usaa.com
 https://vlapi.usaa.com
@@ -6248,7 +6245,6 @@ logs.fr.cloud.gov
 logs.nextcloud.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 lookup.nextcloud.com
-louvre.veriff.me
 lsaconsumerevents1.onecloud.harman.com
 lsaconsumerevents2.onecloud.harman.com
 lsaconsumerevents3.onecloud.harman.com
@@ -6267,7 +6263,6 @@ mackeeper.com
 magento.com
 magentocommerce.com
 magentolive.com
-magic.veriff.me
 magiceden.io
 magisto.com,www.magisto.com
 mail.infomaniak.com
@@ -6563,6 +6558,7 @@ platform.8x8pilot.com
 platform.adobe.com
 platform.remix.com
 platform.teleport.sh
+play.bild.de
 play.google.com/store/apps/details?id=com.crowdstrike.falconmobile
 play.google.com/store/apps/details?id=fr.assurancemaladie.monespacesante&showAllReviews=true (Android)
 playartifact.com
@@ -6805,6 +6801,7 @@ spark.adobe.com
 spectacles.com
 speeddials.opera.com
 speedtest.xfinity.com
+sportbild.bild.de
 sportsbook.fanduel.com
 sprint.com
 ssh.fr.cloud.gov
@@ -6836,8 +6833,6 @@ static.bittrex.com
 static.rarible.com
 static.thuisbezorgd.nl
 static.usaa.com
-station.veriff.com
-stationapi.veriff.com
 stats.nextcloud.com
 status.adobe.com
 status.larksuite.com
@@ -7114,7 +7109,10 @@ www.arubainstanton.com
 www.astrogaming.com
 www.atg.se
 www.authorize.net
+www.autobild.de
 www.beachbound.com
+www.bild.de
+www.bild.tv
 www.bitexen.com
 www.bitmoji.com
 www.bitstamp.net - Bitstamp Application & API
@@ -7128,6 +7126,7 @@ www.bookabach.co.nz
 www.bookingholdings.com
 www.boomplay.com
 www.bumble.com
+www.bz-berlin.de
 www.cardinalcommerce.com
 www.carrentals.com
 www.cheapcaribbean.com
@@ -7144,6 +7143,7 @@ www.coinstore.com
 www.cointr.com
 www.cointr.pro
 www.compass.com
+www.computerbild.de
 www.contrastsecurity.com
 www.counter-strike.net
 www.creditkarma.ca
@@ -7169,6 +7169,7 @@ www.ebookers.com
 www.ebookers.fi
 www.editeur.am.monespacesante.fr
 www.editeur.api.monespacesante.fr
+www.ein-herz-fuer-kinder.de
 www.elastic.co
 www.etoro.com
 www.etsy.com
@@ -7184,6 +7185,7 @@ www.fedramp.gov
 www.fewo-direkt.de
 www.figma.com
 www.files.com
+www.fitbook.de
 www.flights.com
 www.forescout.com
 www.fortress.com.hk
@@ -7217,7 +7219,6 @@ www.lahitapiola.fi
 www.lastminute.co.nz
 www.lastminute.com.au
 www.leather.io
-www.libelle.nl
 www.linkedin.com
 www.livestream.com
 www.loanbuilder.com
@@ -7264,6 +7265,7 @@ www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
 www.myetherwallet.com
+www.myhomebook.de
 www.netflix.com
 www.networksolutions.com
 www.omise.co
@@ -7274,6 +7276,7 @@ www.ovh.com
 www.ovh.com/manager
 www.pangleglobal.com
 www.paypal-*.com
+www.petbook.de
 www.pineperks.in
 www.pixiv.net
 www.planethoster.com
@@ -7315,6 +7318,7 @@ www.starbucksreserve.com
 www.status-takeaway.com/status
 www.stayz.com.au
 www.stripe.partners
+www.stylebook.de
 www.superdrug.com
 www.swiftcapital.com
 www.swiftfinancial.com
@@ -7325,6 +7329,7 @@ www.takeaway.com/drivers
 www.takeaway.com/foodwiki/
 www.tapiola.fi
 www.teamfortress.com
+www.techbook.de
 www.tecno-mobile.com
 www.temu.com
 www.theperfumeshop.com
@@ -7332,6 +7337,7 @@ www.thuisbezorgd.nl/aanmelden
 www.tide.co
 www.tink.com
 www.trafficfactory.com
+www.travelbook.de
 www.travelocity.ca
 www.travelocity.com
 www.trendyol.com
@@ -7355,7 +7361,6 @@ www.usa.gov
 www.valvesoftware.com
 www.vascoworldwide.net
 www.vendhq.com
-www.veriff.com
 www.verisign.com (Website; non-DNS related)
 www.vfstasheel.com
 www.vfsvisaonline.com
@@ -7401,6 +7406,7 @@ www.watsons.com.sg
 www.watsons.com.tr
 www.watsons.com.tw
 www.wearehackerone.com
+www.welt.de
 www.wickr.com
 www.wotif.com
 www.wynnvacations.com
