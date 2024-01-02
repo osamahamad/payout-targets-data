@@ -234,8 +234,6 @@
 *.doctolib.(fr|de|it|com|net)
 *.domainscope.com
 *.download.originenergy.com.au
-*.dpgmedia.be
-*.dpgmedia.nl
 *.dropbox.com    
 *.dropboxer.net
 *.dropboxforum.com
@@ -1142,7 +1140,6 @@ Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure o
 Any public cloud resource or infrastructure operated and managed by REI.
 Any publicly accessible TripAdvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
 Any publicly facing host owned by Etsy, including the below:
-Any related DPG media domain
 Any resource created or accessed with the Outscale Cloud, on all regions
 Any subdomain application issue
 Any subdomain infrastructure issue
