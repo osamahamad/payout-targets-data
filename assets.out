@@ -29,9 +29,6 @@
 (yoursubdomain).sharefile.com
 (yoursubdomain).sharefile.eu
 (yoursubdomain).us.iws.cloud.com
-* hln.be/inloggen
-* hln.be/login
-* hln.be/registreren
 *-api-*.acronis.com
 *-bugcrowd.foxycart.com (read below for details)
 *-cvr-aws-*.sys.comcast.net
@@ -77,7 +74,6 @@
 *.alimama.com
 *.aliyun-inc.com
 *.aliyun.com
-*.allegro.pl.allegrosandbox.pl
 *.amplitude-game.com
 *.apex-football.com
 *.api.dailymotion.com
@@ -343,7 +339,6 @@
 *.hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hitmanpro.com
-*.hln.be
 *.hmxservices.com
 *.hmxwebservices.com
 *.holidaylettings.com
@@ -623,6 +618,9 @@
 *.remove.bg
 *.rentalcars.com
 *.reposify.com
+*.rhinternal.net
+*.robinhood.com
+*.robinhood.net
 *.roblox.com
 *.rocketleague.com
 *.rockstargames.com
@@ -759,9 +757,6 @@
 *.transferwise.com
 *.trello.services
 *.trip.com
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tt.omtrdc.net
@@ -867,6 +862,7 @@
 1064216828
 107.167.96.0/19
 1080248000
+1099986434
 10x.redoxengine.com
 1118448159
 1127881507
@@ -975,6 +971,7 @@
 547702041
 549057844
 563291345
+564141518
 566635048
 589698942
 597940518
@@ -1010,6 +1007,7 @@
 930441707
 936983378
 937011954453721119
+938003185
 944011620
 947984433
 961114489414094898
@@ -1341,7 +1339,6 @@ Burp Suite Enterprise Edition
 Burp Suite Extension (BApps)
 Burp Suite Pro/Community
 Butler for Trello
-C# SDK
 C100447517
 C103149579
 CAMON Phone Series
@@ -1710,7 +1707,6 @@ IoS App
 Ipython Notebook Viewer - Cloud - https://marketplace.atlassian.com/apps/1218117/ipython-notebook-viewer?hosting=cloud
 Issue Edit Notifications for Jira - Server - https://marketplace.atlassian.com/apps/1211504/issue-edit-notifications-for-jira?hosting=server
 JMeter Aggregator for Bamboo - Server - https://marketplace.atlassian.com/apps/5902/jmeter-aggregator-for-bamboo?hosting=server
-Java SDK
 Java agent
 JavaScript Charts for Jira Cloud - Cloud - https://marketplace.atlassian.com/apps/1214527/javascript-charts-for-jira-cloud?hosting=cloud
 Jenkins for Jira (official) - Cloud - https://marketplace.atlassian.com/apps/1227791/jenkins-for-jira-official?hosting=cloud
@@ -2036,7 +2032,6 @@ Other publicly-released plugins
 Other ynab.com domains not listed
 P2P functionality
 PHANTOM Phone Series
-PHP SDK
 PHP agent
 PIA APIs
 PIA Android application
@@ -2133,7 +2128,6 @@ Questions for Confluence - DataCenter - https://marketplace.atlassian.com/apps/1
 Questions for Confluence - Server - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=server
 Queue Priority Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1216287/queue-priority-plugin-for-bamboo?hosting=server
 RYOT
-React Native SDK
 Read Me - https://trello.com/power-ups/5a2de0c41ae4a1537bb0055d/read-me
 Rec Room PC Standalone App
 Rec Room Studio
@@ -2153,7 +2147,6 @@ Roblox Client
 Roblox Studio
 Rockstar Games Launcher
 Ruby agent
-Rust SDK
 SBT Task Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1214713/sbt-task-plugin-for-bamboo?hosting=server
 SEEK mobile app for Android
 SEEK mobile app for iOS
@@ -2177,9 +2170,6 @@ Shopify Mobile Applications
 Shopify Scripts Platform
 Shopify Third Party Apps
 Shopify Third Party Store
-SimScale API
-SimScale Platform
-SimScale Website
 Simple Object Storage (SOS)
 Simplify Commerce - www.simplify.com/commerce/ 
 Skyscanner Android App
@@ -2340,8 +2330,6 @@ Troubleshooting and Support - Crowd - Server - https://marketplace.atlassian.com
 Troubleshooting and Support - FeCru - Server - https://marketplace.atlassian.com/apps/1217747/troubleshooting-and-support-fecru?hosting=server
 Troubleshooting and Support - Jira - DataCenter - https://marketplace.atlassian.com/apps/1217696/troubleshooting-and-support-jira?hosting=datacenter
 Troubleshooting and Support - Jira - Server - https://marketplace.atlassian.com/apps/1217696/troubleshooting-and-support-jira?hosting=server
-TrueLayer for Magento (Magento plugin)
-TrueLayer for WooCommerce (WordPress plugin)
 Trustwallet Android App
 Trustwallet iOS App
 Turnstile
@@ -2504,6 +2492,7 @@ Yahoo! (misc)
 Yield Farming
 Your Own GitLab Instance
 Zendesk - https://trello.com/power-ups/56940ede94fd60cf95f7ce6a/zendesk
+Zero days that affect Intigriti or participating customers (listed below)
 a.root-servers.net (DNS service; DNS related)
 a1.verisigndns.com (DNS service; DNS related)
 a1ttqkupgmaxeg-ats.iot.ap-east-1.amazonaws.com
@@ -2544,6 +2533,7 @@ accounts.reddit.com
 accounts.shopify.com
 accounts.snapchat.com
 accounts.stage.evernote.com
+accountsettings.connect.identity.stagaws.visma.com
 acme-challenge.nl
 acrobat.adobe.com
 acrobatoauth.adobe.com
@@ -2568,6 +2558,7 @@ admin.ring.com/*
 admin.shipt.com
 admin.shopify.com
 admin.smartsheet.com
+admin.stage.vismaonline.com
 admin.wickr.com
 admincms.monespacesante.fr
 adminconsole.adobe.com
@@ -2586,6 +2577,7 @@ affiliate-program.amazon.com
 agents.tasheer.com
 agents.vfstasheel.com
 aggregator.etoro.com
+ai-testing.maventa.com
 aiq-prod.codebig2.net
 airFiber
 airMAX
@@ -2757,13 +2749,13 @@ api.tide.co
 api.tideplatform.in
 api.trello.com
 api.tripadvisor.com
-api.truelayer[-sandbox].com
 api.tumblr.com
 api.twilio.com
 api.unity.com
 api.upwork.com/graphql
 api.usaa.com
 api.vhx.tv
+api.vidaxl.com
 api.vimeo.com
 api.watsons.co.id
 api.watsons.co.th
@@ -2774,12 +2766,14 @@ api.watsons.com.sg
 api.watsons.com.tw
 api.wisdomtreeprimeapp.com
 api.wordpress.org
+api.workbox.dk
 api.x.ai
 api.yoti.com
 api.zerobounce.in
 api2.frontapp.com
 api2.grofers.com
 api2.poloniex.com
+apigateway.vidaxl.io
 apigw.foliofn.com
 apis.mail.yahoo.com
 apis.onecloud.harman.com
@@ -2846,7 +2840,9 @@ app.swapcard.com
 app.taxjar.com
 app.theperfumeshop.com
 app.tide.co
+app.vidaxl.io
 app.watsons.com.tr
+app.workbox.dk
 appapi.neuralprisma.com
 applause1.magisto.com
 applications.frame.io
@@ -2859,6 +2855,7 @@ aqtooling.com
 aquiris.com.br
 aquiris.studio
 aquiristech.com
+ar.vidaxl.sa.com
 argocd.indrive.dev
 arrive-server.shopifycloud.com
 artifactory.corp.mongodb.com/
@@ -2886,15 +2883,18 @@ auth.preprod.monespacesante.fr
 auth.seek.com
 auth.services.adobe.com
 auth.skypicker.com
-auth.truelayer[-sandbox].com
 auth2.indrive.tech
 authn.usaa.com
+authz.workbox.dk
 autocomplete.booking.com
+autointerface.stag.visma.net
 autoupdate.geo.opera.com
 avtoelon.uz
 aw.visa.com
 aws.indrive.tech
+ax-stage.maventa.com
 b2b.tvgnetwork.com
+b2b.vidaxl.com
 b2bapi-a.usaa.com
 b2bapi.usaa.com
 b2blsapi-a.usaa.com
@@ -3062,6 +3062,7 @@ cloud8.8x8.com
 cloudflareworkers.com
 cms.mobile.monash
 cms.monespacesante.fr
+cms.woger-cdn.com
 co.mona.android
 co.omise.omise
 co.tide
@@ -3083,6 +3084,7 @@ com.Hyatt
 com.Slack
 com.acronis.abc
 com.acronis.acronistrueimage
+com.ada.app
 com.adobe.PSMobile
 com.adobe.echosign
 com.adobe.fas
@@ -3271,6 +3273,7 @@ com.reddit.frontpage
 com.ring.neighborhoods
 com.ringapp
 com.rlk.weathers
+com.robinhood.android
 com.romwe
 com.scee.psxandroid
 com.scopely.monopolygo
@@ -3359,6 +3362,7 @@ com.valvesoftware.Steam
 com.venmo
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
+com.visma.blue
 com.vrbo.android
 com.wealthsimple
 com.wealthsimple.wealthsimple
@@ -3405,13 +3409,12 @@ confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
 connect.deezer.com
+connect.identity.stagaws.visma.com
 connect.monash.edu
 consensys.net
-console-backend.truelayer[-sandbox].com
 console.aiven.io
 console.chainstack.com
 console.dashlane.com
-console.truelayer[-sandbox].com
 contact.krisp.ai
 contacts.infomaniak.com
 content.usaa.com
@@ -3422,6 +3425,7 @@ core.yoti.com
 cornershopapp.android
 corp.badoo.com
 corporate.pineperks.in
+corporate.vidaxl.com
 corporate.westernunion.com
 cover-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
@@ -3448,6 +3452,7 @@ csp-pci.prod.codebig2.net
 ctf.hacker101.com
 custody.coinbase.com
 customer-academy.databricks.com
+customer-services.vidaxl.org
 customerevents.netflix.com
 customers.gitlab.com
 customers.mattermost.com
@@ -3557,9 +3562,12 @@ download.krisp.ai
 download.nextcloud.com
 download.opera.com
 downloads.datastax.com
+drone.vidaxl.io
 dropr.nl
 e-Commerce
 eIDAS Bridge  (see program description for github link)
+eaccounting.stage.vismaonline.com
+eaccountingprinting.stage.vismaonline.com
 eassessment.monash.edu
 ebsext.oft.hyatt.com
 edex.adobe.com
@@ -3585,6 +3593,8 @@ effecthouse.tiktok.com
 elastic.co credentials
 embed.tumblr.com
 embed.vhx.tv
+en.vidaxl.ae
+en.vidaxl.ca
 eng.magiceden.dev
 eng.magiceden.io
 engine.october.eu
@@ -3660,6 +3670,8 @@ forum.portswigger.net
 forum.sketchfab.com
 forums.malwarebytes.com
 foxycart-demo.foxycart.com
+fps-extr-services.vidaxl.org
+fr.vidaxl.ch
 frankd.yoti.com
 freight.amazon.*
 fresh.amazon.*
@@ -3766,7 +3778,6 @@ hiltonhotels.jp
 hiltonlocalbiz.com
 hipaa.staging.gearset.com
 hl.exe
-hln.be
 hmxservices.com
 holidays-au.fijiairways.com
 holidays-fj.fijiairways.com
@@ -3783,7 +3794,6 @@ hotel-deals.marriott.com
 hotornot.com
 hpanel.hosting24.com
 hpanel.hostinger.com
-hpp.truelayer[-sandbox].com
 hr.prosus.com
 ht.visa.com
 http://(yoursubdomain).sharefile.com/sf/v3/
@@ -3962,6 +3972,7 @@ https://api.justeat-int.com
 https://api.kennasecurity.com
 https://api.letsexchange.io/doc
 https://api.linen.app/
+https://api.mobile.ada.com
 https://api.moneyboxapp.com/
 https://api.neogov.com
 https://api.netgear.com
@@ -4241,6 +4252,10 @@ https://canva.cn/developers
 https://canva.com/developers
 https://carbonneutral.ampol.com.au/
 https://cards.ampol.com.au
+https://care-navigation-admin-bff.int.eu.enterprise.ada.com
+https://care-navigation-admin-fe.int.eu.enterprise.ada.com
+https://care-navigation-bff.int.eu.enterprise.ada.com
+https://care-navigation-fe.int.eu.enterprise.ada.com
 https://careers.takeaway.com
 https://cash.app
 https://cashback.opera.com/
@@ -4319,7 +4334,12 @@ https://dbc-a1ba5468-749b.staging.cloud.databricks.com/
 https://dcfgatewaytst1.marriott.com/
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
+https://demo-prod-assessment-bff.ada-prod-eu.prod.gcp.ada.com
+https://demo-prod-hcp-report-bff.ada-prod-eu.prod.gcp.ada.com
+https://demo.enterprise.ada.com
+https://demo.handover.enterprise.ada.com
 https://demo.priceless.com/
+https://demo.sso.enterprise.ada.com
 https://design.glassdoor.com/*
 https://desk-api-{region}.sendbird.com
 https://dev.tutoring.classdojo.com
@@ -4849,6 +4869,7 @@ https://hub.immutable.com/
 https://huddle.bluejeans.com
 https://ichnaea.netflix.com
 https://icu.eu-west-2.outscale.com
+https://id.ada.com
 https://id.atlassian.com/login
 https://id.unity.com
 https://identity.bugcrowd.com/
@@ -6132,6 +6153,7 @@ id1520720139
 id1534920947
 ide.x.ai
 identity.monash.edu
+identity.stage.vismaonline.com
 idp.fr.cloud.gov
 ifttt-adaptor.pub.kube.dm.gg
 images2.triseptsolutions.com
@@ -6178,6 +6200,7 @@ irc.irccloud.com
 irccloud.com
 irclogs.wordpress.org
 iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
+is.vidaxl.is
 ispdesign.ui.com
 it.niedermann.owncloud.notes
 it.twsweb.Nextcloud
@@ -6268,7 +6291,6 @@ log.rarible.com
 logging.rarible.com
 logilife.logitech.com
 login-4ngbets.us.betfair.com
-login-api.truelayer[-sandbox].com
 login-ia.tvg.com
 login.en.travelbrandsagent.com
 login.fr.cloud.gov
@@ -6280,7 +6302,6 @@ login.playcanvas.com
 login.starbucks.co.jp
 login.swapcard.com
 login.tide.co
-login.truelayer[-sandbox].com
 login.tvg.com
 login.www.vaxvacationaccess.com
 logistics.amazon.*
@@ -6421,9 +6442,10 @@ my.pressable.com
 my.snapchat.com
 my.swiftfinancial.com
 my.thesecurityteam.rocks
-myaccount.hln.be
 mydesktop.usaa.com
 mydesktop.wu.com
+myservices-api.stage.vismaonline.com
+myservices.stage.vismaonline.com
 myvpn.usaa.com
 naspers.com
 nav.naspers.com
@@ -6502,8 +6524,10 @@ nextcloud/user_oidc
 nextcloud/user_saml
 nextcloud/viewer
 nextcloud/workflow_script
+nexus.vidaxl.org
 nice.wfmusaa.com
 nicetryapril.na1.echosignsandbox.com
+nl.vidaxl.be
 nmtracking.netflix.com
 no-reply.cloud
 node.e2ro.com/*
@@ -6518,6 +6542,7 @@ nvoice.usaa.com
 nw.ring.com/*
 oauth-sandbox.gocardless.com
 oauth.deriv.com
+oauth.developers.stagaws.visma.com
 oauth.reddit.com
 oauth.ring.com/*
 obs-sensors.iris.acceptance.forescoutcloud.net
@@ -6529,7 +6554,6 @@ old.reddit.com
 omgpro.airbnb.com
 on-ramp.metaswap-dev.codefi.network
 onboarding-*.cloud.com
-onboarding-api.truelayer.com
 onboarding.cloud.com
 onboarding.greenhouse.io
 one.airbnb.com
@@ -6582,26 +6606,21 @@ partners.shopify.com
 partners.usaa.com
 passport.larksuite.com
 passwordchallenge.marriott.com
-pay-api.truelayer[-sandbox].com
 pay-sandbox.gocardless.com
 pay.8x8.com
 pay.amazon.*
 pay.crypto.com
 pay.ibex.exchange
-pay.truelayer[-sandbox].com
 pay.unity.com
 paybridge.booking.com
-paydirect.truelayer[-sandbox].com
 payment-connectors.vendhq.com
 payment.deezer.com
 payment.pixiv.net
-payment.truelayer[-sandbox].com
 paymentcomponent.booking.com
 payments.amazon.*
 payments.hosting24.com
 payments.hostinger.com
 paynotifications.booking.com
-payouts.truelayer[-sandbox].com
 paypal.me
 paypalobjects.com
 payroll.razorpay.com
@@ -6700,6 +6719,9 @@ push.services.mozilla.com
 pushfeed.nextcloud.com
 pwapi.ex2b.com
 py.pl
+qa-db.vidaxl.io
+qa.vidaxl.io
+qa1-apigateway.vidaxl.io
 qatest.nl
 qwantjunior.com
 r.etoro.com
@@ -6812,6 +6834,7 @@ sensei.pixiv.net
 serveur10.notebleue.com
 service.platform.tripadvisor.com
 service.tvg.com
+serviceportal.vidaxl.com
 sf-rp-eu.sharefile.com
 sf-rp-us.sharefile.com
 sf-rp.sharefile.com
@@ -6835,6 +6858,7 @@ shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
 shoppingcart.shipt.com
+shops-services.vidaxl.org
 sijoitusvakuutus.lahitapiola.fi
 simperium.com
 simplenote.com
@@ -6885,8 +6909,10 @@ staging-admin.shipt.com
 staging-api.gearset.com
 staging-api.october.eu
 staging-api.shipt.com
+staging-apigateway.vidaxl.io
 staging-app.october.eu
 staging-app.shipt.com
+staging-db.vidaxl.io
 staging-engine.october.eu
 staging-shop.shipt.com
 staging-shoppingcart.shipt.com
@@ -6894,6 +6920,7 @@ staging-xray.october.eu
 staging.airtable.com
 staging.gearset.com
 staging.magisto.com
+staging.vidaxl.io
 staking-api.polygon.technology
 staking-uat.codefi.network
 staking.codefi.network
@@ -6994,6 +7021,7 @@ test.nicex.com
 test.rarible.com
 testapi.redoxengine.com
 testapp.redoxengine.com
+testing.maventa.com
 testnet.bitmex.com
 testnet.immutable.com
 tf2.exe
@@ -7008,6 +7036,7 @@ todo.notebleue.pro
 tools.deribit.com
 track.amazon.com
 tracker.naspers.com
+tracking.vidaxl.com
 training.ui.com
 transact.playstation.com
 transferwise.com
@@ -7022,7 +7051,6 @@ tria.ge
 trm.pinelabs.com
 trm.pinepaymentsolutions.com
 truck-api.eu-east-1.indriverapp.com
-truelayer-signing
 try.discourse.org
 tunnistus.lahitapiola.fi
 tunnistus.s-ryhma.fi
@@ -7037,6 +7065,7 @@ uber.com
 uc.8x8pilot.com
 uisp.com
 uk.forescout.cloud
+uk.vidaxl.com.ua
 uk.web.com
 unibet.me
 unifi.ui.com
@@ -7059,7 +7088,6 @@ usaainsurance.com
 user-profile-staging.8x8.com
 user-profile.8x8.com
 usercontent.apps.nextcloud.com
-users-api.truelayer.com
 utv.usaa.com
 uz.avtoelon
 v.utv.usaa.com
@@ -7083,6 +7111,7 @@ verovelvollisuustiedot.lahitapiola.fi
 vfstasheer.com
 vhx.tv
 via.rider
+vidaxl.zendesk.com
 vimeo.magisto.com
 vimeopro.com
 visa.co.cr
@@ -7121,7 +7150,6 @@ webapi.clario.co
 webhooks-api-experimental.codefi.network
 webhooks.booking.com
 webhooks.gamma.redoxstage.com
-webhooks.truelayer[-sandbox].com
 webmail.usaa.com
 webtoolbox.notebleue.pro
 welcome.infomaniak.com
@@ -7236,6 +7264,7 @@ www.domain.com
 www.dota2.com
 www.driveuconnect.com
 www.driveuconnect.eu
+www.dropshippingxl.com
 www.dvpc.net
 www.ebookers.com
 www.ebookers.fi
@@ -7268,7 +7297,6 @@ www.gocardless.com
 www.goodrx.com
 www.greenhouse.io
 www.hackerone.com
-www.hln.be
 www.hosting24.com
 www.hostinger.com
 www.hotels.com
@@ -7435,6 +7463,7 @@ www.verisign.com (Website; non-DNS related)
 www.vfstasheel.com
 www.vfsvisaonline.com
 www.vfsvisaservicesrussia.com
+www.vidaxl.<TLD>
 www.vimeo.com
 www.visa.co.ao
 www.visa.co.id

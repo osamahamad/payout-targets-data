@@ -1,38 +1,66 @@
-* hln.be/inloggen
-* hln.be/login
-* hln.be/registreren
-*.allegro.pl.allegrosandbox.pl
-*.hln.be
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
-C# SDK
-Java SDK
-PHP SDK
-React Native SDK
-Rust SDK
-SimScale API
-SimScale Platform
-SimScale Website
-TrueLayer for Magento (Magento plugin)
-TrueLayer for WooCommerce (WordPress plugin)
-api.truelayer[-sandbox].com
-auth.truelayer[-sandbox].com
-console-backend.truelayer[-sandbox].com
-console.truelayer[-sandbox].com
-hln.be
-hpp.truelayer[-sandbox].com
-https://www.hostgator.com.br/
-login-api.truelayer[-sandbox].com
-login.truelayer[-sandbox].com
-myaccount.hln.be
-onboarding-api.truelayer.com
-pay-api.truelayer[-sandbox].com
-pay.truelayer[-sandbox].com
-paydirect.truelayer[-sandbox].com
-payment.truelayer[-sandbox].com
-payouts.truelayer[-sandbox].com
-truelayer-signing
-users-api.truelayer.com
-webhooks.truelayer[-sandbox].com
-www.hln.be
+*.rhinternal.net
+*.robinhood.com
+*.robinhood.net
+1099986434
+564141518
+938003185
+Zero days that affect Intigriti or participating customers (listed below)
+accountsettings.connect.identity.stagaws.visma.com
+admin.stage.vismaonline.com
+ai-testing.maventa.com
+api.vidaxl.com
+api.workbox.dk
+apigateway.vidaxl.io
+app.vidaxl.io
+app.workbox.dk
+ar.vidaxl.sa.com
+authz.workbox.dk
+autointerface.stag.visma.net
+ax-stage.maventa.com
+b2b.vidaxl.com
+cms.woger-cdn.com
+com.ada.app
+com.robinhood.android
+com.visma.blue
+connect.identity.stagaws.visma.com
+corporate.vidaxl.com
+customer-services.vidaxl.org
+drone.vidaxl.io
+eaccounting.stage.vismaonline.com
+eaccountingprinting.stage.vismaonline.com
+en.vidaxl.ae
+en.vidaxl.ca
+fps-extr-services.vidaxl.org
+fr.vidaxl.ch
+https://api.mobile.ada.com
+https://care-navigation-admin-bff.int.eu.enterprise.ada.com
+https://care-navigation-admin-fe.int.eu.enterprise.ada.com
+https://care-navigation-bff.int.eu.enterprise.ada.com
+https://care-navigation-fe.int.eu.enterprise.ada.com
+https://demo-prod-assessment-bff.ada-prod-eu.prod.gcp.ada.com
+https://demo-prod-hcp-report-bff.ada-prod-eu.prod.gcp.ada.com
+https://demo.enterprise.ada.com
+https://demo.handover.enterprise.ada.com
+https://demo.sso.enterprise.ada.com
+https://id.ada.com
+identity.stage.vismaonline.com
+is.vidaxl.is
+myservices-api.stage.vismaonline.com
+myservices.stage.vismaonline.com
+nexus.vidaxl.org
+nl.vidaxl.be
+oauth.developers.stagaws.visma.com
+qa-db.vidaxl.io
+qa.vidaxl.io
+qa1-apigateway.vidaxl.io
+serviceportal.vidaxl.com
+shops-services.vidaxl.org
+staging-apigateway.vidaxl.io
+staging-db.vidaxl.io
+staging.vidaxl.io
+testing.maventa.com
+tracking.vidaxl.com
+uk.vidaxl.com.ua
+vidaxl.zendesk.com
+www.dropshippingxl.com
+www.vidaxl.<TLD>
