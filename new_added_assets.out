@@ -1,0 +1,17 @@
+*.cm.com
+*.cmtelecom.com
+*.ticketing.cm.com
+*.volkskrant.nl
+api.cm.com
+api.cmtelecom.com
+cm.com/[locale]/app/*
+cm.com/[locale]/register
+cm.com/app/messagingtrial/
+demo.globalticket.com/*
+login.cm.com
+myaccount.volkskrant.nl
+shop.volkskrant.nl
+webwinkel.volkskrant.nl
+www.cm.com
+www.volkskrant.nl
+www.volkskrant.nl/abonnementen
