@@ -51,6 +51,7 @@
 *.acrobat.com
 *.acronis.com
 *.acronis.work
+*.ad.nl
 *.adobe.com
 *.adobe.io
 *.adobeaemcloud.com
@@ -277,6 +278,8 @@
 *.fortnite.com
 *.found.io
 *.front.com
+*.gamma.be/*
+*.gamma.nl/*
 *.getbouncer.com
 *.getmeetio.com
 *.github.net
@@ -377,6 +380,9 @@
 *.instacart.com
 *.instacart.tools
 *.intercomassets.com / *.intercomcdn.com
+*.intergamma-test.nl
+*.intergamma.cloud
+*.intergamma.nl/*
 *.irccloud-cdn.com
 *.irccloud.com
 *.je-apis.com - UK legacy API
@@ -401,6 +407,8 @@
 *.justeat-int.com
 *.justeattakeaway.com
 *.kaleido.ai
+*.karwei.nl/*
+*.karweioutletstore.nl
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
 *.kes.kindredext.net
@@ -618,6 +626,7 @@
 *.remove.bg
 *.rentalcars.com
 *.reposify.com
+*.restintergamma.nl
 *.roblox.com
 *.rocketleague.com
 *.rockstargames.com
@@ -790,6 +799,9 @@
 *.wavecell.com
 *.wealthsimple.com
 *.wenewmoments.com
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
 *.westernunion.*
 *.white.market
 *.wimpmusic.com
@@ -895,6 +907,7 @@
 1541949985
 1552207792
 1557515848
+1558129454
 1589023233
 1591003012
 1608392803
@@ -1004,6 +1017,9 @@
 937011954453721119
 944011620
 947984433
+949829216
+950680989
+950693949
 961114489414094898
 965180355
 97.105.243.96/28
@@ -2893,6 +2909,7 @@ basecamp3.exe
 basicattentiontoken.org
 bb.visa.com
 bd.visa.com
+be.gamma.app.android
 beacon.netflix.com
 behance.net
 beta-cloud.acronis.com
@@ -6058,6 +6075,7 @@ https://xyzbmojn.net/
 https://yeswehack.com
 https://youcouldbe.com
 https://yourstore.retail.lightspeed.app/signin/?return=%2F
+https://zabbix.intergamma.nl/*
 https://{account-code}-0.app.pentest.digistorm.com/admin
 https://{account-code}-0.app.pentest.digistorm.com/forms/enrol-form/start
 https://{account-code}-0.app.pentest.digistorm.com/forms/group-tours
@@ -6172,6 +6190,9 @@ judge.me
 k8s.gcr.io
 k8s.io
 kartaview.org
+kassa.gamma.be/*
+kassa.gamma.nl/*
+kassa.karwei.nl/*
 kb.databricks.com
 kbill.mackeeper.com
 kissandfly.com
@@ -6349,6 +6370,9 @@ mgmtpod-1.production.forescoutcloud.net
 mgs-gw.m.dana.id
 mgs.marriott.com
 mguest.usaa.com
+mijn.gamma.be/*
+mijn.gamma.nl/*
+mijn.karwei.nl/*
 mijnkombijdepolitie.nl
 miro.com
 mix-dev.monash.edu/*
@@ -6391,6 +6415,7 @@ my.pressable.com
 my.snapchat.com
 my.swiftfinancial.com
 my.thesecurityteam.rocks
+myaccount.ad.nl
 mydesktop.usaa.com
 mydesktop.wu.com
 myvpn.usaa.com
@@ -6473,6 +6498,9 @@ nextcloud/viewer
 nextcloud/workflow_script
 nice.wfmusaa.com
 nicetryapril.na1.echosignsandbox.com
+nl.gamma.app.android
+nl.gamma.verf
+nl.karwei.app.android
 nmtracking.netflix.com
 no-reply.cloud
 node.e2ro.com/*
@@ -7084,6 +7112,7 @@ webhooks.booking.com
 webhooks.gamma.redoxstage.com
 webmail.usaa.com
 webtoolbox.notebleue.pro
+webwinkel.ad.nl
 welcome.infomaniak.com
 werkenbijdefensie.nl
 werkenbijderet.nl
@@ -7134,6 +7163,8 @@ wuinsights.westernunion.com
 www.32red.com
 www.4njbets.com
 www.abritel.fr
+www.ad.nl
+www.ad.nl/abonnementen
 www.airbnb.com
 www.algolia.com
 www.alibabagroup.com
@@ -7222,6 +7253,8 @@ www.fortress.com.hk
 www.fraedom.com
 www.funjet.com
 www.gamemaker.io
+www.gamma.be/*
+www.gamma.nl/*
 www.getaroom.com
 www.globalhotelchoices.com
 www.gocardless.com
@@ -7244,6 +7277,7 @@ www.infomaniak.com
 www.instacart.com
 www.irccloud.com
 www.jaybirdsport.com
+www.karwei.nl/*
 www.kayak.com
 www.kiwi.com
 www.kruidvat.be
