@@ -376,7 +376,6 @@
 *.infrastructure.newrelic.com
 *.instacart.com
 *.instacart.tools
-*.intel.com
 *.intercomassets.com / *.intercomcdn.com
 *.irccloud-cdn.com
 *.irccloud.com
@@ -500,10 +499,6 @@
 *.myteksi.net
 *.namestudio.com
 *.namestudioforsocial.com
-*.napoleoncasino.be
-*.napoleondice.be
-*.napoleongames.be
-*.napoleonsports.be
 *.naspers.com
 *.neat.com.hk
 *.neat.hk
@@ -1143,6 +1138,7 @@ Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure o
 Any public cloud resource or infrastructure operated and managed by REI.
 Any publicly accessible TripAdvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
 Any publicly facing host owned by Etsy, including the below:
+Any related Torfs domain
 Any resource created or accessed with the Outscale Cloud, on all regions
 Any subdomain application issue
 Any subdomain infrastructure issue
@@ -1582,7 +1578,6 @@ Finicity Decisioning
 Finicity- Data Services
 FireTV
 Firefox extension (download at:   https://addons.mozilla.org/firefox/addon/pinterest/)
-Firmware
 FishEye
 Flash Player
 Fleet Server
@@ -1652,7 +1647,6 @@ Hackathon for Jira - Cloud - https://marketplace.atlassian.com/apps/1214757/hack
 Halp Answers for Confluence in Slack - Cloud - https://marketplace.atlassian.com/apps/1222365/halp-answers-for-confluence-in-slack?hosting=cloud
 Halp application for Microsoft Teams
 Halp application for Slack
-Hardware
 Hardware found on https://www.ezviz.com/category/security-wifi-cameras
 Hardware found on https://www.ezviz.com/category/smart-home
 Harmony Remote Software
@@ -2184,7 +2178,6 @@ Smartchain Blockchain
 Snaps
 Snaps Development Packages
 Social Media Accounts
-Software
 Software Supply Chain
 Sophos Central
 SoundCloud Android app
@@ -7107,6 +7100,7 @@ wiki.near.org
 wiki.teamfortress.com
 wiki.ui.com
 winecellar.zomato.com
+winkels.torfs.be
 wise.com
 wonderboxapi.com
 wonderboxdev.com
@@ -7340,6 +7334,9 @@ www.ritzcarlton.com/
 www.rocaton.com
 www.s-kaupat.fi
 www.s-pankki.fi
+www.samenfittorfs.be
+www.schoenentorfs.be
+www.schoenentorfs.nl
 www.shipt.com
 www.six-group.com
 www.sokos.fi
@@ -7374,6 +7371,8 @@ www.theperfumeshop.com
 www.thuisbezorgd.nl/aanmelden
 www.tide.co
 www.tink.com
+www.torfs.be
+www.torfs.nl
 www.trafficfactory.com
 www.travelocity.ca
 www.travelocity.com
