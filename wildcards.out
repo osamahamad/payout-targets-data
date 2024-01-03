@@ -21,7 +21,6 @@
 *.acrobat.com
 *.acronis.com
 *.acronis.work
-*.ad.nl
 *.adobe.com
 *.adobe.io
 *.adobeaemcloud.com
@@ -56,6 +55,7 @@
 *.app.spacelift.dev
 *.arlo.com (production servers only)
 *.arloxcld.com (production servers only)
+*.aroundtheworld.tomorrowland.com
 *.artist.link
 *.artstation.com
 *.arubanetworks.com
@@ -248,8 +248,6 @@
 *.fortnite.com
 *.found.io
 *.front.com
-*.gamma.be/*
-*.gamma.nl/*
 *.getbouncer.com
 *.getmeetio.com
 *.github.net
@@ -350,9 +348,6 @@
 *.instacart.com
 *.instacart.tools
 *.intercomassets.com / *.intercomcdn.com
-*.intergamma-test.nl
-*.intergamma.cloud
-*.intergamma.nl/*
 *.irccloud-cdn.com
 *.irccloud.com
 *.je-apis.com - UK legacy API
@@ -377,8 +372,6 @@
 *.justeat-int.com
 *.justeattakeaway.com
 *.kaleido.ai
-*.karwei.nl/*
-*.karweioutletstore.nl
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
 *.kes.kindredext.net
@@ -596,7 +589,6 @@
 *.remove.bg
 *.rentalcars.com
 *.reposify.com
-*.restintergamma.nl
 *.roblox.com
 *.rocketleague.com
 *.rockstargames.com
@@ -726,6 +718,7 @@
 *.tinderops.net
 *.tinderwebstaging.com
 *.tmall.com
+*.tomorrowland.com
 *.touchtechpayments.com
 *.tr.ee
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
@@ -769,9 +762,6 @@
 *.wavecell.com
 *.wealthsimple.com
 *.wenewmoments.com
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
 *.westernunion.*
 *.white.market
 *.wimpmusic.com
