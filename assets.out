@@ -277,8 +277,6 @@
 *.fortnite.com
 *.found.io
 *.front.com
-*.gamma.be/*
-*.gamma.nl/*
 *.getbouncer.com
 *.getmeetio.com
 *.github.net
@@ -379,9 +377,6 @@
 *.instacart.com
 *.instacart.tools
 *.intercomassets.com / *.intercomcdn.com
-*.intergamma-test.nl
-*.intergamma.cloud
-*.intergamma.nl/*
 *.irccloud-cdn.com
 *.irccloud.com
 *.je-apis.com - UK legacy API
@@ -406,8 +401,6 @@
 *.justeat-int.com
 *.justeattakeaway.com
 *.kaleido.ai
-*.karwei.nl/*
-*.karweioutletstore.nl
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
 *.kes.kindredext.net
@@ -421,7 +414,6 @@
 *.lab.epam.com
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
-*.lansweeper.com
 *.lazada-seller.cn
 *.lazada.(sg|vn|co.id|co.th|com|com.ph|com.my) (+)
 *.lazada.(sg|vn|co.id|co.th|com|com.ph|com.my) (++)
@@ -523,7 +515,9 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
+*.ninjakiwi.com
 *.niumba.com
+*.nkstatic.com
 *.nnip.com
 *.nordvpn.com
 *.nr-data.net
@@ -626,7 +620,6 @@
 *.remove.bg
 *.rentalcars.com
 *.reposify.com
-*.restintergamma.nl
 *.roblox.com
 *.rocketleague.com
 *.rockstargames.com
@@ -703,6 +696,7 @@
 *.sophos.com
 *.soundcloud.com
 *.soundcloud.org
+*.souparea.com
 *.spinaway.com
 *.sportinglife.com
 *.sprint.com
@@ -799,9 +793,6 @@
 *.wavecell.com
 *.wealthsimple.com
 *.wenewmoments.com
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
 *.westernunion.*
 *.white.market
 *.wimpmusic.com
@@ -907,7 +898,6 @@
 1541949985
 1552207792
 1557515848
-1558129454
 1589023233
 1591003012
 1608392803
@@ -1017,9 +1007,6 @@
 937011954453721119
 944011620
 947984433
-949829216
-950680989
-950693949
 961114489414094898
 965180355
 97.105.243.96/28
@@ -1974,7 +1961,6 @@ OKT Chain
 OKX Wallet Chrome Extension
 OKX Wallet Edge Add-ons
 OKX Wallet Safari Extension
-OT scanner
 Observability - APM Agents
 Observability - APM Server
 October - https://apps.apple.com/fr/app/october/id1167975760
@@ -2607,6 +2593,7 @@ amp.reddit.com
 analytics-admin.prosus.com
 analytics.cloud.unity3d.com
 analytics.krisp.ai
+analytics.ninjakiwi.com
 analytics.pinelabs.com
 analytics.prosus.com
 anytask.thesecurityteam.rocks
@@ -2698,7 +2685,6 @@ api.krisp.ai
 api.kuna.io
 api.kunapay.io
 api.lahitapiola.fi
-api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
@@ -2710,6 +2696,7 @@ api.mergify.com
 api.miro.com
 api.monespacesante.fr
 api.netlify.com
+api.ninjakiwi.com
 api.october.eu
 api.omise.co
 api.openai.com
@@ -2807,8 +2794,6 @@ app.krisha.kz
 app.kruidvat.be
 app.kruidvat.nl
 app.lachain.io
-app.lansweeper.com
-app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
 app.marionnaud.at
@@ -2891,7 +2876,6 @@ auth2.indrive.tech
 authn.usaa.com
 autocomplete.booking.com
 autoupdate.geo.opera.com
-autoupdateapi.lansweeper.com
 avtoelon.uz
 aw.visa.com
 aws.indrive.tech
@@ -2904,7 +2888,6 @@ b5s.hackerone-ext-content.com
 bSafe Android App
 bSafe iPhone App
 backend.zyro.com
-backoffice.lansweeper.com
 backstage.io
 badoo.com
 badoocdn.com
@@ -2913,9 +2896,9 @@ ballistic.com.br
 bankaccountdata.gocardless.com, ob.gocardless.com
 basecamp3.exe
 basicattentiontoken.org
+battles.tv
 bb.visa.com
 bd.visa.com
-be.gamma.app.android
 beacon.netflix.com
 behance.net
 beta-cloud.acronis.com
@@ -2935,7 +2918,6 @@ blog.23andme.com
 blog.chaturbate.com
 blog.coingecko.com
 blog.creditkarma.com
-blog.etsy.com
 blog.irccloud.com
 blog.malwarebytes.com
 blog.newrelic.com
@@ -2977,6 +2959,7 @@ bugcrowd-oie-%username%-2.oktapreview.com
 bugcrowd.com
 bugs.opera.com
 bugzilla.mozilla.org
+builds-auckland.ninja.kiwi
 bullsheet.me
 burn.polygon.technology
 business.kayak.com
@@ -3397,7 +3380,6 @@ commerce.coinbase.com
 community-tc.services.mozilla.com
 community.adobe.com
 community.databricks.com
-community.etsy.com
 community.forescout.com
 community.logitech.com
 community.ui.com
@@ -3446,6 +3428,7 @@ cryptowallet.opera-api.com
 cs.money
 csgo.exe
 csp-pci.prod.codebig2.net
+ct.ninjakiwi.com
 ctf.hacker101.com
 custody.coinbase.com
 customer-academy.databricks.com
@@ -3477,6 +3460,7 @@ dashboard.razorpay.com
 dashboard.unity3d.com
 dashboard2.omise.co
 data.mail.yahoo.com
+data.ninjakiwi.com
 data.prosus.com
 data.rarible.com
 databricks.com
@@ -3540,7 +3524,6 @@ docs.databricks.com
 docs.datastax.com
 docs.eazybi.com
 docs.gitlab.com
-docs.lansweeper.com
 docs.launchdarkly.com
 docs.near.org
 docs.newrelic.com
@@ -3565,7 +3548,6 @@ eIDAS Bridge  (see program description for github link)
 eassessment.monash.edu
 ebsext.oft.hyatt.com
 edex.adobe.com
-edge.lansweeper.com
 edgeapi.slack.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
@@ -4201,7 +4183,6 @@ https://blablacardaily.com
 https://blog.bitpanda.com
 https://blog.bitpanda.com/en
 https://blog.creditkarma.com/
-https://blog.etsy.com
 https://blog.verisign.com
 https://blog.whitebit.com/
 https://bluejeans.com/
@@ -4275,7 +4256,6 @@ https://coinstore-openapi.github.io/en/#45fa4e00db
 https://comment-moderation-stats.20min.ch
 https://community.arlo.com
 https://community.cloud.databricks.com/
-https://community.etsy.com
 https://compulsoryunits.monash.edu/
 https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://connect.monash.edu
@@ -6087,7 +6067,6 @@ https://xyzbmojn.net/
 https://yeswehack.com
 https://youcouldbe.com
 https://yourstore.retail.lightspeed.app/signin/?return=%2F
-https://zabbix.intergamma.nl/*
 https://{account-code}-0.app.pentest.digistorm.com/admin
 https://{account-code}-0.app.pentest.digistorm.com/forms/enrol-form/start
 https://{account-code}-0.app.pentest.digistorm.com/forms/group-tours
@@ -6202,9 +6181,6 @@ judge.me
 k8s.gcr.io
 k8s.io
 kartaview.org
-kassa.gamma.be/*
-kassa.gamma.nl/*
-kassa.karwei.nl/*
 kb.databricks.com
 kbill.mackeeper.com
 kissandfly.com
@@ -6278,7 +6254,6 @@ login.en.travelbrandsagent.com
 login.fr.cloud.gov
 login.fr.travelbrandsagent.com
 login.infomaniak.com
-login.lansweeper.com
 login.newrelic.com
 login.pabets.tvg.com
 login.playcanvas.com
@@ -6383,9 +6358,6 @@ mgmtpod-1.production.forescoutcloud.net
 mgs-gw.m.dana.id
 mgs.marriott.com
 mguest.usaa.com
-mijn.gamma.be/*
-mijn.gamma.nl/*
-mijn.karwei.nl/*
 mijnkombijdepolitie.nl
 miro.com
 mix-dev.monash.edu/*
@@ -6430,6 +6402,7 @@ my.swiftfinancial.com
 my.thesecurityteam.rocks
 mydesktop.usaa.com
 mydesktop.wu.com
+mynk.ninjakiwi.com
 myvpn.usaa.com
 naspers.com
 nav.naspers.com
@@ -6510,9 +6483,8 @@ nextcloud/viewer
 nextcloud/workflow_script
 nice.wfmusaa.com
 nicetryapril.na1.echosignsandbox.com
-nl.gamma.app.android
-nl.gamma.verf
-nl.karwei.app.android
+ninja.kiwi
+ninjakiwi.com
 nmtracking.netflix.com
 no-reply.cloud
 node.e2ro.com/*
@@ -6536,7 +6508,6 @@ odoo14.notebleue.pro
 offsite.omise.co
 old.reddit.com
 omgpro.airbnb.com
-on-premises software
 on-ramp.metaswap-dev.codefi.network
 onboarding-*.cloud.com
 onboarding.cloud.com
@@ -7263,8 +7234,6 @@ www.fortress.com.hk
 www.fraedom.com
 www.funjet.com
 www.gamemaker.io
-www.gamma.be/*
-www.gamma.nl/*
 www.getaroom.com
 www.globalhotelchoices.com
 www.gocardless.com
@@ -7287,13 +7256,11 @@ www.infomaniak.com
 www.instacart.com
 www.irccloud.com
 www.jaybirdsport.com
-www.karwei.nl/*
 www.kayak.com
 www.kiwi.com
 www.kruidvat.be
 www.kruidvat.nl
 www.lahitapiola.fi
-www.lansweeper.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.leather.io
