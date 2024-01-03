@@ -1,0 +1,26 @@
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
+C# SDK
+Java SDK
+PHP SDK
+React Native SDK
+Rust SDK
+TrueLayer for Magento (Magento plugin)
+TrueLayer for WooCommerce (WordPress plugin)
+api.truelayer[-sandbox].com
+auth.truelayer[-sandbox].com
+console-backend.truelayer[-sandbox].com
+console.truelayer[-sandbox].com
+hpp.truelayer[-sandbox].com
+login-api.truelayer[-sandbox].com
+login.truelayer[-sandbox].com
+onboarding-api.truelayer.com
+pay-api.truelayer[-sandbox].com
+pay.truelayer[-sandbox].com
+paydirect.truelayer[-sandbox].com
+payment.truelayer[-sandbox].com
+payouts.truelayer[-sandbox].com
+truelayer-signing
+users-api.truelayer.com
+webhooks.truelayer[-sandbox].com
