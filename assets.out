@@ -2486,7 +2486,6 @@ Yahoo! (misc)
 Yield Farming
 Your Own GitLab Instance
 Zendesk - https://trello.com/power-ups/56940ede94fd60cf95f7ce6a/zendesk
-Zero days that affect Intigriti or participating customers (listed below)
 a.root-servers.net (DNS service; DNS related)
 a1.verisigndns.com (DNS service; DNS related)
 a1ttqkupgmaxeg-ats.iot.ap-east-1.amazonaws.com
@@ -2606,10 +2605,8 @@ api-ne.mackeeper.com
 api-saas.dana.id
 api-sandbox.gocardless.com
 api-staging.airtable.com
-api-staging.venly.market
 api-user.e2ro.com/*
 api-v2.frame.io
-api-wallet.venly.io
 api.23andme.com
 api.account.clario.co
 api.adm.cloud.com
@@ -2619,7 +2616,6 @@ api.alasco.de
 api.amazon.com
 api.amazonalexa.com/*
 api.anytask.thesecurityteam.rocks
-api.arkane.network
 api.atg.se
 api.au.frontegg.com
 api.avax-test.network
@@ -2646,6 +2642,8 @@ api.data.gov
 api.deezer.com
 api.deriv.com
 api.dex-trade.com
+api.digital.delen.be
+api.digital.delen.lu
 api.direct.playstation.com
 api.doppler.com
 api.editeur.preprod.monespacesante.fr
@@ -2748,7 +2746,6 @@ api.twilio.com
 api.unity.com
 api.upwork.com/graphql
 api.usaa.com
-api.venly.market
 api.vhx.tv
 api.vimeo.com
 api.watsons.co.id
@@ -2775,6 +2772,9 @@ app.avtoelon.uz
 app.chime.com
 app.command.cysiv.com
 app.dashlane.com
+app.delen.be
+app.delen.ch
+app.delen.lu
 app.deriv.com
 app.faraday.io
 app.files.com
@@ -2857,11 +2857,14 @@ assets.hyatt.com
 assets.spotify.com
 assets.tumblr.com
 astra.datastax.com
+asupport.suivo.com
 atarkasher.co.il
 aus5.mozilla.org
 auth.23andme.com
 auth.bittrex.com
 auth.crypto.com
+auth.digital.delen.be
+auth.digital.delen.lu
 auth.foxy.io
 auth.indrive.tech
 auth.magic.link
@@ -2878,6 +2881,7 @@ autocomplete.booking.com
 autoupdate.geo.opera.com
 avtoelon.uz
 aw.visa.com
+aweb.suivo.com
 aws.indrive.tech
 b2b.tvgnetwork.com
 b2bapi-a.usaa.com
@@ -2898,6 +2902,7 @@ basecamp3.exe
 basicattentiontoken.org
 bb.visa.com
 bd.visa.com
+be.delen.digital
 beacon.netflix.com
 behance.net
 beta-cloud.acronis.com
@@ -3387,10 +3392,8 @@ configure.mini.de
 confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
-connect.arkane.network
 connect.deezer.com
 connect.monash.edu
-connect.venly.io
 consensys.net
 console.aiven.io
 console.chainstack.com
@@ -3480,6 +3483,7 @@ dealflow.prosus.com
 dealflowapi.prosus.com
 debug.clairvoyance.indrive.tech
 decision.swiftfinancial.com
+delen/id1064839588
 delta.app
 demo.cloud.databricks.com
 demo.plaid.com
@@ -3582,10 +3586,8 @@ eu.remix.com
 eu1.badoo.com
 evening-earth.gamma.redoxstage.com
 event.clario.co
-events-staging.venly.market
 events.launchdarkly.com
 events.onecloud.harman.com
-events.venly.market
 exchange.adobe.com
 exchange.opera.com
 exmo.com
@@ -6250,19 +6252,21 @@ logging.rarible.com
 logilife.logitech.com
 login-4ngbets.us.betfair.com
 login-ia.tvg.com
-login.arkane.network
+login.delen.be
+login.delen.ch
+login.delen.lu
 login.en.travelbrandsagent.com
 login.fr.cloud.gov
 login.fr.travelbrandsagent.com
 login.infomaniak.com
 login.newrelic.com
+login.oyens.com
 login.pabets.tvg.com
 login.playcanvas.com
 login.starbucks.co.jp
 login.swapcard.com
 login.tide.co
 login.tvg.com
-login.venly.io
 login.www.vaxvacationaccess.com
 logistics.amazon.*
 logitech.zendesk.com
@@ -6868,7 +6872,6 @@ staging-xray.october.eu
 staging.airtable.com
 staging.gearset.com
 staging.magisto.com
-staging.venly.market
 staking-api.polygon.technology
 staking-uat.codefi.network
 staking.codefi.network
@@ -6880,6 +6883,7 @@ static.thuisbezorgd.nl
 static.usaa.com
 stats.nextcloud.com
 status.adobe.com
+status.delen.be
 status.larksuite.com
 status.mobile.monash
 status.oasis.io
@@ -6906,6 +6910,7 @@ streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streams.etoro.com
+sts.delen.be
 sts.etoro.com
 studentplacements.monash.edu
 studio-api.swapcard.com
@@ -7050,7 +7055,6 @@ vault.omise.co
 vcc-*.8x8.com
 vcn-hackerone.affirm-odin.com
 vendorss.usaa.com
-venly.market
 verify.rapyd.net
 verkkopalvelu.tapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
@@ -7078,7 +7082,6 @@ wallet.etoro.com
 wallet.near.org
 wallet.oasis.io
 wallet.polygon.technology
-wallet.venly.io
 walletproxy.tapayments.com
 walletproxy1.tapayments.com
 walletproxy2.tapayments.com
@@ -7174,6 +7177,8 @@ www.bookabach.co.nz
 www.bookingholdings.com
 www.boomplay.com
 www.bumble.com
+www.cadelam.be
+www.cadelux.lu/en
 www.cardinalcommerce.com
 www.carrentals.com
 www.cheapcaribbean.com
@@ -7202,6 +7207,8 @@ www.dashlane.com
 www.data.gov
 www.datastax.com
 www.deezer.com
+www.delen.bank
+www.delen.be/en
 www.directverify.in
 www.docswallet.com
 www.doctolib.(fr|de|it)
