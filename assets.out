@@ -212,7 +212,6 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
-*.das.eu
 *.deliveroo-data-test.io
 *.deliveroo-data.io
 *.deliveroo-data.net
@@ -232,7 +231,6 @@
 *.dibz.co.uk
 *.dm.gg
 *.dmcdn.net
-*.dns.eu
 *.docsend.com
 *.doctolib.(fr|de|it|com|net)
 *.domainscope.com
@@ -252,7 +250,6 @@
 *.epicgames.dev
 *.eu.floqast.app
 *.eu.newrelic.com
-*.eurid.eu
 *.europolitan.se
 *.exmo.com
 *.exmo.me
@@ -517,7 +514,6 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
-*.nic.eu
 *.niumba.com
 *.nnip.com
 *.nordvpn.com
@@ -618,7 +614,6 @@
 *.redmart.com (++)
 *.redmart.com (+++)
 *.reflexion.net
-*.registry.eu
 *.remove.bg
 *.rentalcars.com
 *.reposify.com
@@ -777,7 +772,6 @@
 *.unrealengine.com
 *.unrealtournament.com
 *.unscreen.com
-*.uphold.com
 *.vacationhomerentals.com
 *.venmo.com
 *.vennhypotheken.nl
@@ -797,7 +791,6 @@
 *.wenewmoments.com
 *.westernunion.*
 *.white.market
-*.whois.eu
 *.wimpmusic.com
 *.wise.com
 *.withairbnb.com
@@ -816,7 +809,6 @@
 *.xvservice.net
 *.xvtest.net
 *.xyzbmojn.net
-*.yadifa.eu
 *.yelp-support.com
 *.yelp.com
 *.yelpwifi.com
@@ -866,8 +858,8 @@
 1064216828
 107.167.96.0/19
 1080248000
+1099986434
 10x.redoxengine.com
-1101145849
 1118448159
 1127881507
 1174276185
@@ -2470,7 +2462,6 @@ Xfinity Home Hardware (items listed below in brief)
 Xfinity Home cameras
 Xfinity Home iOS mobile app
 Xfinity iOS mobile app
-YADIFA authoritative name server
 Yahoo Calendar
 Yahoo Elections
 Yahoo Finance
@@ -2613,7 +2604,6 @@ api-eu.floqast.app
 api-ne.mackeeper.com
 api-saas.dana.id
 api-sandbox.gocardless.com
-api-sandbox.uphold.com
 api-staging.airtable.com
 api-user.e2ro.com/*
 api-v2.frame.io
@@ -2752,7 +2742,6 @@ api.tripadvisor.com
 api.tumblr.com
 api.twilio.com
 api.unity.com
-api.uphold.com
 api.upwork.com/graphql
 api.usaa.com
 api.vhx.tv
@@ -3073,6 +3062,7 @@ com.Hyatt
 com.Slack
 com.acronis.abc
 com.acronis.acronistrueimage
+com.ada.app
 com.adobe.PSMobile
 com.adobe.echosign
 com.adobe.fas
@@ -3342,7 +3332,6 @@ com.ubnt.ucrm
 com.ubnt.umobile
 com.unibet.casino
 com.unibet.unibetpro
-com.uphold.wallet
 com.urbanclap.provider
 com.urbanclap.urbanclap
 com.valvesoftware.Steam
@@ -3946,6 +3935,7 @@ https://api.justeat-int.com
 https://api.kennasecurity.com
 https://api.letsexchange.io/doc
 https://api.linen.app/
+https://api.mobile.ada.com
 https://api.moneyboxapp.com/
 https://api.neogov.com
 https://api.netgear.com
@@ -4224,6 +4214,10 @@ https://canva.cn/developers
 https://canva.com/developers
 https://carbonneutral.ampol.com.au/
 https://cards.ampol.com.au
+https://care-navigation-admin-bff.int.eu.enterprise.ada.com
+https://care-navigation-admin-fe.int.eu.enterprise.ada.com
+https://care-navigation-bff.int.eu.enterprise.ada.com
+https://care-navigation-fe.int.eu.enterprise.ada.com
 https://careers.takeaway.com
 https://cash.app
 https://cashback.opera.com/
@@ -4301,7 +4295,12 @@ https://dbc-a1ba5468-749b.staging.cloud.databricks.com/
 https://dcfgatewaytst1.marriott.com/
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
+https://demo-prod-assessment-bff.ada-prod-eu.prod.gcp.ada.com
+https://demo-prod-hcp-report-bff.ada-prod-eu.prod.gcp.ada.com
+https://demo.enterprise.ada.com
+https://demo.handover.enterprise.ada.com
 https://demo.priceless.com/
+https://demo.sso.enterprise.ada.com
 https://design.glassdoor.com/*
 https://desk-api-{region}.sendbird.com
 https://dev.tutoring.classdojo.com
@@ -4837,6 +4836,7 @@ https://hub.immutable.com/
 https://huddle.bluejeans.com
 https://ichnaea.netflix.com
 https://icu.eu-west-2.outscale.com
+https://id.ada.com
 https://id.atlassian.com/login
 https://id.unity.com
 https://identity.bugcrowd.com/
@@ -6396,7 +6396,6 @@ munin-*.wordpress.org
 mus1.badoo.com
 music.amazon.com
 my.account.sony.com
-my.eurid.eu
 my.exness.com
 my.loanbuilder.com
 my.malwarebytes.com
@@ -6756,7 +6755,6 @@ s3://faraday-secret
 s3://faraday-uploads
 safe.tumblr.com
 salesportal.hyatt.com
-sandbox.uphold.com/dashboard
 scan.nextcloud.com
 scan.snapchat.com
 scapegoat.hyatt.com
@@ -7026,7 +7024,6 @@ updates.forescout.com
 updates.frame.io
 updates.nextcloud.com
 updatetracker.clario.co
-uphold.com/dashboard
 upld.krisp.ai
 upsell.hyatt.com
 url5145.krisp.ai
