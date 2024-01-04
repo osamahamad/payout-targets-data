@@ -784,7 +784,6 @@
 *.vine.co
 *.vladcazino.ro
 *.vod2.infomaniak.com
-*.volkskrant.nl
 *.vpn.hackerone.net
 *.wavecell.com
 *.wealthsimple.com
@@ -859,8 +858,6 @@
 107.167.96.0/19
 1080248000
 10x.redoxengine.com
-1114799709
-1114800186
 1118448159
 1127881507
 1174276185
@@ -2720,7 +2717,6 @@ api.smtp2go.com
 api.sokos.fi
 api.sonantic.io
 api.sorare.com
-api.soundtrackyourbrand.com
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -2896,7 +2892,6 @@ beta-cloud.acronis.com
 beta.rarible.com
 bigcommerce-adapter.judge.me
 billing-pci.etoro.com
-billing.api.soundtrackyourbrand.com
 billing.etoro.com
 billing.ring.com/*
 billingsupport.chaturbate.com
@@ -2951,13 +2946,11 @@ bugcrowd-oie-%username%-2.oktapreview.com
 bugcrowd.com
 bugs.opera.com
 bugzilla.mozilla.org
-builds.soundtrackyourbrand.com
 bullsheet.me
 burn.polygon.technology
 business.kayak.com
 business.linkedin.com
 business.snapchat.com
-business.soundtrackyourbrand.com
 business.tiktok.com
 businesshelp.snapchat.com
 buy.logitech.com
@@ -3263,7 +3256,6 @@ com.slack.slackmdm
 com.smartsheet.android
 com.smartsheet.smartsheet
 com.snapchat.android
-com.soundtrackyourbrand.soundtrack.player
 com.soundtrap.studioapp
 com.spotify.client
 com.spotify.kids
@@ -4106,7 +4098,6 @@ https://asana.com/download
 https://asymetrix.io/
 https://aurora.plus/
 https://auth-ywh.it.authentification.si.gouv.qc.ca
-https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.foxy.io/
@@ -4180,7 +4171,6 @@ https://bugcrowd.hotdoc.com.au/dashboard (Clinic Dashboard)
 https://bugs.opera.com/
 https://build.caffeine.tv/
 https://build.twilio.com/s/
-https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
@@ -5524,7 +5514,6 @@ https://projects.epam.com
 https://prs.payments.r1s-prod.com
 https://public-ipfs-mainnet.ternoa.network
 https://public.je-apis.com
-https://radio.api.soundtrackyourbrand.com/
 https://rarible.com/
 https://rbo.raiffeisen.ua/
 https://rc.fstr.rocks
@@ -6004,7 +5993,6 @@ https://www.sitemercado.com.br
 https://www.skidxb.com/
 https://www.skroutz.gr/
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
-https://www.soundtrackyourbrand.com
 https://www.sourcetreeapp.com/
 https://www.status-takeaway.com/status
 https://www.superdrug.com/blog/
@@ -6309,7 +6297,6 @@ m.krisha.kz
 m.poloniex.com
 m.reddit.com
 m.trendyol.com
-macOS app
 mackeeper.com
 magento.com
 magentocommerce.com
@@ -6423,7 +6410,6 @@ my.pressable.com
 my.snapchat.com
 my.swiftfinancial.com
 my.thesecurityteam.rocks
-myaccount.volkskrant.nl
 mydesktop.usaa.com
 mydesktop.wu.com
 myvpn.usaa.com
@@ -6823,7 +6809,6 @@ shop.monash.edu
 shop.shipt.com
 shop.thuisbezorgd.nl
 shop.tiktok.com
-shop.volkskrant.nl
 shop.wyndhamvacationownership.trisept.travel
 shopbylook.amazon.*
 shopify.plus
@@ -7115,7 +7100,6 @@ webhooks.booking.com
 webhooks.gamma.redoxstage.com
 webmail.usaa.com
 webtoolbox.notebleue.pro
-webwinkel.volkskrant.nl
 welcome.infomaniak.com
 werkenbijdefensie.nl
 werkenbijderet.nl
@@ -7454,8 +7438,6 @@ www.visa.com.sg
 www.visa.com.tr
 www.visa.com.tw
 www.visa.com.vn
-www.volkskrant.nl
-www.volkskrant.nl/abonnementen
 www.vrbo.com
 www.watsons.co.id
 www.watsons.co.th
