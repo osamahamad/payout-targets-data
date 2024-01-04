@@ -558,7 +558,6 @@
 *.paddypartners.com
 *.paddypower.com
 *.paddypower.it
-*.palm.tech
 *.paydiant.com
 *.paylution.com
 *.payoneer.com
@@ -858,7 +857,6 @@
 1064216828
 107.167.96.0/19
 1080248000
-1099986434
 10x.redoxengine.com
 1118448159
 1127881507
@@ -1335,7 +1333,6 @@ Burp Suite Pro/Community
 Butler for Trello
 C100447517
 C103149579
-CAMON Phone Series
 CDNJS
 Caffeine Android Application	
 Caffeine iOS Application
@@ -2025,7 +2022,6 @@ Other non-production infrastructure
 Other publicly-released plugins
 Other ynab.com domains not listed
 P2P functionality
-PHANTOM Phone Series
 PHP agent
 PIA APIs
 PIA Android application
@@ -2040,8 +2036,6 @@ PIA macOS application
 PNS (subdomains)
 PNS.HongKong.Android
 PNS.HongKong.iOS
-POP Phone Series
-POVA Phone Series
 Package Tracker - https://trello.com/power-ups/55a5d917446f51777421000d/package-tracker
 Packet Forward Middleware
 Paper Desktop Application
@@ -2144,7 +2138,6 @@ Ruby agent
 SBT Task Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1214713/sbt-task-plugin-for-bamboo?hosting=server
 SEEK mobile app for Android
 SEEK mobile app for iOS
-SPARK Phone Series
 SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope
 SSL for Jira - Server - https://marketplace.atlassian.com/apps/1211087/ssl-for-jira?hosting=server
 SSL/TLS
@@ -3062,7 +3055,6 @@ com.Hyatt
 com.Slack
 com.acronis.abc
 com.acronis.acronistrueimage
-com.ada.app
 com.adobe.PSMobile
 com.adobe.echosign
 com.adobe.fas
@@ -3072,7 +3064,6 @@ com.adobe.reader
 com.adobe.scan.android
 com.affirm.central.audit
 com.affirm.internal.hackerone
-com.afmobi.boomplayer
 com.airbnb.android
 com.airbnb.app
 com.amazon.clouddrive.photos
@@ -3175,7 +3166,6 @@ com.gww.km
 com.harvestapp
 com.hcom.android
 com.hey.app.ios
-com.hoffnung
 com.hotornot.app
 com.hotwire.hotels
 com.hypr.one
@@ -3250,17 +3240,14 @@ com.recordedfuture.mobile
 com.reddit.frontpage
 com.ring.neighborhoods
 com.ringapp
-com.rlk.weathers
 com.romwe
 com.scee.psxandroid
 com.scopely.monopolygo
 com.scopely.startrek
 com.scopely.yux
-com.scorpio.securitycom
 com.security.BatteryCam
 com.security.care
 com.sgiggle.Mango
-com.sh.smart.caller
 com.shipt.groceries
 com.shipt.shopper
 com.skypicker.Skypicker
@@ -3296,30 +3283,12 @@ com.streamlabs
 com.streamlabs.slobsrc
 com.stripe.android.dashboard
 com.studio.projects.zodia
-com.talpa.hibrowser
-com.talpa.share
 com.tideplatform.banking
 com.tiktok.tv
 com.tiktokshop.seller
 com.tinder
 com.tinyspeck.chatlyio
 com.toyopagroup.picaboo
-com.transsion.aivoiceassistant
-com.transsion.applock
-com.transsion.batterylab
-com.transsion.calendar
-com.transsion.camera
-com.transsion.deskclock
-com.transsion.faceid
-com.transsion.fmradio
-com.transsion.hilauncher
-com.transsion.letswitch
-com.transsion.notebook
-com.transsion.phonemaster
-com.transsion.plat.appupdate
-com.transsion.tecnospot
-com.transsion.trancare
-com.transsnet.store
 com.travelocity.android
 com.trip.android
 com.trip.ios
@@ -3354,7 +3323,6 @@ com.xiaomi.payment
 com.xiaomi.smarthome
 com.xoom.android.app
 com.xoom.app
-com.xui.xhide
 com.yahoo.aerogram
 com.yahoo.mobile.client.android.flickr
 com.yahoo.mobile.client.android.mail
@@ -3935,7 +3903,6 @@ https://api.justeat-int.com
 https://api.kennasecurity.com
 https://api.letsexchange.io/doc
 https://api.linen.app/
-https://api.mobile.ada.com
 https://api.moneyboxapp.com/
 https://api.neogov.com
 https://api.netgear.com
@@ -4214,10 +4181,6 @@ https://canva.cn/developers
 https://canva.com/developers
 https://carbonneutral.ampol.com.au/
 https://cards.ampol.com.au
-https://care-navigation-admin-bff.int.eu.enterprise.ada.com
-https://care-navigation-admin-fe.int.eu.enterprise.ada.com
-https://care-navigation-bff.int.eu.enterprise.ada.com
-https://care-navigation-fe.int.eu.enterprise.ada.com
 https://careers.takeaway.com
 https://cash.app
 https://cashback.opera.com/
@@ -4295,12 +4258,7 @@ https://dbc-a1ba5468-749b.staging.cloud.databricks.com/
 https://dcfgatewaytst1.marriott.com/
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
-https://demo-prod-assessment-bff.ada-prod-eu.prod.gcp.ada.com
-https://demo-prod-hcp-report-bff.ada-prod-eu.prod.gcp.ada.com
-https://demo.enterprise.ada.com
-https://demo.handover.enterprise.ada.com
 https://demo.priceless.com/
-https://demo.sso.enterprise.ada.com
 https://design.glassdoor.com/*
 https://desk-api-{region}.sendbird.com
 https://dev.tutoring.classdojo.com
@@ -4836,7 +4794,6 @@ https://hub.immutable.com/
 https://huddle.bluejeans.com
 https://ichnaea.netflix.com
 https://icu.eu-west-2.outscale.com
-https://id.ada.com
 https://id.atlassian.com/login
 https://id.unity.com
 https://identity.bugcrowd.com/
@@ -6415,7 +6372,6 @@ nav.naspers.com
 near.org
 neoket.net
 nessus.fr.cloud.gov
-net.bat.store
 net.geo.opera.com
 netlify-cdp-loader.netlify.app
 netlify-rum.netlify.app
@@ -6783,7 +6739,6 @@ secureauth.westernunion.com
 securemail.usaa.com
 secureui.starbucks.com
 securite.monespacesante.fr
-security.tecno.com
 securitytrails.com
 select.logitech.com
 selector.viator.com
@@ -6960,7 +6915,6 @@ taxis.booking.com
 team-irc.irccloud.com
 team.swapcard.com
 teams.krisp.ai
-tech.palm.id
 teleport.sh
 temp.rarible.com
 tequila.kiwi.com
@@ -7174,7 +7128,6 @@ www.bmw-motorrad.de
 www.bmw.de
 www.bookabach.co.nz
 www.bookingholdings.com
-www.boomplay.com
 www.bumble.com
 www.cardinalcommerce.com
 www.carrentals.com
@@ -7305,7 +7258,6 @@ www.mercadopago.com.mx
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mini.de
-www.mobile-phantom.com
 www.momondo.com
 www.monash.edu
 www.monespacesante.fr
@@ -7376,7 +7328,6 @@ www.takeaway.com/drivers
 www.takeaway.com/foodwiki/
 www.tapiola.fi
 www.teamfortress.com
-www.tecno-mobile.com
 www.temu.com
 www.theperfumeshop.com
 www.thuisbezorgd.nl/aanmelden
