@@ -276,8 +276,6 @@
 *.folioinvesting.com
 *.fortnite.com
 *.found.io
-*.gamma.be/*
-*.gamma.nl/*
 *.getbouncer.com
 *.getmeetio.com
 *.github.net
@@ -378,9 +376,6 @@
 *.instacart.com
 *.instacart.tools
 *.intercomassets.com / *.intercomcdn.com
-*.intergamma-test.nl
-*.intergamma.cloud
-*.intergamma.nl/*
 *.irccloud-cdn.com
 *.irccloud.com
 *.je-apis.com - UK legacy API
@@ -405,8 +400,6 @@
 *.justeat-int.com
 *.justeattakeaway.com
 *.kaleido.ai
-*.karwei.nl/*
-*.karweioutletstore.nl
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
 *.kes.kindredext.net
@@ -624,7 +617,6 @@
 *.remove.bg
 *.rentalcars.com
 *.reposify.com
-*.restintergamma.nl
 *.roblox.com
 *.rocketleague.com
 *.rockstargames.com
@@ -797,9 +789,6 @@
 *.wavecell.com
 *.wealthsimple.com
 *.wenewmoments.com
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
 *.westernunion.*
 *.white.market
 *.wimpmusic.com
@@ -905,7 +894,6 @@
 1541949985
 1552207792
 1557515848
-1558129454
 1589023233
 1591003012
 1608392803
@@ -1015,9 +1003,6 @@
 937011954453721119
 944011620
 947984433
-949829216
-950680989
-950693949
 961114489414094898
 965180355
 97.105.243.96/28
@@ -2656,6 +2641,8 @@ api.data.gov
 api.deezer.com
 api.deriv.com
 api.dex-trade.com
+api.digital.delen.be
+api.digital.delen.lu
 api.direct.playstation.com
 api.doppler.com
 api.editeur.preprod.monespacesante.fr
@@ -2784,6 +2771,9 @@ app.avtoelon.uz
 app.chime.com
 app.command.cysiv.com
 app.dashlane.com
+app.delen.be
+app.delen.ch
+app.delen.lu
 app.deriv.com
 app.faraday.io
 app.files.com
@@ -2871,6 +2861,8 @@ aus5.mozilla.org
 auth.23andme.com
 auth.bittrex.com
 auth.crypto.com
+auth.digital.delen.be
+auth.digital.delen.lu
 auth.foxy.io
 auth.indrive.tech
 auth.magic.link
@@ -2907,7 +2899,7 @@ basecamp3.exe
 basicattentiontoken.org
 bb.visa.com
 bd.visa.com
-be.gamma.app.android
+be.delen.digital
 beacon.netflix.com
 behance.net
 beta-cloud.acronis.com
@@ -3487,6 +3479,7 @@ dealflow.prosus.com
 dealflowapi.prosus.com
 debug.clairvoyance.indrive.tech
 decision.swiftfinancial.com
+delen/id1064839588
 delta.app
 demo.cloud.databricks.com
 demo.plaid.com
@@ -6077,7 +6070,6 @@ https://xyzbmojn.net/
 https://yeswehack.com
 https://youcouldbe.com
 https://yourstore.retail.lightspeed.app/signin/?return=%2F
-https://zabbix.intergamma.nl/*
 https://{account-code}-0.app.pentest.digistorm.com/admin
 https://{account-code}-0.app.pentest.digistorm.com/forms/enrol-form/start
 https://{account-code}-0.app.pentest.digistorm.com/forms/group-tours
@@ -6192,9 +6184,6 @@ judge.me
 k8s.gcr.io
 k8s.io
 kartaview.org
-kassa.gamma.be/*
-kassa.gamma.nl/*
-kassa.karwei.nl/*
 kb.databricks.com
 kbill.mackeeper.com
 kissandfly.com
@@ -6264,11 +6253,15 @@ logging.rarible.com
 logilife.logitech.com
 login-4ngbets.us.betfair.com
 login-ia.tvg.com
+login.delen.be
+login.delen.ch
+login.delen.lu
 login.en.travelbrandsagent.com
 login.fr.cloud.gov
 login.fr.travelbrandsagent.com
 login.infomaniak.com
 login.newrelic.com
+login.oyens.com
 login.pabets.tvg.com
 login.playcanvas.com
 login.starbucks.co.jp
@@ -6372,9 +6365,6 @@ mgmtpod-1.production.forescoutcloud.net
 mgs-gw.m.dana.id
 mgs.marriott.com
 mguest.usaa.com
-mijn.gamma.be/*
-mijn.gamma.nl/*
-mijn.karwei.nl/*
 mijnkombijdepolitie.nl
 miro.com
 mix-dev.monash.edu/*
@@ -6499,9 +6489,6 @@ nextcloud/viewer
 nextcloud/workflow_script
 nice.wfmusaa.com
 nicetryapril.na1.echosignsandbox.com
-nl.gamma.app.android
-nl.gamma.verf
-nl.karwei.app.android
 nmtracking.netflix.com
 no-reply.cloud
 node.e2ro.com/*
@@ -6897,6 +6884,7 @@ static.thuisbezorgd.nl
 static.usaa.com
 stats.nextcloud.com
 status.adobe.com
+status.delen.be
 status.larksuite.com
 status.mobile.monash
 status.oasis.io
@@ -6923,6 +6911,7 @@ streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streams.etoro.com
+sts.delen.be
 sts.etoro.com
 studentplacements.monash.edu
 studio-api.swapcard.com
@@ -7189,6 +7178,8 @@ www.bookabach.co.nz
 www.bookingholdings.com
 www.boomplay.com
 www.bumble.com
+www.cadelam.be
+www.cadelux.lu/en
 www.cardinalcommerce.com
 www.carrentals.com
 www.cheapcaribbean.com
@@ -7217,6 +7208,8 @@ www.dashlane.com
 www.data.gov
 www.datastax.com
 www.deezer.com
+www.delen.bank
+www.delen.be/en
 www.directverify.in
 www.docswallet.com
 www.doctolib.(fr|de|it)
@@ -7251,8 +7244,6 @@ www.fortress.com.hk
 www.fraedom.com
 www.funjet.com
 www.gamemaker.io
-www.gamma.be/*
-www.gamma.nl/*
 www.getaroom.com
 www.globalhotelchoices.com
 www.gocardless.com
@@ -7275,7 +7266,6 @@ www.infomaniak.com
 www.instacart.com
 www.irccloud.com
 www.jaybirdsport.com
-www.karwei.nl/*
 www.kayak.com
 www.kiwi.com
 www.kruidvat.be
