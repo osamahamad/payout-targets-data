@@ -212,6 +212,7 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
+*.das.eu
 *.deliveroo-data-test.io
 *.deliveroo-data.io
 *.deliveroo-data.net
@@ -231,6 +232,7 @@
 *.dibz.co.uk
 *.dm.gg
 *.dmcdn.net
+*.dns.eu
 *.docsend.com
 *.doctolib.(fr|de|it|com|net)
 *.domainscope.com
@@ -250,6 +252,7 @@
 *.epicgames.dev
 *.eu.floqast.app
 *.eu.newrelic.com
+*.eurid.eu
 *.europolitan.se
 *.exmo.com
 *.exmo.me
@@ -514,6 +517,7 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
+*.nic.eu
 *.niumba.com
 *.nnip.com
 *.nordvpn.com
@@ -613,6 +617,7 @@
 *.redmart.com (++)
 *.redmart.com (+++)
 *.reflexion.net
+*.registry.eu
 *.remove.bg
 *.rentalcars.com
 *.reposify.com
@@ -790,6 +795,7 @@
 *.wenewmoments.com
 *.westernunion.*
 *.white.market
+*.whois.eu
 *.wimpmusic.com
 *.wise.com
 *.withairbnb.com
@@ -808,6 +814,7 @@
 *.xvservice.net
 *.xvtest.net
 *.xyzbmojn.net
+*.yadifa.eu
 *.yelp-support.com
 *.yelp.com
 *.yelpwifi.com
@@ -828,6 +835,7 @@
 *emailsignature.trustpilot.com
 *invitations-api.trustpilot.com
 *legal.trustpilot.com
+*pwn.intigriti.rocks
 *racing.fanduel.com
 *share.trustpilot.com
 *signalservice.comcast.net
@@ -858,8 +866,6 @@
 107.167.96.0/19
 1080248000
 10x.redoxengine.com
-1114799709
-1114800186
 1118448159
 1127881507
 1174276185
@@ -2457,6 +2463,7 @@ Xfinity Home Hardware (items listed below in brief)
 Xfinity Home cameras
 Xfinity Home iOS mobile app
 Xfinity iOS mobile app
+YADIFA authoritative name server
 Yahoo Calendar
 Yahoo Elections
 Yahoo Finance
@@ -2719,7 +2726,6 @@ api.smtp2go.com
 api.sokos.fi
 api.sonantic.io
 api.sorare.com
-api.soundtrackyourbrand.com
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -2895,7 +2901,6 @@ beta-cloud.acronis.com
 beta.rarible.com
 bigcommerce-adapter.judge.me
 billing-pci.etoro.com
-billing.api.soundtrackyourbrand.com
 billing.etoro.com
 billing.ring.com/*
 billingsupport.chaturbate.com
@@ -2950,13 +2955,11 @@ bugcrowd-oie-%username%-2.oktapreview.com
 bugcrowd.com
 bugs.opera.com
 bugzilla.mozilla.org
-builds.soundtrackyourbrand.com
 bullsheet.me
 burn.polygon.technology
 business.kayak.com
 business.linkedin.com
 business.snapchat.com
-business.soundtrackyourbrand.com
 business.tiktok.com
 businesshelp.snapchat.com
 buy.logitech.com
@@ -3262,7 +3265,6 @@ com.slack.slackmdm
 com.smartsheet.android
 com.smartsheet.smartsheet
 com.snapchat.android
-com.soundtrackyourbrand.soundtrack.player
 com.soundtrap.studioapp
 com.spotify.client
 com.spotify.kids
@@ -4105,7 +4107,6 @@ https://asana.com/download
 https://asymetrix.io/
 https://aurora.plus/
 https://auth-ywh.it.authentification.si.gouv.qc.ca
-https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.foxy.io/
@@ -4179,7 +4180,6 @@ https://bugcrowd.hotdoc.com.au/dashboard (Clinic Dashboard)
 https://bugs.opera.com/
 https://build.caffeine.tv/
 https://build.twilio.com/s/
-https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
@@ -5522,7 +5522,6 @@ https://profile.pentest.clicsante.ca
 https://projects.epam.com
 https://public-ipfs-mainnet.ternoa.network
 https://public.je-apis.com
-https://radio.api.soundtrackyourbrand.com/
 https://rarible.com/
 https://rbo.raiffeisen.ua/
 https://rc.fstr.rocks
@@ -5957,7 +5956,6 @@ https://www.sitemercado.com.br
 https://www.skidxb.com/
 https://www.skroutz.gr/
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
-https://www.soundtrackyourbrand.com
 https://www.sourcetreeapp.com/
 https://www.status-takeaway.com/status
 https://www.superdrug.com/blog/
@@ -6262,7 +6260,6 @@ m.krisha.kz
 m.poloniex.com
 m.reddit.com
 m.trendyol.com
-macOS app
 mackeeper.com
 magento.com
 magentocommerce.com
@@ -6365,6 +6362,7 @@ munin-*.wordpress.org
 mus1.badoo.com
 music.amazon.com
 my.account.sony.com
+my.eurid.eu
 my.exness.com
 my.loanbuilder.com
 my.malwarebytes.com
@@ -7223,6 +7221,7 @@ www.iciparisxl.lu
 www.iciparisxl.nl
 www.infomaniak.com
 www.instacart.com
+www.intigriti.com
 www.irccloud.com
 www.jaybirdsport.com
 www.kayak.com
