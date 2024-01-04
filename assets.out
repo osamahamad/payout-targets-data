@@ -2157,9 +2157,6 @@ Shopify Mobile Applications
 Shopify Scripts Platform
 Shopify Third Party Apps
 Shopify Third Party Store
-SimScale API
-SimScale Platform
-SimScale Website
 Simple Object Storage (SOS)
 Simplify Commerce - www.simplify.com/commerce/ 
 Skyscanner Android App
@@ -2342,7 +2339,6 @@ USAA Mobile Application for Android
 USAA Mobile Application for iOS
 USB Flash Drive Control
 USB Unifying and LightSpeed Receivers
-Ubisoft
 Ultimate Ears Speakers
 UniFi
 UniFi Access
@@ -2602,8 +2598,10 @@ api-ne.mackeeper.com
 api-saas.dana.id
 api-sandbox.gocardless.com
 api-staging.airtable.com
+api-staging.venly.market
 api-user.e2ro.com/*
 api-v2.frame.io
+api-wallet.venly.io
 api.23andme.com
 api.account.clario.co
 api.adm.cloud.com
@@ -2613,6 +2611,7 @@ api.alasco.de
 api.amazon.com
 api.amazonalexa.com/*
 api.anytask.thesecurityteam.rocks
+api.arkane.network
 api.atg.se
 api.au.frontegg.com
 api.avax-test.network
@@ -2741,6 +2740,7 @@ api.twilio.com
 api.unity.com
 api.upwork.com/graphql
 api.usaa.com
+api.venly.market
 api.vhx.tv
 api.vimeo.com
 api.watsons.co.id
@@ -3354,8 +3354,10 @@ configure.mini.de
 confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
+connect.arkane.network
 connect.deezer.com
 connect.monash.edu
+connect.venly.io
 consensys.net
 console.aiven.io
 console.chainstack.com
@@ -3547,8 +3549,10 @@ eu.remix.com
 eu1.badoo.com
 evening-earth.gamma.redoxstage.com
 event.clario.co
+events-staging.venly.market
 events.launchdarkly.com
 events.onecloud.harman.com
+events.venly.market
 exchange.adobe.com
 exchange.opera.com
 exmo.com
@@ -6218,6 +6222,7 @@ logging.rarible.com
 logilife.logitech.com
 login-4ngbets.us.betfair.com
 login-ia.tvg.com
+login.arkane.network
 login.en.travelbrandsagent.com
 login.fr.cloud.gov
 login.fr.travelbrandsagent.com
@@ -6229,6 +6234,7 @@ login.starbucks.co.jp
 login.swapcard.com
 login.tide.co
 login.tvg.com
+login.venly.io
 login.www.vaxvacationaccess.com
 logistics.amazon.*
 logitech.zendesk.com
@@ -6832,6 +6838,7 @@ staging-xray.october.eu
 staging.airtable.com
 staging.gearset.com
 staging.magisto.com
+staging.venly.market
 staking-api.polygon.technology
 staking-uat.codefi.network
 staking.codefi.network
@@ -7012,6 +7019,7 @@ vault.omise.co
 vcc-*.8x8.com
 vcn-hackerone.affirm-odin.com
 vendorss.usaa.com
+venly.market
 verify.rapyd.net
 verkkopalvelu.tapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
@@ -7039,6 +7047,7 @@ wallet.etoro.com
 wallet.near.org
 wallet.oasis.io
 wallet.polygon.technology
+wallet.venly.io
 walletproxy.tapayments.com
 walletproxy1.tapayments.com
 walletproxy2.tapayments.com
