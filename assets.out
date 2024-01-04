@@ -47,6 +47,8 @@
 *.LCX.com
 *.YOUR-TESTING-STORE.mybigcommerce.com/
 *.a.exodus.io
+*.acc-pub.mobilevikings.be
+*.acc.mobilevikings.be
 *.acorns.com
 *.acrobat.com
 *.acronis.com
@@ -224,7 +226,9 @@
 *.deriv.com
 *.derivws.com
 *.designify.com
+*.dev-pub.mobilevikings.be
 *.dev.grindr.io
+*.dev.mobilevikings.be
 *.devicelock.com
 *.dex-trade.com
 *.dh-commerce.com 
@@ -462,6 +466,7 @@
 *.marcus.com
 *.mariacasino.com
 *.marketo.com
+*.mas.mobilevikings.be
 *.mattermost.com
 *.maximum.nl
 *.mb-cosmos.com
@@ -481,6 +486,7 @@
 *.miwifi.com
 *.mixamo.com
 *.mmcdn.com
+*.mobilevikings.be
 *.mona.co
 *.moonpay.com
 *.moonpaycloud.com
@@ -574,6 +580,8 @@
 *.pods.link
 *.popjam.com
 *.ppbdev.com
+*.prd-pub.mobilevikings.be
+*.prd.mobilevikings.be
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
@@ -696,6 +704,8 @@
 *.spinaway.com
 *.sportinglife.com
 *.sprint.com
+*.sqills.com
+*.sqills.team
 *.square.com
 *.squareup.com
 *.srvcs.tumblr.com
@@ -2741,6 +2751,7 @@ api.tripadvisor.com
 api.tumblr.com
 api.twilio.com
 api.unity.com
+api.unleashed.be
 api.upwork.com/graphql
 api.usaa.com
 api.vhx.tv
@@ -6160,6 +6171,7 @@ itmss://apps.apple.com/us/app/id1510360750?ign-mscache=1
 itv7.itv.com
 iwgo.westernunion.com
 ix2smbdyjt.infomaniak.site
+jimmobile.be
 jira.grab.com
 jira.hyattdev.com
 jira.logitech.com
@@ -6345,6 +6357,7 @@ metasearch-api.booking.com
 metrics.deribit.com
 metrobyt-mobile.com
 meu1.badoo.com
+mgm.mobilevikings.be
 mgmt-sensors.iris.acceptance.forescoutcloud.net
 mgmt-sensors.iris.production.forescoutcloud.net
 mgmtpod-1-dashboard.production.forescoutcloud.net
@@ -6368,6 +6381,7 @@ mobileapp.hyatt.com
 mobileapp.opsgenie.com
 mobileapps.usaa.com
 mobilemarketing.adobe.com
+mobilevikings.be
 mod.reddit.com
 monash.app.nutrip.com
 moneybird.com
@@ -7025,6 +7039,7 @@ user-profile-staging.8x8.com
 user-profile.8x8.com
 usercontent.apps.nextcloud.com
 utv.usaa.com
+uwa.mobilevikings.be
 uz.avtoelon
 v.utv.usaa.com
 vacations.grandclass.grandvelas.com
@@ -7047,6 +7062,9 @@ verovelvollisuustiedot.lahitapiola.fi
 vfstasheer.com
 vhx.tv
 via.rider
+vikingco.be
+vikingdeals.be
+vikinglab.be
 vimeo.magisto.com
 vimeopro.com
 visa.co.cr
@@ -7061,6 +7079,7 @@ vlapi.usaa.com
 voapi.8x8.com
 vod.infomaniak.com
 volans.tech
+vpn.mobilevikings.be
 vpn.mozilla.org
 vroid.com
 waf.cumulusfire.net
