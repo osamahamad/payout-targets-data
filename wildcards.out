@@ -55,6 +55,7 @@
 *.app.spacelift.dev
 *.arlo.com (production servers only)
 *.arloxcld.com (production servers only)
+*.aroundtheworld.tomorrowland.com
 *.artist.link
 *.artstation.com
 *.arubanetworks.com
@@ -182,7 +183,6 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
-*.das.eu
 *.deliveroo-data-test.io
 *.deliveroo-data.io
 *.deliveroo-data.net
@@ -202,7 +202,6 @@
 *.dibz.co.uk
 *.dm.gg
 *.dmcdn.net
-*.dns.eu
 *.docsend.com
 *.doctolib.(fr|de|it|com|net)
 *.domainscope.com
@@ -222,7 +221,6 @@
 *.epicgames.dev
 *.eu.floqast.app
 *.eu.newrelic.com
-*.eurid.eu
 *.europolitan.se
 *.exmo.com
 *.exmo.me
@@ -471,6 +469,10 @@
 *.myteksi.net
 *.namestudio.com
 *.namestudioforsocial.com
+*.napoleoncasino.be
+*.napoleondice.be
+*.napoleongames.be
+*.napoleonsports.be
 *.naspers.com
 *.neat.com.hk
 *.neat.hk
@@ -487,7 +489,6 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
-*.nic.eu
 *.niumba.com
 *.nnip.com
 *.nordvpn.com
@@ -587,10 +588,10 @@
 *.redmart.com (++)
 *.redmart.com (+++)
 *.reflexion.net
-*.registry.eu
 *.remove.bg
 *.rentalcars.com
 *.reposify.com
+*.ripe.net
 *.roblox.com
 *.rocketleague.com
 *.rockstargames.com
@@ -720,6 +721,7 @@
 *.tinderops.net
 *.tinderwebstaging.com
 *.tmall.com
+*.tomorrowland.com
 *.touchtechpayments.com
 *.tr.ee
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
@@ -746,6 +748,7 @@
 *.unrealengine.com
 *.unrealtournament.com
 *.unscreen.com
+*.uphold.com
 *.vacationhomerentals.com
 *.venmo.com
 *.vennhypotheken.nl
@@ -765,7 +768,6 @@
 *.wenewmoments.com
 *.westernunion.*
 *.white.market
-*.whois.eu
 *.wimpmusic.com
 *.wise.com
 *.withairbnb.com
@@ -784,7 +786,6 @@
 *.xvservice.net
 *.xvtest.net
 *.xyzbmojn.net
-*.yadifa.eu
 *.yelp-support.com
 *.yelp.com
 *.yelpwifi.com
