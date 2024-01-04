@@ -246,6 +246,8 @@
 *.folioinvesting.com
 *.fortnite.com
 *.found.io
+*.gamma.be/*
+*.gamma.nl/*
 *.getbouncer.com
 *.getmeetio.com
 *.github.net
@@ -346,6 +348,9 @@
 *.instacart.com
 *.instacart.tools
 *.intercomassets.com / *.intercomcdn.com
+*.intergamma-test.nl
+*.intergamma.cloud
+*.intergamma.nl/*
 *.irccloud-cdn.com
 *.irccloud.com
 *.je-apis.com - UK legacy API
@@ -370,6 +375,8 @@
 *.justeat-int.com
 *.justeattakeaway.com
 *.kaleido.ai
+*.karwei.nl/*
+*.karweioutletstore.nl
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
 *.kes.kindredext.net
@@ -383,6 +390,7 @@
 *.lab.epam.com
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
+*.lansweeper.com
 *.lazada-seller.cn
 *.lazada.(sg|vn|co.id|co.th|com|com.ph|com.my) (+)
 *.lazada.(sg|vn|co.id|co.th|com|com.ph|com.my) (++)
@@ -586,6 +594,7 @@
 *.remove.bg
 *.rentalcars.com
 *.reposify.com
+*.restintergamma.nl
 *.roblox.com
 *.rocketleague.com
 *.rockstargames.com
@@ -722,6 +731,9 @@
 *.transferwise.com
 *.trello.services
 *.trip.com
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tt.omtrdc.net
@@ -758,6 +770,9 @@
 *.wavecell.com
 *.wealthsimple.com
 *.wenewmoments.com
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
 *.westernunion.*
 *.white.market
 *.wimpmusic.com

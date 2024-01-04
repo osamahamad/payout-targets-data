@@ -1,0 +1,67 @@
+*.gamma.be/*
+*.gamma.nl/*
+*.intergamma-test.nl
+*.intergamma.cloud
+*.intergamma.nl/*
+*.karwei.nl/*
+*.karweioutletstore.nl
+*.lansweeper.com
+*.restintergamma.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
+1558129454
+949829216
+950680989
+950693949
+C# SDK
+Java SDK
+OT scanner
+PHP SDK
+React Native SDK
+Rust SDK
+TrueLayer for Magento (Magento plugin)
+TrueLayer for WooCommerce (WordPress plugin)
+api.lansweeper.com
+api.truelayer[-sandbox].com
+app.lansweeper.com
+app.lansweeper.com/trial
+auth.truelayer[-sandbox].com
+autoupdateapi.lansweeper.com
+backoffice.lansweeper.com
+be.gamma.app.android
+console-backend.truelayer[-sandbox].com
+console.truelayer[-sandbox].com
+docs.lansweeper.com
+edge.lansweeper.com
+hpp.truelayer[-sandbox].com
+https://zabbix.intergamma.nl/*
+kassa.gamma.be/*
+kassa.gamma.nl/*
+kassa.karwei.nl/*
+login-api.truelayer[-sandbox].com
+login.lansweeper.com
+login.truelayer[-sandbox].com
+mijn.gamma.be/*
+mijn.gamma.nl/*
+mijn.karwei.nl/*
+nl.gamma.app.android
+nl.gamma.verf
+nl.karwei.app.android
+on-premises software
+onboarding-api.truelayer.com
+pay-api.truelayer[-sandbox].com
+pay.truelayer[-sandbox].com
+paydirect.truelayer[-sandbox].com
+payment.truelayer[-sandbox].com
+payouts.truelayer[-sandbox].com
+truelayer-signing
+users-api.truelayer.com
+webhooks.truelayer[-sandbox].com
+www.gamma.be/*
+www.gamma.nl/*
+www.karwei.nl/*
+www.lansweeper.com
