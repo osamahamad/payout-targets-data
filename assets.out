@@ -74,6 +74,7 @@
 *.alimama.com
 *.aliyun-inc.com
 *.aliyun.com
+*.allegro.pl.allegrosandbox.pl
 *.amplitude-game.com
 *.apex-football.com
 *.api.dailymotion.com
@@ -154,6 +155,7 @@
 *.bugcrowd.com/auth/*
 *.byairbnb.com
 *.bybit.com
+*.c-point.be
 *.canva-apps.cn
 *.canva-apps.com
 *.canva.cn
@@ -375,6 +377,7 @@
 *.infrastructure.newrelic.com
 *.instacart.com
 *.instacart.tools
+*.intel.com
 *.intercomassets.com / *.intercomcdn.com
 *.irccloud-cdn.com
 *.irccloud.com
@@ -572,6 +575,8 @@
 *.playstation.net
 *.pods.link
 *.popjam.com
+*.portofantwerp.com
+*.portofantwerpbruges.com
 *.ppbdev.com
 *.preempt.com
 *.preemptsecurity.com
@@ -647,7 +652,6 @@
 *.sellzone.com
 *.semrush.com
 *.semrush.net
-*.sentiance.com
 *.seoab.io
 *.seoquake.com
 *.services-prod.nsvcs.net
@@ -902,6 +906,7 @@
 167.187.0.0/16
 1671793296
 185.26.180.0/22
+188.118.8.0/25
 192.251.123.0/24
 192.251.124.0/24
 192.251.125.0/24
@@ -1001,6 +1006,7 @@
 930441707
 936983378
 937011954453721119
+94.107.237.192/26
 944011620
 947984433
 961114489414094898
@@ -1575,6 +1581,7 @@ Finicity Decisioning
 Finicity- Data Services
 FireTV
 Firefox extension (download at:   https://addons.mozilla.org/firefox/addon/pinterest/)
+Firmware
 FishEye
 Flash Player
 Fleet Server
@@ -1644,6 +1651,7 @@ Hackathon for Jira - Cloud - https://marketplace.atlassian.com/apps/1214757/hack
 Halp Answers for Confluence in Slack - Cloud - https://marketplace.atlassian.com/apps/1222365/halp-answers-for-confluence-in-slack?hosting=cloud
 Halp application for Microsoft Teams
 Halp application for Slack
+Hardware
 Hardware found on https://www.ezviz.com/category/security-wifi-cameras
 Hardware found on https://www.ezviz.com/category/smart-home
 Harmony Remote Software
@@ -2171,6 +2179,7 @@ Smartchain Blockchain
 Snaps
 Snaps Development Packages
 Social Media Accounts
+Software
 Software Supply Chain
 Sophos Central
 SoundCloud Android app
@@ -2592,6 +2601,8 @@ apay-us.amazon.com
 api*.netflix.com
 api-*.soundcloud.com
 api-a.usaa.com
+api-accpt.portofantwerp.com
+api-accpt.portofantwerpbruges.com
 api-boards.qwant.com
 api-eu.floqast.app
 api-ne.mackeeper.com
@@ -2693,6 +2704,8 @@ api.pinterest.com
 api.planethoster.net
 api.pns.hk
 api.poloniex.com
+api.portofantwerp.com
+api.portofantwerpbruges.com
 api.preprod.monespacesante.fr
 api.production.cde.tamg.cloud
 api.profiler.firefox.com
@@ -2707,7 +2720,6 @@ api.rezserver.com
 api.ring.com/*
 api.segment.io
 api.sendgrid.com
-api.sentiance.com
 api.sharefile.com
 api.sharefile.eu
 api.shipt.com
@@ -2825,10 +2837,14 @@ app.watsons.com.tr
 appapi.neuralprisma.com
 applause1.magisto.com
 applications.frame.io
+apps-accpt.portofantwerp.com
+apps-accpt.portofantwerpbruges.com
 apps.apple.com/fr/app/mon-espace-sant%C3%A9/id1589255019 (iOS)
 apps.apple.com/us/app/crowdstrike-falcon/id1458815656
 apps.meraki.io
 apps.nextcloud.com
+apps.portofantwerp.com
+apps.portofantwerpbruges.com
 apps.zendesk.com
 aqtooling.com
 aquiris.com.br
@@ -2837,6 +2853,10 @@ aquiristech.com
 argocd.indrive.dev
 arrive-server.shopifycloud.com
 artifactory.corp.mongodb.com/
+as2-accpt.portofantwerp.com
+as2-accpt.portofantwerpbruges.com
+as2.portofantwerp.com
+as2.portofantwerpbruges.com
 asana.com
 asiointi.lahitapiola.fi
 askpam.ai
@@ -3248,8 +3268,6 @@ com.scopely.startrek
 com.scopely.yux
 com.security.BatteryCam
 com.security.care
-com.sentiance.journeys
-com.sentiance.journeys2
 com.sgiggle.Mango
 com.shipt.groceries
 com.shipt.shopper
@@ -3365,7 +3383,6 @@ content.usaa.com
 contile.services.mozilla.com
 contrastsecurity.dev
 contributor.stock.adobe.com
-controltower.sentiance.com
 core.yoti.com
 cornershopapp.android
 corp.badoo.com
@@ -3473,6 +3490,7 @@ dex-trade.com
 diagrams.fr.cloud.gov
 dic.pixiv.net
 digili.s-cloud.fi
+digitalspecs.portofantwerpbruges.com
 direct-hackerone.affirm-odin.com
 direct.playstation.com
 discuss.newrelic.com
@@ -3492,7 +3510,6 @@ docs.near.org
 docs.newrelic.com
 docs.nextcloud.com
 docs.redoxengine.com
-docs.sentiance.com
 documentcloud.adobe.com
 documents.adobe.com
 donate.mastercard.com
@@ -4065,7 +4082,6 @@ https://apps.apple.com/us/app/paper-by-dropbox/id1126623662
 https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/pionex/id1485348891
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
-https://apps.apple.com/us/app/rac-go/id6444858115
 https://apps.apple.com/us/app/share-rewards/id1465450657
 https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
@@ -5425,7 +5441,6 @@ https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&
 https://play.google.com/store/apps/details?id=com.probit.app.android2.release.global
 https://play.google.com/store/apps/details?id=com.sc.lazada&hl=en_SG
 https://play.google.com/store/apps/details?id=com.scu.bsafe
-https://play.google.com/store/apps/details?id=com.sentiance.saferdriver
 https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.squareup.cash
@@ -6143,7 +6158,6 @@ infrastructure.eu.newrelic.com
 infrastructure.newrelic.com
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
-insights-by-sentiance/id1608074635
 insights.deribit.com
 insights.eu.newrelic.com
 insights.newrelic.com
@@ -6191,8 +6205,6 @@ jobs.kiwi.com
 jobs.krisp.ai
 jobs.marriott.com
 jointhemoment.net
-journeys-2/id984087229?mt=8
-journeys-api.sentiance.com/v2
 jp.naver.line.android
 js.crypto.com
 js.stripe.com
@@ -6269,6 +6281,7 @@ log.rarible.com
 logging.rarible.com
 logilife.logitech.com
 login-4ngbets.us.betfair.com
+login-accpt.portofantwerpbruges.com
 login-ia.tvg.com
 login.en.travelbrandsagent.com
 login.fr.cloud.gov
@@ -6277,6 +6290,7 @@ login.infomaniak.com
 login.newrelic.com
 login.pabets.tvg.com
 login.playcanvas.com
+login.portofantwerpbruges.com
 login.starbucks.co.jp
 login.swapcard.com
 login.tide.co
@@ -6352,6 +6366,10 @@ matomo.cloud
 matrix.agent.*.tchap.gouv.fr
 matrix.redditspace.com
 maxcldapp.net
+maximo-accpt.portofantwerp.com
+maximo-accpt.portofantwerpbruges.com
+maximo.portofantwerp.com
+maximo.portofantwerpbruges.com
 maximum-status.com
 mcssl.com
 me.store.ui.com
@@ -6408,6 +6426,8 @@ mta-sts.wearehackerone.com
 munin-*.wordpress.org
 mus1.badoo.com
 music.amazon.com
+my-accpt.portofantwerp.com
+my-accpt.portofantwerpbruges.com
 my.account.sony.com
 my.exness.com
 my.loanbuilder.com
@@ -6416,6 +6436,8 @@ my.monash
 my.plaid.com
 my.planethoster.com
 my.playstation.com
+my.portofantwerp.com
+my.portofantwerpbruges.com
 my.pressable.com
 my.snapchat.com
 my.swiftfinancial.com
@@ -6541,6 +6563,7 @@ open.larksuite.com
 openai.com
 openapi.starbucks.com
 opensea.io
+oprc.portofantwerpbruges.com
 ops-tool.internal.bbp-mettle.co.uk
 opsgenie-bamboo-plugin - Server - https://marketplace.atlassian.com/apps/1224300/opsgenie-bamboo-plugin?hosting=server
 opslogin.fr.cloud.gov
@@ -6700,6 +6723,8 @@ rarible.com
 read.amazon.com
 reddit.secure.force.com
 redditforbusiness.com
+register-accpt.portofantwerp.com
+register-accpt.portofantwerpbruges.com
 registre.notebleue.pro
 registry.gitlab.com
 rei.com
@@ -6802,13 +6827,21 @@ sensei.pixiv.net
 serveur10.notebleue.com
 service.platform.tripadvisor.com
 service.tvg.com
+servicedesk-accpt.portofantwerp.com
+servicedesk-accpt.portofantwerpbruges.com
+servicedesk.portofantwerp.com
+servicedesk.portofantwerpbruges.com
 sf-rp-eu.sharefile.com
 sf-rp-us.sharefile.com
 sf-rp.sharefile.com
 sftp.gamma.redoxstage.com
 sh.reddit.com
 shapeshift.com
+share-accpt.portofantwerp.com
+share-accpt.portofantwerpbruges.com
 share.doppler.com
+share.portofantwerp.com
+share.portofantwerpbruges.com
 shavar.services.mozilla.com
 shop.adobe.com
 shop.app
@@ -7105,6 +7138,10 @@ web.grindr.com
 web.snapchat.com
 web.tide.co
 webapi.clario.co
+webapps-accpt.portofantwerp.com
+webapps-accpt.portofantwerpbruges.com
+webapps.portofantwerp.com
+webapps.portofantwerpbruges.com
 webhooks-api-experimental.codefi.network
 webhooks.booking.com
 webhooks.gamma.redoxstage.com
@@ -7119,9 +7156,13 @@ whatsnew.krisp.ai
 whitebit.com
 widget.cloudinary.com
 widget.rentalcars.com
+wiki-accpt.portofantwerp.com
+wiki-accpt.portofantwerpbruges.com
 wiki.cs.money
 wiki.grab.com
 wiki.near.org
+wiki.portofantwerp.com
+wiki.portofantwerpbruges.com
 wiki.teamfortress.com
 wiki.ui.com
 winecellar.zomato.com
@@ -7329,6 +7370,7 @@ www.omise.co
 www.opera.com
 www.opn.ooo
 www.orbitz.com
+www.oursustainableport.com
 www.ovh.com
 www.ovh.com/manager
 www.pangleglobal.com
@@ -7338,6 +7380,7 @@ www.pixiv.net
 www.planethoster.com
 www.pns.hk
 www.poloniex.com
+www.portofantwerpbruges.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.com
 www.practicalmoneyskills.org
