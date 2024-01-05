@@ -154,8 +154,6 @@
 *.cloudvector.com/
 *.clubhouse.com
 *.clubhouseapi.com
-*.cm.com
-*.cmtelecom.com
 *.coda.io/*
 *.code.gov
 *.cognitiveperformer.com
@@ -376,7 +374,14 @@
 *.kdrive.infomaniak.com
 *.kes.kindredext.net
 *.kindredext.net
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
 *.kiwi.com
+*.klubcinema.fr
 *.kolikkopelit.com
 *.korta.is
 *.kortathjonustan.is
@@ -385,6 +390,7 @@
 *.lab.epam.com
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
+*.landmarkcinemas.com
 *.lazada-seller.cn
 *.lazada.(sg|vn|co.id|co.th|com|com.ph|com.my) (+)
 *.lazada.(sg|vn|co.id|co.th|com|com.ph|com.my) (++)
@@ -442,6 +448,7 @@
 *.mdvmm.xyz
 *.mediatonic.co.uk
 *.meebits.app
+*.megatix.be
 *.melonapp.com
 *.menulog.co.nz - New Zealand food ordering
 *.menulog.com.au - Australia food ordering
@@ -452,6 +459,7 @@
 *.miui.com
 *.miwifi.com
 *.mixamo.com
+*.mjrtheatres.com
 *.mmcdn.com
 *.mona.co
 *.moonpay.com
@@ -708,7 +716,6 @@
 *.testnet.immutable.com
 *.threatdown.com
 *.thuisbezorgd.nl
-*.ticketing.cm.com
 *.tickets.ua
 *.tidal.com
 *.tidalhifi.com
