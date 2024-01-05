@@ -154,7 +154,6 @@
 *.bugcrowd.com/auth/*
 *.byairbnb.com
 *.bybit.com
-*.c-point.be
 *.canva-apps.cn
 *.canva-apps.com
 *.canva.cn
@@ -696,8 +695,6 @@
 *.spinaway.com
 *.sportinglife.com
 *.sprint.com
-*.sqills.com
-*.sqills.team
 *.square.com
 *.squareup.com
 *.srvcs.tumblr.com
@@ -904,7 +901,6 @@
 167.187.0.0/16
 1671793296
 185.26.180.0/22
-188.118.8.0/25
 192.251.123.0/24
 192.251.124.0/24
 192.251.125.0/24
@@ -1004,7 +1000,6 @@
 930441707
 936983378
 937011954453721119
-94.107.237.192/26
 944011620
 947984433
 961114489414094898
@@ -2295,7 +2290,9 @@ Tidal Client for iOS
 Tidal Desktop Client
 Tidal Official Clients (e.g. Sonos, Tesla, etc.)
 Tier 1
+Tier 1 subdomains
 Tier 2
+Tier 3 subdomains
 Tier A - Core Assets
 Tier B - Non Core (Bitmoji, Playcanvas)
 Tier1
@@ -2596,8 +2593,6 @@ apay-us.amazon.com
 api*.netflix.com
 api-*.soundcloud.com
 api-a.usaa.com
-api-accpt.portofantwerp.com
-api-accpt.portofantwerpbruges.com
 api-boards.qwant.com
 api-eu.floqast.app
 api-ne.mackeeper.com
@@ -2699,8 +2694,6 @@ api.pinterest.com
 api.planethoster.net
 api.pns.hk
 api.poloniex.com
-api.portofantwerp.com
-api.portofantwerpbruges.com
 api.preprod.monespacesante.fr
 api.production.cde.tamg.cloud
 api.profiler.firefox.com
@@ -2832,14 +2825,10 @@ app.watsons.com.tr
 appapi.neuralprisma.com
 applause1.magisto.com
 applications.frame.io
-apps-accpt.portofantwerp.com
-apps-accpt.portofantwerpbruges.com
 apps.apple.com/fr/app/mon-espace-sant%C3%A9/id1589255019 (iOS)
 apps.apple.com/us/app/crowdstrike-falcon/id1458815656
 apps.meraki.io
 apps.nextcloud.com
-apps.portofantwerp.com
-apps.portofantwerpbruges.com
 apps.zendesk.com
 aqtooling.com
 aquiris.com.br
@@ -2848,10 +2837,6 @@ aquiristech.com
 argocd.indrive.dev
 arrive-server.shopifycloud.com
 artifactory.corp.mongodb.com/
-as2-accpt.portofantwerp.com
-as2-accpt.portofantwerpbruges.com
-as2.portofantwerp.com
-as2.portofantwerpbruges.com
 asana.com
 asiointi.lahitapiola.fi
 askpam.ai
@@ -2861,7 +2846,6 @@ assets.hyatt.com
 assets.spotify.com
 assets.tumblr.com
 astra.datastax.com
-asupport.suivo.com
 atarkasher.co.il
 aus5.mozilla.org
 auth.23andme.com
@@ -2883,7 +2867,6 @@ autocomplete.booking.com
 autoupdate.geo.opera.com
 avtoelon.uz
 aw.visa.com
-aweb.suivo.com
 aws.indrive.tech
 b2b.tvgnetwork.com
 b2bapi-a.usaa.com
@@ -3487,7 +3470,6 @@ dex-trade.com
 diagrams.fr.cloud.gov
 dic.pixiv.net
 digili.s-cloud.fi
-digitalspecs.portofantwerpbruges.com
 direct-hackerone.affirm-odin.com
 direct.playstation.com
 discuss.newrelic.com
@@ -3719,6 +3701,7 @@ helpcenter.affirm.ca
 helpcenter.affirm.com
 helpx.adobe.com
 hey-mail
+hey.bild.de
 heyfiesta.com
 hg.mozilla.org
 hilton.com
@@ -5231,6 +5214,7 @@ https://mc.sendgrid.com/
 https://mcs.arlo.com
 https://mcssl.com
 https://meechum.netflix.com
+https://meinkonto.bild.de/
 https://menulog.co.nz
 https://menulog.com.au
 https://meraki.cisco.com
@@ -5558,6 +5542,7 @@ https://sandbox.directly.com/dashboard/index
 https://sandbox.open-xchange.com
 https://screenplayer.20min.ch
 https://secure-iphone-xml.booking.com/json/
+https://secure.mypass.de/
 https://secure.neogov.com
 https://secure.westernunion.com
 https://secureauth.westernunion.com
@@ -5725,6 +5710,7 @@ https://vault-staging.getmoneytree.com
 https://vendorss.usaa.com
 https://viatorapi.viator.com/service/directory
 https://videoplayer.20min.ch
+https://vip-club.computerbild.de/
 https://virtuswap.io/
 https://vlagg.usaa.com
 https://vlapi.usaa.com
@@ -6278,7 +6264,6 @@ log.rarible.com
 logging.rarible.com
 logilife.logitech.com
 login-4ngbets.us.betfair.com
-login-accpt.portofantwerpbruges.com
 login-ia.tvg.com
 login.en.travelbrandsagent.com
 login.fr.cloud.gov
@@ -6287,7 +6272,6 @@ login.infomaniak.com
 login.newrelic.com
 login.pabets.tvg.com
 login.playcanvas.com
-login.portofantwerpbruges.com
 login.starbucks.co.jp
 login.swapcard.com
 login.tide.co
@@ -6363,10 +6347,6 @@ matomo.cloud
 matrix.agent.*.tchap.gouv.fr
 matrix.redditspace.com
 maxcldapp.net
-maximo-accpt.portofantwerp.com
-maximo-accpt.portofantwerpbruges.com
-maximo.portofantwerp.com
-maximo.portofantwerpbruges.com
 maximum-status.com
 mcssl.com
 me.store.ui.com
@@ -6423,8 +6403,6 @@ mta-sts.wearehackerone.com
 munin-*.wordpress.org
 mus1.badoo.com
 music.amazon.com
-my-accpt.portofantwerp.com
-my-accpt.portofantwerpbruges.com
 my.account.sony.com
 my.exness.com
 my.loanbuilder.com
@@ -6433,8 +6411,6 @@ my.monash
 my.plaid.com
 my.planethoster.com
 my.playstation.com
-my.portofantwerp.com
-my.portofantwerpbruges.com
 my.pressable.com
 my.snapchat.com
 my.swiftfinancial.com
@@ -6560,7 +6536,6 @@ open.larksuite.com
 openai.com
 openapi.starbucks.com
 opensea.io
-oprc.portofantwerpbruges.com
 ops-tool.internal.bbp-mettle.co.uk
 opsgenie-bamboo-plugin - Server - https://marketplace.atlassian.com/apps/1224300/opsgenie-bamboo-plugin?hosting=server
 opslogin.fr.cloud.gov
@@ -6636,6 +6611,7 @@ platform.8x8pilot.com
 platform.adobe.com
 platform.remix.com
 platform.teleport.sh
+play.bild.de
 play.google.com/store/apps/details?id=com.crowdstrike.falconmobile
 play.google.com/store/apps/details?id=fr.assurancemaladie.monespacesante&showAllReviews=true (Android)
 playartifact.com
@@ -6720,8 +6696,6 @@ rarible.com
 read.amazon.com
 reddit.secure.force.com
 redditforbusiness.com
-register-accpt.portofantwerp.com
-register-accpt.portofantwerpbruges.com
 registre.notebleue.pro
 registry.gitlab.com
 rei.com
@@ -6824,21 +6798,13 @@ sensei.pixiv.net
 serveur10.notebleue.com
 service.platform.tripadvisor.com
 service.tvg.com
-servicedesk-accpt.portofantwerp.com
-servicedesk-accpt.portofantwerpbruges.com
-servicedesk.portofantwerp.com
-servicedesk.portofantwerpbruges.com
 sf-rp-eu.sharefile.com
 sf-rp-us.sharefile.com
 sf-rp.sharefile.com
 sftp.gamma.redoxstage.com
 sh.reddit.com
 shapeshift.com
-share-accpt.portofantwerp.com
-share-accpt.portofantwerpbruges.com
 share.doppler.com
-share.portofantwerp.com
-share.portofantwerpbruges.com
 shavar.services.mozilla.com
 shop.adobe.com
 shop.app
@@ -6892,6 +6858,7 @@ spark.adobe.com
 spectacles.com
 speeddials.opera.com
 speedtest.xfinity.com
+sportbild.bild.de
 sportsbook.fanduel.com
 sprint.com
 ssh.fr.cloud.gov
@@ -7135,10 +7102,6 @@ web.grindr.com
 web.snapchat.com
 web.tide.co
 webapi.clario.co
-webapps-accpt.portofantwerp.com
-webapps-accpt.portofantwerpbruges.com
-webapps.portofantwerp.com
-webapps.portofantwerpbruges.com
 webhooks-api-experimental.codefi.network
 webhooks.booking.com
 webhooks.gamma.redoxstage.com
@@ -7153,13 +7116,9 @@ whatsnew.krisp.ai
 whitebit.com
 widget.cloudinary.com
 widget.rentalcars.com
-wiki-accpt.portofantwerp.com
-wiki-accpt.portofantwerpbruges.com
 wiki.cs.money
 wiki.grab.com
 wiki.near.org
-wiki.portofantwerp.com
-wiki.portofantwerpbruges.com
 wiki.teamfortress.com
 wiki.ui.com
 winecellar.zomato.com
@@ -7210,7 +7169,10 @@ www.arubainstanton.com
 www.astrogaming.com
 www.atg.se
 www.authorize.net
+www.autobild.de
 www.beachbound.com
+www.bild.de
+www.bild.tv
 www.bitexen.com
 www.bitmoji.com
 www.bitstamp.net - Bitstamp Application & API
@@ -7223,6 +7185,7 @@ www.bmw.de
 www.bookabach.co.nz
 www.bookingholdings.com
 www.bumble.com
+www.bz-berlin.de
 www.cardinalcommerce.com
 www.carrentals.com
 www.cheapcaribbean.com
@@ -7239,6 +7202,7 @@ www.coinstore.com
 www.cointr.com
 www.cointr.pro
 www.compass.com
+www.computerbild.de
 www.contrastsecurity.com
 www.counter-strike.net
 www.creditkarma.ca
@@ -7264,6 +7228,7 @@ www.ebookers.com
 www.ebookers.fi
 www.editeur.am.monespacesante.fr
 www.editeur.api.monespacesante.fr
+www.ein-herz-fuer-kinder.de
 www.elastic.co
 www.etoro.com
 www.etsy.com
@@ -7279,6 +7244,7 @@ www.fedramp.gov
 www.fewo-direkt.de
 www.figma.com
 www.files.com
+www.fitbook.de
 www.flights.com
 www.forescout.com
 www.fortress.com.hk
@@ -7360,6 +7326,7 @@ www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
 www.myetherwallet.com
+www.myhomebook.de
 www.netflix.com
 www.networksolutions.com
 www.niagahoster.co.id
@@ -7367,17 +7334,16 @@ www.omise.co
 www.opera.com
 www.opn.ooo
 www.orbitz.com
-www.oursustainableport.com
 www.ovh.com
 www.ovh.com/manager
 www.pangleglobal.com
 www.paypal-*.com
+www.petbook.de
 www.pineperks.in
 www.pixiv.net
 www.planethoster.com
 www.pns.hk
 www.poloniex.com
-www.portofantwerpbruges.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.com
 www.practicalmoneyskills.org
@@ -7414,6 +7380,7 @@ www.starbucksreserve.com
 www.status-takeaway.com/status
 www.stayz.com.au
 www.stripe.partners
+www.stylebook.de
 www.superdrug.com
 www.swiftcapital.com
 www.swiftfinancial.com
@@ -7424,12 +7391,14 @@ www.takeaway.com/drivers
 www.takeaway.com/foodwiki/
 www.tapiola.fi
 www.teamfortress.com
+www.techbook.de
 www.temu.com
 www.theperfumeshop.com
 www.thuisbezorgd.nl/aanmelden
 www.tide.co
 www.tink.com
 www.trafficfactory.com
+www.travelbook.de
 www.travelocity.ca
 www.travelocity.com
 www.trendyol.com
@@ -7498,6 +7467,7 @@ www.watsons.com.sg
 www.watsons.com.tr
 www.watsons.com.tw
 www.wearehackerone.com
+www.welt.de
 www.werkenbijbakertilly.nl
 www.wickr.com
 www.wotif.com
