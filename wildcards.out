@@ -17,6 +17,8 @@
 *.LCX.com
 *.YOUR-TESTING-STORE.mybigcommerce.com/
 *.a.exodus.io
+*.account.api.here.com
+*.account.here.com
 *.acorns.com
 *.acrobat.com
 *.acronis.com
@@ -298,6 +300,8 @@
 *.hellofax.com
 *.hellosign.com
 *.helloworks.com
+*.here.com
+*.hereapi.com
 *.hey.com
 *.highrolling.nu
 *.highwebmedia.com
@@ -451,6 +455,7 @@
 *.miwifi.com
 *.mixamo.com
 *.mmcdn.com
+*.mobilitygraph.hereapi.com
 *.mona.co
 *.moonpay.com
 *.moonpaycloud.com
@@ -494,6 +499,7 @@
 *.nubank.com.br	
 *.nuinvest.com.br	
 *.octopus.com
+*.oda.com
 *.odcdn.com.au
 *.odesli.co
 *.odesli.com
@@ -552,6 +558,7 @@
 *.prod.cryptology.com
 *.prod.dradis.netflix.com
 *.prod.ftl.netflix.com
+*.prod.nube.tech
 *.projects.epam.com
 *.proofhq.com
 *.prosus.com
@@ -590,6 +597,7 @@
 *.rocketleague.com
 *.rockstargames.com
 *.romwe.com
+*.router.hereapi.com
 *.rtcdn.caffeine.tv
 *.rukkaz.com
 *.runnr.in
@@ -603,6 +611,7 @@
 *.sc-core.net
 *.sc-corp.net
 *.scatec.io
+*.scbe.api.here.com
 *.scene7.com
 *.scoober.com
 *.scopely.com
@@ -678,6 +687,7 @@
 *.streamlabs.com
 *.streamlabscharity.com
 *.stripe.com
+*.subp-router.hereapi.com
 *.superawesome.com
 *.superawesome.tv
 *.superbet.ro
@@ -722,6 +732,7 @@
 *.transferwise.com
 *.trello.services
 *.trip.com
+*.trouw.nl
 *.tstaging.com
 *.tstaging.tools
 *.tt.omtrdc.net
