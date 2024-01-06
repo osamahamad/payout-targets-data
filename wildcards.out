@@ -17,8 +17,6 @@
 *.LCX.com
 *.YOUR-TESTING-STORE.mybigcommerce.com/
 *.a.exodus.io
-*.account.api.here.com
-*.account.here.com
 *.acorns.com
 *.acrobat.com
 *.acronis.com
@@ -57,7 +55,6 @@
 *.app.spacelift.dev
 *.arlo.com (production servers only)
 *.arloxcld.com (production servers only)
-*.aroundtheworld.tomorrowland.com
 *.artist.link
 *.artstation.com
 *.arubanetworks.com
@@ -301,8 +298,6 @@
 *.hellofax.com
 *.hellosign.com
 *.helloworks.com
-*.here.com
-*.hereapi.com
 *.hey.com
 *.highrolling.nu
 *.highwebmedia.com
@@ -456,7 +451,6 @@
 *.miwifi.com
 *.mixamo.com
 *.mmcdn.com
-*.mobilitygraph.hereapi.com
 *.mona.co
 *.moonpay.com
 *.moonpaycloud.com
@@ -500,6 +494,7 @@
 *.nubank.com.br	
 *.nuinvest.com.br	
 *.octopus.com
+*.oda.com
 *.odcdn.com.au
 *.odesli.co
 *.odesli.com
@@ -558,6 +553,7 @@
 *.prod.cryptology.com
 *.prod.dradis.netflix.com
 *.prod.ftl.netflix.com
+*.prod.nube.tech
 *.projects.epam.com
 *.proofhq.com
 *.prosus.com
@@ -592,14 +588,10 @@
 *.remove.bg
 *.rentalcars.com
 *.reposify.com
-*.rhinternal.net
-*.robinhood.com
-*.robinhood.net
 *.roblox.com
 *.rocketleague.com
 *.rockstargames.com
 *.romwe.com
-*.router.hereapi.com
 *.rtcdn.caffeine.tv
 *.rukkaz.com
 *.runnr.in
@@ -613,7 +605,6 @@
 *.sc-core.net
 *.sc-corp.net
 *.scatec.io
-*.scbe.api.here.com
 *.scene7.com
 *.scoober.com
 *.scopely.com
@@ -689,7 +680,6 @@
 *.streamlabs.com
 *.streamlabscharity.com
 *.stripe.com
-*.subp-router.hereapi.com
 *.superawesome.com
 *.superawesome.tv
 *.superbet.ro
@@ -727,7 +717,6 @@
 *.tinderops.net
 *.tinderwebstaging.com
 *.tmall.com
-*.tomorrowland.com
 *.touchtechpayments.com
 *.tr.ee
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
@@ -802,8 +791,6 @@
 *.zdev.net
 *.zomans.com
 *.zomato.com
-*ensemble*.yahoo.com
-*omega*.yahoo.com
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 B2 APIs (*.backblazeb2.com)

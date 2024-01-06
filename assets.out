@@ -47,8 +47,6 @@
 *.LCX.com
 *.YOUR-TESTING-STORE.mybigcommerce.com/
 *.a.exodus.io
-*.account.api.here.com
-*.account.here.com
 *.acorns.com
 *.acrobat.com
 *.acronis.com
@@ -87,7 +85,6 @@
 *.app.spacelift.dev
 *.arlo.com (production servers only)
 *.arloxcld.com (production servers only)
-*.aroundtheworld.tomorrowland.com
 *.artist.link
 *.artstation.com
 *.arubanetworks.com
@@ -331,8 +328,6 @@
 *.hellofax.com
 *.hellosign.com
 *.helloworks.com
-*.here.com
-*.hereapi.com
 *.hey.com
 *.highrolling.nu
 *.highwebmedia.com
@@ -486,7 +481,6 @@
 *.miwifi.com
 *.mixamo.com
 *.mmcdn.com
-*.mobilitygraph.hereapi.com
 *.mona.co
 *.moonpay.com
 *.moonpaycloud.com
@@ -530,6 +524,7 @@
 *.nubank.com.br	
 *.nuinvest.com.br	
 *.octopus.com
+*.oda.com
 *.odcdn.com.au
 *.odesli.co
 *.odesli.com
@@ -588,6 +583,7 @@
 *.prod.cryptology.com
 *.prod.dradis.netflix.com
 *.prod.ftl.netflix.com
+*.prod.nube.tech
 *.projects.epam.com
 *.proofhq.com
 *.prosus.com
@@ -622,14 +618,10 @@
 *.remove.bg
 *.rentalcars.com
 *.reposify.com
-*.rhinternal.net
-*.robinhood.com
-*.robinhood.net
 *.roblox.com
 *.rocketleague.com
 *.rockstargames.com
 *.romwe.com
-*.router.hereapi.com
 *.rtcdn.caffeine.tv
 *.rukkaz.com
 *.runnr.in
@@ -643,7 +635,6 @@
 *.sc-core.net
 *.sc-corp.net
 *.scatec.io
-*.scbe.api.here.com
 *.scene7.com
 *.scoober.com
 *.scopely.com
@@ -719,7 +710,6 @@
 *.streamlabs.com
 *.streamlabscharity.com
 *.stripe.com
-*.subp-router.hereapi.com
 *.superawesome.com
 *.superawesome.tv
 *.superbet.ro
@@ -757,7 +747,6 @@
 *.tinderops.net
 *.tinderwebstaging.com
 *.tmall.com
-*.tomorrowland.com
 *.touchtechpayments.com
 *.tr.ee
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
@@ -839,10 +828,8 @@
 *central.arubanetworks.com
 *developer.cloud.com
 *emailsignature.trustpilot.com
-*ensemble*.yahoo.com
 *invitations-api.trustpilot.com
 *legal.trustpilot.com
-*omega*.yahoo.com
 *racing.fanduel.com
 *share.trustpilot.com
 *signalservice.comcast.net
@@ -862,7 +849,6 @@
 0xe6cc10ef4de1ccfb821c99c04abfe1859d8eab8f (EXEN) (ERC20)
 0xfbfa258b9028c7d4fc52ce28031469214d10daeb
 1.1.1.1 Resolver
-1001982587
 1005070636
 1013961111
 1018340690
@@ -872,6 +858,7 @@
 1032480595
 1064216828
 107.167.96.0/19
+1079537578
 1080248000
 10x.redoxengine.com
 1118448159
@@ -890,7 +877,6 @@
 1294578643
 1298908406
 1324809509
-1337574835
 1343620481
 140.95.0.0/16
 141.0.8.0/21
@@ -972,7 +958,6 @@
 488534576
 493086499
 493253309
-4ever.ketnet.be
 4njbets.tvgnetwork.com
 524362642
 531549799
@@ -1000,7 +985,6 @@
 657777015
 66.232.20.0/23
 669969610
-7 News
 737216887
 740514933
 77.111.244.0/22
@@ -1019,10 +1003,8 @@
 930441707
 936983378
 937011954453721119
-938003185
 944011620
 947984433
-955837609
 961114489414094898
 965180355
 97.105.243.96/28
@@ -1595,7 +1577,6 @@ Finicity Decisioning
 Finicity- Data Services
 FireTV
 Firefox extension (download at:   https://addons.mozilla.org/firefox/addon/pinterest/)
-Firmware
 FishEye
 Flash Player
 Fleet Server
@@ -1665,7 +1646,6 @@ Hackathon for Jira - Cloud - https://marketplace.atlassian.com/apps/1214757/hack
 Halp Answers for Confluence in Slack - Cloud - https://marketplace.atlassian.com/apps/1222365/halp-answers-for-confluence-in-slack?hosting=cloud
 Halp application for Microsoft Teams
 Halp application for Slack
-Hardware
 Hardware found on https://www.ezviz.com/category/security-wifi-cameras
 Hardware found on https://www.ezviz.com/category/smart-home
 Harmony Remote Software
@@ -1978,7 +1958,6 @@ OKT Chain
 OKX Wallet Chrome Extension
 OKX Wallet Edge Add-ons
 OKX Wallet Safari Extension
-OT scanner
 Observability - APM Agents
 Observability - APM Server
 October - https://apps.apple.com/fr/app/october/id1167975760
@@ -2027,7 +2006,6 @@ Orbi Android App
 Orbi iOS App 
 Orbot
 Other
-Other (Misc)
 Other (misc)
 Other - (all other Atlassian targets)
 Other APK Assets
@@ -2195,7 +2173,6 @@ Smartchain Blockchain
 Snaps
 Snaps Development Packages
 Social Media Accounts
-Software
 Software Supply Chain
 Sophos Central
 SoundCloud Android app
@@ -2284,7 +2261,6 @@ Team Calendars for Confluence - Cloud - https://marketplace.atlassian.com/apps/7
 Team Calendars for Confluence - DataCenter - https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=datacenter
 Team Calendars for Confluence - Server - https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=server
 TechCrunch
-Techcrunch
 Ternoa Indexer
 Ternoa Mainnet:
 Tesla Energy hardware you own
@@ -2317,9 +2293,7 @@ Tidal Client for iOS
 Tidal Desktop Client
 Tidal Official Clients (e.g. Sonos, Tesla, etc.)
 Tier 1
-Tier 1 subdomains
 Tier 2
-Tier 3 subdomains
 Tier A - Core Assets
 Tier B - Non Core (Bitmoji, Playcanvas)
 Tier1
@@ -2490,7 +2464,6 @@ Yahoo Finance
 Yahoo HK News
 Yahoo Mail
 Yahoo News
-Yahoo Open Source Projects
 Yahoo Open Source Projects (misc)
 Yahoo Search
 Yahoo Sports: Best Ball
@@ -2505,7 +2478,6 @@ Yahoo Sports: Rivals
 Yahoo Sports: Rivals Forums
 Yahoo Video
 Yahoo Weather
-Yahoo! (Misc)
 Yahoo! (misc)
 Yield Farming
 Your Own GitLab Instance
@@ -2704,7 +2676,6 @@ api.krisp.ai
 api.kuna.io
 api.kunapay.io
 api.lahitapiola.fi
-api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
@@ -2748,7 +2719,6 @@ api.smtp2go.com
 api.sokos.fi
 api.sonantic.io
 api.sorare.com
-api.sporza.be
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -2771,7 +2741,6 @@ api.upwork.com/graphql
 api.usaa.com
 api.vhx.tv
 api.vimeo.com
-api.vrt.radio
 api.watsons.co.id
 api.watsons.co.th
 api.watsons.com.hk
@@ -2815,8 +2784,6 @@ app.krisha.kz
 app.kruidvat.be
 app.kruidvat.nl
 app.lachain.io
-app.lansweeper.com
-app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
 app.marionnaud.at
@@ -2871,7 +2838,6 @@ aquiristech.com
 argocd.indrive.dev
 arrive-server.shopifycloud.com
 artifactory.corp.mongodb.com/
-artists.tomorrowland.com/production-website/33117
 asana.com
 asiointi.lahitapiola.fi
 askpam.ai
@@ -2900,7 +2866,6 @@ auth2.indrive.tech
 authn.usaa.com
 autocomplete.booking.com
 autoupdate.geo.opera.com
-autoupdateapi.lansweeper.com
 avtoelon.uz
 aw.visa.com
 aws.indrive.tech
@@ -2913,7 +2878,6 @@ b5s.hackerone-ext-content.com
 bSafe Android App
 bSafe iPhone App
 backend.zyro.com
-backoffice.lansweeper.com
 backstage.io
 badoo.com
 badoocdn.com
@@ -2924,13 +2888,10 @@ basecamp3.exe
 basicattentiontoken.org
 bb.visa.com
 bd.visa.com
-be.vrt.ketnet.ketnetjr
-be.vrt.vrtnu
 beacon.netflix.com
 behance.net
 beta-cloud.acronis.com
 beta.rarible.com
-bff.ketnet.be
 bigcommerce-adapter.judge.me
 billing-pci.etoro.com
 billing.etoro.com
@@ -3034,7 +2995,6 @@ cdn-store.opera-api.com
 cdn.moderntreasury.com
 cdn.plaid.com
 cdna.lystit.com
-cds.vrt.radio
 cfapi.voikukka.fi
 cfc.naspers.com
 chain.link
@@ -3087,7 +3047,6 @@ code.playcanvas.com
 code.yoti.com
 codex.one
 codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
-cognito-idp.eu-west-1.amazonaws.com
 coinbase.com
 coinmarketcap.com
 coldfusion.adobe.com
@@ -3208,7 +3167,6 @@ com.gs.pwmdigital.external.android
 com.gww.km
 com.harvestapp
 com.hcom.android
-com.here.app.maps
 com.hey.app.ios
 com.hotornot.app
 com.hotwire.hotels
@@ -3284,7 +3242,6 @@ com.recordedfuture.mobile
 com.reddit.frontpage
 com.ring.neighborhoods
 com.ringapp
-com.robinhood.android
 com.romwe
 com.scee.psxandroid
 com.scopely.monopolygo
@@ -3333,7 +3290,6 @@ com.tiktok.tv
 com.tiktokshop.seller
 com.tinder
 com.tinyspeck.chatlyio
-com.tomorrowland.oneworldradio
 com.toyopagroup.picaboo
 com.travelocity.android
 com.trip.android
@@ -3391,8 +3347,6 @@ community.forescout.com
 community.logitech.com
 community.ui.com
 components.frame.io
-components.stag.tomorrowland.com
-components.tomorrowland.com
 configure.bmw.de
 configure.mini.de
 confluence.hyattdev.com
@@ -3406,7 +3360,6 @@ console.chainstack.com
 console.dashlane.com
 contact.krisp.ai
 contacts.infomaniak.com
-content.ketnet.be
 content.usaa.com
 contile.services.mozilla.com
 contrastsecurity.dev
@@ -3468,7 +3421,6 @@ dashboard.rapyd.net
 dashboard.razorpay.com
 dashboard.unity3d.com
 dashboard2.omise.co
-data.ketnet.be
 data.mail.yahoo.com
 data.prosus.com
 data.rarible.com
@@ -3491,7 +3443,6 @@ dealflow.prosus.com
 dealflowapi.prosus.com
 debug.clairvoyance.indrive.tech
 decision.swiftfinancial.com
-dedokterbeashow.ketnet.be
 delta.app
 demo.cloud.databricks.com
 demo.plaid.com
@@ -3534,7 +3485,6 @@ docs.databricks.com
 docs.datastax.com
 docs.eazybi.com
 docs.gitlab.com
-docs.lansweeper.com
 docs.launchdarkly.com
 docs.near.org
 docs.newrelic.com
@@ -3559,7 +3509,6 @@ eIDAS Bridge  (see program description for github link)
 eassessment.monash.edu
 ebsext.oft.hyatt.com
 edex.adobe.com
-edge.lansweeper.com
 edgeapi.slack.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
@@ -3696,7 +3645,6 @@ gitlab.com
 global-api.citymapper.com
 global.bitexen.com
 global.bittrex.com
-globaljourney.tomorrowland.com
 gnip.com
 gold.xnxx.com
 goldmansachsindices.com
@@ -3754,7 +3702,6 @@ helpcenter.affirm.ca
 helpcenter.affirm.com
 helpx.adobe.com
 hey-mail
-hey.bild.de
 heyfiesta.com
 hg.mozilla.org
 hilton.com
@@ -5267,7 +5214,6 @@ https://mc.sendgrid.com/
 https://mcs.arlo.com
 https://mcssl.com
 https://meechum.netflix.com
-https://meinkonto.bild.de/
 https://menulog.co.nz
 https://menulog.com.au
 https://meraki.cisco.com
@@ -5324,6 +5270,7 @@ https://nubank.com.br/
 https://nvoice.usaa.com/
 https://octopus.com
 https://octopus.com/downloads
+https://oda.com
 https://odesli.co
 https://odesli.com
 https://offer.tidal.com/download
@@ -5595,7 +5542,6 @@ https://sandbox.directly.com/dashboard/index
 https://sandbox.open-xchange.com
 https://screenplayer.20min.ch
 https://secure-iphone-xml.booking.com/json/
-https://secure.mypass.de/
 https://secure.neogov.com
 https://secure.westernunion.com
 https://secureauth.westernunion.com
@@ -5763,7 +5709,6 @@ https://vault-staging.getmoneytree.com
 https://vendorss.usaa.com
 https://viatorapi.viator.com/service/directory
 https://videoplayer.20min.ch
-https://vip-club.computerbild.de/
 https://virtuswap.io/
 https://vlagg.usaa.com
 https://vlapi.usaa.com
@@ -6246,10 +6191,8 @@ js.crypto.com
 js.stripe.com
 jss.greenhouse.io
 judge.me
-juniormusical.ketnet.be
 k8s.gcr.io
 k8s.io
-kaatje.ketnet.be
 kartaview.org
 kb.databricks.com
 kbill.mackeeper.com
@@ -6305,7 +6248,6 @@ lists.nextcloud.com
 lists.wordpress.org
 lite.qwant.com
 live-backstage.tiktok.com
-live-cf-vrt.akamaized.net
 liveassist.usaa.com
 liveassist11.usaa.com
 liveassist12.usaa.com
@@ -6325,7 +6267,6 @@ login.en.travelbrandsagent.com
 login.fr.cloud.gov
 login.fr.travelbrandsagent.com
 login.infomaniak.com
-login.lansweeper.com
 login.newrelic.com
 login.pabets.tvg.com
 login.playcanvas.com
@@ -6333,7 +6274,6 @@ login.starbucks.co.jp
 login.swapcard.com
 login.tide.co
 login.tvg.com
-login.vrt.be
 login.www.vaxvacationaccess.com
 logistics.amazon.*
 logitech.zendesk.com
@@ -6361,7 +6301,6 @@ m.poloniex.com
 m.reddit.com
 m.trendyol.com
 mackeeper.com
-magazine.ketnet.be
 magento.com
 magentocommerce.com
 magentolive.com
@@ -6408,9 +6347,7 @@ matrix.redditspace.com
 maxcldapp.net
 maximum-status.com
 mcssl.com
-mdm.weareone.world
 me.store.ui.com
-media-services-public.vrt.be
 mediacenter.23andme.com
 medical.23andme.com
 meetings.hyatt.com
@@ -6476,7 +6413,6 @@ my.pressable.com
 my.snapchat.com
 my.swiftfinancial.com
 my.thesecurityteam.rocks
-my.tomorrowland.com
 mydesktop.usaa.com
 mydesktop.wu.com
 myvpn.usaa.com
@@ -6560,6 +6496,7 @@ nice.wfmusaa.com
 nicetryapril.na1.echosignsandbox.com
 nmtracking.netflix.com
 no-reply.cloud
+no.kolonial.tienda
 node.e2ro.com/*
 nossl.nl
 novel.pixiv.net
@@ -6581,20 +6518,16 @@ odoo14.notebleue.pro
 offsite.omise.co
 old.reddit.com
 omgpro.airbnb.com
-on-premises software
 on-ramp.metaswap-dev.codefi.network
 onboarding-*.cloud.com
 onboarding.cloud.com
 onboarding.greenhouse.io
-ondemand-vrt.akamaized.net
-one-world-radio-tomorrowland/id1485778856
 one.airbnb.com
 one.dash.cloudflare.com
 one.newrelic.com
 onepush.query.yahoo.com
 onevasco.com
 oneview.malwarebytes.com
-oneworldradio.tomorrowland.com
 online.s-pankki.fi
 open-api.polygon.technology
 open.airbnb.com
@@ -6677,7 +6610,6 @@ platform.8x8pilot.com
 platform.adobe.com
 platform.remix.com
 platform.teleport.sh
-play.bild.de
 play.google.com/store/apps/details?id=com.crowdstrike.falconmobile
 play.google.com/store/apps/details?id=fr.assurancemaladie.monespacesante&showAllReviews=true (Android)
 playartifact.com
@@ -6686,7 +6618,6 @@ playcanvas.com
 player-login.unity.com
 player-radio.infomaniak.com
 player.vimeo.com
-player.vrt.be
 playwonderbox.com
 playwonderbox.com.br
 portal-api.coinmarketcap.com
@@ -6717,7 +6648,6 @@ primenow.amazon.*
 priority.eu-east-1.indriverapp.com
 prisma-ai.com
 prismalabsteam.com
-privacy.ketnet.be
 privateinternetaccess.com
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
@@ -6729,7 +6659,6 @@ pro.opensea.io
 prod.ros.rockstargames.com
 proddata.xobni.yahoo.com
 production.plaid.com
-profiel.vrt.be
 profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
@@ -6771,7 +6700,6 @@ rei.com
 relaxcdn.unibet.com
 relay.firefox.com
 relay.playcanvas.com
-remix-cf-vrt.akamaized.net
 remix.com
 remoteaccess.westernunion.com
 rentals.tripadvisor.com
@@ -6864,7 +6792,6 @@ securite.monespacesante.fr
 securitytrails.com
 select.logitech.com
 selector.viator.com
-senior-bff.ketnet.be
 sensei.pixiv.net
 serveur10.notebleue.com
 service.platform.tripadvisor.com
@@ -6924,16 +6851,12 @@ socket.frame.io
 sorare.com
 soundcloud.com
 soundcloud.org
-sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com
 spaces.pm
 spark.adobe.com
 spectacles.com
 speeddials.opera.com
 speedtest.xfinity.com
-sport-components.sporza.be
-sportbild.bild.de
 sportsbook.fanduel.com
-sporza.be
 sprint.com
 ssh.fr.cloud.gov
 sso.8x8.com
@@ -6993,7 +6916,6 @@ streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streams.etoro.com
 sts.etoro.com
-stubru.be/luister/select
 studentplacements.monash.edu
 studio-api.swapcard.com
 studio.swapcard.com
@@ -7158,9 +7080,6 @@ vod.infomaniak.com
 volans.tech
 vpn.mozilla.org
 vroid.com
-vrt.be/vrtnu
-vrt.be/vrtnws
-vrtnws-api.vrt.be
 waf.cumulusfire.net
 wallet.etoro.com
 wallet.near.org
@@ -7200,7 +7119,6 @@ wiki.near.org
 wiki.teamfortress.com
 wiki.ui.com
 winecellar.zomato.com
-winterpackages.tomorrowland.com
 wise.com
 wonderboxapi.com
 wonderboxdev.com
@@ -7248,10 +7166,7 @@ www.arubainstanton.com
 www.astrogaming.com
 www.atg.se
 www.authorize.net
-www.autobild.de
 www.beachbound.com
-www.bild.de
-www.bild.tv
 www.bitexen.com
 www.bitmoji.com
 www.bitstamp.net - Bitstamp Application & API
@@ -7264,7 +7179,6 @@ www.bmw.de
 www.bookabach.co.nz
 www.bookingholdings.com
 www.bumble.com
-www.bz-berlin.de
 www.cardinalcommerce.com
 www.carrentals.com
 www.cheapcaribbean.com
@@ -7281,7 +7195,6 @@ www.coinstore.com
 www.cointr.com
 www.cointr.pro
 www.compass.com
-www.computerbild.de
 www.contrastsecurity.com
 www.counter-strike.net
 www.creditkarma.ca
@@ -7307,7 +7220,6 @@ www.ebookers.com
 www.ebookers.fi
 www.editeur.am.monespacesante.fr
 www.editeur.api.monespacesante.fr
-www.ein-herz-fuer-kinder.de
 www.elastic.co
 www.etoro.com
 www.etsy.com
@@ -7323,7 +7235,6 @@ www.fedramp.gov
 www.fewo-direkt.de
 www.figma.com
 www.files.com
-www.fitbook.de
 www.flights.com
 www.forescout.com
 www.fortress.com.hk
@@ -7353,12 +7264,10 @@ www.instacart.com
 www.irccloud.com
 www.jaybirdsport.com
 www.kayak.com
-www.ketnet.be
 www.kiwi.com
 www.kruidvat.be
 www.kruidvat.nl
 www.lahitapiola.fi
-www.lansweeper.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.leather.io
@@ -7407,7 +7316,6 @@ www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
 www.myetherwallet.com
-www.myhomebook.de
 www.netflix.com
 www.networksolutions.com
 www.niagahoster.co.id
@@ -7419,7 +7327,6 @@ www.ovh.com
 www.ovh.com/manager
 www.pangleglobal.com
 www.paypal-*.com
-www.petbook.de
 www.pineperks.in
 www.pixiv.net
 www.planethoster.com
@@ -7461,7 +7368,6 @@ www.starbucksreserve.com
 www.status-takeaway.com/status
 www.stayz.com.au
 www.stripe.partners
-www.stylebook.de
 www.superdrug.com
 www.swiftcapital.com
 www.swiftfinancial.com
@@ -7472,15 +7378,12 @@ www.takeaway.com/drivers
 www.takeaway.com/foodwiki/
 www.tapiola.fi
 www.teamfortress.com
-www.techbook.de
 www.temu.com
 www.theperfumeshop.com
 www.thuisbezorgd.nl/aanmelden
 www.tide.co
 www.tink.com
-www.tomorrowland.com
 www.trafficfactory.com
-www.travelbook.de
 www.travelocity.ca
 www.travelocity.com
 www.trendyol.com
@@ -7549,7 +7452,6 @@ www.watsons.com.sg
 www.watsons.com.tr
 www.watsons.com.tw
 www.wearehackerone.com
-www.welt.de
 www.werkenbijbakertilly.nl
 www.wickr.com
 www.wotif.com
