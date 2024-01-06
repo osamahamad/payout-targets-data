@@ -212,6 +212,7 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
+*.das.eu
 *.deliveroo-data-test.io
 *.deliveroo-data.io
 *.deliveroo-data.net
@@ -231,6 +232,7 @@
 *.dibz.co.uk
 *.dm.gg
 *.dmcdn.net
+*.dns.eu
 *.docsend.com
 *.doctolib.(fr|de|it|com|net)
 *.domainscope.com
@@ -250,6 +252,7 @@
 *.epicgames.dev
 *.eu.floqast.app
 *.eu.newrelic.com
+*.eurid.eu
 *.europolitan.se
 *.exmo.com
 *.exmo.me
@@ -514,6 +517,7 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
+*.nic.eu
 *.niumba.com
 *.nnip.com
 *.nordvpn.com
@@ -613,6 +617,7 @@
 *.redmart.com (++)
 *.redmart.com (+++)
 *.reflexion.net
+*.registry.eu
 *.remove.bg
 *.rentalcars.com
 *.reposify.com
@@ -790,6 +795,7 @@
 *.wenewmoments.com
 *.westernunion.*
 *.white.market
+*.whois.eu
 *.wimpmusic.com
 *.wise.com
 *.withairbnb.com
@@ -808,6 +814,7 @@
 *.xvservice.net
 *.xvtest.net
 *.xyzbmojn.net
+*.yadifa.eu
 *.yelp-support.com
 *.yelp.com
 *.yelpwifi.com
@@ -2339,7 +2346,6 @@ USAA Mobile Application for Android
 USAA Mobile Application for iOS
 USB Flash Drive Control
 USB Unifying and LightSpeed Receivers
-Ubisoft
 Ultimate Ears Speakers
 UniFi
 UniFi Access
@@ -2456,6 +2462,7 @@ Xfinity Home Hardware (items listed below in brief)
 Xfinity Home cameras
 Xfinity Home iOS mobile app
 Xfinity iOS mobile app
+YADIFA authoritative name server
 Yahoo Calendar
 Yahoo Elections
 Yahoo Finance
@@ -6399,6 +6406,7 @@ munin-*.wordpress.org
 mus1.badoo.com
 music.amazon.com
 my.account.sony.com
+my.eurid.eu
 my.exness.com
 my.loanbuilder.com
 my.malwarebytes.com
@@ -7115,6 +7123,7 @@ wiki.near.org
 wiki.teamfortress.com
 wiki.ui.com
 winecellar.zomato.com
+winkels.torfs.be
 wise.com
 wonderboxapi.com
 wonderboxdev.com
@@ -7346,6 +7355,9 @@ www.ritzcarlton.com/
 www.rocaton.com
 www.s-kaupat.fi
 www.s-pankki.fi
+www.samenfittorfs.be
+www.schoenentorfs.be
+www.schoenentorfs.nl
 www.shipt.com
 www.six-group.com
 www.sokos.fi
@@ -7379,6 +7391,8 @@ www.theperfumeshop.com
 www.thuisbezorgd.nl/aanmelden
 www.tide.co
 www.tink.com
+www.torfs.be
+www.torfs.nl
 www.trafficfactory.com
 www.travelocity.ca
 www.travelocity.com
