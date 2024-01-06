@@ -21,7 +21,6 @@
 *.acrobat.com
 *.acronis.com
 *.acronis.work
-*.ad.nl
 *.adobe.com
 *.adobe.io
 *.adobeaemcloud.com
@@ -45,6 +44,7 @@
 *.alimama.com
 *.aliyun-inc.com
 *.aliyun.com
+*.allegro.pl.allegrosandbox.pl
 *.amplitude-game.com
 *.apex-football.com
 *.api.dailymotion.com
@@ -56,7 +56,6 @@
 *.app.spacelift.dev
 *.arlo.com (production servers only)
 *.arloxcld.com (production servers only)
-*.aroundtheworld.tomorrowland.com
 *.artist.link
 *.artstation.com
 *.arubanetworks.com
@@ -126,7 +125,6 @@
 *.bugcrowd.com/auth/*
 *.byairbnb.com
 *.bybit.com
-*.c-point.be
 *.canva-apps.cn
 *.canva-apps.com
 *.canva.cn
@@ -192,7 +190,6 @@
 *.deliveroo.*
 *.dell.com/*
 *.delltechnologies.com/* 
-*.demorgen.be
 *.deribit.com
 *.deriv.cloud
 *.deriv.com
@@ -209,8 +206,6 @@
 *.doctolib.(fr|de|it|com|net)
 *.domainscope.com
 *.download.originenergy.com.au
-*.dpgmedia.be
-*.dpgmedia.nl
 *.dropbox.com    
 *.dropboxer.net
 *.dropboxforum.com
@@ -252,8 +247,6 @@
 *.folioinvesting.com
 *.fortnite.com
 *.found.io
-*.gamma.be/*
-*.gamma.nl/*
 *.getbouncer.com
 *.getmeetio.com
 *.github.net
@@ -301,6 +294,7 @@
 *.guilded.gg
 *.hackerone-ext-content.com
 *.hackerone-user-content.com/
+*.hardware.info
 *.harmonixmusic.com
 *.harmonyremote.com
 *.hellofax.com
@@ -316,7 +310,6 @@
 *.hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hitmanpro.com
-*.hln.be
 *.hmxservices.com
 *.hmxwebservices.com
 *.holidaylettings.com
@@ -330,14 +323,12 @@
 *.hubspot.net
 *.hubspotemail.net
 *.humio.com
-*.humo.be
+*.hwigroup.com
+*.hwigroup.net
 *.hypermint.com
 *.hyperpure.com
 *.hyperwallet.com
 *.hypr.com
-*.ibood.com
-*.ibood.io
-*.igpayment.com
 *.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
@@ -356,14 +347,9 @@
 *.infra-prod.nsvcs.net
 *.infrastructure-data.newrelic.com
 *.infrastructure.newrelic.com
-*.innogames.com
-*.innogames.de
 *.instacart.com
 *.instacart.tools
 *.intercomassets.com / *.intercomcdn.com
-*.intergamma-test.nl
-*.intergamma.cloud
-*.intergamma.nl/*
 *.irccloud-cdn.com
 *.irccloud.com
 *.je-apis.com - UK legacy API
@@ -388,29 +374,19 @@
 *.justeat-int.com
 *.justeattakeaway.com
 *.kaleido.ai
-*.karwei.nl/*
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
 *.kes.kindredext.net
 *.kindredext.net
-*.kinepolis.be
-*.kinepolis.ch
-*.kinepolis.com
-*.kinepolis.fr
-*.kinepolis.lu
-*.kinepolis.nl
 *.kiwi.com
-*.klubcinema.fr
 *.kolikkopelit.com
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
 *.kucoin.com
-*.kwsdose.be
 *.lab.epam.com
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
-*.landmarkcinemas.com
 *.lazada-seller.cn
 *.lazada.(sg|vn|co.id|co.th|com|com.ph|com.my) (+)
 *.lazada.(sg|vn|co.id|co.th|com|com.ph|com.my) (++)
@@ -460,6 +436,7 @@
 *.marcus.com
 *.mariacasino.com
 *.marketo.com
+*.mas.mobilevikings.be
 *.mattermost.com
 *.maximum.nl
 *.mb-cosmos.com
@@ -468,7 +445,6 @@
 *.mdvmm.xyz
 *.mediatonic.co.uk
 *.meebits.app
-*.megatix.be
 *.melonapp.com
 *.menulog.co.nz - New Zealand food ordering
 *.menulog.com.au - Australia food ordering
@@ -479,8 +455,8 @@
 *.miui.com
 *.miwifi.com
 *.mixamo.com
-*.mjrtheatres.com
 *.mmcdn.com
+*.mobilevikings.be
 *.mona.co
 *.moonpay.com
 *.moonpaycloud.com
@@ -498,10 +474,6 @@
 *.myteksi.net
 *.namestudio.com
 *.namestudioforsocial.com
-*.napoleoncasino.be
-*.napoleondice.be
-*.napoleongames.be
-*.napoleonsports.be
 *.naspers.com
 *.neat.com.hk
 *.neat.hk
@@ -518,9 +490,7 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
-*.ninjakiwi.com
 *.niumba.com
-*.nkstatic.com
 *.nnip.com
 *.nordvpn.com
 *.nr-data.net
@@ -569,11 +539,6 @@
 *.payoneer.com
 *.paypal.com
 *.paypalcorp.com
-*.personio-internal.de
-*.personio.de
-*.personio.de/whistleblowing
-*.personio.tools
-*.personiowhistleblowing.com
 *.pexels.com
 *.phonegap.com
 *.pinterest.com Web Apps
@@ -581,10 +546,11 @@
 *.platformservices.io
 *.playlist.link
 *.playstation.net
-*.playuzleuven.be
 *.pods.link
 *.popjam.com
 *.ppbdev.com
+*.prd-pub.mobilevikings.be
+*.prd.mobilevikings.be
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
@@ -628,7 +594,9 @@
 *.remove.bg
 *.rentalcars.com
 *.reposify.com
-*.restintergamma.nl
+*.rhinternal.net
+*.robinhood.com
+*.robinhood.net
 *.roblox.com
 *.rocketleague.com
 *.rockstargames.com
@@ -638,7 +606,8 @@
 *.runnr.in
 *.s-cloud.net
 *.sandbox.directly.com/
-*.sbb.ch
+*.say.rocks
+*.saytechnologies.com
 *.sbgcdn.com
 *.sbgcore.com
 *.sbgorigin.com
@@ -661,6 +630,7 @@
 *.sellzone.com
 *.semrush.com
 *.semrush.net
+*.sentiance.com
 *.seoab.io
 *.seoquake.com
 *.services-prod.nsvcs.net
@@ -729,7 +699,6 @@
 *.superpal.io/*
 *.support.originenergy.com.au
 *.swiftype.com
-*.swisspass.ch
 *.sys.comcast.net
 *.t-mobile.com
 *.takeaway.com
@@ -751,7 +720,6 @@
 *.testnet.immutable.com
 *.threatdown.com
 *.thuisbezorgd.nl
-*.ticketing.cm.com
 *.tickets.ua
 *.tidal.com
 *.tidalhifi.com
@@ -761,7 +729,6 @@
 *.tinderops.net
 *.tinderwebstaging.com
 *.tmall.com
-*.tomorrowland.com
 *.touchtechpayments.com
 *.tr.ee
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
@@ -769,14 +736,14 @@
 *.transferwise.com
 *.trello.services
 *.trip.com
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tt.omtrdc.net
 *.tubemogul.com
 *.tumblr.com
-*.tweakblogs.net
-*.tweakers.net
-*.tweakimg.net
 *.twimg.com
 *.twitter.com
 *.typekit.com
@@ -791,10 +758,10 @@
 *.unrealengine.com
 *.unrealtournament.com
 *.unscreen.com
-*.uzleuven.*
 *.vacationhomerentals.com
 *.venmo.com
 *.vennhypotheken.nl
+*.veriff.com
 *.vertexprotocol.com
 *.vfsevisa.com
 *.vfsglobal.(com|co.uk|ca)
@@ -805,21 +772,10 @@
 *.vine.co
 *.vladcazino.ro
 *.vod2.infomaniak.com
-*.voipgrid.nl
-*.voiscooters.com
-*.volkskrant.nl
-*.voys.be
-*.voys.co
-*.voys.nl
 *.vpn.hackerone.net
-*.vtm.be
-*.vtmgo.be
 *.wavecell.com
 *.wealthsimple.com
 *.wenewmoments.com
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
 *.westernunion.*
 *.white.market
 *.wimpmusic.com
@@ -851,8 +807,6 @@
 *.zdev.net
 *.zomans.com
 *.zomato.com
-*ensemble*.yahoo.com
-*omega*.yahoo.com
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 B2 APIs (*.backblazeb2.com)
