@@ -558,7 +558,6 @@
 *.paddypartners.com
 *.paddypower.com
 *.paddypower.it
-*.parool.nl
 *.paydiant.com
 *.paylution.com
 *.payoneer.com
@@ -772,7 +771,6 @@
 *.unrealengine.com
 *.unrealtournament.com
 *.unscreen.com
-*.uphold.com
 *.vacationhomerentals.com
 *.venmo.com
 *.vennhypotheken.nl
@@ -860,7 +858,6 @@
 107.167.96.0/19
 1080248000
 10x.redoxengine.com
-1101145849
 1118448159
 1127881507
 1174276185
@@ -877,7 +874,6 @@
 1294578643
 1298908406
 1324809509
-134.58.179.82
 1343620481
 140.95.0.0/16
 141.0.8.0/21
@@ -969,7 +965,6 @@
 547702041
 549057844
 563291345
-564141518
 566635048
 589698942
 597940518
@@ -2523,7 +2518,6 @@ accounts.reddit.com
 accounts.shopify.com
 accounts.snapchat.com
 accounts.stage.evernote.com
-accountsettings.connect.identity.stagaws.visma.com
 acme-challenge.nl
 acrobat.adobe.com
 acrobatoauth.adobe.com
@@ -2548,7 +2542,6 @@ admin.ring.com/*
 admin.shipt.com
 admin.shopify.com
 admin.smartsheet.com
-admin.stage.vismaonline.com
 admin.wickr.com
 admincms.monespacesante.fr
 adminconsole.adobe.com
@@ -2567,7 +2560,6 @@ affiliate-program.amazon.com
 agents.tasheer.com
 agents.vfstasheel.com
 aggregator.etoro.com
-ai-testing.maventa.com
 aiq-prod.codebig2.net
 airFiber
 airMAX
@@ -2604,7 +2596,6 @@ api-eu.floqast.app
 api-ne.mackeeper.com
 api-saas.dana.id
 api-sandbox.gocardless.com
-api-sandbox.uphold.com
 api-staging.airtable.com
 api-user.e2ro.com/*
 api-v2.frame.io
@@ -2743,7 +2734,6 @@ api.tripadvisor.com
 api.tumblr.com
 api.twilio.com
 api.unity.com
-api.uphold.com
 api.upwork.com/graphql
 api.usaa.com
 api.vhx.tv
@@ -2757,7 +2747,6 @@ api.watsons.com.sg
 api.watsons.com.tw
 api.wisdomtreeprimeapp.com
 api.wordpress.org
-api.workbox.dk
 api.x.ai
 api.yoti.com
 api.zerobounce.in
@@ -2831,7 +2820,6 @@ app.taxjar.com
 app.theperfumeshop.com
 app.tide.co
 app.watsons.com.tr
-app.workbox.dk
 appapi.neuralprisma.com
 applause1.magisto.com
 applications.frame.io
@@ -2873,14 +2861,11 @@ auth.services.adobe.com
 auth.skypicker.com
 auth2.indrive.tech
 authn.usaa.com
-authz.workbox.dk
 autocomplete.booking.com
-autointerface.stag.visma.net
 autoupdate.geo.opera.com
 avtoelon.uz
 aw.visa.com
 aws.indrive.tech
-ax-stage.maventa.com
 b2b.tvgnetwork.com
 b2bapi-a.usaa.com
 b2bapi.usaa.com
@@ -2900,9 +2885,6 @@ basecamp3.exe
 basicattentiontoken.org
 bb.visa.com
 bd.visa.com
-be.nexuzhealth.mobile.cpv
-be.nexuzhealth.mobile.kws
-be.nexuzhealth.mobile.mynexuz
 beacon.netflix.com
 behance.net
 beta-cloud.acronis.com
@@ -3318,14 +3300,12 @@ com.ubnt.ucrm
 com.ubnt.umobile
 com.unibet.casino
 com.unibet.unibetpro
-com.uphold.wallet
 com.urbanclap.provider
 com.urbanclap.urbanclap
 com.valvesoftware.Steam
 com.venmo
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
-com.visma.blue
 com.vrbo.android
 com.wealthsimple
 com.wealthsimple.wealthsimple
@@ -3370,7 +3350,6 @@ confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
 connect.deezer.com
-connect.identity.stagaws.visma.com
 connect.monash.edu
 consensys.net
 console.aiven.io
@@ -3524,8 +3503,6 @@ downloads.datastax.com
 dropr.nl
 e-Commerce
 eIDAS Bridge  (see program description for github link)
-eaccounting.stage.vismaonline.com
-eaccountingprinting.stage.vismaonline.com
 eassessment.monash.edu
 ebsext.oft.hyatt.com
 edex.adobe.com
@@ -3619,7 +3596,6 @@ fm.anchor.android
 fonts.adobe.com
 forecastapp.com
 form.asana.com
-forms.nexuzhealth.be
 fortmatic.com
 fortnite.com
 forum.playcanvas.com
@@ -6146,8 +6122,6 @@ id1520720139
 id1534920947
 ide.x.ai
 identity.monash.edu
-identity.stage.vismaonline.com
-idp-mobile.nexuzhealth.be
 idp.fr.cloud.gov
 ifttt-adaptor.pub.kube.dm.gg
 images2.triseptsolutions.com
@@ -6231,7 +6205,6 @@ krisp.ai
 kubernetes-csi.github.io
 kubernetes.io
 kuna.io
-kws-companion/id1342124012
 kyc-onboarding.booking.com
 kyc-src.etoro.com
 kyc.etoro.com
@@ -6403,7 +6376,6 @@ mkapi.mackeeper.com
 mlivetickets.monash.edu
 mobile-prod.tvg.com
 mobile.monash
-mobile.nexuzhealth.be
 mobile.s-pankki.fi
 mobile.usaa.com
 mobileapi.lystit.com
@@ -6437,14 +6409,8 @@ my.pressable.com
 my.snapchat.com
 my.swiftfinancial.com
 my.thesecurityteam.rocks
-myaccount.parool.nl
 mydesktop.usaa.com
 mydesktop.wu.com
-mynexuz.be
-mynexuz.be/myUZ/
-mynexuzhealth/id1459856321
-myservices-api.stage.vismaonline.com
-myservices.stage.vismaonline.com
 myvpn.usaa.com
 naspers.com
 nav.naspers.com
@@ -6538,7 +6504,6 @@ nvoice.usaa.com
 nw.ring.com/*
 oauth-sandbox.gocardless.com
 oauth.deriv.com
-oauth.developers.stagaws.visma.com
 oauth.reddit.com
 oauth.ring.com/*
 obs-sensors.iris.acceptance.forescoutcloud.net
@@ -6791,7 +6756,6 @@ s3://faraday-secret
 s3://faraday-uploads
 safe.tumblr.com
 salesportal.hyatt.com
-sandbox.uphold.com/dashboard
 scan.nextcloud.com
 scan.snapchat.com
 scapegoat.hyatt.com
@@ -6841,7 +6805,6 @@ shop.infomaniak.com
 shop.judge.me
 shop.lululemon.com
 shop.monash.edu
-shop.parool.nl
 shop.shipt.com
 shop.thuisbezorgd.nl
 shop.tiktok.com
@@ -7009,7 +6972,6 @@ test.nicex.com
 test.rarible.com
 testapi.redoxengine.com
 testapp.redoxengine.com
-testing.maventa.com
 testnet.bitmex.com
 testnet.immutable.com
 tf2.exe
@@ -7061,7 +7023,6 @@ updates.forescout.com
 updates.frame.io
 updates.nextcloud.com
 updatetracker.clario.co
-uphold.com/dashboard
 upld.krisp.ai
 upsell.hyatt.com
 url5145.krisp.ai
@@ -7138,7 +7099,6 @@ webhooks.booking.com
 webhooks.gamma.redoxstage.com
 webmail.usaa.com
 webtoolbox.notebleue.pro
-webwinkel.parool.nl
 welcome.infomaniak.com
 werkenbijdefensie.nl
 werkenbijderet.nl
@@ -7361,8 +7321,6 @@ www.orbitz.com
 www.ovh.com
 www.ovh.com/manager
 www.pangleglobal.com
-www.parool.nl
-www.parool.nl/abonnementen
 www.paypal-*.com
 www.pineperks.in
 www.pixiv.net
