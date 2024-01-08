@@ -1190,6 +1190,7 @@ Actively Supported, Non-Reward Eligible Dell Products
 Add watchers at issue creation - Cloud - https://marketplace.atlassian.com/apps/1229183/add-watchers-at-issue-creation?hosting=cloud
 Admin Kit for Confluence Cloud - Cloud - https://marketplace.atlassian.com/apps/1225691/admin-kit-for-confluence-cloud?hosting=cloud
 Admin Kit for Jira Cloud - Cloud - https://marketplace.atlassian.com/apps/1225689/admin-kit-for-jira-cloud?hosting=cloud
+Admintool
 Adobe AIR
 Adobe Acrobat Reader DC
 Adobe Campaign
@@ -1610,6 +1611,8 @@ DSP
 Dashcards  - https://trello.com/power-ups/6048e897c73d032a983e2a7c/dashcards
 Data Generator for Jira - Server - https://marketplace.atlassian.com/apps/1210725/data-generator-for-jira?hosting=server
 Data Loss Prevention (DLP)
+Data portal
+Data.lime.bike 
 Database as a Service (DBaaS)
 Decisions Helper for Confluence - Cloud - https://marketplace.atlassian.com/apps/1226380/decisions-helper-for-confluence?hosting=cloud
 Delegated Directory Pruning for Crowd - Server - https://marketplace.atlassian.com/apps/1218630/delegated-directory-pruning-for-crowd?hosting=server
@@ -1823,6 +1826,7 @@ Indeed Job Search iOS
 Indeed Recruiter Extension (Chrome)
 Indoor Cam
 Infrastructure agents
+Inhouse deployment pipeline
 Insight Android App
 Insight Cloud Portal
 Insight Managed Smart Cloud Wireless Access Point
@@ -1911,6 +1915,7 @@ LINE Messenger - News
 LINE Messenger - OpenChat
 LINE Messenger - VOOM
 LINE Messenger - VoIP
+LP dashboard
 LastPass Authenticator Android app
 LastPass Authenticator iOS app
 LastPass browser extensions (Chrome / Safari / Edge / Firefox)
@@ -1926,6 +1931,7 @@ Lens Studio
 Lightroom
 Lightroom Classic
 Lightway Core
+Lime website
 Linktree Android app
 Linktree iOS app
 List Limits Power-Up
@@ -2274,6 +2280,8 @@ Researcher owned WHMCS Instance
 Review Creator for Fisheye - Server - https://marketplace.atlassian.com/apps/14896/review-creator-for-fisheye?hosting=server
 Reviewer Suggester for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1211619/reviewer-suggester-for-bitbucket-server?hosting=server
 Rich Text Gadget for Jira - Cloud - https://marketplace.atlassian.com/apps/1214632/rich-text-gadget-for-jira?hosting=cloud
+Rider Android
+Rider iOS
 Ring Alarm
 Ring Smart Lighting Bridge
 Roblox Client
@@ -2382,6 +2390,8 @@ Superdrug (subdomains)
 Superdrug.App.Android
 Superdrug.App.IOS
 Superdrug.Healthera.App.Android
+Supply Android
+Supply iOS
 SurveyMonkey - https://trello.com/power-ups/568c143d95adcd7308cbc3fb/surveymonkey
 Synthetics minions (public and private)
 System Specification
@@ -2709,6 +2719,7 @@ admin.wickr.com
 admincms.monespacesante.fr
 adminconsole.adobe.com
 adminstore.monespacesante.fr
+admintool.lime.bike
 adobeid.services.adobe.com
 adobelogin.com
 ads-api.reddit.com
@@ -3857,6 +3868,7 @@ experiences.booking.com
 explore.redoxengine.com
 expressobutiolem.onion
 ext-gw.lahitapiola.fi
+external-api.lime.bike
 external.indrive.dev
 external.logitech.com
 externalconnect.usaa.com
@@ -3999,6 +4011,7 @@ help.coinhako.com
 help.databricks.com
 help.etsy.com
 help.krisp.ai
+help.lime.bike
 help.netflix.com
 help.nextcloud.com
 help.redoxengine.com
@@ -4147,6 +4160,7 @@ https://admin.foxy.io/
 https://admin.foxycart.com
 https://admin.moneyboxapp.org/
 https://admin3.pentest.clicsante.ca
+https://admintool.lime.bike
 https://aemdam.usaa360.com/
 https://affiliate.cryptology.com/
 https://agent.apps.monash.edu/
@@ -4310,6 +4324,8 @@ https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
 https://apps.apple.com/br/app/nubank-conta-e-cart%C3%A3o/id814456780
 https://apps.apple.com/ca/app/credit-karma/id1398558151?ls=1
+https://apps.apple.com/ca/app/lime-ridegreen/id1199780189
+https://apps.apple.com/ca/app/lime-supply/id1620058457
 https://apps.apple.com/ch/app/die-post/id378676700
 https://apps.apple.com/fr/app/blablalines-covoiturage/id1225543288
 https://apps.apple.com/fr/app/dailymotion/id336978041
@@ -4582,6 +4598,7 @@ https://dashboard.sendbird.com/
 https://dashboard.stag.henchman.io
 https://dashboard.unity3d.com
 https://data.coda.io/*
+https://data.limeinternal.com
 https://data.prosus.com/
 https://datadome.co
 https://dataportal.originenergy.com.au
@@ -5242,6 +5259,7 @@ https://login.echobox.dev/
 https://login.neogov.com
 https://login.salt.ch
 https://lounge.pinelabs.com/loungeui/login
+https://lp.lime.bike/
 https://luna.amazon.com/*
 https://m.bitforex.com/en/download
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
@@ -5647,6 +5665,7 @@ https://opensource.epam.com
 https://ops-dashboard.stag.henchman.io
 https://ops-tool.internal.bbp-mettle.co.uk/
 https://optimizely-edge.com
+https://orchard.limeinternal.com
 https://ort-admin.pingone.com/*
 https://ort-authenticator.pingone.com/*
 https://ort-desktop.pingone.com/*
@@ -5751,6 +5770,7 @@ https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US
 https://play.google.com/store/apps/details?id=com.keepersecurity.chat&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.lastpass.authenticator&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.lazada.android&hl=en_SG
+https://play.google.com/store/apps/details?id=com.limebike
 https://play.google.com/store/apps/details?id=com.maf.share&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.mapmyfitness.android2&hl=en&pli=1
 https://play.google.com/store/apps/details?id=com.moneyboxapp
@@ -6234,6 +6254,7 @@ https://www.landbote.ch
 https://www.langenthalertagblatt.ch
 https://www.letspaylater.ph/
 https://www.letspaylater.sg/
+https://www.li.me/
 https://www.lieferando.de/thetakeaway/
 https://www.lululemon.co.jp/
 https://www.lululemon.co.nz
@@ -6579,6 +6600,7 @@ js.crypto.com
 js.stripe.com
 jss.greenhouse.io
 judge.me
+juicer.lime.bike
 juniormusical.ketnet.be
 k8s.gcr.io
 k8s.io
@@ -7012,6 +7034,7 @@ openapi.starbucks.com
 opensea.io
 oprc.portofantwerpbruges.com
 ops-tool.internal.bbp-mettle.co.uk
+ops.lime.bike
 opsgenie-bamboo-plugin - Server - https://marketplace.atlassian.com/apps/1224300/opsgenie-bamboo-plugin?hosting=server
 opslogin.fr.cloud.gov
 orc-xfi.com
@@ -7156,6 +7179,7 @@ prometheus.fr.cloud.gov
 promos.tvg.com
 prosus.com
 prow.k8s.io
+proxy-production.lime.bike
 public.hyatt.com
 public.poloniex.com
 push-d-gw.cloud.etoro.com
@@ -7459,6 +7483,7 @@ super-services.indriverapp.com
 super6.skysports.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
+supply.lime.bike
 support-api.airbnb.com
 support.avalabs.org
 support.creditkarma.ca
@@ -7657,6 +7682,9 @@ watchgod.polygon.technology
 watchlistapi.etoro.com
 weather.opera-api.com
 web-app.eevee.bbp-mettle.co.uk
+web-message-high.lime.bike
+web-message.lime.bike
+web-production.lime.bike
 web.bittrex.com
 web.grindr.com
 web.snapchat.com
