@@ -582,9 +582,9 @@
 *.paypalcorp.com
 *.personio-internal.de
 *.personio.de
-*.personio.de/whistleblowing
+*.personio.de/compensation
+*.personio.de/svc/compensation/graphql
 *.personio.tools
-*.personiowhistleblowing.com
 *.pexels.com
 *.phonegap.com
 *.pinterest.com Web Apps

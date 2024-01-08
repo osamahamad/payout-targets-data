@@ -616,9 +616,9 @@
 *.paypalcorp.com
 *.personio-internal.de
 *.personio.de
-*.personio.de/whistleblowing
+*.personio.de/compensation
+*.personio.de/svc/compensation/graphql
 *.personio.tools
-*.personiowhistleblowing.com
 *.pexels.com
 *.phonegap.com
 *.pinterest.com Web Apps
@@ -4502,6 +4502,8 @@ https://bscscan.com/address/0xb891Aeb2130805171796644a2af76Fc7Ff25a0b9
 https://bscscan.com/address/0xcB0620b181140e57D1C0D8b724cde623cA963c8C
 https://bscscan.com/address/0xec203E7676C45455BF8cb43D28F9556F014Ab461
 https://bscscan.com/token/0x5C65BAdf7F97345B7B92776b22255c973234EfE7
+https://bugcrowd-oie-%username%-1.workflows.oktapreview.com
+https://bugcrowd-oie-%username%-2.workflows.oktapreview.com
 https://bugcrowd.com/programs
 https://bugcrowd.hotdoc.com.au
 https://bugcrowd.hotdoc.com.au (Patients)
