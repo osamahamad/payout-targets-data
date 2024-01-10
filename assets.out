@@ -773,7 +773,9 @@
 *.soundcloud.org
 *.spinaway.com
 *.sportinglife.com
+*.sprint.apps.dynatracelabs.com
 *.sprint.com
+*.sprint.dynatracelabs.com
 *.sqills.com
 *.sqills.team
 *.square.com
@@ -1231,6 +1233,7 @@ All Assets (other than Blinkit)
 All Blinkit assets (in scope)
 All Mobile Assets
 All Other BitMEX Assets
+All other Assets
 All other assets
 All the Blockchain Infrastructure
 Amazon Retail Subsidiaries (Please only actively test explicitly stated scope)
@@ -1581,6 +1584,7 @@ Contrast TeamServer - See "Testing Instructions" below
 Copy Source for Fisheye and Crucible - Server - https://marketplace.atlassian.com/apps/1215624/copy-source-for-fisheye-and-crucible?hosting=server
 Copy Space for Confluence - Server - https://marketplace.atlassian.com/apps/212/copy-space-for-confluence?hosting=server
 Core Android App
+Core Assets
 Core Browser Extension
 Core Priceless.com - demo.priceless.com
 Core Web Wallet
@@ -1657,6 +1661,9 @@ Dropbox Paper Android App
 Dropbox Paper iOS app
 Dropbox Sign (formerly HelloSign) Android App
 Dropbox iOS app
+Dynatrace ActiveGate
+Dynatrace MobileAgent
+Dynatrace OneAgent
 EOS C# SDK
 Echo Family Devices
 Edge extension (download at: ms-windows-store://pdp/?productid=9nblggh4v89b )
@@ -2671,6 +2678,7 @@ academy-outbound-ads.tiktok.com
 academy.databricks.com
 access.ripe.net
 accommodations.booking.com
+account-sprint.dynatracelabs.com
 account.acronis.com
 account.adobe.com
 account.booking.com
@@ -4794,6 +4802,9 @@ https://github.com/DODOEX/dodo-v3/tree/main/contracts/DODOV3MM
 https://github.com/DeltaPrimeLabs/deltaprime-primeloans/tree/dev/main
 https://github.com/Dexalot/contracts
 https://github.com/DopplerHQ/cli
+https://github.com/Dynatrace
+https://github.com/Dynatrace-innovationlab
+https://github.com/Dynatrace-oss-contrib
 https://github.com/Electron
 https://github.com/ExzoNetwork/Exzo-Network-Blockchain
 https://github.com/ExzoNetwork/Exzo-Network-Native-Block-Explorer
@@ -6915,6 +6926,7 @@ my.snapchat.com
 my.swiftfinancial.com
 my.thesecurityteam.rocks
 my.tomorrowland.com
+myaccount-hardening.dynatracelabs.com
 myaccount.ad.nl
 myaccount.demorgen.be
 myaccount.hln.be
@@ -7437,6 +7449,7 @@ sportsbook.fanduel.com
 sporza.be
 sprint.com
 ssh.fr.cloud.gov
+sso-sprint.dynatracelabs.com
 sso.8x8.com
 sso.8x8pilot.com
 sso.marriott.com
@@ -7626,6 +7639,7 @@ uk.web.com
 unibet.me
 unifi.ui.com
 unihub.monash.edu
+university-staging.dynatracelabs.com
 updater.clario.co
 updates.forescout.com
 updates.frame.io
