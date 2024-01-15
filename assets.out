@@ -2102,9 +2102,6 @@ Niland
 Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
 Node.js agent
-NordLocker - Android Application
-NordLocker - MacOS Executable
-NordLocker - Windows Executable
 NordPass - Linux Executable
 NordPass - MacOS Executable
 NordPass - Windows Executable
@@ -3302,7 +3299,6 @@ cloud.elastic.co
 cloud.gov
 cloud.gravitational.io
 cloud.malwarebytes.com
-cloud.nordlocker.com
 cloud.update.justeattakeaway.com
 cloud.update.takeaway.com
 cloud8.8x8.com
@@ -4133,7 +4129,10 @@ http://rei.com/events
 http://rei.com/learn/expert-advice
 http://rei.com/rei-garage
 http://rosetta.oasis.dev/api/mainnet
+http://sandbox-api.fireblocks.io
 http://sapphire.oasis.io
+http://sb-console-api.fireblocks.io
+http://sb-mobile-api.fireblocks.io
 http://secure-iphone-xml.booking.com/json/
 http://secure.netflix.com
 http://skinport.com/blog/
@@ -7328,6 +7327,7 @@ s3://faraday-secret
 s3://faraday-uploads
 safe.tumblr.com
 salesportal.hyatt.com
+sandbox.fireblocks.io
 sandbox.uphold.com/dashboard
 sbbstimme.sbb.ch
 scan.nextcloud.com
@@ -7910,6 +7910,7 @@ www.fedramp.gov
 www.fewo-direkt.de
 www.figma.com
 www.files.com
+www.fireblocks.com
 www.fitbook.de
 www.flights.com
 www.forescout.com

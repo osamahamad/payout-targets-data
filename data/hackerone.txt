@@ -319,6 +319,11 @@ dookeydash.com
 hv-mtl.com
 app.moderntreasury.com
 cdn.moderntreasury.com
+http://sandbox-api.fireblocks.io
+http://sb-console-api.fireblocks.io
+http://sb-mobile-api.fireblocks.io
+sandbox.fireblocks.io
+www.fireblocks.com
 askpam.ai
 cloud.gravitational.io
 h1-your-domain.teleport.sh
@@ -2228,9 +2233,6 @@ www.shipt.com
 1486322860
 905953485
 All Mobile Assets
-NordLocker - Android Application
-NordLocker - MacOS Executable
-NordLocker - Windows Executable
 NordPass - Linux Executable
 NordPass - MacOS Executable
 NordPass - Windows Executable
@@ -2239,7 +2241,6 @@ NordVPN - MacOS Executable
 NordVPN - Windows Executable
 NordVPN Browser Extension
 app.nordpass.com
-cloud.nordlocker.com
 com.nordpass.android.app.password.manager
 com.nordvpn.android
 com.nordvpn.android
