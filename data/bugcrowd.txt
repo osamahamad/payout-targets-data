@@ -1826,6 +1826,8 @@ https://dxc.episerver.net/
 https://optimizely-edge.com
 https://paasportal.episerver.net/
 https://paasportal.episerver.net/api/v1.0/
+https://api.orderly.org/
+https://orderly.network/
 dataportal.originenergy.com.au
 https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
 https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql
@@ -2579,8 +2581,6 @@ transferwise.com
 wise.com
 https://api.woo.org/
 https://x.woo.org/
-https://api.orderly.org/
-https://orderly.network/
 Wyze Cam V3
 https://api.wyzecam.com
 https://auth.wyze.com
