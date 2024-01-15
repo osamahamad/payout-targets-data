@@ -4138,8 +4138,6 @@ http://secure-iphone-xml.booking.com/json/
 http://secure.netflix.com
 http://skinport.com/blog/
 http://socialdeal.nl/inspirations/bluemonday/
-http://stage.nl.echobox.dev/
-http://stage.sl.echobox.dev/
 http://vimeo.com/api
 http://vimeo.com/create
 http://vimeo.com/ondemand
@@ -4542,8 +4540,6 @@ https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
 https://butlerfortrello.com/
-https://campaignapi-stage.service.echobox.com
-https://campaignapi-stage.service.echobox.com/v3/serviceauth
 https://canva.cn/developers 
 https://canva.com/developers
 https://carbonneutral.ampol.com.au/
@@ -4599,7 +4595,6 @@ https://content-server.ibotta.com/graphql
 https://content.usaa.com
 https://contrastsecurity.dev/
 https://coral.20min.ch/
-https://coreapi-stage.service.echobox.com (aka https://properties.service.echobox.com)
 https://corporate.westernunion.com
 https://create.gx.games
 https://crosskey.io/stores/s-pankki/apis
@@ -4904,8 +4899,6 @@ https://github.com/dao-envelop/envelop-protocol-v1/blob/master/contracts/Envelop
 https://github.com/dao-envelop/envelop-protocol-v1/blob/master/contracts/WrapperBaseV1.sol
 https://github.com/dexe-network/DeXe-Protocol/tree/master/contracts
 https://github.com/django
-https://github.com/ebx/ebx-clientauth-backend-sdk
-https://github.com/ebx/ebx-serviceauth-sdk
 https://github.com/electroneum/electroneum-sc/
 https://github.com/electroneum/electroneum/
 https://github.com/endojs
@@ -5293,7 +5286,6 @@ https://liveassist22.usaa.com/
 https://liveassist23.usaa.com
 https://liveassist24.usaa.com
 https://location.westernunion.com
-https://login.echobox.dev/
 https://login.neogov.com
 https://login.salt.ch
 https://lounge.pinelabs.com/loungeui/login
@@ -6005,8 +5997,6 @@ https://skipthedishes.com
 https://smartmockups.com/
 https://smr.sitemercado.com.br
 https://snapnames.com/
-https://socialapi-stage.service.echobox.com
-https://socialapi-stage.service.echobox.com/v3/serviceauth
 https://song.link
 https://songlink.io
 https://sos-ch-gva-2.exo.io/
@@ -6015,7 +6005,6 @@ https://speeddials.opera.com
 https://sprint.com
 https://src.mastercard.com/*
 https://src.mastercard.com/profile/enroll
-https://stage.emailreporting.service.echobox.com/
 https://staging-app.ynab.com
 https://staging-app.ynab.com/
 https://staging-prime.navan.com
