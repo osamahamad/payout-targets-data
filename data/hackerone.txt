@@ -102,18 +102,18 @@ Ring Alarm
 Ring Smart Lighting Bridge
 Stickup Cam
 Video Doorbell
-admin.ring.com/*
-api.ring.com/*
-app.ring.com/*
-billing.ring.com/*
 com.immediasemi.android.blink
 com.ring.neighborhoods
 com.ringapp
-fw.ring.com/*
-nw.ring.com/*
-oauth.ring.com/*
+https://admin.ring.com/*
+https://api.ring.com/*
+https://app.ring.com/*
+https://billing.ring.com/*
+https://fw.ring.com/*
+https://nw.ring.com/*
+https://oauth.ring.com/*
+https://ring.com/*
 prd-ring-web-us.prd.rings.solutions
-ring.com/*
 Mozilla VPN Clients
 Product Delivery
 accounts.firefox.com
@@ -149,7 +149,6 @@ https://us.eufy.com/products/t88511d1
 https://us.eufy.com/products/t88711w1
 https://www.ankermake.com/products/m5?variant=42744298373269
 1023499075
-api-user.e2ro.com/*
 com.eero.android
 eero (2nd Generation)
 eero 6 (3rd Generation)
@@ -159,7 +158,8 @@ eero 6+ (4th Gen)
 eero 6E Pro (4th Gen)
 eero Beacon (2nd Generation)
 eero Pro (2nd Generation)
-node.e2ro.com/*
+https://api-user.e2ro.com/*
+https://node.e2ro.com/*
 api.profiler.firefox.com
 community-tc.services.mozilla.com
 developer.mozilla.org

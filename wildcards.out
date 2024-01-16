@@ -2,6 +2,7 @@
  Twilio CDNs (static*.twilio.com)
 *-api-*.acronis.com
 *-cvr-aws-*.sys.comcast.net
+*. tube8.com
 *.000webhost.com
 *.10bis.co.il
 *.10ktf.com
@@ -29,6 +30,8 @@
 *.adobeaemcloud.com
 *.adobeconnect.com
 *.adobecqms.net
+*.adultforce.com
+*.adultforce.com 
 *.advisorsolutions.gs.com
 *.aips-internal.com
 *.airbnb-aws.com
@@ -805,6 +808,8 @@
 *.tr.ee
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trafficfactory.biz
+*.trafficjunky.com
+*.trafficjunky.com 
 *.transferwise.com
 *.trello.services
 *.trip.com
@@ -815,6 +820,7 @@
 *.tstaging.com
 *.tstaging.tools
 *.tt.omtrdc.net
+*.tube8.com
 *.tubemogul.com
 *.tumblr.com
 *.tweakblogs.net

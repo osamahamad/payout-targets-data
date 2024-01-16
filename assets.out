@@ -36,6 +36,7 @@
 *-api-*.acronis.com
 *-bugcrowd.foxycart.com (read below for details)
 *-cvr-aws-*.sys.comcast.net
+*. tube8.com
 *.000webhost.com
 *.10bis.co.il
 *.10ktf.com
@@ -63,6 +64,8 @@
 *.adobeaemcloud.com
 *.adobeconnect.com
 *.adobecqms.net
+*.adultforce.com
+*.adultforce.com 
 *.advisorsolutions.gs.com
 *.aips-internal.com
 *.airbnb-aws.com
@@ -839,6 +842,8 @@
 *.tr.ee
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trafficfactory.biz
+*.trafficjunky.com
+*.trafficjunky.com 
 *.transferwise.com
 *.trello.services
 *.trip.com
@@ -849,6 +854,7 @@
 *.tstaging.com
 *.tstaging.tools
 *.tt.omtrdc.net
+*.tube8.com
 *.tubemogul.com
 *.tumblr.com
 *.tweakblogs.net
@@ -2727,7 +2733,6 @@ admin.instacart.com
 admin.kunapay.io
 admin.rarible.com
 admin.rezserver.com
-admin.ring.com/*
 admin.shipt.com
 admin.shopify.com
 admin.smartsheet.com
@@ -2795,7 +2800,6 @@ api-sandbox.gocardless.com
 api-sandbox.uphold.com
 api-staging.airtable.com
 api-staging.venly.market
-api-user.e2ro.com/*
 api-v2.frame.io
 api-wallet.venly.io
 api.23andme.com
@@ -2914,7 +2918,6 @@ api.recarga.com
 api.recordedfuture.com
 api.reddit.com
 api.rezserver.com
-api.ring.com/*
 api.segment.io
 api.sendgrid.com
 api.sentiance.com
@@ -3033,7 +3036,6 @@ app.opsgenie.com
 app.pullrequest.com
 app.quovo.com
 app.recordedfuture.com
-app.ring.com/*
 app.sandbox.directly.com
 app.segment.com
 app.shapeshift.com
@@ -3159,7 +3161,6 @@ bff.ketnet.be
 bigcommerce-adapter.judge.me
 billing-pci.etoro.com
 billing.etoro.com
-billing.ring.com/*
 billingsupport.chaturbate.com
 biometservices.com
 bitso.com
@@ -3949,7 +3950,6 @@ fresh.amazon.*
 fs.rarible.com
 fv3lfbdyjh.infomaniak.site
 fw-update.ubnt.com
-fw.ring.com/*
 gaming.logicool.co.jp
 gamma.grab.co
 gamma.redoxstage.com
@@ -4179,6 +4179,7 @@ https://admin.atlassian.com/atlassian-access
 https://admin.foxy.io/
 https://admin.foxycart.com
 https://admin.moneyboxapp.org/
+https://admin.ring.com/*
 https://admin3.pentest.clicsante.ca
 https://admintool.lime.bike
 https://aemdam.usaa360.com/
@@ -4212,6 +4213,7 @@ https://api-staging.pingone.com/*
 https://api-test.nicehash.com
 https://api-test.nicex.com
 https://api-test.nicex.com/
+https://api-user.e2ro.com/*
 https://api-{app-id}.calls.sendbird.com
 https://api-{application_id}.sendbird.com
 https://api.20min.ch/
@@ -4262,11 +4264,13 @@ https://api.openai.com
 https://api.optimizely.com/
 https://api.orderly.org/
 https://api.planethoster.net
+https://api.pornhub.com/
 https://api.probit.com/api/
 https://api.prod.optimizely.com
 https://api.production.cde.tamg.cloud
 https://api.rec.net
 https://api.rec.net/
+https://api.ring.com/*
 https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
 https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql
 https://api.rx.originenergy.com.au/v1/lpg/graphql
@@ -4316,6 +4320,7 @@ https://app.opsgeni.us
 https://app.optimizely.com/
 https://app.pentest.digistorm.com
 https://app.pentest.digistorm.com/graphql
+https://app.ring.com/*
 https://app.routerprotocol.com/
 https://app.sandbox.digistorm.com/
 https://app.sandbox.digistorm.com/graphql
@@ -4487,6 +4492,7 @@ https://basescan.org/address/0xdd4536dD9636564D891c919416880a3e250f975A
 https://beacon.netflix.com
 https://bigcommerce.com/blog
 https://bigcommerce.com/make-it-big
+https://billing.ring.com/*
 https://billingonline.post.ch/OnlinePayment/Web/v1/BOI
 https://billingserver.pinelabs.com/
 https://bingx-api.github.io/docs/swap/introduce.html
@@ -4750,6 +4756,7 @@ https://form.asana.com
 https://foundation.westernunion.com
 https://foxycart-demo.foxycart.com/cart
 https://futures.coinstore.com/api
+https://fw.ring.com/*
 https://gaadmin.vfsglobal.com/AustraliaApptAdmin/
 https://gaadmin.vfsglobal.com/DHAAppointmentAdmin
 https://gaadmin.vfsglobal.com/GAR1Ph1ApptAdmin/
@@ -5630,6 +5637,7 @@ https://mlivetickets.monash.edu
 https://mobile-production.content-square.net/
 https://mobile.monash/ 
 https://mobile.ooredoo.qa
+https://mobile.pornhub.com/
 https://mobile.usaa.com
 https://mobileapp.opsgeni.us
 https://mobileapps.usaa.com/
@@ -5669,9 +5677,12 @@ https://net.geo.opera.com
 https://newsletter.thuisbezorgd.nl
 https://nice.wfmusaa.com
 https://nmtracking.netflix.com
+https://node.e2ro.com/*
 https://nu.com.mx/
 https://nubank.com.br/
 https://nvoice.usaa.com/
+https://nw.ring.com/*
+https://oauth.ring.com/*
 https://octopus.com
 https://octopus.com/downloads
 https://oda.com
@@ -5940,6 +5951,7 @@ https://reptox.cnesst.gouv.qc.ca
 https://res.cloudinary.com
 https://resume.com
 https://rewards.gdx.org/
+https://ring.com/*
 https://rusadminappt.vfsglobal.com/Global-Admin/
 https://s.contentsquare.net
 https://s.usaa.com/
@@ -6359,6 +6371,9 @@ https://www.pexels.com/
 https://www.pinelabs.ae/
 https://www.pionex.com/
 https://www.planethoster.com
+https://www.pornhub.com/
+https://www.pornhubpremium.com/
+https://www.pornmd.com/
 https://www.ppr.kiwai-enr.fr/
 https://www.privateinternetaccess.com/
 https://www.privateinternetaccess.com/download/linux-vpn
@@ -6410,6 +6425,8 @@ https://www.recreation.gov/tree-permits
 https://www.recreation.gov/trips
 https://www.recreation.gov/use-our-data
 https://www.recreation.gov/whats-new
+https://www.redtube.com/
+https://www.redtubepremium.com/
 https://www.remove.bg
 https://www.routerprotocol.com/
 https://www.sharerewards.com/
@@ -6432,6 +6449,7 @@ https://www.theperfumeshop.com/blog/
 https://www.theperfumeshop.com/ie/blog/
 https://www.thousandeyes.com/
 https://www.thuisbezorgd.nl/aanmelden
+https://www.thumbzilla.com/
 https://www.thunertagblatt.ch
 https://www.toobit.com/
 https://www.toursgds.com/
@@ -6489,6 +6507,8 @@ https://www.xbox.com/en-us/games/store/rec-room/9pgpqk0xthrz
 https://www.xfinity.com/apps
 https://www.xt.com
 https://www.xvideos.net/app/
+https://www.youporn.com/
+https://www.youpornpremium.com/
 https://www.zabbix.com/download_sources
 https://www.zaproxy.org
 https://www.zetachain.com/
@@ -7026,7 +7046,6 @@ nl.vidaxl.be
 nmtracking.netflix.com
 no-reply.cloud
 no.kolonial.tienda
-node.e2ro.com/*
 nossl.nl
 novel.pixiv.net
 npm CLI
@@ -7035,13 +7054,11 @@ npmjs.org
 nvio.ar
 nvio.mx
 nvoice.usaa.com
-nw.ring.com/*
 nz.co.vista.android.movie.mjrtheatres
 oauth-sandbox.gocardless.com
 oauth.deriv.com
 oauth.developers.stagaws.visma.com
 oauth.reddit.com
-oauth.ring.com/*
 obs-sensors.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 octopus.com
@@ -7290,7 +7307,6 @@ restaurant-api.takeaway.com
 resume.com
 reviewer.pullrequest.com
 rezagent.triseptsolutions.com
-ring.com/*
 rma.ui.com
 ro.superbet.games
 ro.superbet.sport
