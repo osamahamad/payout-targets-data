@@ -2,6 +2,7 @@
 *.alasco.de
 *.alasco.rocks
 *.contentsquare.com
+matrix.agent.*.tchap.gouv.fr
 *.dailymotion.com
 *.api.dailymotion.com
 *.dmcdn.net
@@ -33,7 +34,6 @@ swiss-backup*.infomaniak.com
 *.ovo.id
 *.taralite.com
 *.app.spacelift.dev
-matrix.agent.*.tchap.gouv.fr
 *.telenor.se
 *.bredbandsbolaget.se
 *.europolitan.se
