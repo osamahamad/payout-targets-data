@@ -985,6 +985,8 @@
 1099986434
 10x.redoxengine.com
 1101145849
+1114799709
+1114800186
 1118448159
 1127881507
 1135288773
@@ -2802,9 +2804,7 @@ api-saas.dana.id
 api-sandbox.gocardless.com
 api-sandbox.uphold.com
 api-staging.airtable.com
-api-staging.venly.market
 api-v2.frame.io
-api-wallet.venly.io
 api.23andme.com
 api.account.clario.co
 api.adm.cloud.com
@@ -2814,7 +2814,6 @@ api.alasco.de
 api.amazon.com
 api.amazonalexa.com/*
 api.anytask.thesecurityteam.rocks
-api.arkane.network
 api.atg.se
 api.au.frontegg.com
 api.avax-test.network
@@ -2935,6 +2934,7 @@ api.smtp2go.com
 api.sokos.fi
 api.sonantic.io
 api.sorare.com
+api.soundtrackyourbrand.com
 api.sporza.be
 api.spotify.com
 api.stage.evernote.com
@@ -2960,7 +2960,6 @@ api.uphold.com
 api.upwork.com/graphql
 api.us.veriff.me
 api.usaa.com
-api.venly.market
 api.veriff.me
 api.vhx.tv
 api.vidaxl.com
@@ -3166,6 +3165,7 @@ beta.rarible.com
 bff.ketnet.be
 bigcommerce-adapter.judge.me
 billing-pci.etoro.com
+billing.api.soundtrackyourbrand.com
 billing.etoro.com
 billingsupport.chaturbate.com
 biometservices.com
@@ -3222,6 +3222,7 @@ bugcrowd.com
 bugs.opera.com
 bugzilla.mozilla.org
 builds-auckland.ninja.kiwi
+builds.soundtrackyourbrand.com
 bullsheet.me
 burn.polygon.technology
 business.kayak.com
@@ -3230,6 +3231,7 @@ business.kinepolis.lu
 business.kinepolis.nl
 business.linkedin.com
 business.snapchat.com
+business.soundtrackyourbrand.com
 business.tiktok.com
 businesshelp.snapchat.com
 buy.logitech.com
@@ -3552,6 +3554,7 @@ com.slack.slackmdm
 com.smartsheet.android
 com.smartsheet.smartsheet
 com.snapchat.android
+com.soundtrackyourbrand.soundtrack.player
 com.soundtrap.studioapp
 com.spotify.client
 com.spotify.kids
@@ -3652,11 +3655,9 @@ configure.mini.de
 confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
-connect.arkane.network
 connect.deezer.com
 connect.identity.stagaws.visma.com
 connect.monash.edu
-connect.venly.io
 consensys.net
 console-backend.truelayer[-sandbox].com
 console.aiven.io
@@ -3873,10 +3874,8 @@ eu.remix.com
 eu1.badoo.com
 evening-earth.gamma.redoxstage.com
 event.clario.co
-events-staging.venly.market
 events.launchdarkly.com
 events.onecloud.harman.com
-events.venly.market
 exchange.adobe.com
 exchange.opera.com
 exmo.com
@@ -4469,6 +4468,7 @@ https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://asymetrix.io/
 https://aurora.plus/
 https://auth-ywh.it.authentification.si.gouv.qc.ca
+https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.foxy.io/
@@ -4548,6 +4548,7 @@ https://bugcrowd.hotdoc.com.au/dashboard (Clinic Dashboard)
 https://bugs.opera.com/
 https://build.caffeine.tv/
 https://build.twilio.com/s/
+https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
@@ -5935,6 +5936,7 @@ https://projects.epam.com
 https://prs.payments.r1s-prod.com
 https://public-ipfs-mainnet.ternoa.network
 https://public.je-apis.com
+https://radio.api.soundtrackyourbrand.com/
 https://rarible.com/
 https://rbo.raiffeisen.ua/
 https://rc.fstr.rocks
@@ -6432,6 +6434,7 @@ https://www.skidxb.com/
 https://www.skroutz.gr/
 https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
+https://www.soundtrackyourbrand.com
 https://www.sourcetreeapp.com/
 https://www.status-takeaway.com/status
 https://www.superdrug.com/blog/
@@ -6742,7 +6745,6 @@ login-4ngbets.us.betfair.com
 login-accpt.portofantwerpbruges.com
 login-api.truelayer[-sandbox].com
 login-ia.tvg.com
-login.arkane.network
 login.cm.com
 login.delen.be
 login.delen.ch
@@ -6762,7 +6764,6 @@ login.swapcard.com
 login.tide.co
 login.truelayer[-sandbox].com
 login.tvg.com
-login.venly.io
 login.vrt.be
 login.www.vaxvacationaccess.com
 logistics.amazon.*
@@ -6794,6 +6795,7 @@ m.krisha.kz
 m.poloniex.com
 m.reddit.com
 m.trendyol.com
+macOS app
 mackeeper.com
 magazine.ketnet.be
 magento.com
@@ -7479,7 +7481,6 @@ staging-xray.october.eu
 staging.airtable.com
 staging.gearset.com
 staging.magisto.com
-staging.venly.market
 staging.vidaxl.io
 staking-api.polygon.technology
 staking-uat.codefi.network
@@ -7688,7 +7689,6 @@ vault.omise.co
 vcc-*.8x8.com
 vcn-hackerone.affirm-odin.com
 vendorss.usaa.com
-venly.market
 verify.rapyd.net
 verkkopalvelu.tapiola.fi
 verovelvollisuustiedot.lahitapiola.fi
@@ -7727,7 +7727,6 @@ wallet.etoro.com
 wallet.near.org
 wallet.oasis.io
 wallet.polygon.technology
-wallet.venly.io
 walletproxy.tapayments.com
 walletproxy1.tapayments.com
 walletproxy2.tapayments.com
