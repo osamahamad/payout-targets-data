@@ -693,6 +693,7 @@
 *.reposify.com
 *.restintergamma.nl
 *.rhinternal.net
+*.ripe.net
 *.robinhood.com
 *.robinhood.net
 *.roblox.com
@@ -1043,6 +1044,7 @@
 192.251.124.0/24
 192.251.125.0/24
 192.251.126.0/24
+193.0.0.0/19 and 2001:67c:2e8::/48
 194.90.151.192/28
 194.90.25.80/29
 194.90.89.165/32
@@ -2689,6 +2691,7 @@ ab2b0c50cdc7b445391f99d4957850c5-cd4ccfdb37dfafad.elb.us-east-1.amazonaws.com
 about.gitlab.com
 academy-outbound-ads.tiktok.com
 academy.databricks.com
+access.ripe.net
 accommodations.booking.com
 account-sprint.dynatracelabs.com
 account.acronis.com
@@ -4859,6 +4862,13 @@ https://github.com/P2B-team/p2b-api-docs
 https://github.com/PandoraDigital/smart-contract
 https://github.com/Plisio
 https://github.com/ProjectOpenSea/seaport#deployments
+https://github.com/RIPE-NCC/rpki-commons
+https://github.com/RIPE-NCC/rpki-core
+https://github.com/RIPE-NCC/rpki-monitoring
+https://github.com/RIPE-NCC/rpki-publication-server
+https://github.com/RIPE-NCC/rpki-ta-0
+https://github.com/RIPE-NCC/rsyncit
+https://github.com/RIPE-NCC/whois
 https://github.com/Virtuswap/v1-core/tree/main/contracts
 https://github.com/adobe/*
 https://github.com/apache/airflow
@@ -6729,6 +6739,7 @@ linkpop.com
 links.rarible.com
 liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
+lirportal.ripe.net
 lisasijoitus.lahitapiola.fi
 list-v2--netlify-plugins.netlify.app
 lists.nextcloud.com
