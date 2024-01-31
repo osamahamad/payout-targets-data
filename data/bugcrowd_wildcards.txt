@@ -1,5 +1,6 @@
 *.acorns.com
 *.acorns.com
+portalapi.*.afterpay.com
 *.arlo.com (production servers only)
 *.arloxcld.com (production servers only)
 *.arubanetworks.com
