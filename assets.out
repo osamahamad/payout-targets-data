@@ -1943,6 +1943,8 @@ LINE Messenger - VoIP
 LP dashboard
 LastPass Authenticator Android app
 LastPass Authenticator iOS app
+LastPass Password Manager(Android)
+LastPass Password Manager(IOS)
 LastPass browser extensions (Chrome / Safari / Edge / Firefox)
 Latest Supported LTS versions of the Unity Editor ( 2020.x / 2021.x / 2022.x ) 
 Latest ZAP version (2.14.0)
@@ -1962,7 +1964,7 @@ Linktree iOS app
 List Limits Power-Up
 Livestream software (Producer, Studio)
 Load Balancing
-Local computer apps (UWP application / Windows installer (MSI))
+Local computer apps (UWP application / Windows installer (MSI) / MacOS)
 Localized airbnb sites listed at the link below:
 Localized versions of www.tripadvisor.com available from the site's header or footer
 Logi Options+ PC/MAC
@@ -2637,6 +2639,7 @@ Workers AI
 Workers KV
 Workflow Screenshot for Jira - Server - https://marketplace.atlassian.com/apps/1215704/workflow-screenshot-for-jira?hosting=server
 Workfront Outlook Plugin
+Workstation MFA (WMFA)
 Wyze Cam V3
 XD
 XG Firewall
@@ -4207,6 +4210,7 @@ https://account.post.ch
 https://account.t-mobile.com
 https://account.withings.com
 https://accounts.creditkarma.com
+https://accounts.lastpass.com
 https://accounts.opera.com
 https://accounts.welcomesoftware.com/
 https://add-in.stag.henchman.io
@@ -4221,6 +4225,7 @@ https://admin.atlassian.com/
 https://admin.atlassian.com/atlassian-access
 https://admin.foxy.io/
 https://admin.foxycart.com
+https://admin.lastpass.com
 https://admin.moneyboxapp.org/
 https://admin.ring.com/*
 https://admin3.pentest.clicsante.ca
@@ -4460,6 +4465,7 @@ https://apps.apple.com/us/app/jira-server/id1405353949
 https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665	
 https://apps.apple.com/us/app/keeperchat/id1273303729?mt=12
 https://apps.apple.com/us/app/lastpass-authenticator/id1079110004
+https://apps.apple.com/us/app/lastpass-password-manager/id324613447
 https://apps.apple.com/us/app/lazada-best-shopping-online/id785385147
 https://apps.apple.com/us/app/map-my-fitness-gps-workout/id298903147
 https://apps.apple.com/us/app/monash-study/id1462126829
@@ -4515,6 +4521,7 @@ https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|t
 https://auth.datadome.co
 https://auth.foxy.io/
 https://auth.immutable.com/
+https://auth.lastpass.com
 https://auth.opera.com
 https://auth.seek.com
 https://auth.stag.henchman.io
@@ -4556,6 +4563,7 @@ https://blablacardaily.com
 https://blog.bitpanda.com
 https://blog.bitpanda.com/en
 https://blog.creditkarma.com/
+https://blog.lastpass.com/
 https://blog.verisign.com
 https://blog.whitebit.com/
 https://bluejeans.com/
@@ -4806,6 +4814,7 @@ https://flourish.studio/
 https://flow.opera.com
 https://for-hackers.crispapp.nl/web-rn/
 https://form.asana.com
+https://forums.lastpass.com/
 https://foundation.westernunion.com
 https://foxycart-demo.foxycart.com/cart
 https://futures.coinstore.com/api
@@ -5885,6 +5894,7 @@ https://play.google.com/store/apps/details?id=com.jbl.oneapp&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US	
 https://play.google.com/store/apps/details?id=com.keepersecurity.chat&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.lastpass.authenticator&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.lastpass.lpandroid
 https://play.google.com/store/apps/details?id=com.lazada.android&hl=en_SG
 https://play.google.com/store/apps/details?id=com.limebike
 https://play.google.com/store/apps/details?id=com.maf.share&hl=en_US&gl=US
@@ -6124,6 +6134,8 @@ https://student.classdojo.com
 https://studentplacements.monash.edu
 https://suggestions.opera-api.com
 https://supplier.viator.com/
+https://support.lastpass.com
+https://support.lastpass.com/
 https://support.okta.com
 https://sycamore.moneyboxapp.org/
 https://syncsketch.dev
