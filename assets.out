@@ -389,6 +389,7 @@
 *.hypr.com
 *.ibood.com
 *.ibood.io
+*.igpayment.com
 *.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
@@ -407,6 +408,8 @@
 *.infra-prod.nsvcs.net
 *.infrastructure-data.newrelic.com
 *.infrastructure.newrelic.com
+*.innogames.com
+*.innogames.de
 *.instacart.com
 *.instacart.tools
 *.intercomassets.com / *.intercomcdn.com
@@ -977,6 +980,8 @@
 1099986434
 10x.redoxengine.com
 1101145849
+1114799709
+1114800186
 1118448159
 1127881507
 1135288773
@@ -2947,6 +2952,7 @@ api.smtp2go.com
 api.sokos.fi
 api.sonantic.io
 api.sorare.com
+api.soundtrackyourbrand.com
 api.sporza.be
 api.spotify.com
 api.stage.evernote.com
@@ -3179,6 +3185,7 @@ beta.rarible.com
 bff.ketnet.be
 bigcommerce-adapter.judge.me
 billing-pci.etoro.com
+billing.api.soundtrackyourbrand.com
 billing.etoro.com
 billingsupport.chaturbate.com
 biometservices.com
@@ -3217,7 +3224,6 @@ booking.com
 booking.mjrtheatres.com
 booth.pm
 bounty-node.rsk.co
-bpost parcel lockers
 bq.visa.com
 brand.takeaway.com
 brave.com
@@ -3236,6 +3242,7 @@ bugcrowd.com
 bugs.opera.com
 bugzilla.mozilla.org
 builds-auckland.ninja.kiwi
+builds.soundtrackyourbrand.com
 bullsheet.me
 burn.polygon.technology
 business.kayak.com
@@ -3244,6 +3251,7 @@ business.kinepolis.lu
 business.kinepolis.nl
 business.linkedin.com
 business.snapchat.com
+business.soundtrackyourbrand.com
 business.tiktok.com
 businesshelp.snapchat.com
 buy.logitech.com
@@ -3478,6 +3486,8 @@ com.hotwire.hotels
 com.hypr.one
 com.ibood.app
 com.immediasemi.android.blink
+com.innogames.elvenar - Android
+com.innogames.foeandroid
 com.instacart.client
 com.inthepocket.kinepolis
 com.iphone.workfront
@@ -3567,6 +3577,7 @@ com.slack.slackmdm
 com.smartsheet.android
 com.smartsheet.smartsheet
 com.snapchat.android
+com.soundtrackyourbrand.soundtrack.player
 com.soundtrap.studioapp
 com.spotify.client
 com.spotify.kids
@@ -4501,6 +4512,7 @@ https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://asymetrix.io/
 https://aurora.plus/
 https://auth-ywh.it.authentification.si.gouv.qc.ca
+https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.foxy.io/
@@ -4582,6 +4594,7 @@ https://bugcrowd.hotdoc.com.au/dashboard (Clinic Dashboard)
 https://bugs.opera.com/
 https://build.caffeine.tv/
 https://build.twilio.com/s/
+https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
@@ -6009,6 +6022,7 @@ https://prs.payments.r1s-prod.com
 https://public-ipfs-mainnet.ternoa.network
 https://public.je-apis.com
 https://public.thesecurityteam.rocks/resources/app/android/etnapp-5.2.2-staging.apk
+https://radio.api.soundtrackyourbrand.com/
 https://rarible.com/
 https://rbo.raiffeisen.ua/
 https://rc.fstr.rocks
@@ -6505,6 +6519,7 @@ https://www.skidxb.com/
 https://www.skroutz.gr/
 https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
+https://www.soundtrackyourbrand.com
 https://www.sourcetreeapp.com/
 https://www.status-takeaway.com/status
 https://www.superdrug.com/blog/
@@ -6669,6 +6684,7 @@ infrastructure.eu.newrelic.com
 infrastructure.newrelic.com
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
+innogames.com
 insights-by-sentiance/id1608074635
 insights.deribit.com
 insights.eu.newrelic.com
@@ -6867,6 +6883,7 @@ m.krisha.kz
 m.poloniex.com
 m.reddit.com
 m.trendyol.com
+macOS app
 mackeeper.com
 mag-na.amazon.com
 magazine.ketnet.be
@@ -7638,6 +7655,7 @@ support.creditkarma.ca
 support.cs.money
 support.databricks.com
 support.greenhouse.io
+support.innogames.com
 support.logi.com
 support.malwarebytes.com
 support.monespacesante.fr
@@ -7715,6 +7733,7 @@ trbinance.com
 trello.com
 trendyol.com
 tria.ge
+tribalwars.cash
 trm.pinelabs.com
 trm.pinepaymentsolutions.com
 truck-api.eu-east-1.indriverapp.com
@@ -8311,6 +8330,16 @@ xero-sandbox.gocardless.com
 xhomeapi-*.cloud.comcast.net
 xhomeapi-*.codebig2.net
 xray.october.eu
+xs.elvenar.com
+xs.forgeofempires.com
+xs.grepolis.com
+xs0.elvenar.com
+xs0.forgeofempires.com
+xs0.grepolis.com
+xs1.elvenar.com
+xs1.forgeofempires.com
+xs1.grepolis.com
+xs1.tribalwars.cash
 xtramile.grabpay.com
 yapi.clario.co
 yelptop100.com
