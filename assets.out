@@ -3547,7 +3547,6 @@ com.oceanwing.battery.cam
 com.oceanwing.care.cam
 com.onedebit.chime
 com.orbitz
-com.owncloud.android
 com.paddypower.sportsbook.u.inhouse
 com.paypal.android.p2pmobile
 com.paypal.here
@@ -7211,18 +7210,6 @@ ota-staging.onecloud.harman.com
 ota.onecloud.harman.com
 outage.logitech.com
 outagehistory.logitech.com
-owncloud.iosapp
-owncloud/activity
-owncloud/core
-owncloud/customgroups
-owncloud/files
-owncloud/gallery
-owncloud/guests
-owncloud/notifications
-owncloud/oauth2
-owncloud/richdocuments
-owncloud/updater
-owncloud/user_ldap
 p.grabtaxi.com
 pabets.tvg.com
 paragon-na.amazon.com
