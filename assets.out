@@ -1112,6 +1112,7 @@
 64.47.18.80/29
 64.84.60.0/24
 641062073
+6444005221
 6444040977
 647268330
 647922896
@@ -2950,6 +2951,7 @@ api.recarga.com
 api.recordedfuture.com
 api.reddit.com
 api.rezserver.com
+api.sandbox.topperpay.com
 api.segment.io
 api.sendgrid.com
 api.sentiance.com
@@ -2977,6 +2979,7 @@ api.theperfumeshop.com
 api.thesecurityteam.rocks
 api.tidal.com
 api.tideplatform.in
+api.topperpay.com
 api.trello.com
 api.tripadvisor.com
 api.truelayer[-sandbox].com
@@ -3647,6 +3650,7 @@ com.ubnt.ucrm
 com.ubnt.umobile
 com.unibet.casino
 com.unibet.unibetpro
+com.uphold.labs.uphodl.android
 com.uphold.wallet
 com.urbanclap.provider
 com.urbanclap.urbanclap
@@ -4061,7 +4065,9 @@ gql.reddit.com
 grab.careers
 grafana.fr.cloud.gov
 grammarly.ai
+graphql.sandbox.topperpay.com/graphql
 graphql.seek.com
+graphql.topperpay.com/graphql
 gravatar.com
 grok.x.ai
 guest.usaa.com
@@ -8298,6 +8304,7 @@ www.underarmour.co.uk
 www.underarmour.com
 www.unity3d.com
 www.universalorlandovacations.com
+www.uphold.com
 www.upwork.com
 www.upwork.com/api 
 www.urbanclap.com
