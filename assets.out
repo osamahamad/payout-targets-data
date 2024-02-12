@@ -806,6 +806,7 @@
 *.takeaway.com
 *.taobao.com
 *.tapiola.fi
+*.taralite.com
 *.tdl.sh
 *.teams.cloudflare.com
 *.telenor.se
@@ -978,6 +979,7 @@
 1118448159
 1127881507
 1135288773
+1142114207
 1174276185
 1180074773
 1192506963
@@ -993,6 +995,7 @@
 1298908406
 1324809509
 1337574835
+134.58.179.82
 1343620481
 1395921017
 140.95.0.0/16
@@ -3183,6 +3186,9 @@ bb.visa.com
 bd.visa.com
 be.delen.digital
 be.gamma.app.android
+be.nexuzhealth.mobile.cpv
+be.nexuzhealth.mobile.kws
+be.nexuzhealth.mobile.mynexuz
 be.vrt.ketnet.ketnetjr
 be.vrt.vrtnu
 beacon.netflix.com
@@ -3976,6 +3982,7 @@ for-hackers.crisp.nl
 for-hackers.crispapp.nl
 forecastapp.com
 form.asana.com
+forms.nexuzhealth.be
 fortmatic.com
 fortnite.com
 forum.playcanvas.com
@@ -6698,6 +6705,7 @@ identity.stage.vismaonline.com
 identityserver-acc.landmarkcinemas.com
 identityserver.landmarkcinemas.com
 idp-contact.nexuzhealth.be
+idp-mobile.nexuzhealth.be
 idp.fr.cloud.gov
 iframe.arkoselabs.com
 ifttt-adaptor.pub.kube.dm.gg
@@ -6799,6 +6807,7 @@ kubernetes.io
 kuna.io
 kundenstimme.sbb.ch
 kwis-opf.amazon.com
+kws-companion/id1342124012
 kyc-onboarding.booking.com
 kyc-src.etoro.com
 kyc.etoro.com
@@ -7006,6 +7015,7 @@ mlis.amazon.com
 mlivetickets.monash.edu
 mobile-prod.tvg.com
 mobile.monash
+mobile.nexuzhealth.be
 mobile.s-pankki.fi
 mobile.usaa.com
 mobileapi.afterpay.com
@@ -7068,6 +7078,9 @@ myaccount.volkskrant.nl
 myaccount.vtm.be
 mydesktop.usaa.com
 mydesktop.wu.com
+mynexuz.be
+mynexuz.be/myUZ/
+mynexuzhealth/id1459856321
 mynk.ninjakiwi.com
 myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
@@ -7221,6 +7234,7 @@ ota-staging.onecloud.harman.com
 ota.onecloud.harman.com
 outage.logitech.com
 outagehistory.logitech.com
+ovo.id
 p.grabtaxi.com
 pabets.tvg.com
 paragon-na.amazon.com
