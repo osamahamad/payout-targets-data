@@ -887,6 +887,7 @@
 *.viator.com
 *.viatorinc.com
 *.vimeo.com
+*.vimla.se
 *.vine.co
 *.vladcazino.ro
 *.vod2.infomaniak.com
@@ -4233,6 +4234,7 @@ https://aax.com
 https://account.bitpanda.com
 https://account.post.ch
 https://account.t-mobile.com
+https://account.teamviewer.com
 https://account.withings.com
 https://accounts.creditkarma.com
 https://accounts.lastpass.com
@@ -4435,6 +4437,8 @@ https://apps.apple.com/ca/app/credit-karma/id1398558151?ls=1
 https://apps.apple.com/ca/app/lime-ridegreen/id1199780189
 https://apps.apple.com/ca/app/lime-supply/id1620058457
 https://apps.apple.com/ch/app/die-post/id378676700
+https://apps.apple.com/de/app/teamviewer-quicksupport/id661649585
+https://apps.apple.com/de/app/teamviewer-remote-control/id692035811
 https://apps.apple.com/fr/app/blablalines-covoiturage/id1225543288
 https://apps.apple.com/fr/app/dailymotion/id336978041
 https://apps.apple.com/fr/app/datadome/id1492490972
@@ -5407,6 +5411,7 @@ https://location.westernunion.com
 https://login.aufbaubank.de
 https://login.neogov.com
 https://login.salt.ch
+https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
 https://luna.amazon.com/*
@@ -5973,6 +5978,9 @@ https://play.google.com/store/apps/details?id=com.step.step
 https://play.google.com/store/apps/details?id=com.swapcard.apps.android&hl=fr
 https://play.google.com/store/apps/details?id=com.syftapp.android
 https://play.google.com/store/apps/details?id=com.tari.android.wallet
+https://play.google.com/store/apps/details?id=com.teamviewer.host.market&hl=en&gl=US
+https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=en&gl=US
+https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.ternoa.wallet.prod
 https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.tidex.app.exchange
@@ -6288,6 +6296,7 @@ https://wbsapi.withings.net
 https://web-app.eevee.bbp-mettle.co.uk/login
 https://web.bitpanda.com
 https://web.raiffeisen.ua/
+https://web.teamviewer.com
 https://webmail.usaa.com
 https://webrtc.8x8.com/
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
@@ -6582,6 +6591,7 @@ https://www.takeaway.com/drivers
 https://www.takeaway.com/foodwiki/
 https://www.tchap.gouv.fr
 https://www.tdg.ch
+https://www.teamviewer.com/en/products/teamviewer/
 https://www.theperfumeshop.com/blog/
 https://www.theperfumeshop.com/ie/blog/
 https://www.thousandeyes.com/
