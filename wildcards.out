@@ -52,6 +52,16 @@
 *.aliyun.com
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
+*.amazon.cl
+*.amazon.co.za
+*.amazon.com.au
+*.amazon.com.be
+*.amazon.com.br
+*.amazon.com.co
+*.amazon.com.mx
+*.amazon.com.ng
+*.amazon.com.tr
+*.amazon.pl
 *.amplitude-game.com
 *.apex-football.com
 *.api.dailymotion.com
@@ -353,7 +363,6 @@
 *.hypr.com
 *.ibood.com
 *.ibood.io
-*.igpayment.com
 *.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
@@ -372,8 +381,6 @@
 *.infra-prod.nsvcs.net
 *.infrastructure-data.newrelic.com
 *.infrastructure.newrelic.com
-*.innogames.com
-*.innogames.de
 *.instacart.com
 *.instacart.tools
 *.intercomassets.com / *.intercomcdn.com

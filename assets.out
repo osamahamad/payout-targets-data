@@ -86,6 +86,16 @@
 *.aliyun.com
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
+*.amazon.cl
+*.amazon.co.za
+*.amazon.com.au
+*.amazon.com.be
+*.amazon.com.br
+*.amazon.com.co
+*.amazon.com.mx
+*.amazon.com.ng
+*.amazon.com.tr
+*.amazon.pl
 *.amplitude-game.com
 *.apex-football.com
 *.api.dailymotion.com
@@ -387,7 +397,6 @@
 *.hypr.com
 *.ibood.com
 *.ibood.io
-*.igpayment.com
 *.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
@@ -406,8 +415,6 @@
 *.infra-prod.nsvcs.net
 *.infrastructure-data.newrelic.com
 *.infrastructure.newrelic.com
-*.innogames.com
-*.innogames.de
 *.instacart.com
 *.instacart.tools
 *.intercomassets.com / *.intercomcdn.com
@@ -3517,8 +3524,6 @@ com.hotwire.hotels
 com.hypr.one
 com.ibood.app
 com.immediasemi.android.blink
-com.innogames.elvenar - Android
-com.innogames.foeandroid
 com.instacart.client
 com.inthepocket.kinepolis
 com.iphone.workfront
@@ -4018,7 +4023,6 @@ foxycart-demo.foxycart.com
 fp-sg.tiktokv.com
 fps-extr-services.vidaxl.org
 fr.vidaxl.ch
-frankd.yoti.com
 freight.amazon.*
 fresh.amazon.*
 fs.rarible.com
@@ -6698,6 +6702,7 @@ hub.vroid.com
 hub.vznkul.be/*
 hub.vznkul.be/services/interhub/InterHubService
 hub.vznkul.be/services/intrahub/IntraHubService
+hub.yoti.com
 hubacc.vznkul.be/*
 hubacc.vznkul.be/services/acceptance/interhub/InterHubService
 hubacc.vznkul.be/services/acceptance/intrahub/IntraHubService
@@ -6737,6 +6742,7 @@ id1541153375
 ide.x.ai
 identity.monash.edu
 identity.stage.vismaonline.com
+identity.yoti.com
 identityserver-acc.landmarkcinemas.com
 identityserver.landmarkcinemas.com
 idp-contact.nexuzhealth.be
@@ -6757,7 +6763,6 @@ infrastructure.eu.newrelic.com
 infrastructure.newrelic.com
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
-innogames.com
 insights-by-sentiance/id1608074635
 insights.deribit.com
 insights.eu.newrelic.com
@@ -7733,7 +7738,6 @@ support.creditkarma.ca
 support.cs.money
 support.databricks.com
 support.greenhouse.io
-support.innogames.com
 support.logi.com
 support.malwarebytes.com
 support.monespacesante.fr
@@ -7814,7 +7818,6 @@ trbinance.com
 trello.com
 trendyol.com
 tria.ge
-tribalwars.cash
 trm.pinelabs.com
 trm.pinepaymentsolutions.com
 truck-api.eu-east-1.indriverapp.com
@@ -8417,16 +8420,6 @@ xero-sandbox.gocardless.com
 xhomeapi-*.cloud.comcast.net
 xhomeapi-*.codebig2.net
 xray.october.eu
-xs.elvenar.com
-xs.forgeofempires.com
-xs.grepolis.com
-xs0.elvenar.com
-xs0.forgeofempires.com
-xs0.grepolis.com
-xs1.elvenar.com
-xs1.forgeofempires.com
-xs1.grepolis.com
-xs1.tribalwars.cash
 xtramile.grabpay.com
 yapi.clario.co
 yelptop100.com
