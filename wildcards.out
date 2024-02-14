@@ -716,6 +716,7 @@
 *.shipt.com
 *.shopify.com
 *.shopifycloud.com
+*.shopifycs.com
 *.shopifykloud.com
 *.sidefx.com
 *.simpletax.ca
@@ -815,6 +816,7 @@
 *.tinderwebstaging.com
 *.tmall.com
 *.tomorrowland.com
+*.ton.diamonds
 *.touchtechpayments.com
 *.tr.ee
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
@@ -844,6 +846,8 @@
 *.ubnt.com
 *.uesmartradio.com
 *.ui.com
+*.ui.com/distributors/
+*.ui.com/training/partners/
 *.ultimateearsuniversity.com
 *.unibet.com
 *.unibet.fr

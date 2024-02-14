@@ -444,6 +444,7 @@ munin-*.wordpress.org
 *.hey.com
 *.shopify.com
 *.shopifycloud.com
+*.shopifycs.com
 *.shopifykloud.com
 *.airbnb-aws.com
 *.airbnb.com
@@ -478,6 +479,8 @@ munin-*.wordpress.org
 *.blockchain.com
 *.ubnt.com
 *.ui.com
+*.ui.com/distributors/
+*.ui.com/training/partners/
 *.sc-core.net
 *.sc-corp.net
 *.uberinternal.com

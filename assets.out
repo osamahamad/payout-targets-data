@@ -750,6 +750,7 @@
 *.shipt.com
 *.shopify.com
 *.shopifycloud.com
+*.shopifycs.com
 *.shopifykloud.com
 *.sidefx.com
 *.simpletax.ca
@@ -849,6 +850,7 @@
 *.tinderwebstaging.com
 *.tmall.com
 *.tomorrowland.com
+*.ton.diamonds
 *.touchtechpayments.com
 *.tr.ee
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
@@ -878,6 +880,8 @@
 *.ubnt.com
 *.uesmartradio.com
 *.ui.com
+*.ui.com/distributors/
+*.ui.com/training/partners/
 *.ultimateearsuniversity.com
 *.unibet.com
 *.unibet.fr
@@ -2411,8 +2415,6 @@ Statuspage for Jira Service Management - Server - https://marketplace.atlassian.
 Steam Client
 Steam Servers
 Steam: PC Game for Windows
-Step Android App
-Step iOS app
 Sticker Printer for Jira - Cloud - https://marketplace.atlassian.com/apps/1222124/sticker-printer-for-jira?hosting=cloud
 Stickup Cam
 Stream
@@ -4535,7 +4537,6 @@ https://apps.apple.com/us/app/share-rewards/id1465450657
 https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
 https://apps.apple.com/us/app/status-private-communication/id1178893006
-https://apps.apple.com/us/app/step-next-generation-banking/id1438006983?mt=8
 https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
 https://apps.apple.com/us/app/t-mobile/id561625752
 https://apps.apple.com/us/app/ternoa-wallet/id1562180877#?platform=iphone
@@ -5994,7 +5995,6 @@ https://play.google.com/store/apps/details?id=com.sentiance.saferdriver
 https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.squareup.cash
-https://play.google.com/store/apps/details?id=com.step.step
 https://play.google.com/store/apps/details?id=com.swapcard.apps.android&hl=fr
 https://play.google.com/store/apps/details?id=com.syftapp.android
 https://play.google.com/store/apps/details?id=com.tari.android.wallet
@@ -6277,6 +6277,8 @@ https://tv.takeaway.com
 https://twilio.com/blog
 https://uae.voxcinemas.com/
 https://uat2.carrefouruae.com/
+https://ui.com/distributors/
+https://ui.com/training/partners/
 https://uk.web.com
 https://underarmournext.com/
 https://unified.neogov.com
