@@ -1,5 +1,10 @@
 *.bybit.com
 *.trip.com
+*.consumer.worldcoin.org
+*.toolsforhumanity.com
+*.worldcoin-distributors.com
+*.worldcoin.dev
+*.worldcoin.org
 *.blinkforhome.com/*
 *.immedia-semi.com/*
 test*.redoxengine.com

@@ -1572,6 +1572,7 @@ web-app.eevee.bbp-mettle.co.uk
 Monash Study Android app
 Monash Study iOS App
 VPN: vpn.monash.edu
+account-registration.monash.edu
 alumni-friends.monash.edu
 bSafe Android App
 bSafe iPhone App
@@ -1579,6 +1580,9 @@ cms.mobile.monash
 connect.monash.edu
 eassessment.monash.edu
 fileshare.ze.monash.edu
+formative.eassessment.monas.edu
+forms.apps.monash.edu
+https://account-registration.monash.edu/
 https://agent.apps.monash.edu/
 https://alumni-friends.monash.edu
 https://alumni-friends.monash.edu
@@ -1588,8 +1592,11 @@ https://cms.mobile.monash/
 https://compulsoryunits.monash.edu/
 https://connect.monash.edu
 https://fileshare.ze.monash.edu
+https://formative.eassessment.monash.edu/
+https://forms.apps.monash.edu/
 https://identity.monash.edu
 https://interviews.monash.edu/
+https://jobs.monashtalent.com.au/
 https://mix.monash.edu/
 https://mlivetickets.monash.edu
 https://mobile.monash/ 
@@ -1606,15 +1613,20 @@ https://status.mobile.monash/
 https://studentplacements.monash.edu
 https://unihub.monash.edu/
 https://www.monash.edu
+https://www.monashprofessional.edu.au/
+https://www.mymonashsport.com.au/
 identity.monash.edu
 interviews.monash.edu
+jobs.monashtalent.com.au
 mix-dev.monash.edu/*
 mix-qat.monash.edu/*
 mix.monash.edu/*
 mlivetickets.monash.edu
 mobile.monash
 monash.app.nutrip.com
+monashprofessional.edu.au
 my.monash
+mymonashsport.com.au
 partner.apps.monash.edu
 shop.monash.edu
 status.mobile.monash

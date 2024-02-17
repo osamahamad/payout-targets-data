@@ -184,6 +184,7 @@
 *.coinmetro.com
 *.coinsbit.io
 *.comcast.com
+*.consumer.worldcoin.org
 *.contentsquare.com
 *.cornershop.io/*
 *.cornershopapp.com/*
@@ -817,6 +818,7 @@
 *.tmall.com
 *.tomorrowland.com
 *.ton.diamonds
+*.toolsforhumanity.com
 *.touchtechpayments.com
 *.tr.ee
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
@@ -894,6 +896,9 @@
 *.wordcamp.org
 *.wordpress.net
 *.wordpress.org
+*.worldcoin-distributors.com
+*.worldcoin.dev
+*.worldcoin.org
 *.wu.*
 *.xfinity.com	
 *.xfinityhome.com
