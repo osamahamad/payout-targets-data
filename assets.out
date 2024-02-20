@@ -59,6 +59,9 @@
 *.acronis.com
 *.acronis.work
 *.ad.nl
+*.ada.com
+*.ada.health
+*.adahealth.ca
 *.adobe.com
 *.adobe.io
 *.adobeaemcloud.com
@@ -1804,7 +1807,6 @@ GitHub Pages
 GitHub Production Credentials
 GitHub for Jira - Cloud - https://marketplace.atlassian.com/apps/1219592/github-for-jira?hosting=cloud
 GitHub for mobile
-GitHub repositories
 GitHub webhooks for Fisheye - Server - https://marketplace.atlassian.com/apps/1223584/github-webhooks-for-fisheye?hosting=server
 GitLab and GitHub repos listed on this page
 GitLab for Jira Cloud
@@ -2370,7 +2372,6 @@ Share Rewards Android App
 Share Rewards Programme iOS App
 Shopify Developed Apps
 Shopify Mobile Applications
-Shopify Scripts Platform
 Shopify Third Party Apps
 Shopify Third Party Store
 SimScale API
@@ -2665,7 +2666,6 @@ WooCommerce
 WordPress Core
 WordPress Plugins & Themes
 WordPress.com VIP
-WordPress.org plugins
 Work@ampol
 Workers
 Workers AI
@@ -3524,7 +3524,6 @@ com.gs.mobile.trader
 com.gs.pfmg.wellness
 com.gs.pwmdigital.external
 com.gs.pwmdigital.external.android
-com.gww.km
 com.harvestapp
 com.hcom.android
 com.here.app.maps
@@ -4667,10 +4666,10 @@ https://canva.cn/developers
 https://canva.com/developers
 https://carbonneutral.ampol.com.au/
 https://cards.ampol.com.au
-https://care-navigation-admin-bff.int.eu.enterprise.ada.com
-https://care-navigation-admin-fe.int.eu.enterprise.ada.com
-https://care-navigation-bff.int.eu.enterprise.ada.com
-https://care-navigation-fe.int.eu.enterprise.ada.com
+https://care-navigation-admin-bff.eu.enterprise.ada.com
+https://care-navigation-admin-fe.eu.enterprise.ada.com
+https://care-navigation-bff.eu.enterprise.ada.com
+https://care-navigation-fe.eu.enterprise.ada.com
 https://careers.takeaway.com
 https://cash.app
 https://cashback.opera.com/
@@ -5448,6 +5447,7 @@ https://login.salt.ch
 https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
+https://lsagentrelay.lansweeper.com/
 https://luna.amazon.com/*
 https://m.bitforex.com/en/download
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
@@ -5736,7 +5736,6 @@ https://marketplace.atlassian.com/apps/1229343/developer-assistant-for-jira?host
 https://marketplace.atlassian.com/apps/1229446/developer-assistant-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1229704/cloud-migration-planner?hosting=cloud
 https://marketplace.atlassian.com/apps/1230689/easy-confluence-gadget-for-jira-dashboards?hosting=cloud
-https://marketplace.atlassian.com/apps/1230933/listenly-text-to-speech-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1232630/external-data-for-jira-fields-extension?hosting=cloud
 https://marketplace.atlassian.com/apps/14896/review-creator-for-fisheye?hosting=server
 https://marketplace.atlassian.com/apps/212/copy-space-for-confluence?hosting=server
