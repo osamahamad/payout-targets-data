@@ -8,7 +8,6 @@
 *.ticketing.cm.com
 *.dpgmedia.be
 *.dpgmedia.nl
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.das.eu
@@ -61,8 +60,6 @@
 *.ninjakiwi.com
 *.oda.com
 *.prod.nube.tech
-*.personio.de/compensation
-*.personio.de/svc/compensation/graphql
 *.personio-internal.de
 *.personio.tools
 *.personio.de

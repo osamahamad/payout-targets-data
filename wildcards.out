@@ -206,11 +206,11 @@
 *.cyberghost.com
 *.cyberghostvpn.com
 *.cyberoam.com
+*.cyrus-security.com
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
 *.das.eu
-*.datacamp.com
 *.deliveroo-data-test.io
 *.deliveroo-data.io
 *.deliveroo-data.net
@@ -608,8 +608,6 @@
 *.paypalcorp.com
 *.personio-internal.de
 *.personio.de
-*.personio.de/compensation
-*.personio.de/svc/compensation/graphql
 *.personio.tools
 *.pexels.com
 *.phonegap.com
@@ -932,6 +930,7 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 B2 APIs (*.backblazeb2.com)
 Backblaze Website (*.backblaze.com)
 Internal Web services - *.internal.exoscale.ch
+Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 api*.netflix.com
 api-*.soundcloud.com
 assets.enjin.io,cdn.enjin.io,*.cdn.enjin.io,*.cdn.enjin.cn,cdn.enjin.cn,cdn.enjinx.io,cdn.enjinx.cn,enjinusercontent.com,*.enjinusercontent.com
@@ -942,6 +941,7 @@ intercity-*.eu-east-1.indriverapp.com
 matrix.agent.*.tchap.gouv.fr
 munin-*.wordpress.org
 onboarding-*.cloud.com
+open redirect at *.epam.com
 portalapi.*.afterpay.com
 swiss-backup*.infomaniak.com
 terra-*.indriverapp.com

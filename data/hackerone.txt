@@ -1,3 +1,8 @@
+https://etherscan.io/address/0x0000003E0000a96de4058e1E02a62FaaeCf23d8d
+https://etherscan.io/address/0x000000e92d78d90000007f0082006fda09bd5f11
+https://etherscan.io/address/0x0046000000000151008789797b54fdb500E2a61e
+https://etherscan.io/address/0xcE0000007B008F50d762D155002600004cD6c647
+https://github.com/alchemyplatform/modular-account
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
@@ -736,6 +741,7 @@ Kruidvat.Belgium.iOS
 Kruidvat.Netherlands.Android
 Kruidvat.Netherlands.iOS
 Marionnaud (subdomains)
+Marionnaud FR (subdomains)
 Marionnaud.Austria.Android
 Marionnaud.Austria.iOS
 Marionnaud.France.Android
@@ -759,6 +765,7 @@ Superdrug.Healthera.App.Android
 The Perfume Shop (subdomains)
 ThePerfumeShop.App.Android
 ThePerfumeShop.App.iOS
+Trekpleister (subdomains)
 Watsons HK (subdomains)
 Watsons ID (subdomains)
 Watsons MY (subdomains)
@@ -795,6 +802,7 @@ api.watsons.com.my
 api.watsons.com.ph
 api.watsons.com.sg
 api.watsons.com.tw
+api.watsons.com.vn
 app.iciparisxl.be
 app.iciparisxl.lu
 app.iciparisxl.nl
@@ -836,7 +844,6 @@ https://www.marionnaud.sk/m-life/
 https://www.superdrug.com/blog/
 https://www.theperfumeshop.com/blog/
 https://www.theperfumeshop.com/ie/blog/
-mapi-sim.fortress.com.hk
 mapi.moneyback.com.hk
 www.fortress.com.hk
 www.iciparisxl.be
@@ -856,6 +863,7 @@ www.moneyback.com.hk
 www.pns.hk
 www.superdrug.com
 www.theperfumeshop.com
+www.trekpleister.nl
 www.watsons.co.id
 www.watsons.co.th
 www.watsons.com.hk
@@ -864,6 +872,7 @@ www.watsons.com.ph
 www.watsons.com.sg
 www.watsons.com.tr
 www.watsons.com.tw
+www.watsons.com.vn
 www10.pns.hk
 www10.watsons.co.id
 www10.watsons.co.th
@@ -872,6 +881,7 @@ www10.watsons.com.my
 www10.watsons.com.ph
 www10.watsons.com.sg
 www10.watsons.com.tw
+www10.watsons.com.vn
 www20.watsons.co.th
 1235601864
 1591003012
@@ -2066,11 +2076,6 @@ core.yoti.com
 hub.yoti.com
 identity.yoti.com
 www.yotisign.com
-api.recarga.com
-com.Fnbox.Recarga
-com.recarga.recarga
-secure.recarga.com/*
-www.recargapay.com.br/*
 Steam Client
 Steam Servers
 api.steampowered.com
@@ -2803,6 +2808,7 @@ www.swoodoo.com
 Basecamp.app
 HEY.app
 HEY.exe
+ONCE: Campfire
 basecamp3.exe
 com.basecamp.bc3
 com.basecamp.bc3-ios
@@ -2871,6 +2877,7 @@ phone-validation.taxi.booking.com
 portal.taxi.booking.com
 secure-supply-xml.booking.com
 secure.booking.com
+spark.fareharbor.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
 taxi.booking.com
@@ -3086,6 +3093,7 @@ web.snapchat.com
 www.bitmoji.com
 www.bitstrips.com
 336381998
+Penny
 admin.rezserver.com
 api.rezserver.com
 com.priceline.android.negotiator

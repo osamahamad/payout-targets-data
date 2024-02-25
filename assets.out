@@ -240,11 +240,11 @@
 *.cyberghost.com
 *.cyberghostvpn.com
 *.cyberoam.com
+*.cyrus-security.com
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
 *.das.eu
-*.datacamp.com
 *.deliveroo-data-test.io
 *.deliveroo-data.io
 *.deliveroo-data.net
@@ -642,8 +642,6 @@
 *.paypalcorp.com
 *.personio-internal.de
 *.personio.de
-*.personio.de/compensation
-*.personio.de/svc/compensation/graphql
 *.personio.tools
 *.pexels.com
 *.phonegap.com
@@ -1297,6 +1295,7 @@ Any Host Verified To Be Owned By Kenna (Domains/IP space/etc.)
 Any IP belonging to Liberapay
 Any Other Sophos Product or Service
 Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
+Any Worldpay asset is in scope
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any host / web property verified to be owned by Segment (domains/IP space/etc.)	
 Any host or verified to be owned by Western Union (domains/IP space/etc.)
@@ -1884,6 +1883,7 @@ Insight Managed Smart Cloud Wireless Access Point
 Insight iOS App
 Intellectual Property on Public Domains
 Intercept X Endpoint
+Internal Server
 Internal Web services - *.internal.exoscale.ch
 Internet - All devices, including Broadband Gateways
 Internet.xfinity.com
@@ -2052,6 +2052,7 @@ Mandatory Reviewers for Crucible - Server - https://marketplace.atlassian.com/ap
 MapMyFitness Android
 MapMyFitness iOS
 Marionnaud (subdomains)
+Marionnaud FR (subdomains)
 Marionnaud.Austria.Android
 Marionnaud.Austria.iOS
 Marionnaud.France.Android
@@ -2164,6 +2165,7 @@ OKT Chain
 OKX Wallet Chrome Extension
 OKX Wallet Edge Add-ons
 OKX Wallet Safari Extension
+ONCE: Campfire
 OPPO-owned properties Core properties
 OPPO-owned properties Non-core properties
 OT scanner
@@ -2196,6 +2198,7 @@ Open Source - Dispatch
 Open Source - Spectator
 Open Source - Weep
 Open Source - Zuul
+Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 Open source projects(non-forked) listed at github.com/pinterest/
 Open source tools from Cloudflare
 OpenAI API Keys
@@ -2258,6 +2261,7 @@ Parcast
 Password Sync for macOS
 PayFriends/PayAnyone Features
 Peephole Cam
+Penny
 Permission Lockdown for Bitbucket Server - DataCenter - https://marketplace.atlassian.com/apps/1217941/permission-lockdown-for-bitbucket-server?hosting=datacenter
 Permission Lockdown for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1217941/permission-lockdown-for-bitbucket-server?hosting=server
 Photoshop
@@ -2370,6 +2374,7 @@ Secondary Targets (read below)
 Services (like the website, bug tracker, and server infrastructure)
 Share Rewards Android App
 Share Rewards Programme iOS App
+Shido Network - Beta Testnet
 Shopify Developed Apps
 Shopify Mobile Applications
 Shopify Third Party Apps
@@ -2458,10 +2463,13 @@ Supply iOS
 SurveyMonkey - https://trello.com/power-ups/568c143d95adcd7308cbc3fb/surveymonkey
 Synthetics minions (public and private)
 System Specification
+T&P Servers
 T-Life Android
 T-Life iOS
 T-Mobile Android App
 T-Mobile iOS App
+THAT Concept Store Android
+THAT Concept Store iOS
 TTC Connect
 TTC Connect APK
 TTC Connect Wallet
@@ -2528,6 +2536,7 @@ Tor Browser
 Training for Jira - Cloud - https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=cloud
 Training for Jira - DataCenter - https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=datacenter
 Training for Jira - Server - https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=server
+Trekpleister (subdomains)
 Trello Connector for Jira Server - Server - https://marketplace.atlassian.com/apps/1218011/trello-connector-for-jira-server?hosting=server
 Trello Desktop Client
 Trello Mobile App for Android
@@ -2899,6 +2908,7 @@ api.digital.delen.be
 api.digital.delen.lu
 api.direct.playstation.com
 api.doppler.com
+api.dropboxapi.com
 api.editeur.preprod.monespacesante.fr
 api.enjinx.io
 api.ethereum.shapeshift.com
@@ -2971,7 +2981,6 @@ api.qwant.com
 api.rapyd.net
 api.rarible.com
 api.razorpay.com
-api.recarga.com
 api.recordedfuture.com
 api.reddit.com
 api.rezserver.com
@@ -3027,6 +3036,7 @@ api.watsons.com.my
 api.watsons.com.ph
 api.watsons.com.sg
 api.watsons.com.tw
+api.watsons.com.vn
 api.wisdomtreeprimeapp.com
 api.wordpress.org
 api.workbox.dk
@@ -3047,10 +3057,6 @@ app.avtoelon.uz
 app.chime.com
 app.command.cysiv.com
 app.dashlane.com
-app.datacamp.com/certification
-app.datacamp.com/groups
-app.datacamp.com/learn
-app.datacamp.com/workspace
 app.delen.be
 app.delen.ch
 app.delen.lu
@@ -3150,8 +3156,6 @@ asana.com
 asiointi.lahitapiola.fi
 askpam.ai
 asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
-assessment-v2.datacamp.com
-assessment.datacamp.com
 assets.adobe.com
 assets.airbnb.com
 assets.enjin.io,cdn.enjin.io,*.cdn.enjin.io,*.cdn.enjin.cn,cdn.enjin.cn,cdn.enjinx.io,cdn.enjinx.cn,enjinusercontent.com,*.enjinusercontent.com
@@ -3309,7 +3313,6 @@ calendar.infomaniak.com
 callbacks.airbnb.com
 cam.notebleue.pro
 campaign.adobe.com
-campus.datacamp.com
 canary.activate.codefi.network
 candle-src.etoro.com
 candle.etoro.com
@@ -3408,7 +3411,6 @@ coinmarketcap.com
 coldfusion.adobe.com
 com.1debit.ChimeProdApp
 com.3mosquitos.MercadoLibre
-com.Fnbox.Recarga
 com.Hyatt
 com.Slack
 com.acronis.abc
@@ -3476,7 +3478,6 @@ com.creditkarma.mobile
 com.creditkarma.mobile.international
 com.dashlane
 com.dashlane.dashlanephonefinal
-com.datacamp
 com.defi.wallet
 com.deliveroo.driverapp
 com.deliveroo.orderapp
@@ -3602,7 +3603,6 @@ com.quip.quip
 com.quora.android
 com.quora.app.mobile
 com.realtimeboard
-com.recarga.recarga
 com.recordedfuture.mobile
 com.reddit.frontpage
 com.ring.neighborhoods
@@ -4309,7 +4309,10 @@ https://anytask.thesecurityteam.rocks/
 https://api-a.usaa.com
 https://api-ch-gva-2.exoscale.com/v2
 https://api-dashboard.stag.henchman.io
+https://api-evm.orderly.org/
+https://api-evm.orderly.org/*
 https://api-js.datadome.co
+https://api-prod.thatconceptstore.com/
 https://api-search.stag.henchman.io
 https://api-staging.pingone.com/*
 https://api-test.nicehash.com
@@ -4443,6 +4446,7 @@ https://apps.apple.com/app/id1216446440
 https://apps.apple.com/app/id1359583808
 https://apps.apple.com/app/id1450306065
 https://apps.apple.com/app/id1465314783
+https://apps.apple.com/app/id1503045795
 https://apps.apple.com/app/id1567160644
 https://apps.apple.com/app/id1635031432
 https://apps.apple.com/app/id1660882885
@@ -4452,7 +4456,6 @@ https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/bigcommerce/id1418570678
 https://apps.apple.com/au/app/caltex-australia/id1314768594
 https://apps.apple.com/au/app/certsy/id1617796159
-https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
@@ -4465,7 +4468,6 @@ https://apps.apple.com/de/app/teamviewer-quicksupport/id661649585
 https://apps.apple.com/de/app/teamviewer-remote-control/id692035811
 https://apps.apple.com/fr/app/blablalines-covoiturage/id1225543288
 https://apps.apple.com/fr/app/dailymotion/id336978041
-https://apps.apple.com/fr/app/datadome/id1492490972
 https://apps.apple.com/fr/app/doctolib/id925339063
 https://apps.apple.com/fr/app/jbl-one/id1610239857
 https://apps.apple.com/fr/app/swapcard/id879488719
@@ -4821,8 +4823,11 @@ https://en-gb.napoleondice.be/wimi/game/play/slug/pick-a-tiki
 https://enterprise-demo.portswigger.net/
 https://equatorialguinea-evisa.com
 https://eshop.salt.ch
+https://etherscan.io/address/0x0000003E0000a96de4058e1E02a62FaaeCf23d8d
+https://etherscan.io/address/0x000000e92d78d90000007f0082006fda09bd5f11
 https://etherscan.io/address/0x00005EA00Ac477B1030CE78506496e8C2dE24bf5
 https://etherscan.io/address/0x0000a26b00c1F0DF003000390027140000fAa719
+https://etherscan.io/address/0x0046000000000151008789797b54fdb500E2a61e
 https://etherscan.io/address/0x051ad3f020274910065dcb421629cd2e6e5b46c4
 https://etherscan.io/address/0x081D1101855bD523bA69A9794e0217F0DB6323ff
 https://etherscan.io/address/0x101500214981e7A5Ad2334D8404eaF365C2c3113
@@ -4850,6 +4855,7 @@ https://etherscan.io/address/0xC049c7fE5EAa024095861212BD8a8E8Df88a2b1f
 https://etherscan.io/address/0xC8953ca384b4AdC8B1b11B030Afe2F05471664b0
 https://etherscan.io/address/0xEf2f9b48d7EC80440Ab4573dF1A2aBDBE06D3f60
 https://etherscan.io/address/0xFE700D523094Cc6C673d78F1446AE0743C89586E
+https://etherscan.io/address/0xcE0000007B008F50d762D155002600004cD6c647
 https://etherscan.io/address/0xf209815E595Cdf3ed0aAF9665b1772e608AB9380
 https://etherscan.io/address/0xf3d58D1794f2634d6649a978f2dc093898FEEBc0
 https://etherscan.io/address/0xf51B9C9a1c12e7E48BEC15DC358D0C1f0d7Eb3be
@@ -4980,6 +4986,7 @@ https://github.com/RIPE-NCC/whois
 https://github.com/Shopify/*
 https://github.com/Virtuswap/v1-core/tree/main/contracts
 https://github.com/adobe/*
+https://github.com/alchemyplatform/modular-account
 https://github.com/apache/airflow
 https://github.com/apache/httpd
 https://github.com/apache/tomcat
@@ -5405,6 +5412,7 @@ https://kw-bugcrowd-pub.bounty.kiteworks.dev/
 https://l.usaa.com/
 https://lab.epam.com
 https://labs.zetachain.com/
+https://lapi.yellowblocks.me
 https://laptop-updates.brave.com/latest/dev/debian64
 https://laptop-updates.brave.com/latest/dev/ubuntu64
 https://laptop-updates.brave.com/latest/fedora64
@@ -5418,6 +5426,7 @@ https://lastpass.com
 https://lastpass.com/misc_download2.php
 https://lbu.eu-west-2.outscale.com
 https://learn.neogov.com
+https://lego.yellowblocks.me/
 https://lensstudio.snapchat.com/api/
 https://letsexchange.io/
 https://library.elementor.com/
@@ -5706,6 +5715,7 @@ https://marketplace.atlassian.com/apps/1224728/crucible-build-status?hosting=ser
 https://marketplace.atlassian.com/apps/1224729/bamboo-build-status-notifier?hosting=server
 https://marketplace.atlassian.com/apps/1224758/confluence-recent-edits-overview?hosting=cloud
 https://marketplace.atlassian.com/apps/1224799/scroll-content-quality-for-confluence
+https://marketplace.atlassian.com/apps/1224799/scroll-content-quality-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1224994/poll-maker-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hosting=datacenter
 https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hosting=server
@@ -5923,7 +5933,6 @@ https://play.google.com/store/apps/details?id=au.com.ampol.flagship&hl=en_AU&gl=
 https://play.google.com/store/apps/details?id=au.com.ampol.teamapp
 https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR
-https://play.google.com/store/apps/details?id=co.datadome.app
 https://play.google.com/store/apps/details?id=coin98.crypto.finance.media&pli=1
 https://play.google.com/store/apps/details?id=com.AgainstGravity.RecRoom
 https://play.google.com/store/apps/details?id=com.aax.exchange
@@ -5977,6 +5986,7 @@ https://play.google.com/store/apps/details?id=com.lastpass.lpandroid
 https://play.google.com/store/apps/details?id=com.lazada.android&hl=en_SG
 https://play.google.com/store/apps/details?id=com.limebike
 https://play.google.com/store/apps/details?id=com.maf.share&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.maf.thatandroid
 https://play.google.com/store/apps/details?id=com.mapmyfitness.android2&hl=en&pli=1
 https://play.google.com/store/apps/details?id=com.moneyboxapp
 https://play.google.com/store/apps/details?id=com.moonpay
@@ -6242,6 +6252,7 @@ https://test.nicex.com/my/
 https://testflight.apple.com/join/533gFghn
 https://testflight.apple.com/join/e4owjwMX
 https://testnet.tonscan.org/address/EQBQMoFbX2YFU5YP9_0VHdtMFnQMjsM9pH22r9ZSRpYg8Z29
+https://thatconceptstore.com
 https://thinkglobalhealth.org
 https://thueringer-foerderportal.eu
 https://ticket.multiplayer.classdojo.com
@@ -6355,10 +6366,10 @@ https://wucare.westernunion.com
 https://wuinsights.westernunion.com
 https://www.*mongodb.com/*
 https://www.20min.ch
-https://www.24heures.ch
 https://www.aax.com/apidoc/index.html#introduction
 https://www.aex.com
 https://www.aex.com/page/doc/zh/guide/guide.html
+https://www.allsaints.me/
 https://www.amazon.com/amazoncash
 https://www.amazon.com/dppui/*
 https://www.amazon.com/gp/buy/*
@@ -6388,9 +6399,6 @@ https://www.atlassian.com/software/jira
 https://www.atlassian.com/software/jira/product-discovery
 https://www.atlassian.com/software/jira/service-management
 https://www.atlassian.com/software/jira/work-management
-https://www.bazonline.ch
-https://www.berneroberlaender.ch
-https://www.bernerzeitung.ch
 https://www.beta.tchap.gouv.fr
 https://www.bigcommerce.com
 https://www.bigcommerce.net
@@ -6414,11 +6422,13 @@ https://www.btse.com
 https://www.caffeine.tv/
 https://www.carrefouruae.com/
 https://www.cart.hostgator.com.br
+https://www.cb2.ae/en
 https://www.cfr.org/
 https://www.classdojo.com
 https://www.cloudvector.com/
 https://www.coinw.com/
 https://www.contrastsecurity.com/
+https://www.crateandbarrel.me
 https://www.creditkarma.ca/
 https://www.creditkarma.co.uk/
 https://www.creditkarma.com
@@ -6433,7 +6443,6 @@ https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&t
 https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
 https://www.deepcoin.com/
 https://www.deepcoin.com/en/apiPage
-https://www.derbund.ch
 https://www.designify.com
 https://www.domain.com
 https://www.driveuconnect.com
@@ -6477,8 +6486,6 @@ https://www.kruidvat.nl/blog/
 https://www.kruidvat.nl/fotoservice
 https://www.kruidvat.nl/persoonlijk
 https://www.kuleuven.be/sapredir/huisvesting
-https://www.landbote.ch
-https://www.langenthalertagblatt.ch
 https://www.lastpass.com
 https://www.letspaylater.ph/
 https://www.letspaylater.sg/
@@ -6499,6 +6506,7 @@ https://www.lululemon.es
 https://www.lululemon.es/ 
 https://www.lululemon.fr
 https://www.lululemon.fr/
+https://www.lululemon.me
 https://www.magicplanetmena.com/
 https://www.mapbox.com/mapbox-gl-js/
 https://www.mapmyfitness.com
@@ -6613,6 +6621,7 @@ https://www.redtubepremium.com/
 https://www.remove.bg
 https://www.routerprotocol.com/
 https://www.sharerewards.com/
+https://www.shiseido.me/
 https://www.simplify.com/commerce/ 
 https://www.sitemercado.com.br
 https://www.skidxb.com/
@@ -6623,19 +6632,16 @@ https://www.soundtrackyourbrand.com
 https://www.sourcetreeapp.com/
 https://www.status-takeaway.com/status
 https://www.superdrug.com/blog/
-https://www.tagesanzeiger.ch
 https://www.takeaway.com/deals
 https://www.takeaway.com/drivers
 https://www.takeaway.com/foodwiki/
 https://www.tchap.gouv.fr
-https://www.tdg.ch
 https://www.teamviewer.com/en/products/teamviewer/
 https://www.theperfumeshop.com/blog/
 https://www.theperfumeshop.com/ie/blog/
 https://www.thousandeyes.com/
 https://www.thuisbezorgd.nl/aanmelden
 https://www.thumbzilla.com/
-https://www.thunertagblatt.ch
 https://www.toobit.com/
 https://www.toursgds.com/
 https://www.toursgds.com/SupplierService?wsdl
@@ -6699,8 +6705,6 @@ https://www.zaproxy.org
 https://www.zetachain.com/
 https://www.zetachain.com/docs
 https://www.zetachain.com/ecosystem
-https://www.zsz.ch
-https://www.zuonline.ch
 https://www2.westernunion.com
 https://www2.westernunion.com 
 https://wwws-staging.moneytree.jp/link/
@@ -6875,7 +6879,6 @@ krisp.ai
 kubernetes-csi.github.io
 kubernetes.io
 kuna.io
-kundenstimme.sbb.ch
 kwis-opf.amazon.com
 kws-companion/id1342124012
 kyc-onboarding.booking.com
@@ -6890,6 +6893,7 @@ labs.databricks.com
 ladex.exchange
 landing.coingecko.com
 lando.services.mozilla.com
+lapi.yellowblocks.me
 lark-frontier.byteoversea.com
 larksuite.com
 latoken.com
@@ -7009,12 +7013,11 @@ manage-sandbox.gocardless.com
 manage.blockscore.com
 manage.grab.co
 manage.statuspage.io
-manager.infomaniak.com/v3/*
+manager.infomaniak.com/*
 manufacturing.amazon.*
 manufacturing.amazon.com
 map.snapchat.com
 mapi-a.usaa.com
-mapi-sim.fortress.com.hk
 mapi.moneyback.com.hk
 mapi.usaa.com
 mapper.polygon.technology
@@ -7287,6 +7290,7 @@ onevasco.com
 oneview.malwarebytes.com
 oneworldradio.tomorrowland.com
 online.s-pankki.fi
+open redirect at *.epam.com
 open-api.polygon.technology
 open.airbnb.com
 open.larksuite.com
@@ -7404,7 +7408,6 @@ portalapi.eu.clearpay.co.uk
 portfolio.adobe.com
 portfolio.metamask.io
 portswigger.net
-practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prddsplunkhf.uzleuven.be
 preprod.am.monespacesante.fr
@@ -7446,7 +7449,6 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profiler.firefox.com
-projects.datacamp.com
 projects.nextcloud.com
 prometheus.fr.cloud.gov
 promos.tvg.com
@@ -7477,6 +7479,7 @@ qatest.nl
 qwantjunior.com
 r.etoro.com
 rabbitinstruction-na.amazon.com
+random.uzleuven.be/random/
 rankings.etoro.com
 rari.foundation
 rarible.com
@@ -7556,7 +7559,6 @@ safe.tumblr.com
 salesportal.hyatt.com
 sandbox.fireblocks.io
 sandbox.secure.checkout.visa.com
-sbbstimme.sbb.ch
 scan.nextcloud.com
 scan.snapchat.com
 scapegoat.hyatt.com
@@ -7574,7 +7576,6 @@ secure.lahitapiola.fi
 secure.netflix.com
 secure.plaid.com
 secure.quovo.com
-secure.recarga.com/*
 secure.rezserver.com
 secure.sharefile.com
 secure.sharefile.eu
@@ -7673,6 +7674,7 @@ sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com
 spaces.pm
 spapi-na.amazon.com
 spark.adobe.com
+spark.fareharbor.com
 spectacles.com
 speeddials.opera.com
 speedtest.xfinity.com
@@ -8099,6 +8101,7 @@ www.compass.com
 www.computerbild.de
 www.contrastsecurity.com
 www.counter-strike.net
+www.crateandbarrel.me
 www.creditkarma.ca
 www.crowdstrike.com
 www.crowdstrike.org
@@ -8107,7 +8110,6 @@ www.currencycloud.com
 www.cybersource.com
 www.dashlane.com
 www.data.gov
-www.datacamp.com
 www.datastax.com
 www.ddfcontent.com
 www.deezer.com
@@ -8214,6 +8216,7 @@ www.logitech.com.cn
 www.logitechclub.com
 www.logitechg.com
 www.logitechstore.com.br
+www.lululemon.me
 www.malwarebytes.com
 www.mapbox.com
 www.marionnaud.at
@@ -8284,7 +8287,6 @@ www.priceline.com
 www.prisma.fi
 www.quip.com
 www.qwant.com
-www.recargapay.com.br/*
 www.recordedfuture.com
 www.reddit.com
 www.redoxengine.com
@@ -8342,6 +8344,7 @@ www.transsicura.ch
 www.travelbook.de
 www.travelocity.ca
 www.travelocity.com
+www.trekpleister.nl
 www.trendyol.com
 www.tripadvisor.com
 www.triseptapi.com
@@ -8417,6 +8420,7 @@ www.watsons.com.ph
 www.watsons.com.sg
 www.watsons.com.tr
 www.watsons.com.tw
+www.watsons.com.vn
 www.wearehackerone.com
 www.welt.de
 www.werkenbijbakertilly.nl
@@ -8439,6 +8443,7 @@ www10.watsons.com.my
 www10.watsons.com.ph
 www10.watsons.com.sg
 www10.watsons.com.tw
+www10.watsons.com.vn
 www20.watsons.co.th
 x.com
 x.razorpay.com

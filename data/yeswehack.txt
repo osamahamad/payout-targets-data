@@ -71,8 +71,6 @@ https://api-js.datadome.co
 https://auth.datadome.co
 https://datadome.co
 https://bot-tester.datadome.co/
-https://play.google.com/store/apps/details?id=co.datadome.app
-https://apps.apple.com/fr/app/datadome/id1492490972
 www.deezer.com
 connect.deezer.com
 api.deezer.com
@@ -114,7 +112,7 @@ edgeapis.onecloud.harman.com
 things.onecloud.harman.com
 api.infomaniak.com
 login.infomaniak.com
-manager.infomaniak.com/v3/*
+manager.infomaniak.com/*
 shop.infomaniak.com
 calendar.infomaniak.com
 contacts.infomaniak.com
