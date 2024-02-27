@@ -122,7 +122,7 @@ edgeapis.onecloud.harman.com
 things.onecloud.harman.com
 api.infomaniak.com
 login.infomaniak.com
-manager.infomaniak.com/*
+manager.infomaniak.com/v3/*
 shop.infomaniak.com
 calendar.infomaniak.com
 contacts.infomaniak.com
