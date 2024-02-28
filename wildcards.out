@@ -249,7 +249,6 @@
 *.elasticnet.co
 *.elstc.co
 *.eops.nl
-*.epam.com
 *.epicgames.com
 *.epicgames.dev
 *.etsy.com
@@ -439,7 +438,6 @@
 *.krisp.ai
 *.kucoin.com
 *.kwsdose.be
-*.lab.epam.com
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.landmarkcinemas.com
@@ -576,7 +574,6 @@
 *.onegraph.com
 *.openai.com
 *.openai.org
-*.opensource.epam.com
 *.opera-mini.net
 *.opera.com
 *.opera.news
@@ -633,7 +630,6 @@
 *.prod.dradis.netflix.com
 *.prod.ftl.netflix.com
 *.prod.nube.tech
-*.projects.epam.com
 *.proofhq.com
 *.prosus.com
 *.prowly.com
@@ -930,7 +926,6 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 B2 APIs (*.backblazeb2.com)
 Backblaze Website (*.backblaze.com)
 Internal Web services - *.internal.exoscale.ch
-Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 api*.netflix.com
 api-*.soundcloud.com
 assets.enjin.io,cdn.enjin.io,*.cdn.enjin.io,*.cdn.enjin.cn,cdn.enjin.cn,cdn.enjinx.io,cdn.enjinx.cn,enjinusercontent.com,*.enjinusercontent.com
@@ -941,7 +936,6 @@ intercity-*.eu-east-1.indriverapp.com
 matrix.agent.*.tchap.gouv.fr
 munin-*.wordpress.org
 onboarding-*.cloud.com
-open redirect at *.epam.com
 portalapi.*.afterpay.com
 swiss-backup*.infomaniak.com
 terra-*.indriverapp.com

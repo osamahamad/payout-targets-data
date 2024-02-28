@@ -283,7 +283,6 @@
 *.elasticnet.co
 *.elstc.co
 *.eops.nl
-*.epam.com
 *.epicgames.com
 *.epicgames.dev
 *.etsy.com
@@ -473,7 +472,6 @@
 *.krisp.ai
 *.kucoin.com
 *.kwsdose.be
-*.lab.epam.com
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.landmarkcinemas.com
@@ -610,7 +608,6 @@
 *.onegraph.com
 *.openai.com
 *.openai.org
-*.opensource.epam.com
 *.opera-mini.net
 *.opera.com
 *.opera.news
@@ -667,7 +664,6 @@
 *.prod.dradis.netflix.com
 *.prod.ftl.netflix.com
 *.prod.nube.tech
-*.projects.epam.com
 *.proofhq.com
 *.prosus.com
 *.prowly.com
@@ -1871,7 +1867,6 @@ Identity Management (IDM)
 Illustrator
 Image Paste for Fisheye/Crucible - Server - https://marketplace.atlassian.com/apps/1215192/image-paste-for-fisheye-crucible?hosting=server
 Images
-In Scope - Points only
 In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)
 InCopy
 InDesign
@@ -2204,7 +2199,6 @@ Open Source - Dispatch
 Open Source - Spectator
 Open Source - Weep
 Open Source - Zuul
-Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 Open source projects(non-forked) listed at github.com/pinterest/
 Open source tools from Cloudflare
 OpenAI API Keys
@@ -5425,7 +5419,6 @@ https://keepersecurity.eu/vault
 https://kiwi.partner.viator.com
 https://kw-bugcrowd-pub.bounty.kiteworks.dev/
 https://l.usaa.com/
-https://lab.epam.com
 https://labs.zetachain.com/
 https://lapi.yellowblocks.me
 https://laptop-updates.brave.com/latest/dev/debian64
@@ -5887,7 +5880,6 @@ https://opendata-demo.test-socrata.com
 https://opendata.test-socrata.com
 https://opendata.test-socrata.com/admin/gateway
 https://opensea.io/
-https://opensource.epam.com
 https://ops-dashboard.stag.henchman.io
 https://ops-tool.internal.bbp-mettle.co.uk/
 https://optimizely-edge.com
@@ -6138,7 +6130,6 @@ https://pro.opensea.io/
 https://production.maf.auth0.com
 https://production.maf.auth0.com/api/v2/
 https://profile.pentest.clicsante.ca
-https://projects.epam.com
 https://prs.payments.r1s-prod.com
 https://public-ipfs-mainnet.ternoa.network
 https://public.je-apis.com
@@ -6476,7 +6467,6 @@ https://www.driveuconnect.eu
 https://www.dropbox.com/capture
 https://www.dropbox.com/desktop
 https://www.dropbox.com/paper
-https://www.epam.com/
 https://www.etsy.com
 https://www.etsy.com/developers/documentation/getting_started/api_basics
 https://www.etsy.com/mobile
@@ -7313,7 +7303,6 @@ onevasco.com
 oneview.malwarebytes.com
 oneworldradio.tomorrowland.com
 online.s-pankki.fi
-open redirect at *.epam.com
 open-api.polygon.technology
 open.airbnb.com
 open.larksuite.com
