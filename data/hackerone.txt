@@ -979,7 +979,6 @@ advertising-api.amazon.com
 advertising.amazon.com
 affiliate-program.amazon.com
 alexa-comms-mobile-service-na.amazon.com
-amazonpayinsurance.in
 apay-us.amazon.com
 api.amazon.com
 appstore-tv-prod-na.amazon.com
@@ -1005,12 +1004,9 @@ ftvr-na.amazon.com
 ftvsacs-na.amazon.com
 gateway-ink.amazon.com
 http://www.amazon.com/cpe/yourpayments/wallet
-https://amazonpay.amazon.in/*
 https://www.amazon.com/amazoncash
 https://www.amazon.com/dppui/*
 https://www.amazon.com/gp/buy/*
-https://www.amazon.in/wealth/*
-https://www.amazonpay.in/*
 imdbtv-backend-na.amazon.com
 kca.amazon.com
 kwis-opf.amazon.com
@@ -1050,7 +1046,6 @@ spapi-na.amazon.com
 track.amazon.com
 updates.amazon.com
 www.amazon.*
-www.amazon.in specific areas of note
 3d.cs.money
 cs.money
 support.cs.money

@@ -89,7 +89,12 @@
 *.aliyun.com
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
+*.amazon.ae
+*.amazon.ca
 *.amazon.cl
+*.amazon.cn
+*.amazon.co.jp
+*.amazon.co.uk
 *.amazon.co.za
 *.amazon.com.au
 *.amazon.com.be
@@ -98,7 +103,17 @@
 *.amazon.com.mx
 *.amazon.com.ng
 *.amazon.com.tr
+*.amazon.de
+*.amazon.eg
+*.amazon.es
+*.amazon.fr
+*.amazon.in
+*.amazon.it
+*.amazon.nl
 *.amazon.pl
+*.amazon.sa
+*.amazon.se
+*.amazon.sg
 *.amplitude-game.com
 *.apex-football.com
 *.api.dailymotion.com
@@ -2842,7 +2857,6 @@ am.editeur.preprod.monespacesante.fr
 am.monespacesante.fr
 am.preprod.monespacesante.fr
 amazon.com/hz/mycd/*
-amazonpayinsurance.in
 amp.reddit.com
 analytics-admin.prosus.com
 analytics.cloud.unity3d.com
@@ -4298,7 +4312,6 @@ https://album.link
 https://alpha.yellow.org
 https://alphax.com/
 https://alumni-friends.monash.edu
-https://amazonpay.amazon.in/*
 https://amp.20min.ch
 https://ampcharge.ampol.com.au/
 https://ampol.com.au/
@@ -4983,7 +4996,6 @@ https://github.com/Nginx
 https://github.com/OctopusDeploy
 https://github.com/P2B-team/p2b-api-docs
 https://github.com/PandoraDigital/smart-contract
-https://github.com/Plisio
 https://github.com/ProjectOpenSea/seaport#deployments
 https://github.com/RIPE-NCC/rpki-commons
 https://github.com/RIPE-NCC/rpki-core
@@ -6064,7 +6076,6 @@ https://play.google.com/store/apps/details?id=jp.moneytree.moneytree&hl=en_AU&gl
 https://play.google.com/store/apps/details?id=kuna.beta
 https://play.google.com/store/apps/details?id=net.bitstamp.app
 https://play.google.com/store/apps/details?id=net.bitstamp.appgo
-https://play.google.com/store/apps/details?id=net.plisio.app&pli=1
 https://play.google.com/store/apps/details?id=one.big
 https://play.google.com/store/apps/details?id=pro.bingbon.app
 https://play.google.com/store/apps/details?id=pro.cointr
@@ -6075,8 +6086,6 @@ https://play.google.com/store/apps/details?id=ua.aval.biz.client.android&hl=uk
 https://play.google.com/store/apps/details?id=ua.aval.dbo.client.android
 https://play.google.com/store/apps/details?id=ua.raiffeisen.myraif
 https://playlist.link
-https://plisio.net/
-https://plisio.net/documentation
 https://plmcixt.pinelabs.com/
 https://plugins.matomo.org/developer/innocraft
 https://plugins.matomo.org/developer/matomo-org
@@ -6388,8 +6397,6 @@ https://www.amazon.com/amazoncash
 https://www.amazon.com/dppui/*
 https://www.amazon.com/gp/buy/*
 https://www.amazon.com/luna/*
-https://www.amazon.in/wealth/*
-https://www.amazonpay.in/*
 https://www.ankermake.com/products/m5?variant=42744298373269
 https://www.anytask.com/
 https://www.api.hpr.kiwai-normandie.fr/
@@ -8066,7 +8073,6 @@ www.alibabagroup.com
 www.am.monespacesante.fr
 www.amazon.*
 www.amazon.com/photos/*
-www.amazon.in specific areas of note
 www.analvids.com
 www.applevacations.com
 www.arkoselabs.com
