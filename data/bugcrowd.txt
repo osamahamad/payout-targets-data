@@ -1906,7 +1906,6 @@ mobileapp.opsgenie.com
 https://accounts.welcomesoftware.com/
 https://analytics.welcomesoftware.com/
 https://api.optimizely.com/
-https://api.prod.optimizely.com
 https://api.welcomesoftware.com/
 https://api.welcomesoftware.com/ 
 https://app.optimizely.com/
@@ -1915,6 +1914,7 @@ https://cdn-app.welcomesoftware.com/
 https://cdn-pci.optimizely.com/
 https://cdn.optimizely.com/
 https://dxc.episerver.net/ 
+https://flags.expeng.optimizely.com
 https://optimizely-edge.com
 https://paasportal.episerver.net/
 https://paasportal.episerver.net/api/v1.0/
