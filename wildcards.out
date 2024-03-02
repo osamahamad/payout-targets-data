@@ -18,11 +18,16 @@
 *.LCX.com
 *.YOUR-TESTING-STORE.mybigcommerce.com/
 *.a.exodus.io
+*.account.api.here.com
+*.account.here.com
 *.acorns.com
 *.acrobat.com
 *.acronis.com
 *.acronis.work
 *.ad.nl
+*.ada.com
+*.ada.health
+*.adahealth.ca
 *.adobe.com
 *.adobe.io
 *.adobeaemcloud.com
@@ -84,6 +89,7 @@
 *.app.spacelift.dev
 *.arlo.com (production servers only)
 *.arloxcld.com (production servers only)
+*.aroundtheworld.tomorrowland.com
 *.artist.link
 *.artstation.com
 *.arubanetworks.com
@@ -226,6 +232,7 @@
 *.deliveroo.*
 *.dell.com/*
 *.delltechnologies.com/* 
+*.demorgen.be
 *.deribit.com
 *.deriv.cloud
 *.deriv.com
@@ -243,6 +250,8 @@
 *.doctolib.(fr|de|it|com|net)
 *.domainscope.com
 *.download.originenergy.com.au
+*.dpgmedia.be
+*.dpgmedia.nl
 *.dropbox.com    
 *.dropboxer.net
 *.dropboxforum.com
@@ -340,6 +349,8 @@
 *.hellofax.com
 *.hellosign.com
 *.helloworks.com
+*.here.com
+*.hereapi.com
 *.hey.com
 *.highrolling.nu
 *.highwebmedia.com
@@ -350,6 +361,7 @@
 *.hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hitmanpro.com
+*.hln.be
 *.hmxservices.com
 *.hmxwebservices.com
 *.holidaylettings.com
@@ -363,6 +375,7 @@
 *.hubspot.net
 *.hubspotemail.net
 *.humio.com
+*.humo.be
 *.hypermint.com
 *.hyperpure.com
 *.hyperwallet.com
@@ -429,6 +442,7 @@
 *.kortathjonustan.is
 *.krisp.ai
 *.kucoin.com
+*.kwsdose.be
 *.lab.epam.com
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -503,6 +517,7 @@
 *.mmcdn.com
 *.mmwebc.dev
 *.mobilevikings.be
+*.mobilitygraph.hereapi.com
 *.mona.co
 *.moonpay.com
 *.moonpaycloud.com
@@ -551,6 +566,7 @@
 *.nubank.com.br	
 *.nuinvest.com.br	
 *.octopus.com
+*.oda.com
 *.odcdn.com.au
 *.odesli.co
 *.odesli.com
@@ -585,6 +601,7 @@
 *.paddypartners.com
 *.paddypower.com
 *.paddypower.it
+*.parool.nl
 *.paydiant.com
 *.paylution.com
 *.payoneer.com
@@ -597,6 +614,7 @@
 *.platformservices.io
 *.playlist.link
 *.playstation.net
+*.playuzleuven.be
 *.pods.link
 *.popjam.com
 *.ppbdev.com
@@ -611,6 +629,7 @@
 *.prod.cryptology.com
 *.prod.dradis.netflix.com
 *.prod.ftl.netflix.com
+*.prod.nube.tech
 *.projects.epam.com
 *.proofhq.com
 *.prosus.com
@@ -647,15 +666,22 @@
 *.rentalcars.com
 *.reposify.com
 *.restintergamma.nl
+*.rhinternal.net
+*.robinhood.com
+*.robinhood.net
 *.roblox.com
 *.rocketleague.com
 *.rockstargames.com
 *.romwe.com
+*.router.hereapi.com
 *.rtcdn.caffeine.tv
 *.rukkaz.com
 *.runnr.in
 *.s-cloud.net
 *.sandbox.directly.com/
+*.say.rocks
+*.saytechnologies.com
+*.sbb.ch
 *.sbgcdn.com
 *.sbgcore.com
 *.sbgorigin.com
@@ -664,6 +690,7 @@
 *.sc-core.net
 *.sc-corp.net
 *.scatec.io
+*.scbe.api.here.com
 *.scene7.com
 *.scoober.com
 *.scopely.com
@@ -678,6 +705,7 @@
 *.sellzone.com
 *.semrush.com
 *.semrush.net
+*.sentiance.com
 *.seoab.io
 *.seoquake.com
 *.services-prod.nsvcs.net
@@ -728,6 +756,8 @@
 *.sportinglife.com
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
+*.sqills.com
+*.sqills.team
 *.square.com
 *.squareup.com
 *.srvcs.tumblr.com
@@ -741,6 +771,7 @@
 *.streamlabs.com
 *.streamlabscharity.com
 *.stripe.com
+*.subp-router.hereapi.com
 *.superawesome.com
 *.superawesome.tv
 *.superbet.com
@@ -751,6 +782,7 @@
 *.superpal.io/*
 *.support.originenergy.com.au
 *.swiftype.com
+*.swisspass.ch
 *.sys.comcast.net
 *.t-mobile.com
 *.takeaway.com
@@ -782,6 +814,7 @@
 *.tinderops.net
 *.tinderwebstaging.com
 *.tmall.com
+*.tomorrowland.com
 *.ton.diamonds
 *.toolsforhumanity.com
 *.touchtechpayments.com
@@ -821,6 +854,8 @@
 *.unrealengine.com
 *.unrealtournament.com
 *.unscreen.com
+*.uphold.com
+*.uzleuven.*
 *.vacationhomerentals.com
 *.venmo.com
 *.vennhypotheken.nl
@@ -837,7 +872,10 @@
 *.vladcazino.ro
 *.vod2.infomaniak.com
 *.voiscooters.com
+*.volkskrant.nl
 *.vpn.hackerone.net
+*.vtm.be
+*.vtmgo.be
 *.wavecell.com
 *.wealthsimple.com
 *.wenewmoments.com
