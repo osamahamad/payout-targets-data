@@ -22,6 +22,7 @@
 *.acrobat.com
 *.acronis.com
 *.acronis.work
+*.ad.nl
 *.adobe.com
 *.adobe.io
 *.adobeaemcloud.com
@@ -158,6 +159,7 @@
 *.bugcrowd.com/auth/*
 *.byairbnb.com
 *.bybit.com
+*.c-point.be
 *.canva-apps.cn
 *.canva-apps.com
 *.canva.cn
@@ -287,6 +289,8 @@
 *.folioinvesting.com
 *.fortnite.com
 *.found.io
+*.gamma.be/*
+*.gamma.nl/*
 *.getbouncer.com
 *.getmeetio.com
 *.github.net
@@ -349,6 +353,7 @@
 *.hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hitmanpro.com
+*.hln.be
 *.hmxservices.com
 *.hmxwebservices.com
 *.holidaylettings.com
@@ -366,6 +371,9 @@
 *.hyperpure.com
 *.hyperwallet.com
 *.hypr.com
+*.ibood.com
+*.ibood.io
+*.igpayment.com
 *.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
@@ -384,9 +392,14 @@
 *.infra-prod.nsvcs.net
 *.infrastructure-data.newrelic.com
 *.infrastructure.newrelic.com
+*.innogames.com
+*.innogames.de
 *.instacart.com
 *.instacart.tools
 *.intercomassets.com / *.intercomcdn.com
+*.intergamma-test.nl
+*.intergamma.cloud
+*.intergamma.nl/*
 *.irccloud-cdn.com
 *.irccloud.com
 *.je-apis.com - UK legacy API
@@ -411,19 +424,29 @@
 *.justeat-int.com
 *.justeattakeaway.com
 *.kaleido.ai
+*.karwei.nl/*
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
 *.kes.kindredext.net
 *.kindredext.net
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
 *.kiwi.com
+*.klubcinema.fr
 *.kolikkopelit.com
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
 *.kucoin.com
+*.kwsdose.be
 *.lab.epam.com
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
+*.landmarkcinemas.com
 *.lazada-seller.cn
 *.lazada.(sg|vn|co.id|co.th|com|com.ph|com.my) (+)
 *.lazada.(sg|vn|co.id|co.th|com|com.ph|com.my) (++)
@@ -473,6 +496,7 @@
 *.marcus.com
 *.mariacasino.com
 *.marketo.com
+*.mas.mobilevikings.be
 *.mattermost.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -480,6 +504,7 @@
 *.mdvmm.xyz
 *.mediatonic.co.uk
 *.meebits.app
+*.megatix.be
 *.melonapp.com
 *.menulog.co.nz - New Zealand food ordering
 *.menulog.com.au - Australia food ordering
@@ -491,8 +516,10 @@
 *.miui.com
 *.miwifi.com
 *.mixamo.com
+*.mjrtheatres.com
 *.mmcdn.com
 *.mmwebc.dev
+*.mobilevikings.be
 *.mona.co
 *.moonpay.com
 *.moonpaycloud.com
@@ -588,9 +615,12 @@
 *.platformservices.io
 *.playlist.link
 *.playstation.net
+*.playuzleuven.be
 *.pods.link
 *.popjam.com
 *.ppbdev.com
+*.prd-pub.mobilevikings.be
+*.prd.mobilevikings.be
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
@@ -635,6 +665,7 @@
 *.remove.bg
 *.rentalcars.com
 *.reposify.com
+*.restintergamma.nl
 *.roblox.com
 *.rocketleague.com
 *.rockstargames.com
@@ -644,6 +675,7 @@
 *.runnr.in
 *.s-cloud.net
 *.sandbox.directly.com/
+*.sbb.ch
 *.sbgcdn.com
 *.sbgcore.com
 *.sbgorigin.com
@@ -740,6 +772,7 @@
 *.superpal.io/*
 *.support.originenergy.com.au
 *.swiftype.com
+*.swisspass.ch
 *.sys.comcast.net
 *.t-mobile.com
 *.takeaway.com
@@ -806,9 +839,12 @@
 *.unrealengine.com
 *.unrealtournament.com
 *.unscreen.com
+*.uphold.com
+*.uzleuven.*
 *.vacationhomerentals.com
 *.venmo.com
 *.vennhypotheken.nl
+*.veriff.com
 *.vertexprotocol.com
 *.vfsevisa.com
 *.vfsglobal.(com|co.uk|ca)
@@ -820,12 +856,16 @@
 *.vine.co
 *.vladcazino.ro
 *.vod2.infomaniak.com
+*.voiscooters.com
 *.vpn.hackerone.net
 *.vtm.be
 *.vtmgo.be
 *.wavecell.com
 *.wealthsimple.com
 *.wenewmoments.com
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
 *.westernunion.*
 *.white.market
 *.wimpmusic.com
