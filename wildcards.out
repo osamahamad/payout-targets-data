@@ -18,16 +18,10 @@
 *.LCX.com
 *.YOUR-TESTING-STORE.mybigcommerce.com/
 *.a.exodus.io
-*.account.api.here.com
-*.account.here.com
 *.acorns.com
 *.acrobat.com
 *.acronis.com
 *.acronis.work
-*.ad.nl
-*.ada.com
-*.ada.health
-*.adahealth.ca
 *.adobe.com
 *.adobe.io
 *.adobeaemcloud.com
@@ -164,7 +158,6 @@
 *.bugcrowd.com/auth/*
 *.byairbnb.com
 *.bybit.com
-*.c-point.be
 *.canva-apps.cn
 *.canva-apps.com
 *.canva.cn
@@ -226,8 +219,6 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
-*.das.eu
-*.datacamp.com
 *.deliveroo-data-test.io
 *.deliveroo-data.io
 *.deliveroo-data.net
@@ -248,7 +239,6 @@
 *.dibz.co.uk
 *.dm.gg
 *.dmcdn.net
-*.dns.eu
 *.docsend.com
 *.doctolib.(fr|de|it|com|net)
 *.domainscope.com
@@ -271,7 +261,6 @@
 *.etsy.com
 *.eu.floqast.app
 *.eu.newrelic.com
-*.eurid.eu
 *.europolitan.se
 *.exmo.com
 *.exmo.me
@@ -298,8 +287,6 @@
 *.folioinvesting.com
 *.fortnite.com
 *.found.io
-*.gamma.be/*
-*.gamma.nl/*
 *.getbouncer.com
 *.getmeetio.com
 *.github.net
@@ -352,8 +339,6 @@
 *.hellofax.com
 *.hellosign.com
 *.helloworks.com
-*.here.com
-*.hereapi.com
 *.hey.com
 *.highrolling.nu
 *.highwebmedia.com
@@ -364,7 +349,6 @@
 *.hiltonhotels.jp
 *.hiltonlocalbiz.com
 *.hitmanpro.com
-*.hln.be
 *.hmxservices.com
 *.hmxwebservices.com
 *.holidaylettings.com
@@ -378,14 +362,10 @@
 *.hubspot.net
 *.hubspotemail.net
 *.humio.com
-*.humo.be
 *.hypermint.com
 *.hyperpure.com
 *.hyperwallet.com
 *.hypr.com
-*.ibood.com
-*.ibood.io
-*.igpayment.com
 *.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
@@ -404,14 +384,9 @@
 *.infra-prod.nsvcs.net
 *.infrastructure-data.newrelic.com
 *.infrastructure.newrelic.com
-*.innogames.com
-*.innogames.de
 *.instacart.com
 *.instacart.tools
 *.intercomassets.com / *.intercomcdn.com
-*.intergamma-test.nl
-*.intergamma.cloud
-*.intergamma.nl/*
 *.irccloud-cdn.com
 *.irccloud.com
 *.je-apis.com - UK legacy API
@@ -436,29 +411,19 @@
 *.justeat-int.com
 *.justeattakeaway.com
 *.kaleido.ai
-*.karwei.nl/*
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
 *.kes.kindredext.net
 *.kindredext.net
-*.kinepolis.be
-*.kinepolis.ch
-*.kinepolis.com
-*.kinepolis.fr
-*.kinepolis.lu
-*.kinepolis.nl
 *.kiwi.com
-*.klubcinema.fr
 *.kolikkopelit.com
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
 *.kucoin.com
-*.kwsdose.be
 *.lab.epam.com
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
-*.landmarkcinemas.com
 *.lazada-seller.cn
 *.lazada.(sg|vn|co.id|co.th|com|com.ph|com.my) (+)
 *.lazada.(sg|vn|co.id|co.th|com|com.ph|com.my) (++)
@@ -470,7 +435,6 @@
 *.lex.(co.id|com.my|in.th|ph|vn) (+)
 *.lex.(co.id|com.my|in.th|ph|vn) (++)
 *.lex.(co.id|com.my|in.th|ph|vn) (+++)
-*.libelle.nl
 *.liberapay.com
 *.lieferando.at
 *.lieferando.de
@@ -509,7 +473,6 @@
 *.marcus.com
 *.mariacasino.com
 *.marketo.com
-*.mas.mobilevikings.be
 *.mattermost.com
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -517,7 +480,6 @@
 *.mdvmm.xyz
 *.mediatonic.co.uk
 *.meebits.app
-*.megatix.be
 *.melonapp.com
 *.menulog.co.nz - New Zealand food ordering
 *.menulog.com.au - Australia food ordering
@@ -529,11 +491,8 @@
 *.miui.com
 *.miwifi.com
 *.mixamo.com
-*.mjrtheatres.com
 *.mmcdn.com
 *.mmwebc.dev
-*.mobilevikings.be
-*.mobilitygraph.hereapi.com
 *.mona.co
 *.moonpay.com
 *.moonpaycloud.com
@@ -571,10 +530,7 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
-*.nic.eu
-*.ninjakiwi.com
 *.niumba.com
-*.nkstatic.com
 *.nnip.com
 *.nordvpn.com
 *.nr-data.net
@@ -625,9 +581,6 @@
 *.payoneer.com
 *.paypal.com
 *.paypalcorp.com
-*.personio-internal.de
-*.personio.de
-*.personio.tools
 *.pexels.com
 *.phonegap.com
 *.pinterest.com Web Apps
@@ -635,12 +588,9 @@
 *.platformservices.io
 *.playlist.link
 *.playstation.net
-*.playuzleuven.be
 *.pods.link
 *.popjam.com
 *.ppbdev.com
-*.prd-pub.mobilevikings.be
-*.prd.mobilevikings.be
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
@@ -682,28 +632,18 @@
 *.redmart.com (++)
 *.redmart.com (+++)
 *.reflexion.net
-*.registry.eu
 *.remove.bg
 *.rentalcars.com
 *.reposify.com
-*.restintergamma.nl
-*.rhinternal.net
-*.ripe.net
-*.robinhood.com
-*.robinhood.net
 *.roblox.com
 *.rocketleague.com
 *.rockstargames.com
 *.romwe.com
-*.router.hereapi.com
 *.rtcdn.caffeine.tv
 *.rukkaz.com
 *.runnr.in
 *.s-cloud.net
 *.sandbox.directly.com/
-*.say.rocks
-*.saytechnologies.com
-*.sbb.ch
 *.sbgcdn.com
 *.sbgcore.com
 *.sbgorigin.com
@@ -712,7 +652,6 @@
 *.sc-core.net
 *.sc-corp.net
 *.scatec.io
-*.scbe.api.here.com
 *.scene7.com
 *.scoober.com
 *.scopely.com
@@ -727,7 +666,6 @@
 *.sellzone.com
 *.semrush.com
 *.semrush.net
-*.sentiance.com
 *.seoab.io
 *.seoquake.com
 *.services-prod.nsvcs.net
@@ -779,8 +717,6 @@
 *.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
-*.sqills.com
-*.sqills.team
 *.square.com
 *.squareup.com
 *.srvcs.tumblr.com
@@ -794,7 +730,6 @@
 *.streamlabs.com
 *.streamlabscharity.com
 *.stripe.com
-*.subp-router.hereapi.com
 *.superawesome.com
 *.superawesome.tv
 *.superbet.com
@@ -805,7 +740,6 @@
 *.superpal.io/*
 *.support.originenergy.com.au
 *.swiftype.com
-*.swisspass.ch
 *.sys.comcast.net
 *.t-mobile.com
 *.takeaway.com
@@ -826,7 +760,6 @@
 *.testnet.immutable.com
 *.threatdown.com
 *.thuisbezorgd.nl
-*.ticketing.cm.com
 *.tickets.ua
 *.tidal.com
 *.tidalhifi.com
@@ -848,7 +781,6 @@
 *.transferwise.com
 *.trello.services
 *.trip.com
-*.trouw.nl
 *.truelayer.cloud
 *.truelayer.com
 *.truelayer.io
@@ -858,9 +790,6 @@
 *.tube8.com
 *.tubemogul.com
 *.tumblr.com
-*.tweakblogs.net
-*.tweakers.net
-*.tweakimg.net
 *.twimg.com
 *.twitter.com
 *.typekit.com
@@ -877,12 +806,9 @@
 *.unrealengine.com
 *.unrealtournament.com
 *.unscreen.com
-*.uphold.com
-*.uzleuven.*
 *.vacationhomerentals.com
 *.venmo.com
 *.vennhypotheken.nl
-*.veriff.com
 *.vertexprotocol.com
 *.vfsevisa.com
 *.vfsglobal.(com|co.uk|ca)
@@ -894,20 +820,14 @@
 *.vine.co
 *.vladcazino.ro
 *.vod2.infomaniak.com
-*.voiscooters.com
-*.volkskrant.nl
 *.vpn.hackerone.net
 *.vtm.be
 *.vtmgo.be
 *.wavecell.com
 *.wealthsimple.com
 *.wenewmoments.com
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
 *.westernunion.*
 *.white.market
-*.whois.eu
 *.wimpmusic.com
 *.wise.com
 *.withairbnb.com
@@ -929,7 +849,6 @@
 *.xvservice.net
 *.xvtest.net
 *.xyzbmojn.net
-*.yadifa.eu
 *.yelp-support.com
 *.yelp.com
 *.yelpwifi.com
