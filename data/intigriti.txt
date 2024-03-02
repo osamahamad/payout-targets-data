@@ -1,3 +1,16 @@
+1099986434
+com.ada.app
+https://api.mobile.ada.com
+https://id.ada.com
+https://care-navigation-admin-bff.eu.enterprise.ada.com
+https://care-navigation-admin-fe.eu.enterprise.ada.com
+https://care-navigation-bff.eu.enterprise.ada.com
+https://care-navigation-fe.eu.enterprise.ada.com
+https://demo-prod-assessment-bff.ada-prod-eu.prod.gcp.ada.com
+https://demo-prod-hcp-report-bff.ada-prod-eu.prod.gcp.ada.com
+https://demo.enterprise.ada.com
+https://demo.handover.enterprise.ada.com
+https://demo.sso.enterprise.ada.com
 https://api.the-strip.eu
 https://cdn.the-strip.eu
 https://en-gb.napoleoncasino.be/wimi/game/play/slug/napoleon-spinner
@@ -34,6 +47,13 @@ www.techbook.de
 www.travelbook.de
 www.wissen-sie-mehr.de
 imove.bpost.cloud
+login.cm.com
+api.cm.com
+api.cmtelecom.com
+cm.com/[locale]/app/*
+cm.com/[locale]/register
+cm.com/app/messagingtrial/
+www.cm.com
 app-pwn.intigriti.rocks
 1416625210
 com.freshfoodventures.crisp
@@ -44,10 +64,27 @@ for-hackers.crispapp.nl
 https://for-hackers.crispapp.nl/web-rn/
 https://justonweb.be/fines/
 Any related DPG media domain
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
+app.datacamp.com/workspace
+assessment-v2.datacamp.com
+assessment.datacamp.com
+campus.datacamp.com
+com.datacamp
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
+practice.datacamp.com
+projects.datacamp.com
+www.datacamp.com
 myaccount.demorgen.be
 shop.demorgen.be
 www.demorgen.be
 www.demorgen.be/abonnementen
+myaccount.volkskrant.nl
+shop.volkskrant.nl
+webwinkel.volkskrant.nl
+www.volkskrant.nl
+www.volkskrant.nl/abonnementen
 api.digital.delen.be
 api.digital.delen.lu
 app.delen.be
@@ -67,9 +104,13 @@ www.cadelam.be
 www.cadelux.lu/en
 www.delen.bank
 www.delen.be/en
+my.eurid.eu
+YADIFA authoritative name server
 service.fing.com
 app.fing.com
 Fing desktop
+955837609
+com.here.app.maps
 * hln.be/inloggen
 * hln.be/login
 * hln.be/registreren
@@ -81,6 +122,12 @@ shop.parool.nl
 webwinkel.parool.nl
 www.parool.nl
 www.parool.nl/abonnementen
+https://www.kuleuven.be/sapredir/huisvesting
+* humo.be/registreren
+myaccount.humo.be
+shop.humo.be
+www.humo.be
+www.humo.be/abonnementen
 support.innogames.com
 com.innogames.elvenar - Android
 com.innogames.foeandroid
@@ -96,6 +143,9 @@ xs1.elvenar.com
 xs1.forgeofempires.com
 xs1.grepolis.com
 xs1.tribalwars.cash
+Hardware
+Firmware
+Software
 949829216
 950680989
 950693949
@@ -172,6 +222,7 @@ login.lansweeper.com
 on-premises software
 OT scanner
 www.lansweeper.com
+www.libelle.nl
 mobilevikings.be
 api.unleashed.be
 jimmobile.be
@@ -180,13 +231,38 @@ vpn.mobilevikings.be
 mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
+134.58.179.82
+be.nexuzhealth.mobile.cpv
+be.nexuzhealth.mobile.kws
+be.nexuzhealth.mobile.mynexuz
+forms.nexuzhealth.be
+idp-mobile.nexuzhealth.be
+kws-companion/id1342124012
+mobile.nexuzhealth.be
+mynexuz.be
+mynexuz.be/myUZ/
+mynexuzhealth/id1459856321
 idp-contact.nexuzhealth.be
 media.nexuzhealth.be/patient/
+analytics.ninjakiwi.com
+api.ninjakiwi.com
+builds-auckland.ninja.kiwi
+battles.tv
+data.ninjakiwi.com
+ninja.kiwi
+ninjakiwi.com
+ct.ninjakiwi.com
+mynk.ninjakiwi.com
 1079537578
 https://oda.com
 no.kolonial.tienda
 https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
+https://hug.personio.com
+https://sec-test-<intigriti handle>-<nn>.personio.de
+https://www.personio.com/free-trial/
+https://www.personio.de/kostenlos-testen/
+Other assets owned by Personio
 188.118.8.0/25
 94.107.237.192/26
 api-accpt.portofantwerp.com
@@ -234,10 +310,35 @@ wiki.portofantwerp.com
 wiki.portofantwerpbruges.com
 www.oursustainableport.com
 www.portofantwerpbruges.com
+access.ripe.net
+https://github.com/RIPE-NCC/rpki-commons
+https://github.com/RIPE-NCC/rpki-core
+https://github.com/RIPE-NCC/whois
+lirportal.ripe.net
+193.0.0.0/19 and 2001:67c:2e8::/48
+https://github.com/RIPE-NCC/rpki-monitoring
+https://github.com/RIPE-NCC/rpki-publication-server
+https://github.com/RIPE-NCC/rpki-ta-0
+https://github.com/RIPE-NCC/rsyncit
+938003185
+com.robinhood.android
 www.sbb.ch
 www.elvetino.ch
 www.sbbcargo.com
 www.transsicura.ch
+api.sentiance.com
+com.sentiance.journeys2
+controltower.sentiance.com
+https://apps.apple.com/us/app/rac-go/id6444858115
+https://play.google.com/store/apps/details?id=com.sentiance.saferdriver
+insights-by-sentiance/id1608074635
+journeys-api.sentiance.com/v2
+com.sentiance.journeys
+journeys-2/id984087229?mt=8
+docs.sentiance.com
+SimScale API
+SimScale Platform
+SimScale Website
 910898851
 app.nl.socialdeal
 http://socialdeal.nl/inspirations/bluemonday/
@@ -277,6 +378,11 @@ www.schoenentorfs.nl
 www.torfs.be
 www.torfs.nl
 www.samenfittorfs.be
+myaccount.trouw.nl
+shop.trouw.nl
+webwinkel.trouw.nl
+www.trouw.nl
+www.trouw.nl/abonnementen
 api.truelayer[-sandbox].com
 auth.truelayer[-sandbox].com
 login-api.truelayer[-sandbox].com
@@ -320,6 +426,7 @@ random.uzleuven.be/random/
 teststs.uzleuven.be
 uzlcm12cmg1.uzleuven.be
 w1.uzleuven.be
+Ubisoft
 1101145849
 6444005221
 api.uphold.com
@@ -465,6 +572,18 @@ Yahoo Weather
 Yahoo! (Misc)
 yimg.com
 Zero days that affect Intigriti or participating customers (listed below)
+hub.vznkul.be/*
+hub.vznkul.be/services/interhub/InterHubService
+hub.vznkul.be/services/intrahub/IntraHubService
+hubacc.vznkul.be/*
+hubacc.vznkul.be/services/acceptance/interhub/InterHubService
+hubacc.vznkul.be/services/acceptance/intrahub/IntraHubService
+https://api-dashboard.stag.henchman.io
+https://api-search.stag.henchman.io
+https://add-in.stag.henchman.io
+https://auth.stag.henchman.io
+https://dashboard.stag.henchman.io
+https://ops-dashboard.stag.henchman.io
 1135288773
 api.ibood.com
 com.ibood.app

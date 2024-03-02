@@ -18,11 +18,16 @@
 *.LCX.com
 *.YOUR-TESTING-STORE.mybigcommerce.com/
 *.a.exodus.io
+*.account.api.here.com
+*.account.here.com
 *.acorns.com
 *.acrobat.com
 *.acronis.com
 *.acronis.work
 *.ad.nl
+*.ada.com
+*.ada.health
+*.adahealth.ca
 *.adobe.com
 *.adobe.io
 *.adobeaemcloud.com
@@ -221,6 +226,8 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
+*.das.eu
+*.datacamp.com
 *.deliveroo-data-test.io
 *.deliveroo-data.io
 *.deliveroo-data.net
@@ -241,6 +248,7 @@
 *.dibz.co.uk
 *.dm.gg
 *.dmcdn.net
+*.dns.eu
 *.docsend.com
 *.doctolib.(fr|de|it|com|net)
 *.domainscope.com
@@ -263,6 +271,7 @@
 *.etsy.com
 *.eu.floqast.app
 *.eu.newrelic.com
+*.eurid.eu
 *.europolitan.se
 *.exmo.com
 *.exmo.me
@@ -343,6 +352,8 @@
 *.hellofax.com
 *.hellosign.com
 *.helloworks.com
+*.here.com
+*.hereapi.com
 *.hey.com
 *.highrolling.nu
 *.highwebmedia.com
@@ -367,6 +378,7 @@
 *.hubspot.net
 *.hubspotemail.net
 *.humio.com
+*.humo.be
 *.hypermint.com
 *.hyperpure.com
 *.hyperwallet.com
@@ -458,6 +470,7 @@
 *.lex.(co.id|com.my|in.th|ph|vn) (+)
 *.lex.(co.id|com.my|in.th|ph|vn) (++)
 *.lex.(co.id|com.my|in.th|ph|vn) (+++)
+*.libelle.nl
 *.liberapay.com
 *.lieferando.at
 *.lieferando.de
@@ -520,6 +533,7 @@
 *.mmcdn.com
 *.mmwebc.dev
 *.mobilevikings.be
+*.mobilitygraph.hereapi.com
 *.mona.co
 *.moonpay.com
 *.moonpaycloud.com
@@ -557,7 +571,10 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
+*.nic.eu
+*.ninjakiwi.com
 *.niumba.com
+*.nkstatic.com
 *.nnip.com
 *.nordvpn.com
 *.nr-data.net
@@ -608,6 +625,9 @@
 *.payoneer.com
 *.paypal.com
 *.paypalcorp.com
+*.personio-internal.de
+*.personio.de
+*.personio.tools
 *.pexels.com
 *.phonegap.com
 *.pinterest.com Web Apps
@@ -662,19 +682,27 @@
 *.redmart.com (++)
 *.redmart.com (+++)
 *.reflexion.net
+*.registry.eu
 *.remove.bg
 *.rentalcars.com
 *.reposify.com
 *.restintergamma.nl
+*.rhinternal.net
+*.ripe.net
+*.robinhood.com
+*.robinhood.net
 *.roblox.com
 *.rocketleague.com
 *.rockstargames.com
 *.romwe.com
+*.router.hereapi.com
 *.rtcdn.caffeine.tv
 *.rukkaz.com
 *.runnr.in
 *.s-cloud.net
 *.sandbox.directly.com/
+*.say.rocks
+*.saytechnologies.com
 *.sbb.ch
 *.sbgcdn.com
 *.sbgcore.com
@@ -684,6 +712,7 @@
 *.sc-core.net
 *.sc-corp.net
 *.scatec.io
+*.scbe.api.here.com
 *.scene7.com
 *.scoober.com
 *.scopely.com
@@ -698,6 +727,7 @@
 *.sellzone.com
 *.semrush.com
 *.semrush.net
+*.sentiance.com
 *.seoab.io
 *.seoquake.com
 *.services-prod.nsvcs.net
@@ -749,6 +779,8 @@
 *.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
+*.sqills.com
+*.sqills.team
 *.square.com
 *.squareup.com
 *.srvcs.tumblr.com
@@ -762,6 +794,7 @@
 *.streamlabs.com
 *.streamlabscharity.com
 *.stripe.com
+*.subp-router.hereapi.com
 *.superawesome.com
 *.superawesome.tv
 *.superbet.com
@@ -793,6 +826,7 @@
 *.testnet.immutable.com
 *.threatdown.com
 *.thuisbezorgd.nl
+*.ticketing.cm.com
 *.tickets.ua
 *.tidal.com
 *.tidalhifi.com
@@ -814,6 +848,7 @@
 *.transferwise.com
 *.trello.services
 *.trip.com
+*.trouw.nl
 *.truelayer.cloud
 *.truelayer.com
 *.truelayer.io
@@ -823,6 +858,9 @@
 *.tube8.com
 *.tubemogul.com
 *.tumblr.com
+*.tweakblogs.net
+*.tweakers.net
+*.tweakimg.net
 *.twimg.com
 *.twitter.com
 *.typekit.com
@@ -857,6 +895,7 @@
 *.vladcazino.ro
 *.vod2.infomaniak.com
 *.voiscooters.com
+*.volkskrant.nl
 *.vpn.hackerone.net
 *.vtm.be
 *.vtmgo.be
@@ -868,6 +907,7 @@
 *.werkenbijkarwei.nl
 *.westernunion.*
 *.white.market
+*.whois.eu
 *.wimpmusic.com
 *.wise.com
 *.withairbnb.com
@@ -889,6 +929,7 @@
 *.xvservice.net
 *.xvtest.net
 *.xyzbmojn.net
+*.yadifa.eu
 *.yelp-support.com
 *.yelp.com
 *.yelpwifi.com
