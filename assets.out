@@ -87,6 +87,8 @@
 *.alimama.com
 *.aliyun-inc.com
 *.aliyun.com
+*.allegro.cz.allegrosandbox.pl
+*.allegro.pl.allegrosandbox.pl
 *.amazon.ae
 *.amazon.ca
 *.amazon.cl
@@ -259,6 +261,7 @@
 *.dailymotion.com
 *.dancecentral.com
 *.das.eu
+*.datacamp.com
 *.deliveroo-data-test.io
 *.deliveroo-data.io
 *.deliveroo-data.net
@@ -414,6 +417,8 @@
 *.hyperpure.com
 *.hyperwallet.com
 *.hypr.com
+*.ibood.com
+*.ibood.io
 *.igpayment.com
 *.ikarem.io
 *.immedia-semi.com/*
@@ -470,7 +475,14 @@
 *.kdrive.infomaniak.com
 *.kes.kindredext.net
 *.kindredext.net
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
 *.kiwi.com
+*.klubcinema.fr
 *.kolikkopelit.com
 *.korta.is
 *.kortathjonustan.is
@@ -480,6 +492,7 @@
 *.lab.epam.com
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
+*.landmarkcinemas.com
 *.lazada-seller.cn
 *.lazada.(sg|vn|co.id|co.th|com|com.ph|com.my) (+)
 *.lazada.(sg|vn|co.id|co.th|com|com.ph|com.my) (++)
@@ -491,6 +504,7 @@
 *.lex.(co.id|com.my|in.th|ph|vn) (+)
 *.lex.(co.id|com.my|in.th|ph|vn) (++)
 *.lex.(co.id|com.my|in.th|ph|vn) (+++)
+*.libelle.nl
 *.liberapay.com
 *.lieferando.at
 *.lieferando.de
@@ -537,6 +551,7 @@
 *.mdvmm.xyz
 *.mediatonic.co.uk
 *.meebits.app
+*.megatix.be
 *.melonapp.com
 *.menulog.co.nz - New Zealand food ordering
 *.menulog.com.au - Australia food ordering
@@ -548,6 +563,7 @@
 *.miui.com
 *.miwifi.com
 *.mixamo.com
+*.mjrtheatres.com
 *.mmcdn.com
 *.mmwebc.dev
 *.mobilevikings.be
@@ -590,7 +606,9 @@
 *.nflxso.net
 *.nflxvideo.net
 *.nic.eu
+*.ninjakiwi.com
 *.niumba.com
+*.nkstatic.com
 *.nnip.com
 *.nordvpn.com
 *.nr-data.net
@@ -641,6 +659,9 @@
 *.payoneer.com
 *.paypal.com
 *.paypalcorp.com
+*.personio-internal.de
+*.personio.de
+*.personio.tools
 *.pexels.com
 *.phonegap.com
 *.pinterest.com Web Apps
@@ -701,6 +722,7 @@
 *.reposify.com
 *.restintergamma.nl
 *.rhinternal.net
+*.ripe.net
 *.robinhood.com
 *.robinhood.net
 *.roblox.com
@@ -788,6 +810,7 @@
 *.soundcloud.org
 *.spinaway.com
 *.sportinglife.com
+*.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sqills.com
@@ -959,8 +982,10 @@
 *central.arubanetworks.com
 *developer.cloud.com
 *emailsignature.trustpilot.com
+*ensemble*.yahoo.com
 *invitations-api.trustpilot.com
 *legal.trustpilot.com
+*omega*.yahoo.com
 *pwn.intigriti.rocks
 *racing.fanduel.com
 *share.trustpilot.com
@@ -1000,6 +1025,7 @@
 1114800186
 1118448159
 1127881507
+1135288773
 1142114207
 1174276185
 1180074773
@@ -1017,6 +1043,7 @@
 1324809509
 1337574835
 134.58.179.102-103
+134.58.179.82
 1343620481
 1395921017
 140.95.0.0/16
@@ -1052,6 +1079,7 @@
 192.251.124.0/24
 192.251.125.0/24
 192.251.126.0/24
+193.0.0.0/19 and 2001:67c:2e8::/48
 194.90.151.192/28
 194.90.25.80/29
 194.90.89.165/32
@@ -1104,6 +1132,7 @@
 493253309
 4ever.ketnet.be
 4njbets.tvgnetwork.com
+522089287
 524362642
 531549799
 539883307
@@ -1132,6 +1161,7 @@
 657777015
 66.232.20.0/23
 669969610
+7 News
 737216887
 740514933
 77.111.244.0/22
@@ -1750,6 +1780,7 @@ Figma iOS and Android apps
 File Tagging Plugin for Crucible - Server - https://marketplace.atlassian.com/apps/1211738/file-tagging-plugin-for-crucible?hosting=server
 Files.com Desktop Application for Windows or Mac
 Files.com SDK's
+Fing desktop
 Finicity Decisioning
 Finicity- Data Services
 FireTV
@@ -2160,6 +2191,7 @@ OKX Wallet Safari Extension
 ONCE: Campfire
 OPPO-owned properties Core properties
 OPPO-owned properties Non-core properties
+OT scanner
 Observability - APM Agents
 Observability - APM Server
 October - https://apps.apple.com/fr/app/october/id1167975760
@@ -2208,6 +2240,7 @@ Orbi Android App
 Orbi iOS App 
 Orbot
 Other
+Other (Misc)
 Other (misc)
 Other - (all other Atlassian targets)
 Other APK Assets
@@ -2223,6 +2256,7 @@ Other Logitech Hardware/IoT
 Other Spotify websites
 Other Vulnerabilities
 Other assets
+Other assets owned by Personio
 Other non-production infrastructure
 Other publicly-released plugins
 Other ynab.com domains not listed
@@ -2367,6 +2401,9 @@ Shopify Developed Apps
 Shopify Mobile Applications
 Shopify Third Party Apps
 Shopify Third Party Store
+SimScale API
+SimScale Platform
+SimScale Website
 Simple Object Storage (SOS)
 Simplify Commerce - www.simplify.com/commerce/ 
 Skyscanner Android App
@@ -2475,6 +2512,7 @@ Team Calendars for Confluence - Cloud - https://marketplace.atlassian.com/apps/7
 Team Calendars for Confluence - DataCenter - https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=datacenter
 Team Calendars for Confluence - Server - https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=server
 TechCrunch
+Techcrunch
 Ternoa Indexer
 Ternoa Mainnet:
 Tesla Energy hardware you own
@@ -2509,7 +2547,9 @@ Tidal Client for iOS
 Tidal Desktop Client
 Tidal Official Clients (e.g. Sonos, Tesla, etc.)
 Tier 1
+Tier 1 subdomains
 Tier 2
+Tier 3 subdomains
 Tier A - Core Assets
 Tier B - Non Core (Bitmoji, Playcanvas)
 Tier1
@@ -2687,6 +2727,7 @@ Yahoo Finance
 Yahoo HK News
 Yahoo Mail
 Yahoo News
+Yahoo Open Source Projects
 Yahoo Open Source Projects (misc)
 Yahoo Search
 Yahoo Sports: Best Ball
@@ -2701,11 +2742,13 @@ Yahoo Sports: Rivals
 Yahoo Sports: Rivals Forums
 Yahoo Video
 Yahoo Weather
+Yahoo! (Misc)
 Yahoo! (misc)
 Yield Farming
 Yoti Password Manager browser extension
 Your Own GitLab Instance
 Zendesk - https://trello.com/power-ups/56940ede94fd60cf95f7ce6a/zendesk
+Zero days that affect Intigriti or participating customers (listed below)
 a.root-servers.net (DNS service; DNS related)
 a1.verisigndns.com (DNS service; DNS related)
 a1ttqkupgmaxeg-ats.iot.ap-east-1.amazonaws.com
@@ -2720,6 +2763,7 @@ about.gitlab.com
 aca-livecards-service.amazon.com
 academy-outbound-ads.tiktok.com
 academy.databricks.com
+access.ripe.net
 accommodations.booking.com
 account-registration.monash.edu
 account-sprint.dynatracelabs.com
@@ -2823,6 +2867,7 @@ amp.reddit.com
 analytics-admin.prosus.com
 analytics.cloud.unity3d.com
 analytics.krisp.ai
+analytics.ninjakiwi.com
 analytics.pinelabs.com
 analytics.prosus.com
 anytask.thesecurityteam.rocks
@@ -2840,7 +2885,9 @@ api-saas.dana.id
 api-sandbox.gocardless.com
 api-sandbox.uphold.com
 api-staging.airtable.com
+api-staging.venly.market
 api-v2.frame.io
+api-wallet.venly.io
 api.23andme.com
 api.account.clario.co
 api.adm.cloud.com
@@ -2850,6 +2897,7 @@ api.alasco.de
 api.amazon.com
 api.amazonalexa.com/*
 api.anytask.thesecurityteam.rocks
+api.arkane.network
 api.atg.se
 api.au.frontegg.com
 api.avax-test.network
@@ -2912,6 +2960,7 @@ api.gx.games/gxc
 api.gx.games/profile
 api.gx.games/session
 api.hackerone.com
+api.ibood.com
 api.iciparisxl.be
 api.iciparisxl.lu
 api.iciparisxl.nl
@@ -2924,6 +2973,7 @@ api.krisp.ai
 api.kuna.io
 api.kunapay.io
 api.lahitapiola.fi
+api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
@@ -2936,6 +2986,7 @@ api.mergify.com
 api.miro.com
 api.monespacesante.fr
 api.netlify.com
+api.ninjakiwi.com
 api.october.eu
 api.omise.co
 api.openai.com
@@ -2995,8 +3046,10 @@ api.uphold.com
 api.upwork.com/graphql
 api.us.veriff.me
 api.usaa.com
+api.venly.market
 api.veriff.me
 api.vhx.tv
+api.vidaxl.com
 api.vimeo.com
 api.vrt.radio
 api.watsons.co.id
@@ -3016,15 +3069,21 @@ api.zerobounce.in
 api2.frontapp.com
 api2.grofers.com
 api2.poloniex.com
+apigateway.vidaxl.io
 apigw.foliofn.com
 apis.mail.yahoo.com
 apis.onecloud.harman.com
+app-pwn.intigriti.rocks
 app.alasco.de
 app.asana.com
 app.avtoelon.uz
 app.chime.com
 app.command.cysiv.com
 app.dashlane.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
+app.datacamp.com/workspace
 app.delen.be
 app.delen.ch
 app.delen.lu
@@ -3033,6 +3092,7 @@ app.dynamic-preprod.xyz
 app.dynamic.xyz
 app.faraday.ai
 app.files.com
+app.fing.com
 app.frame.io
 app.frontapp.com
 app.futuresimple.com
@@ -3050,6 +3110,8 @@ app.krisha.kz
 app.kruidvat.be
 app.kruidvat.nl
 app.lachain.io
+app.lansweeper.com
+app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
 app.localizestaging.com
@@ -3087,6 +3149,7 @@ app.superdrug.com
 app.swapcard.com
 app.taxjar.com
 app.theperfumeshop.com
+app.vidaxl.io
 app.watsons.com.tr
 app.workbox.dk
 appapi.neuralprisma.com
@@ -3106,6 +3169,7 @@ aqtooling.com
 aquiris.com.br
 aquiris.studio
 aquiristech.com
+ar.vidaxl.sa.com
 argocd.indrive.dev
 arrive-server.shopifycloud.com
 artifactory.corp.mongodb.com/
@@ -3119,6 +3183,8 @@ asana.com
 asiointi.lahitapiola.fi
 askpam.ai
 asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
 assets.adobe.com
 assets.airbnb.com
 assets.enjin.io,cdn.enjin.io,*.cdn.enjin.io,*.cdn.enjin.cn,cdn.enjin.cn,cdn.enjinx.io,cdn.enjinx.cn,enjinusercontent.com,*.enjinusercontent.com
@@ -3152,6 +3218,7 @@ autocomplete.booking.com
 autodiscover.uzleuven.be
 autointerface.stag.visma.net
 autoupdate.geo.opera.com
+autoupdateapi.lansweeper.com
 av-na.amazon.com
 avtoelon.uz
 aw.visa.com
@@ -3159,6 +3226,7 @@ aweb.suivo.com
 aws.indrive.tech
 ax-stage.maventa.com
 b2b.tvgnetwork.com
+b2b.vidaxl.com
 b2bapi-a.usaa.com
 b2bapi.usaa.com
 b2blsapi-a.usaa.com
@@ -3167,6 +3235,7 @@ b5s.hackerone-ext-content.com
 bSafe Android App
 bSafe iPhone App
 backend.zyro.com
+backoffice.lansweeper.com
 backstage.io
 badoo.com
 badoocdn.com
@@ -3175,10 +3244,14 @@ ballistic.com.br
 bankaccountdata.gocardless.com, ob.gocardless.com
 basecamp3.exe
 basicattentiontoken.org
+battles.tv
 bb.visa.com
 bd.visa.com
 be.delen.digital
 be.gamma.app.android
+be.nexuzhealth.mobile.cpv
+be.nexuzhealth.mobile.kws
+be.nexuzhealth.mobile.mynexuz
 be.vrt.ketnet.ketnetjr
 be.vrt.vrtnu
 beacon.netflix.com
@@ -3224,6 +3297,7 @@ booking.applevacations.com
 booking.beachbound.com
 booking.cheapcaribbean.com
 booking.com
+booking.mjrtheatres.com
 booth.pm
 bounty-node.rsk.co
 bq.visa.com
@@ -3243,10 +3317,14 @@ bugcrowd-oie-%username%-2.oktapreview.com
 bugcrowd.com
 bugs.opera.com
 bugzilla.mozilla.org
+builds-auckland.ninja.kiwi
 builds.soundtrackyourbrand.com
 bullsheet.me
 burn.polygon.technology
 business.kayak.com
+business.kinepolis.be
+business.kinepolis.lu
+business.kinepolis.nl
 business.linkedin.com
 business.snapchat.com
 business.soundtrackyourbrand.com
@@ -3263,6 +3341,7 @@ calendar.infomaniak.com
 callbacks.airbnb.com
 cam.notebleue.pro
 campaign.adobe.com
+campus.datacamp.com
 canary.activate.codefi.network
 candle-src.etoro.com
 candle.etoro.com
@@ -3344,6 +3423,7 @@ cm.com/[locale]/register
 cm.com/app/messagingtrial/
 cms.mobile.monash
 cms.monespacesante.fr
+cms.woger-cdn.com
 co.mona.android
 co.tide
 co.tide.tideplatform.in
@@ -3428,6 +3508,7 @@ com.creditkarma.mobile
 com.creditkarma.mobile.international
 com.dashlane
 com.dashlane.dashlanephonefinal
+com.datacamp
 com.defi.wallet
 com.deliveroo.driverapp
 com.deliveroo.orderapp
@@ -3482,10 +3563,12 @@ com.hey.app.ios
 com.hotornot.app
 com.hotwire.hotels
 com.hypr.one
+com.ibood.app
 com.immediasemi.android.blink
 com.innogames.elvenar - Android
 com.innogames.foeandroid
 com.instacart.client
+com.inthepocket.kinepolis
 com.iphone.workfront
 com.irccloud.IRCCloud
 com.irccloud.android
@@ -3672,9 +3755,11 @@ configure.mini.de
 confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
+connect.arkane.network
 connect.deezer.com
 connect.identity.stagaws.visma.com
 connect.monash.edu
+connect.venly.io
 console-backend.truelayer[-sandbox].com
 console.aiven.io
 console.chainstack.com
@@ -3692,6 +3777,7 @@ core.yoti.com
 cornershopapp.android
 corp.badoo.com
 corporate.pineperks.in
+corporate.vidaxl.com
 corporate.westernunion.com
 cover-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
@@ -3715,9 +3801,11 @@ cryptowallet.opera-api.com
 cs.money
 cscentral.amazon.com
 csp-pci.prod.codebig2.net
+ct.ninjakiwi.com
 ctf.hacker101.com
 custody.coinbase.com
 customer-academy.databricks.com
+customer-services.vidaxl.org
 customer-sessions.arkoselabs.com
 customerevents.netflix.com
 customers.gitlab.com
@@ -3748,6 +3836,7 @@ dashboard.unity3d.com
 data-na.amazon.com
 data.ketnet.be
 data.mail.yahoo.com
+data.ninjakiwi.com
 data.prosus.com
 data.rarible.com
 databricks.com
@@ -3820,6 +3909,7 @@ docs.databricks.com
 docs.datastax.com
 docs.eazybi.com
 docs.gitlab.com
+docs.lansweeper.com
 docs.launchdarkly.com
 docs.near.org
 docs.newrelic.com
@@ -3839,6 +3929,7 @@ download.krisp.ai
 download.nextcloud.com
 download.opera.com
 downloads.datastax.com
+drone.vidaxl.io
 dss-na.amazon.com
 dv-manifest-service-na-prod.amazon.com
 e-Commerce
@@ -3849,6 +3940,7 @@ eassessment.monash.edu
 ebsext.oft.hyatt.com
 ecrf.uzleuven.be
 edex.adobe.com
+edge.lansweeper.com
 edgeapi.slack.com
 edgeapis.onecloud.harman.com
 editeur.am.monespacesante.fr
@@ -3872,6 +3964,8 @@ effecthouse.tiktok.com
 elastic.co credentials
 embed.tumblr.com
 embed.vhx.tv
+en.vidaxl.ae
+en.vidaxl.ca
 eng.magiceden.dev
 eng.magiceden.io
 engine.october.eu
@@ -3887,8 +3981,10 @@ eu.remix.com
 eu1.badoo.com
 evening-earth.gamma.redoxstage.com
 event.clario.co
+events-staging.venly.market
 events.launchdarkly.com
 events.onecloud.harman.com
+events.venly.market
 exchange.adobe.com
 exchange.opera.com
 exmo.com
@@ -3911,6 +4007,8 @@ externalconnect.usaa.com
 extranet-asa.uzleuven.be
 extranet.s-pankki.fi
 extranet.uzleuven.be
+extras-acc.landmarkcinemas.com
+extras.landmarkcinemas.com
 falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com
 falcon-sandbox.com
 fallguys.com
@@ -3923,6 +4021,7 @@ federalist-proxy.app.cloud.gov
 federalist.18f.gov
 federation.data.gov
 feedback.logitech.com
+ferrero.kinepolis.lu
 fetlife.com
 fhir.redoxengine.com
 fi.lahitapiola.lemmikkihelppi
@@ -3951,6 +4050,7 @@ forecastapp.com
 form.asana.com
 formative.eassessment.monas.edu
 forms.apps.monash.edu
+forms.nexuzhealth.be
 fortmatic.com
 fortnite.com
 forum.playcanvas.com
@@ -3959,6 +4059,8 @@ forum.sketchfab.com
 forums.malwarebytes.com
 foxycart-demo.foxycart.com
 fp-sg.tiktokv.com
+fps-extr-services.vidaxl.org
+fr.vidaxl.ch
 freight.amazon.*
 fresh.amazon.*
 fs.rarible.com
@@ -4058,6 +4160,7 @@ help.steampowered.com
 help.ui.com
 helpx.adobe.com
 hey-mail
+hey.bild.de
 hg.mozilla.org
 hilton.com
 hilton.com.tr
@@ -4185,6 +4288,7 @@ https://accounts.creditkarma.com
 https://accounts.lastpass.com
 https://accounts.opera.com
 https://accounts.welcomesoftware.com/
+https://add-in.stag.henchman.io
 https://addons.mozilla.org/en-US/firefox/addon/cyberghost-vpn-free-proxy/
 https://addons.mozilla.org/en-US/firefox/addon/pinterest/
 https://addons.mozilla.org/en-US/firefox/addon/private-internet-access-ext/
@@ -4227,10 +4331,12 @@ https://anytask.thesecurityteam.rocks
 https://anytask.thesecurityteam.rocks/
 https://api-a.usaa.com
 https://api-ch-gva-2.exoscale.com/v2
+https://api-dashboard.stag.henchman.io
 https://api-evm.orderly.org/
 https://api-evm.orderly.org/*
 https://api-js.datadome.co
 https://api-prod.thatconceptstore.com/
+https://api-search.stag.henchman.io
 https://api-staging.pingone.com/*
 https://api-test.nicehash.com
 https://api-test.nicex.com
@@ -4303,6 +4409,7 @@ https://api.shop.ua.com/graphql
 https://api.simnext.bullish-test.com
 https://api.staging.luno.com/
 https://api.t-mobile.com
+https://api.the-strip.eu
 https://api.thesecurityteam.rocks
 https://api.thousandeyes.com/
 https://api.toobit.com/
@@ -4372,6 +4479,7 @@ https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/bigcommerce/id1418570678
 https://apps.apple.com/au/app/caltex-australia/id1314768594
 https://apps.apple.com/au/app/certsy/id1617796159
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
@@ -4491,6 +4599,7 @@ https://artist.link
 https://asana.com
 https://asana.com/apps?category=made-by-asana
 https://asana.com/download
+https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://asymetrix.io/
 https://aurora.plus/
 https://auth-ywh.it.authentification.si.gouv.qc.ca
@@ -4502,6 +4611,7 @@ https://auth.immutable.com/
 https://auth.lastpass.com
 https://auth.opera.com
 https://auth.seek.com
+https://auth.stag.henchman.io
 https://auth.wyze.com
 https://authn.usaa.com/
 https://authy.com/download/
@@ -4596,6 +4706,7 @@ https://cdn-pci.optimizely.com/
 https://cdn-store.opera-api.com
 https://cdn.neogov.com
 https://cdn.optimizely.com/
+https://cdn.the-strip.eu
 https://cdnst.mafretailproxy.com/
 https://central.sophos.com
 https://cfc.naspers.com/
@@ -4662,6 +4773,7 @@ https://dashboard.pantheon.io
 https://dashboard.rapyd.net/
 https://dashboard.sendbird.com
 https://dashboard.sendbird.com/
+https://dashboard.stag.henchman.io
 https://dashboard.unity3d.com
 https://data.coda.io/*
 https://data.limeinternal.com
@@ -4729,6 +4841,12 @@ https://electroneum.com/
 https://elementor.com/
 https://elementor.com/*
 https://emistores.pinelabs.com/
+https://en-gb.napoleoncasino.be/wimi/game/play/slug/napoleon-spinner
+https://en-gb.napoleoncasino.be/wimi/game/play/slug/napoleon-spinner-deluxe
+https://en-gb.napoleoncasino.be/wimi/game/play/slug/napoleon-spinner-max
+https://en-gb.napoleondice.be/wimi/game/play/slug/dice-spinner
+https://en-gb.napoleondice.be/wimi/game/play/slug/multi-jackpot-cards
+https://en-gb.napoleondice.be/wimi/game/play/slug/pick-a-tiki
 https://enterprise-demo.portswigger.net/
 https://equatorialguinea-evisa.com
 https://eshop.salt.ch
@@ -4887,6 +5005,13 @@ https://github.com/OctopusDeploy
 https://github.com/P2B-team/p2b-api-docs
 https://github.com/PandoraDigital/smart-contract
 https://github.com/ProjectOpenSea/seaport#deployments
+https://github.com/RIPE-NCC/rpki-commons
+https://github.com/RIPE-NCC/rpki-core
+https://github.com/RIPE-NCC/rpki-monitoring
+https://github.com/RIPE-NCC/rpki-publication-server
+https://github.com/RIPE-NCC/rpki-ta-0
+https://github.com/RIPE-NCC/rsyncit
+https://github.com/RIPE-NCC/whois
 https://github.com/Shopify/*
 https://github.com/Virtuswap/v1-core/tree/main/contracts
 https://github.com/adobe/*
@@ -5254,6 +5379,7 @@ https://hr.neogov.com
 https://hr.prosus.com/
 https://hub.immutable.com/
 https://huddle.bluejeans.com
+https://hug.personio.com
 https://ichnaea.netflix.com
 https://icu.eu-west-2.outscale.com
 https://id.ada.com
@@ -5303,6 +5429,7 @@ https://judge.me/reviews
 https://just-eat.es
 https://just-eat.io/
 https://just-eat.it
+https://justonweb.be/fines/
 https://keepersecurity.com
 https://keepersecurity.com.au/vault
 https://keepersecurity.com/console
@@ -5358,6 +5485,7 @@ https://login.salt.ch
 https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
+https://lsagentrelay.lansweeper.com/
 https://luna.amazon.com/*
 https://m.bitforex.com/en/download
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
@@ -5686,6 +5814,7 @@ https://mc.sendgrid.com/
 https://mcs.arlo.com
 https://mcssl.com
 https://meechum.netflix.com
+https://meinkonto.bild.de/
 https://menulog.co.nz
 https://menulog.com.au
 https://meraki.cisco.com
@@ -5713,6 +5842,8 @@ https://modeldiplomacy.cfr.org
 https://monash.app.nutrip.com
 https://monashcollege.edu.au
 https://monster-customizer.classdojo.com/cf6dfa68-1a81-4c6d-bc0b-38f3666b37d6/index.html
+https://movieclub-int.kinepolis.com
+https://movienow-int.kinepolis.be/admin
 https://mstatic.usaa.com
 https://my.ampol.com.au/
 https://my.arlo.com
@@ -5771,6 +5902,7 @@ https://opendata.test-socrata.com
 https://opendata.test-socrata.com/admin/gateway
 https://opensea.io/
 https://opensource.epam.com
+https://ops-dashboard.stag.henchman.io
 https://ops-tool.internal.bbp-mettle.co.uk/
 https://optimizely-edge.com
 https://orchard.limeinternal.com
@@ -6048,9 +6180,11 @@ https://sandbox.directly.com/dashboard/index
 https://sandbox.open-xchange.com
 https://scalews.withings.com
 https://screenplayer.20min.ch
+https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secure-iphone-xml.booking.com/json/
 https://secure.cuehit.net
 https://secure.cuehit.net/
+https://secure.mypass.de/
 https://secure.neogov.com
 https://secure.westernunion.com
 https://secureauth.westernunion.com
@@ -6075,6 +6209,7 @@ https://service.post.ch/zopa/app/
 https://service.sitemercado.com.br
 https://sg.westernunion.com
 https://shiny.ops.coda.io/*
+https://shop-acc.kinepolis.be/
 https://shop.ifood.com.br
 https://shop.lululemon.com
 https://shop.monash.edu/
@@ -6225,6 +6360,7 @@ https://vault-staging.getmoneytree.com
 https://vendorss.usaa.com
 https://viatorapi.viator.com/service/directory
 https://videoplayer.20min.ch
+https://vip-club.computerbild.de/
 https://virtuswap.io/
 https://vlagg.usaa.com
 https://vlapi.usaa.com
@@ -6244,6 +6380,7 @@ https://web.raiffeisen.ua/
 https://web.teamviewer.com
 https://webmail.usaa.com
 https://webrtc.8x8.com/
+https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
 https://westernunionbank.com
 https://widget.cloudinary.com
 https://wiki.xenproject.org/wiki/Xen_Project_Repositories
@@ -6383,6 +6520,7 @@ https://www.kruidvat.be/blog/
 https://www.kruidvat.nl/blog/
 https://www.kruidvat.nl/fotoservice
 https://www.kruidvat.nl/persoonlijk
+https://www.kuleuven.be/sapredir/huisvesting
 https://www.lastpass.com
 https://www.letspaylater.ph/
 https://www.letspaylater.sg/
@@ -6453,6 +6591,8 @@ https://www.opera.com/
 https://www.opera.com/computer/thanks?ni=eapgx&os=windows
 https://www.opera.com/computer/thanks?ni=stable&os=windows
 https://www.originenergy.com.au/
+https://www.personio.com/free-trial/
+https://www.personio.de/kostenlos-testen/
 https://www.pexels.com/
 https://www.pinelabs.ae/
 https://www.pionex.com/
@@ -6665,6 +6805,10 @@ ide.x.ai
 identity.monash.edu
 identity.stage.vismaonline.com
 identity.yoti.com
+identityserver-acc.landmarkcinemas.com
+identityserver.landmarkcinemas.com
+idp-contact.nexuzhealth.be
+idp-mobile.nexuzhealth.be
 idp.fr.cloud.gov
 iframe.arkoselabs.com
 ifttt-adaptor.pub.kube.dm.gg
@@ -6717,6 +6861,7 @@ irc.irccloud.com
 irccloud.com
 irclogs.wordpress.org
 iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
+is.vidaxl.is
 ispdesign.ui.com
 it.niedermann.owncloud.notes
 it.twsweb.Nextcloud
@@ -6752,6 +6897,9 @@ kassa.karwei.nl/*
 kb.databricks.com
 kbill.mackeeper.com
 kca.amazon.com
+kinepolis-studio.be
+kinepolis.megatix.be
+kinepolis/id368204284
 kissandfly.com
 kit.snapchat.com
 kiwi.partner.viator.com
@@ -6766,6 +6914,7 @@ kubernetes-csi.github.io
 kubernetes.io
 kuna.io
 kwis-opf.amazon.com
+kws-companion/id1342124012
 kyc-onboarding.booking.com
 kyc-src.etoro.com
 kyc.etoro.com
@@ -6799,6 +6948,7 @@ linkpop.com
 links.rarible.com
 liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
+lirportal.ripe.net
 lisasijoitus.lahitapiola.fi
 list-v2--netlify-plugins.netlify.app
 lists.nextcloud.com
@@ -6824,6 +6974,7 @@ login-4ngbets.us.betfair.com
 login-accpt.portofantwerpbruges.com
 login-api.truelayer[-sandbox].com
 login-ia.tvg.com
+login.arkane.network
 login.cm.com
 login.delen.be
 login.delen.ch
@@ -6832,6 +6983,7 @@ login.en.travelbrandsagent.com
 login.fr.cloud.gov
 login.fr.travelbrandsagent.com
 login.infomaniak.com
+login.lansweeper.com
 login.newrelic.com
 login.oyens.com
 login.pabets.tvg.com
@@ -6841,6 +6993,7 @@ login.starbucks.co.jp
 login.swapcard.com
 login.truelayer[-sandbox].com
 login.tvg.com
+login.venly.io
 login.vrt.be
 login.www.vaxvacationaccess.com
 logistics.amazon.*
@@ -6858,6 +7011,9 @@ louvre.veriff.me
 lsaconsumerevents1.onecloud.harman.com
 lsaconsumerevents2.onecloud.harman.com
 lsaconsumerevents3.onecloud.harman.com
+luxfilmfestfilms.megatix.be
+luxfilmfestproducts.megatix.be
+luxfilmfesttickets.megatix.be
 m.4njbets.tvg.com
 m.airbnb.com
 m.avtoelon.uz
@@ -6926,6 +7082,7 @@ mcssl.com
 mdm.weareone.world
 mds.voiapp.io
 media-services-public.vrt.be
+media.nexuzhealth.be/patient/
 mediacenter.23andme.com
 medical.23andme.com
 meetings.hyatt.com
@@ -6966,6 +7123,7 @@ mlis.amazon.com
 mlivetickets.monash.edu
 mobile-prod.tvg.com
 mobile.monash
+mobile.nexuzhealth.be
 mobile.s-pankki.fi
 mobile.usaa.com
 mobileapi.afterpay.com
@@ -6984,6 +7142,7 @@ moneybirdstorage.com
 mongodb.live/*
 monitor.firefox.com
 moonpay.com
+movieapi.kinepolis.megatix.be
 mozilla-pontoon-staging.herokuapp.com
 msg.playcanvas.com
 msh.amazon.com
@@ -7004,6 +7163,7 @@ my-accpt.portofantwerpbruges.com
 my.account.sony.com
 my.eurid.eu
 my.exness.com
+my.ibood.com
 my.loanbuilder.com
 my.malwarebytes.com
 my.monash
@@ -7030,6 +7190,10 @@ myaccount.vtm.be
 mydesktop.usaa.com
 mydesktop.wu.com
 mymonashsport.com.au
+mynexuz.be
+mynexuz.be/myUZ/
+mynexuzhealth/id1459856321
+mynk.ninjakiwi.com
 myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
 myvpn.usaa.com
@@ -7110,13 +7274,17 @@ nextcloud/user_oidc
 nextcloud/user_saml
 nextcloud/viewer
 nextcloud/workflow_script
+nexus.vidaxl.org
 nft.coinbase.com
 nft.io
 nice.wfmusaa.com
 nicetryapril.na1.echosignsandbox.com
+ninja.kiwi
+ninjakiwi.com
 nl.gamma.app.android
 nl.gamma.verf
 nl.karwei.app.android
+nl.vidaxl.be
 nmtracking.netflix.com
 no-reply.cloud
 no.kolonial.tienda
@@ -7128,6 +7296,7 @@ npmjs.org
 nvio.ar
 nvio.mx
 nvoice.usaa.com
+nz.co.vista.android.movie.mjrtheatres
 oauth-sandbox.gocardless.com
 oauth.deriv.com
 oauth.developers.stagaws.visma.com
@@ -7139,6 +7308,7 @@ odoo14.notebleue.pro
 offsite.omise.co
 old.reddit.com
 omgpro.airbnb.com
+on-premises software
 on-ramp.metaswap-dev.codefi.network
 onboarding-*.cloud.com
 onboarding-api.truelayer.com
@@ -7246,6 +7416,7 @@ platform.adobe.com
 platform.enjin.io
 platform.remix.com
 platform.teleport.sh
+play.bild.de
 play.google.com/store/apps/details?id=com.crowdstrike.falconmobile
 play.google.com/store/apps/details?id=fr.assurancemaladie.monespacesante&showAllReviews=true (Android)
 playartifact.com
@@ -7271,6 +7442,7 @@ portalapi.eu.clearpay.co.uk
 portfolio.adobe.com
 portfolio.metamask.io
 portswigger.net
+practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prddsplunkhf.uzleuven.be
 preprod.am.monespacesante.fr
@@ -7312,6 +7484,7 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profiler.firefox.com
+projects.datacamp.com
 projects.nextcloud.com
 prometheus.fr.cloud.gov
 promos.tvg.com
@@ -7335,6 +7508,9 @@ push.services.mozilla.com
 pushfeed.nextcloud.com
 pwapi.ex2b.com
 py.pl
+qa-db.vidaxl.io
+qa.vidaxl.io
+qa1-apigateway.vidaxl.io
 qatest.nl
 qwantjunior.com
 r.etoro.com
@@ -7454,12 +7630,14 @@ sellercentral.amazon.com
 senior-bff.ketnet.be
 sensei.pixiv.net
 serveur10.notebleue.com
+service.fing.com
 service.platform.tripadvisor.com
 service.tvg.com
 servicedesk-accpt.portofantwerp.com
 servicedesk-accpt.portofantwerpbruges.com
 servicedesk.portofantwerp.com
 servicedesk.portofantwerpbruges.com
+serviceportal.vidaxl.com
 sf-rp-eu.sharefile.com
 sf-rp-us.sharefile.com
 sf-rp.sharefile.com
@@ -7478,6 +7656,10 @@ shop.demorgen.be
 shop.humo.be
 shop.infomaniak.com
 shop.judge.me
+shop.kinepolis.be
+shop.kinepolis.es
+shop.kinepolis.fr
+shop.kinepolis.lu
 shop.lululemon.com
 shop.monash.edu
 shop.parool.nl
@@ -7492,6 +7674,7 @@ shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
 shoppingcart.shipt.com
+shops-services.vidaxl.org
 sijoitusvakuutus.lahitapiola.fi
 simperium.com
 simplenote.com
@@ -7533,6 +7716,7 @@ spectacles.com
 speeddials.opera.com
 speedtest.xfinity.com
 sport-components.sporza.be
+sportbild.bild.de
 sportsbook.fanduel.com
 sporza.be
 sprint.com
@@ -7543,13 +7727,16 @@ sso.8x8pilot.com
 sso.marriott.com
 sso.oft.hyatt.com
 stage.bittrex.com
+stage.landmarkcinemas.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 staging-admin.shipt.com
 staging-api.gearset.com
 staging-api.october.eu
 staging-api.shipt.com
+staging-apigateway.vidaxl.io
 staging-app.october.eu
 staging-app.shipt.com
+staging-db.vidaxl.io
 staging-engine.october.eu
 staging-shop.shipt.com
 staging-shoppingcart.shipt.com
@@ -7557,6 +7744,8 @@ staging-xray.october.eu
 staging.airtable.com
 staging.gearset.com
 staging.magisto.com
+staging.venly.market
+staging.vidaxl.io
 staking-api.polygon.technology
 static-cdn.clario.co
 static.apps.nextcloud.com
@@ -7670,6 +7859,12 @@ theblog.adobe.com
 therapeutics.23andme.com
 therecord.media
 things.onecloud.harman.com
+tickets.kinepolis.be
+tickets.kinepolis.ch
+tickets.kinepolis.es
+tickets.kinepolis.fr
+tickets.kinepolis.lu
+tickets.kinepolis.nl
 tickets.kz/my
 tiktok.com
 tlu.tarilabs.com
@@ -7679,6 +7874,7 @@ tools.deribit.com
 toolsforhumanity.com
 track.amazon.com
 tracker.naspers.com
+tracking.vidaxl.com
 training.ui.com
 transact.playstation.com
 transferwise.com
@@ -7708,6 +7904,7 @@ uber.com
 uc.8x8pilot.com
 uisp.com
 uk.forescout.cloud
+uk.vidaxl.com.ua
 uk.web.com
 unibet.me
 unifi.ui.com
@@ -7732,6 +7929,8 @@ usaainsurance.com
 user-profile-staging.8x8.com
 user-profile.8x8.com
 usercontent.apps.nextcloud.com
+userprofile-acc.landmarkcinemas.com
+userprofile-ui.landmarkcinemas.com
 users-api.truelayer.com
 utv.usaa.com
 uwa.mobilevikings.be
@@ -7751,6 +7950,7 @@ vacations.velasvallarta.com
 vault.omise.co
 vcc-*.8x8.com
 vendorss.usaa.com
+venly.market
 verify.arkoselabs.com
 verify.rapyd.net
 verkkopalvelu.tapiola.fi
@@ -7758,6 +7958,7 @@ verovelvollisuustiedot.lahitapiola.fi
 vfstasheer.com
 vhx.tv
 via.rider
+vidaxl.zendesk.com
 vikingco.be
 vikingdeals.be
 vimeo.magisto.com
@@ -7791,6 +7992,7 @@ wallet.near.org
 wallet.oasis.io
 wallet.polygon.technology
 wallet.uphold.com
+wallet.venly.io
 walletproxy.tapayments.com
 walletproxy1.tapayments.com
 walletproxy2.tapayments.com
@@ -7842,6 +8044,7 @@ wiki.portofantwerpbruges.com
 wiki.teamfortress.com
 wiki.ui.com
 winecellar.zomato.com
+winkels.torfs.be
 winterpackages.tomorrowland.com
 wise.com
 wonderboxapi.com
@@ -7871,6 +8074,7 @@ ws.usaa.com
 ws1.dashlane.com
 wsmbr.usaa.com
 wss://socket.bitpanda.com
+wss://socketcluster.the-strip.eu
 wss://ws-futures.coinstore.com/socket.io/
 wss://ws.coinstore.com/s/ws
 wss://ws.multiplayer.classdojo.com
@@ -7894,7 +8098,10 @@ www.arubainstanton.com
 www.astrogaming.com
 www.atg.se
 www.authorize.net
+www.autobild.de
 www.beachbound.com
+www.bild.de
+www.bild.tv
 www.bitexen.com
 www.bitmoji.com
 www.bitstamp.net - Bitstamp Application & API
@@ -7907,6 +8114,7 @@ www.bmw.de
 www.bookabach.co.nz
 www.bookingholdings.com
 www.bumble.com
+www.bz-berlin.de
 www.cadelam.be
 www.cadelux.lu/en
 www.cardinalcommerce.com
@@ -7926,6 +8134,7 @@ www.coinstore.com
 www.cointr.com
 www.cointr.pro
 www.compass.com
+www.computerbild.de
 www.contrastsecurity.com
 www.counter-strike.net
 www.crateandbarrel.me
@@ -7937,6 +8146,7 @@ www.currencycloud.com
 www.cybersource.com
 www.dashlane.com
 www.data.gov
+www.datacamp.com
 www.datastax.com
 www.ddfcontent.com
 www.deezer.com
@@ -7952,11 +8162,13 @@ www.domain.com
 www.dota2.com
 www.driveuconnect.com
 www.driveuconnect.eu
+www.dropshippingxl.com
 www.dvpc.net
 www.ebookers.com
 www.ebookers.fi
 www.editeur.am.monespacesante.fr
 www.editeur.api.monespacesante.fr
+www.ein-herz-fuer-kinder.de
 www.elastic.co
 www.elvetino.ch
 www.etoro.com
@@ -7973,6 +8185,7 @@ www.fedramp.gov
 www.fewo-direkt.de
 www.figma.com
 www.files.com
+www.fitbook.de
 www.flights.com
 www.forescout.com
 www.fortress.com.hk
@@ -7999,6 +8212,7 @@ www.humo.be/abonnementen
 www.hyatt.com
 www.hyattconnect.com
 www.hyattinclusivecollection.com
+www.ibood.com
 www.iciparisxl.be
 www.iciparisxl.lu
 www.iciparisxl.nl
@@ -8010,13 +8224,25 @@ www.jaybirdsport.com
 www.karwei.nl/*
 www.kayak.com
 www.ketnet.be
+www.kinepolis.be
+www.kinepolis.biz
+www.kinepolis.ch
+www.kinepolis.com
+www.kinepolis.es
+www.kinepolis.fr
+www.kinepolis.lu
+www.kinepolis.nl
+www.kinepolisempresas.com/
 www.kiwi.com
 www.kruidvat.be
 www.kruidvat.nl
 www.lahitapiola.fi
+www.landmarkcinemas.com
+www.lansweeper.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.leather.io
+www.libelle.nl
 www.linkedin.com
 www.livestream.com
 www.loanbuilder.com
@@ -8055,6 +8281,7 @@ www.mercadopago.com.mx
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mini.de
+www.mjrtheatres.com
 www.momondo.com
 www.monash.edu
 www.monespacesante.fr
@@ -8063,6 +8290,7 @@ www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
 www.myetherwallet.com
+www.myhomebook.de
 www.netflix.com
 www.networksolutions.com
 www.niagahoster.co.id
@@ -8077,6 +8305,7 @@ www.pangleglobal.com
 www.parool.nl
 www.parool.nl/abonnementen
 www.paypal-*.com
+www.petbook.de
 www.pineperks.in
 www.pixiv.net
 www.planethoster.com
@@ -8102,8 +8331,11 @@ www.ritzcarlton.com/
 www.rocaton.com
 www.s-kaupat.fi
 www.s-pankki.fi
+www.samenfittorfs.be
 www.sbb.ch
 www.sbbcargo.com
+www.schoenentorfs.be
+www.schoenentorfs.nl
 www.sheer.com
 www.shipt.com
 www.six-group.com
@@ -8125,6 +8357,7 @@ www.starbucksreserve.com
 www.status-takeaway.com/status
 www.stayz.com.au
 www.stripe.partners
+www.stylebook.de
 www.superdrug.com
 www.swiftcapital.com
 www.swiftfinancial.com
@@ -8137,12 +8370,16 @@ www.tapiola.fi
 www.tari.com
 www.tarilabs.com
 www.teamfortress.com
+www.techbook.de
 www.temu.com
 www.theperfumeshop.com
 www.thuisbezorgd.nl/aanmelden
 www.tink.com
 www.tomorrowland.com
+www.torfs.be
+www.torfs.nl
 www.transsicura.ch
+www.travelbook.de
 www.travelocity.ca
 www.travelocity.com
 www.trekpleister.nl
@@ -8176,6 +8413,7 @@ www.verisign.com (Website; non-DNS related)
 www.vfstasheel.com
 www.vfsvisaonline.com
 www.vfsvisaservicesrussia.com
+www.vidaxl.<TLD>
 www.vimeo.com
 www.visa.co.ao
 www.visa.co.id
@@ -8222,8 +8460,10 @@ www.watsons.com.tr
 www.watsons.com.tw
 www.watsons.com.vn
 www.wearehackerone.com
+www.welt.de
 www.werkenbijbakertilly.nl
 www.wickr.com
+www.wissen-sie-mehr.de
 www.wotif.com
 www.wynnvacations.com
 www.xnxx.com
