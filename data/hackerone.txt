@@ -954,6 +954,7 @@ bridge-api.matic.network
 bridge-explorer.polygon.technology
 burn.polygon.technology
 faucet.polygon.technology
+https://agglayer.polygon.technology/
 https://github.com/0xPolygon/chain-indexer-framework 
 https://github.com/maticnetwork/bor
 https://github.com/maticnetwork/heimdall
@@ -1452,6 +1453,7 @@ com.instacart.client
 shoppers.instacart.com
 www.instacart.com
 Account Settings
+Any .magic.link demo sites
 Login with SMS - Feature
 Magic and Fortmatic Products
 Multi-factor Auth - Feature
