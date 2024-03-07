@@ -186,6 +186,11 @@ vcc-*.8x8.com
 *.instacart.tools
 *.mattermost.com
 h1-*your-own-instance*.cloud.mattermost.com
+*.carrentals.com
+*.cheaptickets.com
+*.hotwire.com
+*.vrbo.com
+*.wotif.com
 *.infra-prod.nsvcs.net
 *.onegraph.com
 *.ops.netlify.com
