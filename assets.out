@@ -180,7 +180,6 @@
 *.blitz.exchange
 *.blockchain.com
 *.blofin.com
-*.blog.newrelic.com
 *.bokundemo.com
 *.bokuntest.com
 *.bonne-terre-data-layer.com
@@ -308,7 +307,6 @@
 *.epicgames.dev
 *.etsy.com
 *.eu.floqast.app
-*.eu.newrelic.com
 *.eurid.eu
 *.europolitan.se
 *.exmo.com
@@ -444,8 +442,6 @@
 *.indriverapp.com
 *.indriverjob.com
 *.infra-prod.nsvcs.net
-*.infrastructure-data.newrelic.com
-*.infrastructure.newrelic.com
 *.innogames.com
 *.innogames.de
 *.instacart.com
@@ -610,7 +606,6 @@
 *.new.livestream.com
 *.newegg.ca
 *.newegg.com
-*.newrelic.com
 *.nextcapital.com
 *.nflxext.com
 *.nflximg.net
@@ -622,8 +617,6 @@
 *.nkstatic.com
 *.nnip.com
 *.nordvpn.com
-*.nr-data.net
-*.nr-ops.net
 *.nu.com.co	
 *.nu.com.mx	
 *.nubank.com.br	
@@ -1015,8 +1008,6 @@
 *vc.logitech.com
 *widget.trustpilot.com
 *www.trustpilot.com
-.NET Core agent
-.NET agent
 0x0d8775f648430679a709e98d2b0cb6250d2887ef
 0x44fcfabfbe32024a01b778c025d70498382cced0
 0x67fa2c06c9c6d4332f330e14a66bdf1873ef3d2b
@@ -1285,7 +1276,6 @@ Afterpay Android App
 Afterpay iOS App
 Agent Notifications for Bamboo - Server - https://marketplace.atlassian.com/apps/1216177/agent-notifications-for-bamboo?hosting=server
 Agent Usage Visualization for Bamboo - Server - https://marketplace.atlassian.com/apps/1215924/agent-usage-visualization-for-bamboo?hosting=server
-Agent traffic
 AgentConnect (see program description for github link)
 Aiven for Apache Cassandra managed and hosted service
 Aiven for Apache Flink managed and hosted service
@@ -1327,7 +1317,6 @@ Android SDK
 Android Viator Tours & Activities App
 Android Wallet
 Android Zen App
-Android agent
 Animate
 Announcement Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1217289/announcement-plugin-for-bamboo?hosting=server
 Any .magic.link demo sites
@@ -1539,7 +1528,6 @@ Bridge
 Broken Link
 Browser Extensions
 Browser Isolation
-Browser agent
 BrowserGuard (Firefox/Chrome/Safari browser extension)
 BuddyPress Core
 Build Times for Bamboo 5.10+ - Server - https://marketplace.atlassian.com/apps/1215965/build-times-for-bamboo-5-10?hosting=server
@@ -1861,7 +1849,6 @@ GitLab for Jira Cloud
 Github findings
 GlotPress
 Go TTC
-Go agent
 Google Cloud Plateform Instances
 Google Drive - https://trello.com/power-ups/55a5d916446f517774210006/google-drive
 Google Drive for Confluence (Official) - Legacy Editor Only - Cloud - https://marketplace.atlassian.com/apps/1213092/google-drive-for-confluence-official-legacy-editor-only?hosting=cloud
@@ -1925,7 +1912,6 @@ Indeed Job Search Android
 Indeed Job Search iOS
 Indeed Recruiter Extension (Chrome)
 Indoor Cam
-Infrastructure agents
 Inhouse deployment pipeline
 Insight Android App
 Insight Cloud Portal
@@ -1948,7 +1934,6 @@ JBL Charge 5 Wi-Fi
 JBL PartyBox Ultimate
 JMeter Aggregator for Bamboo - Server - https://marketplace.atlassian.com/apps/5902/jmeter-aggregator-for-bamboo?hosting=server
 Java SDK
-Java agent
 JavaScript Charts for Jira Cloud - Cloud - https://marketplace.atlassian.com/apps/1214527/javascript-charts-for-jira-cloud?hosting=cloud
 Jenkins for Jira (official) - Cloud - https://marketplace.atlassian.com/apps/1227791/jenkins-for-jira-official?hosting=cloud
 Jenkins integration for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1222132/jenkins-integration-for-bitbucket-server?hosting=server
@@ -2199,7 +2184,6 @@ Nighthawk iOS App
 Niland
 Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
-Node.js agent
 NordPass - Linux Executable
 NordPass - MacOS Executable
 NordPass - Windows Executable
@@ -2288,7 +2272,6 @@ Other publicly-released plugins
 Other ynab.com domains not listed
 P2P functionality
 PHP SDK
-PHP agent
 PIA APIs
 PIA Android application
 PIA Chrome extension
@@ -2376,7 +2359,6 @@ Product Delivery
 Project transfer for Crucible - Server - https://marketplace.atlassian.com/apps/1221227/project-transfer-for-crucible?hosting=server
 Protocol of the Swiss Post Voting System
 Public Others Target
-Python agent
 Questions for Confluence - Cloud - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=cloud
 Questions for Confluence - DataCenter - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=datacenter
 Questions for Confluence - Server - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=server
@@ -2403,7 +2385,6 @@ Ring Smart Lighting Bridge
 Roblox Client
 Roblox Studio
 Rockstar Games Launcher
-Ruby agent
 Rust SDK
 SBT Task Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1214713/sbt-task-plugin-for-bamboo?hosting=server
 SEEK mobile app for Android
@@ -2510,7 +2491,6 @@ Superdrug.Healthera.App.Android
 Supply Android
 Supply iOS
 SurveyMonkey - https://trello.com/power-ups/568c143d95adcd7308cbc3fb/surveymonkey
-Synthetics minions (public and private)
 System Specification
 T&P Servers
 T-Life Android
@@ -2640,7 +2620,6 @@ UniFi Switches
 UniFi Talk
 UniFi Wireless Access Points
 Unity Hub
-Unity agent
 UnrealEditorFortnite-Win64-Shipping.exe
 Upwork - Android Application
 Upwork - iOS Application
@@ -2890,8 +2869,6 @@ akismet.com
 alchemy.veriff.com
 alert.logitech.com
 alertmanager.fr.cloud.gov
-alerts.eu.newrelic.com
-alerts.newrelic.com
 alexa-comms-mobile-service-na.amazon.com
 alexa.amazon.com
 alexaanswers.amazon.com
@@ -3343,7 +3320,6 @@ blog.coingecko.com
 blog.creditkarma.com
 blog.irccloud.com
 blog.malwarebytes.com
-blog.newrelic.com
 blog.playcanvas.com
 blog.ui.com
 blog.verisign.com (Website; non-DNS related)
@@ -3677,8 +3653,6 @@ com.miui.micloudsync
 com.monaco.mobile
 com.moneybird.Moneybird
 com.moneybird.android
-com.newrelic.NRApp
-com.newrelic.rpm
 com.nextcloud.Talk
 com.nextcloud.client
 com.nextcloud.talk2
@@ -3966,7 +3940,6 @@ developer.frame.io
 developer.gs.com
 developer.infomaniak.com
 developer.mozilla.org
-developer.newrelic.com
 developer.playcanvas.com
 developer.swapcard.com/event-admin/graphql
 developer.valvesoftware.com
@@ -3983,7 +3956,6 @@ dic.pixiv.net
 digili.s-cloud.fi
 digitalspecs.portofantwerpbruges.com
 direct.playstation.com
-discuss.newrelic.com
 distribution-xml.booking.com
 dl.clario.co
 dmxleo.com
@@ -4000,7 +3972,6 @@ docs.gitlab.com
 docs.lansweeper.com
 docs.launchdarkly.com
 docs.near.org
-docs.newrelic.com
 docs.nextcloud.com
 docs.redoxengine.com
 docs.sentiance.com
@@ -6906,7 +6877,6 @@ iOS SDK
 iOS Viator Tours & Activities App
 iOS Wallet
 iOS Zen App
-iOS agent
 iRobot API Endpoint
 iRobot cloud-connected robot that you own (i.e. j7, s9, i7, 980, 960, 690, Braava, etc.)
 ia.tvg.com
@@ -6945,8 +6915,6 @@ imx.community
 inapp.clario.co
 indicative-pricing.taxi.booking.com
 infomaniak.events
-infrastructure.eu.newrelic.com
-infrastructure.newrelic.com
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
 innogames.com
@@ -6955,8 +6923,6 @@ insights-categorizer-eu.truecaller.com
 insights-categorizer-noneu.truecaller.com
 insights-registry-eu.truecaller.com
 insights.deribit.com
-insights.eu.newrelic.com
-insights.newrelic.com
 institutional.coinbase.com
 intensedebate.com
 intercity-*.eu-east-1.indriverapp.com
@@ -7065,7 +7031,6 @@ launchpad.37signals.com
 lawmanager.marriott.com
 le.yahooapis.com
 leadgen-asia-south1.truecaller.com
-learn.newrelic.com
 lensa-ai.com
 licenses.adobe.com
 licensing.adobe.com
@@ -7112,7 +7077,6 @@ login.fr.cloud.gov
 login.fr.travelbrandsagent.com
 login.infomaniak.com
 login.lansweeper.com
-login.newrelic.com
 login.oyens.com
 login.pabets.tvg.com
 login.playcanvas.com
@@ -7464,7 +7428,6 @@ ondemand-vrt.akamaized.net
 one-world-radio-tomorrowland/id1485778856
 one.airbnb.com
 one.dash.cloudflare.com
-one.newrelic.com
 onepush.query.yahoo.com
 onevasco.com
 oneview.malwarebytes.com
@@ -7753,11 +7716,6 @@ ro.superbet.sport
 rockstarnorth.com
 roominglist.hyatt.com
 royal.checksw.com
-rpm.eu.newrelic.com/accounts/*/browser
-rpm.eu.newrelic.com/accounts/*/mobile
-rpm.newrelic.com
-rpm.newrelic.com/accounts/*/browser
-rpm.newrelic.com/accounts/*/mobile
 rt.playcanvas.com
 rubygems.org
 rudderplatform.com
@@ -8002,7 +7960,6 @@ support.logi.com
 support.malwarebytes.com
 support.monespacesante.fr
 support.mozilla.org
-support.newrelic.com
 support.nextcloud.com
 support.okta.com
 support.rockstargames.com
@@ -8019,8 +7976,6 @@ swiss-backup*.infomaniak.com
 sync.logitech.com
 sync.services.mozilla.com
 syncsketch.dev
-synthetics.eu.newrelic.com
-synthetics.newrelic.com
 t-mobile.com
 t.co
 t.swapcard.com

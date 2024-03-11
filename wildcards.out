@@ -146,7 +146,6 @@
 *.blitz.exchange
 *.blockchain.com
 *.blofin.com
-*.blog.newrelic.com
 *.bokundemo.com
 *.bokuntest.com
 *.bonne-terre-data-layer.com
@@ -274,7 +273,6 @@
 *.epicgames.dev
 *.etsy.com
 *.eu.floqast.app
-*.eu.newrelic.com
 *.eurid.eu
 *.europolitan.se
 *.exmo.com
@@ -410,8 +408,6 @@
 *.indriverapp.com
 *.indriverjob.com
 *.infra-prod.nsvcs.net
-*.infrastructure-data.newrelic.com
-*.infrastructure.newrelic.com
 *.innogames.com
 *.innogames.de
 *.instacart.com
@@ -576,7 +572,6 @@
 *.new.livestream.com
 *.newegg.ca
 *.newegg.com
-*.newrelic.com
 *.nextcapital.com
 *.nflxext.com
 *.nflximg.net
@@ -588,8 +583,6 @@
 *.nkstatic.com
 *.nnip.com
 *.nordvpn.com
-*.nr-data.net
-*.nr-ops.net
 *.nu.com.co	
 *.nu.com.mx	
 *.nubank.com.br	
