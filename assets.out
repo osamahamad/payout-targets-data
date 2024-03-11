@@ -245,6 +245,7 @@
 *.cornershop.io/*
 *.cornershopapp.com/*
 *.corp.mongodb.com*
+*.cp.dyson.com
 *.creditkarma.ca
 *.creditkarma.ca/
 *.creditkarma.co.uk
@@ -295,6 +296,7 @@
 *.dropboxer.net
 *.dropboxforum.com
 *.dropmix.com
+*.dyson.com
 *.easy.ac
 *.eat.ch
 *.elastic.co
@@ -1217,6 +1219,7 @@
 978516833
 982922982
 983980808
+993135524
 9n236hqqtvnh
 9wzdncrfj2g6
 9wzdncrfj3mb
@@ -1741,6 +1744,7 @@ Dropbox iOS app
 Dynatrace ActiveGate
 Dynatrace MobileAgent
 Dynatrace OneAgent
+Dyson Connected Products (IoT Hardware)
 EOS C# SDK
 Echo Family Devices
 Edge extension (download at: ms-windows-store://pdp/?productid=9nblggh4v89b )
@@ -1854,6 +1858,7 @@ GitHub for mobile
 GitHub webhooks for Fisheye - Server - https://marketplace.atlassian.com/apps/1223584/github-webhooks-for-fisheye?hosting=server
 GitLab and GitHub repos listed on this page
 GitLab for Jira Cloud
+Github findings
 GlotPress
 Go TTC
 Go agent
@@ -2270,6 +2275,7 @@ Other Amazon Retail Assets (Please only actively test explicitly stated scope)
 Other Amazon Retail Mobile Apps (Please only actively test explicitly stated scope)
 Other Amazon Retail Sites (Please only actively test explicitly stated scope)
 Other Assets
+Other Dyson Assets
 Other Hardware Assets
 Other Logitech Desktop and Mobile Application
 Other Logitech Hardware/IoT
@@ -2964,6 +2970,22 @@ api.digital.delen.lu
 api.direct.playstation.com
 api.doppler.com
 api.dropboxapi.com
+api.dyson.at
+api.dyson.be
+api.dyson.ch
+api.dyson.co.uk
+api.dyson.com
+api.dyson.de
+api.dyson.dk
+api.dyson.es
+api.dyson.fr
+api.dyson.ie
+api.dyson.it
+api.dyson.nl
+api.dyson.no
+api.dyson.pt
+api.dyson.se
+api.dysoncanada.ca
 api.editeur.preprod.monespacesante.fr
 api.enjinx.io
 api.ethereum.shapeshift.com
@@ -2971,6 +2993,7 @@ api.etoro.com
 api.evernote.com
 api.excalls.mobi
 api.faraday.ai
+api.fi.dyson.com
 api.figma.com
 api.flamingo-eu.veriff.com
 api.foliofn.com
@@ -3563,6 +3586,7 @@ com.deliveroo.orderapp
 com.deliveroo.riderapp
 com.deribit
 com.dolap.android
+com.dyson.mobile.android
 com.ebookers
 com.eero.android
 com.einnovation.temu
@@ -7818,6 +7842,8 @@ shavar.services.mozilla.com
 shop.adobe.com
 shop.app
 shop.demorgen.be
+shop.dyson.co.za
+shop.dyson.ru
 shop.humo.be
 shop.infomaniak.com
 shop.judge.me
@@ -8364,6 +8390,41 @@ www.driveuconnect.com
 www.driveuconnect.eu
 www.dropshippingxl.com
 www.dvpc.net
+www.dyson.ae
+www.dyson.at
+www.dyson.be
+www.dyson.ch
+www.dyson.cn
+www.dyson.co.il
+www.dyson.co.jp
+www.dyson.co.kr
+www.dyson.co.nz
+www.dyson.co.th
+www.dyson.co.uk
+www.dyson.com
+www.dyson.com.au
+www.dyson.com.mx
+www.dyson.com.ro
+www.dyson.com.sg
+www.dyson.com.tr
+www.dyson.cz
+www.dyson.de
+www.dyson.dk
+www.dyson.es
+www.dyson.fr
+www.dyson.hk
+www.dyson.hu
+www.dyson.ie
+www.dyson.in
+www.dyson.it
+www.dyson.my
+www.dyson.nl
+www.dyson.no
+www.dyson.pl
+www.dyson.pt
+www.dyson.se
+www.dyson.vn
+www.dysoncanada.ca
 www.ebookers.com
 www.ebookers.fi
 www.editeur.am.monespacesante.fr
@@ -8382,6 +8443,7 @@ www.expressvpn.com
 www.fareharbor.com
 www.fedramp.gov
 www.fewo-direkt.de
+www.fi.dyson.com
 www.figma.com
 www.files.com
 www.fitbook.de
@@ -8527,6 +8589,7 @@ www.ritzcarlton.com/
 www.rocaton.com
 www.s-kaupat.fi
 www.s-pankki.fi
+www.sa.dyson.com
 www.samenfittorfs.be
 www.sbb.ch
 www.sbbcargo.com
