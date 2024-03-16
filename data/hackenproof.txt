@@ -273,7 +273,7 @@ Web
 IOS
 Android
 hackenproof.com
-https://github.com/Horizon-Protocol/Horizon-Smart-Contract/tree/testnet-contracts
+https://github.com/Horizon-Protocol/Horizon-Smart-Contract/tree/develop/contracts
 API
 Android App
 iOS App
@@ -410,6 +410,17 @@ https://exchange.pointpay.io/buy-crypto
 https://exchange.pointpay.io/launchpad/projects
 https://bridgr-testnet.polkalokr.com/
 https://bridgr-testnet.polkalokr.com/
+https://poloniex.com/
+tms.polo-static.com
+wgc.polo-static.com
+v3.polo-static.com
+api.poloniex.com
+api2.poloniex.com
+sapi.poloniex.com
+api-docs.poloniex.com
+ws.poloniex.com
+ws-web.poloniex.com
+x-api.poloniex.com
 https://github.com/maticnetwork/heimdall/
 https://github.com/maticnetwork/bor/
 https://static.polygon.technology/network/mainnet/v1/index.json
@@ -479,6 +490,7 @@ https://basescan.org/address/0x5C622Dcc96b6D96ac6c154f99CF081815094CBC9
 https://basescan.org/address/0xa5d378c05192e3f1f365d6298921879c4d51c5a3
 https://basescan.org/address/0xd978bb7a7ae5b01116d1bd714fedd1b77ca9e75b
 https://basescan.org/address/0x7240aac0f57fa0126c107673597ce3cd5b907e38
+https://github.com/dverso/smilee-v2-contracts/tree/master/src
 https://apps.apple.com/us/app/status-private-communication/id1178893006
 https://status-im-files.ams3.cdn.digitaloceanspaces.com/StatusIm-Mobile-v1.19.0-d6a6c4.apk
 https://status-im-files.ams3.cdn.digitaloceanspaces.com/StatusIm-Desktop-v0.9.0-ef27bb.dmg
@@ -495,7 +507,6 @@ https://github.com/MystenLabs/sui/tree/testnet/external-crates/move
 https://github.com/MystenLabs/sui/tree/testnet/crates/sui-adapter
 https://github.com/MystenLabs/sui/tree/testnet/crates/sui-verifier
 https://github.com/MystenLabs/sui/tree/main/crates/sui-framework
-https://github.com/sui-foundation/zklogin-circuit
 https://chromewebstore.google.com/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil?hl=en
 https://github.com/MystenLabs/sui/tree/main/apps/wallet
 https://polygonscan.com/address/0xE0cc76334405EE8b39213E620587d815967af39C
@@ -565,6 +576,7 @@ travelfrom.fr
 https://tidex.com/
 https://apps.apple.com/us/app/tidex/id1632072370
 https://play.google.com/store/apps/details?id=com.tidex.app.exchange
+https://tokenize.exchange/
 https://www.toobit.com/
 https://api.toobit.com/
 https://play.google.com/store/apps/details?id=com.planet.toobit&pli=1

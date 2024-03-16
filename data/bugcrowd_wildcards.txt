@@ -1,6 +1,13 @@
 *.acorns.com
 *.acorns.com
 portalapi.*.afterpay.com
+*.alex-as.com
+*.alexamerican.com
+*.americansystems.com
+*.autodiscover.americansystems.com
+*.ddlomni.com
+*.lyncdiscover.americansystems.com
+*.nhaero.com
 *.arlo.com (production servers only)
 *.arloxcld.com (production servers only)
 *.arubanetworks.com
@@ -71,6 +78,9 @@ Internal Web services - *.internal.exoscale.ch
 *.expressvpn.com
 *.xvservice.net
 *.xvtest.net
+*.certinia.com
+*.financialforce.com
+*.certinia.com
 *.flourish.studio
 *.xyzbmojn.net
 *.hs-sites.com
