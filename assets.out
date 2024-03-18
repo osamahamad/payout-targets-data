@@ -1295,6 +1295,8 @@ Afterpay iOS App
 Agent Notifications for Bamboo - Server - https://marketplace.atlassian.com/apps/1216177/agent-notifications-for-bamboo?hosting=server
 Agent Usage Visualization for Bamboo - Server - https://marketplace.atlassian.com/apps/1215924/agent-usage-visualization-for-bamboo?hosting=server
 AgentConnect (see program description for github link)
+Agora for Android (see dowload link for APK file and mobile app GitHub repository in description)
+Agora for iOS (see dowload link for IPA file and mobile app GitHub repository in description)
 Aiven for Apache Cassandra managed and hosted service
 Aiven for Apache Flink managed and hosted service
 Aiven for Apache Kafka managed and hosted service 
@@ -4513,6 +4515,7 @@ https://api.ring.com/*
 https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
 https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql
 https://api.rx.originenergy.com.au/v1/lpg/graphql
+https://api.sandbox.agora.incubateur.net  (source code available on GitHub, see description)
 https://api.segment.io/
 https://api.sendgrid.com
 https://api.shop.ua.com/graphql
@@ -4559,6 +4562,7 @@ https://app.pentest.digistorm.com
 https://app.pentest.digistorm.com/graphql
 https://app.ring.com/*
 https://app.routerprotocol.com/
+https://app.sandbox.agora.incubateur.net
 https://app.sandbox.digistorm.com/
 https://app.sandbox.digistorm.com/graphql
 https://app.segment.com/
@@ -4861,6 +4865,7 @@ https://console.delltechnologies.com/nav/billing
 https://console.delltechnologies.com/nav/invoice
 https://consumer-sustainability.underarmour.com/en
 https://content-server.ibotta.com/graphql
+https://content.agora.beta.gouv.fr
 https://content.usaa.com
 https://contrastsecurity.dev/
 https://coral.20min.ch/
