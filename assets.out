@@ -572,9 +572,6 @@
 *.metamask.io
 *.metrobyt-mobile.com
 *.mevo.com
-*.mi.com
-*.miui.com
-*.miwifi.com
 *.mixamo.com
 *.mjrtheatres.com
 *.mmcdn.com
@@ -974,8 +971,6 @@
 *.xfinity.com	
 *.xfinityhome.com
 *.xfiplatform.com
-*.xiaomi.com
-*.xiaomiyoupin.com
 *.xoom.com
 *.xvservice.net
 *.xvtest.net
@@ -1865,6 +1860,7 @@ GitHub Pages
 GitHub Production Credentials
 GitHub for Jira - Cloud - https://marketplace.atlassian.com/apps/1219592/github-for-jira?hosting=cloud
 GitHub for mobile
+GitHub repositories
 GitHub webhooks for Fisheye - Server - https://marketplace.atlassian.com/apps/1223584/github-webhooks-for-fisheye?hosting=server
 GitLab and GitHub repos listed on this page
 GitLab for Jira Cloud
@@ -2073,7 +2069,6 @@ Luna
 Luno Android Application
 Luno iOS Application
 MFA
-MIUI OS for Xiaomi Phone
 Mac App
 Mac OS Executable
 Mac OS Executable: Download here https://www.larksuite.com/download
@@ -2137,14 +2132,6 @@ MetaMask SDK
 Mettle Android Application
 Mettle iOS Application
 Meural
-Mi Band
-Mi Electric Scooter 
-Mi Home Webcam 
-Mi Laser Projector
-Mi Robot Vacuum
-Mi TV 
-Mi TV Box
-Mi/Redmi Phone
 Microsites
 Microsoft OneDrive for Business - Legacy Editor Only - Cloud - https://marketplace.atlassian.com/apps/1221882/microsoft-onedrive-for-business-legacy-editor-only?hosting=cloud
 Microsoft Teams Integration
@@ -2274,7 +2261,6 @@ Other
 Other (Misc)
 Other (misc)
 Other - (all other Atlassian targets)
-Other APK Assets
 Other Acronis Domains
 Other Acronis executables
 Other Amazon Retail Assets (Please only actively test explicitly stated scope)
@@ -2282,7 +2268,6 @@ Other Amazon Retail Mobile Apps (Please only actively test explicitly stated sco
 Other Amazon Retail Sites (Please only actively test explicitly stated scope)
 Other Assets
 Other Dyson Assets
-Other Hardware Assets
 Other Logitech Desktop and Mobile Application
 Other Logitech Hardware/IoT
 Other Spotify websites
@@ -2728,6 +2713,7 @@ WooCommerce
 WordPress Core
 WordPress Plugins & Themes
 WordPress.com VIP
+WordPress.org plugins
 Work@ampol
 Workers
 Workers AI
@@ -3531,7 +3517,6 @@ com.amazon.storm.lightning.client.aosp
 com.amazon.tahoe.freetime
 com.amazon.tails
 com.anchorfminc.Anchor
-com.android.browser
 com.anker.AnkerMake
 com.application.zomato
 com.application.zomatomerchant
@@ -3663,10 +3648,6 @@ com.mercadolibre
 com.mercadopago.MercadoPago
 com.mercadopago.wallet
 com.metallum.nicex
-com.mi.global.shop
-com.miui.cloudbackup
-com.miui.cloudservice
-com.miui.micloudsync
 com.monaco.mobile
 com.moneybird.Moneybird
 com.moneybird.android
@@ -3780,13 +3761,6 @@ com.wisdomtree.wtprime
 com.withbuddies.dice.free
 com.workfront.android.aware
 com.wotif.android
-com.xiaomi.account
-com.xiaomi.market
-com.xiaomi.mibrain.speech
-com.xiaomi.micloud.sdk
-com.xiaomi.mipicks
-com.xiaomi.payment
-com.xiaomi.smarthome
 com.xoom.android.app
 com.xoom.app
 com.yahoo.aerogram
