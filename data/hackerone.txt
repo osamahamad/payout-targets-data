@@ -160,7 +160,6 @@ firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 hg.mozilla.org
 lando.services.mozilla.com
-location.services.mozilla.com
 merino.services.mozilla.com
 mozilla-pontoon-staging.herokuapp.com
 phabricator.allizom.org
