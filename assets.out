@@ -2499,6 +2499,12 @@ Superdrug.Healthera.App.Android
 Supply Android
 Supply iOS
 SurveyMonkey - https://trello.com/power-ups/568c143d95adcd7308cbc3fb/surveymonkey
+SyncUP DRIVE - Android
+SyncUP DRIVE - iOS
+SyncUP KIDS - Android
+SyncUP KIDS - iOS
+SyncUP TRACKER - Android
+SyncUP TRACKER - iOS
 System Specification
 T&P Servers
 T-Life - Android
@@ -4660,6 +4666,9 @@ https://apps.apple.com/us/app/share-rewards/id1465450657
 https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
 https://apps.apple.com/us/app/status-private-communication/id1178893006
+https://apps.apple.com/us/app/syncup-drive/id1576574297
+https://apps.apple.com/us/app/syncup-kids/id1503394062
+https://apps.apple.com/us/app/syncup-tracker/id1526380335
 https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
 https://apps.apple.com/us/app/t-mobile/id561625752
 https://apps.apple.com/us/app/ternoa-wallet/id1562180877#?platform=iphone
@@ -5296,6 +5305,7 @@ https://github.com/kubernetes/website
 https://github.com/leather-wallet/desktop
 https://github.com/leather-wallet/extension
 https://github.com/liberapay/liberapay.com
+https://github.com/libuv/libuv
 https://github.com/magiceden-oss/erc721m/releases/latest
 https://github.com/magiceden-oss/open_creator_protocol/releases/latest
 https://github.com/mainwp/mainwp
@@ -6166,7 +6176,10 @@ https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.m
 https://play.google.com/store/apps/details?id=com.ternoa.wallet.prod
 https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.tidex.app.exchange
+https://play.google.com/store/apps/details?id=com.tmobile.drive
+https://play.google.com/store/apps/details?id=com.tmobile.kids
 https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
+https://play.google.com/store/apps/details?id=com.tmobile.syncuptag
 https://play.google.com/store/apps/details?id=com.tmobile.tuesdays&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.trusteeplus
