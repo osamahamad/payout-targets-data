@@ -8,6 +8,7 @@ matrix.agent.*.tchap.gouv.fr
 *.dmcdn.net
 *.dm.gg
 *.captcha-delivery.com
+*.captcha-delivery.com
 *.doctolib.(fr|de|it|com|net)
 *.kdrive.infomaniak.com
 *.kchat.infomaniak.com
