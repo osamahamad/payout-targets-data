@@ -747,8 +747,6 @@ Marionnaud (subdomains)
 Marionnaud FR (subdomains)
 Marionnaud.Austria.Android
 Marionnaud.Austria.iOS
-Marionnaud.France.Android
-Marionnaud.France.iOS
 Marionnaud.Italy.Android
 Marionnaud.Italy.iOS
 Marionnaud.Romania.Android
@@ -814,7 +812,6 @@ app.kruidvat.nl
 app.marionnaud.at
 app.marionnaud.ch
 app.marionnaud.cz
-app.marionnaud.fr
 app.marionnaud.hu
 app.marionnaud.it
 app.marionnaud.ro
@@ -857,7 +854,6 @@ www.kruidvat.nl
 www.marionnaud.at
 www.marionnaud.ch
 www.marionnaud.cz
-www.marionnaud.fr
 www.marionnaud.hu
 www.marionnaud.it
 www.marionnaud.ro
