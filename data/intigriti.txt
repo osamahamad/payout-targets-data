@@ -97,6 +97,12 @@ YADIFA authoritative name server
 service.fing.com
 app.fing.com
 Fing desktop
+https://api-dashboard.stag.henchman.io
+https://api-search.stag.henchman.io
+https://add-in.stag.henchman.io
+https://auth.stag.henchman.io
+https://dashboard.stag.henchman.io
+https://ops-dashboard.stag.henchman.io
 955837609
 com.here.app.maps
 * hln.be/inloggen
@@ -565,12 +571,6 @@ hub.vznkul.be/services/intrahub/IntraHubService
 hubacc.vznkul.be/*
 hubacc.vznkul.be/services/acceptance/interhub/InterHubService
 hubacc.vznkul.be/services/acceptance/intrahub/IntraHubService
-https://api-dashboard.stag.henchman.io
-https://api-search.stag.henchman.io
-https://add-in.stag.henchman.io
-https://auth.stag.henchman.io
-https://dashboard.stag.henchman.io
-https://ops-dashboard.stag.henchman.io
 1135288773
 api.ibood.com
 com.ibood.app
