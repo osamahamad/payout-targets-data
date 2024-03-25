@@ -504,17 +504,6 @@
 *.landmarkcinemas.com
 *.lastminute.co.nz
 *.lastminute.com.au
-*.lazada-seller.cn
-*.lazada.(sg|vn|co.id|co.th|com|com.ph|com.my) (+)
-*.lazada.(sg|vn|co.id|co.th|com|com.ph|com.my) (++)
-*.lazada.(sg|vn|co.id|co.th|com|com.ph|com.my) (+++)
-*.lazlogistics.(co.id|in.th|sg|vn|my|ph)
-*.lel.asia (+)
-*.lel.asia (++)
-*.lel.asia (+++)
-*.lex.(co.id|com.my|in.th|ph|vn) (+)
-*.lex.(co.id|com.my|in.th|ph|vn) (++)
-*.lex.(co.id|com.my|in.th|ph|vn) (+++)
 *.libelle.nl
 *.liberapay.com
 *.lieferando.at
@@ -723,9 +712,6 @@
 *.reddithelp.com
 *.redditinc.com
 *.redditmedia.com
-*.redmart.com (+)
-*.redmart.com (++)
-*.redmart.com (+++)
 *.reflexion.net
 *.registry.eu
 *.remove.bg
@@ -4603,7 +4589,6 @@ https://apps.apple.com/qa/app/ooredoo-qatar/id619828745
 https://apps.apple.com/ru/app/myraif/id1582978231
 https://apps.apple.com/se/app/atg-live/id1608156355
 https://apps.apple.com/se/app/atg/id1434660322
-https://apps.apple.com/sg/app/lazada-seller-center/id1315605408
 https://apps.apple.com/si/app/nicehash/id1372054956
 https://apps.apple.com/tt/app/blofin/id1616804346
 https://apps.apple.com/ua/app/citex-mining-exchange/id1546706074
@@ -4645,7 +4630,6 @@ https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665
 https://apps.apple.com/us/app/keeperchat/id1273303729?mt=12
 https://apps.apple.com/us/app/lastpass-authenticator/id1079110004
 https://apps.apple.com/us/app/lastpass-password-manager/id324613447
-https://apps.apple.com/us/app/lazada-best-shopping-online/id785385147
 https://apps.apple.com/us/app/lululemon/id920098546
 https://apps.apple.com/us/app/map-my-fitness-gps-workout/id298903147
 https://apps.apple.com/us/app/monash-study/id1462126829
@@ -6127,7 +6111,6 @@ https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US
 https://play.google.com/store/apps/details?id=com.keepersecurity.chat&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.lastpass.authenticator&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.lastpass.lpandroid
-https://play.google.com/store/apps/details?id=com.lazada.android&hl=en_SG
 https://play.google.com/store/apps/details?id=com.limebike
 https://play.google.com/store/apps/details?id=com.maf.share&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.maf.thatandroid
@@ -6158,7 +6141,6 @@ https://play.google.com/store/apps/details?id=com.planet.toobit&pli=1
 https://play.google.com/store/apps/details?id=com.pointpay.bank
 https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&hl=en
 https://play.google.com/store/apps/details?id=com.probit.app.android2.release.global
-https://play.google.com/store/apps/details?id=com.sc.lazada&hl=en_SG
 https://play.google.com/store/apps/details?id=com.scu.bsafe
 https://play.google.com/store/apps/details?id=com.sentiance.saferdriver
 https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
