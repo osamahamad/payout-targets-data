@@ -611,9 +611,6 @@
 *.nkstatic.com
 *.nnip.com
 *.nordvpn.com
-*.nu.com.co	
-*.nu.com.mx	
-*.nubank.com.br	
 *.nuinvest.com.br	
 *.octopus.com
 *.oda.com
@@ -5982,8 +5979,9 @@ https://nhaero.com
 https://nice.wfmusaa.com
 https://nmtracking.netflix.com
 https://node.e2ro.com/*
-https://nu.com.mx/
 https://nubank.com.br/
+https://nubank.com.co
+https://nubank.com.mx
 https://nvoice.usaa.com/
 https://nw.ring.com/*
 https://oauth.ring.com/*
@@ -7621,6 +7619,9 @@ pro.coinbase.com
 pro.coinmarketcap.com
 pro.doctolib.(fr|de|it) (see "about freemium scope")
 pro.opensea.io
+prod-*.nu.com.co
+prod-*.nu.com.mx
+prod-*.nubank.com.br
 prod-dp-discovery-us-east-1.amazon.com
 prod.ros.rockstargames.com
 proddata.xobni.yahoo.com

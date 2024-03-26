@@ -577,9 +577,6 @@
 *.nkstatic.com
 *.nnip.com
 *.nordvpn.com
-*.nu.com.co	
-*.nu.com.mx	
-*.nubank.com.br	
 *.nuinvest.com.br	
 *.octopus.com
 *.oda.com
@@ -964,6 +961,9 @@ munin-*.wordpress.org
 onboarding-*.cloud.com
 open redirect at *.epam.com
 portalapi.*.afterpay.com
+prod-*.nu.com.co
+prod-*.nu.com.mx
+prod-*.nubank.com.br
 swiss-backup*.infomaniak.com
 terra-*.indriverapp.com
 test*.redoxengine.com
