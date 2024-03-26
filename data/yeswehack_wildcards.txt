@@ -14,24 +14,6 @@ matrix.agent.*.tchap.gouv.fr
 *.kchat.infomaniak.com
 swiss-backup*.infomaniak.com
 *.vod2.infomaniak.com
-*.lazada.(sg|vn|co.id|co.th|com|com.ph|com.my) (+++)
-*.lazada.(sg|vn|co.id|co.th|com|com.ph|com.my) (++)
-*.lazada.(sg|vn|co.id|co.th|com|com.ph|com.my) (+)
-*.redmart.com (+++)
-*.redmart.com (++)
-*.redmart.com (+)
-*.lel.asia (+++)
-*.lel.asia (++)
-*.lel.asia (+)
-*.lex.(co.id|com.my|in.th|ph|vn) (+++)
-*.lex.(co.id|com.my|in.th|ph|vn) (++)
-*.lex.(co.id|com.my|in.th|ph|vn) (+)
-*.lazada-seller.cn
-*.lazada-seller.cn
-*.lazada-seller.cn
-*.lazlogistics.(co.id|in.th|sg|vn|my|ph)
-*.lazlogistics.(co.id|in.th|sg|vn|my|ph)
-*.lazlogistics.(co.id|in.th|sg|vn|my|ph)
 *.okto.tech
 *.app.spacelift.dev
 *.telenor.se
