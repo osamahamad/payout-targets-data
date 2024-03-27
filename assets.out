@@ -128,6 +128,7 @@
 *.app.spacelift.dev
 *.arlo.com (production servers only)
 *.arloxcld.com (production servers only)
+*.aroundtheworld.tomorrowland.com
 *.artist.link
 *.artstation.com
 *.arubanetworks.com
@@ -865,6 +866,7 @@
 *.tinderops.net
 *.tinderwebstaging.com
 *.tmall.com
+*.tomorrowland.com
 *.ton.diamonds
 *.toolsforhumanity.com
 *.touchtechpayments.com
@@ -3201,6 +3203,7 @@ argocd.indrive.dev
 arrive-server.shopifycloud.com
 artifactory.corp.mongodb.com/
 artists.soundcloud.com
+artists.tomorrowland.com/production-website/33117
 as2-accpt.portofantwerp.com
 as2-accpt.portofantwerpbruges.com
 as2.portofantwerp.com
@@ -3469,6 +3472,7 @@ code.playcanvas.com
 code.yoti.com
 codex.one
 codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
+cognito-idp.eu-west-1.amazonaws.com
 coinbase.com
 coinmarketcap.com
 coldfusion.adobe.com
@@ -3712,6 +3716,7 @@ com.tiktok.tv
 com.tiktokshop.seller
 com.tinder
 com.tinyspeck.chatlyio
+com.tomorrowland.oneworldradio
 com.toyopagroup.picaboo
 com.travelocity.android
 com.trendyol.milla.android
@@ -3775,6 +3780,8 @@ company-profile-eu.truecaller.com
 company-profile-noneu.truecaller.com
 completion.amazon.com
 components.frame.io
+components.stag.tomorrowland.com
+components.tomorrowland.com
 configure.bmw.de
 configure.mini.de
 confluence.hyattdev.com
@@ -4161,6 +4168,7 @@ gitlab.com
 global-api.citymapper.com
 global.bitexen.com
 global.bittrex.com
+globaljourney.tomorrowland.com
 gnip.com
 gold.xnxx.com
 goldmansachsindices.com
@@ -6549,6 +6557,7 @@ https://www.bitpanda.com/academy/
 https://www.bitpanda.com/academy/en/
 https://www.bitstamp.net/
 https://www.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
+https://www.bluehost.com/
 https://www.bluejeans.com/
 https://www.bluejeans.com/downloads
 https://www.bookbeat.com
@@ -6601,6 +6610,7 @@ https://www.gamemaker.io
 https://www.glassdoor.com/*
 https://www.governmentjobs.com
 https://www.hostgator.com.br/
+https://www.hostgator.com/
 https://www.hpr.kiwai-normandie.fr/
 https://www.iciparisxl.be/blog/
 https://www.iciparisxl.lu/blog/
@@ -7176,6 +7186,7 @@ maximo-accpt.portofantwerpbruges.com
 maximo.portofantwerp.com
 maximo.portofantwerpbruges.com
 mcssl.com
+mdm.weareone.world
 mds.voiapp.io
 media-services-public.vrt.be
 media.nexuzhealth.be/patient/
@@ -7286,6 +7297,7 @@ my.sheer.com
 my.snapchat.com
 my.swiftfinancial.com
 my.thesecurityteam.rocks
+my.tomorrowland.com
 myaccount-hardening.dynatracelabs.com
 myaccount.ad.nl
 myaccount.demorgen.be
@@ -7428,11 +7440,13 @@ onboarding-api.truelayer.com
 onboarding.cloud.com
 onboarding.greenhouse.io
 ondemand-vrt.akamaized.net
+one-world-radio-tomorrowland/id1485778856
 one.airbnb.com
 one.dash.cloudflare.com
 onepush.query.yahoo.com
 onevasco.com
 oneview.malwarebytes.com
+oneworldradio.tomorrowland.com
 online.s-pankki.fi
 open redirect at *.epam.com
 open-api.polygon.technology
@@ -7860,6 +7874,7 @@ socket.frame.io
 sorare.com
 soundcloud.com
 soundcloud.org
+sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com
 spaces.pm
 spapi-na.amazon.com
 spark.adobe.com
@@ -8236,6 +8251,7 @@ wiki.teamfortress.com
 wiki.ui.com
 winecellar.zomato.com
 winkels.torfs.be
+winterpackages.tomorrowland.com
 wise.com
 wonderboxapi.com
 wonderboxdev.com
@@ -8594,6 +8610,7 @@ www.temu.com
 www.theperfumeshop.com
 www.thuisbezorgd.nl/aanmelden
 www.tink.com
+www.tomorrowland.com
 www.torfs.be
 www.torfs.nl
 www.transsicura.ch
