@@ -771,6 +771,7 @@
 *.soundcloud.org
 *.spinaway.com
 *.sportinglife.com
+*.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sqills.com
@@ -939,6 +940,8 @@
 *.zdev.net
 *.zomans.com
 *.zomato.com
+*ensemble*.yahoo.com
+*omega*.yahoo.com
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 B2 APIs (*.backblazeb2.com)
