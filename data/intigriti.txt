@@ -24,28 +24,6 @@ myaccount.ad.nl
 webwinkel.ad.nl
 www.ad.nl
 www.ad.nl/abonnementen
-hey.bild.de
-https://meinkonto.bild.de/
-https://secure.mypass.de/
-https://vip-club.computerbild.de/
-sportbild.bild.de
-Tier 1 subdomains
-www.bild.de
-www.bild.tv
-www.computerbild.de
-www.welt.de
-play.bild.de
-www.autobild.de
-www.bz-berlin.de
-Tier 3 subdomains
-www.ein-herz-fuer-kinder.de
-www.fitbook.de
-www.myhomebook.de
-www.petbook.de
-www.stylebook.de
-www.techbook.de
-www.travelbook.de
-www.wissen-sie-mehr.de
 imove.bpost.cloud
 login.cm.com
 api.cm.com
@@ -54,7 +32,6 @@ cm.com/[locale]/app/*
 cm.com/[locale]/register
 cm.com/app/messagingtrial/
 www.cm.com
-app-pwn.intigriti.rocks
 1416625210
 com.freshfoodventures.crisp
 crisp.ninja
@@ -352,8 +329,6 @@ https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://radio.api.soundtrackyourbrand.com/
 https://www.soundtrackyourbrand.com
 macOS app
-aweb.suivo.com
-asupport.suivo.com
 artists.tomorrowland.com/production-website/33117
 cognito-idp.eu-west-1.amazonaws.com
 com.tomorrowland.oneworldradio
@@ -421,7 +396,6 @@ random.uzleuven.be/random/
 teststs.uzleuven.be
 uzlcm12cmg1.uzleuven.be
 w1.uzleuven.be
-Ubisoft
 1101145849
 6444005221
 api.uphold.com
@@ -519,52 +493,6 @@ mds.voiapp.io
 report.voi.com
 voi.com
 www.voiscooters.com
-7 News
-AOL (misc)
-AOL Help
-AOL Homepage
-AOL Mail
-AOL Search
-apis.mail.yahoo.com
-Autoblog
-data.mail.yahoo.com
-Engadget
-Gemini
-Low Cost Access
-Membership
-onepush.query.yahoo.com
-Online Marketplace
-Other (Misc)
-proddata.xobni.yahoo.com
-Social Media Accounts
-Techcrunch
-TW eCommerce: Auctions
-TW eCommerce: Shopping
-TW eCommerce: Used Car
-TW Media: Front Page
-TW Media: News
-TW Media: Stock
-Yahoo Calendar
-Yahoo Finance
-Yahoo HK News
-Yahoo Mail
-Yahoo News
-Yahoo Open Source Projects
-Yahoo Search
-Yahoo Sports: Best Ball
-Yahoo Sports: Daily Fantasy
-Yahoo Sports: Editorial
-Yahoo Sports: Fantasy Games
-Yahoo Sports: Fantasy Slate/PicknWin
-Yahoo Sports: Fantasy Sports
-Yahoo Sports: Fantasy Wallet
-Yahoo Sports: Mobile
-Yahoo Sports: Rivals
-Yahoo Sports: Rivals Forums
-Yahoo Video
-Yahoo Weather
-Yahoo! (Misc)
-yimg.com
 Zero days that affect Intigriti or participating customers (listed below)
 hub.vznkul.be/*
 hub.vznkul.be/services/interhub/InterHubService
