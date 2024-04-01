@@ -268,7 +268,6 @@
 *.dailymotion.com
 *.dancecentral.com
 *.das.eu
-*.datacamp.com
 *.ddlomni.com
 *.deliveroo-data-test.io
 *.deliveroo-data.io
@@ -1418,6 +1417,7 @@ Assets - Tempo Integration - DataCenter - https://marketplace.atlassian.com/apps
 Assets Discovery - Cloud - https://marketplace.atlassian.com/apps/1214668/assets-discovery?hosting=cloud
 Assets Discovery - DataCenter - https://marketplace.atlassian.com/apps/1214668/assets-discovery?hosting=datacenter
 Assets Tempo Integration - Server - https://marketplace.atlassian.com/apps/1217751/assets-tempo-integration?hosting=server
+Assets labeled as in-scope
 Assign Reviewer Groups - Server - https://marketplace.atlassian.com/apps/1220798/assign-reviewer-groups?hosting=server
 Athenz
 Atlas for Jira Cloud - Cloud - https://marketplace.atlassian.com/apps/1228937/atlas-for-jira-cloud?hosting=cloud&tab=overview
@@ -1454,7 +1454,6 @@ Automation for Jira - Cloud - https://marketplace.atlassian.com/apps/1215460/aut
 Automation for Jira - Data Center and Server - Server - https://marketplace.atlassian.com/apps/1215460/automation-for-jira-data-center-and-server?hosting=server
 Automation for Jira - DataCenter - https://marketplace.atlassian.com/apps/1215460/automation-for-jira?hosting=datacenter
 Automation for Jira - Server Lite - Server - https://marketplace.atlassian.com/apps/1211836/automation-for-jira-server-lite?hosting=server
-Automotive Security
 Ava Labs Warden server and blob storage endpoints (please test on testnet only)
 Avalanche-Wallet
 Avalanche-Wallet-SDK
@@ -1572,11 +1571,6 @@ Character Animator
 Chartable
 ChatGPT
 ChatGPT Plugins
-Chia BLS Signatures
-Chia Plotter
-Chia Verifiable Delay Functions (VDF)
-Chia core
-Chia desktop
 Chime
 Chime Android App (Beta)
 Chime IOS App (Beta)
@@ -2259,7 +2253,6 @@ Other Dyson Assets
 Other Logitech Desktop and Mobile Application
 Other Logitech Hardware/IoT
 Other Spotify websites
-Other Vulnerabilities
 Other assets
 Other assets owned by Personio
 Other non-production infrastructure
@@ -3123,10 +3116,6 @@ app.avtoelon.uz
 app.chime.com
 app.command.cysiv.com
 app.dashlane.com
-app.datacamp.com/certification
-app.datacamp.com/groups
-app.datacamp.com/learn
-app.datacamp.com/workspace
 app.delen.be
 app.delen.ch
 app.delen.lu
@@ -3226,8 +3215,6 @@ asana.com
 asiointi.lahitapiola.fi
 askpam.ai
 asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
-assessment-v2.datacamp.com
-assessment.datacamp.com
 assets.adobe.com
 assets.airbnb.com
 assets.enjin.io,cdn.enjin.io,*.cdn.enjin.io,*.cdn.enjin.cn,cdn.enjin.cn,cdn.enjinx.io,cdn.enjinx.cn,enjinusercontent.com,*.enjinusercontent.com
@@ -3393,7 +3380,6 @@ callbacks.airbnb.com
 callkit-asia-south1.truecaller.com
 cam.notebleue.pro
 campaign.adobe.com
-campus.datacamp.com
 canary.activate.codefi.network
 candle-src.etoro.com
 candle.etoro.com
@@ -3561,7 +3547,6 @@ com.creditkarma.mobile
 com.creditkarma.mobile.international
 com.dashlane
 com.dashlane.dashlanephonefinal
-com.datacamp
 com.defi.wallet
 com.deliveroo.driverapp
 com.deliveroo.orderapp
@@ -3798,8 +3783,6 @@ completion.amazon.com
 components.frame.io
 components.stag.tomorrowland.com
 components.tomorrowland.com
-configure.bmw.de
-configure.mini.de
 confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
@@ -4282,6 +4265,7 @@ http://bitso.com/alpha
 http://blog.etsy.com/
 http://careers.etsy.com/
 http://coinbase.com
+http://collaboration.rei.com
 http://community.etsy.com/
 http://datapod-1-druid-ingest.production.forescoutcloud.net/v1/upload
 http://datapod-1-druid-query.production.forescoutcloud.net/v1/polling
@@ -4326,7 +4310,6 @@ http://prosus.com
 http://recruit.linepluscorp.com
 http://rei.com/adventures
 http://rei.com/events
-http://rei.com/learn/expert-advice
 http://rosetta.oasis.dev/api/mainnet
 http://sandbox-api.fireblocks.io
 http://sapphire.oasis.io
@@ -4350,6 +4333,7 @@ http://www.lululemon.co.kr/
 http://www.myvisacardportal.com/welcome/enbd/product/#
 http://www.netflix.com
 http://www.register.com
+http://www.rei.com/learn/expert-advice
 http://www.shopmarriott.com
 http://www.whynot.com/
 http://www1.domain.com/
@@ -4566,7 +4550,6 @@ https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/bigcommerce/id1418570678
 https://apps.apple.com/au/app/caltex-australia/id1314768594
 https://apps.apple.com/au/app/certsy/id1617796159
-https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
@@ -5135,7 +5118,6 @@ https://github.com/Aiven-Open
 https://github.com/Asymetrix-Protocol/contracts
 https://github.com/Bitrue/bitrue-official-api-docs
 https://github.com/Blueberryfi/blueberry-stakevest
-https://github.com/Chia-Network/bls-signatures
 https://github.com/Chia-Network/chia-blockchain
 https://github.com/Chia-Network/chia-blockchain-gui
 https://github.com/Chia-Network/chia_rs
@@ -7111,7 +7093,6 @@ knowage.monespacesante.fr
 knowledge.nextcloud.com
 knox.beta.blendlabs.com
 kolesa.kz
-konfigurator.bmw-motorrad.de
 krisha.kz
 krisp.ai
 kubernetes-csi.github.io
@@ -7674,7 +7655,6 @@ portalapi.eu.clearpay.co.uk
 portfolio.adobe.com
 portfolio.metamask.io
 portswigger.net
-practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prddsplunkhf.uzleuven.be
 premium-eu.truecaller.com
@@ -7728,7 +7708,6 @@ profile-view.truecaller.com
 profile4-asia-south1.truecaller.com
 profile4.truecaller.com
 profiler.firefox.com
-projects.datacamp.com
 projects.nextcloud.com
 prometheus.fr.cloud.gov
 promos.tvg.com
@@ -8411,8 +8390,6 @@ www.bitstrips.com
 www.bkex.com
 www.blockchain.info
 www.blueskytours.com
-www.bmw-motorrad.de
-www.bmw.de
 www.bookabach.co.nz
 www.bookingholdings.com
 www.bumble.com
@@ -8446,7 +8423,6 @@ www.currencycloud.com
 www.cybersource.com
 www.dashlane.com
 www.data.gov
-www.datacamp.com
 www.datastax.com
 www.ddfcontent.com
 www.deezer.com
@@ -8610,7 +8586,6 @@ www.mercadopago.com.co
 www.mercadopago.com.mx
 www.mercadopago.com.pe
 www.mercadopago.com.uy
-www.mini.de
 www.mjrtheatres.com
 www.momondo.com
 www.monash.edu
