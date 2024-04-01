@@ -147,25 +147,6 @@ https://nw.ring.com/*
 https://oauth.ring.com/*
 https://ring.com/*
 prd-ring-web-us.prd.rings.solutions
-Mozilla VPN Clients
-Product Delivery
-accounts.firefox.com
-addons.allizom.org
-aus5.mozilla.org
-bugzilla.mozilla.org
-contile.services.mozilla.com
-crash-reports.allizom.org
-crash-stats.allizom.org
-firefox-ci-tc.services.mozilla.com
-firefox.settings.services.mozilla.com
-hg.mozilla.org
-lando.services.mozilla.com
-merino.services.mozilla.com
-mozilla-pontoon-staging.herokuapp.com
-phabricator.allizom.org
-push.services.mozilla.com
-shavar.services.mozilla.com
-sync.services.mozilla.com
 www.six-group.com
 com.anker.AnkerMake
 com.eufylife.EufyHome
@@ -192,15 +173,33 @@ eero Beacon (2nd Generation)
 eero Pro (2nd Generation)
 https://api-user.e2ro.com/*
 https://node.e2ro.com/*
+Mozilla VPN Clients
+Product Delivery
+accounts.firefox.com
+addons.allizom.org
 api.profiler.firefox.com
+aus5.mozilla.org
+bugzilla.mozilla.org
 community-tc.services.mozilla.com
+contile.services.mozilla.com
+crash-reports.allizom.org
+crash-stats.allizom.org
 developer.mozilla.org
+firefox-ci-tc.services.mozilla.com
+firefox.settings.services.mozilla.com
 hg.mozilla.org
+lando.services.mozilla.com
+merino.services.mozilla.com
 monitor.mozilla.org
+mozilla-pontoon-staging.herokuapp.com
+phabricator.allizom.org
 profiler.firefox.com
+push.services.mozilla.com
 relay.firefox.com
+shavar.services.mozilla.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.mozilla.org
+sync.services.mozilla.com
 vpn.mozilla.org
 www.mozilla.org
 10x.redoxengine.com
