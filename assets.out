@@ -202,6 +202,7 @@
 *.byairbnb.com
 *.bybit.com
 *.c-point.be
+*.canada.fanduel.com
 *.canva-apps.cn
 *.canva-apps.com
 *.canva.cn
@@ -269,6 +270,7 @@
 *.dailymotion.com
 *.dancecentral.com
 *.das.eu
+*.datacamp.com
 *.ddlomni.com
 *.deliveroo-data-test.io
 *.deliveroo-data.io
@@ -303,6 +305,7 @@
 *.dropboxforum.com
 *.dropmix.com
 *.dyson.com
+*.east.fdbox.net
 *.easy.ac
 *.eat.ch
 *.elastic.co
@@ -326,7 +329,6 @@
 *.ezviz7.com
 *.fallguys.com
 *.fanbox.cc
-*.fanduel.com
 *.feednews.com
 *.fetlife.com
 *.financialforce.com
@@ -440,9 +442,7 @@
 *.igpayment.com
 *.ikarem.io
 *.immedia-semi.com/*
-*.immutable.com
 *.imperva.com
-*.imtbl.com
 *.incapsula.com
 *.indeed.com
 *.indeed.net
@@ -569,6 +569,7 @@
 *.metamask.io
 *.metrobyt-mobile.com
 *.mevo.com
+*.mgmt.fndlsb.net
 *.mixamo.com
 *.mjrtheatres.com
 *.mmcdn.com
@@ -620,6 +621,7 @@
 *.nnip.com
 *.nordvpn.com
 *.nuinvest.com.br	
+*.numberfire.com
 *.octopus.com
 *.oda.com
 *.odcdn.com.au
@@ -680,6 +682,7 @@
 *.popjam.com
 *.ppbdev.com
 *.prd-pub.mobilevikings.be
+*.prd.fndlsb.net
 *.prd.mobilevikings.be
 *.preempt.com
 *.preemptsecurity.com
@@ -689,6 +692,7 @@
 *.prod.cloud.netflix.com
 *.prod.cryptology.com
 *.prod.dradis.netflix.com
+*.prod.fdbox.net
 *.prod.ftl.netflix.com
 *.prod.nube.tech
 *.projects.epam.com
@@ -862,7 +866,6 @@
 *.teslainsuranceservices.com
 *.teslamotors.com
 *.testdrive.workfront.com
-*.testnet.immutable.com
 *.threatdown.com
 *.thuisbezorgd.nl
 *.ticketing.cm.com
@@ -987,6 +990,7 @@
 *.zomato.com
 *developer.cloud.com
 *ensemble*.yahoo.com
+*inf.fndlsb.net
 *omega*.yahoo.com
 *pwn.intigriti.rocks
 *racing.fanduel.com
@@ -1133,7 +1137,10 @@
 493086499
 493253309
 4ever.ketnet.be
+4njbets.com
+4njbets.tvg.com
 4njbets.tvgnetwork.com
+4njbets.us.betfair.com
 52.170.60.107
 52.170.60.116
 52.186.150.247
@@ -2189,7 +2196,6 @@ OKX iOS APP
 ONCE: Campfire
 OPPO-owned properties Core properties
 OPPO-owned properties Non-core properties
-OT scanner
 Observability - APM Agents
 Observability - APM Server
 October - https://apps.apple.com/fr/app/october/id1167975760
@@ -3006,7 +3012,6 @@ api.krisp.ai
 api.kuna.io
 api.kunapay.io
 api.lahitapiola.fi
-api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
@@ -3116,6 +3121,10 @@ app.avtoelon.uz
 app.chime.com
 app.command.cysiv.com
 app.dashlane.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
+app.datacamp.com/workspace
 app.delen.be
 app.delen.ch
 app.delen.lu
@@ -3140,8 +3149,6 @@ app.krisha.kz
 app.kruidvat.be
 app.kruidvat.nl
 app.lachain.io
-app.lansweeper.com
-app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
 app.localizestaging.com
@@ -3215,6 +3222,8 @@ asana.com
 asiointi.lahitapiola.fi
 askpam.ai
 asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
 assets.adobe.com
 assets.airbnb.com
 assets.enjin.io,cdn.enjin.io,*.cdn.enjin.io,*.cdn.enjin.cn,cdn.enjin.cn,cdn.enjinx.io,cdn.enjinx.cn,enjinusercontent.com,*.enjinusercontent.com
@@ -3255,7 +3264,6 @@ autocomplete.booking.com
 autodiscover.uzleuven.be
 autointerface.stag.visma.net
 autoupdate.geo.opera.com
-autoupdateapi.lansweeper.com
 av-na.amazon.com
 avtoelon.uz
 aw.visa.com
@@ -3272,7 +3280,6 @@ b5s.hackerone-ext-content.com
 bSafe Android App
 bSafe iPhone App
 backend.zyro.com
-backoffice.lansweeper.com
 backstage.io
 backup.truecaller.com
 badoo.com
@@ -3380,6 +3387,7 @@ callbacks.airbnb.com
 callkit-asia-south1.truecaller.com
 cam.notebleue.pro
 campaign.adobe.com
+campus.datacamp.com
 canary.activate.codefi.network
 candle-src.etoro.com
 candle.etoro.com
@@ -3547,6 +3555,7 @@ com.creditkarma.mobile
 com.creditkarma.mobile.international
 com.dashlane
 com.dashlane.dashlanephonefinal
+com.datacamp
 com.defi.wallet
 com.deliveroo.driverapp
 com.deliveroo.orderapp
@@ -3567,6 +3576,7 @@ com.exness.investments
 com.exness.investor
 com.expedia.bookings
 com.fanduel.android.live
+com.fanduel.android.self
 com.fishbowlmedia.fishbowl
 com.flashgap.fruits
 com.flashgap.fruitz
@@ -3945,7 +3955,6 @@ docs.databricks.com
 docs.datastax.com
 docs.eazybi.com
 docs.gitlab.com
-docs.lansweeper.com
 docs.launchdarkly.com
 docs.near.org
 docs.nextcloud.com
@@ -3982,7 +3991,6 @@ ebsext.oft.hyatt.com
 ecrf.uzleuven.be
 edex.adobe.com
 edge-locations5.truecaller.com
-edge.lansweeper.com
 edgeapi.slack.com
 edgeapis.onecloud.harman.com
 editeur.am.monespacesante.fr
@@ -4071,6 +4079,7 @@ extras.landmarkcinemas.com
 falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com
 falcon-sandbox.com
 fallguys.com
+fanduel.com
 fanduel.design
 faucet.polygon.technology
 fdbox.net
@@ -4445,7 +4454,6 @@ https://api.glassdoor.com/*
 https://api.ibops.net
 https://api.ibops.net/ad-management
 https://api.ibotta.com
-https://api.immutable.com
 https://api.int.ibops.net
 https://api.int.ibops.net/customer-loyalty-service
 https://api.intercom.com
@@ -4493,7 +4501,6 @@ https://api.welcomesoftware.com/
 https://api.welcomesoftware.com/ 
 https://api.woo.org/
 https://api.wyzecam.com
-https://api.x.immutable.com/
 https://api.yeswehack.com
 https://api3.pentest.clicsante.ca
 https://apis.indeed.com/graphql
@@ -4550,6 +4557,7 @@ https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/bigcommerce/id1418570678
 https://apps.apple.com/au/app/caltex-australia/id1314768594
 https://apps.apple.com/au/app/certsy/id1617796159
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
@@ -4681,7 +4689,6 @@ https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.foxy.io/
-https://auth.immutable.com/
 https://auth.lastpass.com
 https://auth.opera.com
 https://auth.seek.com
@@ -4956,7 +4963,6 @@ https://docs.allbridge.io/allbridge-overview/bridge-contracts
 https://docs.bugcrowd.com/
 https://docs.cryptology.com/
 https://docs.eazybi.com/
-https://docs.immutable.com/
 https://docs.keeper.io/kcm
 https://docs.keeper.io/keeper-bridge/
 https://docs.keeper.io/secrets-manager/commander-cli/overview
@@ -5548,7 +5554,6 @@ https://home.xfinity.com
 https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
 https://hr.neogov.com
 https://hr.prosus.com/
-https://hub.immutable.com/
 https://huddle.bluejeans.com
 https://hug.personio.com
 https://ichnaea.netflix.com
@@ -5635,7 +5640,6 @@ https://link.swisstronik.com/m2k
 https://link.swisstronik.com/nfj
 https://link.swisstronik.com/zky
 https://link.swisstronik.com/zs7
-https://link.x.immutable.com/
 https://linktr.ee
 https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
 https://linktree.com
@@ -5653,7 +5657,6 @@ https://login.salt.ch
 https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
-https://lsagentrelay.lansweeper.com/
 https://luna.amazon.com/*
 https://lyncdiscover.americansystems.com
 https://m.bitforex.com/en/download
@@ -5668,7 +5671,6 @@ https://manager.trial.lsk.lightspeed.app/
 https://mapi-a.usaa.com
 https://mapi.usaa.com/
 https://mapmyfitness.api.ua.com
-https://market.immutable.com/
 https://marketplace.atlassian.com
 https://marketplace.atlassian.com/apps/1210722/confluence-source-editor?hosting=server
 https://marketplace.atlassian.com/apps/1210725/data-generator-for-jira?hosting=server
@@ -7004,7 +7006,6 @@ imagine.magento.com
 imdbtv-backend-na.amazon.com
 img.swapcard.com
 imove.bpost.cloud
-imx.community
 inapp.clario.co
 indicative-pricing.taxi.booking.com
 infomaniak.events
@@ -7156,9 +7157,11 @@ log.rarible.com
 logging.rarible.com
 logilife.logitech.com
 login-4ngbets.us.betfair.com
+login-4njbets.us.betfair.com
 login-accpt.portofantwerpbruges.com
 login-api.truelayer[-sandbox].com
 login-ia.tvg.com
+login-pabets.tvg.com
 login.arkane.network
 login.cm.com
 login.delen.be
@@ -7168,7 +7171,6 @@ login.en.travelbrandsagent.com
 login.fr.cloud.gov
 login.fr.travelbrandsagent.com
 login.infomaniak.com
-login.lansweeper.com
 login.oyens.com
 login.pabets.tvg.com
 login.playcanvas.com
@@ -7507,7 +7509,6 @@ octopus.com
 odoo14.notebleue.pro
 old.reddit.com
 omgpro.airbnb.com
-on-premises software
 on-ramp.metaswap-dev.codefi.network
 onboarding-*.cloud.com
 onboarding-api.truelayer.com
@@ -7655,6 +7656,7 @@ portalapi.eu.clearpay.co.uk
 portfolio.adobe.com
 portfolio.metamask.io
 portswigger.net
+practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prddsplunkhf.uzleuven.be
 premium-eu.truecaller.com
@@ -7708,6 +7710,7 @@ profile-view.truecaller.com
 profile4-asia-south1.truecaller.com
 profile4.truecaller.com
 profiler.firefox.com
+projects.datacamp.com
 projects.nextcloud.com
 prometheus.fr.cloud.gov
 promos.tvg.com
@@ -7870,6 +7873,7 @@ sensei.pixiv.net
 serveur12.notebleue.com
 service.fing.com
 service.platform.tripadvisor.com
+service.racing.fanduel.com
 service.tvg.com
 servicedesk-accpt.portofantwerp.com
 servicedesk-accpt.portofantwerpbruges.com
@@ -8099,7 +8103,6 @@ testapi.redoxengine.com
 testapp.redoxengine.com
 testing.maventa.com
 testnet.bitmex.com
-testnet.immutable.com
 teststs.uzleuven.be
 textexplore.tari.com
 theblog.adobe.com
@@ -8423,6 +8426,7 @@ www.currencycloud.com
 www.cybersource.com
 www.dashlane.com
 www.data.gov
+www.datacamp.com
 www.datastax.com
 www.ddfcontent.com
 www.deezer.com
@@ -8548,7 +8552,6 @@ www.kruidvat.be
 www.kruidvat.nl
 www.lahitapiola.fi
 www.landmarkcinemas.com
-www.lansweeper.com
 www.leather.io
 www.libelle.nl
 www.linkedin.com
