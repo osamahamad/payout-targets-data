@@ -48,9 +48,14 @@ bd.visa.com
 bm.visa.com
 bq.visa.com
 cw.visa.com
+developer.authorize.net
+developer.cybersource.com
+developer.visa.com
+ebctest.cybersource.com
 ht.visa.com
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
+sandbox.authorize.net
 sandbox.secure.checkout.visa.com
 usa.visa.com
 visa.co.cr
@@ -242,26 +247,19 @@ www.pornworld.com
 https://github.com/tronprotocol/java-tron
 ro.superbet.games
 ro.superbet.sport
-1431768824
 563291345
 965180355
-api.avtoelon.uz
 api.kolesa.kz
 api.krisha.kz
-app.avtoelon.uz
 app.kolesa.kz
 app.krisha.kz
-avtoelon.uz
-id.avtoelon.uz
 id.kolesa.kz
 kolesa.kz
 krisha.kz
 kz.kolesa
 kz.krisha
-m.avtoelon.uz
 m.kolesa.kz
 m.krisha.kz
-uz.avtoelon
 com.boozt
 com.boozt.app
 com.boozt.booztlet
@@ -887,6 +885,7 @@ www20.watsons.co.th
 835599320
 academy-outbound-ads.tiktok.com
 ads.tiktok.com
+affiliate-id.tokopedia.com
 business.tiktok.com
 careers.tiktok.com
 com.ss.android.ugc.now
@@ -901,6 +900,9 @@ effecthouse.tiktok.com
 fp-sg.tiktokv.com
 live-backstage.tiktok.com
 partner.tiktokshop.com
+pay.tokopediax.com
+seller-id.tokopedia.com
+shop-id.tokopedia.com
 shop.tiktok.com
 tiktok.com
 www.pangleglobal.com
@@ -1049,6 +1051,7 @@ track.amazon.com
 updates.amazon.com
 www.amazon.*
 3d.cs.money
+blog.cs.money
 cs.money
 support.cs.money
 wiki.cs.money
@@ -1258,7 +1261,7 @@ accounts.evernote.com
 accounts.stage.evernote.com
 api.evernote.com
 api.stage.evernote.com
-com.evernote.android
+com.evernote
 www.evernote.com
 https://filezilla-project.org/download.php?type=server&show_all=1
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/
@@ -1482,6 +1485,7 @@ Windows Executable
 com.linecorp.linelite
 http://recruit.linepluscorp.com
 jp.naver.line.android
+Other Assets
 1452166623
 Mac OS Executable: Download here https://www.larksuite.com/download
 Windows OS Executable: Download here https://www.larksuite.com/download
@@ -1523,8 +1527,30 @@ university-staging.dynatracelabs.com
 eu.remix.com
 global-api.citymapper.com
 platform.remix.com
-remix.com
 via.rider
+MIUI OS for Xiaomi Phone
+Mi Band
+Mi Electric Scooter 
+Mi Home Webcam 
+Mi Laser Projector
+Mi Robot Vacuum
+Mi TV 
+Mi TV Box
+Mi/Redmi Phone
+Other APK Assets
+Other Hardware Assets
+com.android.browser
+com.mi.global.shop
+com.miui.cloudbackup
+com.miui.cloudservice
+com.miui.micloudsync
+com.xiaomi.account
+com.xiaomi.market
+com.xiaomi.mibrain.speech
+com.xiaomi.micloud.sdk
+com.xiaomi.mipicks
+com.xiaomi.payment
+com.xiaomi.smarthome
 Coda Chrome Extension
 codacontent.io
 codahosted.io
@@ -1703,7 +1729,6 @@ b2b.tvgnetwork.com
 com.fanduel.android.live
 com.fanduel.android.self
 fanduel.com
-fanduel.design
 fdbox.net
 ia.tvg.com
 login-4ngbets.us.betfair.com
@@ -2003,12 +2028,11 @@ https://github.com/smartcontractkit/chainlink/tree/master/contracts
 https://github.com/smartcontractkit/external-adapters-js/
 https://github.com/smartcontractkit/staking-v0.1/tree/master/contracts
 351727428
+Braintree SDK
+PayPal SDK
 api.loanbuilder.com
 api.swiftfinancial.com
 com.paypal.android.p2pmobile
-com.paypal.here
-com.paypal.here
-com.paypal.herehd
 com.paypal.merchant
 com.paypal.merchant.client
 com.venmo
@@ -2016,7 +2040,6 @@ com.xoom.android.app
 com.xoom.app
 com.yourcompany.PPClient
 decision.swiftfinancial.com
-https://github.com/paypal/react-paypal-js
 loanbuilder.com
 my.loanbuilder.com
 my.swiftfinancial.com
@@ -2026,6 +2049,7 @@ paypalobjects.com
 pigeon.swiftfinancial.com
 prequal.swiftfinancial.com
 py.pl
+sandbox.braintreegateway.com
 scrutiny.swiftfinancial.com
 swiftcapital.com
 swiftfinancial.com
@@ -2071,7 +2095,9 @@ ibc-go
 com.affirm.central.audit
 com.affirm.internal.hackerone
 sandbox.affirm.com
+Crypto.com Exchange APIs that require an account
 Crypto.com Wallet Extension
+Crypto.com mobile app APIs that require an account
 app.mona.co
 auth.crypto.com
 co.mona.android
@@ -2135,6 +2161,7 @@ demo.cloud.databricks.com
 docs.databricks.com
 help.databricks.com
 https://community.cloud.databricks.com/
+https://dbc-9a3f8ed1-7608.cloud.databricks.com
 https://dbc-a1ba5468-749b.staging.cloud.databricks.com/
 kb.databricks.com
 labs.databricks.com
@@ -2297,6 +2324,7 @@ www.malwarebytes.com
 AppActions
 Browser Extensions
 Capture the Flag
+Grammarly Assistant
 Grammarly Desktop for Windows
 Grammarly Desktop for macOS
 Grammarly for Microsoft Word
@@ -2359,6 +2387,13 @@ mus1.badoo.com
 translate.badoo.com
 us1.badoo.com
 www.bumble.com
+api.omise.co
+dashboard.omise.co
+github.com
+offsite.omise.co
+vault.omise.co
+www.omise.co
+www.opn.ooo
 Anchor
 Android SDK
 Backstage source code
@@ -2416,6 +2451,7 @@ api.fi.dyson.com
 com.dyson.mobile.android
 shop.dyson.co.za
 shop.dyson.ru
+shop.dyson.tw
 www.dyson.ae
 www.dyson.at
 www.dyson.be
@@ -2450,6 +2486,7 @@ www.dyson.no
 www.dyson.pl
 www.dyson.pt
 www.dyson.se
+www.dyson.tw
 www.dyson.vn
 www.dysoncanada.ca
 www.fi.dyson.com
@@ -2813,7 +2850,6 @@ verovelvollisuustiedot.lahitapiola.fi
 www.lahitapiola.fi
 www.tapiola.fi
 yrityspalvelu.tapiola.fi
-hackerone-m1rtuq8orz.hbstaging.website
 https://github.com/mainwp/mainwp
 https://github.com/mainwp/mainwp-child
 434613896
@@ -2867,6 +2903,7 @@ werkenbijderet.nl
 werkenbijdnb.nl
 wp-mail.nl
 www.werkenbijbakertilly.nl
+dashboard.algolia.com
 www.algolia.com
 1142114207
 1257641454
@@ -2889,6 +2926,10 @@ ovo.id
 p.grabtaxi.com
 wiki.grab.com
 xtramile.grabpay.com
+com.moneybird.Moneybird
+com.moneybird.android
+moneybird.com
+moneybirdstorage.com
 SSO_Saml_connector
 Standalone Chrome extension
 api.dashlane.com
@@ -3317,8 +3358,6 @@ ide.x.ai
 t.co
 x.com
 xadsacademy.com
-GitHub repositories
-WordPress.org plugins
 1.1.1.1 Resolver
 AI Gateway
 AMP Real URL

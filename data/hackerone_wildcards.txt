@@ -172,6 +172,11 @@ vcc-*.8x8.com
 *.linecorp.com
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
+*.mi.com
+*.miui.com
+*.miwifi.com
+*.xiaomi.com
+*.xiaomiyoupin.com
 *.coda.io/*
 *.reddit.com
 *.redditblog.com
@@ -402,6 +407,14 @@ www.paypal-*.com
 *.deliveroo-data.net
 *.deliveroo-streams.net
 *.deliveroo.*
+*.atspotify.com
+*.avecspotify.com
+*.byspotify.com
+*.enspotify.com
+*.forspotify.com
+*.fromspotify.com
+*.tospotify.com
+*.withspotify.com
 *.guilded.gg
 *.ra.roblox.com
 *.rbx.com

@@ -36,6 +36,7 @@
 *.adultforce.com
 *.adultforce.com 
 *.advisorsolutions.gs.com
+*.afterpay.com
 *.aips-internal.com
 *.airbnb-aws.com
 *.airbnb.com
@@ -104,12 +105,14 @@
 *.atairbnb.com
 *.atg.se
 *.atlastunnel.com
+*.atspotify.com
 *.audicagame.com
 *.autodiscover.americansystems.com
 *.avalabs.org
 *.avax-dev.network
 *.avax-test.network
 *.avax.network
+*.avecspotify.com
 *.ayco.com
 *.backblazeb2.com
 *.base.org
@@ -167,6 +170,7 @@
 *.bugcrowd.com/auth/*
 *.byairbnb.com
 *.bybit.com
+*.byspotify.com
 *.c-point.be
 *.canada.fanduel.com
 *.canva-apps.cn
@@ -257,6 +261,7 @@
 *.dex-trade.com
 *.dh-commerce.com 
 *.dibz.co.uk
+*.digitalocean.com
 *.dm.gg
 *.dmcdn.net
 *.dns.eu
@@ -277,6 +282,13 @@
 *.elastic.co
 *.elasticnet.co
 *.elstc.co
+*.emakina.ch
+*.emakina.com
+*.emakina.fr
+*.emakina.group
+*.emakina.nl 
+*.emakina.us
+*.enspotify.com
 *.eops.nl
 *.epam.com
 *.epicgames.com
@@ -311,8 +323,10 @@
 *.folioidentity.com
 *.folioinstitutional.com
 *.folioinvesting.com
+*.forspotify.com
 *.fortnite.com
 *.found.io
+*.fromspotify.com
 *.gamma.be/*
 *.gamma.nl/*
 *.gethypr.com
@@ -334,7 +348,6 @@
 *.goldman.com
 *.goldmanpfm.com
 *.goldmansachs.com
-*.goparrot.ai
 *.goteleport.com
 *.gotinder.com
 *.grab-sure.com
@@ -503,7 +516,6 @@
 *.luckydays.com
 *.lucra.live
 *.lukwerks.com
-*.lululemon.com
 *.luxuryretreats.com
 *.lyncdiscover.americansystems.com
 *.lyst.co
@@ -536,6 +548,9 @@
 *.metrobyt-mobile.com
 *.mevo.com
 *.mgmt.fndlsb.net
+*.mi.com
+*.miui.com
+*.miwifi.com
 *.mixamo.com
 *.mjrtheatres.com
 *.mmcdn.com
@@ -703,7 +718,6 @@
 *.rockstargames.com
 *.romwe.com
 *.router.hereapi.com
-*.rtcdn.caffeine.tv
 *.rukkaz.com
 *.runnr.in
 *.s-cloud.net
@@ -848,6 +862,7 @@
 *.tomorrowland.com
 *.ton.diamonds
 *.toolsforhumanity.com
+*.tospotify.com
 *.touchtechpayments.com
 *.tr.ee
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
@@ -925,6 +940,7 @@
 *.wise.com
 *.withairbnb.com
 *.withbuddies.com
+*.withspotify.com
 *.wlo.link
 *.wordcamp.org
 *.wordpress.net
@@ -937,6 +953,8 @@
 *.xfinity.com	
 *.xfinityhome.com
 *.xfiplatform.com
+*.xiaomi.com
+*.xiaomiyoupin.com
 *.xoom.com
 *.xvservice.net
 *.xvtest.net

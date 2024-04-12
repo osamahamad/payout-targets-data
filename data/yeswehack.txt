@@ -31,6 +31,10 @@ https://daily.blablacar.fr
 https://blablacardaily.com
 https://play.google.com/store/apps/details?id=com.blablalines
 https://apps.apple.com/fr/app/blablalines-covoiturage/id1225543288
+https://www.sncf-connect.com
+https://sncf-connect.com
+https//monidentifiant.sncf
+https://www.sncf-connect.com/bff
 https://mobile-production.content-square.net/
 https://m.csqtrk.net
 https://s.contentsquare.net
@@ -38,7 +42,7 @@ Contentsquare SDK (cf : Program Description)
 https://bounty.cryptobox.com
 https://bounty.cryptobox.com
 https://bounty.cryptobox.com
-https://pprd2020.cybermalveillance.gouv.fr
+https://pprd.cybermalveillance.gouv.fr
 https://play.google.com/store/apps/details?id=id.dana&hl=en
 https://apps.apple.com/id/app/dana/id1437123008
 https://appgallery.huawei.com/#/app/C100570215
@@ -101,6 +105,8 @@ Special scenarios (see description)
 https://apps.apple.com/fr/app/doctolib/id925339063
 http://play.google.com/store/apps/details?id=fr.doctolib.www
 Dovecot IMAP Server and Pigeonhole SIEVE (see "Software packages" and "Source code")
+https://saas.egerie.eu/*
+https://saas.egerie.eu/v4/EgerieRM/api/*
 Hardware found on https://www.ezviz.com/category/security-wifi-cameras
 Hardware found on https://www.ezviz.com/category/smart-home
 i.ys7.com
@@ -300,6 +306,27 @@ edu.qwantjunior.com
 https://my.salt.ch
 https://eshop.salt.ch
 https://login.salt.ch
+buffered-reader
+nettle-sys
+nettle-rs
+SHA1-CD
+sequoia-openpgp
+sequoia-autocrypt
+sequoia-ipc
+sequoia-net
+Shared OpenPGP Certificate Directory
+sequoia-cert-store
+sequoia-wot
+sequoia-policy-config
+rpm-sequoia
+sqv
+sq
+sqop
+octopus
+sequoia-git
+OpenPGP Cert Directory Specification
+Web of Trust Specification
+Sequoia git Specification
 https://my.sogexia.com
 https://play.google.com/store/apps/details?id=io.gonative.android.xjndrq&hl=fr
 itmss://apps.apple.com/us/app/id1510360750?ign-mscache=1
@@ -411,5 +438,22 @@ https://github.com/owncloud/updater
 https://github.com/owncloud/core/tree/master/apps/files
 https://github.com/owncloud/android
 https://github.com/owncloud/ios-app
+systemd (the manager itself)
+systemd-boot
+systemd-stub
+systemd-udev
+systemd-journald
+systemd-logind
+systemd-networkd
+libsystemd
+systemd-timesyncd
+systemd-hostnamed
+systemd-resolved
+systemd-cryptenroll
+systemd-cryptsetup
+systemd-veritysetup
+systemd-fstab-generator
+systemd-gpt-auto-generator
+systemd-ask-password
 https://toom.de
 https://api.toom.de

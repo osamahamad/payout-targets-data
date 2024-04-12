@@ -1,5 +1,6 @@
 *.acorns.com
 *.acorns.com
+*.afterpay.com
 portalapi.*.afterpay.com
 *.alex-as.com
 *.alexamerican.com
@@ -37,7 +38,6 @@ Backblaze Website (*.backblaze.com)
 *.bitdefender.net
 *.bitstamp.net - Bitstamp Supporting Services
 *.bugcrowd.com/auth/*
-*.rtcdn.caffeine.tv
 *.canva-apps.cn
 *.canva-apps.com
 *.canva.cn
@@ -68,6 +68,12 @@ Backblaze Website (*.backblaze.com)
 *.hellofax.com
 *.hellosign.com
 *.helloworks.com
+*.emakina.ch
+*.emakina.com
+*.emakina.fr
+*.emakina.group
+*.emakina.nl 
+*.emakina.us
 *.epam.com
 *.lab.epam.com
 *.opensource.epam.com
@@ -148,7 +154,6 @@ Internal Web services - *.internal.exoscale.ch
 *.song.link
 *.songlink.io
 *.tr.ee
-*.lululemon.com
 *.bbp-mettle.co.uk
 *.nflxext.com
 *.nflximg.net
@@ -227,7 +232,6 @@ prod-*.nubank.com.br
 *.soundcloud.com
 *.soundcloud.org
 api-*.soundcloud.com
-*.goparrot.ai
 *.square.com
 *.squareup.com
 *.statuspage.io
