@@ -516,6 +516,7 @@
 *.kortathjonustan.is
 *.krisp.ai
 *.kucoin.com
+*.kwsdose.be
 *.lab.epam.com
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -689,6 +690,7 @@
 *.platformservices.io
 *.playlist.link
 *.playstation.net
+*.playuzleuven.be
 *.pods.link
 *.popjam.com
 *.ppbdev.com
@@ -933,6 +935,7 @@
 *.unrealtournament.com
 *.unscreen.com
 *.uphold.com
+*.uzleuven.*
 *.vacationhomerentals.com
 *.venmo.com
 *.vennhypotheken.nl
@@ -1057,6 +1060,7 @@
 1298908406
 1324809509
 1337574835
+134.58.179.102-103
 134.58.179.82
 1343620481
 1395921017
@@ -3295,6 +3299,7 @@ auth4-noneu.truecaller.com
 authn.usaa.com
 authz.workbox.dk
 autocomplete.booking.com
+autodiscover.uzleuven.be
 autointerface.stag.visma.net
 autoupdate.geo.opera.com
 autoupdateapi.lansweeper.com
@@ -4003,6 +4008,8 @@ distribution-xml.booking.com
 dl.clario.co
 dmxleo.com
 dna.amazon.com
+dns1.uzleuven.be
+dns2.uzleuven.be
 do.co
 doaction.org
 docs.bugcrowd.com
@@ -4047,6 +4054,7 @@ eaccountingprinting.stage.vismaonline.com
 eassessment.monash.edu
 ebctest.cybersource.com
 ebsext.oft.hyatt.com
+ecrf.uzleuven.be
 edex.adobe.com
 edge-locations5.truecaller.com
 edge.lansweeper.com
@@ -4130,7 +4138,9 @@ external-api.lime.bike
 external.indrive.dev
 external.logitech.com
 externalconnect.usaa.com
+extranet-asa.uzleuven.be
 extranet.s-pankki.fi
+extranet.uzleuven.be
 extras-acc.landmarkcinemas.com
 extras.landmarkcinemas.com
 falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com
@@ -7132,6 +7142,8 @@ lifeinvader.com
 lightroom.adobe.com
 linkpop.com
 links.rarible.com
+liquidfiles.uzleuven.be
+liquidfilestest.uzleuven.be
 lirportal.ripe.net
 lisasijoitus.lahitapiola.fi
 list-v2--netlify-plugins.netlify.app
@@ -7352,6 +7364,8 @@ music-xray-service.amazon.com
 music.amazon.com
 musicapp.amazon.com
 musiccentral.amazon.com
+mx1.uzleuven.be
+mx2.uzleuven.be
 my-accpt.portofantwerp.com
 my-accpt.portofantwerpbruges.com
 my.account.sony.com
@@ -7610,6 +7624,7 @@ paypal.me
 paypalobjects.com
 payroll.razorpay.com
 pb.deribit.com
+pcrstudioruzb.uzleuven.be
 peopleview.naspers.com
 phabricator.allizom.org
 phone-gateway-eu.truecaller.com
@@ -7663,6 +7678,7 @@ portfolio.metamask.io
 portswigger.net
 practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
+prddsplunkhf.uzleuven.be
 premium-eu.truecaller.com
 premium-noneu.truecaller.com
 preprod.am.monespacesante.fr
@@ -7746,6 +7762,7 @@ qatest.nl
 qwantjunior.com
 r.etoro.com
 rabbitinstruction-na.amazon.com
+random.uzleuven.be/random/
 rankings.etoro.com
 rari.foundation
 rarible.com
@@ -8049,6 +8066,7 @@ streaming.iris.production.forescoutcloud.net
 streams.etoro.com
 sts.delen.be
 sts.etoro.com
+sts.uzleuven.be
 stubru.be/luister/select
 studentplacements.monash.edu
 studio-api.swapcard.com
@@ -8136,6 +8154,7 @@ testapi.redoxengine.com
 testapp.redoxengine.com
 testing.maventa.com
 testnet.bitmex.com
+teststs.uzleuven.be
 textexplore.tari.com
 theblog.adobe.com
 therapeutics.23andme.com
@@ -8235,6 +8254,7 @@ userprofile-ui.landmarkcinemas.com
 users-api.truelayer.com
 utv.usaa.com
 uwa.mobilevikings.be
+uzlcm12cmg1.uzleuven.be
 v.utv.usaa.com
 v3.polo-static.com
 vacations.grandclass.grandvelas.com
@@ -8291,6 +8311,7 @@ vrt.be/vrtnws
 vrtnws-api.vrt.be
 vtm.be/vtmgo
 vtmgo.be
+w1.uzleuven.be
 waf.cumulusfire.net
 wallet-sandbox.uphold.com
 wallet.etoro.com
@@ -8746,6 +8767,7 @@ www.upwork.com/api
 www.urbanclap.com
 www.urbancompany.com
 www.usa.gov
+www.uzleuven.be
 www.valvesoftware.com
 www.vascoworldwide.net
 www.vendhq.com
