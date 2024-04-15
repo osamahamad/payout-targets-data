@@ -1034,7 +1034,6 @@
 1032480595
 1064216828
 107.167.96.0/19
-1074833098
 1076840480
 1079537578
 1080248000
@@ -1120,7 +1119,6 @@
 284910350
 284971959
 288429040
-294855237
 297606951
 3.0 API
 3.30.140.112
@@ -2157,6 +2155,7 @@ Microsoft Teams for Jira - DataCenter - https://marketplace.atlassian.com/apps/1
 Microsoft Teams for Jira - Server - https://marketplace.atlassian.com/apps/1217836/microsoft-teams-for-jira?hosting=server
 Miro SDK
 Mobile App
+Mobile Apps
 Mobile Apps	iOS and Android
 Mobile Connect Plugin for Jira - Server - https://marketplace.atlassian.com/apps/322837/mobile-connect-plugin-for-jira?hosting=server
 Mobile Plugin for Jira - DataCenter - https://marketplace.atlassian.com/apps/1220151/mobile-plugin-for-jira-data-center-and-server?hosting=datacenter
@@ -3467,8 +3466,6 @@ cdnst.mafretailproxy.com
 cds.vrt.radio
 cfapi.voikukka.fi
 cfc.naspers.com
-ch.sbb.mobile.android.b2c
-ch.sbb.mobile.android.preview
 chain.link
 chainstack.com
 channelstore.roku.com/details/48061/vhx
