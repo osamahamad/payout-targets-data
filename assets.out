@@ -517,6 +517,7 @@
 *.kortathjonustan.is
 *.krisp.ai
 *.kucoin.com
+*.kwsdose.be
 *.lab.epam.com
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
@@ -690,6 +691,7 @@
 *.platformservices.io
 *.playlist.link
 *.playstation.net
+*.playuzleuven.be
 *.pods.link
 *.popjam.com
 *.ppbdev.com
@@ -934,6 +936,7 @@
 *.unrealtournament.com
 *.unscreen.com
 *.uphold.com
+*.uzleuven.*
 *.vacationhomerentals.com
 *.venmo.com
 *.vennhypotheken.nl
@@ -1061,6 +1064,7 @@
 1298908406
 1324809509
 1337574835
+134.58.179.102-103
 134.58.179.82
 1343620481
 1395921017
@@ -2809,11 +2813,9 @@ a1ttqkupgmaxeg-ats.iot.us-east-1.amazonaws.com
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 a4k.amazon.com
 a5s.hackerone-ext-content.com
-aax-us-iad.amazon.com
 ab-platform-api.eu-east-1.indriverapp.com
 ab2b0c50cdc7b445391f99d4957850c5-cd4ccfdb37dfafad.elb.us-east-1.amazonaws.com
 about.gitlab.com
-aca-livecards-service.amazon.com
 academy-outbound-ads.tiktok.com
 academy.databricks.com
 access.ripe.net
@@ -2856,7 +2858,6 @@ activate.codefi.network
 activities.marriott.com
 adblocking.clario.co
 addons.allizom.org
-address-photos.amazon.com
 adhoc-bugcrowd-studio.cdn-code.org
 adhoc-bugcrowd.cdn-code.org
 adm.cloud.com
@@ -2888,19 +2889,15 @@ ads-partner-noneu.truecaller.com
 ads-rules-asia-south1.truecaller.com
 ads-rules-noneu.truecaller.com
 ads-segment-profile-eu.truecaller.com
-ads-setu-proxy.amazon.com
 ads.reddit.com
 ads.snapchat.com
 ads.tiktok.com
 ads5-asia-south1.truecaller.com
-advertising-api.amazon.com
-advertising.amazon.com
 advisories.gitlab.com
 advocates.databricks.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
 aemdam.usaa360.com
 affiliate-id.tokopedia.com
-affiliate-program.amazon.com
 agents.tasheer.com
 aggregator.etoro.com
 ai-testing.maventa.com
@@ -2914,7 +2911,6 @@ akismet.com
 alchemy.veriff.com
 alert.logitech.com
 alertmanager.fr.cloud.gov
-alexa-comms-mobile-service-na.amazon.com
 alexa.amazon.com
 alexaanswers.amazon.com
 all-inclusive.marriott.com
@@ -2932,7 +2928,6 @@ analytics.pinelabs.com
 analytics.prosus.com
 anytask.thesecurityteam.rocks
 ap-s.cloud.com
-apay-us.amazon.com
 api*.netflix.com
 api-*.soundcloud.com
 api-a.usaa.com
@@ -2956,7 +2951,6 @@ api.adm.cloud.com
 api.airbnb.com
 api.aiven.io
 api.alasco.de
-api.amazon.com
 api.amazonalexa.com/*
 api.anytask.thesecurityteam.rocks
 api.arkane.network
@@ -3243,7 +3237,6 @@ apps.nextcloud.com
 apps.portofantwerp.com
 apps.portofantwerpbruges.com
 apps.zendesk.com
-appstore-tv-prod-na.amazon.com
 aqtooling.com
 aquiris.com.br
 aquiris.studio
@@ -3301,10 +3294,10 @@ auth4-noneu.truecaller.com
 authn.usaa.com
 authz.workbox.dk
 autocomplete.booking.com
+autodiscover.uzleuven.be
 autointerface.stag.visma.net
 autoupdate.geo.opera.com
 autoupdateapi.lansweeper.com
-av-na.amazon.com
 aw.visa.com
 aweb.suivo.com
 aws.indrive.tech
@@ -3471,7 +3464,6 @@ channelstore.roku.com/details/48061/vhx
 charts.etoro.com
 chat-api.swapcard.com/graphql
 chat-crm.clario.co
-chat.amazon.com
 chat.booking.com
 chat.clario.co
 chatdate.app
@@ -3505,7 +3497,6 @@ cloud.malwarebytes.com
 cloud.update.justeattakeaway.com
 cloud.update.takeaway.com
 cloud8.8x8.com
-cloudaccesstelemetry-us-east-1.amazon.com
 cloudflareworkers.com
 cm.com/[locale]/app/*
 cm.com/[locale]/register
@@ -3840,7 +3831,6 @@ community.ui.com
 company-profile-asia-south1.truecaller.com
 company-profile-eu.truecaller.com
 company-profile-noneu.truecaller.com
-completion.amazon.com
 components.frame.io
 components.stag.tomorrowland.com
 components.tomorrowland.com
@@ -3900,7 +3890,6 @@ cruises.priceline.com
 cryptology.com
 cryptowallet.opera-api.com
 cs.money
-cscentral.amazon.com
 csp-pci.prod.codebig2.net
 css-tricks.com
 ct.ninjakiwi.com
@@ -3936,7 +3925,6 @@ dashboard.pluralonline.com
 dashboard.rapyd.net
 dashboard.razorpay.com
 dashboard.unity3d.com
-data-na.amazon.com
 data.ketnet.be
 data.mail.yahoo.com
 data.ninjakiwi.com
@@ -3954,7 +3942,6 @@ datapod-2-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-2-query.acceptance.forescoutcloud.net
 dataportal.originenergy.com.au
-dcape-na.amazon.com
 dcfgateway*.marriott.com
 dcs.clario.co
 de.bmw.connected.mobile20.row
@@ -4007,7 +3994,8 @@ direct.playstation.com
 distribution-xml.booking.com
 dl.clario.co
 dmxleo.com
-dna.amazon.com
+dns1.uzleuven.be
+dns2.uzleuven.be
 do.co
 doaction.org
 docs.bugcrowd.com
@@ -4025,7 +4013,6 @@ docs.sentiance.com
 documentcloud.adobe.com
 documents.adobe.com
 dointernal.com
-dolphin.amazon.com
 donate.mastercard.com
 donations.livestream.com
 dookeydash.com
@@ -4036,14 +4023,12 @@ download.nextcloud.com
 download.opera.com
 downloads.datastax.com
 drone.vidaxl.io
-dss-na.amazon.com
 duo-eu.truecaller.com
 duo-invite-eu.truecaller.com
 duo-invite-noneu.truecaller.com
 duo-invite.truecaller.com
 duo-noneu.truecaller.com
 duo.truecaller.com
-dv-manifest-service-na-prod.amazon.com
 e-Commerce
 eIDAS Bridge  (see program description for github link)
 eaccounting.stage.vismaonline.com
@@ -4051,6 +4036,7 @@ eaccountingprinting.stage.vismaonline.com
 eassessment.monash.edu
 ebctest.cybersource.com
 ebsext.oft.hyatt.com
+ecrf.uzleuven.be
 edex.adobe.com
 edge-locations5.truecaller.com
 edge.lansweeper.com
@@ -4134,7 +4120,9 @@ external-api.lime.bike
 external.indrive.dev
 external.logitech.com
 externalconnect.usaa.com
+extranet-asa.uzleuven.be
 extranet.s-pankki.fi
+extranet.uzleuven.be
 extras-acc.landmarkcinemas.com
 extras.landmarkcinemas.com
 falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com
@@ -4164,8 +4152,6 @@ filter-store4.truecaller.com
 firefly.adobe.com
 firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
-flex-capacity-na.amazon.com
-flex.amazon.*
 flights.booking.com
 flo.uri.sh
 flourish-user-preview.com
@@ -4192,13 +4178,7 @@ foxycart-demo.foxycart.com
 fp-sg.tiktokv.com
 fps-extr-services.vidaxl.org
 fr.vidaxl.ch
-freight.amazon.*
-fresh.amazon.*
 fs.rarible.com
-ftvmps-na.amazon.com
-ftvpes-na.amazon.com
-ftvr-na.amazon.com
-ftvsacs-na.amazon.com
 fv3lfbdyjh.infomaniak.site
 fw-update.ubnt.com
 gaming.logicool.co.jp
@@ -4206,7 +4186,6 @@ gamma.grab.co
 gamma.redoxstage.com
 gate.io
 gateway*.marriott.com
-gateway-ink.amazon.com
 gateway.reddit.com
 gateway.skyscanner.net/*
 geckoterminal.com
@@ -4393,7 +4372,6 @@ http://vimeo.com/api
 http://vimeo.com/create
 http://vimeo.com/ondemand
 http://wallets.opensea.io/
-http://www.amazon.com/cpe/yourpayments/wallet
 http://www.kiwi.com/stories
 http://www.logitech.com/my-account
 http://www.myvisacardportal.com/welcome/enbd/product/#
@@ -6662,9 +6640,6 @@ https://www.aex.com
 https://www.aex.com/page/doc/zh/guide/guide.html
 https://www.airpuff.io/
 https://www.allsaints.me/
-https://www.amazon.com/amazoncash
-https://www.amazon.com/dppui/*
-https://www.amazon.com/gp/buy/*
 https://www.amazon.com/luna/*
 https://www.ankermake.com/products/m5?variant=42744298373269
 https://www.anytask.com/
@@ -7010,7 +6985,6 @@ ifttt-adaptor.pub.kube.dm.gg
 images-asia-south1.truecaller.com
 images.truecaller.com
 imagine.magento.com
-imdbtv-backend-na.amazon.com
 img.swapcard.com
 imove.bpost.cloud
 inapp.clario.co
@@ -7090,7 +7064,6 @@ kassa.gamma.nl/*
 kassa.karwei.nl/*
 kb.databricks.com
 kbill.mackeeper.com
-kca.amazon.com
 kinepolis-studio.be
 kinepolis.megatix.be
 kinepolis/id368204284
@@ -7107,7 +7080,6 @@ krisp.ai
 kubernetes-csi.github.io
 kubernetes.io
 kuna.io
-kwis-opf.amazon.com
 kws-companion/id1342124012
 kyc-onboarding.booking.com
 kyc-src.etoro.com
@@ -7142,6 +7114,8 @@ lifeinvader.com
 lightroom.adobe.com
 linkpop.com
 links.rarible.com
+liquidfiles.uzleuven.be
+liquidfilestest.uzleuven.be
 lirportal.ripe.net
 lisasijoitus.lahitapiola.fi
 list-v2--netlify-plugins.netlify.app
@@ -7190,7 +7164,6 @@ login.tvg.com
 login.venly.io
 login.vrt.be
 login.www.vaxvacationaccess.com
-logistics.amazon.*
 logitech.zendesk.com
 logitechg.com.cn
 logitechgchallenge.com
@@ -7219,7 +7192,6 @@ m.reddit.com
 m.trendyol.com
 macOS app
 mackeeper.com
-mag-na.amazon.com
 magazine.ketnet.be
 magento.com
 magentocommerce.com
@@ -7239,8 +7211,6 @@ manage.blockscore.com
 manage.grab.co
 manage.statuspage.io
 manager.infomaniak.com/v3/*
-manufacturing.amazon.*
-manufacturing.amazon.com
 map.snapchat.com
 mapi-a.usaa.com
 mapi.moneyback.com.hk
@@ -7259,8 +7229,6 @@ marlo.ext.tripadvisor.com
 marquee.gs.com
 marriottfranchisetransactions.marriott.com
 marrtool.com
-mas-ext.amazon.com
-mas-sdk.amazon.com
 masq-ws.qwant.com
 masq.qwant.com
 matomo.cloud
@@ -7281,7 +7249,6 @@ meetings.hyatt.com
 meetiobook.com
 meraki.cisco.com
 mercantile.wordpress.org
-merch.amazon.com
 merchandise.opera-api.com
 merchant.crypto.com
 merino.services.mozilla.com
@@ -7322,7 +7289,6 @@ mix-dev.monash.edu/*
 mix-qat.monash.edu/*
 mix.monash.edu/*
 mkapi.mackeeper.com
-mlis.amazon.com
 mlivetickets.monash.edu
 mobile-prod.tvg.com
 mobile.monash
@@ -7349,17 +7315,12 @@ moonpay.com
 movieapi.kinepolis.megatix.be
 mozilla-pontoon-staging.herokuapp.com
 msg.playcanvas.com
-msh.amazon.com
 mstatic.usaa.com
 mta-sts.wearehackerone.com
 munin-*.wordpress.org
 mus1.badoo.com
-music-api.amazon.com
-music-hints-na.amazon.com
-music-xray-service.amazon.com
-music.amazon.com
-musicapp.amazon.com
-musiccentral.amazon.com
+mx1.uzleuven.be
+mx2.uzleuven.be
 my-accpt.portofantwerp.com
 my-accpt.portofantwerpbruges.com
 my.account.sony.com
@@ -7397,7 +7358,6 @@ mynk.ninjakiwi.com
 myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
 myvpn.usaa.com
-na.account.amazon.com
 naspers.com
 nationalidverification-noneu.truecaller.com
 nav.naspers.com
@@ -7546,7 +7506,6 @@ opsgenie-bamboo-plugin - Server - https://marketplace.atlassian.com/apps/1224300
 opslogin.fr.cloud.gov
 opt-out-noneu.truecaller.com
 orc-xfi.com
-org.amazon.*
 org.malwarebytes.antimalware
 org.piwik.mobile2
 org.qwant.com
@@ -7564,7 +7523,6 @@ outline-noneu.truecaller.com
 ovo.id
 p.grabtaxi.com
 pabets.tvg.com
-paragon-na.amazon.com
 partner-account-asia-south1.truecaller.com
 partner-account-eu.truecaller.com
 partner-account-noneu.truecaller.com
@@ -7591,7 +7549,6 @@ passwordchallenge.marriott.com
 pay-api.truelayer[-sandbox].com
 pay-sandbox.gocardless.com
 pay.8x8.com
-pay.amazon.*
 pay.crypto.com
 pay.ibex.exchange
 pay.tokopediax.com
@@ -7604,7 +7561,6 @@ payment.deezer.com
 payment.pixiv.net
 payment.truelayer[-sandbox].com
 paymentcomponent.booking.com
-payments.amazon.*
 payments.hostinger.com
 paynotifications.booking.com
 payoneer.com.cn
@@ -7613,6 +7569,7 @@ paypal.me
 paypalobjects.com
 payroll.razorpay.com
 pb.deribit.com
+pcrstudioruzb.uzleuven.be
 peopleview.naspers.com
 phabricator.allizom.org
 phone-gateway-eu.truecaller.com
@@ -7620,11 +7577,9 @@ phone-gateway-noneu.truecaller.com
 phone-validation.taxi.booking.com
 phonebook5-asia-south1.truecaller.com
 phonebook5.truecaller.com
-photos.amazon.*
 photoshop.com
 piaservers.com
 pigeon.swiftfinancial.com
-pitangui.amazon.com
 piuk.blockchain.android
 pixel-noneu.truecaller.com
 pixel.truecaller.com
@@ -7666,6 +7621,7 @@ portfolio.metamask.io
 portswigger.net
 practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
+prddsplunkhf.uzleuven.be
 premium-eu.truecaller.com
 premium-noneu.truecaller.com
 preprod.am.monespacesante.fr
@@ -7683,11 +7639,8 @@ presence-grpc-noneu.truecaller.com
 presence-grpc.truecaller.com
 presentationtracking.netflix.com
 press.priceline.com
-preview-flex-capacity-na.amazon.com
 priceline.com
-prime.amazon.*
 prime.coinbase.com
-primenow.amazon.*
 priority.eu-east-1.indriverapp.com
 prisma-ai.com
 prismalabsteam.com
@@ -7703,7 +7656,6 @@ pro.opensea.io
 prod-*.nu.com.co
 prod-*.nu.com.mx
 prod-*.nubank.com.br
-prod-dp-discovery-us-east-1.amazon.com
 prod.ros.rockstargames.com
 proddata.xobni.yahoo.com
 production.plaid.com
@@ -7747,7 +7699,7 @@ qa.vidaxl.io
 qa1-apigateway.vidaxl.io
 qwantjunior.com
 r.etoro.com
-rabbitinstruction-na.amazon.com
+random.uzleuven.be/random/
 rankings.etoro.com
 rari.foundation
 rarible.com
@@ -7763,7 +7715,6 @@ registre.notebleue.pro
 registry.gitlab.com
 rei.com
 relaxcdn.unibet.com
-relay.amazon.com
 relay.firefox.com
 relay.playcanvas.com
 remitly.com
@@ -7874,7 +7825,6 @@ securitytrails.com
 select.logitech.com
 selector.viator.com
 seller-id.tokopedia.com
-sellercentral.amazon.com
 senior-bff.ketnet.be
 sensei.pixiv.net
 sequoia-autocrypt
@@ -7929,7 +7879,6 @@ shop.tiktok.com
 shop.trouw.nl
 shop.volkskrant.nl
 shop.wyndhamvacationownership.trisept.travel
-shopbylook.amazon.*
 shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
@@ -7952,7 +7901,6 @@ slackatwork.com
 slackb.com
 smartinet.xfinity.com
 smarttrader.deriv.com
-smile.amazon.*
 smooch.io
 sms.8x8.com
 sms.infomaniak.com
@@ -7970,7 +7918,6 @@ soundcloud.com
 soundcloud.org
 sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com
 spaces.pm
-spapi-na.amazon.com
 spark.adobe.com
 spark.fareharbor.com
 spectacles.com
@@ -8050,6 +7997,7 @@ streaming.iris.production.forescoutcloud.net
 streams.etoro.com
 sts.delen.be
 sts.etoro.com
+sts.uzleuven.be
 stubru.be/luister/select
 studentplacements.monash.edu
 studio-api.swapcard.com
@@ -8137,6 +8085,7 @@ testapi.redoxengine.com
 testapp.redoxengine.com
 testing.maventa.com
 testnet.bitmex.com
+teststs.uzleuven.be
 textexplore.tari.com
 theblog.adobe.com
 therapeutics.23andme.com
@@ -8158,7 +8107,6 @@ todo.notebleue.pro
 tools.deribit.com
 toolsforhumanity.com
 topspammers-asia-south1.truecaller.com
-track.amazon.com
 tracker.naspers.com
 tracking.vidaxl.com
 training.ui.com
@@ -8208,7 +8156,6 @@ unlist5.truecaller.com
 unwanted-communication-extension-eu.truecaller.com
 unwanted-communication-extension-noneu.truecaller.com
 updater.clario.co
-updates.amazon.com
 updates.forescout.com
 updates.frame.io
 updates.nextcloud.com
@@ -8236,6 +8183,7 @@ userprofile-ui.landmarkcinemas.com
 users-api.truelayer.com
 utv.usaa.com
 uwa.mobilevikings.be
+uzlcm12cmg1.uzleuven.be
 v.utv.usaa.com
 v3.polo-static.com
 vacations.grandclass.grandvelas.com
@@ -8292,6 +8240,7 @@ vrt.be/vrtnws
 vrtnws-api.vrt.be
 vtm.be/vtmgo
 vtmgo.be
+w1.uzleuven.be
 waf.cumulusfire.net
 wallet-sandbox.uphold.com
 wallet.etoro.com
@@ -8744,6 +8693,7 @@ www.upwork.com/api
 www.urbanclap.com
 www.urbancompany.com
 www.usa.gov
+www.uzleuven.be
 www.valvesoftware.com
 www.vascoworldwide.net
 www.vendhq.com
