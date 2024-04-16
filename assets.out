@@ -98,6 +98,7 @@
 *.amazon.co.jp
 *.amazon.co.uk
 *.amazon.co.za
+*.amazon.com
 *.amazon.com.au
 *.amazon.com.be
 *.amazon.com.br
@@ -5278,6 +5279,9 @@ https://github.com/capsule-corp-ternoa/chainbridge-solidity/tree/master/contract
 https://github.com/capsule-corp-ternoa/ternoa-enclaves
 https://github.com/capsule-corp-ternoa/ternoa-js
 https://github.com/capsule-corp-ternoa/ternoa-pallets
+https://github.com/chain4travel/camino-node
+https://github.com/chain4travel/caminoethvm
+https://github.com/chain4travel/caminogo
 https://github.com/cloudflare/workerd
 https://github.com/coralcube-oss/mmm/releases/latest
 https://github.com/cosmos/gaia
