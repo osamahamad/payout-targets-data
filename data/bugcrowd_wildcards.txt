@@ -1,14 +1,5 @@
-*.acorns.com
-*.acorns.com
 *.afterpay.com
 portalapi.*.afterpay.com
-*.alex-as.com
-*.alexamerican.com
-*.americansystems.com
-*.autodiscover.americansystems.com
-*.ddlomni.com
-*.lyncdiscover.americansystems.com
-*.nhaero.com
 *.arlo.com (production servers only)
 *.arloxcld.com (production servers only)
 *.central.arubanetworks.com
@@ -36,7 +27,6 @@ Backblaze Website (*.backblaze.com)
 *.binance.us
 *.bitdefender.com
 *.bitdefender.net
-*.bitstamp.net - Bitstamp Supporting Services
 *.bugcrowd.com/auth/*
 *.canva-apps.cn
 *.canva-apps.com
@@ -60,7 +50,6 @@ Backblaze Website (*.backblaze.com)
 *.cyberghostvpn.com
 *.dell.com/*
 *.delltechnologies.com/* 
-*.sandbox.directly.com/
 *.docsend.com
 *.dropbox.com    
 *.dropboxer.net
@@ -154,7 +143,6 @@ Internal Web services - *.internal.exoscale.ch
 *.song.link
 *.songlink.io
 *.tr.ee
-*.bbp-mettle.co.uk
 *.nflxext.com
 *.nflximg.net
 *.nflxso.net
