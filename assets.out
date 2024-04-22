@@ -55,9 +55,6 @@
 *.acronis.com
 *.acronis.work
 *.ad.nl
-*.ada.com
-*.ada.health
-*.adahealth.ca
 *.adobe.com
 *.adobe.io
 *.adobeaemcloud.com
@@ -197,7 +194,6 @@
 *.bybit.com
 *.byspotify.com
 *.c-point.be
-*.canada.fanduel.com
 *.canva-apps.cn
 *.canva-apps.com
 *.canva.cn
@@ -834,6 +830,7 @@
 *.status.app
 *.status.im
 *.statuspage.io
+*.stbpost.be
 *.storspiller.com
 *.streamlabs.com
 *.streamlabscharity.com
@@ -1028,7 +1025,6 @@
 1076840480
 1079537578
 1080248000
-1099986434
 10x.redoxengine.com
 1101145849
 1114799709
@@ -1545,6 +1541,7 @@ Butler for Trello
 C# SDK
 C100447517
 C103149579
+C2PA Tool
 CDNJS
 Calendar Power-Up
 Canva (Android)
@@ -1612,6 +1609,7 @@ Coda Chrome Extension
 Code Coverage for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1218271/code-coverage-for-bitbucket-server?hosting=server
 CoinMarketCap Android app
 CoinMarketCap iOS app
+Coinbase WaaS (Wallet as a Service)
 ColdFusion
 CometBFT
 Comms Dashboard - Cloud - https://marketplace.atlassian.com/apps/1228153/comms-dashboard?hosting=cloud
@@ -1856,7 +1854,7 @@ Google Drive - https://trello.com/power-ups/55a5d916446f517774210006/google-driv
 Google Drive for Confluence (Official) - Legacy Editor Only - Cloud - https://marketplace.atlassian.com/apps/1213092/google-drive-for-confluence-official-legacy-editor-only?hosting=cloud
 Google Hangouts - https://trello.com/power-ups/55a5d916446f517774210007/google-hangouts
 Google Play (com.expressvpn.vpn)
-Grammarly Assistant
+Grammarly AI Assistant
 Grammarly Desktop for Windows
 Grammarly Desktop for macOS
 Grammarly for Microsoft Word
@@ -2823,6 +2821,7 @@ accounts.shopify.com
 accounts.snapchat.com
 accounts.stage.evernote.com
 accountsettings.connect.identity.stagaws.visma.com
+acme-challenge.nl
 acrobat.adobe.com
 acrobatoauth.adobe.com
 activate.codefi.network
@@ -3273,7 +3272,6 @@ b2blsapi.usaa.com
 b5s.hackerone-ext-content.com
 bSafe Android App
 bSafe iPhone App
-backend.zyro.com
 backoffice.lansweeper.com
 backstage.io
 backup.truecaller.com
@@ -3486,7 +3484,6 @@ com.Hyatt
 com.Slack
 com.acronis.abc
 com.acronis.acronistrueimage
-com.ada.app
 com.adobe.PSMobile
 com.adobe.echosign
 com.adobe.fas
@@ -3940,6 +3937,7 @@ developers.afterpay.com
 developers.tiktok.com
 developers.veriff.me
 device-safety-asia-south1.truecaller.com
+devmaximum.com
 dex-trade.com
 diagrams.fr.cloud.gov
 dic.pixiv.net
@@ -3975,6 +3973,7 @@ dointernal.com
 donate.mastercard.com
 donations.livestream.com
 dookeydash.com
+doorstromen.mijnkombijdepolitie.nl
 doppler
 doppler.team
 download.krisp.ai
@@ -4004,7 +4003,6 @@ edgeapis.onecloud.harman.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
 editeurs.monespacesante.fr
-editor.zyro.com
 edu.qwantjunior.com
 education.23andme.com
 education.github.com
@@ -4444,7 +4442,6 @@ https://api.justeat-int.com
 https://api.kennasecurity.com
 https://api.letsexchange.io/doc
 https://api.linen.app/
-https://api.mobile.ada.com
 https://api.moneyboxapp.com/
 https://api.neogov.com
 https://api.netgear.com
@@ -4762,10 +4759,6 @@ https://canva.cn/developers
 https://canva.com/developers
 https://carbonneutral.ampol.com.au/
 https://cards.ampol.com.au
-https://care-navigation-admin-bff.eu.enterprise.ada.com
-https://care-navigation-admin-fe.eu.enterprise.ada.com
-https://care-navigation-bff.eu.enterprise.ada.com
-https://care-navigation-fe.eu.enterprise.ada.com
 https://careers.takeaway.com
 https://cash.app
 https://cashback.opera.com/
@@ -4814,6 +4807,7 @@ https://consumer-sustainability.underarmour.com/en
 https://content-server.ibotta.com/graphql
 https://content.agora.beta.gouv.fr
 https://content.usaa.com
+https://contentcredentials.org/verify
 https://coral.20min.ch/
 https://corporate.westernunion.com
 https://create.gx.games
@@ -4914,13 +4908,7 @@ https://dbc-a1ba5468-749b.staging.cloud.databricks.com/
 https://dcfgatewaytst1.marriott.com/
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
-https://deepwatchdev.wpengine.com/
-https://demo-prod-assessment-bff.ada-prod-eu.prod.gcp.ada.com
-https://demo-prod-hcp-report-bff.ada-prod-eu.prod.gcp.ada.com
-https://demo.enterprise.ada.com
-https://demo.handover.enterprise.ada.com
 https://demo.priceless.com/
-https://demo.sso.enterprise.ada.com
 https://design.glassdoor.com/*
 https://desk-api-{region}.sendbird.com
 https://devedge.t-mobile.com
@@ -5129,6 +5117,7 @@ https://github.com/ExzoNetwork/web3.js
 https://github.com/Filmio-Inc/contracts
 https://github.com/FitburnEngineering/Fitburn.Contracts
 https://github.com/GridexProtocol
+https://github.com/HeyPuter/puter/
 https://github.com/Horizon-Protocol/Horizon-Smart-Contract/tree/develop/contracts
 https://github.com/Impermax-Finance/lending-vault/tree/main
 https://github.com/Infomaniak/desktop-kDrive
@@ -5529,7 +5518,6 @@ https://huddle.bluejeans.com
 https://hug.personio.com
 https://ichnaea.netflix.com
 https://icu.eu-west-2.outscale.com
-https://id.ada.com
 https://id.atlassian.com/login
 https://id.unity.com
 https://identity.bugcrowd.com/
@@ -6526,12 +6514,14 @@ https://wucare.westernunion.com
 https://wuinsights.westernunion.com
 https://www.*mongodb.com/*
 https://www.20min.ch
+https://www.24heures.ch
 https://www.aax.com/apidoc/index.html#introduction
 https://www.aex.com
 https://www.aex.com/page/doc/zh/guide/guide.html
 https://www.airpuff.io/
 https://www.allsaints.me/
 https://www.amazon.com/luna/*
+https://www.amazonpay.in/*
 https://www.ankermake.com/products/m5?variant=42744298373269
 https://www.anytask.com/
 https://www.api.hpr.kiwai-normandie.fr/
@@ -6555,6 +6545,9 @@ https://www.atlassian.com/software/jira
 https://www.atlassian.com/software/jira/product-discovery
 https://www.atlassian.com/software/jira/service-management
 https://www.atlassian.com/software/jira/work-management
+https://www.bazonline.ch
+https://www.berneroberlaender.ch
+https://www.bernerzeitung.ch
 https://www.beta.tchap.gouv.fr
 https://www.bigcommerce.com
 https://www.bigcommerce.net
@@ -6599,6 +6592,7 @@ https://www.deepcoin.com/en/apiPage
 https://www.demarches-simplifiees.fr
 https://www.demarches-simplifiees.fr/api/v2/graphql
 https://www.demarches-simplifiees.fr/graphql
+https://www.derbund.ch
 https://www.designify.com
 https://www.domain.com
 https://www.driveuconnect.com
@@ -6640,6 +6634,8 @@ https://www.kruidvat.nl/blog/
 https://www.kruidvat.nl/fotoservice
 https://www.kruidvat.nl/persoonlijk
 https://www.kuleuven.be/sapredir/huisvesting
+https://www.landbote.ch
+https://www.langenthalertagblatt.ch
 https://www.lastpass.com
 https://www.letspaylater.ph/
 https://www.letspaylater.sg/
@@ -6726,16 +6722,19 @@ https://www.soundtrackyourbrand.com
 https://www.sourcetreeapp.com/
 https://www.status-takeaway.com/status
 https://www.superdrug.com/blog/
+https://www.tagesanzeiger.ch
 https://www.takeaway.com/deals
 https://www.takeaway.com/drivers
 https://www.takeaway.com/foodwiki/
 https://www.tchap.gouv.fr
+https://www.tdg.ch
 https://www.teamviewer.com/en/products/teamviewer/
 https://www.theperfumeshop.com/blog/
 https://www.theperfumeshop.com/ie/blog/
 https://www.thousandeyes.com/
 https://www.thuisbezorgd.nl/aanmelden
 https://www.thumbzilla.com/
+https://www.thunertagblatt.ch
 https://www.toobit.com/
 https://www.toursgds.com/
 https://www.toursgds.com/SupplierService?wsdl
@@ -6798,6 +6797,8 @@ https://www.zaproxy.org
 https://www.zetachain.com/
 https://www.zetachain.com/docs
 https://www.zetachain.com/ecosystem
+https://www.zsz.ch
+https://www.zuonline.ch
 https://www2.westernunion.com
 https://www2.westernunion.com 
 https://wwws-staging.moneytree.jp/link/
@@ -7050,7 +7051,6 @@ login.www.vaxvacationaccess.com
 logitech.zendesk.com
 logitechg.com.cn
 logitechgchallenge.com
-logo.zyro.com
 logs-platform.fr.cloud.gov
 logs.dashlane.com
 logs.fr.cloud.gov
@@ -7118,6 +7118,7 @@ masq.qwant.com
 matomo.cloud
 matrix.agent.*.tchap.gouv.fr
 matrix.redditspace.com
+maxcldapp.net
 maximo-accpt.portofantwerp.com
 maximo-accpt.portofantwerpbruges.com
 maximo.portofantwerp.com
@@ -7166,6 +7167,7 @@ mguest.usaa.com
 mijn.gamma.be/*
 mijn.gamma.nl/*
 mijn.karwei.nl/*
+mijnkombijdepolitie.nl
 mipartnerprivileges.marriott.com
 miro.com
 mix-dev.monash.edu/*
@@ -7332,7 +7334,9 @@ nl.gamma.verf
 nl.karwei.app.android
 nl.vidaxl.be
 nmtracking.netflix.com
+no-reply.cloud
 no.kolonial.tienda
+nossl.nl
 notifications5-asia-south1.truecaller.com
 notifications5.truecaller.com
 novel.pixiv.net
@@ -7511,6 +7515,7 @@ preprod.auth.monespacesante.fr
 preprod.editeur.am.monespacesante.fr
 preprod.editeur.api.monespacesante.fr
 preprod.monespacesante.fr
+preprod.nl
 preprod1.grindr.com
 preprod1.monespacesante.fr
 preprod2.monespacesante.fr
@@ -7573,11 +7578,13 @@ push.opera.com
 push.services.mozilla.com
 pushfeed.nextcloud.com
 pushid-asia-south1.truecaller.com
+puter.com
 pwapi.ex2b.com
 py.pl
 qa-db.vidaxl.io
 qa.vidaxl.io
 qa1-apigateway.vidaxl.io
+qatest.nl
 qwantjunior.com
 r.etoro.com
 random.uzleuven.be/random/
@@ -7646,6 +7653,7 @@ royal.checksw.com
 rpm-sequoia
 rt.playcanvas.com
 rubygems.org
+rudderplatform.com
 s-boards.qwant.com
 s.qwant.com
 s.reddit.com
@@ -8164,6 +8172,9 @@ webwinkel.volkskrant.nl
 welcome.infomaniak.com
 wellbeing.deezer.com
 wellbeing.dzcdn.net
+werkenbijdefensie.nl
+werkenbijderet.nl
+werkenbijdnb.nl
 wga.volans.tech
 wgc.polo-static.com
 whatsnew.krisp.ai
@@ -8201,6 +8212,7 @@ wp-dev3.chime.com
 wp-dev4.chime.com
 wp-dev5.chime.com
 wp-integ.chime.com
+wp-mail.nl
 wp-qa.chime.com
 ws-web.poloniex.com
 ws.blockchain.info
@@ -8347,6 +8359,7 @@ www.expedia.com
 www.expediaagents.com
 www.expediagroup.com
 www.expediapartnersolutions.com
+www.expediataap.com
 www.expressvpn.com
 www.fareharbor.com
 www.fedramp.gov
@@ -8456,7 +8469,6 @@ www.myetherwallet.com
 www.myhomebook.de
 www.netflix.com
 www.networksolutions.com
-www.niagahoster.co.id
 www.omise.co
 www.opera.com
 www.opn.ooo
@@ -8620,6 +8632,7 @@ www.watsons.com.tw
 www.watsons.com.vn
 www.wearehackerone.com
 www.welt.de
+www.werkenbijbakertilly.nl
 www.wickr.com
 www.wissen-sie-mehr.de
 www.wynnvacations.com
@@ -8629,7 +8642,6 @@ www.xvideos.red
 www.yellowpepper.com
 www.yotisign.com
 www.zendesk.com
-www.zyro.com
 www10.pns.hk
 www10.watsons.co.id
 www10.watsons.co.th

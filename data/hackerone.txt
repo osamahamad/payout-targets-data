@@ -1,3 +1,5 @@
+https://github.com/HeyPuter/puter/
+puter.com
 https://github.com/Chia-Network/chia-blockchain
 https://github.com/Chia-Network/chia-blockchain-gui
 https://github.com/Chia-Network/chia_rs
@@ -976,21 +978,17 @@ Other Amazon Retail Assets (Please only actively test explicitly stated scope)
 Other Amazon Retail Mobile Apps (Please only actively test explicitly stated scope)
 Other Amazon Retail Sites (Please only actively test explicitly stated scope)
 com.amazon.mShop.android.shopping
+https://www.amazonpay.in/*
 www.amazon.*
 3d.cs.money
 blog.cs.money
 cs.money
 support.cs.money
 wiki.cs.money
-backend.zyro.com
 cpanel.hostinger.com
-editor.zyro.com
 hpanel.hostinger.com
-logo.zyro.com
 payments.hostinger.com
 www.hostinger.com
-www.niagahoster.co.id
-www.zyro.com
 www.alibabagroup.com
 1080248000
 878577184
@@ -1571,6 +1569,7 @@ www.expedia.com
 www.expediaagents.com
 www.expediagroup.com
 www.expediapartnersolutions.com
+www.expediataap.com
 www.fewo-direkt.de
 www.flights.com
 www.hotels.com
@@ -2244,7 +2243,7 @@ www.malwarebytes.com
 AppActions
 Browser Extensions
 Capture the Flag
-Grammarly Assistant
+Grammarly AI Assistant
 Grammarly Desktop for Windows
 Grammarly Desktop for macOS
 Grammarly for Microsoft Word
@@ -2809,6 +2808,21 @@ https://www.glassdoor.com/*
 547702041
 com.tinder
 fetlife.com
+acme-challenge.nl
+devmaximum.com
+doorstromen.mijnkombijdepolitie.nl
+maxcldapp.net
+mijnkombijdepolitie.nl
+no-reply.cloud
+nossl.nl
+preprod.nl
+qatest.nl
+rudderplatform.com
+werkenbijdefensie.nl
+werkenbijderet.nl
+werkenbijdnb.nl
+wp-mail.nl
+www.werkenbijbakertilly.nl
 dashboard.algolia.com
 www.algolia.com
 1142114207
@@ -2981,6 +2995,7 @@ After Effects
 Animate
 Audition
 Bridge
+C2PA Tool
 Character Animator
 ColdFusion
 ContentCal
@@ -3059,6 +3074,7 @@ firefly.adobe.com
 fonts.adobe.com
 gps.echosign.com
 helpx.adobe.com
+https://contentcredentials.org/verify
 https://github.com/adobe/*
 imagine.magento.com
 licenses.adobe.com
@@ -3349,6 +3365,7 @@ irccloud.com
 team-irc.irccloud.com
 www.irccloud.com
 54.175.255.192/27
+Coinbase WaaS (Wallet as a Service)
 Other
 Web3 Smart Contracts
 api.coinbase.com
