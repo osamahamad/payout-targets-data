@@ -265,11 +265,16 @@
 *.dancecentral.com
 *.das.eu
 *.datacamp.com
-*.deliveroo-data-test.io
-*.deliveroo-data.io
-*.deliveroo-data.net
-*.deliveroo-streams.net
-*.deliveroo.*
+*.deliveroo.ae
+*.deliveroo.be
+*.deliveroo.co.uk
+*.deliveroo.com.hk
+*.deliveroo.com.kw
+*.deliveroo.com.qa
+*.deliveroo.com.sg
+*.deliveroo.fr
+*.deliveroo.ie
+*.deliveroo.it
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demorgen.be
@@ -2914,6 +2919,7 @@ api-staging.airtable.com
 api-staging.venly.market
 api-v2.frame.io
 api-wallet.venly.io
+api.*.deliveroo.com
 api.23andme.com
 api.account.clario.co
 api.adm.cloud.com
@@ -4918,6 +4924,7 @@ https://dbc-a1ba5468-749b.staging.cloud.databricks.com/
 https://dcfgatewaytst1.marriott.com/
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
+https://deliveroo.co.uk
 https://demo-prod-assessment-bff.ada-prod-eu.prod.gcp.ada.com
 https://demo-prod-hcp-report-bff.ada-prod-eu.prod.gcp.ada.com
 https://demo.enterprise.ada.com

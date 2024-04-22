@@ -234,11 +234,16 @@
 *.dancecentral.com
 *.das.eu
 *.datacamp.com
-*.deliveroo-data-test.io
-*.deliveroo-data.io
-*.deliveroo-data.net
-*.deliveroo-streams.net
-*.deliveroo.*
+*.deliveroo.ae
+*.deliveroo.be
+*.deliveroo.co.uk
+*.deliveroo.com.hk
+*.deliveroo.com.kw
+*.deliveroo.com.qa
+*.deliveroo.com.sg
+*.deliveroo.fr
+*.deliveroo.ie
+*.deliveroo.it
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demorgen.be
@@ -972,6 +977,7 @@ Internal Web services - *.internal.exoscale.ch
 Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 api*.netflix.com
 api-*.soundcloud.com
+api.*.deliveroo.com
 assets.enjin.io,cdn.enjin.io,*.cdn.enjin.io,*.cdn.enjin.cn,cdn.enjin.cn,cdn.enjinx.io,cdn.enjinx.cn,enjinusercontent.com,*.enjinusercontent.com
 dcfgateway*.marriott.com
 gateway*.marriott.com
