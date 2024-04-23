@@ -345,7 +345,6 @@
 *.goldman.com
 *.goldmanpfm.com
 *.goldmansachs.com
-*.goteleport.com
 *.gotinder.com
 *.grab-sure.com
 *.grab.co
@@ -355,9 +354,6 @@
 *.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
-*.gravitational.co
-*.gravitational.com
-*.gravitational.io
 *.grindr.com
 *.grindr.io
 *.grindr.mobi
@@ -832,8 +828,6 @@
 *.tdl.sh
 *.teams.cloudflare.com
 *.telenor.se
-*.teleport.dev
-*.teleportinfra.sh
 *.tesla.cn
 *.tesla.com
 *.tesla.services

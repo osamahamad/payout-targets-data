@@ -376,7 +376,6 @@
 *.goldman.com
 *.goldmanpfm.com
 *.goldmansachs.com
-*.goteleport.com
 *.gotinder.com
 *.grab-sure.com
 *.grab.co
@@ -386,9 +385,6 @@
 *.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
-*.gravitational.co
-*.gravitational.com
-*.gravitational.io
 *.grindr.com
 *.grindr.io
 *.grindr.mobi
@@ -863,8 +859,6 @@
 *.tdl.sh
 *.teams.cloudflare.com
 *.telenor.se
-*.teleport.dev
-*.teleportinfra.sh
 *.tesla.cn
 *.tesla.com
 *.tesla.services
@@ -3224,7 +3218,6 @@ as2.portofantwerp.com
 as2.portofantwerpbruges.com
 asana.com
 asiointi.lahitapiola.fi
-askpam.ai
 asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
 assessment-v2.datacamp.com
 assessment.datacamp.com
@@ -3460,7 +3453,6 @@ cloud.connect.takeaway.com
 cloud.digitalocean.com
 cloud.elastic.co
 cloud.gov
-cloud.gravitational.io
 cloud.malwarebytes.com
 cloud.update.justeattakeaway.com
 cloud.update.takeaway.com
@@ -4203,7 +4195,6 @@ gwapi1.tripadvisor.com
 gwapi2.tripadvisor.com
 gx.opera-api.com
 h1-*your-own-instance*.cloud.mattermost.com
-h1-your-domain.teleport.sh
 h1-your-domain.zendesk.com
 hack1.mtrx.ovh
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -5246,8 +5237,6 @@ https://github.com/enkryptcom/enKrypt
 https://github.com/expressvpn/lightway-core
 https://github.com/finos/CatchIT
 https://github.com/fireblocks/mpc-lib
-https://github.com/gravitational/teleport
-https://github.com/gravitational/teleport-plugins
 https://github.com/gsa/data.gov
 https://github.com/gsa/datagov-deploy
 https://github.com/hyperledger/fabric
@@ -7500,7 +7489,6 @@ platform.8x8pilot.com
 platform.adobe.com
 platform.enjin.io
 platform.remix.com
-platform.teleport.sh
 play.bild.de
 play.google.com/store/apps/details?id=com.crowdstrike.falconmobile
 play.google.com/store/apps/details?id=fr.assurancemaladie.monespacesante&showAllReviews=true (Android)
