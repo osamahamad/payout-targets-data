@@ -739,6 +739,8 @@ Marionnaud (subdomains)
 Marionnaud FR (subdomains)
 Marionnaud.Austria.Android
 Marionnaud.Austria.iOS
+Marionnaud.France.Android
+Marionnaud.France.iOS
 Marionnaud.Italy.Android
 Marionnaud.Italy.iOS
 Marionnaud.Romania.Android
@@ -785,6 +787,7 @@ Watsons.Turkey.iOS
 api.iciparisxl.be
 api.iciparisxl.lu
 api.iciparisxl.nl
+api.marionnaud.fr
 api.pns.hk
 api.superdrug.com
 api.theperfumeshop.com
@@ -846,6 +849,7 @@ www.kruidvat.nl
 www.marionnaud.at
 www.marionnaud.ch
 www.marionnaud.cz
+www.marionnaud.fr
 www.marionnaud.hu
 www.marionnaud.it
 www.marionnaud.ro

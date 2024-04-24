@@ -2093,6 +2093,8 @@ Marionnaud (subdomains)
 Marionnaud FR (subdomains)
 Marionnaud.Austria.Android
 Marionnaud.Austria.iOS
+Marionnaud.France.Android
+Marionnaud.France.iOS
 Marionnaud.Italy.Android
 Marionnaud.Italy.iOS
 Marionnaud.Romania.Android
@@ -3022,6 +3024,7 @@ api.loanbuilder.com
 api.localizestaging.com
 api.magic.link
 api.mapbox.com
+api.marionnaud.fr
 api.mercadolibre.com
 api.mercadopago.com
 api.mergify.com
@@ -8449,6 +8452,7 @@ www.mapbox.com
 www.marionnaud.at
 www.marionnaud.ch
 www.marionnaud.cz
+www.marionnaud.fr
 www.marionnaud.hu
 www.marionnaud.it
 www.marionnaud.ro
