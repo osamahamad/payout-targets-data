@@ -264,6 +264,7 @@
 *.dailymotion.com
 *.dancecentral.com
 *.das.eu
+*.datacamp.com
 *.deliveroo.ae
 *.deliveroo.be
 *.deliveroo.co.uk
@@ -2956,6 +2957,8 @@ api.data.gov
 api.deezer.com
 api.deriv.com
 api.dex-trade.com
+api.digital.delen.be
+api.digital.delen.lu
 api.digitalocean.com
 api.direct.playstation.com
 api.doppler.com
@@ -3125,6 +3128,12 @@ app.asana.com
 app.chime.com
 app.command.cysiv.com
 app.dashlane.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
+app.delen.be
+app.delen.ch
+app.delen.lu
 app.deriv.com
 app.dynamic-preprod.xyz
 app.dynamic.xyz
@@ -3217,6 +3226,8 @@ as2.portofantwerpbruges.com
 asana.com
 asiointi.lahitapiola.fi
 asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
 assets.adobe.com
 assets.airbnb.com
 assets.enjin.io,cdn.enjin.io,*.cdn.enjin.io,*.cdn.enjin.cn,cdn.enjin.cn,cdn.enjinx.io,cdn.enjinx.cn,enjinusercontent.com,*.enjinusercontent.com
@@ -3234,6 +3245,8 @@ aus5.mozilla.org
 auth.23andme.com
 auth.bittrex.com
 auth.crypto.com
+auth.digital.delen.be
+auth.digital.delen.lu
 auth.indrive.tech
 auth.magic.link
 auth.monespacesante.fr
@@ -3283,6 +3296,7 @@ battles.tv
 bb.visa.com
 bc.yieldstreet.net
 bd.visa.com
+be.delen.digital
 be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
@@ -3374,6 +3388,7 @@ callbacks.airbnb.com
 callkit-asia-south1.truecaller.com
 cam.notebleue.pro
 campaign.adobe.com
+campus.datacamp.com
 canary.activate.codefi.network
 candle-src.etoro.com
 candle.etoro.com
@@ -3540,6 +3555,7 @@ com.creditkarma.mobile
 com.creditkarma.mobile.international
 com.dashlane
 com.dashlane.dashlanephonefinal
+com.datacamp
 com.defi.wallet
 com.deliveroo.driverapp
 com.deliveroo.orderapp
@@ -3899,6 +3915,7 @@ dealflowapi.prosus.com
 debug.clairvoyance.indrive.tech
 decision.swiftfinancial.com
 dedokterbeashow.ketnet.be
+delen/id1064839588
 delta.app
 demo.arkoselabs.com
 demo.cloud.databricks.com
@@ -4526,6 +4543,7 @@ https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/bigcommerce/id1418570678
 https://apps.apple.com/au/app/caltex-australia/id1314768594
 https://apps.apple.com/au/app/certsy/id1617796159
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
@@ -7030,11 +7048,15 @@ login-ia.tvg.com
 login-pabets.tvg.com
 login.arkane.network
 login.cm.com
+login.delen.be
+login.delen.ch
+login.delen.lu
 login.en.travelbrandsagent.com
 login.fr.cloud.gov
 login.fr.travelbrandsagent.com
 login.infomaniak.com
 login.lansweeper.com
+login.oyens.com
 login.pabets.tvg.com
 login.playcanvas.com
 login.portofantwerpbruges.com
@@ -7500,6 +7522,7 @@ portalapi.eu.clearpay.co.uk
 portfolio.adobe.com
 portfolio.metamask.io
 portswigger.net
+practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prddsplunkhf.uzleuven.be
 premium-eu.truecaller.com
@@ -7549,6 +7572,7 @@ profile-view.truecaller.com
 profile4-asia-south1.truecaller.com
 profile4.truecaller.com
 profiler.firefox.com
+projects.datacamp.com
 projects.nextcloud.com
 prometheus.fr.cloud.gov
 promos.tvg.com
@@ -7848,6 +7872,7 @@ station.veriff.com
 stationapi.veriff.com
 stats.nextcloud.com
 status.adobe.com
+status.delen.be
 status.larksuite.com
 status.mobile.monash
 status.oasis.io
@@ -7874,6 +7899,7 @@ streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streams.etoro.com
+sts.delen.be
 sts.etoro.com
 sts.uzleuven.be
 stubru.be/luister/select
@@ -8252,6 +8278,8 @@ www.bookabach.co.nz
 www.bookingholdings.com
 www.bumble.com
 www.bz-berlin.de
+www.cadelam.be
+www.cadelux.lu/en
 www.cardinalcommerce.com
 www.cheapcaribbean.com
 www.cheapflights.com
@@ -8278,9 +8306,13 @@ www.currencycloud.com
 www.cybersource.com
 www.dashlane.com
 www.data.gov
+www.datacamp.com
+www.datacamp.com/datalab
 www.datastax.com
 www.ddfcontent.com
 www.deezer.com
+www.delen.bank
+www.delen.be/en
 www.demorgen.be
 www.demorgen.be/abonnementen
 www.digitalocean.com
