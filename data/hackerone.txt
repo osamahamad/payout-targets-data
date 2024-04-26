@@ -3050,8 +3050,10 @@ firefly.adobe.com
 fonts.adobe.com
 gps.echosign.com
 helpx.adobe.com
-https://contentcredentials.org/verify
+https://contentcredentials.org/
 https://github.com/adobe/*
+https://github.com/contentauth/c2pa-js
+https://github.com/contentauth/c2pa-rs
 imagine.magento.com
 licenses.adobe.com
 licensing.adobe.com
