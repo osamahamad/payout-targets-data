@@ -516,7 +516,6 @@
 *.lastminute.co.nz
 *.lastminute.com.au
 *.libelle.nl
-*.liberapay.com
 *.lieferando.at
 *.lieferando.de
 *.line-apps.com
@@ -1324,7 +1323,6 @@ Announcement Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps
 Any .magic.link demo sites
 Any FIS asset is in scope
 Any Host Verified To Be Owned By Kenna (Domains/IP space/etc.)
-Any IP belonging to Liberapay
 Any Other Sophos Product or Service
 Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
 Any Worldpay asset is in scope
@@ -5349,7 +5347,6 @@ https://github.com/kubernetes/utils
 https://github.com/kubernetes/website
 https://github.com/leather-wallet/desktop
 https://github.com/leather-wallet/extension
-https://github.com/liberapay/liberapay.com
 https://github.com/libuv/libuv
 https://github.com/magiceden-oss/erc721m/releases/latest
 https://github.com/magiceden-oss/open_creator_protocol/releases/latest
