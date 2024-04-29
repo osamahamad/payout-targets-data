@@ -1228,10 +1228,6 @@
 <Your own 1Password account> —> https://events.1password.com/  (Event Reporting API is available on 1Password Business Accounts Only)
 <Your own 1Pasword Personal Account> --> https://my.1password.com/
 <locale>.trip.com
-<researcher ID>-1-bugcrowd.auth0.com (Authentication API)
-<researcher ID>-1-bugcrowd.auth0.com/api/v2 (Management API)
-<researcher ID>-bugcrowd.auth0.com (Authentication API)
-<researcher ID>-bugcrowd.auth0.com/api/v2 (Management API)
 AI Gateway
 AMP Real URL
 AOL (misc)
@@ -3805,6 +3801,7 @@ company-profile-noneu.truecaller.com
 components.frame.io
 components.stag.tomorrowland.com
 components.tomorrowland.com
+config.cic-bug-bounty.auth0app.com
 configure.bmw.de
 configure.mini.de
 confluence.hyattdev.com
@@ -5663,7 +5660,7 @@ https://m.csqtrk.net
 https://m.westernunion.com
 https://machinefi.com/
 https://maf-holding-prod.apigee.net
-https://manage.auth0.com
+https://manage.cic-bug-bounty.auth0app.com/
 https://manage.statuspage.io
 https://manager.trial.lsk.lightspeed.app/
 https://manager.trial.lsk.lightspeed.app/	
@@ -7134,8 +7131,8 @@ mainnet-boot-2.ternoa.network
 mainnet.ternoa.network
 maintenance.logitech.com
 manage-sandbox.gocardless.com
-manage.auth0.com (Management Dashboard)
 manage.blockscore.com
+manage.cic-bug-bounty.auth0app.com (Management Dashboard)
 manage.grab.co
 manage.statuspage.io
 manager.infomaniak.com/v3/*
