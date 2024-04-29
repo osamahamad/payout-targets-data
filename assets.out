@@ -1228,6 +1228,10 @@
 <Your own 1Password account> —> https://events.1password.com/  (Event Reporting API is available on 1Password Business Accounts Only)
 <Your own 1Pasword Personal Account> --> https://my.1password.com/
 <locale>.trip.com
+<researcher ID>-1-bugcrowd.auth0.com (Authentication API)
+<researcher ID>-1-bugcrowd.auth0.com/api/v2 (Management API)
+<researcher ID>-bugcrowd.auth0.com (Authentication API)
+<researcher ID>-bugcrowd.auth0.com/api/v2 (Management API)
 AI Gateway
 AMP Real URL
 AOL (misc)
@@ -1445,6 +1449,8 @@ Atlassian Team Playbook blueprints - Server - https://marketplace.atlassian.com/
 Atlassian Universal Plugin Manager - DataCenter - https://marketplace.atlassian.com/apps/23915/atlassian-universal-plugin-manager?hosting=datacenter
 Atlassian Universal Plugin Manager - Server - https://marketplace.atlassian.com/apps/23915/atlassian-universal-plugin-manager?hosting=server
 Audition
+Auth0 Guardian Android
+Auth0 Guardian IoS
 Authy Android App
 Authy Desktop app
 Authy iOS app
@@ -2055,6 +2061,7 @@ Luna
 Luno Android Application
 Luno iOS Application
 MFA
+MFA Integrations	
 MIUI OS for Xiaomi Phone
 Mac App
 Mac OS Executable
@@ -3253,6 +3260,8 @@ auth.services.adobe.com
 auth.skypicker.com
 auth.truelayer[-sandbox].com
 auth.ys7.com
+auth0.com	
+auth0.net
 auth2.indrive.tech
 auth4-asia-south1.truecaller.com
 auth4-noneu.truecaller.com
@@ -4475,6 +4484,7 @@ https://api.toom.de
 https://api.tripadvisor.com
 https://api.twilio.com
 https://api.unity.com
+https://api.us1.fga.dev/
 https://api.usaa.com/
 https://api.voiapp.io/
 https://api.welcomesoftware.com/
@@ -4581,6 +4591,7 @@ https://apps.apple.com/ua/app/trustee-plus-crypto-neobank/id1634455978
 https://apps.apple.com/us/app/%E5%B1%A5%E6%AD%B4%E6%9B%B8%E4%BD%9C%E6%88%90-%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%89/id1484451230
 https://apps.apple.com/us/app/aex%E5%AE%89%E9%93%B6/id1542565144
 https://apps.apple.com/us/app/asana-mobile/id489969512
+https://apps.apple.com/us/app/auth0-guardian/id1093447833
 https://apps.apple.com/us/app/backblaze/id628638330
 https://apps.apple.com/us/app/bigone/id1485385044
 https://apps.apple.com/us/app/bingbon-global/id1500217666?ls=1
@@ -4893,10 +4904,12 @@ https://cuba.westernunion.com
 https://customer-api.datadome.co
 https://customerevents.netflix.com
 https://customerportal.winconnect.com.au/login
+https://customers.us1.fga.dev/
 https://cyberghost.com
 https://d1.utv.usaa.com
 https://d2.utv.usaa.com
 https://daily.blablacar.fr
+https://dashboard.fga.dev/
 https://dashboard.pantheon.io
 https://dashboard.rapyd.net/
 https://dashboard.sendbird.com
@@ -5188,6 +5201,22 @@ https://github.com/aurora-is-near/near-erc20-connector/releases/tag/v1.0.1
 https://github.com/aurora-is-near/rainbow-bridge/releases/tag/0.2.1
 https://github.com/aurora-is-near/rainbow-token-connector/releases/tag/0.1.6
 https://github.com/aurora-is-near/sputnikvm
+https://github.com/auth0/Auth0.Net
+https://github.com/auth0/Auth0.Net (.NET SDK)
+https://github.com/auth0/auth0-java
+https://github.com/auth0/auth0-java (Java SDK)
+https://github.com/auth0/auth0-php
+https://github.com/auth0/auth0-php (PHP SDK)
+https://github.com/auth0/auth0-spa-js
+https://github.com/auth0/auth0-spa-js (Auth0 Single Page App SDK)
+https://github.com/auth0/auth0.js
+https://github.com/auth0/auth0.js (Auth0 SDK for Web)
+https://github.com/auth0/lock
+https://github.com/auth0/lock (Lock for Web)
+https://github.com/auth0/nextjs-auth0
+https://github.com/auth0/nextjs-auth0 (Next.js SDK)
+https://github.com/auth0/react-native-auth0
+https://github.com/auth0/react-native-auth0 (react-native SDK)
 https://github.com/blueberryfi
 https://github.com/bluejeans/android-client-sdk
 https://github.com/brave-intl/bat-balance
@@ -5634,6 +5663,7 @@ https://m.csqtrk.net
 https://m.westernunion.com
 https://machinefi.com/
 https://maf-holding-prod.apigee.net
+https://manage.auth0.com
 https://manage.statuspage.io
 https://manager.trial.lsk.lightspeed.app/
 https://manager.trial.lsk.lightspeed.app/	
@@ -5946,6 +5976,7 @@ https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosti
 https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=server
 https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
+https://marketplace.auth0.com
 https://marketplace.ifood.com.br
 https://mathem.se
 https://matrix.agent.tchap.gouv.fr
@@ -6091,6 +6122,7 @@ https://pinepgconsole.in:9099
 https://pionex-doc.gitbook.io/apidocs/
 https://pixabay.com/
 https://platform.openai.com/playground
+https://play.fga.dev/
 https://play.google.com/store/apps/details?hl=en&id=co.bitx.android.wallet
 https://play.google.com/store/apps/details?id=app.linen.wallet
 https://play.google.com/store/apps/details?id=au.com.ampol.flagship&hl=en_AU&gl=US
@@ -6111,6 +6143,7 @@ https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.c
 https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.atlassian.confluence.server
 https://play.google.com/store/apps/details?id=com.atlassian.jira.server&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.auth0.guardian&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.backblaze.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.bigcommerce.mobile
 https://play.google.com/store/apps/details?id=com.bitmart.bitmarket&hl=en_US&gl=US
@@ -6952,6 +6985,7 @@ js.stripe.com
 judge.me
 juicer.lime.bike
 juniormusical.ketnet.be
+jwt.io
 k8s.gcr.io
 k8s.io
 kaatje.ketnet.be
@@ -7100,6 +7134,7 @@ mainnet-boot-2.ternoa.network
 mainnet.ternoa.network
 maintenance.logitech.com
 manage-sandbox.gocardless.com
+manage.auth0.com (Management Dashboard)
 manage.blockscore.com
 manage.grab.co
 manage.statuspage.io
@@ -7114,6 +7149,7 @@ marketing-assets.adobe.com
 marketing.adobe.com
 marketing.fareharbor.com
 marketo.com
+marketplace.auth0.com (Auth0 Marketplace)
 marketplace.databricks.com
 marketplace.digitalocean.com
 marketplace.fedramp.gov
@@ -7391,6 +7427,7 @@ open.ys7.com
 openai.com
 openapi.starbucks.com
 openid-noneu.truecaller.com
+openidconnect.net	
 opensea.io
 oprc.portofantwerpbruges.com
 ops.lime.bike
@@ -7669,6 +7706,7 @@ s3://faraday-secret
 s3://faraday-uploads
 safe.tumblr.com
 salesportal.hyatt.com
+samltool.io	
 sandbox.affirm.com
 sandbox.authorize.net
 sandbox.braintreegateway.com
@@ -8157,6 +8195,7 @@ webapps-accpt.portofantwerp.com
 webapps-accpt.portofantwerpbruges.com
 webapps.portofantwerp.com
 webapps.portofantwerpbruges.com
+webauthn.me	
 webdirectory-eu.truecaller.com
 webdirectory-noneu.truecaller.com
 webhooks-api-experimental.codefi.network
