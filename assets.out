@@ -10,7 +10,6 @@
  Twilio WebRTC Client
  Twilio Wireless
  Watsons.TaiWan.Android
- b.gtld-servers.net (DNS service; DNS related)
  com.citymapper.app.release
  developers.vendhq.com
  https://api.ibops.net/ad-management
@@ -296,7 +295,6 @@
 *.dns.eu
 *.docsend.com
 *.doctolib.(fr|de|it|com|net)
-*.domainscope.com
 *.download.originenergy.com.au
 *.dpgmedia.be
 *.dpgmedia.nl
@@ -397,6 +395,7 @@
 *.gsam.com
 *.gspublishing.com
 *.gsselect.com
+*.gtld-servers.net (DNS service; DNS related)
 *.guardingvision.com
 *.guilded.gg
 *.hackerone-ext-content.com
@@ -926,6 +925,7 @@
 *.venmo.com
 *.vennhypotheken.nl
 *.veriff.com
+*.verisign-grs.com (DNS service; DNS related)
 *.verisign.com
 *.vertexprotocol.com
 *.vfsevisa.com
@@ -2785,7 +2785,6 @@ Your Own GitLab Instance
 Zendesk - https://trello.com/power-ups/56940ede94fd60cf95f7ce6a/zendesk
 Zero days that affect Intigriti or participating customers (listed below)
 a.root-servers.net (DNS service; DNS related)
-a1.verisigndns.com (DNS service; DNS related)
 a1ttqkupgmaxeg-ats.iot.ap-east-1.amazonaws.com
 a1ttqkupgmaxeg-ats.iot.us-east-1.amazonaws.com
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
@@ -4972,7 +4971,6 @@ https://docs.keeper.io/sso-connect-guide/
 https://docs.mapbox.com/android/
 https://docs.mapbox.com/api/
 https://docs.mapbox.com/ios/maps/overview/
-https://domainscope.com/ 
 https://donate.mastercard.com
 https://download.bkexer.xin/app/download/android/app-release.apk
 https://download.krisp.ai/mac
@@ -6979,6 +6977,7 @@ itv7.itv.com
 ius.ezvizlife.com
 iwgo.westernunion.com
 ix2smbdyjt.infomaniak.site
+j.root-servers.net (DNS service; DNS related)
 jimmobile.be
 jira.grab.com
 jira.hyattdev.com

@@ -254,9 +254,10 @@ api-*.soundcloud.com
  *.sip.*.twilio.com
  Twilio CDNs (static*.twilio.com)
 *.api.ua.com
-*.domainscope.com
+*.gtld-servers.net (DNS service; DNS related)
 *.namestudio.com
 *.namestudioforsocial.com
+*.verisign-grs.com (DNS service; DNS related)
 *.verisign.com
 *.youcouldbe.com
 *.viator.com
