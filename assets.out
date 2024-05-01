@@ -1026,6 +1026,7 @@
 1076840480
 1079537578
 1080248000
+1091010942
 1099986434
 10x.redoxengine.com
 1101145849
@@ -3149,6 +3150,7 @@ app.iciparisxl.nl
 app.infura.io
 app.iris.acceptance.forescoutcloud.net
 app.iris.production.forescoutcloud.net
+app.koho.ca
 app.kolesa.kz
 app.krisha.kz
 app.kruidvat.be
@@ -3384,6 +3386,7 @@ business.truecaller.com
 businesshelp.snapchat.com
 buy.logitech.com
 ca.account.sony.com
+ca.koho
 cache.judge.me
 caldav.larksuite.com
 calendar.infomaniak.com
@@ -4271,6 +4274,8 @@ ht.visa.com
 http://(yoursubdomain).sharefile.com/sf/v3/
 http://agenttraining.westernunion.com
 http://analytics.prosus.com
+http://api.koho.ca/1.0
+http://api.koho.ca/partner
 http://app.sandbox.digistorm.com
 http://app.scaleft.com/
 http://artists.soundcloud.com/
@@ -8110,6 +8115,7 @@ user-archive-asia-south1.truecaller.com
 user-profile-staging.8x8.com
 user-profile.8x8.com
 usercontent.apps.nextcloud.com
+usercontent.koho.ca
 userprofile-acc.landmarkcinemas.com
 userprofile-ui.landmarkcinemas.com
 users-api.truelayer.com
@@ -8195,6 +8201,7 @@ web-message.lime.bike
 web-production.lime.bike
 web.bittrex.com
 web.grindr.com
+web.koho.ca
 web.snapchat.com
 web.truecaller.com
 webapi.clario.co
@@ -8205,6 +8212,7 @@ webapps.portofantwerpbruges.com
 webauthn.me	
 webdirectory-eu.truecaller.com
 webdirectory-noneu.truecaller.com
+webgateway.koho.ca
 webhooks-api-experimental.codefi.network
 webhooks.booking.com
 webhooks.gamma.redoxstage.com
@@ -8459,6 +8467,7 @@ www.kinepolis.lu
 www.kinepolis.nl
 www.kinepolisempresas.com/
 www.kiwi.com
+www.koho.ca
 www.kruidvat.be
 www.kruidvat.nl
 www.lahitapiola.fi
