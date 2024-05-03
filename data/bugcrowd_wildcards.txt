@@ -11,6 +11,7 @@ portalapi.*.afterpay.com
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 *.atlastunnel.com
+*.cic-bug-bounty.auth0app.com
 *. tube8.com
 *.tube8.com
 *.adultforce.com 
