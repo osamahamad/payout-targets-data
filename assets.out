@@ -1250,7 +1250,6 @@ API Shield
 AS41690
 AWS Service Catalog for JSM Cloud - Cloud - https://marketplace.atlassian.com/apps/1221551/aws-service-catalog-for-jsm-cloud?hosting=cloud
 AWS infrastructure and services in use by Wise (eg: S3 buckets)
-Access Management (AM)
 Account Settings
 Acronis Agent
 Acronis Cloud Manager
@@ -1723,7 +1722,6 @@ Digital Editions
 Dimension
 Direct Contracts
 Directory Scanning Plugin - Server - https://marketplace.atlassian.com/apps/30318/directory-scanning-plugin?hosting=server
-Directory Service (DS/DJ)
 Disable Referer for Bitbucket Server - DataCenter - https://marketplace.atlassian.com/apps/1214351/disable-referer-for-bitbucket-server?hosting=datacenter
 Disable Referer for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1214351/disable-referer-for-bitbucket-server?hosting=server
 Distiller
@@ -1816,8 +1814,6 @@ Fleet Server
 Flex - Xfinity hardware and services
 Fonts
 Forge Platform
-ForgeRock Authenticator (App Store)
-ForgeRock Authenticator (Google Play)
 Form macro builder for Confluence - Cloud - https://marketplace.atlassian.com/apps/1225664/form-macro-builder-for-confluence?hosting=cloud
 FortniteClient-Android-Shipping-arm64-es2.apk
 FortniteClient-Win64-Shipping.exe
@@ -1912,8 +1908,6 @@ IOS
 IOS App MEW wallet
 Ibotta App Data & Memory
 Icons for Jira - Server - https://marketplace.atlassian.com/apps/1214988/icons-for-jira?hosting=server
-Identity Gateway (IG)
-Identity Management (IDM)
 Illustrator
 Image Paste for Fisheye/Crucible - Server - https://marketplace.atlassian.com/apps/1215192/image-paste-for-fisheye-crucible?hosting=server
 Images
@@ -4555,7 +4549,6 @@ https://apps.apple.com/app/apple-store/id1480509067
 https://apps.apple.com/app/apple-store/id1556596708
 https://apps.apple.com/app/bitpanda-buy-bitcoin-crypto/id1449018960
 https://apps.apple.com/app/bitx-wallet/id927362479
-https://apps.apple.com/app/forgerock-authenticator/id1038442926
 https://apps.apple.com/app/id1216446440
 https://apps.apple.com/app/id1359583808
 https://apps.apple.com/app/id1450306065
@@ -4725,7 +4718,6 @@ https://b2blsapi.usaa.com
 https://babel-api.mainnet.iotex.io
 https://backblaze.com
 https://backend.ibotta.com/
-https://backstage.forgerock.com/
 https://base.org
 https://basescan.org/address/0x5C622Dcc96b6D96ac6c154f99CF081815094CBC9
 https://basescan.org/address/0x7240aac0f57fa0126c107673597ce3cd5b907e38
@@ -6102,10 +6094,6 @@ https://online.srilankaevisa.lk/lka/en/login
 https://onlinena.vfsglobal.dz/AppointmentAdmin/
 https://openai.com/
 https://openai.org
-https://openam-bug-bounty-dev.forgeblocks.com
-https://openam-bug-bounty-dev.forgeblocks.com 
-https://openam-bug-bounty-staging.forgeblocks.com
-https://openam-bug-bounty-staging.forgeblocks.com 
 https://opensea.io/
 https://opensource.epam.com
 https://ops-dashboard.stag.henchman.io
@@ -6213,7 +6201,6 @@ https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.exzi.app
 https://play.google.com/store/apps/details?id=com.favebiz.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.fcagroup.us.uconnect
-https://play.google.com/store/apps/details?id=com.forgerock.authenticator
 https://play.google.com/store/apps/details?id=com.hubspot.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
 https://play.google.com/store/apps/details?id=com.indeed.resume
