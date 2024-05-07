@@ -920,7 +920,6 @@
 *.unrealtournament.com
 *.unscreen.com
 *.uphold.com
-*.us.williamhill.com
 *.uzleuven.*
 *.vacationhomerentals.com
 *.venmo.com
@@ -957,7 +956,6 @@
 *.westernunion.*
 *.white.market
 *.whois.eu
-*.williamhill.us
 *.wimpmusic.com
 *.wise.com
 *.withairbnb.com
@@ -1058,7 +1056,6 @@
 1395921017
 140.95.0.0/16
 141.0.8.0/21
-1413099571
 1416625210
 1436732536
 1439784468
@@ -1070,9 +1067,7 @@
 1486322860
 1491791513
 1503133294
-1505343389
 1519034860
-1526689858
 1528364633
 1539469172
 1541949985
@@ -1082,7 +1077,6 @@
 1589023233
 1591003012
 1604650263
-1615039001
 1641486558
 167.187.0.0/16
 1671793296
@@ -1174,7 +1168,6 @@
 641062073
 6444005221
 6444040977
-6446176419
 6467634418
 647268330
 647922896
@@ -2576,9 +2569,7 @@ Tidal Desktop Client
 Tidal Official Clients (e.g. Sonos integration, Tesla integration, etc.)
 Tier 1
 Tier 1 subdomains
-Tier 1:
 Tier 2
-Tier 2:
 Tier 3 subdomains
 Tier A - Core Assets
 Tier B - Non Core (Bitmoji, Playcanvas)
@@ -2925,7 +2916,6 @@ api.airbnb.com
 api.aiven.io
 api.alasco.de
 api.amazonalexa.com/*
-api.americanwagering.com
 api.anytask.thesecurityteam.rocks
 api.arkane.network
 api.atg.se
@@ -3384,7 +3374,6 @@ buy.logitech.com
 ca.account.sony.com
 ca.koho
 cache.judge.me
-caesarspalaceonline.com
 caldav.larksuite.com
 calendar.infomaniak.com
 callbacks.airbnb.com
@@ -3523,8 +3512,6 @@ com.application.zomato
 com.application.zomatomerchant
 com.aqupepgames.projectpepe
 com.atebits.Tweetie2
-com.awi.cz.whrp
-com.awi.whrp
 com.badoo.hotornot
 com.badoo.mobile
 com.badoo.twa
@@ -3549,7 +3536,6 @@ com.brave.browser_beta
 com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
-com.caesarsdigital.igaming.caesarspalaceonline
 com.cheaptickets
 com.clubhouse.android
 com.coinbase.android
@@ -3770,7 +3756,6 @@ com.visma.blue
 com.vrbo.android
 com.wealthsimple
 com.wealthsimple.wealthsimple
-com.williamhill.us.nj.sports
 com.wisdomtree.wtprime
 com.withbuddies.dice.free
 com.workfront.android.aware
@@ -4155,8 +4140,6 @@ fps-extr-services.vidaxl.org
 fr.vidaxl.ch
 fv3lfbdyjh.infomaniak.site
 fw-update.ubnt.com
-gamesrv1.*.czr.neo.americanwagering.com/
-gamesrv1.*.us.williamhill.com
 gaming.logicool.co.jp
 gamma.grab.co
 gamma.redoxstage.com
@@ -4779,13 +4762,6 @@ https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
 https://butlerfortrello.com/
-https://caesars.com/sportsbook-and-casino/*
-https://caesarspalaceonline.com/*
-https://caesarspalaceonline.com/ca/on/casino
-https://caesarspalaceonline.com/mi/wv/casino
-https://caesarspalaceonline.com/us/nj/casino
-https://caesarspalaceonline.com/us/pa/casino
-https://caesarspalaceonline.com/us/wv/casino
 https://canva.cn/developers 
 https://canva.com/developers
 https://carbonneutral.ampol.com.au/
@@ -6368,7 +6344,6 @@ https://saas.egerie.eu/v4/EgerieRM/api/*
 https://salesforce.quip.com/blog/desktop
 https://sandbox.open-xchange.com
 https://scalews.withings.com
-https://scoreboardslauncher.williamhill.com/*
 https://screenplayer.20min.ch
 https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secure-iphone-xml.booking.com/json/
@@ -7885,7 +7860,6 @@ speeddials.opera.com
 speedtest.xfinity.com
 sport-components.sporza.be
 sportbild.bild.de
-sportsbook.caesars.com
 sportsbook.fanduel.com
 sporza.be
 sprint.com
@@ -8250,7 +8224,6 @@ wiki.portofantwerp.com
 wiki.portofantwerpbruges.com
 wiki.teamfortress.com
 wiki.ui.com
-williamhill.us
 winecellar.zomato.com
 winkels.torfs.be
 winterpackages.tomorrowland.com
@@ -8282,8 +8255,6 @@ ws.sorare.com
 ws.usaa.com
 ws1.dashlane.com
 wsmbr.usaa.com
-wss://api.americanwagering.com/*
-wss://diffusion-*.us.williamhill.com
 wss://socket.bitpanda.com
 wss://socketcluster.the-strip.eu
 wss://ws-futures.coinstore.com/socket.io/
