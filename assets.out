@@ -949,6 +949,7 @@
 *.vrbo.com
 *.vtm.be
 *.vtmgo.be
+*.water-link.be/
 *.wavecell.com
 *.wealthsimple.com
 *.wenewmoments.com
@@ -4956,6 +4957,7 @@ https://demo.sso.enterprise.ada.com
 https://depinscan.io/
 https://design.glassdoor.com/*
 https://desk-api-{region}.sendbird.com
+https://desktop.water-link.be/
 https://devedge.t-mobile.com
 https://developer.mastercard.com
 https://developer.withings.com/dashboard/
@@ -6144,6 +6146,7 @@ https://performance.neogov.com
 https://performancemarketing.mastercard.com/portal/
 https://pinepgconsole.in:9099
 https://pionex-doc.gitbook.io/apidocs/
+https://pit.water-link.be/
 https://pixabay.com/
 https://platform.openai.com/playground
 https://play.fga.dev/
@@ -6832,6 +6835,10 @@ https://www.verisign.com
 https://www.vfsglobalservices-germany.com/
 https://www.vfsvisaservice.com/
 https://www.vtcprodapi.maf.ae/svc/svcHifi.svc/SaveOCRReceipt
+https://www.water-link-jaarverslag.be
+https://www.water-link-pensioenfonds.be
+https://www.water-link.be
+https://www.waterstoring.be/
 https://www.web.com
 https://www.weebly.com/
 https://www.westernunion.at
