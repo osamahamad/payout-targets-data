@@ -21,10 +21,6 @@
 (youriwssubdomain).cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
-(yoursubdomain).sf-api.com
-(yoursubdomain).sf-api.eu
-(yoursubdomain).sharefile.com
-(yoursubdomain).sharefile.eu
 (yoursubdomain).us.iws.cloud.com
 * hln.be/inloggen
 * hln.be/login
@@ -3058,8 +3054,6 @@ api.sandbox.topperpay.com
 api.segment.io
 api.sendgrid.com
 api.sentiance.com
-api.sharefile.com
-api.sharefile.eu
 api.shipt.com
 api.skinport.com
 api.slack.com
@@ -4285,7 +4279,6 @@ hpanel.hostinger.com
 hpp.truelayer[-sandbox].com
 hr.prosus.com
 ht.visa.com
-http://(yoursubdomain).sharefile.com/sf/v3/
 http://agenttraining.westernunion.com
 http://analytics.prosus.com
 http://api.koho.ca/1.0
@@ -7786,8 +7779,6 @@ secure.netflix.com
 secure.plaid.com
 secure.quovo.com
 secure.rezserver.com
-secure.sharefile.com
-secure.sharefile.eu
 secure.tumblr.com
 secure.vendhq.com
 secure.westernunion.com
@@ -7819,9 +7810,6 @@ servicedesk-accpt.portofantwerpbruges.com
 servicedesk.portofantwerp.com
 servicedesk.portofantwerpbruges.com
 serviceportal.vidaxl.com
-sf-rp-eu.sharefile.com
-sf-rp-us.sharefile.com
-sf-rp.sharefile.com
 sftp.gamma.redoxstage.com
 sh.reddit.com
 shapeshift.com
