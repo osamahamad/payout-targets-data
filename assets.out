@@ -422,6 +422,7 @@
 *.honestdollar.com
 *.hotbit.io
 *.hoteltonight-test.com
+*.hoteltonight.com
 *.hotwire.com
 *.housetrip.com
 *.hs-sites.com
@@ -1688,6 +1689,7 @@ CyberGhost Windows application
 CyberGhost Xbox One + Xbox360 apps
 CyberGhost iOS application
 CyberGhost macOS application
+DIGITS - Mobile & Desktop
 DS proxy (see https://github.com/demarches-simplifiees/ds_proxy)
 DSE, Opscenter
 DSP
@@ -4975,6 +4977,7 @@ https://devportal.rec.net/
 https://devstaging.pcapcloud.com/*
 https://dexalot.com
 https://digits.t-mobile.com
+https://digits.t-mobile.com/
 https://directlink.eu-west-2.outscale.com
 https://doc.xt.com
 https://docs.allbridge.io/allbridge-overview/bridge-contracts
