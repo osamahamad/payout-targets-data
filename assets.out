@@ -503,6 +503,7 @@
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
+*.kucoin.com
 *.kwsdose.be
 *.lab.epam.com
 *.lahitapiola.fi
@@ -1492,7 +1493,6 @@ Beats - Winlogbeat
 Better Code Macro for Confluence - Cloud - https://marketplace.atlassian.com/apps/1214912/better-code-macro-for-confluence?hosting=cloud
 BigCommerce Android
 BigCommerce iOS
-Binance Connect
 Binance Desktop Application
 Binance Mobile Application for Android
 Binance Mobile Application for iOS
@@ -2005,6 +2005,8 @@ Kruidvat.Belgium.Android
 Kruidvat.Belgium.iOS
 Kruidvat.Netherlands.Android
 Kruidvat.Netherlands.iOS
+KuCoin Mobile Application for Android
+KuCoin Mobile Application for iOS
 LINE Messenger - Chat
 LINE Messenger - Keep
 LINE Messenger - News
@@ -2606,6 +2608,7 @@ Troubleshooting and Support - Jira - Server - https://marketplace.atlassian.com/
 TrueLayer for Magento (Magento plugin)
 TrueLayer for WooCommerce (WordPress plugin)
 Trustwallet Android App
+Trustwallet Chrome Extension
 Trustwallet iOS App
 Turnstile
 Twilio APIs
@@ -6630,7 +6633,6 @@ https://www.bigcommerce.com
 https://www.bigcommerce.net
 https://www.binance.com/
 https://www.binance.us/
-https://www.binancecnt.com/
 https://www.bit.com/
 https://www.bit.com/docs/en-us/futures.html#introduction
 https://www.bit.com/legacy/propertyCenter/assets
