@@ -69,6 +69,8 @@
 *.alasco.de
 *.alasco.rocks
 *.album.link
+*.algolia.net
+*.algolianet.com
 *.alibaba-inc.com
 *.alibaba.com
 *.alibabacloud.com
@@ -3614,6 +3616,7 @@ com.grabtaxi.passenger
 com.grammarly.android.keyboard
 com.grammarly.keyboard
 com.grindrapp.android
+com.grofers.customerapp
 com.gs.gsnow.external
 com.gs.gstrader.external
 com.gs.mobile.gsnow
@@ -3896,6 +3899,7 @@ daita/files_fulltextsearch_tesseract
 dash.ai
 dash.cloudflare.com
 dashboard-beta.fr.cloud.gov
+dashboard.algolia.com
 dashboard.doppler.com
 dashboard.fortmatic.com
 dashboard.fr.cloud.gov
@@ -8292,6 +8296,7 @@ www.abritel.fr
 www.ad.nl
 www.ad.nl/abonnementen
 www.airbnb.com
+www.algolia.com
 www.alibabagroup.com
 www.am.monespacesante.fr
 www.amazon.*
