@@ -2836,6 +2836,8 @@ acrobatoauth.adobe.com
 activate.codefi.network
 activities.marriott.com
 adblocking.clario.co
+add-in.eu.stag.henchman.io
+add-in.stag.henchman.io
 addons.allizom.org
 adm.cloud.com
 admin-catalog-bsp.data.gov
@@ -2907,14 +2909,19 @@ api-*.soundcloud.com
 api-a.usaa.com
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
+api-auth-relay.stag.henchman.io
+api-auth.stag.henchman.io
 api-boards.qwant.com
+api-dashboard.stag.henchman.io
 api-docs.poloniex.com
 api-eu.floqast.app
 api-js.datadome.co
 api-ne.mackeeper.com
+api-ops.stag.henchman.io
 api-saas.dana.id
 api-sandbox.gocardless.com
 api-sandbox.uphold.com
+api-search.stag.henchman.io
 api-staging.airtable.com
 api-staging.venly.market
 api-v2.frame.io
@@ -3899,6 +3906,7 @@ dash.cloudflare.com
 dashboard-beta.fr.cloud.gov
 dashboard.algolia.com
 dashboard.doppler.com
+dashboard.eu.stag.henchman.io
 dashboard.fortmatic.com
 dashboard.fr.cloud.gov
 dashboard.gamma.redoxstage.com
@@ -3910,6 +3918,7 @@ dashboard.plaid.com
 dashboard.pluralonline.com
 dashboard.rapyd.net
 dashboard.razorpay.com
+dashboard.stag.henchman.io
 dashboard.unity3d.com
 data.ketnet.be
 data.mail.yahoo.com
@@ -4382,7 +4391,6 @@ https://accounts.creditkarma.com
 https://accounts.lastpass.com
 https://accounts.opera.com
 https://accounts.welcomesoftware.com/
-https://add-in.stag.henchman.io
 https://addons.mozilla.org/en-US/firefox/addon/cyberghost-vpn-free-proxy/
 https://addons.mozilla.org/en-US/firefox/addon/pinterest/
 https://addons.mozilla.org/en-US/firefox/addon/private-internet-access-ext/
@@ -4421,12 +4429,10 @@ https://anytask.thesecurityteam.rocks
 https://anytask.thesecurityteam.rocks/
 https://api-a.usaa.com
 https://api-ch-gva-2.exoscale.com/v2
-https://api-dashboard.stag.henchman.io
 https://api-evm.orderly.org/
 https://api-evm.orderly.org/*
 https://api-js.datadome.co
 https://api-prod.thatconceptstore.com/
-https://api-search.stag.henchman.io
 https://api-staging.pingone.com/*
 https://api-test.nicehash.com
 https://api-test.nicex.com
@@ -4704,7 +4710,6 @@ https://auth.datadome.co
 https://auth.lastpass.com
 https://auth.opera.com
 https://auth.seek.com
-https://auth.stag.henchman.io
 https://auth.wyze.com
 https://authn.usaa.com/
 https://authy.com/download/
@@ -4940,7 +4945,6 @@ https://dashboard.pantheon.io
 https://dashboard.rapyd.net/
 https://dashboard.sendbird.com
 https://dashboard.sendbird.com/
-https://dashboard.stag.henchman.io
 https://dashboard.unity3d.com
 https://data.coda.io/*
 https://data.prosus.com/
@@ -6105,7 +6109,6 @@ https://openai.com/
 https://openai.org
 https://opensea.io/
 https://opensource.epam.com
-https://ops-dashboard.stag.henchman.io
 https://optimizely-edge.com
 https://orby.network
 https://orderly.network/
@@ -7464,6 +7467,7 @@ openid-noneu.truecaller.com
 openidconnect.net	
 opensea.io
 oprc.portofantwerpbruges.com
+ops-dashboard.stag.henchman.io
 opsgenie-bamboo-plugin - Server - https://marketplace.atlassian.com/apps/1224300/opsgenie-bamboo-plugin?hosting=server
 opslogin.fr.cloud.gov
 opt-out-noneu.truecaller.com

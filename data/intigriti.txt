@@ -145,12 +145,16 @@ YADIFA authoritative name server
 service.fing.com
 app.fing.com
 Fing desktop
-https://api-dashboard.stag.henchman.io
-https://api-search.stag.henchman.io
-https://add-in.stag.henchman.io
-https://auth.stag.henchman.io
-https://dashboard.stag.henchman.io
-https://ops-dashboard.stag.henchman.io
+add-in.eu.stag.henchman.io
+add-in.stag.henchman.io
+api-auth-relay.stag.henchman.io
+api-auth.stag.henchman.io
+api-dashboard.stag.henchman.io
+api-ops.stag.henchman.io
+api-search.stag.henchman.io
+dashboard.eu.stag.henchman.io
+dashboard.stag.henchman.io
+ops-dashboard.stag.henchman.io
 955837609
 com.here.app.maps
 * hln.be/inloggen
