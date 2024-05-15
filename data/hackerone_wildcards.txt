@@ -29,6 +29,9 @@ test*.redoxengine.com
 gamesrv1.*.czr.neo.americanwagering.com/
 gamesrv1.*.us.williamhill.com
 wss://diffusion-*.us.williamhill.com
+*.magiceden.dev
+*.magiceden.io
+*.magiceden.workers.dev
 *.boozt.com
 *.booztlet.com
 *.indrive.com
@@ -569,6 +572,3 @@ munin-*.wordpress.org
 *.vpn.hackerone.net
 *.hackerone-ext-content.com
 *.hackerone-user-content.com/
-*.magiceden.dev
-*.magiceden.io
-*.magiceden.workers.dev
