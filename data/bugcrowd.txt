@@ -1627,7 +1627,6 @@ Advanced Server Access (ASA) / (ScaleFT)
 Advanced Server Access Client / Agents
 Desktop MFA for Windows
 Desktop MFA for macOS
-FastPass ( OS X &  Windows )
 Okta Agent Windows
 Okta Browser Plugin (IE / Firefox / Chrome)
 Okta On-Prem Agents ( AD, LDAP, RDP, IWA )
@@ -1635,9 +1634,8 @@ Okta Verify (Android)
 Okta Verify (Mac OS)
 Okta Verify (Windows)
 Okta Verify (iOS)
+Okta Verify Fastpass
 Password Sync for macOS
-bugcrowd-%username%-1.oktapreview.com
-bugcrowd-%username%-2.oktapreview.com
 bugcrowd-oie-%username%-1.at.oktapreview.com
 bugcrowd-oie-%username%-1.oktapreview.com
 bugcrowd-oie-%username%-2.at.oktapreview.com

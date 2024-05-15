@@ -1788,7 +1788,6 @@ ExpressVPN macOS application
 External service data leakage 
 FIles.com REST API
 Fail Build Trigger for Bamboo - Server - https://marketplace.atlassian.com/apps/1215235/fail-build-trigger-for-bamboo?hosting=server
-FastPass ( OS X &  Windows )
 Faucets
 Favorites Dialog for Confluence - Server - https://marketplace.atlassian.com/apps/1214046/favorites-dialog-for-confluence?hosting=server
 Figma Atlassian App
@@ -2232,6 +2231,7 @@ Okta Verify (Android)
 Okta Verify (Mac OS)
 Okta Verify (Windows)
 Okta Verify (iOS)
+Okta Verify Fastpass
 Omega
 OneDrive - https://trello.com/power-ups/5940440775fbe327abd3329f/onedrive
 Online Marketplace
@@ -3360,8 +3360,6 @@ bridge.codefi.network
 browser-notifications.opera.com
 buckingfuggy.com
 buffered-reader
-bugcrowd-%username%-1.oktapreview.com
-bugcrowd-%username%-2.oktapreview.com
 bugcrowd-oie-%username%-1.at.oktapreview.com
 bugcrowd-oie-%username%-1.oktapreview.com
 bugcrowd-oie-%username%-2.at.oktapreview.com
