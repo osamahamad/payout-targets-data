@@ -4443,7 +4443,8 @@ https://api-test.nicex.com
 https://api-test.nicex.com/
 https://api-user.e2ro.com/*
 https://api-{app-id}.calls.sendbird.com
-https://api-{application_id}.sendbird.com
+https://api-{app-id}.notifications.sendbird.com
+https://api-{app-id}.sendbird.com
 https://api.20min.ch/
 https://api.aiven.io/login
 https://api.anytask.com/
@@ -6596,7 +6597,7 @@ https://wiki.xenproject.org/wiki/Xen_Project_Repositories
 https://wise.com
 https://wowjobs.ca
 https://ws-{app-id}.calls.sendbird.com
-https://ws-{application_id}.sendbird.com
+https://ws-{app-id}.sendbird.com
 https://ws.usaa.com
 https://wslatam.ifood.com.br
 https://wsloja.ifood.com.br

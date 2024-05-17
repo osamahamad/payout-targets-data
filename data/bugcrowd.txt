@@ -1927,7 +1927,8 @@ https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=com.certsy.app
 https://seekcdn.com
 https://api-{app-id}.calls.sendbird.com
-https://api-{application_id}.sendbird.com
+https://api-{app-id}.notifications.sendbird.com
+https://api-{app-id}.sendbird.com
 https://dashboard.sendbird.com
 https://dashboard.sendbird.com/
 https://desk-api-{region}.sendbird.com
@@ -1935,7 +1936,7 @@ https://gate.sendbird.com
 https://sendbird.com
 https://sendbird.com/docs
 https://ws-{app-id}.calls.sendbird.com
-https://ws-{application_id}.sendbird.com
+https://ws-{app-id}.sendbird.com
 1shoppingcart.com
 https://1shoppingcart.com
 https://mcssl.com
