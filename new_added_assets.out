@@ -1,9 +1,3 @@
-*.nlfxvideo.net
-Affiliates or entities such as recently acquired companies
-Content Authorization Targets
-Content authorization vulnerabilities affecting only the in-browser player
-Corporate Assets
-Low impact, individually exposed Google Docs with no common root cause (see “Publicly accessible Google Document or Drive Links” in the “Corporate Targets” section)
-Netflix Gaming Target
-Secondary Assets
-meechum.netflix.com
+*.varonis.com
+*.varonis.io
+*.varonis.net
