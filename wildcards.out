@@ -194,6 +194,7 @@
 *.citrixworkspacesapi.net
 *.citymeal.com
 *.claritymoney.com
+*.clearxchange.com
 *.cloud.malwarebytes.com
 *.cloud.vimeo.com
 *.cloudflare.com
@@ -274,6 +275,7 @@
 *.dropboxforum.com
 *.dropmix.com
 *.dyson.com
+*.earlywarning.com
 *.east.fdbox.net
 *.easy.ac
 *.eat.ch
@@ -962,6 +964,8 @@
 *.yuga.com
 *.yugalabs.io
 *.zdev.net
+*.zelle.com
+*.zellepay.com
 *.zomans.com
 *.zomato.com
 *ensemble*.yahoo.com
@@ -975,8 +979,10 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 api*.netflix.com
 api-*.soundcloud.com
 api.*.deliveroo.com
+api.zmsp.*.earlywarning.io
 assets.enjin.io,cdn.enjin.io,*.cdn.enjin.io,*.cdn.enjin.cn,cdn.enjin.cn,cdn.enjinx.io,cdn.enjinx.cn,enjinusercontent.com,*.enjinusercontent.com
 dcfgateway*.marriott.com
+developer*.earlywarning.com
 gamesrv1.*.czr.neo.americanwagering.com/
 gamesrv1.*.us.williamhill.com
 gateway*.marriott.com
@@ -990,6 +996,7 @@ portalapi.*.afterpay.com
 prod-*.nu.com.co
 prod-*.nu.com.mx
 prod-*.nubank.com.br
+support*.earlywarning.com
 swiss-backup*.infomaniak.com
 terra-*.indriverapp.com
 test*.redoxengine.com

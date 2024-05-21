@@ -188,6 +188,13 @@ vcc-*.8x8.com
 *.redditinc.com
 *.redditmedia.com
 *.snooguts.net
+*.clearxchange.com
+*.earlywarning.com
+*.zelle.com
+*.zellepay.com
+api.zmsp.*.earlywarning.io
+developer*.earlywarning.com
+support*.earlywarning.com
 *.instacart.com
 *.instacart.tools
 *.mattermost.com

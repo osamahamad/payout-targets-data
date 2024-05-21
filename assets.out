@@ -220,6 +220,7 @@
 *.citrixworkspacesapi.net
 *.citymeal.com
 *.claritymoney.com
+*.clearxchange.com
 *.cloud.malwarebytes.com
 *.cloud.vimeo.com
 *.cloudflare.com
@@ -300,6 +301,7 @@
 *.dropboxforum.com
 *.dropmix.com
 *.dyson.com
+*.earlywarning.com
 *.east.fdbox.net
 *.easy.ac
 *.eat.ch
@@ -988,6 +990,8 @@
 *.yuga.com
 *.yugalabs.io
 *.zdev.net
+*.zelle.com
+*.zellepay.com
 *.zomans.com
 *.zomato.com
 *developer.cloud.com
@@ -3117,6 +3121,9 @@ api.workbox.dk
 api.x.ai
 api.yoti.com
 api.ys7.com
+api.zellepay.com
+api.zmsp.*.earlywarning.io
+api.zmsp.earlywarning.com
 api2.frontapp.com
 api2.grofers.com
 api2.poloniex.com
@@ -3803,6 +3810,7 @@ com.yelp.android
 com.yelp.android.biz
 com.yoti.mobile.android.live
 com.yourcompany.PPClient
+com.zellepay.zelle
 com.zendesk.android
 com.zhiliao.musically.livewallpaper
 com.zhiliaoapp.musically
@@ -3958,6 +3966,7 @@ design.ui.com
 dev-training.ui.com
 dev.takeaway.com/html/
 devedge.t-mobile.com
+developer*.earlywarning.com
 developer.amazon.com/alexa/*
 developer.amazon.com/apps-and-games/*
 developer.authorize.net
@@ -4031,6 +4040,7 @@ e-Commerce
 eIDAS Bridge  (see program description for github link)
 eaccounting.stage.vismaonline.com
 eaccountingprinting.stage.vismaonline.com
+earlywarningapi.force.com
 eassessment.monash.edu
 ebctest.cybersource.com
 ebsext.oft.hyatt.com
@@ -4097,6 +4107,7 @@ events-staging.venly.market
 events.launchdarkly.com
 events.onecloud.harman.com
 events.venly.market
+ews-fusion.my.site.com
 exchange.adobe.com
 exchange.opera.com
 exmo.com
@@ -6081,6 +6092,8 @@ https://mylink.page
 https://myplutus.pinelabs.my/
 https://myshop.20min.ch
 https://myvpn.usaa.com
+https://mywallet-management-east.wallet.cat.earlywarning.io/
+https://mywallet-management-west.wallet.cat.earlywarning.io/
 https://namestudio.com
 https://namestudioforsocial.com/
 https://near.foundation/
@@ -6385,6 +6398,7 @@ https://s2.utv.usaa.com
 https://saas.egerie.eu/*
 https://saas.egerie.eu/v4/EgerieRM/api/*
 https://salesforce.quip.com/blog/desktop
+https://sandbox.digitalwallet.earlywarning.com
 https://sandbox.open-xchange.com
 https://scalews.withings.com
 https://scoreboardslauncher.williamhill.com/*
@@ -7561,9 +7575,11 @@ plannerrequest.hyatt.com
 platform.8x8.com
 platform.8x8pilot.com
 platform.adobe.com
+platform.cat.earlywarning.io
 platform.cloudways.com
 platform.enjin.io
 platform.remix.com
+platformtest.cat.earlywarning.io
 play.bild.de
 play.google.com/store/apps/details?id=com.crowdstrike.falconmobile
 play.google.com/store/apps/details?id=fr.assurancemaladie.monespacesante&showAllReviews=true (Android)
@@ -7975,6 +7991,7 @@ super-services.indriverapp.com
 super6.skysports.com
 supplier.auth.toag.booking.com
 supply-xml.booking.com
+support*.earlywarning.com
 support-api.airbnb.com
 support.avalabs.org
 support.creditkarma.ca
@@ -8778,6 +8795,8 @@ ywh.mydata.zecible.fr
 ywh.routage.zecible.fr
 ywh.static.zecible.fr
 ywh.update.zecible.fr
+zellepay.force.com
+zelleservice.my.site.com
 zen.deezer.com
 zerobounce.net
 zopim.com
