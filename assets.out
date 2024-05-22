@@ -1346,7 +1346,7 @@ Any other Malwarebytes asset
 Any public (Internet-facing) infrastructure owned and operated by Palantir.
 Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
 Any public cloud resource or infrastructure operated and managed by REI.
-Any publicly accessible TripAdvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
+Any publicly accessible Tripadvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
 Any publicly facing host owned by Etsy, including the below:
 Any related DPG media domain
 Any resource created or accessed with the Outscale Cloud, on all regions
@@ -2614,9 +2614,9 @@ Trello Desktop Client
 Trello Mobile App for Android
 Trello Mobile App for iOS
 Trello Third Party Powerups
-TripAdvisor Android App
-TripAdvisor Owner APP (https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045663228?mt=8)
-TripAdvisor iOS App
+Tripadvisor Android App
+Tripadvisor Owner APP (https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045663228?mt=8)
+Tripadvisor iOS App
 Troubleshooting and Support - Bamboo - Data Center - https://marketplace.atlassian.com/apps/1217745/troubleshooting-and-support-bamboo?hosting=datacenter
 Troubleshooting and Support - Bamboo - Server - https://marketplace.atlassian.com/apps/1217745/troubleshooting-and-support-bamboo?hosting=server
 Troubleshooting and Support - Confluence - DataCenter - https://marketplace.atlassian.com/apps/1217697/troubleshooting-and-support-confluence?hosting=datacenter
