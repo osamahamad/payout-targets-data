@@ -3420,6 +3420,7 @@ candle.etoro.com
 captivateprime.adobe.com
 capturingreality.com
 card.starbucks.com.sg
+cardpayments.remitly.io
 cards.remitly.io
 careers.booking.com
 careers.fortmatic.com
@@ -6907,6 +6908,7 @@ https://{account-code}.app.sandbox.digistorm.com-1/forms/enrol-form
 https://{account-code}.app.sandbox.digistorm.com-2/*
 https://{account-code}.app.sandbox.digistorm.com/admin/bookings
 https://{account-code}.app.sandbox.digistorm.com/admin/settings/crm/#checklists
+hub-api-sandbox.remitly.io
 hub.vroid.com
 hub.vznkul.be/*
 hub.vznkul.be/services/interhub/InterHubService
@@ -7217,6 +7219,7 @@ mcssl.com
 mds.voiapp.io
 media-services-public.vrt.be
 media.nexuzhealth.be/patient/
+media.remitly.io
 mediacenter.23andme.com
 medical.23andme.com
 meechum.netflix.com
