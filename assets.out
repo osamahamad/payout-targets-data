@@ -315,7 +315,6 @@
 *.epam.com
 *.epicgames.com
 *.epicgames.dev
-*.etsy.com
 *.eu.floqast.app
 *.eurid.eu
 *.europolitan.se
@@ -1344,7 +1343,6 @@ Any public (Internet-facing) infrastructure owned and operated by Palantir.
 Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
 Any public cloud resource or infrastructure operated and managed by REI.
 Any publicly accessible Tripadvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
-Any publicly facing host owned by Etsy, including the below:
 Any related DPG media domain
 Any resource created or accessed with the Outscale Cloud, on all regions
 Any subdomain application issue
@@ -1766,9 +1764,6 @@ Entity Property Tool for Jira - Cloud - https://marketplace.atlassian.com/apps/1
 EpicGamesLauncher.exe    
 EpicOnlineServices
 Etherspot SDK
-Etsy API (see documentation below)
-Etsy Mobile Application (Android)
-Etsy Mobile Application (iPhone)
 Evernote - https://trello.com/power-ups/55a5d915446f517774210003/evernote
 Exness Investor
 Exness Social Trading
@@ -4096,7 +4091,6 @@ errors.hackerone.net
 etickets.infomaniak.com
 etorologsapi.etoro.com
 etoropartners.com
-etsypayments.com
 eu.cloud.com
 eu.remix.com
 eu1.badoo.com
@@ -4267,7 +4261,6 @@ hc2tooling.com
 help-jp.krisp.ai
 help.coinhako.com
 help.databricks.com
-help.etsy.com
 help.krisp.ai
 help.marriott.com
 help.netflix.com
@@ -4314,11 +4307,8 @@ http://app.scaleft.com/
 http://artists.soundcloud.com/
 http://backend-api.devicecloud.production.forescoutcloud.net/api/v1/settings
 http://bitso.com/alpha
-http://blog.etsy.com/
-http://careers.etsy.com/
 http://coinbase.com
 http://collaboration.rei.com
-http://community.etsy.com/
 http://datapod-1-druid-ingest.production.forescoutcloud.net/v1/upload
 http://datapod-1-druid-query.production.forescoutcloud.net/v1/polling
 http://datapod-1-druid-query.production.forescoutcloud.net/v1/query/agg
@@ -5068,7 +5058,6 @@ https://etherscan.io/address/0xdeF3AA48bad043e53207d359dcDFdE46F50b6C02
 https://etherscan.io/address/0xf209815E595Cdf3ed0aAF9665b1772e608AB9380
 https://etherscan.io/address/0xf3d58D1794f2634d6649a978f2dc093898FEEBc0
 https://etherscan.io/address/0xf51B9C9a1c12e7E48BEC15DC358D0C1f0d7Eb3be
-https://etsypayments.com
 https://europe.priceless.com/shb
 https://exchange.fastex.com/
 https://exchange.pointpay.io/
@@ -5568,7 +5557,6 @@ https://halp.com/halp-integrations/microsoft-teams
 https://head.coda.io/*
 https://healthmate.withings.com
 https://help.creditkarma.com/
-https://help.etsy.com
 https://help.glassdoor.com/*
 https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
 https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows.htm
@@ -6667,9 +6655,6 @@ https://www.dropbox.com/capture
 https://www.dropbox.com/desktop
 https://www.dropbox.com/paper
 https://www.epam.com/
-https://www.etsy.com
-https://www.etsy.com/developers/documentation/getting_started/api_basics
-https://www.etsy.com/mobile
 https://www.expressvpn.com
 https://www.favebiz.com/
 https://www.fishbowlapp.com/*
@@ -8411,7 +8396,6 @@ www.ein-herz-fuer-kinder.de
 www.elastic.co
 www.elvetino.ch
 www.etoro.com
-www.etsy.com
 www.evernote.com
 www.expedia.com
 www.expediaagents.com
