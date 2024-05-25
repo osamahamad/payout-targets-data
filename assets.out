@@ -315,7 +315,6 @@
 *.epam.com
 *.epicgames.com
 *.epicgames.dev
-*.etsy.com
 *.eu.floqast.app
 *.eurid.eu
 *.europolitan.se
@@ -1344,7 +1343,6 @@ Any public (Internet-facing) infrastructure owned and operated by Palantir.
 Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
 Any public cloud resource or infrastructure operated and managed by REI.
 Any publicly accessible Tripadvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
-Any publicly facing host owned by Etsy, including the below:
 Any related DPG media domain
 Any resource created or accessed with the Outscale Cloud, on all regions
 Any subdomain application issue
@@ -1766,9 +1764,6 @@ Entity Property Tool for Jira - Cloud - https://marketplace.atlassian.com/apps/1
 EpicGamesLauncher.exe    
 EpicOnlineServices
 Etherspot SDK
-Etsy API (see documentation below)
-Etsy Mobile Application (Android)
-Etsy Mobile Application (iPhone)
 Evernote - https://trello.com/power-ups/55a5d915446f517774210003/evernote
 Exness Investor
 Exness Social Trading
@@ -2021,6 +2016,11 @@ LINE Messenger - News
 LINE Messenger - OpenChat
 LINE Messenger - VOOM
 LINE Messenger - VoIP
+LastPass Authenticator (Android)
+LastPass Authenticator (iOS)
+LastPass Password Manager (Android)
+LastPass Password Manager (iOS)
+LastPass browser extensions (Chrome / Safari / Edge / Firefox)
 Latest Supported LTS versions of the Unity Editor ( 2020.x / 2021.x / 2022.x ) 
 Latest ZAP version (2.15.0)
 Latest version of Wise Android App
@@ -2038,6 +2038,7 @@ Linktree iOS app
 List Limits Power-Up
 Livestream software (Producer, Studio)
 Load Balancing
+Local computer apps (UWP application / Windows installer (MSI) / MacOS)
 Localized airbnb sites listed at the link below:
 Localized versions of www.tripadvisor.com available from the site's header or footer
 Logi Options+ PC/MAC
@@ -2743,6 +2744,7 @@ Workers AI
 Workers KV
 Workflow Screenshot for Jira - Server - https://marketplace.atlassian.com/apps/1215704/workflow-screenshot-for-jira?hosting=server
 Workfront Outlook Plugin
+Workstation MFA (WMFA)
 Wyze Cam V3
 XD
 XG Firewall
@@ -4089,7 +4091,6 @@ errors.hackerone.net
 etickets.infomaniak.com
 etorologsapi.etoro.com
 etoropartners.com
-etsypayments.com
 eu.cloud.com
 eu.remix.com
 eu1.badoo.com
@@ -4260,7 +4261,6 @@ hc2tooling.com
 help-jp.krisp.ai
 help.coinhako.com
 help.databricks.com
-help.etsy.com
 help.krisp.ai
 help.marriott.com
 help.netflix.com
@@ -4307,11 +4307,8 @@ http://app.scaleft.com/
 http://artists.soundcloud.com/
 http://backend-api.devicecloud.production.forescoutcloud.net/api/v1/settings
 http://bitso.com/alpha
-http://blog.etsy.com/
-http://careers.etsy.com/
 http://coinbase.com
 http://collaboration.rei.com
-http://community.etsy.com/
 http://datapod-1-druid-ingest.production.forescoutcloud.net/v1/upload
 http://datapod-1-druid-query.production.forescoutcloud.net/v1/polling
 http://datapod-1-druid-query.production.forescoutcloud.net/v1/query/agg
@@ -4391,6 +4388,7 @@ https://account.t-mobile.com
 https://account.teamviewer.com
 https://account.withings.com
 https://accounts.creditkarma.com
+https://accounts.lastpass.com
 https://accounts.opera.com
 https://accounts.welcomesoftware.com/
 https://addons.mozilla.org/en-US/firefox/addon/cyberghost-vpn-free-proxy/
@@ -4400,6 +4398,7 @@ https://addons.opera.com/en/extensions/details/private-internet-access-extension
 https://admin-roundups.moneyboxapp.org/
 https://admin.atlassian.com/
 https://admin.atlassian.com/atlassian-access
+https://admin.lastpass.com
 https://admin.moneyboxapp.org/
 https://admin.ring.com/*
 https://admin3.pentest.clicsante.ca
@@ -4643,6 +4642,8 @@ https://apps.apple.com/us/app/jira-cloud-by-atlassian/id1006972087
 https://apps.apple.com/us/app/jira-server/id1405353949
 https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665	
 https://apps.apple.com/us/app/keeperchat/id1273303729?mt=12
+https://apps.apple.com/us/app/lastpass-authenticator/id1079110004
+https://apps.apple.com/us/app/lastpass-password-manager/id324613447
 https://apps.apple.com/us/app/map-my-fitness-gps-workout/id298903147
 https://apps.apple.com/us/app/monash-study/id1462126829
 https://apps.apple.com/us/app/okcoin-bitcoin-trading-exch/id867444712?mt=8
@@ -4705,6 +4706,7 @@ https://auth-ywh.it.authentification.si.gouv.qc.ca
 https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
+https://auth.lastpass.com
 https://auth.opera.com
 https://auth.seek.com
 https://auth.wyze.com
@@ -4745,6 +4747,7 @@ https://blockexplorer.electroneum.com
 https://blog.bitpanda.com
 https://blog.bitpanda.com/en
 https://blog.creditkarma.com/
+https://blog.lastpass.com
 https://blog.verisign.com
 https://blog.whitebit.com/
 https://bluejeans.com/
@@ -5055,7 +5058,6 @@ https://etherscan.io/address/0xdeF3AA48bad043e53207d359dcDFdE46F50b6C02
 https://etherscan.io/address/0xf209815E595Cdf3ed0aAF9665b1772e608AB9380
 https://etherscan.io/address/0xf3d58D1794f2634d6649a978f2dc093898FEEBc0
 https://etherscan.io/address/0xf51B9C9a1c12e7E48BEC15DC358D0C1f0d7Eb3be
-https://etsypayments.com
 https://europe.priceless.com/shb
 https://exchange.fastex.com/
 https://exchange.pointpay.io/
@@ -5555,7 +5557,6 @@ https://halp.com/halp-integrations/microsoft-teams
 https://head.coda.io/*
 https://healthmate.withings.com
 https://help.creditkarma.com/
-https://help.etsy.com
 https://help.glassdoor.com/*
 https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
 https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows.htm
@@ -5635,6 +5636,8 @@ https://laptop-updates.brave.com/latest/openSUSE64
 https://laptop-updates.brave.com/latest/osx
 https://laptop-updates.brave.com/latest/winia32
 https://laptop-updates.brave.com/latest/winx64
+https://lastpass.com
+https://lastpass.com/misc_download2.php
 https://lbu.eu-west-2.outscale.com
 https://learn.neogov.com
 https://legacy-blockexplorer.electroneum.com
@@ -6191,6 +6194,8 @@ https://play.google.com/store/apps/details?id=com.jbl.oneapp&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US	
 https://play.google.com/store/apps/details?id=com.keepersecurity.chat&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.kfit.fave&hl=en&gl=US
+https://play.google.com/store/apps/details?id=com.lastpass.authenticator&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.lastpass.lpandroid
 https://play.google.com/store/apps/details?id=com.maf.share&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.maf.thatandroid
 https://play.google.com/store/apps/details?id=com.mapmyfitness.android2&hl=en&pli=1
@@ -6429,6 +6434,7 @@ https://store.unity.com
 https://studentplacements.monash.edu
 https://suggestions.opera-api.com
 https://supplier.viator.com/
+https://support.lastpass.com
 https://support.okta.com
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
@@ -6649,9 +6655,6 @@ https://www.dropbox.com/capture
 https://www.dropbox.com/desktop
 https://www.dropbox.com/paper
 https://www.epam.com/
-https://www.etsy.com
-https://www.etsy.com/developers/documentation/getting_started/api_basics
-https://www.etsy.com/mobile
 https://www.expressvpn.com
 https://www.favebiz.com/
 https://www.fishbowlapp.com/*
@@ -6683,6 +6686,7 @@ https://www.kruidvat.nl/blog/
 https://www.kruidvat.nl/fotoservice
 https://www.kruidvat.nl/persoonlijk
 https://www.kuleuven.be/sapredir/huisvesting
+https://www.lastpass.com
 https://www.letspaylater.ph/
 https://www.letspaylater.sg/
 https://www.lieferando.de/thetakeaway/
@@ -8392,7 +8396,6 @@ www.ein-herz-fuer-kinder.de
 www.elastic.co
 www.elvetino.ch
 www.etoro.com
-www.etsy.com
 www.evernote.com
 www.expedia.com
 www.expediaagents.com
