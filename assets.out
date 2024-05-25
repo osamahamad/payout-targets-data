@@ -14,7 +14,6 @@
  developers.vendhq.com
  https://api.ibops.net/ad-management
  https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/entitlements
- meechum.netflix.com
  tsock.us1.twilio.com
  www.register.com
  www.web.com
@@ -1646,7 +1645,6 @@ Confluence Slack Automation Integration by Halp - Cloud - https://marketplace.at
 Confluence Source Editor - Server - https://marketplace.atlassian.com/apps/1210722/confluence-source-editor?hosting=server
 Confluence Trello Power-Up - Cloud - https://marketplace.atlassian.com/apps/1216623/confluence-trello-power-up?hosting=cloud
 Confluence recent edits overview - Cloud - https://marketplace.atlassian.com/apps/1224758/confluence-recent-edits-overview?hosting=cloud
-Content Authorization Findings
 Content Authorization Targets
 Content authorization vulnerabilities affecting only the in-browser player
 ContentCal
@@ -1663,7 +1661,6 @@ Core Priceless.com - demo.priceless.com
 Core Web Wallet
 Coreth
 Corporate Assets
-Corporate Targets
 CosmWasm
 Cosmos SDK
 CounterAct 8.4
@@ -2428,7 +2425,6 @@ Scanwatch Nova
 Scenarios with Special Bounties
 Scope Questions: Items not explicitly listed here
 Secondary Assets
-Secondary Targets (read below)
 Sequoia git Specification
 Services (like the website, bug tracker, and server infrastructure)
 Share Rewards Android App
@@ -4374,7 +4370,6 @@ http://sapphire.oasis.io
 http://sb-console-api.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://secure-iphone-xml.booking.com/json/
-http://secure.netflix.com
 http://skinport.com/blog/
 http://socialdeal.nl/inspirations/bluemonday/
 http://staking.consensys.io
@@ -4385,7 +4380,6 @@ http://wallets.opensea.io/
 http://www.kiwi.com/stories
 http://www.logitech.com/my-account
 http://www.myvisacardportal.com/welcome/enbd/product/#
-http://www.netflix.com
 http://www.register.com
 http://www.rei.com/learn/expert-advice
 http://www.shopmarriott.com
@@ -4664,7 +4658,6 @@ https://apps.apple.com/us/app/lastpass-authenticator/id1079110004
 https://apps.apple.com/us/app/lastpass-password-manager/id324613447
 https://apps.apple.com/us/app/map-my-fitness-gps-workout/id298903147
 https://apps.apple.com/us/app/monash-study/id1462126829
-https://apps.apple.com/us/app/netflix/id363590051
 https://apps.apple.com/us/app/okcoin-bitcoin-trading-exch/id867444712?mt=8
 https://apps.apple.com/us/app/okta-verify/id490179405
 https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
@@ -4746,7 +4739,6 @@ https://basescan.org/address/0xa5d378c05192e3f1f365d6298921879c4d51c5a3
 https://basescan.org/address/0xd978bb7a7ae5b01116d1bd714fedd1b77ca9e75b
 https://basescan.org/address/0xdd4536dD9636564D891c919416880a3e250f975A
 https://bc.yieldstreet.net
-https://beacon.netflix.com
 https://bigcommerce.com/blog
 https://bigcommerce.com/make-it-big
 https://billing.ring.com/*
@@ -4947,7 +4939,6 @@ https://cryptowallet.opera-api.com
 https://csp-prod.codebig2.net
 https://cuba.westernunion.com
 https://customer-api.datadome.co
-https://customerevents.netflix.com
 https://customerportal.winconnect.com.au/login
 https://customers.us1.fga.dev/
 https://cyberghost.com
@@ -5209,10 +5200,6 @@ https://github.com/MystenLabs/sui/tree/testnet/crates/sui-verifier
 https://github.com/MystenLabs/sui/tree/testnet/external-crates/move
 https://github.com/MystenLabs/sui/tree/testnet/narwhal
 https://github.com/NXT-Technologies-INC/NXTChain/tree/main/Permission%20Smart%20Contract
-https://github.com/Netflix/atlas
-https://github.com/Netflix/dispatch
-https://github.com/Netflix/spectator
-https://github.com/Netflix/zuul
 https://github.com/Nginx
 https://github.com/OctopusDeploy
 https://github.com/P2B-team/p2b-api-docs
@@ -5448,8 +5435,6 @@ https://github.com/near/core-contracts/tree/master/staking-pool
 https://github.com/near/core-contracts/tree/master/staking-pool-factory
 https://github.com/near/core-contracts/tree/master/whitelist
 https://github.com/near/nearcore
-https://github.com/netflix/consoleme
-https://github.com/netflix/weep
 https://github.com/nextcloud/files_confidential
 https://github.com/nicehash/NHOS
 https://github.com/nicehash/NiceHashMiner
@@ -5587,7 +5572,6 @@ https://healthmate.withings.com
 https://help.creditkarma.com/
 https://help.etsy.com
 https://help.glassdoor.com/*
-https://help.netflix.com
 https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
 https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows.htm
 https://help.okta.com/en/prod/Content/Topics/Settings/download-browser-plugin.htm
@@ -5600,7 +5584,6 @@ https://hr.neogov.com
 https://hr.prosus.com/
 https://huddle.bluejeans.com
 https://hug.personio.com
-https://ichnaea.netflix.com
 https://icu.eu-west-2.outscale.com
 https://id.atlassian.com/login
 https://id.unity.com
@@ -6029,7 +6012,6 @@ https://matrix.i.tchap.gouv.fr
 https://mc.sendgrid.com/
 https://mcs.arlo.com
 https://mcssl.com
-https://meechum.netflix.com
 https://meinkonto.bild.de/
 https://menulog.co.nz
 https://menulog.com.au
@@ -6087,7 +6069,6 @@ https://near.foundation/
 https://net.geo.opera.com
 https://newsletter.thuisbezorgd.nl
 https://nice.wfmusaa.com
-https://nmtracking.netflix.com
 https://node.e2ro.com/*
 https://nubank.com.br/
 https://nubank.com.co
@@ -6234,7 +6215,6 @@ https://play.google.com/store/apps/details?id=com.maf.thatandroid
 https://play.google.com/store/apps/details?id=com.mapmyfitness.android2&hl=en&pli=1
 https://play.google.com/store/apps/details?id=com.moneyboxapp
 https://play.google.com/store/apps/details?id=com.moonpay
-https://play.google.com/store/apps/details?id=com.netflix.mediaclient&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.nicehash.metallum&hl=en
 https://play.google.com/store/apps/details?id=com.nth.swisspost&hl=de_CH&gl=US
 https://play.google.com/store/apps/details?id=com.nu.production&hl=pt_BR&gl=US&pli=1
@@ -6349,7 +6329,6 @@ https://portalapi.eu.clearpay.co.uk
 https://portalapi.us.afterpay.com
 https://powerdms.com/
 https://pprd.cybermalveillance.gouv.fr
-https://presentationtracking.netflix.com
 https://priceless.com/aa/
 https://priceless.com/aviator/
 https://priceless.com/citiaadvantage/

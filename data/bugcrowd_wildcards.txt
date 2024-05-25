@@ -145,14 +145,6 @@ Internal Web services - *.internal.exoscale.ch
 *.song.link
 *.songlink.io
 *.tr.ee
-*.nflxext.com
-*.nflximg.net
-*.nflxso.net
-*.nflxvideo.net
-*.prod.cloud.netflix.com
-*.prod.dradis.netflix.com
-*.prod.ftl.netflix.com
-api*.netflix.com
 *.nuinvest.com.br	
 prod-*.nu.com.co
 prod-*.nu.com.mx
