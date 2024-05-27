@@ -2932,7 +2932,9 @@ api-sandbox.gocardless.com
 api-sandbox.uphold.com
 api-search.stag.henchman.io
 api-staging.airtable.com
+api-staging.venly.market
 api-v2.frame.io
+api-wallet.venly.io
 api.*.deliveroo.com
 api.23andme.com
 api.account.clario.co
@@ -2943,6 +2945,7 @@ api.alasco.de
 api.amazonalexa.com/*
 api.americanwagering.com
 api.anytask.thesecurityteam.rocks
+api.arkane.network
 api.atg.se
 api.au.frontegg.com
 api.avax-test.network
@@ -3105,6 +3108,7 @@ api.uphold.com
 api.upwork.com/graphql
 api.us.veriff.me
 api.usaa.com
+api.venly.market
 api.veriff.me
 api.vhx.tv
 api.vidaxl.com
@@ -3836,9 +3840,11 @@ configure.mini.de
 confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
+connect.arkane.network
 connect.deezer.com
 connect.identity.stagaws.visma.com
 connect.monash.edu
+connect.venly.io
 console-backend.truelayer[-sandbox].com
 console.aiven.io
 console.chainstack.com
@@ -4096,8 +4102,10 @@ eu.remix.com
 eu1.badoo.com
 evening-earth.gamma.redoxstage.com
 event.clario.co
+events-staging.venly.market
 events.launchdarkly.com
 events.onecloud.harman.com
+events.venly.market
 ews-fusion.my.site.com
 exchange.adobe.com
 exchange.opera.com
@@ -7087,6 +7095,7 @@ login-accpt.portofantwerpbruges.com
 login-api.truelayer[-sandbox].com
 login-ia.tvg.com
 login-pabets.tvg.com
+login.arkane.network
 login.cm.com
 login.delen.be
 login.delen.ch
@@ -7104,6 +7113,7 @@ login.starbucks.co.jp
 login.swapcard.com
 login.truelayer[-sandbox].com
 login.tvg.com
+login.venly.io
 login.vrt.be
 login.www.vaxvacationaccess.com
 logitech.zendesk.com
@@ -7894,6 +7904,7 @@ staging-xray.october.eu
 staging.airtable.com
 staging.gearset.com
 staging.magisto.com
+staging.venly.market
 staging.vidaxl.io
 staking-api.polygon.technology
 static-cdn.clario.co
@@ -8135,6 +8146,7 @@ valid-names-noneu.truecaller.com
 vault.omise.co
 vcc-*.8x8.com
 vendorss.usaa.com
+venly.market
 verification-eu.truecaller.com
 verification-noneu.truecaller.com
 verify.arkoselabs.com
@@ -8179,6 +8191,7 @@ wallet.etoro.com
 wallet.oasis.io
 wallet.polygon.technology
 wallet.uphold.com
+wallet.venly.io
 walletproxy.tapayments.com
 walletproxy1.tapayments.com
 walletproxy2.tapayments.com
