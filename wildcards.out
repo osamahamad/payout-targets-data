@@ -882,7 +882,6 @@
 *.unrealtournament.com
 *.unscreen.com
 *.uphold.com
-*.us.williamhill.com
 *.uzleuven.*
 *.vacationhomerentals.com
 *.varonis.com
@@ -922,7 +921,6 @@
 *.westernunion.*
 *.white.market
 *.whois.eu
-*.williamhill.us
 *.wimpmusic.com
 *.wise.com
 *.withairbnb.com
@@ -976,8 +974,6 @@ api.zmsp.*.earlywarning.io
 assets.enjin.io,cdn.enjin.io,*.cdn.enjin.io,*.cdn.enjin.cn,cdn.enjin.cn,cdn.enjinx.io,cdn.enjinx.cn,enjinusercontent.com,*.enjinusercontent.com
 dcfgateway*.marriott.com
 developer*.earlywarning.com
-gamesrv1.*.czr.neo.americanwagering.com/
-gamesrv1.*.us.williamhill.com
 gateway*.marriott.com
 h1-*your-own-instance*.cloud.mattermost.com
 intercity-*.eu-east-1.indriverapp.com
@@ -994,7 +990,6 @@ swiss-backup*.infomaniak.com
 terra-*.indriverapp.com
 test*.redoxengine.com
 vcc-*.8x8.com
-wss://diffusion-*.us.williamhill.com
 www.paypal-*.com
 xhomeapi-*.cloud.comcast.net
 xhomeapi-*.codebig2.net
