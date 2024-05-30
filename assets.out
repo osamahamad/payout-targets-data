@@ -186,6 +186,7 @@
 *.byairbnb.com
 *.bybit.com
 *.byspotify.com
+*.c-point.be
 *.canva-apps.cn
 *.canva-apps.com
 *.canva.cn
@@ -1081,6 +1082,7 @@
 1671793296
 169.254.169.254
 185.26.180.0/22
+188.118.8.0/25
 192.251.123.0/24
 192.251.124.0/24
 192.251.125.0/24
@@ -1195,6 +1197,7 @@
 936983378
 937011954453721119
 938003185
+94.107.237.192/26
 944011620
 947984433
 949829216
@@ -2899,6 +2902,8 @@ ap-s.cloud.com
 api*.netflix.com
 api-*.soundcloud.com
 api-a.usaa.com
+api-accpt.portofantwerp.com
+api-accpt.portofantwerpbruges.com
 api-auth-relay.stag.henchman.io
 api-auth.stag.henchman.io
 api-boards.qwant.com
@@ -3041,6 +3046,8 @@ api.ovh.com
 api.pinterest.com
 api.pns.hk
 api.poloniex.com
+api.portofantwerp.com
+api.portofantwerpbruges.com
 api.preprod.monespacesante.fr
 api.production.cde.tamg.cloud
 api.profiler.firefox.com
@@ -3203,10 +3210,14 @@ applause1.magisto.com
 apple-subscription-monitor-eu.truecaller.com
 applications.frame.io
 appmiral.com
+apps-accpt.portofantwerp.com
+apps-accpt.portofantwerpbruges.com
 apps.apple.com/fr/app/mon-espace-sant%C3%A9/id1589255019 (iOS)
 apps.apple.com/us/app/crowdstrike-falcon/id1458815656
 apps.meraki.io
 apps.nextcloud.com
+apps.portofantwerp.com
+apps.portofantwerpbruges.com
 apps.zendesk.com
 aqtooling.com
 aquiris.com.br
@@ -3218,6 +3229,10 @@ arrive-server.shopifycloud.com
 artifactory.corp.mongodb.com/
 artists.soundcloud.com
 artists.tomorrowland.com/production-website/33117
+as2-accpt.portofantwerp.com
+as2-accpt.portofantwerpbruges.com
+as2.portofantwerp.com
+as2.portofantwerpbruges.com
 asana.com
 asiointi.lahitapiola.fi
 asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
@@ -3975,6 +3990,7 @@ digitaloceanmirrors.com
 digitaloceanpartners.com
 digitaloceanstatus.com
 digitaloceantest.com
+digitalspecs.portofantwerpbruges.com
 digits.t-mobile.com
 direct.playstation.com
 distribution-xml.booking.com
@@ -7061,6 +7077,7 @@ localizestaging.com
 logilife.logitech.com
 login-4ngbets.us.betfair.com
 login-4njbets.us.betfair.com
+login-accpt.portofantwerpbruges.com
 login-api.truelayer[-sandbox].com
 login-ia.tvg.com
 login-pabets.tvg.com
@@ -7077,6 +7094,7 @@ login.lansweeper.com
 login.oyens.com
 login.pabets.tvg.com
 login.playcanvas.com
+login.portofantwerpbruges.com
 login.starbucks.co.jp
 login.swapcard.com
 login.truelayer[-sandbox].com
@@ -7157,6 +7175,10 @@ masq.qwant.com
 matomo.cloud
 matrix.agent.*.tchap.gouv.fr
 matrix.redditspace.com
+maximo-accpt.portofantwerp.com
+maximo-accpt.portofantwerpbruges.com
+maximo.portofantwerp.com
+maximo.portofantwerpbruges.com
 mcssl.com
 mds.voiapp.io
 media-services-public.vrt.be
@@ -7240,6 +7262,8 @@ munin-*.wordpress.org
 mus1.badoo.com
 mx1.uzleuven.be
 mx2.uzleuven.be
+my-accpt.portofantwerp.com
+my-accpt.portofantwerpbruges.com
 my.account.sony.com
 my.eurid.eu
 my.exness.com
@@ -7249,6 +7273,8 @@ my.malwarebytes.com
 my.monash
 my.plaid.com
 my.playstation.com
+my.portofantwerp.com
+my.portofantwerpbruges.com
 my.pressable.com
 my.sheer.com
 my.snapchat.com
@@ -7413,6 +7439,7 @@ openapi.starbucks.com
 openid-noneu.truecaller.com
 openidconnect.net	
 opensea.io
+oprc.portofantwerpbruges.com
 ops-dashboard.stag.henchman.io
 opsgenie-bamboo-plugin - Server - https://marketplace.atlassian.com/apps/1224300/opsgenie-bamboo-plugin?hosting=server
 opslogin.fr.cloud.gov
@@ -7622,6 +7649,8 @@ recommended-contacts-noneu.truecaller.com
 reddit.secure.force.com
 redditforbusiness.com
 referrals-asia-south1.truecaller.com
+register-accpt.portofantwerp.com
+register-accpt.portofantwerpbruges.com
 registre.notebleue.pro
 registry.gitlab.com
 rei.com
@@ -7747,11 +7776,19 @@ service.fing.com
 service.platform.tripadvisor.com
 service.racing.fanduel.com
 service.tvg.com
+servicedesk-accpt.portofantwerp.com
+servicedesk-accpt.portofantwerpbruges.com
+servicedesk.portofantwerp.com
+servicedesk.portofantwerpbruges.com
 serviceportal.vidaxl.com
 sftp.gamma.redoxstage.com
 sh.reddit.com
 shapeshift.com
+share-accpt.portofantwerp.com
+share-accpt.portofantwerpbruges.com
 share.doppler.com
+share.portofantwerp.com
+share.portofantwerpbruges.com
 shavar.services.mozilla.com
 shop-id.tokopedia.com
 shop.adobe.com
@@ -8160,6 +8197,10 @@ web.koho.ca
 web.snapchat.com
 web.truecaller.com
 webapi.clario.co
+webapps-accpt.portofantwerp.com
+webapps-accpt.portofantwerpbruges.com
+webapps.portofantwerp.com
+webapps.portofantwerpbruges.com
 webauthn.me	
 webdirectory-eu.truecaller.com
 webdirectory-noneu.truecaller.com
@@ -8184,9 +8225,13 @@ wgc.polo-static.com
 whatsnew.krisp.ai
 whitebit.com
 widget.rentalcars.com
+wiki-accpt.portofantwerp.com
+wiki-accpt.portofantwerpbruges.com
 wiki.cs.money
 wiki.grab.com
 wiki.near.org
+wiki.portofantwerp.com
+wiki.portofantwerpbruges.com
 wiki.teamfortress.com
 wiki.ui.com
 williamhill.us
@@ -8480,6 +8525,7 @@ www.omise.co
 www.opera.com
 www.opn.ooo
 www.orbitz.com
+www.oursustainableport.com
 www.ovh.com
 www.ovh.com/manager
 www.pangleglobal.com
@@ -8492,6 +8538,7 @@ www.pixiv.net
 www.pns.hk
 www.pornbox.com
 www.pornworld.com
+www.portofantwerpbruges.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.com
 www.practicalmoneyskills.org
