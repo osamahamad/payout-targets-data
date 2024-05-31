@@ -2392,7 +2392,6 @@ SSL/TLS
 SSO Connect Cloud
 SSO for Atlassian Server and Data Center - DataCenter - https://marketplace.atlassian.com/apps/1216096/sso-for-atlassian-server-and-data-center?hosting=datacenter
 SSO for Atlassian Server and Data Center - Server - https://marketplace.atlassian.com/apps/1216096/sso-for-atlassian-server-and-data-center?hosting=server
-SSO_Saml_connector
 Salesforce - https://trello.com/power-ups/55a5d917446f517774210009/salesforce
 Scanwatch
 Scanwatch 2
@@ -2451,7 +2450,6 @@ Square Register
 Square Terminal
 Staging Electroneum Android App
 Staging, QA, Dev, and Test Environments
-Standalone Chrome extension
 Status Smart Contracts
 Statuspage for Jira - Cloud - https://marketplace.atlassian.com/apps/1219451/statuspage-for-jira?hosting=cloud
 Statuspage for Jira Service Management - Cloud - https://marketplace.atlassian.com/apps/1216079/statuspage-for-jira-service-management?hosting=cloud
@@ -2947,7 +2945,6 @@ api.cointr.com
 api.cointr.pro
 api.creditkarma.com
 api.custody.coinbase.com
-api.dashlane.com
 api.data.gov
 api.deezer.com
 api.deriv.com
@@ -3123,7 +3120,6 @@ app.avtoelon.uz
 app.chime.com
 app.circle.com
 app.command.cysiv.com
-app.dashlane.com
 app.delen.be
 app.delen.ch
 app.delen.lu
@@ -3553,8 +3549,6 @@ com.coinhako.app
 com.coinspot.app
 com.creditkarma.mobile
 com.creditkarma.mobile.international
-com.dashlane
-com.dashlane.dashlanephonefinal
 com.defi.wallet
 com.deliveroo.driverapp
 com.deliveroo.orderapp
@@ -3823,7 +3817,6 @@ connect.venly.io
 console-backend.truelayer[-sandbox].com
 console.aiven.io
 console.chainstack.com
-console.dashlane.com
 console.truelayer[-sandbox].com
 contact-lists-eu.truecaller.com
 contact-lists-noneu.truecaller.com
@@ -4167,7 +4160,6 @@ gateway*.marriott.com
 gateway.reddit.com
 gateway.skyscanner.net/*
 geckoterminal.com
-gehmmocbbkpblljhkekmfhjpfbkclbph
 geminiadvisory.io
 geofilters.snapchat.com
 get.geo.opera.com
@@ -6609,8 +6601,6 @@ https://www.cyberghostvpn.com/
 https://www.cyberghostvpn.com/en_US/apps/linux-vpn
 https://www.cyberghostvpn.com/en_US/apps/macos-vpn
 https://www.cyberghostvpn.com/en_US/apps/windows-vpn
-https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&target=launcher_macosx
-https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
 https://www.deepcoin.com/
 https://www.deepcoin.com/en/apiPage
 https://www.demarches-simplifiees.fr
@@ -7072,7 +7062,6 @@ logitech.zendesk.com
 logitechg.com.cn
 logitechgchallenge.com
 logs-platform.fr.cloud.gov
-logs.dashlane.com
 logs.fr.cloud.gov
 logs.nextcloud.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
@@ -8226,7 +8215,6 @@ ws.blockchain.info
 ws.poloniex.com
 ws.sorare.com
 ws.usaa.com
-ws1.dashlane.com
 wsmbr.usaa.com
 wss://socket.bitpanda.com
 wss://socketcluster.the-strip.eu
@@ -8295,7 +8283,6 @@ www.crowdstrike.org
 www.crypto.com
 www.currencycloud.com
 www.cybersource.com
-www.dashlane.com
 www.data.gov
 www.datastax.com
 www.ddfcontent.com
