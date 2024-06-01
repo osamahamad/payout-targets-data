@@ -791,7 +791,6 @@
 *.soundcloud.org
 *.spinaway.com
 *.sportinglife.com
-*.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sqills.com
@@ -2545,9 +2544,7 @@ Tidal Client for iOS
 Tidal Desktop Client
 Tidal Official Clients (e.g. Sonos integration, Tesla integration, etc.)
 Tier 1
-Tier 1 subdomains
 Tier 2
-Tier 3 subdomains
 Tier A - Core Assets
 Tier B - Non Core (Bitmoji, Playcanvas)
 Tier1
@@ -4220,7 +4217,6 @@ help.steampowered.com
 help.ui.com
 helpx.adobe.com
 hey-mail
-hey.bild.de
 hg.mozilla.org
 hilton.com
 hilton.io
@@ -4886,9 +4882,6 @@ https://datadome.co
 https://dataportal.originenergy.com.au
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
 https://dcfgatewaytst1.marriott.com/
-https://dealer.prod.ps.axelspringer.de/api/v1/partners/{partnerId}/activation
-https://dealer.prod.ps.axelspringer.de/purchases/004/bild/*
-https://dealer.prod.ps.axelspringer.de/purchases/004/welt/*
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
 https://deliveroo.co.uk
@@ -5942,7 +5935,6 @@ https://matrix.i.tchap.gouv.fr
 https://mc.sendgrid.com/
 https://mcs.arlo.com
 https://mcssl.com
-https://meinkonto.bild.de/
 https://menulog.co.nz
 https://menulog.com.au
 https://meraki.cisco.com
@@ -6297,7 +6289,6 @@ https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secure-iphone-xml.booking.com/json/
 https://secure.cuehit.net
 https://secure.cuehit.net/
-https://secure.mypass.de/
 https://secure.neogov.com
 https://secure.westernunion.com
 https://secureauth.westernunion.com
@@ -6475,7 +6466,6 @@ https://vfseu.mioot.com/
 https://vfsforms.mioot.com/
 https://viatorapi.viator.com/service/directory
 https://videoplayer.20min.ch
-https://vip-club.computerbild.de/
 https://virtuswap.io/
 https://vlagg.usaa.com
 https://vlapi.usaa.com
@@ -7465,7 +7455,6 @@ platform.cloudways.com
 platform.enjin.io
 platform.remix.com
 platformtest.cat.earlywarning.io
-play.bild.de
 play.google.com/store/apps/details?id=com.crowdstrike.falconmobile
 play.google.com/store/apps/details?id=fr.assurancemaladie.monespacesante&showAllReviews=true (Android)
 playartifact.com
@@ -7789,7 +7778,6 @@ spectacles.com
 speeddials.opera.com
 speedtest.xfinity.com
 sport-components.sporza.be
-sportbild.bild.de
 sportsbook.fanduel.com
 sporza.be
 sprint.com
@@ -8212,10 +8200,7 @@ www.arubainstanton.com
 www.astrogaming.com
 www.atg.se
 www.authorize.net
-www.autobild.de
 www.beachbound.com
-www.bild.de
-www.bild.tv
 www.bitexen.com
 www.bitmoji.com
 www.bitstrips.com
@@ -8227,7 +8212,6 @@ www.bmw.de
 www.bookabach.co.nz
 www.bookingholdings.com
 www.bumble.com
-www.bz-berlin.de
 www.cadelam.be
 www.cadelux.lu/en
 www.cardinalcommerce.com
@@ -8246,7 +8230,6 @@ www.coinstore.com
 www.cointr.com
 www.cointr.pro
 www.compass.com
-www.computerbild.de
 www.counter-strike.net
 www.crateandbarrel.me
 www.creditkarma.ca
@@ -8315,7 +8298,6 @@ www.ebookers.com
 www.ebookers.fi
 www.editeur.am.monespacesante.fr
 www.editeur.api.monespacesante.fr
-www.ein-herz-fuer-kinder.de
 www.elastic.co
 www.elvetino.ch
 www.etoro.com
@@ -8333,7 +8315,6 @@ www.fewo-direkt.de
 www.fi.dyson.com
 www.figma.com
 www.files.com
-www.fitbook.de
 www.flights.com
 www.forescout.com
 www.fortress.com.hk
@@ -8435,7 +8416,6 @@ www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
 www.myetherwallet.com
-www.myhomebook.de
 www.netflix.com
 www.networksolutions.com
 www.omise.co
@@ -8449,7 +8429,6 @@ www.pangleglobal.com
 www.parool.nl
 www.parool.nl/abonnementen
 www.paypal-*.com
-www.petbook.de
 www.pineperks.in
 www.pixiv.net
 www.pns.hk
@@ -8499,7 +8478,6 @@ www.starbucksreserve.com
 www.status-takeaway.com/status
 www.stayz.com.au
 www.stripe.partners
-www.stylebook.de
 www.superdrug.com
 www.swiftcapital.com
 www.swiftfinancial.com
@@ -8510,7 +8488,6 @@ www.takeaway.com/drivers
 www.takeaway.com/foodwiki/
 www.tapiola.fi
 www.teamfortress.com
-www.techbook.de
 www.temu.com
 www.theperfumeshop.com
 www.thuisbezorgd.nl/aanmelden
@@ -8519,7 +8496,6 @@ www.tomorrowland.com
 www.torfs.be
 www.torfs.nl
 www.transsicura.ch
-www.travelbook.de
 www.trekpleister.nl
 www.trendyol-milla.com
 www.trendyol.com
@@ -8599,9 +8575,7 @@ www.watsons.com.tr
 www.watsons.com.tw
 www.watsons.com.vn
 www.wearehackerone.com
-www.welt.de
 www.wickr.com
-www.wissen-sie-mehr.de
 www.wynnvacations.com
 www.xnxx.com
 www.xvideos.com
