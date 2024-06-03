@@ -37,7 +37,6 @@
 *.airbnbcitizen.com
 *.alasco.de
 *.alasco.rocks
-*.album.link
 *.algolia.net
 *.algolianet.com
 *.allegro.cz.allegrosandbox.pl
@@ -79,7 +78,6 @@
 *.app.spacelift.dev
 *.arlo.com (production servers only)
 *.arloxcld.com (production servers only)
-*.artist.link
 *.artstation.com
 *.arubanetworks.com
 *.asana.biz
@@ -393,7 +391,6 @@
 *.hypr.com
 *.ibood.com
 *.ibood.io
-*.ikarem.io
 *.immedia-semi.com/*
 *.imperva.com
 *.incapsula.com
@@ -464,9 +461,6 @@
 *.line.naver.jp
 *.linecorp.com
 *.link.co
-*.linktr.ee
-*.linktree-extensions.com
-*.linktree.com
 *.livestream.com
 *.logi.com
 *.login.gov
@@ -504,7 +498,6 @@
 *.melonapp.com
 *.menulog.co.nz - New Zealand food ordering
 *.menulog.com.au - Australia food ordering
-*.meraki.com
 *.metamask.io
 *.metrobyt-mobile.com
 *.mevo.com
@@ -528,7 +521,6 @@
 *.mwbsys.com
 *.myharmony.com
 *.myinsights.io
-*.mylink.page
 *.mysqueezebox.com
 *.myteksi.com
 *.myteksi.net
@@ -544,7 +536,6 @@
 *.neat.wtf
 *.neatcommerce.com
 *.neattest.com
-*.network-auth.com
 *.new.livestream.com
 *.newegg.ca
 *.newegg.com
@@ -565,8 +556,6 @@
 *.octopus.com
 *.oda.com
 *.odcdn.com.au
-*.odesli.co
-*.odesli.com
 *.okcoin.com
 *.okg.com
 *.oklink.com
@@ -612,10 +601,8 @@
 *.pinterest.com Web Apps
 *.pixabay.com/
 *.platformservices.io
-*.playlist.link
 *.playstation.net
 *.playuzleuven.be
-*.pods.link
 *.popjam.com
 *.ppbdev.com
 *.prd-pub.mobilevikings.be
@@ -745,8 +732,6 @@
 *.snooguts.net
 *.sol-data.com
 *.solarcity.com
-*.song.link
-*.songlink.io
 *.sonyentertainmentnetwork.com
 *.sophos.com
 *.soundcloud.com
@@ -813,7 +798,6 @@
 *.toolsforhumanity.com
 *.tospotify.com
 *.touchtechpayments.com
-*.tr.ee
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trafficjunky.com
 *.trafficjunky.com 

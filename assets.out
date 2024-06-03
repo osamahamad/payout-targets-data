@@ -62,7 +62,6 @@
 *.airbnbcitizen.com
 *.alasco.de
 *.alasco.rocks
-*.album.link
 *.algolia.net
 *.algolianet.com
 *.allegro.cz.allegrosandbox.pl
@@ -104,7 +103,6 @@
 *.app.spacelift.dev
 *.arlo.com (production servers only)
 *.arloxcld.com (production servers only)
-*.artist.link
 *.artstation.com
 *.arubanetworks.com
 *.asana.biz
@@ -418,7 +416,6 @@
 *.hypr.com
 *.ibood.com
 *.ibood.io
-*.ikarem.io
 *.immedia-semi.com/*
 *.imperva.com
 *.incapsula.com
@@ -489,9 +486,6 @@
 *.line.naver.jp
 *.linecorp.com
 *.link.co
-*.linktr.ee
-*.linktree-extensions.com
-*.linktree.com
 *.livestream.com
 *.logi.com
 *.login.gov
@@ -529,7 +523,6 @@
 *.melonapp.com
 *.menulog.co.nz - New Zealand food ordering
 *.menulog.com.au - Australia food ordering
-*.meraki.com
 *.metamask.io
 *.metrobyt-mobile.com
 *.mevo.com
@@ -553,7 +546,6 @@
 *.mwbsys.com
 *.myharmony.com
 *.myinsights.io
-*.mylink.page
 *.mysqueezebox.com
 *.myteksi.com
 *.myteksi.net
@@ -569,7 +561,6 @@
 *.neat.wtf
 *.neatcommerce.com
 *.neattest.com
-*.network-auth.com
 *.new.livestream.com
 *.newegg.ca
 *.newegg.com
@@ -590,8 +581,6 @@
 *.octopus.com
 *.oda.com
 *.odcdn.com.au
-*.odesli.co
-*.odesli.com
 *.okcoin.com
 *.okg.com
 *.oklink.com
@@ -637,10 +626,8 @@
 *.pinterest.com Web Apps
 *.pixabay.com/
 *.platformservices.io
-*.playlist.link
 *.playstation.net
 *.playuzleuven.be
-*.pods.link
 *.popjam.com
 *.ppbdev.com
 *.prd-pub.mobilevikings.be
@@ -770,8 +757,6 @@
 *.snooguts.net
 *.sol-data.com
 *.solarcity.com
-*.song.link
-*.songlink.io
 *.sonyentertainmentnetwork.com
 *.sophos.com
 *.soundcloud.com
@@ -838,7 +823,6 @@
 *.toolsforhumanity.com
 *.tospotify.com
 *.touchtechpayments.com
-*.tr.ee
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trafficjunky.com
 *.trafficjunky.com 
@@ -1541,14 +1525,6 @@ Chrome Extension
 Chrome Extention
 Chrome extension (download at: chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en)
 Circle Cameras
-Cisco Meraki Dashboard Mobile Application (iOS and Android)
-Cisco Meraki MR Access Points
-Cisco Meraki MS Switches
-Cisco Meraki MV Security Cameras
-Cisco Meraki MX Security Appliances
-Cisco Meraki Systems Manager
-Cisco Meraki Virtual Security Appliances
-Cisco Meraki Z Series (Z1,Z3(C))
 Clearpay Android App
 Clearpay iOS App
 ClickHouse Cloud environment hosted by ClickHouse
@@ -1984,8 +1960,6 @@ Lens Studio
 Lightroom
 Lightroom Classic
 Lightway Core
-Linktree Android app
-Linktree iOS app
 List Limits Power-Up
 Livestream software (Producer, Studio)
 Load Balancing
@@ -3162,7 +3136,6 @@ apps-accpt.portofantwerp.com
 apps-accpt.portofantwerpbruges.com
 apps.apple.com/fr/app/mon-espace-sant%C3%A9/id1589255019 (iOS)
 apps.apple.com/us/app/crowdstrike-falcon/id1458815656
-apps.meraki.io
 apps.nextcloud.com
 apps.portofantwerp.com
 apps.portofantwerpbruges.com
@@ -4340,7 +4313,6 @@ https://airflow-prod.coda.io/*
 https://airflow-prod.ops.coda.io/*
 https://aiven.io/
 https://ajax.staging.luno.com/
-https://album.link
 https://alpha.yellow.org
 https://alphax.com/
 https://alumni-friends.monash.edu
@@ -4615,7 +4587,6 @@ https://arbiscan.io/address/0xd978bb7a7ae5b01116d1bd714fedd1b77ca9e75b
 https://arbiscan.io/address/0xdd4536dD9636564D891c919416880a3e250f975A
 https://arbiscan.io/address/0xeb0b9B5FFb763dD69440565F63c67f9695B7C3dA
 https://arlo-device.messaging.netgear.com
-https://artist.link
 https://asana.com
 https://asana.com/apps?category=made-by-asana
 https://asana.com/download
@@ -5564,9 +5535,6 @@ https://link.swisstronik.com/m2k
 https://link.swisstronik.com/nfj
 https://link.swisstronik.com/zky
 https://link.swisstronik.com/zs7
-https://linktr.ee
-https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
-https://linktree.com
 https://liveassist.usaa.com/
 https://liveassist11.usaa.com/
 https://liveassist12.usaa.com/
@@ -5912,7 +5880,6 @@ https://mcs.arlo.com
 https://mcssl.com
 https://menulog.co.nz
 https://menulog.com.au
-https://meraki.cisco.com
 https://metamask-sdk-socket.metafi.codefi.network/
 https://metamask.github.io/phishing-warning/<vX.Y.Z>
 https://metrobyt-mobile.com
@@ -5951,7 +5918,6 @@ https://myaccount-staging.getmoneytree.com
 https://myapi.arlo.com
 https://myapp.monash.edu/
 https://mydesktop.usaa.com
-https://mylink.page
 https://myplutus.pinelabs.my/
 https://myshop.20min.ch
 https://myvpn.usaa.com
@@ -5973,8 +5939,6 @@ https://oauth.ring.com/*
 https://octopus.com
 https://octopus.com/downloads
 https://oda.com
-https://odesli.co
-https://odesli.com
 https://offer.tidal.com/download
 https://onboard.neogov.com
 https://one.pinelabs.com/
@@ -6176,12 +6140,10 @@ https://play.google.com/store/apps/details?id=se.atg.live&hl=en&gl=SE
 https://play.google.com/store/apps/details?id=ua.aval.biz.client.android&hl=uk
 https://play.google.com/store/apps/details?id=ua.aval.dbo.client.android
 https://play.google.com/store/apps/details?id=ua.raiffeisen.myraif
-https://playlist.link
 https://plmcixt.pinelabs.com/
 https://plugins.matomo.org/developer/innocraft
 https://plugins.matomo.org/developer/matomo-org
 https://poc-op-ywh.it.authentification.si.gouv.qc.ca
-https://pods.link
 https://pointpay.io/
 https://poloniex.com/
 https://polygonscan.com/address/0x0A0846c978a56D6ea9D2602eeb8f977B21F3207F
@@ -6297,8 +6259,6 @@ https://slex.io/
 https://smartmockups.com/
 https://snapnames.com/
 https://sncf-connect.com
-https://song.link
-https://songlink.io
 https://sos-ch-gva-2.exo.io/
 https://soundcloud.com
 https://soundcloud.org
@@ -6370,7 +6330,6 @@ https://tidal.com/
 https://tidex.com/
 https://tokenize.exchange/
 https://toom.de
-https://tr.ee
 https://tracker.bugcrowd.com
 https://tracker.naspers.com/
 https://transferwise.com
@@ -7070,7 +7029,6 @@ medical.23andme.com
 meechum.netflix.com
 meetings.hyatt.com
 meetiobook.com
-meraki.cisco.com
 mercantile.wordpress.org
 merchandise.opera-api.com
 merchant.crypto.com
