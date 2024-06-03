@@ -622,6 +622,9 @@
 *.payoneer.com
 *.paypal.com
 *.paypalcorp.com
+*.personio-internal.de
+*.personio.de
+*.personio.tools
 *.pexels.com
 *.pinterest.com Web Apps
 *.pixabay.com/
@@ -2201,6 +2204,7 @@ Other Logitech Desktop and Mobile Application
 Other Logitech Hardware/IoT
 Other Spotify websites
 Other assets
+Other assets owned by Personio
 Other non-production infrastructure
 Other publicly-released plugins
 P2P functionality
@@ -4371,6 +4375,7 @@ https://api.netgear.com
 https://api.openai.com
 https://api.optimizely.com/
 https://api.orderly.org/
+https://api.personio.de/v2/webhooks/*
 https://api.pornhub.com/
 https://api.probit.com/api/
 https://api.production.cde.tamg.cloud
@@ -5440,6 +5445,7 @@ https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
 https://hr.neogov.com
 https://hr.prosus.com/
 https://huddle.bluejeans.com
+https://hug.personio.com
 https://icu.eu-west-2.outscale.com
 https://id.atlassian.com/login
 https://id.unity.com
@@ -6203,6 +6209,7 @@ https://sandbox.digitalwallet.earlywarning.com
 https://sandbox.open-xchange.com
 https://scalews.withings.com
 https://screenplayer.20min.ch
+https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secure-iphone-xml.booking.com/json/
 https://secure.cuehit.net
 https://secure.cuehit.net/
@@ -6575,6 +6582,8 @@ https://www.opera.com/
 https://www.opera.com/computer/thanks?ni=eapgx&os=windows
 https://www.opera.com/computer/thanks?ni=stable&os=windows
 https://www.originenergy.com.au/
+https://www.personio.com/free-trial/
+https://www.personio.de/kostenlos-testen/
 https://www.pexels.com/
 https://www.pinelabs.ae/
 https://www.pionex.com/
