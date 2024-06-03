@@ -1,9 +1,26 @@
-*.personio-internal.de
-*.personio.de
-*.personio.tools
-Other assets owned by Personio
-https://api.personio.de/v2/webhooks/*
-https://hug.personio.com
-https://sec-test-<intigriti handle>-<nn>.personio.de
-https://www.personio.com/free-trial/
-https://www.personio.de/kostenlos-testen/
+*.springtools.de
+Tier 1 subdomains
+Tier 3 subdomains
+hey.bild.de
+https://dealer.prod.ps.axelspringer.de/api/v1/partners/{partnerId}/activation
+https://dealer.prod.ps.axelspringer.de/purchases/004/bild/*
+https://dealer.prod.ps.axelspringer.de/purchases/004/welt/*
+https://meinkonto.bild.de/
+https://secure.mypass.de/
+https://vip-club.computerbild.de/
+play.bild.de
+sportbild.bild.de
+www.autobild.de
+www.bild.de
+www.bild.tv
+www.bz-berlin.de
+www.computerbild.de
+www.ein-herz-fuer-kinder.de
+www.fitbook.de
+www.myhomebook.de
+www.petbook.de
+www.stylebook.de
+www.techbook.de
+www.travelbook.de
+www.welt.de
+www.wissen-sie-mehr.de
