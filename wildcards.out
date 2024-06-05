@@ -945,6 +945,7 @@ api-*.soundcloud.com
 api.*.deliveroo.com
 api.zmsp.*.earlywarning.io
 assets.enjin.io,cdn.enjin.io,*.cdn.enjin.io,*.cdn.enjin.cn,cdn.enjin.cn,cdn.enjinx.io,cdn.enjinx.cn,enjinusercontent.com,*.enjinusercontent.com
+casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 dcfgateway*.marriott.com
 developer*.earlywarning.com
 gateway*.marriott.com
