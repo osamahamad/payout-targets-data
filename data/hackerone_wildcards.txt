@@ -439,7 +439,7 @@ api.*.deliveroo.com
 *.lystit.com
 *.kiwi.com
 *.skypicker.com
-assets.enjin.io,cdn.enjin.io,*.cdn.enjin.io,*.cdn.enjin.cn,cdn.enjin.cn,cdn.enjinx.io,cdn.enjinx.cn,enjinusercontent.com,*.enjinusercontent.com
+*.enjinusercontent.com
 *.berush.com
 *.myinsights.io
 *.prowly.com

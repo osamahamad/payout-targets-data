@@ -296,6 +296,7 @@
 *.emakina.group
 *.emakina.nl 
 *.emakina.us
+*.enjinusercontent.com
 *.enspotify.com
 *.eops.nl
 *.epam.com
@@ -2915,7 +2916,6 @@ api.dyson.pt
 api.dyson.se
 api.dysoncanada.ca
 api.editeur.preprod.monespacesante.fr
-api.enjinx.io
 api.ethereum.shapeshift.com
 api.etoro.com
 api.evernote.com
@@ -3163,7 +3163,6 @@ asiointi.lahitapiola.fi
 asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
 assets.adobe.com
 assets.airbnb.com
-assets.enjin.io,cdn.enjin.io,*.cdn.enjin.io,*.cdn.enjin.cn,cdn.enjin.cn,cdn.enjinx.io,cdn.enjinx.cn,enjinusercontent.com,*.enjinusercontent.com
 assets.hyatt.com
 assets.spotify.com
 assets.tumblr.com
@@ -3984,7 +3983,6 @@ en.vidaxl.ca
 eng.magiceden.dev
 eng.magiceden.io
 engine.october.eu
-enjinx.io
 enterprise-account-management-noneu.truecaller.com
 enterprise-accounts-noneu.truecaller.com
 enterprise-auth-eu.truecaller.com
