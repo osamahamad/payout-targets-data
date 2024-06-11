@@ -2306,7 +2306,12 @@ com.deliveroo.orderapp
 com.deliveroo.orderapp
 com.deliveroo.riderapp
 https://deliveroo.co.uk
+https://github.com/hyperledger/besu
+https://github.com/hyperledger/besu-errorprone-checks
+https://github.com/hyperledger/besu-native
+https://github.com/hyperledger/besu-verkle-trie
 https://github.com/hyperledger/fabric
+https://github.com/hyperledger/fabric-admin-sdk
 https://github.com/hyperledger/fabric-amcl
 https://github.com/hyperledger/fabric-ca
 https://github.com/hyperledger/fabric-chaincode-go
