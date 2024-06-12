@@ -62,8 +62,6 @@
 *.airbnbcitizen.com
 *.alasco.de
 *.alasco.rocks
-*.algolia.net
-*.algolianet.com
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
 *.allegro.sk.allegrosandbox.pl
@@ -447,6 +445,8 @@
 *.intergamma-test.nl
 *.intergamma.cloud
 *.intergamma.nl/*
+*.irccloud-cdn.com
+*.irccloud.com
 *.je-apis.com - UK legacy API
 *.jellychat.com
 *.jit.si
@@ -2963,6 +2963,7 @@ api.iciparisxl.lu
 api.iciparisxl.nl
 api.infomaniak.com
 api.instacart.com
+api.irccloud.com
 api.kolesa.kz
 api.krisha.kz
 api.krisp.ai
@@ -3272,6 +3273,7 @@ blog.23andme.com
 blog.coingecko.com
 blog.creditkarma.com
 blog.cs.money
+blog.irccloud.com
 blog.malwarebytes.com
 blog.playcanvas.com
 blog.ton.org
@@ -3572,6 +3574,8 @@ com.immediasemi.android.blink
 com.instacart.client
 com.inthepocket.kinepolis
 com.iphone.workfront
+com.irccloud.IRCCloud
+com.irccloud.android
 com.kayak.android
 com.kayak.travel
 com.kitkagames.fallbuddies
@@ -3829,7 +3833,6 @@ d2.utv.usaa.com
 daita/files_fulltextsearch_tesseract
 dash.cloudflare.com
 dashboard-beta.fr.cloud.gov
-dashboard.algolia.com
 dashboard.doppler.com
 dashboard.eu.stag.henchman.io
 dashboard.fortmatic.com
@@ -5239,6 +5242,8 @@ https://github.com/innocraft/
 https://github.com/iqlusioninc/crates/tree/main/signatory
 https://github.com/iqlusioninc/tmkms
 https://github.com/iqlusioninc/yubihsm.rs
+https://github.com/irccloud/android
+https://github.com/irccloud/ios
 https://github.com/jitsi
 https://github.com/kilnfi/staking-contracts/tree/f33eb8dc37fab40217dbe1e69853ca3fcd884a2d
 https://github.com/kiwicom/*
@@ -6848,6 +6853,8 @@ io.opensea - Android App
 io.opensea - iOS App
 io.voiapp.voi
 ir.ui.com
+irc.irccloud.com
+irccloud.com
 irclogs.wordpress.org
 iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
 is.vidaxl.is
@@ -7880,6 +7887,7 @@ tapi-real.etoro.com
 tax.crypto.com
 taxi.booking.com
 taxis.booking.com
+team-irc.irccloud.com
 team.swapcard.com
 teams.krisp.ai
 telecom-operator-data-asia-south1.truecaller.com
@@ -8153,7 +8161,6 @@ www.abritel.fr
 www.ad.nl
 www.ad.nl/abonnementen
 www.airbnb.com
-www.algolia.com
 www.am.monespacesante.fr
 www.amazon.*
 www.amazon.com/photos/*
@@ -8312,6 +8319,7 @@ www.iciparisxl.nl
 www.infomaniak.com
 www.instacart.com
 www.intigriti.com
+www.irccloud.com
 www.jaybirdsport.com
 www.karwei.nl/*
 www.kayak.com

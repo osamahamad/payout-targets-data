@@ -37,8 +37,6 @@
 *.airbnbcitizen.com
 *.alasco.de
 *.alasco.rocks
-*.algolia.net
-*.algolianet.com
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
 *.allegro.sk.allegrosandbox.pl
@@ -422,6 +420,8 @@
 *.intergamma-test.nl
 *.intergamma.cloud
 *.intergamma.nl/*
+*.irccloud-cdn.com
+*.irccloud.com
 *.je-apis.com - UK legacy API
 *.jellychat.com
 *.jit.si
