@@ -112,6 +112,7 @@
 *.atlastunnel.com
 *.atspotify.com
 *.audicagame.com
+*.autobild.de
 *.avalabs.org
 *.avax-dev.network
 *.avax-test.network
@@ -134,6 +135,8 @@
 *.bigcommerce.com
 *.bigcommerce.net
 *.bigone.com
+*.bild.de
+*.bild.tv
 *.binance.com
 *.binance.us
 *.binary.com
@@ -173,6 +176,7 @@
 *.byairbnb.com
 *.bybit.com
 *.byspotify.com
+*.bz-berlin.de
 *.c-point.be
 *.canva-apps.cn
 *.canva-apps.com
@@ -221,6 +225,7 @@
 *.coinmetro.com
 *.coinsbit.io
 *.comcast.com
+*.computerbild.de
 *.consumer.worldcoin.org
 *.contentsquare.com
 *.cornershop.io/*
@@ -285,6 +290,7 @@
 *.east.fdbox.net
 *.easy.ac
 *.eat.ch
+*.ein-herz-fuer-kinder.de
 *.elastic.co
 *.elasticnet.co
 *.elstc.co
@@ -321,6 +327,7 @@
 *.financialforce.com
 *.finlife.com
 *.finlifepartners.com
+*.fitbook.de
 *.flickr.com
 *.flipkey.com
 *.floqast.app
@@ -558,6 +565,7 @@
 *.mwb-threatintel.com
 *.mwbsys.com
 *.myharmony.com
+*.myhomebook.de
 *.myinsights.io
 *.mysqueezebox.com
 *.myteksi.com
@@ -638,6 +646,7 @@
 *.personio-internal.de
 *.personio.de
 *.personio.tools
+*.petbook.de
 *.pexels.com
 *.pinterest.com Web Apps
 *.pixabay.com/
@@ -731,6 +740,7 @@
 *.sellzone.com
 *.semrush.com
 *.semrush.net
+*.sentiance.com
 *.seoab.io
 *.seoquake.com
 *.services-prod.nsvcs.net
@@ -778,6 +788,8 @@
 *.soundcloud.org
 *.spinaway.com
 *.sportinglife.com
+*.spring-media.de
+*.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sqills.com
@@ -795,6 +807,7 @@
 *.streamlabs.com
 *.streamlabscharity.com
 *.stripe.com
+*.stylebook.de
 *.subp-router.hereapi.com
 *.superawesome.com
 *.superawesome.tv
@@ -814,6 +827,7 @@
 *.taralite.com
 *.tdl.sh
 *.teams.cloudflare.com
+*.techbook.de
 *.telenor.se
 *.tesla.cn
 *.tesla.com
@@ -842,6 +856,7 @@
 *.trafficjunky.com
 *.trafficjunky.com 
 *.transferwise.com
+*.travelbook.de
 *.travelocity.ca
 *.travelocity.com
 *.trello.services
@@ -908,6 +923,7 @@
 *.water-link.be/
 *.wavecell.com
 *.wealthsimple.com
+*.welt.de
 *.wenewmoments.com
 *.werkenbijgamma.be
 *.werkenbijgamma.nl
@@ -917,6 +933,7 @@
 *.whois.eu
 *.wimpmusic.com
 *.wise.com
+*.wissen-sie-mehr.de
 *.withairbnb.com
 *.withbuddies.com
 *.withspotify.com
@@ -2990,6 +3007,7 @@ api.rezserver.com
 api.sandbox.topperpay.com
 api.segment.io
 api.sendgrid.com
+api.sentiance.com
 api.shipt.com
 api.skinport.com
 api.slack.com
@@ -3637,6 +3655,8 @@ com.scopely.startrek
 com.scopely.yux
 com.security.BatteryCam
 com.security.care
+com.sentiance.journeys
+com.sentiance.journeys2
 com.shipt.groceries
 com.shipt.shopper
 com.skypicker.Skypicker
@@ -3772,6 +3792,7 @@ content.ketnet.be
 content.usaa.com
 contile.services.mozilla.com
 contributor.stock.adobe.com
+controltower.sentiance.com
 core.yoti.com
 cornershopapp.android
 corp.badoo.com
@@ -3921,6 +3942,7 @@ docs.launchdarkly.com
 docs.near.org
 docs.nextcloud.com
 docs.redoxengine.com
+docs.sentiance.com
 docs.ton.org
 documentcloud.adobe.com
 documents.adobe.com
@@ -4136,6 +4158,7 @@ grammarly.ai
 graphql.sandbox.topperpay.com/graphql
 graphql.seek.com
 graphql.topperpay.com/graphql
+graphqldocs.sentiance.com
 gravatar.com
 grok.x.ai
 guest.usaa.com
@@ -4556,6 +4579,7 @@ https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
 https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/pionex/id1485348891
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
+https://apps.apple.com/us/app/rac-go/id6444858115
 https://apps.apple.com/us/app/share-rewards/id1465450657
 https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
@@ -4837,6 +4861,9 @@ https://datadome.co
 https://dataportal.originenergy.com.au
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
 https://dcfgatewaytst1.marriott.com/
+https://dealer.prod.ps.axelspringer.de/api/v1/partners/{partnerId}/activation
+https://dealer.prod.ps.axelspringer.de/purchases/004/bild/*
+https://dealer.prod.ps.axelspringer.de/purchases/004/welt/*
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
 https://deliveroo.co.uk
@@ -6094,6 +6121,7 @@ https://play.google.com/store/apps/details?id=com.pointpay.bank
 https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&hl=en
 https://play.google.com/store/apps/details?id=com.probit.app.android2.release.global
 https://play.google.com/store/apps/details?id=com.scu.bsafe
+https://play.google.com/store/apps/details?id=com.sentiance.saferdriver
 https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.squareup.cash
@@ -6223,6 +6251,7 @@ https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secure-iphone-xml.booking.com/json/
 https://secure.cuehit.net
 https://secure.cuehit.net/
+https://secure.mypass.de/
 https://secure.neogov.com
 https://secure.westernunion.com
 https://secureauth.westernunion.com
@@ -6783,6 +6812,7 @@ indicative-pricing.taxi.booking.com
 infomaniak.events
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
+insights-by-sentiance/id1608074635
 insights-categorizer-eu.truecaller.com
 insights-categorizer-noneu.truecaller.com
 insights-registry-eu.truecaller.com
@@ -6838,6 +6868,8 @@ jobs.krisp.ai
 jobs.marriott.com
 jobs.monashtalent.com.au
 jointhemoment.net
+journeys-2/id984087229?mt=8
+journeys-api.sentiance.com/v2
 jp.naver.line.android
 js.crypto.com
 js.datadome.co
@@ -6895,6 +6927,7 @@ launchpad.37signals.com
 lawmanager.marriott.com
 le.yahooapis.com
 leadgen-asia-south1.truecaller.com
+legacy-docs.sentiance.com
 libsystemd
 licenses.adobe.com
 licensing.adobe.com
