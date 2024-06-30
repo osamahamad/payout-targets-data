@@ -5,6 +5,10 @@ myaccount.ad.nl
 webwinkel.ad.nl
 www.ad.nl
 www.ad.nl/abonnementen
+https://dealer.prod.ps.axelspringer.de/api/v1/partners/{partnerId}/activation
+https://dealer.prod.ps.axelspringer.de/purchases/004/bild/*
+https://dealer.prod.ps.axelspringer.de/purchases/004/welt/*
+https://secure.mypass.de/
 www.bmw-motorrad.de
 www.bmw.de
 www.mini.de
@@ -333,9 +337,22 @@ Mobile Apps
 login.swisspass.ch
 www.sbb.ch
 www.swisspass.ch
+Mobile Apps
 www.elvetino.ch
 www.sbbcargo.com
 www.transsicura.ch
+api.sentiance.com
+com.sentiance.journeys2
+controltower.sentiance.com
+https://apps.apple.com/us/app/rac-go/id6444858115
+https://play.google.com/store/apps/details?id=com.sentiance.saferdriver
+insights-by-sentiance/id1608074635
+journeys-api.sentiance.com/v2
+com.sentiance.journeys
+journeys-2/id984087229?mt=8
+docs.sentiance.com
+graphqldocs.sentiance.com
+legacy-docs.sentiance.com
 SimScale API
 SimScale Platform
 SimScale Website
@@ -345,6 +362,18 @@ http://socialdeal.nl/inspirations/bluemonday/
 http://www.whynot.com/
 https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/
 www.socialdeal.nl
+1114799709
+1114800186
+api.soundtrackyourbrand.com
+billing.api.soundtrackyourbrand.com
+builds.soundtrackyourbrand.com
+business.soundtrackyourbrand.com
+com.soundtrackyourbrand.soundtrack.player
+https://auth.api.soundtrackyourbrand.com/
+https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
+https://radio.api.soundtrackyourbrand.com/
+https://www.soundtrackyourbrand.com
+macOS app
 aweb.suivo.com
 asupport.suivo.com
 artists.tomorrowland.com/production-website/33117
@@ -461,17 +490,12 @@ vtm.be/vtmgo
 vtmgo.be
 api-wallet.venly.io
 api.arkane.network
-api.venly.market
 connect.arkane.network
 connect.venly.io
-events.venly.market
 login.arkane.network
 login.venly.io
-venly.market
 wallet.venly.io
-api-staging.venly.market
-events-staging.venly.market
-staging.venly.market
+api-wallet-sandbox.venly.io
 1467907532
 alchemy.veriff.com
 api.flamingo-eu.veriff.com

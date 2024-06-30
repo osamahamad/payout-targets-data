@@ -48,6 +48,25 @@ Backblaze Website (*.backblaze.com)
 *.cyberghostvpn.com
 *.dell.com/*
 *.delltechnologies.com/* 
+*.acorns.com
+*.bitstamp.net - Bitstamp Supporting Services
+*.meraki.com
+*.ikarem.io
+*.network-auth.com
+*.sandbox.directly.com/
+*.dropbox.com    
+*.hellosign.com
+*.helloworks.com
+*.hellofax.com
+*.dropboxforum.com
+*.docsend.com
+*.dropboxer.net
+*.guildofguardians.com
+*.immutable.com
+*.imtbl.com
+*.testnet.immutable.com
+*.linktree-extensions.com
+*.bbp-mettle.co.uk
 casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 *.emakina.at
 *.emakina.ch
@@ -124,6 +143,7 @@ Internal Web services - *.internal.exoscale.ch
 *.kaleido.ai
 *.remove.bg
 *.unscreen.com
+*.lululemon.com
 *.nuinvest.com.br	
 prod-*.nu.com.co
 prod-*.nu.com.mx

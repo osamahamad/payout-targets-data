@@ -18,6 +18,7 @@
 *.a.exodus.io
 *.account.api.here.com
 *.account.here.com
+*.acorns.com
 *.acrobat.com
 *.acronis.com
 *.acronis.work
@@ -68,6 +69,7 @@
 *.amazon.sg
 *.amplitude-game.com
 *.apex-football.com
+*.api.cx.metamask.io
 *.api.dailymotion.com
 *.api.originenergy.com.au
 *.api.playstation.com
@@ -87,6 +89,7 @@
 *.atlastunnel.com
 *.atspotify.com
 *.audicagame.com
+*.autobild.de
 *.avalabs.org
 *.avax-dev.network
 *.avax-test.network
@@ -95,6 +98,7 @@
 *.ayco.com
 *.backblazeb2.com
 *.base.org
+*.bbp-mettle.co.uk
 *.berush.com
 *.beta.lahitapiola.fi
 *.beta.scoober.com
@@ -109,6 +113,8 @@
 *.bigcommerce.com
 *.bigcommerce.net
 *.bigone.com
+*.bild.de
+*.bild.tv
 *.binance.com
 *.binance.us
 *.binary.com
@@ -124,6 +130,7 @@
 *.bitmart.com
 *.bitmex.com
 *.bitrue.com
+*.bitstamp.net - Bitstamp Supporting Services
 *.bittrex.com
 *.bizible.com
 *.blinkforhome.com/*
@@ -148,6 +155,7 @@
 *.byairbnb.com
 *.bybit.com
 *.byspotify.com
+*.bz-berlin.de
 *.c-point.be
 *.canva-apps.cn
 *.canva-apps.com
@@ -196,6 +204,7 @@
 *.coinmetro.com
 *.coinsbit.io
 *.comcast.com
+*.computerbild.de
 *.consumer.worldcoin.org
 *.contentsquare.com
 *.cornershop.io/*
@@ -250,16 +259,21 @@
 *.dm.gg
 *.dmcdn.net
 *.dns.eu
+*.docsend.com
 *.doctolib.(fr|de|it|com|net)
 *.download.originenergy.com.au
 *.dpgmedia.be
 *.dpgmedia.nl
+*.dropbox.com    
+*.dropboxer.net
+*.dropboxforum.com
 *.dropmix.com
 *.dyson.com
 *.earlywarning.com
 *.east.fdbox.net
 *.easy.ac
 *.eat.ch
+*.ein-herz-fuer-kinder.de
 *.elastic.co
 *.elasticnet.co
 *.elstc.co
@@ -296,11 +310,13 @@
 *.financialforce.com
 *.finlife.com
 *.finlifepartners.com
+*.fitbook.de
 *.flickr.com
 *.flipkey.com
 *.floqast.app
 *.floqast.engineering
 *.flourish.studio
+*.flowsecurity.app
 *.folioclient.com
 *.foliodigitalwealth.com
 *.foliofirst.com
@@ -356,10 +372,14 @@
 *.gsselect.com
 *.gtld-servers.net (DNS service; DNS related)
 *.guilded.gg
+*.guildofguardians.com
 *.hackerone-ext-content.com
 *.hackerone-user-content.com/
 *.harmonixmusic.com
 *.harmonyremote.com
+*.hellofax.com
+*.hellosign.com
+*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.com
@@ -394,8 +414,11 @@
 *.hypr.com
 *.ibood.com
 *.ibood.io
+*.ikarem.io
 *.immedia-semi.com/*
+*.immutable.com
 *.imperva.com
+*.imtbl.com
 *.incapsula.com
 *.indeed.com
 *.indeed.net
@@ -472,6 +495,7 @@
 *.line.naver.jp
 *.linecorp.com
 *.link.co
+*.linktree-extensions.com
 *.livestream.com
 *.logi.com
 *.login.gov
@@ -484,6 +508,7 @@
 *.luckydays.com
 *.lucra.live
 *.lukwerks.com
+*.lululemon.com
 *.luxuryretreats.com
 *.lyst.co
 *.lyst.com
@@ -510,6 +535,7 @@
 *.melonapp.com
 *.menulog.co.nz - New Zealand food ordering
 *.menulog.com.au - Australia food ordering
+*.meraki.com
 *.metamask.io
 *.metrobyt-mobile.com
 *.mevo.com
@@ -533,6 +559,7 @@
 *.mwb-threatintel.com
 *.mwbsys.com
 *.myharmony.com
+*.myhomebook.de
 *.myinsights.io
 *.mysqueezebox.com
 *.myteksi.com
@@ -549,6 +576,7 @@
 *.neat.wtf
 *.neatcommerce.com
 *.neattest.com
+*.network-auth.com
 *.new.livestream.com
 *.newegg.ca
 *.newegg.com
@@ -613,6 +641,7 @@
 *.personio-internal.de
 *.personio.de
 *.personio.tools
+*.petbook.de
 *.pexels.com
 *.pinterest.com Web Apps
 *.pixabay.com/
@@ -680,6 +709,7 @@
 *.rukkaz.com
 *.runnr.in
 *.s-cloud.net
+*.sandbox.directly.com/
 *.say.rocks
 *.saytechnologies.com
 *.sbb.ch
@@ -706,6 +736,7 @@
 *.sellzone.com
 *.semrush.com
 *.semrush.net
+*.sentiance.com
 *.seoab.io
 *.seoquake.com
 *.services-prod.nsvcs.net
@@ -751,8 +782,11 @@
 *.sophos.com
 *.soundcloud.com
 *.soundcloud.org
+*.spiketrap.io
 *.spinaway.com
 *.sportinglife.com
+*.spring-media.de
+*.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sqills.com
@@ -770,6 +804,7 @@
 *.streamlabs.com
 *.streamlabscharity.com
 *.stripe.com
+*.stylebook.de
 *.subp-router.hereapi.com
 *.superawesome.com
 *.superawesome.tv
@@ -789,6 +824,7 @@
 *.taralite.com
 *.tdl.sh
 *.teams.cloudflare.com
+*.techbook.de
 *.telenor.se
 *.tesla.cn
 *.tesla.com
@@ -796,6 +832,7 @@
 *.teslainsuranceservices.com
 *.teslamotors.com
 *.testdrive.workfront.com
+*.testnet.immutable.com
 *.threatdown.com
 *.thuisbezorgd.nl
 *.ticketing.cm.com
@@ -817,6 +854,7 @@
 *.trafficjunky.com
 *.trafficjunky.com 
 *.transferwise.com
+*.travelbook.de
 *.travelocity.ca
 *.travelocity.com
 *.trello.services
@@ -883,6 +921,7 @@
 *.water-link.be/
 *.wavecell.com
 *.wealthsimple.com
+*.welt.de
 *.wenewmoments.com
 *.werkenbijgamma.be
 *.werkenbijgamma.nl
@@ -892,6 +931,7 @@
 *.whois.eu
 *.wimpmusic.com
 *.wise.com
+*.wissen-sie-mehr.de
 *.withairbnb.com
 *.withbuddies.com
 *.withspotify.com

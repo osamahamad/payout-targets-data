@@ -42,6 +42,8 @@ https://bounty.cryptobox.com
 https://bounty.cryptobox.com
 https://bounty.cryptobox.com
 https://pprd.cybermalveillance.gouv.fr
+cyclonedx-bom
+cargo-cyclonedx
 https://play.google.com/store/apps/details?id=id.dana&hl=en
 https://apps.apple.com/id/app/dana/id1437123008
 https://appgallery.huawei.com/#/app/C100570215
@@ -120,6 +122,8 @@ France Identité mobile application for Android (see link in program description
 France Identité mobile application for iOS (see link in program description)
 https://mobile.france-identite.gouv.fr
 Specific scenarios
+GLib
+glib-networking
 Device: JBL Bar 300
 Device: JBL Bar 500
 Device: JBL Bar 700
@@ -248,6 +252,9 @@ https://www.ooredoo.qa
 https://mobile.ooredoo.qa
 https://play.google.com/store/apps/details?id=qa.ooredoo.android&hl=en&gl=US
 https://apps.apple.com/qa/app/ooredoo-qatar/id619828745
+Security Vulnerability in OpenPGP.js's high-level API
+Security Vulnerability in the OpenPGP Standard
+Interoperability Issue in OpenPGP.js
 https://billingserver.pinelabs.com/
 dashboard.pluralonline.com
 https://lounge.pinelabs.com/loungeui/login
