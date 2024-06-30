@@ -976,6 +976,7 @@ B2 APIs (*.backblazeb2.com)
 Backblaze Website (*.backblaze.com)
 Internal Web services - *.internal.exoscale.ch
 Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
+analytics-*.8x8.com
 api*.netflix.com
 api-*.soundcloud.com
 api.*.deliveroo.com
@@ -999,6 +1000,7 @@ swiss-backup*.infomaniak.com
 terra-*.indriverapp.com
 test*.redoxengine.com
 vcc-*.8x8.com
+vcc-ce-*.8x8.com
 www.paypal-*.com
 xhomeapi-*.cloud.comcast.net
 xhomeapi-*.codebig2.net
