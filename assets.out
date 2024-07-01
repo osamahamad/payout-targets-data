@@ -438,8 +438,6 @@
 *.hyperpure.com
 *.hyperwallet.com
 *.hypr.com
-*.ibood.com
-*.ibood.io
 *.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
@@ -1035,7 +1033,6 @@
 1114800186
 1118448159
 1127881507
-1135288773
 1142114207
 1174276185
 1180074773
@@ -2915,6 +2912,7 @@ api-wallet-sandbox.venly.io
 api-wallet.venly.io
 api.*.deliveroo.com
 api.23andme.com
+api.8x8.com
 api.account.clario.co
 api.adm.cloud.com
 api.airbnb.com
@@ -3004,7 +3002,6 @@ api.gx.games/gxc
 api.gx.games/profile
 api.gx.games/session
 api.hackerone.com
-api.ibood.com
 api.iciparisxl.be
 api.iciparisxl.lu
 api.iciparisxl.nl
@@ -3631,7 +3628,6 @@ com.hey.app.ios
 com.hotornot.app
 com.hotwire.hotels
 com.hypr.one
-com.ibood.app
 com.immediasemi.android.blink
 com.instacart.client
 com.inthepocket.kinepolis
@@ -7352,7 +7348,6 @@ my-accpt.portofantwerpbruges.com
 my.account.sony.com
 my.eurid.eu
 my.exness.com
-my.ibood.com
 my.loanbuilder.com
 my.malwarebytes.com
 my.monash
@@ -8520,7 +8515,6 @@ www.humo.be/abonnementen
 www.hyatt.com
 www.hyattconnect.com
 www.hyattinclusivecollection.com
-www.ibood.com
 www.iciparisxl.be
 www.iciparisxl.lu
 www.iciparisxl.nl
