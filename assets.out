@@ -103,8 +103,8 @@
 *.api.ua.com
 *.app.asana.com
 *.app.spacelift.dev
-*.arlo.com (production servers only)
-*.arloxcld.com (production servers only)
+*.arlo.com
+*.arloxcld.com
 *.artstation.com
 *.arubanetworks.com
 *.asana.biz

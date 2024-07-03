@@ -1,7 +1,7 @@
 *.afterpay.com
 portalapi.*.afterpay.com
-*.arlo.com (production servers only)
-*.arloxcld.com (production servers only)
+*.arlo.com
+*.arloxcld.com
 *.central.arubanetworks.com
 *.arubanetworks.com
 *.app.asana.com
