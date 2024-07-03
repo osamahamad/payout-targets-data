@@ -747,6 +747,7 @@
 *.say.rocks
 *.saytechnologies.com
 *.sbb.ch
+*.sbbmobile.ch
 *.sbgcdn.com
 *.sbgcore.com
 *.sbgorigin.com
@@ -1528,6 +1529,7 @@ Blink Video Doorbell
 Body Comp scale
 Body Scan scale
 Bot Management
+Boundary.dfinity.network
 Box - https://trello.com/power-ups/55a5d915446f517774210001/box
 Braintree SDK
 Bridge
@@ -3368,6 +3370,7 @@ booking.com
 booking.mjrtheatres.com
 bookus.expediacruises.com
 booth.pm
+boundary.ic0.app
 bounty-node.rsk.co
 bq.visa.com
 brand.takeaway.com
@@ -5323,6 +5326,23 @@ https://github.com/dao-envelop/envelop-protocol-v1/blob/master/contracts/Envelop
 https://github.com/dao-envelop/envelop-protocol-v1/blob/master/contracts/EnvelopwNFT721.sol
 https://github.com/dao-envelop/envelop-protocol-v1/blob/master/contracts/WrapperBaseV1.sol
 https://github.com/dexe-network/DeXe-Protocol/tree/master/contracts
+https://github.com/dfinity/ICRC-1
+https://github.com/dfinity/agent-js
+https://github.com/dfinity/agent-rs
+https://github.com/dfinity/candid
+https://github.com/dfinity/cdk-rs
+https://github.com/dfinity/ic
+https://github.com/dfinity/ic/tree/master/rs/boundary_node
+https://github.com/dfinity/ic/tree/master/rs/nns
+https://github.com/dfinity/ic/tree/master/rs/rosetta-api
+https://github.com/dfinity/ic/tree/master/rs/sns
+https://github.com/dfinity/icx-proxy
+https://github.com/dfinity/internet-identity
+https://github.com/dfinity/motoko
+https://github.com/dfinity/motoko-base
+https://github.com/dfinity/nns-dapp
+https://github.com/dfinity/quill
+https://github.com/dfinity/sdk
 https://github.com/digitalocean/do-agent
 https://github.com/digitalocean/do-markdownit
 https://github.com/digitalocean/doctl
@@ -5645,6 +5665,7 @@ https://id.atlassian.com/login
 https://id.unity.com
 https://identity.bugcrowd.com/
 https://identity.bugcrowd.com/ 
+https://identity.ic0.app/
 https://identity.monash.edu
 https://india.westernunion.com
 https://indonesiavoa.vfsevisa.id/
@@ -6128,6 +6149,7 @@ https://near.foundation/
 https://net.geo.opera.com
 https://newsletter.thuisbezorgd.nl
 https://nice.wfmusaa.com
+https://nns.ic0.app/
 https://node.e2ro.com/*
 https://nubank.com.br/
 https://nubank.com.co
