@@ -43,6 +43,7 @@ https://start.1password.com
 Aiven for Apache Cassandra managed and hosted service
 Aiven for Apache Flink managed and hosted service
 Aiven for Apache Kafka managed and hosted service 
+Aiven for Caching managed and hosted service
 Aiven for Clickhouse managed and hosted service
 Aiven for Dragonfly managed and hosted service
 Aiven for Grafana managed and hosted service
@@ -50,7 +51,8 @@ Aiven for M3 managed and hosted service
 Aiven for MySQL managed and hosted service
 Aiven for OpenSearch managed and hosted service
 Aiven for PostgreSQL managed and hosted service
-Aiven for Redis managed and hosted service
+Aiven for Thanos Metrics managed and hosted service
+Aiven for Valkey managed and hosted service
 aiven.io
 api.aiven.io
 console.aiven.io
