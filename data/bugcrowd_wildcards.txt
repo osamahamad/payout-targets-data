@@ -53,6 +53,9 @@ Backblaze Website (*.backblaze.com)
 *.meraki.com
 *.ikarem.io
 *.network-auth.com
+*.meraki.com
+*.ikarem.io
+*.network-auth.com
 *.sandbox.directly.com/
 *.dropbox.com    
 *.hellosign.com
