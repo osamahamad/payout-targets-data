@@ -13,6 +13,7 @@
  com.citymapper.app.release
  developers.vendhq.com
  https://api.ibops.net/ad-management
+ https://github.com/river-build/river
  https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/entitlements
  tsock.us1.twilio.com
  www.register.com
@@ -157,7 +158,7 @@
 *.bitmex.com
 *.bitrue.com
 *.bitstamp.net - Bitstamp Supporting Services
-*.bittrex.com
+*.bittrex.com 
 *.bizible.com
 *.blinkforhome.com/*
 *.blitz.exchange
@@ -1478,7 +1479,7 @@ AvalancheGo
 AvalancheJS
 B2 APIs (*.backblazeb2.com)
 BBPress Core
-BSC Bridge
+BSC Bridge 
 BSC ERC20Handler
 BSC Feemanager
 BSC HandlerReserve
@@ -1659,7 +1660,7 @@ Copy Source for Fisheye and Crucible - Server - https://marketplace.atlassian.co
 Copy Space for Confluence - Server - https://marketplace.atlassian.com/apps/212/copy-space-for-confluence?hosting=server
 Core Android App
 Core Assets
-Core Browser Extension
+Core Browser Extension 
 Core Priceless.com - demo.priceless.com
 Core Web Wallet
 Coreth
@@ -1904,7 +1905,7 @@ ICI Paris XL (subdomains)
 ICIParisXL.App.Android
 ICIParisXL.App.IOS
 ID 1388036461 - iOS App Bitexen
-ID 1634643482 - iOS App Bitexen Global
+ID 1634643482 - iOS App Bitexen Global 
 IOS
 IOS App MEW wallet
 Ibotta App Data & Memory
@@ -2173,7 +2174,7 @@ MongoDB VS Code Plugin
 Mozilla VPN Clients
 Multi VCS
 Multi-factor Auth - Feature
-Multiplier
+Multiplier 
 My Ampol
 My Reminders for Jira - Cloud - https://marketplace.atlassian.com/apps/1212778/my-reminders-for-jira?hosting=cloud
 NFTs
@@ -2318,12 +2319,12 @@ PlayStation 5
 PlayStation Network
 Podsights
 Point Smart
-Polygon Mainnet ERC20Handler
-Polygon Mainnet Feemanager
-Polygon Mainnet HandlerReserve
+Polygon Mainnet ERC20Handler 
+Polygon Mainnet Feemanager 
+Polygon Mainnet HandlerReserve 
 Polygon Mainnet Voter
-PoolStake
-PoolStakeFactory
+PoolStake 
+PoolStakeFactory 
 PowerDNS authoritative server, recursor and DNSdist (see "Software packages" and "Source-code")
 Pre-Post Build Command Runner - Server - https://marketplace.atlassian.com/apps/5581/pre-post-build-command-runner?hosting=server
 Predator Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1212736/predator-plugin-for-bamboo?hosting=server
@@ -2438,9 +2439,9 @@ Skyscanner Android App
 Skyscanner iOS App
 Slack - https://trello.com/power-ups/55a5d917446f51777421000a/slack
 Slack Desktop Application
-Smart Contract - Smart Contract: Polygon Router SDK
-Smart Contract - Smart Contract: Polygon Staking
-Smart Contract: Polygon Mainnet Bridge
+Smart Contract - Smart Contract: Polygon Router SDK 
+Smart Contract - Smart Contract: Polygon Staking 
+Smart Contract: Polygon Mainnet Bridge 
 Smart Contracts
 Smartchain Block Explorer
 Smartchain Blockchain
@@ -2947,7 +2948,7 @@ api.avax-test.network
 api.avax.network
 api.avtoelon.uz
 api.binance.com
-api.bitcoin.shapeshift.com
+api.bitcoin.shapeshift.com 
 api.bitso.com
 api.blockchain.info
 api.blockscore.com
@@ -3199,7 +3200,7 @@ app.recordedfuture.com
 app.rewire.to
 app.sandbox.directly.com
 app.segment.com
-app.shapeshift.com
+app.shapeshift.com 
 app.shipt.com
 app.skinport.com
 app.slack.com
@@ -4223,7 +4224,7 @@ gitlab.com
 glib-networking
 global-api.citymapper.com
 global.bitexen.com
-global.bittrex.com
+global.bittrex.com 
 globaljourney.tomorrowland.com
 gnip.com
 gold.xnxx.com
@@ -4633,7 +4634,7 @@ https://apps.apple.com/si/app/nicehash/id1372054956
 https://apps.apple.com/tt/app/blofin/id1616804346
 https://apps.apple.com/ua/app/citex-mining-exchange/id1546706074
 https://apps.apple.com/ua/app/iopay-multichain-crypto-wallet/id1478086371
-https://apps.apple.com/ua/app/kuna-io-Ð¿Ð¾ÐºÑÐ¿ÐºÐ°-Ð¿ÑÐ¾Ð´Ð°Ð¶Ð°-btc/id1457062155?l=ru
+https://apps.apple.com/ua/app/kuna-io-покупка-продажа-btc/id1457062155?l=ru
 https://apps.apple.com/ua/app/raiffeisen-business-online/id1500897229
 https://apps.apple.com/ua/app/raiffeisen-online-ua/id1383858144?l=uk?l=uk
 https://apps.apple.com/ua/app/trustee-plus-crypto-neobank/id1634455978
@@ -4694,7 +4695,7 @@ https://apps.apple.com/us/app/syncup-kids/id1503394062
 https://apps.apple.com/us/app/syncup-tracker/id1526380335
 https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
 https://apps.apple.com/us/app/t-mobile/id561625752
-https://apps.apple.com/us/app/ternoa-wallet/id1562180877#?platform=iphone
+https://apps.apple.com/us/app/ternoa-wallet/id1562180877#?platform=iphone 
 https://apps.apple.com/us/app/tesla/id582007913
 https://apps.apple.com/us/app/tidex/id1632072370
 https://apps.apple.com/us/app/under-armour/id1092704571
@@ -4901,12 +4902,12 @@ https://create.gx.games
 https://credit.pinelabs.com
 https://cronos.crypto.org/explorer/address/0x0A3e766c364D180A4cDB75E97390067ef8063d66
 https://cronos.crypto.org/explorer/address/0x145863Eb42Cf62847A6Ca784e6416C1682b1b2Ae
-https://cronos.crypto.org/explorer/address/0x2D03bECE6747ADC00E1a131BBA1469C15fD11e03
-https://cronos.crypto.org/explorer/address/0x3b44b2a187a7b3824131f8db5a74194d0a42fc15
+https://cronos.crypto.org/explorer/address/0x2D03bECE6747ADC00E1a131BBA1469C15fD11e03 
+https://cronos.crypto.org/explorer/address/0x3b44b2a187a7b3824131f8db5a74194d0a42fc15 
 https://cronos.crypto.org/explorer/address/0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23
 https://cronos.crypto.org/explorer/address/0x5e954f5972EC6BFc7dECd75779F10d848230345F
-https://cronos.crypto.org/explorer/address/0x6a2d178585806De5A2e5E7F9acFCE44680637284
-https://cronos.crypto.org/explorer/address/0xA6fF77fC8E839679D4F7408E8988B564dE1A2dcD
+https://cronos.crypto.org/explorer/address/0x6a2d178585806De5A2e5E7F9acFCE44680637284 
+https://cronos.crypto.org/explorer/address/0xA6fF77fC8E839679D4F7408E8988B564dE1A2dcD 
 https://cronos.crypto.org/explorer/address/0xDccd6455AE04b03d785F12196B492b18129564bc
 https://cronos.crypto.org/explorer/address/0xe61Db569E231B3f5530168Aa2C9D50246525b6d6
 https://cronos.org/explorer/address/0x1154973F8944751272EA2A19B9a9C5FB91135e4C
@@ -4919,7 +4920,7 @@ https://cronos.org/explorer/address/0x436aD059e170E7eD1252D3D3F19D0Fb6EC16a588
 https://cronos.org/explorer/address/0x50DCB4Fd921164C42B7129DA884D3F45a9f45917
 https://cronos.org/explorer/address/0x54a16dc46dB7Fc5DC99E41d9d464196b06c74e6e
 https://cronos.org/explorer/address/0x5Aa450927B199e519cd4B098461D0FF79D13A42d
-https://cronos.org/explorer/address/0x5C78a8dEAd748Ccfa3D1e70E72854D0CaB2eeAd0
+https://cronos.org/explorer/address/0x5C78a8dEAd748Ccfa3D1e70E72854D0CaB2eeAd0 
 https://cronos.org/explorer/address/0x6148107BcAC794d3fC94239B88fA77634983891F
 https://cronos.org/explorer/address/0x629A8dd6BfF07844b25130ed659990d65e22Baaa
 https://cronos.org/explorer/address/0x6aBDda4D610cD61651E630e59141907390F08876
@@ -4939,30 +4940,30 @@ https://cronos.org/explorer/address/0xF766505680a63b5e70616Ef21b72814Ec5649945
 https://cronos.org/explorer/address/0xFC399dbb0Ed942D206Ee34Cc6FcbaF1CFd60dB16
 https://cronos.org/explorer/address/0xa8bEA47BCFc17Bb95f9510516B648833E3Cd0446
 https://cronos.org/explorer/address/0xbCC0019DaE95B493382105ABDb4E5e0E21951762
-https://cronos.org/explorer/address/0xbc149c62EFe8AFC61728fC58b1b66a0661712e76
+https://cronos.org/explorer/address/0xbc149c62EFe8AFC61728fC58b1b66a0661712e76 
 https://cronos.org/explorer/address/0xcC46b79eBEaA1D834B707624977Ec261592E0C9a
 https://cronos.org/explorer/address/0xd2985b8EBC2ce32664EF235ca1d16e5FE8AE13fD
 https://cronos.org/explorer/address/0xd996bE6DBdEaa8429Ff9E2D86725197Eb663148a
 https://cronos.org/explorer/address/0xe006ab8c1796674786Ad8cf5937EfF1baA59fA15
 https://cronoscan.com/address/0x0a18b3430a6a1fa0d403bcc729e26040942b14e3
-https://cronoscan.com/address/0x21179329c1dcfd36ffe0862cca2c7e85538cca07
+https://cronoscan.com/address/0x21179329c1dcfd36ffe0862cca2c7e85538cca07 
 https://cronoscan.com/address/0x315Cc3e145EaC3AfCFFcDe537eDC9d280e165413
 https://cronoscan.com/address/0x441a99968427b09f9c9009366034997f55b77978
 https://cronoscan.com/address/0x5120ae9829f846395d086a9b03edf5723a278cb6#code
-https://cronoscan.com/address/0x579206e4e49581ca8ada619e9e42641f61a84ac3
+https://cronoscan.com/address/0x579206e4e49581ca8ada619e9e42641f61a84ac3 
 https://cronoscan.com/address/0x5ce6c060661ad920895a8360c71332d68739625d
 https://cronoscan.com/address/0x6eaeA0B1F9cc63ea88075edF49001166E5408916
 https://cronoscan.com/address/0x8900A1D1eAb5e8Af142017aF8a7535979Db6E629
 https://cronoscan.com/address/0x8d13982c702fe7c6537529986df67dabeafc4c19
 https://cronoscan.com/address/0x99519D844e2F8B7eC6F4a9371c92e73020fc670D
-https://cronoscan.com/address/0x9fae23a2700feecd5b93e43fdbc03c76aa7c08a6
+https://cronoscan.com/address/0x9fae23a2700feecd5b93e43fdbc03c76aa7c08a6 
 https://cronoscan.com/address/0xC4106bBA1a8752e54940bE71f7BD02c38e64f9E3
 https://cronoscan.com/address/0xa43E50C3E8221D0065a6978Bb7cA90C6a0a3861F#code
-https://cronoscan.com/address/0xb15533a0bc7c530d692a9660785226dfd3633965
-https://cronoscan.com/address/0xb4be51216f4926ab09ddf4e64bc20f499fd6ca95
+https://cronoscan.com/address/0xb15533a0bc7c530d692a9660785226dfd3633965 
+https://cronoscan.com/address/0xb4be51216f4926ab09ddf4e64bc20f499fd6ca95 
 https://cronoscan.com/address/0xb79dcd181bc79d1774df65658fcbe9916beda3a5
 https://cronoscan.com/address/0xc4dc7c53bd7cd5ba25eab7fa5a2b68499dfcb434
-https://cronoscan.com/address/0xdb7d0a1ec37de1de924f8e8adac6ed338d4404e9
+https://cronoscan.com/address/0xdb7d0a1ec37de1de924f8e8adac6ed338d4404e9 
 https://cronoscan.com/address/0xe8d13664a42B338F009812Fa5A75199A865dA5cD
 https://cronosid.xyz/
 https://crosskey.io/stores/s-pankki/apis
@@ -5017,7 +5018,7 @@ https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
 https://developers.vendhq.com/
 https://devportal.rec.net/
 https://devstaging.pcapcloud.com/*
-https://dexalot.com
+https://dexalot.com 
 https://digits.t-mobile.com
 https://digits.t-mobile.com/
 https://dimensions.cloudinary.com
@@ -5075,7 +5076,7 @@ https://etherscan.io/address/0x29e7DF7b6A1B2b07b731457f499E1696c60E2C4e
 https://etherscan.io/address/0x32a0ce2bDfc37eE606aB905b4f9fC286049A774f
 https://etherscan.io/address/0x38473Feb3A6366757A249dB2cA4fBB2C663416B7
 https://etherscan.io/address/0x3980c9ed79d2c191A89E02Fa3529C60eD6e9c04b
-https://etherscan.io/address/0x3be7Df8dB39996a837041bb8Ee0dAdf60F767038
+https://etherscan.io/address/0x3be7Df8dB39996a837041bb8Ee0dAdf60F767038 
 https://etherscan.io/address/0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6
 https://etherscan.io/address/0x56a76bcC92361f6DF8D75476feD8843EdC70e1C9
 https://etherscan.io/address/0x5DE8ab7E27f6E7A1fFf3E5B337584Aa43961BEeF
@@ -5255,7 +5256,7 @@ https://github.com/UnitusLabs/Contracts/wiki/Deployments#base-contracts
 https://github.com/Virtuswap/v1-core/tree/main/contracts
 https://github.com/adobe/*
 https://github.com/alchemyplatform/modular-account
-https://github.com/allinbits/govgen-governance-dapp
+https://github.com/allinbits/govgen-governance-dapp 
 https://github.com/apache/airflow
 https://github.com/apache/httpd
 https://github.com/apache/tomcat
@@ -5550,7 +5551,6 @@ https://github.com/rack/rack
 https://github.com/rails
 https://github.com/rails/rails
 https://github.com/risc0/risc0/tree/main/risc0
-https://github.com/river-build/river
 https://github.com/roundcube/roundcubemail
 https://github.com/rsksmart/powpeg-node
 https://github.com/rsksmart/rif-wallet
@@ -5578,7 +5578,7 @@ https://github.com/smooch/smooch-ios
 https://github.com/smooch/smooch-web
 https://github.com/spiffe/spiffe
 https://github.com/spiffe/spire
-https://github.com/spritheremm/CITEX-Spot-Open-API
+https://github.com/spritheremm/CITEX-Spot-Open-API 
 https://github.com/square/ghostunnel
 https://github.com/square/git-fastclone
 https://github.com/square/go-jose
@@ -6517,7 +6517,7 @@ https://sprint.com
 https://src.mastercard.com/*
 https://src.mastercard.com/profile/enroll
 https://staff.monash/
-https://stage.film.io
+https://stage.film.io 
 https://staging-app.ynab.com
 https://staging-prime.navan.com
 https://staging.coda.io/*
@@ -6560,8 +6560,8 @@ https://t.me/tapps_bot
 https://takeawaypay.azurefd.net/en/takeawaypay/
 https://teach.classdojo.com
 https://tectonic.finance
-https://tectonic.gitbook.io/docs/developer/price-oracle
-https://tectonic.gitbook.io/docs/developer/smart-contracts-and-security
+https://tectonic.gitbook.io/docs/developer/price-oracle 
+https://tectonic.gitbook.io/docs/developer/smart-contracts-and-security 
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/package
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/polling
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/upload
@@ -6661,7 +6661,7 @@ https://virtuswap.io/
 https://vlagg.usaa.com
 https://vlapi.usaa.com
 https://vroid.com/studio
-https://vvs.finance/
+https://vvs.finance/ 
 https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/entitlements
 https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/entitlements/{entitlement_id}
 https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/notifications/raas
@@ -7269,7 +7269,7 @@ m.krisha.kz
 m.reddit.com
 m.trendyol.com
 macOS app
-macOS desktop application available at https://status.app/ for Intel and Silicon
+macOS desktop application available at https://status.app/ for Intel and Silicon 
 mackeeper.com
 magazine.ketnet.be
 magento.com
@@ -7441,7 +7441,7 @@ myvpn.usaa.com
 naspers.com
 nationalidverification-noneu.truecaller.com
 nav.naspers.com
-near.org
+near.org 
 neoket.net
 nessus.fr.cloud.gov
 net.geo.opera.com
@@ -8335,7 +8335,7 @@ web-consent-noneu.truecaller.com
 web-message-high.lime.bike
 web-message.lime.bike
 web-production.lime.bike
-web.bittrex.com
+web.bittrex.com 
 web.grindr.com
 web.koho.ca
 web.snapchat.com
