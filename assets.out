@@ -3459,7 +3459,6 @@ cdn.localizestaging.com
 cdn.moderntreasury.com
 cdn.plaid.com
 cdna.lystit.com
-cdnst.mafretailproxy.com
 cds.vrt.radio
 cfapi.voikukka.fi
 cfc.naspers.com
@@ -4457,6 +4456,7 @@ https://api-ch-gva-2.exoscale.com/v2
 https://api-evm.orderly.org/
 https://api-evm.orderly.org/*
 https://api-js.datadome.co
+https://api-prod.retailsso.com
 https://api-prod.thatconceptstore.com/
 https://api-staging.pingone.com/*
 https://api-test.nicehash.com
@@ -4850,7 +4850,6 @@ https://cdn-pci.optimizely.com/
 https://cdn-store.opera-api.com
 https://cdn.neogov.com
 https://cdn.optimizely.com/
-https://cdnst.mafretailproxy.com/
 https://central.sophos.com
 https://cfc.naspers.com/
 https://chat.openai.com
@@ -6625,7 +6624,6 @@ https://tsock.us1.twilio.com
 https://tv.takeaway.com
 https://twilio.com/blog
 https://uae.voxcinemas.com/
-https://uat2.carrefouruae.com/
 https://ui.com/distributors/
 https://ui.com/training/partners/
 https://uk.web.com
@@ -8212,7 +8210,6 @@ twinmotion.unrealengine.com
 u.magento.com
 uacademy.ugurus.com
 uapi-front.etoro.com
-uat2.carrefouruae.com
 uatdo.com
 uber.com
 uc.8x8pilot.com
