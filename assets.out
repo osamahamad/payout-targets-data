@@ -789,6 +789,7 @@
 *.shopifycs.com
 *.shopifykloud.com
 *.sidefx.com
+*.siilo.com
 *.simpletax.ca
 *.singspacegame.com
 *.sketchfab.com
@@ -4619,6 +4620,7 @@ https://apps.apple.com/gb/app/clearpay-buy-now-pay-later/id1474022186
 https://apps.apple.com/gb/app/indeed-flex-job-search/id1013812731
 https://apps.apple.com/gb/app/moneybox-save-and-invest/id1049797239
 https://apps.apple.com/id/app/dana/id1437123008
+https://apps.apple.com/ie/app/doctolib-siilo/id1083002150
 https://apps.apple.com/in/app/coindcx-trade-bitcoin-crypto
 https://apps.apple.com/in/app/fave-cashback-for-upi/id1538911340
 https://apps.apple.com/in/app/fitburn/id6444105607
@@ -6332,6 +6334,7 @@ https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&
 https://play.google.com/store/apps/details?id=com.probit.app.android2.release.global
 https://play.google.com/store/apps/details?id=com.scu.bsafe
 https://play.google.com/store/apps/details?id=com.sentiance.saferdriver
+https://play.google.com/store/apps/details?id=com.siilo.android&hl=en
 https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.squareup.cash
@@ -7651,7 +7654,6 @@ phonebook5.truecaller.com
 photoshop.com
 piaservers.com
 pigeon.swiftfinancial.com
-pit.evoting.ch
 piuk.blockchain.android
 pixel-noneu.truecaller.com
 pixel.truecaller.com
@@ -7722,7 +7724,7 @@ privatetarget-2-secure.zigzag
 pro-api.coinmarketcap.com
 pro.coinbase.com
 pro.coinmarketcap.com
-pro.doctolib.(fr|de|it) (see "about freemium scope")
+pro.doctolib.(fr|de|it) (see "Free features for healthcare professionals"))
 pro.opensea.io
 prod-*.nu.com.co
 prod-*.nu.com.mx
