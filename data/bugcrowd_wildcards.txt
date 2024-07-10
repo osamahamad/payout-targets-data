@@ -28,7 +28,6 @@ Backblaze Website (*.backblaze.com)
 *.binance.us
 *.bitdefender.com
 *.bitdefender.net
-*.bugcrowd.com/auth/*
 *.canva-apps.cn
 *.canva-apps.com
 *.canva.cn
@@ -50,6 +49,7 @@ Backblaze Website (*.backblaze.com)
 *.delltechnologies.com/* 
 *.acorns.com
 *.bitstamp.net - Bitstamp Supporting Services
+*.bugcrowd.com/auth/*
 *.meraki.com
 *.ikarem.io
 *.network-auth.com
