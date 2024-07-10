@@ -43,6 +43,8 @@
 *.LCX.com
 *.YOUR-TESTING-STORE.mybigcommerce.com/
 *.a.exodus.io
+*.account.api.here.com
+*.account.here.com
 *.acorns.com
 *.acrobat.com
 *.acronis.com
@@ -409,6 +411,8 @@
 *.hellofax.com
 *.hellosign.com
 *.helloworks.com
+*.here.com
+*.hereapi.com
 *.hey.com
 *.highrolling.nu
 *.highwebmedia.com
@@ -580,6 +584,7 @@
 *.mmcdn.com
 *.mmwebc.dev
 *.mobilevikings.be
+*.mobilitygraph.hereapi.com
 *.mona.co
 *.monzo.com
 *.monzo.me
@@ -738,6 +743,7 @@
 *.rocketleague.com
 *.rockstargames.com
 *.romwe.com
+*.router.hereapi.com
 *.rukkaz.com
 *.runnr.in
 *.s-cloud.net
@@ -754,6 +760,7 @@
 *.sc-core.net
 *.sc-corp.net
 *.scatec.io
+*.scbe.api.here.com
 *.scene7.com
 *.scoober.com
 *.scopely.com
@@ -838,6 +845,7 @@
 *.streamlabscharity.com
 *.stripe.com
 *.stylebook.de
+*.subp-router.hereapi.com
 *.superawesome.com
 *.superawesome.tv
 *.superbet.com
@@ -1209,6 +1217,7 @@
 949829216
 950680989
 950693949
+955837609
 961114489414094898
 965180355
 97.105.243.96/28
@@ -3636,6 +3645,7 @@ com.gs.pfmg.wellness
 com.gs.pwmdigital.external
 com.gs.pwmdigital.external.android
 com.hcom.android
+com.here.app.maps
 com.hey.app.ios
 com.hotornot.app
 com.hotwire.hotels
@@ -5678,6 +5688,7 @@ https://itunes.apple.com/us/app/lieferando-de/id419724490?l=es&mt=8
 https://itunes.apple.com/us/app/uconnect/id1229236724?mt=8
 https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045663228?mt=8
 https://iwgo.westernunion.com
+https://jaguar.here.com
 https://jamaica.westernunion.com
 https://jointhemoment.net/
 https://jojo.exchange/
@@ -5700,6 +5711,7 @@ https://kw-bugcrowd-pub.bounty.kiteworks.dev/
 https://l.usaa.com/
 https://lab.epam.com
 https://labs.zetachain.com/
+https://landrover.here.com
 https://lapi.yellowblocks.me
 https://laptop-updates.brave.com/latest/dev/debian64
 https://laptop-updates.brave.com/latest/dev/ubuntu64

@@ -32,6 +32,14 @@
 *.registry.eu
 *.whois.eu
 *.yadifa.eu
+*.account.api.here.com
+*.account.here.com
+*.mobilitygraph.hereapi.com
+*.router.hereapi.com
+*.scbe.api.here.com
+*.subp-router.hereapi.com
+*.here.com
+*.hereapi.com
 *.hln.be
 *.parool.nl
 *.humo.be
