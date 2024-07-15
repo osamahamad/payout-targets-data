@@ -13,6 +13,7 @@
  com.citymapper.app.release
  developers.vendhq.com
  https://api.ibops.net/ad-management
+ https://app.init.capital/
  https://github.com/river-build/river
  https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/entitlements
  tsock.us1.twilio.com
@@ -258,6 +259,7 @@
 *.dailymotion.com
 *.dancecentral.com
 *.das.eu
+*.datacamp.com
 *.de.jbl.com
 *.deliveroo.ae
 *.deliveroo.be
@@ -2177,6 +2179,7 @@ MongoDB Server Local Instance
 MongoDB Shell
 MongoDB Spark Connector
 MongoDB VS Code Plugin
+Mozilla Ad Routing Service
 Mozilla VPN Clients
 Multi VCS
 Multi-factor Auth - Feature
@@ -3023,7 +3026,6 @@ api.geckoterminal.com
 api.getbase.com
 api.github.com
 api.grabpay.com
-api.greenhouse.io
 api.grofers.com
 api.gx.games/dc
 api.gx.games/dev 
@@ -3151,6 +3153,9 @@ app.chime.com
 app.circle.com
 app.command.cysiv.com
 app.dashlane.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
 app.delen.be
 app.delen.ch
 app.delen.lu
@@ -3164,12 +3169,10 @@ app.frame.io
 app.frontapp.com
 app.futuresimple.com
 app.gamma.redoxstage.com
-app.greenhouse.io
 app.iciparisxl.be
 app.iciparisxl.lu
 app.iciparisxl.nl
 app.infura.io
-app.interseller.io
 app.iris.acceptance.forescoutcloud.net
 app.iris.production.forescoutcloud.net
 app.koho.ca
@@ -3250,6 +3253,8 @@ as2.portofantwerpbruges.com
 asana.com
 asiointi.lahitapiola.fi
 asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
 assets.adobe.com
 assets.airbnb.com
 assets.hyatt.com
@@ -3360,7 +3365,6 @@ blueskytours.globalbookingsolutions.com
 bm.visa.com
 bma.badoo.com
 bma.bumble.com
-boards.greenhouse.io
 boards.qwant.com
 book.applevacations.com
 book.beachbound.com
@@ -3416,6 +3420,7 @@ callbacks.airbnb.com
 callkit-asia-south1.truecaller.com
 cam.notebleue.pro
 campaign.adobe.com
+campus.datacamp.com
 canary.activate.codefi.network
 candle-src.etoro.com
 candle.etoro.com
@@ -3586,6 +3591,7 @@ com.creditkarma.mobile
 com.creditkarma.mobile.international
 com.dashlane
 com.dashlane.dashlanephonefinal
+com.datacamp
 com.defi.wallet
 com.deliveroo.driverapp
 com.deliveroo.orderapp
@@ -3858,7 +3864,6 @@ contact.krisp.ai
 contacts.infomaniak.com
 content.ketnet.be
 content.usaa.com
-contile.services.mozilla.com
 contributor.stock.adobe.com
 controltower.sentiance.com
 core.yoti.com
@@ -4248,7 +4253,6 @@ hackathon-photos.hackerone-user-content.com
 hackathon-tracker.digitalocean.com
 hackenproof.com
 hackerone-ext-content.com
-hackerone-m1rtuq8orz.hbstaging.website
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-user-content.com
 hackerone.com
@@ -4588,6 +4592,7 @@ https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/bigcommerce/id1418570678
 https://apps.apple.com/au/app/caltex-australia/id1314768594
 https://apps.apple.com/au/app/certsy/id1617796159
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
@@ -4993,6 +4998,8 @@ https://depinscan.io/
 https://design.glassdoor.com/*
 https://desk-api-{region}.sendbird.com
 https://desktop.water-link.be/
+https://dev.init.capital/contract-addresses/blast
+https://dev.init.capital/contract-addresses/mantle
 https://dev.tutoring.classdojo.com
 https://devedge.t-mobile.com
 https://developer.mastercard.com
@@ -7070,7 +7077,6 @@ internal-docs.netlify.com
 internal.netlify.com
 internal.whitebit.com
 international.coinbase.com
-interseller.io
 interviews.monash.edu
 intranet.takeaway.com
 inventory.data.gov
@@ -7117,7 +7123,6 @@ jp.naver.line.android
 js.crypto.com
 js.datadome.co
 js.stripe.com
-jss.greenhouse.io
 judge.me
 juicer.lime.bike
 juniormusical.ketnet.be
@@ -7543,7 +7548,6 @@ on-ramp.metaswap-dev.codefi.network
 onboarding-*.cloud.com
 onboarding-api.truelayer.com
 onboarding.cloud.com
-onboarding.greenhouse.io
 ondemand-vrt.akamaized.net
 one-world-radio-tomorrowland/id1485778856
 one.airbnb.com
@@ -7685,6 +7689,7 @@ portalapi.eu.clearpay.co.uk
 portfolio.adobe.com
 portfolio.metamask.io
 portswigger.net
+practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prddsplunkhf.uzleuven.be
 premium-eu.truecaller.com
@@ -7731,6 +7736,7 @@ profile-view.truecaller.com
 profile4-asia-south1.truecaller.com
 profile4.truecaller.com
 profiler.firefox.com
+projects.datacamp.com
 projects.nextcloud.com
 prometheus.fr.cloud.gov
 promos.tvg.com
@@ -8069,7 +8075,6 @@ support.avalabs.org
 support.creditkarma.ca
 support.cs.money
 support.databricks.com
-support.greenhouse.io
 support.logi.com
 support.malwarebytes.com
 support.metamask.io
@@ -8448,6 +8453,8 @@ www.currencycloud.com
 www.cybersource.com
 www.dashlane.com
 www.data.gov
+www.datacamp.com
+www.datacamp.com/datalab
 www.datastax.com
 www.ddfcontent.com
 www.deezer.com
@@ -8537,7 +8544,6 @@ www.globalhotelchoices.com
 www.gocardless.com
 www.goodrx.com
 www.gr.dyson.com
-www.greenhouse.io
 www.hackerone.com
 www.hln.be
 www.hostinger.com

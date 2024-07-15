@@ -199,6 +199,7 @@ eero Beacon (2nd Generation)
 eero Pro (2nd Generation)
 https://api-user.e2ro.com/*
 https://node.e2ro.com/*
+Mozilla Ad Routing Service
 Mozilla VPN Clients
 Product Delivery
 accounts.firefox.com
@@ -207,7 +208,6 @@ api.profiler.firefox.com
 aus5.mozilla.org
 bugzilla.mozilla.org
 community-tc.services.mozilla.com
-contile.services.mozilla.com
 crash-reports.allizom.org
 crash-stats.allizom.org
 developer.mozilla.org
@@ -2821,7 +2821,6 @@ verovelvollisuustiedot.lahitapiola.fi
 www.lahitapiola.fi
 www.tapiola.fi
 yrityspalvelu.tapiola.fi
-hackerone-m1rtuq8orz.hbstaging.website
 https://github.com/mainwp/mainwp
 https://github.com/mainwp/mainwp-child
 434613896
@@ -3295,15 +3294,6 @@ api.linkedin.com
 business.linkedin.com
 com.linkedin.android
 www.linkedin.com
-api.greenhouse.io
-app.greenhouse.io
-app.interseller.io
-boards.greenhouse.io
-interseller.io
-jss.greenhouse.io
-onboarding.greenhouse.io
-support.greenhouse.io
-www.greenhouse.io
 GitLab for Jira Cloud
 Other non-production infrastructure
 Your Own GitLab Instance
