@@ -991,7 +991,6 @@ Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DI
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 B2 APIs (*.backblazeb2.com)
 Backblaze Website (*.backblaze.com)
-Internal Web services - *.internal.exoscale.ch
 Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 analytics-*.8x8.com
 api*.netflix.com
