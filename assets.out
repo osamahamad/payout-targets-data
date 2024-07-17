@@ -1,3 +1,4 @@
+  identity.monash.edu
  *.sip.*.twilio.com
  Finicity Connect
  Fortress.HongKong.IOS
@@ -16,6 +17,7 @@
  https://app.init.capital/
  https://github.com/river-build/river
  https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/entitlements
+ mix.monash.edu 
  tsock.us1.twilio.com
  www.register.com
  www.web.com
@@ -103,14 +105,12 @@
 *.api.dailymotion.com
 *.api.originenergy.com.au
 *.api.playstation.com
-*.api.t-mobile.com
 *.api.ua.com
 *.app.asana.com
 *.app.spacelift.dev
 *.arlo.com
 *.arloxcld.com
 *.artstation.com
-*.arubanetworks.com
 *.asana.biz
 *.asana.plus
 *.astaro.com
@@ -242,7 +242,6 @@
 *.corp.mongodb.com*
 *.cp.dyson.com
 *.creditkarma.ca
-*.creditkarma.ca/
 *.creditkarma.co.uk
 *.creditkarma.com
 *.crossclip.com
@@ -259,7 +258,6 @@
 *.dailymotion.com
 *.dancecentral.com
 *.das.eu
-*.datacamp.com
 *.de.jbl.com
 *.deliveroo.ae
 *.deliveroo.be
@@ -575,7 +573,6 @@
 *.menulog.com.au - Australia food ordering
 *.meraki.com
 *.metamask.io
-*.metrobyt-mobile.com
 *.mevo.com
 *.mgmt.fndlsb.net
 *.mi.com
@@ -772,7 +769,6 @@
 *.securecircle.com
 *.securegatewayaccess.com
 *.securityservices.io
-*.seedfi.com
 *.seek.com.au
 *.sellzone.com
 *.semrush.com
@@ -861,7 +857,6 @@
 *.swiftype.com
 *.swisspass.ch
 *.sys.comcast.net
-*.t-mobile.com
 *.takeaway.com
 *.tapiola.fi
 *.taralite.com
@@ -1676,10 +1671,6 @@ CosmWasm
 Cosmos SDK
 CounterAct 8.4
 Creative Cloud Desktop Application
-Credit Karma Android Mobile Application (International - UK+Canada)
-Credit Karma Android Mobile Application (US)
-Credit Karma iOS Mobile Application (International - UK+Canada)
-Credit Karma iOS Mobile Application (US)
 Crowd
 CrowdStrike public infrastructure
 Crowdsignal
@@ -1701,7 +1692,6 @@ CyberGhost Windows application
 CyberGhost Xbox One + Xbox360 apps
 CyberGhost iOS application
 CyberGhost macOS application
-DIGITS - Mobile & Desktop
 DS proxy (see https://github.com/demarches-simplifiees/ds_proxy)
 DSE, Opscenter
 DSP
@@ -2471,6 +2461,7 @@ Square Point of Sale Mobile Application for Android
 Square Point of Sale Mobile Application for iOS
 Square Register
 Square Terminal
+Staff.monash
 Staging Electroneum Android App
 Staging, QA, Dev, and Test Environments
 Standalone Chrome extension
@@ -2518,18 +2509,8 @@ Superdrug.App.Android
 Superdrug.App.IOS
 Superdrug.Healthera.App.Android
 SurveyMonkey - https://trello.com/power-ups/568c143d95adcd7308cbc3fb/surveymonkey
-SyncUP DRIVE - Android
-SyncUP DRIVE - iOS
-SyncUP KIDS - Android
-SyncUP KIDS - iOS
-SyncUP TRACKER - Android
-SyncUP TRACKER - iOS
 System Specification
 T&P Servers
-T-Life - Android
-T-Life - iOS
-T-Mobile - Android
-T-Mobile - iOS
 THAT Concept Store Android
 THAT Concept Store iOS
 TTC Connect
@@ -2822,7 +2803,6 @@ account.fr.cloud.gov
 account.krisp.ai
 account.mackeeper.com
 account.magento.com
-account.t-mobile.com
 account.ui.com
 accounts-internal.cloud.com
 accounts.adobe.com
@@ -2882,6 +2862,7 @@ ads5-asia-south1.truecaller.com
 advisories.gitlab.com
 advocates.databricks.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
+aed.arubanetworks.com
 aemdam.usaa360.com
 affiliate-id.tokopedia.com
 agents.tasheer.com
@@ -3069,6 +3050,7 @@ api.profiler.firefox.com
 api.qwant.com
 api.rapyd.net
 api.razorpay.com
+api.recarga.com
 api.recordedfuture.com
 api.reddit.com
 api.remitly.io
@@ -3148,9 +3130,6 @@ app.chime.com
 app.circle.com
 app.command.cysiv.com
 app.dashlane.com
-app.datacamp.com/certification
-app.datacamp.com/groups
-app.datacamp.com/learn
 app.delen.be
 app.delen.ch
 app.delen.lu
@@ -3246,10 +3225,9 @@ as2-accpt.portofantwerpbruges.com
 as2.portofantwerp.com
 as2.portofantwerpbruges.com
 asana.com
+ase.arubanetworks.com
 asiointi.lahitapiola.fi
 asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
-assessment-v2.datacamp.com
-assessment.datacamp.com
 assets.adobe.com
 assets.airbnb.com
 assets.hyatt.com
@@ -3355,6 +3333,7 @@ blog.ton.org/api
 blog.ui.com
 blog.verisign.com (Website; non-DNS related)
 blog.watsons.com.tr
+blogs.arubanetworks.com
 blueprints.amazon.com
 blueskytours.globalbookingsolutions.com
 bm.visa.com
@@ -3409,13 +3388,13 @@ buy.logitech.com
 ca.account.sony.com
 ca.koho
 cache.judge.me
+calculators.arubanetworks.com
 caldav.larksuite.com
 calendar.infomaniak.com
 callbacks.airbnb.com
 callkit-asia-south1.truecaller.com
 cam.notebleue.pro
 campaign.adobe.com
-campus.datacamp.com
 canary.activate.codefi.network
 candle-src.etoro.com
 candle.etoro.com
@@ -3519,6 +3498,7 @@ coinmarketcap.com
 coldfusion.adobe.com
 com.1debit.ChimeProdApp
 com.3mosquitos.MercadoLibre
+com.Fnbox.Recarga
 com.Hyatt
 com.Slack
 com.acronis.abc
@@ -3586,7 +3566,6 @@ com.creditkarma.mobile
 com.creditkarma.mobile.international
 com.dashlane
 com.dashlane.dashlanephonefinal
-com.datacamp
 com.defi.wallet
 com.deliveroo.driverapp
 com.deliveroo.orderapp
@@ -3712,6 +3691,7 @@ com.quip.quip
 com.quora.android
 com.quora.app.mobile
 com.realtimeboard
+com.recarga.recarga
 com.recordedfuture.mobile
 com.remitly.androidapp
 com.ring.neighborhoods
@@ -3840,6 +3820,7 @@ confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
 connect.arkane.network
+connect.arubanetworks.com
 connect.deezer.com
 connect.identity.stagaws.visma.com
 connect.monash.edu
@@ -3964,7 +3945,6 @@ design.gitlab.com
 design.ui.com
 dev-training.ui.com
 dev.takeaway.com/html/
-devedge.t-mobile.com
 developer*.earlywarning.com
 developer.amazon.com/alexa/*
 developer.amazon.com/apps-and-games/*
@@ -3985,6 +3965,7 @@ developers.cloudways.com
 developers.reddit.com
 developers.tiktok.com
 developers.veriff.me
+devhub.arubanetworks.com
 device-safety-asia-south1.truecaller.com
 dex-trade.com
 diagrams.fr.cloud.gov
@@ -3995,7 +3976,6 @@ digitaloceanpartners.com
 digitaloceanstatus.com
 digitaloceantest.com
 digitalspecs.portofantwerpbruges.com
-digits.t-mobile.com
 direct.playstation.com
 distribution-xml.booking.com
 dl.clario.co
@@ -4248,6 +4228,7 @@ hackathon-photos.hackerone-user-content.com
 hackathon-tracker.digitalocean.com
 hackenproof.com
 hackerone-ext-content.com
+hackerone-m1rtuq8orz.hbstaging.website
 hackerone-us-west-2-production-attachments.s3-us-west-2.amazonaws.com
 hackerone-user-content.com
 hackerone.com
@@ -4396,7 +4377,6 @@ https://account.t-mobile.com
 https://account.teamviewer.com
 https://account.withings.com
 https://accounts.cmp.optimizely.com/
-https://accounts.creditkarma.com
 https://accounts.lastpass.com
 https://accounts.opera.com
 https://accounts.welcomesoftware.com/
@@ -4473,7 +4453,6 @@ https://api.cloudinary.com
 https://api.coinstore.com
 https://api.coinstore.com/api
 https://api.coinw.com/
-https://api.creditkarma.com
 https://api.datadome.co
 https://api.dexalot.com
 https://api.electroneum.com/
@@ -4587,12 +4566,10 @@ https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/bigcommerce/id1418570678
 https://apps.apple.com/au/app/caltex-australia/id1314768594
 https://apps.apple.com/au/app/certsy/id1617796159
-https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
 https://apps.apple.com/br/app/nubank-conta-e-cart%C3%A3o/id814456780
-https://apps.apple.com/ca/app/credit-karma/id1398558151?ls=1
 https://apps.apple.com/ca/app/lime-ridegreen/id1199780189
 https://apps.apple.com/ca/app/lime-supply/id1620058457
 https://apps.apple.com/ch/app/die-post/id378676700
@@ -4650,7 +4627,6 @@ https://apps.apple.com/us/app/coinw/id1494077068
 https://apps.apple.com/us/app/compass-real-estate-homes/id692766504
 https://apps.apple.com/us/app/confluence-cloud/id1006971684
 https://apps.apple.com/us/app/confluence-server/id1288365159
-https://apps.apple.com/us/app/credit-karma/id519817714
 https://apps.apple.com/us/app/cryptologygo-buy-trade-btc/id6448920037
 https://apps.apple.com/us/app/dropbox-emm/id1080074001
 https://apps.apple.com/us/app/dropbox-secure-cloud-storage/id327630330
@@ -4773,7 +4749,6 @@ https://blablacardaily.com
 https://blockexplorer.electroneum.com
 https://blog.bitpanda.com
 https://blog.bitpanda.com/en
-https://blog.creditkarma.com/
 https://blog.lastpass.com
 https://blog.verisign.com
 https://blog.whitebit.com/
@@ -5624,6 +5599,7 @@ https://gitlab.com/gitlab-org/gitlab-shell
 https://gitlab.com/gitlab-org/gitlab-vscode-extension
 https://gitlab.com/gitlab-org/opstrace/opstrace
 https://go.elementor.com/
+https://gpt.lime.bike
 https://graphql.acorns.com
 https://graphql.seek.com
 https://guest.usaa.com/
@@ -5640,7 +5616,6 @@ https://he.elementor.com/
 https://head.coda.io/*
 https://healthmate.withings.com
 https://help.acorns.com
-https://help.creditkarma.com/
 https://help.etsy.com
 https://help.glassdoor.com/*
 https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
@@ -5662,6 +5637,7 @@ https://id.unity.com
 https://identity.bugcrowd.com/
 https://identity.ic0.app/
 https://identity.monash.edu
+https://identity.monash.edu/
 https://india.westernunion.com
 https://indonesiavoa.vfsevisa.id/
 https://infiniteathlete.ai
@@ -6271,8 +6247,6 @@ https://play.google.com/store/apps/details?id=com.coindcx.okto
 https://play.google.com/store/apps/details?id=com.coinex.trade.play
 https://play.google.com/store/apps/details?id=com.coinw.win&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.comuto&hl=en
-https://play.google.com/store/apps/details?id=com.creditkarma.mobile&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.creditkarma.mobile.international
 https://play.google.com/store/apps/details?id=com.cryptology.flutter
 https://play.google.com/store/apps/details?id=com.dailymotion.dailymotion&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.deepcoin.app.global
@@ -6507,6 +6481,7 @@ https://speeddials.opera.com
 https://sprint.com
 https://src.mastercard.com/*
 https://src.mastercard.com/profile/enroll
+https://staff.monash
 https://staff.monash/
 https://stage.film.io 
 https://staging-app.ynab.com
@@ -6745,9 +6720,6 @@ https://www.coinw.com/
 https://www.contrastsecurity.com/
 https://www.coral.co.uk/en/games
 https://www.crateandbarrel.me
-https://www.creditkarma.ca/
-https://www.creditkarma.co.uk/
-https://www.creditkarma.com
 https://www.creditkarma.com/reviews/
 https://www.creditkarma.com/savings
 https://www.cyber.gouv.qc.ca
@@ -7337,7 +7309,7 @@ metahuman.unrealengine.com
 metamask.io
 metasearch-api.booking.com
 metrics.deribit.com
-metrobyt-mobile.com
+metrics.int.remitly.com
 meu1.badoo.com
 mgm.mobilevikings.be
 mgmt-sensors.iris.acceptance.forescoutcloud.net
@@ -7373,6 +7345,7 @@ mobilevikings.be
 mod.reddit.com
 moments.marriottbonvoy.com
 monash.app.nutrip.com
+monash.edu
 monashprofessional.edu.au
 moneybird.com
 moneybirdstorage.com
@@ -7382,6 +7355,7 @@ moonpay.com
 movieapi.kinepolis.megatix.be
 mozilla-pontoon-staging.herokuapp.com
 msg.playcanvas.com
+mspshowcase.arubanetworks.com
 mstatic.usaa.com
 mta-sts.wearehackerone.com
 munin-*.wordpress.org
@@ -7438,6 +7412,7 @@ nettle-sys
 new-order.eu-east-1.indriverapp.com
 new.reddit.com
 new.www.vaxvacationaccess.com
+news.remitly.com
 newsletter.nextcloud.com
 newsletter.thuisbezorgd.nl
 newsroom.images.hyatt.com
@@ -7684,7 +7659,6 @@ portalapi.eu.clearpay.co.uk
 portfolio.adobe.com
 portfolio.metamask.io
 portswigger.net
-practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prddsplunkhf.uzleuven.be
 premium-eu.truecaller.com
@@ -7731,7 +7705,6 @@ profile-view.truecaller.com
 profile4-asia-south1.truecaller.com
 profile4.truecaller.com
 profiler.firefox.com
-projects.datacamp.com
 projects.nextcloud.com
 prometheus.fr.cloud.gov
 promos.tvg.com
@@ -7870,6 +7843,7 @@ secure.lahitapiola.fi
 secure.netflix.com
 secure.plaid.com
 secure.quovo.com
+secure.recarga.com/*
 secure.rezserver.com
 secure.tumblr.com
 secure.vendhq.com
@@ -7985,7 +7959,6 @@ speedtest.xfinity.com
 sport-components.sporza.be
 sportsbook.fanduel.com
 sporza.be
-sprint.com
 sq
 sqop
 sqv
@@ -8107,7 +8080,6 @@ systemd-stub
 systemd-timesyncd
 systemd-udev
 systemd-veritysetup
-t-mobile.com
 t.co
 t.swapcard.com
 t.umblr.com
@@ -8141,7 +8113,6 @@ testing.maventa.com
 testnet.bitmex.com
 testnet.immutable.com
 teststs.uzleuven.be
-tfb.t-mobile.com
 theblog.adobe.com
 therapeutics.23andme.com
 therecord.media
@@ -8405,6 +8376,7 @@ www.analvids.com
 www.applevacations.com
 www.arkoselabs.com
 www.arubainstanton.com
+www.arubanetworks.com
 www.astrogaming.com
 www.atg.se
 www.authorize.net
@@ -8448,8 +8420,6 @@ www.currencycloud.com
 www.cybersource.com
 www.dashlane.com
 www.data.gov
-www.datacamp.com
-www.datacamp.com/datalab
 www.datastax.com
 www.ddfcontent.com
 www.deezer.com
@@ -8620,7 +8590,6 @@ www.mercadopago.com.uy
 www.mini.de
 www.mjrtheatres.com
 www.momondo.com
-www.monash.edu
 www.monespacesante.fr
 www.moneyback.com.hk
 www.mozilla.org
@@ -8656,6 +8625,7 @@ www.priceline.com
 www.prisma.fi
 www.quip.com
 www.qwant.com
+www.recargapay.com.br/*
 www.recordedfuture.com
 www.redoxengine.com
 www.ritzcarlton.com/

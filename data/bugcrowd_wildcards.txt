@@ -3,7 +3,6 @@ portalapi.*.afterpay.com
 *.arlo.com
 *.arloxcld.com
 *.central.arubanetworks.com
-*.arubanetworks.com
 *.app.asana.com
 *.asana.biz
 *.asana.plus
@@ -39,10 +38,6 @@ Backblaze Website (*.backblaze.com)
 *.comcast.com
 *.xfinity.com	
 *.sys.comcast.net
-*.creditkarma.ca/
-*.creditkarma.co.uk
-*.creditkarma.com
-*.seedfi.com
 *.cyberghost.com
 *.cyberghostvpn.com
 *.dell.com/*
@@ -215,9 +210,6 @@ api-*.soundcloud.com
 *.square.com
 *.squareup.com
 *.statuspage.io
-*.api.t-mobile.com
-*.metrobyt-mobile.com
-*.t-mobile.com
 *.solarcity.com
 *.tesla.cn
 *.tesla.com

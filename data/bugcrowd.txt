@@ -130,9 +130,17 @@ Aruba User Experience Insight Sensors
 Aruba Wireless – ArubaOS and Aruba Instant
 ArubaOS-CX Wired Switches
 https://www.arubanetworks.com/products/networking/analytics-and-assurance/user-experience-insight-sensors/
+aed.arubanetworks.com
+ase.arubanetworks.com
 asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
+blogs.arubanetworks.com
+calculators.arubanetworks.com
+connect.arubanetworks.com
+devhub.arubanetworks.com
 lms-stg-develop.eks-stg-use1.getaws.arubanetworks.com
+mspshowcase.arubanetworks.com
 www.arubainstanton.com
+www.arubanetworks.com
 Asana Android app
 Asana Desktop App
 Asana iOS app
@@ -889,22 +897,6 @@ https://www.xfinity.com/apps
 https://marketplace.atlassian.com/apps/1223249/mailto-wiki-email-for-confluence?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1223249/mailto-wiki-send-emails-to-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1223249/mailto-wiki-send-emails-to-confluence?tab=overview&hosting=server
-Credit Karma Android Mobile Application (International - UK+Canada)
-Credit Karma Android Mobile Application (US)
-Credit Karma iOS Mobile Application (International - UK+Canada)
-Credit Karma iOS Mobile Application (US)
-api.creditkarma.com
-https://accounts.creditkarma.com
-https://api.creditkarma.com
-https://apps.apple.com/ca/app/credit-karma/id1398558151?ls=1
-https://apps.apple.com/us/app/credit-karma/id519817714
-https://blog.creditkarma.com/
-https://help.creditkarma.com/
-https://play.google.com/store/apps/details?id=com.creditkarma.mobile&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.creditkarma.mobile.international
-https://www.creditkarma.ca/
-https://www.creditkarma.co.uk/
-https://www.creditkarma.com
 CyberGhost APIs
 CyberGhost Android application
 CyberGhost Chrome extension
@@ -1117,6 +1109,7 @@ ops.lime.bike
 https://lp.lime.bike/
 https://orchard.limeinternal.com
 https://www.li.me/
+https://gpt.lime.bike
 https://linktr.ee
 https://linktree.com
 https://tr.ee
@@ -1154,6 +1147,31 @@ beta.rarible.com
 https://rarible.com/
 rari.foundation
 https://mintle.x.rarible.com/
+T&P Servers
+Cellular Network Auth Bypass via Web/Mobile App
+Internal Server via Internet Network
+https://account.t-mobile.com
+https://metrobyt-mobile.com
+https://sprint.com
+https://t-mobile.com
+https://api.t-mobile.com
+https://tfb.t-mobile.com
+https://devedge.t-mobile.com
+https://digits.t-mobile.com
+https://t-mobile.com
+https://metrobyt-mobile.com
+Assets labeled as in-scope
+https://apps.apple.com/us/app/t-mobile/id561625752
+https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
+https://apps.apple.com/us/app/syncup-drive/id1576574297
+https://play.google.com/store/apps/details?id=com.tmobile.drive
+https://apps.apple.com/us/app/syncup-kids/id1503394062
+https://play.google.com/store/apps/details?id=com.tmobile.kids
+https://apps.apple.com/us/app/syncup-tracker/id1526380335
+https://play.google.com/store/apps/details?id=com.tmobile.syncuptag
+https://digits.t-mobile.com/
+https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
+https://play.google.com/store/apps/details?id=com.tmobile.tuesdays&hl=en_US&gl=US
 https://biocorellc.com
 https://tempus-ex.com
 https://infiniteathlete.ai
@@ -1545,8 +1563,11 @@ https://www.mastercard.com.au/en-au.html
 https://www.mastercard.nl/nl-nl.html
 https://www.mastercard.us/en-us.html
 https://www.simplify.com/commerce/ 
+  identity.monash.edu
+ mix.monash.edu 
 Monash Study Android app
 Monash Study iOS App
+Staff.monash
 VPN: vpn.monash.edu
 account-registration.monash.edu
 alumni-friends.monash.edu
@@ -1573,6 +1594,7 @@ https://fileshare.ze.monash.edu
 https://formative.eassessment.monash.edu/
 https://forms.apps.monash.edu/
 https://identity.monash.edu
+https://identity.monash.edu/
 https://interviews.monash.edu/
 https://mix.monash.edu/
 https://mlivetickets.monash.edu
@@ -1586,6 +1608,7 @@ https://partner.apps.monash.edu
 https://play.google.com/store/apps/details?id=com.scu.bsafe
 https://play.google.com/store/apps/details?id=edu.monash.monashmobile
 https://shop.monash.edu/
+https://staff.monash
 https://staff.monash/
 https://status.mobile.monash/
 https://studentplacements.monash.edu
@@ -1600,6 +1623,7 @@ mix.monash.edu/*
 mlivetickets.monash.edu
 mobile.monash
 monash.app.nutrip.com
+monash.edu
 monashprofessional.edu.au
 my.monash
 partner.apps.monash.edu
@@ -1608,7 +1632,6 @@ staff.monash
 status.mobile.monash
 studentplacements.monash.edu
 unihub.monash.edu
-www.monash.edu
 Moneytree iOS Mobile Application (production; see below)
 Moneytree staging Android Mobile Application (see below)
 https://app-staging.getmoneytree.com
@@ -2081,49 +2104,6 @@ https://marketplace.atlassian.com/apps/1224994/poll-maker-for-confluence?hosting
 https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=server
-Assets labeled as in-scope
-Cellular Network Auth Bypass via Web/Mobile App
-DIGITS - Mobile & Desktop
-Internal Server via Internet Network
-SyncUP DRIVE - Android
-SyncUP DRIVE - iOS
-SyncUP KIDS - Android
-SyncUP KIDS - iOS
-SyncUP TRACKER - Android
-SyncUP TRACKER - iOS
-T&P Servers
-T-Life - Android
-T-Life - iOS
-T-Mobile - Android
-T-Mobile - iOS
-account.t-mobile.com
-devedge.t-mobile.com
-digits.t-mobile.com
-https://account.t-mobile.com
-https://api.t-mobile.com
-https://apps.apple.com/us/app/syncup-drive/id1576574297
-https://apps.apple.com/us/app/syncup-kids/id1503394062
-https://apps.apple.com/us/app/syncup-tracker/id1526380335
-https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
-https://apps.apple.com/us/app/t-mobile/id561625752
-https://devedge.t-mobile.com
-https://digits.t-mobile.com
-https://digits.t-mobile.com/
-https://metrobyt-mobile.com
-https://metrobyt-mobile.com
-https://play.google.com/store/apps/details?id=com.tmobile.drive
-https://play.google.com/store/apps/details?id=com.tmobile.kids
-https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
-https://play.google.com/store/apps/details?id=com.tmobile.syncuptag
-https://play.google.com/store/apps/details?id=com.tmobile.tuesdays&hl=en_US&gl=US
-https://sprint.com
-https://t-mobile.com
-https://t-mobile.com
-https://tfb.t-mobile.com
-metrobyt-mobile.com
-sprint.com
-t-mobile.com
-tfb.t-mobile.com
 Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Official Tesla Android apps
 Official Tesla iOS apps
