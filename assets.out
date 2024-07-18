@@ -530,7 +530,6 @@
 *.line.naver.jp
 *.linecorp.com
 *.link.co
-*.linktree-extensions.com
 *.livestream.com
 *.logi.com
 *.login.gov
@@ -4409,7 +4408,6 @@ https://airflow-prod.coda.io/*
 https://airflow-prod.ops.coda.io/*
 https://aiven.io/
 https://ajax.staging.luno.com/
-https://album.link
 https://alpha.yellow.org
 https://alphax.com/
 https://alumni-friends.monash.edu
@@ -4697,7 +4695,6 @@ https://arbiscan.io/address/0xd978bb7a7ae5b01116d1bd714fedd1b77ca9e75b
 https://arbiscan.io/address/0xdd4536dD9636564D891c919416880a3e250f975A
 https://arbiscan.io/address/0xeb0b9B5FFb763dD69440565F63c67f9695B7C3dA
 https://arlo-device.messaging.netgear.com
-https://artist.link
 https://asana.com
 https://asana.com/apps?category=made-by-asana
 https://asana.com/download
@@ -5721,9 +5718,6 @@ https://link.swisstronik.com/nfj
 https://link.swisstronik.com/zky
 https://link.swisstronik.com/zs7
 https://link.x.immutable.com/
-https://linktr.ee
-https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
-https://linktree.com
 https://liveassist.usaa.com/
 https://liveassist11.usaa.com/
 https://liveassist12.usaa.com/
@@ -6112,7 +6106,6 @@ https://myaccount-staging.getmoneytree.com
 https://myapi.arlo.com
 https://myapp.monash.edu/
 https://mydesktop.usaa.com
-https://mylink.page
 https://myplutus.pinelabs.my/
 https://myshop.20min.ch
 https://myvpn.usaa.com
@@ -6135,8 +6128,6 @@ https://oauth.ring.com/*
 https://octopus.com
 https://octopus.com/downloads
 https://oda.com
-https://odesli.co
-https://odesli.com
 https://offer.tidal.com/download
 https://onboard.neogov.com
 https://one.pinelabs.com/
@@ -6352,12 +6343,10 @@ https://play.google.com/store/apps/details?id=se.atg.live&hl=en&gl=SE
 https://play.google.com/store/apps/details?id=ua.aval.biz.client.android&hl=uk
 https://play.google.com/store/apps/details?id=ua.aval.dbo.client.android
 https://play.google.com/store/apps/details?id=ua.raiffeisen.myraif
-https://playlist.link
 https://plmcixt.pinelabs.com/
 https://plugins.matomo.org/developer/innocraft
 https://plugins.matomo.org/developer/matomo-org
 https://poc-op-ywh.it.authentification.si.gouv.qc.ca
-https://pods.link
 https://pointpay.io/
 https://poloniex.com/
 https://polygonscan.com/address/0x0A0846c978a56D6ea9D2602eeb8f977B21F3207F
@@ -6476,8 +6465,6 @@ https://sks-ch-gva-2.exo.io
 https://slex.io/
 https://smartmockups.com/
 https://snapnames.com/
-https://song.link
-https://songlink.io
 https://sos-ch-gva-2.exo.io/
 https://soundcloud.com
 https://soundcloud.org
@@ -6555,7 +6542,6 @@ https://tidal.com/
 https://tidex.com/
 https://tokenize.exchange/
 https://toom.de
-https://tr.ee
 https://tracker.bugcrowd.com
 https://tracker.naspers.com/
 https://trade.bluefin.io/
