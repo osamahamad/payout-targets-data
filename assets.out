@@ -769,6 +769,8 @@
 *.securegatewayaccess.com
 *.securityservices.io
 *.seek.com.au
+*.seekpass-staging.com
+*.seekpass.co
 *.sellzone.com
 *.semrush.com
 *.semrush.net
@@ -1574,8 +1576,6 @@ Cash App Mobile Application for iOS
 Cellular Network Auth Bypass via Web/Mobile App
 Centralized license visibility - DataCenter - https://marketplace.atlassian.com/apps/1220745/centralized-license-visibility?hosting=datacenter
 Centralized license visibility - Server - https://marketplace.atlassian.com/apps/1220745/centralized-license-visibility?hosting=server
-Certsy Mobile App for Android
-Certsy Mobile App for iOS
 Change Management Workflow for Jira Service Management - DataCenter - https://marketplace.atlassian.com/apps/1215175/change-management-workflow-for-jira-service-management?hosting=datacenter
 Change Management Workflow for Jira Service Management - Server - https://marketplace.atlassian.com/apps/1215175/change-management-workflow-for-jira-service-management?hosting=server
 Change Management for JSM - Server - https://marketplace.atlassian.com/apps/1215175/change-management-for-jsm?hosting=server
@@ -2394,6 +2394,8 @@ Roblox Client
 Roblox Studio
 Rockstar Games Launcher
 SBT Task Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1214713/sbt-task-plugin-for-bamboo?hosting=server
+SEEK Pass Mobile App for Android
+SEEK Pass Mobile App for iOS
 SEEK mobile app for Android
 SEEK mobile app for iOS
 SHA1-CD
