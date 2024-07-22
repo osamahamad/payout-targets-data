@@ -931,6 +931,11 @@
 *.uphold.com
 *.uzleuven.*
 *.vacationhomerentals.com
+*.vanillacommunities.com
+*.vanillacommunity.com
+*.vanilladevelopment.com
+*.vanillaforums.com
+*.vanillastaging.com
 *.varonis.com
 *.varonis.io
 *.varonis.net
@@ -5626,6 +5631,9 @@ https://github.com/transferwise/*
 https://github.com/tronprotocol/java-tron
 https://github.com/trustwallet/wallet-core/
 https://github.com/valvesoftware
+https://github.com/vanilla/addons
+https://github.com/vanilla/community
+https://github.com/vanilla/vanilla/
 https://github.com/vechain/thor
 https://github.com/vertex-protocol/vertex-contracts
 https://github.com/waku-org/js-waku
