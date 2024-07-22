@@ -2961,8 +2961,6 @@ api.data.gov
 api.deezer.com
 api.deriv.com
 api.dex-trade.com
-api.digital.delen.be
-api.digital.delen.lu
 api.digitalocean.com
 api.direct.playstation.com
 api.doppler.com
@@ -3128,9 +3126,6 @@ app.chime.com
 app.circle.com
 app.command.cysiv.com
 app.dashlane.com
-app.delen.be
-app.delen.ch
-app.delen.lu
 app.deriv.com
 app.dynamic-preprod.xyz
 app.dynamic.xyz
@@ -3243,8 +3238,6 @@ aus5.mozilla.org
 auth.23andme.com
 auth.bittrex.com
 auth.crypto.com
-auth.digital.delen.be
-auth.digital.delen.lu
 auth.indrive.tech
 auth.magic.link
 auth.monespacesante.fr
@@ -3297,7 +3290,6 @@ battles.tv
 bb.visa.com
 bc.yieldstreet.net
 bd.visa.com
-be.delen.digital
 be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
@@ -3932,7 +3924,6 @@ dealflowapi.prosus.com
 debug.clairvoyance.indrive.tech
 decision.swiftfinancial.com
 dedokterbeashow.ketnet.be
-delen/id1064839588
 delta.app
 demo.arkoselabs.com
 demo.cloud.databricks.com
@@ -7227,15 +7218,11 @@ login-ia.tvg.com
 login-pabets.tvg.com
 login.arkane.network
 login.cm.com
-login.delen.be
-login.delen.ch
-login.delen.lu
 login.en.travelbrandsagent.com
 login.fr.cloud.gov
 login.fr.travelbrandsagent.com
 login.infomaniak.com
 login.lansweeper.com
-login.oyens.com
 login.pabets.tvg.com
 login.playcanvas.com
 login.portofantwerpbruges.com
@@ -8043,7 +8030,6 @@ station.veriff.com
 stationapi.veriff.com
 stats.nextcloud.com
 status.adobe.com
-status.delen.be
 status.larksuite.com
 status.mobile.monash
 status.oasis.io
@@ -8069,7 +8055,6 @@ streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streams.etoro.com
-sts.delen.be
 sts.etoro.com
 sts.uzleuven.be
 stubru.be/luister/select
@@ -8440,8 +8425,6 @@ www.bmw.de
 www.bookabach.co.nz
 www.bookingholdings.com
 www.bumble.com
-www.cadelam.be
-www.cadelux.lu/en
 www.cardinalcommerce.com
 www.cheapcaribbean.com
 www.cheapflights.com
@@ -8471,8 +8454,6 @@ www.data.gov
 www.datastax.com
 www.ddfcontent.com
 www.deezer.com
-www.delen.bank
-www.delen.be/en
 www.demorgen.be
 www.demorgen.be/abonnementen
 www.digitalocean.com
