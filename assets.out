@@ -3208,6 +3208,7 @@ apps.nextcloud.com
 apps.portofantwerp.com
 apps.portofantwerpbruges.com
 apps.zendesk.com
+apps://itunes.apple.com/app/1486151349
 aqtooling.com
 aquiris.com.br
 aquiris.studio
@@ -3865,6 +3866,7 @@ cryptowallet.opera-api.com
 cs.money
 csp-pci.prod.codebig2.net
 css-tricks.com
+ct.deriv.com
 ct.ninjakiwi.com
 ctf.hacker101.com
 custody.coinbase.com
@@ -6275,6 +6277,7 @@ https://play.google.com/store/apps/details?id=com.atlassian.confluence.server
 https://play.google.com/store/apps/details?id=com.atlassian.jira.server&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.auth0.guardian&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.backblaze.android&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.biconomy.ex&pli=1
 https://play.google.com/store/apps/details?id=com.bigcommerce.mobile
 https://play.google.com/store/apps/details?id=com.bitmart.bitmarket&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.bitmex.app.android.testnet
@@ -6733,6 +6736,8 @@ https://www.atlassian.com/software/jira/product-discovery
 https://www.atlassian.com/software/jira/service-management
 https://www.atlassian.com/software/jira/work-management
 https://www.beta.tchap.gouv.fr
+https://www.biconomy.com/
+https://www.biconomy.com/api/v1
 https://www.bigcommerce.com
 https://www.bigcommerce.net
 https://www.binance.com/
