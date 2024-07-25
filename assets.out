@@ -774,7 +774,6 @@
 *.sellzone.com
 *.semrush.com
 *.semrush.net
-*.sentiance.com
 *.seoab.io
 *.seoquake.com
 *.services-prod.nsvcs.net
@@ -3068,7 +3067,6 @@ api.rezserver.com
 api.sandbox.topperpay.com
 api.segment.io
 api.sendgrid.com
-api.sentiance.com
 api.shipt.com
 api.skinport.com
 api.slack.com
@@ -3716,8 +3714,6 @@ com.scopely.startrek
 com.scopely.yux
 com.security.BatteryCam
 com.security.care
-com.sentiance.journeys
-com.sentiance.journeys2
 com.shipt.groceries
 com.shipt.shopper
 com.skypicker.Skypicker
@@ -3852,7 +3848,6 @@ contacts.infomaniak.com
 content.ketnet.be
 content.usaa.com
 contributor.stock.adobe.com
-controltower.sentiance.com
 core.yoti.com
 cornershopapp.android
 corp.badoo.com
@@ -4007,7 +4002,6 @@ docs.launchdarkly.com
 docs.near.org
 docs.nextcloud.com
 docs.redoxengine.com
-docs.sentiance.com
 docs.ton.org
 documentcloud.adobe.com
 documents.adobe.com
@@ -4226,7 +4220,6 @@ grammarly.ai
 graphql.sandbox.topperpay.com/graphql
 graphql.seek.com
 graphql.topperpay.com/graphql
-graphqldocs.sentiance.com
 gravatar.com
 grok.x.ai
 guest.usaa.com
@@ -4668,7 +4661,6 @@ https://apps.apple.com/us/app/paper-by-dropbox/id1126623662
 https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/pionex/id1485348891
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
-https://apps.apple.com/us/app/rac-go/id6444858115
 https://apps.apple.com/us/app/share-rewards/id1465450657
 https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
@@ -5070,18 +5062,12 @@ https://etherscan.io/address/0x00005EA00Ac477B1030CE78506496e8C2dE24bf5
 https://etherscan.io/address/0x0000a26b00c1F0DF003000390027140000fAa719
 https://etherscan.io/address/0x0046000000000151008789797b54fdb500E2a61e
 https://etherscan.io/address/0x051ad3f020274910065dcb421629cd2e6e5b46c4
-https://etherscan.io/address/0x081D1101855bD523bA69A9794e0217F0DB6323ff
-https://etherscan.io/address/0x101500214981e7A5Ad2334D8404eaF365C2c3113
-https://etherscan.io/address/0x10739F09f6e62689c0aA8A1878816de9e166d6f9
 https://etherscan.io/address/0x23ddd3e3692d1861ed57ede224608875809e127f
 https://etherscan.io/address/0x291B812D84707EEB256D618C4c333Ff5F451321F
 https://etherscan.io/address/0x29e7DF7b6A1B2b07b731457f499E1696c60E2C4e
 https://etherscan.io/address/0x32a0ce2bDfc37eE606aB905b4f9fC286049A774f
-https://etherscan.io/address/0x38473Feb3A6366757A249dB2cA4fBB2C663416B7
-https://etherscan.io/address/0x3980c9ed79d2c191A89E02Fa3529C60eD6e9c04b
 https://etherscan.io/address/0x3be7Df8dB39996a837041bb8Ee0dAdf60F767038 
 https://etherscan.io/address/0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6
-https://etherscan.io/address/0x56a76bcC92361f6DF8D75476feD8843EdC70e1C9
 https://etherscan.io/address/0x5DE8ab7E27f6E7A1fFf3E5B337584Aa43961BEeF
 https://etherscan.io/address/0x5e0a74cb0F74D57F9d69914575b972ba6A14e27c
 https://etherscan.io/address/0x6BFaD42cFC4EfC96f529D786D643Ff4A8B89FA52
@@ -5091,14 +5077,9 @@ https://etherscan.io/address/0x80497049b005Fd236591c3CD431DBD6E06eB1A31
 https://etherscan.io/address/0x85F17Cf997934a597031b2E18a9aB6ebD4B9f6a4
 https://etherscan.io/address/0x865d61582abc2CCd85549774CEe171280fE82e3e
 https://etherscan.io/address/0x88f975d5a1153ea92af66e7c4292576a329c04b6
-https://etherscan.io/address/0x8bf439ef7167023f009e24b21719ca5f768ecb36
-https://etherscan.io/address/0x918778e825747a892b17C66fe7D24C618262867d
-https://etherscan.io/address/0x9E2E3be85df5Ca63DE7674BA64ffD564075f3B48
 https://etherscan.io/address/0x9cc56fa7734da21ac88f6a816af10c5b898596ce
-https://etherscan.io/address/0xA91Ea6F5d1EDA8e6686639d6C88b309cF35D2E57
 https://etherscan.io/address/0xBb84098e47d217f51cB014f692eada1F2280a179
 https://etherscan.io/address/0xC049c7fE5EAa024095861212BD8a8E8Df88a2b1f
-https://etherscan.io/address/0xC8953ca384b4AdC8B1b11B030Afe2F05471664b0
 https://etherscan.io/address/0xEc69AaC84D3081aA6F4636C5DBD3D7C2c2F42a9C
 https://etherscan.io/address/0xEf2f9b48d7EC80440Ab4573dF1A2aBDBE06D3f60
 https://etherscan.io/address/0xFE700D523094Cc6C673d78F1446AE0743C89586E
@@ -5106,9 +5087,6 @@ https://etherscan.io/address/0xbC9f74b3b14f460a6c47dCdDFd17411cBc7b6c53
 https://etherscan.io/address/0xcE0000007B008F50d762D155002600004cD6c647
 https://etherscan.io/address/0xdc71affc862fceb6ad32be58e098423a7727bebd#code
 https://etherscan.io/address/0xdeF3AA48bad043e53207d359dcDFdE46F50b6C02
-https://etherscan.io/address/0xf209815E595Cdf3ed0aAF9665b1772e608AB9380
-https://etherscan.io/address/0xf3d58D1794f2634d6649a978f2dc093898FEEBc0
-https://etherscan.io/address/0xf51B9C9a1c12e7E48BEC15DC358D0C1f0d7Eb3be
 https://etsypayments.com
 https://europe.priceless.com/shb
 https://exchange.fastex.com/
@@ -6360,7 +6338,6 @@ https://play.google.com/store/apps/details?id=com.pointpay.bank
 https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&hl=en
 https://play.google.com/store/apps/details?id=com.probit.app.android2.release.global
 https://play.google.com/store/apps/details?id=com.scu.bsafe
-https://play.google.com/store/apps/details?id=com.sentiance.saferdriver
 https://play.google.com/store/apps/details?id=com.siilo.android&hl=en
 https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
@@ -7092,7 +7069,6 @@ indicative-pricing.taxi.booking.com
 infomaniak.events
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
-insights-by-sentiance/id1608074635
 insights-categorizer-eu.truecaller.com
 insights-categorizer-noneu.truecaller.com
 insights-registry-eu.truecaller.com
@@ -7146,8 +7122,6 @@ jira.logitech.com
 jobs.kiwi.com
 jobs.marriott.com
 jointhemoment.net
-journeys-2/id984087229?mt=8
-journeys-api.sentiance.com/v2
 jp.naver.line.android
 js.crypto.com
 js.datadome.co
@@ -7206,7 +7180,6 @@ lawmanager.marriott.com
 le.yahooapis.com
 leadgen-asia-south1.truecaller.com
 learningmanager.adobe.com
-legacy-docs.sentiance.com
 libsystemd
 licenses.adobe.com
 licensing.adobe.com
