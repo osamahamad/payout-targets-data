@@ -44,9 +44,6 @@ Backblaze Website (*.backblaze.com)
 *.delltechnologies.com/* 
 *.bitstamp.net - Bitstamp Supporting Services
 *.bugcrowd.com/auth/*
-*.meraki.com
-*.ikarem.io
-*.network-auth.com
 *.sandbox.directly.com/
 *.dropbox.com    
 *.hellosign.com
