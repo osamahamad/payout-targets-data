@@ -1983,16 +1983,12 @@ Jira Trello Power-Up - Cloud - https://marketplace.atlassian.com/apps/1216625/ji
 Jira Work Management Cloud formerly Jira Core (bugbounty-test-<bugcrowd-name>.atlassian.net)
 Jira to Jira Issue Copy - Server - https://marketplace.atlassian.com/apps/678725/jira-to-jira-issue-copy?hosting=server
 Keeper AD / LDAP Bridge
-Keeper Admin Console (EU)
-Keeper Admin Console (US)
-Keeper Browser Extension
+Keeper Admin Console (US, EU, AU, CA, JP, GovCloud)
+Keeper Browser Extension (Chrome, Safari, Firefox, Edge)
 Keeper Connection Manager (KCM)
-Keeper SSO Connect On-Prem
-Keeper Secrets Manager
+Keeper Secrets Manager and Keeper Commander APIs
 Keeper Security Website
-Keeper Web Vault (AU)
-Keeper Web Vault (EU)
-Keeper Web Vault (US)
+Keeper Web Vault (US, EU, AU, CA, JP, GovCloud)
 Keeper for Android
 Keeper for Mac, PC, Linux
 Keeper for iOS
@@ -2411,7 +2407,8 @@ SHA1-CD
 SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope
 SSL for Jira - Server - https://marketplace.atlassian.com/apps/1211087/ssl-for-jira?hosting=server
 SSL/TLS
-SSO Connect Cloud
+SSO Connect Cloud and Automator Service
+SSO Connect On-Prem
 SSO for Atlassian Server and Data Center - DataCenter - https://marketplace.atlassian.com/apps/1216096/sso-for-atlassian-server-and-data-center?hosting=datacenter
 SSO for Atlassian Server and Data Center - Server - https://marketplace.atlassian.com/apps/1216096/sso-for-atlassian-server-and-data-center?hosting=server
 SSO_Saml_connector
@@ -5040,9 +5037,9 @@ https://docs.bugcrowd.com/
 https://docs.cryptology.com/
 https://docs.eazybi.com/
 https://docs.immutable.com/
+https://docs.keeper.io/en/v/secrets-manager
 https://docs.keeper.io/kcm
 https://docs.keeper.io/keeper-bridge/
-https://docs.keeper.io/secrets-manager/commander-cli/overview
 https://docs.keeper.io/sso-connect-cloud/
 https://docs.keeper.io/sso-connect-guide/
 https://docs.mapbox.com/android/
@@ -5731,11 +5728,8 @@ https://just-eat.io/
 https://just-eat.it
 https://justonweb.be/fines/
 https://keepersecurity.com
-https://keepersecurity.com.au/vault
 https://keepersecurity.com/console
 https://keepersecurity.com/vault
-https://keepersecurity.eu/console
-https://keepersecurity.eu/vault
 https://kiwi.partner.viator.com
 https://kucoin.com
 https://kw-bugcrowd-pub.bounty.kiteworks.dev/

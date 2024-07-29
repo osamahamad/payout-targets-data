@@ -1412,16 +1412,12 @@ https://www.kaleido.ai
 https://www.remove.bg
 https://www.unscreen.com
 Keeper AD / LDAP Bridge
-Keeper Admin Console (EU)
-Keeper Admin Console (US)
-Keeper Browser Extension
+Keeper Admin Console (US, EU, AU, CA, JP, GovCloud)
+Keeper Browser Extension (Chrome, Safari, Firefox, Edge)
 Keeper Connection Manager (KCM)
-Keeper SSO Connect On-Prem
-Keeper Secrets Manager
+Keeper Secrets Manager and Keeper Commander APIs
 Keeper Security Website
-Keeper Web Vault (AU)
-Keeper Web Vault (EU)
-Keeper Web Vault (US)
+Keeper Web Vault (US, EU, AU, CA, JP, GovCloud)
 Keeper for Android
 Keeper for Mac, PC, Linux
 Keeper for iOS
@@ -1429,20 +1425,18 @@ KeeperChat for Android
 KeeperChat for Mac
 KeeperChat for Windows
 KeeperChat for iOS
-SSO Connect Cloud
+SSO Connect Cloud and Automator Service
+SSO Connect On-Prem
 https://apps.apple.com/app/id1216446440
 https://apps.apple.com/us/app/keeperchat/id1273303729?mt=12
+https://docs.keeper.io/en/v/secrets-manager
 https://docs.keeper.io/kcm
 https://docs.keeper.io/keeper-bridge/
-https://docs.keeper.io/secrets-manager/commander-cli/overview
 https://docs.keeper.io/sso-connect-cloud/
 https://docs.keeper.io/sso-connect-guide/
 https://keepersecurity.com
-https://keepersecurity.com.au/vault
 https://keepersecurity.com/console
 https://keepersecurity.com/vault
-https://keepersecurity.eu/console
-https://keepersecurity.eu/vault
 https://play.google.com/store/apps/details?id=com.callpod.android_apps.keeper&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.keepersecurity.chat&hl=en_US&gl=US
 https://www.keepersecurity.com/download.html
