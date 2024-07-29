@@ -126,6 +126,7 @@
 *.avecspotify.com
 *.ayco.com
 *.backblazeb2.com
+*.backpack.exchange/
 *.base.org
 *.bbp-mettle.co.uk
 *.berush.com
@@ -8425,6 +8426,7 @@ ws1.dashlane.com
 wsmbr.usaa.com
 wss://socket.bitpanda.com
 wss://ws-futures.coinstore.com/socket.io/
+wss://ws.backpack.exchange/
 wss://ws.coinstore.com/s/ws
 wucare.westernunion.com
 wuinsights.westernunion.com
