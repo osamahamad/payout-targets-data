@@ -324,6 +324,8 @@
 *.fortnite.com
 *.found.io
 *.fromspotify.com
+*.gamma.be/*
+*.gamma.nl/*
 *.gethypr.com
 *.getmeetio.com
 *.github.net
@@ -430,6 +432,9 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
+*.intergamma-test.nl
+*.intergamma.cloud
+*.intergamma.nl/*
 *.irccloud-cdn.com
 *.irccloud.com
 *.jbl.com
@@ -459,6 +464,7 @@
 *.justeat-int.com
 *.justeattakeaway.com
 *.kaleido.ai
+*.karwei.nl/*
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
 *.kes.kindredext.net
@@ -695,6 +701,7 @@
 *.remove.bg
 *.rentalcars.com
 *.reposify.com
+*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -925,6 +932,9 @@
 *.wealthsimple.com
 *.welt.de
 *.wenewmoments.com
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
 *.westernunion.*
 *.white.market
 *.whois.eu
