@@ -11,12 +11,6 @@ Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DI
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 *.atlastunnel.com
 *.cic-bug-bounty.auth0app.com
-*. tube8.com
-*.tube8.com
-*.adultforce.com 
-*.trafficjunky.com 
-*.adultforce.com
-*.trafficjunky.com
 B2 APIs (*.backblazeb2.com)
 Backblaze Website (*.backblaze.com)
 *.backblazeb2.com
@@ -42,6 +36,9 @@ Backblaze Website (*.backblaze.com)
 *.cyberghostvpn.com
 *.dell.com/*
 *.delltechnologies.com/* 
+*.tube8.com
+*.trafficjunky.com
+*.adultforce.com
 *.bitstamp.net - Bitstamp Supporting Services
 *.bugcrowd.com/auth/*
 *.meraki.com
@@ -55,13 +52,13 @@ Backblaze Website (*.backblaze.com)
 *.dropboxforum.com
 *.docsend.com
 *.dropboxer.net
+casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 *.guildofguardians.com
 *.immutable.com
 *.imtbl.com
 *.testnet.immutable.com
 *.linktree-extensions.com
 *.bbp-mettle.co.uk
-casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 *.emakina.at
 *.emakina.ch
 *.emakina.com

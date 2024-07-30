@@ -771,16 +771,6 @@ marketplace.auth0.com (Auth0 Marketplace)
 openidconnect.net	
 samltool.io	
 webauthn.me	
-https://api.pornhub.com/
-https://mobile.pornhub.com/
-https://pornhub.mainhub.com
-https://www.pornhub.com/
-https://www.pornhubpremium.com/
-https://www.redtube.com/
-https://www.redtubepremium.com/
-https://www.thumbzilla.com/
-https://www.youporn.com/
-https://www.youpornpremium.com/
 Backblaze Android mobile application
 Backblaze iOS mobile application
 Git Repositories (b2-sdk-java & B2 Command Line Tool)
@@ -954,6 +944,16 @@ https://graphql.acorns.com
 https://play.google.com/store/apps/details?id=com.acorns.android&hl=en_US&gl=US
 https://www.gohenry.com/
 https://www.pixpay.fr/
+https://www.pornhub.com/
+https://mobile.pornhub.com/
+https://api.pornhub.com/
+https://www.pornhubpremium.com/
+https://www.redtube.com/
+https://www.redtubepremium.com/
+https://www.youporn.com/
+https://www.youpornpremium.com/
+https://pornhub.mainhub.com
+https://www.thumbzilla.com/
 https://www.bitstamp.net/
 https://apps.apple.com/us/app/bitstamp/id1406825640
 https://play.google.com/store/apps/details?id=net.bitstamp.app
@@ -1037,6 +1037,11 @@ https://he.elementor.com/
 https://code.elementor.com/
 https://library.elementor.com/
 https://app.strattic.com
+https://casino.partycasino.com
+https://casino.bwin.com
+https://casino.sportingbet.com
+https://www.ladbrokes.com/en/games
+https://www.coral.co.uk/en/games
 Virtualisation layer
 https://sks-ch-gva-2.exo.io
 https://portal.exoscale.com/
@@ -1183,11 +1188,6 @@ https://opendata.test-socrata.com/admin/gateway
 Researcher owned WHMCS Instance
 Other ynab.com domains not listed
 https://staging-app.ynab.com
-https://casino.bwin.com
-https://casino.partycasino.com
-https://casino.sportingbet.com
-https://www.coral.co.uk/en/games
-https://www.ladbrokes.com/en/games
 In Scope - Points only
 Subdomain takeover
 https://lab.epam.com
