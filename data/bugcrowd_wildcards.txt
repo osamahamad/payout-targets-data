@@ -110,6 +110,7 @@ open redirect at *.epam.com
 *.citymeal.com
 *.eat.ch
 *.je-apis.com - UK legacy API
+*.je-labs.com
 *.just-data.io
 *.just-eat.co.uk - UK food ordering
 *.just-eat.com 
