@@ -833,14 +833,6 @@ https://investor.bullish.com
 https://investor.bullish.com/
 https://api.simnext.bullish-test.com
 https://simnext.bullish-test.com
-Canva (Android)
-Canva (Chrome Extension)
-Canva (iOS)
-Canva Desktop (macOS / Windows)
-Canva Developer Platform
-https://canva.cn/developers 
-https://canva.com/developers
-https://canva.com/developers
 Carrefour UAE Android
 Carrefour UAE iOS
 carrefouruae.com
@@ -977,6 +969,13 @@ https://identity.bugcrowd.com/
 ████████████████████████████
 █████████████████████████████
 ██████████████████████████
+Canva (Android)
+Canva (Chrome Extension)
+Canva (iOS)
+https://canva.com/developers
+https://canva.cn/developers 
+https://canva.com/developers
+Canva Desktop (macOS / Windows)
 https://www.foreignaffairs.com/
 https://www.cfr.org/
 https://thinkglobalhealth.org
@@ -1049,6 +1048,11 @@ https://sos-ch-gva-2.exo.io/
 https://internal.exoscale.ch
 https://api-ch-gva-2.exoscale.com/v2
 https://api-ch-gva-2.exoscale.com/v2
+https://flo.uri.sh
+https://flourish.studio/
+https://xyzbmojn.net/
+flourish-user-templates.com
+flourish-user-preview.com
 *-bugcrowd.foxycart.com (read below for details)
 https://admin.foxycart.com
 https://admin.foxy.io/
@@ -1077,6 +1081,10 @@ https://link.x.immutable.com/
 https://market.immutable.com/
 https://docs.immutable.com/
 imx.community
+https://www.remove.bg
+https://www.designify.com
+https://www.kaleido.ai
+https://www.unscreen.com
 https://kucoin.com
 https://apps.apple.com/us/app/kucoin-buy-bitcoin-crypto/id1378956601?mt=8
 https://play.google.com/store/apps/details?id=com.kubi.kucoin
@@ -1133,6 +1141,8 @@ https://testflight.apple.com/join/e4owjwMX
 Mettle Android Application
 https://web-app.eevee.bbp-mettle.co.uk/login
 https://ops-tool.internal.bbp-mettle.co.uk/
+https://www.pexels.com/
+https://pixabay.com/
 https://my.planethoster.com
 https://api.planethoster.net
 https://world.planethoster.net
@@ -1152,6 +1162,7 @@ beta.rarible.com
 https://rarible.com/
 rari.foundation
 https://mintle.x.rarible.com/
+https://smartmockups.com/
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
 XG Firewall - Pre-auth RCE
 https://central.sophos.com
@@ -1239,12 +1250,6 @@ https://www.expressvpn.com
 www.expressvpn.com
 https://financialforce.com
 Any FIS asset is in scope
-flo.uri.sh
-flourish-user-preview.com
-flourish-user-templates.com
-https://flo.uri.sh
-https://flourish.studio/
-https://xyzbmojn.net/
 hipaa.staging.gearset.com
 https://hipaa.staging.gearset.com/
 https://staging.gearset.com/
@@ -1411,10 +1416,6 @@ https://marketplace.atlassian.com/apps/420604/scroll-html-exporter-for-confluenc
 https://marketplace.atlassian.com/apps/420604/scroll-html-exporter-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/7019/scroll-pdf-exporter-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/7019/scroll-pdf-exporter-for-confluence?hosting=datacenter
-https://www.designify.com
-https://www.kaleido.ai
-https://www.remove.bg
-https://www.unscreen.com
 Keeper AD / LDAP Bridge
 Keeper Admin Console (US, EU, AU, CA, JP, GovCloud)
 Keeper Browser Extension (Chrome, Safari, Firefox, Edge)
@@ -1883,7 +1884,6 @@ Latest ZAP version (2.15.0)
 https://www.zaproxy.org
 https://dashboard.pantheon.io
 https://devstaging.pcapcloud.com/*
-https://www.pexels.com/
 Chrome extension (download at: chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en)
 Edge extension (download at: ms-windows-store://pdp/?productid=9nblggh4v89b )
 Firefox extension (download at:   https://addons.mozilla.org/firefox/addon/pinterest/)
@@ -1899,7 +1899,6 @@ https://github.com/pinterest/
 https://microsoftedge.microsoft.com/addons/detail/pinterest-save-button/bkgoflemacdadndiohhdnphcmdhacabg
 https://play.google.com/store/apps/details?id=com.pinterest&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.pinterest.twa&hl=en_US&gl=US
-https://pixabay.com/
 Enterprise Mail Handler for Jira - Cloud Hosted - https://marketplace.atlassian.com/apps/4832/enterprise-mail-handler-for-jira-jemh?hosting=cloud&tab=overview
 Enterprise Mail Handler for Jira - DataCenter - https://marketplace.atlassian.com/apps/4832/enterprise-mail-handler-for-jira-jemh?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/4832/enterprise-mail-handler-for-jira-jemh?hosting=cloud&tab=overview
@@ -2036,7 +2035,6 @@ gateway.skyscanner.net/*
 partnerportal.skyscanner.net/*
 skyscanner.net/*
 skyscanner.net/hotels/book/*
-https://smartmockups.com/
 https://snapnames.com/
 SoundCloud Android app
 SoundCloud iOS app
