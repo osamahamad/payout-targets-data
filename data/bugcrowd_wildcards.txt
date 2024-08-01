@@ -19,8 +19,6 @@ Backblaze Website (*.backblaze.com)
 *.YOUR-TESTING-STORE.mybigcommerce.com/
 *.binance.com
 *.binance.us
-*.bitdefender.com
-*.bitdefender.net
 *.canva-apps.cn
 *.canva-apps.com
 *.canva.cn
@@ -39,6 +37,8 @@ Backblaze Website (*.backblaze.com)
 *.tube8.com
 *.trafficjunky.com
 *.adultforce.com
+*.bitdefender.net
+*.bitdefender.com
 *.bitstamp.net - Bitstamp Supporting Services
 *.bugcrowd.com/auth/*
 *.meraki.com
