@@ -65,8 +65,6 @@
 *.airbnbcitizen.com
 *.alasco.de
 *.alasco.rocks
-*.algolia.net
-*.algolianet.com
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
 *.allegro.sk.allegrosandbox.pl
@@ -3894,7 +3892,6 @@ d2.utv.usaa.com
 daita/files_fulltextsearch_tesseract
 dash.cloudflare.com
 dashboard-beta.fr.cloud.gov
-dashboard.algolia.com
 dashboard.doppler.com
 dashboard.eu.stag.henchman.io
 dashboard.fortmatic.com
@@ -4458,7 +4455,6 @@ https://api.btse.com
 https://api.bugcrowd.com
 https://api.classdojo.com
 https://api.clearpay.com
-https://api.cloudinary.com
 https://api.coinstore.com
 https://api.coinstore.com/api
 https://api.coinw.com/
@@ -4863,7 +4859,6 @@ https://clickhou.se/bugcrowd
 https://cliente.hostgator.com.br/
 https://clients.multiplayer.classdojo.com/launcher/prod/latest
 https://clients3.pentest.clicsante.ca
-https://cloudinary.com/console
 https://cms.mobile.monash/ 
 https://cockpit-eu-west-2.outscale.com/
 https://coda.io/*
@@ -5013,7 +5008,6 @@ https://developers.vendhq.com/
 https://devportal.rec.net/
 https://devstaging.pcapcloud.com/*
 https://dexalot.com 
-https://dimensions.cloudinary.com
 https://directlink.eu-west-2.outscale.com
 https://doc.xt.com
 https://docs.allbridge.io/allbridge-overview/bridge-contracts
@@ -6092,7 +6086,6 @@ https://matrix.i.tchap.gouv.fr
 https://mc.sendgrid.com/
 https://mcs.arlo.com
 https://mcssl.com
-https://mediaflows.cloudinary.com/
 https://menulog.co.nz
 https://menulog.com.au
 https://meraki.cisco.com
@@ -6448,7 +6441,6 @@ https://redash-staging.getmoneytree.com/
 https://remoteaccess.westernunion.com
 https://rentals.tripadvisor.com
 https://reptox.cnesst.gouv.qc.ca
-https://res.cloudinary.com
 https://resume.com
 https://rewards.gdx.org/
 https://ring.com/*
@@ -8412,7 +8404,6 @@ www.abritel.fr
 www.ad.nl
 www.ad.nl/abonnementen
 www.airbnb.com
-www.algolia.com
 www.am.monespacesante.fr
 www.amazon.*
 www.amazon.com/photos/*
