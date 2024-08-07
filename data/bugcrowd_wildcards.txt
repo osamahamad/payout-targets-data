@@ -11,9 +11,6 @@ Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DI
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 *.atlastunnel.com
 *.cic-bug-bounty.auth0app.com
-B2 APIs (*.backblazeb2.com)
-Backblaze Website (*.backblaze.com)
-*.backblazeb2.com
 *.bigcommerce.com
 *.bigcommerce.net
 *.YOUR-TESTING-STORE.mybigcommerce.com/
@@ -31,6 +28,7 @@ Backblaze Website (*.backblaze.com)
 *.tube8.com
 *.trafficjunky.com
 *.adultforce.com
+*.backblazeb2.com
 *.bitdefender.net
 *.bitdefender.com
 *.bitstamp.net - Bitstamp Supporting Services
