@@ -2104,8 +2104,6 @@ Monash Study iOS App
 MoneyBack.HongKong.Android
 MoneyBack.HongKong.iOS
 Moneyback (subdomains)
-Moneytree iOS Mobile Application (production; see below)
-Moneytree staging Android Mobile Application (see below)
 MongoDB BI Connector
 MongoDB Cluster-To-Cluster sync
 MongoDB Compass
@@ -2628,8 +2626,6 @@ Vox Cinemas iOS
 Vulnerability & Patch Management
 WARP Mobile Apps
 WARP desktop client
-WOO X: Buy Crypto & BTC (Android)
-WOO X: Buy Crypto & BTC (IOS)
 WP-CLI
 Waiting Room
 Watsons HK (subdomains)
@@ -4403,7 +4399,6 @@ https://anytask.thesecurityteam.rocks
 https://anytask.thesecurityteam.rocks/
 https://api-a.usaa.com
 https://api-ch-gva-2.exoscale.com/v2
-https://api-evm.orderly.org/
 https://api-evm.orderly.org/*
 https://api-js.datadome.co
 https://api-prod.retailsso.com
@@ -4496,7 +4491,6 @@ https://api3.pentest.clicsante.ca
 https://apis.indeed.com/graphql
 https://app-staging.getmoneytree.com
 https://app.agency360.com
-https://app.agency360.com/
 https://app.allbridge.io
 https://app.asana.com
 https://app.asymetrix.io/
@@ -4791,10 +4785,8 @@ https://bugcrowd-pam-###.oktapreview.com
 https://bugcrowd-pam-###.workflows.oktapreview.com
 https://bugcrowd.com/programs
 https://bugcrowd.hotdoc.com.au
-https://bugcrowd.hotdoc.com.au (Patients)
 https://bugcrowd.hotdoc.com.au/api
 https://bugcrowd.hotdoc.com.au/dashboard
-https://bugcrowd.hotdoc.com.au/dashboard (Clinic Dashboard)
 https://bugs.opera.com/
 https://build.twilio.com/s/
 https://bullish.com/
@@ -5672,7 +5664,6 @@ https://jamaica.westernunion.com
 https://jointhemoment.net/
 https://jojo.exchange/
 https://jp-api-staging.getmoneytree.com
-https://jp-api-staging.getmoneytree.com 
 https://judge.me/reviews
 https://just-eat.es
 https://just-eat.io/
@@ -6433,13 +6424,11 @@ https://screenplayer.20min.ch
 https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secure-iphone-xml.booking.com/json/
 https://secure.cuehit.net
-https://secure.cuehit.net/
 https://secure.neogov.com
 https://secure.westernunion.com
 https://secureauth.westernunion.com
 https://securemail.usaa.com
 https://securesignin.neogov.com
-https://securesignin.neogov.com/
 https://securesignin.powerdms.com/
 https://security-testing-env-api.k8s.tools-001.d-use-1.braze.com/
 https://security-testing-env-dashboard.k8s.tools-001.d-use-1.braze.com/
