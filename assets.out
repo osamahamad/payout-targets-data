@@ -802,7 +802,6 @@
 *.solarcity.com
 *.sonyentertainmentnetwork.com
 *.sophos.com
-*.soundcloud.com
 *.soundcloud.org
 *.spiketrap.io
 *.spinaway.com
@@ -1498,8 +1497,6 @@ Bitbucket Server for Slack (Official) - Server - https://marketplace.atlassian.c
 Bitdefender Antimalware Engines
 Bitdefender BOX v2
 Bitdefender Total Security
-Bitpanda Broker Android App
-Bitpanda Broker iOS App
 Blink Indoor
 Blink Mini
 Blink Outdoor
@@ -2419,8 +2416,6 @@ Social Media Accounts
 Software
 Software Supply Chain
 Sonantic
-SoundCloud Android app
-SoundCloud iOS app
 Source Code
 Source code of Website, Mobile, or Server Libraries (https://segment.com/docs/sources/)
 Sourcetree for macOS and Windows (https://www.sourcetreeapp.com/)
@@ -2862,12 +2857,10 @@ amazon.com/hz/mycd/*
 amazonpayinsurance.in
 amp.reddit.com
 analytics-*.8x8.com
-analytics-admin.prosus.com
 analytics.cloud.unity3d.com
 analytics.krisp.ai
 analytics.ninjakiwi.com
 analytics.pinelabs.com
-analytics.prosus.com
 anytask.thesecurityteam.rocks
 ap-s.cloud.com
 api*.netflix.com
@@ -3198,7 +3191,6 @@ ar.vidaxl.sa.com
 argocd.indrive.dev
 arrive-server.shopifycloud.com
 artifactory.corp.mongodb.com/
-artists.soundcloud.com
 artists.tomorrowland.com/production-website/33117
 as2-accpt.portofantwerp.com
 as2-accpt.portofantwerpbruges.com
@@ -3419,7 +3411,6 @@ cdn.plaid.com
 cdna.lystit.com
 cds.vrt.radio
 cfapi.voikukka.fi
-cfc.naspers.com
 chain.link
 chainstack.com
 channelstore.roku.com/details/48061/vhx
@@ -3901,7 +3892,6 @@ dashboard.unity3d.com
 data.ketnet.be
 data.mail.yahoo.com
 data.ninjakiwi.com
-data.prosus.com
 data.rarible.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
@@ -3919,8 +3909,6 @@ dcfgateway*.marriott.com
 dcs.clario.co
 de.bmw.connected.mobile20.row
 de.forescout.cloud
-dealflow.prosus.com
-dealflowapi.prosus.com
 debug.clairvoyance.indrive.tech
 decision.swiftfinancial.com
 dedokterbeashow.ketnet.be
@@ -4274,7 +4262,6 @@ hotel-deals.marriott.com
 hotornot.com
 hpanel.hostinger.com
 hpp.truelayer[-sandbox].com
-hr.prosus.com
 ht.visa.com
 http://agenttraining.westernunion.com
 http://analytics.prosus.com
@@ -4763,7 +4750,6 @@ https://blastscan.io/address/0xed9d7E89309B060e876098F4695aB9fd3011904b#code
 https://blastscan.io/address/0xf62e7c831fc41c93b61c04c24152c433d6553236
 https://blastscan.io/address/0xf683Ce59521AA464066783d78e40CD9412f33D21#code
 https://blockexplorer.electroneum.com
-https://blog.bitpanda.com
 https://blog.bitpanda.com/en
 https://blog.lastpass.com
 https://blog.verisign.com
@@ -6711,9 +6697,7 @@ https://www.bit.com/
 https://www.bit.com/docs/en-us/futures.html#introduction
 https://www.bit.com/legacy/propertyCenter/assets
 https://www.bitdefender.com/business/smb-products/business-security.html?cid=ppc|b|google|smb&s_kwcid=AL!6076!3!514235572261!p!!g!!bitdefender%20business&utm_term=bitdefender%20business&utm_campaign=USA+SMB+Branded+30&utm_source=adwords&utm_medium=ppc&hsa_acc=8155205354&hsa_cam=7848657822&hsa_grp=124745713150&hsa_ad=514235572261&hsa_src=g&hsa_tgt=kwd-308396066873&hsa_kw=bitdefender%20business&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwqIiFBhAHEiwANg9szk-Rr3iSn4mrwsvAUOn-pzrO12ufWDmyCLopWigaLQW0t_xtlBE65RoCr6kQAvD_BwE
-https://www.bitpanda.com
 https://www.bitpanda.com/
-https://www.bitpanda.com/academy/
 https://www.bitpanda.com/academy/en/
 https://www.bitstamp.net/
 https://www.bitunix.com/
@@ -7417,9 +7401,7 @@ mynk.ninjakiwi.com
 myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
 myvpn.usaa.com
-naspers.com
 nationalidverification-noneu.truecaller.com
-nav.naspers.com
 near.org 
 neoket.net
 nessus.fr.cloud.gov
@@ -7630,7 +7612,6 @@ paypalobjects.com
 payroll.razorpay.com
 pb.deribit.com
 pcrstudioruzb.uzleuven.be
-peopleview.naspers.com
 phabricator.allizom.org
 phone-gateway-eu.truecaller.com
 phone-gateway-noneu.truecaller.com
@@ -7734,7 +7715,6 @@ projects.datacamp.com
 projects.nextcloud.com
 prometheus.fr.cloud.gov
 promos.tvg.com
-prosus.com
 prow.k8s.io
 proxy-production.lime.bike
 public.hyatt.com
@@ -7974,8 +7954,6 @@ society.ton.org/v1
 society.ton.org: cSBT claiming
 socket.frame.io
 sorare.com
-soundcloud.com
-soundcloud.org
 sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com
 spaces.pm
 spark.adobe.com
@@ -8166,7 +8144,6 @@ ton.org/api
 tools.deribit.com
 toolsforhumanity.com
 topspammers-asia-south1.truecaller.com
-tracker.naspers.com
 tracking.vidaxl.com
 training.ui.com
 transact.playstation.com
