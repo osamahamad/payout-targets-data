@@ -2,6 +2,7 @@
  Twilio CDNs (static*.twilio.com)
 *-api-*.acronis.com
 *-cvr-aws-*.sys.comcast.net
+*.10bis.co.il
 *.10ktf.com
 *.1debit.com
 *.3lateral.com
@@ -97,6 +98,7 @@
 *.bbp-mettle.co.uk
 *.berush.com
 *.beta.lahitapiola.fi
+*.beta.scoober.com
 *.betfair.com
 *.betfair.es
 *.betfair.it
@@ -113,6 +115,7 @@
 *.bingx.com
 *.bingx.pro
 *.bionic.ai
+*.bistro.sk
 *.bitdefender.com
 *.bitdefender.net
 *.bitforex.com
@@ -172,6 +175,7 @@
 *.chmfin.com
 *.cic-bug-bounty.auth0app.com
 *.citrixworkspacesapi.net
+*.citymeal.com
 *.claritymoney.com
 *.clearxchange.com
 *.cloud.malwarebytes.com
@@ -258,6 +262,7 @@
 *.earlywarning.com
 *.east.fdbox.net
 *.easy.ac
+*.eat.ch
 *.ein-herz-fuer-kinder.de
 *.elastic.co
 *.elasticnet.co
@@ -438,6 +443,11 @@
 *.jora.com
 *.jora.xyz
 *.jp.jbl.com
+*.just-data.io
+*.just-eat.com 
+*.just-eat.dk
+*.just-eat.fr
+*.just-eat.no
 *.karwei.nl/*
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
@@ -464,6 +474,8 @@
 *.lastminute.co.nz
 *.lastminute.com.au
 *.libelle.nl
+*.lieferando.at
+*.lieferando.de
 *.line-apps.com
 *.line.biz
 *.line.me
@@ -645,6 +657,7 @@
 *.psynet.gg
 *.psyonix.com
 *.pumb.ua
+*.pyszne.pl
 *.qaglobal-liquidity.gs.com
 *.quip.com
 *.quixel.com
@@ -696,6 +709,7 @@
 *.scatec.io
 *.scbe.api.here.com
 *.scene7.com
+*.scoober.com
 *.scopely.com
 *.scopely.io
 *.search.gov
@@ -790,6 +804,7 @@
 *.swiftype.com
 *.swisspass.ch
 *.sys.comcast.net
+*.takeaway.com
 *.tapiola.fi
 *.taralite.com
 *.tdl.sh
@@ -804,6 +819,7 @@
 *.testdrive.workfront.com
 *.testnet.immutable.com
 *.threatdown.com
+*.thuisbezorgd.nl
 *.ticketing.cm.com
 *.tickets.ua
 *.tidal.com
@@ -926,6 +942,7 @@
 *.yelp.com
 *.yelpwifi.com
 *.youcouldbe.com
+*.yourdelivery.de
 *.yoyogames.com
 *.ys7.com
 *.yuga.com
