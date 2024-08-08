@@ -463,7 +463,6 @@
 *.jbl.com.br
 *.jbl.nl
 *.jbl.ru
-*.je-apis.com - UK legacy API
 *.jellychat.com
 *.jit.si
 *.jitsi.net
@@ -474,17 +473,10 @@
 *.jora.xyz
 *.jp.jbl.com
 *.just-data.io
-*.just-eat.co.uk - UK food ordering
 *.just-eat.com 
 *.just-eat.dk
-*.just-eat.es - Spain food ordering
 *.just-eat.fr
-*.just-eat.ie - Ireland food ordering
-*.just-eat.io
-*.just-eat.it - Italy food ordering
 *.just-eat.no
-*.justeat-int.com
-*.justeattakeaway.com
 *.karwei.nl/*
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
@@ -557,8 +549,6 @@
 *.meebits.app
 *.megatix.be
 *.melonapp.com
-*.menulog.co.nz - New Zealand food ordering
-*.menulog.com.au - Australia food ordering
 *.meraki.com
 *.metamask.io
 *.mevo.com
@@ -782,7 +772,6 @@
 *.singspacegame.com
 *.sketchfab.com
 *.skinfra.xyz
-*.skipthedishes.com - Canada food ordering
 *.skybet.co.uk
 *.skybet.com
 *.skybet.net
@@ -2158,10 +2147,6 @@ OPPO-owned properties Non-core properties
 OT scanner
 Observability - APM Agents
 Observability - APM Server
-Oculus Quest: All-in-one gaming system for VR
-Oculus Rift: VR headset
-Official Tesla Android apps
-Official Tesla iOS apps
 Official WordPress plugins
 Okcoin Android APK
 Okcoin iOS App
@@ -2313,8 +2298,6 @@ Queue Priority Plugin for Bamboo - Server - https://marketplace.atlassian.com/ap
 RYOT
 React Native SDK
 Read Me - https://trello.com/power-ups/5a2de0c41ae4a1537bb0055d/read-me
-Rec Room PC Standalone App
-Rec Room Studio
 Recon Data
 Reconcile unknown attachments - Data Center - https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hosting=datacenter
 Reconcile unknown attachments - Server - https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hosting=server
@@ -2409,7 +2392,6 @@ Statuspage for Jira Service Management - DataCenter - https://marketplace.atlass
 Statuspage for Jira Service Management - Server - https://marketplace.atlassian.com/apps/1216079/statuspage-for-jira-service-management?hosting=server
 Steam Client
 Steam Servers
-Steam: PC Game for Windows
 Sticker Printer for Jira - Cloud - https://marketplace.atlassian.com/apps/1222124/sticker-printer-for-jira?hosting=cloud
 Stickup Cam
 Stream
@@ -2668,7 +2650,6 @@ XD
 XG Firewall
 XG Firewall - Pre-auth RCE
 XMP Toolkit
-Xbox
 Xcode for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1219105/xcode-for-bitbucket-server?hosting=server
 Xfinity Android mobile app
 Xfinity Home Android mobile app
@@ -3285,7 +3266,6 @@ booth.pm
 boundary.ic0.app
 bounty-node.rsk.co
 bq.visa.com
-brand.takeaway.com
 brave.com
 bridge.codefi.network
 buckingfuggy.com
@@ -3335,7 +3315,6 @@ careers.booking.com
 careers.fortmatic.com
 careers.marriott.com
 careers.remitly.com
-careers.takeaway.com
 careers.tiktok.com
 careers.ui.com
 cargo-cyclonedx
@@ -3833,7 +3812,6 @@ dashboard.omise.co
 dashboard.plaid.com
 dashboard.pluralonline.com
 dashboard.qa.ai.8x8.com
-dashboard.rapyd.net
 dashboard.razorpay.com
 dashboard.stag.henchman.io
 dashboard.unity3d.com
@@ -4404,7 +4382,6 @@ https://api.probit.com/api/
 https://api.production.cde.tamg.cloud
 https://api.rarible.com/v0.1/doc
 https://api.rec.net
-https://api.rec.net/
 https://api.ring.com/*
 https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
 https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql
@@ -6430,7 +6407,6 @@ https://static.polygon.technology/network/mainnet/v1/index.json
 https://static.usaa.com
 https://status-im-files.ams3.cdn.digitaloceanspaces.com/StatusIm-Mobile-v1.19.0-d6a6c4.apk
 https://status-takeaway.com/status
-https://status-takeaway.com/status.
 https://status.app/api/download/linux
 https://status.app/api/download/windows
 https://status.mobile.monash/
@@ -6758,7 +6734,6 @@ https://www.mastercard.com.au/en-au.html
 https://www.mastercard.nl/nl-nl.html
 https://www.mastercard.us/en-us.html
 https://www.microsoft.com/en-us/p/keeperchat/9pdqtcpn4kxn#activetab=pivot:overviewtab
-https://www.mintmobile.com
 https://www.monash.edu
 https://www.monashprofessional.edu.au/
 https://www.naspers.com
@@ -6833,7 +6808,6 @@ https://www.twilio.com/docs/authy/api/dashboard
 https://www.twilio.com/docs/libraries
 https://www.twilio.com/docs/verify/api
 https://www.twilio.com/wireless
-https://www.ultramobile.com
 https://www.underarmour.co.uk
 https://www.underarmour.com
 https://www.underarmournext.co.uk/
@@ -6916,7 +6890,6 @@ hypermint.com
 i.ys7.com
 iFood Customer Android Application
 iFood Customer iOS Application
-iOS
 iOS App
 iOS Deezer App
 iOS Indeed Flex App
@@ -7015,7 +6988,6 @@ jira.hyattdev.com
 jira.logitech.com
 jobs.kiwi.com
 jobs.marriott.com
-jointhemoment.net
 journeys-2/id984087229?mt=8
 journeys-api.sentiance.com/v2
 jp.naver.line.android
@@ -7338,7 +7310,6 @@ new.reddit.com
 new.www.vaxvacationaccess.com
 news.remitly.com
 newsletter.nextcloud.com
-newsletter.thuisbezorgd.nl
 newsroom.images.hyatt.com
 next.airbnb.com
 nextcloud.com
@@ -7829,7 +7800,6 @@ shop.lululemon.com
 shop.monash.edu
 shop.parool.nl
 shop.shipt.com
-shop.thuisbezorgd.nl
 shop.tiktok.com
 shop.trouw.nl
 shop.volkskrant.nl
@@ -8082,7 +8052,6 @@ truelayer-signing
 try.discourse.org
 tunnistus.lahitapiola.fi
 tunnistus.s-ryhma.fi
-tv.takeaway.com
 tvg.com
 twilio.com/blog
 twinmotion.unrealengine.com
@@ -8583,7 +8552,6 @@ www.starbucks.com.sg
 www.starbucks.de
 www.starbucks.fr
 www.starbucksreserve.com
-www.status-takeaway.com/status
 www.stayz.com.au
 www.stripe.partners
 www.superdrug.com
@@ -8592,14 +8560,10 @@ www.swiftfinancial.com
 www.swisspass.ch
 www.swisstransfer.com
 www.swoodoo.com
-www.takeaway.com/deals
-www.takeaway.com/drivers
-www.takeaway.com/foodwiki/
 www.tapiola.fi
 www.teamfortress.com
 www.temu.com
 www.theperfumeshop.com
-www.thuisbezorgd.nl/aanmelden
 www.tink.com
 www.tomorrowland.com
 www.torfs.be
@@ -8763,6 +8727,8 @@ zopim.com
 ███████████████████████████
 ████████████████████████████
 █████████████████████████████
+████████████████████████████████
+███████████████████████████████████
 ████████████████████████████████████
 ███████████████████████████████████████████████
 履歴書作成 (Universal Resume) Android

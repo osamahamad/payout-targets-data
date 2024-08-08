@@ -54,6 +54,23 @@ casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 *.imtbl.com
 *.testnet.immutable.com
 *.intercomassets.com / *.intercomcdn.com
+*.lieferando.at
+*.yourdelivery.de
+*.takeaway.com
+*.scoober.com
+*.citymeal.com
+*.lieferando.de
+*.thuisbezorgd.nl
+*.bistro.sk
+*.just-eat.fr
+*.eat.ch
+*.just-eat.no
+*.just-eat.dk
+*.pyszne.pl
+*.10bis.co.il
+*.beta.scoober.com
+*.just-data.io
+*.just-eat.com 
 *.linktree-extensions.com
 *.bbp-mettle.co.uk
 *.octopus.com
@@ -77,6 +94,17 @@ casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 *.download.originenergy.com.au
 *.naspers.com
 *.prosus.com
+*.rapyd.net
+*.neatcommerce.com
+*.korta.is
+*.neattest.com
+*.rapyd.com
+*.rapyd.org
+*.neat.com.hk
+*.kortathjonustan.is
+*.neat.hk
+*.neat.wtf
+*.rec.net/*
 *.skyscanner.net
 *.sophos.com
 *.cyberoam.com
@@ -87,6 +115,12 @@ casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 *.s-cloud.net
 *.services.repostnetwork.com
 api-*.soundcloud.com
+*.tesla.cn
+*.tesla.services
+*.tesla.com
+*.teslamotors.com
+*.solarcity.com
+*.teslainsuranceservices.com
 *.emakina.at
 *.emakina.ch
 *.emakina.com
@@ -119,34 +153,6 @@ open redirect at *.epam.com
 *.indeedflex.com
 *.jora.com
 *.jora.xyz
-*.10bis.co.il
-*.beta.scoober.com
-*.bistro.sk
-*.citymeal.com
-*.eat.ch
-*.je-apis.com - UK legacy API
-*.just-data.io
-*.just-eat.co.uk - UK food ordering
-*.just-eat.com 
-*.just-eat.dk
-*.just-eat.es - Spain food ordering
-*.just-eat.fr
-*.just-eat.ie - Ireland food ordering
-*.just-eat.io
-*.just-eat.it - Italy food ordering
-*.just-eat.no
-*.justeat-int.com
-*.justeattakeaway.com
-*.lieferando.at
-*.lieferando.de
-*.menulog.co.nz - New Zealand food ordering
-*.menulog.com.au - Australia food ordering
-*.pyszne.pl
-*.scoober.com
-*.skipthedishes.com - Canada food ordering
-*.takeaway.com
-*.thuisbezorgd.nl
-*.yourdelivery.de
 *.lululemon.com
 *.nuinvest.com.br	
 prod-*.nu.com.co
@@ -163,17 +169,6 @@ prod-*.nubank.com.br
 *.privateinternetaccess.com
 *.quizlet.com
 *.slader.com
-*.korta.is
-*.kortathjonustan.is
-*.neat.com.hk
-*.neat.hk
-*.neat.wtf
-*.neatcommerce.com
-*.neattest.com
-*.rapyd.com
-*.rapyd.net
-*.rapyd.org
-*.rec.net/*
 *.aips-internal.com
 *.certsy.com
 *.certsynonprod.com
@@ -189,12 +184,6 @@ prod-*.nubank.com.br
 *.square.com
 *.squareup.com
 *.statuspage.io
-*.solarcity.com
-*.tesla.cn
-*.tesla.com
-*.tesla.services
-*.teslainsuranceservices.com
-*.teslamotors.com
 *.tdl.sh
 *.tidal.com
 *.tidalhifi.com
