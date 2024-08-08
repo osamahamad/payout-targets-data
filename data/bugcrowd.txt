@@ -28,43 +28,6 @@ portal.afterpay.com
 portal.clearpay.co.uk
 portal.clearpay.com
 portalapi.eu.clearpay.co.uk
-<1Password signup page --> https://start.1password.com
-<Your own 1Password Account subdomain --> https://<your account domain>.1password.com/
-<Your own 1Password account> —> Latest stable, beta, or nightly Android Build
-<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension  (Chrome, Brave, Firefox, Edge, and Safari)
-<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI) 
-<Your own 1Password account> —> Latest stable, beta, or nightly Linux Build
-<Your own 1Password account> —> Latest stable, beta, or nightly MacOS Build
-<Your own 1Password account> —> Latest stable, beta, or nightly Windows Build
-<Your own 1Password account> —> Latest stable, beta, or nightly iOS Build
-<Your own 1Password account> —> https://events.1password.com/  (Event Reporting API is available on 1Password Business Accounts Only)
-<Your own 1Pasword Personal Account> --> https://my.1password.com/
-https://start.1password.com
-Aiven for Apache Cassandra managed and hosted service
-Aiven for Apache Flink managed and hosted service
-Aiven for Apache Kafka managed and hosted service 
-Aiven for Caching managed and hosted service
-Aiven for Clickhouse managed and hosted service
-Aiven for Dragonfly managed and hosted service
-Aiven for Grafana managed and hosted service
-Aiven for M3 managed and hosted service 
-Aiven for MySQL managed and hosted service
-Aiven for OpenSearch managed and hosted service
-Aiven for PostgreSQL managed and hosted service
-Aiven for Thanos Metrics managed and hosted service
-Aiven for Valkey managed and hosted service
-aiven.io
-api.aiven.io
-console.aiven.io
-falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com
-github.com/Aiven
-github.com/Aiven-Open
-http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
-https://aiven.io/
-https://api.aiven.io/login
-https://console.aiven.io/login
-https://github.com/Aiven
-https://github.com/Aiven-Open
 Ampcharge
 Ampol Android mobile app
 Ampol Card
@@ -771,36 +734,6 @@ marketplace.auth0.com (Auth0 Marketplace)
 openidconnect.net	
 samltool.io	
 webauthn.me	
-BigCommerce Android
-BigCommerce iOS
-https://STORE-YOURSTOREHash.mybigcommerce.com/
-https://apps.apple.com/au/app/bigcommerce/id1418570678
-https://bigcommerce.com/blog
-https://bigcommerce.com/make-it-big
-https://play.google.com/store/apps/details?id=com.bigcommerce.mobile
-https://www.bigcommerce.com
-https://www.bigcommerce.net
-3rdparty-apis.coinmarketcap.com
-Binance Desktop Application
-Binance Mobile Application for Android
-Binance Mobile Application for iOS
-Binance macOS Application
-CoinMarketCap Android app
-CoinMarketCap iOS app
-Trustwallet Android App
-Trustwallet Chrome Extension
-Trustwallet iOS App
-api.binance.com
-api.coinmarketcap.com
-coinmarketcap.com
-https://github.com/trustwallet/wallet-core/
-https://trbinance.com
-https://www.binance.com/
-https://www.binance.us/
-portal-api.coinmarketcap.com
-pro-api.coinmarketcap.com
-pro.coinmarketcap.com
-trbinance.com
 https://bullish.com/
 https://investor.bullish.com
 https://investor.bullish.com/
@@ -883,27 +816,42 @@ https://marketplace.atlassian.com/apps/1211051/eazybi-reports-and-charts-for-jir
 https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence?hosting=server
-Electroneum Android App
-Electroneum iOS App
-Smartchain Block Explorer
-Smartchain Blockchain
-https://anytask.thesecurityteam.rocks/
-https://api.anytask.com/
-https://api.electroneum.com/
-https://apps.apple.com/us/app/electroneum/id1270774992
-https://blockexplorer.electroneum.com
-https://electroneum.com/
-https://github.com/electroneum/electroneum-sc/
-https://my.electroneum.com/
-https://my.thesecurityteam.rocks/
-https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
-https://www.anytask.com/
 https://acorns.com/
 https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
 https://graphql.acorns.com
 https://play.google.com/store/apps/details?id=com.acorns.android&hl=en_US&gl=US
 https://www.gohenry.com/
 https://www.pixpay.fr/
+<Your own 1Pasword Personal Account> --> https://my.1password.com/
+https://start.1password.com
+<Your own 1Password account> —> Latest stable, beta, or nightly MacOS Build
+<Your own 1Password account> —> Latest stable, beta, or nightly Android Build
+<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI) 
+<Your own 1Password Account subdomain --> https://<your account domain>.1password.com/
+<Your own 1Password account> —> Latest stable, beta, or nightly Windows Build
+<Your own 1Password account> —> Latest stable, beta, or nightly Linux Build
+<Your own 1Password account> —> Latest stable, beta, or nightly iOS Build
+<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension  (Chrome, Brave, Firefox, Edge, and Safari)
+<Your own 1Password account> —> https://events.1password.com/  (Event Reporting API is available on 1Password Business Accounts Only)
+Aiven for Apache Cassandra managed and hosted service
+Aiven for Clickhouse managed and hosted service
+Aiven for Dragonfly managed and hosted service
+Aiven for Apache Flink managed and hosted service
+Aiven for Thanos Metrics managed and hosted service
+Aiven for Valkey managed and hosted service
+Aiven for MySQL managed and hosted service
+Aiven for OpenSearch managed and hosted service
+Aiven for Grafana managed and hosted service
+Aiven for Apache Kafka managed and hosted service 
+Aiven for M3 managed and hosted service 
+Aiven for PostgreSQL managed and hosted service
+Aiven for Caching managed and hosted service
+https://aiven.io/
+https://console.aiven.io/login
+https://api.aiven.io/login
+https://github.com/Aiven-Open
+https://github.com/Aiven
+http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
 https://www.pornhub.com/
 https://mobile.pornhub.com/
 https://api.pornhub.com/
@@ -922,6 +870,33 @@ Mac Restore Downloaders
 Windows Restore Downloaders
 Git Repositories (b2-sdk-java & B2 Command Line Tool)
 https://backblaze.com
+https://www.bigcommerce.net
+https://apps.apple.com/au/app/bigcommerce/id1418570678
+https://play.google.com/store/apps/details?id=com.bigcommerce.mobile
+https://www.bigcommerce.com
+https://bigcommerce.com/make-it-big
+https://bigcommerce.com/blog
+https://STORE-YOURSTOREHash.mybigcommerce.com/
+api.coinmarketcap.com
+pro-api.coinmarketcap.com
+https://www.binance.com/
+Binance Desktop Application
+Binance Mobile Application for Android
+Binance Mobile Application for iOS
+api.binance.com
+Binance macOS Application
+pro.coinmarketcap.com
+CoinMarketCap Android app
+Trustwallet Android App
+Trustwallet iOS App
+https://github.com/trustwallet/wallet-core/
+CoinMarketCap iOS app
+portal-api.coinmarketcap.com
+coinmarketcap.com
+3rdparty-apis.coinmarketcap.com
+https://www.binance.us/
+https://trbinance.com
+Trustwallet Chrome Extension
 Bitdefender Total Security
 Bitdefender Antimalware Engines
 https://www.bitdefender.com/business/smb-products/business-security.html?cid=ppc|b|google|smb&s_kwcid=AL!6076!3!514235572261!p!!g!!bitdefender%20business&utm_term=bitdefender%20business&utm_campaign=USA+SMB+Branded+30&utm_source=adwords&utm_medium=ppc&hsa_acc=8155205354&hsa_cam=7848657822&hsa_grp=124745713150&hsa_ad=514235572261&hsa_src=g&hsa_tgt=kwd-308396066873&hsa_kw=bitdefender%20business&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwqIiFBhAHEiwANg9szk-Rr3iSn4mrwsvAUOn-pzrO12ufWDmyCLopWigaLQW0t_xtlBE65RoCr6kQAvD_BwE
@@ -1019,6 +994,17 @@ https://play.google.com/store/apps/details?id=com.dropbox.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.dropbox.app.hellosign&hl=en_US&gl=US
 https://www.dropbox.com/paper
 https://dropbox.com/dash/download
+https://my.electroneum.com/
+https://electroneum.com/
+https://api.electroneum.com/
+https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
+https://apps.apple.com/us/app/electroneum/id1270774992
+https://api.anytask.com/
+https://www.anytask.com/
+https://github.com/electroneum/electroneum-sc/
+https://blockexplorer.electroneum.com
+https://my.thesecurityteam.rocks/
+https://anytask.thesecurityteam.rocks/
 https://elementor.com/
 https://my.elementor.com/
 https://go.elementor.com/
@@ -1060,6 +1046,9 @@ https://github.com/freedomofpress/securedrop-workstation
 https://github.com/freedomofpress/securedrop-client
 https://github.com/freedomofpress/securedrop-export
 https://github.com/freedomofpress/securedrop-debian-packaging
+https://staging.gearset.com/
+https://staging.gearset.com/
+https://hipaa.staging.gearset.com/
 https://bugcrowd.hotdoc.com.au
 https://bugcrowd.hotdoc.com.au/api
 https://bugcrowd.hotdoc.com.au/dashboard
@@ -1077,6 +1066,21 @@ https://link.x.immutable.com/
 https://market.immutable.com/
 https://docs.immutable.com/
 imx.community
+https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
+https://api.intercom.com
+https://app.intercom.com
+https://app.intercom.io/
+https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
+https://www.intercom.com/
+iRobot cloud-connected robot that you own (i.e. j7, s9, i7, 980, 960, 690, Braava, etc.)
+https://play.google.com/store/apps/details?id=com.irobot.home
+https://itunes.apple.com/us/app/irobot-home/id1012014442?mt=8
+https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/entitlements
+https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/entitlements/{entitlement_id}
+https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/notifications/raas
+https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/users/{user_id}/entitlements
+iRobot API Endpoint
+https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/robots/{robot_id}/entitlements
 https://www.remove.bg
 https://www.designify.com
 https://www.kaleido.ai
@@ -1114,6 +1118,14 @@ https://play.google.com/store/apps/details?id=com.lastpass.lpandroid
 https://play.google.com/store/apps/details?id=com.lastpass.authenticator&hl=en_US&gl=US
 https://apps.apple.com/us/app/lastpass-password-manager/id324613447
 https://apps.apple.com/us/app/lastpass-authenticator/id1079110004
+https://manager.trial.lsk.lightspeed.app/	
+https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
+secure.vendhq.com
+https://developers.vendhq.com/
+https://payment-connectors.vendhq.com/
+https://www.vendhq.com/
+https://yourstore.retail.lightspeed.app/signin/?return=%2F
+https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
 supply.lime.bike
 proxy-production.lime.bike
 web-message.lime.bike
@@ -1188,9 +1200,95 @@ https://app.agency360.com
 https://securesignin.neogov.com
 https://securesignin.powerdms.com/
 https://hr.neogov.com
+https://octopus.com/downloads
+https://octopus.com/downloads
+https://github.com/OctopusDeploy
+https://octopus.com
+https://aiagent.octopus.com/api/form
+https://pentest-app.onetrust.com/
+https://auth.opera.com
+https://accounts.opera.com
+https://flow.opera.com
+https://autoupdate.geo.opera.com
+https://net.geo.opera.com
+https://download.opera.com
+https://speeddials.opera.com
+https://browser-notifications.opera.com
+https://www.opera.com/
+https://www.opera.com/computer/thanks?ni=stable&os=windows
+https://www.opera.com/computer/thanks?ni=eapgx&os=windows
+https://get.geo.opera.com
+https://play.google.com/store/apps/details?id=com.opera.browser
+https://play.google.com/store/apps/details?id=com.opera.app.news
+https://play.google.com/store/apps/details?id=com.opera.gx
+https://play.google.com/store/apps/details?id=com.opera.mini.native
+https://play.google.com/store/apps/details?id=com.opera.app.sports
+https://cryptowallet.opera-api.com
+https://suggestions.opera-api.com
+weather.opera-api.com
+push.opera.com
+https://bugs.opera.com/
+https://gx.games
+https://create.gx.games
+Loomi.tv
+https://features.opera-api.com
+https://cdn-store.opera-api.com
+exchange.opera.com
+merchandise.opera-api.com
+blocklist.opera-api.com
+https://gx.opera-api.com
+37.228.104.0/21
+77.111.244.0/22
+82.145.208.0/20
+91.203.96.0/22
+102.23.96.0/22
+103.83.120.0/22
+107.167.96.0/19
+141.0.8.0/21
+185.26.180.0/22
+195.189.143.0/24
+203.89.100.0/22
+marketplace.gamemaker.io
+GameMaker Studio 2
+https://www.gamemaker.io
+https://cashback.opera.com/
+api.gx.games/gxc
+api.gx.games/dc
+api.gx.games/dev 
+api.gx.games/profile
+api.gx.games/session
+https://app.optimizely.com/
+https://cdn.optimizely.com/
+https://cdn-pci.optimizely.com/
+https://optimizely-edge.com
+https://api.optimizely.com/
+https://dxc.episerver.net/ 
+https://paasportal.episerver.net/
+https://paasportal.episerver.net/api/v1.0/
+https://app.welcomesoftware.com/
+https://accounts.welcomesoftware.com/
+https://api.welcomesoftware.com/
+https://cdn-app.welcomesoftware.com/
+https://analytics.welcomesoftware.com/
+https://flags.expeng.optimizely.com
+https://accounts.cmp.optimizely.com/
 https://api-evm.orderly.org/*
 https://orderly.network/
 https://api.orderly.org/
+https://www.originenergy.com.au/
+https://dataportal.originenergy.com.au
+https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
+https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql
+https://api.rx.originenergy.com.au/v1/lpg/graphql
+https://www.winconnect.com.au/moving-out/
+https://www.winconnect.com.au/get-connected/
+https://customerportal.winconnect.com.au/login
+signup.myconnect.com.au
+portal.myconnect.com.au
+myconnect.com.au
+portal.myconnect.com.au/new-connection
+ssu.myconnect.com.au/signup/get-connected 
+hub.myconnect.com.au
 https://www.zaproxy.org
 Latest ZAP version (2.15.0)
 https://dashboard.pantheon.io
@@ -1230,6 +1328,15 @@ beta.rarible.com
 https://rarible.com/
 rari.foundation
 https://mintle.x.rarible.com/
+https://api.thesecurityteam.rocks
+https://api.anytask.thesecurityteam.rocks
+https://anytask.thesecurityteam.rocks
+https://my.thesecurityteam.rocks
+https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
+https://apps.apple.com/us/app/electroneum/id1270774992
+https://github.com/electroneum/electroneum/
+https://legacy-blockexplorer.electroneum.com
+https://public.thesecurityteam.rocks/resources/app/android/etnapp-5.2.2-staging.apk
 Skyscanner iOS App
 Skyscanner Android App
 gateway.skyscanner.net/*
@@ -1336,12 +1443,6 @@ https://www.expressvpn.com
 www.expressvpn.com
 https://financialforce.com
 Any FIS asset is in scope
-hipaa.staging.gearset.com
-https://hipaa.staging.gearset.com/
-https://staging.gearset.com/
-https://staging.gearset.com/
-staging-api.gearset.com
-staging.gearset.com
 cart.hostgator.com.br
 cliente.hostgator.com.br/
 hostgator.com.br/
@@ -1403,27 +1504,6 @@ https://wowjobs.ca
 iOS Indeed Flex App
 履歴書作成 (Universal Resume) Android
 履歴書作成 (Universal Resume) iOS
-Android SDK
-https://api.intercom.com
-https://api.intercom.io
-https://app.intercom.com
-https://app.intercom.io
-https://app.intercom.io/
-https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
-https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
-https://www.intercom.com
-https://www.intercom.com/
-iOS SDK
- https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/entitlements
-https://itunes.apple.com/us/app/irobot-home/id1012014442?mt=8
-https://play.google.com/store/apps/details?id=com.irobot.home
-https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/entitlements
-https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/entitlements/{entitlement_id}
-https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/notifications/raas
-https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/robots/{robot_id}/entitlements
-https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/users/{user_id}/entitlements
-iRobot API Endpoint
-iRobot cloud-connected robot that you own (i.e. j7, s9, i7, 980, 960, 690, Braava, etc.)
 https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665	
 https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US	
 atarkasher.co.il
@@ -1504,19 +1584,6 @@ https://www.kohls.com
 https://www.kohls.com/feature/app.jsp
 https://www.kohls.com/feature/app.jsp
 www.kohls.com
-https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
-https://manager.trial.lsk.lightspeed.app/
-https://manager.trial.lsk.lightspeed.app/	
- developers.vendhq.com
-https://developers.vendhq.com/
-https://payment-connectors.vendhq.com/
-https://www.vendhq.com/
-https://yourstore.retail.lightspeed.app/signin/?return=%2F
-payment-connectors.vendhq.com
-secure.vendhq.com
-www.vendhq.com
-yourstore.retail.lightspeed.app
-https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
 Lululemon Mobile App - iOS
 http://www.lululemon.co.jp
 http://www.lululemon.co.kr
@@ -1695,16 +1762,6 @@ https://nubank.com.co
 https://nubank.com.mx
 https://play.google.com/store/apps/details?id=com.nu.production&hl=pt_BR&gl=US&pli=1
 https://www.nuinvest.com.br/
-Octopus Server
-Octopus Tentacle
-https://octopus.com/downloads
-https://octopus.com/downloads
-Octopus Deploy Git Repo
-Octopus GitHub Copilot
-https://aiagent.octopus.com/api/form
-https://github.com/OctopusDeploy
-https://octopus.com
-octopus.com
 Advanced Server Access (ASA) / (ScaleFT)
 Advanced Server Access Client / Agents
 Desktop MFA for Windows
@@ -1740,7 +1797,6 @@ https://support.okta.com
 https://www.okta.com/fastpass/
 https://www.okta.com/products/advanced-server-access/
 support.okta.com
-https://pentest-app.onetrust.com/
 ChatGPT
 ChatGPT Plugins
 Developer Platform Playground
@@ -1768,119 +1824,12 @@ io.opensea - Android App
 io.opensea - iOS App
 opensea.io
 pro.opensea.io
-102.23.96.0/22
-103.83.120.0/22
-107.167.96.0/19
-141.0.8.0/21
-185.26.180.0/22
-195.189.143.0/24
-203.89.100.0/22
-37.228.104.0/21
-77.111.244.0/22
-82.145.208.0/20
-91.203.96.0/22
-Apex Football
-GameMaker Studio 2
-Loomi.tv
-Opera GX
-Opera GX for Android
-Opera Mini
-Opera News
-Opera PC
-Opera for Android 
-accounts.opera.com
-api.gx.games/dc
-api.gx.games/dev 
-api.gx.games/gxc
-api.gx.games/profile
-api.gx.games/session
-auth.opera.com
-autoupdate.geo.opera.com
-blocklist.opera-api.com
-browser-notifications.opera.com
-bugs.opera.com
-cashback.opera.com
-cdn-store.opera-api.com
-cryptowallet.opera-api.com
-download.opera.com
-exchange.opera.com
-features.opera-api.com
-flow.opera.com
-get.geo.opera.com
-gx.opera-api.com
-https://accounts.opera.com
-https://auth.opera.com
-https://autoupdate.geo.opera.com
-https://browser-notifications.opera.com
-https://bugs.opera.com/
-https://cashback.opera.com/
-https://cdn-store.opera-api.com
-https://create.gx.games
-https://cryptowallet.opera-api.com
-https://download.opera.com
-https://features.opera-api.com
-https://flow.opera.com
-https://get.geo.opera.com
-https://gx.games
-https://gx.opera-api.com
-https://net.geo.opera.com
-https://play.google.com/store/apps/details?id=com.opera.app.news
-https://play.google.com/store/apps/details?id=com.opera.app.sports
-https://play.google.com/store/apps/details?id=com.opera.browser
-https://play.google.com/store/apps/details?id=com.opera.gx
-https://play.google.com/store/apps/details?id=com.opera.mini.native
-https://speeddials.opera.com
-https://suggestions.opera-api.com
-https://www.gamemaker.io
-https://www.opera.com/
-https://www.opera.com/computer/thanks?ni=eapgx&os=windows
-https://www.opera.com/computer/thanks?ni=stable&os=windows
-marketplace.gamemaker.io
-merchandise.opera-api.com
-net.geo.opera.com
-push.opera.com
-speeddials.opera.com
-suggestions.opera-api.com
-weather.opera-api.com
-www.gamemaker.io
-www.opera.com
 Opsgenie (Android)
 Opsgenie (IoS)
 app.opsgenie.com
 https://app.opsgenie.com
 https://mobileapp.opsgenie.com
 mobileapp.opsgenie.com
-https://accounts.cmp.optimizely.com/
-https://accounts.welcomesoftware.com/
-https://analytics.welcomesoftware.com/
-https://api.optimizely.com/
-https://api.welcomesoftware.com/
-https://api.welcomesoftware.com/ 
-https://app.optimizely.com/
-https://app.welcomesoftware.com/
-https://cdn-app.welcomesoftware.com/
-https://cdn-pci.optimizely.com/
-https://cdn.optimizely.com/
-https://dxc.episerver.net/ 
-https://flags.expeng.optimizely.com
-https://optimizely-edge.com
-https://paasportal.episerver.net/
-https://paasportal.episerver.net/api/v1.0/
-dataportal.originenergy.com.au
-https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
-https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql
-https://api.rx.originenergy.com.au/v1/lpg/graphql
-https://customerportal.winconnect.com.au/login
-https://dataportal.originenergy.com.au
-https://www.originenergy.com.au/
-https://www.winconnect.com.au/get-connected/
-https://www.winconnect.com.au/moving-out/
-hub.myconnect.com.au
-myconnect.com.au
-portal.myconnect.com.au
-portal.myconnect.com.au/new-connection
-signup.myconnect.com.au
-ssu.myconnect.com.au/signup/get-connected 
 https://devstaging.pcapcloud.com/*
 Chrome extension (download at: chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en)
 Edge extension (download at: ms-windows-store://pdp/?productid=9nblggh4v89b )
@@ -1956,24 +1905,6 @@ https://www.oculus.com/experiences/quest/2173678582678296
 https://www.oculus.com/experiences/rift/1257029974329451
 https://www.xbox.com/en-us/games/store/rec-room/9pgpqk0xthrz
 iOS
-Electroneum Android App
-Electroneum iOS App
-Legacy Block Explorer
-Legacy Blockchain 
-Staging Electroneum Android App
-anytask.thesecurityteam.rocks
-api.anytask.thesecurityteam.rocks
-api.thesecurityteam.rocks
-https://anytask.thesecurityteam.rocks
-https://api.anytask.thesecurityteam.rocks
-https://api.thesecurityteam.rocks
-https://apps.apple.com/us/app/electroneum/id1270774992
-https://github.com/electroneum/electroneum/
-https://legacy-blockexplorer.electroneum.com
-https://my.thesecurityteam.rocks
-https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
-https://public.thesecurityteam.rocks/resources/app/android/etnapp-5.2.2-staging.apk
-my.thesecurityteam.rocks
 SEEK Pass Mobile App for Android
 SEEK Pass Mobile App for iOS
 SEEK mobile app for Android

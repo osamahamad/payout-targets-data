@@ -11,11 +11,6 @@ Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DI
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 *.atlastunnel.com
 *.cic-bug-bounty.auth0app.com
-*.bigcommerce.com
-*.bigcommerce.net
-*.YOUR-TESTING-STORE.mybigcommerce.com/
-*.binance.com
-*.binance.us
 *.cash.app
 *.cashstaging.app
 *.comcast.com
@@ -29,6 +24,7 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.trafficjunky.com
 *.adultforce.com
 *.backblazeb2.com
+*.YOUR-TESTING-STORE.mybigcommerce.com/
 *.bitdefender.net
 *.bitdefender.com
 *.bitstamp.net - Bitstamp Supporting Services
@@ -57,8 +53,28 @@ casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 *.immutable.com
 *.imtbl.com
 *.testnet.immutable.com
+*.intercomassets.com / *.intercomcdn.com
 *.linktree-extensions.com
 *.bbp-mettle.co.uk
+*.octopus.com
+*.opera.software
+*.osp.opera.software
+*.opera.technology
+*.sec-tunnel.com
+*.opera.com
+*.opera-mini.net
+*.opera.news
+*.operanewsapp.com
+*.yoyogames.com
+*.apex-football.com
+*.operafootball.com
+*.feednews.com
+*.dailyadvent.com
+*.origindigital-pac.com.au
+*.odcdn.com.au
+*.support.originenergy.com.au
+*.api.originenergy.com.au
+*.download.originenergy.com.au
 *.naspers.com
 *.prosus.com
 *.skyscanner.net
@@ -101,7 +117,6 @@ open redirect at *.epam.com
 *.indeed.net
 *.indeed.tech
 *.indeedflex.com
-*.intercomassets.com / *.intercomcdn.com
 *.jora.com
 *.jora.xyz
 *.10bis.co.il
@@ -137,30 +152,11 @@ open redirect at *.epam.com
 prod-*.nu.com.co
 prod-*.nu.com.mx
 prod-*.nubank.com.br
-*.octopus.com
 *.openai.com
 *.openai.org
 *.openai.org
 *.openai.org
-*.apex-football.com
-*.dailyadvent.com
-*.feednews.com
-*.opera-mini.net
-*.opera.com
-*.opera.news
-*.opera.software
-*.opera.technology
-*.operafootball.com
-*.operanewsapp.com
-*.osp.opera.software
-*.sec-tunnel.com
-*.yoyogames.com
 *.opsgenie.com
-*.api.originenergy.com.au
-*.download.originenergy.com.au
-*.odcdn.com.au
-*.origindigital-pac.com.au
-*.support.originenergy.com.au
 *.pinterest.com Web Apps
 *.points.com
 *.points.com

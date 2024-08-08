@@ -12,12 +12,10 @@
  Twilio Wireless
  Watsons.TaiWan.Android
  com.citymapper.app.release
- developers.vendhq.com
  https://api.ibops.net/ad-management
  https://app.init.capital/
  https://github.com/0xPolygon/proof-generation-api
  https://github.com/river-build/river
- https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/entitlements
  mix.monash.edu 
  tsock.us1.twilio.com
  www.register.com
@@ -138,13 +136,9 @@
 *.betsharedservices.io
 *.betviewapi.com
 *.big.one
-*.bigcommerce.com
-*.bigcommerce.net
 *.bigone.com
 *.bild.de
 *.bild.tv
-*.binance.com
-*.binance.us
 *.binary.com
 *.bingo.com
 *.bingx.com
@@ -1222,7 +1216,6 @@
 9n236hqqtvnh
 9wzdncrfj2g6
 9wzdncrfj3mb
-<1Password signup page --> https://start.1password.com
 <Your own 1Password Account subdomain --> https://<your account domain>.1password.com/
 <Your own 1Password account> —> Latest stable, beta, or nightly Android Build
 <Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension  (Chrome, Brave, Firefox, Edge, and Safari)
@@ -1351,7 +1344,6 @@ Any related DPG media domain
 Any resource created or accessed with the Outscale Cloud, on all regions
 Any subdomain application issue
 Any subdomain infrastructure issue
-Apex Football
 AppActions
 Apple App Store (886492891)
 Application tunnels - DataCenter - https://marketplace.atlassian.com/apps/1227901/application-tunnels?hosting=datacenter
@@ -1488,8 +1480,6 @@ Beats - Metricbeat
 Beats - Packetbeat
 Beats - Winlogbeat
 Better Code Macro for Confluence - Cloud - https://marketplace.atlassian.com/apps/1214912/better-code-macro-for-confluence?hosting=cloud
-BigCommerce Android
-BigCommerce iOS
 Binance Desktop Application
 Binance Mobile Application for Android
 Binance Mobile Application for iOS
@@ -1720,8 +1710,6 @@ Elastic Maps Server
 Elastic Package Registry
 Elastic Synthetics Monitoring
 Elasticsearch
-Electroneum Android App
-Electroneum iOS App
 Embedded Marketplace for Confluence - Cloud - https://marketplace.atlassian.com/apps/1218875/embedded-marketplace-for-confluence?hosting=cloud
 Embedded Marketplace for Jira - Cloud - https://marketplace.atlassian.com/apps/1218864/embedded-marketplace-for-jira?hosting=cloud
 Enclave server (please test on testnet only)
@@ -1981,8 +1969,6 @@ Latest version of Wise Android App
 Latest version of Wise iOS App
 LaunchDarkly Open Source SDKs
 Leaked/compromised employee accounts *.here.com
-Legacy Block Explorer
-Legacy Blockchain 
 Lending and Borrowing
 Lens Studio
 Lightroom
@@ -2172,10 +2158,6 @@ OPPO-owned properties Non-core properties
 OT scanner
 Observability - APM Agents
 Observability - APM Server
-Octopus Deploy Git Repo
-Octopus GitHub Copilot
-Octopus Server
-Octopus Tentacle
 Oculus Quest: All-in-one gaming system for VR
 Oculus Rift: VR headset
 Official Tesla Android apps
@@ -2205,12 +2187,6 @@ Open source projects(non-forked) listed at github.com/pinterest/
 Open source tools from Cloudflare
 OpenAI API Keys
 OpenPGP Cert Directory Specification
-Opera GX
-Opera GX for Android
-Opera Mini
-Opera News
-Opera PC
-Opera for Android 
 Opsgenie (Android)
 Opsgenie (IoS)
 Opsgenie - Cloud - https://marketplace.atlassian.com/apps/1222147/opsgenie?hosting=cloud
@@ -2402,8 +2378,6 @@ Smart Contract - Smart Contract: Polygon Router SDK
 Smart Contract - Smart Contract: Polygon Staking 
 Smart Contract: Polygon Mainnet Bridge 
 Smart Contracts
-Smartchain Block Explorer
-Smartchain Blockchain
 Snaps
 Snaps Development Packages
 Social Media Accounts
@@ -2426,7 +2400,6 @@ Square Point of Sale Mobile Application for iOS
 Square Register
 Square Terminal
 Staff.monash
-Staging Electroneum Android App
 Staging, QA, Dev, and Test Environments
 Standalone Chrome extension
 Status Smart Contracts
@@ -2774,7 +2747,6 @@ accounts.firefox.com
 accounts.frame.io
 accounts.logi.com
 accounts.magento.cloud
-accounts.opera.com
 accounts.pixiv.net
 accounts.reddit.com
 accounts.shopify.com
@@ -2833,7 +2805,6 @@ aiq-prod.codebig2.net
 airFiber
 airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
-aiven.io
 akismet.com
 alchemy.veriff.com
 alert.logitech.com
@@ -2853,7 +2824,6 @@ analytics.cloud.unity3d.com
 analytics.krisp.ai
 analytics.ninjakiwi.com
 analytics.pinelabs.com
-anytask.thesecurityteam.rocks
 ap-s.cloud.com
 api*.netflix.com
 api-*.soundcloud.com
@@ -2885,10 +2855,8 @@ api.8x8.com
 api.account.clario.co
 api.adm.cloud.com
 api.airbnb.com
-api.aiven.io
 api.alasco.de
 api.amazonalexa.com/*
-api.anytask.thesecurityteam.rocks
 api.arkane.network
 api.atg.se
 api.au.frontegg.com
@@ -3035,7 +3003,6 @@ api.swapcard.com
 api.swiftfinancial.com
 api.taxjar.com
 api.theperfumeshop.com
-api.thesecurityteam.rocks
 api.tidal.com
 api.tideplatform.in
 api.topperpay.com
@@ -3216,7 +3183,6 @@ auth.indrive.tech
 auth.magic.link
 auth.monespacesante.fr
 auth.nextcloud.com
-auth.opera.com
 auth.preprod.monespacesante.fr
 auth.seek.com
 auth.services.adobe.com
@@ -3233,7 +3199,6 @@ authz.workbox.dk
 autocomplete.booking.com
 autodiscover.uzleuven.be
 autointerface.stag.visma.net
-autoupdate.geo.opera.com
 autoupdateapi.lansweeper.com
 avtoelon.uz
 aw.visa.com
@@ -3323,7 +3288,6 @@ bq.visa.com
 brand.takeaway.com
 brave.com
 bridge.codefi.network
-browser-notifications.opera.com
 buckingfuggy.com
 buffered-reader
 bugcrowd-oie-%username%-1.at.oktapreview.com
@@ -3332,7 +3296,6 @@ bugcrowd-oie-%username%-2.at.oktapreview.com
 bugcrowd-oie-%username%-2.oktapreview.com
 bugcrowd-pam-###.oktapreview.com
 bugcrowd-pam-###.pam.oktapreview.com
-bugs.opera.com
 bugzilla.mozilla.org
 builder.hostinger.com
 building-blocks.com
@@ -3381,7 +3344,6 @@ carrefouruae.com
 cars.booking.com
 cart.hostgator.com.br
 cart.starbucks.co.jp
-cashback.opera.com
 cashier-src.etoro.com
 cashier.deriv.com
 cashier.etoro.com
@@ -3391,7 +3353,6 @@ cbconnection.adobe.com
 ccardseu1.badoo.com
 ccardsus1.badoo.com
 ccloud.yoti.com
-cdn-store.opera-api.com
 cdn.arkoselabs.com
 cdn.localizestaging.com
 cdn.moderntreasury.com
@@ -3793,7 +3754,6 @@ connect.identity.stagaws.visma.com
 connect.monash.edu
 connect.venly.io
 console-backend.truelayer[-sandbox].com
-console.aiven.io
 console.chainstack.com
 console.dashlane.com
 console.truelayer[-sandbox].com
@@ -3835,7 +3795,6 @@ crm.clario.co
 crm.nextcloud.com
 cruises.priceline.com
 cryptology.com
-cryptowallet.opera-api.com
 cs.money
 csp-pci.prod.codebig2.net
 css-tricks.com
@@ -3893,7 +3852,6 @@ datapod-1-query.production.forescoutcloud.net
 datapod-2-druid-ingest.production.forescoutcloud.net
 datapod-2-ingest.acceptance.forescoutcloud.net
 datapod-2-query.acceptance.forescoutcloud.net
-dataportal.originenergy.com.au
 dcfgateway*.marriott.com
 dcs.clario.co
 de.bmw.connected.mobile20.row
@@ -3973,7 +3931,6 @@ doppler
 doppler.team
 download.krisp.ai
 download.nextcloud.com
-download.opera.com
 downloads.datastax.com
 drone.vidaxl.io
 duo-eu.truecaller.com
@@ -4080,14 +4037,12 @@ extranet.s-pankki.fi
 extranet.uzleuven.be
 extras-acc.landmarkcinemas.com
 extras.landmarkcinemas.com
-falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com
 falcon-sandbox.com
 fanduel.com
 fareharborsites.com
 faucet-api.polygon.technology/
 faucet.polygon.technology
 fdbox.net
-features.opera-api.com
 federalist-docs.18f.gov
 federalist-proxy.app.cloud.gov
 federalist.18f.gov
@@ -4111,7 +4066,6 @@ firefox.settings.services.mozilla.com
 flights.booking.com
 flourish-user-preview.com
 flourish-user-templates.com
-flow.opera.com
 flyiin.com
 fm.anchor.android
 fonts.adobe.com
@@ -4146,7 +4100,6 @@ geckoterminal.com
 gehmmocbbkpblljhkekmfhjpfbkclbph
 geminiadvisory.io
 geofilters.snapchat.com
-get.geo.opera.com
 getofficial.co
 getworldcoin.com
 gift.starbucks.co.jp
@@ -4154,8 +4107,6 @@ giftcards.marriott.com
 gifts.grab.com
 gist.github.com
 github.com
-github.com/Aiven
-github.com/Aiven-Open
 github.com/binary-com
 github.com/cornershop/*
 github.com/deriv-com
@@ -4191,7 +4142,6 @@ gw.api.dh.comcast.com
 gwapi.tripadvisor.com
 gwapi1.tripadvisor.com
 gwapi2.tripadvisor.com
-gx.opera-api.com
 h1-*your-own-instance*.cloud.mattermost.com
 h1-your-domain.zendesk.com
 hack1.mtrx.ovh
@@ -4232,7 +4182,6 @@ hilton.io
 hiltonbusinessonline.com
 hiltonhotels.jp
 hiltonlocalbiz.com
-hipaa.staging.gearset.com
 hln.be
 hmxservices.com
 holidays-au.fijiairways.com
@@ -4439,7 +4388,6 @@ https://api.immutable.com
 https://api.int.ibops.net
 https://api.int.ibops.net/customer-loyalty-service
 https://api.intercom.com
-https://api.intercom.io
 https://api.justeat-int.com
 https://api.letsexchange.io/doc
 https://api.linen.app/
@@ -4479,7 +4427,6 @@ https://api.us1.fga.dev/
 https://api.usaa.com/
 https://api.voiapp.io/
 https://api.welcomesoftware.com/
-https://api.welcomesoftware.com/ 
 https://api.woo.org/
 https://api.wyzecam.com
 https://api.x.immutable.com/
@@ -4498,7 +4445,6 @@ https://app.evaa.finance/
 https://app.film.io/
 https://app.ibotta.com/sign-in 
 https://app.intercom.com
-https://app.intercom.io
 https://app.intercom.io/
 https://app.opsgenie.com
 https://app.optimizely.com/
@@ -5735,7 +5681,6 @@ https://machinefi.com/
 https://maf-holding-prod.apigee.net
 https://manage.cic-bug-bounty.auth0app.com/
 https://manage.statuspage.io
-https://manager.trial.lsk.lightspeed.app/
 https://manager.trial.lsk.lightspeed.app/	
 https://mapi-a.usaa.com
 https://mapi.usaa.com/
@@ -6749,7 +6694,6 @@ https://www.iciparisxl.nl/blog/
 https://www.ifood.com.br
 https://www.infura.io/faucet/linea
 https://www.infura.io/faucet/sepolia
-https://www.intercom.com
 https://www.intercom.com/
 https://www.just-eat.co.uk
 https://www.just-eat.ie
@@ -7364,7 +7308,6 @@ my.pressable.com
 my.sheer.com
 my.snapchat.com
 my.swiftfinancial.com
-my.thesecurityteam.rocks
 my.tomorrowland.com
 myaccount-hardening.dynatracelabs.com
 myaccount.ad.nl
@@ -7386,7 +7329,6 @@ nationalidverification-noneu.truecaller.com
 near.org 
 neoket.net
 nessus.fr.cloud.gov
-net.geo.opera.com
 netlify-cdp-loader.netlify.app
 netlify-rum.netlify.app
 nettle-rs
@@ -7491,7 +7433,6 @@ oauth.developers.stagaws.visma.com
 obs-sensors.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 octopus
-octopus.com
 odoo14.notebleue.pro
 offsite.omise.co
 om.vodafone.mva
@@ -7579,7 +7520,6 @@ pay.truelayer[-sandbox].com
 pay.unity.com
 paybridge.booking.com
 paydirect.truelayer[-sandbox].com
-payment-connectors.vendhq.com
 payment.deezer.com
 payment.pixiv.net
 payment.truelayer[-sandbox].com
@@ -7940,7 +7880,6 @@ spaces.pm
 spark.adobe.com
 spark.fareharbor.com
 spectacles.com
-speeddials.opera.com
 speedtest.xfinity.com
 sport-components.sporza.be
 sportsbook.fanduel.com
@@ -7959,7 +7898,6 @@ stage.bittrex.com
 stage.landmarkcinemas.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 staging-admin.shipt.com
-staging-api.gearset.com
 staging-api.shipt.com
 staging-apigateway.vidaxl.io
 staging-app.shipt.com
@@ -7967,7 +7905,6 @@ staging-db.vidaxl.io
 staging-shop.shipt.com
 staging-shoppingcart.shipt.com
 staging.airtable.com
-staging.gearset.com
 staging.magisto.com
 staging.vidaxl.io
 staking-api.polygon.technology
@@ -8020,7 +7957,6 @@ studio.swapcard.com
 subnet-evm
 subscription-monitor-eu.truecaller.com
 substance3d.com
-suggestions.opera-api.com
 super-services.indriverapp.com
 super6.skysports.com
 supplier.auth.toag.booking.com
@@ -8135,7 +8071,6 @@ travelagents.marriott.com/
 travelagents.viator.com
 traveler.marriott.com
 travelfrom.fr
-trbinance.com
 trello.com
 trendyol.com
 tria.ge
@@ -8495,7 +8430,6 @@ www.forescout.com
 www.fortress.com.hk
 www.fraedom.com
 www.funjet.com
-www.gamemaker.io
 www.gamma.be/*
 www.gamma.nl/*
 www.getaroom.com
@@ -8596,7 +8530,6 @@ www.nba.com
 www.netflix.com
 www.networksolutions.com
 www.omise.co
-www.opera.com
 www.opn.ooo
 www.orbitz.com
 www.oursustainableport.com
@@ -8701,7 +8634,6 @@ www.usa.gov
 www.uzleuven.be
 www.valvesoftware.com
 www.vascoworldwide.net
-www.vendhq.com
 www.veriff.com
 www.verisign.com (Website; non-DNS related)
 www.vfsvisaonline.com
@@ -8797,7 +8729,6 @@ yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
-yourstore.retail.lightspeed.app
 yrityspalvelu.tapiola.fi
 ywh.admin.zecible.fr
 ywh.api.zecible.fr
