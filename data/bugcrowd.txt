@@ -833,17 +833,6 @@ https://start.1password.com
 <Your own 1Password account> —> Latest stable, beta, or nightly iOS Build
 <Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension  (Chrome, Brave, Firefox, Edge, and Safari)
 <Your own 1Password account> —> https://events.1password.com/  (Event Reporting API is available on 1Password Business Accounts Only)
-<Your own 1Pasword Personal Account> --> https://my.1password.com/
-https://start.1password.com
-<Your own 1Password account> —> Latest stable, beta, or nightly MacOS Build
-<Your own 1Password account> —> Latest stable, beta, or nightly Android Build
-<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI) 
-<Your own 1Password Account subdomain --> https://<your account domain>.1password.com/
-<Your own 1Password account> —> Latest stable, beta, or nightly Windows Build
-<Your own 1Password account> —> Latest stable, beta, or nightly Linux Build
-<Your own 1Password account> —> Latest stable, beta, or nightly iOS Build
-<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension  (Chrome, Brave, Firefox, Edge, and Safari)
-<Your own 1Password account> —> https://events.1password.com/  (Event Reporting API is available on 1Password Business Accounts Only)
 Aiven for Apache Cassandra managed and hosted service
 Aiven for Clickhouse managed and hosted service
 Aiven for Dragonfly managed and hosted service
@@ -928,6 +917,11 @@ https://play.google.com/store/apps/details?id=net.bitstamp.app
 https://play.google.com/store/apps/details?id=net.bitstamp.appgo
 https://security-testing-env-api.k8s.tools-001.d-use-1.braze.com/
 https://security-testing-env-dashboard.k8s.tools-001.d-use-1.braze.com/
+https://docs.bugcrowd.com/
+https://bugcrowd.com/programs
+https://tracker.bugcrowd.com
+https://api.bugcrowd.com
+https://identity.bugcrowd.com/
 ████████████████████████
 ████████████████████████████
 ███████████████████████████
@@ -1344,6 +1338,18 @@ https://api.planethoster.net
 https://world.planethoster.net
 https://mg.n0c.com/
 https://www.planethoster.com
+https://dealflow.prosus.com
+https://dealflowapi.prosus.com
+https://analytics-admin.prosus.com
+http://analytics.prosus.com
+http://prosus.com
+https://data.prosus.com/
+https://hr.prosus.com/
+https://tracker.naspers.com/
+https://cfc.naspers.com/
+https://peopleview.naspers.com
+http://nav.naspers.com/
+https://www.naspers.com
 api.rapyd.net
 https://dashboard.rapyd.net/
 verify.rapyd.net
