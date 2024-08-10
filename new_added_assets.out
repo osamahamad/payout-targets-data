@@ -1,20 +1,11 @@
-*.bugcrowd.com/auth/*
-*.naspers.com
-*.prosus.com
-http://analytics.prosus.com
-http://nav.naspers.com/
-http://prosus.com
-https://analytics-admin.prosus.com
-https://api.bugcrowd.com
-https://bugcrowd.com/programs
-https://cfc.naspers.com/
-https://data.prosus.com/
-https://dealflow.prosus.com
-https://dealflowapi.prosus.com
-https://docs.bugcrowd.com/
-https://hr.prosus.com/
-https://identity.bugcrowd.com/
-https://peopleview.naspers.com
-https://tracker.bugcrowd.com
-https://tracker.naspers.com/
-https://www.naspers.com
+<Your own 1Password Account subdomain --> https://<your account domain>.1password.com/
+<Your own 1Password account> —> Latest stable, beta, or nightly Android Build
+<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension  (Chrome, Brave, Firefox, Edge, and Safari)
+<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI) 
+<Your own 1Password account> —> Latest stable, beta, or nightly Linux Build
+<Your own 1Password account> —> Latest stable, beta, or nightly MacOS Build
+<Your own 1Password account> —> Latest stable, beta, or nightly Windows Build
+<Your own 1Password account> —> Latest stable, beta, or nightly iOS Build
+<Your own 1Password account> —> https://events.1password.com/  (Event Reporting API is available on 1Password Business Accounts Only)
+<Your own 1Pasword Personal Account> --> https://my.1password.com/
+https://start.1password.com
