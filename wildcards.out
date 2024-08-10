@@ -144,6 +144,7 @@
 *.bredbandsbolaget.se
 *.browser.cloud.com
 *.buddypress.org,bbpress.org,profiles.wordpress.org
+*.bugcrowd.com/auth/*
 *.byairbnb.com
 *.bybit.com
 *.byspotify.com
@@ -545,6 +546,7 @@
 *.napoleondice.be
 *.napoleongames.be
 *.napoleonsports.be
+*.naspers.com
 *.neat.com.hk
 *.neat.hk
 *.neat.wtf
@@ -640,6 +642,7 @@
 *.prod.nube.tech
 *.projects.epam.com
 *.proofhq.com
+*.prosus.com
 *.prowly.com
 *.psynet.gg
 *.psyonix.com

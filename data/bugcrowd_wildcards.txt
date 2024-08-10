@@ -28,6 +28,7 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.bitdefender.net
 *.bitdefender.com
 *.bitstamp.net - Bitstamp Supporting Services
+*.bugcrowd.com/auth/*
 *.canva.cn
 *.canva.com
 *.canva.tech
@@ -91,6 +92,8 @@ casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 *.support.originenergy.com.au
 *.api.originenergy.com.au
 *.download.originenergy.com.au
+*.naspers.com
+*.prosus.com
 *.rapyd.net
 *.neatcommerce.com
 *.korta.is
