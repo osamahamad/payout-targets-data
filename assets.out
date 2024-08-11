@@ -573,7 +573,6 @@
 *.napoleondice.be
 *.napoleongames.be
 *.napoleonsports.be
-*.naspers.com
 *.neat.com.hk
 *.neat.hk
 *.neat.wtf
@@ -668,7 +667,6 @@
 *.prod.nube.tech
 *.projects.epam.com
 *.proofhq.com
-*.prosus.com
 *.prowly.com
 *.psynet.gg
 *.psyonix.com
@@ -1089,7 +1087,6 @@
 38.140.238.56/29
 3d.cs.money
 3rd party services
-3rdparty-apis.coinmarketcap.com
 403546234
 403684733
 406056744
@@ -1453,10 +1450,6 @@ Beats - Metricbeat
 Beats - Packetbeat
 Beats - Winlogbeat
 Better Code Macro for Confluence - Cloud - https://marketplace.atlassian.com/apps/1214912/better-code-macro-for-confluence?hosting=cloud
-Binance Desktop Application
-Binance Mobile Application for Android
-Binance Mobile Application for iOS
-Binance macOS Application
 Bitbucket Cloud - https://trello.com/power-ups/588a331cc86ffbe08f5d2c67/bitbucket-cloud
 Bitbucket Cloud Migration Assistant - Data Center - https://marketplace.atlassian.com/apps/1226610/bitbucket-cloud-migration-assistant?hosting=datacenter
 Bitbucket Cloud Migration Assistant - Server - https://marketplace.atlassian.com/apps/1226610/bitbucket-cloud-migration-assistant?hosting=server
@@ -1564,8 +1557,6 @@ Cloudkey
 Clubhouse Production and Corporate Infrastructure
 Coda Chrome Extension
 Code Coverage for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1218271/code-coverage-for-bitbucket-server?hosting=server
-CoinMarketCap Android app
-CoinMarketCap iOS app
 Coinbase WaaS (Wallet as a Service)
 ColdFusion
 CometBFT
@@ -2484,9 +2475,6 @@ Troubleshooting and Support - Jira - DataCenter - https://marketplace.atlassian.
 Troubleshooting and Support - Jira - Server - https://marketplace.atlassian.com/apps/1217696/troubleshooting-and-support-jira?hosting=server
 TrueLayer for Magento (Magento plugin)
 TrueLayer for WooCommerce (WordPress plugin)
-Trustwallet Android App
-Trustwallet Chrome Extension
-Trustwallet iOS App
 Turnstile
 Twilio APIs
 Twilio Authy - https://api.authy.com
@@ -2813,7 +2801,6 @@ api.au.frontegg.com
 api.avax-test.network
 api.avax.network
 api.avtoelon.uz
-api.binance.com
 api.bitcoin.shapeshift.com 
 api.bitso.com
 api.blockchain.info
@@ -2829,7 +2816,6 @@ api.codex.one
 api.coinbase.com
 api.coindcx.com
 api.coingecko.com
-api.coinmarketcap.com
 api.cointr.com
 api.cointr.pro
 api.creditkarma.com
@@ -3370,7 +3356,6 @@ codex.one
 codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
 cognito-idp.eu-west-1.amazonaws.com
 coinbase.com
-coinmarketcap.com
 coldfusion.adobe.com
 com.1debit.ChimeProdApp
 com.3mosquitos.MercadoLibre
@@ -4151,7 +4136,6 @@ hpanel.hostinger.com
 hpp.truelayer[-sandbox].com
 ht.visa.com
 http://agenttraining.westernunion.com
-http://analytics.prosus.com
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
 http://app.scaleft.com/
@@ -4201,12 +4185,10 @@ http://mgmtpod-1.production.forescoutcloud.net/oauth/token
 http://miro.com/app
 http://miro.com/blog
 http://myvisainfinite.com/suntrust/en_us/home.html
-http://nav.naspers.com/
 http://pay.monashcollege.edu.au/
 http://play.google.com/store/apps/details?id=fr.doctolib.www
 http://poe.com
 http://portfolio.metamask.io
-http://prosus.com
 http://recruit.linepluscorp.com
 http://rei.com/adventures
 http://rei.com/events
@@ -4287,7 +4269,6 @@ https://amp.20min.ch
 https://ampcharge.ampol.com.au/
 https://ampol.com.au/
 https://ampolenergy.com.au
-https://analytics-admin.prosus.com
 https://analytics.cloud.unity3d.com
 https://analytics.neogov.com
 https://analytics.welcomesoftware.com/
@@ -4700,7 +4681,6 @@ https://cdn-store.opera-api.com
 https://cdn.neogov.com
 https://cdn.optimizely.com/
 https://central.sophos.com
-https://cfc.naspers.com/
 https://chat.openai.com
 https://chrome.coin98.com
 https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad
@@ -4835,7 +4815,6 @@ https://dashboard.sendbird.com/
 https://dashboard.unity3d.com
 https://data.coda.io/*
 https://data.limeinternal.com
-https://data.prosus.com/
 https://datadome.co
 https://dataportal.originenergy.com.au
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
@@ -4843,8 +4822,6 @@ https://dcfgatewaytst1.marriott.com/
 https://dealer.prod.ps.axelspringer.de/api/v1/partners/{partnerId}/activation
 https://dealer.prod.ps.axelspringer.de/purchases/004/bild/*
 https://dealer.prod.ps.axelspringer.de/purchases/004/welt/*
-https://dealflow.prosus.com
-https://dealflowapi.prosus.com
 https://deliveroo.co.uk
 https://demo.priceless.com/
 https://depinscan.io/
@@ -5464,7 +5441,6 @@ https://github.com/tetu-io/tetu-contracts-v2/blob/master/contracts/vault/VaultIn
 https://github.com/tetu-io/tetu-contracts-v2/blob/master/contracts/ve/VeTetu.sol
 https://github.com/transferwise/*
 https://github.com/tronprotocol/java-tron
-https://github.com/trustwallet/wallet-core/
 https://github.com/valvesoftware
 https://github.com/vechain/thor
 https://github.com/vertex-protocol/vertex-contracts
@@ -5515,7 +5491,6 @@ https://home.xfinity.com
 https://houston-staging.pdq.tools
 https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
 https://hr.neogov.com
-https://hr.prosus.com/
 https://hub.immutable.com/
 https://hub.zetachain.com/
 https://hug.personio.com
@@ -6082,7 +6057,6 @@ https://pcm-imaginary.beta.20min.ch/
 https://pcm.20min.ch
 https://pcm.beta.20min.ch
 https://pentest-app.onetrust.com/
-https://peopleview.naspers.com
 https://performance.neogov.com
 https://performancemarketing.mastercard.com/portal/
 https://pg.paymaya.com
@@ -6430,13 +6404,11 @@ https://tokenize.exchange/
 https://toom.de
 https://tr.ee
 https://tracker.bugcrowd.com
-https://tracker.naspers.com/
 https://trade.bluefin.io/
 https://transferwise.com
 https://translate.elementor.com/
 https://transvision.westernunion.com
 https://travelagents.viator.com
-https://trbinance.com
 https://trello.com/power-ups/55a5d915446f517774210001/box
 https://trello.com/power-ups/55a5d915446f517774210003/evernote
 https://trello.com/power-ups/55a5d916446f517774210004/github
@@ -6569,8 +6541,6 @@ https://www.biconomy.com/
 https://www.biconomy.com/api/v1
 https://www.bigcommerce.com
 https://www.bigcommerce.net
-https://www.binance.com/
-https://www.binance.us/
 https://www.bit.com/
 https://www.bit.com/docs/en-us/futures.html#introduction
 https://www.bit.com/legacy/propertyCenter/assets
@@ -6706,7 +6676,6 @@ https://www.mastercard.us/en-us.html
 https://www.microsoft.com/en-us/p/keeperchat/9pdqtcpn4kxn#activetab=pivot:overviewtab
 https://www.monash.edu
 https://www.monashprofessional.edu.au/
-https://www.naspers.com
 https://www.networksolutions.com
 https://www.npmjs.com/package/@forge/cli
 https://www.npmjs.com/package/@forge/cli	
@@ -7511,7 +7480,6 @@ player.vimeo.com
 player.vrt.be
 playwonderbox.com
 playwonderbox.com.br
-portal-api.coinmarketcap.com
 portal.afterpay.com
 portal.arkoselabs.com
 portal.au.frontegg.com
@@ -7554,9 +7522,7 @@ privacy.ketnet.be
 privateinternetaccess.com
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
-pro-api.coinmarketcap.com
 pro.coinbase.com
-pro.coinmarketcap.com
 pro.doctolib.(fr|de|it) (see "Free features for healthcare professionals"))
 pro.opensea.io
 prod-*.nu.com.co
