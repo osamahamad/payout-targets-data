@@ -222,17 +222,6 @@
 *.dancecentral.com
 *.das.eu
 *.datacamp.com
-*.deliveroo.ae
-*.deliveroo.be
-*.deliveroo.co.uk
-*.deliveroo.com.hk
-*.deliveroo.com.kw
-*.deliveroo.com.qa
-*.deliveroo.com.sg
-*.deliveroo.fr
-*.deliveroo.hk
-*.deliveroo.ie
-*.deliveroo.it
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demorgen.be
@@ -954,7 +943,6 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 analytics-*.8x8.com
 api*.netflix.com
 api-*.soundcloud.com
-api.*.deliveroo.com
 api.zmsp.*.earlywarning.io
 casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 dcfgateway*.marriott.com

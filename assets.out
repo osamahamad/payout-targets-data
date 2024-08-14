@@ -251,17 +251,6 @@
 *.dancecentral.com
 *.das.eu
 *.datacamp.com
-*.deliveroo.ae
-*.deliveroo.be
-*.deliveroo.co.uk
-*.deliveroo.com.hk
-*.deliveroo.com.kw
-*.deliveroo.com.qa
-*.deliveroo.com.sg
-*.deliveroo.fr
-*.deliveroo.hk
-*.deliveroo.ie
-*.deliveroo.it
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demorgen.be
@@ -2815,7 +2804,6 @@ api-staging.airtable.com
 api-v2.frame.io
 api-wallet-sandbox.venly.io
 api-wallet.venly.io
-api.*.deliveroo.com
 api.23andme.com
 api.8x8.com
 api.account.clario.co
@@ -3465,9 +3453,6 @@ com.dashlane
 com.dashlane.dashlanephonefinal
 com.datacamp
 com.defi.wallet
-com.deliveroo.driverapp
-com.deliveroo.orderapp
-com.deliveroo.riderapp
 com.deribit
 com.dolap.android
 com.dyson.mobile.android
@@ -4874,7 +4859,6 @@ https://dealer.prod.ps.axelspringer.de/purchases/004/bild/*
 https://dealer.prod.ps.axelspringer.de/purchases/004/welt/*
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
-https://deliveroo.co.uk
 https://demo.priceless.com/
 https://depinscan.io/
 https://design.glassdoor.com/*
