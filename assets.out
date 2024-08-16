@@ -2696,8 +2696,6 @@ acrobatoauth.adobe.com
 activate.codefi.network
 activities.marriott.com
 adblocking.clario.co
-add-in.eu.stag.henchman.io
-add-in.stag.henchman.io
 addons.allizom.org
 adm.cloud.com
 admin-catalog-bsp.data.gov
@@ -2770,21 +2768,16 @@ api-*.soundcloud.com
 api-a.usaa.com
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
-api-auth-relay.stag.henchman.io
-api-auth.stag.henchman.io
 api-boards.qwant.com
-api-dashboard.stag.henchman.io
 api-docs.poloniex.com
 api-eu.floqast.app
 api-gateway.polygon.technology
 api-js.datadome.co
 api-ne.mackeeper.com
-api-ops.stag.henchman.io
 api-polygon-tokens.polygon.technology/
 api-saas.dana.id
 api-sandbox.gocardless.com
 api-sandbox.uphold.com
-api-search.stag.henchman.io
 api-staging.airtable.com
 api-v2.frame.io
 api-wallet-sandbox.venly.io
@@ -3772,7 +3765,6 @@ dash.cloudflare.com
 dashboard-beta.fr.cloud.gov
 dashboard.algolia.com
 dashboard.doppler.com
-dashboard.eu.stag.henchman.io
 dashboard.fortmatic.com
 dashboard.fr.cloud.gov
 dashboard.gamma.redoxstage.com
@@ -3784,7 +3776,6 @@ dashboard.plaid.com
 dashboard.pluralonline.com
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
-dashboard.stag.henchman.io
 dashboard.unity3d.com
 data.ketnet.be
 data.mail.yahoo.com
@@ -7437,7 +7428,6 @@ openid-noneu.truecaller.com
 openidconnect.net	
 opensea.io
 oprc.portofantwerpbruges.com
-ops-dashboard.stag.henchman.io
 ops.lime.bike
 opsgenie-bamboo-plugin - Server - https://marketplace.atlassian.com/apps/1224300/opsgenie-bamboo-plugin?hosting=server
 opslogin.fr.cloud.gov
