@@ -2647,6 +2647,7 @@ Yoti liveness detection campaign
 Your Own GitLab Instance
 Zendesk - https://trello.com/power-ups/56940ede94fd60cf95f7ce6a/zendesk
 Zero days that affect Intigriti or participating customers (listed below)
+[yourstore].company.site
 a.root-servers.net (DNS service; DNS related)
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 a4k.amazon.com
@@ -8699,7 +8700,6 @@ yourdomain.freshchat.com
 yourdomain.freshdesk.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
-yourstore.company.site domain
 yrityspalvelu.tapiola.fi
 ywh.admin.zecible.fr
 ywh.api.zecible.fr
