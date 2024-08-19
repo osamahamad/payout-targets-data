@@ -114,7 +114,6 @@
 *.atlastunnel.com
 *.atspotify.com
 *.audicagame.com
-*.autobild.de
 *.avalabs.org
 *.avax-dev.network
 *.avax-test.network
@@ -138,8 +137,6 @@
 *.betviewapi.com
 *.big.one
 *.bigone.com
-*.bild.de
-*.bild.tv
 *.binary.com
 *.bingo.com
 *.bingx.com
@@ -178,7 +175,6 @@
 *.byairbnb.com
 *.bybit.com
 *.byspotify.com
-*.bz-berlin.de
 *.c-point.be
 *.canva.cn
 *.canva.com
@@ -226,7 +222,6 @@
 *.coinmetro.com
 *.coinsbit.io
 *.comcast.com
-*.computerbild.de
 *.consumer.worldcoin.org
 *.contentsquare.com
 *.cornershop.io/*
@@ -250,6 +245,7 @@
 *.dailymotion.com
 *.dancecentral.com
 *.das.eu
+*.datacamp.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demorgen.be
@@ -281,7 +277,6 @@
 *.east.fdbox.net
 *.easy.ac
 *.eat.ch
-*.ein-herz-fuer-kinder.de
 *.elastic.co
 *.elasticnet.co
 *.elstc.co
@@ -318,7 +313,6 @@
 *.financialforce.com
 *.finlife.com
 *.finlifepartners.com
-*.fitbook.de
 *.flickr.com
 *.flipkey.com
 *.floqast.app
@@ -558,7 +552,6 @@
 *.mwb-threatintel.com
 *.mwbsys.com
 *.myharmony.com
-*.myhomebook.de
 *.myinsights.io
 *.mysqueezebox.com
 *.myteksi.com
@@ -639,8 +632,6 @@
 *.personio-internal.de
 *.personio.de
 *.personio.tools
-*.petbook-magazine.com/
-*.petbook.de
 *.pinterest.com Web Apps
 *.platformservices.io
 *.playstation.net
@@ -783,8 +774,6 @@
 *.spiketrap.io
 *.spinaway.com
 *.sportinglife.com
-*.spring-media.de
-*.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sqills.com
@@ -802,7 +791,6 @@
 *.streamlabs.com
 *.streamlabscharity.com
 *.stripe.com
-*.stylebook.de
 *.subp-router.hereapi.com
 *.superawesome.com
 *.superawesome.tv
@@ -821,7 +809,6 @@
 *.taralite.com
 *.tdl.sh
 *.teams.cloudflare.com
-*.techbook.de
 *.telenor.se
 *.tesla.cn
 *.tesla.com
@@ -850,7 +837,6 @@
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trafficjunky.com
 *.transferwise.com
-*.travelbook.de
 *.travelocity.ca
 *.travelocity.com
 *.trello.services
@@ -916,7 +902,6 @@
 *.water-link.be/
 *.wavecell.com
 *.wealthsimple.com
-*.welt.de
 *.wenewmoments.com
 *.werkenbijgamma.be
 *.werkenbijgamma.nl
@@ -926,7 +911,6 @@
 *.whois.eu
 *.wimpmusic.com
 *.wise.com
-*.wissen-sie-mehr.de
 *.withairbnb.com
 *.withbuddies.com
 *.withspotify.com
@@ -3007,6 +2991,9 @@ app.chime.com
 app.circle.com
 app.command.cysiv.com
 app.dashlane.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
 app.delen.be
 app.delen.ch
 app.delen.lu
@@ -3108,6 +3095,8 @@ asana.com
 ase.arubanetworks.com
 asiointi.lahitapiola.fi
 asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
+assessment-v2.datacamp.com
+assessment.datacamp.com
 assets.adobe.com
 assets.airbnb.com
 assets.hyatt.com
@@ -3274,6 +3263,7 @@ callbacks.airbnb.com
 callkit-asia-south1.truecaller.com
 cam.notebleue.pro
 campaign.adobe.com
+campus.datacamp.com
 canary.activate.codefi.network
 candle-src.etoro.com
 candle.etoro.com
@@ -3446,6 +3436,7 @@ com.creditkarma.mobile
 com.creditkarma.mobile.international
 com.dashlane
 com.dashlane.dashlanephonefinal
+com.datacamp
 com.defi.wallet
 com.deribit
 com.dolap.android
@@ -4435,6 +4426,7 @@ https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/bigcommerce/id1418570678
 https://apps.apple.com/au/app/caltex-australia/id1314768594
 https://apps.apple.com/au/app/certsy/id1617796159
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
@@ -4850,9 +4842,6 @@ https://datadome.co
 https://dataportal.originenergy.com.au
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
 https://dcfgatewaytst1.marriott.com/
-https://dealer.prod.ps.axelspringer.de/api/v1/partners/{partnerId}/activation
-https://dealer.prod.ps.axelspringer.de/purchases/004/bild/*
-https://dealer.prod.ps.axelspringer.de/purchases/004/welt/*
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
 https://demo.priceless.com/
@@ -6341,7 +6330,6 @@ https://screenplayer.20min.ch
 https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secure-iphone-xml.booking.com/json/
 https://secure.cuehit.net
-https://secure.mypass.de/
 https://secure.neogov.com
 https://secure.vendhq.com
 https://secure.westernunion.com
@@ -7563,6 +7551,7 @@ portalapi.eu.clearpay.co.uk
 portfolio.adobe.com
 portfolio.metamask.io
 portswigger.net
+practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prddsplunkhf.uzleuven.be
 premium-eu.truecaller.com
@@ -7609,6 +7598,7 @@ profile-view.truecaller.com
 profile4-asia-south1.truecaller.com
 profile4.truecaller.com
 profiler.firefox.com
+projects.datacamp.com
 projects.nextcloud.com
 prometheus.fr.cloud.gov
 promos.tvg.com
@@ -8322,6 +8312,8 @@ www.currencycloud.com
 www.cybersource.com
 www.dashlane.com
 www.data.gov
+www.datacamp.com
+www.datacamp.com/datalab
 www.datastax.com
 www.ddfcontent.com
 www.deezer.com
