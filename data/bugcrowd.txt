@@ -1427,9 +1427,12 @@ https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://connect.soundcloud.com
 http://artists.soundcloud.com/
 https://soundcloud.org
-T&P Servers
+Self Register Account on T-Mobile Microsoft Entra ID
 Cellular Network Auth Bypass via Web/Mobile App
+T&P Servers
 Internal Server via Internet Network
+https://tess.service-now.com
+https://tmus.service-now.com
 https://account.t-mobile.com
 https://metrobyt-mobile.com
 https://sprint.com
@@ -1440,6 +1443,7 @@ https://devedge.t-mobile.com
 https://digits.t-mobile.com
 https://t-mobile.com
 https://metrobyt-mobile.com
+https://sprint.com
 Assets labeled as in-scope
 https://apps.apple.com/us/app/t-mobile/id561625752
 https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
