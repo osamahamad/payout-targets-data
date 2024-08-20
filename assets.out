@@ -398,11 +398,10 @@
 *.hoteltonight.com
 *.hotwire.com
 *.housetrip.com
-*.hs-sites.com
-*.hubapi.com
-*.hubspot.com
-*.hubspot.net
+*.hs-sites(-eu1)?.com
 *.hubspotemail.net
+*.hubspotpagebuilder.com
+*.hubspotpagebuilder.eu
 *.humio.com
 *.humo.be
 *.hypermint.com
@@ -519,6 +518,7 @@
 *.meebits.app
 *.megatix.be
 *.melonapp.com
+*.memorable.io
 *.meraki.com
 *.metamask.io
 *.mevo.com
@@ -1593,6 +1593,7 @@ Crypto.com Wallet Extension
 Crypto.com mobile app APIs that require an account
 Crypviser Network
 Custom Fields - https://trello.com/power-ups/56d5e249a98895a9797bebb9/custom-fields
+Customer connected domain (2)
 CyberGhost APIs
 CyberGhost Android application
 CyberGhost Chrome extension
@@ -2137,6 +2138,7 @@ Other Amazon Retail Sites (Please only actively test explicitly stated scope)
 Other Assets
 Other Dyson Assets
 Other Hardware Assets
+Other HubSpot-owned (sub)domains not listed as Out of Scope . Please make sure to exercise due diligence before testing. You must include proof that the subdomain is registered to HubSpot to be eligible for a reward.
 Other Logitech Desktop and Mobile Application
 Other Logitech Hardware/IoT
 Other Semrush Related Asset
@@ -2315,6 +2317,7 @@ Source Code
 Source code of Website, Mobile, or Server Libraries (https://segment.com/docs/sources/)
 Sourcetree for macOS and Windows (https://www.sourcetreeapp.com/)
 SpaceX and Starlink assets (target information and rewards detailed above on the brief)
+Special Conditions
 Special scenarios (see description)
 Specific scenarios
 Specific scenarios (see program description)
@@ -4360,6 +4363,7 @@ https://app.dexalot.com
 https://app.ecwid.com/api/v3/	
 https://app.evaa.finance/
 https://app.film.io/
+https://app.hubspot.com/
 https://app.ibotta.com/sign-in 
 https://app.intercom.com
 https://app.intercom.io/
@@ -4676,6 +4680,7 @@ https://cdn.optimizely.com/
 https://central.sophos.com
 https://cfc.naspers.com/
 https://chat.openai.com
+https://chatspot.ai
 https://chrome.coin98.com
 https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad
 https://chrome.google.com/webstore/detail/ibotta-browser-extension/mfaedmjlefifhnhpgipjjiiekchaimpk?hl=en-US
@@ -4703,6 +4708,7 @@ https://community.cloud.databricks.com/
 https://compass.t-mobile.com
 https://compulsoryunits.monash.edu/
 https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
+https://connect.com
 https://connect.monash.edu
 https://connect.paymaya.com/
 https://connect.soundcloud.com
@@ -4833,6 +4839,7 @@ https://developer.zendesk.com/documentation/zendesk-sdks/#android
 https://developer.zendesk.com/documentation/zendesk-sdks/#ios
 https://developers.afterpay.com
 https://developers.elementor.com/
+https://developers.hubspot.com/docs/api/overview
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
 https://developers.vendhq.com/
@@ -5546,6 +5553,8 @@ https://keepersecurity.com
 https://keepersecurity.com/console
 https://keepersecurity.com/vault
 https://kiwi.partner.viator.com
+https://knowledge.hubspot.com/connected-email/get-started-with-the-hubspot-sales-office-365-add-in
+https://knowledge.hubspot.com/inbox/set-up-a-customer-portal
 https://kucoin.com
 https://kw-bugcrowd-pub.bounty.kiteworks.dev/
 https://l.usaa.com/

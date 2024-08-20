@@ -45,11 +45,10 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.docsend.com
 *.dropboxer.net
 casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
-*.hubspot.net
-*.hs-sites.com
 *.hubspotemail.net
-*.hubspot.com
-*.hubapi.com
+*.hs-sites(-eu1)?.com
+*.hubspotpagebuilder.com
+*.hubspotpagebuilder.eu
 *.guildofguardians.com
 *.immutable.com
 *.imtbl.com

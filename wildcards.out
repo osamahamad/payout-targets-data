@@ -369,11 +369,10 @@
 *.hoteltonight.com
 *.hotwire.com
 *.housetrip.com
-*.hs-sites.com
-*.hubapi.com
-*.hubspot.com
-*.hubspot.net
+*.hs-sites(-eu1)?.com
 *.hubspotemail.net
+*.hubspotpagebuilder.com
+*.hubspotpagebuilder.eu
 *.humio.com
 *.humo.be
 *.hypermint.com
@@ -490,6 +489,7 @@
 *.meebits.app
 *.megatix.be
 *.melonapp.com
+*.memorable.io
 *.meraki.com
 *.metamask.io
 *.mevo.com
