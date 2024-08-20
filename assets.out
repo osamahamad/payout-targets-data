@@ -244,7 +244,6 @@
 *.dailymotion.com
 *.dancecentral.com
 *.das.eu
-*.datacamp.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demorgen.be
@@ -2978,9 +2977,6 @@ app.chime.com
 app.circle.com
 app.command.cysiv.com
 app.dashlane.com
-app.datacamp.com/certification
-app.datacamp.com/groups
-app.datacamp.com/learn
 app.delen.be
 app.delen.ch
 app.delen.lu
@@ -3082,8 +3078,6 @@ asana.com
 ase.arubanetworks.com
 asiointi.lahitapiola.fi
 asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
-assessment-v2.datacamp.com
-assessment.datacamp.com
 assets.adobe.com
 assets.airbnb.com
 assets.hyatt.com
@@ -3249,7 +3243,6 @@ callbacks.airbnb.com
 callkit-asia-south1.truecaller.com
 cam.notebleue.pro
 campaign.adobe.com
-campus.datacamp.com
 canary.activate.codefi.network
 candle-src.etoro.com
 candle.etoro.com
@@ -3421,7 +3414,6 @@ com.creditkarma.mobile
 com.creditkarma.mobile.international
 com.dashlane
 com.dashlane.dashlanephonefinal
-com.datacamp
 com.defi.wallet
 com.deribit
 com.dolap.android
@@ -4411,7 +4403,6 @@ https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/bigcommerce/id1418570678
 https://apps.apple.com/au/app/caltex-australia/id1314768594
 https://apps.apple.com/au/app/certsy/id1617796159
-https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
@@ -7533,7 +7524,6 @@ portalapi.eu.clearpay.co.uk
 portfolio.adobe.com
 portfolio.metamask.io
 portswigger.net
-practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prddsplunkhf.uzleuven.be
 premium-eu.truecaller.com
@@ -7580,7 +7570,6 @@ profile-view.truecaller.com
 profile4-asia-south1.truecaller.com
 profile4.truecaller.com
 profiler.firefox.com
-projects.datacamp.com
 projects.nextcloud.com
 prometheus.fr.cloud.gov
 promos.tvg.com
@@ -8294,8 +8283,6 @@ www.currencycloud.com
 www.cybersource.com
 www.dashlane.com
 www.data.gov
-www.datacamp.com
-www.datacamp.com/datalab
 www.datastax.com
 www.ddfcontent.com
 www.deezer.com
