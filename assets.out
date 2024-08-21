@@ -576,6 +576,8 @@
 *.nkstatic.com
 *.nnip.com
 *.nordvpn.com
+*.nr-data.net
+*.nr-ops.net
 *.nuinvest.com.br	
 *.numberfire.com
 *.octopus.com
@@ -4217,6 +4219,7 @@ https://accounts.cmp.optimizely.com/
 https://accounts.lastpass.com
 https://accounts.opera.com
 https://accounts.welcomesoftware.com/
+https://acorns.com/
 https://addons.mozilla.org/en-US/firefox/addon/cyberghost-vpn-free-proxy/
 https://addons.mozilla.org/en-US/firefox/addon/pinterest/
 https://addons.mozilla.org/en-US/firefox/addon/private-internet-access-ext/
@@ -4426,6 +4429,7 @@ https://apps.apple.com/gb/app/indeed-flex-job-search/id1013812731
 https://apps.apple.com/gb/app/moneybox-save-and-invest/id1049797239
 https://apps.apple.com/id/app/dana/id1437123008
 https://apps.apple.com/ie/app/doctolib-siilo/id1083002150
+https://apps.apple.com/ie/app/new-relic/id594038638
 https://apps.apple.com/in/app/coindcx-trade-bitcoin-crypto/id1517787269
 https://apps.apple.com/in/app/fave-cashback-for-upi/id1538911340
 https://apps.apple.com/in/app/fitburn/id6444105607
@@ -4448,6 +4452,7 @@ https://apps.apple.com/ua/app/raiffeisen-business-online/id1500897229
 https://apps.apple.com/ua/app/raiffeisen-online-ua/id1383858144?l=uk?l=uk
 https://apps.apple.com/ua/app/trustee-plus-crypto-neobank/id1634455978
 https://apps.apple.com/us/app/%E5%B1%A5%E6%AD%B4%E6%9B%B8%E4%BD%9C%E6%88%90-%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%89/id1484451230
+https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
 https://apps.apple.com/us/app/aex%E5%AE%89%E9%93%B6/id1542565144
 https://apps.apple.com/us/app/asana-mobile/id489969512
 https://apps.apple.com/us/app/auth0-guardian/id1093447833
@@ -4834,6 +4839,7 @@ https://dev.init.capital/contract-addresses/mantle
 https://dev.tutoring.classdojo.com
 https://devedge.t-mobile.com
 https://developer.mastercard.com
+https://developer.newrelic.com/
 https://developer.withings.com/dashboard/
 https://developer.zendesk.com/documentation/zendesk-sdks/#android
 https://developer.zendesk.com/documentation/zendesk-sdks/#ios
@@ -4864,6 +4870,7 @@ https://docs.keeper.io/sso-connect-guide/
 https://docs.mapbox.com/android/
 https://docs.mapbox.com/api/
 https://docs.mapbox.com/ios/maps/overview/
+https://docs.newrelic.com/
 https://docs.tempus-ex.com
 https://donate.mastercard.com
 https://download.bkexer.xin/app/download/android/app-release.apk
@@ -4996,6 +5003,7 @@ https://for-hackers.crispapp.nl/web-rn/
 https://form.asana.com
 https://formative.eassessment.monash.edu/
 https://forms.apps.monash.edu/
+https://forum.newrelic.com
 https://foundation.westernunion.com
 https://foxycart-demo.foxycart.com/cart
 https://fulcrom.finance
@@ -5473,6 +5481,7 @@ https://gitlab.com/gitlab-org/gitlab-vscode-extension
 https://gitlab.com/gitlab-org/opstrace/opstrace
 https://go.elementor.com/
 https://gpt.lime.bike
+https://graphql.acorns.com
 https://graphql.seek.com
 https://guest.usaa.com/
 https://guildofguardians.com
@@ -5553,6 +5562,7 @@ https://keepersecurity.com/vault
 https://kiwi.partner.viator.com
 https://knowledge.hubspot.com/connected-email/get-started-with-the-hubspot-sales-office-365-add-in
 https://knowledge.hubspot.com/inbox/set-up-a-customer-portal
+https://knowledge.newrelic.com/
 https://kucoin.com
 https://kw-bugcrowd-pub.bounty.kiteworks.dev/
 https://l.usaa.com/
@@ -5573,6 +5583,7 @@ https://lastpass.com
 https://lastpass.com/misc_download2.php
 https://lbu.eu-west-2.outscale.com
 https://learn.neogov.com
+https://learn.newrelic.com/
 https://legacy-blockexplorer.electroneum.com
 https://lego.yellowblocks.me/
 https://lensstudio.snapchat.com/api/
@@ -5989,6 +6000,8 @@ https://namestudio.com
 https://namestudioforsocial.com/
 https://near.foundation/
 https://net.geo.opera.com
+https://newrelic.com/
+https://newrelic.com/blog
 https://newsletter.thuisbezorgd.nl
 https://nice.wfmusaa.com
 https://nns.ic0.app/
@@ -6006,6 +6019,7 @@ https://odesli.co
 https://odesli.com
 https://offer.tidal.com/download
 https://onboard.neogov.com
+https://one.newrelic.com
 https://one.pinelabs.com/
 https://online.monash.edu/
 https://online.mustaqel.qa/qat/en/login
@@ -6091,6 +6105,7 @@ https://play.google.com/store/apps/details?id=coin98.crypto.finance.media&pli=1
 https://play.google.com/store/apps/details?id=com.AgainstGravity.RecRoom
 https://play.google.com/store/apps/details?id=com.aax.exchange
 https://play.google.com/store/apps/details?id=com.acn.uc&hl=en
+https://play.google.com/store/apps/details?id=com.acorns.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.aex.aexApp
 https://play.google.com/store/apps/details?id=com.afterpaymobile.uk
 https://play.google.com/store/apps/details?id=com.afterpaymobile.us&hl=en_US&gl=US
@@ -6148,6 +6163,7 @@ https://play.google.com/store/apps/details?id=com.maf.thatandroid
 https://play.google.com/store/apps/details?id=com.mapmyfitness.android2&hl=en&pli=1
 https://play.google.com/store/apps/details?id=com.moneyboxapp
 https://play.google.com/store/apps/details?id=com.moonpay
+https://play.google.com/store/apps/details?id=com.newrelic.rpm
 https://play.google.com/store/apps/details?id=com.nicehash.metallum&hl=en
 https://play.google.com/store/apps/details?id=com.nth.swisspost&hl=de_CH&gl=US
 https://play.google.com/store/apps/details?id=com.nu.production&hl=pt_BR&gl=US&pli=1
@@ -6386,6 +6402,7 @@ https://studentplacements.monash.edu
 https://suggestions.opera-api.com
 https://supplier.viator.com/
 https://support.lastpass.com
+https://support.newrelic.com/
 https://support.okta.com
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
@@ -6631,6 +6648,7 @@ https://www.foreignaffairs.com/
 https://www.gamemaker.io
 https://www.glassdoor.com/*
 https://www.goby.app/
+https://www.gohenry.com/
 https://www.governmentjobs.com
 https://www.hostgator.com.br/
 https://www.hostgator.com/
@@ -6731,6 +6749,7 @@ https://www.personio.de/kostenlos-testen/
 https://www.pexels.com/
 https://www.pinelabs.ae/
 https://www.pionex.com/
+https://www.pixpay.fr/
 https://www.planethoster.com
 https://www.pornhub.com/
 https://www.pornhubpremium.com/
