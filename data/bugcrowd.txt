@@ -1061,6 +1061,9 @@ https://github.com/freedomofpress/securedrop-debian-packaging
 https://staging.gearset.com/
 https://staging.gearset.com/
 https://hipaa.staging.gearset.com/
+https://www.hostgator.com.br/
+https://cliente.hostgator.com.br/
+https://www.cart.hostgator.com.br
 https://bugcrowd.hotdoc.com.au
 https://bugcrowd.hotdoc.com.au/api
 https://bugcrowd.hotdoc.com.au/dashboard
@@ -1264,6 +1267,8 @@ https://app.agency360.com
 https://securesignin.neogov.com
 https://securesignin.powerdms.com/
 https://hr.neogov.com
+https://www.domain.com
+http://www1.domain.com/
 https://one.newrelic.com
 https://play.google.com/store/apps/details?id=com.newrelic.rpm
 https://apps.apple.com/ie/app/new-relic/id594038638
@@ -1430,6 +1435,9 @@ https://apps.apple.com/us/app/electroneum/id1270774992
 https://github.com/electroneum/electroneum/
 https://legacy-blockexplorer.electroneum.com
 https://public.thesecurityteam.rocks/resources/app/android/etnapp-5.2.2-staging.apk
+https://1shoppingcart.com
+https://mcssl.com
+https://www.skroutz.gr/
 Skyscanner iOS App
 Skyscanner Android App
 gateway.skyscanner.net/*
@@ -1439,6 +1447,7 @@ partnerportal.skyscanner.net/*
 Skyscanner Android app
 Skyscanner iOS app
 https://smartmockups.com/
+https://snapnames.com/
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
 XG Firewall - Pre-auth RCE
 https://central.sophos.com
@@ -1451,6 +1460,14 @@ https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://connect.soundcloud.com
 http://artists.soundcloud.com/
 https://soundcloud.org
+Vehicle Head Units, TPMS sensors, remote keyless entry, and any other system that is present in a hardware product that you own or are authorized to test against
+https://www.driveuconnect.com
+https://www.driveuconnect.eu
+https://play.google.com/store/apps/details?id=com.acn.uc&hl=en
+https://play.google.com/store/apps/details?id=com.fcagroup.us.uconnect
+https://itunes.apple.com/us/app/uconnect/id1229236724?mt=8
+https://itunes.apple.com/pl/app/panda-uconnect/id1117321678?mt=8
+https://itunes.apple.com/gb/app/uconnect-live/id881830261?mt=8
 Self Register Account on T-Mobile Microsoft Entra ID
 Cellular Network Auth Bypass via Web/Mobile App
 T&P Servers
@@ -1533,6 +1550,21 @@ https://opendata.test-socrata.com
 https://opendata.test-socrata.com/admin/gateway
 https://mintmobile.com
 https://ultramobile.com
+epptool-ctld.verisign-grs.com (EPP service; DNS related)
+a.root-servers.net (DNS service; DNS related)
+j.root-servers.net (DNS service; DNS related)
+https://www.verisign.com
+https://youcouldbe.com
+https://blog.verisign.com
+https://namestudioforsocial.com/
+https://namestudio.com
+https://www.verisign.com
+https://www.web.com
+http://www.register.com
+https://www.networksolutions.com
+https://uk.web.com
+https://www.bluehost.com/
+https://www.hostgator.com/
 Researcher owned WHMCS Instance
 https://api.woo.org/
 https://x.woo.org/
@@ -1586,12 +1618,6 @@ https://www.expressvpn.com
 www.expressvpn.com
 https://financialforce.com
 Any FIS asset is in scope
-cart.hostgator.com.br
-cliente.hostgator.com.br/
-hostgator.com.br/
-https://cliente.hostgator.com.br/
-https://www.cart.hostgator.com.br
-https://www.hostgator.com.br/
  https://api.ibops.net/ad-management
 Chrome Extension
 Ibotta App Data & Memory
@@ -1848,9 +1874,6 @@ Orbi
 Orbi Android App 
 Orbi iOS App 
 https://api.netgear.com
-http://www1.domain.com/
-https://www.domain.com
-www.domain.com
 *nu.com.co
 *nu.com.mx
 *nubank.com.br
@@ -1998,12 +2021,6 @@ https://sendbird.com
 https://sendbird.com/docs
 https://ws-{app-id}.calls.sendbird.com
 https://ws-{app-id}.sendbird.com
-1shoppingcart.com
-https://1shoppingcart.com
-https://mcssl.com
-mcssl.com
-https://www.skroutz.gr/
-https://snapnames.com/
 SpaceX and Starlink assets (target information and rewards detailed above on the brief)
 Square Point of Sale Mobile Application for Android
 Square Point of Sale Mobile Application for iOS
@@ -2014,16 +2031,6 @@ https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
 https://www.weebly.com/
 https://manage.statuspage.io
 manage.statuspage.io
-Vehicle Head Units, TPMS sensors, remote keyless entry, and any other system that is present in a hardware product that you own or are authorized to test against
-https://itunes.apple.com/gb/app/uconnect-live/id881830261?mt=8
-https://itunes.apple.com/pl/app/panda-uconnect/id1117321678?mt=8
-https://itunes.apple.com/us/app/uconnect/id1229236724?mt=8
-https://play.google.com/store/apps/details?id=com.acn.uc&hl=en
-https://play.google.com/store/apps/details?id=com.fcagroup.us.uconnect
-https://www.driveuconnect.com
-https://www.driveuconnect.eu
-www.driveuconnect.com
-www.driveuconnect.eu
 https://marketplace.atlassian.com/apps/1210766/teamcity-integration-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1210934/awesome-graphs-for-bitbucket?hosting=cloud
 https://marketplace.atlassian.com/apps/1210934/awesome-graphs-for-bitbucket?hosting=datacenter
@@ -2303,17 +2310,6 @@ vlapi.usaa.com
 webmail.usaa.com
 ws.usaa.com
 wsmbr.usaa.com
-a.root-servers.net (DNS service; DNS related)
-blog.verisign.com (Website; non-DNS related)
-epptool-ctld.verisign-grs.com (EPP service; DNS related)
-https://blog.verisign.com
-https://namestudio.com
-https://namestudioforsocial.com/
-https://www.verisign.com
-https://www.verisign.com
-https://youcouldbe.com
-j.root-servers.net (DNS service; DNS related)
-www.verisign.com (Website; non-DNS related)
 Android Viator Tours & Activities App
 https://apps.apple.com/us/app/viator-tours-activities/id434832826
 https://help.supplier.viator.com/en
@@ -2338,16 +2334,6 @@ Vox Cinemas iOS
 https://uae.voxcinemas.com/
 https://www.magicplanetmena.com/
 https://www.skidxb.com/
- www.register.com
- www.web.com
-http://www.register.com
-https://uk.web.com
-https://www.bluehost.com/
-https://www.hostgator.com/
-https://www.networksolutions.com
-https://www.web.com
-uk.web.com
-www.networksolutions.com
 Any host or verified to be owned by Western Union (domains/IP space/etc.)
 Western Union Android app (link below)
 Western Union iOS app (link below)

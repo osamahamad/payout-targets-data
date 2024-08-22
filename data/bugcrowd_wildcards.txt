@@ -108,6 +108,7 @@ casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 *.neat.hk
 *.neat.wtf
 *.rec.net/*
+*.mcssl.com
 *.skyscanner.net
 *.sophos.com
 *.cyberoam.com
@@ -124,6 +125,8 @@ api-*.soundcloud.com
 *.teslamotors.com
 *.solarcity.com
 *.teslainsuranceservices.com
+*.gtld-servers.net (DNS service; DNS related)
+*.verisign-grs.com (DNS service; DNS related)
 *.emakina.at
 *.emakina.ch
 *.emakina.com
@@ -183,7 +186,6 @@ prod-*.nubank.com.br
 *.seekpass.co
 *.skinfra.xyz
 *.sol-data.com
-*.mcssl.com
 *.square.com
 *.squareup.com
 *.statuspage.io
@@ -209,12 +211,6 @@ prod-*.nubank.com.br
  *.sip.*.twilio.com
  Twilio CDNs (static*.twilio.com)
 *.api.ua.com
-*.gtld-servers.net (DNS service; DNS related)
-*.namestudio.com
-*.namestudioforsocial.com
-*.verisign-grs.com (DNS service; DNS related)
-*.verisign.com
-*.youcouldbe.com
 *.viator.com
 *.viatorinc.com
 *.viator.com
