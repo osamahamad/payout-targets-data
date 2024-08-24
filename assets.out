@@ -748,6 +748,7 @@
 *.smartcontract.com
 *.snooguts.net
 *.sol-data.com
+*.solarcity.com
 *.sonyentertainmentnetwork.com
 *.sophos.com
 *.soundcloud.org
@@ -790,6 +791,11 @@
 *.tdl.sh
 *.teams.cloudflare.com
 *.telenor.se
+*.tesla.cn
+*.tesla.com
+*.tesla.services
+*.teslainsuranceservices.com
+*.teslamotors.com
 *.testdrive.workfront.com
 *.testnet.immutable.com
 *.threatdown.com
@@ -1142,6 +1148,16 @@
 9n236hqqtvnh
 9wzdncrfj2g6
 9wzdncrfj3mb
+<Your own 1Password Account subdomain --> https://<your account domain>.1password.com/
+<Your own 1Password account> —> Latest stable, beta, or nightly Android Build
+<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension  (Chrome, Brave, Firefox, Edge, and Safari)
+<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI) 
+<Your own 1Password account> —> Latest stable, beta, or nightly Linux Build
+<Your own 1Password account> —> Latest stable, beta, or nightly MacOS Build
+<Your own 1Password account> —> Latest stable, beta, or nightly Windows Build
+<Your own 1Password account> —> Latest stable, beta, or nightly iOS Build
+<Your own 1Password account> —> https://events.1password.com/  (Event Reporting API is available on 1Password Business Accounts Only)
+<Your own 1Pasword Personal Account> --> https://my.1password.com/
 <locale>.trip.com
 AI Gateway
 AMP Real URL
@@ -1245,6 +1261,7 @@ Any Worldpay asset is in scope
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any host / web property verified to be owned by Segment (domains/IP space/etc.)	
 Any host or verified to be owned by Western Union (domains/IP space/etc.)
+Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Any host/web property verified to be owned by Twilio
 Any host/web property/mobile app verified to be owned by Indeed
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
@@ -2374,6 +2391,8 @@ TechCrunch
 Techcrunch
 Ternoa Indexer
 Ternoa Mainnet:
+Tesla Energy hardware you own
+Tesla vehicle hardware that you own
 Test environments
 Testnet Bridge Enclave Address: Avalanche
 Testnet Bridge Enclave address: Bitcoin
@@ -4468,6 +4487,7 @@ https://apps.apple.com/us/app/syncup-tracker/id1526380335
 https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
 https://apps.apple.com/us/app/t-mobile/id561625752
 https://apps.apple.com/us/app/ternoa-wallet/id1562180877#?platform=iphone 
+https://apps.apple.com/us/app/tesla/id582007913
 https://apps.apple.com/us/app/tidex/id1632072370
 https://apps.apple.com/us/app/under-armour/id1092704571
 https://apps.apple.com/us/app/usaa-mobile/id312325565
@@ -6157,6 +6177,7 @@ https://play.google.com/store/apps/details?id=com.teamviewer.host.market&hl=en&g
 https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.ternoa.wallet.prod
+https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.tidex.app.exchange
 https://play.google.com/store/apps/details?id=com.tmobile.drive
 https://play.google.com/store/apps/details?id=com.tmobile.kids
@@ -6334,6 +6355,7 @@ https://staging.coda.io/*
 https://staging.gearset.com/
 https://staging.luno.com/
 https://standalone2.fuib.com
+https://start.1password.com
 https://start.atlassian.com
 https://static-images.ifood.com.br
 https://static.demarches-simplifiees.fr

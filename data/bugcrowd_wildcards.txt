@@ -36,9 +36,6 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.meraki.com
 *.ikarem.io
 *.network-auth.com
-*.meraki.com
-*.ikarem.io
-*.network-auth.com
 *.sandbox.directly.com/
 *.dropbox.com    
 *.hellosign.com
@@ -122,8 +119,12 @@ casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 *.s-cloud.net
 *.services.repostnetwork.com
 api-*.soundcloud.com
-*.gtld-servers.net (DNS service; DNS related)
-*.verisign-grs.com (DNS service; DNS related)
+*.tesla.cn
+*.tesla.services
+*.tesla.com
+*.teslamotors.com
+*.solarcity.com
+*.teslainsuranceservices.com
 *.gtld-servers.net (DNS service; DNS related)
 *.verisign-grs.com (DNS service; DNS related)
 *.emakina.at
