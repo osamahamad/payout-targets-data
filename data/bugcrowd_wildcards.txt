@@ -33,6 +33,9 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.canva.cn
 *.canva.com
 *.canva.tech
+*.meraki.com
+*.ikarem.io
+*.network-auth.com
 *.sandbox.directly.com/
 *.dropbox.com    
 *.hellosign.com
@@ -122,12 +125,8 @@ api-*.soundcloud.com
 *.teslamotors.com
 *.solarcity.com
 *.teslainsuranceservices.com
-*.tesla.cn
-*.tesla.services
-*.tesla.com
-*.teslamotors.com
-*.solarcity.com
-*.teslainsuranceservices.com
+*.gtld-servers.net (DNS service; DNS related)
+*.verisign-grs.com (DNS service; DNS related)
 *.emakina.at
 *.emakina.ch
 *.emakina.com
