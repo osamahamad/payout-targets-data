@@ -748,7 +748,6 @@
 *.smartcontract.com
 *.snooguts.net
 *.sol-data.com
-*.solarcity.com
 *.sonyentertainmentnetwork.com
 *.sophos.com
 *.soundcloud.org
@@ -791,11 +790,6 @@
 *.tdl.sh
 *.teams.cloudflare.com
 *.telenor.se
-*.tesla.cn
-*.tesla.com
-*.tesla.services
-*.teslainsuranceservices.com
-*.teslamotors.com
 *.testdrive.workfront.com
 *.testnet.immutable.com
 *.threatdown.com
@@ -828,7 +822,6 @@
 *.tstaging.com
 *.tstaging.tools
 *.tt.omtrdc.net
-*.tube8.com
 *.tubemogul.com
 *.tumblr.com
 *.tweakblogs.net
@@ -1261,7 +1254,6 @@ Any Worldpay asset is in scope
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any host / web property verified to be owned by Segment (domains/IP space/etc.)	
 Any host or verified to be owned by Western Union (domains/IP space/etc.)
-Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Any host/web property verified to be owned by Twilio
 Any host/web property/mobile app verified to be owned by Indeed
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
@@ -2391,8 +2383,6 @@ TechCrunch
 Techcrunch
 Ternoa Indexer
 Ternoa Mainnet:
-Tesla Energy hardware you own
-Tesla vehicle hardware that you own
 Test environments
 Testnet Bridge Enclave Address: Avalanche
 Testnet Bridge Enclave address: Bitcoin
@@ -4298,7 +4288,6 @@ https://api.optimizely.com/
 https://api.orderly.org/
 https://api.paymaya.com/
 https://api.planethoster.net
-https://api.pornhub.com/
 https://api.probit.com/api/
 https://api.production.cde.tamg.cloud
 https://api.rarible.com/v0.1/doc
@@ -4487,7 +4476,6 @@ https://apps.apple.com/us/app/syncup-tracker/id1526380335
 https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
 https://apps.apple.com/us/app/t-mobile/id561625752
 https://apps.apple.com/us/app/ternoa-wallet/id1562180877#?platform=iphone 
-https://apps.apple.com/us/app/tesla/id582007913
 https://apps.apple.com/us/app/tidex/id1632072370
 https://apps.apple.com/us/app/under-armour/id1092704571
 https://apps.apple.com/us/app/usaa-mobile/id312325565
@@ -5937,7 +5925,6 @@ https://mobile-production.content-square.net/
 https://mobile.france-identite.gouv.fr
 https://mobile.monash/ 
 https://mobile.ooredoo.qa
-https://mobile.pornhub.com/
 https://mobile.usaa.com
 https://mobileapi.afterpay.com
 https://mobileapi.clearpay.com
@@ -6177,7 +6164,6 @@ https://play.google.com/store/apps/details?id=com.teamviewer.host.market&hl=en&g
 https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.ternoa.wallet.prod
-https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.tidex.app.exchange
 https://play.google.com/store/apps/details?id=com.tmobile.drive
 https://play.google.com/store/apps/details?id=com.tmobile.kids
@@ -6249,7 +6235,6 @@ https://polygonscan.com/address/0xA8EF6FEa013034E62E2C4A9Ec1CDb059fE23Af33
 https://polygonscan.com/address/0xB0aABBA4B2783A72C52956CDEF62d438ecA2d7a1
 https://polygonscan.com/address/0xD3a69BfaC779AE0D97ae7c4f1Bb77d2Be6C2B943
 https://polygonscan.com/address/0xE0cc76334405EE8b39213E620587d815967af39C
-https://pornhub.mainhub.com
 https://portal-staging.pdq.tools/
 https://portal.afterpay.com
 https://portal.australiansuper.com/
@@ -6721,21 +6706,16 @@ https://www.opera.com/
 https://www.opera.com/computer/thanks?ni=eapgx&os=windows
 https://www.opera.com/computer/thanks?ni=stable&os=windows
 https://www.originenergy.com.au/
-https://www.pexels.com/
 https://www.pinelabs.ae/
 https://www.pionex.com/
 https://www.pixpay.fr/
 https://www.planethoster.com
-https://www.pornhub.com/
-https://www.pornhubpremium.com/
 https://www.ppr.kiwai-enr.fr/
 https://www.privateinternetaccess.com/
 https://www.privateinternetaccess.com/download/linux-vpn
 https://www.privateinternetaccess.com/download/mac-vpn
 https://www.privateinternetaccess.com/download/windows-vpn
 https://www.probit.com
-https://www.redtube.com/
-https://www.redtubepremium.com/
 https://www.remove.bg
 https://www.routerprotocol.com/
 https://www.sharerewards.com/
@@ -6758,7 +6738,6 @@ https://www.theperfumeshop.com/blog/
 https://www.theperfumeshop.com/ie/blog/
 https://www.thousandeyes.com/
 https://www.thuisbezorgd.nl/aanmelden
-https://www.thumbzilla.com/
 https://www.toobit.com/
 https://www.toursgds.com/
 https://www.toursgds.com/SupplierService?wsdl
@@ -6820,8 +6799,6 @@ https://www.xbox.com/en-us/games/store/rec-room/9pgpqk0xthrz
 https://www.xfinity.com/apps
 https://www.xt.com
 https://www.xvideos.net/app/
-https://www.youporn.com/
-https://www.youpornpremium.com/
 https://www.zabbix.com/download_sources
 https://www.zaproxy.org
 https://www.zetachain.com/
