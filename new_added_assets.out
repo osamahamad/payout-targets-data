@@ -1,15 +1,42 @@
-*.tube8.com
-https://api.pornhub.com/
-https://bugcrowd.hotdoc.com.au
-https://bugcrowd.hotdoc.com.au/api
-https://bugcrowd.hotdoc.com.au/dashboard
-https://mobile.pornhub.com/
-https://pornhub.mainhub.com
-https://www.pexels.com/
-https://www.pornhub.com/
-https://www.pornhubpremium.com/
-https://www.redtube.com/
-https://www.redtubepremium.com/
-https://www.thumbzilla.com/
-https://www.youporn.com/
-https://www.youpornpremium.com/
+*.docsend.com
+*.dropbox.com    
+*.dropboxer.net
+*.dropboxforum.com
+*.gtld-servers.net (DNS service; DNS related)
+*.hellofax.com
+*.hellosign.com
+*.helloworks.com
+*.ikarem.io
+*.meraki.com
+*.network-auth.com
+*.verisign-grs.com (DNS service; DNS related)
+Cisco Meraki Dashboard Mobile Application (iOS and Android)
+Cisco Meraki MR Access Points
+Cisco Meraki MS Switches
+Cisco Meraki MV Security Cameras
+Cisco Meraki MX Security Appliances
+Cisco Meraki Systems Manager
+Cisco Meraki Virtual Security Appliances
+Cisco Meraki Z Series (Z1,Z3(C))
+a.root-servers.net (DNS service; DNS related)
+api.dropboxapi.com
+apps.meraki.io
+epptool-ctld.verisign-grs.com (EPP service; DNS related)
+https://apps.apple.com/us/app/dropbox-emm/id1080074001
+https://apps.apple.com/us/app/dropbox-secure-cloud-storage/id327630330
+https://apps.apple.com/us/app/paper-by-dropbox/id1126623662
+https://blog.verisign.com
+https://dropbox.com/dash/download
+https://meraki.cisco.com
+https://namestudio.com
+https://namestudioforsocial.com/
+https://play.google.com/store/apps/details?id=com.dropbox.android&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.dropbox.app.hellosign&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.dropbox.paper&hl=en_US&gl=US
+https://www.dash.ai/
+https://www.dropbox.com/capture
+https://www.dropbox.com/desktop
+https://www.dropbox.com/paper
+https://www.verisign.com
+https://youcouldbe.com
+j.root-servers.net (DNS service; DNS related)
