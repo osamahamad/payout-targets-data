@@ -232,10 +232,14 @@
 *.dm.gg
 *.dmcdn.net
 *.dns.eu
+*.docsend.com
 *.doctolib.(fr|de|it|com|net)
 *.download.originenergy.com.au
 *.dpgmedia.be
 *.dpgmedia.nl
+*.dropbox.com    
+*.dropboxer.net
+*.dropboxforum.com
 *.dropmix.com
 *.dyson.com
 *.earlywarning.com
@@ -294,8 +298,6 @@
 *.fortnite.com
 *.found.io
 *.fromspotify.com
-*.gamma.be/*
-*.gamma.nl/*
 *.gethypr.com
 *.getmeetio.com
 *.github.net
@@ -336,12 +338,16 @@
 *.gsam.com
 *.gspublishing.com
 *.gsselect.com
+*.gtld-servers.net (DNS service; DNS related)
 *.guilded.gg
 *.guildofguardians.com
 *.hackerone-ext-content.com
 *.hackerone-user-content.com/
 *.harmonixmusic.com
 *.harmonyremote.com
+*.hellofax.com
+*.hellosign.com
+*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.com
@@ -373,6 +379,7 @@
 *.hyperpure.com
 *.hyperwallet.com
 *.hypr.com
+*.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
 *.imperva.com
@@ -392,9 +399,6 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
-*.intergamma-test.nl
-*.intergamma.cloud
-*.intergamma.nl/*
 *.irccloud-cdn.com
 *.irccloud.com
 *.itcapital.io
@@ -411,7 +415,6 @@
 *.just-eat.dk
 *.just-eat.fr
 *.just-eat.no
-*.karwei.nl/*
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
 *.kes.kindredext.net
@@ -484,6 +487,7 @@
 *.megatix.be
 *.melonapp.com
 *.memorable.io
+*.meraki.com
 *.metamask.io
 *.mevo.com
 *.mgmt.fndlsb.net
@@ -522,6 +526,7 @@
 *.neat.wtf
 *.neatcommerce.com
 *.neattest.com
+*.network-auth.com
 *.new.livestream.com
 *.newegg.ca
 *.newegg.com
@@ -541,7 +546,6 @@
 *.nr-ops.net
 *.nuinvest.com.br	
 *.numberfire.com
-*.octopus.com
 *.oda.com
 *.odcdn.com.au
 *.okcoin.com
@@ -641,7 +645,6 @@
 *.registry.eu
 *.rentalcars.com
 *.reposify.com
-*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -803,7 +806,6 @@
 *.tstaging.com
 *.tstaging.tools
 *.tt.omtrdc.net
-*.tube8.com
 *.tubemogul.com
 *.tumblr.com
 *.tweakblogs.net
@@ -833,6 +835,7 @@
 *.venmo.com
 *.vennhypotheken.nl
 *.veriff.com
+*.verisign-grs.com (DNS service; DNS related)
 *.vertexprotocol.com
 *.vfsevisa.com
 *.vfsglobal.(com|co.uk|ca)
@@ -856,9 +859,6 @@
 *.wavecell.com
 *.wealthsimple.com
 *.wenewmoments.com
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
 *.westernunion.*
 *.white.market
 *.whois.eu

@@ -1,55 +1,42 @@
-*.kinepolis.be
-*.kinepolis.ch
-*.kinepolis.com
-*.kinepolis.fr
-*.kinepolis.lu
-*.kinepolis.nl
-*.klubcinema.fr
-*.landmarkcinemas.com
-*.megatix.be
-*.mjrtheatres.com
-522089287
-booking.mjrtheatres.com
-business.kinepolis.be
-business.kinepolis.lu
-business.kinepolis.nl
-com.inthepocket.kinepolis
-extras-acc.landmarkcinemas.com
-extras.landmarkcinemas.com
-https://movieclub-int.kinepolis.com
-https://movienow-int.kinepolis.be/admin
-https://shop-acc.kinepolis.be/
-identityserver-acc.landmarkcinemas.com
-identityserver.landmarkcinemas.com
-kinepolis-studio.be
-kinepolis.megatix.be
-kinepolis/id368204284
-luxfilmfestfilms.megatix.be
-luxfilmfestproducts.megatix.be
-luxfilmfesttickets.megatix.be
-movieapi.kinepolis.megatix.be
-nz.co.vista.android.movie.mjrtheatres
-shop.kinepolis.be
-shop.kinepolis.es
-shop.kinepolis.fr
-shop.kinepolis.lu
-stage.landmarkcinemas.com
-tickets.kinepolis.be
-tickets.kinepolis.ch
-tickets.kinepolis.es
-tickets.kinepolis.fr
-tickets.kinepolis.lu
-tickets.kinepolis.nl
-userprofile-acc.landmarkcinemas.com
-userprofile-ui.landmarkcinemas.com
-www.kinepolis.be
-www.kinepolis.biz
-www.kinepolis.ch
-www.kinepolis.com
-www.kinepolis.es
-www.kinepolis.fr
-www.kinepolis.lu
-www.kinepolis.nl
-www.kinepolisempresas.com/
-www.landmarkcinemas.com
-www.mjrtheatres.com
+*.docsend.com
+*.dropbox.com    
+*.dropboxer.net
+*.dropboxforum.com
+*.gtld-servers.net (DNS service; DNS related)
+*.hellofax.com
+*.hellosign.com
+*.helloworks.com
+*.ikarem.io
+*.meraki.com
+*.network-auth.com
+*.verisign-grs.com (DNS service; DNS related)
+Cisco Meraki Dashboard Mobile Application (iOS and Android)
+Cisco Meraki MR Access Points
+Cisco Meraki MS Switches
+Cisco Meraki MV Security Cameras
+Cisco Meraki MX Security Appliances
+Cisco Meraki Systems Manager
+Cisco Meraki Virtual Security Appliances
+Cisco Meraki Z Series (Z1,Z3(C))
+a.root-servers.net (DNS service; DNS related)
+api.dropboxapi.com
+apps.meraki.io
+epptool-ctld.verisign-grs.com (EPP service; DNS related)
+https://apps.apple.com/us/app/dropbox-emm/id1080074001
+https://apps.apple.com/us/app/dropbox-secure-cloud-storage/id327630330
+https://apps.apple.com/us/app/paper-by-dropbox/id1126623662
+https://blog.verisign.com
+https://dropbox.com/dash/download
+https://meraki.cisco.com
+https://namestudio.com
+https://namestudioforsocial.com/
+https://play.google.com/store/apps/details?id=com.dropbox.android&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.dropbox.app.hellosign&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.dropbox.paper&hl=en_US&gl=US
+https://www.dash.ai/
+https://www.dropbox.com/capture
+https://www.dropbox.com/desktop
+https://www.dropbox.com/paper
+https://www.verisign.com
+https://youcouldbe.com
+j.root-servers.net (DNS service; DNS related)
