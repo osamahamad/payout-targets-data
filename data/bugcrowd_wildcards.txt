@@ -21,6 +21,7 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.cyberghostvpn.com
 *.dell.com/*
 *.delltechnologies.com/* 
+*.tube8.com
 *.trafficjunky.com
 *.adultforce.com
 *.backblazeb2.com
@@ -35,17 +36,7 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.meraki.com
 *.ikarem.io
 *.network-auth.com
-*.meraki.com
-*.ikarem.io
-*.network-auth.com
 *.sandbox.directly.com/
-*.dropbox.com    
-*.hellosign.com
-*.helloworks.com
-*.hellofax.com
-*.dropboxforum.com
-*.docsend.com
-*.dropboxer.net
 *.dropbox.com    
 *.hellosign.com
 *.helloworks.com
@@ -89,6 +80,7 @@ casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 *.bbp-mettle.co.uk
 *.nr-data.net
 *.nr-ops.net
+*.octopus.com
 *.opera.software
 *.osp.opera.software
 *.opera.technology
@@ -137,8 +129,6 @@ api-*.soundcloud.com
 *.teslamotors.com
 *.solarcity.com
 *.teslainsuranceservices.com
-*.gtld-servers.net (DNS service; DNS related)
-*.verisign-grs.com (DNS service; DNS related)
 *.gtld-servers.net (DNS service; DNS related)
 *.verisign-grs.com (DNS service; DNS related)
 *.emakina.at
