@@ -62,6 +62,10 @@ casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 *.immutable.com
 *.imtbl.com
 *.testnet.immutable.com
+*.indeed.com
+*.indeedflex.com
+*.indeed.tech
+*.indeed.net
 *.intercomassets.com / *.intercomcdn.com
 *.lieferando.at
 *.yourdelivery.de
@@ -163,10 +167,6 @@ open redirect at *.epam.com
 *.cloudvector.com/
 *.imperva.com
 *.incapsula.com
-*.indeed.com
-*.indeed.net
-*.indeed.tech
-*.indeedflex.com
 *.jora.com
 *.jora.xyz
 *.lululemon.com
