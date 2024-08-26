@@ -255,6 +255,7 @@
 *.dex-trade.com
 *.dh-commerce.com 
 *.dibz.co.uk
+*.digitalocean.com
 *.dm.gg
 *.dmcdn.net
 *.dns.eu
@@ -504,6 +505,7 @@
 *.mattermost.com
 *.mb-cosmos.com
 *.mbamupdates.com
+*.mcssl.com
 *.mdvmm.xyz
 *.mediatonic.co.uk
 *.meebits.app
@@ -829,7 +831,6 @@
 *.tstaging.com
 *.tstaging.tools
 *.tt.omtrdc.net
-*.tube8.com
 *.tubemogul.com
 *.tumblr.com
 *.tweakblogs.net
@@ -1012,6 +1013,7 @@
 1641486558
 167.187.0.0/16
 1671793296
+169.254.169.254
 185.26.180.0/22
 188.118.8.0/25
 192.251.123.0/24
@@ -2789,6 +2791,7 @@ api.deriv.com
 api.dex-trade.com
 api.digital.delen.be
 api.digital.delen.lu
+api.digitalocean.com
 api.direct.playstation.com
 api.doppler.com
 api.dropboxapi.com
@@ -3276,6 +3279,7 @@ cloud.acrobat.com
 cloud.coinbase.com
 cloud.connect.justeattakeaway.com
 cloud.connect.takeaway.com
+cloud.digitalocean.com
 cloud.elastic.co
 cloud.gov
 cloud.malwarebytes.com
@@ -3679,6 +3683,7 @@ cruises.priceline.com
 cryptology.com
 cs.money
 csp-pci.prod.codebig2.net
+css-tricks.com
 ct.deriv.com
 ct.ninjakiwi.com
 ctf.hacker101.com
@@ -3773,6 +3778,10 @@ dex-trade.com
 diagrams.fr.cloud.gov
 dic.pixiv.net
 digili.s-cloud.fi
+digitaloceanmirrors.com
+digitaloceanpartners.com
+digitaloceanstatus.com
+digitaloceantest.com
 digitalspecs.portofantwerpbruges.com
 direct.playstation.com
 distribution-xml.booking.com
@@ -3780,6 +3789,7 @@ dl.clario.co
 dmxleo.com
 dns1.uzleuven.be
 dns2.uzleuven.be
+do.co
 doaction.org
 docs.chainstack.com
 docs.databricks.com
@@ -3795,6 +3805,7 @@ docs.sentiance.com
 docs.ton.org
 documentcloud.adobe.com
 documents.adobe.com
+dointernal.com
 donate.mastercard.com
 donations.livestream.com
 doppler
@@ -4012,6 +4023,7 @@ h1-your-domain.zendesk.com
 hack1.mtrx.ovh
 hackathon-photos-us-east-2.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
+hackathon-tracker.digitalocean.com
 hackerone-ext-content.com
 hackerone-m1rtuq8orz.hbstaging.website
 hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com
@@ -4019,6 +4031,7 @@ hackerone-user-content.com
 hackerone.com
 hackerone.live
 hackers_chosendomain.larksuite.com
+hacktoberfest.com
 happy.tools
 harmonixmusic.com
 hatching.io
@@ -4148,6 +4161,7 @@ http://www.whynot.com/
 http://www1.domain.com/
 https://*-prod.arlo.com
 https://0-2744452194.s3.nbg01.de.dracoon.io
+https://1shoppingcart.com
 https://8x8.vc/xmpp-websocket
 https://STORE-YOURSTOREHash.mybigcommerce.com/
 https://a.simplemdm.com/
@@ -4262,7 +4276,6 @@ https://api.optimizely.com/
 https://api.orderly.org/
 https://api.paymaya.com/
 https://api.planethoster.net
-https://api.pornhub.com/
 https://api.probit.com/api/
 https://api.production.cde.tamg.cloud
 https://api.rarible.com/v0.1/doc
@@ -4600,9 +4613,6 @@ https://bugcrowd-pam-###.at.oktapreview.com
 https://bugcrowd-pam-###.oktapreview.com
 https://bugcrowd-pam-###.workflows.oktapreview.com
 https://bugcrowd.com/programs
-https://bugcrowd.hotdoc.com.au
-https://bugcrowd.hotdoc.com.au/api
-https://bugcrowd.hotdoc.com.au/dashboard
 https://bugs.opera.com/
 https://build.twilio.com/s/
 https://bullish.com/
@@ -5149,6 +5159,11 @@ https://github.com/dfinity/motoko-base
 https://github.com/dfinity/nns-dapp
 https://github.com/dfinity/quill
 https://github.com/dfinity/sdk
+https://github.com/digitalocean/do-agent
+https://github.com/digitalocean/do-markdownit
+https://github.com/digitalocean/doctl
+https://github.com/digitalocean/droplet-agent
+https://github.com/digitalocean/terraform-provider-digitalocean
 https://github.com/discourse/discourse
 https://github.com/django
 https://github.com/electroneum/electroneum-sc/
@@ -5878,6 +5893,7 @@ https://matrix.e.tchap.gouv.fr
 https://matrix.i.tchap.gouv.fr
 https://mc.sendgrid.com/
 https://mcs.arlo.com
+https://mcssl.com
 https://mediaflows.cloudinary.com/
 https://menulog.co.nz
 https://menulog.com.au
@@ -5896,7 +5912,6 @@ https://mobile-production.content-square.net/
 https://mobile.france-identite.gouv.fr
 https://mobile.monash/ 
 https://mobile.ooredoo.qa
-https://mobile.pornhub.com/
 https://mobile.usaa.com
 https://mobileapi.afterpay.com
 https://mobileapi.clearpay.com
@@ -6208,7 +6223,6 @@ https://polygonscan.com/address/0xA8EF6FEa013034E62E2C4A9Ec1CDb059fE23Af33
 https://polygonscan.com/address/0xB0aABBA4B2783A72C52956CDEF62d438ecA2d7a1
 https://polygonscan.com/address/0xD3a69BfaC779AE0D97ae7c4f1Bb77d2Be6C2B943
 https://polygonscan.com/address/0xE0cc76334405EE8b39213E620587d815967af39C
-https://pornhub.mainhub.com
 https://portal-staging.pdq.tools/
 https://portal.afterpay.com
 https://portal.australiansuper.com/
@@ -6297,6 +6311,7 @@ https://skipthedishes.com
 https://sks-ch-gva-2.exo.io
 https://slex.io/
 https://smartmockups.com/
+https://snapnames.com/
 https://song.link
 https://songlink.io
 https://sos-ch-gva-2.exo.io/
@@ -6683,16 +6698,12 @@ https://www.pinelabs.ae/
 https://www.pionex.com/
 https://www.pixpay.fr/
 https://www.planethoster.com
-https://www.pornhub.com/
-https://www.pornhubpremium.com/
 https://www.ppr.kiwai-enr.fr/
 https://www.privateinternetaccess.com/
 https://www.privateinternetaccess.com/download/linux-vpn
 https://www.privateinternetaccess.com/download/mac-vpn
 https://www.privateinternetaccess.com/download/windows-vpn
 https://www.probit.com
-https://www.redtube.com/
-https://www.redtubepremium.com/
 https://www.remove.bg
 https://www.routerprotocol.com/
 https://www.sharerewards.com/
@@ -6715,7 +6726,6 @@ https://www.theperfumeshop.com/blog/
 https://www.theperfumeshop.com/ie/blog/
 https://www.thousandeyes.com/
 https://www.thuisbezorgd.nl/aanmelden
-https://www.thumbzilla.com/
 https://www.toobit.com/
 https://www.toursgds.com/
 https://www.toursgds.com/SupplierService?wsdl
@@ -6777,8 +6787,6 @@ https://www.xbox.com/en-us/games/store/rec-room/9pgpqk0xthrz
 https://www.xfinity.com/apps
 https://www.xt.com
 https://www.xvideos.net/app/
-https://www.youporn.com/
-https://www.youpornpremium.com/
 https://www.zabbix.com/download_sources
 https://www.zaproxy.org
 https://www.zetachain.com/
@@ -7067,6 +7075,7 @@ marketing.fareharbor.com
 marketo.com
 marketplace.auth0.com (Auth0 Marketplace)
 marketplace.databricks.com
+marketplace.digitalocean.com
 marketplace.fedramp.gov
 marketplace.gamemaker.io
 marketplace.magento.com
@@ -7933,6 +7942,7 @@ twinmotion.unrealengine.com
 u.magento.com
 uacademy.ugurus.com
 uapi-front.etoro.com
+uatdo.com
 uber.com
 uc.8x8pilot.com
 ugurus.com
@@ -8184,6 +8194,7 @@ www.delen.bank
 www.delen.be/en
 www.demorgen.be
 www.demorgen.be/abonnementen
+www.digitalocean.com
 www.directverify.in
 www.docswallet.com
 www.doctolib.(fr|de|it)
