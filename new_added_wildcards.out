@@ -1,2 +1,22 @@
-*.octopus.com
-*.tube8.com
+*.docsend.com
+*.dropbox.com    
+*.dropboxer.net
+*.dropboxforum.com
+*.gamma.be/*
+*.gamma.nl/*
+*.gtld-servers.net (DNS service; DNS related)
+*.hellofax.com
+*.hellosign.com
+*.helloworks.com
+*.ikarem.io
+*.intergamma-test.nl
+*.intergamma.cloud
+*.intergamma.nl/*
+*.karwei.nl/*
+*.meraki.com
+*.network-auth.com
+*.restintergamma.nl
+*.verisign-grs.com (DNS service; DNS related)
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
