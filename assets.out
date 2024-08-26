@@ -612,6 +612,9 @@
 *.payoneer.com
 *.paypal.com
 *.paypalcorp.com
+*.personio-internal.de
+*.personio.de
+*.personio.tools
 *.pinterest.com Web Apps
 *.plannthat.com
 *.platformservices.io
@@ -2131,6 +2134,7 @@ Other Logitech Hardware/IoT
 Other Semrush Related Asset
 Other Spotify websites
 Other assets
+Other assets owned by Personio
 Other non-production infrastructure
 Other publicly-released plugins
 Other ynab.com domains not listed
@@ -5472,6 +5476,7 @@ https://hr.neogov.com
 https://hr.prosus.com/
 https://hub.immutable.com/
 https://hub.zetachain.com/
+https://hug.personio.com
 https://icu.eu-west-2.outscale.com
 https://id.atlassian.com/login
 https://id.unity.com
@@ -6281,6 +6286,7 @@ https://sandbox.fireblocks.io/v2/settings/notifications
 https://sandbox.open-xchange.com
 https://scalews.withings.com
 https://screenplayer.20min.ch
+https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secure-iphone-xml.booking.com/json/
 https://secure.cuehit.net
 https://secure.neogov.com
@@ -6701,6 +6707,8 @@ https://www.opera.com/
 https://www.opera.com/computer/thanks?ni=eapgx&os=windows
 https://www.opera.com/computer/thanks?ni=stable&os=windows
 https://www.originenergy.com.au/
+https://www.personio.com/free-trial/
+https://www.personio.de/kostenlos-testen/
 https://www.pexels.com/
 https://www.pinelabs.ae/
 https://www.pionex.com/
