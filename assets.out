@@ -2467,8 +2467,6 @@ UCRM
 UFiber
 UID
 UNMS
-USAA Mobile Application for Android
-USAA Mobile Application for iOS
 USB Flash Drive Control
 USB Unifying and LightSpeed Receivers
 Ultimate Ears Speakers
@@ -2706,7 +2704,6 @@ advisories.gitlab.com
 advocates.databricks.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
 aed.arubanetworks.com
-aemdam.usaa360.com
 affiliate-id.tokopedia.com
 agents.tasheer.com
 aggregator.etoro.com
@@ -2739,7 +2736,6 @@ analytics.pinelabs.com
 ap-s.cloud.com
 api*.netflix.com
 api-*.soundcloud.com
-api-a.usaa.com
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
 api-boards.qwant.com
@@ -2923,7 +2919,6 @@ api.unleashed.be
 api.uphold.com
 api.upwork.com/graphql
 api.us.veriff.me
-api.usaa.com
 api.veriff.me
 api.vhx.tv
 api.vidaxl.com
@@ -3099,7 +3094,6 @@ auth0.net
 auth2.indrive.tech
 auth4-asia-south1.truecaller.com
 auth4-noneu.truecaller.com
-authn.usaa.com
 authz.workbox.dk
 autocomplete.booking.com
 autodiscover.uzleuven.be
@@ -3112,10 +3106,6 @@ aws.indrive.tech
 ax-stage.maventa.com
 b2b.tvgnetwork.com
 b2b.vidaxl.com
-b2bapi-a.usaa.com
-b2bapi.usaa.com
-b2blsapi-a.usaa.com
-b2blsapi.usaa.com
 b5s.hackerone-ext-content.com
 bSafe Android App
 bSafe iPhone App
@@ -3666,7 +3656,6 @@ contacts.infomaniak.com
 content-api-nextgen-prod.nba.com
 content-api-prod.nba.com
 content.ketnet.be
-content.usaa.com
 contributor.stock.adobe.com
 controltower.sentiance.com
 core-api.nba.com
@@ -3714,8 +3703,6 @@ cyberghost.com
 cyclonedx-bom
 cysiv.com
 cz.skodaauto.myskoda
-d1.utv.usaa.com
-d2.utv.usaa.com
 daita/files_fulltextsearch_tesseract
 dash.cloudflare.com
 dashboard-beta.fr.cloud.gov
@@ -3925,7 +3912,6 @@ ext-gw.lahitapiola.fi
 external-api.lime.bike
 external.indrive.dev
 external.logitech.com
-externalconnect.usaa.com
 extranet-asa.uzleuven.be
 extranet.s-pankki.fi
 extranet.uzleuven.be
@@ -4028,7 +4014,6 @@ graphql.topperpay.com/graphql
 graphqldocs.sentiance.com
 gravatar.com
 grok.x.ai
-guest.usaa.com
 gutenberg.run
 guts.ninjakiwi.com
 gw.api.dh.comcast.com
@@ -6983,7 +6968,6 @@ kyc-src.etoro.com
 kyc.etoro.com
 kz.kolesa
 kz.krisha
-l.usaa.com
 l75pvbdyjo.infomaniak.site
 labs.data.gov
 labs.databricks.com
@@ -7020,13 +7004,6 @@ lists.wordpress.org
 lite.qwant.com
 live-backstage.tiktok.com
 live-cf-vrt.akamaized.net
-liveassist.usaa.com
-liveassist11.usaa.com
-liveassist12.usaa.com
-liveassist21.usaa.com
-liveassist22.usaa.com
-liveassist23.usaa.com
-liveassist24.usaa.com
 lms-stg-develop.eks-stg-use1.getaws.arubanetworks.com
 loanbuilder.com
 localizestaging.com
@@ -7105,9 +7082,7 @@ manage.grab.co
 manage.statuspage.io
 manager.infomaniak.com/v3/*
 map.snapchat.com
-mapi-a.usaa.com
 mapi.moneyback.com.hk
-mapi.usaa.com
 maria.casino
 marketing-assets.adobe.com
 marketing.adobe.com
@@ -7171,7 +7146,6 @@ mgmtpod-1-dashboard.production.forescoutcloud.net
 mgmtpod-1.production.forescoutcloud.net
 mgs-gw.m.dana.id
 mgs.marriott.com
-mguest.usaa.com
 mijn.gamma.be/*
 mijn.gamma.nl/*
 mijn.karwei.nl/*
@@ -7185,13 +7159,11 @@ mobile-prod.tvg.com
 mobile.monash
 mobile.nexuzhealth.be
 mobile.s-pankki.fi
-mobile.usaa.com
 mobileapi.afterpay.com
 mobileapi.clearpay.com
 mobileapi.lystit.com
 mobileapp.hyatt.com
 mobileapp.opsgenie.com
-mobileapps.usaa.com
 mobilemarketing.adobe.com
 mobilevikings.be
 mod.reddit.com
@@ -7207,7 +7179,6 @@ moonpay.com
 mozilla-pontoon-staging.herokuapp.com
 msg.playcanvas.com
 mspshowcase.arubanetworks.com
-mstatic.usaa.com
 mta-sts.wearehackerone.com
 munin-*.wordpress.org
 mus1.badoo.com
@@ -7240,7 +7211,6 @@ myaccount.trouw.nl
 myaccount.volkskrant.nl
 myaccount.vtm.be
 myconnect.com.au
-mydesktop.usaa.com
 mydesktop.wu.com
 mynexuz.be
 mynexuz.be/myUZ/
@@ -7248,7 +7218,6 @@ mynexuzhealth/id1459856321
 mynk.ninjakiwi.com
 myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
-myvpn.usaa.com
 nationalidverification-noneu.truecaller.com
 near.org 
 neoket.net
@@ -7327,7 +7296,6 @@ nextcloud/workflow_script
 nexus.vidaxl.org
 nft.coinbase.com
 nft.io
-nice.wfmusaa.com
 nicetryapril.na1.echosignsandbox.com
 ninja.kiwi
 ninjakiwi.com
@@ -7345,7 +7313,6 @@ npmjs.com
 npmjs.org
 nvio.ar
 nvio.mx
-nvoice.usaa.com
 oauth-account-asia-south1.truecaller.com
 oauth-portal-asia-south1.truecaller.com
 oauth-portal-noneu.truecaller.com
@@ -7426,7 +7393,6 @@ partners.adobe.com
 partners.databricks.com
 partners.etoro.com
 partners.shopify.com
-partners.usaa.com
 passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
@@ -7648,11 +7614,8 @@ rt.playcanvas.com
 rubygems.org
 s-boards.qwant.com
 s.qwant.com
-s.usaa.com
 s1.qwant.com
-s1.utv.usaa.com
 s2.qwant.com
-s2.utv.usaa.com
 s3://faraday-secret
 s3://faraday-uploads
 safe.tumblr.com
@@ -7695,7 +7658,6 @@ secure.rezserver.com
 secure.tumblr.com
 secure.westernunion.com
 secureauth.westernunion.com
-securemail.usaa.com
 secureui.starbucks.com
 securite.monespacesante.fr
 securitytrails.com
@@ -7828,7 +7790,6 @@ static.apps.nextcloud.com
 static.bittrex.com
 static.rarible.com
 static.thuisbezorgd.nl
-static.usaa.com
 station.veriff.com
 stationapi.veriff.com
 stats-trafficcop-prod.nba.com
@@ -8029,8 +7990,6 @@ us.forescout.cloud
 us.tvg.com
 us1.badoo.com
 usa.visa.com
-usaa.com
-usaainsurance.com
 usauth.ezvizlife.com
 user-archive-asia-south1.truecaller.com
 user-profile-staging.8x8.com
@@ -8038,11 +7997,9 @@ user-profile.8x8.com
 usercontent.apps.nextcloud.com
 usercontent.koho.ca
 users-api.truelayer.com
-utv.usaa.com
 uwa.mobilevikings.be
 uz.avtoelon
 uzlcm12cmg1.uzleuven.be
-v.utv.usaa.com
 v3.polo-static.com
 vacations.travelimpressions.com
 vacations.united.com
@@ -8053,7 +8010,6 @@ valid-names-noneu.truecaller.com
 vault.omise.co
 vcc-*.8x8.com
 vcc-ce.8x8.com
-vendorss.usaa.com
 verification-eu.truecaller.com
 verification-noneu.truecaller.com
 verify.arkoselabs.com
@@ -8079,8 +8035,6 @@ visa.com.au
 visa.com.jm
 visa.com.ru
 visa.com.ua
-vlagg.usaa.com
-vlapi.usaa.com
 voapi.8x8.com
 vod.infomaniak.com
 voi.com
@@ -8130,7 +8084,6 @@ webgateway.koho.ca
 webhooks.booking.com
 webhooks.gamma.redoxstage.com
 webhooks.truelayer[-sandbox].com
-webmail.usaa.com
 webonboarding-eu.truecaller.com
 webonboarding-noneu.truecaller.com
 webtoolbox.notebleue.pro
@@ -8182,9 +8135,7 @@ ws-web.poloniex.com
 ws.blockchain.info
 ws.poloniex.com
 ws.sorare.com
-ws.usaa.com
 ws1.dashlane.com
-wsmbr.usaa.com
 wss://socket.bitpanda.com
 wss://ws-futures.coinstore.com/socket.io/
 wss://ws.backpack.exchange/
