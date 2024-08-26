@@ -504,7 +504,6 @@
 *.mattermost.com
 *.mb-cosmos.com
 *.mbamupdates.com
-*.mcssl.com
 *.mdvmm.xyz
 *.mediatonic.co.uk
 *.meebits.app
@@ -568,6 +567,7 @@
 *.nr-ops.net
 *.nuinvest.com.br	
 *.numberfire.com
+*.octopus.com
 *.oda.com
 *.odcdn.com.au
 *.okcoin.com
@@ -829,6 +829,7 @@
 *.tstaging.com
 *.tstaging.tools
 *.tt.omtrdc.net
+*.tube8.com
 *.tubemogul.com
 *.tumblr.com
 *.tweakblogs.net
@@ -4147,7 +4148,6 @@ http://www.whynot.com/
 http://www1.domain.com/
 https://*-prod.arlo.com
 https://0-2744452194.s3.nbg01.de.dracoon.io
-https://1shoppingcart.com
 https://8x8.vc/xmpp-websocket
 https://STORE-YOURSTOREHash.mybigcommerce.com/
 https://a.simplemdm.com/
@@ -4186,6 +4186,7 @@ https://afterpay.com
 https://agent.alphax.com
 https://agent.apps.monash.edu/
 https://agentportal.westernunion.com
+https://aiagent.octopus.com/api/form
 https://airflow-prod.coda.io/*
 https://airflow-prod.ops.coda.io/*
 https://aiven.io/
@@ -4261,6 +4262,7 @@ https://api.optimizely.com/
 https://api.orderly.org/
 https://api.paymaya.com/
 https://api.planethoster.net
+https://api.pornhub.com/
 https://api.probit.com/api/
 https://api.production.cde.tamg.cloud
 https://api.rarible.com/v0.1/doc
@@ -4598,6 +4600,9 @@ https://bugcrowd-pam-###.at.oktapreview.com
 https://bugcrowd-pam-###.oktapreview.com
 https://bugcrowd-pam-###.workflows.oktapreview.com
 https://bugcrowd.com/programs
+https://bugcrowd.hotdoc.com.au
+https://bugcrowd.hotdoc.com.au/api
+https://bugcrowd.hotdoc.com.au/dashboard
 https://bugs.opera.com/
 https://build.twilio.com/s/
 https://bullish.com/
@@ -5038,6 +5043,7 @@ https://github.com/MystenLabs/sui/tree/testnet/external-crates/move
 https://github.com/MystenLabs/sui/tree/testnet/narwhal
 https://github.com/NXT-Technologies-INC/NXTChain/tree/main/Permission%20Smart%20Contract
 https://github.com/Nginx
+https://github.com/OctopusDeploy
 https://github.com/P2B-team/p2b-api-docs
 https://github.com/PandoraDigital/smart-contract
 https://github.com/ProjectOpenSea/seaport#deployments
@@ -5872,7 +5878,6 @@ https://matrix.e.tchap.gouv.fr
 https://matrix.i.tchap.gouv.fr
 https://mc.sendgrid.com/
 https://mcs.arlo.com
-https://mcssl.com
 https://mediaflows.cloudinary.com/
 https://menulog.co.nz
 https://menulog.com.au
@@ -5891,6 +5896,7 @@ https://mobile-production.content-square.net/
 https://mobile.france-identite.gouv.fr
 https://mobile.monash/ 
 https://mobile.ooredoo.qa
+https://mobile.pornhub.com/
 https://mobile.usaa.com
 https://mobileapi.afterpay.com
 https://mobileapi.clearpay.com
@@ -5942,6 +5948,7 @@ https://nubank.com.mx
 https://nvoice.usaa.com/
 https://nw.ring.com/*
 https://oauth.ring.com/*
+https://octopus.com
 https://octopus.com/downloads
 https://oda.com
 https://odesli.co
@@ -6201,6 +6208,7 @@ https://polygonscan.com/address/0xA8EF6FEa013034E62E2C4A9Ec1CDb059fE23Af33
 https://polygonscan.com/address/0xB0aABBA4B2783A72C52956CDEF62d438ecA2d7a1
 https://polygonscan.com/address/0xD3a69BfaC779AE0D97ae7c4f1Bb77d2Be6C2B943
 https://polygonscan.com/address/0xE0cc76334405EE8b39213E620587d815967af39C
+https://pornhub.mainhub.com
 https://portal-staging.pdq.tools/
 https://portal.afterpay.com
 https://portal.australiansuper.com/
@@ -6289,7 +6297,6 @@ https://skipthedishes.com
 https://sks-ch-gva-2.exo.io
 https://slex.io/
 https://smartmockups.com/
-https://snapnames.com/
 https://song.link
 https://songlink.io
 https://sos-ch-gva-2.exo.io/
@@ -6676,12 +6683,16 @@ https://www.pinelabs.ae/
 https://www.pionex.com/
 https://www.pixpay.fr/
 https://www.planethoster.com
+https://www.pornhub.com/
+https://www.pornhubpremium.com/
 https://www.ppr.kiwai-enr.fr/
 https://www.privateinternetaccess.com/
 https://www.privateinternetaccess.com/download/linux-vpn
 https://www.privateinternetaccess.com/download/mac-vpn
 https://www.privateinternetaccess.com/download/windows-vpn
 https://www.probit.com
+https://www.redtube.com/
+https://www.redtubepremium.com/
 https://www.remove.bg
 https://www.routerprotocol.com/
 https://www.sharerewards.com/
@@ -6704,6 +6715,7 @@ https://www.theperfumeshop.com/blog/
 https://www.theperfumeshop.com/ie/blog/
 https://www.thousandeyes.com/
 https://www.thuisbezorgd.nl/aanmelden
+https://www.thumbzilla.com/
 https://www.toobit.com/
 https://www.toursgds.com/
 https://www.toursgds.com/SupplierService?wsdl
@@ -6765,6 +6777,8 @@ https://www.xbox.com/en-us/games/store/rec-room/9pgpqk0xthrz
 https://www.xfinity.com/apps
 https://www.xt.com
 https://www.xvideos.net/app/
+https://www.youporn.com/
+https://www.youpornpremium.com/
 https://www.zabbix.com/download_sources
 https://www.zaproxy.org
 https://www.zetachain.com/
