@@ -341,7 +341,6 @@
 *.gsam.com
 *.gspublishing.com
 *.gsselect.com
-*.gtld-servers.net (DNS service; DNS related)
 *.guilded.gg
 *.guildofguardians.com
 *.hackerone-ext-content.com
@@ -382,7 +381,6 @@
 *.hyperpure.com
 *.hyperwallet.com
 *.hypr.com
-*.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
 *.imperva.com
@@ -494,7 +492,6 @@
 *.megatix.be
 *.melonapp.com
 *.memorable.io
-*.meraki.com
 *.metamask.io
 *.mevo.com
 *.mgmt.fndlsb.net
@@ -533,7 +530,6 @@
 *.neat.wtf
 *.neatcommerce.com
 *.neattest.com
-*.network-auth.com
 *.new.livestream.com
 *.newegg.ca
 *.newegg.com
@@ -553,6 +549,7 @@
 *.nr-ops.net
 *.nuinvest.com.br	
 *.numberfire.com
+*.octopus.com
 *.oda.com
 *.odcdn.com.au
 *.okcoin.com
@@ -595,9 +592,6 @@
 *.payoneer.com
 *.paypal.com
 *.paypalcorp.com
-*.personio-internal.de
-*.personio.de
-*.personio.tools
 *.pinterest.com Web Apps
 *.plannthat.com
 *.platformservices.io
@@ -814,6 +808,7 @@
 *.tstaging.com
 *.tstaging.tools
 *.tt.omtrdc.net
+*.tube8.com
 *.tubemogul.com
 *.tumblr.com
 *.tweakblogs.net
@@ -843,7 +838,6 @@
 *.venmo.com
 *.vennhypotheken.nl
 *.veriff.com
-*.verisign-grs.com (DNS service; DNS related)
 *.vertexprotocol.com
 *.vfsevisa.com
 *.vfsglobal.(com|co.uk|ca)
