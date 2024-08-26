@@ -341,7 +341,6 @@
 *.gsam.com
 *.gspublishing.com
 *.gsselect.com
-*.gtld-servers.net (DNS service; DNS related)
 *.guilded.gg
 *.guildofguardians.com
 *.hackerone-ext-content.com
@@ -382,7 +381,6 @@
 *.hyperpure.com
 *.hyperwallet.com
 *.hypr.com
-*.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
 *.imperva.com
@@ -426,14 +424,7 @@
 *.kdrive.infomaniak.com
 *.kes.kindredext.net
 *.kindredext.net
-*.kinepolis.be
-*.kinepolis.ch
-*.kinepolis.com
-*.kinepolis.fr
-*.kinepolis.lu
-*.kinepolis.nl
 *.kiwi.com
-*.klubcinema.fr
 *.kolikkopelit.com
 *.korta.is
 *.kortathjonustan.is
@@ -443,7 +434,6 @@
 *.lab.epam.com
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
-*.landmarkcinemas.com
 *.lastminute.co.nz
 *.lastminute.com.au
 *.libelle.nl
@@ -487,14 +477,11 @@
 *.mattermost.com
 *.mb-cosmos.com
 *.mbamupdates.com
-*.mcssl.com
 *.mdvmm.xyz
 *.mediatonic.co.uk
 *.meebits.app
-*.megatix.be
 *.melonapp.com
 *.memorable.io
-*.meraki.com
 *.metamask.io
 *.mevo.com
 *.mgmt.fndlsb.net
@@ -502,7 +489,6 @@
 *.miui.com
 *.miwifi.com
 *.mixamo.com
-*.mjrtheatres.com
 *.mmcdn.com
 *.mmwebc.dev
 *.mobilevikings.be
@@ -533,7 +519,6 @@
 *.neat.wtf
 *.neatcommerce.com
 *.neattest.com
-*.network-auth.com
 *.new.livestream.com
 *.newegg.ca
 *.newegg.com
@@ -845,7 +830,6 @@
 *.venmo.com
 *.vennhypotheken.nl
 *.veriff.com
-*.verisign-grs.com (DNS service; DNS related)
 *.vertexprotocol.com
 *.vfsevisa.com
 *.vfsglobal.(com|co.uk|ca)
