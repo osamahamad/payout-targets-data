@@ -1246,6 +1246,33 @@ https://staging.luno.com/
 https://ajax.staging.luno.com/
 https://api.staging.luno.com/
 https://app.staging.luno.com/
+https://www.simplify.com/commerce/ 
+https://www.mastercard.us/en-us.html
+https://www.mastercard.ch/de-ch.html
+https://www.mastercard.ch/fr-ch.html
+https://www.mastercard.com.au/en-au.html
+https://www.mastercard.nl/nl-nl.html
+https://developer.mastercard.com
+https://donate.mastercard.com
+https://demo.priceless.com/
+https://europe.priceless.com/shb
+https://priceless.com/golf/
+https://pricelesssurprises.com/
+https://priceless.com/aa/
+https://priceless.com/aviator/
+https://priceless.com/citiaadvantage/
+https://performancemarketing.mastercard.com/portal/
+https://src.mastercard.com/profile/enroll
+https://src.mastercard.com/*
+SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope
+ Finicity Connect
+Finicity- Data Services
+Finicity Decisioning
+https://www.finicity.com
+https://consumer.finicityreports.com
+Finicity- Open Banking Payment History application
+Finicity - OBB (Open Banking Business Service) 
+Public Others Target
 https://testflight.apple.com/join/e4owjwMX
 Mettle Android Application
 https://web-app.eevee.bbp-mettle.co.uk/login
@@ -1802,41 +1829,6 @@ https://production.maf.auth0.com
 https://production.maf.auth0.com/api/v2/
 https://www.sharerewards.com/
 https://www.vtcprodapi.maf.ae/svc/svcHifi.svc/SaveOCRReceipt
- Finicity Connect
-Core Priceless.com - demo.priceless.com
-Finicity - OBB (Open Banking Business Service) 
-Finicity Decisioning
-Finicity- Data Services
-Finicity- Open Banking Payment History application
-MasterCard.ch - (French) - www.mastercard.ch/fr-ch.html
-MasterCard.ch - (German) - www.mastercard.ch/de-ch.html
-MasterCard.com.au - www.mastercard.com.au/en-au.html
-MasterCard.nl - www.mastercard.nl/nl-nl.html
-MasterCard.us - www.mastercard.us/en-us.html
-Public Others Target
-SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope
-Simplify Commerce - www.simplify.com/commerce/ 
-donate.mastercard.com
-https://consumer.finicityreports.com
-https://demo.priceless.com/
-https://developer.mastercard.com
-https://donate.mastercard.com
-https://europe.priceless.com/shb
-https://performancemarketing.mastercard.com/portal/
-https://priceless.com/aa/
-https://priceless.com/aviator/
-https://priceless.com/citiaadvantage/
-https://priceless.com/golf/
-https://pricelesssurprises.com/
-https://src.mastercard.com/*
-https://src.mastercard.com/profile/enroll
-https://www.finicity.com
-https://www.mastercard.ch/de-ch.html
-https://www.mastercard.ch/fr-ch.html
-https://www.mastercard.com.au/en-au.html
-https://www.mastercard.nl/nl-nl.html
-https://www.mastercard.us/en-us.html
-https://www.simplify.com/commerce/ 
   identity.monash.edu
  mix.monash.edu 
 Monash Study Android app
