@@ -830,8 +830,8 @@ https://explorer.hiro.so/txid/0xd0fb7f07c2d1239bb6813a91923320e6dd19b50b4c9d4a55
 https://explorer.hiro.so/txid/0x2082136b2c42d82346ca7fad2cc6631446bfa8fafbc4a59535d40c37c22b5a14?chain=mainnet
 https://explorer.hiro.so/txid/0xc789b4738a1cd9f7f749340d5fab6b22c6840bd2172aef54bdcbb72f9f9b2600?chain=mainnet
 https://github.com/zeta-chain/node
-https://github.com/zeta-chain/protocol-contracts/tree/main/contracts/evm
-https://github.com/zeta-chain/protocol-contracts/tree/main/contracts/zevm
+https://github.com/zeta-chain/protocol-contracts/tree/main/v1/contracts/evm
+https://github.com/zeta-chain/protocol-contracts/tree/main/v1/contracts/zevm
 https://github.com/zeta-chain/toolkit
 https://www.zetachain.com/
 https://www.zetachain.com/docs

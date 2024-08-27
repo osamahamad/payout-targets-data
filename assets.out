@@ -516,6 +516,7 @@
 *.mattermost.com
 *.mb-cosmos.com
 *.mbamupdates.com
+*.mcssl.com
 *.mdvmm.xyz
 *.mediatonic.co.uk
 *.meebits.app
@@ -1170,16 +1171,6 @@
 9n236hqqtvnh
 9wzdncrfj2g6
 9wzdncrfj3mb
-<Your own 1Password Account subdomain --> https://<your account domain>.1password.com/
-<Your own 1Password account> —> Latest stable, beta, or nightly Android Build
-<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension  (Chrome, Brave, Firefox, Edge, and Safari)
-<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI) 
-<Your own 1Password account> —> Latest stable, beta, or nightly Linux Build
-<Your own 1Password account> —> Latest stable, beta, or nightly MacOS Build
-<Your own 1Password account> —> Latest stable, beta, or nightly Windows Build
-<Your own 1Password account> —> Latest stable, beta, or nightly iOS Build
-<Your own 1Password account> —> https://events.1password.com/  (Event Reporting API is available on 1Password Business Accounts Only)
-<Your own 1Pasword Personal Account> --> https://my.1password.com/
 <locale>.trip.com
 AI Gateway
 AMP Real URL
@@ -4185,6 +4176,7 @@ http://www.whynot.com/
 http://www1.domain.com/
 https://*-prod.arlo.com
 https://0-2744452194.s3.nbg01.de.dracoon.io
+https://1shoppingcart.com
 https://8x8.vc/xmpp-websocket
 https://STORE-YOURSTOREHash.mybigcommerce.com/
 https://a.simplemdm.com/
@@ -5451,8 +5443,8 @@ https://github.com/worldcoin
 https://github.com/worldcoin/world-id-contracts
 https://github.com/worldcoin/world-id-state-bridge
 https://github.com/zeta-chain/node
-https://github.com/zeta-chain/protocol-contracts/tree/main/contracts/evm
-https://github.com/zeta-chain/protocol-contracts/tree/main/contracts/zevm
+https://github.com/zeta-chain/protocol-contracts/tree/main/v1/contracts/evm
+https://github.com/zeta-chain/protocol-contracts/tree/main/v1/contracts/zevm
 https://github.com/zeta-chain/toolkit
 https://gitlab.com/gitlab-org/gitaly
 https://gitlab.com/gitlab-org/gitlab
@@ -5921,6 +5913,7 @@ https://matrix.e.tchap.gouv.fr
 https://matrix.i.tchap.gouv.fr
 https://mc.sendgrid.com/
 https://mcs.arlo.com
+https://mcssl.com
 https://mediaflows.cloudinary.com/
 https://menulog.co.nz
 https://menulog.com.au
@@ -6356,7 +6349,6 @@ https://staging.coda.io/*
 https://staging.gearset.com/
 https://staging.luno.com/
 https://standalone2.fuib.com
-https://start.1password.com
 https://start.atlassian.com
 https://static-images.ifood.com.br
 https://static.demarches-simplifiees.fr
