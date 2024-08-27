@@ -417,6 +417,7 @@
 *.hyperwallet.com
 *.hypr.com
 *.igpayment.com
+*.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
 *.imperva.com
@@ -515,11 +516,13 @@
 *.mattermost.com
 *.mb-cosmos.com
 *.mbamupdates.com
+*.mcssl.com
 *.mdvmm.xyz
 *.mediatonic.co.uk
 *.meebits.app
 *.melonapp.com
 *.memorable.io
+*.meraki.com
 *.metamask.io
 *.mevo.com
 *.mgmt.fndlsb.net
@@ -558,6 +561,7 @@
 *.neat.wtf
 *.neatcommerce.com
 *.neattest.com
+*.network-auth.com
 *.new.livestream.com
 *.newegg.ca
 *.newegg.com
@@ -846,6 +850,7 @@
 *.tstaging.com
 *.tstaging.tools
 *.tt.omtrdc.net
+*.tube8.com
 *.tubemogul.com
 *.tumblr.com
 *.tweakblogs.net
@@ -1513,6 +1518,14 @@ Chrome Extension
 Chrome Extention
 Chrome extension (download at: chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en)
 Circle Cameras
+Cisco Meraki Dashboard Mobile Application (iOS and Android)
+Cisco Meraki MR Access Points
+Cisco Meraki MS Switches
+Cisco Meraki MV Security Cameras
+Cisco Meraki MX Security Appliances
+Cisco Meraki Systems Manager
+Cisco Meraki Virtual Security Appliances
+Cisco Meraki Z Series (Z1,Z3(C))
 Clearpay Android App
 Clearpay iOS App
 ClickHouse Cloud environment hosted by ClickHouse
@@ -3044,6 +3057,7 @@ apps-accpt.portofantwerpbruges.com
 apps.apple.com/fr/app/mon-espace-sant%C3%A9/id1589255019 (iOS)
 apps.apple.com/us/app/crowdstrike-falcon/id1458815656
 apps.connect.monash.edu/
+apps.meraki.io
 apps.nextcloud.com
 apps.portofantwerp.com
 apps.portofantwerpbruges.com
@@ -4174,6 +4188,7 @@ http://www.whynot.com/
 http://www1.domain.com/
 https://*-prod.arlo.com
 https://0-2744452194.s3.nbg01.de.dracoon.io
+https://1shoppingcart.com
 https://8x8.vc/xmpp-websocket
 https://STORE-YOURSTOREHash.mybigcommerce.com/
 https://a.simplemdm.com/
@@ -4288,6 +4303,7 @@ https://api.optimizely.com/
 https://api.orderly.org/
 https://api.paymaya.com/
 https://api.planethoster.net
+https://api.pornhub.com/
 https://api.probit.com/api/
 https://api.production.cde.tamg.cloud
 https://api.rarible.com/v0.1/doc
@@ -4626,6 +4642,9 @@ https://bugcrowd-pam-###.at.oktapreview.com
 https://bugcrowd-pam-###.oktapreview.com
 https://bugcrowd-pam-###.workflows.oktapreview.com
 https://bugcrowd.com/programs
+https://bugcrowd.hotdoc.com.au
+https://bugcrowd.hotdoc.com.au/api
+https://bugcrowd.hotdoc.com.au/dashboard
 https://bugs.opera.com/
 https://build.twilio.com/s/
 https://bullish.com/
@@ -5910,9 +5929,11 @@ https://matrix.e.tchap.gouv.fr
 https://matrix.i.tchap.gouv.fr
 https://mc.sendgrid.com/
 https://mcs.arlo.com
+https://mcssl.com
 https://mediaflows.cloudinary.com/
 https://menulog.co.nz
 https://menulog.com.au
+https://meraki.cisco.com
 https://metamask-sdk-socket.metafi.codefi.network/
 https://metamask.github.io/phishing-warning/<vX.Y.Z>
 https://metrobyt-mobile.com
@@ -5927,6 +5948,7 @@ https://mobile-production.content-square.net/
 https://mobile.france-identite.gouv.fr
 https://mobile.monash/ 
 https://mobile.ooredoo.qa
+https://mobile.pornhub.com/
 https://mobile.usaa.com
 https://mobileapi.afterpay.com
 https://mobileapi.clearpay.com
@@ -6238,6 +6260,7 @@ https://polygonscan.com/address/0xA8EF6FEa013034E62E2C4A9Ec1CDb059fE23Af33
 https://polygonscan.com/address/0xB0aABBA4B2783A72C52956CDEF62d438ecA2d7a1
 https://polygonscan.com/address/0xD3a69BfaC779AE0D97ae7c4f1Bb77d2Be6C2B943
 https://polygonscan.com/address/0xE0cc76334405EE8b39213E620587d815967af39C
+https://pornhub.mainhub.com
 https://portal-staging.pdq.tools/
 https://portal.afterpay.com
 https://portal.australiansuper.com/
@@ -6718,12 +6741,16 @@ https://www.pinelabs.ae/
 https://www.pionex.com/
 https://www.pixpay.fr/
 https://www.planethoster.com
+https://www.pornhub.com/
+https://www.pornhubpremium.com/
 https://www.ppr.kiwai-enr.fr/
 https://www.privateinternetaccess.com/
 https://www.privateinternetaccess.com/download/linux-vpn
 https://www.privateinternetaccess.com/download/mac-vpn
 https://www.privateinternetaccess.com/download/windows-vpn
 https://www.probit.com
+https://www.redtube.com/
+https://www.redtubepremium.com/
 https://www.remove.bg
 https://www.routerprotocol.com/
 https://www.sharerewards.com/
@@ -6746,6 +6773,7 @@ https://www.theperfumeshop.com/blog/
 https://www.theperfumeshop.com/ie/blog/
 https://www.thousandeyes.com/
 https://www.thuisbezorgd.nl/aanmelden
+https://www.thumbzilla.com/
 https://www.toobit.com/
 https://www.toursgds.com/
 https://www.toursgds.com/SupplierService?wsdl
@@ -6807,6 +6835,8 @@ https://www.xbox.com/en-us/games/store/rec-room/9pgpqk0xthrz
 https://www.xfinity.com/apps
 https://www.xt.com
 https://www.xvideos.net/app/
+https://www.youporn.com/
+https://www.youpornpremium.com/
 https://www.zabbix.com/download_sources
 https://www.zaproxy.org
 https://www.zetachain.com/
