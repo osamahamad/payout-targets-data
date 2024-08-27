@@ -746,11 +746,6 @@ marketplace.auth0.com (Auth0 Marketplace)
 openidconnect.net	
 samltool.io	
 webauthn.me	
-https://bullish.com/
-https://investor.bullish.com
-https://investor.bullish.com/
-https://api.simnext.bullish-test.com
-https://simnext.bullish-test.com
 Carrefour UAE Android
 Carrefour UAE iOS
 carrefouruae.com
@@ -924,6 +919,10 @@ https://bugcrowd.com/programs
 https://tracker.bugcrowd.com
 https://api.bugcrowd.com
 https://identity.bugcrowd.com/
+https://bullish.com/
+https://investor.bullish.com/
+https://simnext.bullish-test.com
+https://api.simnext.bullish-test.com
 ████████████████████████
 ████████████████████████████
 ███████████████████████████
@@ -1618,6 +1617,12 @@ https://uk.web.com
 https://www.bluehost.com/
 https://www.hostgator.com/
 Researcher owned WHMCS Instance
+https://transferwise.com
+https://wise.com
+https://apps.apple.com/us/app/wise-ex-transferwise/id612261027
+https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&gl=US
+AWS infrastructure and services in use by Wise (eg: S3 buckets)
+https://github.com/transferwise/*
 https://api.woo.org/
 https://x.woo.org/
 https://play.google.com/store/apps/details?id=network.woo.mobile&hl=en&gl=US&pli=1
@@ -2334,17 +2339,6 @@ secureauth.westernunion.com
 transvision.westernunion.com
 wucare.westernunion.com
 wuinsights.westernunion.com
-AWS infrastructure and services in use by Wise (eg: S3 buckets)
-Latest version of Wise Android App
-Latest version of Wise iOS App
-github.com/transferwise/*
-https://apps.apple.com/us/app/wise-ex-transferwise/id612261027
-https://github.com/transferwise/*
-https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&gl=US
-https://transferwise.com
-https://wise.com
-transferwise.com
-wise.com
 Any Worldpay asset is in scope
 Wyze Cam V3
 https://api.wyzecam.com
