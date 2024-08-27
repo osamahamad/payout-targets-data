@@ -1,0 +1,39 @@
+*.docsend.com
+*.dropbox.com    
+*.dropboxer.net
+*.dropboxforum.com
+*.gtld-servers.net (DNS service; DNS related)
+*.hellofax.com
+*.hellosign.com
+*.helloworks.com
+*.igpayment.com
+*.innogames.com
+*.innogames.de
+*.octopus.com
+*.verisign-grs.com (DNS service; DNS related)
+Any FIS asset is in scope
+a.root-servers.net (DNS service; DNS related)
+api.dropboxapi.com
+epptool-ctld.verisign-grs.com (EPP service; DNS related)
+https://aiagent.octopus.com/api/form
+https://apps.apple.com/us/app/dropbox-emm/id1080074001
+https://apps.apple.com/us/app/dropbox-secure-cloud-storage/id327630330
+https://apps.apple.com/us/app/paper-by-dropbox/id1126623662
+https://blog.verisign.com
+https://dropbox.com/dash/download
+https://github.com/OctopusDeploy
+https://namestudio.com
+https://namestudioforsocial.com/
+https://octopus.com
+https://play.google.com/store/apps/details?id=com.dropbox.android&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.dropbox.app.hellosign&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.dropbox.paper&hl=en_US&gl=US
+https://www.dash.ai/
+https://www.dropbox.com/capture
+https://www.dropbox.com/desktop
+https://www.dropbox.com/paper
+https://www.verisign.com
+https://youcouldbe.com
+innogames.com
+j.root-servers.net (DNS service; DNS related)
+support.innogames.com
