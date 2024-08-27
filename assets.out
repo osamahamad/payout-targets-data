@@ -1,5 +1,6 @@
   identity.monash.edu
  *.sip.*.twilio.com
+ Finicity Connect
  Fortress.HongKong.IOS
  MS Office Add-In
  Mobile Plugin for Confluence Data Center and Server - Data Center - https://marketplace.atlassian.com/apps/1218250/mobile-plugin-for-confluence-data-center-and-server?hosting=datacenter
@@ -264,10 +265,14 @@
 *.dm.gg
 *.dmcdn.net
 *.dns.eu
+*.docsend.com
 *.doctolib.(fr|de|it|com|net)
 *.download.originenergy.com.au
 *.dpgmedia.be
 *.dpgmedia.nl
+*.dropbox.com    
+*.dropboxer.net
+*.dropboxforum.com
 *.dropmix.com
 *.dyson.com
 *.earlywarning.com
@@ -370,12 +375,16 @@
 *.gsam.com
 *.gspublishing.com
 *.gsselect.com
+*.gtld-servers.net (DNS service; DNS related)
 *.guilded.gg
 *.guildofguardians.com
 *.hackerone-ext-content.com
 *.hackerone-user-content.com/
 *.harmonixmusic.com
 *.harmonyremote.com
+*.hellofax.com
+*.hellosign.com
+*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.com
@@ -579,6 +588,7 @@
 *.nr-ops.net
 *.nuinvest.com.br	
 *.numberfire.com
+*.octopus.com
 *.oda.com
 *.odcdn.com.au
 *.okcoin.com
@@ -877,6 +887,7 @@
 *.venmo.com
 *.vennhypotheken.nl
 *.veriff.com
+*.verisign-grs.com (DNS service; DNS related)
 *.vertexprotocol.com
 *.vfsevisa.com
 *.vfsglobal.(com|co.uk|ca)
@@ -1706,6 +1717,10 @@ File Tagging Plugin for Crucible - Server - https://marketplace.atlassian.com/ap
 Files.com Desktop Application for Windows or Mac
 Files.com SDK's
 Fing desktop
+Finicity - OBB (Open Banking Business Service) 
+Finicity Decisioning
+Finicity- Data Services
+Finicity- Open Banking Payment History application
 FireTV
 Firefox extension (download at:   https://addons.mozilla.org/firefox/addon/pinterest/)
 Firmware
@@ -2232,6 +2247,7 @@ Prod contract address: ZRX.e
 Product Delivery
 Project transfer for Crucible - Server - https://marketplace.atlassian.com/apps/1221227/project-transfer-for-crucible?hosting=server
 Protocol of the Swiss Post Voting System
+Public Others Target
 Questions for Confluence - Cloud - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=cloud
 Questions for Confluence - DataCenter - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=datacenter
 Questions for Confluence - Server - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=server
@@ -2262,6 +2278,7 @@ SEEK Pass Mobile App for iOS
 SEEK mobile app for Android
 SEEK mobile app for iOS
 SHA1-CD
+SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope
 SSL for Jira - Server - https://marketplace.atlassian.com/apps/1211087/ssl-for-jira?hosting=server
 SSL/TLS
 SSO for Atlassian Server and Data Center - DataCenter - https://marketplace.atlassian.com/apps/1216096/sso-for-atlassian-server-and-data-center?hosting=datacenter
@@ -2629,6 +2646,7 @@ Your Own GitLab Instance
 Zendesk - https://trello.com/power-ups/56940ede94fd60cf95f7ce6a/zendesk
 Zero days that affect Intigriti or participating customers (listed below)
 [yourstore].company.site
+a.root-servers.net (DNS service; DNS related)
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 a4k.amazon.com
 a5s.hackerone-ext-content.com
@@ -2802,6 +2820,7 @@ api.digital.delen.lu
 api.digitalocean.com
 api.direct.playstation.com
 api.doppler.com
+api.dropboxapi.com
 api.dyson.at
 api.dyson.be
 api.dyson.ch
@@ -3895,6 +3914,7 @@ enterprise-survey-asia-south1.truecaller.com
 enterprise-survey-noneu.truecaller.com
 enterprise-userfeedback-noneu.truecaller.com
 enterprise-webhooks-noneu.truecaller.com
+epptool-ctld.verisign-grs.com (EPP service; DNS related)
 erpx.unit4cloud.com/u4erx_pab_acp1
 erpx.unit4cloud.com/u4erx_pab_prev
 erpx.unit4cloud.com/u4erx_pab_prod
@@ -4218,6 +4238,7 @@ https://afterpay.com
 https://agent.alphax.com
 https://agent.apps.monash.edu/
 https://agentportal.westernunion.com
+https://aiagent.octopus.com/api/form
 https://airflow-prod.coda.io/*
 https://airflow-prod.ops.coda.io/*
 https://aiven.io/
@@ -4446,6 +4467,8 @@ https://apps.apple.com/us/app/compass-real-estate-homes/id692766504
 https://apps.apple.com/us/app/confluence-cloud/id1006971684
 https://apps.apple.com/us/app/confluence-server/id1288365159
 https://apps.apple.com/us/app/cryptologygo-buy-trade-btc/id6448920037
+https://apps.apple.com/us/app/dropbox-emm/id1080074001
+https://apps.apple.com/us/app/dropbox-secure-cloud-storage/id327630330
 https://apps.apple.com/us/app/electroneum/id1270774992
 https://apps.apple.com/us/app/exzi-buy-sell-btc-eth-crypto/id6451389176
 https://apps.apple.com/us/app/hubspot/id1107711722
@@ -4466,6 +4489,7 @@ https://apps.apple.com/us/app/monash-study/id1462126829
 https://apps.apple.com/us/app/okcoin-bitcoin-trading-exch/id867444712?mt=8
 https://apps.apple.com/us/app/okta-verify/id490179405
 https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
+https://apps.apple.com/us/app/paper-by-dropbox/id1126623662
 https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/pionex/id1485348891
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
@@ -4587,6 +4611,7 @@ https://blastscan.io/address/0xf683Ce59521AA464066783d78e40CD9412f33D21#code
 https://blockexplorer.electroneum.com
 https://blog.bitpanda.com/en
 https://blog.lastpass.com
+https://blog.verisign.com
 https://blog.whitebit.com/
 https://bluefin.io/
 https://bot-tester.datadome.co/
@@ -4695,6 +4720,7 @@ https://console.delltechnologies.com/nav/administration
 https://console.delltechnologies.com/nav/billing
 https://console.delltechnologies.com/nav/invoice
 https://consumer-sustainability.underarmour.com/en
+https://consumer.finicityreports.com
 https://content-server.ibotta.com/graphql
 https://content.agora.beta.gouv.fr
 https://content.usaa.com
@@ -4802,6 +4828,7 @@ https://dealer.prod.ps.axelspringer.de/purchases/004/bild/*
 https://dealer.prod.ps.axelspringer.de/purchases/004/welt/*
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
+https://demo.priceless.com/
 https://depinscan.io/
 https://design.glassdoor.com/*
 https://desk-api-{region}.sendbird.com
@@ -4810,6 +4837,7 @@ https://dev.init.capital/contract-addresses/blast
 https://dev.init.capital/contract-addresses/mantle
 https://dev.tutoring.classdojo.com
 https://devedge.t-mobile.com
+https://developer.mastercard.com
 https://developer.newrelic.com/
 https://developer.withings.com/dashboard/
 https://developer.zendesk.com/documentation/zendesk-sdks/#android
@@ -4843,11 +4871,13 @@ https://docs.mapbox.com/api/
 https://docs.mapbox.com/ios/maps/overview/
 https://docs.newrelic.com/
 https://docs.tempus-ex.com
+https://donate.mastercard.com
 https://download.bkexer.xin/app/download/android/app-release.apk
 https://download.krisp.ai/mac
 https://download.krisp.ai/win
 https://download.opera.com
 https://downloads.arlo.com
+https://dropbox.com/dash/download
 https://dxc.episerver.net/ 
 https://ebanking.westernunionbank.com
 https://ecohesion.aufbaubank.de
@@ -4900,6 +4930,7 @@ https://etherscan.io/address/0xcE0000007B008F50d762D155002600004cD6c647
 https://etherscan.io/address/0xdc71affc862fceb6ad32be58e098423a7727bebd#code
 https://etherscan.io/address/0xdeF3AA48bad043e53207d359dcDFdE46F50b6C02
 https://etsypayments.com
+https://europe.priceless.com/shb
 https://exchange.fastex.com/
 https://exchange.pointpay.io/
 https://exchange.pointpay.io/buy-crypto
@@ -5069,6 +5100,7 @@ https://github.com/MystenLabs/sui/tree/testnet/external-crates/move
 https://github.com/MystenLabs/sui/tree/testnet/narwhal
 https://github.com/NXT-Technologies-INC/NXTChain/tree/main/Permission%20Smart%20Contract
 https://github.com/Nginx
+https://github.com/OctopusDeploy
 https://github.com/P2B-team/p2b-api-docs
 https://github.com/PandoraDigital/smart-contract
 https://github.com/ProjectOpenSea/seaport#deployments
@@ -5964,6 +5996,8 @@ https://myshop.20min.ch
 https://myvpn.usaa.com
 https://mywallet-management-east.wallet.cat.earlywarning.io/
 https://mywallet-management-west.wallet.cat.earlywarning.io/
+https://namestudio.com
+https://namestudioforsocial.com/
 https://near.foundation/
 https://net.geo.opera.com
 https://newrelic.com/
@@ -5978,6 +6012,7 @@ https://nubank.com.mx
 https://nvoice.usaa.com/
 https://nw.ring.com/*
 https://oauth.ring.com/*
+https://octopus.com
 https://octopus.com/downloads
 https://oda.com
 https://odesli.co
@@ -6051,6 +6086,7 @@ https://pcm.beta.20min.ch
 https://pentest-app.onetrust.com/
 https://peopleview.naspers.com
 https://performance.neogov.com
+https://performancemarketing.mastercard.com/portal/
 https://pg.paymaya.com
 https://pinepgconsole.in:9099
 https://pionex-doc.gitbook.io/apidocs/
@@ -6103,6 +6139,9 @@ https://play.google.com/store/apps/details?id=com.comuto&hl=en
 https://play.google.com/store/apps/details?id=com.cryptology.flutter
 https://play.google.com/store/apps/details?id=com.dailymotion.dailymotion&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.deepcoin.app.global
+https://play.google.com/store/apps/details?id=com.dropbox.android&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.dropbox.app.hellosign&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.dropbox.paper&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.exzi.app
 https://play.google.com/store/apps/details?id=com.fcagroup.us.uconnect
@@ -6246,6 +6285,11 @@ https://portalapi.eu.clearpay.co.uk
 https://portalapi.us.afterpay.com
 https://powerdms.com/
 https://pprd.cybermalveillance.gouv.fr
+https://priceless.com/aa/
+https://priceless.com/aviator/
+https://priceless.com/citiaadvantage/
+https://priceless.com/golf/
+https://pricelesssurprises.com/
 https://pro.opensea.io/
 https://production.maf.auth0.com
 https://production.maf.auth0.com/api/v2/
@@ -6327,6 +6371,8 @@ https://soundcloud.com
 https://soundcloud.org
 https://speeddials.opera.com
 https://sprint.com
+https://src.mastercard.com/*
+https://src.mastercard.com/profile/enroll
 https://staff.monash
 https://stage.film.io 
 https://staging-app.ynab.com
@@ -6576,6 +6622,7 @@ https://www.cyberghostvpn.com/
 https://www.cyberghostvpn.com/en_US/apps/linux-vpn
 https://www.cyberghostvpn.com/en_US/apps/macos-vpn
 https://www.cyberghostvpn.com/en_US/apps/windows-vpn
+https://www.dash.ai/
 https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&target=launcher_macosx
 https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
 https://www.deepcoin.com/
@@ -6587,6 +6634,9 @@ https://www.designify.com
 https://www.domain.com
 https://www.driveuconnect.com
 https://www.driveuconnect.eu
+https://www.dropbox.com/capture
+https://www.dropbox.com/desktop
+https://www.dropbox.com/paper
 https://www.epam.com/
 https://www.etsy.com
 https://www.etsy.com/developers/documentation/getting_started/api_basics
@@ -6594,6 +6644,7 @@ https://www.etsy.com/mobile
 https://www.eu.lululemon.com
 https://www.eu.lululemon.com/
 https://www.expressvpn.com
+https://www.finicity.com
 https://www.fishbowlapp.com/*
 https://www.fitburn.ai
 https://www.foreignaffairs.com/
@@ -6669,6 +6720,11 @@ https://www.marionnaud.ro/blog/
 https://www.marionnaud.ro/m-life/
 https://www.marionnaud.sk/blog/
 https://www.marionnaud.sk/m-life/
+https://www.mastercard.ch/de-ch.html
+https://www.mastercard.ch/fr-ch.html
+https://www.mastercard.com.au/en-au.html
+https://www.mastercard.nl/nl-nl.html
+https://www.mastercard.us/en-us.html
 https://www.microsoft.com/en-us/p/keeperchat/9pdqtcpn4kxn#activetab=pivot:overviewtab
 https://www.monash.edu
 https://www.monashprofessional.edu.au/
@@ -6712,6 +6768,7 @@ https://www.remove.bg
 https://www.routerprotocol.com/
 https://www.sharerewards.com/
 https://www.shiseido.me/
+https://www.simplify.com/commerce/ 
 https://www.sitemercado.com.br
 https://www.skidxb.com/
 https://www.skroutz.gr/
@@ -6752,6 +6809,7 @@ https://www.upwork.com
 https://www.usaa.com
 https://www.usaainsurance.com/
 https://www.vendhq.com/
+https://www.verisign.com
 https://www.vfsglobalservices-germany.com/Global-Appointment/
 https://www.vfsvisaservice.com/
 https://www.vfsvisaservice.com/IHC-SouthKorea-Appointment
@@ -6805,6 +6863,7 @@ https://wwws-staging.moneytree.jp/link/mobile/#/signup?client_id=38d99a6e8e9fc87
 https://x.woo.org/
 https://xyzbmojn.net/
 https://yeswehack.com
+https://youcouldbe.com
 hub-api-sandbox.remitly.io
 hub.myconnect.com.au
 hub.vroid.com
@@ -6913,6 +6972,7 @@ itv7.itv.com
 ius.ezvizlife.com
 iwgo.westernunion.com
 ix2smbdyjt.infomaniak.site
+j.root-servers.net (DNS service; DNS related)
 jimmobile.be
 jira.grab.com
 jira.hyattdev.com
