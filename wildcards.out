@@ -238,10 +238,14 @@
 *.dm.gg
 *.dmcdn.net
 *.dns.eu
+*.docsend.com
 *.doctolib.(fr|de|it|com|net)
 *.download.originenergy.com.au
 *.dpgmedia.be
 *.dpgmedia.nl
+*.dropbox.com    
+*.dropboxer.net
+*.dropboxforum.com
 *.dropmix.com
 *.dyson.com
 *.earlywarning.com
@@ -344,12 +348,16 @@
 *.gsam.com
 *.gspublishing.com
 *.gsselect.com
+*.gtld-servers.net (DNS service; DNS related)
 *.guilded.gg
 *.guildofguardians.com
 *.hackerone-ext-content.com
 *.hackerone-user-content.com/
 *.harmonixmusic.com
 *.harmonyremote.com
+*.hellofax.com
+*.hellosign.com
+*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.com
@@ -556,6 +564,7 @@
 *.nr-ops.net
 *.nuinvest.com.br	
 *.numberfire.com
+*.octopus.com
 *.oda.com
 *.odcdn.com.au
 *.okcoin.com
@@ -739,6 +748,7 @@
 *.smartcontract.com
 *.snooguts.net
 *.sol-data.com
+*.solarcity.com
 *.sonyentertainmentnetwork.com
 *.sophos.com
 *.soundcloud.org
@@ -785,6 +795,11 @@
 *.teams.cloudflare.com
 *.techbook.de
 *.telenor.se
+*.tesla.cn
+*.tesla.com
+*.tesla.services
+*.teslainsuranceservices.com
+*.teslamotors.com
 *.testdrive.workfront.com
 *.testnet.immutable.com
 *.threatdown.com
@@ -848,6 +863,7 @@
 *.venmo.com
 *.vennhypotheken.nl
 *.veriff.com
+*.verisign-grs.com (DNS service; DNS related)
 *.vertexprotocol.com
 *.vfsevisa.com
 *.vfsglobal.(com|co.uk|ca)

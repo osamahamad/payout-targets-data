@@ -869,16 +869,6 @@ https://www.youporn.com/
 https://www.youpornpremium.com/
 https://pornhub.mainhub.com
 https://www.thumbzilla.com/
-https://www.pornhub.com/
-https://mobile.pornhub.com/
-https://api.pornhub.com/
-https://www.pornhubpremium.com/
-https://www.redtube.com/
-https://www.redtubepremium.com/
-https://www.youporn.com/
-https://www.youpornpremium.com/
-https://pornhub.mainhub.com
-https://www.thumbzilla.com/
 https://play.google.com/store/apps/details?id=com.backblaze.android&hl=en_US&gl=US
 https://apps.apple.com/us/app/backblaze/id628638330
 Mac Personal Backup Clients
@@ -979,16 +969,6 @@ Cisco Meraki MV Security Cameras
 Cisco Meraki Z Series (Z1,Z3(C))
 https://meraki.cisco.com
 apps.meraki.io
-Cisco Meraki Systems Manager
-Cisco Meraki Virtual Security Appliances
-Cisco Meraki Dashboard Mobile Application (iOS and Android)
-Cisco Meraki MX Security Appliances
-Cisco Meraki MS Switches
-Cisco Meraki MR Access Points
-Cisco Meraki MV Security Cameras
-Cisco Meraki Z Series (Z1,Z3(C))
-https://meraki.cisco.com
-apps.meraki.io
 IoS App
 https://api.classdojo.com
 Android App
@@ -1012,6 +992,19 @@ https://www.contrastsecurity.com/
 https://contrastsecurity.dev/
 app.sandbox.directly.com
 https://sandbox.directly.com/dashboard/index
+api.dropboxapi.com
+https://www.dash.ai/
+https://play.google.com/store/apps/details?id=com.dropbox.paper&hl=en_US&gl=US
+https://apps.apple.com/us/app/dropbox-secure-cloud-storage/id327630330
+https://apps.apple.com/us/app/paper-by-dropbox/id1126623662
+https://apps.apple.com/us/app/dropbox-emm/id1080074001
+https://www.dropbox.com/desktop
+https://www.dropbox.com/capture
+https://www.dropbox.com/capture
+https://play.google.com/store/apps/details?id=com.dropbox.android&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.dropbox.app.hellosign&hl=en_US&gl=US
+https://www.dropbox.com/paper
+https://dropbox.com/dash/download
 https://my.electroneum.com/
 https://electroneum.com/
 https://api.electroneum.com/
@@ -1070,9 +1063,6 @@ https://hipaa.staging.gearset.com/
 https://www.hostgator.com.br/
 https://cliente.hostgator.com.br/
 https://www.cart.hostgator.com.br
-https://bugcrowd.hotdoc.com.au
-https://bugcrowd.hotdoc.com.au/api
-https://bugcrowd.hotdoc.com.au/dashboard
 https://bugcrowd.hotdoc.com.au
 https://bugcrowd.hotdoc.com.au/api
 https://bugcrowd.hotdoc.com.au/dashboard
@@ -1331,6 +1321,9 @@ https://learn.newrelic.com/
 https://developer.newrelic.com/
 https://octopus.com/downloads
 https://octopus.com/downloads
+https://github.com/OctopusDeploy
+https://octopus.com
+https://aiagent.octopus.com/api/form
 https://pentest-app.onetrust.com/
 https://auth.opera.com
 https://accounts.opera.com
@@ -1483,8 +1476,6 @@ https://legacy-blockexplorer.electroneum.com
 https://public.thesecurityteam.rocks/resources/app/android/etnapp-5.2.2-staging.apk
 https://1shoppingcart.com
 https://mcssl.com
-https://1shoppingcart.com
-https://mcssl.com
 https://www.skroutz.gr/
 Skyscanner iOS App
 Skyscanner Android App
@@ -1566,6 +1557,11 @@ https://infiniteathlete.ai
 https://platform.infiniteathlete.ai
 https://docs.tempus-ex.com
 https://github.com/tempus-ex
+https://apps.apple.com/us/app/tesla/id582007913
+Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
+https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
+Tesla Energy hardware you own
+Tesla vehicle hardware that you own
 https://api.thousandeyes.com/
 https://app.thousandeyes.com/
 https://www.thousandeyes.com/
@@ -1642,6 +1638,15 @@ https://vlapi.usaa.com
 https://webmail.usaa.com
 https://ws.usaa.com
 https://wsmbr.usaa.com/
+epptool-ctld.verisign-grs.com (EPP service; DNS related)
+a.root-servers.net (DNS service; DNS related)
+j.root-servers.net (DNS service; DNS related)
+https://www.verisign.com
+https://youcouldbe.com
+https://blog.verisign.com
+https://namestudioforsocial.com/
+https://namestudio.com
+https://www.verisign.com
 https://www.web.com
 http://www.register.com
 https://www.networksolutions.com
