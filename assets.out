@@ -1,6 +1,5 @@
   identity.monash.edu
  *.sip.*.twilio.com
- Finicity Connect
  Fortress.HongKong.IOS
  MS Office Add-In
  Mobile Plugin for Confluence Data Center and Server - Data Center - https://marketplace.atlassian.com/apps/1218250/mobile-plugin-for-confluence-data-center-and-server?hosting=datacenter
@@ -112,6 +111,7 @@
 *.atlastunnel.com
 *.atspotify.com
 *.audicagame.com
+*.autobild.de
 *.avalabs.org
 *.avax-dev.network
 *.avax-test.network
@@ -135,6 +135,8 @@
 *.betviewapi.com
 *.big.one
 *.bigone.com
+*.bild.de
+*.bild.tv
 *.binary.com
 *.bingo.com
 *.bingx.com
@@ -172,6 +174,7 @@
 *.byairbnb.com
 *.bybit.com
 *.byspotify.com
+*.bz-berlin.de
 *.c-point.be
 *.canva.cn
 *.canva.com
@@ -219,6 +222,7 @@
 *.coinmetro.com
 *.coinsbit.io
 *.comcast.com
+*.computerbild.de
 *.consumer.worldcoin.org
 *.contentsquare.com
 *.cornershop.io/*
@@ -274,6 +278,7 @@
 *.east.fdbox.net
 *.easy.ac
 *.eat.ch
+*.ein-herz-fuer-kinder.de
 *.elastic.co
 *.elasticnet.co
 *.elstc.co
@@ -310,6 +315,7 @@
 *.financialforce.com
 *.finlife.com
 *.finlifepartners.com
+*.fitbook.de
 *.flickr.com
 *.flipkey.com
 *.floqast.app
@@ -546,6 +552,7 @@
 *.mwb-threatintel.com
 *.mwbsys.com
 *.myharmony.com
+*.myhomebook.de
 *.myinsights.io
 *.mysqueezebox.com
 *.myteksi.com
@@ -626,6 +633,8 @@
 *.personio-internal.de
 *.personio.de
 *.personio.tools
+*.petbook-magazine.com/
+*.petbook.de
 *.pinterest.com Web Apps
 *.plannthat.com
 *.platformservices.io
@@ -769,6 +778,8 @@
 *.spiketrap.io
 *.spinaway.com
 *.sportinglife.com
+*.spring-media.de
+*.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sqills.com
@@ -786,6 +797,7 @@
 *.streamlabs.com
 *.streamlabscharity.com
 *.stripe.com
+*.stylebook.de
 *.subp-router.hereapi.com
 *.superawesome.com
 *.superawesome.tv
@@ -804,6 +816,7 @@
 *.taralite.com
 *.tdl.sh
 *.teams.cloudflare.com
+*.techbook.de
 *.telenor.se
 *.tesla.cn
 *.tesla.com
@@ -831,6 +844,7 @@
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trafficjunky.com
 *.transferwise.com
+*.travelbook.de
 *.travelocity.ca
 *.travelocity.com
 *.trello.services
@@ -895,6 +909,7 @@
 *.water-link.be/
 *.wavecell.com
 *.wealthsimple.com
+*.welt.de
 *.wenewmoments.com
 *.werkenbijgamma.be
 *.werkenbijgamma.nl
@@ -904,6 +919,7 @@
 *.whois.eu
 *.wimpmusic.com
 *.wise.com
+*.wissen-sie-mehr.de
 *.withairbnb.com
 *.withbuddies.com
 *.withspotify.com
@@ -1700,10 +1716,6 @@ File Tagging Plugin for Crucible - Server - https://marketplace.atlassian.com/ap
 Files.com Desktop Application for Windows or Mac
 Files.com SDK's
 Fing desktop
-Finicity - OBB (Open Banking Business Service) 
-Finicity Decisioning
-Finicity- Data Services
-Finicity- Open Banking Payment History application
 FireTV
 Firefox extension (download at:   https://addons.mozilla.org/firefox/addon/pinterest/)
 Firmware
@@ -2230,7 +2242,6 @@ Prod contract address: ZRX.e
 Product Delivery
 Project transfer for Crucible - Server - https://marketplace.atlassian.com/apps/1221227/project-transfer-for-crucible?hosting=server
 Protocol of the Swiss Post Voting System
-Public Others Target
 Questions for Confluence - Cloud - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=cloud
 Questions for Confluence - DataCenter - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=datacenter
 Questions for Confluence - Server - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=server
@@ -2261,7 +2272,6 @@ SEEK Pass Mobile App for iOS
 SEEK mobile app for Android
 SEEK mobile app for iOS
 SHA1-CD
-SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope
 SSL for Jira - Server - https://marketplace.atlassian.com/apps/1211087/ssl-for-jira?hosting=server
 SSL/TLS
 SSO for Atlassian Server and Data Center - DataCenter - https://marketplace.atlassian.com/apps/1216096/sso-for-atlassian-server-and-data-center?hosting=datacenter
@@ -4703,7 +4713,6 @@ https://console.delltechnologies.com/nav/administration
 https://console.delltechnologies.com/nav/billing
 https://console.delltechnologies.com/nav/invoice
 https://consumer-sustainability.underarmour.com/en
-https://consumer.finicityreports.com
 https://content-server.ibotta.com/graphql
 https://content.agora.beta.gouv.fr
 https://content.usaa.com
@@ -4806,9 +4815,11 @@ https://datadome.co
 https://dataportal.originenergy.com.au
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
 https://dcfgatewaytst1.marriott.com/
+https://dealer.prod.ps.axelspringer.de/api/v1/partners/{partnerId}/activation
+https://dealer.prod.ps.axelspringer.de/purchases/004/bild/*
+https://dealer.prod.ps.axelspringer.de/purchases/004/welt/*
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
-https://demo.priceless.com/
 https://depinscan.io/
 https://design.glassdoor.com/*
 https://desk-api-{region}.sendbird.com
@@ -4817,7 +4828,6 @@ https://dev.init.capital/contract-addresses/blast
 https://dev.init.capital/contract-addresses/mantle
 https://dev.tutoring.classdojo.com
 https://devedge.t-mobile.com
-https://developer.mastercard.com
 https://developer.newrelic.com/
 https://developer.withings.com/dashboard/
 https://developer.zendesk.com/documentation/zendesk-sdks/#android
@@ -4851,7 +4861,6 @@ https://docs.mapbox.com/api/
 https://docs.mapbox.com/ios/maps/overview/
 https://docs.newrelic.com/
 https://docs.tempus-ex.com
-https://donate.mastercard.com
 https://download.bkexer.xin/app/download/android/app-release.apk
 https://download.krisp.ai/mac
 https://download.krisp.ai/win
@@ -4910,7 +4919,6 @@ https://etherscan.io/address/0xcE0000007B008F50d762D155002600004cD6c647
 https://etherscan.io/address/0xdc71affc862fceb6ad32be58e098423a7727bebd#code
 https://etherscan.io/address/0xdeF3AA48bad043e53207d359dcDFdE46F50b6C02
 https://etsypayments.com
-https://europe.priceless.com/shb
 https://exchange.fastex.com/
 https://exchange.pointpay.io/
 https://exchange.pointpay.io/buy-crypto
@@ -6065,7 +6073,6 @@ https://pcm.beta.20min.ch
 https://pentest-app.onetrust.com/
 https://peopleview.naspers.com
 https://performance.neogov.com
-https://performancemarketing.mastercard.com/portal/
 https://pg.paymaya.com
 https://pinepgconsole.in:9099
 https://pionex-doc.gitbook.io/apidocs/
@@ -6264,11 +6271,6 @@ https://portalapi.eu.clearpay.co.uk
 https://portalapi.us.afterpay.com
 https://powerdms.com/
 https://pprd.cybermalveillance.gouv.fr
-https://priceless.com/aa/
-https://priceless.com/aviator/
-https://priceless.com/citiaadvantage/
-https://priceless.com/golf/
-https://pricelesssurprises.com/
 https://pro.opensea.io/
 https://production.maf.auth0.com
 https://production.maf.auth0.com/api/v2/
@@ -6306,6 +6308,7 @@ https://screenplayer.20min.ch
 https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secure-iphone-xml.booking.com/json/
 https://secure.cuehit.net
+https://secure.mypass.de/
 https://secure.neogov.com
 https://secure.vendhq.com
 https://secure.westernunion.com
@@ -6349,8 +6352,6 @@ https://soundcloud.com
 https://soundcloud.org
 https://speeddials.opera.com
 https://sprint.com
-https://src.mastercard.com/*
-https://src.mastercard.com/profile/enroll
 https://staff.monash
 https://stage.film.io 
 https://staging-app.ynab.com
@@ -6618,7 +6619,6 @@ https://www.etsy.com/mobile
 https://www.eu.lululemon.com
 https://www.eu.lululemon.com/
 https://www.expressvpn.com
-https://www.finicity.com
 https://www.fishbowlapp.com/*
 https://www.fitburn.ai
 https://www.foreignaffairs.com/
@@ -6694,11 +6694,6 @@ https://www.marionnaud.ro/blog/
 https://www.marionnaud.ro/m-life/
 https://www.marionnaud.sk/blog/
 https://www.marionnaud.sk/m-life/
-https://www.mastercard.ch/de-ch.html
-https://www.mastercard.ch/fr-ch.html
-https://www.mastercard.com.au/en-au.html
-https://www.mastercard.nl/nl-nl.html
-https://www.mastercard.us/en-us.html
 https://www.microsoft.com/en-us/p/keeperchat/9pdqtcpn4kxn#activetab=pivot:overviewtab
 https://www.monash.edu
 https://www.monashprofessional.edu.au/
@@ -6742,7 +6737,6 @@ https://www.remove.bg
 https://www.routerprotocol.com/
 https://www.sharerewards.com/
 https://www.shiseido.me/
-https://www.simplify.com/commerce/ 
 https://www.sitemercado.com.br
 https://www.skidxb.com/
 https://www.skroutz.gr/
