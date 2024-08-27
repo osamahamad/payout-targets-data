@@ -375,7 +375,6 @@
 *.gsam.com
 *.gspublishing.com
 *.gsselect.com
-*.gtld-servers.net (DNS service; DNS related)
 *.guilded.gg
 *.guildofguardians.com
 *.hackerone-ext-content.com
@@ -423,10 +422,6 @@
 *.imperva.com
 *.imtbl.com
 *.incapsula.com
-*.indeed.com
-*.indeed.net
-*.indeed.tech
-*.indeedflex.com
 *.indrive.com
 *.indriver.com
 *.indriver.io
@@ -581,7 +576,6 @@
 *.nr-ops.net
 *.nuinvest.com.br	
 *.numberfire.com
-*.octopus.com
 *.oda.com
 *.odcdn.com.au
 *.okcoin.com
@@ -765,7 +759,6 @@
 *.smartcontract.com
 *.snooguts.net
 *.sol-data.com
-*.solarcity.com
 *.sonyentertainmentnetwork.com
 *.sophos.com
 *.soundcloud.org
@@ -812,11 +805,6 @@
 *.teams.cloudflare.com
 *.techbook.de
 *.telenor.se
-*.tesla.cn
-*.tesla.com
-*.tesla.services
-*.teslainsuranceservices.com
-*.teslamotors.com
 *.testdrive.workfront.com
 *.testnet.immutable.com
 *.threatdown.com
@@ -880,7 +868,6 @@
 *.venmo.com
 *.vennhypotheken.nl
 *.veriff.com
-*.verisign-grs.com (DNS service; DNS related)
 *.vertexprotocol.com
 *.vfsevisa.com
 *.vfsglobal.(com|co.uk|ca)
@@ -1284,9 +1271,7 @@ Any Worldpay asset is in scope
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any host / web property verified to be owned by Segment (domains/IP space/etc.)	
 Any host or verified to be owned by Western Union (domains/IP space/etc.)
-Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Any host/web property verified to be owned by Twilio
-Any host/web property/mobile app verified to be owned by Indeed
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 Any other Epic games owned asset not listed in the out of scope section
 Any other Malwarebytes asset
@@ -2401,8 +2386,6 @@ TechCrunch
 Techcrunch
 Ternoa Indexer
 Ternoa Mainnet:
-Tesla Energy hardware you own
-Tesla vehicle hardware that you own
 Test environments
 Testnet Bridge Enclave Address: Avalanche
 Testnet Bridge Enclave address: Bitcoin
@@ -2637,7 +2620,6 @@ Your Own GitLab Instance
 Zendesk - https://trello.com/power-ups/56940ede94fd60cf95f7ce6a/zendesk
 Zero days that affect Intigriti or participating customers (listed below)
 [yourstore].company.site
-a.root-servers.net (DNS service; DNS related)
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 a4k.amazon.com
 a5s.hackerone-ext-content.com
@@ -3904,7 +3886,6 @@ enterprise-survey-asia-south1.truecaller.com
 enterprise-survey-noneu.truecaller.com
 enterprise-userfeedback-noneu.truecaller.com
 enterprise-webhooks-noneu.truecaller.com
-epptool-ctld.verisign-grs.com (EPP service; DNS related)
 erpx.unit4cloud.com/u4erx_pab_acp1
 erpx.unit4cloud.com/u4erx_pab_prev
 erpx.unit4cloud.com/u4erx_pab_prod
@@ -4226,7 +4207,6 @@ https://afterpay.com
 https://agent.alphax.com
 https://agent.apps.monash.edu/
 https://agentportal.westernunion.com
-https://aiagent.octopus.com/api/form
 https://airflow-prod.coda.io/*
 https://airflow-prod.ops.coda.io/*
 https://aiven.io/
@@ -4337,7 +4317,6 @@ https://api.yeswehack.com
 https://api3.pentest.clicsante.ca
 https://apis-v5.australiansuper.com/
 https://apis.australiansuper.com/
-https://apis.indeed.com/graphql
 https://app-eu1.hubspot.com
 https://app-staging.getmoneytree.com
 https://app.agency360.com
@@ -4409,7 +4388,6 @@ https://apps.apple.com/fr/app/infomaniak-mail/id1622596573
 https://apps.apple.com/fr/app/swapcard/id879488719
 https://apps.apple.com/fr/app/tchap/id1446253779
 https://apps.apple.com/gb/app/clearpay-buy-now-pay-later/id1474022186
-https://apps.apple.com/gb/app/indeed-flex-job-search/id1013812731
 https://apps.apple.com/gb/app/moneybox-save-and-invest/id1049797239
 https://apps.apple.com/id/app/dana/id1437123008
 https://apps.apple.com/ie/app/doctolib-siilo/id1083002150
@@ -4435,7 +4413,6 @@ https://apps.apple.com/ua/app/kuna-io-покупка-продажа-btc/id145706
 https://apps.apple.com/ua/app/raiffeisen-business-online/id1500897229
 https://apps.apple.com/ua/app/raiffeisen-online-ua/id1383858144?l=uk?l=uk
 https://apps.apple.com/ua/app/trustee-plus-crypto-neobank/id1634455978
-https://apps.apple.com/us/app/%E5%B1%A5%E6%AD%B4%E6%9B%B8%E4%BD%9C%E6%88%90-%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%89/id1484451230
 https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
 https://apps.apple.com/us/app/aex%E5%AE%89%E9%93%B6/id1542565144
 https://apps.apple.com/us/app/asana-mobile/id489969512
@@ -4462,13 +4439,10 @@ https://apps.apple.com/us/app/exzi-buy-sell-btc-eth-crypto/id6451389176
 https://apps.apple.com/us/app/hubspot/id1107711722
 https://apps.apple.com/us/app/id1512836089
 https://apps.apple.com/us/app/id583009522
-https://apps.apple.com/us/app/indeed-connect-for-employers/id6443822731
-https://apps.apple.com/us/app/indeed-job-search/id309735670
 https://apps.apple.com/us/app/jira-cloud-by-atlassian/id1006972087
 https://apps.apple.com/us/app/jira-server/id1405353949
 https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665	
 https://apps.apple.com/us/app/keeperchat/id1273303729?mt=12
-https://apps.apple.com/us/app/kucoin-buy-bitcoin-crypto/id1378956601?mt=8
 https://apps.apple.com/us/app/lastpass-authenticator/id1079110004
 https://apps.apple.com/us/app/lastpass-password-manager/id324613447
 https://apps.apple.com/us/app/lululemon/id920098546
@@ -4492,7 +4466,6 @@ https://apps.apple.com/us/app/syncup-tracker/id1526380335
 https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
 https://apps.apple.com/us/app/t-mobile/id561625752
 https://apps.apple.com/us/app/ternoa-wallet/id1562180877#?platform=iphone 
-https://apps.apple.com/us/app/tesla/id582007913
 https://apps.apple.com/us/app/tidex/id1632072370
 https://apps.apple.com/us/app/under-armour/id1092704571
 https://apps.apple.com/us/app/usaa-mobile/id312325565
@@ -4599,7 +4572,6 @@ https://blastscan.io/address/0xf683Ce59521AA464066783d78e40CD9412f33D21#code
 https://blockexplorer.electroneum.com
 https://blog.bitpanda.com/en
 https://blog.lastpass.com
-https://blog.verisign.com
 https://blog.whitebit.com/
 https://bluefin.io/
 https://bot-tester.datadome.co/
@@ -4677,7 +4649,6 @@ https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfa
 https://chrome.google.com/webstore/detail/private-internet-access/jplnlifepflhkbkgonidnobkakhmpnmh
 https://chrome.google.com/webstore/detail/stay-secure-with-cybergho/ffbkglfijbcbgblgflchnbphjdllaogb
 https://chrome.google.com/webstore/detail/xverse-wallet/idnnbdplmphpflfnlkomgpfbpcgelopg
-https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcmnfgpnmkkhmkllnlflef
 https://chromewebstore.google.com/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil?hl=en
 https://clearpay.co.uk
 https://clearpay.com
@@ -5089,7 +5060,6 @@ https://github.com/MystenLabs/sui/tree/testnet/external-crates/move
 https://github.com/MystenLabs/sui/tree/testnet/narwhal
 https://github.com/NXT-Technologies-INC/NXTChain/tree/main/Permission%20Smart%20Contract
 https://github.com/Nginx
-https://github.com/OctopusDeploy
 https://github.com/P2B-team/p2b-api-docs
 https://github.com/PandoraDigital/smart-contract
 https://github.com/ProjectOpenSea/seaport#deployments
@@ -5552,7 +5522,6 @@ https://kiwi.partner.viator.com
 https://knowledge.hubspot.com/connected-email/get-started-with-the-hubspot-sales-office-365-add-in
 https://knowledge.hubspot.com/inbox/set-up-a-customer-portal
 https://knowledge.newrelic.com/
-https://kucoin.com
 https://kw-bugcrowd-pub.bounty.kiteworks.dev/
 https://l.usaa.com/
 https://lab.epam.com
@@ -5983,8 +5952,6 @@ https://myshop.20min.ch
 https://myvpn.usaa.com
 https://mywallet-management-east.wallet.cat.earlywarning.io/
 https://mywallet-management-west.wallet.cat.earlywarning.io/
-https://namestudio.com
-https://namestudioforsocial.com/
 https://near.foundation/
 https://net.geo.opera.com
 https://newrelic.com/
@@ -5999,7 +5966,6 @@ https://nubank.com.mx
 https://nvoice.usaa.com/
 https://nw.ring.com/*
 https://oauth.ring.com/*
-https://octopus.com
 https://octopus.com/downloads
 https://oda.com
 https://odesli.co
@@ -6133,15 +6099,12 @@ https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.exzi.app
 https://play.google.com/store/apps/details?id=com.fcagroup.us.uconnect
 https://play.google.com/store/apps/details?id=com.hubspot.android&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
-https://play.google.com/store/apps/details?id=com.indeed.resume
 https://play.google.com/store/apps/details?id=com.infomaniak.drive
 https://play.google.com/store/apps/details?id=com.infomaniak.mail&hl=en_US
 https://play.google.com/store/apps/details?id=com.io.coinstore
 https://play.google.com/store/apps/details?id=com.irobot.home
 https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US	
 https://play.google.com/store/apps/details?id=com.keepersecurity.chat&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.kubi.kucoin
 https://play.google.com/store/apps/details?id=com.lastpass.authenticator&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.lastpass.lpandroid
 https://play.google.com/store/apps/details?id=com.limebike
@@ -6182,12 +6145,10 @@ https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.squareup.cash
 https://play.google.com/store/apps/details?id=com.swapcard.apps.android&hl=fr
-https://play.google.com/store/apps/details?id=com.syftapp.android
 https://play.google.com/store/apps/details?id=com.teamviewer.host.market&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.ternoa.wallet.prod
-https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.tidex.app.exchange
 https://play.google.com/store/apps/details?id=com.tmobile.drive
 https://play.google.com/store/apps/details?id=com.tmobile.kids
@@ -6296,7 +6257,6 @@ https://remoteaccess.westernunion.com
 https://rentals.tripadvisor.com
 https://reptox.cnesst.gouv.qc.ca
 https://res.cloudinary.com
-https://resume.com
 https://rewards.gdx.org/
 https://ring.com/*
 https://rusadminappt.vfsglobal.com/Global-Admin/
@@ -6527,7 +6487,6 @@ https://westernunionbank.com
 https://wiki.xenproject.org/wiki/Xen_Project_Repositories
 https://wise.com
 https://world.planethoster.net
-https://wowjobs.ca
 https://ws-{app-id}.calls.sendbird.com
 https://ws-{app-id}.sendbird.com
 https://ws.multiplayer.classdojo.com/
@@ -6794,7 +6753,6 @@ https://www.upwork.com
 https://www.usaa.com
 https://www.usaainsurance.com/
 https://www.vendhq.com/
-https://www.verisign.com
 https://www.vfsglobalservices-germany.com/Global-Appointment/
 https://www.vfsvisaservice.com/
 https://www.vfsvisaservice.com/IHC-SouthKorea-Appointment
@@ -6848,7 +6806,6 @@ https://wwws-staging.moneytree.jp/link/mobile/#/signup?client_id=38d99a6e8e9fc87
 https://x.woo.org/
 https://xyzbmojn.net/
 https://yeswehack.com
-https://youcouldbe.com
 hub-api-sandbox.remitly.io
 hub.myconnect.com.au
 hub.vroid.com
@@ -6956,7 +6913,6 @@ itv7.itv.com
 ius.ezvizlife.com
 iwgo.westernunion.com
 ix2smbdyjt.infomaniak.site
-j.root-servers.net (DNS service; DNS related)
 jimmobile.be
 jira.grab.com
 jira.hyattdev.com

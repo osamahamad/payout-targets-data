@@ -838,6 +838,17 @@ https://start.1password.com
 <Your own 1Password account> —> Latest stable, beta, or nightly iOS Build
 <Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension  (Chrome, Brave, Firefox, Edge, and Safari)
 <Your own 1Password account> —> https://events.1password.com/  (Event Reporting API is available on 1Password Business Accounts Only)
+<Your own 1Pasword Personal Account> --> https://my.1password.com/
+https://start.1password.com
+<Your own 1Password account> —> Latest stable, beta, or nightly MacOS Build
+<Your own 1Password account> —> Latest stable, beta, or nightly Android Build
+<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI) 
+<Your own 1Password Account subdomain --> https://<your account domain>.1password.com/
+<Your own 1Password account> —> Latest stable, beta, or nightly Windows Build
+<Your own 1Password account> —> Latest stable, beta, or nightly Linux Build
+<Your own 1Password account> —> Latest stable, beta, or nightly iOS Build
+<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension  (Chrome, Brave, Firefox, Edge, and Safari)
+<Your own 1Password account> —> https://events.1password.com/  (Event Reporting API is available on 1Password Business Accounts Only)
 Aiven for Apache Cassandra managed and hosted service
 Aiven for Clickhouse managed and hosted service
 Aiven for Dragonfly managed and hosted service
@@ -857,6 +868,16 @@ https://api.aiven.io/login
 https://github.com/Aiven-Open
 https://github.com/Aiven
 http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
+https://www.pornhub.com/
+https://mobile.pornhub.com/
+https://api.pornhub.com/
+https://www.pornhubpremium.com/
+https://www.redtube.com/
+https://www.redtubepremium.com/
+https://www.youporn.com/
+https://www.youpornpremium.com/
+https://pornhub.mainhub.com
+https://www.thumbzilla.com/
 https://www.pornhub.com/
 https://mobile.pornhub.com/
 https://api.pornhub.com/
@@ -1064,6 +1085,9 @@ https://www.cart.hostgator.com.br
 https://bugcrowd.hotdoc.com.au
 https://bugcrowd.hotdoc.com.au/api
 https://bugcrowd.hotdoc.com.au/dashboard
+https://bugcrowd.hotdoc.com.au
+https://bugcrowd.hotdoc.com.au/api
+https://bugcrowd.hotdoc.com.au/dashboard
 https://app.hubspot.com/
 https://app-eu1.hubspot.com
 https://api.hubspot.com/
@@ -1089,18 +1113,6 @@ https://link.x.immutable.com/
 https://market.immutable.com/
 https://docs.immutable.com/
 imx.community
-https://apis.indeed.com/graphql
-https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
-https://apps.apple.com/us/app/indeed-job-search/id309735670
-https://play.google.com/store/apps/details?id=com.syftapp.android
-https://apps.apple.com/gb/app/indeed-flex-job-search/id1013812731
-https://resume.com
-https://wowjobs.ca
-https://apps.apple.com/us/app/%E5%B1%A5%E6%AD%B4%E6%9B%B8%E4%BD%9C%E6%88%90-%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%89/id1484451230
-https://play.google.com/store/apps/details?id=com.indeed.resume
-https://apps.apple.com/us/app/indeed-connect-for-employers/id6443822731
-https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcmnfgpnmkkhmkllnlflef
-Any host/web property/mobile app verified to be owned by Indeed
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
 https://api.intercom.com
 https://app.intercom.com
@@ -1172,9 +1184,6 @@ https://keepersecurity.com/console
 https://docs.keeper.io/en/v/secrets-manager
 https://docs.keeper.io/sso-connect-guide/
 https://docs.keeper.io/sso-connect-cloud/
-https://kucoin.com
-https://apps.apple.com/us/app/kucoin-buy-bitcoin-crypto/id1378956601?mt=8
-https://play.google.com/store/apps/details?id=com.kubi.kucoin
 https://lastpass.com
 https://lastpass.com/misc_download2.php
 https://lastpass.com/misc_download2.php
@@ -1319,9 +1328,6 @@ https://learn.newrelic.com/
 https://developer.newrelic.com/
 https://octopus.com/downloads
 https://octopus.com/downloads
-https://github.com/OctopusDeploy
-https://octopus.com
-https://aiagent.octopus.com/api/form
 https://pentest-app.onetrust.com/
 https://auth.opera.com
 https://accounts.opera.com
@@ -1485,6 +1491,7 @@ Skyscanner Android app
 Skyscanner iOS app
 https://smartmockups.com/
 https://snapnames.com/
+https://snapnames.com/
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
 XG Firewall - Pre-auth RCE
 https://central.sophos.com
@@ -1555,11 +1562,6 @@ https://infiniteathlete.ai
 https://platform.infiniteathlete.ai
 https://docs.tempus-ex.com
 https://github.com/tempus-ex
-https://apps.apple.com/us/app/tesla/id582007913
-Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
-https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
-Tesla Energy hardware you own
-Tesla vehicle hardware that you own
 https://api.thousandeyes.com/
 https://app.thousandeyes.com/
 https://www.thousandeyes.com/
@@ -1582,6 +1584,9 @@ https://pcm-admin.20min.ch
 https://pcm-imaginary.20min.ch
 https://pcm.20min.ch
 https://screenplayer.20min.ch
+https://opendata-demo.test-socrata.com
+https://opendata.test-socrata.com
+https://opendata.test-socrata.com/admin/gateway
 https://opendata-demo.test-socrata.com
 https://opendata.test-socrata.com
 https://opendata.test-socrata.com/admin/gateway
@@ -1636,15 +1641,6 @@ https://vlapi.usaa.com
 https://webmail.usaa.com
 https://ws.usaa.com
 https://wsmbr.usaa.com/
-epptool-ctld.verisign-grs.com (EPP service; DNS related)
-a.root-servers.net (DNS service; DNS related)
-j.root-servers.net (DNS service; DNS related)
-https://www.verisign.com
-https://youcouldbe.com
-https://blog.verisign.com
-https://namestudioforsocial.com/
-https://namestudio.com
-https://www.verisign.com
 https://www.web.com
 http://www.register.com
 https://www.networksolutions.com
