@@ -1,21 +1,32 @@
-*.autobild.de
-*.bild.de
-*.bild.tv
-*.bz-berlin.de
-*.computerbild.de
-*.ein-herz-fuer-kinder.de
-*.fitbook.de
-*.myhomebook.de
-*.petbook-magazine.com/
-*.petbook.de
-*.spring-media.de
-*.springtools.de
-*.stylebook.de
-*.techbook.de
-*.travelbook.de
-*.welt.de
-*.wissen-sie-mehr.de
-https://dealer.prod.ps.axelspringer.de/api/v1/partners/{partnerId}/activation
-https://dealer.prod.ps.axelspringer.de/purchases/004/bild/*
-https://dealer.prod.ps.axelspringer.de/purchases/004/welt/*
-https://secure.mypass.de/
+ Finicity Connect
+Finicity - OBB (Open Banking Business Service) 
+Finicity Decisioning
+Finicity- Data Services
+Finicity- Open Banking Payment History application
+Public Others Target
+SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope
+https://consumer.finicityreports.com
+https://demo.priceless.com/
+https://developer.mastercard.com
+https://donate.mastercard.com
+https://europe.priceless.com/shb
+https://filezilla-project.org/download.php?type=server&show_all=1
+https://performancemarketing.mastercard.com/portal/
+https://priceless.com/aa/
+https://priceless.com/aviator/
+https://priceless.com/citiaadvantage/
+https://priceless.com/golf/
+https://pricelesssurprises.com/
+https://src.mastercard.com/*
+https://src.mastercard.com/profile/enroll
+https://svn.filezilla-project.org/svn/FileZilla3/trunk/
+https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
+https://svn.filezilla-project.org/svn/libfilezilla/trunk
+https://svn.filezilla-project.org/svn/libfilezilla/trunk/
+https://www.finicity.com
+https://www.mastercard.ch/de-ch.html
+https://www.mastercard.ch/fr-ch.html
+https://www.mastercard.com.au/en-au.html
+https://www.mastercard.nl/nl-nl.html
+https://www.mastercard.us/en-us.html
+https://www.simplify.com/commerce/ 
