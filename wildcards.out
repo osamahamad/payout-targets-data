@@ -27,7 +27,6 @@
 *.adobecqms.net
 *.adultforce.com
 *.advisorsolutions.gs.com
-*.afterpay.com
 *.aips-internal.com
 *.airbnb-aws.com
 *.airbnb.com
@@ -85,7 +84,6 @@
 *.atlastunnel.com
 *.atspotify.com
 *.audicagame.com
-*.autobild.de
 *.avalabs.org
 *.avax-dev.network
 *.avax-test.network
@@ -109,8 +107,6 @@
 *.betviewapi.com
 *.big.one
 *.bigone.com
-*.bild.de
-*.bild.tv
 *.binary.com
 *.bingo.com
 *.bingx.com
@@ -148,7 +144,6 @@
 *.byairbnb.com
 *.bybit.com
 *.byspotify.com
-*.bz-berlin.de
 *.c-point.be
 *.canva.cn
 *.canva.com
@@ -156,7 +151,6 @@
 *.capital.com
 *.captcha-delivery.com
 *.carrentals.com
-*.cash.app
 *.cashstaging.app
 *.casinohuone.com
 *.cb.dev
@@ -183,7 +177,6 @@
 *.cloud.vimeo.com
 *.cloudflare.com
 *.cloudflarepartners.com
-*.cloudvector.com/
 *.cloudways.com
 *.clubhouse.com
 *.clubhouseapi.com
@@ -196,7 +189,6 @@
 *.coinmetro.com
 *.coinsbit.io
 *.comcast.com
-*.computerbild.de
 *.consumer.worldcoin.org
 *.contentsquare.com
 *.cornershop.io/*
@@ -252,7 +244,6 @@
 *.east.fdbox.net
 *.easy.ac
 *.eat.ch
-*.ein-herz-fuer-kinder.de
 *.elastic.co
 *.elasticnet.co
 *.elstc.co
@@ -289,7 +280,6 @@
 *.financialforce.com
 *.finlife.com
 *.finlifepartners.com
-*.fitbook.de
 *.flickr.com
 *.flipkey.com
 *.floqast.app
@@ -348,6 +338,7 @@
 *.gsam.com
 *.gspublishing.com
 *.gsselect.com
+*.gtld-servers.net (DNS service; DNS related)
 *.guilded.gg
 *.guildofguardians.com
 *.hackerone-ext-content.com
@@ -395,6 +386,10 @@
 *.imperva.com
 *.imtbl.com
 *.incapsula.com
+*.indeed.com
+*.indeed.net
+*.indeed.tech
+*.indeedflex.com
 *.indrive.com
 *.indriver.com
 *.indriver.io
@@ -438,7 +433,6 @@
 *.krisp.ai
 *.kucoin.com
 *.kwsdose.be
-*.lab.epam.com
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.lastminute.co.nz
@@ -514,7 +508,6 @@
 *.mwb-threatintel.com
 *.mwbsys.com
 *.myharmony.com
-*.myhomebook.de
 *.myinsights.io
 *.mysqueezebox.com
 *.myteksi.com
@@ -545,10 +538,9 @@
 *.nkstatic.com
 *.nnip.com
 *.nordvpn.com
-*.nr-data.net
-*.nr-ops.net
 *.nuinvest.com.br	
 *.numberfire.com
+*.octopus.com
 *.oda.com
 *.odcdn.com.au
 *.okcoin.com
@@ -560,7 +552,6 @@
 *.onegraph.com
 *.openai.com
 *.openai.org
-*.opensource.epam.com
 *.opera-mini.net
 *.opera.com
 *.opera.news
@@ -594,8 +585,7 @@
 *.personio-internal.de
 *.personio.de
 *.personio.tools
-*.petbook-magazine.com/
-*.petbook.de
+*.personiowhistleblowing.com
 *.pinterest.com Web Apps
 *.plannthat.com
 *.platformservices.io
@@ -619,7 +609,6 @@
 *.prod.fdbox.net
 *.prod.ftl.netflix.com
 *.prod.nube.tech
-*.projects.epam.com
 *.proofhq.com
 *.prosus.com
 *.prowly.com
@@ -732,14 +721,13 @@
 *.smartcontract.com
 *.snooguts.net
 *.sol-data.com
+*.solarcity.com
 *.sonyentertainmentnetwork.com
 *.sophos.com
 *.soundcloud.org
 *.spiketrap.io
 *.spinaway.com
 *.sportinglife.com
-*.spring-media.de
-*.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sqills.com
@@ -757,7 +745,6 @@
 *.streamlabs.com
 *.streamlabscharity.com
 *.stripe.com
-*.stylebook.de
 *.subp-router.hereapi.com
 *.superawesome.com
 *.superawesome.tv
@@ -776,15 +763,18 @@
 *.taralite.com
 *.tdl.sh
 *.teams.cloudflare.com
-*.techbook.de
 *.telenor.se
+*.tesla.cn
+*.tesla.com
+*.tesla.services
+*.teslainsuranceservices.com
+*.teslamotors.com
 *.testdrive.workfront.com
 *.testnet.immutable.com
 *.threatdown.com
 *.thuisbezorgd.nl
 *.ticketing.cm.com
 *.tickets.ua
-*.tidal.com
 *.tidalhifi.com
 *.tide.co
 *.tiktok.com
@@ -799,15 +789,11 @@
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trafficjunky.com
 *.transferwise.com
-*.travelbook.de
 *.travelocity.ca
 *.travelocity.com
 *.trello.services
 *.trip.com
 *.trouw.nl
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tt.omtrdc.net
@@ -841,6 +827,7 @@
 *.venmo.com
 *.vennhypotheken.nl
 *.veriff.com
+*.verisign-grs.com (DNS service; DNS related)
 *.vertexprotocol.com
 *.vfsevisa.com
 *.vfsglobal.(com|co.uk|ca)
@@ -863,7 +850,6 @@
 *.water-link.be/
 *.wavecell.com
 *.wealthsimple.com
-*.welt.de
 *.wenewmoments.com
 *.werkenbijgamma.be
 *.werkenbijgamma.nl
@@ -873,7 +859,6 @@
 *.whois.eu
 *.wimpmusic.com
 *.wise.com
-*.wissen-sie-mehr.de
 *.withairbnb.com
 *.withbuddies.com
 *.withspotify.com
@@ -929,7 +914,6 @@ matrix.agent.*.tchap.gouv.fr
 munin-*.wordpress.org
 onboarding-*.cloud.com
 open redirect at *.epam.com
-portalapi.*.afterpay.com
 prod-*.nu.com.co
 prod-*.nu.com.mx
 prod-*.nubank.com.br
