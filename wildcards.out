@@ -337,6 +337,7 @@
 *.gsam.com
 *.gspublishing.com
 *.gsselect.com
+*.gtld-servers.net (DNS service; DNS related)
 *.guilded.gg
 *.guildofguardians.com
 *.hackerone-ext-content.com
@@ -548,6 +549,7 @@
 *.nordvpn.com
 *.nuinvest.com.br	
 *.numberfire.com
+*.octopus.com
 *.oda.com
 *.odcdn.com.au
 *.okcoin.com
@@ -837,6 +839,7 @@
 *.venmo.com
 *.vennhypotheken.nl
 *.veriff.com
+*.verisign-grs.com (DNS service; DNS related)
 *.vertexprotocol.com
 *.vfsevisa.com
 *.vfsglobal.(com|co.uk|ca)

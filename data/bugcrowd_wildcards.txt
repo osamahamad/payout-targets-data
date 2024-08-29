@@ -89,6 +89,7 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.linktree-extensions.com
 *.plannthat.com
 *.bbp-mettle.co.uk
+*.octopus.com
 *.opera.software
 *.osp.opera.software
 *.opera.technology
@@ -144,6 +145,8 @@ api-*.soundcloud.com
 *.wimpmusic.com
 *.tidalhifi.com
 *.tdl.sh
+*.gtld-servers.net (DNS service; DNS related)
+*.verisign-grs.com (DNS service; DNS related)
 *.transferwise.com
 *.wise.com
 *.etsy.com
