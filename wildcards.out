@@ -345,6 +345,7 @@
 *.gsam.com
 *.gspublishing.com
 *.gsselect.com
+*.gtld-servers.net (DNS service; DNS related)
 *.guilded.gg
 *.guildofguardians.com
 *.hackerone-ext-content.com
@@ -385,7 +386,6 @@
 *.hyperpure.com
 *.hyperwallet.com
 *.hypr.com
-*.igpayment.com
 *.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
@@ -402,8 +402,6 @@
 *.indriverapp.com
 *.indriverjob.com
 *.infra-prod.nsvcs.net
-*.innogames.com
-*.innogames.de
 *.instacart.com
 *.instacart.tools
 *.int.remitly.com
@@ -557,6 +555,7 @@
 *.nordvpn.com
 *.nuinvest.com.br	
 *.numberfire.com
+*.octopus.com
 *.oda.com
 *.odcdn.com.au
 *.okcoin.com
@@ -853,6 +852,7 @@
 *.venmo.com
 *.vennhypotheken.nl
 *.veriff.com
+*.verisign-grs.com (DNS service; DNS related)
 *.vertexprotocol.com
 *.vfsevisa.com
 *.vfsglobal.(com|co.uk|ca)
