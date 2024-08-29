@@ -2119,7 +2119,6 @@ Other assets
 Other assets owned by Personio
 Other non-production infrastructure
 Other publicly-released plugins
-Other ynab.com domains not listed
 P2P functionality
 PHP SDK
 PIA APIs
@@ -6314,7 +6313,6 @@ https://src.mastercard.com/*
 https://src.mastercard.com/profile/enroll
 https://staff.monash
 https://stage.film.io 
-https://staging-app.ynab.com
 https://staging-prime.navan.com
 https://staging.coda.io/*
 https://staging.gearset.com/
@@ -7789,6 +7787,7 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 staging-admin.shipt.com
 staging-api.shipt.com
 staging-apigateway.vidaxl.io
+staging-app.bany.dev
 staging-app.shipt.com
 staging-db.vidaxl.io
 staging-shop.shipt.com
