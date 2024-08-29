@@ -111,6 +111,7 @@
 *.atlastunnel.com
 *.atspotify.com
 *.audicagame.com
+*.autobild.de
 *.avalabs.org
 *.avax-dev.network
 *.avax-test.network
@@ -134,6 +135,8 @@
 *.betviewapi.com
 *.big.one
 *.bigone.com
+*.bild.de
+*.bild.tv
 *.binary.com
 *.bingo.com
 *.bingx.com
@@ -171,6 +174,7 @@
 *.byairbnb.com
 *.bybit.com
 *.byspotify.com
+*.bz-berlin.de
 *.c-point.be
 *.canva.cn
 *.canva.com
@@ -216,6 +220,7 @@
 *.coinmetro.com
 *.coinsbit.io
 *.comcast.com
+*.computerbild.de
 *.consumer.worldcoin.org
 *.contentsquare.com
 *.cornershop.io/*
@@ -271,6 +276,7 @@
 *.east.fdbox.net
 *.easy.ac
 *.eat.ch
+*.ein-herz-fuer-kinder.de
 *.elastic.co
 *.elasticnet.co
 *.elstc.co
@@ -307,6 +313,7 @@
 *.financialforce.com
 *.finlife.com
 *.finlifepartners.com
+*.fitbook.de
 *.flickr.com
 *.flipkey.com
 *.floqast.app
@@ -365,7 +372,6 @@
 *.gsam.com
 *.gspublishing.com
 *.gsselect.com
-*.gtld-servers.net (DNS service; DNS related)
 *.guilded.gg
 *.guildofguardians.com
 *.hackerone-ext-content.com
@@ -453,7 +459,14 @@
 *.kdrive.infomaniak.com
 *.kes.kindredext.net
 *.kindredext.net
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
 *.kiwi.com
+*.klubcinema.fr
 *.kolikkopelit.com
 *.korta.is
 *.kortathjonustan.is
@@ -462,6 +475,7 @@
 *.kwsdose.be
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
+*.landmarkcinemas.com
 *.lastminute.co.nz
 *.lastminute.com.au
 *.libelle.nl
@@ -509,6 +523,7 @@
 *.mdvmm.xyz
 *.mediatonic.co.uk
 *.meebits.app
+*.megatix.be
 *.melonapp.com
 *.memorable.io
 *.meraki.com
@@ -519,6 +534,7 @@
 *.miui.com
 *.miwifi.com
 *.mixamo.com
+*.mjrtheatres.com
 *.mmcdn.com
 *.mmwebc.dev
 *.mobilevikings.be
@@ -535,6 +551,7 @@
 *.mwb-threatintel.com
 *.mwbsys.com
 *.myharmony.com
+*.myhomebook.de
 *.myinsights.io
 *.mysqueezebox.com
 *.myteksi.com
@@ -567,7 +584,6 @@
 *.nordvpn.com
 *.nuinvest.com.br	
 *.numberfire.com
-*.octopus.com
 *.oda.com
 *.odcdn.com.au
 *.okcoin.com
@@ -613,6 +629,8 @@
 *.personio.de
 *.personio.tools
 *.personiowhistleblowing.com
+*.petbook-magazine.com/
+*.petbook.de
 *.pinterest.com Web Apps
 *.plannthat.com
 *.platformservices.io
@@ -755,6 +773,8 @@
 *.spiketrap.io
 *.spinaway.com
 *.sportinglife.com
+*.spring-media.de
+*.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sqills.com
@@ -772,6 +792,7 @@
 *.streamlabs.com
 *.streamlabscharity.com
 *.stripe.com
+*.stylebook.de
 *.subp-router.hereapi.com
 *.superawesome.com
 *.superawesome.tv
@@ -790,6 +811,7 @@
 *.taralite.com
 *.tdl.sh
 *.teams.cloudflare.com
+*.techbook.de
 *.telenor.se
 *.tesla.cn
 *.tesla.com
@@ -816,11 +838,15 @@
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trafficjunky.com
 *.transferwise.com
+*.travelbook.de
 *.travelocity.ca
 *.travelocity.com
 *.trello.services
 *.trip.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tt.omtrdc.net
@@ -854,7 +880,6 @@
 *.venmo.com
 *.vennhypotheken.nl
 *.veriff.com
-*.verisign-grs.com (DNS service; DNS related)
 *.vertexprotocol.com
 *.vfsevisa.com
 *.vfsglobal.(com|co.uk|ca)
@@ -877,6 +902,7 @@
 *.water-link.be/
 *.wavecell.com
 *.wealthsimple.com
+*.welt.de
 *.wenewmoments.com
 *.werkenbijgamma.be
 *.werkenbijgamma.nl
@@ -886,6 +912,7 @@
 *.whois.eu
 *.wimpmusic.com
 *.wise.com
+*.wissen-sie-mehr.de
 *.withairbnb.com
 *.withbuddies.com
 *.withspotify.com
@@ -1070,6 +1097,7 @@
 4njbets.tvg.com
 4njbets.tvgnetwork.com
 4njbets.us.betfair.com
+522089287
 524362642
 531549799
 539883307
@@ -1443,6 +1471,7 @@ Burp Suite Enterprise Edition
 Burp Suite Extension (BApps)
 Burp Suite Pro/Community
 Butler for Trello
+C# SDK
 C100447517
 C103149579
 C2PA Tool
@@ -1804,6 +1833,7 @@ IoS App
 Ipython Notebook Viewer - Cloud - https://marketplace.atlassian.com/apps/1218117/ipython-notebook-viewer?hosting=cloud
 Issue Edit Notifications for Jira - Server - https://marketplace.atlassian.com/apps/1211504/issue-edit-notifications-for-jira?hosting=server
 JMeter Aggregator for Bamboo - Server - https://marketplace.atlassian.com/apps/5902/jmeter-aggregator-for-bamboo?hosting=server
+Java SDK
 JavaScript Charts for Jira Cloud - Cloud - https://marketplace.atlassian.com/apps/1214527/javascript-charts-for-jira-cloud?hosting=cloud
 Jenkins for Jira (official) - Cloud - https://marketplace.atlassian.com/apps/1227791/jenkins-for-jira-official?hosting=cloud
 Jenkins integration for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1222132/jenkins-integration-for-bitbucket-server?hosting=server
@@ -2106,6 +2136,7 @@ Other non-production infrastructure
 Other publicly-released plugins
 Other ynab.com domains not listed
 P2P functionality
+PHP SDK
 PIA APIs
 PIA Android application
 PIA Chrome extension
@@ -2198,6 +2229,7 @@ Questions for Confluence - DataCenter - https://marketplace.atlassian.com/apps/1
 Questions for Confluence - Server - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=server
 Queue Priority Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1216287/queue-priority-plugin-for-bamboo?hosting=server
 RYOT
+React Native SDK
 Read Me - https://trello.com/power-ups/5a2de0c41ae4a1537bb0055d/read-me
 Recon Data
 Reconcile unknown attachments - Data Center - https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hosting=datacenter
@@ -2410,6 +2442,8 @@ Troubleshooting and Support - Crowd - Server - https://marketplace.atlassian.com
 Troubleshooting and Support - FeCru - Server - https://marketplace.atlassian.com/apps/1217747/troubleshooting-and-support-fecru?hosting=server
 Troubleshooting and Support - Jira - DataCenter - https://marketplace.atlassian.com/apps/1217696/troubleshooting-and-support-jira?hosting=datacenter
 Troubleshooting and Support - Jira - Server - https://marketplace.atlassian.com/apps/1217696/troubleshooting-and-support-jira?hosting=server
+TrueLayer for Magento (Magento plugin)
+TrueLayer for WooCommerce (WordPress plugin)
 Trustwallet Android App
 Trustwallet Chrome Extension
 Trustwallet iOS App
@@ -2503,6 +2537,7 @@ Watsons.Turkey.iOS
 Web
 Web Playback SDK
 Web Post Hooks for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1211539/web-post-hooks-for-bitbucket-server?hosting=server
+Web SDK
 Web of Trust Specification
 Web v2
 Web3 Smart Contract
@@ -2583,7 +2618,6 @@ Your Own GitLab Instance
 Zendesk - https://trello.com/power-ups/56940ede94fd60cf95f7ce6a/zendesk
 Zero days that affect Intigriti or participating customers (listed below)
 [yourstore].company.site
-a.root-servers.net (DNS service; DNS related)
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 a4k.amazon.com
 a5s.hackerone-ext-content.com
@@ -2869,6 +2903,7 @@ api.tideplatform.in
 api.topperpay.com
 api.trello.com
 api.tripadvisor.com
+api.truelayer[-sandbox].com
 api.tumblr.com
 api.twilio.com
 api.unity.com
@@ -3046,6 +3081,7 @@ auth.preprod.monespacesante.fr
 auth.seek.com
 auth.services.adobe.com
 auth.skypicker.com
+auth.truelayer[-sandbox].com
 auth.ys7.com
 auth0.com	
 auth0.net
@@ -3134,6 +3170,7 @@ booking.applevacations.com
 booking.beachbound.com
 booking.cheapcaribbean.com
 booking.com
+booking.mjrtheatres.com
 bookus.expediacruises.com
 booth.pm
 boundary.ic0.app
@@ -3156,6 +3193,9 @@ bullsheet.me
 business.australiansuper.com
 business.booking.com/
 business.kayak.com
+business.kinepolis.be
+business.kinepolis.lu
+business.kinepolis.nl
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
@@ -3406,6 +3446,7 @@ com.hotwire.hotels
 com.hypr.one
 com.immediasemi.android.blink
 com.instacart.client
+com.inthepocket.kinepolis
 com.iphone.workfront
 com.irccloud.IRCCloud
 com.irccloud.android
@@ -3599,10 +3640,12 @@ connect.deezer.com
 connect.identity.stagaws.visma.com
 connect.monash.edu
 connect.venly.io
+console-backend.truelayer[-sandbox].com
 console.chainstack.com
 console.circle.com
 console.dashlane.com
 console.tink.com
+console.truelayer[-sandbox].com
 contact-lists-eu.truecaller.com
 contact-lists-noneu.truecaller.com
 contact-request-stateless-eu.truecaller.com
@@ -3836,7 +3879,6 @@ enterprise-survey-asia-south1.truecaller.com
 enterprise-survey-noneu.truecaller.com
 enterprise-userfeedback-noneu.truecaller.com
 enterprise-webhooks-noneu.truecaller.com
-epptool-ctld.verisign-grs.com (EPP service; DNS related)
 erpx.unit4cloud.com/u4erx_pab_acp1
 erpx.unit4cloud.com/u4erx_pab_prev
 erpx.unit4cloud.com/u4erx_pab_prod
@@ -3872,6 +3914,8 @@ external.logitech.com
 extranet-asa.uzleuven.be
 extranet.s-pankki.fi
 extranet.uzleuven.be
+extras-acc.landmarkcinemas.com
+extras.landmarkcinemas.com
 falcon-sandbox.com
 fanduel.com
 fareharborsites.com
@@ -4031,6 +4075,7 @@ horizonchaseturbo.com
 hotel-deals.marriott.com
 hotornot.com
 hpanel.hostinger.com
+hpp.truelayer[-sandbox].com
 ht.visa.com
 http://agenttraining.westernunion.com
 http://analytics.prosus.com
@@ -4157,7 +4202,6 @@ https://afterpay.com
 https://agent.alphax.com
 https://agent.apps.monash.edu/
 https://agentportal.westernunion.com
-https://aiagent.octopus.com/api/form
 https://airflow-prod.coda.io/*
 https://airflow-prod.ops.coda.io/*
 https://aiven.io/
@@ -4529,7 +4573,6 @@ https://blastscan.io/address/0xf683Ce59521AA464066783d78e40CD9412f33D21#code
 https://blockexplorer.electroneum.com
 https://blog.bitpanda.com/en
 https://blog.lastpass.com
-https://blog.verisign.com
 https://blog.whitebit.com/
 https://bluefin.io/
 https://bot-tester.datadome.co/
@@ -4741,6 +4784,9 @@ https://datadome.co
 https://dataportal.originenergy.com.au
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
 https://dcfgatewaytst1.marriott.com/
+https://dealer.prod.ps.axelspringer.de/api/v1/partners/{partnerId}/activation
+https://dealer.prod.ps.axelspringer.de/purchases/004/bild/*
+https://dealer.prod.ps.axelspringer.de/purchases/004/welt/*
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
 https://demo.priceless.com/
@@ -5012,7 +5058,6 @@ https://github.com/MystenLabs/sui/tree/testnet/external-crates/move
 https://github.com/MystenLabs/sui/tree/testnet/narwhal
 https://github.com/NXT-Technologies-INC/NXTChain/tree/main/Permission%20Smart%20Contract
 https://github.com/Nginx
-https://github.com/OctopusDeploy
 https://github.com/P2B-team/p2b-api-docs
 https://github.com/PandoraDigital/smart-contract
 https://github.com/ProjectOpenSea/seaport#deployments
@@ -5875,6 +5920,8 @@ https://mobileapps.usaa.com/
 https://monash.app.nutrip.com
 https://monashcollege.edu.au
 https://monster-customizer.classdojo.com/cf6dfa68-1a81-4c6d-bc0b-38f3666b37d6/index.html
+https://movieclub-int.kinepolis.com
+https://movienow-int.kinepolis.be/admin
 https://mstatic.usaa.com
 https://my.ampol.com.au/
 https://my.arlo.com
@@ -5901,8 +5948,6 @@ https://myshop.20min.ch
 https://myvpn.usaa.com
 https://mywallet-management-east.wallet.cat.earlywarning.io/
 https://mywallet-management-west.wallet.cat.earlywarning.io/
-https://namestudio.com
-https://namestudioforsocial.com/
 https://near.foundation/
 https://net.geo.opera.com
 https://newsletter.thuisbezorgd.nl
@@ -5915,7 +5960,6 @@ https://nubank.com.mx
 https://nvoice.usaa.com/
 https://nw.ring.com/*
 https://oauth.ring.com/*
-https://octopus.com
 https://octopus.com/downloads
 https://oda.com
 https://odesli.co
@@ -6228,6 +6272,7 @@ https://screenplayer.20min.ch
 https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secure-iphone-xml.booking.com/json/
 https://secure.cuehit.net
+https://secure.mypass.de/
 https://secure.neogov.com
 https://secure.vendhq.com
 https://secure.westernunion.com
@@ -6251,6 +6296,7 @@ https://service.post.ch/zopa/app/
 https://service.sitemercado.com.br
 https://sg.westernunion.com
 https://shiny.ops.coda.io/*
+https://shop-acc.kinepolis.be/
 https://shop.ifood.com.br
 https://shop.lululemon.com
 https://shop.monash.edu/
@@ -6706,7 +6752,6 @@ https://www.upwork.com
 https://www.usaa.com
 https://www.usaainsurance.com/
 https://www.vendhq.com/
-https://www.verisign.com
 https://www.vfsglobalservices-germany.com/Global-Appointment/
 https://www.vfsvisaservice.com/
 https://www.vfsvisaservice.com/IHC-SouthKorea-Appointment
@@ -6760,7 +6805,6 @@ https://wwws-staging.moneytree.jp/link/mobile/#/signup?client_id=38d99a6e8e9fc87
 https://x.woo.org/
 https://xyzbmojn.net/
 https://yeswehack.com
-https://youcouldbe.com
 hub-api-sandbox.remitly.io
 hub.myconnect.com.au
 hub.vroid.com
@@ -6802,6 +6846,8 @@ identity.monash.edu
 identity.nba.com
 identity.stage.vismaonline.com
 identity.yoti.com
+identityserver-acc.landmarkcinemas.com
+identityserver.landmarkcinemas.com
 idp-contact.nexuzhealth.be
 idp-mobile.nexuzhealth.be
 idp.fr.cloud.gov
@@ -6866,7 +6912,6 @@ itv7.itv.com
 ius.ezvizlife.com
 iwgo.westernunion.com
 ix2smbdyjt.infomaniak.site
-j.root-servers.net (DNS service; DNS related)
 jimmobile.be
 jira.grab.com
 jira.hyattdev.com
@@ -6893,6 +6938,9 @@ kassa.gamma.nl/*
 kassa.karwei.nl/*
 kb.databricks.com
 kbill.mackeeper.com
+kinepolis-studio.be
+kinepolis.megatix.be
+kinepolis/id368204284
 kissandfly.com
 kit.snapchat.com
 kiwi.partner.viator.com
@@ -6957,6 +7005,7 @@ logilife.logitech.com
 login-4ngbets.us.betfair.com
 login-4njbets.us.betfair.com
 login-accpt.portofantwerpbruges.com
+login-api.truelayer[-sandbox].com
 login-ia.tvg.com
 login-pabets.tvg.com
 login-test.portofantwerpbruges.com/poam/XUI/
@@ -6977,6 +7026,7 @@ login.portofantwerpbruges.com
 login.starbucks.co.jp
 login.swapcard.com
 login.swisspass.ch
+login.truelayer[-sandbox].com
 login.tvg.com
 login.venly.io
 login.vrt.be
@@ -6991,6 +7041,9 @@ logs.nextcloud.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 lookup.nextcloud.com
 louvre.veriff.me
+luxfilmfestfilms.megatix.be
+luxfilmfestproducts.megatix.be
+luxfilmfesttickets.megatix.be
 m.4njbets.tvg.com
 m.airbnb.com
 m.avtoelon.uz
@@ -7116,6 +7169,7 @@ moneybirdstorage.com
 mongodb.live/*
 monitor.mozilla.org
 moonpay.com
+movieapi.kinepolis.megatix.be
 mozilla-pontoon-staging.herokuapp.com
 msg.playcanvas.com
 mspshowcase.arubanetworks.com
@@ -7253,6 +7307,7 @@ npmjs.com
 npmjs.org
 nvio.ar
 nvio.mx
+nz.co.vista.android.movie.mjrtheatres
 oauth-account-asia-south1.truecaller.com
 oauth-portal-asia-south1.truecaller.com
 oauth-portal-noneu.truecaller.com
@@ -7269,6 +7324,7 @@ omgpro.airbnb.com
 on-premises software
 on-ramp.metaswap-dev.codefi.network
 onboarding-*.cloud.com
+onboarding-api.truelayer.com
 onboarding.cloud.com
 onboarding.greenhouse.io
 ondemand-vrt.akamaized.net
@@ -7335,21 +7391,26 @@ partners.shopify.com
 passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
+pay-api.truelayer[-sandbox].com
 pay-sandbox.gocardless.com
 pay.8x8.com
 pay.crypto.com
 pay.ibex.exchange
 pay.monashcollege.edu.au
 pay.tokopediax.com
+pay.truelayer[-sandbox].com
 pay.unity.com
 paybridge.booking.com
+paydirect.truelayer[-sandbox].com
 payment.backend-capital.com
 payment.deezer.com
 payment.pixiv.net
+payment.truelayer[-sandbox].com
 paymentcomponent.booking.com
 payments.hostinger.com
 paynotifications.booking.com
 payoneer.com.cn
+payouts.truelayer[-sandbox].com
 paypal.me
 paypalobjects.com
 payroll.razorpay.com
@@ -7634,6 +7695,10 @@ shop.dyson.tw
 shop.humo.be
 shop.infomaniak.com
 shop.judge.me
+shop.kinepolis.be
+shop.kinepolis.es
+shop.kinepolis.fr
+shop.kinepolis.lu
 shop.lululemon.com
 shop.monash.edu
 shop.parool.nl
@@ -7702,6 +7767,7 @@ sso.marriott.com
 sso.oft.hyatt.com
 ssu.myconnect.com.au/signup/get-connected 
 stage.bittrex.com
+stage.landmarkcinemas.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 staging-admin.shipt.com
 staging-api.shipt.com
@@ -7851,6 +7917,12 @@ teststs.uzleuven.be
 theblog.adobe.com
 therapeutics.23andme.com
 therecord.media
+tickets.kinepolis.be
+tickets.kinepolis.ch
+tickets.kinepolis.es
+tickets.kinepolis.fr
+tickets.kinepolis.lu
+tickets.kinepolis.nl
 tickets.kz/my
 tickets.metamask.io
 tiktok.com
@@ -7878,6 +7950,7 @@ trm.pinepaymentsolutions.com
 truck-api.eu-east-1.indriverapp.com
 truehelper-eu.truecaller.com
 truehelper-noneu.truecaller.com
+truelayer-signing
 try.discourse.org
 tunnistus.lahitapiola.fi
 tunnistus.s-ryhma.fi
@@ -7926,6 +7999,9 @@ user-profile-staging.8x8.com
 user-profile.8x8.com
 usercontent.apps.nextcloud.com
 usercontent.koho.ca
+userprofile-acc.landmarkcinemas.com
+userprofile-ui.landmarkcinemas.com
+users-api.truelayer.com
 uwa.mobilevikings.be
 uz.avtoelon
 uzlcm12cmg1.uzleuven.be
@@ -8012,6 +8088,7 @@ webdirectory-noneu.truecaller.com
 webgateway.koho.ca
 webhooks.booking.com
 webhooks.gamma.redoxstage.com
+webhooks.truelayer[-sandbox].com
 webonboarding-eu.truecaller.com
 webonboarding-noneu.truecaller.com
 webtoolbox.notebleue.pro
@@ -8240,12 +8317,22 @@ www.jaybirdsport.com
 www.karwei.nl/*
 www.kayak.com
 www.ketnet.be
+www.kinepolis.be
+www.kinepolis.biz
+www.kinepolis.ch
+www.kinepolis.com
+www.kinepolis.es
+www.kinepolis.fr
+www.kinepolis.lu
+www.kinepolis.nl
+www.kinepolisempresas.com/
 www.kiwi.com
 www.kohls.com
 www.koho.ca
 www.kruidvat.be
 www.kruidvat.nl
 www.lahitapiola.fi
+www.landmarkcinemas.com
 www.lansweeper.com
 www.lastminute.co.nz
 www.lastminute.com.au
@@ -8288,6 +8375,7 @@ www.mercadopago.com.mx
 www.mercadopago.com.pe
 www.mercadopago.com.uy
 www.mini.de
+www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk

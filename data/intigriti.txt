@@ -5,6 +5,10 @@ myaccount.ad.nl
 webwinkel.ad.nl
 www.ad.nl
 www.ad.nl/abonnementen
+https://dealer.prod.ps.axelspringer.de/api/v1/partners/{partnerId}/activation
+https://dealer.prod.ps.axelspringer.de/purchases/004/bild/*
+https://dealer.prod.ps.axelspringer.de/purchases/004/welt/*
+https://secure.mypass.de/
 www.bmw-motorrad.de
 www.bmw.de
 www.mini.de
@@ -161,6 +165,51 @@ www.gamma.be/*
 www.gamma.nl/*
 www.karwei.nl/*
 1558129454
+booking.mjrtheatres.com
+extras.landmarkcinemas.com
+identityserver.landmarkcinemas.com
+kinepolis.megatix.be
+luxfilmfestfilms.megatix.be
+luxfilmfestproducts.megatix.be
+luxfilmfesttickets.megatix.be
+movieapi.kinepolis.megatix.be
+tickets.kinepolis.be
+tickets.kinepolis.ch
+tickets.kinepolis.es
+tickets.kinepolis.fr
+tickets.kinepolis.lu
+tickets.kinepolis.nl
+userprofile-ui.landmarkcinemas.com
+www.kinepolis.be
+www.kinepolis.ch
+www.kinepolis.com
+www.kinepolis.es
+www.kinepolis.fr
+www.kinepolis.lu
+www.kinepolis.nl
+www.landmarkcinemas.com
+www.mjrtheatres.com
+business.kinepolis.be
+business.kinepolis.lu
+business.kinepolis.nl
+com.inthepocket.kinepolis
+extras-acc.landmarkcinemas.com
+https://movieclub-int.kinepolis.com
+https://movienow-int.kinepolis.be/admin
+https://shop-acc.kinepolis.be/
+identityserver-acc.landmarkcinemas.com
+kinepolis-studio.be
+kinepolis/id368204284
+nz.co.vista.android.movie.mjrtheatres
+shop.kinepolis.be
+shop.kinepolis.es
+shop.kinepolis.fr
+shop.kinepolis.lu
+stage.landmarkcinemas.com
+userprofile-acc.landmarkcinemas.com
+www.kinepolis.biz
+522089287
+www.kinepolisempresas.com/
 edge.lansweeper.com
 api.lansweeper.com
 app.lansweeper.com
@@ -346,6 +395,30 @@ shop.trouw.nl
 webwinkel.trouw.nl
 www.trouw.nl
 www.trouw.nl/abonnementen
+api.truelayer[-sandbox].com
+auth.truelayer[-sandbox].com
+login-api.truelayer[-sandbox].com
+login.truelayer[-sandbox].com
+onboarding-api.truelayer.com
+pay-api.truelayer[-sandbox].com
+pay.truelayer[-sandbox].com
+paydirect.truelayer[-sandbox].com
+payment.truelayer[-sandbox].com
+payouts.truelayer[-sandbox].com
+users-api.truelayer.com
+C# SDK
+console-backend.truelayer[-sandbox].com
+console.truelayer[-sandbox].com
+hpp.truelayer[-sandbox].com
+Java SDK
+PHP SDK
+TrueLayer for Magento (Magento plugin)
+TrueLayer for WooCommerce (WordPress plugin)
+truelayer-signing
+webhooks.truelayer[-sandbox].com
+iOS SDK
+React Native SDK
+Web SDK
 134.58.179.102-103
 autodiscover.uzleuven.be
 ecrf.uzleuven.be
