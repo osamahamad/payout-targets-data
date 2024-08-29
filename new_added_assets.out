@@ -1,16 +1,13 @@
-*.gtld-servers.net (DNS service; DNS related)
-*.octopus.com
-*.verisign-grs.com (DNS service; DNS related)
-a.root-servers.net (DNS service; DNS related)
-epptool-ctld.verisign-grs.com (EPP service; DNS related)
-https://aiagent.octopus.com/api/form
-https://blog.verisign.com
-https://github.com/OctopusDeploy
-https://namestudio.com
-https://namestudioforsocial.com/
-https://octopus.com
-https://www.verisign.com
-https://youcouldbe.com
-j.root-servers.net (DNS service; DNS related)
-medias.watsons.com.hk
-medias.watsons.com.my
+*.igpayment.com
+*.innogames.com
+*.innogames.de
+innogames.com
+medias.fortress.com.hk
+medias.pns.hk
+medias.watsons.co.id
+medias.watsons.co.th
+medias.watsons.com.ph
+medias.watsons.com.sg
+medias.watsons.com.tw
+medias.watsons.vn
+support.innogames.com
