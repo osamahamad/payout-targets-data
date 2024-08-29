@@ -113,7 +113,6 @@ YADIFA authoritative name server
 service.fing.com
 app.fing.com
 Fing desktop
-Grafana OSS
 Grafana Loki
 Grafana Mimir
 Grafana Tempo
