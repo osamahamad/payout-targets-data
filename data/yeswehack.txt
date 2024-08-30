@@ -141,6 +141,7 @@ https://mobile.france-identite.gouv.fr
 Specific scenarios
 GLib
 glib-networking
+libsoup
 api.infomaniak.com
 login.infomaniak.com
 manager.infomaniak.com/v3/*
