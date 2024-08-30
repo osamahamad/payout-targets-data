@@ -214,6 +214,7 @@
 *.coindcx.com
 *.coingecko.com
 *.coinmetro.com
+*.coinsbit.io
 *.comcast.com
 *.consumer.worldcoin.org
 *.contentsquare.com
@@ -1751,6 +1752,7 @@ Google Hangouts - https://trello.com/power-ups/55a5d916446f517774210007/google-h
 Google Play (com.expressvpn.vpn)
 Grafana Loki
 Grafana Mimir
+Grafana OSS
 Grafana Pyroscope
 Grafana Tempo
 Grammarly AI Assistant
