@@ -210,7 +210,6 @@
 *.cognitiveperformer.com
 *.coinbase.com
 *.coindcx.com
-*.coingecko.com
 *.coinmetro.com
 *.coinsbit.io
 *.comcast.com
@@ -2758,7 +2757,6 @@ api.cmtelecom.com
 api.codex.one
 api.coinbase.com
 api.coindcx.com
-api.coingecko.com
 api.coinmarketcap.com
 api.cointr.com
 api.cointr.pro
@@ -3132,7 +3130,6 @@ blob.gamma.redoxstage.com
 blocklist.opera-api.com
 blofin.com
 blog.23andme.com
-blog.coingecko.com
 blog.creditkarma.com
 blog.cs.money
 blog.irccloud.com
@@ -3295,6 +3292,7 @@ codex.one
 codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
 cognito-idp.eu-west-1.amazonaws.com
 coinbase.com
+coingecko.com
 coinmarketcap.com
 coldfusion.adobe.com
 com.1debit.ChimeProdApp
@@ -6956,7 +6954,6 @@ l75pvbdyjo.infomaniak.site
 labs.data.gov
 labs.databricks.com
 ladex.exchange
-landing.coingecko.com
 lando.services.mozilla.com
 langflow.datastax.com
 langflow.org
@@ -7501,6 +7498,7 @@ privacy.ketnet.be
 privateinternetaccess.com
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
+pro-api.coingecko.com
 pro-api.coinmarketcap.com
 pro.coinbase.com
 pro.coinmarketcap.com
