@@ -141,6 +141,7 @@
 *.bild.tv
 *.binary.com
 *.bingo.com
+*.bingoblitz.com
 *.bingx.com
 *.bingx.pro
 *.bionic.ai
@@ -159,6 +160,7 @@
 *.blitz.exchange
 *.blockchain.com
 *.blofin.com
+*.boardkingsgame.com
 *.bokundemo.com
 *.bokuntest.com
 *.bonne-terre-data-layer.com
@@ -178,6 +180,7 @@
 *.byspotify.com
 *.bz-berlin.de
 *.c-point.be
+*.caesarsgames.com
 *.canva.cn
 *.canva.com
 *.canva.tech
@@ -405,6 +408,7 @@
 *.hoteltonight-test.com
 *.hoteltonight.com
 *.hotwire.com
+*.houseoffun.com
 *.housetrip.com
 *.hs-sites(-eu1)?.com
 *.hubspotemail.net
@@ -458,6 +462,7 @@
 *.just-eat.dk
 *.just-eat.fr
 *.just-eat.no
+*.justfall.lol,*.justplay.lol,*.1v1.lol
 *.karwei.nl/*
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
@@ -640,7 +645,9 @@
 *.pinterest.com Web Apps
 *.platformservices.io
 *.playstation.net
+*.playtika.com
 *.playuzleuven.be
+*.playwsop.com
 *.points.com
 *.popjam.com
 *.ppbdev.com
@@ -685,6 +692,7 @@
 *.reddithelp.com
 *.redditinc.com
 *.redditmedia.com
+*.redecor.com
 *.reflexion.net
 *.registry.eu
 *.rentalcars.com
@@ -734,6 +742,8 @@
 *.sentiance.com
 *.seoab.io
 *.seoquake.com
+*.serious.li
+*.seriously.com
 *.services-prod.nsvcs.net
 *.services.netlify.com
 *.services.repostnetwork.com
@@ -768,6 +778,7 @@
 *.skyvegas.com
 *.slader.com
 *.slimdevices.com
+*.slotomania.com
 *.smartcontract.com
 *.snooguts.net
 *.sol-data.com
@@ -927,6 +938,7 @@
 *.withbuddies.com
 *.withspotify.com
 *.wlo.link
+*.wooga.com
 *.wordcamp.org
 *.wordpress.net
 *.wordpress.org
@@ -996,14 +1008,18 @@
 1091010942
 10x.redoxengine.com
 1101145849
+1116488672
 1118448159
 1127881507
 1142114207
 1174276185
 1180074773
 1192506963
+1200391796
 121.200.237.36/29
+1215220850
 1218902777
+1223338261
 1235601864
 1245772818
 1257641454
@@ -1020,8 +1036,10 @@
 1395921017
 140.95.0.0/16
 141.0.8.0/21
+1413287364
 1416625210
 1431768824
+1438744533
 1439784468
 1452166623
 1456293789
@@ -1030,6 +1048,8 @@
 1486322860
 1491791513
 1503133294
+1508620125
+1510325826
 1519034860
 1528364633
 1539469172
@@ -1057,6 +1077,7 @@
 194.90.89.165/32
 195.189.143.0/24
 199.66.248.0/22
+1v1.lol
 203.79.37.2/29
 203.89.100.0/22
 206.166.248.0/23
@@ -1092,11 +1113,13 @@
 429704844
 434613896
 443904275
+447553564
 448142450
 455004730
 463335337
 469463298
 476639005
+480523695
 483394780
 486781045
 488534576
@@ -1109,6 +1132,7 @@
 4njbets.us.betfair.com
 522089287
 524362642
+529996768
 531549799
 539883307
 54.175.255.192/27
@@ -1119,10 +1143,13 @@
 563291345
 564141518
 566635048
+586634331
 589698942
+594802437
 597940518
 599664106
 5k8vrbdyje.infomaniak.site
+603097018
 62.216.152.46/29
 621574163
 632344648
@@ -1131,14 +1158,17 @@
 641062073
 6444005221
 6444040977
+645949180
 6467634418
 647268330
 647922896
+654671575
 657777015
 66.232.20.0/23
 669969610
 674258465
 7 News
+719525810
 737216887
 740514933
 77.111.244.0/22
@@ -1147,6 +1177,7 @@
 82.196.42.196/28
 831287358355275877
 835599320
+868013618
 878577184
 880759727
 8x8 Partner Portal
@@ -1172,6 +1203,7 @@
 965180355
 97.105.243.96/28
 971888874
+975035622
 976353472
 978342143
 978516833
@@ -2697,6 +2729,9 @@ ai-tools.infomaniak.com
 aiassistant.stage.vismaonline.com
 aiq-prod.codebig2.net
 air.com.bitrhymes.bingo
+air.com.buffalo_studios.newflashbingo
+air.com.playtika.cvs
+air.com.playtika.slotomania
 airFiber
 airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
@@ -3119,6 +3154,7 @@ be.vrt.ketnet.ketnetjr
 be.vrt.vrtnu
 beacon.netflix.com
 behance.net
+bestfiends.com
 beta-cloud.acronis.com
 beta.rarible.com
 bff.ketnet.be
@@ -3300,6 +3336,8 @@ coldfusion.adobe.com
 com.1debit.ChimeProdApp
 com.3mosquitos.MercadoLibre
 com.Hyatt
+com.Seriously.BestFiends
+com.Seriously.Phoenix
 com.Slack
 com.acronis.abc
 com.acronis.acronistrueimage
@@ -3339,6 +3377,7 @@ com.basecamp.bc3-ios
 com.basecamp.hey
 com.betfair.exchange
 com.betfair.sportsbook
+com.bigblueparrot.pokerfriends
 com.bitexen.exchange - Android App Bitexen
 com.bitexenglobal.exchangeapp - Android App Bitexen Global
 com.bitmex.app.android
@@ -3439,6 +3478,8 @@ com.inthepocket.kinepolis
 com.iphone.workfront
 com.irccloud.IRCCloud
 com.irccloud.android
+com.jellybtn.boardkings
+com.jellybtn.cashkingmobile
 com.kayak.android
 com.kayak.travel
 com.kitkagames.fallbuddies
@@ -3483,6 +3524,7 @@ com.oceanwing.care.cam
 com.official.rnapp
 com.onedebit.chime
 com.orbitz
+com.pacificinteractive.HouseOfFun
 com.paddypower.sportsbook.u.inhouse
 com.paypal.android.p2pmobile
 com.paypal.merchant
@@ -3490,6 +3532,8 @@ com.paypal.merchant.client
 com.peterandlinda.iOCNotes
 com.pieyel.scrabble
 com.pillarproject.wallet
+com.playtika.caesarscasino
+com.playtika.wsop.gp
 com.priceline.android.negotiator
 com.quip.quip
 com.quora.android
@@ -3574,6 +3618,7 @@ com.wealthsimple
 com.wealthsimple.wealthsimple
 com.wisdomtree.wtprime
 com.withbuddies.dice.free
+com.wooga.pearlsperil
 com.workfront.android.aware
 com.wotif.android
 com.xiaomi.account
@@ -3921,6 +3966,7 @@ fhdn.fareharbor.com
 fhir.redoxengine.com
 fi.lahitapiola.lemmikkihelppi
 fi.lahitapiola.mobile
+fi.reworks.redecor
 fi.spankki
 file-storage-front.eu-east-1.indriverapp.com
 file.larksuite.com
@@ -3987,6 +4033,7 @@ global.bitexen.com
 global.bittrex.com 
 globaljourney.tomorrowland.com
 gnip.com
+gnocchi-www.buffalo-ggn.net
 gold.xnxx.com
 goldmansachsindices.com
 gps.echosign.com
@@ -4460,6 +4507,9 @@ https://apps.apple.com/us/app/western-union-transfer-money/id424716908
 https://apps.apple.com/us/app/wise-ex-transferwise/id612261027
 https://apps.apple.com/us/app/xfinity/id1178765645
 https://apps.apple.com/vc/app/moneytree-finance-made-easy/id586847189
+https://apps.facebook.com/pearls-peril
+https://apps.facebook.com/pokerheat
+https://apps.facebook.com/vegas_downtown_slots
 https://apps.yeswehack.com
 https://arbiscan.io/address/0x0E8A12e59C2c528333e84a12b0fA4B817A35909A
 https://arbiscan.io/address/0x316142C166AdA230D0aFAD9493ef4bF053289269
@@ -7020,6 +7070,7 @@ logs.dashlane.com
 logs.fr.cloud.gov
 logs.nextcloud.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
+lol.onevone
 lookup.nextcloud.com
 louvre.veriff.me
 luxfilmfestfilms.megatix.be
@@ -7209,6 +7260,10 @@ nationalidverification-noneu.truecaller.com
 near.org 
 neoket.net
 nessus.fr.cloud.gov
+net.supertreat.solitaire
+net.wooga.junes_journey_hidden_object_mystery_game
+net.wooga.switchcraft.googleplay
+net.wooga.tropicats_tropical_cats_puzzle_paradise
 netlify-cdp-loader.netlify.app
 netlify-rum.netlify.app
 nettle-rs
