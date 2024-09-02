@@ -1,4 +1,3 @@
-  identity.monash.edu
  *.sip.*.twilio.com
  Finicity Connect
  Fortress.HongKong.IOS
@@ -2014,8 +2013,6 @@ Mobile App
 Mobile Apps
 Mobile Connect Plugin for Jira - Server - https://marketplace.atlassian.com/apps/322837/mobile-connect-plugin-for-jira?hosting=server
 Mobile Plugin for Jira - DataCenter - https://marketplace.atlassian.com/apps/1220151/mobile-plugin-for-jira-data-center-and-server?hosting=datacenter
-Monash Study Android app
-Monash Study iOS App
 MoneyBack.HongKong.Android
 MoneyBack.HongKong.iOS
 Moneyback (subdomains)
@@ -2313,7 +2310,6 @@ Spotify desktop application (Windows and Mac)
 Spreadsheets for Jira Cloud - Cloud - https://marketplace.atlassian.com/apps/1220711/spreadsheets-for-jira-cloud?hosting=cloud
 Square Register
 Square Terminal
-Staff.monash
 Staging, QA, Dev, and Test Environments
 Standalone Chrome extension
 Status Smart Contracts
@@ -2627,7 +2623,6 @@ accommodations.booking.com
 account-noneu.truecaller.com
 account-onboarding-eu.truecaller.com
 account-onboarding-noneu.truecaller.com
-account-registration.monash.edu
 account-sprint.dynatracelabs.com
 account.acronis.com
 account.adobe.com
@@ -2712,7 +2707,6 @@ alertmanager.fr.cloud.gov
 alexa.amazon.com
 alexaanswers.amazon.com
 all-inclusive.marriott.com
-alumni-friends.monash.edu
 am.editeur.preprod.monespacesante.fr
 am.monespacesante.fr
 am.preprod.monespacesante.fr
@@ -3030,7 +3024,6 @@ apps-accpt.portofantwerp.com
 apps-accpt.portofantwerpbruges.com
 apps.apple.com/fr/app/mon-espace-sant%C3%A9/id1589255019 (iOS)
 apps.apple.com/us/app/crowdstrike-falcon/id1458815656
-apps.connect.monash.edu/
 apps.meraki.io
 apps.nextcloud.com
 apps.portofantwerp.com
@@ -3101,8 +3094,6 @@ ax-stage.maventa.com
 b2b.tvgnetwork.com
 b2b.vidaxl.com
 b5s.hackerone-ext-content.com
-bSafe Android App
-bSafe iPhone App
 backoffice.lansweeper.com
 backstage.io
 backup.truecaller.com
@@ -3287,7 +3278,6 @@ cm.com/[locale]/app/*
 cm.com/[locale]/register
 cm.com/app/messagingtrial/
 cmcom.atlassian.net
-cms.mobile.monash
 cms.monespacesante.fr
 cms.nba.com
 cms.woger-cdn.com
@@ -3637,7 +3627,6 @@ connect.arkane.network
 connect.arubanetworks.com
 connect.deezer.com
 connect.identity.stagaws.visma.com
-connect.monash.edu
 connect.venly.io
 console-backend.truelayer[-sandbox].com
 console.chainstack.com
@@ -3935,7 +3924,6 @@ fi.lahitapiola.mobile
 fi.spankki
 file-storage-front.eu-east-1.indriverapp.com
 file.larksuite.com
-fileshare.ze.monash.edu
 filter-store4-asia-south1.truecaller.com
 filter-store4.truecaller.com
 firefly.adobe.com
@@ -3951,8 +3939,6 @@ for-hackers.crisp.kitchen
 for-hackers.crisp.nl
 for-hackers.crispapp.nl
 form.asana.com
-formative.eassessment.monas.edu
-forms.apps.monash.edu
 forms.nexuzhealth.be
 fortmatic.com
 fortnite.com
@@ -6842,7 +6828,6 @@ id1520720139
 id1534920947
 id1541153375
 ide.x.ai
-identity.monash.edu
 identity.nba.com
 identity.stage.vismaonline.com
 identity.yoti.com
@@ -6881,7 +6866,6 @@ internal.netlify.com
 internal.whitebit.com
 international.coinbase.com
 interseller.io
-interviews.monash.edu
 intranet.takeaway.com
 inventory.data.gov
 investors.semrush.com
@@ -7165,9 +7149,7 @@ miro.com
 mix-dev.monash.edu/*
 mix-qat.monash.edu/*
 mkapi.mackeeper.com
-mlivetickets.monash.edu
 mobile-prod.tvg.com
-mobile.monash
 mobile.nexuzhealth.be
 mobile.s-pankki.fi
 mobileapi.lystit.com
@@ -7177,9 +7159,6 @@ mobilemarketing.adobe.com
 mobilevikings.be
 mod.reddit.com
 moments.marriottbonvoy.com
-monash.app.nutrip.com
-monash.edu
-monashprofessional.edu.au
 moneybird.com
 moneybirdstorage.com
 mongodb.live/*
@@ -7201,7 +7180,6 @@ my.eurid.eu
 my.exness.com
 my.loanbuilder.com
 my.malwarebytes.com
-my.monash
 my.plaid.com
 my.playstation.com
 my.portofantwerp.com
@@ -7386,7 +7364,6 @@ partner-account-asia-south1.truecaller.com
 partner-account-eu.truecaller.com
 partner-account-noneu.truecaller.com
 partner-webhook.remitly.io
-partner.apps.monash.edu
 partner.logitech.com
 partner.steamgames.com
 partner.steampowered.com
@@ -7411,7 +7388,6 @@ pay-sandbox.gocardless.com
 pay.8x8.com
 pay.crypto.com
 pay.ibex.exchange
-pay.monashcollege.edu.au
 pay.tokopediax.com
 pay.truelayer[-sandbox].com
 pay.unity.com
@@ -7715,7 +7691,6 @@ shop.kinepolis.es
 shop.kinepolis.fr
 shop.kinepolis.lu
 shop.lululemon.com
-shop.monash.edu
 shop.parool.nl
 shop.shipt.com
 shop.tiktok.com
@@ -7810,7 +7785,6 @@ stats.nextcloud.com
 status.adobe.com
 status.delen.be
 status.larksuite.com
-status.mobile.monash
 status.oasis.io
 steamcommunity.com
 stock.adobe.com
@@ -7838,7 +7812,6 @@ sts.delen.be
 sts.etoro.com
 sts.uzleuven.be
 stubru.be/luister/select
-studentplacements.monash.edu
 studio-api.swapcard.com
 studio.swapcard.com
 subnet-evm
@@ -7986,7 +7959,6 @@ uk.vidaxl.com.ua
 unibet.me
 unifi.ui.com
 unified.cloudways.com
-unihub.monash.edu
 university-staging.dynatracelabs.com
 unlist5-asia-south1.truecaller.com
 unlist5-eu.truecaller.com
