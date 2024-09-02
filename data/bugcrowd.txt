@@ -696,13 +696,6 @@ marketplace.auth0.com (Auth0 Marketplace)
 openidconnect.net	
 samltool.io	
 webauthn.me	
-Carrefour UAE Android
-Carrefour UAE iOS
-carrefouruae.com
-https://api-prod.retailsso.com
-https://itunes.apple.com/app/carrefour-uae/id626805470
-https://play.google.com/store/apps/details?id=com.aswat.carrefouruae
-https://www.carrefouruae.com/
 ClickHouse Cloud environment hosted by ClickHouse
 https://clickhou.se/bugcrowd
 https://github.com/ClickHouse/ClickHouse
@@ -722,13 +715,6 @@ https://marketplace.atlassian.com/apps/1223455/advanced-bulk-edit-for-jira?hosti
 https://marketplace.atlassian.com/apps/1226627/prime-custom-fields-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1230689/easy-confluence-gadget-for-jira-dashboards?hosting=cloud
 https://marketplace.atlassian.com/apps/1232630/external-data-for-jira-fields-extension?hosting=cloud
-Staging, QA, Dev, and Test Environments
-Flex - Xfinity hardware and services
-Mobile Apps	iOS and Android
-TV - Xfinity hardware and services
-Voice - Hardware and service
-https://business.comcast.com/account
-https://www.xfinity.com/apps
 https://marketplace.atlassian.com/apps/1223249/mailto-wiki-email-for-confluence?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1223249/mailto-wiki-send-emails-to-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1223249/mailto-wiki-send-emails-to-confluence?tab=overview&hosting=server
@@ -925,6 +911,10 @@ https://canva.com/developers
 https://canva.cn/developers 
 https://canva.com/developers
 Canva Desktop (macOS / Windows)
+https://itunes.apple.com/app/carrefour-uae/id626805470
+https://play.google.com/store/apps/details?id=com.aswat.carrefouruae
+https://www.carrefouruae.com/
+https://api-prod.retailsso.com
 https://itunes.apple.com/us/app/cash-app/id711923939?mt=8
 https://play.google.com/store/apps/details?id=com.squareup.cash
 https://cash.app
@@ -961,6 +951,12 @@ https://mediaflows.cloudinary.com/
 https://dimensions.cloudinary.com
 https://adhoc-bugcrowd.cdn-code.org
 https://adhoc-bugcrowd-studio.cdn-code.org
+Staging, QA, Dev, and Test Environments
+https://business.comcast.com/account
+TV - Xfinity hardware and services
+Flex - Xfinity hardware and services
+Voice - Hardware and service
+https://www.xfinity.com/apps
 https://www.contrastsecurity.com/
 https://contrastsecurity.dev/
 app.sandbox.directly.com
@@ -1250,6 +1246,24 @@ https://staging.luno.com/
 https://ajax.staging.luno.com/
 https://api.staging.luno.com/
 https://app.staging.luno.com/
+https://www.crateandbarrel.me
+https://lego.yellowblocks.me/
+https://api-prod.thatconceptstore.com/
+https://apps.apple.com/app/id1503045795
+https://play.google.com/store/apps/details?id=com.maf.thatandroid
+https://thatconceptstore.com
+https://www.cb2.ae/en
+https://www.allsaints.me/
+https://www.lululemon.me
+https://lapi.yellowblocks.me
+https://www.shiseido.me/
+https://www.sharerewards.com/
+https://apps.apple.com/us/app/share-rewards/id1465450657
+https://play.google.com/store/apps/details?id=com.maf.share&hl=en_US&gl=US
+https://www.vtcprodapi.maf.ae/svc/svcHifi.svc/SaveOCRReceipt
+https://production.maf.auth0.com/api/v2/
+https://production.maf.auth0.com
+https://maf-holding-prod.apigee.net
 https://www.simplify.com/commerce/ 
 https://www.mastercard.us/en-us.html
 https://www.mastercard.ch/de-ch.html
@@ -1331,6 +1345,15 @@ https://github.com/OctopusDeploy
 https://octopus.com
 https://aiagent.octopus.com/api/form
 https://pentest-app.onetrust.com/
+https://opensea.io/
+https://pro.opensea.io/
+http://wallets.opensea.io/
+https://play.google.com/store/apps/details?id=io.opensea&hl=en_US&gl=US
+https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
+https://github.com/ProjectOpenSea/seaport#deployments
+https://etherscan.io/address/0x0000a26b00c1F0DF003000390027140000fAa719
+https://etherscan.io/address/0x00005EA00Ac477B1030CE78506496e8C2dE24bf5
+Broken Link
 https://auth.opera.com
 https://accounts.opera.com
 https://flow.opera.com
@@ -1694,6 +1717,11 @@ https://blog.verisign.com
 https://namestudioforsocial.com/
 https://namestudio.com
 https://www.verisign.com
+Vox Cinemas iOS
+Vox Cinemas Android
+https://uae.voxcinemas.com/
+https://www.skidxb.com/
+https://www.magicplanetmena.com/
 https://www.web.com
 http://www.register.com
 https://www.networksolutions.com
@@ -1715,6 +1743,25 @@ https://auth.wyze.com
 https://my.wyze.com
 https://api.wyzecam.com
 Wyze Cam V3
+https://home.xfinity.com
+Internet.xfinity.com
+*signalservice.comcast.net
+orc-xfi.com
+https://apps.apple.com/us/app/xfinity/id1178765645
+Xfinity iOS mobile app
+https://play.google.com/store/apps/details?id=com.xfinity.digitalhome&hl=en_US&gl=US
+Xfinity Android mobile app
+Xfinity Home Hardware (items listed below in brief)
+Xfinity Home cameras
+speedtest.xfinity.com
+siorc.xfinity.com
+smartinet.xfinity.com
+gw.api.dh.comcast.com
+xFi Gateways (e.g., XB3, XB6, XB7)
+xFi Pods
+https://csp-prod.codebig2.net
+csp-pci.prod.codebig2.net
+aiq-prod.codebig2.net
 https://bc.yieldstreet.net
 staging-app.bany.dev
 █████████████████████
@@ -1830,31 +1877,6 @@ https://www.lululemon.es/
 https://www.lululemon.fr
 https://www.lululemon.fr/
 shop.lululemon.com
-THAT Concept Store Android
-THAT Concept Store iOS
-https://api-prod.thatconceptstore.com/
-https://apps.apple.com/app/id1503045795
-https://lapi.yellowblocks.me
-https://lego.yellowblocks.me/
-https://play.google.com/store/apps/details?id=com.maf.thatandroid
-https://thatconceptstore.com
-https://www.allsaints.me/
-https://www.cb2.ae/en
-https://www.crateandbarrel.me
-https://www.lululemon.me
-https://www.shiseido.me/
-lapi.yellowblocks.me
-www.crateandbarrel.me
-www.lululemon.me
-Share Rewards Android App
-Share Rewards Programme iOS App
-https://apps.apple.com/us/app/share-rewards/id1465450657
-https://maf-holding-prod.apigee.net
-https://play.google.com/store/apps/details?id=com.maf.share&hl=en_US&gl=US
-https://production.maf.auth0.com
-https://production.maf.auth0.com/api/v2/
-https://www.sharerewards.com/
-https://www.vtcprodapi.maf.ae/svc/svcHifi.svc/SaveOCRReceipt
   identity.monash.edu
  mix.monash.edu 
 Monash Study Android app
@@ -1998,19 +2020,6 @@ https://openai.com/
 https://openai.org
 https://platform.openai.com/playground
 openai.com
-Broken Link
-http://wallets.opensea.io/
-https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
-https://etherscan.io/address/0x00005EA00Ac477B1030CE78506496e8C2dE24bf5
-https://etherscan.io/address/0x0000a26b00c1F0DF003000390027140000fAa719
-https://github.com/ProjectOpenSea/seaport#deployments
-https://opensea.io/
-https://play.google.com/store/apps/details?id=io.opensea&hl=en_US&gl=US
-https://pro.opensea.io/
-io.opensea - Android App
-io.opensea - iOS App
-opensea.io
-pro.opensea.io
 Opsgenie (Android)
 Opsgenie (IoS)
 app.opsgenie.com
@@ -2257,11 +2266,6 @@ kiwi.partner.viator.com
 partnerhelp.viator.com/
 selector.viator.com
 travelagents.viator.com
-Vox Cinemas Android
-Vox Cinemas iOS
-https://uae.voxcinemas.com/
-https://www.magicplanetmena.com/
-https://www.skidxb.com/
 Any host or verified to be owned by Western Union (domains/IP space/etc.)
 Western Union Android app (link below)
 Western Union iOS app (link below)
@@ -2330,25 +2334,3 @@ transvision.westernunion.com
 wucare.westernunion.com
 wuinsights.westernunion.com
 Any Worldpay asset is in scope
-*signalservice.comcast.net
-Home.xfinity.com (see below)
-Internet.xfinity.com
-Xfinity Android mobile app
-Xfinity Home Android mobile app
-Xfinity Home Hardware (items listed below in brief)
-Xfinity Home cameras
-Xfinity Home iOS mobile app
-Xfinity iOS mobile app
-aiq-prod.codebig2.net
-csp-pci.prod.codebig2.net
-gw.api.dh.comcast.com
-https://apps.apple.com/us/app/xfinity/id1178765645
-https://csp-prod.codebig2.net
-https://home.xfinity.com
-https://play.google.com/store/apps/details?id=com.xfinity.digitalhome&hl=en_US&gl=US
-orc-xfi.com
-siorc.xfinity.com
-smartinet.xfinity.com
-speedtest.xfinity.com
-xFi Gateways (e.g., XB3, XB6, XB7)
-xFi Pods
