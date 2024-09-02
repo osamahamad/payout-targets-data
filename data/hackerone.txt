@@ -3134,6 +3134,7 @@ accounts.magento.cloud
 acrobat.adobe.com
 acrobatoauth.adobe.com
 adminconsole.adobe.com
+adobeid-na1.services.adobe.com
 adobeid.services.adobe.com
 adobelogin.com
 api-v2.frame.io
@@ -3179,6 +3180,8 @@ firefly.adobe.com
 fonts.adobe.com
 gps.echosign.com
 helpx.adobe.com
+http://federatedid-na1.services.adobe.com
+http://ims-na1.adobelogin.com
 https://contentcredentials.org/
 https://github.com/adobe/*
 https://github.com/contentauth/c2pa-js

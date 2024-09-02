@@ -114,6 +114,7 @@
 *.atlastunnel.com
 *.atspotify.com
 *.audicagame.com
+*.autobild.de
 *.avalabs.org
 *.avax-dev.network
 *.avax-test.network
@@ -137,6 +138,8 @@
 *.betviewapi.com
 *.big.one
 *.bigone.com
+*.bild.de
+*.bild.tv
 *.binary.com
 *.bingo.com
 *.bingx.com
@@ -174,6 +177,7 @@
 *.byairbnb.com
 *.bybit.com
 *.byspotify.com
+*.bz-berlin.de
 *.c-point.be
 *.canva.cn
 *.canva.com
@@ -218,6 +222,7 @@
 *.coinmetro.com
 *.coinsbit.io
 *.comcast.com
+*.computerbild.de
 *.consumer.worldcoin.org
 *.contentsquare.com
 *.cornershop.io/*
@@ -273,6 +278,7 @@
 *.east.fdbox.net
 *.easy.ac
 *.eat.ch
+*.ein-herz-fuer-kinder.de
 *.elastic.co
 *.elasticnet.co
 *.elstc.co
@@ -309,6 +315,7 @@
 *.financialforce.com
 *.finlife.com
 *.finlifepartners.com
+*.fitbook.de
 *.flickr.com
 *.flipkey.com
 *.floqast.app
@@ -479,6 +486,7 @@
 *.libelle.nl
 *.lieferando.at
 *.lieferando.de
+*.lightroom.adobe.com
 *.line-apps.com
 *.line.biz
 *.line.me
@@ -549,6 +557,7 @@
 *.mwb-threatintel.com
 *.mwbsys.com
 *.myharmony.com
+*.myhomebook.de
 *.myinsights.io
 *.mysqueezebox.com
 *.myteksi.com
@@ -623,6 +632,8 @@
 *.payoneer.com
 *.paypal.com
 *.paypalcorp.com
+*.petbook-magazine.com/
+*.petbook.de
 *.pinterest.com Web Apps
 *.platformservices.io
 *.playstation.net
@@ -764,6 +775,8 @@
 *.spiketrap.io
 *.spinaway.com
 *.sportinglife.com
+*.spring-media.de
+*.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sqills.com
@@ -781,6 +794,7 @@
 *.streamlabs.com
 *.streamlabscharity.com
 *.stripe.com
+*.stylebook.de
 *.subp-router.hereapi.com
 *.superawesome.com
 *.superawesome.tv
@@ -799,6 +813,7 @@
 *.taralite.com
 *.tdl.sh
 *.teams.cloudflare.com
+*.techbook.de
 *.telenor.se
 *.tesla.cn
 *.tesla.com
@@ -827,6 +842,7 @@
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trafficjunky.com
 *.transferwise.com
+*.travelbook.de
 *.travelocity.ca
 *.travelocity.com
 *.trello.services
@@ -893,6 +909,7 @@
 *.water-link.be/
 *.wavecell.com
 *.wealthsimple.com
+*.welt.de
 *.wenewmoments.com
 *.werkenbijgamma.be
 *.werkenbijgamma.nl
@@ -902,6 +919,7 @@
 *.whois.eu
 *.wimpmusic.com
 *.wise.com
+*.wissen-sie-mehr.de
 *.withairbnb.com
 *.withbuddies.com
 *.withspotify.com
@@ -2652,6 +2670,7 @@ admincms.monespacesante.fr
 adminconsole.adobe.com
 adminstore.monespacesante.fr
 admintool.lime.bike
+adobeid-na1.services.adobe.com
 adobeid.services.adobe.com
 adobelogin.com
 ads-audience-ingestion-noneu.truecaller.com
@@ -4086,6 +4105,7 @@ http://emerald.oasis.dev
 http://expressobutiolem.onion
 http://exzo.network
 http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
+http://federatedid-na1.services.adobe.com
 http://github.com/AssetMantle/modules
 http://github.com/AssetMantle/node
 http://github.com/circlefin/noble-cctp
@@ -4093,6 +4113,7 @@ http://github.com/cloudflare
 http://grpc.oasis.dev
 http://h1-your-domain.zendesk.com/sell
 http://ibotta.com
+http://ims-na1.adobelogin.com
 http://itunes.apple.com/us/app/ibotta/id559887125
 http://logstash-props.devicecloud.production.forescoutcloud.net/api/v1/properties
 http://market.android.com/details?id=com.ibotta.android
@@ -4758,6 +4779,9 @@ https://datadome.co
 https://dataportal.originenergy.com.au
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
 https://dcfgatewaytst1.marriott.com/
+https://dealer.prod.ps.axelspringer.de/api/v1/partners/{partnerId}/activation
+https://dealer.prod.ps.axelspringer.de/purchases/004/bild/*
+https://dealer.prod.ps.axelspringer.de/purchases/004/welt/*
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
 https://demo.priceless.com/
@@ -6242,6 +6266,7 @@ https://scalews.withings.com
 https://screenplayer.20min.ch
 https://secure-iphone-xml.booking.com/json/
 https://secure.cuehit.net
+https://secure.mypass.de/
 https://secure.neogov.com
 https://secure.vendhq.com
 https://secure.westernunion.com
