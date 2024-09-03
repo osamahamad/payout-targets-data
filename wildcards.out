@@ -1,10 +1,13 @@
  *.sip.*.twilio.com
+ *.test.*.lfscnp.com
  Twilio CDNs (static*.twilio.com)
 *-api-*.acronis.com
 *-cvr-aws-*.sys.comcast.net
+*.-np.*.lfscnp.com
 *.10bis.co.il
 *.10ktf.com
 *.1debit.com
+*.28degreescard.com.au
 *.3lateral.com
 *.5nine.com
 *.8x8.co.uk
@@ -149,6 +152,7 @@
 *.bredbandsbolaget.se
 *.buddypress.org,bbpress.org,profiles.wordpress.org
 *.bugcrowd.com/auth/*
+*.buyersedge.com.au
 *.byairbnb.com
 *.bybit.com
 *.byspotify.com
@@ -160,6 +164,7 @@
 *.canva.tech
 *.capital.com
 *.captcha-delivery.com
+*.carecredit.com.au
 *.carrentals.com
 *.cashstaging.app
 *.casinohuone.com
@@ -230,6 +235,7 @@
 *.deriv.cloud
 *.deriv.com
 *.derivws.com
+*.dev.*.lfscnp.com
 *.dev.grindr.io
 *.dev.remitly.com
 *.devicelock.com
@@ -312,6 +318,11 @@
 *.fuze.site
 *.gamma.be/*
 *.gamma.nl/*
+*.gemcreditline.co.nz
+*.gemfinance.co.nz
+*.gemvisa.com.au
+*.genoapay.co.nz
+*.genoapay.com
 *.gethypr.com
 *.getmeetio.com
 *.github.net
@@ -331,6 +342,7 @@
 *.goldman.com
 *.goldmanpfm.com
 *.goldmansachs.com
+*.gomastercard.com.au
 *.gotinder.com
 *.grab-sure.com
 *.grab.co
@@ -417,6 +429,7 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
+*.interestfree.com.au
 *.intergamma-test.nl
 *.intergamma.cloud
 *.intergamma.nl/*
@@ -461,6 +474,12 @@
 *.landmarkcinemas.com
 *.lastminute.co.nz
 *.lastminute.com.au
+*.latitudefinancial.co.nz
+*.latitudefinancial.com
+*.latitudefinancial.com.au
+*.latitudeinfinity.com.au
+*.latitudepay.com
+*.latitudepay.com.au
 *.libelle.nl
 *.lieferando.at
 *.lieferando.de
@@ -684,6 +703,7 @@
 *.rukkaz.com
 *.runnr.in
 *.s-cloud.net
+*.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
 *.say.rocks
 *.saytechnologies.com
@@ -860,6 +880,7 @@
 *.ui.com/distributors/
 *.ui.com/training/partners/
 *.ultimateearsuniversity.com
+*.umiloans.com.au
 *.unibet.com
 *.unibet.fr
 *.unitedcp.com

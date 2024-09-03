@@ -1,4 +1,5 @@
  *.sip.*.twilio.com
+ *.test.*.lfscnp.com
  Finicity Connect
  Fortress.HongKong.IOS
  MS Office Add-In
@@ -28,9 +29,11 @@
 *-api-*.acronis.com
 *-bugcrowd.foxycart.com (read below for details)
 *-cvr-aws-*.sys.comcast.net
+*.-np.*.lfscnp.com
 *.10bis.co.il
 *.10ktf.com
 *.1debit.com
+*.28degreescard.com.au
 *.3lateral.com
 *.5nine.com
 *.8x8.co.uk
@@ -175,6 +178,7 @@
 *.bredbandsbolaget.se
 *.buddypress.org,bbpress.org,profiles.wordpress.org
 *.bugcrowd.com/auth/*
+*.buyersedge.com.au
 *.byairbnb.com
 *.bybit.com
 *.byspotify.com
@@ -186,6 +190,7 @@
 *.canva.tech
 *.capital.com
 *.captcha-delivery.com
+*.carecredit.com.au
 *.carrentals.com
 *.cashstaging.app
 *.casinohuone.com
@@ -256,6 +261,7 @@
 *.deriv.cloud
 *.deriv.com
 *.derivws.com
+*.dev.*.lfscnp.com
 *.dev.grindr.io
 *.dev.remitly.com
 *.devicelock.com
@@ -338,6 +344,11 @@
 *.fuze.site
 *.gamma.be/*
 *.gamma.nl/*
+*.gemcreditline.co.nz
+*.gemfinance.co.nz
+*.gemvisa.com.au
+*.genoapay.co.nz
+*.genoapay.com
 *.gethypr.com
 *.getmeetio.com
 *.github.net
@@ -357,6 +368,7 @@
 *.goldman.com
 *.goldmanpfm.com
 *.goldmansachs.com
+*.gomastercard.com.au
 *.gotinder.com
 *.grab-sure.com
 *.grab.co
@@ -443,6 +455,7 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
+*.interestfree.com.au
 *.intergamma-test.nl
 *.intergamma.cloud
 *.intergamma.nl/*
@@ -487,6 +500,12 @@
 *.landmarkcinemas.com
 *.lastminute.co.nz
 *.lastminute.com.au
+*.latitudefinancial.co.nz
+*.latitudefinancial.com
+*.latitudefinancial.com.au
+*.latitudeinfinity.com.au
+*.latitudepay.com
+*.latitudepay.com.au
 *.libelle.nl
 *.lieferando.at
 *.lieferando.de
@@ -710,6 +729,7 @@
 *.rukkaz.com
 *.runnr.in
 *.s-cloud.net
+*.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
 *.say.rocks
 *.saytechnologies.com
@@ -886,6 +906,7 @@
 *.ui.com/distributors/
 *.ui.com/training/partners/
 *.ultimateearsuniversity.com
+*.umiloans.com.au
 *.unibet.com
 *.unibet.fr
 *.unitedcp.com
@@ -2386,6 +2407,7 @@ Superdrug.App.Android
 Superdrug.App.IOS
 Superdrug.Healthera.App.Android
 SurveyMonkey - https://trello.com/power-ups/568c143d95adcd7308cbc3fb/surveymonkey
+Sympleloans.com.au
 System Specification
 T&P Servers
 TTC Connect
@@ -3013,6 +3035,7 @@ app.lachain.io
 app.lansweeper.com
 app.lansweeper.com/trial
 app.larksuite.com
+app.latitudepayapps.com
 app.launchdarkly.com
 app.localizestaging.com
 app.marionnaud.at
@@ -4198,6 +4221,7 @@ http://www1.domain.com/
 https://*-prod.arlo.com
 https://0-2744452194.s3.nbg01.de.dracoon.io
 https://1shoppingcart.com
+https://28degreescard.com.au
 https://8x8.vc/xmpp-websocket
 https://STORE-YOURSTOREHash.mybigcommerce.com/
 https://a.simplemdm.com/
@@ -4329,6 +4353,7 @@ https://api.simnext.bullish-test.com
 https://api.slex.io
 https://api.staging.luno.com/
 https://api.t-mobile.com
+https://api.test.latitudefinancial.com
 https://api.thesecurityteam.rocks
 https://api.thousandeyes.com/
 https://api.toobit.com/
@@ -4364,6 +4389,7 @@ https://app.hubspot.com/
 https://app.ibotta.com/sign-in 
 https://app.intercom.com
 https://app.intercom.io/
+https://app.latitudepayapps.com/
 https://app.opsgenie.com
 https://app.optimizely.com/
 https://app.ring.com/*
@@ -4660,10 +4686,12 @@ https://business-staging.getmoneytree.com/
 https://business.australiansuper.com/
 https://business.comcast.com/account
 https://butlerfortrello.com/
+https://buyersedge.co.nz
 https://canva.cn/developers 
 https://canva.com/developers
 https://carbonneutral.ampol.com.au/
 https://cards.ampol.com.au
+https://carecredit.com.au
 https://careers.takeaway.com
 https://cash.app
 https://cashback.opera.com/
@@ -5012,6 +5040,9 @@ https://gate.sendbird.com
 https://gatewaydsapdev2.marriott.com/
 https://gatewaydsaptst1.marriott.com/
 https://gatewaydsaptst2.marriott.com/
+https://gemcreditline.co.nz
+https://gemfinance.co.nz
+https://gemvisa.com.au
 https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
 https://git.libssh.org/
@@ -5478,6 +5509,7 @@ https://gitlab.com/gitlab-org/gitlab-shell
 https://gitlab.com/gitlab-org/gitlab-vscode-extension
 https://gitlab.com/gitlab-org/opstrace/opstrace
 https://go.elementor.com/
+https://gomastercard.com.au
 https://gpt.lime.bike
 https://graphql.acorns.com
 https://graphql.seek.com
@@ -5518,10 +5550,12 @@ https://identity.bugcrowd.com/
 https://identity.ic0.app/
 https://identity.monash.edu
 https://identity.monash.edu/
+https://images.latitudepayapps.com/
 https://india.westernunion.com
 https://indonesiavoa.vfsevisa.id/
 https://infiniteathlete.ai
 https://infra.coda.io/*
+https://interestfree.com.au
 https://internal.exoscale.ch
 https://interviews.monash.edu/
 https://investor.bullish.com/
@@ -5578,6 +5612,7 @@ https://laptop-updates.brave.com/latest/winia32
 https://laptop-updates.brave.com/latest/winx64
 https://lastpass.com
 https://lastpass.com/misc_download2.php
+https://latitudeinfinity.com.au
 https://lbu.eu-west-2.outscale.com
 https://learn.neogov.com
 https://legacy-blockexplorer.electroneum.com
@@ -5929,6 +5964,9 @@ https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosti
 https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
 https://marketplace.auth0.com
 https://marketplace.ifood.com.br
+https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/
+https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
+https://master.servicecentre.digitalservicing-np.lfscnp.com/
 https://mathem.se
 https://matrix.agent.tchap.gouv.fr
 https://matrix.e.tchap.gouv.fr
@@ -6397,6 +6435,7 @@ https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 https://svn.filezilla-project.org/svn/libfilezilla/trunk
 https://svn.filezilla-project.org/svn/libfilezilla/trunk/
 https://sycamore.moneyboxapp.org/
+https://sympleloans.com.au/
 https://syncsketch.dev
 https://t-mobile.actixone.com/
 https://t-mobile.com
@@ -6481,6 +6520,7 @@ https://ui.com/distributors/
 https://ui.com/training/partners/
 https://uk.web.com
 https://ultramobile.com
+https://umiloans.com.au
 https://underarmournext.com/
 https://unified.neogov.com
 https://unihub.monash.edu/
@@ -6895,6 +6935,7 @@ idp.fr.cloud.gov
 iframe.arkoselabs.com
 ifttt-adaptor.pub.kube.dm.gg
 images-asia-south1.truecaller.com
+images.latitudepayapps.com
 images.truecaller.com
 imagine.magento.com
 img.swapcard.com
