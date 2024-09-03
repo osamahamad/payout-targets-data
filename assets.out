@@ -602,8 +602,9 @@
 *.nkstatic.com
 *.nnip.com
 *.nordvpn.com
+*.nr-data.net
+*.nr-ops.net
 *.numberfire.com
-*.octopus.com
 *.oda.com
 *.odcdn.com.au
 *.okcoin.com
@@ -4234,7 +4235,6 @@ https://afterpay.com
 https://agent.alphax.com
 https://agent.apps.monash.edu/
 https://agentportal.westernunion.com
-https://aiagent.octopus.com/api/form
 https://airflow-prod.coda.io/*
 https://airflow-prod.ops.coda.io/*
 https://aiven.io/
@@ -4422,6 +4422,7 @@ https://apps.apple.com/gb/app/indeed-flex-job-search/id1013812731
 https://apps.apple.com/gb/app/moneybox-save-and-invest/id1049797239
 https://apps.apple.com/id/app/dana/id1437123008
 https://apps.apple.com/ie/app/doctolib-siilo/id1083002150
+https://apps.apple.com/ie/app/new-relic/id594038638
 https://apps.apple.com/in/app/coindcx-trade-bitcoin-crypto/id1517787269
 https://apps.apple.com/in/app/fave-cashback-for-upi/id1538911340
 https://apps.apple.com/in/app/fitburn/id6444105607
@@ -4837,6 +4838,7 @@ https://dev.init.capital/contract-addresses/mantle
 https://dev.tutoring.classdojo.com
 https://devedge.t-mobile.com
 https://developer.mastercard.com
+https://developer.newrelic.com/
 https://developer.withings.com/dashboard/
 https://developer.zendesk.com/documentation/zendesk-sdks/#android
 https://developer.zendesk.com/documentation/zendesk-sdks/#ios
@@ -4867,6 +4869,7 @@ https://docs.keeper.io/sso-connect-guide/
 https://docs.mapbox.com/android/
 https://docs.mapbox.com/api/
 https://docs.mapbox.com/ios/maps/overview/
+https://docs.newrelic.com/
 https://docs.tempus-ex.com
 https://donate.mastercard.com
 https://download.bkexer.xin/app/download/android/app-release.apk
@@ -4999,6 +5002,7 @@ https://for-hackers.crispapp.nl/web-rn/
 https://form.asana.com
 https://formative.eassessment.monash.edu/
 https://forms.apps.monash.edu/
+https://forum.newrelic.com
 https://foundation.westernunion.com
 https://foxycart-demo.foxycart.com/cart
 https://fulcrom.finance
@@ -5106,7 +5110,6 @@ https://github.com/MystenLabs/sui/tree/testnet/external-crates/move
 https://github.com/MystenLabs/sui/tree/testnet/narwhal
 https://github.com/NXT-Technologies-INC/NXTChain/tree/main/Permission%20Smart%20Contract
 https://github.com/Nginx
-https://github.com/OctopusDeploy
 https://github.com/P2B-team/p2b-api-docs
 https://github.com/PandoraDigital/smart-contract
 https://github.com/ProjectOpenSea/seaport#deployments
@@ -5568,6 +5571,7 @@ https://keepersecurity.com/vault
 https://kiwi.partner.viator.com
 https://knowledge.hubspot.com/connected-email/get-started-with-the-hubspot-sales-office-365-add-in
 https://knowledge.hubspot.com/inbox/set-up-a-customer-portal
+https://knowledge.newrelic.com/
 https://kucoin.com
 https://kw-bugcrowd-pub.bounty.kiteworks.dev/
 https://l.usaa.com/
@@ -5589,6 +5593,7 @@ https://lastpass.com/misc_download2.php
 https://latitudeinfinity.com.au
 https://lbu.eu-west-2.outscale.com
 https://learn.neogov.com
+https://learn.newrelic.com/
 https://legacy-blockexplorer.electroneum.com
 https://lego.yellowblocks.me/
 https://lensstudio.snapchat.com/api/
@@ -6005,6 +6010,8 @@ https://namestudio.com
 https://namestudioforsocial.com/
 https://near.foundation/
 https://net.geo.opera.com
+https://newrelic.com/
+https://newrelic.com/blog
 https://newsletter.thuisbezorgd.nl
 https://nice.wfmusaa.com
 https://nns.ic0.app/
@@ -6015,13 +6022,13 @@ https://nubank.com.mx
 https://nvoice.usaa.com/
 https://nw.ring.com/*
 https://oauth.ring.com/*
-https://octopus.com
 https://octopus.com/downloads
 https://oda.com
 https://odesli.co
 https://odesli.com
 https://offer.tidal.com/download
 https://onboard.neogov.com
+https://one.newrelic.com
 https://one.pinelabs.com/
 https://online.monash.edu/
 https://online.mustaqel.qa/qat/en/login
@@ -6164,6 +6171,7 @@ https://play.google.com/store/apps/details?id=com.maf.share&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.maf.thatandroid
 https://play.google.com/store/apps/details?id=com.moneyboxapp
 https://play.google.com/store/apps/details?id=com.moonpay
+https://play.google.com/store/apps/details?id=com.newrelic.rpm
 https://play.google.com/store/apps/details?id=com.nicehash.metallum&hl=en
 https://play.google.com/store/apps/details?id=com.nth.swisspost&hl=de_CH&gl=US
 https://play.google.com/store/apps/details?id=com.nu.production&hl=pt_BR&gl=US&pli=1
@@ -6399,6 +6407,7 @@ https://studentplacements.monash.edu
 https://suggestions.opera-api.com
 https://supplier.viator.com/
 https://support.lastpass.com
+https://support.newrelic.com/
 https://support.okta.com
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
@@ -8612,7 +8621,6 @@ zen.deezer.com
 zerobounce.net
 zopim.com
 ████████████
-█████████████
 ██████████████
 ██████████████████
 ███████████████████
