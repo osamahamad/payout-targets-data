@@ -655,10 +655,6 @@
 *.payoneer.com
 *.paypal.com
 *.paypalcorp.com
-*.personio-internal.de
-*.personio.de
-*.personio.tools
-*.personiowhistleblowing.com
 *.petbook-magazine.com/
 *.petbook.de
 *.pinterest.com Web Apps
@@ -2184,7 +2180,6 @@ Other Logitech Hardware/IoT
 Other Semrush Related Asset
 Other Spotify websites
 Other assets
-Other assets owned by Personio
 Other non-production infrastructure
 Other publicly-released plugins
 P2P functionality
@@ -3852,7 +3847,6 @@ doaction.org
 docs.chainstack.com
 docs.databricks.com
 docs.datastax.com
-docs.eazybi.com
 docs.gitlab.com
 docs.lansweeper.com
 docs.launchdarkly.com
@@ -4172,7 +4166,9 @@ http://github.com/AssetMantle/node
 http://github.com/circlefin/noble-cctp
 http://github.com/cloudflare
 http://grpc.oasis.dev
+http://h1-your-domain.zendesk.com/qa/
 http://h1-your-domain.zendesk.com/sell
+http://h1-your-domain.zendesk.com/wfm/
 http://ibotta.com
 http://ims-na1.adobelogin.com
 http://itunes.apple.com/us/app/ibotta/id559887125
@@ -5542,7 +5538,6 @@ https://hr.neogov.com
 https://hr.prosus.com/
 https://hub.immutable.com/
 https://hub.zetachain.com/
-https://hug.personio.com
 https://icu.eu-west-2.outscale.com
 https://id.atlassian.com/login
 https://id.unity.com
@@ -5900,7 +5895,6 @@ https://marketplace.atlassian.com/apps/1224728/crucible-build-status?hosting=ser
 https://marketplace.atlassian.com/apps/1224729/bamboo-build-status-notifier?hosting=server
 https://marketplace.atlassian.com/apps/1224758/confluence-recent-edits-overview?hosting=cloud
 https://marketplace.atlassian.com/apps/1224799/scroll-content-quality-for-confluence
-https://marketplace.atlassian.com/apps/1224799/scroll-content-quality-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1224994/poll-maker-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hosting=datacenter
 https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hosting=server
@@ -6351,7 +6345,6 @@ https://sandbox.fireblocks.io/v2/settings/notifications
 https://sandbox.open-xchange.com
 https://scalews.withings.com
 https://screenplayer.20min.ch
-https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secure-iphone-xml.booking.com/json/
 https://secure.cuehit.net
 https://secure.mypass.de/
@@ -6770,8 +6763,6 @@ https://www.opera.com/
 https://www.opera.com/computer/thanks?ni=eapgx&os=windows
 https://www.opera.com/computer/thanks?ni=stable&os=windows
 https://www.originenergy.com.au/
-https://www.personio.com/free-trial/
-https://www.personio.de/kostenlos-testen/
 https://www.pexels.com/
 https://www.pinelabs.ae/
 https://www.pionex.com/
