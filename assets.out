@@ -1068,6 +1068,7 @@
 1591003012
 1604650263
 1632202810
+1634080733
 1641486558
 167.187.0.0/16
 1671793296
@@ -1165,6 +1166,7 @@
 6444005221
 6444040977
 645949180
+6462308655
 6467634418
 647268330
 647922896
@@ -3540,6 +3542,8 @@ com.remitly.androidapp
 com.ring.neighborhoods
 com.ringapp
 com.robinhood.android
+com.robinhood.gateway
+com.robinhood.money
 com.romwe
 com.scee.psxandroid
 com.scopely.monopolygo
