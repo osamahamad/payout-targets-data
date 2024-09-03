@@ -26,7 +26,6 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.canva.com
 *.canva.tech
 *.cashstaging.app
-*.cashstaging.app
 *.meraki.com
 *.ikarem.io
 *.network-auth.com
@@ -95,6 +94,7 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 prod-*.nubank.com.br
 prod-*.nu.com.mx
 prod-*.nu.com.co
+*.octopus.com
 *.opera.software
 *.osp.opera.software
 *.opera.technology
