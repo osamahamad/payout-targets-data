@@ -88,6 +88,9 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.just-eat.com 
 *.linktree-extensions.com
 *.bbp-mettle.co.uk
+prod-*.nubank.com.br
+prod-*.nu.com.mx
+prod-*.nu.com.co
 *.octopus.com
 *.opera.software
 *.osp.opera.software
@@ -186,10 +189,6 @@ xhomeapi-*.cloud.comcast.net
 *.sandbox.*.lfscnp.com
 *.umiloans.com.au
 *.lululemon.com
-*.nuinvest.com.br	
-prod-*.nu.com.co
-prod-*.nu.com.mx
-prod-*.nubank.com.br
 *.openai.com
 *.openai.org
 *.openai.org
