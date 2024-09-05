@@ -25,6 +25,9 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.canva.com
 *.canva.tech
 *.cashstaging.app
+*.meraki.com
+*.ikarem.io
+*.network-auth.com
 *.xfinity.com	
 *.comcast.com
 *.xcal.tv
@@ -144,8 +147,6 @@ api-*.soundcloud.com
 *.wimpmusic.com
 *.tidalhifi.com
 *.tdl.sh
-*.gtld-servers.net (DNS service; DNS related)
-*.verisign-grs.com (DNS service; DNS related)
 *.gtld-servers.net (DNS service; DNS related)
 *.verisign-grs.com (DNS service; DNS related)
 *.transferwise.com
