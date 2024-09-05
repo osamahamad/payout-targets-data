@@ -45,6 +45,11 @@ http://github.com/AssetMantle/node
 https://github.com/Asymetrix-Protocol/contracts
 https://app.asymetrix.io/
 https://asymetrix.io/
+https://github.com/aurora-is-near/aurora-engine/tree/aa20b0c6ae84ff842c5baf301b8cb8888c4d254a/engine-hashchain
+https://github.com/aurora-is-near/aurora-engine/blob/aa20b0c6ae84ff842c5baf301b8cb8888c4d254a/engine/src/xcc.rs
+https://github.com/aurora-is-near/aurora-engine/blob/aa20b0c6ae84ff842c5baf301b8cb8888c4d254a/engine-precompiles/src/xcc.rs
+https://github.com/aurora-is-near/aurora-engine/blob/aa20b0c6ae84ff842c5baf301b8cb8888c4d254a/engine/src/hashchain.rs
+https://github.com/aurora-is-near/aurora-engine/tree/aa20b0c6ae84ff842c5baf301b8cb8888c4d254a/etc/xcc-router
 https://etherscan.io/address/0x3be7Df8dB39996a837041bb8Ee0dAdf60F767038 
 https://etherscan.io/address/0x051ad3f020274910065dcb421629cd2e6e5b46c4
 https://explorer.near.org/accounts/prover.bridge.near
@@ -180,6 +185,8 @@ stage.bittrex.com
 blofin.com
 https://apps.apple.com/tt/app/blofin/id1616804346
 https://play.google.com/store/apps/details?id=com.blofin.android
+https://github.com/hackenproof/bluefin-exchange-contracts-sui
+https://github.com/hackenproof/elixir_bluefin_integration
 https://github.com/hackenproof-public/bluefin-liquidity-vaults-contracts
 https://github.com/hackenproof-public/bluefin-exchange-contracts-sui
 https://github.com/hackenproof-public/elixir_bluefin_integration

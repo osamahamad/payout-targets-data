@@ -2642,6 +2642,8 @@ about.gitlab.com
 academy-outbound-ads.tiktok.com
 academy.databricks.com
 academy.deriv.com
+access-sandbox.remitly.com
+access.remitly.com
 access.ripe.net
 accommodations.booking.com
 account-noneu.truecaller.com
@@ -5120,6 +5122,11 @@ https://github.com/aptos-labs/aptos-core/tree/mainnet
 https://github.com/argoproj/argoproj
 https://github.com/atomone-hub/govgen
 https://github.com/atomone-hub/govgen-proposals/blob/main/submit-tx-securely.md
+https://github.com/aurora-is-near/aurora-engine/blob/aa20b0c6ae84ff842c5baf301b8cb8888c4d254a/engine-precompiles/src/xcc.rs
+https://github.com/aurora-is-near/aurora-engine/blob/aa20b0c6ae84ff842c5baf301b8cb8888c4d254a/engine/src/hashchain.rs
+https://github.com/aurora-is-near/aurora-engine/blob/aa20b0c6ae84ff842c5baf301b8cb8888c4d254a/engine/src/xcc.rs
+https://github.com/aurora-is-near/aurora-engine/tree/aa20b0c6ae84ff842c5baf301b8cb8888c4d254a/engine-hashchain
+https://github.com/aurora-is-near/aurora-engine/tree/aa20b0c6ae84ff842c5baf301b8cb8888c4d254a/etc/xcc-router
 https://github.com/aurora-is-near/aurora-engine/tree/develop/engine
 https://github.com/aurora-is-near/aurora-engine/tree/develop/engine-precompiles
 https://github.com/aurora-is-near/aurora-engine/tree/develop/engine-sdk
@@ -5229,6 +5236,8 @@ https://github.com/gsa/datagov-deploy
 https://github.com/hackenproof-public/bluefin-exchange-contracts-sui
 https://github.com/hackenproof-public/bluefin-liquidity-vaults-contracts
 https://github.com/hackenproof-public/elixir_bluefin_integration
+https://github.com/hackenproof/bluefin-exchange-contracts-sui
+https://github.com/hackenproof/elixir_bluefin_integration
 https://github.com/hyperledger/besu
 https://github.com/hyperledger/besu-errorprone-checks
 https://github.com/hyperledger/besu-native
