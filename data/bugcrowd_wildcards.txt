@@ -1,9 +1,6 @@
 *.arlo.com
 *.arloxcld.com
 *.central.arubanetworks.com
-*.app.asana.com
-*.asana.biz
-*.asana.plus
 *.atlastunnel.com
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
@@ -13,6 +10,8 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.cyberghostvpn.com
 *.dell.com/*
 *.delltechnologies.com/* 
+*.asana.biz
+*.app.asana.com
 *.tube8.com
 *.trafficjunky.com
 *.adultforce.com
