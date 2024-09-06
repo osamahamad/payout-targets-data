@@ -248,7 +248,6 @@
 *.dailymotion.com
 *.dancecentral.com
 *.das.eu
-*.datacamp.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demorgen.be
@@ -431,7 +430,9 @@
 *.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
+*.imperva.com
 *.imtbl.com
+*.incapsula.com
 *.indeed.com
 *.indeed.net
 *.indeed.tech
@@ -987,6 +988,7 @@
 0xe6cc10ef4de1ccfb821c99c04abfe1859d8eab8f (EXEN) (ERC20)
 0xfbfa258b9028c7d4fc52ce28031469214d10daeb
 1.1.1.1 Resolver
+1001982587
 1005070636
 1013961111
 1018340690
@@ -1023,6 +1025,7 @@
 1294578643
 1298908406
 1324809509
+1337574835
 134.58.179.102-103
 134.58.179.82
 1343620481
@@ -1119,6 +1122,7 @@
 488534576
 493086499
 493253309
+4ever.ketnet.be
 4njbets.com
 4njbets.tvg.com
 4njbets.tvgnetwork.com
@@ -2162,6 +2166,7 @@ PIA macOS application
 PNS (subdomains)
 PNS.HongKong.Android
 PNS.HongKong.iOS
+PTaaS Reference
 Package Tracker - https://trello.com/power-ups/55a5d917446f51777421000d/package-tracker
 Packet Forward Middleware
 Password Sync for macOS
@@ -2885,6 +2890,7 @@ api.slack.com
 api.smtp2go.com
 api.sokos.fi
 api.sorare.com
+api.sporza.be
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -2910,6 +2916,7 @@ api.veriff.me
 api.vhx.tv
 api.vidaxl.com
 api.vimeo.com
+api.vrt.radio
 api.watsons.co.id
 api.watsons.co.th
 api.watsons.com.hk
@@ -2945,9 +2952,6 @@ app.chime.com
 app.circle.com
 app.command.cysiv.com
 app.dashlane.com
-app.datacamp.com/certification
-app.datacamp.com/groups
-app.datacamp.com/learn
 app.delen.be
 app.delen.ch
 app.delen.lu
@@ -3046,9 +3050,6 @@ as2.portofantwerpbruges.com
 ase.arubanetworks.com
 asiointi.lahitapiola.fi
 asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com
-assessment.datacamp.com
 assets.adobe.com
 assets.airbnb.com
 assets.hyatt.com
@@ -3116,11 +3117,14 @@ be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
+be.vrt.ketnet.ketnetjr
+be.vrt.vrtnu
 beacon.netflix.com
 behance.net
 bestfiends.com
 beta-cloud.acronis.com
 beta.rarible.com
+bff.ketnet.be
 bigcommerce-adapter.judge.me
 billing-pci.etoro.com
 billing.etoro.com
@@ -3198,7 +3202,6 @@ callbacks.airbnb.com
 callkit-asia-south1.truecaller.com
 cam.notebleue.pro
 campaign.adobe.com
-campus.datacamp.com
 candle-src.etoro.com
 candle.etoro.com
 capital.com/*
@@ -3232,6 +3235,7 @@ cdn.moderntreasury.com
 cdn.nba.com
 cdn.plaid.com
 cdna.lystit.com
+cds.vrt.radio
 cfapi.voikukka.fi
 chain.link
 chainstack.com
@@ -3366,7 +3370,6 @@ com.creditkarma.mobile
 com.creditkarma.mobile.international
 com.dashlane
 com.dashlane.dashlanephonefinal
-com.datacamp
 com.defi.wallet
 com.deribit
 com.dolap.android
@@ -3645,6 +3648,7 @@ contact-upload4.truecaller.com
 contacts.infomaniak.com
 content-api-nextgen-prod.nba.com
 content-api-prod.nba.com
+content.ketnet.be
 contributor.stock.adobe.com
 controltower.sentiance.com
 core-api.nba.com
@@ -3708,6 +3712,7 @@ dashboard.pluralonline.com
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
 dashboard.unity3d.com
+data.ketnet.be
 data.mail.yahoo.com
 data.ninjakiwi.com
 data.rarible.com
@@ -3728,6 +3733,7 @@ de.bmw.connected.mobile20.row
 de.forescout.cloud
 debug.clairvoyance.indrive.tech
 decision.swiftfinancial.com
+dedokterbeashow.ketnet.be
 delen/id1064839588
 delta.app
 demo.arkoselabs.com
@@ -4353,7 +4359,6 @@ https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/bigcommerce/id1418570678
 https://apps.apple.com/au/app/caltex-australia/id1314768594
 https://apps.apple.com/au/app/certsy/id1617796159
-https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
@@ -6575,6 +6580,7 @@ https://www.cart.hostgator.com.br
 https://www.cb2.ae/en
 https://www.cfr.org/
 https://www.classdojo.com
+https://www.cloudvector.com/
 https://www.coinex.com/en/
 https://www.coinw.com/
 https://www.contrastsecurity.com/
@@ -6936,9 +6942,11 @@ js.stripe.com
 jss.greenhouse.io
 judge.me
 juicer.lime.bike
+juniormusical.ketnet.be
 jwt.io
 k8s.gcr.io
 k8s.io
+kaatje.ketnet.be
 kartaview.org
 kassa.gamma.be/*
 kassa.gamma.nl/*
@@ -6998,6 +7006,7 @@ lists.nextcloud.com
 lists.wordpress.org
 lite.qwant.com
 live-backstage.tiktok.com
+live-cf-vrt.akamaized.net
 lms-stg-develop.eks-stg-use1.getaws.arubanetworks.com
 loanbuilder.com
 localizestaging.com
@@ -7031,6 +7040,7 @@ login.swisspass.ch
 login.truelayer[-sandbox].com
 login.tvg.com
 login.venly.io
+login.vrt.be
 login.www.vaxvacationaccess.com
 logitech.zendesk.com
 logitechg.com.cn
@@ -7055,6 +7065,7 @@ m.reddit.com
 m.trendyol.com
 macOS desktop application available at https://status.app/ for Intel and Silicon 
 mackeeper.com
+magazine.ketnet.be
 magento.com
 magentocommerce.com
 magentolive.com
@@ -7101,6 +7112,7 @@ maximo-accpt.portofantwerpbruges.com
 maximo.portofantwerp.com
 maximo.portofantwerpbruges.com
 mds.voiapp.io
+media-services-public.vrt.be
 media.drogas.lv
 media.iciparisxl.be
 media.iciparisxl.lu
@@ -7336,6 +7348,7 @@ onboarding-*.cloud.com
 onboarding-api.truelayer.com
 onboarding.cloud.com
 onboarding.greenhouse.io
+ondemand-vrt.akamaized.net
 one-world-radio-tomorrowland/id1485778856
 one.airbnb.com
 one.dash.cloudflare.com
@@ -7454,6 +7467,7 @@ playcanvas.com
 player-login.unity.com
 player-radio.infomaniak.com
 player.vimeo.com
+player.vrt.be
 playwonderbox.com
 playwonderbox.com.br
 portal-api.coinmarketcap.com
@@ -7468,7 +7482,6 @@ portal.taxi.booking.com
 portfolio.adobe.com
 portfolio.metamask.io
 portswigger.net
-practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prddsplunkhf.uzleuven.be
 premium-eu.truecaller.com
@@ -7491,6 +7504,7 @@ press.priceline.com
 priceline.com
 prime.coinbase.com
 priority.eu-east-1.indriverapp.com
+privacy.ketnet.be
 privateinternetaccess.com
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
@@ -7505,6 +7519,7 @@ prod-*.nubank.com.br
 prod.ros.rockstargames.com
 proddata.xobni.yahoo.com
 production.plaid.com
+profiel.vrt.be
 profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
@@ -7513,7 +7528,6 @@ profile-view.truecaller.com
 profile4-asia-south1.truecaller.com
 profile4.truecaller.com
 profiler.firefox.com
-projects.datacamp.com
 projects.nextcloud.com
 prometheus.fr.cloud.gov
 promos.tvg.com
@@ -7562,6 +7576,7 @@ relaxcdn.unibet.com
 relay.firefox.com
 relay.playcanvas.com
 remitly.com
+remix-cf-vrt.akamaized.net
 remoteaccess.westernunion.com
 rentals.tripadvisor.com
 repo.magento.com
@@ -7657,6 +7672,7 @@ securitytrails.com
 select.logitech.com
 selector.viator.com
 seller-id.tokopedia.com
+senior-bff.ketnet.be
 sensei.pixiv.net
 sequoia-autocrypt
 sequoia-cert-store
@@ -7747,7 +7763,9 @@ spark.adobe.com
 spark.fareharbor.com
 spectacles.com
 speedtest.xfinity.com
+sport-components.sporza.be
 sportsbook.fanduel.com
+sporza.be
 sq
 sqop
 sqv
@@ -7812,6 +7830,7 @@ streams.etoro.com
 sts.delen.be
 sts.etoro.com
 sts.uzleuven.be
+stubru.be/luister/select
 studio-api.swapcard.com
 studio.swapcard.com
 subnet-evm
@@ -8027,6 +8046,9 @@ volans.tech
 vpn.mobilevikings.be
 vpn.mozilla.org
 vroid.com
+vrt.be/vrtnu
+vrt.be/vrtnws
+vrtnws-api.vrt.be
 vtm.be/vtmgo
 vtmgo.be
 w1.uzleuven.be
@@ -8180,8 +8202,6 @@ www.currencycloud.com
 www.cybersource.com
 www.dashlane.com
 www.data.gov
-www.datacamp.com
-www.datacamp.com/datalab
 www.datastax.com
 www.ddfcontent.com
 www.deezer.com
@@ -8292,6 +8312,7 @@ www.irccloud.com
 www.jaybirdsport.com
 www.karwei.nl/*
 www.kayak.com
+www.ketnet.be
 www.kiwi.com
 www.kohls.com
 www.koho.ca
