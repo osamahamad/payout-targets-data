@@ -431,9 +431,7 @@
 *.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
-*.imperva.com
 *.imtbl.com
-*.incapsula.com
 *.indeed.com
 *.indeed.net
 *.indeed.tech
@@ -740,6 +738,7 @@
 *.sellzone.com
 *.semrush.com
 *.semrush.net
+*.sentiance.com
 *.seoab.io
 *.seoquake.com
 *.serious.li
@@ -988,7 +987,6 @@
 0xe6cc10ef4de1ccfb821c99c04abfe1859d8eab8f (EXEN) (ERC20)
 0xfbfa258b9028c7d4fc52ce28031469214d10daeb
 1.1.1.1 Resolver
-1001982587
 1005070636
 1013961111
 1018340690
@@ -1025,7 +1023,6 @@
 1294578643
 1298908406
 1324809509
-1337574835
 134.58.179.102-103
 134.58.179.82
 1343620481
@@ -1122,7 +1119,6 @@
 488534576
 493086499
 493253309
-4ever.ketnet.be
 4njbets.com
 4njbets.tvg.com
 4njbets.tvgnetwork.com
@@ -2166,7 +2162,6 @@ PIA macOS application
 PNS (subdomains)
 PNS.HongKong.Android
 PNS.HongKong.iOS
-PTaaS Reference
 Package Tracker - https://trello.com/power-ups/55a5d917446f51777421000d/package-tracker
 Packet Forward Middleware
 Password Sync for macOS
@@ -2883,13 +2878,13 @@ api.reddit.com
 api.remitly.io
 api.rezserver.com
 api.sandbox.topperpay.com
+api.sentiance.com
 api.shipt.com
 api.skinport.com
 api.slack.com
 api.smtp2go.com
 api.sokos.fi
 api.sorare.com
-api.sporza.be
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -2915,7 +2910,6 @@ api.veriff.me
 api.vhx.tv
 api.vidaxl.com
 api.vimeo.com
-api.vrt.radio
 api.watsons.co.id
 api.watsons.co.th
 api.watsons.com.hk
@@ -3122,14 +3116,11 @@ be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
-be.vrt.ketnet.ketnetjr
-be.vrt.vrtnu
 beacon.netflix.com
 behance.net
 bestfiends.com
 beta-cloud.acronis.com
 beta.rarible.com
-bff.ketnet.be
 bigcommerce-adapter.judge.me
 billing-pci.etoro.com
 billing.etoro.com
@@ -3241,7 +3232,6 @@ cdn.moderntreasury.com
 cdn.nba.com
 cdn.plaid.com
 cdna.lystit.com
-cds.vrt.radio
 cfapi.voikukka.fi
 chain.link
 chainstack.com
@@ -3519,6 +3509,8 @@ com.scopely.yux
 com.secretkeylabs.xverse
 com.security.BatteryCam
 com.security.care
+com.sentiance.journeys
+com.sentiance.journeys2
 com.shipt.groceries
 com.shipt.shopper
 com.skypicker.Skypicker
@@ -3653,8 +3645,8 @@ contact-upload4.truecaller.com
 contacts.infomaniak.com
 content-api-nextgen-prod.nba.com
 content-api-prod.nba.com
-content.ketnet.be
 contributor.stock.adobe.com
+controltower.sentiance.com
 core-api.nba.com
 core.yoti.com
 cornershopapp.android
@@ -3716,7 +3708,6 @@ dashboard.pluralonline.com
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
 dashboard.unity3d.com
-data.ketnet.be
 data.mail.yahoo.com
 data.ninjakiwi.com
 data.rarible.com
@@ -3737,7 +3728,6 @@ de.bmw.connected.mobile20.row
 de.forescout.cloud
 debug.clairvoyance.indrive.tech
 decision.swiftfinancial.com
-dedokterbeashow.ketnet.be
 delen/id1064839588
 delta.app
 demo.arkoselabs.com
@@ -3799,6 +3789,7 @@ docs.launchdarkly.com
 docs.near.org
 docs.nextcloud.com
 docs.redoxengine.com
+docs.sentiance.com
 docs.ton.org
 documentcloud.adobe.com
 documents.adobe.com
@@ -4003,6 +3994,7 @@ grammarly.ai
 graphql.sandbox.topperpay.com/graphql
 graphql.seek.com
 graphql.topperpay.com/graphql
+graphqldocs.sentiance.com
 gravatar.com
 grok.x.ai
 gutenberg.run
@@ -4449,6 +4441,7 @@ https://apps.apple.com/us/app/paper-by-dropbox/id1126623662
 https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/pionex/id1485348891
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
+https://apps.apple.com/us/app/rac-go/id6444858115
 https://apps.apple.com/us/app/share-rewards/id1465450657
 https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
@@ -6167,6 +6160,7 @@ https://play.google.com/store/apps/details?id=com.pointpay.bank
 https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&hl=en
 https://play.google.com/store/apps/details?id=com.probit.app.android2.release.global
 https://play.google.com/store/apps/details?id=com.scu.bsafe
+https://play.google.com/store/apps/details?id=com.sentiance.saferdriver
 https://play.google.com/store/apps/details?id=com.siilo.android&hl=en
 https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
@@ -6581,7 +6575,6 @@ https://www.cart.hostgator.com.br
 https://www.cb2.ae/en
 https://www.cfr.org/
 https://www.classdojo.com
-https://www.cloudvector.com/
 https://www.coinex.com/en/
 https://www.coinw.com/
 https://www.contrastsecurity.com/
@@ -6883,6 +6876,7 @@ infomaniak.events
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
 innogames.com
+insights-by-sentiance/id1608074635
 insights-categorizer-eu.truecaller.com
 insights-categorizer-noneu.truecaller.com
 insights-registry-eu.truecaller.com
@@ -6933,6 +6927,8 @@ jira.hyattdev.com
 jira.logitech.com
 jobs.kiwi.com
 jobs.marriott.com
+journeys-2/id984087229?mt=8
+journeys-api.sentiance.com/v2
 jp.naver.line.android
 js.crypto.com
 js.datadome.co
@@ -6940,11 +6936,9 @@ js.stripe.com
 jss.greenhouse.io
 judge.me
 juicer.lime.bike
-juniormusical.ketnet.be
 jwt.io
 k8s.gcr.io
 k8s.io
-kaatje.ketnet.be
 kartaview.org
 kassa.gamma.be/*
 kassa.gamma.nl/*
@@ -6987,6 +6981,7 @@ lawmanager.marriott.com
 le.yahooapis.com
 leadgen-asia-south1.truecaller.com
 learningmanager.adobe.com
+legacy-docs.sentiance.com
 libsoup
 libsystemd
 licenses.adobe.com
@@ -7003,7 +6998,6 @@ lists.nextcloud.com
 lists.wordpress.org
 lite.qwant.com
 live-backstage.tiktok.com
-live-cf-vrt.akamaized.net
 lms-stg-develop.eks-stg-use1.getaws.arubanetworks.com
 loanbuilder.com
 localizestaging.com
@@ -7037,7 +7031,6 @@ login.swisspass.ch
 login.truelayer[-sandbox].com
 login.tvg.com
 login.venly.io
-login.vrt.be
 login.www.vaxvacationaccess.com
 logitech.zendesk.com
 logitechg.com.cn
@@ -7062,7 +7055,6 @@ m.reddit.com
 m.trendyol.com
 macOS desktop application available at https://status.app/ for Intel and Silicon 
 mackeeper.com
-magazine.ketnet.be
 magento.com
 magentocommerce.com
 magentolive.com
@@ -7109,7 +7101,6 @@ maximo-accpt.portofantwerpbruges.com
 maximo.portofantwerp.com
 maximo.portofantwerpbruges.com
 mds.voiapp.io
-media-services-public.vrt.be
 media.drogas.lv
 media.iciparisxl.be
 media.iciparisxl.lu
@@ -7345,7 +7336,6 @@ onboarding-*.cloud.com
 onboarding-api.truelayer.com
 onboarding.cloud.com
 onboarding.greenhouse.io
-ondemand-vrt.akamaized.net
 one-world-radio-tomorrowland/id1485778856
 one.airbnb.com
 one.dash.cloudflare.com
@@ -7464,7 +7454,6 @@ playcanvas.com
 player-login.unity.com
 player-radio.infomaniak.com
 player.vimeo.com
-player.vrt.be
 playwonderbox.com
 playwonderbox.com.br
 portal-api.coinmarketcap.com
@@ -7502,7 +7491,6 @@ press.priceline.com
 priceline.com
 prime.coinbase.com
 priority.eu-east-1.indriverapp.com
-privacy.ketnet.be
 privateinternetaccess.com
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
@@ -7517,7 +7505,6 @@ prod-*.nubank.com.br
 prod.ros.rockstargames.com
 proddata.xobni.yahoo.com
 production.plaid.com
-profiel.vrt.be
 profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
@@ -7575,7 +7562,6 @@ relaxcdn.unibet.com
 relay.firefox.com
 relay.playcanvas.com
 remitly.com
-remix-cf-vrt.akamaized.net
 remoteaccess.westernunion.com
 rentals.tripadvisor.com
 repo.magento.com
@@ -7671,7 +7657,6 @@ securitytrails.com
 select.logitech.com
 selector.viator.com
 seller-id.tokopedia.com
-senior-bff.ketnet.be
 sensei.pixiv.net
 sequoia-autocrypt
 sequoia-cert-store
@@ -7762,9 +7747,7 @@ spark.adobe.com
 spark.fareharbor.com
 spectacles.com
 speedtest.xfinity.com
-sport-components.sporza.be
 sportsbook.fanduel.com
-sporza.be
 sq
 sqop
 sqv
@@ -7829,7 +7812,6 @@ streams.etoro.com
 sts.delen.be
 sts.etoro.com
 sts.uzleuven.be
-stubru.be/luister/select
 studio-api.swapcard.com
 studio.swapcard.com
 subnet-evm
@@ -8045,9 +8027,6 @@ volans.tech
 vpn.mobilevikings.be
 vpn.mozilla.org
 vroid.com
-vrt.be/vrtnu
-vrt.be/vrtnws
-vrtnws-api.vrt.be
 vtm.be/vtmgo
 vtmgo.be
 w1.uzleuven.be
@@ -8313,7 +8292,6 @@ www.irccloud.com
 www.jaybirdsport.com
 www.karwei.nl/*
 www.kayak.com
-www.ketnet.be
 www.kiwi.com
 www.kohls.com
 www.koho.ca
