@@ -1520,7 +1520,6 @@ Latest ZAP version (2.15.0)
 https://dashboard.pantheon.io
 https://devstaging.pcapcloud.com/*
 https://www.pexels.com/
-https://www.pexels.com/
 ██████████████
 ██████████████
 ██████████████████
@@ -1894,6 +1893,7 @@ https://csp-prod.codebig2.net
 csp-pci.prod.codebig2.net
 aiq-prod.codebig2.net
 https://bc.yieldstreet.net
+staging-app.bany.dev
 █████████████████████
 ████████████
 Any publicly facing host owned by Etsy, including the below:
