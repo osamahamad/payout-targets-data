@@ -1756,6 +1756,34 @@ https://pcm-admin.20min.ch
 https://pcm-imaginary.20min.ch
 https://pcm.20min.ch
 https://screenplayer.20min.ch
+https://api.twilio.com
+Twilio APIs
+https://tsock.us1.twilio.com
+https://www.twilio.com/blog/get-started-webrtc
+https://www.twilio.com/wireless
+https://www.twilio.com/docs/libraries
+https://www.twilio.com/console
+https://www.twilio.com/docs/libraries
+https://twilio.com/blog
+https://build.twilio.com/s/
+https://sendgrid.com
+https://app.sendgrid.com/
+https://signup.sendgrid.com/
+https://api.sendgrid.com
+https://mc.sendgrid.com/
+smtp.sendgrid.net
+https://authy.com/download/
+https://authy.com/download/
+https://authy.com/download/
+https://www.twilio.com/authy
+https://www.twilio.com/docs/verify/api
+https://www.twilio.com/docs/authy/api
+https://www.twilio.com/docs/authy/api/dashboard
+Any host/web property verified to be owned by Twilio
+https://app.segment.com/
+https://api.segment.io/
+https://segment.com/docs/sources/
+Any host / web property verified to be owned by Segment (domains/IP space/etc.)	
 https://opendata-demo.test-socrata.com
 https://opendata.test-socrata.com
 https://opendata.test-socrata.com/admin/gateway
@@ -2112,53 +2140,6 @@ walletproxy.tapayments.com
 walletproxy1.tapayments.com
 walletproxy2.tapayments.com
 www.tripadvisor.com
- Twilio Helper Libraries
- Twilio WebRTC Client
- Twilio Wireless
- tsock.us1.twilio.com
-Any host / web property verified to be owned by Segment (domains/IP space/etc.)	
-Any host/web property verified to be owned by Twilio
-Authy Android App
-Authy Desktop app
-Authy iOS app
-Source code of Website, Mobile, or Server Libraries (https://segment.com/docs/sources/)
-Twilio APIs
-Twilio Authy - https://api.authy.com
-Twilio Authy API
-Twilio Authy Dashboard API
-Twilio Console
-Twilio SDKs
-Twilio Verify - https://verify.twilio.com
-api.segment.io
-api.sendgrid.com
-api.twilio.com
-app.segment.com
-https://api.segment.io/
-https://api.sendgrid.com
-https://api.twilio.com
-https://app.segment.com/
-https://app.sendgrid.com/
-https://authy.com/download/
-https://authy.com/download/
-https://authy.com/download/
-https://build.twilio.com/s/
-https://mc.sendgrid.com/
-https://segment.com/docs/sources/
-https://sendgrid.com
-https://signup.sendgrid.com/
-https://tsock.us1.twilio.com
-https://twilio.com/blog
-https://www.twilio.com/authy
-https://www.twilio.com/blog/get-started-webrtc
-https://www.twilio.com/console
-https://www.twilio.com/docs/authy/api
-https://www.twilio.com/docs/authy/api/dashboard
-https://www.twilio.com/docs/libraries
-https://www.twilio.com/docs/libraries
-https://www.twilio.com/docs/verify/api
-https://www.twilio.com/wireless
-smtp.sendgrid.net
-twilio.com/blog
 UA Shop Android
 UA Shop iOS
 https://api.shop.ua.com/graphql

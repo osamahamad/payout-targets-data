@@ -7,9 +7,6 @@
  Mobile Plugin for Confluence Data Center and Server - Server - https://marketplace.atlassian.com/apps/1218250/mobile-plugin-for-confluence-data-center-and-server?hosting=server
  Mobile Plugin for Jira - Server - https://marketplace.atlassian.com/apps/1220151/mobile-plugin-for-jira-data-center-and-server?hosting=server
  Twilio CDNs (static*.twilio.com)
- Twilio Helper Libraries
- Twilio WebRTC Client
- Twilio Wireless
  Watsons.TaiWan.Android
  com.citymapper.app.release
  https://api.ibops.net/ad-management
@@ -17,7 +14,6 @@
  https://github.com/0xPolygon/proof-generation-api
  https://github.com/river-build/river
  mix.monash.edu 
- tsock.us1.twilio.com
 (youriwssubdomain).cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
@@ -1437,9 +1433,6 @@ Audition
 Auth0 Guardian Android
 Auth0 Guardian IoS
 Authentication component
-Authy Android App
-Authy Desktop app
-Authy iOS app
 Auto Unapprove for Bitbucket Server - DataCenter - https://marketplace.atlassian.com/apps/1211449/auto-unapprove-for-bitbucket-server?hosting=datacenter
 Auto Unapprove for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1211449/auto-unapprove-for-bitbucket-server?hosting=server
 AutoLink Plugin for Jira - Server - https://marketplace.atlassian.com/apps/1211246/autolink-plugin-for-jira?hosting=server
@@ -2320,7 +2313,6 @@ Software
 Software Supply Chain
 Sonantic
 Source Code
-Source code of Website, Mobile, or Server Libraries (https://segment.com/docs/sources/)
 Sourcetree for macOS and Windows (https://www.sourcetreeapp.com/)
 SpaceX and Starlink assets (target information and rewards detailed above on the brief)
 Special Conditions
@@ -2464,12 +2456,6 @@ Trustwallet Chrome Extension
 Trustwallet iOS App
 Turnstile
 Twilio APIs
-Twilio Authy - https://api.authy.com
-Twilio Authy API
-Twilio Authy Dashboard API
-Twilio Console
-Twilio SDKs
-Twilio Verify - https://verify.twilio.com
 Twitter - https://trello.com/power-ups/55a5d917446f51777421000b/twitter
 UA Shop Android
 UA Shop iOS
@@ -2900,8 +2886,6 @@ api.reddit.com
 api.remitly.io
 api.rezserver.com
 api.sandbox.topperpay.com
-api.segment.io
-api.sendgrid.com
 api.shipt.com
 api.skinport.com
 api.slack.com
@@ -2925,7 +2909,6 @@ api.trello.com
 api.tripadvisor.com
 api.truelayer[-sandbox].com
 api.tumblr.com
-api.twilio.com
 api.unity.com
 api.unleashed.be
 api.uphold.com
@@ -3027,7 +3010,6 @@ app.quovo.com
 app.recordedfuture.com
 app.rewire.to
 app.sandbox.directly.com
-app.segment.com
 app.shapeshift.com 
 app.shipt.com
 app.skinport.com
@@ -7977,7 +7959,6 @@ try.discourse.org
 tunnistus.lahitapiola.fi
 tunnistus.s-ryhma.fi
 tvg.com
-twilio.com/blog
 twinmotion.unrealengine.com
 u.magento.com
 uacademy.ugurus.com

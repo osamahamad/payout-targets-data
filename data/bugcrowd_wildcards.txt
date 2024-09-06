@@ -148,6 +148,8 @@ api-*.soundcloud.com
 *.wimpmusic.com
 *.tidalhifi.com
 *.tdl.sh
+ *.sip.*.twilio.com
+ Twilio CDNs (static*.twilio.com)
 *.gtld-servers.net (DNS service; DNS related)
 *.verisign-grs.com (DNS service; DNS related)
 *.transferwise.com
@@ -224,8 +226,6 @@ xhomeapi-*.cloud.comcast.net
 *.housetrip.com
 *.niumba.com
 *.vacationhomerentals.com
- *.sip.*.twilio.com
- Twilio CDNs (static*.twilio.com)
 *.api.ua.com
 *.viator.com
 *.viatorinc.com
