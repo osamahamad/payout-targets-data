@@ -1308,7 +1308,6 @@ Android Zen App
 Animate
 Announcement Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1217289/announcement-plugin-for-bamboo?hosting=server
 Any .magic.link demo sites
-Any FIS asset is in scope
 Any Other Sophos Product or Service
 Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
 Any Worldpay asset is in scope
@@ -7785,6 +7784,7 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 staging-admin.shipt.com
 staging-api.shipt.com
 staging-apigateway.vidaxl.io
+staging-app.bany.dev
 staging-app.shipt.com
 staging-db.vidaxl.io
 staging-shop.shipt.com
