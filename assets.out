@@ -183,6 +183,10 @@
 *.canva.com
 *.canva.tech
 *.capital.com
+*.capitalone.ca
+*.capitalone.com
+*.capitalonegslbex.com
+*.capitaloneshopping.com
 *.captcha-delivery.com
 *.carecredit.com.au
 *.carrentals.com
@@ -1000,6 +1004,7 @@
 1076840480
 1079537578
 1080248000
+1089294040
 1091010942
 10x.redoxengine.com
 1101145849
@@ -1103,6 +1108,7 @@
 403546234
 403684733
 406056744
+407558537
 410896080
 425194759
 427916203
@@ -1514,6 +1520,7 @@ Canva (Android)
 Canva (Chrome Extension)
 Canva (iOS)
 Canva Desktop (macOS / Windows)
+Capital One Shopping Browser Extension
 Capture the Flag
 Card Aging Power-Up
 Card Repeater - https://trello.com/power-ups/57b47fb862d25a30298459b1/card-repeater
@@ -1683,6 +1690,7 @@ Engadget
 Enjin - Ethereum ERC-1155 Contract
 Enjin Blockchain
 Enjin Coin - Ethereum ERC-20 Contract
+Eno® Browser Extension
 Ensemble
 Entity Property Tool for Jira - Cloud - https://marketplace.atlassian.com/apps/1214509/entity-property-tool-for-jira?hosting=cloud
 EpicGamesLauncher.exe    
@@ -3431,6 +3439,7 @@ com.jellybtn.cashkingmobile
 com.kayak.android
 com.kayak.travel
 com.kitkagames.fallbuddies
+com.konylabs.capitalone
 com.larksuite.suite
 com.linecorp.linelite
 com.linkedin.android
@@ -3566,6 +3575,7 @@ com.visma.blue
 com.vrbo.android
 com.wealthsimple
 com.wealthsimple.wealthsimple
+com.wikibuy.prod.main
 com.wisdomtree.wtprime
 com.withbuddies.dice.free
 com.wooga.pearlsperil
