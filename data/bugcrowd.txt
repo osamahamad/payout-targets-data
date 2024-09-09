@@ -738,6 +738,22 @@ https://portal.clearpay.co.uk
 https://mobileapi.clearpay.com
 https://portalapi.eu.clearpay.co.uk
 https://api.clearpay.com
+https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
+https://play.google.com/store/apps/details?id=com.afterpaymobile.us&hl=en_US&gl=US
+https://portal.afterpay.com
+https://afterpay.com
+https://mobileapi.afterpay.com
+https://portalapi.us.afterpay.com
+https://developers.afterpay.com
+https://apps.apple.com/gb/app/clearpay-buy-now-pay-later/id1474022186
+https://play.google.com/store/apps/details?id=com.afterpaymobile.uk
+https://clearpay.co.uk
+https://clearpay.com
+https://portal.clearpay.com
+https://portal.clearpay.co.uk
+https://mobileapi.clearpay.com
+https://portalapi.eu.clearpay.co.uk
+https://api.clearpay.com
 <Your own 1Pasword Personal Account> --> https://my.1password.com/
 https://start.1password.com
 <Your own 1Password account> —> Latest stable, beta, or nightly MacOS Build
@@ -1007,6 +1023,7 @@ https://sos-ch-gva-2.exo.io/
 https://internal.exoscale.ch
 https://api-ch-gva-2.exoscale.com/v2
 https://api-ch-gva-2.exoscale.com/v2
+Any FIS asset is in scope
 https://flo.uri.sh
 https://flourish.studio/
 https://xyzbmojn.net/
@@ -1113,6 +1130,8 @@ https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/notifica
 https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/users/{user_id}/entitlements
 iRobot API Endpoint
 https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/robots/{robot_id}/entitlements
+https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665	
+https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US	
 restaurant-api.takeaway.com
 https://itunes.apple.com/us/app/lieferando-de/id419724490?l=es&mt=8
 https://play.google.com/store/apps/details?id=com.yopeso.lieferando&hl=en_US
@@ -1532,11 +1551,6 @@ https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfa
 https://addons.mozilla.org/en-US/firefox/addon/pinterest/
 https://github.com/pinterest/
 https://pixabay.com/
-https://my.planethoster.com
-https://api.planethoster.net
-https://world.planethoster.net
-https://mg.n0c.com/
-https://www.planethoster.com
 https://marketplace.atlassian.com/apps/4832/enterprise-mail-handler-for-jira-jemh?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/4832/enterprise-mail-handler-for-jira-jemh?hosting=datacenter&tab=overview
 https://dealflow.prosus.com
@@ -1593,6 +1607,13 @@ https://apps.apple.com/us/app/electroneum/id1270774992
 https://github.com/electroneum/electroneum/
 https://legacy-blockexplorer.electroneum.com
 https://public.thesecurityteam.rocks/resources/app/android/etnapp-5.2.2-staging.apk
+https://seekcdn.com
+https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
+https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US
+https://apps.apple.com/au/app/certsy/id1617796159
+https://play.google.com/store/apps/details?id=com.certsy.app
+https://graphql.seek.com
+https://auth.seek.com
 https://dashboard.sendbird.com/
 https://gate.sendbird.com
 https://api-{app-id}.sendbird.com
@@ -1789,6 +1810,15 @@ https://opendata.test-socrata.com
 https://opendata.test-socrata.com/admin/gateway
 https://mintmobile.com
 https://ultramobile.com
+https://www.underarmour.com
+https://www.underarmour.co.uk
+https://apps.apple.com/us/app/under-armour/id1092704571
+https://play.google.com/store/apps/details?id=com.ua.shop&hl=en
+https://api.shop.ua.com/graphql
+https://www.underarmournext.co.uk/
+https://underarmournext.com/
+https://mapmyfitness.api.ua.com
+https://consumer-sustainability.underarmour.com/en
 https://www.usaa.com
 https://mobile.usaa.com
 https://api.usaa.com/
@@ -1869,6 +1899,7 @@ https://api.woo.org/
 https://x.woo.org/
 https://play.google.com/store/apps/details?id=network.woo.mobile&hl=en&gl=US&pli=1
 https://apps.apple.com/mt/app/woo-x-buy-crypto-btc/id1576648404
+Any Worldpay asset is in scope
 https://auth.wyze.com
 https://my.wyze.com
 https://api.wyzecam.com
@@ -1933,7 +1964,6 @@ https://github.com/expressvpn/lightway-core
 https://www.expressvpn.com
 www.expressvpn.com
 https://financialforce.com
-Any FIS asset is in scope
  https://api.ibops.net/ad-management
 Chrome Extension
 Ibotta App Data & Memory
@@ -1950,8 +1980,6 @@ https://app.ibotta.com/sign-in 
 https://backend.ibotta.com/
 https://chrome.google.com/webstore/detail/ibotta-browser-extension/mfaedmjlefifhnhpgipjjiiekchaimpk?hl=en-US
 https://content-server.ibotta.com/graphql
-https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665	
-https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US	
 https://kw-bugcrowd-pub.bounty.kiteworks.dev/
 Kohl's Mobile Application for Android
 Kohl's Mobile Application for iOS
@@ -2070,19 +2098,6 @@ https://www.privateinternetaccess.com/download/mac-vpn
 https://www.privateinternetaccess.com/download/windows-vpn
 piaservers.com
 privateinternetaccess.com
-SEEK Pass Mobile App for Android
-SEEK Pass Mobile App for iOS
-SEEK mobile app for Android
-SEEK mobile app for iOS
-auth.seek.com
-graphql.seek.com
-https://apps.apple.com/au/app/certsy/id1617796159
-https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
-https://auth.seek.com
-https://graphql.seek.com
-https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US
-https://play.google.com/store/apps/details?id=com.certsy.app
-https://seekcdn.com
 SpaceX and Starlink assets (target information and rewards detailed above on the brief)
 https://manage.statuspage.io
 manage.statuspage.io
@@ -2140,19 +2155,6 @@ walletproxy.tapayments.com
 walletproxy1.tapayments.com
 walletproxy2.tapayments.com
 www.tripadvisor.com
-UA Shop Android
-UA Shop iOS
-https://api.shop.ua.com/graphql
-https://apps.apple.com/us/app/under-armour/id1092704571
-https://consumer-sustainability.underarmour.com/en
-https://mapmyfitness.api.ua.com
-https://play.google.com/store/apps/details?id=com.ua.shop&hl=en
-https://underarmournext.com/
-https://www.underarmour.co.uk
-https://www.underarmour.com
-https://www.underarmournext.co.uk/
-www.underarmour.co.uk
-www.underarmour.com
 Latest Supported LTS versions of the Unity Editor ( 2020.x / 2021.x / 2022.x ) 
 Unity Hub
 analytics.cloud.unity3d.com
@@ -2274,4 +2276,3 @@ secureauth.westernunion.com
 transvision.westernunion.com
 wucare.westernunion.com
 wuinsights.westernunion.com
-Any Worldpay asset is in scope

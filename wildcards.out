@@ -76,7 +76,6 @@
 *.api.dailymotion.com
 *.api.originenergy.com.au
 *.api.playstation.com
-*.api.ua.com
 *.app.asana.com
 *.app.spacelift.dev
 *.arlo.com
@@ -717,6 +716,7 @@
 *.sellzone.com
 *.semrush.com
 *.semrush.net
+*.sentiance.com
 *.seoab.io
 *.seoquake.com
 *.serious.li

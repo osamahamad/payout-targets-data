@@ -68,6 +68,8 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.indeed.tech
 *.indeed.net
 *.intercomassets.com / *.intercomcdn.com
+*.jora.com
+*.jora.xyz
 *.lieferando.at
 *.yourdelivery.de
 *.takeaway.com
@@ -126,6 +128,17 @@ prod-*.nu.com.co
 *.neat.hk
 *.neat.wtf
 *.rec.net/*
+*.seek.com.au
+*.skinfra.xyz
+*.outfra.xyz
+*.sol-data.com
+*.jobapi.net
+*.jobapi.io
+*.seekpass.co
+*.seekpass-staging.com
+*.aips-internal.com
+*.certsy.com
+*.certsynonprod.com
 *.mcssl.com
 *.skyscanner.net
 *.sophos.com
@@ -168,8 +181,6 @@ xhomeapi-*.cloud.comcast.net
 *.certinia.com
 *.financialforce.com
 *.certinia.com
-*.jora.com
-*.jora.xyz
  *.test.*.lfscnp.com
 *.-np.*.lfscnp.com
 *.28degreescard.com.au
@@ -199,17 +210,6 @@ xhomeapi-*.cloud.comcast.net
 *.points.com
 *.points.com
 *.privateinternetaccess.com
-*.aips-internal.com
-*.certsy.com
-*.certsynonprod.com
-*.jobapi.io
-*.jobapi.net
-*.outfra.xyz
-*.seek.com.au
-*.seekpass-staging.com
-*.seekpass.co
-*.skinfra.xyz
-*.sol-data.com
 *.statuspage.io
 *.trello.services
 *.bokundemo.com
@@ -226,7 +226,6 @@ xhomeapi-*.cloud.comcast.net
 *.housetrip.com
 *.niumba.com
 *.vacationhomerentals.com
-*.api.ua.com
 *.viator.com
 *.viatorinc.com
 *.viator.com
