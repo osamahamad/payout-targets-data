@@ -1269,19 +1269,17 @@ Agent Usage Visualization for Bamboo - Server - https://marketplace.atlassian.co
 AgentConnect (see program description for github link)
 Agora for Android (see dowload link for APK file and mobile app GitHub repository in description)
 Agora for iOS (see dowload link for IPA file and mobile app GitHub repository in description)
-Aiven for Apache Cassandra managed and hosted service
-Aiven for Apache Flink managed and hosted service
-Aiven for Apache Kafka managed and hosted service 
-Aiven for Caching managed and hosted service
-Aiven for Clickhouse managed and hosted service
-Aiven for Dragonfly managed and hosted service
-Aiven for Grafana managed and hosted service
-Aiven for M3 managed and hosted service 
-Aiven for MySQL managed and hosted service
-Aiven for OpenSearch managed and hosted service
-Aiven for PostgreSQL managed and hosted service
-Aiven for Thanos Metrics managed and hosted service
-Aiven for Valkey managed and hosted service
+Aiven for Apache Flink
+Aiven for Apache Kafka
+Aiven for Caching
+Aiven for Clickhouse
+Aiven for Dragonfly
+Aiven for Grafana
+Aiven for M3
+Aiven for Metrics
+Aiven for OpenSearch
+Aiven for PostgreSQL
+Aiven for Valkey
 All Assets (other than Blinkit)
 All Blinkit assets (in scope)
 All Mobile Assets

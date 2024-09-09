@@ -743,19 +743,17 @@ https://start.1password.com
 <Your own 1Password account> —> Latest stable, beta, or nightly iOS Build
 <Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension  (Chrome, Brave, Firefox, Edge, and Safari)
 <Your own 1Password account> —> https://events.1password.com/  (Event Reporting API is available on 1Password Business Accounts Only)
-Aiven for Apache Cassandra managed and hosted service
-Aiven for Clickhouse managed and hosted service
-Aiven for Dragonfly managed and hosted service
-Aiven for Apache Flink managed and hosted service
-Aiven for Thanos Metrics managed and hosted service
-Aiven for Valkey managed and hosted service
-Aiven for MySQL managed and hosted service
-Aiven for OpenSearch managed and hosted service
-Aiven for Grafana managed and hosted service
-Aiven for Apache Kafka managed and hosted service 
-Aiven for M3 managed and hosted service 
-Aiven for PostgreSQL managed and hosted service
-Aiven for Caching managed and hosted service
+Aiven for Clickhouse
+Aiven for Dragonfly
+Aiven for Apache Flink
+Aiven for Metrics
+Aiven for Valkey
+Aiven for OpenSearch
+Aiven for Grafana
+Aiven for Apache Kafka
+Aiven for M3
+Aiven for PostgreSQL
+Aiven for Caching
 https://aiven.io/
 https://console.aiven.io/login
 https://api.aiven.io/login
