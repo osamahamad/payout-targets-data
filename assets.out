@@ -770,6 +770,7 @@
 *.skygamingcontent.com
 *.skypicker.com
 *.skypoker.com
+*.skyscanner.net
 *.skyvegas.com
 *.slader.com
 *.slimdevices.com
@@ -1231,6 +1232,7 @@ API
 API & Websocket
 API Shield
 AS41690
+AWS Infrastructure
 AWS Service Catalog for JSM Cloud - Cloud - https://marketplace.atlassian.com/apps/1221551/aws-service-catalog-for-jsm-cloud?hosting=cloud
 AWS infrastructure and services in use by Wise (eg: S3 buckets)
 Account Settings
@@ -2268,6 +2270,10 @@ Shopify Third Party Store
 SimScale API
 SimScale Platform
 SimScale Website
+Skyscanner Android App
+Skyscanner Android app
+Skyscanner iOS App
+Skyscanner iOS app
 Slack - https://trello.com/power-ups/55a5d917446f51777421000a/slack
 Slack Desktop Application
 Smart Contract - Smart Contract: Polygon Router SDK 
@@ -3939,6 +3945,7 @@ gasstation.polygon.technology/
 gate.io
 gateway*.marriott.com
 gateway.reddit.com
+gateway.skyscanner.net/*
 geckoterminal.com
 gehmmocbbkpblljhkekmfhjpfbkclbph
 geminiadvisory.io
@@ -7388,6 +7395,7 @@ partnerapi1.tapayments.com
 partnerapi2.tapayments.com
 partnerhelp.viator.com/
 partnernet.westernunion.com
+partnerportal.skyscanner.net/*
 partners-search.truecaller.com
 partners.adobe.com
 partners.databricks.com
@@ -7717,6 +7725,8 @@ sites.fareharbor.com
 sketch.pixiv.net
 skills-store.amazon.com
 skinport.com
+skyscanner.net/*
+skyscanner.net/hotels/book/*
 slack-imgs.com
 slack-redir.net
 slack-status.com
