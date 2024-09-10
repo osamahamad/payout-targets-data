@@ -72,6 +72,23 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.intercomassets.com / *.intercomcdn.com
 *.jora.com
 *.jora.xyz
+*.lieferando.at
+*.yourdelivery.de
+*.takeaway.com
+*.scoober.com
+*.citymeal.com
+*.lieferando.de
+*.thuisbezorgd.nl
+*.bistro.sk
+*.just-eat.fr
+*.eat.ch
+*.just-eat.no
+*.just-eat.dk
+*.pyszne.pl
+*.10bis.co.il
+*.beta.scoober.com
+*.just-data.io
+*.just-eat.com 
 *.genoapay.co.nz
 *.genoapay.com
 *.latitudefinancial.co.nz
@@ -83,8 +100,6 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.dev.*.lfscnp.com
 *.sandbox.*.lfscnp.com
 *.-np.*.lfscnp.com
-*.linktree-extensions.com
-*.linktree-extensions.com
 *.lululemon.com
 *.bbp-mettle.co.uk
 *.nr-data.net
@@ -125,6 +140,7 @@ prod-*.nu.com.co
 *.kortathjonustan.is
 *.neat.hk
 *.neat.wtf
+*.rec.net/*
 *.seek.com.au
 *.skinfra.xyz
 *.outfra.xyz
