@@ -1,115 +1,14 @@
-*.10bis.co.il
-*.beta.scoober.com
-*.bistro.sk
-*.citymeal.com
-*.eat.ch
-*.just-data.io
-*.just-eat.com 
-*.just-eat.dk
-*.just-eat.fr
-*.just-eat.no
-*.lieferando.at
-*.lieferando.de
-*.pyszne.pl
-*.rec.net/*
-*.scoober.com
-*.takeaway.com
-*.thuisbezorgd.nl
-*.yourdelivery.de
-Aiven for Apache Flink
-Aiven for Apache Kafka
-Aiven for Caching
-Aiven for Clickhouse
-Aiven for Dragonfly
-Aiven for Grafana
-Aiven for M3
-Aiven for Metrics
-Aiven for OpenSearch
-Aiven for PostgreSQL
-Aiven for Valkey
-Any FIS asset is in scope
-Any Worldpay asset is in scope
-Assets labeled as in-scope
-Cellular Network Auth Bypass via Web/Mobile App
-Internal Server via Internet Network
-Self Register Account on T-Mobile Microsoft Entra ID
-T&P Servers
-atarkasher.co.il
-cloud.connect.justeattakeaway.com
-cloud.connect.takeaway.com
-cloud.update.justeattakeaway.com
-cloud.update.takeaway.com
-dev.takeaway.com/html/
-http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
-https://account.t-mobile.com
-https://aiven.io/
-https://api.aiven.io/login
-https://api.justeat-int.com
-https://api.rec.net
-https://api.t-mobile.com
-https://apps.apple.com/app/id1450306065
-https://apps.apple.com/us/app/syncup-drive/id1576574297
-https://apps.apple.com/us/app/syncup-kids/id1503394062
-https://apps.apple.com/us/app/syncup-tracker/id1526380335
-https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
-https://apps.apple.com/us/app/t-mobile/id561625752
-https://brand.takeaway.com
-https://careers.takeaway.com
-https://compass.t-mobile.com
-https://console.aiven.io/login
-https://devedge.t-mobile.com
-https://devportal.rec.net/
-https://digits.t-mobile.com
-https://digits.t-mobile.com/
-https://github.com/Aiven
-https://github.com/Aiven-Open
-https://itunes.apple.com/us/app/lieferando-de/id419724490?l=es&mt=8
-https://just-eat.es
-https://just-eat.io/
-https://just-eat.it
-https://menulog.co.nz
-https://menulog.com.au
-https://metrobyt-mobile.com
-https://newsletter.thuisbezorgd.nl
-https://play.google.com/store/apps/details?id=com.AgainstGravity.RecRoom
-https://play.google.com/store/apps/details?id=com.tmobile.drive
-https://play.google.com/store/apps/details?id=com.tmobile.kids
-https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
-https://play.google.com/store/apps/details?id=com.tmobile.syncuptag
-https://play.google.com/store/apps/details?id=com.tmobile.tuesdays&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.yopeso.lieferando&hl=en_US
-https://public.je-apis.com
-https://rec.net/
-https://rec.net/download
-https://recroom.com/studio
-https://shop.thuisbezorgd.nl
-https://skipthedishes.com
-https://sprint.com
-https://status-takeaway.com/status
-https://store.playstation.com/en-us/product/UP2662-CUSA08481_00-RECROOM000000001
-https://store.playstation.com/en-us/product/UP2662-PPSA05532_00-6681199027107223
-https://store.steampowered.com/app/471710/Rec_Room/
-https://t-mobile.actixone.com/
-https://t-mobile.com
-https://takeawaypay.azurefd.net/en/takeawaypay/
-https://tess.service-now.com
-https://tfb.t-mobile.com
-https://tmo-fcc.actixone.com
-https://tmus.service-now.com
-https://tv.takeaway.com
-https://www.just-eat.co.uk
-https://www.just-eat.ie
-https://www.justeat.it/rider
-https://www.justeattakeaway.com
-https://www.lieferando.de/thetakeaway/
-https://www.oculus.com/experiences/quest/2173678582678296
-https://www.oculus.com/experiences/rift/1257029974329451
-https://www.status-takeaway.com/status
-https://www.takeaway.com/deals
-https://www.takeaway.com/drivers
-https://www.takeaway.com/foodwiki/
-https://www.thuisbezorgd.nl/aanmelden
-https://www.xbox.com/en-us/games/store/rec-room/9pgpqk0xthrz
-intranet.takeaway.com
-restaurant-api.takeaway.com
-static.thuisbezorgd.nl
+*.linktree-extensions.com
+https://album.link
+https://artist.link
+https://linktr.ee
+https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
+https://linktree.com
+https://mylink.page
+https://odesli.co
+https://odesli.com
+https://playlist.link
+https://pods.link
+https://song.link
+https://songlink.io
+https://tr.ee
