@@ -467,6 +467,9 @@
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
 *.kes.kindredext.net
+*.khealth.com
+*.khealth.io/
+*.khealth.us/
 *.kindredext.net
 *.kiwi.com
 *.kolikkopelit.com
@@ -1003,6 +1006,7 @@
 1142114207
 1174276185
 1180074773
+1180400838
 1192506963
 1200391796
 121.200.237.36/29
@@ -2620,6 +2624,7 @@ accounts.creditkarma.com
 accounts.evernote.com
 accounts.firefox.com
 accounts.frame.io
+accounts.khealth.com
 accounts.logi.com
 accounts.magento.cloud
 accounts.pixiv.net
@@ -2674,6 +2679,7 @@ agents.tasheer.com
 aggregator.etoro.com
 ai-testing.maventa.com
 ai-tools.infomaniak.com
+ai.kanghealth
 aiassistant.stage.vismaonline.com
 aiq-prod.codebig2.net
 air.com.bitrhymes.bingo
@@ -2701,6 +2707,7 @@ analytics.cloud.unity3d.com
 analytics.krisp.ai
 analytics.ninjakiwi.com
 analytics.pinelabs.com
+anthem.khealth.com
 ap-s.cloud.com
 api*.netflix.com
 api-*.soundcloud.com
@@ -2813,6 +2820,8 @@ api.iciparisxl.nl
 api.infomaniak.com
 api.instacart.com
 api.irccloud.com
+api.khealth.com
+api.khealth.io
 api.kolesa.kz
 api.krisha.kz
 api.krisp.ai
@@ -2944,6 +2953,7 @@ app.infura.io
 app.interseller.io
 app.iris.acceptance.forescoutcloud.net
 app.iris.production.forescoutcloud.net
+app.khealth.com
 app.koho.ca
 app.kolesa.kz
 app.krisha.kz
@@ -3019,6 +3029,7 @@ as2.portofantwerp.com
 as2.portofantwerpbruges.com
 ase.arubanetworks.com
 asiointi.lahitapiola.fi
+ask.khealth.com
 asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
 assets.adobe.com
 assets.airbnb.com
@@ -4043,10 +4054,14 @@ http://api.koho.ca/partner
 http://app.scaleft.com/
 http://apps.connect.monash.edu/
 http://artists.soundcloud.com/
+http://auth.khealth.com/cedars/sign-up
+http://auth.khealth.com/khealth/sign-up
+http://auth.khealth.com/mayo-la-crosse/sign-up
 http://backend-api.devicecloud.production.forescoutcloud.net/api/v1/settings
 http://bitso.com/alpha
 http://blog.etsy.com/
 http://careers.etsy.com/
+http://clinical-quality.khealth.com/api/v1
 http://coinbase.com
 http://collaboration.rei.com
 http://community.etsy.com/
@@ -6920,6 +6935,7 @@ jwt.io
 k8s.gcr.io
 k8s.io
 kaatje.ketnet.be
+kaccount.khealth.com
 kartaview.org
 kassa.gamma.be/*
 kassa.gamma.nl/*
@@ -7141,6 +7157,7 @@ mgmtpod-1-dashboard.production.forescoutcloud.net
 mgmtpod-1.production.forescoutcloud.net
 mgs-gw.m.dana.id
 mgs.marriott.com
+middle-force.khealth.io
 mijn.gamma.be/*
 mijn.gamma.nl/*
 mijn.karwei.nl/*
@@ -7601,6 +7618,7 @@ s2.qwant.com
 s3://faraday-secret
 s3://faraday-uploads
 safe.tumblr.com
+salesforce.khealth.com
 salesportal.hyatt.com
 samltool.io	
 sandbox.affirm.com
@@ -7765,6 +7783,7 @@ staging.magisto.com
 staging.vidaxl.io
 staking-api.polygon.technology
 staking.polygon.technology
+start.khealth.com
 static-cdn.clario.co
 static.apps.nextcloud.com
 static.bittrex.com
@@ -8288,6 +8307,7 @@ www.kayak.com
 www.ketnet.be
 www.kiwi.com
 www.koho.ca
+www.kpharmacyllc.com
 www.kruidvat.be
 www.kruidvat.nl
 www.lahitapiola.fi
