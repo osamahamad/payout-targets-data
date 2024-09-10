@@ -100,7 +100,6 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.dev.*.lfscnp.com
 *.sandbox.*.lfscnp.com
 *.-np.*.lfscnp.com
-*.linktree-extensions.com
 *.lululemon.com
 *.bbp-mettle.co.uk
 *.nr-data.net
@@ -154,6 +153,8 @@ prod-*.nu.com.co
 *.certsy.com
 *.certsynonprod.com
 *.mcssl.com
+*.skyscanner.net
+*.skyscanner.net
 *.sophos.com
 *.cyberoam.com
 *.reflexion.net
