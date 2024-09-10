@@ -770,7 +770,6 @@
 *.skygamingcontent.com
 *.skypicker.com
 *.skypoker.com
-*.skyscanner.net
 *.skyvegas.com
 *.slader.com
 *.slimdevices.com
@@ -1232,7 +1231,6 @@ API
 API & Websocket
 API Shield
 AS41690
-AWS Infrastructure
 AWS Service Catalog for JSM Cloud - Cloud - https://marketplace.atlassian.com/apps/1221551/aws-service-catalog-for-jsm-cloud?hosting=cloud
 AWS infrastructure and services in use by Wise (eg: S3 buckets)
 Account Settings
@@ -2270,10 +2268,6 @@ Shopify Third Party Store
 SimScale API
 SimScale Platform
 SimScale Website
-Skyscanner Android App
-Skyscanner Android app
-Skyscanner iOS App
-Skyscanner iOS app
 Slack - https://trello.com/power-ups/55a5d917446f51777421000a/slack
 Slack Desktop Application
 Smart Contract - Smart Contract: Polygon Router SDK 
@@ -3945,7 +3939,6 @@ gasstation.polygon.technology/
 gate.io
 gateway*.marriott.com
 gateway.reddit.com
-gateway.skyscanner.net/*
 geckoterminal.com
 gehmmocbbkpblljhkekmfhjpfbkclbph
 geminiadvisory.io
@@ -4432,6 +4425,7 @@ https://apps.apple.com/us/app/paper-by-dropbox/id1126623662
 https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/pionex/id1485348891
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
+https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
 https://apps.apple.com/us/app/rac-go/id6444858115
 https://apps.apple.com/us/app/share-rewards/id1465450657
 https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
@@ -7394,7 +7388,6 @@ partnerapi1.tapayments.com
 partnerapi2.tapayments.com
 partnerhelp.viator.com/
 partnernet.westernunion.com
-partnerportal.skyscanner.net/*
 partners-search.truecaller.com
 partners.adobe.com
 partners.databricks.com
@@ -7724,8 +7717,6 @@ sites.fareharbor.com
 sketch.pixiv.net
 skills-store.amazon.com
 skinport.com
-skyscanner.net/*
-skyscanner.net/hotels/book/*
 slack-imgs.com
 slack-redir.net
 slack-status.com
