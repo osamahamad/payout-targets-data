@@ -497,6 +497,7 @@
 *.line.naver.jp
 *.linecorp.com
 *.link.co
+*.linktree-extensions.com
 *.livestream.com
 *.logi.com
 *.login.gov
@@ -769,7 +770,6 @@
 *.skygamingcontent.com
 *.skypicker.com
 *.skypoker.com
-*.skyscanner.net
 *.skyvegas.com
 *.slader.com
 *.slimdevices.com
@@ -1231,7 +1231,6 @@ API
 API & Websocket
 API Shield
 AS41690
-AWS Infrastructure
 AWS Service Catalog for JSM Cloud - Cloud - https://marketplace.atlassian.com/apps/1221551/aws-service-catalog-for-jsm-cloud?hosting=cloud
 AWS infrastructure and services in use by Wise (eg: S3 buckets)
 Account Settings
@@ -2269,10 +2268,6 @@ Shopify Third Party Store
 SimScale API
 SimScale Platform
 SimScale Website
-Skyscanner Android App
-Skyscanner Android app
-Skyscanner iOS App
-Skyscanner iOS app
 Slack - https://trello.com/power-ups/55a5d917446f51777421000a/slack
 Slack Desktop Application
 Smart Contract - Smart Contract: Polygon Router SDK 
@@ -3944,7 +3939,6 @@ gasstation.polygon.technology/
 gate.io
 gateway*.marriott.com
 gateway.reddit.com
-gateway.skyscanner.net/*
 geckoterminal.com
 gehmmocbbkpblljhkekmfhjpfbkclbph
 geminiadvisory.io
@@ -4182,6 +4176,7 @@ https://airflow-prod.coda.io/*
 https://airflow-prod.ops.coda.io/*
 https://aiven.io/
 https://ajax.staging.luno.com/
+https://album.link
 https://alpha.yellow.org
 https://alphax.com/
 https://alumni-friends.monash.edu
@@ -4476,6 +4471,7 @@ https://arbiscan.io/address/0xd978bb7a7ae5b01116d1bd714fedd1b77ca9e75b
 https://arbiscan.io/address/0xdd4536dD9636564D891c919416880a3e250f975A
 https://arbiscan.io/address/0xeb0b9B5FFb763dD69440565F63c67f9695B7C3dA
 https://arlo-device.messaging.netgear.com
+https://artist.link
 https://asana.com
 https://asana.com/apps?category=made-by-asana
 https://asana.com/download
@@ -5563,6 +5559,9 @@ https://link.swisstronik.com/nfj
 https://link.swisstronik.com/zky
 https://link.swisstronik.com/zs7
 https://link.x.immutable.com/
+https://linktr.ee
+https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
+https://linktree.com
 https://liveassist.usaa.com/
 https://liveassist11.usaa.com/
 https://liveassist12.usaa.com/
@@ -5950,6 +5949,7 @@ https://myaccount-staging.getmoneytree.com
 https://myapi.arlo.com
 https://myapp.monash.edu/
 https://mydesktop.usaa.com
+https://mylink.page
 https://myplutus.pinelabs.my/
 https://myshop.20min.ch
 https://myvpn.usaa.com
@@ -5974,6 +5974,8 @@ https://oauth.ring.com/*
 https://octopus.com
 https://octopus.com/downloads
 https://oda.com
+https://odesli.co
+https://odesli.com
 https://offer.tidal.com/download
 https://onboard.neogov.com
 https://one.newrelic.com
@@ -6196,10 +6198,12 @@ https://play.google.com/store/apps/details?id=se.atg.live&hl=en&gl=SE
 https://play.google.com/store/apps/details?id=ua.aval.biz.client.android&hl=uk
 https://play.google.com/store/apps/details?id=ua.aval.dbo.client.android
 https://play.google.com/store/apps/details?id=ua.raiffeisen.myraif
+https://playlist.link
 https://plmcixt.pinelabs.com/
 https://plugins.matomo.org/developer/innocraft
 https://plugins.matomo.org/developer/matomo-org
 https://poc-op-ywh.it.authentification.si.gouv.qc.ca
+https://pods.link
 https://pointpay.io/
 https://poloniex.com/
 https://polygonscan.com/address/0x0A0846c978a56D6ea9D2602eeb8f977B21F3207F
@@ -6317,6 +6321,8 @@ https://sks-ch-gva-2.exo.io
 https://slex.io/
 https://smartmockups.com/
 https://snapnames.com/
+https://song.link
+https://songlink.io
 https://sos-ch-gva-2.exo.io/
 https://soundcloud.com
 https://soundcloud.org
@@ -6398,6 +6404,7 @@ https://tmo-fcc.actixone.com
 https://tmus.service-now.com
 https://tokenize.exchange/
 https://toom.de
+https://tr.ee
 https://tracker.bugcrowd.com
 https://tracker.naspers.com/
 https://trade.bluefin.io/
@@ -7381,7 +7388,6 @@ partnerapi1.tapayments.com
 partnerapi2.tapayments.com
 partnerhelp.viator.com/
 partnernet.westernunion.com
-partnerportal.skyscanner.net/*
 partners-search.truecaller.com
 partners.adobe.com
 partners.databricks.com
@@ -7711,8 +7717,6 @@ sites.fareharbor.com
 sketch.pixiv.net
 skills-store.amazon.com
 skinport.com
-skyscanner.net/*
-skyscanner.net/hotels/book/*
 slack-imgs.com
 slack-redir.net
 slack-status.com
