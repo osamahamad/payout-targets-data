@@ -26,7 +26,6 @@
 *-bugcrowd.foxycart.com (read below for details)
 *-cvr-aws-*.sys.comcast.net
 *.-np.*.lfscnp.com
-*.10bis.co.il
 *.10ktf.com
 *.1debit.com
 *.3lateral.com
@@ -123,7 +122,6 @@
 *.bbp-mettle.co.uk
 *.berush.com
 *.beta.lahitapiola.fi
-*.beta.scoober.com
 *.betfair.com
 *.betfair.es
 *.betfair.it
@@ -141,7 +139,6 @@
 *.bingx.com
 *.bingx.pro
 *.bionic.ai
-*.bistro.sk
 *.bitdefender.com
 *.bitdefender.net
 *.bitforex.com
@@ -206,7 +203,6 @@
 *.chmfin.com
 *.cic-bug-bounty.auth0app.com
 *.citrixworkspacesapi.net
-*.citymeal.com
 *.claritymoney.com
 *.clearxchange.com
 *.cloud.malwarebytes.com
@@ -278,7 +274,6 @@
 *.earlywarning.com
 *.east.fdbox.net
 *.easy.ac
-*.eat.ch
 *.ein-herz-fuer-kinder.de
 *.elastic.co
 *.elasticnet.co
@@ -457,11 +452,6 @@
 *.joinclubhouse.com
 *.jora.com
 *.jora.xyz
-*.just-data.io
-*.just-eat.com 
-*.just-eat.dk
-*.just-eat.fr
-*.just-eat.no
 *.justfall.lol,*.justplay.lol,*.1v1.lol
 *.karwei.nl/*
 *.kchat.infomaniak.com
@@ -488,8 +478,6 @@
 *.latitudepay.com
 *.latitudepay.com.au
 *.libelle.nl
-*.lieferando.at
-*.lieferando.de
 *.lightroom.adobe.com
 *.line-apps.com
 *.line.biz
@@ -668,7 +656,6 @@
 *.psynet.gg
 *.psyonix.com
 *.pumb.ua
-*.pyszne.pl
 *.qaglobal-liquidity.gs.com
 *.quip.com
 *.quixel.com
@@ -679,7 +666,6 @@
 *.rapyd.net
 *.rapyd.org
 *.rbx.com
-*.rec.net/*
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
@@ -721,7 +707,6 @@
 *.scatec.io
 *.scbe.api.here.com
 *.scene7.com
-*.scoober.com
 *.scopely.com
 *.scopely.io
 *.search.gov
@@ -816,7 +801,6 @@
 *.swiftype.com
 *.swisspass.ch
 *.sys.comcast.net
-*.takeaway.com
 *.tapiola.fi
 *.taralite.com
 *.tdl.sh
@@ -833,7 +817,6 @@
 *.thinkingphones.com
 *.thinkingphones.net
 *.threatdown.com
-*.thuisbezorgd.nl
 *.ticketing.cm.com
 *.tickets.ua
 *.tidalhifi.com
@@ -954,7 +937,6 @@
 *.yelp-support.com
 *.yelp.com
 *.yelpwifi.com
-*.yourdelivery.de
 *.yoyogames.com
 *.ys7.com
 *.yuga.com
@@ -1269,17 +1251,6 @@ Agent Usage Visualization for Bamboo - Server - https://marketplace.atlassian.co
 AgentConnect (see program description for github link)
 Agora for Android (see dowload link for APK file and mobile app GitHub repository in description)
 Agora for iOS (see dowload link for IPA file and mobile app GitHub repository in description)
-Aiven for Apache Flink
-Aiven for Apache Kafka
-Aiven for Caching
-Aiven for Clickhouse
-Aiven for Dragonfly
-Aiven for Grafana
-Aiven for M3
-Aiven for Metrics
-Aiven for OpenSearch
-Aiven for PostgreSQL
-Aiven for Valkey
 All Assets (other than Blinkit)
 All Blinkit assets (in scope)
 All Mobile Assets
@@ -1305,10 +1276,8 @@ Android Zen App
 Animate
 Announcement Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1217289/announcement-plugin-for-bamboo?hosting=server
 Any .magic.link demo sites
-Any FIS asset is in scope
 Any Other Sophos Product or Service
 Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
-Any Worldpay asset is in scope
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any host / web property verified to be owned by Segment (domains/IP space/etc.)	
 Any host or verified to be owned by Western Union (domains/IP space/etc.)
@@ -3039,7 +3008,6 @@ assets.tumblr.com
 assure-noneu.truecaller.com
 astra.datastax.com
 asupport.suivo.com
-atarkasher.co.il
 audience-uploader-asia-south1.truecaller.com
 audience-uploader-noneu.truecaller.com
 audience-uploader.truecaller.com
@@ -3242,14 +3210,10 @@ client-api.arkoselabs.com
 clientcert.gamma.redoxstage.com
 cloud.acrobat.com
 cloud.coinbase.com
-cloud.connect.justeattakeaway.com
-cloud.connect.takeaway.com
 cloud.digitalocean.com
 cloud.elastic.co
 cloud.gov
 cloud.malwarebytes.com
-cloud.update.justeattakeaway.com
-cloud.update.takeaway.com
 cloud8.8x8.com
 cloudflareworkers.com
 cm.com/[locale]/app/*
@@ -3728,7 +3692,6 @@ derivws.com
 design.gitlab.com
 design.ui.com
 dev-training.ui.com
-dev.takeaway.com/html/
 developer*.earlywarning.com
 developer.amazon.com/alexa/*
 developer.amazon.com/apps-and-games/*
@@ -4084,7 +4047,6 @@ http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
 http://emerald.oasis.dev
 http://expressobutiolem.onion
 http://exzo.network
-http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
 http://federatedid-na1.services.adobe.com
 http://github.com/AssetMantle/modules
 http://github.com/AssetMantle/node
@@ -4181,7 +4143,6 @@ https://agentportal.westernunion.com
 https://aiagent.octopus.com/api/form
 https://airflow-prod.coda.io/*
 https://airflow-prod.ops.coda.io/*
-https://aiven.io/
 https://ajax.staging.luno.com/
 https://album.link
 https://alpha.yellow.org
@@ -4212,7 +4173,6 @@ https://api-{app-id}.calls.sendbird.com
 https://api-{app-id}.notifications.sendbird.com
 https://api-{app-id}.sendbird.com
 https://api.20min.ch/
-https://api.aiven.io/login
 https://api.anytask.com/
 https://api.anytask.thesecurityteam.rocks
 https://api.big.one/
@@ -4243,7 +4203,6 @@ https://api.immutable.com
 https://api.int.ibops.net
 https://api.int.ibops.net/customer-loyalty-service
 https://api.intercom.com
-https://api.justeat-int.com
 https://api.letsexchange.io/doc
 https://api.linen.app/
 https://api.moneyboxapp.com/
@@ -4258,7 +4217,6 @@ https://api.pornhub.com/
 https://api.probit.com/api/
 https://api.production.cde.tamg.cloud
 https://api.rarible.com/v0.1/doc
-https://api.rec.net
 https://api.ring.com/*
 https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
 https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql
@@ -4331,7 +4289,6 @@ https://apps.apple.com/app/bitpanda-buy-bitcoin-crypto/id1449018960
 https://apps.apple.com/app/bitx-wallet/id927362479
 https://apps.apple.com/app/id1216446440
 https://apps.apple.com/app/id1359583808
-https://apps.apple.com/app/id1450306065
 https://apps.apple.com/app/id1465314783
 https://apps.apple.com/app/id1503045795
 https://apps.apple.com/app/id1567160644
@@ -4574,7 +4531,6 @@ https://bounty-server.dracoon.app/reporting/api
 https://bounty-server.dracoon.app/webdav
 https://bounty.cryptobox.com
 https://bounty.legapass.com
-https://brand.takeaway.com
 https://bridge.iotex.io
 https://bridge.ternoa.network/
 https://bridgr-testnet.polkalokr.com/
@@ -4612,7 +4568,6 @@ https://canva.com/developers
 https://carbonneutral.ampol.com.au/
 https://cards.ampol.com.au
 https://carecredit.com.au
-https://careers.takeaway.com
 https://cash.app
 https://cashback.opera.com/
 https://casino.bwin.com
@@ -4661,7 +4616,6 @@ https://connect.paymaya.com/
 https://connect.soundcloud.com
 https://consensys.io/
 https://console-staging.pingone.com/*
-https://console.aiven.io/login
 https://console.delltechnologies.com/nav/administration
 https://console.delltechnologies.com/nav/billing
 https://console.delltechnologies.com/nav/invoice
@@ -4793,7 +4747,6 @@ https://developers.hubspot.com/docs/api/overview
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
 https://developers.vendhq.com/
-https://devportal.rec.net/
 https://devstaging.pcapcloud.com/*
 https://dexalot.com 
 https://digits.t-mobile.com
@@ -4997,8 +4950,6 @@ https://github.com/1inch/token-plugins
 https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP
 https://github.com/Agoric/agoric-sdk/tree/master/packages/inter-protocol
 https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe
-https://github.com/Aiven
-https://github.com/Aiven-Open
 https://github.com/Asymetrix-Protocol/contracts
 https://github.com/AviatorAC/skybridge-public
 https://github.com/Bitrue/bitrue-official-api-docs
@@ -5508,7 +5459,6 @@ https://itunes.apple.com/pl/app/panda-uconnect/id1117321678?mt=8
 https://itunes.apple.com/us/app/aax/id1434278660?mt=8
 https://itunes.apple.com/us/app/cash-app/id711923939?mt=8
 https://itunes.apple.com/us/app/irobot-home/id1012014442?mt=8
-https://itunes.apple.com/us/app/lieferando-de/id419724490?l=es&mt=8
 https://itunes.apple.com/us/app/uconnect/id1229236724?mt=8
 https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045663228?mt=8
 https://iwgo.westernunion.com
@@ -5518,9 +5468,6 @@ https://jointhemoment.net/
 https://jojo.exchange/
 https://jp-api-staging.getmoneytree.com
 https://judge.me/reviews
-https://just-eat.es
-https://just-eat.io/
-https://just-eat.it
 https://justonweb.be/fines/
 https://keepersecurity.com
 https://keepersecurity.com/console
@@ -5909,8 +5856,6 @@ https://mc.sendgrid.com/
 https://mcs.arlo.com
 https://mcssl.com
 https://mediaflows.cloudinary.com/
-https://menulog.co.nz
-https://menulog.com.au
 https://meraki.cisco.com
 https://metamask-sdk-socket.metafi.codefi.network/
 https://metamask.github.io/phishing-warning/<vX.Y.Z>
@@ -5968,7 +5913,6 @@ https://near.foundation/
 https://net.geo.opera.com
 https://newrelic.com/
 https://newrelic.com/blog
-https://newsletter.thuisbezorgd.nl
 https://nice.wfmusaa.com
 https://nns.ic0.app/
 https://node.e2ro.com/*
@@ -6068,7 +6012,6 @@ https://play.google.com/store/apps/details?id=au.com.ampol.teamapp
 https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR
 https://play.google.com/store/apps/details?id=coin98.crypto.finance.media&pli=1
-https://play.google.com/store/apps/details?id=com.AgainstGravity.RecRoom
 https://play.google.com/store/apps/details?id=com.aax.exchange
 https://play.google.com/store/apps/details?id=com.acn.uc&hl=en
 https://play.google.com/store/apps/details?id=com.acorns.android&hl=en_US&gl=US
@@ -6183,7 +6126,6 @@ https://play.google.com/store/apps/details?id=com.westernunion.android.mtapp&hl=
 https://play.google.com/store/apps/details?id=com.worldcoin
 https://play.google.com/store/apps/details?id=com.xfinity.digitalhome&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.yayd.exchangglobal
-https://play.google.com/store/apps/details?id=com.yopeso.lieferando&hl=en_US
 https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost
 https://play.google.com/store/apps/details?id=edu.monash.monashmobile
 https://play.google.com/store/apps/details?id=fr.gouv.tchap.a&hl=fr
@@ -6261,14 +6203,10 @@ https://production.maf.auth0.com/api/v2/
 https://profile.pentest.clicsante.ca
 https://projects.epam.com
 https://public-ipfs-mainnet.ternoa.network
-https://public.je-apis.com
 https://public.thesecurityteam.rocks/resources/app/android/etnapp-5.2.2-staging.apk
 https://rarible.com/
 https://rbo.raiffeisen.ua/
 https://rc.fstr.rocks
-https://rec.net/
-https://rec.net/download
-https://recroom.com/studio
 https://redash-staging.getmoneytree.com/
 https://remoteaccess.westernunion.com
 https://rentals.tripadvisor.com
@@ -6320,10 +6258,8 @@ https://shop.ifood.com.br
 https://shop.lululemon.com
 https://shop.monash.edu/
 https://shop.post.ch/shop
-https://shop.thuisbezorgd.nl
 https://signup.sendgrid.com/
 https://simnext.bullish-test.com
-https://skipthedishes.com
 https://sks-ch-gva-2.exo.io
 https://slex.io/
 https://smartmockups.com/
@@ -6351,15 +6287,11 @@ https://static.demarches-simplifiees.fr
 https://static.polygon.technology/network/mainnet/v1/index.json
 https://static.usaa.com
 https://status-im-files.ams3.cdn.digitaloceanspaces.com/StatusIm-Mobile-v1.19.0-d6a6c4.apk
-https://status-takeaway.com/status
 https://status.app/api/download/linux
 https://status.app/api/download/windows
 https://status.mobile.monash/
 https://storage.googleapis.com/kubernetes-release/
-https://store.playstation.com/en-us/product/UP2662-CUSA08481_00-RECROOM000000001
-https://store.playstation.com/en-us/product/UP2662-PPSA05532_00-6681199027107223
 https://store.retail.lightspeed.app
-https://store.steampowered.com/app/471710/Rec_Room/
 https://store.unity.com
 https://student.classdojo.com
 https://studentplacements.monash.edu
@@ -6379,7 +6311,6 @@ https://t-mobile.com
 https://t.me/AlfredTradesBot?start=hackenproof
 https://t.me/Open_league_bot
 https://t.me/tapps_bot
-https://takeawaypay.azurefd.net/en/takeawaypay/
 https://teach.classdojo.com
 https://tectonic.finance
 https://tectonic.gitbook.io/docs/developer/price-oracle 
@@ -6450,7 +6381,6 @@ https://trello.com/power-ups/6048e897c73d032a983e2a7c/dashcards
 https://trello.com/power-ups/6052d130068a8c0de7b022b4
 https://trm.pinelabs.ae
 https://tsock.us1.twilio.com
-https://tv.takeaway.com
 https://twilio.com/blog
 https://uae.voxcinemas.com/
 https://ui.com/distributors/
@@ -6627,10 +6557,6 @@ https://www.ifood.com.br
 https://www.infura.io/faucet/linea
 https://www.infura.io/faucet/sepolia
 https://www.intercom.com/
-https://www.just-eat.co.uk
-https://www.just-eat.ie
-https://www.justeat.it/rider
-https://www.justeattakeaway.com
 https://www.kaleido.ai
 https://www.keepersecurity.com/download.html
 https://www.kiwai-enr.fr/
@@ -6647,7 +6573,6 @@ https://www.lastpass.com
 https://www.letspaylater.ph/
 https://www.letspaylater.sg/
 https://www.li.me/
-https://www.lieferando.de/thetakeaway/
 https://www.lululemon.co.jp/
 https://www.lululemon.co.nz/
 https://www.lululemon.co.uk/
@@ -6684,8 +6609,6 @@ https://www.networksolutions.com
 https://www.npmjs.com/package/@forge/cli
 https://www.npmjs.com/package/@forge/cli	
 https://www.nuinvest.com.br/
-https://www.oculus.com/experiences/quest/2173678582678296
-https://www.oculus.com/experiences/rift/1257029974329451
 https://www.okcoin.com/
 https://www.okcoin.com/docs/en/
 https://www.okta.com/fastpass/
@@ -6726,17 +6649,12 @@ https://www.skroutz.gr/
 https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
 https://www.sourcetreeapp.com/
-https://www.status-takeaway.com/status
 https://www.superdrug.com/blog/
-https://www.takeaway.com/deals
-https://www.takeaway.com/drivers
-https://www.takeaway.com/foodwiki/
 https://www.tchap.gouv.fr
 https://www.teamviewer.com/en/products/teamviewer/
 https://www.theperfumeshop.com/blog/
 https://www.theperfumeshop.com/ie/blog/
 https://www.thousandeyes.com/
-https://www.thuisbezorgd.nl/aanmelden
 https://www.thumbzilla.com/
 https://www.toobit.com/
 https://www.toursgds.com/
@@ -6795,7 +6713,6 @@ https://www.westernunion.pt
 https://www.westernunion.se
 https://www.winconnect.com.au/get-connected/
 https://www.winconnect.com.au/moving-out/
-https://www.xbox.com/en-us/games/store/rec-room/9pgpqk0xthrz
 https://www.xfinity.com/apps
 https://www.xt.com
 https://www.xvideos.net/app/
@@ -6888,7 +6805,6 @@ internal.netlify.com
 internal.whitebit.com
 international.coinbase.com
 interseller.io
-intranet.takeaway.com
 inventory.data.gov
 investors.semrush.com
 invitation.infomaniak.com
@@ -7600,7 +7516,6 @@ reservations.all-inclusive.marriott.com
 reservations.rezserver.com
 reservations.wynnvacations.com
 resources.krisp.ai
-restaurant-api.takeaway.com
 reviewer.pullrequest.com
 rewire.com
 rezagent.triseptsolutions.com
@@ -7790,7 +7705,6 @@ static-cdn.clario.co
 static.apps.nextcloud.com
 static.bittrex.com
 static.rarible.com
-static.thuisbezorgd.nl
 station.veriff.com
 stationapi.veriff.com
 stats-trafficcop-prod.nba.com
