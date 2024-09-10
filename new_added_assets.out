@@ -1,43 +1,29 @@
-*.bitdefender.com
-*.bitdefender.net
-Bitdefender Antimalware Engines
-Bitdefender Total Security
-[yourstore].company.site
-https://analytics.neogov.com
-https://api-prod.retailsso.com
-https://api.neogov.com
-https://app.agency360.com
-https://app.ecwid.com/api/v3/	
-https://apps.apple.com/br/app/nubank-conta-e-cart%C3%A3o/id814456780
-https://cdn.neogov.com
-https://developers.vendhq.com/
-https://eforms.neogov.com
-https://hr.neogov.com
-https://itunes.apple.com/app/carrefour-uae/id626805470
-https://learn.neogov.com
-https://login.neogov.com
-https://my.ecwid.com
-https://nubank.com.br/
-https://nubank.com.co
-https://nubank.com.mx
-https://onboard.neogov.com
-https://payment-connectors.vendhq.com/
-https://performance.neogov.com
-https://play.google.com/store/apps/details?id=com.aswat.carrefouruae
-https://play.google.com/store/apps/details?id=com.nu.production&hl=pt_BR&gl=US&pli=1
-https://powerdms.com/
-https://secure.cuehit.net
-https://secure.neogov.com
-https://secure.vendhq.com
-https://securesignin.neogov.com
-https://securesignin.powerdms.com/
-https://store.retail.lightspeed.app
-https://unified.neogov.com
-https://www.bitdefender.com/business/smb-products/business-security.html?cid=ppc|b|google|smb&s_kwcid=AL!6076!3!514235572261!p!!g!!bitdefender%20business&utm_term=bitdefender%20business&utm_campaign=USA+SMB+Branded+30&utm_source=adwords&utm_medium=ppc&hsa_acc=8155205354&hsa_cam=7848657822&hsa_grp=124745713150&hsa_ad=514235572261&hsa_src=g&hsa_tgt=kwd-308396066873&hsa_kw=bitdefender%20business&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwqIiFBhAHEiwANg9szk-Rr3iSn4mrwsvAUOn-pzrO12ufWDmyCLopWigaLQW0t_xtlBE65RoCr6kQAvD_BwE
-https://www.carrefouruae.com/
-https://www.governmentjobs.com
-https://www.nuinvest.com.br/
-https://www.vendhq.com/
-prod-*.nu.com.co
-prod-*.nu.com.mx
-prod-*.nubank.com.br
+Assets labeled as in-scope
+Cellular Network Auth Bypass via Web/Mobile App
+Internal Server via Internet Network
+Self Register Account on T-Mobile Microsoft Entra ID
+T&P Servers
+https://account.t-mobile.com
+https://api.t-mobile.com
+https://apps.apple.com/us/app/syncup-drive/id1576574297
+https://apps.apple.com/us/app/syncup-kids/id1503394062
+https://apps.apple.com/us/app/syncup-tracker/id1526380335
+https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
+https://apps.apple.com/us/app/t-mobile/id561625752
+https://compass.t-mobile.com
+https://devedge.t-mobile.com
+https://digits.t-mobile.com
+https://digits.t-mobile.com/
+https://metrobyt-mobile.com
+https://play.google.com/store/apps/details?id=com.tmobile.drive
+https://play.google.com/store/apps/details?id=com.tmobile.kids
+https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
+https://play.google.com/store/apps/details?id=com.tmobile.syncuptag
+https://play.google.com/store/apps/details?id=com.tmobile.tuesdays&hl=en_US&gl=US
+https://sprint.com
+https://t-mobile.actixone.com/
+https://t-mobile.com
+https://tess.service-now.com
+https://tfb.t-mobile.com
+https://tmo-fcc.actixone.com
+https://tmus.service-now.com
