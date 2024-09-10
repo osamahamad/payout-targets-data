@@ -6,8 +6,6 @@ Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DI
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 *.atlastunnel.com
 *.cic-bug-bounty.auth0app.com
-*.cyberghost.com
-*.cyberghostvpn.com
 *.asana.biz
 *.app.asana.com
 *.tube8.com
@@ -30,6 +28,7 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.comcast.com
 *.xcal.tv
 *.sys.comcast.net
+*.cyberghost.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.sandbox.directly.com/
@@ -51,6 +50,9 @@ casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 *.epam.com
 open redirect at *.epam.com
 Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
+*.expressvpn.com
+*.xvservice.net
+*.xvtest.net
 *.hubspotemail.net
 *.hs-sites(-eu1)?.com
 *.hubspotpagebuilder.com
@@ -87,6 +89,17 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.beta.scoober.com
 *.just-data.io
 *.just-eat.com 
+*.genoapay.co.nz
+*.genoapay.com
+*.latitudefinancial.co.nz
+*.latitudefinancial.com
+*.latitudefinancial.com.au
+*.latitudepay.com.au
+*.latitudepay.com
+ *.test.*.lfscnp.com
+*.dev.*.lfscnp.com
+*.sandbox.*.lfscnp.com
+*.-np.*.lfscnp.com
 *.linktree-extensions.com
 *.lululemon.com
 *.bbp-mettle.co.uk
@@ -115,6 +128,7 @@ prod-*.nu.com.co
 *.api.originenergy.com.au
 *.download.originenergy.com.au
 *.pinterest.com Web Apps
+*.privateinternetaccess.com
 *.quizlet.com
 *.slader.com
 *.rapyd.net
@@ -175,33 +189,9 @@ xhomeapi-*.codebig2.net
 xhomeapi-*.cloud.comcast.net
 *.xfinityhome.com
 *.etsy.com
-*.expressvpn.com
-*.xvservice.net
-*.xvtest.net
 *.certinia.com
 *.financialforce.com
 *.certinia.com
- *.test.*.lfscnp.com
-*.-np.*.lfscnp.com
-*.28degreescard.com.au
-*.buyersedge.com.au
-*.carecredit.com.au
-*.dev.*.lfscnp.com
-*.gemcreditline.co.nz
-*.gemfinance.co.nz
-*.gemvisa.com.au
-*.genoapay.co.nz
-*.genoapay.com
-*.gomastercard.com.au
-*.interestfree.com.au
-*.latitudefinancial.co.nz
-*.latitudefinancial.com
-*.latitudefinancial.com.au
-*.latitudeinfinity.com.au
-*.latitudepay.com
-*.latitudepay.com.au
-*.sandbox.*.lfscnp.com
-*.umiloans.com.au
 *.openai.com
 *.openai.org
 *.openai.org
@@ -209,7 +199,6 @@ xhomeapi-*.cloud.comcast.net
 *.opsgenie.com
 *.points.com
 *.points.com
-*.privateinternetaccess.com
 *.statuspage.io
 *.trello.services
 *.bokundemo.com

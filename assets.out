@@ -29,7 +29,6 @@
 *.10bis.co.il
 *.10ktf.com
 *.1debit.com
-*.28degreescard.com.au
 *.3lateral.com
 *.5nine.com
 *.8x8.co.uk
@@ -172,7 +171,6 @@
 *.bredbandsbolaget.se
 *.buddypress.org,bbpress.org,profiles.wordpress.org
 *.bugcrowd.com/auth/*
-*.buyersedge.com.au
 *.byairbnb.com
 *.bybit.com
 *.byspotify.com
@@ -188,7 +186,6 @@
 *.capitalonegslbex.com
 *.capitaloneshopping.com
 *.captcha-delivery.com
-*.carecredit.com.au
 *.carrentals.com
 *.cashstaging.app
 *.casinohuone.com
@@ -244,7 +241,6 @@
 *.cryptopunks.app
 *.cubicmotion.com
 *.cyberghost.com
-*.cyberghostvpn.com
 *.cyberoam.com
 *.cyrus-security.com
 *.dailyadvent.com
@@ -341,9 +337,6 @@
 *.fuze.site
 *.gamma.be/*
 *.gamma.nl/*
-*.gemcreditline.co.nz
-*.gemfinance.co.nz
-*.gemvisa.com.au
 *.genoapay.co.nz
 *.genoapay.com
 *.gethypr.com
@@ -365,7 +358,6 @@
 *.goldman.com
 *.goldmanpfm.com
 *.goldmansachs.com
-*.gomastercard.com.au
 *.gotinder.com
 *.grab-sure.com
 *.grab.co
@@ -452,7 +444,6 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
-*.interestfree.com.au
 *.intergamma-test.nl
 *.intergamma.cloud
 *.intergamma.nl/*
@@ -491,7 +482,6 @@
 *.latitudefinancial.co.nz
 *.latitudefinancial.com
 *.latitudefinancial.com.au
-*.latitudeinfinity.com.au
 *.latitudepay.com
 *.latitudepay.com.au
 *.libelle.nl
@@ -887,7 +877,6 @@
 *.ui.com/distributors/
 *.ui.com/training/partners/
 *.ultimateearsuniversity.com
-*.umiloans.com.au
 *.unibet.com
 *.unibet.fr
 *.unitedcp.com
@@ -1631,16 +1620,9 @@ Crypviser Network
 Custom Fields - https://trello.com/power-ups/56d5e249a98895a9797bebb9/custom-fields
 Customer connected domain (2)
 CyberGhost APIs
-CyberGhost Android application
-CyberGhost Chrome extension
-CyberGhost Firefox extension
-CyberGhost Linux application
 CyberGhost PS3+PS4 apps
 CyberGhost VPN servers
-CyberGhost Windows application
 CyberGhost Xbox One + Xbox360 apps
-CyberGhost iOS application
-CyberGhost macOS application
 DS proxy (see https://github.com/demarches-simplifiees/ds_proxy)
 DSE, Opscenter
 DSP
@@ -1931,7 +1913,6 @@ Lending and Borrowing
 Lens Studio
 Lightroom
 Lightroom Classic
-Lightway Core
 List Limits Power-Up
 Livestream software (Producer, Studio)
 Load Balancing
@@ -2157,15 +2138,7 @@ Other publicly-released plugins
 P2P functionality
 PHP SDK
 PIA APIs
-PIA Android application
-PIA Chrome extension
-PIA Firefox extension
-PIA Linux application
-PIA Opera extension
 PIA VPN servers
-PIA Windows application
-PIA iOS application
-PIA macOS application
 PNS (subdomains)
 PNS.HongKong.Android
 PNS.HongKong.iOS
@@ -2980,7 +2953,6 @@ app.lachain.io
 app.lansweeper.com
 app.lansweeper.com/trial
 app.larksuite.com
-app.latitudepayapps.com
 app.launchdarkly.com
 app.localizestaging.com
 app.marionnaud.at
@@ -3692,7 +3664,6 @@ customers.mattermost.com
 customerupdates.nextcloud.com
 cw.visa.com
 cyberghost.app
-cyberghost.com
 cyclonedx-bom
 cysiv.com
 cz.skodaauto.myskoda
@@ -3898,7 +3869,6 @@ experience.adobe.com
 experiencecloud.adobe.com
 experiences.booking.com
 explore.redoxengine.com
-expressobutiolem.onion
 ext-gw.lahitapiola.fi
 external-api.lime.bike
 external.indrive.dev
@@ -5909,7 +5879,6 @@ https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosti
 https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
 https://marketplace.auth0.com
 https://marketplace.ifood.com.br
-https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
 https://master.servicecentre.digitalservicing-np.lfscnp.com/
 https://mathem.se
@@ -6870,7 +6839,6 @@ idp.fr.cloud.gov
 iframe.arkoselabs.com
 ifttt-adaptor.pub.kube.dm.gg
 images-asia-south1.truecaller.com
-images.latitudepayapps.com
 images.truecaller.com
 imagine.magento.com
 img.swapcard.com
@@ -7507,7 +7475,6 @@ priceline.com
 prime.coinbase.com
 priority.eu-east-1.indriverapp.com
 privacy.ketnet.be
-privateinternetaccess.com
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 pro-api.coingecko.com
@@ -8271,7 +8238,6 @@ www.expedia.com
 www.expediaagents.com
 www.expediagroup.com
 www.expediataap.com
-www.expressvpn.com
 www.fareharbor.com
 www.fedramp.gov
 www.fewo-direkt.de

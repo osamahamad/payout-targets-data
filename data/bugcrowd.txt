@@ -685,31 +685,6 @@ marketplace.auth0.com (Auth0 Marketplace)
 openidconnect.net	
 samltool.io	
 webauthn.me	
-ClickHouse Cloud environment hosted by ClickHouse
-https://clickhou.se/bugcrowd
-https://github.com/ClickHouse/ClickHouse
-CyberGhost APIs
-CyberGhost Android application
-CyberGhost Chrome extension
-CyberGhost Firefox extension
-CyberGhost Linux application
-CyberGhost PS3+PS4 apps
-CyberGhost VPN servers
-CyberGhost Windows application
-CyberGhost Xbox One + Xbox360 apps
-CyberGhost iOS application
-CyberGhost macOS application
-cyberghost.app
-cyberghost.com
-https://addons.mozilla.org/en-US/firefox/addon/cyberghost-vpn-free-proxy/
-https://apps.apple.com/us/app/id583009522
-https://chrome.google.com/webstore/detail/stay-secure-with-cybergho/ffbkglfijbcbgblgflchnbphjdllaogb
-https://cyberghost.com
-https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost
-https://www.cyberghostvpn.com/
-https://www.cyberghostvpn.com/en_US/apps/linux-vpn
-https://www.cyberghostvpn.com/en_US/apps/macos-vpn
-https://www.cyberghostvpn.com/en_US/apps/windows-vpn
 https://acorns.com/
 https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
 https://graphql.acorns.com
@@ -905,6 +880,9 @@ https://ws.multiplayer.classdojo.com/
 https://ticket.multiplayer.classdojo.com
 https://clients.multiplayer.classdojo.com/launcher/prod/latest
 https://monster-customizer.classdojo.com/cf6dfa68-1a81-4c6d-bc0b-38f3666b37d6/index.html
+https://clickhou.se/bugcrowd
+ClickHouse Cloud environment hosted by ClickHouse
+https://github.com/ClickHouse/ClickHouse
 https://cloudinary.com/console
 https://api.cloudinary.com
 https://res.cloudinary.com
@@ -939,6 +917,20 @@ https://contrastsecurity.dev/
 https://marketplace.atlassian.com/apps/1223249/mailto-wiki-send-emails-to-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1223249/mailto-wiki-send-emails-to-confluence?tab=overview&hosting=server
 https://marketplace.atlassian.com/apps/1223249/mailto-wiki-email-for-confluence?hosting=datacenter&tab=overview
+CyberGhost VPN servers
+https://apps.apple.com/us/app/id583009522
+https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost
+https://www.cyberghostvpn.com/en_US/apps/linux-vpn
+https://www.cyberghostvpn.com/en_US/apps/macos-vpn
+https://www.cyberghostvpn.com/en_US/apps/windows-vpn
+https://addons.mozilla.org/en-US/firefox/addon/cyberghost-vpn-free-proxy/
+https://chrome.google.com/webstore/detail/stay-secure-with-cybergho/ffbkglfijbcbgblgflchnbphjdllaogb
+CyberGhost APIs
+CyberGhost PS3+PS4 apps
+CyberGhost Xbox One + Xbox360 apps
+https://cyberghost.com
+cyberghost.app
+https://www.cyberghostvpn.com/
 https://console.delltechnologies.com/nav/administration
 https://console.delltechnologies.com/nav/invoice
 https://console.delltechnologies.com/nav/billing
@@ -1005,6 +997,23 @@ https://sos-ch-gva-2.exo.io/
 https://internal.exoscale.ch
 https://api-ch-gva-2.exoscale.com/v2
 https://api-ch-gva-2.exoscale.com/v2
+VPN servers
+ExpressVPN iOS application
+ExpressVPN Android application
+ExpressVPN Linux application
+ExpressVPN macOS application
+ExpressVPN Windows application
+ExpressVPN Router
+ExpressVPN Firefox extension
+ExpressVPN Chrome extension
+MediaStreamer DNS servers
+ExpressVPN APIs
+https://www.expressvpn.com
+http://expressobutiolem.onion
+Google Play (com.expressvpn.vpn)
+Apple App Store (886492891)
+https://github.com/expressvpn/lightway-core
+ExpressVPN Keys Browser Extension
 Any FIS asset is in scope
 https://flo.uri.sh
 https://flourish.studio/
@@ -1216,6 +1225,21 @@ https://play.google.com/store/apps/details?id=com.lastpass.lpandroid
 https://play.google.com/store/apps/details?id=com.lastpass.authenticator&hl=en_US&gl=US
 https://apps.apple.com/us/app/lastpass-password-manager/id324613447
 https://apps.apple.com/us/app/lastpass-authenticator/id1079110004
+https://api.test.latitudefinancial.com
+https://master.servicecentre.digitalservicing-np.lfscnp.com/
+https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
+https://28degreescard.com.au
+https://buyersedge.co.nz
+https://carecredit.com.au
+https://gemcreditline.co.nz
+https://gemfinance.co.nz
+https://gemvisa.com.au
+https://gomastercard.com.au
+https://interestfree.com.au
+https://latitudeinfinity.com.au
+https://umiloans.com.au
+https://images.latitudepayapps.com/
+https://app.latitudepayapps.com/
 https://manager.trial.lsk.lightspeed.app/	
 https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
 https://secure.vendhq.com
@@ -1380,6 +1404,7 @@ https://myaccount-staging.getmoneytree.com
 https://jp-api-staging.getmoneytree.com
 https://business-staging.getmoneytree.com/
 https://play.google.com/store/apps/details?id=jp.moneytree.moneytree&hl=en_AU&gl=US
+All Motorola Devices running Android 13 and above. 
 https://staging-prime.navan.com
 https://secure.neogov.com
 https://login.neogov.com
@@ -1544,6 +1569,18 @@ https://mg.n0c.com/
 https://www.planethoster.com
 https://marketplace.atlassian.com/apps/4832/enterprise-mail-handler-for-jira-jemh?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/4832/enterprise-mail-handler-for-jira-jemh?hosting=datacenter&tab=overview
+PIA VPN servers
+https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
+https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&hl=en
+https://www.privateinternetaccess.com/download/linux-vpn
+https://www.privateinternetaccess.com/download/mac-vpn
+https://www.privateinternetaccess.com/download/windows-vpn
+https://addons.mozilla.org/en-US/firefox/addon/private-internet-access-ext/
+https://chrome.google.com/webstore/detail/private-internet-access/jplnlifepflhkbkgonidnobkakhmpnmh
+https://addons.opera.com/en/extensions/details/private-internet-access-extension/
+PIA APIs
+https://www.privateinternetaccess.com/
+piaservers.com
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
 https://analytics-admin.prosus.com
@@ -1935,26 +1972,6 @@ https://www.etsy.com/developers/documentation/getting_started/api_basics
 https://www.etsy.com/mobile
 https://www.etsy.com/mobile
 www.etsy.com
-Apple App Store (886492891)
-ExpressVPN APIs
-ExpressVPN Android application
-ExpressVPN Chrome extension
-ExpressVPN Firefox extension
-ExpressVPN Keys Browser Extension
-ExpressVPN Linux application
-ExpressVPN Router
-ExpressVPN Windows application
-ExpressVPN iOS application
-ExpressVPN macOS application
-Google Play (com.expressvpn.vpn)
-Lightway Core
-MediaStreamer DNS servers
-VPN servers
-expressobutiolem.onion
-http://expressobutiolem.onion
-https://github.com/expressvpn/lightway-core
-https://www.expressvpn.com
-www.expressvpn.com
 https://financialforce.com
  https://api.ibops.net/ad-management
 Chrome Extension
@@ -1973,25 +1990,6 @@ https://backend.ibotta.com/
 https://chrome.google.com/webstore/detail/ibotta-browser-extension/mfaedmjlefifhnhpgipjjiiekchaimpk?hl=en-US
 https://content-server.ibotta.com/graphql
 https://kw-bugcrowd-pub.bounty.kiteworks.dev/
-app.latitudepayapps.com
-https://28degreescard.com.au
-https://api.test.latitudefinancial.com
-https://app.latitudepayapps.com/
-https://buyersedge.co.nz
-https://carecredit.com.au
-https://gemcreditline.co.nz
-https://gemfinance.co.nz
-https://gemvisa.com.au
-https://gomastercard.com.au
-https://images.latitudepayapps.com/
-https://interestfree.com.au
-https://latitudeinfinity.com.au
-https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/
-https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
-https://master.servicecentre.digitalservicing-np.lfscnp.com/
-https://umiloans.com.au
-images.latitudepayapps.com
-All Motorola Devices running Android 13 and above. 
 Insight Android App
 Insight Cloud Portal
 Insight Managed Smart Cloud Wireless Access Point
@@ -2062,27 +2060,6 @@ app.opsgenie.com
 https://app.opsgenie.com
 https://mobileapp.opsgenie.com
 mobileapp.opsgenie.com
-PIA APIs
-PIA Android application
-PIA Chrome extension
-PIA Firefox extension
-PIA Linux application
-PIA Opera extension
-PIA VPN servers
-PIA Windows application
-PIA iOS application
-PIA macOS application
-https://addons.mozilla.org/en-US/firefox/addon/private-internet-access-ext/
-https://addons.opera.com/en/extensions/details/private-internet-access-extension/
-https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
-https://chrome.google.com/webstore/detail/private-internet-access/jplnlifepflhkbkgonidnobkakhmpnmh
-https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&hl=en
-https://www.privateinternetaccess.com/
-https://www.privateinternetaccess.com/download/linux-vpn
-https://www.privateinternetaccess.com/download/mac-vpn
-https://www.privateinternetaccess.com/download/windows-vpn
-piaservers.com
-privateinternetaccess.com
 SpaceX and Starlink assets (target information and rewards detailed above on the brief)
 https://manage.statuspage.io
 manage.statuspage.io
