@@ -2,7 +2,6 @@
  *.test.*.lfscnp.com
  Twilio CDNs (static*.twilio.com)
 *-api-*.acronis.com
-*-cvr-aws-*.sys.comcast.net
 *.-np.*.lfscnp.com
 *.10bis.co.il
 *.10ktf.com
@@ -237,7 +236,6 @@
 *.dev.remitly.com
 *.devicelock.com
 *.dex-trade.com
-*.dh-commerce.com 
 *.dibz.co.uk
 *.digitalocean.com
 *.dm.gg
@@ -772,7 +770,6 @@
 *.square.com
 *.squareup.com
 *.srvcs.tumblr.com
-*.ssr.ccp.xcal.tv 
 *.staging-airtableblocks.com
 *.staging.airtable.com
 *.status.app
@@ -921,8 +918,6 @@
 *.wu.*
 *.xcal.tv
 *.xfinity.com	
-*.xfinityhome.com
-*.xfiplatform.com
 *.xiaomi.com
 *.xiaomiyoupin.com
 *.xoom.com
@@ -962,9 +957,6 @@ matrix.agent.*.tchap.gouv.fr
 munin-*.wordpress.org
 onboarding-*.cloud.com
 open redirect at *.epam.com
-prod-*.nu.com.co
-prod-*.nu.com.mx
-prod-*.nubank.com.br
 qm-*.8x8.com
 support*.earlywarning.com
 swiss-backup*.infomaniak.com
@@ -972,5 +964,3 @@ terra-*.indriverapp.com
 test*.redoxengine.com
 vcc-*.8x8.com
 www.paypal-*.com
-xhomeapi-*.cloud.comcast.net
-xhomeapi-*.codebig2.net
