@@ -2,6 +2,7 @@
  *.test.*.lfscnp.com
  Twilio CDNs (static*.twilio.com)
 *-api-*.acronis.com
+*-cvr-aws-*.sys.comcast.net
 *.-np.*.lfscnp.com
 *.10bis.co.il
 *.10ktf.com
@@ -121,6 +122,8 @@
 *.bingx.pro
 *.bionic.ai
 *.bistro.sk
+*.bitdefender.com
+*.bitdefender.net
 *.bitforex.com
 *.bitkub.com
 *.bitmart.com
@@ -236,6 +239,7 @@
 *.dev.remitly.com
 *.devicelock.com
 *.dex-trade.com
+*.dh-commerce.com 
 *.dibz.co.uk
 *.digitalocean.com
 *.dm.gg
@@ -770,6 +774,7 @@
 *.square.com
 *.squareup.com
 *.srvcs.tumblr.com
+*.ssr.ccp.xcal.tv 
 *.staging-airtableblocks.com
 *.staging.airtable.com
 *.status.app
@@ -918,6 +923,8 @@
 *.wu.*
 *.xcal.tv
 *.xfinity.com	
+*.xfinityhome.com
+*.xfiplatform.com
 *.xiaomi.com
 *.xiaomiyoupin.com
 *.xoom.com
@@ -967,3 +974,5 @@ terra-*.indriverapp.com
 test*.redoxengine.com
 vcc-*.8x8.com
 www.paypal-*.com
+xhomeapi-*.cloud.comcast.net
+xhomeapi-*.codebig2.net
