@@ -54,7 +54,6 @@
 *.adobeaemcloud.com
 *.adobeconnect.com
 *.adobecqms.net
-*.adultforce.com
 *.advisorsolutions.gs.com
 *.aips-internal.com
 *.airbnb-aws.com
@@ -142,8 +141,6 @@
 *.bingx.pro
 *.bionic.ai
 *.bistro.sk
-*.bitdefender.com
-*.bitdefender.net
 *.bitforex.com
 *.bitkub.com
 *.bitmart.com
@@ -848,7 +845,6 @@
 *.toolsforhumanity.com
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
-*.trafficjunky.com
 *.transferwise.com
 *.travelbook.de
 *.travelocity.ca
@@ -1474,9 +1470,7 @@ Bitbucket Server Protect Unmerged Hook - Data Center - https://marketplace.atlas
 Bitbucket Server Protect Unmerged Hook - Server - https://marketplace.atlassian.com/apps/1211203/bitbucket-server-protect-unmerged-hook?hosting=server
 Bitbucket Server for Slack (Official) - DataCenter - https://marketplace.atlassian.com/apps/1220729/bitbucket-server-for-slack-official?hosting=datacenter
 Bitbucket Server for Slack (Official) - Server - https://marketplace.atlassian.com/apps/1220729/bitbucket-server-for-slack-official?hosting=server
-Bitdefender Antimalware Engines
 Bitdefender BOX v2
-Bitdefender Total Security
 Blink Indoor
 Blink Mini
 Blink Outdoor
@@ -4187,7 +4181,6 @@ https://ampol.com.au/
 https://ampolenergy.com.au
 https://analytics-admin.prosus.com
 https://analytics.cloud.unity3d.com
-https://analytics.neogov.com
 https://analytics.welcomesoftware.com/
 https://anytask.thesecurityteam.rocks
 https://anytask.thesecurityteam.rocks/
@@ -4195,7 +4188,6 @@ https://api-a.usaa.com
 https://api-ch-gva-2.exoscale.com/v2
 https://api-evm.orderly.org/*
 https://api-js.datadome.co
-https://api-prod.retailsso.com
 https://api-prod.thatconceptstore.com/
 https://api-staging.pingone.com/*
 https://api-test.nicehash.com
@@ -4241,7 +4233,6 @@ https://api.justeat-int.com
 https://api.letsexchange.io/doc
 https://api.linen.app/
 https://api.moneyboxapp.com/
-https://api.neogov.com
 https://api.netgear.com
 https://api.openai.com
 https://api.optimizely.com/
@@ -4286,7 +4277,6 @@ https://apis.australiansuper.com/
 https://apis.indeed.com/graphql
 https://app-eu1.hubspot.com
 https://app-staging.getmoneytree.com
-https://app.agency360.com
 https://app.allbridge.io
 https://app.asana.com
 https://app.asymetrix.io/
@@ -4340,7 +4330,6 @@ https://apps.apple.com/au/app/certsy/id1617796159
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
-https://apps.apple.com/br/app/nubank-conta-e-cart%C3%A3o/id814456780
 https://apps.apple.com/ca/app/lime-ridegreen/id1199780189
 https://apps.apple.com/ca/app/lime-supply/id1620058457
 https://apps.apple.com/ch/app/die-post/id378676700
@@ -4499,6 +4488,7 @@ https://basescan.org/address/0x7240aac0f57fa0126c107673597ce3cd5b907e38
 https://basescan.org/address/0xa5d378c05192e3f1f365d6298921879c4d51c5a3
 https://basescan.org/address/0xd978bb7a7ae5b01116d1bd714fedd1b77ca9e75b
 https://basescan.org/address/0xdd4536dD9636564D891c919416880a3e250f975A
+https://bc.yieldstreet.net
 https://beta.arlo.com
 https://bigcommerce.com/blog
 https://bigcommerce.com/make-it-big
@@ -4608,7 +4598,6 @@ https://casino.sportingbet.com
 https://cdn-app.welcomesoftware.com/
 https://cdn-pci.optimizely.com/
 https://cdn-store.opera-api.com
-https://cdn.neogov.com
 https://cdn.optimizely.com/
 https://central.sophos.com
 https://cfc.naspers.com/
@@ -4811,7 +4800,6 @@ https://ebanking.westernunionbank.com
 https://ecohesion.aufbaubank.de
 https://edge.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua))
 https://education.cfr.org/
-https://eforms.neogov.com
 https://egypt.westernunion.com
 https://eim.eu-west-2.outscale.com
 https://electroneum.com/
@@ -5455,7 +5443,6 @@ https://home.classdojo.com
 https://home.xfinity.com
 https://houston-staging.pdq.tools
 https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
-https://hr.neogov.com
 https://hr.prosus.com/
 https://hub.immutable.com/
 https://hub.zetachain.com/
@@ -5484,7 +5471,6 @@ https://iotexscout.io/
 https://iotube.org/
 https://ipfs-mainnet.trnnfr.com/
 https://iphone-xml.booking.com/json/
-https://itunes.apple.com/app/carrefour-uae/id626805470
 https://itunes.apple.com/fr/app/blablacar-trusted-carpooling/id341329033?l=en&mt=8
 https://itunes.apple.com/gb/app/uconnect-live/id881830261?mt=8
 https://itunes.apple.com/pl/app/panda-uconnect/id1117321678?mt=8
@@ -5532,7 +5518,6 @@ https://lastpass.com
 https://lastpass.com/misc_download2.php
 https://latitudeinfinity.com.au
 https://lbu.eu-west-2.outscale.com
-https://learn.neogov.com
 https://learn.newrelic.com/
 https://legacy-blockexplorer.electroneum.com
 https://lego.yellowblocks.me/
@@ -5561,7 +5546,6 @@ https://liveassist23.usaa.com
 https://liveassist24.usaa.com
 https://location.westernunion.com
 https://login.aufbaubank.de
-https://login.neogov.com
 https://login.salt.ch
 https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
@@ -5584,7 +5568,11 @@ https://market.immutable.com/
 https://marketplace.atlassian.com
 https://marketplace.atlassian.com/apps/1210722/confluence-source-editor?hosting=server
 https://marketplace.atlassian.com/apps/1210725/data-generator-for-jira?hosting=server
+https://marketplace.atlassian.com/apps/1210766/teamcity-integration-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1210818/scroll-versions-for-confluence?hosting=datacenter
+https://marketplace.atlassian.com/apps/1210934/awesome-graphs-for-bitbucket?hosting=cloud
+https://marketplace.atlassian.com/apps/1210934/awesome-graphs-for-bitbucket?hosting=datacenter
+https://marketplace.atlassian.com/apps/1210934/awesome-graphs-for-bitbucket?hosting=server
 https://marketplace.atlassian.com/apps/1210950/atlassian-plugin-sdk-windows?hosting=server
 https://marketplace.atlassian.com/apps/1210951/atlassian-plugin-sdk-mac-os-x?hosting=server
 https://marketplace.atlassian.com/apps/1210991/atlassian-plugin-sdk-rpm?hosting=server
@@ -5622,6 +5610,8 @@ https://marketplace.atlassian.com/apps/1212136/advanced-roadmaps-formerly-portfo
 https://marketplace.atlassian.com/apps/1212136/advanced-roadmaps-formerly-portfolio?hosting=server
 https://marketplace.atlassian.com/apps/1212137/assets?hosting=server
 https://marketplace.atlassian.com/apps/1212137/insight-asset-management?hosting=datacenter
+https://marketplace.atlassian.com/apps/1212507/smart-attachments-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1212531/customer-case-jira-support-feedback?hosting=cloud
 https://marketplace.atlassian.com/apps/1212549/variable-tasks-for-bamboo?hosting=server
 https://marketplace.atlassian.com/apps/1212632/look-and-feel-for-bitbucket-server?hosting=datacenter
 https://marketplace.atlassian.com/apps/1212632/look-and-feel-for-bitbucket-server?hosting=server
@@ -5630,6 +5620,7 @@ https://marketplace.atlassian.com/apps/1212778/my-reminders-for-jira?hosting=clo
 https://marketplace.atlassian.com/apps/1213092/google-drive-for-confluence-official-legacy-editor-only?hosting=cloud
 https://marketplace.atlassian.com/apps/1213440/asana-importer-plugin-for-jira?hosting=server
 https://marketplace.atlassian.com/apps/1214046/favorites-dialog-for-confluence?hosting=server
+https://marketplace.atlassian.com/apps/1214110/courses-and-quizzes-lms-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1214351/disable-referer-for-bitbucket-server?hosting=datacenter
 https://marketplace.atlassian.com/apps/1214351/disable-referer-for-bitbucket-server?hosting=server
 https://marketplace.atlassian.com/apps/1214509/entity-property-tool-for-jira?hosting=cloud
@@ -5641,7 +5632,9 @@ https://marketplace.atlassian.com/apps/1214713/sbt-task-plugin-for-bamboo?hostin
 https://marketplace.atlassian.com/apps/1214757/hackathon-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1214899/thready-give-tomcat-threads-a-name?hosting=server
 https://marketplace.atlassian.com/apps/1214912/better-code-macro-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1214971/handy-macros-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1214988/icons-for-jira?hosting=server
+https://marketplace.atlassian.com/apps/1215055/slack-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1215089/bulk-delete-review-files-for-crucible?hosting=server
 https://marketplace.atlassian.com/apps/1215175/change-management-for-jsm?hosting=server
 https://marketplace.atlassian.com/apps/1215175/change-management-workflow-for-jira-service-management?hosting=datacenter
@@ -5708,10 +5701,12 @@ https://marketplace.atlassian.com/apps/1217957/vfs-for-git-for-bitbucket-server?
 https://marketplace.atlassian.com/apps/1218011/trello-connector-for-jira-server?hosting=server
 https://marketplace.atlassian.com/apps/1218117/ipython-notebook-viewer?hosting=cloud
 https://marketplace.atlassian.com/apps/1218118/release-plugin-for-bitbucket-server?hosting=server
+https://marketplace.atlassian.com/apps/1218211/secure-google-calendar-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1218250/mobile-plugin-for-confluence-data-center-and-server?hosting=datacenter
 https://marketplace.atlassian.com/apps/1218250/mobile-plugin-for-confluence-data-center-and-server?hosting=server
 https://marketplace.atlassian.com/apps/1218271/code-coverage-for-bitbucket-server?hosting=server
 https://marketplace.atlassian.com/apps/1218630/delegated-directory-pruning-for-crowd?hosting=server
+https://marketplace.atlassian.com/apps/1218652/deep-clone-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1218757/insight-aws-integration?hosting=datacenter
 https://marketplace.atlassian.com/apps/1218757/insight-aws-integration?hosting=server
 https://marketplace.atlassian.com/apps/1218781/bitbucket-cloud-for-slack-official?hosting=cloud
@@ -5725,17 +5720,20 @@ https://marketplace.atlassian.com/apps/1219094/insight-sccm-integration?hosting=
 https://marketplace.atlassian.com/apps/1219105/xcode-for-bitbucket-server?hosting=server
 https://marketplace.atlassian.com/apps/1219212/insight-google-cloud-integration?hosting=datacenter
 https://marketplace.atlassian.com/apps/1219212/insight-google-cloud-integration?hosting=server
+https://marketplace.atlassian.com/apps/1219288/comment-history-log-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1219298/insight-snow-integration?hosting=datacenter
 https://marketplace.atlassian.com/apps/1219298/insight-snow-integration?hosting=server
 https://marketplace.atlassian.com/apps/1219311/atlassian-cloud-for-gmail?hosting=cloud
 https://marketplace.atlassian.com/apps/1219451/statuspage-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1219472/mandatory-reviewers-for-crucible?hosting=server
+https://marketplace.atlassian.com/apps/1219476/comment-custom-fields-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1219498/confluence-cloud-for-slack?hosting=cloud
 https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?hosting=datacenter
 https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?hosting=server
 https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence?hosting=server
+https://marketplace.atlassian.com/apps/1219514/merge-agent-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1219516/microsoft-teams-for-confluence-cloud?hosting=cloud
 https://marketplace.atlassian.com/apps/1219518/confluence-cloud-for-slack-official?hosting=cloud
 https://marketplace.atlassian.com/apps/1219561/insight-servicenow-integration?hosting=datacenter
@@ -5747,10 +5745,13 @@ https://marketplace.atlassian.com/apps/1219632/insight-device42-integration?host
 https://marketplace.atlassian.com/apps/1219672/confluence-cloud-migration-assistant?hosting=datacenter
 https://marketplace.atlassian.com/apps/1219672/confluence-cloud-migration-assistant?hosting=server
 https://marketplace.atlassian.com/apps/1219706/conditional-tasks-for-bamboo?hosting=server
+https://marketplace.atlassian.com/apps/1219807/version-sync-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1219908/insight-jamf-integration?hosting=datacenter
 https://marketplace.atlassian.com/apps/1219908/insight-jamf-integration?hosting=server
+https://marketplace.atlassian.com/apps/1219994/external-data-for-jira-fields?hosting=cloud
 https://marketplace.atlassian.com/apps/1220099/jira-server-for-slack-official?hosting=datacenter
 https://marketplace.atlassian.com/apps/1220099/jira-server-for-slack-official?hosting=server
+https://marketplace.atlassian.com/apps/1220136/quick-filters-for-jira-dashboards?hosting=cloud
 https://marketplace.atlassian.com/apps/1220151/mobile-plugin-for-jira-data-center-and-server?hosting=datacenter
 https://marketplace.atlassian.com/apps/1220151/mobile-plugin-for-jira-data-center-and-server?hosting=server
 https://marketplace.atlassian.com/apps/1220186/confluence-server-for-slack-official?hosting=datacenter
@@ -5766,6 +5767,7 @@ https://marketplace.atlassian.com/apps/1220745/centralized-license-visibility?ho
 https://marketplace.atlassian.com/apps/1220745/centralized-license-visibility?hosting=server
 https://marketplace.atlassian.com/apps/1220798/assign-reviewer-groups?hosting=server
 https://marketplace.atlassian.com/apps/1220820/bitbucket-pipelines-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1220964/snipe-it-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1221117/cloud-compatibility-for-jira?hosting=datacenter
 https://marketplace.atlassian.com/apps/1221117/cloud-compatibility-for-jira?hosting=server
 https://marketplace.atlassian.com/apps/1221227/project-transfer-for-crucible?hosting=server
@@ -5779,22 +5781,29 @@ https://marketplace.atlassian.com/apps/1221551/aws-service-catalog-for-jsm-cloud
 https://marketplace.atlassian.com/apps/1221602/jet-by-jira-align?hosting=cloud
 https://marketplace.atlassian.com/apps/1221602/jet-by-jira-align?hosting=datacenter
 https://marketplace.atlassian.com/apps/1221602/jet-by-jira-align?hosting=server
+https://marketplace.atlassian.com/apps/1221733/external-data-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1221882/microsoft-onedrive-for-business-legacy-editor-only?hosting=cloud
+https://marketplace.atlassian.com/apps/1222001/employee-performance-ratings?hosting=cloud
 https://marketplace.atlassian.com/apps/1222010/jira-cloud-migration-assistant?hosting=datacenter
 https://marketplace.atlassian.com/apps/1222010/jira-cloud-migration-assistant?hosting=server
+https://marketplace.atlassian.com/apps/1222084/spreadsheet-issue-field-editor?hosting=cloud
+https://marketplace.atlassian.com/apps/1222102/webhook-manager-for-confluence-cloud?hosting=cloud
 https://marketplace.atlassian.com/apps/1222124/sticker-printer-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1222132/jenkins-integration-for-bitbucket-server?hosting=server
 https://marketplace.atlassian.com/apps/1222147/opsgenie?hosting=cloud
+https://marketplace.atlassian.com/apps/1222978/dynamic-fields-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1223249/mailto-wiki-email-for-confluence?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1223249/mailto-wiki-send-emails-to-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1223249/mailto-wiki-send-emails-to-confluence?tab=overview&hosting=server
 https://marketplace.atlassian.com/apps/1223382/previous-next-navigation?hosting=cloud
+https://marketplace.atlassian.com/apps/1223455/advanced-bulk-edit-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1223584/github-webhooks-for-fisheye?hosting=server
 https://marketplace.atlassian.com/apps/1224300/opsgenie-bamboo-plugin?hosting=server
 https://marketplace.atlassian.com/apps/1224728/crucible-build-status?hosting=server
 https://marketplace.atlassian.com/apps/1224729/bamboo-build-status-notifier?hosting=server
 https://marketplace.atlassian.com/apps/1224758/confluence-recent-edits-overview?hosting=cloud
 https://marketplace.atlassian.com/apps/1224799/scroll-content-quality-for-confluence
+https://marketplace.atlassian.com/apps/1224994/poll-maker-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hosting=datacenter
 https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hosting=server
 https://marketplace.atlassian.com/apps/1225664/form-macro-builder-for-confluence?hosting=cloud
@@ -5807,6 +5816,7 @@ https://marketplace.atlassian.com/apps/1226380/decisions-helper-for-confluence?h
 https://marketplace.atlassian.com/apps/1226478/jira-cloud-for-microsoft-teams?hosting=cloud
 https://marketplace.atlassian.com/apps/1226610/bitbucket-cloud-migration-assistant?hosting=datacenter
 https://marketplace.atlassian.com/apps/1226610/bitbucket-cloud-migration-assistant?hosting=server
+https://marketplace.atlassian.com/apps/1226627/prime-custom-fields-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1227238/translations-for-scroll-documents?hosting=cloud
 https://marketplace.atlassian.com/apps/1227238/translations-for-scroll-documents?hosting=datacenter
 https://marketplace.atlassian.com/apps/1227744/jira-enterprise-scale-assessment-tool?hosting=datacenter&tab=overview
@@ -5822,6 +5832,8 @@ https://marketplace.atlassian.com/apps/1229183/add-watchers-at-issue-creation?ho
 https://marketplace.atlassian.com/apps/1229343/developer-assistant-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1229446/developer-assistant-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1229704/cloud-migration-planner?hosting=cloud
+https://marketplace.atlassian.com/apps/1230689/easy-confluence-gadget-for-jira-dashboards?hosting=cloud
+https://marketplace.atlassian.com/apps/1232630/external-data-for-jira-fields-extension?hosting=cloud
 https://marketplace.atlassian.com/apps/14896/review-creator-for-fisheye?hosting=server
 https://marketplace.atlassian.com/apps/212/copy-space-for-confluence?hosting=server
 https://marketplace.atlassian.com/apps/23915/atlassian-universal-plugin-manager?hosting=datacenter
@@ -5830,6 +5842,9 @@ https://marketplace.atlassian.com/apps/24982/scroll-word-exporter-for-confluence
 https://marketplace.atlassian.com/apps/24982/scroll-word-exporter-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/253/scroll-imagemap-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/253/scroll-imagemap-for-confluence?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=datacenter
+https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=server
 https://marketplace.atlassian.com/apps/288/jira-charting-plugin?hosting=server
 https://marketplace.atlassian.com/apps/293/jira-calendar-plugin?hosting=server
 https://marketplace.atlassian.com/apps/30318/directory-scanning-plugin?hosting=server
@@ -5923,9 +5938,6 @@ https://newsletter.thuisbezorgd.nl
 https://nice.wfmusaa.com
 https://nns.ic0.app/
 https://node.e2ro.com/*
-https://nubank.com.br/
-https://nubank.com.co
-https://nubank.com.mx
 https://nvoice.usaa.com/
 https://nw.ring.com/*
 https://oauth.ring.com/*
@@ -5935,7 +5947,6 @@ https://oda.com
 https://odesli.co
 https://odesli.com
 https://offer.tidal.com/download
-https://onboard.neogov.com
 https://one.newrelic.com
 https://one.pinelabs.com/
 https://online.monash.edu/
@@ -6002,7 +6013,6 @@ https://pcm.20min.ch
 https://pcm.beta.20min.ch
 https://pentest-app.onetrust.com/
 https://peopleview.naspers.com
-https://performance.neogov.com
 https://performancemarketing.mastercard.com/portal/
 https://pg.paymaya.com
 https://pinepgconsole.in:9099
@@ -6028,7 +6038,6 @@ https://play.google.com/store/apps/details?id=com.afterpaymobile.uk
 https://play.google.com/store/apps/details?id=com.afterpaymobile.us&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.app.xt
 https://play.google.com/store/apps/details?id=com.asana.app&hl=en
-https://play.google.com/store/apps/details?id=com.aswat.carrefouruae
 https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.core&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.atlassian.confluence.server
@@ -6084,7 +6093,6 @@ https://play.google.com/store/apps/details?id=com.moonpay
 https://play.google.com/store/apps/details?id=com.newrelic.rpm
 https://play.google.com/store/apps/details?id=com.nicehash.metallum&hl=en
 https://play.google.com/store/apps/details?id=com.nth.swisspost&hl=de_CH&gl=US
-https://play.google.com/store/apps/details?id=com.nu.production&hl=pt_BR&gl=US&pli=1
 https://play.google.com/store/apps/details?id=com.okinc.okcoin.intl
 https://play.google.com/store/apps/details?id=com.okta.android.auth&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.opera.app.news
@@ -6194,7 +6202,6 @@ https://portal.ifood.com.br
 https://portal3.pentest.clicsante.ca
 https://portalapi.eu.clearpay.co.uk
 https://portalapi.us.afterpay.com
-https://powerdms.com/
 https://pprd.cybermalveillance.gouv.fr
 https://priceless.com/aa/
 https://priceless.com/aviator/
@@ -6237,15 +6244,11 @@ https://scalews.withings.com
 https://screenplayer.20min.ch
 https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secure-iphone-xml.booking.com/json/
-https://secure.cuehit.net
 https://secure.mypass.de/
-https://secure.neogov.com
 https://secure.vendhq.com
 https://secure.westernunion.com
 https://secureauth.westernunion.com
 https://securemail.usaa.com
-https://securesignin.neogov.com
-https://securesignin.powerdms.com/
 https://security-testing-env-api.k8s.tools-001.d-use-1.braze.com/
 https://security-testing-env-dashboard.k8s.tools-001.d-use-1.braze.com/
 https://seekcdn.com
@@ -6398,7 +6401,6 @@ https://uk.web.com
 https://ultramobile.com
 https://umiloans.com.au
 https://underarmournext.com/
-https://unified.neogov.com
 https://unihub.monash.edu/
 https://unity3d.com/get-unity/download
 https://unity3d.com/get-unity/download/archive
@@ -6497,7 +6499,6 @@ https://www.binance.us/
 https://www.bit.com/
 https://www.bit.com/docs/en-us/futures.html#introduction
 https://www.bit.com/legacy/propertyCenter/assets
-https://www.bitdefender.com/business/smb-products/business-security.html?cid=ppc|b|google|smb&s_kwcid=AL!6076!3!514235572261!p!!g!!bitdefender%20business&utm_term=bitdefender%20business&utm_campaign=USA+SMB+Branded+30&utm_source=adwords&utm_medium=ppc&hsa_acc=8155205354&hsa_cam=7848657822&hsa_grp=124745713150&hsa_ad=514235572261&hsa_src=g&hsa_tgt=kwd-308396066873&hsa_kw=bitdefender%20business&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwqIiFBhAHEiwANg9szk-Rr3iSn4mrwsvAUOn-pzrO12ufWDmyCLopWigaLQW0t_xtlBE65RoCr6kQAvD_BwE
 https://www.bitpanda.com/
 https://www.bitpanda.com/academy/en/
 https://www.bitstamp.net/
@@ -6505,7 +6506,6 @@ https://www.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr
 https://www.bluehost.com/
 https://www.bookbeat.com
 https://www.btse.com
-https://www.carrefouruae.com/
 https://www.cart.hostgator.com.br
 https://www.cb2.ae/en
 https://www.cfr.org/
@@ -6555,7 +6555,6 @@ https://www.gamemaker.io
 https://www.glassdoor.com/*
 https://www.goby.app/
 https://www.gohenry.com/
-https://www.governmentjobs.com
 https://www.hostgator.com.br/
 https://www.hostgator.com/
 https://www.hpr.kiwai-normandie.fr/
@@ -6622,7 +6621,6 @@ https://www.monashprofessional.edu.au/
 https://www.networksolutions.com
 https://www.npmjs.com/package/@forge/cli
 https://www.npmjs.com/package/@forge/cli	
-https://www.nuinvest.com.br/
 https://www.oculus.com/experiences/quest/2173678582678296
 https://www.oculus.com/experiences/rift/1257029974329451
 https://www.okcoin.com/
@@ -7445,9 +7443,6 @@ pro-api.coinmarketcap.com
 pro.coinbase.com
 pro.coinmarketcap.com
 pro.doctolib.(fr|de|it) (see "Free features for healthcare professionals"))
-prod-*.nu.com.co
-prod-*.nu.com.mx
-prod-*.nubank.com.br
 prod.ros.rockstargames.com
 proddata.xobni.yahoo.com
 production.plaid.com
@@ -8512,6 +8507,8 @@ zen.deezer.com
 zerobounce.net
 zopim.com
 ████████████
+██████████████
+██████████████████
 ███████████████████
 █████████████████████
 ██████████████████████
