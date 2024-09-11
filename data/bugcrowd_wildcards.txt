@@ -54,6 +54,13 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.expressvpn.com
 *.xvservice.net
 *.xvtest.net
+*.expressvpn.com
+*.xvservice.net
+*.xvtest.net
+*.hubspotemail.net
+*.hs-sites(-eu1)?.com
+*.hubspotpagebuilder.com
+*.hubspotpagebuilder.eu
 *.hubspotemail.net
 *.hs-sites(-eu1)?.com
 *.hubspotpagebuilder.com
