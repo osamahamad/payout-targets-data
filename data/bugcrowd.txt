@@ -1,63 +1,3 @@
-Arlo
-Arlo All-In-One Sensor (Home Security System)
-Arlo Baby
-Arlo Base Station
-Arlo Bridge
-Arlo Cellular & Battery Backup (Home Security System)
-Arlo Chime / Chime 2
-Arlo Essential
-Arlo Floodlight
-Arlo Go / Go 2
-Arlo Home Security System
-Arlo Pro
-Arlo Pro 2
-Arlo Pro 3
-Arlo Pro 4
-Arlo Pro 5S
-Arlo Q / Q+
-Arlo Safe Android App
-Arlo Safe Button
-Arlo Safe iOS App
-Arlo Secure Android App
-Arlo Secure iOS App
-Arlo Security Light
-Arlo Ultra
-Arlo Video Doorbell
-Arlo Wire-Free Outdoor Siren (Home Security System)
-Arlo Wireless Video Doorbell
-https://*-prod.arlo.com
-https://arlo-device.messaging.netgear.com
-https://beta.arlo.com
-https://community.arlo.com
-https://downloads.arlo.com
-https://mcs.arlo.com
-https://my.arlo.com
-https://myapi.arlo.com
-https://updates.arlo.com
-https://www.arlo.com
-Aruba AirWave AMP
-Aruba ClearPass Policy Manager
-Aruba EdgeConnect Enterprise
-Aruba EdgeConnect Enterprise Orchestrator
-Aruba Fabric Composer
-Aruba InstantOn APs and supporting backend infrastructure
-Aruba InstantOn Switches
-Aruba NetEdit
-Aruba User Experience Insight Sensors
-Aruba Wireless – ArubaOS and Aruba Instant
-ArubaOS-CX Wired Switches
-https://www.arubanetworks.com/products/networking/analytics-and-assurance/user-experience-insight-sensors/
-aed.arubanetworks.com
-ase.arubanetworks.com
-asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
-blogs.arubanetworks.com
-calculators.arubanetworks.com
-connect.arubanetworks.com
-devhub.arubanetworks.com
-lms-stg-develop.eks-stg-use1.getaws.arubanetworks.com
-mspshowcase.arubanetworks.com
-www.arubainstanton.com
-www.arubanetworks.com
 Atlassian Access (https://admin.atlassian.com/atlassian-access)
 Atlassian Admin (https://admin.atlassian.com/)
 Atlassian Atlas
@@ -637,42 +577,6 @@ https://trello.com/power-ups/5a2de0c41ae4a1537bb0055d/read-me
 https://trello.com/power-ups/5e3886cd2ae34410748d0d5b/jira-align-
 https://trello.com/power-ups/6048e897c73d032a983e2a7c/dashcards
 opsgenie-bamboo-plugin - Server - https://marketplace.atlassian.com/apps/1224300/opsgenie-bamboo-plugin?hosting=server
-Auth0 Guardian Android
-Auth0 Guardian IoS
-MFA Integrations	
-auth0.com	
-auth0.net
-config.cic-bug-bounty.auth0app.com
-https://api.us1.fga.dev/
-https://apps.apple.com/us/app/auth0-guardian/id1093447833
-https://customers.us1.fga.dev/
-https://dashboard.fga.dev/
-https://github.com/auth0/Auth0.Net
-https://github.com/auth0/Auth0.Net (.NET SDK)
-https://github.com/auth0/auth0-java
-https://github.com/auth0/auth0-java (Java SDK)
-https://github.com/auth0/auth0-php
-https://github.com/auth0/auth0-php (PHP SDK)
-https://github.com/auth0/auth0-spa-js
-https://github.com/auth0/auth0-spa-js (Auth0 Single Page App SDK)
-https://github.com/auth0/auth0.js
-https://github.com/auth0/auth0.js (Auth0 SDK for Web)
-https://github.com/auth0/lock
-https://github.com/auth0/lock (Lock for Web)
-https://github.com/auth0/nextjs-auth0
-https://github.com/auth0/nextjs-auth0 (Next.js SDK)
-https://github.com/auth0/react-native-auth0
-https://github.com/auth0/react-native-auth0 (react-native SDK)
-https://manage.cic-bug-bounty.auth0app.com/
-https://marketplace.auth0.com
-https://play.fga.dev/
-https://play.google.com/store/apps/details?id=com.auth0.guardian&hl=en_US&gl=US
-jwt.io
-manage.cic-bug-bounty.auth0app.com (Management Dashboard)
-marketplace.auth0.com (Auth0 Marketplace)
-openidconnect.net	
-samltool.io	
-webauthn.me	
 https://acorns.com/
 https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
 https://graphql.acorns.com
@@ -723,23 +627,6 @@ https://api.aiven.io/login
 https://github.com/Aiven-Open
 https://github.com/Aiven
 http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
-Aiven for Clickhouse
-Aiven for Dragonfly
-Aiven for Apache Flink
-Aiven for Metrics
-Aiven for Valkey
-Aiven for OpenSearch
-Aiven for Grafana
-Aiven for Apache Kafka
-Aiven for M3
-Aiven for PostgreSQL
-Aiven for Caching
-https://aiven.io/
-https://console.aiven.io/login
-https://api.aiven.io/login
-https://github.com/Aiven-Open
-https://github.com/Aiven
-http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
 https://ampol.com.au/
 https://apps.apple.com/au/app/caltex-australia/id1314768594
 https://play.google.com/store/apps/details?id=au.com.ampol.flagship&hl=en_AU&gl=US
@@ -749,6 +636,65 @@ https://play.google.com/store/apps/details?id=au.com.ampol.teamapp
 https://my.ampol.com.au/
 https://carbonneutral.ampol.com.au/
 https://cards.ampol.com.au
+Arlo Safe Android App
+Arlo Safe iOS App
+Arlo Secure Android App
+Arlo Secure iOS App
+Arlo
+Arlo All-In-One Sensor (Home Security System)
+Arlo Baby
+Arlo Base Station
+Arlo Bridge
+Arlo Cellular & Battery Backup (Home Security System)
+Arlo Chime / Chime 2
+Arlo Essential
+Arlo Floodlight
+Arlo Go / Go 2
+Arlo Home Security System
+Arlo Pro
+Arlo Pro 2
+Arlo Pro 3
+Arlo Pro 4
+Arlo Pro 5S
+Arlo Q / Q+
+Arlo Safe Button
+Arlo Security Light
+Arlo Ultra
+Arlo Video Doorbell
+Arlo Wireless Video Doorbell
+Arlo Wire-Free Outdoor Siren (Home Security System)
+https://*-prod.arlo.com
+https://arlo-device.messaging.netgear.com
+https://beta.arlo.com
+https://community.arlo.com
+https://downloads.arlo.com
+https://mcs.arlo.com
+https://my.arlo.com
+https://myapi.arlo.com
+https://www.arlo.com
+https://updates.arlo.com
+Aruba Wireless – ArubaOS and Aruba Instant
+Aruba ClearPass Policy Manager
+ArubaOS-CX Wired Switches
+Aruba EdgeConnect Enterprise Orchestrator
+Aruba EdgeConnect Enterprise
+Aruba InstantOn APs and supporting backend infrastructure
+Aruba Fabric Composer
+Aruba NetEdit
+Aruba InstantOn Switches
+Aruba AirWave AMP
+https://www.arubanetworks.com/products/networking/analytics-and-assurance/user-experience-insight-sensors/
+asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
+lms-stg-develop.eks-stg-use1.getaws.arubanetworks.com
+www.arubanetworks.com
+www.arubainstanton.com
+calculators.arubanetworks.com
+mspshowcase.arubanetworks.com
+ase.arubanetworks.com
+blogs.arubanetworks.com
+aed.arubanetworks.com
+connect.arubanetworks.com
+devhub.arubanetworks.com
 https://app.asana.com
 https://asana.com
 https://asana.com/apps?category=made-by-asana
@@ -762,6 +708,30 @@ https://business.australiansuper.com/
 https://adviser.australiansuper.com/
 https://apis.australiansuper.com/
 https://apis-v5.australiansuper.com/
+config.cic-bug-bounty.auth0app.com
+https://manage.cic-bug-bounty.auth0app.com/
+https://play.google.com/store/apps/details?id=com.auth0.guardian&hl=en_US&gl=US
+https://apps.apple.com/us/app/auth0-guardian/id1093447833
+https://marketplace.auth0.com
+MFA Integrations	
+https://github.com/auth0/auth0.js
+https://github.com/auth0/lock
+https://github.com/auth0/auth0-spa-js
+https://github.com/auth0/Auth0.Net
+https://github.com/auth0/nextjs-auth0
+https://github.com/auth0/auth0-java
+https://github.com/auth0/react-native-auth0
+https://github.com/auth0/auth0-php
+https://dashboard.fga.dev/
+https://api.us1.fga.dev/
+https://customers.us1.fga.dev/
+https://play.fga.dev/
+auth0.com	
+samltool.io	
+webauthn.me	
+openidconnect.net	
+jwt.io
+auth0.net
 https://www.pornhub.com/
 https://mobile.pornhub.com/
 https://api.pornhub.com/
@@ -807,9 +777,6 @@ coinmarketcap.com
 https://www.binance.us/
 https://trbinance.com
 Trustwallet Chrome Extension
-Bitdefender Total Security
-Bitdefender Antimalware Engines
-https://www.bitdefender.com/business/smb-products/business-security.html?cid=ppc|b|google|smb&s_kwcid=AL!6076!3!514235572261!p!!g!!bitdefender%20business&utm_term=bitdefender%20business&utm_campaign=USA+SMB+Branded+30&utm_source=adwords&utm_medium=ppc&hsa_acc=8155205354&hsa_cam=7848657822&hsa_grp=124745713150&hsa_ad=514235572261&hsa_src=g&hsa_tgt=kwd-308396066873&hsa_kw=bitdefender%20business&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwqIiFBhAHEiwANg9szk-Rr3iSn4mrwsvAUOn-pzrO12ufWDmyCLopWigaLQW0t_xtlBE65RoCr6kQAvD_BwE
 Bitdefender Total Security
 Bitdefender Antimalware Engines
 https://www.bitdefender.com/business/smb-products/business-security.html?cid=ppc|b|google|smb&s_kwcid=AL!6076!3!514235572261!p!!g!!bitdefender%20business&utm_term=bitdefender%20business&utm_campaign=USA+SMB+Branded+30&utm_source=adwords&utm_medium=ppc&hsa_acc=8155205354&hsa_cam=7848657822&hsa_grp=124745713150&hsa_ad=514235572261&hsa_src=g&hsa_tgt=kwd-308396066873&hsa_kw=bitdefender%20business&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwqIiFBhAHEiwANg9szk-Rr3iSn4mrwsvAUOn-pzrO12ufWDmyCLopWigaLQW0t_xtlBE65RoCr6kQAvD_BwE
@@ -865,10 +832,6 @@ https://itunes.apple.com/app/carrefour-uae/id626805470
 https://play.google.com/store/apps/details?id=com.aswat.carrefouruae
 https://www.carrefouruae.com/
 https://api-prod.retailsso.com
-https://itunes.apple.com/app/carrefour-uae/id626805470
-https://play.google.com/store/apps/details?id=com.aswat.carrefouruae
-https://www.carrefouruae.com/
-https://api-prod.retailsso.com
 https://itunes.apple.com/us/app/cash-app/id711923939?mt=8
 https://play.google.com/store/apps/details?id=com.squareup.cash
 https://cash.app
@@ -906,6 +869,22 @@ https://api.cloudinary.com
 https://res.cloudinary.com
 https://mediaflows.cloudinary.com/
 https://dimensions.cloudinary.com
+https://marketplace.atlassian.com/apps/1218652/deep-clone-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1219514/merge-agent-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1220136/quick-filters-for-jira-dashboards?hosting=cloud
+https://marketplace.atlassian.com/apps/1219476/comment-custom-fields-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1221733/external-data-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1219288/comment-history-log-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1215055/slack-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1219807/version-sync-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1220964/snipe-it-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1218211/secure-google-calendar-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1219994/external-data-for-jira-fields?hosting=cloud
+https://marketplace.atlassian.com/apps/1232630/external-data-for-jira-fields-extension?hosting=cloud
+https://marketplace.atlassian.com/apps/1222978/dynamic-fields-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1223455/advanced-bulk-edit-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1226627/prime-custom-fields-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1230689/easy-confluence-gadget-for-jira-dashboards?hosting=cloud
 https://adhoc-bugcrowd.cdn-code.org
 https://adhoc-bugcrowd-studio.cdn-code.org
 Staging, QA, Dev, and Test Environments
@@ -1026,7 +1005,6 @@ Google Play (com.expressvpn.vpn)
 Apple App Store (886492891)
 https://github.com/expressvpn/lightway-core
 ExpressVPN Keys Browser Extension
-Any FIS asset is in scope
 Any FIS asset is in scope
 https://flo.uri.sh
 https://flourish.studio/
@@ -1450,6 +1428,21 @@ https://app.agency360.com
 https://securesignin.neogov.com
 https://securesignin.powerdms.com/
 https://hr.neogov.com
+Nighthawk Pro Gaming Router
+Nighthawk Pro Gaming Switch
+Nighthawk Router
+Nighthawk Switch
+Nighthawk iOS App
+Nighthawk Android App
+Orbi 
+Orbi iOS App 
+Orbi Android App 
+Insight Managed Smart Cloud Wireless Access Point
+https://api.netgear.com
+Insight iOS App
+Insight Android App
+Insight Cloud Portal
+Meural
 https://www.domain.com
 http://www1.domain.com/
 https://one.newrelic.com
@@ -1478,6 +1471,32 @@ https://octopus.com/downloads
 https://octopus.com/downloads
 https://github.com/OctopusDeploy
 https://octopus.com
+bugcrowd-pam-###.oktapreview.com
+bugcrowd-pam-###.pam.oktapreview.com
+https://bugcrowd-oie-%username%-1.workflows.oktapreview.com
+https://bugcrowd-oie-%username%-2.workflows.oktapreview.com
+https://bugcrowd-pam-###.workflows.oktapreview.com
+Desktop MFA for Windows
+Desktop MFA for macOS
+Password Sync for macOS
+https://support.okta.com
+bugcrowd-oie-%username%-1.at.oktapreview.com
+bugcrowd-oie-%username%-2.at.oktapreview.com
+https://bugcrowd-pam-###.at.oktapreview.com
+bugcrowd-oie-%username%-1.oktapreview.com
+bugcrowd-oie-%username%-2.oktapreview.com
+https://bugcrowd-pam-###.oktapreview.com
+https://www.okta.com/fastpass/
+https://www.okta.com/products/advanced-server-access/
+http://app.scaleft.com/
+https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
+https://apps.apple.com/us/app/okta-verify/id490179405
+https://play.google.com/store/apps/details?id=com.okta.android.auth&hl=en_US&gl=US
+https://apps.apple.com/us/app/okta-verify/id490179405
+Okta Verify (Windows)
+Okta On-Prem Agents ( AD, LDAP, RDP, IWA )
+https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows.htm
+https://help.okta.com/en/prod/Content/Topics/Settings/download-browser-plugin.htm
 https://pentest-app.onetrust.com/
 https://opensea.io/
 https://pro.opensea.io/
@@ -1576,6 +1595,9 @@ Latest ZAP version (2.15.0)
 https://dashboard.pantheon.io
 https://devstaging.pcapcloud.com/*
 https://www.pexels.com/
+██████████████
+██████████████
+██████████████████
 api.pinterest.com
 https://apps.apple.com/us/app/pinterest/id429047995
 https://play.google.com/store/apps/details?id=com.pinterest&hl=en_US&gl=US
@@ -1636,19 +1658,6 @@ beta.rarible.com
 https://rarible.com/
 rari.foundation
 https://mintle.x.rarible.com/
-https://store.playstation.com/en-us/product/UP2662-PPSA05532_00-6681199027107223
-https://rec.net/
-https://apps.apple.com/app/id1450306065
-https://play.google.com/store/apps/details?id=com.AgainstGravity.RecRoom
-https://store.playstation.com/en-us/product/UP2662-CUSA08481_00-RECROOM000000001
-https://www.xbox.com/en-us/games/store/rec-room/9pgpqk0xthrz
-https://www.oculus.com/experiences/quest/2173678582678296
-https://store.steampowered.com/app/471710/Rec_Room/
-https://www.oculus.com/experiences/rift/1257029974329451
-https://api.rec.net
-https://rec.net/download
-https://recroom.com/studio
-https://devportal.rec.net/
 https://store.playstation.com/en-us/product/UP2662-PPSA05532_00-6681199027107223
 https://rec.net/
 https://apps.apple.com/app/id1450306065
@@ -1743,6 +1752,21 @@ https://play.google.com/store/apps/details?id=com.fcagroup.us.uconnect
 https://itunes.apple.com/us/app/uconnect/id1229236724?mt=8
 https://itunes.apple.com/pl/app/panda-uconnect/id1117321678?mt=8
 https://itunes.apple.com/gb/app/uconnect-live/id881830261?mt=8
+https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1214110/courses-and-quizzes-lms-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1210934/awesome-graphs-for-bitbucket?hosting=cloud
+https://marketplace.atlassian.com/apps/1210934/awesome-graphs-for-bitbucket?hosting=server
+https://marketplace.atlassian.com/apps/1210934/awesome-graphs-for-bitbucket?hosting=datacenter
+https://marketplace.atlassian.com/apps/1222084/spreadsheet-issue-field-editor?hosting=cloud
+https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=datacenter
+https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=server
+https://marketplace.atlassian.com/apps/1212507/smart-attachments-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1212531/customer-case-jira-support-feedback?hosting=cloud
+https://marketplace.atlassian.com/apps/1210766/teamcity-integration-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1214971/handy-macros-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1222102/webhook-manager-for-confluence-cloud?hosting=cloud
+https://marketplace.atlassian.com/apps/1222001/employee-performance-ratings?hosting=cloud
+https://marketplace.atlassian.com/apps/1224994/poll-maker-for-confluence?hosting=cloud
 Self Register Account on T-Mobile Microsoft Entra ID
 Cellular Network Auth Bypass via Web/Mobile App
 T&P Servers
@@ -1775,6 +1799,18 @@ https://play.google.com/store/apps/details?id=com.tmobile.syncuptag
 https://digits.t-mobile.com/
 https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
 https://play.google.com/store/apps/details?id=com.tmobile.tuesdays&hl=en_US&gl=US
+████████████████████████████
+██████████████████████
+████████████████████████████
+███████████████████████
+██████████████████
+██████████████████
+███████████████████████
+████████████████████████
+████████████████████████████████
+█████████████████████████████
+███████████████████████████████████
+███████████████████████
 https://biocorellc.com
 https://tempus-ex.com
 https://infiniteathlete.ai
@@ -1857,6 +1893,30 @@ https://www.underarmournext.co.uk/
 https://underarmournext.com/
 https://mapmyfitness.api.ua.com
 https://consumer-sustainability.underarmour.com/en
+https://www.unity.com/
+https://id.unity.com
+https://api.unity.com
+https://dashboard.unity3d.com
+https://syncsketch.dev
+https://store.unity.com
+https://pay.unity.com
+https://analytics.cloud.unity3d.com
+player-login.unity.com
+https://unity3d.com/get-unity/download/archive
+https://unity3d.com/get-unity/download
+https://www.upwork.com
+Upwork - Android Application
+Upwork - iOS Application
+Upwork Dash Messenger Desktop Version (www.upwork.com/downloads)
+www.upwork.com/api 
+Direct Contracts
+api.upwork.com/graphql
+Upwork - Desktop Application 
+Upwork - Marketplace Portal
+Upwork - Messages
+Upwork - Mobile Application IOS
+Upwork - Mobile Application Android
+Upwork - api.upwork.com/graphql
 https://www.usaa.com
 https://mobile.usaa.com
 https://api.usaa.com/
@@ -1926,6 +1986,60 @@ https://www.networksolutions.com
 https://uk.web.com
 https://www.bluehost.com/
 https://www.hostgator.com/
+https://www.westernunion.com
+https://www2.westernunion.com
+https://www.westernunion.fr
+https://www.westernunion.de
+https://www.westernunion.no
+https://www.westernunion.se
+https://www.westernunion.ca
+https://www.westernunion.nl
+https://www.westernunion.es
+https://www.westernunion.ie
+https://www.westernunion.ch
+https://www.westernunion.pt
+https://www.westernunion.be
+https://www.westernunion.dk
+https://www.westernunion.fi
+https://www.westernunion.pl
+https://www.westernunion.ee
+https://www.westernunion.lu
+https://www.westernunion.gr
+https://www.westernunion.at
+https://www.westernunion.it
+https://www.westernunion.co.nz
+https://www.westernunion.co.uk
+https://www.westernunion.com.au
+https://cuba.westernunion.com
+https://egypt.westernunion.com
+https://hk.westernunion.com
+https://india.westernunion.com
+https://jamaica.westernunion.com
+https://location.westernunion.com
+https://m.westernunion.com
+https://senegal.westernunion.com
+https://sg.westernunion.com
+https://wuagentportal.westernunion.com
+https://agentportal.westernunion.com
+https://westernunionbank.com
+https://ebanking.westernunionbank.com
+https://transvision.westernunion.com
+https://partnernet.westernunion.com
+https://iwgo.westernunion.com
+http://agenttraining.westernunion.com
+https://paymentstatus.westernunion.com
+https://foundation.westernunion.com
+https://partners.westernunion.com
+https://wucare.westernunion.com
+https://secure.westernunion.com
+https://corporate.westernunion.com
+https://apps.apple.com/us/app/western-union-transfer-money/id424716908
+https://play.google.com/store/apps/details?id=com.westernunion.android.mtapp&hl=en_US&gl=US
+https://wuinsights.westernunion.com
+https://remoteaccess.westernunion.com
+https://secureauth.westernunion.com
+mydesktop.wu.com
+Any host or verified to be owned by Western Union (domains/IP space/etc.)
 Researcher owned WHMCS Instance
 https://transferwise.com
 https://wise.com
@@ -1961,60 +2075,11 @@ xFi Pods
 https://csp-prod.codebig2.net
 csp-pci.prod.codebig2.net
 aiq-prod.codebig2.net
+https://bc.yieldstreet.net
 staging-app.bany.dev
 █████████████████████
 ████████████
 https://financialforce.com
-Insight Android App
-Insight Cloud Portal
-Insight Managed Smart Cloud Wireless Access Point
-Insight iOS App
-Meural
-Nighthawk Android App
-Nighthawk Pro Gaming Router
-Nighthawk Pro Gaming Switch
-Nighthawk Router
-Nighthawk Switch
-Nighthawk iOS App
-Orbi 
-Orbi Android App 
-Orbi iOS App 
-https://api.netgear.com
-Advanced Server Access (ASA) / (ScaleFT)
-Advanced Server Access Client / Agents
-Desktop MFA for Windows
-Desktop MFA for macOS
-Okta Agent Windows
-Okta Browser Plugin (IE / Firefox / Chrome)
-Okta On-Prem Agents ( AD, LDAP, RDP, IWA )
-Okta Verify (Android)
-Okta Verify (Mac OS)
-Okta Verify (Windows)
-Okta Verify (iOS)
-Okta Verify Fastpass
-Password Sync for macOS
-bugcrowd-oie-%username%-1.at.oktapreview.com
-bugcrowd-oie-%username%-1.oktapreview.com
-bugcrowd-oie-%username%-2.at.oktapreview.com
-bugcrowd-oie-%username%-2.oktapreview.com
-bugcrowd-pam-###.oktapreview.com
-bugcrowd-pam-###.pam.oktapreview.com
-http://app.scaleft.com/
-https://apps.apple.com/us/app/okta-verify/id490179405
-https://apps.apple.com/us/app/okta-verify/id490179405
-https://bugcrowd-oie-%username%-1.workflows.oktapreview.com
-https://bugcrowd-oie-%username%-2.workflows.oktapreview.com
-https://bugcrowd-pam-###.at.oktapreview.com
-https://bugcrowd-pam-###.oktapreview.com
-https://bugcrowd-pam-###.workflows.oktapreview.com
-https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
-https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows.htm
-https://help.okta.com/en/prod/Content/Topics/Settings/download-browser-plugin.htm
-https://play.google.com/store/apps/details?id=com.okta.android.auth&hl=en_US&gl=US
-https://support.okta.com
-https://www.okta.com/fastpass/
-https://www.okta.com/products/advanced-server-access/
-support.okta.com
 ChatGPT
 ChatGPT Plugins
 Developer Platform Playground
@@ -2092,41 +2157,6 @@ walletproxy.tapayments.com
 walletproxy1.tapayments.com
 walletproxy2.tapayments.com
 www.tripadvisor.com
-Latest Supported LTS versions of the Unity Editor ( 2020.x / 2021.x / 2022.x ) 
-Unity Hub
-analytics.cloud.unity3d.com
-api.unity.com
-dashboard.unity3d.com
-https://analytics.cloud.unity3d.com
-https://api.unity.com
-https://dashboard.unity3d.com
-https://id.unity.com
-https://pay.unity.com
-https://store.unity.com
-https://syncsketch.dev
-https://unity3d.com/get-unity/download
-https://unity3d.com/get-unity/download/archive
-https://www.unity.com/
-id.unity.com
-pay.unity.com
-player-login.unity.com
-store.unity.com
-syncsketch.dev
-www.unity3d.com
-Direct Contracts
-Upwork - Android Application
-Upwork - Desktop Application 
-Upwork - Marketplace Portal
-Upwork - Messages
-Upwork - Mobile Application Android
-Upwork - Mobile Application IOS
-Upwork - api.upwork.com/graphql
-Upwork - iOS Application
-Upwork Dash Messenger Desktop Version (www.upwork.com/downloads)
-api.upwork.com/graphql
-https://www.upwork.com
-www.upwork.com
-www.upwork.com/api 
 Android Viator Tours & Activities App
 https://apps.apple.com/us/app/viator-tours-activities/id434832826
 https://help.supplier.viator.com/en
@@ -2146,70 +2176,3 @@ kiwi.partner.viator.com
 partnerhelp.viator.com/
 selector.viator.com
 travelagents.viator.com
-Any host or verified to be owned by Western Union (domains/IP space/etc.)
-Western Union Android app (link below)
-Western Union iOS app (link below)
-corporate.westernunion.com
-http://agenttraining.westernunion.com
-https://agentportal.westernunion.com
-https://apps.apple.com/us/app/western-union-transfer-money/id424716908
-https://corporate.westernunion.com
-https://cuba.westernunion.com
-https://ebanking.westernunionbank.com
-https://egypt.westernunion.com
-https://foundation.westernunion.com
-https://hk.westernunion.com
-https://india.westernunion.com
-https://iwgo.westernunion.com
-https://jamaica.westernunion.com
-https://location.westernunion.com
-https://m.westernunion.com
-https://partnernet.westernunion.com
-https://partners.westernunion.com
-https://partners.westernunion.com 
-https://paymentstatus.westernunion.com
-https://play.google.com/store/apps/details?id=com.westernunion.android.mtapp&hl=en_US&gl=US
-https://remoteaccess.westernunion.com
-https://secure.westernunion.com
-https://secureauth.westernunion.com
-https://senegal.westernunion.com
-https://sg.westernunion.com
-https://transvision.westernunion.com
-https://westernunionbank.com
-https://wuagentportal.westernunion.com
-https://wucare.westernunion.com
-https://wuinsights.westernunion.com
-https://www.westernunion.at
-https://www.westernunion.be
-https://www.westernunion.ca
-https://www.westernunion.ch
-https://www.westernunion.co.nz
-https://www.westernunion.co.uk
-https://www.westernunion.com
-https://www.westernunion.com.au
-https://www.westernunion.de
-https://www.westernunion.dk
-https://www.westernunion.ee
-https://www.westernunion.es
-https://www.westernunion.fi
-https://www.westernunion.fr
-https://www.westernunion.gr
-https://www.westernunion.ie
-https://www.westernunion.it
-https://www.westernunion.lu
-https://www.westernunion.nl
-https://www.westernunion.no
-https://www.westernunion.pl
-https://www.westernunion.pt
-https://www.westernunion.se
-https://www2.westernunion.com
-https://www2.westernunion.com 
-iwgo.westernunion.com
-mydesktop.wu.com
-partnernet.westernunion.com
-remoteaccess.westernunion.com
-secure.westernunion.com
-secureauth.westernunion.com
-transvision.westernunion.com
-wucare.westernunion.com
-wuinsights.westernunion.com

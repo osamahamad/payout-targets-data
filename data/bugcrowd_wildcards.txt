@@ -1,20 +1,18 @@
-*.arlo.com
-*.arloxcld.com
-*.central.arubanetworks.com
 *.atlastunnel.com
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 *.atlastunnel.com
-*.cic-bug-bounty.auth0app.com
+*.arlo.com
+*.arloxcld.com
+*.central.arubanetworks.com
 *.asana.biz
 *.app.asana.com
+*.cic-bug-bounty.auth0app.com
 *.tube8.com
 *.trafficjunky.com
 *.adultforce.com
 *.backblazeb2.com
 *.YOUR-TESTING-STORE.mybigcommerce.com/
-*.bitdefender.net
-*.bitdefender.com
 *.bitdefender.net
 *.bitdefender.com
 *.bitstamp.net - Bitstamp Supporting Services
@@ -131,6 +129,7 @@ prod-*.nu.com.co
 *.api.originenergy.com.au
 *.download.originenergy.com.au
 *.pinterest.com Web Apps
+*.points.com
 *.privateinternetaccess.com
 *.quizlet.com
 *.slader.com
@@ -144,7 +143,6 @@ prod-*.nu.com.co
 *.kortathjonustan.is
 *.neat.hk
 *.neat.wtf
-*.rec.net/*
 *.rec.net/*
 *.seek.com.au
 *.skinfra.xyz
@@ -183,6 +181,8 @@ api-*.soundcloud.com
  Twilio CDNs (static*.twilio.com)
 *.gtld-servers.net (DNS service; DNS related)
 *.verisign-grs.com (DNS service; DNS related)
+*.westernunion.*
+*.wu.*
 *.transferwise.com
 *.wise.com
 *-cvr-aws-*.sys.comcast.net
@@ -200,8 +200,6 @@ xhomeapi-*.cloud.comcast.net
 *.openai.org
 *.openai.org
 *.opsgenie.com
-*.points.com
-*.points.com
 *.statuspage.io
 *.trello.services
 *.bokundemo.com
@@ -222,5 +220,3 @@ xhomeapi-*.cloud.comcast.net
 *.viatorinc.com
 *.viator.com
 *.viatorinc.com
-*.westernunion.*
-*.wu.*
