@@ -32,6 +32,7 @@
 *.adobeaemcloud.com
 *.adobeconnect.com
 *.adobecqms.net
+*.adultforce.com
 *.advisorsolutions.gs.com
 *.aips-internal.com
 *.airbnb-aws.com
@@ -119,6 +120,8 @@
 *.bingx.pro
 *.bionic.ai
 *.bistro.sk
+*.bitdefender.com
+*.bitdefender.net
 *.bitforex.com
 *.bitkub.com
 *.bitmart.com
@@ -472,7 +475,6 @@
 *.line.naver.jp
 *.linecorp.com
 *.link.co
-*.linktree-extensions.com
 *.livestream.com
 *.logi.com
 *.login.gov
@@ -823,6 +825,7 @@
 *.toolsforhumanity.com
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
+*.trafficjunky.com
 *.transferwise.com
 *.travelbook.de
 *.travelocity.ca
@@ -958,6 +961,9 @@ matrix.agent.*.tchap.gouv.fr
 munin-*.wordpress.org
 onboarding-*.cloud.com
 open redirect at *.epam.com
+prod-*.nu.com.co
+prod-*.nu.com.mx
+prod-*.nubank.com.br
 qm-*.8x8.com
 support*.earlywarning.com
 swiss-backup*.infomaniak.com
