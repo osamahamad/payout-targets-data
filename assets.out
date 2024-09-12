@@ -849,7 +849,6 @@
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trafficjunky.com
-*.transferwise.com
 *.travelbook.de
 *.travelocity.ca
 *.travelocity.com
@@ -926,7 +925,6 @@
 *.white.market
 *.whois.eu
 *.wimpmusic.com
-*.wise.com
 *.wissen-sie-mehr.de
 *.withairbnb.com
 *.withbuddies.com
@@ -1234,7 +1232,6 @@ API Shield
 AS41690
 AWS Infrastructure
 AWS Service Catalog for JSM Cloud - Cloud - https://marketplace.atlassian.com/apps/1221551/aws-service-catalog-for-jsm-cloud?hosting=cloud
-AWS infrastructure and services in use by Wise (eg: S3 buckets)
 Account Settings
 Acronis Agent
 Acronis Cloud Manager
@@ -1650,6 +1647,8 @@ Distiller
 Dovecot IMAP Server and Pigeonhole SIEVE (see "Software packages" and "Source code")
 Dreamweaver
 Drogas (subdomains)
+Drogas.Latvia.Android
+Drogas.Latvia.iOS
 Dynatrace ActiveGate
 Dynatrace MobileAgent
 Dynatrace OneAgent
@@ -4424,7 +4423,6 @@ https://apps.apple.com/us/app/under-armour/id1092704571
 https://apps.apple.com/us/app/usaa-mobile/id312325565
 https://apps.apple.com/us/app/viator-tours-activities/id434832826
 https://apps.apple.com/us/app/western-union-transfer-money/id424716908
-https://apps.apple.com/us/app/wise-ex-transferwise/id612261027
 https://apps.apple.com/us/app/xfinity/id1178765645
 https://apps.apple.com/vc/app/moneytree-finance-made-easy/id586847189
 https://apps.facebook.com/pearls-peril
@@ -5386,7 +5384,6 @@ https://github.com/tetu-io/tetu-contracts-v2/blob/master/contracts/vault/Strateg
 https://github.com/tetu-io/tetu-contracts-v2/blob/master/contracts/vault/TetuVaultV2.sol
 https://github.com/tetu-io/tetu-contracts-v2/blob/master/contracts/vault/VaultInsurance.sol
 https://github.com/tetu-io/tetu-contracts-v2/blob/master/contracts/ve/VeTetu.sol
-https://github.com/transferwise/*
 https://github.com/tronprotocol/java-tron
 https://github.com/trustwallet/wallet-core/
 https://github.com/valvesoftware
@@ -6140,7 +6137,6 @@ https://play.google.com/store/apps/details?id=com.tmobile.kids
 https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
 https://play.google.com/store/apps/details?id=com.tmobile.syncuptag
 https://play.google.com/store/apps/details?id=com.tmobile.tuesdays&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.trusteeplus
 https://play.google.com/store/apps/details?id=com.ua.shop&hl=en
 https://play.google.com/store/apps/details?id=com.usaa.mobile.android.usaa&hl=en
@@ -6382,7 +6378,6 @@ https://tr.ee
 https://tracker.bugcrowd.com
 https://tracker.naspers.com/
 https://trade.bluefin.io/
-https://transferwise.com
 https://translate.elementor.com/
 https://transvision.westernunion.com
 https://travelagents.viator.com
@@ -6470,7 +6465,6 @@ https://webrtc.8x8.com/
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
 https://westernunionbank.com
 https://wiki.xenproject.org/wiki/Xen_Project_Repositories
-https://wise.com
 https://world.planethoster.net
 https://wowjobs.ca
 https://ws-{app-id}.calls.sendbird.com
