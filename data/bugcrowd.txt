@@ -2043,12 +2043,6 @@ https://secureauth.westernunion.com
 mydesktop.wu.com
 Any host or verified to be owned by Western Union (domains/IP space/etc.)
 Researcher owned WHMCS Instance
-https://transferwise.com
-https://wise.com
-https://apps.apple.com/us/app/wise-ex-transferwise/id612261027
-https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&gl=US
-AWS infrastructure and services in use by Wise (eg: S3 buckets)
-https://github.com/transferwise/*
 https://api.woo.org/
 https://x.woo.org/
 https://play.google.com/store/apps/details?id=network.woo.mobile&hl=en&gl=US&pli=1
@@ -2077,6 +2071,7 @@ xFi Pods
 https://csp-prod.codebig2.net
 csp-pci.prod.codebig2.net
 aiq-prod.codebig2.net
+https://bc.yieldstreet.net
 https://bc.yieldstreet.net
 staging-app.bany.dev
 █████████████████████
