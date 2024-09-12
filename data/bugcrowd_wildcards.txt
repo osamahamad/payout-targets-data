@@ -129,7 +129,6 @@ prod-*.nu.com.co
 *.support.originenergy.com.au
 *.api.originenergy.com.au
 *.download.originenergy.com.au
-*.pinterest.com Web Apps
 *.points.com
 *.privateinternetaccess.com
 *.quizlet.com
@@ -184,6 +183,8 @@ api-*.soundcloud.com
 *.verisign-grs.com (DNS service; DNS related)
 *.westernunion.*
 *.wu.*
+*.transferwise.com
+*.wise.com
 *.transferwise.com
 *.wise.com
 *-cvr-aws-*.sys.comcast.net

@@ -1601,14 +1601,6 @@ https://www.pexels.com/
 ██████████████
 ██████████████
 ██████████████████
-api.pinterest.com
-https://apps.apple.com/us/app/pinterest/id429047995
-https://play.google.com/store/apps/details?id=com.pinterest&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.pinterest.twa&hl=en_US&gl=US
-https://microsoftedge.microsoft.com/addons/detail/pinterest-save-button/bkgoflemacdadndiohhdnphcmdhacabg
-https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en
-https://addons.mozilla.org/en-US/firefox/addon/pinterest/
-https://github.com/pinterest/
 https://pixabay.com/
 https://my.planethoster.com
 https://api.planethoster.net
@@ -1674,6 +1666,15 @@ https://api.rec.net
 https://rec.net/download
 https://recroom.com/studio
 https://devportal.rec.net/
+https://api.thesecurityteam.rocks
+https://api.anytask.thesecurityteam.rocks
+https://anytask.thesecurityteam.rocks
+https://my.thesecurityteam.rocks
+https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
+https://apps.apple.com/us/app/electroneum/id1270774992
+https://github.com/electroneum/electroneum/
+https://legacy-blockexplorer.electroneum.com
+https://public.thesecurityteam.rocks/resources/app/android/etnapp-5.2.2-staging.apk
 https://api.thesecurityteam.rocks
 https://api.anytask.thesecurityteam.rocks
 https://anytask.thesecurityteam.rocks
@@ -2050,6 +2051,12 @@ https://apps.apple.com/us/app/wise-ex-transferwise/id612261027
 https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&gl=US
 AWS infrastructure and services in use by Wise (eg: S3 buckets)
 https://github.com/transferwise/*
+https://transferwise.com
+https://wise.com
+https://apps.apple.com/us/app/wise-ex-transferwise/id612261027
+https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&gl=US
+AWS infrastructure and services in use by Wise (eg: S3 buckets)
+https://github.com/transferwise/*
 https://api.woo.org/
 https://x.woo.org/
 https://play.google.com/store/apps/details?id=network.woo.mobile&hl=en&gl=US&pli=1
@@ -2078,7 +2085,6 @@ xFi Pods
 https://csp-prod.codebig2.net
 csp-pci.prod.codebig2.net
 aiq-prod.codebig2.net
-https://bc.yieldstreet.net
 staging-app.bany.dev
 █████████████████████
 ████████████
