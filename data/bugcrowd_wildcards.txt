@@ -31,6 +31,8 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.cyberghost.com
 *.dell.com/*
 *.delltechnologies.com/* 
+*.dell.com/*
+*.delltechnologies.com/* 
 *.sandbox.directly.com/
 *.dropbox.com    
 *.hellosign.com
@@ -156,7 +158,6 @@ prod-*.nu.com.co
 *.aips-internal.com
 *.certsy.com
 *.certsynonprod.com
-*.mcssl.com
 *.skyscanner.net
 *.sophos.com
 *.cyberoam.com
