@@ -640,6 +640,7 @@
 *.personiowhistleblowing.com
 *.petbook-magazine.com/
 *.petbook.de
+*.pinterest.com Web Apps
 *.platformservices.io
 *.playstation.net
 *.playtika.com
@@ -2825,6 +2826,7 @@ api.ninjakiwi.com
 api.omise.co
 api.openai.com
 api.ovh.com
+api.pinterest.com
 api.pns.hk
 api.poloniex.com
 api.portofantwerp.com
@@ -4126,6 +4128,7 @@ https://accounts.opera.com
 https://accounts.welcomesoftware.com/
 https://acorns.com/
 https://addons.mozilla.org/en-US/firefox/addon/cyberghost-vpn-free-proxy/
+https://addons.mozilla.org/en-US/firefox/addon/pinterest/
 https://addons.mozilla.org/en-US/firefox/addon/private-internet-access-ext/
 https://addons.opera.com/en/extensions/details/private-internet-access-extension/
 https://adhoc-bugcrowd-studio.cdn-code.org
@@ -4163,7 +4166,6 @@ https://analytics-admin.prosus.com
 https://analytics.cloud.unity3d.com
 https://analytics.neogov.com
 https://analytics.welcomesoftware.com/
-https://anytask.thesecurityteam.rocks
 https://anytask.thesecurityteam.rocks/
 https://api-a.usaa.com
 https://api-ch-gva-2.exoscale.com/v2
@@ -4182,7 +4184,6 @@ https://api-{app-id}.sendbird.com
 https://api.20min.ch/
 https://api.aiven.io/login
 https://api.anytask.com/
-https://api.anytask.thesecurityteam.rocks
 https://api.big.one/
 https://api.bitpanda.com
 https://api.bitstorage.finance/
@@ -4240,7 +4241,6 @@ https://api.slex.io
 https://api.staging.luno.com/
 https://api.t-mobile.com
 https://api.test.latitudefinancial.com
-https://api.thesecurityteam.rocks
 https://api.thousandeyes.com/
 https://api.toobit.com/
 https://api.toom.de
@@ -4398,6 +4398,7 @@ https://apps.apple.com/us/app/okcoin-bitcoin-trading-exch/id867444712?mt=8
 https://apps.apple.com/us/app/okta-verify/id490179405
 https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
 https://apps.apple.com/us/app/paper-by-dropbox/id1126623662
+https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/pionex/id1485348891
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
@@ -4597,6 +4598,7 @@ https://chatspot.ai
 https://chrome.coin98.com
 https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad
 https://chrome.google.com/webstore/detail/ibotta-browser-extension/mfaedmjlefifhnhpgipjjiiekchaimpk?hl=en-US
+https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en
 https://chrome.google.com/webstore/detail/private-internet-access/jplnlifepflhkbkgonidnobkakhmpnmh
 https://chrome.google.com/webstore/detail/stay-secure-with-cybergho/ffbkglfijbcbgblgflchnbphjdllaogb
 https://chrome.google.com/webstore/detail/xverse-wallet/idnnbdplmphpflfnlkomgpfbpcgelopg
@@ -5137,7 +5139,6 @@ https://github.com/digitalocean/terraform-provider-digitalocean
 https://github.com/discourse/discourse
 https://github.com/django
 https://github.com/electroneum/electroneum-sc/
-https://github.com/electroneum/electroneum/
 https://github.com/endojs
 https://github.com/endojs/endo/tree/master/packages/ses
 https://github.com/enkryptcom/enKrypt
@@ -5328,6 +5329,7 @@ https://github.com/owncloud/user_ldap
 https://github.com/pendulum-project/clock-steering
 https://github.com/pendulum-project/ntpd-rs
 https://github.com/pendulum-project/timestamped-socket
+https://github.com/pinterest/
 https://github.com/pixiv/charcoal
 https://github.com/plaid/plaid-link-android
 https://github.com/plaid/plaid-link-examples
@@ -5509,7 +5511,6 @@ https://latitudeinfinity.com.au
 https://lbu.eu-west-2.outscale.com
 https://learn.neogov.com
 https://learn.newrelic.com/
-https://legacy-blockexplorer.electroneum.com
 https://lego.yellowblocks.me/
 https://lensstudio.snapchat.com/api/
 https://letsexchange.io/
@@ -5875,6 +5876,7 @@ https://metamask.github.io/phishing-warning/<vX.Y.Z>
 https://metrobyt-mobile.com
 https://mg.n0c.com/
 https://mguest.usaa.com/
+https://microsoftedge.microsoft.com/addons/detail/pinterest-save-button/bkgoflemacdadndiohhdnphcmdhacabg
 https://minted.network/
 https://mintle.x.rarible.com/
 https://mintmobile.com
@@ -5906,7 +5908,6 @@ https://my.monash
 https://my.planethoster.com
 https://my.salt.ch
 https://my.sogexia.com
-https://my.thesecurityteam.rocks
 https://my.thesecurityteam.rocks/
 https://my.wyze.com
 https://myaccount-staging.getmoneytree.com
@@ -6104,6 +6105,8 @@ https://play.google.com/store/apps/details?id=com.pinelabs.emicatalogue.pinelabs
 https://play.google.com/store/apps/details?id=com.pinelabs.fave
 https://play.google.com/store/apps/details?id=com.pinelabs.favebiz
 https://play.google.com/store/apps/details?id=com.pinelabs.pinelabsone
+https://play.google.com/store/apps/details?id=com.pinterest&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.pinterest.twa&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.pionex.client&referrer=utm_source%3Dofficialweb
 https://play.google.com/store/apps/details?id=com.planet.toobit&pli=1
 https://play.google.com/store/apps/details?id=com.pointpay.bank
@@ -6216,7 +6219,6 @@ https://profile.pentest.clicsante.ca
 https://projects.epam.com
 https://public-ipfs-mainnet.ternoa.network
 https://public.je-apis.com
-https://public.thesecurityteam.rocks/resources/app/android/etnapp-5.2.2-staging.apk
 https://rarible.com/
 https://rbo.raiffeisen.ua/
 https://rc.fstr.rocks
