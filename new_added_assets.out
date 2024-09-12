@@ -1,2 +1,8 @@
-Drogas.Latvia.Android
-Drogas.Latvia.iOS
+*.transferwise.com
+*.wise.com
+AWS infrastructure and services in use by Wise (eg: S3 buckets)
+https://apps.apple.com/us/app/wise-ex-transferwise/id612261027
+https://github.com/transferwise/*
+https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&gl=US
+https://transferwise.com
+https://wise.com
