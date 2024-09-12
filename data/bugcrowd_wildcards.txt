@@ -54,6 +54,7 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.expressvpn.com
 *.xvservice.net
 *.xvtest.net
+*.certinia.com
 *.hubspotemail.net
 *.hs-sites(-eu1)?.com
 *.hubspotpagebuilder.com
@@ -183,6 +184,8 @@ api-*.soundcloud.com
 *.verisign-grs.com (DNS service; DNS related)
 *.westernunion.*
 *.wu.*
+*.transferwise.com
+*.wise.com
 *-cvr-aws-*.sys.comcast.net
 *.dh-commerce.com 
 *.ssr.ccp.xcal.tv 
@@ -190,9 +193,6 @@ api-*.soundcloud.com
 xhomeapi-*.codebig2.net
 xhomeapi-*.cloud.comcast.net
 *.xfinityhome.com
-*.certinia.com
-*.financialforce.com
-*.certinia.com
 *.openai.com
 *.openai.org
 *.openai.org
