@@ -849,7 +849,6 @@
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trafficjunky.com
-*.transferwise.com
 *.travelbook.de
 *.travelocity.ca
 *.travelocity.com
@@ -926,7 +925,6 @@
 *.white.market
 *.whois.eu
 *.wimpmusic.com
-*.wise.com
 *.wissen-sie-mehr.de
 *.withairbnb.com
 *.withbuddies.com
@@ -1234,7 +1232,6 @@ API Shield
 AS41690
 AWS Infrastructure
 AWS Service Catalog for JSM Cloud - Cloud - https://marketplace.atlassian.com/apps/1221551/aws-service-catalog-for-jsm-cloud?hosting=cloud
-AWS infrastructure and services in use by Wise (eg: S3 buckets)
 Account Settings
 Acronis Agent
 Acronis Cloud Manager
@@ -4166,6 +4163,7 @@ https://analytics-admin.prosus.com
 https://analytics.cloud.unity3d.com
 https://analytics.neogov.com
 https://analytics.welcomesoftware.com/
+https://anytask.thesecurityteam.rocks
 https://anytask.thesecurityteam.rocks/
 https://api-a.usaa.com
 https://api-ch-gva-2.exoscale.com/v2
@@ -4184,6 +4182,7 @@ https://api-{app-id}.sendbird.com
 https://api.20min.ch/
 https://api.aiven.io/login
 https://api.anytask.com/
+https://api.anytask.thesecurityteam.rocks
 https://api.big.one/
 https://api.bitpanda.com
 https://api.bitstorage.finance/
@@ -4241,6 +4240,7 @@ https://api.slex.io
 https://api.staging.luno.com/
 https://api.t-mobile.com
 https://api.test.latitudefinancial.com
+https://api.thesecurityteam.rocks
 https://api.thousandeyes.com/
 https://api.toobit.com/
 https://api.toom.de
@@ -4419,7 +4419,6 @@ https://apps.apple.com/us/app/under-armour/id1092704571
 https://apps.apple.com/us/app/usaa-mobile/id312325565
 https://apps.apple.com/us/app/viator-tours-activities/id434832826
 https://apps.apple.com/us/app/western-union-transfer-money/id424716908
-https://apps.apple.com/us/app/wise-ex-transferwise/id612261027
 https://apps.apple.com/us/app/xfinity/id1178765645
 https://apps.apple.com/vc/app/moneytree-finance-made-easy/id586847189
 https://apps.facebook.com/pearls-peril
@@ -4480,6 +4479,7 @@ https://basescan.org/address/0x7240aac0f57fa0126c107673597ce3cd5b907e38
 https://basescan.org/address/0xa5d378c05192e3f1f365d6298921879c4d51c5a3
 https://basescan.org/address/0xd978bb7a7ae5b01116d1bd714fedd1b77ca9e75b
 https://basescan.org/address/0xdd4536dD9636564D891c919416880a3e250f975A
+https://bc.yieldstreet.net
 https://beta.arlo.com
 https://bigcommerce.com/blog
 https://bigcommerce.com/make-it-big
@@ -5139,6 +5139,7 @@ https://github.com/digitalocean/terraform-provider-digitalocean
 https://github.com/discourse/discourse
 https://github.com/django
 https://github.com/electroneum/electroneum-sc/
+https://github.com/electroneum/electroneum/
 https://github.com/endojs
 https://github.com/endojs/endo/tree/master/packages/ses
 https://github.com/enkryptcom/enKrypt
@@ -5379,7 +5380,6 @@ https://github.com/tetu-io/tetu-contracts-v2/blob/master/contracts/vault/Strateg
 https://github.com/tetu-io/tetu-contracts-v2/blob/master/contracts/vault/TetuVaultV2.sol
 https://github.com/tetu-io/tetu-contracts-v2/blob/master/contracts/vault/VaultInsurance.sol
 https://github.com/tetu-io/tetu-contracts-v2/blob/master/contracts/ve/VeTetu.sol
-https://github.com/transferwise/*
 https://github.com/tronprotocol/java-tron
 https://github.com/trustwallet/wallet-core/
 https://github.com/valvesoftware
@@ -5511,6 +5511,7 @@ https://latitudeinfinity.com.au
 https://lbu.eu-west-2.outscale.com
 https://learn.neogov.com
 https://learn.newrelic.com/
+https://legacy-blockexplorer.electroneum.com
 https://lego.yellowblocks.me/
 https://lensstudio.snapchat.com/api/
 https://letsexchange.io/
@@ -5908,6 +5909,7 @@ https://my.monash
 https://my.planethoster.com
 https://my.salt.ch
 https://my.sogexia.com
+https://my.thesecurityteam.rocks
 https://my.thesecurityteam.rocks/
 https://my.wyze.com
 https://myaccount-staging.getmoneytree.com
@@ -6131,7 +6133,6 @@ https://play.google.com/store/apps/details?id=com.tmobile.kids
 https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
 https://play.google.com/store/apps/details?id=com.tmobile.syncuptag
 https://play.google.com/store/apps/details?id=com.tmobile.tuesdays&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.trusteeplus
 https://play.google.com/store/apps/details?id=com.ua.shop&hl=en
 https://play.google.com/store/apps/details?id=com.usaa.mobile.android.usaa&hl=en
@@ -6219,6 +6220,7 @@ https://profile.pentest.clicsante.ca
 https://projects.epam.com
 https://public-ipfs-mainnet.ternoa.network
 https://public.je-apis.com
+https://public.thesecurityteam.rocks/resources/app/android/etnapp-5.2.2-staging.apk
 https://rarible.com/
 https://rbo.raiffeisen.ua/
 https://rc.fstr.rocks
@@ -6372,7 +6374,6 @@ https://tr.ee
 https://tracker.bugcrowd.com
 https://tracker.naspers.com/
 https://trade.bluefin.io/
-https://transferwise.com
 https://translate.elementor.com/
 https://transvision.westernunion.com
 https://travelagents.viator.com
@@ -6460,7 +6461,6 @@ https://webrtc.8x8.com/
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
 https://westernunionbank.com
 https://wiki.xenproject.org/wiki/Xen_Project_Repositories
-https://wise.com
 https://world.planethoster.net
 https://wowjobs.ca
 https://ws-{app-id}.calls.sendbird.com
