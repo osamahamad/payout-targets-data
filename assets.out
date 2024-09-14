@@ -100,8 +100,6 @@
 *.api.playstation.com
 *.app.asana.com
 *.app.spacelift.dev
-*.arlo.com
-*.arloxcld.com
 *.artstation.com
 *.asana.biz
 *.astaro.com
@@ -266,10 +264,14 @@
 *.dm.gg
 *.dmcdn.net
 *.dns.eu
+*.docsend.com
 *.doctolib.(fr|de|it|com|net)
 *.download.originenergy.com.au
 *.dpgmedia.be
 *.dpgmedia.nl
+*.dropbox.com    
+*.dropboxer.net
+*.dropboxforum.com
 *.dropmix.com
 *.dyson.com
 *.earlywarning.com
@@ -382,6 +384,9 @@
 *.hackerone-user-content.com/
 *.harmonixmusic.com
 *.harmonyremote.com
+*.hellofax.com
+*.hellosign.com
+*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.com
@@ -1322,33 +1327,6 @@ Application tunnels - Server - https://marketplace.atlassian.com/apps/1227901/ap
 Apps which are listed within this bot
 Archive Plugin for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1211094/archive-plugin-for-bitbucket-server?hosting=server
 Arkime
-Arlo
-Arlo All-In-One Sensor (Home Security System)
-Arlo Baby
-Arlo Base Station
-Arlo Bridge
-Arlo Cellular & Battery Backup (Home Security System)
-Arlo Chime / Chime 2
-Arlo Essential
-Arlo Floodlight
-Arlo Go / Go 2
-Arlo Home Security System
-Arlo Pro
-Arlo Pro 2
-Arlo Pro 3
-Arlo Pro 4
-Arlo Pro 5S
-Arlo Q / Q+
-Arlo Safe Android App
-Arlo Safe Button
-Arlo Safe iOS App
-Arlo Secure Android App
-Arlo Secure iOS App
-Arlo Security Light
-Arlo Ultra
-Arlo Video Doorbell
-Arlo Wire-Free Outdoor Siren (Home Security System)
-Arlo Wireless Video Doorbell
 Aruba AirWave AMP
 Aruba ClearPass Policy Manager
 Aruba EdgeConnect Enterprise
@@ -1388,6 +1366,7 @@ Assets - Tempo Integration - DataCenter - https://marketplace.atlassian.com/apps
 Assets Discovery - Cloud - https://marketplace.atlassian.com/apps/1214668/assets-discovery?hosting=cloud
 Assets Discovery - DataCenter - https://marketplace.atlassian.com/apps/1214668/assets-discovery?hosting=datacenter
 Assets Tempo Integration - Server - https://marketplace.atlassian.com/apps/1217751/assets-tempo-integration?hosting=server
+Assets labeled as in-scope
 Assign Reviewer Groups - Server - https://marketplace.atlassian.com/apps/1220798/assign-reviewer-groups?hosting=server
 Athenz
 Atlas for Jira Cloud - Cloud - https://marketplace.atlassian.com/apps/1228937/atlas-for-jira-cloud?hosting=cloud&tab=overview
@@ -1502,6 +1481,7 @@ Capture the Flag
 Card Aging Power-Up
 Card Repeater - https://trello.com/power-ups/57b47fb862d25a30298459b1/card-repeater
 Card Snooze - https://trello.com/power-ups/58dd18bdccfca7af8311792e/card-snooze
+Cellular Network Auth Bypass via Web/Mobile App
 Centralized license visibility - DataCenter - https://marketplace.atlassian.com/apps/1220745/centralized-license-visibility?hosting=datacenter
 Centralized license visibility - Server - https://marketplace.atlassian.com/apps/1220745/centralized-license-visibility?hosting=server
 Change Management Workflow for Jira Service Management - DataCenter - https://marketplace.atlassian.com/apps/1215175/change-management-workflow-for-jira-service-management?hosting=datacenter
@@ -1827,6 +1807,7 @@ Insight iOS App
 Intellectual Property on Public Domains
 Intelligent Canvas
 Intercept X Endpoint
+Internal Server via Internet Network
 Internet.xfinity.com
 Interoperability Issue in OpenPGP.js
 IoS
@@ -2234,6 +2215,7 @@ Scope Questions: Items not explicitly listed here
 Secondary Assets
 Security Vulnerability in OpenPGP.js's high-level API
 Security Vulnerability in the OpenPGP Standard
+Self Register Account on T-Mobile Microsoft Entra ID
 Sequoia git Specification
 Shared OpenPGP Certificate Directory
 Shido Network - Beta Testnet
@@ -2318,6 +2300,7 @@ Superdrug.App.IOS
 Superdrug.Healthera.App.Android
 SurveyMonkey - https://trello.com/power-ups/568c143d95adcd7308cbc3fb/surveymonkey
 System Specification
+T&P Servers
 TTC Connect
 TTC Connect APK
 TTC Connect Wallet
@@ -2739,6 +2722,7 @@ api.digitalocean.com
 api.direct.playstation.com
 api.doppler.com
 api.drogas.lv
+api.dropboxapi.com
 api.dyson.at
 api.dyson.be
 api.dyson.ch
@@ -4100,7 +4084,6 @@ http://www.rei.com/learn/expert-advice
 http://www.shopmarriott.com
 http://www.whynot.com/
 http://www1.domain.com/
-https://*-prod.arlo.com
 https://0-2744452194.s3.nbg01.de.dracoon.io
 https://1shoppingcart.com
 https://28degreescard.com.au
@@ -4111,6 +4094,7 @@ https://aax.com
 https://account-registration.monash.edu/
 https://account.bitpanda.com
 https://account.post.ch
+https://account.t-mobile.com
 https://account.teamviewer.com
 https://account.withings.com
 https://accounts.cmp.optimizely.com/
@@ -4229,6 +4213,7 @@ https://api.shop.ua.com/graphql
 https://api.simnext.bullish-test.com
 https://api.slex.io
 https://api.staging.luno.com/
+https://api.t-mobile.com
 https://api.test.latitudefinancial.com
 https://api.thesecurityteam.rocks
 https://api.thousandeyes.com/
@@ -4366,6 +4351,8 @@ https://apps.apple.com/us/app/compass-real-estate-homes/id692766504
 https://apps.apple.com/us/app/confluence-cloud/id1006971684
 https://apps.apple.com/us/app/confluence-server/id1288365159
 https://apps.apple.com/us/app/cryptologygo-buy-trade-btc/id6448920037
+https://apps.apple.com/us/app/dropbox-emm/id1080074001
+https://apps.apple.com/us/app/dropbox-secure-cloud-storage/id327630330
 https://apps.apple.com/us/app/electroneum/id1270774992
 https://apps.apple.com/us/app/exzi-buy-sell-btc-eth-crypto/id6451389176
 https://apps.apple.com/us/app/hubspot/id1107711722
@@ -4385,6 +4372,7 @@ https://apps.apple.com/us/app/monash-study/id1462126829
 https://apps.apple.com/us/app/okcoin-bitcoin-trading-exch/id867444712?mt=8
 https://apps.apple.com/us/app/okta-verify/id490179405
 https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
+https://apps.apple.com/us/app/paper-by-dropbox/id1126623662
 https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/pionex/id1485348891
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
@@ -4394,6 +4382,11 @@ https://apps.apple.com/us/app/share-rewards/id1465450657
 https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
 https://apps.apple.com/us/app/status-private-communication/id1178893006
+https://apps.apple.com/us/app/syncup-drive/id1576574297
+https://apps.apple.com/us/app/syncup-kids/id1503394062
+https://apps.apple.com/us/app/syncup-tracker/id1526380335
+https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
+https://apps.apple.com/us/app/t-mobile/id561625752
 https://apps.apple.com/us/app/ternoa-wallet/id1562180877#?platform=iphone 
 https://apps.apple.com/us/app/tesla/id582007913
 https://apps.apple.com/us/app/tidex/id1632072370
@@ -4428,7 +4421,6 @@ https://arbiscan.io/address/0xd3E1BDe4b4163c86B9b7668dE8Ae7618720dCa93
 https://arbiscan.io/address/0xd978bb7a7ae5b01116d1bd714fedd1b77ca9e75b
 https://arbiscan.io/address/0xdd4536dD9636564D891c919416880a3e250f975A
 https://arbiscan.io/address/0xeb0b9B5FFb763dD69440565F63c67f9695B7C3dA
-https://arlo-device.messaging.netgear.com
 https://artist.link
 https://asana.com
 https://asana.com/apps?category=made-by-asana
@@ -4463,7 +4455,6 @@ https://basescan.org/address/0xa5d378c05192e3f1f365d6298921879c4d51c5a3
 https://basescan.org/address/0xd978bb7a7ae5b01116d1bd714fedd1b77ca9e75b
 https://basescan.org/address/0xdd4536dD9636564D891c919416880a3e250f975A
 https://bc.yieldstreet.net
-https://beta.arlo.com
 https://bigcommerce.com/blog
 https://bigcommerce.com/make-it-big
 https://billing.ring.com/*
@@ -4601,8 +4592,8 @@ https://coda.io/signup/email
 https://code.elementor.com/
 https://coinstore-openapi.github.io/en/#45fa4e00db
 https://comment-moderation-stats.20min.ch
-https://community.arlo.com
 https://community.cloud.databricks.com/
+https://compass.t-mobile.com
 https://compulsoryunits.monash.edu/
 https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://connect.com
@@ -4729,6 +4720,7 @@ https://desktop.water-link.be/
 https://dev.init.capital/contract-addresses/blast
 https://dev.init.capital/contract-addresses/mantle
 https://dev.tutoring.classdojo.com
+https://devedge.t-mobile.com
 https://developer.mastercard.com
 https://developer.newrelic.com/
 https://developer.withings.com/dashboard/
@@ -4743,6 +4735,8 @@ https://developers.vendhq.com/
 https://devportal.rec.net/
 https://devstaging.pcapcloud.com/*
 https://dexalot.com 
+https://digits.t-mobile.com
+https://digits.t-mobile.com/
 https://dimensions.cloudinary.com
 https://directlink.eu-west-2.outscale.com
 https://doc.xt.com
@@ -4766,7 +4760,7 @@ https://download.bkexer.xin/app/download/android/app-release.apk
 https://download.krisp.ai/mac
 https://download.krisp.ai/win
 https://download.opera.com
-https://downloads.arlo.com
+https://dropbox.com/dash/download
 https://dxc.episerver.net/ 
 https://ebanking.westernunionbank.com
 https://ecohesion.aufbaubank.de
@@ -5842,7 +5836,6 @@ https://matrix.agent.tchap.gouv.fr
 https://matrix.e.tchap.gouv.fr
 https://matrix.i.tchap.gouv.fr
 https://mc.sendgrid.com/
-https://mcs.arlo.com
 https://mcssl.com
 https://mediaflows.cloudinary.com/
 https://menulog.co.nz
@@ -5850,6 +5843,7 @@ https://menulog.com.au
 https://meraki.cisco.com
 https://metamask-sdk-socket.metafi.codefi.network/
 https://metamask.github.io/phishing-warning/<vX.Y.Z>
+https://metrobyt-mobile.com
 https://mg.n0c.com/
 https://mguest.usaa.com/
 https://microsoftedge.microsoft.com/addons/detail/pinterest-save-button/bkgoflemacdadndiohhdnphcmdhacabg
@@ -5873,7 +5867,6 @@ https://monashcollege.edu.au
 https://monster-customizer.classdojo.com/cf6dfa68-1a81-4c6d-bc0b-38f3666b37d6/index.html
 https://mstatic.usaa.com
 https://my.ampol.com.au/
-https://my.arlo.com
 https://my.ecwid.com
 https://my.electroneum.com/
 https://my.elementor.com/
@@ -5888,7 +5881,6 @@ https://my.thesecurityteam.rocks
 https://my.thesecurityteam.rocks/
 https://my.wyze.com
 https://myaccount-staging.getmoneytree.com
-https://myapi.arlo.com
 https://myapp.monash.edu/
 https://mydesktop.usaa.com
 https://mylink.page
@@ -6041,6 +6033,9 @@ https://play.google.com/store/apps/details?id=com.comuto&hl=en
 https://play.google.com/store/apps/details?id=com.cryptology.flutter
 https://play.google.com/store/apps/details?id=com.dailymotion.dailymotion&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.deepcoin.app.global
+https://play.google.com/store/apps/details?id=com.dropbox.android&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.dropbox.app.hellosign&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.dropbox.paper&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.exzi.app
 https://play.google.com/store/apps/details?id=com.fcagroup.us.uconnect
@@ -6100,6 +6095,11 @@ https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.m
 https://play.google.com/store/apps/details?id=com.ternoa.wallet.prod
 https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.tidex.app.exchange
+https://play.google.com/store/apps/details?id=com.tmobile.drive
+https://play.google.com/store/apps/details?id=com.tmobile.kids
+https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
+https://play.google.com/store/apps/details?id=com.tmobile.syncuptag
+https://play.google.com/store/apps/details?id=com.tmobile.tuesdays&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.trusteeplus
 https://play.google.com/store/apps/details?id=com.ua.shop&hl=en
@@ -6258,6 +6258,7 @@ https://sos-ch-gva-2.exo.io/
 https://soundcloud.com
 https://soundcloud.org
 https://speeddials.opera.com
+https://sprint.com
 https://src.mastercard.com/*
 https://src.mastercard.com/profile/enroll
 https://staff.monash
@@ -6298,6 +6299,8 @@ https://svn.filezilla-project.org/svn/libfilezilla/trunk
 https://svn.filezilla-project.org/svn/libfilezilla/trunk/
 https://sycamore.moneyboxapp.org/
 https://syncsketch.dev
+https://t-mobile.actixone.com/
+https://t-mobile.com
 https://t.me/AlfredTradesBot?start=hackenproof
 https://t.me/Open_league_bot
 https://t.me/tapps_bot
@@ -6310,6 +6313,7 @@ https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/package
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/polling
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/upload
 https://tempus-ex.com
+https://tess.service-now.com
 https://test.m4sv.bugbounty.akinox.dev
 https://test.nicehash.com/
 https://test.nicehash.com/my/
@@ -6320,6 +6324,7 @@ https://test.nicex.com/my/
 https://testflight.apple.com/join/533gFghn
 https://testflight.apple.com/join/e4owjwMX
 https://testnet.tonscan.org/address/EQBQMoFbX2YFU5YP9_0VHdtMFnQMjsM9pH22r9ZSRpYg8Z29
+https://tfb.t-mobile.com
 https://thatconceptstore.com
 https://thinkglobalhealth.org
 https://thueringer-foerderportal.eu
@@ -6327,6 +6332,7 @@ https://ticket.multiplayer.classdojo.com
 https://tickets.kz/
 https://tidal.com/
 https://tidex.com/
+https://tmus.service-now.com
 https://tokenize.exchange/
 https://toom.de
 https://tr.ee
@@ -6381,7 +6387,6 @@ https://unified.neogov.com
 https://unihub.monash.edu/
 https://unity3d.com/get-unity/download
 https://unity3d.com/get-unity/download/archive
-https://updates.arlo.com
 https://us.eufy.com/products/e8213181
 https://us.eufy.com/products/t8410121
 https://us.eufy.com/products/t88511d1
@@ -6445,7 +6450,6 @@ https://www.ankermake.com/products/m5?variant=42744298373269
 https://www.anytask.com/
 https://www.api.hpr.kiwai-normandie.fr/
 https://www.api.kiwai-normandie.fr
-https://www.arlo.com
 https://www.arubanetworks.com/products/networking/analytics-and-assurance/user-experience-insight-sensors/
 https://www.atlassian.com/enterprise/data-center/bitbucket
 https://www.atlassian.com/enterprise/data-center/confluence
@@ -6500,6 +6504,7 @@ https://www.cyberghostvpn.com/
 https://www.cyberghostvpn.com/en_US/apps/linux-vpn
 https://www.cyberghostvpn.com/en_US/apps/macos-vpn
 https://www.cyberghostvpn.com/en_US/apps/windows-vpn
+https://www.dash.ai/
 https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&target=launcher_macosx
 https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
 https://www.deepcoin.com/
@@ -6514,6 +6519,9 @@ https://www.driveuconnect.eu
 https://www.drogas.lv/blog/
 https://www.drogas.lv/lv/blog
 https://www.drogas.lv/ru/blog
+https://www.dropbox.com/capture
+https://www.dropbox.com/desktop
+https://www.dropbox.com/paper
 https://www.epam.com/
 https://www.etsy.com
 https://www.etsy.com/developers/documentation/getting_started/api_basics
