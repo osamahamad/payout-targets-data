@@ -266,10 +266,14 @@
 *.dm.gg
 *.dmcdn.net
 *.dns.eu
+*.docsend.com
 *.doctolib.(fr|de|it|com|net)
 *.download.originenergy.com.au
 *.dpgmedia.be
 *.dpgmedia.nl
+*.dropbox.com    
+*.dropboxer.net
+*.dropboxforum.com
 *.dropmix.com
 *.dyson.com
 *.earlywarning.com
@@ -382,6 +386,9 @@
 *.hackerone-user-content.com/
 *.harmonixmusic.com
 *.harmonyremote.com
+*.hellofax.com
+*.hellosign.com
+*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.com
@@ -487,7 +494,6 @@
 *.line.naver.jp
 *.linecorp.com
 *.link.co
-*.linktree-extensions.com
 *.livestream.com
 *.logi.com
 *.login.gov
@@ -2744,6 +2750,7 @@ api.digitalocean.com
 api.direct.playstation.com
 api.doppler.com
 api.drogas.lv
+api.dropboxapi.com
 api.dyson.at
 api.dyson.be
 api.dyson.ch
@@ -4151,7 +4158,6 @@ https://airflow-prod.coda.io/*
 https://airflow-prod.ops.coda.io/*
 https://aiven.io/
 https://ajax.staging.luno.com/
-https://album.link
 https://alpha.yellow.org
 https://alphax.com/
 https://alumni-friends.monash.edu
@@ -4373,6 +4379,8 @@ https://apps.apple.com/us/app/compass-real-estate-homes/id692766504
 https://apps.apple.com/us/app/confluence-cloud/id1006971684
 https://apps.apple.com/us/app/confluence-server/id1288365159
 https://apps.apple.com/us/app/cryptologygo-buy-trade-btc/id6448920037
+https://apps.apple.com/us/app/dropbox-emm/id1080074001
+https://apps.apple.com/us/app/dropbox-secure-cloud-storage/id327630330
 https://apps.apple.com/us/app/electroneum/id1270774992
 https://apps.apple.com/us/app/exzi-buy-sell-btc-eth-crypto/id6451389176
 https://apps.apple.com/us/app/hubspot/id1107711722
@@ -4392,6 +4400,7 @@ https://apps.apple.com/us/app/monash-study/id1462126829
 https://apps.apple.com/us/app/okcoin-bitcoin-trading-exch/id867444712?mt=8
 https://apps.apple.com/us/app/okta-verify/id490179405
 https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
+https://apps.apple.com/us/app/paper-by-dropbox/id1126623662
 https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/pionex/id1485348891
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
@@ -4441,7 +4450,6 @@ https://arbiscan.io/address/0xd978bb7a7ae5b01116d1bd714fedd1b77ca9e75b
 https://arbiscan.io/address/0xdd4536dD9636564D891c919416880a3e250f975A
 https://arbiscan.io/address/0xeb0b9B5FFb763dD69440565F63c67f9695B7C3dA
 https://arlo-device.messaging.netgear.com
-https://artist.link
 https://asana.com
 https://asana.com/apps?category=made-by-asana
 https://asana.com/download
@@ -4783,6 +4791,7 @@ https://download.krisp.ai/mac
 https://download.krisp.ai/win
 https://download.opera.com
 https://downloads.arlo.com
+https://dropbox.com/dash/download
 https://dxc.episerver.net/ 
 https://ebanking.westernunionbank.com
 https://ecohesion.aufbaubank.de
@@ -5518,9 +5527,6 @@ https://link.swisstronik.com/nfj
 https://link.swisstronik.com/zky
 https://link.swisstronik.com/zs7
 https://link.x.immutable.com/
-https://linktr.ee
-https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
-https://linktree.com
 https://liveassist.usaa.com/
 https://liveassist11.usaa.com/
 https://liveassist12.usaa.com/
@@ -5908,7 +5914,6 @@ https://myaccount-staging.getmoneytree.com
 https://myapi.arlo.com
 https://myapp.monash.edu/
 https://mydesktop.usaa.com
-https://mylink.page
 https://myplutus.pinelabs.my/
 https://myshop.20min.ch
 https://myvpn.usaa.com
@@ -5933,8 +5938,6 @@ https://oauth.ring.com/*
 https://octopus.com
 https://octopus.com/downloads
 https://oda.com
-https://odesli.co
-https://odesli.com
 https://offer.tidal.com/download
 https://onboard.neogov.com
 https://one.newrelic.com
@@ -6058,6 +6061,9 @@ https://play.google.com/store/apps/details?id=com.comuto&hl=en
 https://play.google.com/store/apps/details?id=com.cryptology.flutter
 https://play.google.com/store/apps/details?id=com.dailymotion.dailymotion&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.deepcoin.app.global
+https://play.google.com/store/apps/details?id=com.dropbox.android&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.dropbox.app.hellosign&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.dropbox.paper&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.exzi.app
 https://play.google.com/store/apps/details?id=com.fcagroup.us.uconnect
@@ -6153,12 +6159,10 @@ https://play.google.com/store/apps/details?id=se.atg.live&hl=en&gl=SE
 https://play.google.com/store/apps/details?id=ua.aval.biz.client.android&hl=uk
 https://play.google.com/store/apps/details?id=ua.aval.dbo.client.android
 https://play.google.com/store/apps/details?id=ua.raiffeisen.myraif
-https://playlist.link
 https://plmcixt.pinelabs.com/
 https://plugins.matomo.org/developer/innocraft
 https://plugins.matomo.org/developer/matomo-org
 https://poc-op-ywh.it.authentification.si.gouv.qc.ca
-https://pods.link
 https://pointpay.io/
 https://poloniex.com/
 https://polygonscan.com/address/0x0A0846c978a56D6ea9D2602eeb8f977B21F3207F
@@ -6274,8 +6278,6 @@ https://sks-ch-gva-2.exo.io
 https://slex.io/
 https://smartmockups.com/
 https://snapnames.com/
-https://song.link
-https://songlink.io
 https://sos-ch-gva-2.exo.io/
 https://soundcloud.com
 https://soundcloud.org
@@ -6357,7 +6359,6 @@ https://tidex.com/
 https://tmus.service-now.com
 https://tokenize.exchange/
 https://toom.de
-https://tr.ee
 https://tracker.bugcrowd.com
 https://tracker.naspers.com/
 https://trade.bluefin.io/
@@ -6528,6 +6529,7 @@ https://www.cyberghostvpn.com/
 https://www.cyberghostvpn.com/en_US/apps/linux-vpn
 https://www.cyberghostvpn.com/en_US/apps/macos-vpn
 https://www.cyberghostvpn.com/en_US/apps/windows-vpn
+https://www.dash.ai/
 https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&target=launcher_macosx
 https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
 https://www.deepcoin.com/
@@ -6542,6 +6544,9 @@ https://www.driveuconnect.eu
 https://www.drogas.lv/blog/
 https://www.drogas.lv/lv/blog
 https://www.drogas.lv/ru/blog
+https://www.dropbox.com/capture
+https://www.dropbox.com/desktop
+https://www.dropbox.com/paper
 https://www.epam.com/
 https://www.etsy.com
 https://www.etsy.com/developers/documentation/getting_started/api_basics
