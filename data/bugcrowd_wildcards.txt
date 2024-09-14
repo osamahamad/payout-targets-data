@@ -4,6 +4,8 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.atlastunnel.com
 *.arlo.com
 *.arloxcld.com
+*.arlo.com
+*.arloxcld.com
 *.central.arubanetworks.com
 *.asana.biz
 *.app.asana.com
@@ -32,13 +34,6 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.dell.com/*
 *.delltechnologies.com/* 
 *.sandbox.directly.com/
-*.dropbox.com    
-*.hellosign.com
-*.helloworks.com
-*.hellofax.com
-*.dropboxforum.com
-*.docsend.com
-*.dropboxer.net
 casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 *.emakina.nl 
 *.emakina.group
@@ -102,6 +97,8 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.dev.*.lfscnp.com
 *.sandbox.*.lfscnp.com
 *.-np.*.lfscnp.com
+*.linktree-extensions.com
+*.linktree-extensions.com
 *.lululemon.com
 *.bbp-mettle.co.uk
 *.nr-data.net
