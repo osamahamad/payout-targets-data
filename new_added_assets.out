@@ -1,86 +1,37 @@
-*.bbp-mettle.co.uk
-*.westernunion.*
-*.wu.*
-Any host or verified to be owned by Western Union (domains/IP space/etc.)
-Desktop MFA for Windows
-Desktop MFA for macOS
-Mettle Android Application
-Okta On-Prem Agents ( AD, LDAP, RDP, IWA )
-Okta Verify (Windows)
-Password Sync for macOS
-bugcrowd-oie-%username%-1.at.oktapreview.com
-bugcrowd-oie-%username%-1.oktapreview.com
-bugcrowd-oie-%username%-2.at.oktapreview.com
-bugcrowd-oie-%username%-2.oktapreview.com
-bugcrowd-pam-###.oktapreview.com
-bugcrowd-pam-###.pam.oktapreview.com
-http://agenttraining.westernunion.com
-http://app.scaleft.com/
-https://agentportal.westernunion.com
-https://apps.apple.com/us/app/okta-verify/id490179405
-https://apps.apple.com/us/app/western-union-transfer-money/id424716908
-https://bugcrowd-oie-%username%-1.workflows.oktapreview.com
-https://bugcrowd-oie-%username%-2.workflows.oktapreview.com
-https://bugcrowd-pam-###.at.oktapreview.com
-https://bugcrowd-pam-###.oktapreview.com
-https://bugcrowd-pam-###.workflows.oktapreview.com
-https://corporate.westernunion.com
-https://cuba.westernunion.com
-https://ebanking.westernunionbank.com
-https://egypt.westernunion.com
-https://foundation.westernunion.com
-https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
-https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows.htm
-https://help.okta.com/en/prod/Content/Topics/Settings/download-browser-plugin.htm
-https://hk.westernunion.com
-https://india.westernunion.com
-https://iwgo.westernunion.com
-https://jamaica.westernunion.com
-https://location.westernunion.com
-https://m.westernunion.com
-https://ops-tool.internal.bbp-mettle.co.uk/
-https://partnernet.westernunion.com
-https://partners.westernunion.com
-https://paymentstatus.westernunion.com
-https://play.google.com/store/apps/details?id=com.okta.android.auth&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.westernunion.android.mtapp&hl=en_US&gl=US
-https://remoteaccess.westernunion.com
-https://secure.westernunion.com
-https://secureauth.westernunion.com
-https://senegal.westernunion.com
-https://sg.westernunion.com
-https://support.okta.com
-https://testflight.apple.com/join/e4owjwMX
-https://transvision.westernunion.com
-https://web-app.eevee.bbp-mettle.co.uk/login
-https://westernunionbank.com
-https://wuagentportal.westernunion.com
-https://wucare.westernunion.com
-https://wuinsights.westernunion.com
-https://www.okta.com/fastpass/
-https://www.okta.com/products/advanced-server-access/
-https://www.westernunion.at
-https://www.westernunion.be
-https://www.westernunion.ca
-https://www.westernunion.ch
-https://www.westernunion.co.nz
-https://www.westernunion.co.uk
-https://www.westernunion.com
-https://www.westernunion.com.au
-https://www.westernunion.de
-https://www.westernunion.dk
-https://www.westernunion.ee
-https://www.westernunion.es
-https://www.westernunion.fi
-https://www.westernunion.fr
-https://www.westernunion.gr
-https://www.westernunion.ie
-https://www.westernunion.it
-https://www.westernunion.lu
-https://www.westernunion.nl
-https://www.westernunion.no
-https://www.westernunion.pl
-https://www.westernunion.pt
-https://www.westernunion.se
-https://www2.westernunion.com
-mydesktop.wu.com
+*.app.asana.com
+*.asana.biz
+Assets labeled as in-scope
+Cellular Network Auth Bypass via Web/Mobile App
+Internal Server via Internet Network
+Self Register Account on T-Mobile Microsoft Entra ID
+T&P Servers
+https://account.t-mobile.com
+https://api.t-mobile.com
+https://app.asana.com
+https://apps.apple.com/us/app/asana-mobile/id489969512
+https://apps.apple.com/us/app/syncup-drive/id1576574297
+https://apps.apple.com/us/app/syncup-kids/id1503394062
+https://apps.apple.com/us/app/syncup-tracker/id1526380335
+https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
+https://apps.apple.com/us/app/t-mobile/id561625752
+https://asana.com
+https://asana.com/apps?category=made-by-asana
+https://asana.com/download
+https://compass.t-mobile.com
+https://devedge.t-mobile.com
+https://digits.t-mobile.com
+https://digits.t-mobile.com/
+https://form.asana.com
+https://metrobyt-mobile.com
+https://play.google.com/store/apps/details?id=com.asana.app&hl=en
+https://play.google.com/store/apps/details?id=com.tmobile.drive
+https://play.google.com/store/apps/details?id=com.tmobile.kids
+https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
+https://play.google.com/store/apps/details?id=com.tmobile.syncuptag
+https://play.google.com/store/apps/details?id=com.tmobile.tuesdays&hl=en_US&gl=US
+https://sprint.com
+https://t-mobile.actixone.com/
+https://t-mobile.com
+https://tess.service-now.com
+https://tfb.t-mobile.com
+https://tmus.service-now.com
