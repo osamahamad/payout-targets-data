@@ -266,10 +266,14 @@
 *.dm.gg
 *.dmcdn.net
 *.dns.eu
+*.docsend.com
 *.doctolib.(fr|de|it|com|net)
 *.download.originenergy.com.au
 *.dpgmedia.be
 *.dpgmedia.nl
+*.dropbox.com    
+*.dropboxer.net
+*.dropboxforum.com
 *.dropmix.com
 *.dyson.com
 *.earlywarning.com
@@ -382,6 +386,9 @@
 *.hackerone-user-content.com/
 *.harmonixmusic.com
 *.harmonyremote.com
+*.hellofax.com
+*.hellosign.com
+*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.com
@@ -542,6 +549,8 @@
 *.monzo.me
 *.moonpay.com
 *.moonpaycloud.com
+*.movilepay.com
+*.movilepay.com.br
 *.msgsvc.io
 *.muscache.com
 *.mwb-threatintel.com
@@ -2742,6 +2751,7 @@ api.digitalocean.com
 api.direct.playstation.com
 api.doppler.com
 api.drogas.lv
+api.dropboxapi.com
 api.dyson.at
 api.dyson.be
 api.dyson.ch
@@ -4196,6 +4206,7 @@ https://api.electroneum.com/
 https://api.exmo.com
 https://api.fishbowlapp.com/*
 https://api.foxycart.com/
+https://api.fstr.rocks
 https://api.glassdoor.com/*
 https://api.hubspot.com/
 https://api.ibops.net
@@ -4309,6 +4320,7 @@ https://apps.apple.com/au/app/caltex-australia/id1314768594
 https://apps.apple.com/au/app/certsy/id1617796159
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
+https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
 https://apps.apple.com/br/app/nubank-conta-e-cart%C3%A3o/id814456780
 https://apps.apple.com/ca/app/lime-ridegreen/id1199780189
 https://apps.apple.com/ca/app/lime-supply/id1620058457
@@ -4369,6 +4381,8 @@ https://apps.apple.com/us/app/compass-real-estate-homes/id692766504
 https://apps.apple.com/us/app/confluence-cloud/id1006971684
 https://apps.apple.com/us/app/confluence-server/id1288365159
 https://apps.apple.com/us/app/cryptologygo-buy-trade-btc/id6448920037
+https://apps.apple.com/us/app/dropbox-emm/id1080074001
+https://apps.apple.com/us/app/dropbox-secure-cloud-storage/id327630330
 https://apps.apple.com/us/app/electroneum/id1270774992
 https://apps.apple.com/us/app/exzi-buy-sell-btc-eth-crypto/id6451389176
 https://apps.apple.com/us/app/hubspot/id1107711722
@@ -4388,6 +4402,7 @@ https://apps.apple.com/us/app/monash-study/id1462126829
 https://apps.apple.com/us/app/okcoin-bitcoin-trading-exch/id867444712?mt=8
 https://apps.apple.com/us/app/okta-verify/id490179405
 https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
+https://apps.apple.com/us/app/paper-by-dropbox/id1126623662
 https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/pionex/id1485348891
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
@@ -4779,6 +4794,7 @@ https://download.krisp.ai/mac
 https://download.krisp.ai/win
 https://download.opera.com
 https://downloads.arlo.com
+https://dropbox.com/dash/download
 https://dxc.episerver.net/ 
 https://ebanking.westernunionbank.com
 https://ecohesion.aufbaubank.de
@@ -4921,6 +4937,7 @@ https://gatewaydsaptst2.marriott.com/
 https://gemcreditline.co.nz
 https://gemfinance.co.nz
 https://gemvisa.com.au
+https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
 https://git.libssh.org/
 https://github.com/0glabs/0g-chain
@@ -5845,6 +5862,7 @@ https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosti
 https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=server
 https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
 https://marketplace.auth0.com
+https://marketplace.ifood.com.br
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
 https://master.servicecentre.digitalservicing-np.lfscnp.com/
 https://mathem.se
@@ -6011,6 +6029,7 @@ https://play.google.com/store/apps/details?id=app.linen.wallet
 https://play.google.com/store/apps/details?id=au.com.ampol.flagship&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=au.com.ampol.teamapp
 https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US
+https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR
 https://play.google.com/store/apps/details?id=coin98.crypto.finance.media&pli=1
 https://play.google.com/store/apps/details?id=com.AgainstGravity.RecRoom
 https://play.google.com/store/apps/details?id=com.aax.exchange
@@ -6051,6 +6070,9 @@ https://play.google.com/store/apps/details?id=com.comuto&hl=en
 https://play.google.com/store/apps/details?id=com.cryptology.flutter
 https://play.google.com/store/apps/details?id=com.dailymotion.dailymotion&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.deepcoin.app.global
+https://play.google.com/store/apps/details?id=com.dropbox.android&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.dropbox.app.hellosign&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.dropbox.paper&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.exzi.app
 https://play.google.com/store/apps/details?id=com.fcagroup.us.uconnect
@@ -6185,6 +6207,7 @@ https://portal.australiansuper.com/
 https://portal.clearpay.co.uk
 https://portal.clearpay.com
 https://portal.exoscale.com/
+https://portal.ifood.com.br
 https://portal3.pentest.clicsante.ca
 https://portalapi.eu.clearpay.co.uk
 https://portalapi.us.afterpay.com
@@ -6205,6 +6228,7 @@ https://public.je-apis.com
 https://public.thesecurityteam.rocks/resources/app/android/etnapp-5.2.2-staging.apk
 https://rarible.com/
 https://rbo.raiffeisen.ua/
+https://rc.fstr.rocks
 https://rec.net/
 https://rec.net/download
 https://recroom.com/studio
@@ -6250,8 +6274,10 @@ https://service.platform.tripadvisor.com
 https://service.post.ch/ekp-web/
 https://service.post.ch/ele-klp/ele/
 https://service.post.ch/zopa/app/
+https://service.sitemercado.com.br
 https://sg.westernunion.com
 https://shiny.ops.coda.io/*
+https://shop.ifood.com.br
 https://shop.lululemon.com
 https://shop.monash.edu/
 https://shop.post.ch/shop
@@ -6281,6 +6307,7 @@ https://staging.luno.com/
 https://standalone2.fuib.com
 https://start.1password.com
 https://start.atlassian.com
+https://static-images.ifood.com.br
 https://static.demarches-simplifiees.fr
 https://static.polygon.technology/network/mainnet/v1/index.json
 https://static.usaa.com
@@ -6442,6 +6469,8 @@ https://world.planethoster.net
 https://wowjobs.ca
 https://ws.multiplayer.classdojo.com/
 https://ws.usaa.com
+https://wslatam.ifood.com.br
+https://wsloja.ifood.com.br
 https://wsmbr.usaa.com/
 https://wuagentportal.westernunion.com
 https://wucare.westernunion.com
@@ -6514,6 +6543,7 @@ https://www.cyberghostvpn.com/
 https://www.cyberghostvpn.com/en_US/apps/linux-vpn
 https://www.cyberghostvpn.com/en_US/apps/macos-vpn
 https://www.cyberghostvpn.com/en_US/apps/windows-vpn
+https://www.dash.ai/
 https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&target=launcher_macosx
 https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
 https://www.deepcoin.com/
@@ -6528,6 +6558,9 @@ https://www.driveuconnect.eu
 https://www.drogas.lv/blog/
 https://www.drogas.lv/lv/blog
 https://www.drogas.lv/ru/blog
+https://www.dropbox.com/capture
+https://www.dropbox.com/desktop
+https://www.dropbox.com/paper
 https://www.epam.com/
 https://www.etsy.com
 https://www.etsy.com/developers/documentation/getting_started/api_basics
@@ -6549,6 +6582,7 @@ https://www.hpr.kiwai-normandie.fr/
 https://www.iciparisxl.be/blog/
 https://www.iciparisxl.lu/blog/
 https://www.iciparisxl.nl/blog/
+https://www.ifood.com.br
 https://www.infura.io/faucet/linea
 https://www.infura.io/faucet/sepolia
 https://www.intercom.com/
@@ -6645,6 +6679,7 @@ https://www.routerprotocol.com/
 https://www.sharerewards.com/
 https://www.shiseido.me/
 https://www.simplify.com/commerce/ 
+https://www.sitemercado.com.br
 https://www.skidxb.com/
 https://www.skroutz.gr/
 https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/
