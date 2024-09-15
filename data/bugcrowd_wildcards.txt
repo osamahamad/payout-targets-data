@@ -182,6 +182,8 @@ api-*.soundcloud.com
  Twilio CDNs (static*.twilio.com)
 *.gtld-servers.net (DNS service; DNS related)
 *.verisign-grs.com (DNS service; DNS related)
+*.westernunion.*
+*.wu.*
 *.transferwise.com
 *.wise.com
 *-cvr-aws-*.sys.comcast.net
