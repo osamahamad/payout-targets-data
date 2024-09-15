@@ -2,8 +2,6 @@
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 *.atlastunnel.com
-*.arlo.com
-*.arloxcld.com
 *.central.arubanetworks.com
 *.asana.biz
 *.app.asana.com
@@ -32,6 +30,13 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.dell.com/*
 *.delltechnologies.com/* 
 *.sandbox.directly.com/
+*.dropbox.com    
+*.hellosign.com
+*.helloworks.com
+*.hellofax.com
+*.dropboxforum.com
+*.docsend.com
+*.dropboxer.net
 *.dropbox.com    
 *.hellosign.com
 *.helloworks.com
