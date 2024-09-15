@@ -98,12 +98,10 @@
 *.api.dailymotion.com
 *.api.originenergy.com.au
 *.api.playstation.com
-*.app.asana.com
 *.app.spacelift.dev
 *.arlo.com
 *.arloxcld.com
 *.artstation.com
-*.asana.biz
 *.astaro.com
 *.atairbnb.com
 *.atg.se
@@ -1626,6 +1624,8 @@ Delegated Directory Pruning for Crowd - Server - https://marketplace.atlassian.c
 Dependabot
 Dependency Graph Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1215979/dependency-graph-plugin-for-bamboo?hosting=server
 Desktop Client
+Desktop MFA for Windows
+Desktop MFA for macOS
 Developer Assistant for Confluence - Cloud - https://marketplace.atlassian.com/apps/1229446/developer-assistant-for-confluence?hosting=cloud
 Developer Assistant for Jira - Cloud - https://marketplace.atlassian.com/apps/1229343/developer-assistant-for-jira?hosting=cloud
 Developer Platform Playground
@@ -2072,6 +2072,8 @@ Official WordPress plugins
 Okcoin Android APK
 Okcoin iOS App
 Okta
+Okta On-Prem Agents ( AD, LDAP, RDP, IWA )
+Okta Verify (Windows)
 Omega
 OneDrive - https://trello.com/power-ups/5940440775fbe327abd3329f/onedrive
 Online Marketplace
@@ -2125,6 +2127,7 @@ PNS.HongKong.iOS
 PTaaS Reference
 Package Tracker - https://trello.com/power-ups/55a5d917446f51777421000d/package-tracker
 Packet Forward Middleware
+Password Sync for macOS
 PayFriends/PayAnyone Features
 PayPal SDK
 Peephole Cam
@@ -3117,6 +3120,12 @@ bq.visa.com
 brave.com
 buckingfuggy.com
 buffered-reader
+bugcrowd-oie-%username%-1.at.oktapreview.com
+bugcrowd-oie-%username%-1.oktapreview.com
+bugcrowd-oie-%username%-2.at.oktapreview.com
+bugcrowd-oie-%username%-2.oktapreview.com
+bugcrowd-pam-###.oktapreview.com
+bugcrowd-pam-###.pam.oktapreview.com
 bugzilla.mozilla.org
 builder.hostinger.com
 building-blocks.com
@@ -4004,6 +4013,7 @@ http://api.insightly.com/v3.1/
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
 http://api.na1.insightly.com/v3.1/
+http://app.scaleft.com/
 http://apps.connect.monash.edu/
 http://artists.soundcloud.com/
 http://auth.khealth.com/cedars/sign-up
@@ -4242,7 +4252,6 @@ https://app-eu1.hubspot.com
 https://app-staging.getmoneytree.com
 https://app.agency360.com
 https://app.allbridge.io
-https://app.asana.com
 https://app.asymetrix.io/
 https://app.aurory.io
 https://app.chime.com/
@@ -4338,7 +4347,6 @@ https://apps.apple.com/ua/app/trustee-plus-crypto-neobank/id1634455978
 https://apps.apple.com/us/app/%E5%B1%A5%E6%AD%B4%E6%9B%B8%E4%BD%9C%E6%88%90-%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%89/id1484451230
 https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
 https://apps.apple.com/us/app/aex%E5%AE%89%E9%93%B6/id1542565144
-https://apps.apple.com/us/app/asana-mobile/id489969512
 https://apps.apple.com/us/app/auth0-guardian/id1093447833
 https://apps.apple.com/us/app/backblaze/id628638330
 https://apps.apple.com/us/app/bigone/id1485385044
@@ -4374,6 +4382,7 @@ https://apps.apple.com/us/app/lastpass-password-manager/id324613447
 https://apps.apple.com/us/app/lululemon/id920098546
 https://apps.apple.com/us/app/monash-study/id1462126829
 https://apps.apple.com/us/app/okcoin-bitcoin-trading-exch/id867444712?mt=8
+https://apps.apple.com/us/app/okta-verify/id490179405
 https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
 https://apps.apple.com/us/app/paper-by-dropbox/id1126623662
 https://apps.apple.com/us/app/pinterest/id429047995
@@ -4424,9 +4433,6 @@ https://arbiscan.io/address/0xdd4536dD9636564D891c919416880a3e250f975A
 https://arbiscan.io/address/0xeb0b9B5FFb763dD69440565F63c67f9695B7C3dA
 https://arlo-device.messaging.netgear.com
 https://artist.link
-https://asana.com
-https://asana.com/apps?category=made-by-asana
-https://asana.com/download
 https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://asymetrix.io/
 https://aurora.plus/
@@ -4535,6 +4541,11 @@ https://bscscan.com/address/0xb891Aeb2130805171796644a2af76Fc7Ff25a0b9
 https://bscscan.com/address/0xcB0620b181140e57D1C0D8b724cde623cA963c8C
 https://bscscan.com/address/0xec203E7676C45455BF8cb43D28F9556F014Ab461
 https://bscscan.com/token/0x5C65BAdf7F97345B7B92776b22255c973234EfE7
+https://bugcrowd-oie-%username%-1.workflows.oktapreview.com
+https://bugcrowd-oie-%username%-2.workflows.oktapreview.com
+https://bugcrowd-pam-###.at.oktapreview.com
+https://bugcrowd-pam-###.oktapreview.com
+https://bugcrowd-pam-###.workflows.oktapreview.com
 https://bugcrowd.com/programs
 https://bugcrowd.hotdoc.com.au
 https://bugcrowd.hotdoc.com.au/api
@@ -4878,7 +4889,6 @@ https://flo.uri.sh
 https://flourish.studio/
 https://flow.opera.com
 https://for-hackers.crispapp.nl/web-rn/
-https://form.asana.com
 https://formative.eassessment.monash.edu/
 https://forms.apps.monash.edu/
 https://forum.newrelic.com
@@ -5387,6 +5397,9 @@ https://head.coda.io/*
 https://healthmate.withings.com
 https://help.etsy.com
 https://help.glassdoor.com/*
+https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
+https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows.htm
+https://help.okta.com/en/prod/Content/Topics/Settings/download-browser-plugin.htm
 https://help.supplier.viator.com/en
 https://hipaa.staging.gearset.com/
 https://home.classdojo.com
@@ -5987,7 +6000,6 @@ https://play.google.com/store/apps/details?id=com.aex.aexApp
 https://play.google.com/store/apps/details?id=com.afterpaymobile.uk
 https://play.google.com/store/apps/details?id=com.afterpaymobile.us&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.app.xt
-https://play.google.com/store/apps/details?id=com.asana.app&hl=en
 https://play.google.com/store/apps/details?id=com.aswat.carrefouruae
 https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.core&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&hl=en_US&gl=US
@@ -6046,6 +6058,7 @@ https://play.google.com/store/apps/details?id=com.nicehash.metallum&hl=en
 https://play.google.com/store/apps/details?id=com.nth.swisspost&hl=de_CH&gl=US
 https://play.google.com/store/apps/details?id=com.nu.production&hl=pt_BR&gl=US&pli=1
 https://play.google.com/store/apps/details?id=com.okinc.okcoin.intl
+https://play.google.com/store/apps/details?id=com.okta.android.auth&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.opera.app.news
 https://play.google.com/store/apps/details?id=com.opera.app.sports
 https://play.google.com/store/apps/details?id=com.opera.browser
@@ -6269,6 +6282,7 @@ https://suggestions.opera-api.com
 https://supplier.viator.com/
 https://support.lastpass.com
 https://support.newrelic.com/
+https://support.okta.com
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 https://svn.filezilla-project.org/svn/libfilezilla/trunk
@@ -6579,6 +6593,8 @@ https://www.oculus.com/experiences/quest/2173678582678296
 https://www.oculus.com/experiences/rift/1257029974329451
 https://www.okcoin.com/
 https://www.okcoin.com/docs/en/
+https://www.okta.com/fastpass/
+https://www.okta.com/products/advanced-server-access/
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
 https://www.okx.com/web3
