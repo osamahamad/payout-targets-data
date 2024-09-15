@@ -117,6 +117,7 @@
 *.avax.network
 *.avecspotify.com
 *.ayco.com
+*.backblazeb2.com
 *.backend-capital.com
 *.backpack.exchange/
 *.base.org
@@ -170,7 +171,6 @@
 *.braintreepayments.com
 *.bredbandsbolaget.se
 *.buddypress.org,bbpress.org,profiles.wordpress.org
-*.bugcrowd.com/auth/*
 *.byairbnb.com
 *.bybit.com
 *.byspotify.com
@@ -1753,6 +1753,7 @@ Gateway
 Gemini
 GenAI Apps under *.amazon.*
 Giphy - https://trello.com/power-ups/568c1415eeaeb62f5a43aa01/giphy
+Git Repositories (b2-sdk-java & B2 Command Line Tool)
 GitHub - https://trello.com/power-ups/55a5d916446f517774210004/github
 GitHub CLI
 GitHub CSP
@@ -1938,6 +1939,8 @@ MIUI OS for Xiaomi Phone
 Mac App
 Mac OS Executable
 Mac OS Executable: Download here https://www.larksuite.com/download
+Mac Personal Backup Clients
+Mac Restore Downloaders
 MacOS Desktop Application
 Mackeeper app
 Magic Eden Wallet (Chrome Extension)
@@ -2512,6 +2515,8 @@ Windows Desktop Application
 Windows Executable
 Windows OS Executable
 Windows OS Executable: Download here https://www.larksuite.com/download
+Windows Personal Backup Clients
+Windows Restore Downloaders
 WooCommerce
 WordPress Core
 WordPress Plugins & Themes
@@ -4187,7 +4192,6 @@ https://api.bitpanda.com
 https://api.bitstorage.finance/
 https://api.blablalines.com
 https://api.btse.com
-https://api.bugcrowd.com
 https://api.classdojo.com
 https://api.clearpay.com
 https://api.cloudinary.com
@@ -4360,6 +4364,7 @@ https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
 https://apps.apple.com/us/app/aex%E5%AE%89%E9%93%B6/id1542565144
 https://apps.apple.com/us/app/asana-mobile/id489969512
 https://apps.apple.com/us/app/auth0-guardian/id1093447833
+https://apps.apple.com/us/app/backblaze/id628638330
 https://apps.apple.com/us/app/bigone/id1485385044
 https://apps.apple.com/us/app/bingbon-global/id1500217666?ls=1
 https://apps.apple.com/us/app/bitmart-buy-bitcoin-crypto/id1396382871
@@ -4470,6 +4475,7 @@ https://b2bapi.usaa.com
 https://b2blsapi-a.usaa.com
 https://b2blsapi.usaa.com
 https://babel-api.mainnet.iotex.io
+https://backblaze.com
 https://backend.ibotta.com/
 https://base.org
 https://basescan.org/address/0x5C622Dcc96b6D96ac6c154f99CF081815094CBC9
@@ -4561,7 +4567,6 @@ https://bugcrowd-oie-%username%-2.workflows.oktapreview.com
 https://bugcrowd-pam-###.at.oktapreview.com
 https://bugcrowd-pam-###.oktapreview.com
 https://bugcrowd-pam-###.workflows.oktapreview.com
-https://bugcrowd.com/programs
 https://bugcrowd.hotdoc.com.au
 https://bugcrowd.hotdoc.com.au/api
 https://bugcrowd.hotdoc.com.au/dashboard
@@ -4766,7 +4771,6 @@ https://dimensions.cloudinary.com
 https://directlink.eu-west-2.outscale.com
 https://doc.xt.com
 https://docs.allbridge.io/allbridge-overview/bridge-contracts
-https://docs.bugcrowd.com/
 https://docs.cryptology.com/
 https://docs.eazybi.com/
 https://docs.immutable.com/
@@ -5436,7 +5440,6 @@ https://hug.personio.com
 https://icu.eu-west-2.outscale.com
 https://id.atlassian.com/login
 https://id.unity.com
-https://identity.bugcrowd.com/
 https://identity.ic0.app/
 https://identity.monash.edu
 https://identity.monash.edu/
@@ -6038,6 +6041,7 @@ https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&hl
 https://play.google.com/store/apps/details?id=com.atlassian.confluence.server
 https://play.google.com/store/apps/details?id=com.atlassian.jira.server&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.auth0.guardian&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.backblaze.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.biconomy.ex&pli=1
 https://play.google.com/store/apps/details?id=com.bigcommerce.mobile
 https://play.google.com/store/apps/details?id=com.bitmart.bitmarket&hl=en_US&gl=US
@@ -6364,7 +6368,6 @@ https://tmus.service-now.com
 https://tokenize.exchange/
 https://toom.de
 https://tr.ee
-https://tracker.bugcrowd.com
 https://tracker.naspers.com/
 https://trade.bluefin.io/
 https://transferwise.com

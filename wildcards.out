@@ -96,6 +96,7 @@
 *.avax.network
 *.avecspotify.com
 *.ayco.com
+*.backblazeb2.com
 *.backend-capital.com
 *.backpack.exchange/
 *.base.org
@@ -149,7 +150,6 @@
 *.braintreepayments.com
 *.bredbandsbolaget.se
 *.buddypress.org,bbpress.org,profiles.wordpress.org
-*.bugcrowd.com/auth/*
 *.byairbnb.com
 *.bybit.com
 *.byspotify.com
