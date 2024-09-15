@@ -98,10 +98,10 @@
 *.api.dailymotion.com
 *.api.originenergy.com.au
 *.api.playstation.com
+*.app.asana.com
 *.app.spacelift.dev
-*.arlo.com
-*.arloxcld.com
 *.artstation.com
+*.asana.biz
 *.astaro.com
 *.atairbnb.com
 *.atg.se
@@ -119,6 +119,7 @@
 *.backend-capital.com
 *.backpack.exchange/
 *.base.org
+*.bbp-mettle.co.uk
 *.berush.com
 *.beta.lahitapiola.fi
 *.beta.scoober.com
@@ -729,7 +730,6 @@
 *.sellzone.com
 *.semrush.com
 *.semrush.net
-*.sentiance.com
 *.seoab.io
 *.seoquake.com
 *.serious.li
@@ -1091,7 +1091,6 @@
 38.140.238.56/29
 3d.cs.money
 3rd party services
-3rdparty-apis.coinmarketcap.com
 403546234
 403684733
 406056744
@@ -1326,33 +1325,6 @@ Application tunnels - Server - https://marketplace.atlassian.com/apps/1227901/ap
 Apps which are listed within this bot
 Archive Plugin for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1211094/archive-plugin-for-bitbucket-server?hosting=server
 Arkime
-Arlo
-Arlo All-In-One Sensor (Home Security System)
-Arlo Baby
-Arlo Base Station
-Arlo Bridge
-Arlo Cellular & Battery Backup (Home Security System)
-Arlo Chime / Chime 2
-Arlo Essential
-Arlo Floodlight
-Arlo Go / Go 2
-Arlo Home Security System
-Arlo Pro
-Arlo Pro 2
-Arlo Pro 3
-Arlo Pro 4
-Arlo Pro 5S
-Arlo Q / Q+
-Arlo Safe Android App
-Arlo Safe Button
-Arlo Safe iOS App
-Arlo Secure Android App
-Arlo Secure iOS App
-Arlo Security Light
-Arlo Ultra
-Arlo Video Doorbell
-Arlo Wire-Free Outdoor Siren (Home Security System)
-Arlo Wireless Video Doorbell
 Aruba AirWave AMP
 Aruba ClearPass Policy Manager
 Aruba EdgeConnect Enterprise
@@ -1447,10 +1419,6 @@ Beats - Metricbeat
 Beats - Packetbeat
 Beats - Winlogbeat
 Better Code Macro for Confluence - Cloud - https://marketplace.atlassian.com/apps/1214912/better-code-macro-for-confluence?hosting=cloud
-Binance Desktop Application
-Binance Mobile Application for Android
-Binance Mobile Application for iOS
-Binance macOS Application
 Bitbucket Cloud - https://trello.com/power-ups/588a331cc86ffbe08f5d2c67/bitbucket-cloud
 Bitbucket Cloud Migration Assistant - Data Center - https://marketplace.atlassian.com/apps/1226610/bitbucket-cloud-migration-assistant?hosting=datacenter
 Bitbucket Cloud Migration Assistant - Server - https://marketplace.atlassian.com/apps/1226610/bitbucket-cloud-migration-assistant?hosting=server
@@ -1552,8 +1520,6 @@ Cloudkey
 Clubhouse Production and Corporate Infrastructure
 Coda Chrome Extension
 Code Coverage for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1218271/code-coverage-for-bitbucket-server?hosting=server
-CoinMarketCap Android app
-CoinMarketCap iOS app
 Coinbase WaaS (Wallet as a Service)
 ColdFusion
 CometBFT
@@ -1987,6 +1953,7 @@ Mercado Pago Apps Endpoints
 Merchant Portal
 MetaMask Browser Extension
 MetaMask SDK
+Mettle Android Application
 Meural
 Mi Band
 Mi Electric Scooter 
@@ -2406,9 +2373,6 @@ Troubleshooting and Support - Jira - DataCenter - https://marketplace.atlassian.
 Troubleshooting and Support - Jira - Server - https://marketplace.atlassian.com/apps/1217696/troubleshooting-and-support-jira?hosting=server
 TrueLayer for Magento (Magento plugin)
 TrueLayer for WooCommerce (WordPress plugin)
-Trustwallet Android App
-Trustwallet Chrome Extension
-Trustwallet iOS App
 Turnstile
 Twilio APIs
 Twitter - https://trello.com/power-ups/55a5d917446f51777421000b/twitter
@@ -2717,7 +2681,6 @@ api.au.frontegg.com
 api.avax-test.network
 api.avax.network
 api.avtoelon.uz
-api.binance.com
 api.bitcoin.shapeshift.com 
 api.bitso.com
 api.blockchain.info
@@ -2731,7 +2694,6 @@ api.cmtelecom.com
 api.codex.one
 api.coinbase.com
 api.coindcx.com
-api.coinmarketcap.com
 api.cointr.com
 api.cointr.pro
 api.creditkarma.com
@@ -2840,7 +2802,6 @@ api.reddit.com
 api.remitly.io
 api.rezserver.com
 api.sandbox.topperpay.com
-api.sentiance.com
 api.shipt.com
 api.skinport.com
 api.slack.com
@@ -3246,7 +3207,6 @@ codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
 cognito-idp.eu-west-1.amazonaws.com
 coinbase.com
 coingecko.com
-coinmarketcap.com
 coldfusion.adobe.com
 com.1debit.ChimeProdApp
 com.3mosquitos.MercadoLibre
@@ -3468,8 +3428,6 @@ com.scopely.yux
 com.secretkeylabs.xverse
 com.security.BatteryCam
 com.security.care
-com.sentiance.journeys
-com.sentiance.journeys2
 com.shipt.groceries
 com.shipt.shopper
 com.skypicker.Skypicker
@@ -3607,7 +3565,6 @@ content-api-nextgen-prod.nba.com
 content-api-prod.nba.com
 content.ketnet.be
 contributor.stock.adobe.com
-controltower.sentiance.com
 core-api.nba.com
 core.yoti.com
 cornershopapp.android
@@ -3751,7 +3708,6 @@ docs.launchdarkly.com
 docs.near.org
 docs.nextcloud.com
 docs.redoxengine.com
-docs.sentiance.com
 docs.ton.org
 documentcloud.adobe.com
 documents.adobe.com
@@ -3953,7 +3909,6 @@ grafana.fr.cloud.gov
 grammarly.ai
 graphql.sandbox.topperpay.com/graphql
 graphql.topperpay.com/graphql
-graphqldocs.sentiance.com
 gravatar.com
 grok.x.ai
 gutenberg.run
@@ -4109,7 +4064,6 @@ http://www.rei.com/learn/expert-advice
 http://www.shopmarriott.com
 http://www.whynot.com/
 http://www1.domain.com/
-https://*-prod.arlo.com
 https://0-2744452194.s3.nbg01.de.dracoon.io
 https://1shoppingcart.com
 https://28degreescard.com.au
@@ -4264,6 +4218,7 @@ https://app-eu1.hubspot.com
 https://app-staging.getmoneytree.com
 https://app.agency360.com
 https://app.allbridge.io
+https://app.asana.com
 https://app.asymetrix.io/
 https://app.aurory.io
 https://app.chime.com/
@@ -4359,6 +4314,7 @@ https://apps.apple.com/ua/app/trustee-plus-crypto-neobank/id1634455978
 https://apps.apple.com/us/app/%E5%B1%A5%E6%AD%B4%E6%9B%B8%E4%BD%9C%E6%88%90-%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%89/id1484451230
 https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
 https://apps.apple.com/us/app/aex%E5%AE%89%E9%93%B6/id1542565144
+https://apps.apple.com/us/app/asana-mobile/id489969512
 https://apps.apple.com/us/app/auth0-guardian/id1093447833
 https://apps.apple.com/us/app/backblaze/id628638330
 https://apps.apple.com/us/app/bigone/id1485385044
@@ -4401,7 +4357,6 @@ https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/pionex/id1485348891
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
-https://apps.apple.com/us/app/rac-go/id6444858115
 https://apps.apple.com/us/app/share-rewards/id1465450657
 https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
@@ -4445,8 +4400,10 @@ https://arbiscan.io/address/0xd3E1BDe4b4163c86B9b7668dE8Ae7618720dCa93
 https://arbiscan.io/address/0xd978bb7a7ae5b01116d1bd714fedd1b77ca9e75b
 https://arbiscan.io/address/0xdd4536dD9636564D891c919416880a3e250f975A
 https://arbiscan.io/address/0xeb0b9B5FFb763dD69440565F63c67f9695B7C3dA
-https://arlo-device.messaging.netgear.com
 https://artist.link
+https://asana.com
+https://asana.com/apps?category=made-by-asana
+https://asana.com/download
 https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://asymetrix.io/
 https://aurora.plus/
@@ -4477,7 +4434,6 @@ https://basescan.org/address/0xa5d378c05192e3f1f365d6298921879c4d51c5a3
 https://basescan.org/address/0xd978bb7a7ae5b01116d1bd714fedd1b77ca9e75b
 https://basescan.org/address/0xdd4536dD9636564D891c919416880a3e250f975A
 https://bc.yieldstreet.net
-https://beta.arlo.com
 https://bigcommerce.com/blog
 https://bigcommerce.com/make-it-big
 https://billing.ring.com/*
@@ -4615,7 +4571,6 @@ https://coda.io/signup/email
 https://code.elementor.com/
 https://coinstore-openapi.github.io/en/#45fa4e00db
 https://comment-moderation-stats.20min.ch
-https://community.arlo.com
 https://community.cloud.databricks.com/
 https://compass.t-mobile.com
 https://compulsoryunits.monash.edu/
@@ -4784,7 +4739,6 @@ https://download.bkexer.xin/app/download/android/app-release.apk
 https://download.krisp.ai/mac
 https://download.krisp.ai/win
 https://download.opera.com
-https://downloads.arlo.com
 https://dropbox.com/dash/download
 https://dxc.episerver.net/ 
 https://ebanking.westernunionbank.com
@@ -4907,6 +4861,7 @@ https://flo.uri.sh
 https://flourish.studio/
 https://flow.opera.com
 https://for-hackers.crispapp.nl/web-rn/
+https://form.asana.com
 https://formative.eassessment.monash.edu/
 https://forms.apps.monash.edu/
 https://forum.newrelic.com
@@ -5375,7 +5330,6 @@ https://github.com/tetu-io/tetu-contracts-v2/blob/master/contracts/vault/VaultIn
 https://github.com/tetu-io/tetu-contracts-v2/blob/master/contracts/ve/VeTetu.sol
 https://github.com/transferwise/*
 https://github.com/tronprotocol/java-tron
-https://github.com/trustwallet/wallet-core/
 https://github.com/valvesoftware
 https://github.com/vechain/thor
 https://github.com/vertex-protocol/vertex-contracts
@@ -5860,7 +5814,6 @@ https://matrix.agent.tchap.gouv.fr
 https://matrix.e.tchap.gouv.fr
 https://matrix.i.tchap.gouv.fr
 https://mc.sendgrid.com/
-https://mcs.arlo.com
 https://mcssl.com
 https://mediaflows.cloudinary.com/
 https://menulog.co.nz
@@ -5892,7 +5845,6 @@ https://monashcollege.edu.au
 https://monster-customizer.classdojo.com/cf6dfa68-1a81-4c6d-bc0b-38f3666b37d6/index.html
 https://mstatic.usaa.com
 https://my.ampol.com.au/
-https://my.arlo.com
 https://my.ecwid.com
 https://my.electroneum.com/
 https://my.elementor.com/
@@ -5907,7 +5859,6 @@ https://my.thesecurityteam.rocks
 https://my.thesecurityteam.rocks/
 https://my.wyze.com
 https://myaccount-staging.getmoneytree.com
-https://myapi.arlo.com
 https://myapp.monash.edu/
 https://mydesktop.usaa.com
 https://mylink.page
@@ -5954,6 +5905,7 @@ https://opendata.test-socrata.com
 https://opendata.test-socrata.com/admin/gateway
 https://opensea.io/
 https://opensource.epam.com
+https://ops-tool.internal.bbp-mettle.co.uk/
 https://optimizely-edge.com
 https://orby.network
 https://orchard.limeinternal.com
@@ -6028,6 +5980,7 @@ https://play.google.com/store/apps/details?id=com.aex.aexApp
 https://play.google.com/store/apps/details?id=com.afterpaymobile.uk
 https://play.google.com/store/apps/details?id=com.afterpaymobile.us&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.app.xt
+https://play.google.com/store/apps/details?id=com.asana.app&hl=en
 https://play.google.com/store/apps/details?id=com.aswat.carrefouruae
 https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.core&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&hl=en_US&gl=US
@@ -6107,7 +6060,6 @@ https://play.google.com/store/apps/details?id=com.pointpay.bank
 https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&hl=en
 https://play.google.com/store/apps/details?id=com.probit.app.android2.release.global
 https://play.google.com/store/apps/details?id=com.scu.bsafe
-https://play.google.com/store/apps/details?id=com.sentiance.saferdriver
 https://play.google.com/store/apps/details?id=com.siilo.android&hl=en
 https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
@@ -6347,6 +6299,7 @@ https://test.nicex.com
 https://test.nicex.com/
 https://test.nicex.com/my/
 https://testflight.apple.com/join/533gFghn
+https://testflight.apple.com/join/e4owjwMX
 https://testnet.tonscan.org/address/EQBQMoFbX2YFU5YP9_0VHdtMFnQMjsM9pH22r9ZSRpYg8Z29
 https://tfb.t-mobile.com
 https://thatconceptstore.com
@@ -6367,7 +6320,6 @@ https://transferwise.com
 https://translate.elementor.com/
 https://transvision.westernunion.com
 https://travelagents.viator.com
-https://trbinance.com
 https://trello.com/power-ups/55a5d915446f517774210001/box
 https://trello.com/power-ups/55a5d915446f517774210003/evernote
 https://trello.com/power-ups/55a5d916446f517774210004/github
@@ -6411,7 +6363,6 @@ https://unified.neogov.com
 https://unihub.monash.edu/
 https://unity3d.com/get-unity/download
 https://unity3d.com/get-unity/download/archive
-https://updates.arlo.com
 https://us.eufy.com/products/e8213181
 https://us.eufy.com/products/t8410121
 https://us.eufy.com/products/t88511d1
@@ -6442,6 +6393,7 @@ https://walletproxy.tapayments.com
 https://walletproxy1.tapayments.com
 https://walletproxy2.tapayments.com
 https://wbsapi.withings.net
+https://web-app.eevee.bbp-mettle.co.uk/login
 https://web.bitpanda.com
 https://web.raiffeisen.ua/
 https://web.teamviewer.com
@@ -6474,7 +6426,6 @@ https://www.ankermake.com/products/m5?variant=42744298373269
 https://www.anytask.com/
 https://www.api.hpr.kiwai-normandie.fr/
 https://www.api.kiwai-normandie.fr
-https://www.arlo.com
 https://www.arubanetworks.com/products/networking/analytics-and-assurance/user-experience-insight-sensors/
 https://www.atlassian.com/enterprise/data-center/bitbucket
 https://www.atlassian.com/enterprise/data-center/confluence
@@ -6498,8 +6449,6 @@ https://www.biconomy.com/
 https://www.biconomy.com/api/v1
 https://www.bigcommerce.com
 https://www.bigcommerce.net
-https://www.binance.com/
-https://www.binance.us/
 https://www.bit.com/
 https://www.bit.com/docs/en-us/futures.html#introduction
 https://www.bit.com/legacy/propertyCenter/assets
@@ -6814,7 +6763,6 @@ indicative-pricing.taxi.booking.com
 infomaniak.events
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
-insights-by-sentiance/id1608074635
 insights-categorizer-eu.truecaller.com
 insights-categorizer-noneu.truecaller.com
 insights-registry-eu.truecaller.com
@@ -6864,8 +6812,6 @@ jira.hyattdev.com
 jira.logitech.com
 jobs.kiwi.com
 jobs.marriott.com
-journeys-2/id984087229?mt=8
-journeys-api.sentiance.com/v2
 jp.naver.line.android
 js.crypto.com
 js.datadome.co
@@ -6921,7 +6867,6 @@ lawmanager.marriott.com
 le.yahooapis.com
 leadgen-asia-south1.truecaller.com
 learningmanager.adobe.com
-legacy-docs.sentiance.com
 libsoup
 libsystemd
 licenses.adobe.com
@@ -7406,7 +7351,6 @@ player.vimeo.com
 player.vrt.be
 playwonderbox.com
 playwonderbox.com.br
-portal-api.coinmarketcap.com
 portal.arkoselabs.com
 portal.au.frontegg.com
 portal.myconnect.com.au
@@ -7443,9 +7387,7 @@ privacy.ketnet.be
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 pro-api.coingecko.com
-pro-api.coinmarketcap.com
 pro.coinbase.com
-pro.coinmarketcap.com
 pro.doctolib.(fr|de|it) (see "Free features for healthcare professionals"))
 prod-*.nu.com.co
 prod-*.nu.com.mx
