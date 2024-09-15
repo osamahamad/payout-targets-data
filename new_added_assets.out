@@ -1,47 +1,39 @@
-*.docsend.com
-*.dropbox.com    
-*.dropboxer.net
-*.dropboxforum.com
-*.hellofax.com
-*.hellosign.com
-*.helloworks.com
-Assets labeled as in-scope
-Cellular Network Auth Bypass via Web/Mobile App
-Internal Server via Internet Network
-Self Register Account on T-Mobile Microsoft Entra ID
-T&P Servers
-api.dropboxapi.com
-https://account.t-mobile.com
-https://api.t-mobile.com
-https://apps.apple.com/us/app/dropbox-emm/id1080074001
-https://apps.apple.com/us/app/dropbox-secure-cloud-storage/id327630330
-https://apps.apple.com/us/app/paper-by-dropbox/id1126623662
-https://apps.apple.com/us/app/syncup-drive/id1576574297
-https://apps.apple.com/us/app/syncup-kids/id1503394062
-https://apps.apple.com/us/app/syncup-tracker/id1526380335
-https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
-https://apps.apple.com/us/app/t-mobile/id561625752
-https://compass.t-mobile.com
-https://devedge.t-mobile.com
-https://digits.t-mobile.com
-https://digits.t-mobile.com/
-https://dropbox.com/dash/download
-https://metrobyt-mobile.com
-https://play.google.com/store/apps/details?id=com.dropbox.android&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.dropbox.app.hellosign&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.dropbox.paper&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.tmobile.drive
-https://play.google.com/store/apps/details?id=com.tmobile.kids
-https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
-https://play.google.com/store/apps/details?id=com.tmobile.syncuptag
-https://play.google.com/store/apps/details?id=com.tmobile.tuesdays&hl=en_US&gl=US
-https://sprint.com
-https://t-mobile.actixone.com/
-https://t-mobile.com
-https://tess.service-now.com
-https://tfb.t-mobile.com
-https://tmus.service-now.com
-https://www.dash.ai/
-https://www.dropbox.com/capture
-https://www.dropbox.com/desktop
-https://www.dropbox.com/paper
+*.arlo.com
+*.arloxcld.com
+Arlo
+Arlo All-In-One Sensor (Home Security System)
+Arlo Baby
+Arlo Base Station
+Arlo Bridge
+Arlo Cellular & Battery Backup (Home Security System)
+Arlo Chime / Chime 2
+Arlo Essential
+Arlo Floodlight
+Arlo Go / Go 2
+Arlo Home Security System
+Arlo Pro
+Arlo Pro 2
+Arlo Pro 3
+Arlo Pro 4
+Arlo Pro 5S
+Arlo Q / Q+
+Arlo Safe Android App
+Arlo Safe Button
+Arlo Safe iOS App
+Arlo Secure Android App
+Arlo Secure iOS App
+Arlo Security Light
+Arlo Ultra
+Arlo Video Doorbell
+Arlo Wire-Free Outdoor Siren (Home Security System)
+Arlo Wireless Video Doorbell
+https://*-prod.arlo.com
+https://arlo-device.messaging.netgear.com
+https://beta.arlo.com
+https://community.arlo.com
+https://downloads.arlo.com
+https://mcs.arlo.com
+https://my.arlo.com
+https://myapi.arlo.com
+https://updates.arlo.com
+https://www.arlo.com
