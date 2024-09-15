@@ -20,6 +20,7 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.canva.com
 *.canva.tech
 *.cashstaging.app
+*.cashstaging.app
 *.meraki.com
 *.ikarem.io
 *.network-auth.com
@@ -71,8 +72,6 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.indeed.tech
 *.indeed.net
 *.intercomassets.com / *.intercomcdn.com
-*.jora.com
-*.jora.xyz
 *.lieferando.at
 *.yourdelivery.de
 *.takeaway.com
