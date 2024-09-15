@@ -2,8 +2,6 @@
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 *.atlastunnel.com
-*.arlo.com
-*.arloxcld.com
 *.central.arubanetworks.com
 *.asana.biz
 *.app.asana.com
@@ -23,9 +21,6 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.canva.com
 *.canva.tech
 *.cashstaging.app
-*.meraki.com
-*.ikarem.io
-*.network-auth.com
 *.xfinity.com	
 *.comcast.com
 *.xcal.tv
@@ -107,6 +102,7 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.linktree-extensions.com
 *.lululemon.com
 *.bbp-mettle.co.uk
+*.bbp-mettle.co.uk
 *.nr-data.net
 *.nr-ops.net
 prod-*.nubank.com.br
@@ -184,6 +180,8 @@ api-*.soundcloud.com
  Twilio CDNs (static*.twilio.com)
 *.gtld-servers.net (DNS service; DNS related)
 *.verisign-grs.com (DNS service; DNS related)
+*.westernunion.*
+*.wu.*
 *.westernunion.*
 *.wu.*
 *.transferwise.com
