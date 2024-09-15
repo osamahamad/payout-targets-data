@@ -74,6 +74,8 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.intercomassets.com / *.intercomcdn.com
 *.jora.com
 *.jora.xyz
+*.jora.com
+*.jora.xyz
 *.lieferando.at
 *.yourdelivery.de
 *.takeaway.com
@@ -104,7 +106,6 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.-np.*.lfscnp.com
 *.linktree-extensions.com
 *.lululemon.com
-*.bbp-mettle.co.uk
 *.nr-data.net
 *.nr-ops.net
 prod-*.nubank.com.br
@@ -182,8 +183,6 @@ api-*.soundcloud.com
  Twilio CDNs (static*.twilio.com)
 *.gtld-servers.net (DNS service; DNS related)
 *.verisign-grs.com (DNS service; DNS related)
-*.westernunion.*
-*.wu.*
 *.transferwise.com
 *.wise.com
 *-cvr-aws-*.sys.comcast.net
