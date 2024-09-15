@@ -542,8 +542,6 @@
 *.monzo.me
 *.moonpay.com
 *.moonpaycloud.com
-*.movilepay.com
-*.movilepay.com.br
 *.msgsvc.io
 *.muscache.com
 *.mwb-threatintel.com
@@ -4198,7 +4196,6 @@ https://api.electroneum.com/
 https://api.exmo.com
 https://api.fishbowlapp.com/*
 https://api.foxycart.com/
-https://api.fstr.rocks
 https://api.glassdoor.com/*
 https://api.hubspot.com/
 https://api.ibops.net
@@ -4312,7 +4309,6 @@ https://apps.apple.com/au/app/caltex-australia/id1314768594
 https://apps.apple.com/au/app/certsy/id1617796159
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
-https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
 https://apps.apple.com/br/app/nubank-conta-e-cart%C3%A3o/id814456780
 https://apps.apple.com/ca/app/lime-ridegreen/id1199780189
 https://apps.apple.com/ca/app/lime-supply/id1620058457
@@ -4925,7 +4921,6 @@ https://gatewaydsaptst2.marriott.com/
 https://gemcreditline.co.nz
 https://gemfinance.co.nz
 https://gemvisa.com.au
-https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
 https://git.libssh.org/
 https://github.com/0glabs/0g-chain
@@ -5850,7 +5845,6 @@ https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosti
 https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=server
 https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
 https://marketplace.auth0.com
-https://marketplace.ifood.com.br
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
 https://master.servicecentre.digitalservicing-np.lfscnp.com/
 https://mathem.se
@@ -6017,7 +6011,6 @@ https://play.google.com/store/apps/details?id=app.linen.wallet
 https://play.google.com/store/apps/details?id=au.com.ampol.flagship&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=au.com.ampol.teamapp
 https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US
-https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR
 https://play.google.com/store/apps/details?id=coin98.crypto.finance.media&pli=1
 https://play.google.com/store/apps/details?id=com.AgainstGravity.RecRoom
 https://play.google.com/store/apps/details?id=com.aax.exchange
@@ -6192,7 +6185,6 @@ https://portal.australiansuper.com/
 https://portal.clearpay.co.uk
 https://portal.clearpay.com
 https://portal.exoscale.com/
-https://portal.ifood.com.br
 https://portal3.pentest.clicsante.ca
 https://portalapi.eu.clearpay.co.uk
 https://portalapi.us.afterpay.com
@@ -6213,7 +6205,6 @@ https://public.je-apis.com
 https://public.thesecurityteam.rocks/resources/app/android/etnapp-5.2.2-staging.apk
 https://rarible.com/
 https://rbo.raiffeisen.ua/
-https://rc.fstr.rocks
 https://rec.net/
 https://rec.net/download
 https://recroom.com/studio
@@ -6259,10 +6250,8 @@ https://service.platform.tripadvisor.com
 https://service.post.ch/ekp-web/
 https://service.post.ch/ele-klp/ele/
 https://service.post.ch/zopa/app/
-https://service.sitemercado.com.br
 https://sg.westernunion.com
 https://shiny.ops.coda.io/*
-https://shop.ifood.com.br
 https://shop.lululemon.com
 https://shop.monash.edu/
 https://shop.post.ch/shop
@@ -6292,7 +6281,6 @@ https://staging.luno.com/
 https://standalone2.fuib.com
 https://start.1password.com
 https://start.atlassian.com
-https://static-images.ifood.com.br
 https://static.demarches-simplifiees.fr
 https://static.polygon.technology/network/mainnet/v1/index.json
 https://static.usaa.com
@@ -6454,8 +6442,6 @@ https://world.planethoster.net
 https://wowjobs.ca
 https://ws.multiplayer.classdojo.com/
 https://ws.usaa.com
-https://wslatam.ifood.com.br
-https://wsloja.ifood.com.br
 https://wsmbr.usaa.com/
 https://wuagentportal.westernunion.com
 https://wucare.westernunion.com
@@ -6563,7 +6549,6 @@ https://www.hpr.kiwai-normandie.fr/
 https://www.iciparisxl.be/blog/
 https://www.iciparisxl.lu/blog/
 https://www.iciparisxl.nl/blog/
-https://www.ifood.com.br
 https://www.infura.io/faucet/linea
 https://www.infura.io/faucet/sepolia
 https://www.intercom.com/
@@ -6660,7 +6645,6 @@ https://www.routerprotocol.com/
 https://www.sharerewards.com/
 https://www.shiseido.me/
 https://www.simplify.com/commerce/ 
-https://www.sitemercado.com.br
 https://www.skidxb.com/
 https://www.skroutz.gr/
 https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/
