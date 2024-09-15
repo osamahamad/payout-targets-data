@@ -77,12 +77,10 @@
 *.api.dailymotion.com
 *.api.originenergy.com.au
 *.api.playstation.com
-*.app.asana.com
 *.app.spacelift.dev
 *.arlo.com
 *.arloxcld.com
 *.artstation.com
-*.asana.biz
 *.astaro.com
 *.atairbnb.com
 *.atg.se
@@ -100,7 +98,6 @@
 *.backend-capital.com
 *.backpack.exchange/
 *.base.org
-*.bbp-mettle.co.uk
 *.berush.com
 *.beta.lahitapiola.fi
 *.beta.scoober.com
@@ -150,6 +147,7 @@
 *.braintreepayments.com
 *.bredbandsbolaget.se
 *.buddypress.org,bbpress.org,profiles.wordpress.org
+*.bugcrowd.com/auth/*
 *.byairbnb.com
 *.bybit.com
 *.byspotify.com
@@ -430,6 +428,8 @@
 *.jobapi.io
 *.jobapi.net
 *.joinclubhouse.com
+*.jora.com
+*.jora.xyz
 *.just-data.io
 *.just-eat.com 
 *.just-eat.dk

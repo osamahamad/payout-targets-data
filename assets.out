@@ -98,12 +98,10 @@
 *.api.dailymotion.com
 *.api.originenergy.com.au
 *.api.playstation.com
-*.app.asana.com
 *.app.spacelift.dev
 *.arlo.com
 *.arloxcld.com
 *.artstation.com
-*.asana.biz
 *.astaro.com
 *.atairbnb.com
 *.atg.se
@@ -121,7 +119,6 @@
 *.backend-capital.com
 *.backpack.exchange/
 *.base.org
-*.bbp-mettle.co.uk
 *.berush.com
 *.beta.lahitapiola.fi
 *.beta.scoober.com
@@ -171,6 +168,7 @@
 *.braintreepayments.com
 *.bredbandsbolaget.se
 *.buddypress.org,bbpress.org,profiles.wordpress.org
+*.bugcrowd.com/auth/*
 *.byairbnb.com
 *.bybit.com
 *.byspotify.com
@@ -451,6 +449,8 @@
 *.jobapi.io
 *.jobapi.net
 *.joinclubhouse.com
+*.jora.com
+*.jora.xyz
 *.just-data.io
 *.just-eat.com 
 *.just-eat.dk
@@ -1987,7 +1987,6 @@ Mercado Pago Apps Endpoints
 Merchant Portal
 MetaMask Browser Extension
 MetaMask SDK
-Mettle Android Application
 Meural
 Mi Band
 Mi Electric Scooter 
@@ -4190,6 +4189,7 @@ https://api.bitpanda.com
 https://api.bitstorage.finance/
 https://api.blablalines.com
 https://api.btse.com
+https://api.bugcrowd.com
 https://api.classdojo.com
 https://api.clearpay.com
 https://api.cloudinary.com
@@ -4264,7 +4264,6 @@ https://app-eu1.hubspot.com
 https://app-staging.getmoneytree.com
 https://app.agency360.com
 https://app.allbridge.io
-https://app.asana.com
 https://app.asymetrix.io/
 https://app.aurory.io
 https://app.chime.com/
@@ -4360,7 +4359,6 @@ https://apps.apple.com/ua/app/trustee-plus-crypto-neobank/id1634455978
 https://apps.apple.com/us/app/%E5%B1%A5%E6%AD%B4%E6%9B%B8%E4%BD%9C%E6%88%90-%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%89/id1484451230
 https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
 https://apps.apple.com/us/app/aex%E5%AE%89%E9%93%B6/id1542565144
-https://apps.apple.com/us/app/asana-mobile/id489969512
 https://apps.apple.com/us/app/auth0-guardian/id1093447833
 https://apps.apple.com/us/app/backblaze/id628638330
 https://apps.apple.com/us/app/bigone/id1485385044
@@ -4388,6 +4386,7 @@ https://apps.apple.com/us/app/indeed-connect-for-employers/id6443822731
 https://apps.apple.com/us/app/indeed-job-search/id309735670
 https://apps.apple.com/us/app/jira-cloud-by-atlassian/id1006972087
 https://apps.apple.com/us/app/jira-server/id1405353949
+https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665	
 https://apps.apple.com/us/app/keeperchat/id1273303729?mt=12
 https://apps.apple.com/us/app/kucoin-buy-bitcoin-crypto/id1378956601?mt=8
 https://apps.apple.com/us/app/lastpass-authenticator/id1079110004
@@ -4448,9 +4447,6 @@ https://arbiscan.io/address/0xdd4536dD9636564D891c919416880a3e250f975A
 https://arbiscan.io/address/0xeb0b9B5FFb763dD69440565F63c67f9695B7C3dA
 https://arlo-device.messaging.netgear.com
 https://artist.link
-https://asana.com
-https://asana.com/apps?category=made-by-asana
-https://asana.com/download
 https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://asymetrix.io/
 https://aurora.plus/
@@ -4564,6 +4560,7 @@ https://bugcrowd-oie-%username%-2.workflows.oktapreview.com
 https://bugcrowd-pam-###.at.oktapreview.com
 https://bugcrowd-pam-###.oktapreview.com
 https://bugcrowd-pam-###.workflows.oktapreview.com
+https://bugcrowd.com/programs
 https://bugcrowd.hotdoc.com.au
 https://bugcrowd.hotdoc.com.au/api
 https://bugcrowd.hotdoc.com.au/dashboard
@@ -4768,6 +4765,7 @@ https://dimensions.cloudinary.com
 https://directlink.eu-west-2.outscale.com
 https://doc.xt.com
 https://docs.allbridge.io/allbridge-overview/bridge-contracts
+https://docs.bugcrowd.com/
 https://docs.cryptology.com/
 https://docs.eazybi.com/
 https://docs.immutable.com/
@@ -4909,7 +4907,6 @@ https://flo.uri.sh
 https://flourish.studio/
 https://flow.opera.com
 https://for-hackers.crispapp.nl/web-rn/
-https://form.asana.com
 https://formative.eassessment.monash.edu/
 https://forms.apps.monash.edu/
 https://forum.newrelic.com
@@ -5437,6 +5434,7 @@ https://hug.personio.com
 https://icu.eu-west-2.outscale.com
 https://id.atlassian.com/login
 https://id.unity.com
+https://identity.bugcrowd.com/
 https://identity.ic0.app/
 https://identity.monash.edu
 https://identity.monash.edu/
@@ -5956,7 +5954,6 @@ https://opendata.test-socrata.com
 https://opendata.test-socrata.com/admin/gateway
 https://opensea.io/
 https://opensource.epam.com
-https://ops-tool.internal.bbp-mettle.co.uk/
 https://optimizely-edge.com
 https://orby.network
 https://orchard.limeinternal.com
@@ -6031,7 +6028,6 @@ https://play.google.com/store/apps/details?id=com.aex.aexApp
 https://play.google.com/store/apps/details?id=com.afterpaymobile.uk
 https://play.google.com/store/apps/details?id=com.afterpaymobile.us&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.app.xt
-https://play.google.com/store/apps/details?id=com.asana.app&hl=en
 https://play.google.com/store/apps/details?id=com.aswat.carrefouruae
 https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.core&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&hl=en_US&gl=US
@@ -6075,6 +6071,7 @@ https://play.google.com/store/apps/details?id=com.infomaniak.drive
 https://play.google.com/store/apps/details?id=com.infomaniak.mail&hl=en_US
 https://play.google.com/store/apps/details?id=com.io.coinstore
 https://play.google.com/store/apps/details?id=com.irobot.home
+https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US	
 https://play.google.com/store/apps/details?id=com.keepersecurity.chat&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.kubi.kucoin
 https://play.google.com/store/apps/details?id=com.lastpass.authenticator&hl=en_US&gl=US
@@ -6350,7 +6347,6 @@ https://test.nicex.com
 https://test.nicex.com/
 https://test.nicex.com/my/
 https://testflight.apple.com/join/533gFghn
-https://testflight.apple.com/join/e4owjwMX
 https://testnet.tonscan.org/address/EQBQMoFbX2YFU5YP9_0VHdtMFnQMjsM9pH22r9ZSRpYg8Z29
 https://tfb.t-mobile.com
 https://thatconceptstore.com
@@ -6364,6 +6360,7 @@ https://tmus.service-now.com
 https://tokenize.exchange/
 https://toom.de
 https://tr.ee
+https://tracker.bugcrowd.com
 https://tracker.naspers.com/
 https://trade.bluefin.io/
 https://transferwise.com
@@ -6445,7 +6442,6 @@ https://walletproxy.tapayments.com
 https://walletproxy1.tapayments.com
 https://walletproxy2.tapayments.com
 https://wbsapi.withings.net
-https://web-app.eevee.bbp-mettle.co.uk/login
 https://web.bitpanda.com
 https://web.raiffeisen.ua/
 https://web.teamviewer.com

@@ -5,8 +5,6 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.arlo.com
 *.arloxcld.com
 *.central.arubanetworks.com
-*.asana.biz
-*.app.asana.com
 *.cic-bug-bounty.auth0app.com
 *.tube8.com
 *.trafficjunky.com
@@ -16,10 +14,10 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.bitdefender.net
 *.bitdefender.com
 *.bitstamp.net - Bitstamp Supporting Services
+*.bugcrowd.com/auth/*
 *.canva.cn
 *.canva.com
 *.canva.tech
-*.cashstaging.app
 *.cashstaging.app
 *.meraki.com
 *.ikarem.io
@@ -72,6 +70,8 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.indeed.tech
 *.indeed.net
 *.intercomassets.com / *.intercomcdn.com
+*.jora.com
+*.jora.xyz
 *.lieferando.at
 *.yourdelivery.de
 *.takeaway.com
@@ -102,7 +102,6 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.-np.*.lfscnp.com
 *.linktree-extensions.com
 *.lululemon.com
-*.bbp-mettle.co.uk
 *.nr-data.net
 *.nr-ops.net
 prod-*.nubank.com.br
