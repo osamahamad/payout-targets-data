@@ -599,6 +599,17 @@ https://portal.clearpay.co.uk
 https://mobileapi.clearpay.com
 https://portalapi.eu.clearpay.co.uk
 https://api.clearpay.com
+<Your own 1Pasword Personal Account> --> https://my.1password.com/
+https://start.1password.com
+<Your own 1Password account> —> Latest stable, beta, or nightly MacOS Build
+<Your own 1Password account> —> Latest stable, beta, or nightly Android Build
+<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI) 
+<Your own 1Password Account subdomain --> https://<your account domain>.1password.com/
+<Your own 1Password account> —> Latest stable, beta, or nightly Windows Build
+<Your own 1Password account> —> Latest stable, beta, or nightly Linux Build
+<Your own 1Password account> —> Latest stable, beta, or nightly iOS Build
+<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension  (Chrome, Brave, Firefox, Edge, and Safari)
+<Your own 1Password account> —> https://events.1password.com/  (Event Reporting API is available on 1Password Business Accounts Only)
 Aiven for Clickhouse
 Aiven for Dragonfly
 Aiven for Apache Flink
@@ -1586,7 +1597,6 @@ https://www.zaproxy.org
 Latest ZAP version (2.15.0)
 https://dashboard.pantheon.io
 https://devstaging.pcapcloud.com/*
-https://www.pexels.com/
 https://www.pexels.com/
 ██████████████
 ██████████████
