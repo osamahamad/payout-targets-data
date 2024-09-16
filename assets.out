@@ -100,6 +100,8 @@
 *.api.playstation.com
 *.app.asana.com
 *.app.spacelift.dev
+*.arlo.com
+*.arloxcld.com
 *.artstation.com
 *.asana.biz
 *.astaro.com
@@ -1330,6 +1332,33 @@ Application tunnels - Server - https://marketplace.atlassian.com/apps/1227901/ap
 Apps which are listed within this bot
 Archive Plugin for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1211094/archive-plugin-for-bitbucket-server?hosting=server
 Arkime
+Arlo
+Arlo All-In-One Sensor (Home Security System)
+Arlo Baby
+Arlo Base Station
+Arlo Bridge
+Arlo Cellular & Battery Backup (Home Security System)
+Arlo Chime / Chime 2
+Arlo Essential
+Arlo Floodlight
+Arlo Go / Go 2
+Arlo Home Security System
+Arlo Pro
+Arlo Pro 2
+Arlo Pro 3
+Arlo Pro 4
+Arlo Pro 5S
+Arlo Q / Q+
+Arlo Safe Android App
+Arlo Safe Button
+Arlo Safe iOS App
+Arlo Secure Android App
+Arlo Secure iOS App
+Arlo Security Light
+Arlo Ultra
+Arlo Video Doorbell
+Arlo Wire-Free Outdoor Siren (Home Security System)
+Arlo Wireless Video Doorbell
 Aruba AirWave AMP
 Aruba ClearPass Policy Manager
 Aruba EdgeConnect Enterprise
@@ -4087,6 +4116,7 @@ http://www.rei.com/learn/expert-advice
 http://www.shopmarriott.com
 http://www.whynot.com/
 http://www1.domain.com/
+https://*-prod.arlo.com
 https://0-2744452194.s3.nbg01.de.dracoon.io
 https://1shoppingcart.com
 https://28degreescard.com.au
@@ -4424,6 +4454,7 @@ https://arbiscan.io/address/0xd3E1BDe4b4163c86B9b7668dE8Ae7618720dCa93
 https://arbiscan.io/address/0xd978bb7a7ae5b01116d1bd714fedd1b77ca9e75b
 https://arbiscan.io/address/0xdd4536dD9636564D891c919416880a3e250f975A
 https://arbiscan.io/address/0xeb0b9B5FFb763dD69440565F63c67f9695B7C3dA
+https://arlo-device.messaging.netgear.com
 https://artist.link
 https://asana.com
 https://asana.com/apps?category=made-by-asana
@@ -4458,6 +4489,7 @@ https://basescan.org/address/0xa5d378c05192e3f1f365d6298921879c4d51c5a3
 https://basescan.org/address/0xd978bb7a7ae5b01116d1bd714fedd1b77ca9e75b
 https://basescan.org/address/0xdd4536dD9636564D891c919416880a3e250f975A
 https://bc.yieldstreet.net
+https://beta.arlo.com
 https://bigcommerce.com/blog
 https://bigcommerce.com/make-it-big
 https://billing.ring.com/*
@@ -4595,6 +4627,7 @@ https://coda.io/signup/email
 https://code.elementor.com/
 https://coinstore-openapi.github.io/en/#45fa4e00db
 https://comment-moderation-stats.20min.ch
+https://community.arlo.com
 https://community.cloud.databricks.com/
 https://compass.t-mobile.com
 https://compulsoryunits.monash.edu/
@@ -4763,6 +4796,7 @@ https://download.bkexer.xin/app/download/android/app-release.apk
 https://download.krisp.ai/mac
 https://download.krisp.ai/win
 https://download.opera.com
+https://downloads.arlo.com
 https://dropbox.com/dash/download
 https://dxc.episerver.net/ 
 https://ebanking.westernunionbank.com
@@ -5839,6 +5873,7 @@ https://matrix.agent.tchap.gouv.fr
 https://matrix.e.tchap.gouv.fr
 https://matrix.i.tchap.gouv.fr
 https://mc.sendgrid.com/
+https://mcs.arlo.com
 https://mcssl.com
 https://mediaflows.cloudinary.com/
 https://menulog.co.nz
@@ -5870,6 +5905,7 @@ https://monashcollege.edu.au
 https://monster-customizer.classdojo.com/cf6dfa68-1a81-4c6d-bc0b-38f3666b37d6/index.html
 https://mstatic.usaa.com
 https://my.ampol.com.au/
+https://my.arlo.com
 https://my.ecwid.com
 https://my.electroneum.com/
 https://my.elementor.com/
@@ -5884,6 +5920,7 @@ https://my.thesecurityteam.rocks
 https://my.thesecurityteam.rocks/
 https://my.wyze.com
 https://myaccount-staging.getmoneytree.com
+https://myapi.arlo.com
 https://myapp.monash.edu/
 https://mydesktop.usaa.com
 https://mylink.page
@@ -6143,18 +6180,10 @@ https://pods.link
 https://pointpay.io/
 https://poloniex.com/
 https://polygonscan.com/address/0x0A0846c978a56D6ea9D2602eeb8f977B21F3207F
-https://polygonscan.com/address/0x15F0Ca26781C3852f8166eD2ebce5D18265cceb7
-https://polygonscan.com/address/0x1b18770E5198983AF04B3735d01E09A57d27bD43
 https://polygonscan.com/address/0x255707b70bf90aa112006e1b07b9aea6de021424
-https://polygonscan.com/address/0x27e1e4E6BC79D93032abef01025811B7E4727e85
 https://polygonscan.com/address/0x286c02C93f3CF48BB759A93756779A1C78bCF833
-https://polygonscan.com/address/0x2C90719f25B10Fc5646c82DA3240C76Fa5BcCF34
 https://polygonscan.com/address/0x391becc8daaf32b9ba8e602e9527bf9da04c8deb
-https://polygonscan.com/address/0x3E14dC1b13c488a8d5D310918780c983bD5982E7
-https://polygonscan.com/address/0x3aD736904E9e65189c3000c7DD2c8AC8bB7cD4e3
-https://polygonscan.com/address/0x3ad3f7a0965ce6f9358ad5cce86bc2b05f1ee087
 https://polygonscan.com/address/0x6678814c273d5088114B6E40cC49C8DB04F9bC29
-https://polygonscan.com/address/0x6EeE6060f715257b970700bc2656De21dEdF074C
 https://polygonscan.com/address/0x6fb29dd17fa6e27bd112bc3a2d0b8dae597aeda4
 https://polygonscan.com/address/0x7ad5935ea295c4e743e4f2f5b4cda951f41223c2
 https://polygonscan.com/address/0x7db73a1e526db36c40e508b09428420c1fa8e46b
@@ -6163,9 +6192,7 @@ https://polygonscan.com/address/0x81367059892aa1D8503a79a0Af9254DD0a09afBF
 https://polygonscan.com/address/0x8ef71fde0681f567d241a2cb7f2ae46d6d709d30
 https://polygonscan.com/address/0x9A1e1681f6D59Ca051776410465AfAda6384398f
 https://polygonscan.com/address/0xA8EF6FEa013034E62E2C4A9Ec1CDb059fE23Af33
-https://polygonscan.com/address/0xB0aABBA4B2783A72C52956CDEF62d438ecA2d7a1
 https://polygonscan.com/address/0xD3a69BfaC779AE0D97ae7c4f1Bb77d2Be6C2B943
-https://polygonscan.com/address/0xE0cc76334405EE8b39213E620587d815967af39C
 https://pornhub.mainhub.com
 https://portal-staging.pdq.tools/
 https://portal.afterpay.com
@@ -6390,6 +6417,7 @@ https://unified.neogov.com
 https://unihub.monash.edu/
 https://unity3d.com/get-unity/download
 https://unity3d.com/get-unity/download/archive
+https://updates.arlo.com
 https://us.eufy.com/products/e8213181
 https://us.eufy.com/products/t8410121
 https://us.eufy.com/products/t88511d1
@@ -6453,6 +6481,7 @@ https://www.ankermake.com/products/m5?variant=42744298373269
 https://www.anytask.com/
 https://www.api.hpr.kiwai-normandie.fr/
 https://www.api.kiwai-normandie.fr
+https://www.arlo.com
 https://www.arubanetworks.com/products/networking/analytics-and-assurance/user-experience-insight-sensors/
 https://www.atlassian.com/enterprise/data-center/bitbucket
 https://www.atlassian.com/enterprise/data-center/confluence
