@@ -449,6 +449,7 @@
 *.khealth.com
 *.khealth.io/
 *.khealth.us/
+*.kiln.it
 *.kindredext.net
 *.kiwi.com
 *.kolikkopelit.com
@@ -757,7 +758,6 @@
 *.smartcontract.com
 *.snooguts.net
 *.sol-data.com
-*.solarcity.com
 *.sonyentertainmentnetwork.com
 *.sophos.com
 *.soundcloud.org
@@ -802,11 +802,6 @@
 *.teams.cloudflare.com
 *.techbook.de
 *.telenor.se
-*.tesla.cn
-*.tesla.com
-*.tesla.services
-*.teslainsuranceservices.com
-*.teslamotors.com
 *.testdrive.workfront.com
 *.testnet.immutable.com
 *.thinkingphones.com
