@@ -111,7 +111,6 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 prod-*.nubank.com.br
 prod-*.nu.com.mx
 prod-*.nu.com.co
-*.octopus.com
 *.opera.software
 *.osp.opera.software
 *.opera.technology
@@ -170,6 +169,12 @@ prod-*.nu.com.co
 api-*.soundcloud.com
 *.square.com
 *.squareup.com
+*.tesla.cn
+*.tesla.services
+*.tesla.com
+*.teslamotors.com
+*.solarcity.com
+*.teslainsuranceservices.com
 *.tesla.cn
 *.tesla.services
 *.tesla.com

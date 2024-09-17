@@ -593,7 +593,6 @@
 *.nr-data.net
 *.nr-ops.net
 *.numberfire.com
-*.octopus.com
 *.oda.com
 *.odcdn.com.au
 *.okcoin.com
@@ -3761,7 +3760,6 @@ docs.near.org
 docs.nextcloud.com
 docs.redoxengine.com
 docs.sentiance.com
-docs.ton.org
 documentcloud.adobe.com
 documents.adobe.com
 dointernal.com
@@ -5032,7 +5030,6 @@ https://github.com/MystenLabs/sui/tree/testnet/external-crates/move
 https://github.com/MystenLabs/sui/tree/testnet/narwhal
 https://github.com/NXT-Technologies-INC/NXTChain/tree/main/Permission%20Smart%20Contract
 https://github.com/Nginx
-https://github.com/OctopusDeploy
 https://github.com/P2B-team/p2b-api-docs
 https://github.com/PandoraDigital/smart-contract
 https://github.com/ProjectOpenSea/seaport#deployments
@@ -5947,7 +5944,6 @@ https://nubank.com.mx
 https://nvoice.usaa.com/
 https://nw.ring.com/*
 https://oauth.ring.com/*
-https://octopus.com
 https://octopus.com/downloads
 https://oda.com
 https://odesli.co
