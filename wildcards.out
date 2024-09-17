@@ -79,8 +79,6 @@
 *.api.playstation.com
 *.app.asana.com
 *.app.spacelift.dev
-*.arlo.com
-*.arloxcld.com
 *.artstation.com
 *.asana.biz
 *.astaro.com
@@ -572,6 +570,7 @@
 *.nr-data.net
 *.nr-ops.net
 *.numberfire.com
+*.octopus.com
 *.oda.com
 *.odcdn.com.au
 *.okcoin.com

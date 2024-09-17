@@ -2,8 +2,6 @@
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 *.atlastunnel.com
-*.arlo.com
-*.arloxcld.com
 *.central.arubanetworks.com
 *.asana.biz
 *.app.asana.com
@@ -111,6 +109,8 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 prod-*.nubank.com.br
 prod-*.nu.com.mx
 prod-*.nu.com.co
+*.octopus.com
+*.octopus.com
 *.opera.software
 *.osp.opera.software
 *.opera.technology
@@ -169,12 +169,6 @@ prod-*.nu.com.co
 api-*.soundcloud.com
 *.square.com
 *.squareup.com
-*.tesla.cn
-*.tesla.services
-*.tesla.com
-*.teslamotors.com
-*.solarcity.com
-*.teslainsuranceservices.com
 *.tesla.cn
 *.tesla.services
 *.tesla.com
