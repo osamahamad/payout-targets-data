@@ -1281,6 +1281,7 @@ Aiven for Valkey
 All Assets (other than Blinkit)
 All Blinkit assets (in scope)
 All Mobile Assets
+All Motorola Devices running Android 13 and above. 
 All Other BitMEX Assets
 All Other In-Scope Assets
 All other Assets
@@ -3106,6 +3107,7 @@ blog.ton.org/api
 blog.ui.com
 blog.watsons.com.tr
 blogs.arubanetworks.com
+blox.link
 blueprints.amazon.com
 blueskytours.globalbookingsolutions.com
 bm.visa.com
@@ -4163,6 +4165,7 @@ https://ampol.com.au/
 https://ampolenergy.com.au
 https://analytics-admin.prosus.com
 https://analytics.cloud.unity3d.com
+https://analytics.neogov.com
 https://analytics.welcomesoftware.com/
 https://anytask.thesecurityteam.rocks
 https://anytask.thesecurityteam.rocks/
@@ -4213,6 +4216,7 @@ https://api.justeat-int.com
 https://api.letsexchange.io/doc
 https://api.linen.app/
 https://api.moneyboxapp.com/
+https://api.neogov.com
 https://api.netgear.com
 https://api.openai.com
 https://api.optimizely.com/
@@ -4258,6 +4262,7 @@ https://apis.australiansuper.com/
 https://apis.indeed.com/graphql
 https://app-eu1.hubspot.com
 https://app-staging.getmoneytree.com
+https://app.agency360.com
 https://app.allbridge.io
 https://app.asana.com
 https://app.asymetrix.io/
@@ -4585,6 +4590,7 @@ https://casino.sportingbet.com
 https://cdn-app.welcomesoftware.com/
 https://cdn-pci.optimizely.com/
 https://cdn-store.opera-api.com
+https://cdn.neogov.com
 https://cdn.optimizely.com/
 https://central.sophos.com
 https://cfc.naspers.com/
@@ -4788,6 +4794,7 @@ https://ebanking.westernunionbank.com
 https://ecohesion.aufbaubank.de
 https://edge.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua))
 https://education.cfr.org/
+https://eforms.neogov.com
 https://egypt.westernunion.com
 https://eim.eu-west-2.outscale.com
 https://electroneum.com/
@@ -5427,6 +5434,7 @@ https://home.classdojo.com
 https://home.xfinity.com
 https://houston-staging.pdq.tools
 https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
+https://hr.neogov.com
 https://hr.prosus.com/
 https://hub.immutable.com/
 https://hub.zetachain.com/
@@ -5503,6 +5511,7 @@ https://lastpass.com
 https://lastpass.com/misc_download2.php
 https://latitudeinfinity.com.au
 https://lbu.eu-west-2.outscale.com
+https://learn.neogov.com
 https://learn.newrelic.com/
 https://legacy-blockexplorer.electroneum.com
 https://lego.yellowblocks.me/
@@ -5531,6 +5540,7 @@ https://liveassist23.usaa.com
 https://liveassist24.usaa.com
 https://location.westernunion.com
 https://login.aufbaubank.de
+https://login.neogov.com
 https://login.salt.ch
 https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
@@ -5936,6 +5946,7 @@ https://oda.com
 https://odesli.co
 https://odesli.com
 https://offer.tidal.com/download
+https://onboard.neogov.com
 https://one.newrelic.com
 https://one.pinelabs.com/
 https://online.monash.edu/
@@ -6001,6 +6012,7 @@ https://pcm.20min.ch
 https://pcm.beta.20min.ch
 https://pentest-app.onetrust.com/
 https://peopleview.naspers.com
+https://performance.neogov.com
 https://performancemarketing.mastercard.com/portal/
 https://pg.paymaya.com
 https://pinepgconsole.in:9099
@@ -6186,6 +6198,7 @@ https://portal.ifood.com.br
 https://portal3.pentest.clicsante.ca
 https://portalapi.eu.clearpay.co.uk
 https://portalapi.us.afterpay.com
+https://powerdms.com/
 https://pprd.cybermalveillance.gouv.fr
 https://priceless.com/aa/
 https://priceless.com/aviator/
@@ -6228,11 +6241,15 @@ https://scalews.withings.com
 https://screenplayer.20min.ch
 https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secure-iphone-xml.booking.com/json/
+https://secure.cuehit.net
 https://secure.mypass.de/
+https://secure.neogov.com
 https://secure.vendhq.com
 https://secure.westernunion.com
 https://secureauth.westernunion.com
 https://securemail.usaa.com
+https://securesignin.neogov.com
+https://securesignin.powerdms.com/
 https://security-testing-env-api.k8s.tools-001.d-use-1.braze.com/
 https://security-testing-env-dashboard.k8s.tools-001.d-use-1.braze.com/
 https://seekcdn.com
@@ -6390,6 +6407,7 @@ https://uk.web.com
 https://ultramobile.com
 https://umiloans.com.au
 https://underarmournext.com/
+https://unified.neogov.com
 https://unihub.monash.edu/
 https://unity3d.com/get-unity/download
 https://unity3d.com/get-unity/download/archive
@@ -6542,6 +6560,7 @@ https://www.gamemaker.io
 https://www.glassdoor.com/*
 https://www.goby.app/
 https://www.gohenry.com/
+https://www.governmentjobs.com
 https://www.hostgator.com.br/
 https://www.hostgator.com/
 https://www.hpr.kiwai-normandie.fr/
