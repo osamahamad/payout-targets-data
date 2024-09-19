@@ -735,6 +735,7 @@
 *.sellzone.com
 *.semrush.com
 *.semrush.net
+*.sentiance.com
 *.seoab.io
 *.seoquake.com
 *.serious.li
@@ -2848,6 +2849,7 @@ api.reddit.com
 api.remitly.io
 api.rezserver.com
 api.sandbox.topperpay.com
+api.sentiance.com
 api.shipt.com
 api.skinport.com
 api.slack.com
@@ -3476,6 +3478,8 @@ com.scopely.yux
 com.secretkeylabs.xverse
 com.security.BatteryCam
 com.security.care
+com.sentiance.journeys
+com.sentiance.journeys2
 com.shipt.groceries
 com.shipt.shopper
 com.skypicker.Skypicker
@@ -3613,6 +3617,7 @@ content-api-nextgen-prod.nba.com
 content-api-prod.nba.com
 content.ketnet.be
 contributor.stock.adobe.com
+controltower.sentiance.com
 core-api.nba.com
 core.yoti.com
 cornershopapp.android
@@ -3756,6 +3761,7 @@ docs.launchdarkly.com
 docs.near.org
 docs.nextcloud.com
 docs.redoxengine.com
+docs.sentiance.com
 documentcloud.adobe.com
 documents.adobe.com
 dointernal.com
@@ -3955,6 +3961,7 @@ grafana.fr.cloud.gov
 grammarly.ai
 graphql.sandbox.topperpay.com/graphql
 graphql.topperpay.com/graphql
+graphqldocs.sentiance.com
 gravatar.com
 grok.x.ai
 gutenberg.run
@@ -4406,6 +4413,7 @@ https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/pionex/id1485348891
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
+https://apps.apple.com/us/app/rac-go/id6444858115
 https://apps.apple.com/us/app/share-rewards/id1465450657
 https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
@@ -6128,6 +6136,7 @@ https://play.google.com/store/apps/details?id=com.pointpay.bank
 https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&hl=en
 https://play.google.com/store/apps/details?id=com.probit.app.android2.release.global
 https://play.google.com/store/apps/details?id=com.scu.bsafe
+https://play.google.com/store/apps/details?id=com.sentiance.saferdriver
 https://play.google.com/store/apps/details?id=com.siilo.android&hl=en
 https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
@@ -6828,6 +6837,7 @@ infomaniak.events
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
 innogames.com
+insights-by-sentiance/id1608074635
 insights-categorizer-eu.truecaller.com
 insights-categorizer-noneu.truecaller.com
 insights-registry-eu.truecaller.com
@@ -6877,6 +6887,8 @@ jira.hyattdev.com
 jira.logitech.com
 jobs.kiwi.com
 jobs.marriott.com
+journeys-2/id984087229?mt=8
+journeys-api.sentiance.com/v2
 jp.naver.line.android
 js.crypto.com
 js.datadome.co
@@ -6932,6 +6944,7 @@ lawmanager.marriott.com
 le.yahooapis.com
 leadgen-asia-south1.truecaller.com
 learningmanager.adobe.com
+legacy-docs.sentiance.com
 libsoup
 libsystemd
 licenses.adobe.com
@@ -8515,6 +8528,8 @@ zen.deezer.com
 zerobounce.net
 zopim.com
 ████████████
+██████████████
+██████████████████
 ███████████████████
 ████████████████████
 █████████████████████
