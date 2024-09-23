@@ -180,6 +180,7 @@ api-*.soundcloud.com
 *.solarcity.com
 *.teslainsuranceservices.com
 *.tools.thefork.tech
+*.tools.thefork.tech
 *.wimpmusic.com
 *.tidalhifi.com
 *.tdl.sh
@@ -198,6 +199,8 @@ api-*.soundcloud.com
 *.viator.com
 *.westernunion.*
 *.wu.*
+*.transferwise.com
+*.wise.com
 *.transferwise.com
 *.wise.com
 *-cvr-aws-*.sys.comcast.net
