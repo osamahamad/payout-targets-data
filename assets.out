@@ -1,5 +1,6 @@
  *.sip.*.twilio.com
  *.test.*.lfscnp.com
+ Finicity Connect
  Fortress.HongKong.IOS
  MS Office Add-In
  Mobile Plugin for Confluence Data Center and Server - Data Center - https://marketplace.atlassian.com/apps/1218250/mobile-plugin-for-confluence-data-center-and-server?hosting=datacenter
@@ -1708,6 +1709,10 @@ File Tagging Plugin for Crucible - Server - https://marketplace.atlassian.com/ap
 Files.com Desktop Application for Windows or Mac
 Files.com SDK's
 Fing desktop
+Finicity - OBB (Open Banking Business Service) 
+Finicity Decisioning
+Finicity- Data Services
+Finicity- Open Banking Payment History application
 FireTV
 Firmware
 FishEye
@@ -2197,6 +2202,7 @@ Prod contract address: ZRX.e
 Product Delivery
 Project transfer for Crucible - Server - https://marketplace.atlassian.com/apps/1221227/project-transfer-for-crucible?hosting=server
 Protocol of the Swiss Post Voting System
+Public Others Target
 Questions for Confluence - Cloud - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=cloud
 Questions for Confluence - DataCenter - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=datacenter
 Questions for Confluence - Server - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=server
@@ -2223,6 +2229,7 @@ Roblox Studio
 Rockstar Games Launcher
 SBT Task Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1214713/sbt-task-plugin-for-bamboo?hosting=server
 SHA1-CD
+SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope
 SSL for Jira - Server - https://marketplace.atlassian.com/apps/1211087/ssl-for-jira?hosting=server
 SSL/TLS
 SSO for Atlassian Server and Data Center - DataCenter - https://marketplace.atlassian.com/apps/1216096/sso-for-atlassian-server-and-data-center?hosting=datacenter
@@ -4626,6 +4633,7 @@ https://console.delltechnologies.com/nav/administration
 https://console.delltechnologies.com/nav/billing
 https://console.delltechnologies.com/nav/invoice
 https://consumer-sustainability.underarmour.com/en
+https://consumer.finicityreports.com
 https://content-server.ibotta.com/graphql
 https://content.agora.beta.gouv.fr
 https://content.usaa.com
@@ -4731,6 +4739,7 @@ https://dealer.prod.ps.axelspringer.de/purchases/004/bild/*
 https://dealer.prod.ps.axelspringer.de/purchases/004/welt/*
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
+https://demo.priceless.com/
 https://depinscan.io/
 https://design.glassdoor.com/*
 https://desktop.water-link.be/
@@ -4738,6 +4747,7 @@ https://dev.init.capital/contract-addresses/blast
 https://dev.init.capital/contract-addresses/mantle
 https://dev.tutoring.classdojo.com
 https://devedge.t-mobile.com
+https://developer.mastercard.com
 https://developer.newrelic.com/
 https://developer.withings.com/dashboard/
 https://developer.zendesk.com/documentation/zendesk-sdks/#android
@@ -4771,6 +4781,7 @@ https://docs.mapbox.com/api/
 https://docs.mapbox.com/ios/maps/overview/
 https://docs.newrelic.com/
 https://docs.tempus-ex.com
+https://donate.mastercard.com
 https://download.bkexer.xin/app/download/android/app-release.apk
 https://download.krisp.ai/mac
 https://download.krisp.ai/win
@@ -4829,6 +4840,7 @@ https://etherscan.io/address/0xcE0000007B008F50d762D155002600004cD6c647
 https://etherscan.io/address/0xdc71affc862fceb6ad32be58e098423a7727bebd#code
 https://etherscan.io/address/0xdeF3AA48bad043e53207d359dcDFdE46F50b6C02
 https://etsypayments.com
+https://europe.priceless.com/shb
 https://exchange.fastex.com/
 https://exchange.pointpay.io/
 https://exchange.pointpay.io/buy-crypto
@@ -6003,6 +6015,7 @@ https://pcm.beta.20min.ch
 https://pentest-app.onetrust.com/
 https://peopleview.naspers.com
 https://performance.neogov.com
+https://performancemarketing.mastercard.com/portal/
 https://pg.paymaya.com
 https://pinepgconsole.in:9099
 https://pionex-doc.gitbook.io/apidocs/
@@ -6191,6 +6204,11 @@ https://portalapi.eu.clearpay.co.uk
 https://portalapi.us.afterpay.com
 https://powerdms.com/
 https://pprd.cybermalveillance.gouv.fr
+https://priceless.com/aa/
+https://priceless.com/aviator/
+https://priceless.com/citiaadvantage/
+https://priceless.com/golf/
+https://pricelesssurprises.com/
 https://pro.opensea.io/
 https://production.maf.auth0.com
 https://production.maf.auth0.com/api/v2/
@@ -6270,6 +6288,8 @@ https://soundcloud.com
 https://soundcloud.org
 https://speeddials.opera.com
 https://sprint.com
+https://src.mastercard.com/*
+https://src.mastercard.com/profile/enroll
 https://staff.monash
 https://stage.film.io 
 https://staging-prime.navan.com
@@ -6538,6 +6558,7 @@ https://www.etsy.com/developers/documentation/getting_started/api_basics
 https://www.etsy.com/mobile
 https://www.eu.lululemon.com/
 https://www.expressvpn.com
+https://www.finicity.com
 https://www.fishbowlapp.com/*
 https://www.fitburn.ai
 https://www.foreignaffairs.com/
@@ -6601,6 +6622,11 @@ https://www.marionnaud.ro/blog/
 https://www.marionnaud.ro/m-life/
 https://www.marionnaud.sk/blog/
 https://www.marionnaud.sk/m-life/
+https://www.mastercard.ch/de-ch.html
+https://www.mastercard.ch/fr-ch.html
+https://www.mastercard.com.au/en-au.html
+https://www.mastercard.nl/nl-nl.html
+https://www.mastercard.us/en-us.html
 https://www.microsoft.com/en-us/p/keeperchat/9pdqtcpn4kxn#activetab=pivot:overviewtab
 https://www.monash.edu
 https://www.monashprofessional.edu.au/
@@ -6644,6 +6670,7 @@ https://www.restaurant-information.com
 https://www.routerprotocol.com/
 https://www.sharerewards.com/
 https://www.shiseido.me/
+https://www.simplify.com/commerce/ 
 https://www.sitemercado.com.br
 https://www.skidxb.com/
 https://www.skroutz.gr/

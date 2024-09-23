@@ -1029,12 +1029,6 @@ https://admin.foxy.io/
 https://auth.foxy.io/
 https://foxycart-demo.foxycart.com/cart
 https://api.foxycart.com/
-*-bugcrowd.foxycart.com (read below for details)
-https://admin.foxycart.com
-https://admin.foxy.io/
-https://auth.foxy.io/
-https://foxycart-demo.foxycart.com/cart
-https://api.foxycart.com/
 https://github.com/freedomofpress/securedrop
 https://github.com/freedomofpress/securedrop-log
 https://github.com/freedomofpress/securedrop-proxy
@@ -1336,6 +1330,33 @@ https://www.vtcprodapi.maf.ae/svc/svcHifi.svc/SaveOCRReceipt
 https://production.maf.auth0.com/api/v2/
 https://production.maf.auth0.com
 https://maf-holding-prod.apigee.net
+https://www.simplify.com/commerce/ 
+https://www.mastercard.us/en-us.html
+https://www.mastercard.ch/de-ch.html
+https://www.mastercard.ch/fr-ch.html
+https://www.mastercard.com.au/en-au.html
+https://www.mastercard.nl/nl-nl.html
+https://developer.mastercard.com
+https://donate.mastercard.com
+https://demo.priceless.com/
+https://europe.priceless.com/shb
+https://priceless.com/golf/
+https://pricelesssurprises.com/
+https://priceless.com/aa/
+https://priceless.com/aviator/
+https://priceless.com/citiaadvantage/
+https://performancemarketing.mastercard.com/portal/
+https://src.mastercard.com/profile/enroll
+https://src.mastercard.com/*
+SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope
+ Finicity Connect
+Finicity- Data Services
+Finicity Decisioning
+https://www.finicity.com
+https://consumer.finicityreports.com
+Finicity- Open Banking Payment History application
+Finicity - OBB (Open Banking Business Service) 
+Public Others Target
 https://testflight.apple.com/join/e4owjwMX
 Mettle Android Application
 https://web-app.eevee.bbp-mettle.co.uk/login
