@@ -1,6 +1,5 @@
  *.sip.*.twilio.com
  *.test.*.lfscnp.com
- Finicity Connect
  Fortress.HongKong.IOS
  MS Office Add-In
  Mobile Plugin for Confluence Data Center and Server - Data Center - https://marketplace.atlassian.com/apps/1218250/mobile-plugin-for-confluence-data-center-and-server?hosting=datacenter
@@ -736,6 +735,7 @@
 *.sellzone.com
 *.semrush.com
 *.semrush.net
+*.sentiance.com
 *.seoab.io
 *.seoquake.com
 *.serious.li
@@ -854,6 +854,8 @@
 *.travelbook.de
 *.travelocity.ca
 *.travelocity.com
+*.travix.com
+*.travix.io
 *.trello.services
 *.trip.com
 *.trouw.nl
@@ -1297,7 +1299,6 @@ Android App
 Android App MEW wallet
 Android Deezer App
 Android SDK
-Android Viator Tours & Activities App
 Android Wallet
 Android Zen App
 Animate
@@ -1520,8 +1521,6 @@ Change Management Workflow for Jira Service Management - Server - https://market
 Change Management for JSM - Server - https://marketplace.atlassian.com/apps/1215175/change-management-for-jsm?hosting=server
 Character Animator
 Chartable
-ChatGPT
-ChatGPT Plugins
 Chime
 Chime Android App (Beta)
 Chime IOS App (Beta)
@@ -1637,7 +1636,6 @@ Desktop MFA for Windows
 Desktop MFA for macOS
 Developer Assistant for Confluence - Cloud - https://marketplace.atlassian.com/apps/1229446/developer-assistant-for-confluence?hosting=cloud
 Developer Assistant for Jira - Cloud - https://marketplace.atlassian.com/apps/1229343/developer-assistant-for-jira?hosting=cloud
-Developer Platform Playground
 Digital Editions
 Dimension
 Direct Contracts
@@ -1710,10 +1708,6 @@ File Tagging Plugin for Crucible - Server - https://marketplace.atlassian.com/ap
 Files.com Desktop Application for Windows or Mac
 Files.com SDK's
 Fing desktop
-Finicity - OBB (Open Banking Business Service) 
-Finicity Decisioning
-Finicity- Data Services
-Finicity- Open Banking Payment History application
 FireTV
 Firmware
 FishEye
@@ -2203,7 +2197,6 @@ Prod contract address: ZRX.e
 Product Delivery
 Project transfer for Crucible - Server - https://marketplace.atlassian.com/apps/1221227/project-transfer-for-crucible?hosting=server
 Protocol of the Swiss Post Voting System
-Public Others Target
 Questions for Confluence - Cloud - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=cloud
 Questions for Confluence - DataCenter - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=datacenter
 Questions for Confluence - Server - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=server
@@ -2230,7 +2223,6 @@ Roblox Studio
 Rockstar Games Launcher
 SBT Task Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1214713/sbt-task-plugin-for-bamboo?hosting=server
 SHA1-CD
-SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope
 SSL for Jira - Server - https://marketplace.atlassian.com/apps/1211087/ssl-for-jira?hosting=server
 SSL/TLS
 SSO for Atlassian Server and Data Center - DataCenter - https://marketplace.atlassian.com/apps/1216096/sso-for-atlassian-server-and-data-center?hosting=datacenter
@@ -2368,8 +2360,6 @@ Testnet contract address (subject to change): USDC.e
 Testnet contract address (subject to change): USDT.e
 Testnet contract address (subject to change): WBTC.e
 Testnet contract address (subject to change): WETH.e
-The Fork Android App
-The Fork iOS App
 The Perfume Shop (subdomains)
 The ShapeShift Mobile App: https://apps.apple.com/us/app/shapeshift-buy-trade-crypto/id996569075
 The Shapeshift Mobile App: https://play.google.com/store/apps/details?id=com.shapeshift.droid_shapeshift&hl=en_US&gl=US
@@ -2403,7 +2393,6 @@ Trello Mobile App for Android
 Trello Mobile App for iOS
 Trello Third Party Powerups
 Tripadvisor Android App
-Tripadvisor Owner APP (https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045663228?mt=8)
 Tripadvisor iOS App
 Troubleshooting and Support - Bamboo - Data Center - https://marketplace.atlassian.com/apps/1217745/troubleshooting-and-support-bamboo?hosting=datacenter
 Troubleshooting and Support - Bamboo - Server - https://marketplace.atlassian.com/apps/1217745/troubleshooting-and-support-bamboo?hosting=server
@@ -2831,7 +2820,6 @@ api.monespacesante.fr
 api.netlify.com
 api.ninjakiwi.com
 api.omise.co
-api.openai.com
 api.ovh.com
 api.pinterest.com
 api.pns.hk
@@ -2839,7 +2827,6 @@ api.poloniex.com
 api.portofantwerp.com
 api.portofantwerpbruges.com
 api.preprod.monespacesante.fr
-api.production.cde.tamg.cloud
 api.profiler.firefox.com
 api.qwant.com
 api.rapyd.net
@@ -2849,6 +2836,7 @@ api.reddit.com
 api.remitly.io
 api.rezserver.com
 api.sandbox.topperpay.com
+api.sentiance.com
 api.shipt.com
 api.skinport.com
 api.slack.com
@@ -2869,7 +2857,6 @@ api.tidal.com
 api.tideplatform.in
 api.topperpay.com
 api.trello.com
-api.tripadvisor.com
 api.truelayer[-sandbox].com
 api.tumblr.com
 api.unleashed.be
@@ -3476,6 +3463,8 @@ com.scopely.yux
 com.secretkeylabs.xverse
 com.security.BatteryCam
 com.security.care
+com.sentiance.journeys
+com.sentiance.journeys2
 com.shipt.groceries
 com.shipt.shopper
 com.skypicker.Skypicker
@@ -3613,6 +3602,7 @@ content-api-nextgen-prod.nba.com
 content-api-prod.nba.com
 content.ketnet.be
 contributor.stock.adobe.com
+controltower.sentiance.com
 core-api.nba.com
 core.yoti.com
 cornershopapp.android
@@ -3755,6 +3745,7 @@ docs.launchdarkly.com
 docs.near.org
 docs.nextcloud.com
 docs.redoxengine.com
+docs.sentiance.com
 documentcloud.adobe.com
 documents.adobe.com
 dointernal.com
@@ -3951,14 +3942,12 @@ grafana.fr.cloud.gov
 grammarly.ai
 graphql.sandbox.topperpay.com/graphql
 graphql.topperpay.com/graphql
+graphqldocs.sentiance.com
 gravatar.com
 grok.x.ai
 gutenberg.run
 guts.ninjakiwi.com
 gw.api.dh.comcast.com
-gwapi.tripadvisor.com
-gwapi1.tripadvisor.com
-gwapi2.tripadvisor.com
 h1-*your-own-instance*.cloud.mattermost.com
 h1-your-domain.zendesk.com
 hack1.mtrx.ovh
@@ -4404,6 +4393,7 @@ https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/pionex/id1485348891
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
+https://apps.apple.com/us/app/rac-go/id6444858115
 https://apps.apple.com/us/app/share-rewards/id1465450657
 https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
@@ -4636,7 +4626,6 @@ https://console.delltechnologies.com/nav/administration
 https://console.delltechnologies.com/nav/billing
 https://console.delltechnologies.com/nav/invoice
 https://consumer-sustainability.underarmour.com/en
-https://consumer.finicityreports.com
 https://content-server.ibotta.com/graphql
 https://content.agora.beta.gouv.fr
 https://content.usaa.com
@@ -4742,7 +4731,6 @@ https://dealer.prod.ps.axelspringer.de/purchases/004/bild/*
 https://dealer.prod.ps.axelspringer.de/purchases/004/welt/*
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
-https://demo.priceless.com/
 https://depinscan.io/
 https://design.glassdoor.com/*
 https://desktop.water-link.be/
@@ -4750,7 +4738,6 @@ https://dev.init.capital/contract-addresses/blast
 https://dev.init.capital/contract-addresses/mantle
 https://dev.tutoring.classdojo.com
 https://devedge.t-mobile.com
-https://developer.mastercard.com
 https://developer.newrelic.com/
 https://developer.withings.com/dashboard/
 https://developer.zendesk.com/documentation/zendesk-sdks/#android
@@ -4784,7 +4771,6 @@ https://docs.mapbox.com/api/
 https://docs.mapbox.com/ios/maps/overview/
 https://docs.newrelic.com/
 https://docs.tempus-ex.com
-https://donate.mastercard.com
 https://download.bkexer.xin/app/download/android/app-release.apk
 https://download.krisp.ai/mac
 https://download.krisp.ai/win
@@ -4843,7 +4829,6 @@ https://etherscan.io/address/0xcE0000007B008F50d762D155002600004cD6c647
 https://etherscan.io/address/0xdc71affc862fceb6ad32be58e098423a7727bebd#code
 https://etherscan.io/address/0xdeF3AA48bad043e53207d359dcDFdE46F50b6C02
 https://etsypayments.com
-https://europe.priceless.com/shb
 https://exchange.fastex.com/
 https://exchange.pointpay.io/
 https://exchange.pointpay.io/buy-crypto
@@ -5410,7 +5395,6 @@ https://gitlab.com/gitlab-org/opstrace/opstrace
 https://go.elementor.com/
 https://gomastercard.com.au
 https://google-reserve-api.thefork.io
-https://google-reserve-api.thefork.io 
 https://gpt.lime.bike
 https://graphql.acorns.com
 https://graphql.seek.com
@@ -5963,7 +5947,6 @@ https://online.srilankaevisa.lk/lka/en/login
 https://onlinena.vfsglobal.dz/AppointmentAdmin/
 https://op.paymaya.com/
 https://openai.com/
-https://openai.org
 https://opendata-demo.test-socrata.com
 https://opendata.test-socrata.com
 https://opendata.test-socrata.com/admin/gateway
@@ -6020,7 +6003,6 @@ https://pcm.beta.20min.ch
 https://pentest-app.onetrust.com/
 https://peopleview.naspers.com
 https://performance.neogov.com
-https://performancemarketing.mastercard.com/portal/
 https://pg.paymaya.com
 https://pinepgconsole.in:9099
 https://pionex-doc.gitbook.io/apidocs/
@@ -6125,6 +6107,7 @@ https://play.google.com/store/apps/details?id=com.pointpay.bank
 https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&hl=en
 https://play.google.com/store/apps/details?id=com.probit.app.android2.release.global
 https://play.google.com/store/apps/details?id=com.scu.bsafe
+https://play.google.com/store/apps/details?id=com.sentiance.saferdriver
 https://play.google.com/store/apps/details?id=com.siilo.android&hl=en
 https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
@@ -6208,11 +6191,6 @@ https://portalapi.eu.clearpay.co.uk
 https://portalapi.us.afterpay.com
 https://powerdms.com/
 https://pprd.cybermalveillance.gouv.fr
-https://priceless.com/aa/
-https://priceless.com/aviator/
-https://priceless.com/citiaadvantage/
-https://priceless.com/golf/
-https://pricelesssurprises.com/
 https://pro.opensea.io/
 https://production.maf.auth0.com
 https://production.maf.auth0.com/api/v2/
@@ -6292,8 +6270,6 @@ https://soundcloud.com
 https://soundcloud.org
 https://speeddials.opera.com
 https://sprint.com
-https://src.mastercard.com/*
-https://src.mastercard.com/profile/enroll
 https://staff.monash
 https://stage.film.io 
 https://staging-prime.navan.com
@@ -6562,7 +6538,6 @@ https://www.etsy.com/developers/documentation/getting_started/api_basics
 https://www.etsy.com/mobile
 https://www.eu.lululemon.com/
 https://www.expressvpn.com
-https://www.finicity.com
 https://www.fishbowlapp.com/*
 https://www.fitburn.ai
 https://www.foreignaffairs.com/
@@ -6626,11 +6601,6 @@ https://www.marionnaud.ro/blog/
 https://www.marionnaud.ro/m-life/
 https://www.marionnaud.sk/blog/
 https://www.marionnaud.sk/m-life/
-https://www.mastercard.ch/de-ch.html
-https://www.mastercard.ch/fr-ch.html
-https://www.mastercard.com.au/en-au.html
-https://www.mastercard.nl/nl-nl.html
-https://www.mastercard.us/en-us.html
 https://www.microsoft.com/en-us/p/keeperchat/9pdqtcpn4kxn#activetab=pivot:overviewtab
 https://www.monash.edu
 https://www.monashprofessional.edu.au/
@@ -6674,7 +6644,6 @@ https://www.restaurant-information.com
 https://www.routerprotocol.com/
 https://www.sharerewards.com/
 https://www.shiseido.me/
-https://www.simplify.com/commerce/ 
 https://www.sitemercado.com.br
 https://www.skidxb.com/
 https://www.skroutz.gr/
@@ -6771,7 +6740,13 @@ https://youcouldbe.com
 hub-api-sandbox.remitly.io
 hub.myconnect.com.au
 hub.vroid.com
+hub.vznkul.be/*
+hub.vznkul.be/services/interhub/InterHubService
+hub.vznkul.be/services/intrahub/IntraHubService
 hub.yoti.com
+hubacc.vznkul.be/*
+hubacc.vznkul.be/services/acceptance/interhub/InterHubService
+hubacc.vznkul.be/services/acceptance/intrahub/IntraHubService
 hyatt.com
 hybrid-analysis.com
 hypermint.com
@@ -6779,7 +6754,6 @@ i.ys7.com
 iOS App
 iOS Deezer App
 iOS SDK
-iOS Viator Tours & Activities App
 iOS Wallet
 iOS Zen App
 iRobot API Endpoint
@@ -6818,6 +6792,7 @@ infomaniak.events
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
 innogames.com
+insights-by-sentiance/id1608074635
 insights-categorizer-eu.truecaller.com
 insights-categorizer-noneu.truecaller.com
 insights-registry-eu.truecaller.com
@@ -6867,6 +6842,8 @@ jira.hyattdev.com
 jira.logitech.com
 jobs.kiwi.com
 jobs.marriott.com
+journeys-2/id984087229?mt=8
+journeys-api.sentiance.com/v2
 jp.naver.line.android
 js.crypto.com
 js.datadome.co
@@ -6888,7 +6865,6 @@ kb.databricks.com
 kbill.mackeeper.com
 kissandfly.com
 kit.snapchat.com
-kiwi.partner.viator.com
 knowage.monespacesante.fr
 knowledge.nextcloud.com
 knox.beta.blendlabs.com
@@ -6922,6 +6898,7 @@ lawmanager.marriott.com
 le.yahooapis.com
 leadgen-asia-south1.truecaller.com
 learningmanager.adobe.com
+legacy-docs.sentiance.com
 libsoup
 libsystemd
 licenses.adobe.com
@@ -7030,7 +7007,6 @@ marketplace.digitalocean.com
 marketplace.fedramp.gov
 marketplace.gamemaker.io
 marketplace.magento.com
-marlo.ext.tripadvisor.com
 marquee.gs.com
 marriottfranchisetransactions.marriott.com
 marrtool.com
@@ -7298,7 +7274,6 @@ open-api.capital.com
 open.airbnb.com
 open.larksuite.com
 open.ys7.com
-openai.com
 openapi.starbucks.com
 openid-noneu.truecaller.com
 openidconnect.net	
@@ -7333,10 +7308,6 @@ partner.steamgames.com
 partner.steampowered.com
 partner.swiftfinancial.com
 partner.tiktokshop.com
-partnerapi.tapayments.com
-partnerapi1.tapayments.com
-partnerapi2.tapayments.com
-partnerhelp.viator.com/
 partnerportal.skyscanner.net/*
 partners-search.truecaller.com
 partners.adobe.com
@@ -7510,7 +7481,6 @@ relay.firefox.com
 relay.playcanvas.com
 remitly.com
 remix-cf-vrt.akamaized.net
-rentals.tripadvisor.com
 repo.magento.com
 report.voi.com
 request3-asia-south1.truecaller.com
@@ -7601,7 +7571,6 @@ secureui.starbucks.com
 securite.monespacesante.fr
 securitytrails.com
 select.logitech.com
-selector.viator.com
 seller-id.tokopedia.com
 senior-bff.ketnet.be
 sensei.pixiv.net
@@ -7615,7 +7584,6 @@ sequoia-policy-config
 sequoia-wot
 serveur12.notebleue.com
 service.fing.com
-service.platform.tripadvisor.com
 service.racing.fanduel.com
 service.tvg.com
 servicedesk-accpt.portofantwerp.com
@@ -7871,7 +7839,6 @@ training.ui.com
 transact.playstation.com
 translate.badoo.com
 travelagents.marriott.com/
-travelagents.viator.com
 traveler.marriott.com
 travelfrom.fr
 trello.com
@@ -7987,9 +7954,6 @@ wallet.etoro.com
 wallet.oasis.io
 wallet.uphold.com
 wallet.venly.io
-walletproxy.tapayments.com
-walletproxy1.tapayments.com
-walletproxy2.tapayments.com
 wallets.api.playstation.com
 watchdocs.indriverapp.com
 watchlistapi.etoro.com
@@ -8031,7 +7995,6 @@ wga.volans.tech
 wgc.polo-static.com
 whitebit.com
 widget.rentalcars.com
-widget.thefork.com
 wiki-accpt.portofantwerp.com
 wiki-accpt.portofantwerpbruges.com
 wiki.cs.money
@@ -8324,7 +8287,6 @@ www.quip.com
 www.qwant.com
 www.recordedfuture.com
 www.redoxengine.com
-www.restaurant-information.com
 www.ritzcarlton.com/
 www.rocaton.com
 www.s-kaupat.fi
@@ -8372,7 +8334,6 @@ www.travelocity.com
 www.trekpleister.nl
 www.trendyol-milla.com
 www.trendyol.com
-www.tripadvisor.com
 www.triseptapi.com
 www.triseptdemo.com
 www.triseptsolutions.com

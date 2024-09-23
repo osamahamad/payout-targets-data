@@ -10,6 +10,8 @@
 *.prod.ftl.netflix.com
 api*.netflix.com
 *.bybit.com
+*.travix.com
+*.travix.io
 *.trip.com
 *.consumer.worldcoin.org
 *.toolsforhumanity.com

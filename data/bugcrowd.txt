@@ -1029,6 +1029,12 @@ https://admin.foxy.io/
 https://auth.foxy.io/
 https://foxycart-demo.foxycart.com/cart
 https://api.foxycart.com/
+*-bugcrowd.foxycart.com (read below for details)
+https://admin.foxycart.com
+https://admin.foxy.io/
+https://auth.foxy.io/
+https://foxycart-demo.foxycart.com/cart
+https://api.foxycart.com/
 https://github.com/freedomofpress/securedrop
 https://github.com/freedomofpress/securedrop-log
 https://github.com/freedomofpress/securedrop-proxy
@@ -1330,33 +1336,6 @@ https://www.vtcprodapi.maf.ae/svc/svcHifi.svc/SaveOCRReceipt
 https://production.maf.auth0.com/api/v2/
 https://production.maf.auth0.com
 https://maf-holding-prod.apigee.net
-https://www.simplify.com/commerce/ 
-https://www.mastercard.us/en-us.html
-https://www.mastercard.ch/de-ch.html
-https://www.mastercard.ch/fr-ch.html
-https://www.mastercard.com.au/en-au.html
-https://www.mastercard.nl/nl-nl.html
-https://developer.mastercard.com
-https://donate.mastercard.com
-https://demo.priceless.com/
-https://europe.priceless.com/shb
-https://priceless.com/golf/
-https://pricelesssurprises.com/
-https://priceless.com/aa/
-https://priceless.com/aviator/
-https://priceless.com/citiaadvantage/
-https://performancemarketing.mastercard.com/portal/
-https://src.mastercard.com/profile/enroll
-https://src.mastercard.com/*
-SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope
- Finicity Connect
-Finicity- Data Services
-Finicity Decisioning
-https://www.finicity.com
-https://consumer.finicityreports.com
-Finicity- Open Banking Payment History application
-Finicity - OBB (Open Banking Business Service) 
-Public Others Target
 https://testflight.apple.com/join/e4owjwMX
 Mettle Android Application
 https://web-app.eevee.bbp-mettle.co.uk/login
@@ -1498,6 +1477,14 @@ Okta On-Prem Agents ( AD, LDAP, RDP, IWA )
 https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows.htm
 https://help.okta.com/en/prod/Content/Topics/Settings/download-browser-plugin.htm
 https://pentest-app.onetrust.com/
+https://api.openai.com
+https://chat.openai.com
+https://chat.openai.com
+Third Party Targets
+OpenAI API Keys
+https://openai.com/
+https://platform.openai.com/playground
+Other
 https://opensea.io/
 https://pro.opensea.io/
 http://wallets.opensea.io/
@@ -1721,6 +1708,7 @@ https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://connect.soundcloud.com
 http://artists.soundcloud.com/
 https://soundcloud.org
+SpaceX and Starlink assets (target information and rewards detailed above on the brief)
 https://www.weebly.com/
 https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
@@ -1819,6 +1807,18 @@ Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
 Tesla Energy hardware you own
 Tesla vehicle hardware that you own
+https://www.thefork.com/
+https://m.thefork.com
+https://blog.thefork.com/
+https://api.thefork.com
+https://api.lafourchette.com
+https://review-api.lafourchette.com
+https://google-reserve-api.thefork.io
+https://m-api.lafourchette.com
+https://play.google.com/store/apps/details?id=com.lafourchette.lafourchette
+https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
+https://www.restaurant-information.com
+https://widget.thefork.com
 https://api.thousandeyes.com/
 https://app.thousandeyes.com/
 https://www.thousandeyes.com/
@@ -1831,6 +1831,26 @@ Tidal Client for iOS
 Tidal Client for Android
 https://offer.tidal.com/download
 Tidal Official Clients (e.g. Sonos integration, Tesla integration, etc.)
+https://api.production.cde.tamg.cloud
+https://partnerapi.tapayments.com
+https://partnerapi1.tapayments.com
+https://partnerapi2.tapayments.com
+https://walletproxy.tapayments.com
+https://walletproxy1.tapayments.com
+https://walletproxy2.tapayments.com
+https://www.tripadvisor.com
+Localized versions of www.tripadvisor.com available from the site's header or footer
+https://api.tripadvisor.com
+https://service.platform.tripadvisor.com
+https://gwapi.tripadvisor.com
+https://gwapi1.tripadvisor.com
+https://gwapi2.tripadvisor.com
+Any publicly accessible Tripadvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
+Tripadvisor Android App
+Tripadvisor iOS App
+https://rentals.tripadvisor.com
+https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045663228?mt=8
+http://marlo.ext.tripadvisor.com
 https://www.20min.ch
 https://coral.20min.ch/
 https://api.20min.ch/
@@ -1972,6 +1992,19 @@ https://blog.verisign.com
 https://namestudioforsocial.com/
 https://namestudio.com
 https://www.verisign.com
+https://apps.apple.com/us/app/viator-tours-activities/id434832826
+https://play.google.com/store/apps/details?id=com.viator.mobile.android&hl=en_US&gl=US
+https://supplier.viator.com/
+https://viatorapi.viator.com/service/directory
+https://www.toursgds.com/
+https://www.toursgds.com/ToursGdsService?wsdl
+https://www.toursgds.com/SupplierService?wsdl
+https://partners.viator.com
+https://travelagents.viator.com
+https://help.supplier.viator.com/en
+https://kiwi.partner.viator.com
+https://selector.viator.com
+https://partnerhelp.viator.com/
 Vox Cinemas iOS
 Vox Cinemas Android
 https://uae.voxcinemas.com/
@@ -2076,46 +2109,14 @@ https://bc.yieldstreet.net
 staging-app.bany.dev
 █████████████████████
 ████████████
-ChatGPT
-ChatGPT Plugins
-Developer Platform Playground
-OpenAI API Keys
-Other
-Third Party Targets
-api.openai.com
-https://api.openai.com
-https://chat.openai.com
-https://chat.openai.com
-https://openai.com/
-https://openai.org
-https://platform.openai.com/playground
-openai.com
 Opsgenie (Android)
 Opsgenie (IoS)
 app.opsgenie.com
 https://app.opsgenie.com
 https://mobileapp.opsgenie.com
 mobileapp.opsgenie.com
-SpaceX and Starlink assets (target information and rewards detailed above on the brief)
 https://manage.statuspage.io
 manage.statuspage.io
-The Fork Android App
-The Fork iOS App
-https://api.lafourchette.com
-https://api.thefork.com
-https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
-https://blog.thefork.com/
-https://google-reserve-api.thefork.io
-https://google-reserve-api.thefork.io 
-https://m-api.lafourchette.com
-https://m.thefork.com
-https://play.google.com/store/apps/details?id=com.lafourchette.lafourchette
-https://review-api.lafourchette.com
-https://widget.thefork.com
-https://www.restaurant-information.com
-https://www.thefork.com/
-widget.thefork.com
-www.restaurant-information.com
 Butler for Trello
 Calendar Power-Up
 Card Aging Power-Up
@@ -2134,58 +2135,3 @@ https://trello.com/power-ups/55a5d917446f517774210013/voting
 https://trello.com/power-ups/5c2462c384ab8949b1724a20/list-limits
 https://trello.com/power-ups/6052d130068a8c0de7b022b4
 trello.com
-Any publicly accessible Tripadvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
-Localized versions of www.tripadvisor.com available from the site's header or footer
-Tripadvisor Android App
-Tripadvisor Owner APP (https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045663228?mt=8)
-Tripadvisor iOS App
-api.production.cde.tamg.cloud
-api.tripadvisor.com
-gwapi.tripadvisor.com
-gwapi1.tripadvisor.com
-gwapi2.tripadvisor.com
-http://marlo.ext.tripadvisor.com
-https://api.production.cde.tamg.cloud
-https://api.tripadvisor.com
-https://gwapi.tripadvisor.com
-https://gwapi1.tripadvisor.com
-https://gwapi2.tripadvisor.com
-https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045663228?mt=8
-https://partnerapi.tapayments.com
-https://partnerapi1.tapayments.com
-https://partnerapi2.tapayments.com
-https://rentals.tripadvisor.com
-https://service.platform.tripadvisor.com
-https://walletproxy.tapayments.com
-https://walletproxy1.tapayments.com
-https://walletproxy2.tapayments.com
-https://www.tripadvisor.com
-marlo.ext.tripadvisor.com
-partnerapi.tapayments.com
-partnerapi1.tapayments.com
-partnerapi2.tapayments.com
-rentals.tripadvisor.com
-service.platform.tripadvisor.com
-walletproxy.tapayments.com
-walletproxy1.tapayments.com
-walletproxy2.tapayments.com
-www.tripadvisor.com
-Android Viator Tours & Activities App
-https://apps.apple.com/us/app/viator-tours-activities/id434832826
-https://help.supplier.viator.com/en
-https://kiwi.partner.viator.com
-https://partnerhelp.viator.com/
-https://partners.viator.com
-https://play.google.com/store/apps/details?id=com.viator.mobile.android&hl=en_US&gl=US
-https://selector.viator.com
-https://supplier.viator.com/
-https://travelagents.viator.com
-https://viatorapi.viator.com/service/directory
-https://www.toursgds.com/
-https://www.toursgds.com/SupplierService?wsdl
-https://www.toursgds.com/ToursGdsService?wsdl
-iOS Viator Tours & Activities App
-kiwi.partner.viator.com
-partnerhelp.viator.com/
-selector.viator.com
-travelagents.viator.com

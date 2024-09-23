@@ -112,6 +112,9 @@ prod-*.nubank.com.br
 prod-*.nu.com.mx
 prod-*.nu.com.co
 *.octopus.com
+*.openai.org
+*.openai.org
+*.openai.com
 *.opera.software
 *.osp.opera.software
 *.opera.technology
@@ -176,13 +179,23 @@ api-*.soundcloud.com
 *.teslamotors.com
 *.solarcity.com
 *.teslainsuranceservices.com
+*.tools.thefork.tech
 *.wimpmusic.com
 *.tidalhifi.com
 *.tdl.sh
+*.vacationhomerentals.com
+*.holidaylettings.com
+*.flipkey.com
+*.niumba.com
+*.housetrip.com
+*.bokundemo.com
+*.bokuntest.com
  *.sip.*.twilio.com
  Twilio CDNs (static*.twilio.com)
 *.gtld-servers.net (DNS service; DNS related)
 *.verisign-grs.com (DNS service; DNS related)
+*.viatorinc.com
+*.viator.com
 *.westernunion.*
 *.wu.*
 *.transferwise.com
@@ -194,30 +207,6 @@ api-*.soundcloud.com
 xhomeapi-*.codebig2.net
 xhomeapi-*.cloud.comcast.net
 *.xfinityhome.com
-*.openai.com
-*.openai.org
-*.openai.org
-*.openai.org
 *.opsgenie.com
 *.statuspage.io
-*.tools.thefork.tech
-*.tools.thefork.tech
 *.trello.services
-*.bokundemo.com
-*.bokuntest.com
-*.flipkey.com
-*.holidaylettings.com
-*.housetrip.com
-*.niumba.com
-*.vacationhomerentals.com
-*.bokundemo.com
-*.bokuntest.com
-*.flipkey.com
-*.holidaylettings.com
-*.housetrip.com
-*.niumba.com
-*.vacationhomerentals.com
-*.viator.com
-*.viatorinc.com
-*.viator.com
-*.viatorinc.com
