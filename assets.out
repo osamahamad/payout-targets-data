@@ -443,7 +443,6 @@
 *.instacart.com
 *.instacart.tools
 *.int.remitly.com
-*.intercomassets.com / *.intercomcdn.com
 *.intergamma-test.nl
 *.intergamma.cloud
 *.intergamma.nl/*
@@ -4221,7 +4220,6 @@ https://api.ibotta.com
 https://api.immutable.com
 https://api.int.ibops.net
 https://api.int.ibops.net/customer-loyalty-service
-https://api.intercom.com
 https://api.justeat-int.com
 https://api.lafourchette.com
 https://api.letsexchange.io/doc
@@ -4288,8 +4286,6 @@ https://app.evaa.finance/
 https://app.film.io/
 https://app.hubspot.com/
 https://app.ibotta.com/sign-in 
-https://app.intercom.com
-https://app.intercom.io/
 https://app.latitudepayapps.com/
 https://app.opsgenie.com
 https://app.optimizely.com/
@@ -4773,8 +4769,6 @@ https://developer.zendesk.com/documentation/zendesk-sdks/#ios
 https://developers.afterpay.com
 https://developers.elementor.com/
 https://developers.hubspot.com/docs/api/overview
-https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
-https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
 https://developers.vendhq.com/
 https://devportal.rec.net/
 https://devstaging.pcapcloud.com/*
@@ -6597,7 +6591,6 @@ https://www.iciparisxl.nl/blog/
 https://www.ifood.com.br
 https://www.infura.io/faucet/linea
 https://www.infura.io/faucet/sepolia
-https://www.intercom.com/
 https://www.just-eat.co.uk
 https://www.just-eat.ie
 https://www.justeat.it/rider
@@ -6671,7 +6664,6 @@ https://www.opera.com/computer/thanks?ni=stable&os=windows
 https://www.originenergy.com.au/
 https://www.personio.com/free-trial/
 https://www.personio.de/kostenlos-testen/
-https://www.pexels.com/
 https://www.pinelabs.ae/
 https://www.pionex.com/
 https://www.pixpay.fr/

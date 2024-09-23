@@ -31,6 +31,8 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.cyberghost.com
 *.dell.com/*
 *.delltechnologies.com/* 
+*.dell.com/*
+*.delltechnologies.com/* 
 *.sandbox.directly.com/
 *.dropbox.com    
 *.hellosign.com
@@ -72,7 +74,6 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.indeedflex.com
 *.indeed.tech
 *.indeed.net
-*.intercomassets.com / *.intercomcdn.com
 *.jora.com
 *.jora.xyz
 *.lieferando.at
@@ -196,6 +197,8 @@ api-*.soundcloud.com
 *.verisign-grs.com (DNS service; DNS related)
 *.viatorinc.com
 *.viator.com
+*.westernunion.*
+*.wu.*
 *.westernunion.*
 *.wu.*
 *.transferwise.com
