@@ -1,2 +1,21 @@
-Any FIS asset is in scope
-Any Worldpay asset is in scope
+*.tools.thefork.tech
+*.transferwise.com
+*.wise.com
+AWS infrastructure and services in use by Wise (eg: S3 buckets)
+https://api.lafourchette.com
+https://api.thefork.com
+https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
+https://apps.apple.com/us/app/wise-ex-transferwise/id612261027
+https://blog.thefork.com/
+https://github.com/transferwise/*
+https://google-reserve-api.thefork.io
+https://m-api.lafourchette.com
+https://m.thefork.com
+https://play.google.com/store/apps/details?id=com.lafourchette.lafourchette
+https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&gl=US
+https://review-api.lafourchette.com
+https://transferwise.com
+https://widget.thefork.com
+https://wise.com
+https://www.restaurant-information.com
+https://www.thefork.com/

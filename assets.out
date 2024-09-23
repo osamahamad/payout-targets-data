@@ -856,10 +856,12 @@
 *.tinderwebstaging.com
 *.tomorrowland.com
 *.ton.diamonds
+*.tools.thefork.tech
 *.toolsforhumanity.com
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trafficjunky.com
+*.transferwise.com
 *.travelbook.de
 *.travelocity.ca
 *.travelocity.com
@@ -938,6 +940,7 @@
 *.white.market
 *.whois.eu
 *.wimpmusic.com
+*.wise.com
 *.wissen-sie-mehr.de
 *.withairbnb.com
 *.withbuddies.com
@@ -1245,6 +1248,7 @@ API Shield
 AS41690
 AWS Infrastructure
 AWS Service Catalog for JSM Cloud - Cloud - https://marketplace.atlassian.com/apps/1221551/aws-service-catalog-for-jsm-cloud?hosting=cloud
+AWS infrastructure and services in use by Wise (eg: S3 buckets)
 Account Settings
 Acronis Agent
 Acronis Cloud Manager
@@ -4219,6 +4223,7 @@ https://api.int.ibops.net
 https://api.int.ibops.net/customer-loyalty-service
 https://api.intercom.com
 https://api.justeat-int.com
+https://api.lafourchette.com
 https://api.letsexchange.io/doc
 https://api.linen.app/
 https://api.moneyboxapp.com/
@@ -4247,6 +4252,7 @@ https://api.slex.io
 https://api.staging.luno.com/
 https://api.t-mobile.com
 https://api.test.latitudefinancial.com
+https://api.thefork.com
 https://api.thesecurityteam.rocks
 https://api.thousandeyes.com/
 https://api.toobit.com/
@@ -4318,6 +4324,7 @@ https://apps.apple.com/app/id1660882885
 https://apps.apple.com/app/id6444928783
 https://apps.apple.com/app/infomaniak-kdrive/id1482778676
 https://apps.apple.com/app/probit-global/id1621264266
+https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/bigcommerce/id1418570678
 https://apps.apple.com/au/app/caltex-australia/id1314768594
@@ -4428,6 +4435,7 @@ https://apps.apple.com/us/app/under-armour/id1092704571
 https://apps.apple.com/us/app/usaa-mobile/id312325565
 https://apps.apple.com/us/app/viator-tours-activities/id434832826
 https://apps.apple.com/us/app/western-union-transfer-money/id424716908
+https://apps.apple.com/us/app/wise-ex-transferwise/id612261027
 https://apps.apple.com/us/app/xfinity/id1178765645
 https://apps.apple.com/vc/app/moneytree-finance-made-easy/id586847189
 https://apps.facebook.com/pearls-peril
@@ -4531,6 +4539,7 @@ https://blastscan.io/address/0xf683Ce59521AA464066783d78e40CD9412f33D21#code
 https://blockexplorer.electroneum.com
 https://blog.bitpanda.com/en
 https://blog.lastpass.com
+https://blog.thefork.com/
 https://blog.verisign.com
 https://blog.whitebit.com/
 https://bluefin.io/
@@ -5388,6 +5397,7 @@ https://github.com/tetu-io/tetu-contracts-v2/blob/master/contracts/vault/Strateg
 https://github.com/tetu-io/tetu-contracts-v2/blob/master/contracts/vault/TetuVaultV2.sol
 https://github.com/tetu-io/tetu-contracts-v2/blob/master/contracts/vault/VaultInsurance.sol
 https://github.com/tetu-io/tetu-contracts-v2/blob/master/contracts/ve/VeTetu.sol
+https://github.com/transferwise/*
 https://github.com/tronprotocol/java-tron
 https://github.com/trustwallet/wallet-core/
 https://github.com/valvesoftware
@@ -5414,6 +5424,7 @@ https://gitlab.com/gitlab-org/gitlab-vscode-extension
 https://gitlab.com/gitlab-org/opstrace/opstrace
 https://go.elementor.com/
 https://gomastercard.com.au
+https://google-reserve-api.thefork.io
 https://gpt.lime.bike
 https://graphql.acorns.com
 https://graphql.seek.com
@@ -5555,9 +5566,11 @@ https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
 https://lsagentrelay.lansweeper.com/
 https://luna.amazon.com/*
+https://m-api.lafourchette.com
 https://m.bitforex.com/en/download
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
 https://m.csqtrk.net
+https://m.thefork.com
 https://m.westernunion.com
 https://machinefi.com/
 https://maf-holding-prod.apigee.net
@@ -6093,6 +6106,7 @@ https://play.google.com/store/apps/details?id=com.irobot.home
 https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US	
 https://play.google.com/store/apps/details?id=com.keepersecurity.chat&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.kubi.kucoin
+https://play.google.com/store/apps/details?id=com.lafourchette.lafourchette
 https://play.google.com/store/apps/details?id=com.lastpass.authenticator&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.lastpass.lpandroid
 https://play.google.com/store/apps/details?id=com.limebike
@@ -6144,6 +6158,7 @@ https://play.google.com/store/apps/details?id=com.tmobile.kids
 https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
 https://play.google.com/store/apps/details?id=com.tmobile.syncuptag
 https://play.google.com/store/apps/details?id=com.tmobile.tuesdays&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.trusteeplus
 https://play.google.com/store/apps/details?id=com.ua.shop&hl=en
 https://play.google.com/store/apps/details?id=com.usaa.mobile.android.usaa&hl=en
@@ -6234,6 +6249,7 @@ https://rentals.tripadvisor.com
 https://reptox.cnesst.gouv.qc.ca
 https://res.cloudinary.com
 https://resume.com
+https://review-api.lafourchette.com
 https://rewards.gdx.org/
 https://ring.com/*
 https://rusadminappt.vfsglobal.com/Global-Admin/
@@ -6373,6 +6389,7 @@ https://tr.ee
 https://tracker.bugcrowd.com
 https://tracker.naspers.com/
 https://trade.bluefin.io/
+https://transferwise.com
 https://translate.elementor.com/
 https://transvision.westernunion.com
 https://travelagents.viator.com
@@ -6459,7 +6476,9 @@ https://webmail.usaa.com
 https://webrtc.8x8.com/
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
 https://westernunionbank.com
+https://widget.thefork.com
 https://wiki.xenproject.org/wiki/Xen_Project_Repositories
+https://wise.com
 https://world.planethoster.net
 https://wowjobs.ca
 https://ws.multiplayer.classdojo.com/
@@ -6668,6 +6687,7 @@ https://www.probit.com
 https://www.redtube.com/
 https://www.redtubepremium.com/
 https://www.remove.bg
+https://www.restaurant-information.com
 https://www.routerprotocol.com/
 https://www.sharerewards.com/
 https://www.shiseido.me/
@@ -6685,6 +6705,7 @@ https://www.takeaway.com/drivers
 https://www.takeaway.com/foodwiki/
 https://www.tchap.gouv.fr
 https://www.teamviewer.com/en/products/teamviewer/
+https://www.thefork.com/
 https://www.theperfumeshop.com/blog/
 https://www.theperfumeshop.com/ie/blog/
 https://www.thousandeyes.com/
