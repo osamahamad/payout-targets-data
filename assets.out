@@ -307,7 +307,6 @@
 *.exodus.io
 *.expediacruises.com
 *.expediapartnercentral.com
-*.expressvpn.com
 *.fallguys.com
 *.fanbox.cc
 *.fareharbor.com
@@ -861,6 +860,7 @@
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trafficjunky.com
+*.transferwise.com
 *.travelbook.de
 *.travelocity.ca
 *.travelocity.com
@@ -939,6 +939,7 @@
 *.white.market
 *.whois.eu
 *.wimpmusic.com
+*.wise.com
 *.wissen-sie-mehr.de
 *.withairbnb.com
 *.withbuddies.com
@@ -960,8 +961,6 @@
 *.xiaomi.com
 *.xiaomiyoupin.com
 *.xoom.com
-*.xvservice.net
-*.xvtest.net
 *.yadifa.eu
 *.yelp-support.com
 *.yelp.com
@@ -1246,6 +1245,7 @@ API Shield
 AS41690
 AWS Infrastructure
 AWS Service Catalog for JSM Cloud - Cloud - https://marketplace.atlassian.com/apps/1221551/aws-service-catalog-for-jsm-cloud?hosting=cloud
+AWS infrastructure and services in use by Wise (eg: S3 buckets)
 Account Settings
 Acronis Agent
 Acronis Cloud Manager
@@ -1336,7 +1336,6 @@ Any resource created or accessed with the Outscale Cloud, on all regions
 Any subdomain application issue
 Any subdomain infrastructure issue
 AppActions
-Apple App Store (886492891)
 Application tunnels - DataCenter - https://marketplace.atlassian.com/apps/1227901/application-tunnels?hosting=datacenter
 Application tunnels - Server - https://marketplace.atlassian.com/apps/1227901/application-tunnels?hosting=server
 Apps which are listed within this bot
@@ -1693,16 +1692,6 @@ Exness Social Trading
 Exness Trade: Online Trading
 Exodus Browser Extension
 Exodus Desktop Wallet
-ExpressVPN APIs
-ExpressVPN Android application
-ExpressVPN Chrome extension
-ExpressVPN Firefox extension
-ExpressVPN Keys Browser Extension
-ExpressVPN Linux application
-ExpressVPN Router
-ExpressVPN Windows application
-ExpressVPN iOS application
-ExpressVPN macOS application
 External service data leakage 
 FIles.com REST API
 Fail Build Trigger for Bamboo - Server - https://marketplace.atlassian.com/apps/1215235/fail-build-trigger-for-bamboo?hosting=server
@@ -1785,7 +1774,6 @@ Google Cloud Plateform Instances
 Google Drive - https://trello.com/power-ups/55a5d916446f517774210006/google-drive
 Google Drive for Confluence (Official) - Legacy Editor Only - Cloud - https://marketplace.atlassian.com/apps/1213092/google-drive-for-confluence-official-legacy-editor-only?hosting=cloud
 Google Hangouts - https://trello.com/power-ups/55a5d916446f517774210007/google-hangouts
-Google Play (com.expressvpn.vpn)
 Grafana Loki
 Grafana Mimir
 Grafana OSS
@@ -1992,7 +1980,6 @@ Mattermost Desktop
 Mattermost Plugins
 Mattermost Source Code
 Media Encoder
-MediaStreamer DNS servers
 Megaphone
 Membership
 Mercado Pago Apps Endpoints
@@ -2459,7 +2446,6 @@ VHX Branded Customer Roku Apps
 VHX Branded Customer iOS Apps
 VIP191
 VPN
-VPN servers
 VPN: vpn.monash.edu
 Variable tasks for Bamboo - Server - https://marketplace.atlassian.com/apps/1212549/variable-tasks-for-bamboo?hosting=server
 Vectorize
@@ -4064,7 +4050,6 @@ http://datapod-1-druid-query.production.forescoutcloud.net/v3/matrixoverview
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/overlappingzones
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
 http://emerald.oasis.dev
-http://expressobutiolem.onion
 http://exzo.network
 http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
 http://federatedid-na1.services.adobe.com
@@ -4432,6 +4417,7 @@ https://apps.apple.com/us/app/under-armour/id1092704571
 https://apps.apple.com/us/app/usaa-mobile/id312325565
 https://apps.apple.com/us/app/viator-tours-activities/id434832826
 https://apps.apple.com/us/app/western-union-transfer-money/id424716908
+https://apps.apple.com/us/app/wise-ex-transferwise/id612261027
 https://apps.apple.com/us/app/xfinity/id1178765645
 https://apps.apple.com/vc/app/moneytree-finance-made-easy/id586847189
 https://apps.facebook.com/pearls-peril
@@ -5156,7 +5142,6 @@ https://github.com/enkryptcom/enKrypt
 https://github.com/eth-infinitism/account-abstraction
 https://github.com/ethereum/ercs/blob/master/ERCS/erc-4337.md
 https://github.com/ethereum/ercs/blob/master/ERCS/erc-7562.md
-https://github.com/expressvpn/lightway-core
 https://github.com/fireblocks/mpc-lib
 https://github.com/freedomofpress/securedrop
 https://github.com/freedomofpress/securedrop-client
@@ -5393,6 +5378,7 @@ https://github.com/tetu-io/tetu-contracts-v2/blob/master/contracts/vault/Strateg
 https://github.com/tetu-io/tetu-contracts-v2/blob/master/contracts/vault/TetuVaultV2.sol
 https://github.com/tetu-io/tetu-contracts-v2/blob/master/contracts/vault/VaultInsurance.sol
 https://github.com/tetu-io/tetu-contracts-v2/blob/master/contracts/ve/VeTetu.sol
+https://github.com/transferwise/*
 https://github.com/tronprotocol/java-tron
 https://github.com/trustwallet/wallet-core/
 https://github.com/valvesoftware
@@ -6151,6 +6137,7 @@ https://play.google.com/store/apps/details?id=com.tmobile.kids
 https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
 https://play.google.com/store/apps/details?id=com.tmobile.syncuptag
 https://play.google.com/store/apps/details?id=com.tmobile.tuesdays&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.trusteeplus
 https://play.google.com/store/apps/details?id=com.ua.shop&hl=en
 https://play.google.com/store/apps/details?id=com.usaa.mobile.android.usaa&hl=en
@@ -6381,6 +6368,7 @@ https://tr.ee
 https://tracker.bugcrowd.com
 https://tracker.naspers.com/
 https://trade.bluefin.io/
+https://transferwise.com
 https://translate.elementor.com/
 https://transvision.westernunion.com
 https://travelagents.viator.com
@@ -6469,6 +6457,7 @@ https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
 https://westernunionbank.com
 https://widget.thefork.com
 https://wiki.xenproject.org/wiki/Xen_Project_Repositories
+https://wise.com
 https://world.planethoster.net
 https://wowjobs.ca
 https://ws.multiplayer.classdojo.com/
@@ -6567,7 +6556,6 @@ https://www.etsy.com
 https://www.etsy.com/developers/documentation/getting_started/api_basics
 https://www.etsy.com/mobile
 https://www.eu.lululemon.com/
-https://www.expressvpn.com
 https://www.finicity.com
 https://www.fishbowlapp.com/*
 https://www.fitburn.ai
