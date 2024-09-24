@@ -21,16 +21,11 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.canva.com
 *.canva.tech
 *.cashstaging.app
-*.meraki.com
-*.ikarem.io
-*.network-auth.com
 *.xfinity.com	
 *.comcast.com
 *.xcal.tv
 *.sys.comcast.net
 *.cyberghost.com
-*.dell.com/*
-*.delltechnologies.com/* 
 *.dell.com/*
 *.delltechnologies.com/* 
 *.sandbox.directly.com/
@@ -53,9 +48,6 @@ casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 open redirect at *.epam.com
 Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.etsy.com
-*.expressvpn.com
-*.xvservice.net
-*.xvtest.net
 *.expressvpn.com
 *.xvservice.net
 *.xvtest.net
@@ -178,6 +170,18 @@ prod-*.nu.com.co
 api-*.soundcloud.com
 *.square.com
 *.squareup.com
+*.tesla.cn
+*.tesla.services
+*.tesla.com
+*.teslamotors.com
+*.solarcity.com
+*.teslainsuranceservices.com
+*.tesla.cn
+*.tesla.services
+*.tesla.com
+*.teslamotors.com
+*.solarcity.com
+*.teslainsuranceservices.com
 *.tools.thefork.tech
 *.wimpmusic.com
 *.tidalhifi.com
@@ -197,6 +201,8 @@ api-*.soundcloud.com
 *.viator.com
 *.westernunion.*
 *.wu.*
+*.transferwise.com
+*.wise.com
 *-cvr-aws-*.sys.comcast.net
 *.dh-commerce.com 
 *.ssr.ccp.xcal.tv 

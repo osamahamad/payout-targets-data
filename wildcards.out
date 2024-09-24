@@ -401,7 +401,6 @@
 *.hyperwallet.com
 *.hypr.com
 *.igpayment.com
-*.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
 *.imperva.com
@@ -524,7 +523,6 @@
 *.megatix.be
 *.melonapp.com
 *.memorable.io
-*.meraki.com
 *.metamask.io
 *.mevo.com
 *.mgmt.fndlsb.net
@@ -563,7 +561,6 @@
 *.neat.wtf
 *.neatcommerce.com
 *.neattest.com
-*.network-auth.com
 *.new.livestream.com
 *.newegg.ca
 *.newegg.com
@@ -768,6 +765,7 @@
 *.smartcontract.com
 *.snooguts.net
 *.sol-data.com
+*.solarcity.com
 *.sonyentertainmentnetwork.com
 *.sophos.com
 *.soundcloud.org
@@ -812,6 +810,11 @@
 *.teams.cloudflare.com
 *.techbook.de
 *.telenor.se
+*.tesla.cn
+*.tesla.com
+*.tesla.services
+*.teslainsuranceservices.com
+*.teslamotors.com
 *.testdrive.workfront.com
 *.testnet.immutable.com
 *.thinkingphones.com
@@ -834,6 +837,7 @@
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trafficjunky.com
+*.transferwise.com
 *.travelbook.de
 *.travelocity.ca
 *.travelocity.com
@@ -912,6 +916,7 @@
 *.white.market
 *.whois.eu
 *.wimpmusic.com
+*.wise.com
 *.wissen-sie-mehr.de
 *.withairbnb.com
 *.withbuddies.com

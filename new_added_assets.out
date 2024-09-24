@@ -1,20 +1,19 @@
-*.expressvpn.com
-*.xvservice.net
-*.xvtest.net
-Apple App Store (886492891)
-ExpressVPN APIs
-ExpressVPN Android application
-ExpressVPN Chrome extension
-ExpressVPN Firefox extension
-ExpressVPN Keys Browser Extension
-ExpressVPN Linux application
-ExpressVPN Router
-ExpressVPN Windows application
-ExpressVPN iOS application
-ExpressVPN macOS application
-Google Play (com.expressvpn.vpn)
-MediaStreamer DNS servers
-VPN servers
-http://expressobutiolem.onion
-https://github.com/expressvpn/lightway-core
-https://www.expressvpn.com
+*.solarcity.com
+*.tesla.cn
+*.tesla.com
+*.tesla.services
+*.teslainsuranceservices.com
+*.teslamotors.com
+*.transferwise.com
+*.wise.com
+AWS infrastructure and services in use by Wise (eg: S3 buckets)
+Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
+Tesla Energy hardware you own
+Tesla vehicle hardware that you own
+https://apps.apple.com/us/app/tesla/id582007913
+https://apps.apple.com/us/app/wise-ex-transferwise/id612261027
+https://github.com/transferwise/*
+https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&gl=US
+https://transferwise.com
+https://wise.com
