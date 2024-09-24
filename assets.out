@@ -25,6 +25,7 @@
 *-bugcrowd.foxycart.com (read below for details)
 *-cvr-aws-*.sys.comcast.net
 *.-np.*.lfscnp.com
+*.10bis.co.il
 *.10ktf.com
 *.1debit.com
 *.3lateral.com
@@ -123,6 +124,7 @@
 *.bbp-mettle.co.uk
 *.berush.com
 *.beta.lahitapiola.fi
+*.beta.scoober.com
 *.betfair.com
 *.betfair.es
 *.betfair.it
@@ -140,6 +142,7 @@
 *.bingx.com
 *.bingx.pro
 *.bionic.ai
+*.bistro.sk
 *.bitdefender.com
 *.bitdefender.net
 *.bitforex.com
@@ -204,6 +207,7 @@
 *.chmfin.com
 *.cic-bug-bounty.auth0app.com
 *.citrixworkspacesapi.net
+*.citymeal.com
 *.claritymoney.com
 *.clearxchange.com
 *.cloud.malwarebytes.com
@@ -275,6 +279,7 @@
 *.earlywarning.com
 *.east.fdbox.net
 *.easy.ac
+*.eat.ch
 *.ein-herz-fuer-kinder.de
 *.elastic.co
 *.elasticnet.co
@@ -452,6 +457,11 @@
 *.joinclubhouse.com
 *.jora.com
 *.jora.xyz
+*.just-data.io
+*.just-eat.com 
+*.just-eat.dk
+*.just-eat.fr
+*.just-eat.no
 *.justfall.lol,*.justplay.lol,*.1v1.lol
 *.karwei.nl/*
 *.kchat.infomaniak.com
@@ -487,6 +497,8 @@
 *.latitudepay.com
 *.latitudepay.com.au
 *.libelle.nl
+*.lieferando.at
+*.lieferando.de
 *.lightroom.adobe.com
 *.line-apps.com
 *.line.biz
@@ -667,6 +679,7 @@
 *.psynet.gg
 *.psyonix.com
 *.pumb.ua
+*.pyszne.pl
 *.qaglobal-liquidity.gs.com
 *.quip.com
 *.quixel.com
@@ -719,6 +732,7 @@
 *.scatec.io
 *.scbe.api.here.com
 *.scene7.com
+*.scoober.com
 *.scopely.com
 *.scopely.io
 *.search.gov
@@ -813,6 +827,7 @@
 *.swiftype.com
 *.swisspass.ch
 *.sys.comcast.net
+*.takeaway.com
 *.tapiola.fi
 *.taralite.com
 *.tdl.sh
@@ -829,6 +844,7 @@
 *.thinkingphones.com
 *.thinkingphones.net
 *.threatdown.com
+*.thuisbezorgd.nl
 *.ticketing.cm.com
 *.tickets.ua
 *.tidalhifi.com
@@ -840,7 +856,6 @@
 *.tinderwebstaging.com
 *.tomorrowland.com
 *.ton.diamonds
-*.tools.thefork.tech
 *.toolsforhumanity.com
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
@@ -920,7 +935,6 @@
 *.werkenbijgamma.be
 *.werkenbijgamma.nl
 *.werkenbijkarwei.nl
-*.westernunion.*
 *.white.market
 *.whois.eu
 *.wimpmusic.com
@@ -938,7 +952,6 @@
 *.worldcoin.dev
 *.worldcoin.org
 *.wotif.com
-*.wu.*
 *.xcal.tv
 *.xfinity.com	
 *.xfinityhome.com
@@ -952,6 +965,7 @@
 *.yelp-support.com
 *.yelp.com
 *.yelpwifi.com
+*.yourdelivery.de
 *.yoyogames.com
 *.ys7.com
 *.yuga.com
@@ -1305,7 +1319,6 @@ Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)
 Any Worldpay asset is in scope
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any host / web property verified to be owned by Segment (domains/IP space/etc.)	
-Any host or verified to be owned by Western Union (domains/IP space/etc.)
 Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Any host/web property verified to be owned by Twilio
 Any host/web property/mobile app verified to be owned by Indeed
@@ -3009,6 +3022,7 @@ assets.tumblr.com
 assure-noneu.truecaller.com
 astra.datastax.com
 asupport.suivo.com
+atarkasher.co.il
 audience-uploader-asia-south1.truecaller.com
 audience-uploader-noneu.truecaller.com
 audience-uploader.truecaller.com
@@ -3215,10 +3229,14 @@ client-api.arkoselabs.com
 clientcert.gamma.redoxstage.com
 cloud.acrobat.com
 cloud.coinbase.com
+cloud.connect.justeattakeaway.com
+cloud.connect.takeaway.com
 cloud.digitalocean.com
 cloud.elastic.co
 cloud.gov
 cloud.malwarebytes.com
+cloud.update.justeattakeaway.com
+cloud.update.takeaway.com
 cloud8.8x8.com
 cloudflareworkers.com
 cm.com/[locale]/app/*
@@ -3696,6 +3714,7 @@ derivws.com
 design.gitlab.com
 design.ui.com
 dev-training.ui.com
+dev.takeaway.com/html/
 developer*.earlywarning.com
 developer.amazon.com/alexa/*
 developer.amazon.com/apps-and-games/*
@@ -4006,7 +4025,6 @@ hotornot.com
 hpanel.hostinger.com
 hpp.truelayer[-sandbox].com
 ht.visa.com
-http://agenttraining.westernunion.com
 http://analytics.prosus.com
 http://api.insightly.com/v3.1/
 http://api.koho.ca/1.0
@@ -4137,7 +4155,6 @@ https://affiliate.cryptology.com/
 https://afterpay.com
 https://agent.alphax.com
 https://agent.apps.monash.edu/
-https://agentportal.westernunion.com
 https://airflow-prod.coda.io/*
 https://airflow-prod.ops.coda.io/*
 https://aiven.io/
@@ -4199,7 +4216,7 @@ https://api.immutable.com
 https://api.int.ibops.net
 https://api.int.ibops.net/customer-loyalty-service
 https://api.intercom.com
-https://api.lafourchette.com
+https://api.justeat-int.com
 https://api.letsexchange.io/doc
 https://api.linen.app/
 https://api.moneyboxapp.com/
@@ -4228,7 +4245,6 @@ https://api.slex.io
 https://api.staging.luno.com/
 https://api.t-mobile.com
 https://api.test.latitudefinancial.com
-https://api.thefork.com
 https://api.thesecurityteam.rocks
 https://api.thousandeyes.com/
 https://api.toobit.com/
@@ -4300,7 +4316,6 @@ https://apps.apple.com/app/id1660882885
 https://apps.apple.com/app/id6444928783
 https://apps.apple.com/app/infomaniak-kdrive/id1482778676
 https://apps.apple.com/app/probit-global/id1621264266
-https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/bigcommerce/id1418570678
 https://apps.apple.com/au/app/caltex-australia/id1314768594
@@ -4410,7 +4425,6 @@ https://apps.apple.com/us/app/tidex/id1632072370
 https://apps.apple.com/us/app/under-armour/id1092704571
 https://apps.apple.com/us/app/usaa-mobile/id312325565
 https://apps.apple.com/us/app/viator-tours-activities/id434832826
-https://apps.apple.com/us/app/western-union-transfer-money/id424716908
 https://apps.apple.com/us/app/wise-ex-transferwise/id612261027
 https://apps.apple.com/us/app/xfinity/id1178765645
 https://apps.apple.com/vc/app/moneytree-finance-made-easy/id586847189
@@ -4515,7 +4529,6 @@ https://blastscan.io/address/0xf683Ce59521AA464066783d78e40CD9412f33D21#code
 https://blockexplorer.electroneum.com
 https://blog.bitpanda.com/en
 https://blog.lastpass.com
-https://blog.thefork.com/
 https://blog.verisign.com
 https://blog.whitebit.com/
 https://bluefin.io/
@@ -4536,6 +4549,7 @@ https://bounty-server.dracoon.app/reporting/api
 https://bounty-server.dracoon.app/webdav
 https://bounty.cryptobox.com
 https://bounty.legapass.com
+https://brand.takeaway.com
 https://bridge.iotex.io
 https://bridge.ternoa.network/
 https://bridgr-testnet.polkalokr.com/
@@ -4573,6 +4587,7 @@ https://canva.com/developers
 https://carbonneutral.ampol.com.au/
 https://cards.ampol.com.au
 https://carecredit.com.au
+https://careers.takeaway.com
 https://cash.app
 https://cashback.opera.com/
 https://casino.bwin.com
@@ -4632,7 +4647,6 @@ https://content.usaa.com
 https://contentcredentials.org/
 https://contrastsecurity.dev/
 https://coral.20min.ch/
-https://corporate.westernunion.com
 https://create.gx.games
 https://credit.pinelabs.com
 https://cronos.crypto.org/explorer/address/0x0A3e766c364D180A4cDB75E97390067ef8063d66
@@ -4707,7 +4721,6 @@ https://crypto.com/nft
 https://crypto.com/price
 https://cryptowallet.opera-api.com
 https://csp-prod.codebig2.net
-https://cuba.westernunion.com
 https://customer-api.datadome.co
 https://customerportal.winconnect.com.au/login
 https://customers.us1.fga.dev/
@@ -4781,12 +4794,10 @@ https://download.opera.com
 https://downloads.arlo.com
 https://dropbox.com/dash/download
 https://dxc.episerver.net/ 
-https://ebanking.westernunionbank.com
 https://ecohesion.aufbaubank.de
 https://edge.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua))
 https://education.cfr.org/
 https://eforms.neogov.com
-https://egypt.westernunion.com
 https://eim.eu-west-2.outscale.com
 https://electroneum.com/
 https://elementor.com/
@@ -4905,7 +4916,6 @@ https://form.asana.com
 https://formative.eassessment.monash.edu/
 https://forms.apps.monash.edu/
 https://forum.newrelic.com
-https://foundation.westernunion.com
 https://foxycart-demo.foxycart.com/cart
 https://fulcrom.finance
 https://futures.coinstore.com/api
@@ -5398,7 +5408,6 @@ https://gitlab.com/gitlab-org/gitlab-vscode-extension
 https://gitlab.com/gitlab-org/opstrace/opstrace
 https://go.elementor.com/
 https://gomastercard.com.au
-https://google-reserve-api.thefork.io
 https://gpt.lime.bike
 https://graphql.acorns.com
 https://graphql.seek.com
@@ -5422,7 +5431,6 @@ https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows
 https://help.okta.com/en/prod/Content/Topics/Settings/download-browser-plugin.htm
 https://help.supplier.viator.com/en
 https://hipaa.staging.gearset.com/
-https://hk.westernunion.com
 https://home.classdojo.com
 https://home.xfinity.com
 https://houston-staging.pdq.tools
@@ -5440,7 +5448,6 @@ https://identity.ic0.app/
 https://identity.monash.edu
 https://identity.monash.edu/
 https://images.latitudepayapps.com/
-https://india.westernunion.com
 https://indonesiavoa.vfsevisa.id/
 https://infiniteathlete.ai
 https://infra.coda.io/*
@@ -5463,15 +5470,17 @@ https://itunes.apple.com/pl/app/panda-uconnect/id1117321678?mt=8
 https://itunes.apple.com/us/app/aax/id1434278660?mt=8
 https://itunes.apple.com/us/app/cash-app/id711923939?mt=8
 https://itunes.apple.com/us/app/irobot-home/id1012014442?mt=8
+https://itunes.apple.com/us/app/lieferando-de/id419724490?l=es&mt=8
 https://itunes.apple.com/us/app/uconnect/id1229236724?mt=8
 https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045663228?mt=8
-https://iwgo.westernunion.com
 https://jaguar.here.com
-https://jamaica.westernunion.com
 https://jointhemoment.net/
 https://jojo.exchange/
 https://jp-api-staging.getmoneytree.com
 https://judge.me/reviews
+https://just-eat.es
+https://just-eat.io/
+https://just-eat.it
 https://justonweb.be/fines/
 https://keepersecurity.com
 https://keepersecurity.com/console
@@ -5527,7 +5536,6 @@ https://liveassist21.usaa.com/
 https://liveassist22.usaa.com/
 https://liveassist23.usaa.com
 https://liveassist24.usaa.com
-https://location.westernunion.com
 https://login.aufbaubank.de
 https://login.neogov.com
 https://login.salt.ch
@@ -5536,12 +5544,9 @@ https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
 https://lsagentrelay.lansweeper.com/
 https://luna.amazon.com/*
-https://m-api.lafourchette.com
 https://m.bitforex.com/en/download
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
 https://m.csqtrk.net
-https://m.thefork.com
-https://m.westernunion.com
 https://machinefi.com/
 https://maf-holding-prod.apigee.net
 https://manage.cic-bug-bounty.auth0app.com/
@@ -5862,6 +5867,8 @@ https://mc.sendgrid.com/
 https://mcs.arlo.com
 https://mcssl.com
 https://mediaflows.cloudinary.com/
+https://menulog.co.nz
+https://menulog.com.au
 https://meraki.cisco.com
 https://metamask-sdk-socket.metafi.codefi.network/
 https://metamask.github.io/phishing-warning/<vX.Y.Z>
@@ -5921,6 +5928,7 @@ https://near.foundation/
 https://net.geo.opera.com
 https://newrelic.com/
 https://newrelic.com/blog
+https://newsletter.thuisbezorgd.nl
 https://nice.wfmusaa.com
 https://nns.ic0.app/
 https://node.e2ro.com/*
@@ -5972,16 +5980,13 @@ https://partnerapi.tapayments.com
 https://partnerapi1.tapayments.com
 https://partnerapi2.tapayments.com
 https://partnerhelp.viator.com/
-https://partnernet.westernunion.com
 https://partners.usaa.com
 https://partners.viator.com
-https://partners.westernunion.com
 https://passport.immutable.com/
 https://pay.unity.com
 https://paymayabiller-prod.paymaya.com/
 https://payment-connectors.vendhq.com/
 https://paymentoptimizerdashboard.pinepg.in/
-https://paymentstatus.westernunion.com
 https://payoutapi.maya.ph/
 https://pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-acces-info
 https://pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-revision
@@ -6073,7 +6078,6 @@ https://play.google.com/store/apps/details?id=com.irobot.home
 https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US	
 https://play.google.com/store/apps/details?id=com.keepersecurity.chat&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.kubi.kucoin
-https://play.google.com/store/apps/details?id=com.lafourchette.lafourchette
 https://play.google.com/store/apps/details?id=com.lastpass.authenticator&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.lastpass.lpandroid
 https://play.google.com/store/apps/details?id=com.limebike
@@ -6130,10 +6134,10 @@ https://play.google.com/store/apps/details?id=com.trusteeplus
 https://play.google.com/store/apps/details?id=com.ua.shop&hl=en
 https://play.google.com/store/apps/details?id=com.usaa.mobile.android.usaa&hl=en
 https://play.google.com/store/apps/details?id=com.viator.mobile.android&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.westernunion.android.mtapp&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.worldcoin
 https://play.google.com/store/apps/details?id=com.xfinity.digitalhome&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.yayd.exchangglobal
+https://play.google.com/store/apps/details?id=com.yopeso.lieferando&hl=en_US
 https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost
 https://play.google.com/store/apps/details?id=edu.monash.monashmobile
 https://play.google.com/store/apps/details?id=fr.gouv.tchap.a&hl=fr
@@ -6201,6 +6205,7 @@ https://production.maf.auth0.com/api/v2/
 https://profile.pentest.clicsante.ca
 https://projects.epam.com
 https://public-ipfs-mainnet.ternoa.network
+https://public.je-apis.com
 https://public.thesecurityteam.rocks/resources/app/android/etnapp-5.2.2-staging.apk
 https://rarible.com/
 https://rbo.raiffeisen.ua/
@@ -6209,12 +6214,10 @@ https://rec.net/
 https://rec.net/download
 https://recroom.com/studio
 https://redash-staging.getmoneytree.com/
-https://remoteaccess.westernunion.com
 https://rentals.tripadvisor.com
 https://reptox.cnesst.gouv.qc.ca
 https://res.cloudinary.com
 https://resume.com
-https://review-api.lafourchette.com
 https://rewards.gdx.org/
 https://ring.com/*
 https://rusadminappt.vfsglobal.com/Global-Admin/
@@ -6235,8 +6238,6 @@ https://secure.cuehit.net
 https://secure.mypass.de/
 https://secure.neogov.com
 https://secure.vendhq.com
-https://secure.westernunion.com
-https://secureauth.westernunion.com
 https://securemail.usaa.com
 https://securesignin.neogov.com
 https://securesignin.powerdms.com/
@@ -6246,21 +6247,21 @@ https://seekcdn.com
 https://segment.com/docs/sources/
 https://selector.viator.com
 https://sendgrid.com
-https://senegal.westernunion.com
 https://service.platform.tripadvisor.com
 https://service.post.ch/ekp-web/
 https://service.post.ch/ele-klp/ele/
 https://service.post.ch/zopa/app/
 https://service.sitemercado.com.br
-https://sg.westernunion.com
 https://shiny.ops.coda.io/*
 https://shop-acc.kinepolis.be/
 https://shop.ifood.com.br
 https://shop.lululemon.com
 https://shop.monash.edu/
 https://shop.post.ch/shop
+https://shop.thuisbezorgd.nl
 https://signup.sendgrid.com/
 https://simnext.bullish-test.com
+https://skipthedishes.com
 https://sks-ch-gva-2.exo.io
 https://slex.io/
 https://smartmockups.com/
@@ -6288,6 +6289,7 @@ https://static.demarches-simplifiees.fr
 https://static.polygon.technology/network/mainnet/v1/index.json
 https://static.usaa.com
 https://status-im-files.ams3.cdn.digitaloceanspaces.com/StatusIm-Mobile-v1.19.0-d6a6c4.apk
+https://status-takeaway.com/status
 https://status.app/api/download/linux
 https://status.app/api/download/windows
 https://status.mobile.monash/
@@ -6316,6 +6318,7 @@ https://t-mobile.com
 https://t.me/AlfredTradesBot?start=hackenproof
 https://t.me/Open_league_bot
 https://t.me/tapps_bot
+https://takeawaypay.azurefd.net/en/takeawaypay/
 https://teach.classdojo.com
 https://tectonic.finance
 https://tectonic.gitbook.io/docs/developer/price-oracle 
@@ -6352,7 +6355,6 @@ https://tracker.naspers.com/
 https://trade.bluefin.io/
 https://transferwise.com
 https://translate.elementor.com/
-https://transvision.westernunion.com
 https://travelagents.viator.com
 https://trbinance.com
 https://trello.com/power-ups/55a5d915446f517774210001/box
@@ -6385,6 +6387,7 @@ https://trello.com/power-ups/6048e897c73d032a983e2a7c/dashcards
 https://trello.com/power-ups/6052d130068a8c0de7b022b4
 https://trm.pinelabs.ae
 https://tsock.us1.twilio.com
+https://tv.takeaway.com
 https://twilio.com/blog
 https://uae.voxcinemas.com/
 https://ui.com/distributors/
@@ -6435,8 +6438,6 @@ https://web.teamviewer.com
 https://webmail.usaa.com
 https://webrtc.8x8.com/
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
-https://westernunionbank.com
-https://widget.thefork.com
 https://wiki.xenproject.org/wiki/Xen_Project_Repositories
 https://wise.com
 https://world.planethoster.net
@@ -6446,9 +6447,6 @@ https://ws.usaa.com
 https://wslatam.ifood.com.br
 https://wsloja.ifood.com.br
 https://wsmbr.usaa.com/
-https://wuagentportal.westernunion.com
-https://wucare.westernunion.com
-https://wuinsights.westernunion.com
 https://www.*mongodb.com/*
 https://www.20min.ch
 https://www.aax.com/apidoc/index.html#introduction
@@ -6558,6 +6556,10 @@ https://www.ifood.com.br
 https://www.infura.io/faucet/linea
 https://www.infura.io/faucet/sepolia
 https://www.intercom.com/
+https://www.just-eat.co.uk
+https://www.just-eat.ie
+https://www.justeat.it/rider
+https://www.justeattakeaway.com
 https://www.kaleido.ai
 https://www.keepersecurity.com/download.html
 https://www.kiwai-enr.fr/
@@ -6574,6 +6576,7 @@ https://www.lastpass.com
 https://www.letspaylater.ph/
 https://www.letspaylater.sg/
 https://www.li.me/
+https://www.lieferando.de/thetakeaway/
 https://www.lululemon.co.jp/
 https://www.lululemon.co.nz/
 https://www.lululemon.co.uk/
@@ -6626,6 +6629,7 @@ https://www.opera.com/computer/thanks?ni=stable&os=windows
 https://www.originenergy.com.au/
 https://www.personio.com/free-trial/
 https://www.personio.de/kostenlos-testen/
+https://www.pexels.com/
 https://www.pinelabs.ae/
 https://www.pionex.com/
 https://www.pixpay.fr/
@@ -6641,7 +6645,6 @@ https://www.probit.com
 https://www.redtube.com/
 https://www.redtubepremium.com/
 https://www.remove.bg
-https://www.restaurant-information.com
 https://www.routerprotocol.com/
 https://www.sharerewards.com/
 https://www.shiseido.me/
@@ -6652,13 +6655,17 @@ https://www.skroutz.gr/
 https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
 https://www.sourcetreeapp.com/
+https://www.status-takeaway.com/status
 https://www.superdrug.com/blog/
+https://www.takeaway.com/deals
+https://www.takeaway.com/drivers
+https://www.takeaway.com/foodwiki/
 https://www.tchap.gouv.fr
 https://www.teamviewer.com/en/products/teamviewer/
-https://www.thefork.com/
 https://www.theperfumeshop.com/blog/
 https://www.theperfumeshop.com/ie/blog/
 https://www.thousandeyes.com/
+https://www.thuisbezorgd.nl/aanmelden
 https://www.thumbzilla.com/
 https://www.toobit.com/
 https://www.toursgds.com/
@@ -6692,29 +6699,6 @@ https://www.water-link.be
 https://www.waterstoring.be/
 https://www.web.com
 https://www.weebly.com/
-https://www.westernunion.at
-https://www.westernunion.be
-https://www.westernunion.ca
-https://www.westernunion.ch
-https://www.westernunion.co.nz
-https://www.westernunion.co.uk
-https://www.westernunion.com
-https://www.westernunion.com.au
-https://www.westernunion.de
-https://www.westernunion.dk
-https://www.westernunion.ee
-https://www.westernunion.es
-https://www.westernunion.fi
-https://www.westernunion.fr
-https://www.westernunion.gr
-https://www.westernunion.ie
-https://www.westernunion.it
-https://www.westernunion.lu
-https://www.westernunion.nl
-https://www.westernunion.no
-https://www.westernunion.pl
-https://www.westernunion.pt
-https://www.westernunion.se
 https://www.winconnect.com.au/get-connected/
 https://www.winconnect.com.au/moving-out/
 https://www.xbox.com/en-us/games/store/rec-room/9pgpqk0xthrz
@@ -6726,7 +6710,6 @@ https://www.zabbix.com/download_sources
 https://www.zetachain.com/
 https://www.zetachain.com/docs
 https://www.zetachain.com/ecosystem
-https://www2.westernunion.com
 https://wwws-staging.moneytree.jp/link/
 https://wwws-staging.moneytree.jp/link/mobile/
 https://wwws-staging.moneytree.jp/link/mobile/#/signup?client_id=38d99a6e8e9fc87c866f5aa82bdc2569c464b2323a55e0b28f658efa678e9623&redirect_uri=https://wwws-staging.moneytree.jp/link/mobile/callback&response_type=token&scope=guest_read+accounts_read+transactions_read+request_refresh
@@ -6807,6 +6790,7 @@ internal.netlify.com
 internal.whitebit.com
 international.coinbase.com
 interseller.io
+intranet.takeaway.com
 inventory.data.gov
 investors.semrush.com
 invitation.infomaniak.com
@@ -7140,7 +7124,6 @@ myaccount.trouw.nl
 myaccount.volkskrant.nl
 myaccount.vtm.be
 myconnect.com.au
-mydesktop.wu.com
 mynexuz.be
 mynexuz.be/myUZ/
 mynexuzhealth/id1459856321
@@ -7515,6 +7498,7 @@ reservations.all-inclusive.marriott.com
 reservations.rezserver.com
 reservations.wynnvacations.com
 resources.krisp.ai
+restaurant-api.takeaway.com
 reviewer.pullrequest.com
 rewire.com
 rezagent.triseptsolutions.com
@@ -7705,6 +7689,7 @@ static-cdn.clario.co
 static.apps.nextcloud.com
 static.bittrex.com
 static.rarible.com
+static.thuisbezorgd.nl
 station.veriff.com
 stationapi.veriff.com
 stats-trafficcop-prod.nba.com
