@@ -75,23 +75,6 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.intercomassets.com / *.intercomcdn.com
 *.jora.com
 *.jora.xyz
-*.lieferando.at
-*.yourdelivery.de
-*.takeaway.com
-*.scoober.com
-*.citymeal.com
-*.lieferando.de
-*.thuisbezorgd.nl
-*.bistro.sk
-*.just-eat.fr
-*.eat.ch
-*.just-eat.no
-*.just-eat.dk
-*.pyszne.pl
-*.10bis.co.il
-*.beta.scoober.com
-*.just-data.io
-*.just-eat.com 
 *.genoapay.co.nz
 *.genoapay.com
 *.latitudefinancial.co.nz
@@ -180,6 +163,7 @@ api-*.soundcloud.com
 *.solarcity.com
 *.teslainsuranceservices.com
 *.tools.thefork.tech
+*.tools.thefork.tech
 *.wimpmusic.com
 *.tidalhifi.com
 *.tdl.sh
@@ -196,6 +180,8 @@ api-*.soundcloud.com
 *.verisign-grs.com (DNS service; DNS related)
 *.viatorinc.com
 *.viator.com
+*.westernunion.*
+*.wu.*
 *.westernunion.*
 *.wu.*
 *.transferwise.com
