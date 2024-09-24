@@ -1,19 +1,13 @@
-*.solarcity.com
-*.tesla.cn
-*.tesla.com
-*.tesla.services
-*.teslainsuranceservices.com
-*.teslamotors.com
-*.transferwise.com
-*.wise.com
-AWS infrastructure and services in use by Wise (eg: S3 buckets)
-Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
-Tesla Energy hardware you own
-Tesla vehicle hardware that you own
-https://apps.apple.com/us/app/tesla/id582007913
-https://apps.apple.com/us/app/wise-ex-transferwise/id612261027
-https://github.com/transferwise/*
-https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&gl=US
-https://transferwise.com
-https://wise.com
+*.ikarem.io
+*.meraki.com
+*.network-auth.com
+Cisco Meraki Dashboard Mobile Application (iOS and Android)
+Cisco Meraki MR Access Points
+Cisco Meraki MS Switches
+Cisco Meraki MV Security Cameras
+Cisco Meraki MX Security Appliances
+Cisco Meraki Systems Manager
+Cisco Meraki Virtual Security Appliances
+Cisco Meraki Z Series (Z1,Z3(C))
+apps.meraki.io
+https://meraki.cisco.com

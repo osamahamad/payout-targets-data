@@ -422,6 +422,7 @@
 *.hyperwallet.com
 *.hypr.com
 *.igpayment.com
+*.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
 *.imperva.com
@@ -544,6 +545,7 @@
 *.megatix.be
 *.melonapp.com
 *.memorable.io
+*.meraki.com
 *.metamask.io
 *.mevo.com
 *.mgmt.fndlsb.net
@@ -582,6 +584,7 @@
 *.neat.wtf
 *.neatcommerce.com
 *.neattest.com
+*.network-auth.com
 *.new.livestream.com
 *.newegg.ca
 *.newegg.com
@@ -1537,6 +1540,14 @@ China Network
 Chrome Extension
 Chrome Extention
 Circle Cameras
+Cisco Meraki Dashboard Mobile Application (iOS and Android)
+Cisco Meraki MR Access Points
+Cisco Meraki MS Switches
+Cisco Meraki MV Security Cameras
+Cisco Meraki MX Security Appliances
+Cisco Meraki Systems Manager
+Cisco Meraki Virtual Security Appliances
+Cisco Meraki Z Series (Z1,Z3(C))
 ClickHouse Cloud environment hosted by ClickHouse
 Cloud Compatibility for Jira - DataCenter - https://marketplace.atlassian.com/apps/1221117/cloud-compatibility-for-jira?hosting=datacenter
 Cloud Compatibility for Jira - Server - https://marketplace.atlassian.com/apps/1221117/cloud-compatibility-for-jira?hosting=server
@@ -2985,6 +2996,7 @@ apps-accpt.portofantwerp.com
 apps-accpt.portofantwerpbruges.com
 apps.apple.com/fr/app/mon-espace-sant%C3%A9/id1589255019 (iOS)
 apps.apple.com/us/app/crowdstrike-falcon/id1458815656
+apps.meraki.io
 apps.nextcloud.com
 apps.portofantwerp.com
 apps.portofantwerpbruges.com
@@ -5881,6 +5893,7 @@ https://mcssl.com
 https://mediaflows.cloudinary.com/
 https://menulog.co.nz
 https://menulog.com.au
+https://meraki.cisco.com
 https://metamask-sdk-socket.metafi.codefi.network/
 https://metamask.github.io/phishing-warning/<vX.Y.Z>
 https://metrobyt-mobile.com

@@ -21,6 +21,9 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.canva.com
 *.canva.tech
 *.cashstaging.app
+*.meraki.com
+*.ikarem.io
+*.network-auth.com
 *.xfinity.com	
 *.comcast.com
 *.xcal.tv
@@ -170,12 +173,6 @@ prod-*.nu.com.co
 api-*.soundcloud.com
 *.square.com
 *.squareup.com
-*.tesla.cn
-*.tesla.services
-*.tesla.com
-*.teslamotors.com
-*.solarcity.com
-*.teslainsuranceservices.com
 *.tesla.cn
 *.tesla.services
 *.tesla.com
