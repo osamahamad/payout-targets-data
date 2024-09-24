@@ -24,6 +24,9 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.meraki.com
 *.ikarem.io
 *.network-auth.com
+*.meraki.com
+*.ikarem.io
+*.network-auth.com
 *.xfinity.com	
 *.comcast.com
 *.xcal.tv
@@ -173,12 +176,6 @@ prod-*.nu.com.co
 api-*.soundcloud.com
 *.square.com
 *.squareup.com
-*.tesla.cn
-*.tesla.services
-*.tesla.com
-*.teslamotors.com
-*.solarcity.com
-*.teslainsuranceservices.com
 *.tools.thefork.tech
 *.wimpmusic.com
 *.tidalhifi.com
