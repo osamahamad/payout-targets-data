@@ -918,6 +918,10 @@ https://console.delltechnologies.com/nav/administration
 https://console.delltechnologies.com/nav/invoice
 https://console.delltechnologies.com/nav/billing
 Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
+https://console.delltechnologies.com/nav/administration
+https://console.delltechnologies.com/nav/invoice
+https://console.delltechnologies.com/nav/billing
+Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
 Actively Supported, Bounty Eligible Dell Products
 Actively Supported, Non-Reward Eligible Dell Products
 app.sandbox.directly.com
@@ -990,6 +994,40 @@ https://sos-ch-gva-2.exo.io/
 https://internal.exoscale.ch
 https://api-ch-gva-2.exoscale.com/v2
 https://api-ch-gva-2.exoscale.com/v2
+VPN servers
+ExpressVPN iOS application
+ExpressVPN Android application
+ExpressVPN Linux application
+ExpressVPN macOS application
+ExpressVPN Windows application
+ExpressVPN Router
+ExpressVPN Firefox extension
+ExpressVPN Chrome extension
+MediaStreamer DNS servers
+ExpressVPN APIs
+https://www.expressvpn.com
+http://expressobutiolem.onion
+Google Play (com.expressvpn.vpn)
+Apple App Store (886492891)
+https://github.com/expressvpn/lightway-core
+ExpressVPN Keys Browser Extension
+VPN servers
+ExpressVPN iOS application
+ExpressVPN Android application
+ExpressVPN Linux application
+ExpressVPN macOS application
+ExpressVPN Windows application
+ExpressVPN Router
+ExpressVPN Firefox extension
+ExpressVPN Chrome extension
+MediaStreamer DNS servers
+ExpressVPN APIs
+https://www.expressvpn.com
+http://expressobutiolem.onion
+Google Play (com.expressvpn.vpn)
+Apple App Store (886492891)
+https://github.com/expressvpn/lightway-core
+ExpressVPN Keys Browser Extension
 https://financialforce.com
 Any FIS asset is in scope
 https://flo.uri.sh
@@ -1806,11 +1844,6 @@ https://infiniteathlete.ai
 https://platform.infiniteathlete.ai
 https://docs.tempus-ex.com
 https://github.com/tempus-ex
-https://apps.apple.com/us/app/tesla/id582007913
-Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
-https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
-Tesla Energy hardware you own
-Tesla vehicle hardware that you own
 https://www.thefork.com/
 https://m.thefork.com
 https://blog.thefork.com/
@@ -2075,18 +2108,6 @@ https://secureauth.westernunion.com
 mydesktop.wu.com
 Any host or verified to be owned by Western Union (domains/IP space/etc.)
 Researcher owned WHMCS Instance
-https://transferwise.com
-https://wise.com
-https://apps.apple.com/us/app/wise-ex-transferwise/id612261027
-https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&gl=US
-AWS infrastructure and services in use by Wise (eg: S3 buckets)
-https://github.com/transferwise/*
-https://transferwise.com
-https://wise.com
-https://apps.apple.com/us/app/wise-ex-transferwise/id612261027
-https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&gl=US
-AWS infrastructure and services in use by Wise (eg: S3 buckets)
-https://github.com/transferwise/*
 https://api.woo.org/
 https://x.woo.org/
 https://play.google.com/store/apps/details?id=network.woo.mobile&hl=en&gl=US&pli=1
