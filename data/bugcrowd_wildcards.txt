@@ -196,6 +196,8 @@ api-*.soundcloud.com
 *.verisign-grs.com (DNS service; DNS related)
 *.viatorinc.com
 *.viator.com
+*.westernunion.*
+*.wu.*
 *.transferwise.com
 *.wise.com
 *-cvr-aws-*.sys.comcast.net
