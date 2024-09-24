@@ -98,10 +98,12 @@
 *.api.dailymotion.com
 *.api.originenergy.com.au
 *.api.playstation.com
+*.app.asana.com
 *.app.spacelift.dev
 *.arlo.com
 *.arloxcld.com
 *.artstation.com
+*.asana.biz
 *.astaro.com
 *.atairbnb.com
 *.atg.se
@@ -4275,6 +4277,7 @@ https://app-staging.getmoneytree.com
 https://app-stg.inheriti.com
 https://app.agency360.com
 https://app.allbridge.io
+https://app.asana.com
 https://app.asymetrix.io/
 https://app.aurory.io
 https://app.chime.com/
@@ -4372,6 +4375,7 @@ https://apps.apple.com/ua/app/trustee-plus-crypto-neobank/id1634455978
 https://apps.apple.com/us/app/%E5%B1%A5%E6%AD%B4%E6%9B%B8%E4%BD%9C%E6%88%90-%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%89/id1484451230
 https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
 https://apps.apple.com/us/app/aex%E5%AE%89%E9%93%B6/id1542565144
+https://apps.apple.com/us/app/asana-mobile/id489969512
 https://apps.apple.com/us/app/auth0-guardian/id1093447833
 https://apps.apple.com/us/app/backblaze/id628638330
 https://apps.apple.com/us/app/bigone/id1485385044
@@ -4460,6 +4464,9 @@ https://arbiscan.io/address/0xdd4536dD9636564D891c919416880a3e250f975A
 https://arbiscan.io/address/0xeb0b9B5FFb763dD69440565F63c67f9695B7C3dA
 https://arlo-device.messaging.netgear.com
 https://artist.link
+https://asana.com
+https://asana.com/apps?category=made-by-asana
+https://asana.com/download
 https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://asymetrix.io/
 https://aurora.plus/
@@ -4920,6 +4927,7 @@ https://flags.expeng.optimizely.com
 https://flo.uri.sh
 https://flourish.studio/
 https://flow.opera.com
+https://form.asana.com
 https://formative.eassessment.monash.edu/
 https://forms.apps.monash.edu/
 https://forum.newrelic.com
@@ -6051,6 +6059,7 @@ https://play.google.com/store/apps/details?id=com.aex.aexApp
 https://play.google.com/store/apps/details?id=com.afterpaymobile.uk
 https://play.google.com/store/apps/details?id=com.afterpaymobile.us&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.app.xt
+https://play.google.com/store/apps/details?id=com.asana.app&hl=en
 https://play.google.com/store/apps/details?id=com.aswat.carrefouruae
 https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.core&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&hl=en_US&gl=US

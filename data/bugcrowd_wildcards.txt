@@ -5,6 +5,8 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.arlo.com
 *.arloxcld.com
 *.central.arubanetworks.com
+*.asana.biz
+*.app.asana.com
 *.cic-bug-bounty.auth0app.com
 *.tube8.com
 *.trafficjunky.com
@@ -177,7 +179,6 @@ api-*.soundcloud.com
 *.teslamotors.com
 *.solarcity.com
 *.teslainsuranceservices.com
-*.tools.thefork.tech
 *.tools.thefork.tech
 *.wimpmusic.com
 *.tidalhifi.com
