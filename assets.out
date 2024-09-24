@@ -192,7 +192,6 @@
 *.casinohuone.com
 *.cb.dev
 *.cbhq.net
-*.central.arubanetworks.com
 *.certinia.com
 *.certsy.com
 *.certsynonprod.com
@@ -1372,16 +1371,6 @@ Arlo Ultra
 Arlo Video Doorbell
 Arlo Wire-Free Outdoor Siren (Home Security System)
 Arlo Wireless Video Doorbell
-Aruba AirWave AMP
-Aruba ClearPass Policy Manager
-Aruba EdgeConnect Enterprise
-Aruba EdgeConnect Enterprise Orchestrator
-Aruba Fabric Composer
-Aruba InstantOn APs and supporting backend infrastructure
-Aruba InstantOn Switches
-Aruba NetEdit
-Aruba Wireless – ArubaOS and Aruba Instant
-ArubaOS-CX Wired Switches
 Asana Importer Plugin for Jira - Server - https://marketplace.atlassian.com/apps/1213440/asana-importer-plugin-for-jira?hosting=server
 Assets - AWS Integration - DataCenter - https://marketplace.atlassian.com/apps/1218757/assets-aws-integration?hosting=datacenter
 Assets - AWS Integration - Server - https://marketplace.atlassian.com/apps/1218757/assets-aws-integration?hosting=server
@@ -6503,7 +6492,6 @@ https://www.anytask.com/
 https://www.api.hpr.kiwai-normandie.fr/
 https://www.api.kiwai-normandie.fr
 https://www.arlo.com
-https://www.arubanetworks.com/products/networking/analytics-and-assurance/user-experience-insight-sensors/
 https://www.atlassian.com/enterprise/data-center/bitbucket
 https://www.atlassian.com/enterprise/data-center/confluence
 https://www.atlassian.com/enterprise/data-center/crowd
