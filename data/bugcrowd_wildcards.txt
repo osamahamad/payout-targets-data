@@ -4,6 +4,7 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.atlastunnel.com
 *.arlo.com
 *.arloxcld.com
+*.central.arubanetworks.com
 *.asana.biz
 *.app.asana.com
 *.cic-bug-bounty.auth0app.com
@@ -49,7 +50,6 @@ casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 *.epam.com
 open redirect at *.epam.com
 Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
-*.etsy.com
 *.etsy.com
 *.expressvpn.com
 *.xvservice.net
