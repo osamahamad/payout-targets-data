@@ -1281,17 +1281,6 @@ Agent Usage Visualization for Bamboo - Server - https://marketplace.atlassian.co
 AgentConnect (see program description for github link)
 Agora for Android (see dowload link for APK file and mobile app GitHub repository in description)
 Agora for iOS (see dowload link for IPA file and mobile app GitHub repository in description)
-Aiven for Apache Flink
-Aiven for Apache Kafka
-Aiven for Caching
-Aiven for Clickhouse
-Aiven for Dragonfly
-Aiven for Grafana
-Aiven for M3
-Aiven for Metrics
-Aiven for OpenSearch
-Aiven for PostgreSQL
-Aiven for Valkey
 All Assets (other than Blinkit)
 All Blinkit assets (in scope)
 All Mobile Assets
@@ -4069,7 +4058,6 @@ http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
 http://emerald.oasis.dev
 http://expressobutiolem.onion
 http://exzo.network
-http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
 http://federatedid-na1.services.adobe.com
 http://github.com/AssetMantle/modules
 http://github.com/AssetMantle/node
@@ -4164,7 +4152,6 @@ https://agent.apps.monash.edu/
 https://agentportal.westernunion.com
 https://airflow-prod.coda.io/*
 https://airflow-prod.ops.coda.io/*
-https://aiven.io/
 https://ajax.staging.luno.com/
 https://album.link
 https://alpha.yellow.org
@@ -4191,7 +4178,6 @@ https://api-test.nicex.com
 https://api-test.nicex.com/
 https://api-user.e2ro.com/*
 https://api.20min.ch/
-https://api.aiven.io/login
 https://api.anytask.com/
 https://api.anytask.thesecurityteam.rocks
 https://api.big.one/
@@ -4646,7 +4632,6 @@ https://connect.paymaya.com/
 https://connect.soundcloud.com
 https://consensys.io/
 https://console-staging.pingone.com/*
-https://console.aiven.io/login
 https://console.delltechnologies.com/nav/administration
 https://console.delltechnologies.com/nav/billing
 https://console.delltechnologies.com/nav/invoice
@@ -4979,8 +4964,6 @@ https://github.com/1inch/token-plugins
 https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP
 https://github.com/Agoric/agoric-sdk/tree/master/packages/inter-protocol
 https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe
-https://github.com/Aiven
-https://github.com/Aiven-Open
 https://github.com/Asymetrix-Protocol/contracts
 https://github.com/AviatorAC/skybridge-public
 https://github.com/Bitrue/bitrue-official-api-docs
