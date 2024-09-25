@@ -627,23 +627,6 @@ https://api.aiven.io/login
 https://github.com/Aiven-Open
 https://github.com/Aiven
 http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
-Aiven for Clickhouse
-Aiven for Dragonfly
-Aiven for Apache Flink
-Aiven for Metrics
-Aiven for Valkey
-Aiven for OpenSearch
-Aiven for Grafana
-Aiven for Apache Kafka
-Aiven for M3
-Aiven for PostgreSQL
-Aiven for Caching
-https://aiven.io/
-https://console.aiven.io/login
-https://api.aiven.io/login
-https://github.com/Aiven-Open
-https://github.com/Aiven
-http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
 https://ampol.com.au/
 https://apps.apple.com/au/app/caltex-australia/id1314768594
 https://play.google.com/store/apps/details?id=au.com.ampol.flagship&hl=en_AU&gl=US
@@ -2119,6 +2102,7 @@ https://api.woo.org/
 https://x.woo.org/
 https://play.google.com/store/apps/details?id=network.woo.mobile&hl=en&gl=US&pli=1
 https://apps.apple.com/mt/app/woo-x-buy-crypto-btc/id1576648404
+Any Worldpay asset is in scope
 https://auth.wyze.com
 https://my.wyze.com
 https://api.wyzecam.com

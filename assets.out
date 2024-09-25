@@ -1319,6 +1319,7 @@ Any .magic.link demo sites
 Any FIS asset is in scope
 Any Other Sophos Product or Service
 Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
+Any Worldpay asset is in scope
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any host / web property verified to be owned by Segment (domains/IP space/etc.)	
 Any host or verified to be owned by Western Union (domains/IP space/etc.)
