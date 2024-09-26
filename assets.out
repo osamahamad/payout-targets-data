@@ -1644,8 +1644,6 @@ Delegated Directory Pruning for Crowd - Server - https://marketplace.atlassian.c
 Dependabot
 Dependency Graph Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1215979/dependency-graph-plugin-for-bamboo?hosting=server
 Desktop Client
-Desktop MFA for Windows
-Desktop MFA for macOS
 Developer Assistant for Confluence - Cloud - https://marketplace.atlassian.com/apps/1229446/developer-assistant-for-confluence?hosting=cloud
 Developer Assistant for Jira - Cloud - https://marketplace.atlassian.com/apps/1229343/developer-assistant-for-jira?hosting=cloud
 Digital Editions
@@ -2092,8 +2090,6 @@ Official WordPress plugins
 Okcoin Android APK
 Okcoin iOS App
 Okta
-Okta On-Prem Agents ( AD, LDAP, RDP, IWA )
-Okta Verify (Windows)
 Omega
 OneDrive - https://trello.com/power-ups/5940440775fbe327abd3329f/onedrive
 Online Marketplace
@@ -2147,7 +2143,6 @@ PNS.HongKong.iOS
 PTaaS Reference
 Package Tracker - https://trello.com/power-ups/55a5d917446f51777421000d/package-tracker
 Packet Forward Middleware
-Password Sync for macOS
 PayFriends/PayAnyone Features
 PayPal SDK
 Peephole Cam
@@ -3143,12 +3138,6 @@ bq.visa.com
 brave.com
 buckingfuggy.com
 buffered-reader
-bugcrowd-oie-%username%-1.at.oktapreview.com
-bugcrowd-oie-%username%-1.oktapreview.com
-bugcrowd-oie-%username%-2.at.oktapreview.com
-bugcrowd-oie-%username%-2.oktapreview.com
-bugcrowd-pam-###.oktapreview.com
-bugcrowd-pam-###.pam.oktapreview.com
 bugzilla.mozilla.org
 builder.hostinger.com
 building-blocks.com
@@ -4039,7 +4028,6 @@ http://api.insightly.com/v3.1/
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
 http://api.na1.insightly.com/v3.1/
-http://app.scaleft.com/
 http://apps.connect.monash.edu/
 http://artists.soundcloud.com/
 http://auth.khealth.com/cedars/sign-up
@@ -4119,6 +4107,7 @@ http://www.kiwi.com/stories
 http://www.logitech.com/my-account
 http://www.lululemon.co.kr/
 http://www.myvisacardportal.com/welcome/enbd/product/#
+http://www.register.com
 http://www.rei.com/learn/expert-advice
 http://www.shopmarriott.com
 http://www.whynot.com/
@@ -4414,7 +4403,6 @@ https://apps.apple.com/us/app/lastpass-password-manager/id324613447
 https://apps.apple.com/us/app/lululemon/id920098546
 https://apps.apple.com/us/app/monash-study/id1462126829
 https://apps.apple.com/us/app/okcoin-bitcoin-trading-exch/id867444712?mt=8
-https://apps.apple.com/us/app/okta-verify/id490179405
 https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
 https://apps.apple.com/us/app/paper-by-dropbox/id1126623662
 https://apps.apple.com/us/app/pinterest/id429047995
@@ -4579,11 +4567,6 @@ https://bscscan.com/address/0xb891Aeb2130805171796644a2af76Fc7Ff25a0b9
 https://bscscan.com/address/0xcB0620b181140e57D1C0D8b724cde623cA963c8C
 https://bscscan.com/address/0xec203E7676C45455BF8cb43D28F9556F014Ab461
 https://bscscan.com/token/0x5C65BAdf7F97345B7B92776b22255c973234EfE7
-https://bugcrowd-oie-%username%-1.workflows.oktapreview.com
-https://bugcrowd-oie-%username%-2.workflows.oktapreview.com
-https://bugcrowd-pam-###.at.oktapreview.com
-https://bugcrowd-pam-###.oktapreview.com
-https://bugcrowd-pam-###.workflows.oktapreview.com
 https://bugcrowd.com/programs
 https://bugcrowd.hotdoc.com.au
 https://bugcrowd.hotdoc.com.au/api
@@ -5449,9 +5432,6 @@ https://head.coda.io/*
 https://healthmate.withings.com
 https://help.etsy.com
 https://help.glassdoor.com/*
-https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
-https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows.htm
-https://help.okta.com/en/prod/Content/Topics/Settings/download-browser-plugin.htm
 https://help.supplier.viator.com/en
 https://hipaa.staging.gearset.com/
 https://hk.westernunion.com
@@ -6123,7 +6103,6 @@ https://play.google.com/store/apps/details?id=com.nicehash.metallum&hl=en
 https://play.google.com/store/apps/details?id=com.nth.swisspost&hl=de_CH&gl=US
 https://play.google.com/store/apps/details?id=com.nu.production&hl=pt_BR&gl=US&pli=1
 https://play.google.com/store/apps/details?id=com.okinc.okcoin.intl
-https://play.google.com/store/apps/details?id=com.okta.android.auth&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.opera.app.news
 https://play.google.com/store/apps/details?id=com.opera.app.sports
 https://play.google.com/store/apps/details?id=com.opera.browser
@@ -6346,7 +6325,6 @@ https://suggestions.opera-api.com
 https://supplier.viator.com/
 https://support.lastpass.com
 https://support.newrelic.com/
-https://support.okta.com
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 https://svn.filezilla-project.org/svn/libfilezilla/trunk
@@ -6433,6 +6411,7 @@ https://twilio.com/blog
 https://uae.voxcinemas.com/
 https://ui.com/distributors/
 https://ui.com/training/partners/
+https://uk.web.com
 https://ultramobile.com
 https://umiloans.com.au
 https://underarmournext.com/
@@ -6542,6 +6521,7 @@ https://www.bitpanda.com/
 https://www.bitpanda.com/academy/en/
 https://www.bitstamp.net/
 https://www.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
+https://www.bluehost.com/
 https://www.bookbeat.com
 https://www.btse.com
 https://www.cb2.ae/en
@@ -6600,6 +6580,7 @@ https://www.gohenry.com/
 https://www.governmentjobs.com
 https://www.growgorgeous.com/
 https://www.hostgator.com.br/
+https://www.hostgator.com/
 https://www.hpr.kiwai-normandie.fr/
 https://www.hqhair.com/
 https://www.iciparisxl.be/blog/
@@ -6667,6 +6648,7 @@ https://www.monash.edu
 https://www.monashprofessional.edu.au/
 https://www.mybag.com/
 https://www.myvitamins.com/
+https://www.networksolutions.com
 https://www.npmjs.com/package/@forge/cli
 https://www.npmjs.com/package/@forge/cli	
 https://www.nuinvest.com.br/
@@ -6674,8 +6656,6 @@ https://www.oculus.com/experiences/quest/2173678582678296
 https://www.oculus.com/experiences/rift/1257029974329451
 https://www.okcoin.com/
 https://www.okcoin.com/docs/en/
-https://www.okta.com/fastpass/
-https://www.okta.com/products/advanced-server-access/
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
 https://www.okx.com/web3
@@ -6759,6 +6739,7 @@ https://www.vtcprodapi.maf.ae/svc/svcHifi.svc/SaveOCRReceipt
 https://www.water-link-jaarverslag.be
 https://www.water-link.be
 https://www.waterstoring.be/
+https://www.web.com
 https://www.weebly.com/
 https://www.westernunion.at
 https://www.westernunion.be
