@@ -4119,6 +4119,7 @@ http://www.kiwi.com/stories
 http://www.logitech.com/my-account
 http://www.lululemon.co.kr/
 http://www.myvisacardportal.com/welcome/enbd/product/#
+http://www.register.com
 http://www.rei.com/learn/expert-advice
 http://www.shopmarriott.com
 http://www.whynot.com/
@@ -4193,6 +4194,9 @@ https://api-test.nicehash.com
 https://api-test.nicex.com
 https://api-test.nicex.com/
 https://api-user.e2ro.com/*
+https://api-{app-id}.calls.sendbird.com
+https://api-{app-id}.notifications.sendbird.com
+https://api-{app-id}.sendbird.com
 https://api.20min.ch/
 https://api.aiven.io/login
 https://api.anytask.com/
@@ -4750,6 +4754,7 @@ https://daily.blablacar.fr
 https://dashboard.fga.dev/
 https://dashboard.pantheon.io
 https://dashboard.rapyd.net/
+https://dashboard.sendbird.com/
 https://dashboard.unity3d.com
 https://data.coda.io/*
 https://data.limeinternal.com
@@ -4766,6 +4771,7 @@ https://dealflowapi.prosus.com
 https://demo.priceless.com/
 https://depinscan.io/
 https://design.glassdoor.com/*
+https://desk-api-{region}.sendbird.com
 https://desktop.water-link.be/
 https://dev.init.capital/contract-addresses/blast
 https://dev.init.capital/contract-addresses/mantle
@@ -4948,6 +4954,7 @@ https://gaadmin.vfsglobal.com/GAR1Ph1ApptAdmin/
 https://gaadmin.vfsglobal.com/Global-Admin/
 https://gaadmin.vfsglobal.com/GlobalAdmin/
 https://gap.citizenportal-test.bugbounty.akinox.dev
+https://gate.sendbird.com
 https://gatewaydsapdev2.marriott.com/
 https://gatewaydsaptst1.marriott.com/
 https://gatewaydsaptst2.marriott.com/
@@ -6284,6 +6291,8 @@ https://security-testing-env-dashboard.k8s.tools-001.d-use-1.braze.com/
 https://seekcdn.com
 https://segment.com/docs/sources/
 https://selector.viator.com
+https://sendbird.com
+https://sendbird.com/docs
 https://sendgrid.com
 https://senegal.westernunion.com
 https://service.platform.tripadvisor.com
@@ -6433,6 +6442,7 @@ https://twilio.com/blog
 https://uae.voxcinemas.com/
 https://ui.com/distributors/
 https://ui.com/training/partners/
+https://uk.web.com
 https://ultramobile.com
 https://umiloans.com.au
 https://underarmournext.com/
@@ -6485,6 +6495,8 @@ https://wise.com
 https://woox.io/
 https://world.planethoster.net
 https://wowjobs.ca
+https://ws-{app-id}.calls.sendbird.com
+https://ws-{app-id}.sendbird.com
 https://ws.multiplayer.classdojo.com/
 https://ws.usaa.com
 https://wslatam.ifood.com.br
@@ -6542,6 +6554,7 @@ https://www.bitpanda.com/
 https://www.bitpanda.com/academy/en/
 https://www.bitstamp.net/
 https://www.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
+https://www.bluehost.com/
 https://www.bookbeat.com
 https://www.btse.com
 https://www.cb2.ae/en
@@ -6600,6 +6613,7 @@ https://www.gohenry.com/
 https://www.governmentjobs.com
 https://www.growgorgeous.com/
 https://www.hostgator.com.br/
+https://www.hostgator.com/
 https://www.hpr.kiwai-normandie.fr/
 https://www.hqhair.com/
 https://www.iciparisxl.be/blog/
@@ -6667,6 +6681,7 @@ https://www.monash.edu
 https://www.monashprofessional.edu.au/
 https://www.mybag.com/
 https://www.myvitamins.com/
+https://www.networksolutions.com
 https://www.npmjs.com/package/@forge/cli
 https://www.npmjs.com/package/@forge/cli	
 https://www.nuinvest.com.br/
@@ -6759,6 +6774,7 @@ https://www.vtcprodapi.maf.ae/svc/svcHifi.svc/SaveOCRReceipt
 https://www.water-link-jaarverslag.be
 https://www.water-link.be
 https://www.waterstoring.be/
+https://www.web.com
 https://www.weebly.com/
 https://www.westernunion.at
 https://www.westernunion.be
@@ -8568,7 +8584,6 @@ zopim.com
 █████████████████
 ██████████████████
 ███████████████████
-████████████████████
 █████████████████████
 ██████████████████████
 ███████████████████████
@@ -8586,11 +8601,9 @@ zopim.com
 ███████████████████████████████████
 ████████████████████████████████████
 █████████████████████████████████████
-██████████████████████████████████████
 ███████████████████████████████████████
 ██████████████████████████████████████████
 ██████████████████████████████████████████████
-███████████████████████████████████████████████
 ██████████████████████████████████████████████████
 ██████████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████████████████████████████████████████████
