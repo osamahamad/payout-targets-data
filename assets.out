@@ -1295,6 +1295,7 @@ All Motorola Devices running Android 13 and above.
 All Other BitMEX Assets
 All Other In-Scope Assets
 All other Assets
+All the Blockchain Infrastructure
 Amazon Subsidiaries (Please only actively test explicitly stated scope)
 AmpliFi
 Analytics for Confluence - Cloud - https://marketplace.atlassian.com/apps/1215795/analytics-for-confluence?hosting=cloud
@@ -4023,7 +4024,6 @@ hpanel.hostinger.com
 hpp.truelayer[-sandbox].com
 ht.visa.com
 http://agenttraining.westernunion.com
-http://analytics.prosus.com
 http://api.insightly.com/v3.1/
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
@@ -4083,7 +4083,6 @@ http://mgmtpod-1.production.forescoutcloud.net/oauth/token
 http://miro.com/app
 http://miro.com/blog
 http://myvisainfinite.com/suntrust/en_us/home.html
-http://nav.naspers.com/
 http://pay.monashcollege.edu.au/
 http://play.google.com/store/apps/details?id=fr.doctolib.www
 http://poe.com
@@ -4121,6 +4120,7 @@ https://STORE-YOURSTOREHash.mybigcommerce.com/
 https://a.simplemdm.com/
 https://aax.com
 https://account-registration.monash.edu/
+https://account.bitpanda.com
 https://account.post.ch
 https://account.t-mobile.com
 https://account.teamviewer.com
@@ -4165,7 +4165,6 @@ https://amp.20min.ch
 https://ampcharge.ampol.com.au/
 https://ampol.com.au/
 https://ampolenergy.com.au
-https://analytics-admin.prosus.com
 https://analytics.cloud.unity3d.com
 https://analytics.neogov.com
 https://analytics.welcomesoftware.com/
@@ -4189,6 +4188,7 @@ https://api.aiven.io/login
 https://api.anytask.com/
 https://api.anytask.thesecurityteam.rocks
 https://api.big.one/
+https://api.bitpanda.com
 https://api.bitstorage.finance/
 https://api.blablalines.com
 https://api.btse.com
@@ -4304,6 +4304,7 @@ https://apps-staging.pingone.com/*
 https://apps.apple.com/am/app/maya-your-all-in-one-money-app/id991673877
 https://apps.apple.com/app/apple-store/id1480509067
 https://apps.apple.com/app/apple-store/id1556596708
+https://apps.apple.com/app/bitpanda-buy-bitcoin-crypto/id1449018960
 https://apps.apple.com/app/bitx-wallet/id927362479
 https://apps.apple.com/app/id1216446440
 https://apps.apple.com/app/id1359583808
@@ -4528,6 +4529,7 @@ https://blastscan.io/address/0xed9d7E89309B060e876098F4695aB9fd3011904b#code
 https://blastscan.io/address/0xf62e7c831fc41c93b61c04c24152c433d6553236
 https://blastscan.io/address/0xf683Ce59521AA464066783d78e40CD9412f33D21#code
 https://blockexplorer.electroneum.com
+https://blog.bitpanda.com/en
 https://blog.lastpass.com
 https://blog.thefork.com/
 https://blog.verisign.com
@@ -4600,7 +4602,6 @@ https://cdn-store.opera-api.com
 https://cdn.neogov.com
 https://cdn.optimizely.com/
 https://central.sophos.com
-https://cfc.naspers.com/
 https://chat.openai.com
 https://chatspot.ai
 https://checkout.eyeko.com
@@ -4741,7 +4742,6 @@ https://dashboard.sendbird.com/
 https://dashboard.unity3d.com
 https://data.coda.io/*
 https://data.limeinternal.com
-https://data.prosus.com/
 https://datadome.co
 https://dataportal.originenergy.com.au
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
@@ -4749,8 +4749,6 @@ https://dcfgatewaytst1.marriott.com/
 https://dealer.prod.ps.axelspringer.de/api/v1/partners/{partnerId}/activation
 https://dealer.prod.ps.axelspringer.de/purchases/004/bild/*
 https://dealer.prod.ps.axelspringer.de/purchases/004/welt/*
-https://dealflow.prosus.com
-https://dealflowapi.prosus.com
 https://demo.priceless.com/
 https://depinscan.io/
 https://design.glassdoor.com/*
@@ -5450,7 +5448,6 @@ https://home.xfinity.com
 https://houston-staging.pdq.tools
 https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
 https://hr.neogov.com
-https://hr.prosus.com/
 https://hub.immutable.com/
 https://hub.zetachain.com/
 https://hug.personio.com
@@ -6028,7 +6025,6 @@ https://pcm-imaginary.beta.20min.ch/
 https://pcm.20min.ch
 https://pcm.beta.20min.ch
 https://pentest-app.onetrust.com/
-https://peopleview.naspers.com
 https://performance.neogov.com
 https://performancemarketing.mastercard.com/portal/
 https://pg.paymaya.com
@@ -6065,6 +6061,7 @@ https://play.google.com/store/apps/details?id=com.biconomy.ex&pli=1
 https://play.google.com/store/apps/details?id=com.bigcommerce.mobile
 https://play.google.com/store/apps/details?id=com.bitmart.bitmarket&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.bitmex.app.android.testnet
+https://play.google.com/store/apps/details?id=com.bitpanda.bitpanda
 https://play.google.com/store/apps/details?id=com.bittrex.trade
 https://play.google.com/store/apps/details?id=com.blablalines
 https://play.google.com/store/apps/details?id=com.blofin.android
@@ -6381,7 +6378,6 @@ https://tokenize.exchange/
 https://toom.de
 https://tr.ee
 https://tracker.bugcrowd.com
-https://tracker.naspers.com/
 https://trade.bluefin.io/
 https://transferwise.com
 https://translate.elementor.com/
@@ -6463,6 +6459,7 @@ https://walletproxy1.tapayments.com
 https://walletproxy2.tapayments.com
 https://wbsapi.withings.net
 https://web-app.eevee.bbp-mettle.co.uk/login
+https://web.bitpanda.com
 https://web.raiffeisen.ua/
 https://web.teamviewer.com
 https://webmail.usaa.com
@@ -6530,6 +6527,8 @@ https://www.bit.com/
 https://www.bit.com/docs/en-us/futures.html#introduction
 https://www.bit.com/legacy/propertyCenter/assets
 https://www.bitdefender.com/business/smb-products/business-security.html?cid=ppc|b|google|smb&s_kwcid=AL!6076!3!514235572261!p!!g!!bitdefender%20business&utm_term=bitdefender%20business&utm_campaign=USA+SMB+Branded+30&utm_source=adwords&utm_medium=ppc&hsa_acc=8155205354&hsa_cam=7848657822&hsa_grp=124745713150&hsa_ad=514235572261&hsa_src=g&hsa_tgt=kwd-308396066873&hsa_kw=bitdefender%20business&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwqIiFBhAHEiwANg9szk-Rr3iSn4mrwsvAUOn-pzrO12ufWDmyCLopWigaLQW0t_xtlBE65RoCr6kQAvD_BwE
+https://www.bitpanda.com/
+https://www.bitpanda.com/academy/en/
 https://www.bitstamp.net/
 https://www.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
 https://www.bluehost.com/
@@ -8111,6 +8110,7 @@ ws.blockchain.info
 ws.poloniex.com
 ws.sorare.com
 ws1.dashlane.com
+wss://socket.bitpanda.com
 wss://ws-futures.coinstore.com/socket.io/
 wss://ws.backpack.exchange/
 wss://ws.coinstore.com/s/ws
