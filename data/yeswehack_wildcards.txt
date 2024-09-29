@@ -1,7 +1,6 @@
 *.atg.se
 *.alasco.de
 *.alasco.rocks
-*.coindcx.com
 *.contentsquare.com
 matrix.agent.*.tchap.gouv.fr
 *.dailymotion.com
@@ -17,7 +16,6 @@ matrix.agent.*.tchap.gouv.fr
 *.kchat.infomaniak.com
 swiss-backup*.infomaniak.com
 *.vod2.infomaniak.com
-*.okto.tech
 *.app.spacelift.dev
 *.telenor.se
 *.bredbandsbolaget.se
