@@ -800,6 +800,7 @@
 *.staging.airtable.com
 *.status.app
 *.status.im
+*.statuspage.io
 *.storspiller.com
 *.streamlabs.com
 *.streamlabscharity.com
@@ -2649,7 +2650,6 @@ ads5-asia-south1.truecaller.com
 advisories.gitlab.com
 advocates.databricks.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
-aed.arubanetworks.com
 affiliate-id.tokopedia.com
 agents.tasheer.com
 aggregator.etoro.com
@@ -2997,10 +2997,8 @@ as2-accpt.portofantwerp.com
 as2-accpt.portofantwerpbruges.com
 as2.portofantwerp.com
 as2.portofantwerpbruges.com
-ase.arubanetworks.com
 asiointi.lahitapiola.fi
 ask.khealth.com
-asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
 assets.adobe.com
 assets.airbnb.com
 assets.hyatt.com
@@ -3095,7 +3093,6 @@ blog.ton.org
 blog.ton.org/api
 blog.ui.com
 blog.watsons.com.tr
-blogs.arubanetworks.com
 blox.link
 blueprints.amazon.com
 blueskytours.globalbookingsolutions.com
@@ -3148,7 +3145,6 @@ buy.logitech.com
 ca.account.sony.com
 ca.koho
 cache.judge.me
-calculators.arubanetworks.com
 caldav.larksuite.com
 calendar.infomaniak.com
 callbacks.airbnb.com
@@ -3584,7 +3580,6 @@ confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
 connect.arkane.network
-connect.arubanetworks.com
 connect.deezer.com
 connect.identity.stagaws.visma.com
 connect.venly.io
@@ -3718,7 +3713,6 @@ developers.cloudways.com
 developers.reddit.com
 developers.tiktok.com
 developers.veriff.me
-devhub.arubanetworks.com
 device-safety-asia-south1.truecaller.com
 dex-trade.com
 diagrams.fr.cloud.gov
@@ -5556,6 +5550,7 @@ https://m.westernunion.com
 https://machinefi.com/
 https://maf-holding-prod.apigee.net
 https://manage.cic-bug-bounty.auth0app.com/
+https://manage.statuspage.io
 https://manager.trial.lsk.lightspeed.app/	
 https://mapi-a.usaa.com
 https://mapi.usaa.com/
@@ -6960,7 +6955,6 @@ lists.wordpress.org
 lite.qwant.com
 live-backstage.tiktok.com
 live-cf-vrt.akamaized.net
-lms-stg-develop.eks-stg-use1.getaws.arubanetworks.com
 loanbuilder.com
 localizestaging.com
 log.rarible.com
@@ -7039,6 +7033,7 @@ maintenance.logitech.com
 manage-sandbox.gocardless.com
 manage.blockscore.com
 manage.grab.co
+manage.statuspage.io
 manager.infomaniak.com/v3/*
 map.snapchat.com
 mapi.moneyback.com.hk
@@ -7150,7 +7145,6 @@ moonpay.com
 movieapi.kinepolis.megatix.be
 mozilla-pontoon-staging.herokuapp.com
 msg.playcanvas.com
-mspshowcase.arubanetworks.com
 mta-sts.wearehackerone.com
 munin-*.wordpress.org
 mus1.badoo.com
@@ -8107,8 +8101,6 @@ www.amazon.com/photos/*
 www.analvids.com
 www.applevacations.com
 www.arkoselabs.com
-www.arubainstanton.com
-www.arubanetworks.com
 www.astrogaming.com
 www.atg.se
 www.authorize.net
