@@ -22,6 +22,7 @@
 * hln.be/registreren
 * humo.be/registreren
 *-api-*.acronis.com
+*-bugcrowd.foxycart.com (read below for details)
 *-cvr-aws-*.sys.comcast.net
 *.-np.*.lfscnp.com
 *.10bis.co.il
@@ -4125,6 +4126,8 @@ https://adhoc-bugcrowd.cdn-code.org
 https://admin-roundups.moneyboxapp.org/
 https://admin.atlassian.com/
 https://admin.atlassian.com/atlassian-access
+https://admin.foxy.io/
+https://admin.foxycart.com
 https://admin.lastpass.com
 https://admin.moneyboxapp.org/
 https://admin.ring.com/*
@@ -4189,6 +4192,7 @@ https://api.dexalot.com
 https://api.electroneum.com/
 https://api.exmo.com
 https://api.fishbowlapp.com/*
+https://api.foxycart.com/
 https://api.fstr.rocks
 https://api.glassdoor.com/*
 https://api.hubspot.com/
@@ -4448,6 +4452,7 @@ https://aurora.plus/
 https://auth-ywh.it.authentification.si.gouv.qc.ca
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
+https://auth.foxy.io/
 https://auth.immutable.com
 https://auth.lastpass.com
 https://auth.opera.com
@@ -4910,6 +4915,7 @@ https://formative.eassessment.monash.edu/
 https://forms.apps.monash.edu/
 https://forum.newrelic.com
 https://foundation.westernunion.com
+https://foxycart-demo.foxycart.com/cart
 https://fulcrom.finance
 https://futures.coinstore.com/api
 https://fw.ring.com/*
