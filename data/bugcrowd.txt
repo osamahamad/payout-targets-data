@@ -1422,45 +1422,6 @@ https://account-registration.monash.edu/
 http://pay.monashcollege.edu.au/
 mix-qat.monash.edu/*
 mix-dev.monash.edu/*
-https://identity.monash.edu/
- mix.monash.edu 
-https://connect.monash.edu
-https://identity.monash.edu
-https://www.monash.edu
-https://staff.monash
-http://apps.connect.monash.edu/
-VPN: vpn.monash.edu
-eassessment.monash.edu
-https://fileshare.ze.monash.edu
-https://cms.mobile.monash/ 
-https://mobile.monash/ 
-https://status.mobile.monash/
-https://monashcollege.edu.au
-https://online.monash.edu/
-https://my.monash
-https://apps.apple.com/us/app/monash-study/id1462126829
-https://play.google.com/store/apps/details?id=edu.monash.monashmobile
-https://myapp.monash.edu/
-https://alumni-friends.monash.edu
-https://agent.apps.monash.edu/
-https://compulsoryunits.monash.edu/
-https://monash.app.nutrip.com
-https://studentplacements.monash.edu
-https://unihub.monash.edu/
-https://interviews.monash.edu/
-https://shop.monash.edu/
-https://mlivetickets.monash.edu
-https://alumni-friends.monash.edu
-https://partner.apps.monash.edu
-https://play.google.com/store/apps/details?id=com.scu.bsafe
-https://apps.apple.com/au/app/monash-bsafe/id1462241951
-https://forms.apps.monash.edu/
-https://formative.eassessment.monash.edu/
-https://www.monashprofessional.edu.au/
-https://account-registration.monash.edu/
-http://pay.monashcollege.edu.au/
-mix-qat.monash.edu/*
-mix-dev.monash.edu/*
 https://apps.apple.com/vc/app/moneytree-finance-made-easy/id586847189
 https://wwws-staging.moneytree.jp/link/
 https://vault-staging.getmoneytree.com
@@ -2200,6 +2161,8 @@ app.opsgenie.com
 https://app.opsgenie.com
 https://mobileapp.opsgenie.com
 mobileapp.opsgenie.com
+https://manage.statuspage.io
+manage.statuspage.io
 Butler for Trello
 Calendar Power-Up
 Card Aging Power-Up

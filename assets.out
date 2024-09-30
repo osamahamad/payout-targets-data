@@ -805,6 +805,7 @@
 *.staging.airtable.com
 *.status.app
 *.status.im
+*.statuspage.io
 *.storspiller.com
 *.streamlabs.com
 *.streamlabscharity.com
@@ -5591,6 +5592,7 @@ https://m.westernunion.com
 https://machinefi.com/
 https://maf-holding-prod.apigee.net
 https://manage.cic-bug-bounty.auth0app.com/
+https://manage.statuspage.io
 https://manager.trial.lsk.lightspeed.app/	
 https://mapi-a.usaa.com
 https://mapi.usaa.com/
@@ -7078,6 +7080,7 @@ maintenance.logitech.com
 manage-sandbox.gocardless.com
 manage.blockscore.com
 manage.grab.co
+manage.statuspage.io
 manager.infomaniak.com/v3/*
 map.snapchat.com
 mapi.moneyback.com.hk
