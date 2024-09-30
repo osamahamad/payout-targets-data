@@ -104,7 +104,12 @@ Grafana Mimir
 Grafana Tempo
 Grafana Pyroscope
 Repository Misconfigurations
+Grafana Loki
+Grafana Mimir
 Grafana OSS
+Grafana Pyroscope
+Grafana Tempo
+https://github.com/grafana/*
 955837609
 com.here.app.maps
 https://jaguar.here.com
