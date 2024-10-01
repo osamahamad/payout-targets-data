@@ -1807,9 +1807,7 @@ Self Register Account on T-Mobile Microsoft Entra ID
 Cellular Network Auth Bypass via Web/Mobile App
 T&P Servers
 Internal Server via Internet Network
-https://tess.service-now.com
-https://tmus.service-now.com
-https://compass.t-mobile.com
+10.128.0.0/10
 https://account.t-mobile.com
 https://metrobyt-mobile.com
 https://sprint.com
