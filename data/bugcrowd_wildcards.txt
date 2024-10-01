@@ -147,16 +147,6 @@ prod-*.nu.com.co
 *.kortathjonustan.is
 *.neat.hk
 *.neat.wtf
-*.rapyd.net
-*.neatcommerce.com
-*.korta.is
-*.neattest.com
-*.rapyd.com
-*.rapyd.org
-*.neat.com.hk
-*.kortathjonustan.is
-*.neat.hk
-*.neat.wtf
 *.rec.net/*
 *.seek.com.au
 *.skinfra.xyz
@@ -217,4 +207,5 @@ xhomeapi-*.codebig2.net
 xhomeapi-*.cloud.comcast.net
 *.xfinityhome.com
 *.opsgenie.com
+*.statuspage.io
 *.trello.services

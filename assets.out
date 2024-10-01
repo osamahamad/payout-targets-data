@@ -805,6 +805,7 @@
 *.staging.airtable.com
 *.status.app
 *.status.im
+*.statuspage.io
 *.storspiller.com
 *.streamlabs.com
 *.streamlabscharity.com
@@ -4333,6 +4334,7 @@ https://apps.apple.com/br/app/nubank-conta-e-cart%C3%A3o/id814456780
 https://apps.apple.com/ca/app/lime-ridegreen/id1199780189
 https://apps.apple.com/ca/app/lime-supply/id1620058457
 https://apps.apple.com/ch/app/die-post/id378676700
+https://apps.apple.com/de/app/otto-shopping-m%C3%B6bel/id404844644
 https://apps.apple.com/de/app/teamviewer-quicksupport/id661649585
 https://apps.apple.com/de/app/teamviewer-remote-control/id692035811
 https://apps.apple.com/fr/app/blablalines-covoiturage/id1225543288
@@ -5593,6 +5595,7 @@ https://m.westernunion.com
 https://machinefi.com/
 https://maf-holding-prod.apigee.net
 https://manage.cic-bug-bounty.auth0app.com/
+https://manage.statuspage.io
 https://manager.trial.lsk.lightspeed.app/	
 https://mapi-a.usaa.com
 https://mapi.usaa.com/
@@ -5922,6 +5925,7 @@ https://minted.network/
 https://mintle.x.rarible.com/
 https://mintmobile.com
 https://mlivetickets.monash.edu
+https://mmp.otto.de
 https://mobile-production.content-square.net/
 https://mobile.france-identite.gouv.fr
 https://mobile.monash/ 
@@ -6002,6 +6006,7 @@ https://opendata.test-socrata.com/admin/gateway
 https://opensea.io/
 https://opensource.epam.com
 https://optimizely-edge.com
+https://orbidder.otto.de
 https://orby.network
 https://orchard.limeinternal.com
 https://orderly.network/
@@ -6022,6 +6027,7 @@ https://partnerapi1.tapayments.com
 https://partnerapi2.tapayments.com
 https://partnerhelp.viator.com/
 https://partnernet.westernunion.com
+https://partnerprogramm.otto.de
 https://partners.usaa.com
 https://partners.viator.com
 https://partners.westernunion.com
@@ -6181,6 +6187,7 @@ https://play.google.com/store/apps/details?id=com.worldcoin
 https://play.google.com/store/apps/details?id=com.xfinity.digitalhome&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.yayd.exchangglobal
 https://play.google.com/store/apps/details?id=com.yopeso.lieferando&hl=en_US
+https://play.google.com/store/apps/details?id=de.cellular.ottohybrid&hl=de
 https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost
 https://play.google.com/store/apps/details?id=edu.monash.monashmobile
 https://play.google.com/store/apps/details?id=fr.gouv.tchap.a&hl=fr
@@ -6262,6 +6269,7 @@ https://rentals.tripadvisor.com
 https://reptox.cnesst.gouv.qc.ca
 https://res.cloudinary.com
 https://resume.com
+https://retail-api.otto.de
 https://review-api.lafourchette.com
 https://rewards.gdx.org/
 https://ring.com/*
@@ -6354,6 +6362,7 @@ https://store.unity.com
 https://student.classdojo.com
 https://studentplacements.monash.edu
 https://suggestions.opera-api.com
+https://supplier-connect.otto.de
 https://supplier.viator.com/
 https://support.lastpass.com
 https://support.newrelic.com/
@@ -6377,6 +6386,7 @@ https://tectonic.gitbook.io/docs/developer/smart-contracts-and-security
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/package
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/polling
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/upload
+https://teleoptiprd.otto.de
 https://tempus-ex.com
 https://tess.service-now.com
 https://test.m4sv.bugbounty.akinox.dev
@@ -6640,6 +6650,7 @@ https://www.kruidvat.nl/fotoservice
 https://www.kruidvat.nl/persoonlijk
 https://www.kuleuven.be/sapredir/huisvesting
 https://www.ladbrokes.com/en/games
+https://www.lascana.de/
 https://www.lastpass.com
 https://www.letspaylater.ph/
 https://www.letspaylater.sg/
@@ -6699,6 +6710,8 @@ https://www.opera.com/
 https://www.opera.com/computer/thanks?ni=eapgx&os=windows
 https://www.opera.com/computer/thanks?ni=stable&os=windows
 https://www.originenergy.com.au/
+https://www.otto.de
+https://www.otto.de/jobs
 https://www.personio.com/free-trial/
 https://www.personio.de/kostenlos-testen/
 https://www.pexels.com/
@@ -7081,6 +7094,7 @@ maintenance.logitech.com
 manage-sandbox.gocardless.com
 manage.blockscore.com
 manage.grab.co
+manage.statuspage.io
 manager.infomaniak.com/v3/*
 map.snapchat.com
 mapi.moneyback.com.hk

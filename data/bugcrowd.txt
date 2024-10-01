@@ -1676,11 +1676,6 @@ https://dashboard.rapyd.net/
 verify.rapyd.net
 checkout.rapyd.net
 https://jointhemoment.net/
-api.rapyd.net
-https://dashboard.rapyd.net/
-verify.rapyd.net
-checkout.rapyd.net
-https://jointhemoment.net/
 data.rarible.com
 https://api.rarible.com/v0.1/doc
 admin.rarible.com
@@ -2167,6 +2162,8 @@ app.opsgenie.com
 https://app.opsgenie.com
 https://mobileapp.opsgenie.com
 mobileapp.opsgenie.com
+https://manage.statuspage.io
+manage.statuspage.io
 Butler for Trello
 Calendar Power-Up
 Card Aging Power-Up
