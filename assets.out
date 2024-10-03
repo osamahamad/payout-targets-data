@@ -1186,6 +1186,7 @@
 38.140.238.56/29
 3d.cs.money
 3rd party services
+3rdparty-apis.coinmarketcap.com
 403546234
 403684733
 406056744
@@ -1473,6 +1474,10 @@ Beats - Heartbeat
 Beats - Metricbeat
 Beats - Packetbeat
 Beats - Winlogbeat
+Binance Desktop Application
+Binance Mobile Application for Android
+Binance Mobile Application for iOS
+Binance macOS Application
 Bitdefender Antimalware Engines
 Bitdefender BOX v2
 Bitdefender Total Security
@@ -1542,6 +1547,8 @@ Cloudflare Zero Trust/Cloudflare One
 Cloudkey
 Clubhouse Production and Corporate Infrastructure
 Coda Chrome Extension
+CoinMarketCap Android app
+CoinMarketCap iOS app
 Coinbase WaaS (Wallet as a Service)
 ColdFusion
 CometBFT
@@ -2257,6 +2264,9 @@ Tripadvisor Android App
 Tripadvisor iOS App
 TrueLayer for Magento (Magento plugin)
 TrueLayer for WooCommerce (WordPress plugin)
+Trustwallet Android App
+Trustwallet Chrome Extension
+Trustwallet iOS App
 Turnstile
 Twilio APIs
 UCRM
@@ -2571,6 +2581,7 @@ api.au.frontegg.com
 api.avax-test.network
 api.avax.network
 api.avtoelon.uz
+api.binance.com
 api.bitcoin.shapeshift.com 
 api.bitso.com
 api.blockchain.info
@@ -2583,6 +2594,7 @@ api.cm.com
 api.cmtelecom.com
 api.codex.one
 api.coinbase.com
+api.coinmarketcap.com
 api.cointr.com
 api.cointr.pro
 api.creditkarma.com
@@ -3126,6 +3138,7 @@ codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
 cognito-idp.eu-west-1.amazonaws.com
 coinbase.com
 coingecko.com
+coinmarketcap.com
 coldfusion.adobe.com
 com.1debit.ChimeProdApp
 com.3mosquitos.MercadoLibre
@@ -4085,9 +4098,6 @@ https://api-test.nicehash.com
 https://api-test.nicex.com
 https://api-test.nicex.com/
 https://api-user.e2ro.com/*
-https://api-{app-id}.calls.sendbird.com
-https://api-{app-id}.notifications.sendbird.com
-https://api-{app-id}.sendbird.com
 https://api.20min.ch/
 https://api.aiven.io/login
 https://api.anytask.com/
@@ -4653,7 +4663,6 @@ https://daily.blablacar.fr
 https://dashboard.fga.dev/
 https://dashboard.pantheon.io
 https://dashboard.rapyd.net/
-https://dashboard.sendbird.com/
 https://dashboard.unity3d.com
 https://data.coda.io/*
 https://data.limeinternal.com
@@ -4671,7 +4680,6 @@ https://dealflowapi.prosus.com
 https://demo.priceless.com/
 https://depinscan.io/
 https://design.glassdoor.com/*
-https://desk-api-{region}.sendbird.com
 https://desktop.water-link.be/
 https://detect.pdq.tools/ 
 https://dev.init.capital/contract-addresses/blast
@@ -4882,7 +4890,6 @@ https://gaadmin.vfsglobal.com/GlobalAdmin/
 https://gammacademy.starringjane.com/
 https://gammacademy.starringjane.com/*
 https://gap.citizenportal-test.bugbounty.akinox.dev
-https://gate.sendbird.com
 https://gatewaydsapdev2.marriott.com/
 https://gatewaydsaptst1.marriott.com/
 https://gatewaydsaptst2.marriott.com/
@@ -5341,6 +5348,7 @@ https://github.com/tetu-io/tetu-contracts-v2/blob/master/contracts/vault/VaultIn
 https://github.com/tetu-io/tetu-contracts-v2/blob/master/contracts/ve/VeTetu.sol
 https://github.com/transferwise/*
 https://github.com/tronprotocol/java-tron
+https://github.com/trustwallet/wallet-core/
 https://github.com/valvesoftware
 https://github.com/vechain/thor
 https://github.com/vertex-protocol/vertex-contracts
@@ -6232,8 +6240,6 @@ https://security-testing-env-dashboard.k8s.tools-001.d-use-1.braze.com/
 https://seekcdn.com
 https://segment.com/docs/sources/
 https://selector.viator.com
-https://sendbird.com
-https://sendbird.com/docs
 https://sendgrid.com
 https://senegal.westernunion.com
 https://service.platform.tripadvisor.com
@@ -6347,6 +6353,7 @@ https://transferwise.com
 https://translate.elementor.com/
 https://transvision.westernunion.com
 https://travelagents.viator.com
+https://trbinance.com
 https://trello.com/power-ups/55a5d915446f517774210001/box
 https://trello.com/power-ups/55a5d915446f517774210003/evernote
 https://trello.com/power-ups/55a5d916446f517774210004/github
@@ -6438,8 +6445,6 @@ https://wise.com
 https://woox.io/
 https://world.planethoster.net
 https://wowjobs.ca
-https://ws-{app-id}.calls.sendbird.com
-https://ws-{app-id}.sendbird.com
 https://ws.multiplayer.classdojo.com/
 https://ws.usaa.com
 https://wslatam.ifood.com.br
@@ -6488,6 +6493,8 @@ https://www.biconomy.com/
 https://www.biconomy.com/api/v1
 https://www.bigcommerce.com
 https://www.bigcommerce.net
+https://www.binance.com/
+https://www.binance.us/
 https://www.bit.com/
 https://www.bit.com/docs/en-us/futures.html#introduction
 https://www.bit.com/legacy/propertyCenter/assets
@@ -7459,6 +7466,7 @@ player.vimeo.com
 player.vrt.be
 playwonderbox.com
 playwonderbox.com.br
+portal-api.coinmarketcap.com
 portal.arkoselabs.com
 portal.au.frontegg.com
 portal.myconnect.com.au
@@ -7496,7 +7504,9 @@ privacy.ketnet.be
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 pro-api.coingecko.com
+pro-api.coinmarketcap.com
 pro.coinbase.com
+pro.coinmarketcap.com
 pro.doctolib.(fr|de|it) (see "Free features for healthcare professionals"))
 procuration.bpost.be
 prod-*.nu.com.co

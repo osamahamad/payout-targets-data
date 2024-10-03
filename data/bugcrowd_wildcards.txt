@@ -38,13 +38,6 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.dropboxforum.com
 *.docsend.com
 *.dropboxer.net
-*.dropbox.com    
-*.hellosign.com
-*.helloworks.com
-*.hellofax.com
-*.dropboxforum.com
-*.docsend.com
-*.dropboxer.net
 casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 *.emakina.nl 
 *.emakina.group
@@ -61,6 +54,7 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.xvservice.net
 *.xvtest.net
 *.certinia.com
+*.kiln.it
 *.kiln.it
 *.hubspotemail.net
 *.hs-sites(-eu1)?.com
