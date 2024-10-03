@@ -218,6 +218,7 @@
 *.cb.dev
 *.cbhq.net
 *.central.arubanetworks.com
+*.certinia.com
 *.certsy.com
 *.certsynonprod.com
 *.chainstacklabs.com
@@ -516,6 +517,7 @@
 *.khealth.com
 *.khealth.io/
 *.khealth.us/
+*.kiln.it
 *.kindredext.net
 *.kinepolis.be
 *.kinepolis.be 
@@ -1184,7 +1186,6 @@
 38.140.238.56/29
 3d.cs.money
 3rd party services
-3rdparty-apis.coinmarketcap.com
 403546234
 403684733
 406056744
@@ -1472,10 +1473,6 @@ Beats - Heartbeat
 Beats - Metricbeat
 Beats - Packetbeat
 Beats - Winlogbeat
-Binance Desktop Application
-Binance Mobile Application for Android
-Binance Mobile Application for iOS
-Binance macOS Application
 Bitdefender Antimalware Engines
 Bitdefender BOX v2
 Bitdefender Total Security
@@ -1545,8 +1542,6 @@ Cloudflare Zero Trust/Cloudflare One
 Cloudkey
 Clubhouse Production and Corporate Infrastructure
 Coda Chrome Extension
-CoinMarketCap Android app
-CoinMarketCap iOS app
 Coinbase WaaS (Wallet as a Service)
 ColdFusion
 CometBFT
@@ -2262,9 +2257,6 @@ Tripadvisor Android App
 Tripadvisor iOS App
 TrueLayer for Magento (Magento plugin)
 TrueLayer for WooCommerce (WordPress plugin)
-Trustwallet Android App
-Trustwallet Chrome Extension
-Trustwallet iOS App
 Turnstile
 Twilio APIs
 UCRM
@@ -2579,7 +2571,6 @@ api.au.frontegg.com
 api.avax-test.network
 api.avax.network
 api.avtoelon.uz
-api.binance.com
 api.bitcoin.shapeshift.com 
 api.bitso.com
 api.blockchain.info
@@ -2592,7 +2583,6 @@ api.cm.com
 api.cmtelecom.com
 api.codex.one
 api.coinbase.com
-api.coinmarketcap.com
 api.cointr.com
 api.cointr.pro
 api.creditkarma.com
@@ -3136,7 +3126,6 @@ codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
 cognito-idp.eu-west-1.amazonaws.com
 coinbase.com
 coingecko.com
-coinmarketcap.com
 coldfusion.adobe.com
 com.1debit.ChimeProdApp
 com.3mosquitos.MercadoLibre
@@ -3810,6 +3799,8 @@ firefly.adobe.com
 firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 flights.booking.com
+flourish-user-preview.com
+flourish-user-templates.com
 flyiin.com
 fm.anchor.android
 fonts.adobe.com
@@ -4866,7 +4857,10 @@ https://ferroprotocol.com
 https://fileshare.ze.monash.edu
 https://filezilla-project.org/download.php?type=server&show_all=1
 https://financeiro.hostgator.com.br
+https://financialforce.com
 https://flags.expeng.optimizely.com
+https://flo.uri.sh
+https://flourish.studio/
 https://flow.opera.com
 https://fm.voiapp.io/login
 https://form.asana.com
@@ -5347,7 +5341,6 @@ https://github.com/tetu-io/tetu-contracts-v2/blob/master/contracts/vault/VaultIn
 https://github.com/tetu-io/tetu-contracts-v2/blob/master/contracts/ve/VeTetu.sol
 https://github.com/transferwise/*
 https://github.com/tronprotocol/java-tron
-https://github.com/trustwallet/wallet-core/
 https://github.com/valvesoftware
 https://github.com/vechain/thor
 https://github.com/vertex-protocol/vertex-contracts
@@ -6354,7 +6347,6 @@ https://transferwise.com
 https://translate.elementor.com/
 https://transvision.westernunion.com
 https://travelagents.viator.com
-https://trbinance.com
 https://trello.com/power-ups/55a5d915446f517774210001/box
 https://trello.com/power-ups/55a5d915446f517774210003/evernote
 https://trello.com/power-ups/55a5d916446f517774210004/github
@@ -6496,8 +6488,6 @@ https://www.biconomy.com/
 https://www.biconomy.com/api/v1
 https://www.bigcommerce.com
 https://www.bigcommerce.net
-https://www.binance.com/
-https://www.binance.us/
 https://www.bit.com/
 https://www.bit.com/docs/en-us/futures.html#introduction
 https://www.bit.com/legacy/propertyCenter/assets
@@ -6774,6 +6764,7 @@ https://www2.westernunion.com
 https://wwws-staging.moneytree.jp/link/
 https://wwws-staging.moneytree.jp/link/mobile/
 https://wwws-staging.moneytree.jp/link/mobile/#/signup?client_id=38d99a6e8e9fc87c866f5aa82bdc2569c464b2323a55e0b28f658efa678e9623&redirect_uri=https://wwws-staging.moneytree.jp/link/mobile/callback&response_type=token&scope=guest_read+accounts_read+transactions_read+request_refresh
+https://xyzbmojn.net/
 https://yeswehack.com
 https://youcouldbe.com
 https://zabbix.intergamma.nl/
@@ -7468,7 +7459,6 @@ player.vimeo.com
 player.vrt.be
 playwonderbox.com
 playwonderbox.com.br
-portal-api.coinmarketcap.com
 portal.arkoselabs.com
 portal.au.frontegg.com
 portal.myconnect.com.au
@@ -7506,9 +7496,7 @@ privacy.ketnet.be
 privatetarget-1-www.zigzag
 privatetarget-2-secure.zigzag
 pro-api.coingecko.com
-pro-api.coinmarketcap.com
 pro.coinbase.com
-pro.coinmarketcap.com
 pro.doctolib.(fr|de|it) (see "Free features for healthcare professionals"))
 procuration.bpost.be
 prod-*.nu.com.co
