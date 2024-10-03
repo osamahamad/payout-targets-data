@@ -21,6 +21,9 @@
 *.LCX.com
 *.YOUR-TESTING-STORE.mybigcommerce.com/
 *.a.exodus.io
+*.acbpost.be
+*.acc-pub.mobilevikings.be
+*.acc.mobilevikings.be
 *.account.api.here.com
 *.account.here.com
 *.acrobat.com
@@ -79,8 +82,8 @@
 *.api.playstation.com
 *.app.asana.com
 *.app.spacelift.dev
-*.arlo.com
-*.arloxcld.com
+*.appmiral.com
+*.aroundtheworld.tomorrowland.com
 *.artstation.com
 *.asana.biz
 *.astaro.com
@@ -98,6 +101,7 @@
 *.ayco.com
 *.backblazeb2.com
 *.backend-capital.com
+*.backend.currency.com
 *.backpack.exchange/
 *.base.org
 *.berush.com
@@ -143,6 +147,9 @@
 *.boozt.com
 *.booztlet.com
 *.boredapeyachtclub.com
+*.bpost.be
+*.bpost.cloud
+*.bpost2.be
 *.braintree-api.com
 *.braintree.tools
 *.braintreegateway.com
@@ -184,6 +191,7 @@
 *.chimepayments.com
 *.chmfin.com
 *.cic-bug-bounty.auth0app.com
+*.cineramabios.nl
 *.citrixworkspacesapi.net
 *.citymeal.com
 *.claritymoney.com
@@ -195,6 +203,9 @@
 *.cloudways.com
 *.clubhouse.com
 *.clubhouseapi.com
+*.cm.com
+*.cmtelecom.com
+*.cmtickets.com
 *.coda.io/*
 *.code.gov
 *.cognitiveperformer.com
@@ -204,6 +215,7 @@
 *.comcast.com
 *.computerbild.de
 *.consumer.worldcoin.org
+*.contactallerg(y|ie).uzleuven.be
 *.contentsquare.com
 *.cornershop.io/*
 *.cornershopapp.com/*
@@ -232,8 +244,10 @@
 *.deriv.cloud
 *.deriv.com
 *.derivws.com
+*.dev-pub.mobilevikings.be
 *.dev.*.lfscnp.com
 *.dev.grindr.io
+*.dev.mobilevikings.be
 *.dev.remitly.com
 *.devicelock.com
 *.dex-trade.com
@@ -247,6 +261,7 @@
 *.doctolib.(fr|de|it|com|net)
 *.download.originenergy.com.au
 *.dpgmedia.be
+*.dpgmedia.com
 *.dpgmedia.nl
 *.dropbox.com    
 *.dropboxer.net
@@ -308,6 +323,7 @@
 *.fortnite.com
 *.found.io
 *.fromspotify.com
+*.fullcinemas.com
 *.fuze.com
 *.fuze.site
 *.gamma.be/*
@@ -365,6 +381,7 @@
 *.hellosign.com
 *.helloworks.com
 *.here.com
+*.here.com employee accounts
 *.hereapi.com
 *.hey.com
 *.highrolling.nu
@@ -418,13 +435,18 @@
 *.instacart.com
 *.instacart.tools
 *.int.remitly.com
+*.intel.com
 *.intercomassets.com / *.intercomcdn.com
 *.intergamma-test.nl
 *.intergamma.cloud
 *.intergamma.nl/*
+*.intigriti.com
+*.intigriti.io
+*.intigriti.me
 *.irccloud-cdn.com
 *.irccloud.com
 *.itcapital.io
+*.jezofficial.be
 *.jit.si
 *.jitsi.net
 *.jobapi.io
@@ -439,6 +461,7 @@
 *.just-eat.no
 *.justfall.lol,*.justplay.lol,*.1v1.lol
 *.karwei.nl/*
+*.karweioutletstore.nl
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
 *.kes.kindredext.net
@@ -448,11 +471,17 @@
 *.kiln.it
 *.kindredext.net
 *.kinepolis.be
+*.kinepolis.be 
 *.kinepolis.ch
+*.kinepolis.ch 
 *.kinepolis.com
+*.kinepolis.com 
+*.kinepolis.es 
 *.kinepolis.fr
+*.kinepolis.fr 
 *.kinepolis.lu
 *.kinepolis.nl
+*.kinepolis.nl 
 *.kiwi.com
 *.klubcinema.fr
 *.kolikkopelit.com
@@ -461,9 +490,12 @@
 *.krisp.ai
 *.kucoin.com
 *.kwsdose.be
+*.la.spring-media.de
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.landmarkcinemas.com
+*.landmarkglobal-group.com
+*.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
 *.latitudefinancial.co.nz
@@ -517,7 +549,7 @@
 *.mdvmm.xyz
 *.mediatonic.co.uk
 *.meebits.app
-*.megatix.be
+*.megatix.be  
 *.melonapp.com
 *.memorable.io
 *.meraki.com
@@ -525,6 +557,7 @@
 *.mevo.com
 *.mgmt.fndlsb.net
 *.mi.com
+*.mir.uzleuven.be
 *.miui.com
 *.miwifi.com
 *.mixamo.com
@@ -621,6 +654,9 @@
 *.paypalcorp.com
 *.personio-internal.de
 *.personio.de
+*.personio.de/compensation
+*.personio.de/svc/compensation/graphql
+*.personio.de/whistleblowing
 *.personio.tools
 *.personiowhistleblowing.com
 *.petbook-magazine.com/
@@ -632,6 +668,8 @@
 *.playuzleuven.be
 *.playwsop.com
 *.points.com
+*.portofantwerp.com
+*.portofantwerpbruges.com
 *.ppbdev.com
 *.prd-pub.mobilevikings.be
 *.prd.fndlsb.net
@@ -767,6 +805,7 @@
 *.sonyentertainmentnetwork.com
 *.sophos.com
 *.soundcloud.org
+*.souparea.com
 *.spiketrap.io
 *.spinaway.com
 *.sportinglife.com
@@ -785,6 +824,7 @@
 *.status.app
 *.status.im
 *.statuspage.io
+*.stbpost.be
 *.storspiller.com
 *.streamlabs.com
 *.streamlabscharity.com
@@ -952,9 +992,12 @@
 *.zomans.com
 *.zomato.com
 *ensemble*.yahoo.com
+*idp*.uzleuven.be
 *omega*.yahoo.com
+*stag*.uzleuven.be
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
+Employee accounts *.here.com
 GenAI Apps under *.amazon.*
 Leaked/compromised employee accounts *.here.com
 Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
@@ -962,11 +1005,14 @@ analytics-*.8x8.com
 api*.netflix.com
 api-*.soundcloud.com
 api.zmsp.*.earlywarning.io
+assets*.uzleuven.be
 casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 dcfgateway*.marriott.com
 developer*.earlywarning.com
+files*.uzleuven.be
 gateway*.marriott.com
 h1-*your-own-instance*.cloud.mattermost.com
+images*.uzleuven.be
 intercity-*.eu-east-1.indriverapp.com
 matrix.agent.*.tchap.gouv.fr
 munin-*.wordpress.org

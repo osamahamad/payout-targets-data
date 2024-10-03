@@ -1,584 +1,3 @@
-Atlassian Access (https://admin.atlassian.com/atlassian-access)
-Atlassian Admin (https://admin.atlassian.com/)
-Atlassian Atlas
-Atlassian Compass
-Atlassian Identity (https://id.atlassian.com/login)
-Atlassian Marketplace (https://marketplace.atlassian.com)
-Atlassian Start (https://start.atlassian.com)
-Bamboo
-Bitbucket Cloud including Bitbucket Pipelines (https://bitbucket.org)
-Bitbucket Data Center
-Confluence Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)
-Confluence Cloud Mobile App for Android
-Confluence Cloud Mobile App for iOS
-Confluence Cloud Premium (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)
-Confluence Companion App for macOS and Windows
-Confluence Data Center
-Confluence Data Center Mobile App for Android
-Confluence Data Center Mobile App for iOS
-Crowd
-Crucible
-FishEye
-Forge Platform
-GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)
-Jira Cloud Mobile App for Android
-Jira Cloud Mobile App for iOS
-Jira Core Data Center
-Jira Data Center Mobile App for Android
-Jira Data Center Mobile App for iOS
-Jira Product Discovery
-Jira Service Management Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)
-Jira Service Management Data Center
-Jira Software Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)
-Jira Software Data Center
-Jira Work Management Cloud formerly Jira Core (bugbounty-test-<bugcrowd-name>.atlassian.net)
-Other - (all other Atlassian targets)
-Rovo
-Sourcetree for macOS and Windows (https://www.sourcetreeapp.com/)
-https://admin.atlassian.com/
-https://admin.atlassian.com/atlassian-access
-https://apps.apple.com/us/app/confluence-cloud/id1006971684
-https://apps.apple.com/us/app/confluence-server/id1288365159
-https://apps.apple.com/us/app/jira-cloud-by-atlassian/id1006972087
-https://apps.apple.com/us/app/jira-server/id1405353949
-https://bitbucket.org
-https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
-https://id.atlassian.com/login
-https://marketplace.atlassian.com
-https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.core&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.atlassian.confluence.server
-https://play.google.com/store/apps/details?id=com.atlassian.jira.server&hl=en_US&gl=US
-https://start.atlassian.com
-https://www.atlassian.com/enterprise/data-center/bitbucket
-https://www.atlassian.com/enterprise/data-center/confluence
-https://www.atlassian.com/enterprise/data-center/crowd
-https://www.atlassian.com/enterprise/data-center/jira
-https://www.atlassian.com/enterprise/data-center/jira
-https://www.atlassian.com/enterprise/data-center/jira/service-management
-https://www.atlassian.com/software/atlas
-https://www.atlassian.com/software/bamboo
-https://www.atlassian.com/software/compass
-https://www.atlassian.com/software/confluence
-https://www.atlassian.com/software/confluence/premium
-https://www.atlassian.com/software/crucible
-https://www.atlassian.com/software/fisheye
-https://www.atlassian.com/software/jira
-https://www.atlassian.com/software/jira/product-discovery
-https://www.atlassian.com/software/jira/service-management
-https://www.atlassian.com/software/jira/work-management
-https://www.atlassian.com/software/rovo
-https://www.npmjs.com/package/@forge/cli
-https://www.npmjs.com/package/@forge/cli	
-https://www.sourcetreeapp.com/
- Mobile Plugin for Confluence Data Center and Server - Data Center - https://marketplace.atlassian.com/apps/1218250/mobile-plugin-for-confluence-data-center-and-server?hosting=datacenter
- Mobile Plugin for Confluence Data Center and Server - Server - https://marketplace.atlassian.com/apps/1218250/mobile-plugin-for-confluence-data-center-and-server?hosting=server
- Mobile Plugin for Jira - Server - https://marketplace.atlassian.com/apps/1220151/mobile-plugin-for-jira-data-center-and-server?hosting=server
-AWS Service Catalog for JSM Cloud - Cloud - https://marketplace.atlassian.com/apps/1221551/aws-service-catalog-for-jsm-cloud?hosting=cloud
-Add watchers at issue creation - Cloud - https://marketplace.atlassian.com/apps/1229183/add-watchers-at-issue-creation?hosting=cloud
-Admin Kit for Confluence Cloud - Cloud - https://marketplace.atlassian.com/apps/1225691/admin-kit-for-confluence-cloud?hosting=cloud
-Admin Kit for Jira Cloud - Cloud - https://marketplace.atlassian.com/apps/1225689/admin-kit-for-jira-cloud?hosting=cloud
-Advanced Roadmaps (formerly Portfolio) - DataCenter - https://marketplace.atlassian.com/apps/1212136/advanced-roadmaps-formerly-portfolio?hosting=datacenter
-Advanced Roadmaps (formerly Portfolio) - Server - https://marketplace.atlassian.com/apps/1212136/advanced-roadmaps-formerly-portfolio?hosting=server
-Advanced Roadmaps for Jira in Confluence - DataCenter - https://marketplace.atlassian.com/apps/1221237/advanced-roadmaps-for-jira-in-confluence?hosting=datacenter
-Advanced Roadmaps for Jira in Confluence - Server - https://marketplace.atlassian.com/apps/1221237/advanced-roadmaps-for-jira-in-confluence?hosting=server
-After Deployment Trigger for Bamboo - Server - https://marketplace.atlassian.com/apps/1216136/after-deployment-trigger-for-bamboo?hosting=server
-Agent Notifications for Bamboo - Server - https://marketplace.atlassian.com/apps/1216177/agent-notifications-for-bamboo?hosting=server
-Agent Usage Visualization for Bamboo - Server - https://marketplace.atlassian.com/apps/1215924/agent-usage-visualization-for-bamboo?hosting=server
-Analytics for Confluence - Cloud - https://marketplace.atlassian.com/apps/1215795/analytics-for-confluence?hosting=cloud
-Announcement Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1217289/announcement-plugin-for-bamboo?hosting=server
-Application tunnels - DataCenter - https://marketplace.atlassian.com/apps/1227901/application-tunnels?hosting=datacenter
-Application tunnels - Server - https://marketplace.atlassian.com/apps/1227901/application-tunnels?hosting=server
-Archive Plugin for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1211094/archive-plugin-for-bitbucket-server?hosting=server
-Asana Importer Plugin for Jira - Server - https://marketplace.atlassian.com/apps/1213440/asana-importer-plugin-for-jira?hosting=server
-Assets - AWS Integration - DataCenter - https://marketplace.atlassian.com/apps/1218757/assets-aws-integration?hosting=datacenter
-Assets - AWS Integration - Server - https://marketplace.atlassian.com/apps/1218757/assets-aws-integration?hosting=server
-Assets - Azure Integration - DataCenter - https://marketplace.atlassian.com/apps/1218974/assets-azure-integration?hosting=datacenter
-Assets - Azure Integration - Server - https://marketplace.atlassian.com/apps/1218974/assets-azure-integration?hosting=server
-Assets - Confluence Macro - DataCenter - https://marketplace.atlassian.com/apps/1216074/assets-confluence-macro?hosting=datacenter
-Assets - Confluence Macro - Server - https://marketplace.atlassian.com/apps/1216074/assets-confluence-macro?hosting=server
-Assets - DataCenter - https://marketplace.atlassian.com/apps/1212137/assets?hosting=datacenter
-Assets - Device42 Integration - DataCenter - https://marketplace.atlassian.com/apps/1219632/assets-device42-integration?hosting=datacenter
-Assets - Device42 Integration - Server - https://marketplace.atlassian.com/apps/1219632/assets-device42-integration?hosting=server
-Assets - Google Cloud Integration - DataCenter - https://marketplace.atlassian.com/apps/1219212/assets-google-cloud-integration?hosting=datacenter
-Assets - Google Cloud Integration - Server - https://marketplace.atlassian.com/apps/1219212/assets-google-cloud-integration?hosting=server
-Assets - Jamf Integration - DataCenter - https://marketplace.atlassian.com/apps/1219908/assets-jamf-integration?hosting=datacenter
-Assets - Jamf Integration - Server - https://marketplace.atlassian.com/apps/1219908/assets-jamf-integration?hosting=server
-Assets - Jira & Bitbucket Integration - DataCenter - https://marketplace.atlassian.com/apps/1217750/assets-jira-bitbucket-integration?hosting=datacenter
-Assets - Jira & Bitbucket Integration - Server - https://marketplace.atlassian.com/apps/1217750/assets-jira-bitbucket-integration?hosting=server
-Assets - NVD Integration - DataCenter - https://marketplace.atlassian.com/apps/1220353/assets-nvd-integration?hosting=datacenter
-Assets - NVD Integration - Server - https://marketplace.atlassian.com/apps/1220353/assets-nvd-integration?hosting=server
-Assets - SCCM Integration - DataCenter - https://marketplace.atlassian.com/apps/1219094/assets-sccm-integration?hosting=datacenter
-Assets - SCCM Integration - Server - https://marketplace.atlassian.com/apps/1219094/assets-sccm-integration?hosting=server
-Assets - Server - https://marketplace.atlassian.com/apps/1212137/assets?hosting=server
-Assets - ServiceNow Integration - DataCenter - https://marketplace.atlassian.com/apps/1219561/assets-servicenow-integration?hosting=datacenter
-Assets - ServiceNow Integration - Server - https://marketplace.atlassian.com/apps/1219561/assets-servicenow-integration?hosting=server
-Assets - Snow Integration - DataCenter - https://marketplace.atlassian.com/apps/1219298/assets-snow-integration?hosting=datacenter
-Assets - Snow Integration - Server - https://marketplace.atlassian.com/apps/1219298/assets-snow-integration?hosting=server
-Assets - Tempo Integration - DataCenter - https://marketplace.atlassian.com/apps/1217751/assets-tempo-integration?hosting=datacenter
-Assets Discovery - Cloud - https://marketplace.atlassian.com/apps/1214668/assets-discovery?hosting=cloud
-Assets Discovery - DataCenter - https://marketplace.atlassian.com/apps/1214668/assets-discovery?hosting=datacenter
-Assets Tempo Integration - Server - https://marketplace.atlassian.com/apps/1217751/assets-tempo-integration?hosting=server
-Assign Reviewer Groups - Server - https://marketplace.atlassian.com/apps/1220798/assign-reviewer-groups?hosting=server
-Atlas for Jira Cloud - Cloud - https://marketplace.atlassian.com/apps/1228937/atlas-for-jira-cloud?hosting=cloud&tab=overview
-Atlassian Cloud for Gmail - Cloud - https://marketplace.atlassian.com/apps/1219311/atlassian-cloud-for-gmail?hosting=cloud
-Atlassian Plugin SDK - DEB - Cloud - https://marketplace.atlassian.com/apps/1210992/atlassian-plugin-sdk-deb?hosting=cloud
-Atlassian Plugin SDK - DEB - Server - https://marketplace.atlassian.com/apps/1210992/atlassian-plugin-sdk-deb?hosting=server
-Atlassian Plugin SDK - Mac OS X - Server - https://marketplace.atlassian.com/apps/1210951/atlassian-plugin-sdk-mac-os-x?hosting=server
-Atlassian Plugin SDK - RPM - Server - https://marketplace.atlassian.com/apps/1210991/atlassian-plugin-sdk-rpm?hosting=server
-Atlassian Plugin SDK - TGZ - Server - https://marketplace.atlassian.com/apps/1210993/atlassian-plugin-sdk-tgz?hosting=server
-Atlassian Plugin SDK - Windows - Server - https://marketplace.atlassian.com/apps/1210950/atlassian-plugin-sdk-windows?hosting=server
-Atlassian REST API Browser - Server - https://marketplace.atlassian.com/apps/1211542/atlassian-rest-api-browser?hosting=server
-Atlassian Team Playbook blueprints - Server - https://marketplace.atlassian.com/apps/1216357/atlassian-team-playbook-blueprints?hosting=server
-Atlassian Universal Plugin Manager - DataCenter - https://marketplace.atlassian.com/apps/23915/atlassian-universal-plugin-manager?hosting=datacenter
-Atlassian Universal Plugin Manager - Server - https://marketplace.atlassian.com/apps/23915/atlassian-universal-plugin-manager?hosting=server
-Auto Unapprove for Bitbucket Server - DataCenter - https://marketplace.atlassian.com/apps/1211449/auto-unapprove-for-bitbucket-server?hosting=datacenter
-Auto Unapprove for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1211449/auto-unapprove-for-bitbucket-server?hosting=server
-AutoLink Plugin for Jira - Server - https://marketplace.atlassian.com/apps/1211246/autolink-plugin-for-jira?hosting=server
-Automation for Jira - Cloud - https://marketplace.atlassian.com/apps/1215460/automation-for-jira-server?hosting=cloud
-Automation for Jira - Data Center and Server - Server - https://marketplace.atlassian.com/apps/1215460/automation-for-jira-data-center-and-server?hosting=server
-Automation for Jira - DataCenter - https://marketplace.atlassian.com/apps/1215460/automation-for-jira?hosting=datacenter
-Automation for Jira - Server Lite - Server - https://marketplace.atlassian.com/apps/1211836/automation-for-jira-server-lite?hosting=server
-Bamboo build status notifier - Server - https://marketplace.atlassian.com/apps/1224729/bamboo-build-status-notifier?hosting=server
-Better Code Macro for Confluence - Cloud - https://marketplace.atlassian.com/apps/1214912/better-code-macro-for-confluence?hosting=cloud
-Bitbucket Cloud - https://trello.com/power-ups/588a331cc86ffbe08f5d2c67/bitbucket-cloud
-Bitbucket Cloud Migration Assistant - Data Center - https://marketplace.atlassian.com/apps/1226610/bitbucket-cloud-migration-assistant?hosting=datacenter
-Bitbucket Cloud Migration Assistant - Server - https://marketplace.atlassian.com/apps/1226610/bitbucket-cloud-migration-assistant?hosting=server
-Bitbucket Cloud for Slack (Official) - Cloud - https://marketplace.atlassian.com/apps/1218781/bitbucket-cloud-for-slack-official?hosting=cloud
-Bitbucket Pipelines for Jira - Cloud - https://marketplace.atlassian.com/apps/1220820/bitbucket-pipelines-for-jira?hosting=cloud
-Bitbucket Server Backup Client - Server - https://marketplace.atlassian.com/apps/1211500/bitbucket-server-backup-client?hosting=server
-Bitbucket Server Protect Unmerged Hook - Data Center - https://marketplace.atlassian.com/apps/1211203/bitbucket-server-protect-unmerged-hook?hosting=datacenter
-Bitbucket Server Protect Unmerged Hook - Server - https://marketplace.atlassian.com/apps/1211203/bitbucket-server-protect-unmerged-hook?hosting=server
-Bitbucket Server for Slack (Official) - DataCenter - https://marketplace.atlassian.com/apps/1220729/bitbucket-server-for-slack-official?hosting=datacenter
-Bitbucket Server for Slack (Official) - Server - https://marketplace.atlassian.com/apps/1220729/bitbucket-server-for-slack-official?hosting=server
-Box - https://trello.com/power-ups/55a5d915446f517774210001/box
-Build Times for Bamboo 5.10+ - Server - https://marketplace.atlassian.com/apps/1215965/build-times-for-bamboo-5-10?hosting=server
-Bulk delete review files for Crucible - Server - https://marketplace.atlassian.com/apps/1215089/bulk-delete-review-files-for-crucible?hosting=server
-Card Repeater - https://trello.com/power-ups/57b47fb862d25a30298459b1/card-repeater
-Card Snooze - https://trello.com/power-ups/58dd18bdccfca7af8311792e/card-snooze
-Centralized license visibility - DataCenter - https://marketplace.atlassian.com/apps/1220745/centralized-license-visibility?hosting=datacenter
-Centralized license visibility - Server - https://marketplace.atlassian.com/apps/1220745/centralized-license-visibility?hosting=server
-Change Management Workflow for Jira Service Management - DataCenter - https://marketplace.atlassian.com/apps/1215175/change-management-workflow-for-jira-service-management?hosting=datacenter
-Change Management Workflow for Jira Service Management - Server - https://marketplace.atlassian.com/apps/1215175/change-management-workflow-for-jira-service-management?hosting=server
-Change Management for JSM - Server - https://marketplace.atlassian.com/apps/1215175/change-management-for-jsm?hosting=server
-Cloud Compatibility for Jira - DataCenter - https://marketplace.atlassian.com/apps/1221117/cloud-compatibility-for-jira?hosting=datacenter
-Cloud Compatibility for Jira - Server - https://marketplace.atlassian.com/apps/1221117/cloud-compatibility-for-jira?hosting=server
-Cloud Migration Planner - Cloud - https://marketplace.atlassian.com/apps/1229704/cloud-migration-planner?hosting=cloud
-Code Coverage for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1218271/code-coverage-for-bitbucket-server?hosting=server
-Comms Dashboard - Cloud - https://marketplace.atlassian.com/apps/1228153/comms-dashboard?hosting=cloud
-Conditional tasks for Bamboo - Server - https://marketplace.atlassian.com/apps/1219706/conditional-tasks-for-bamboo?hosting=server
-Confluence Cloud - https://trello.com/power-ups/586be37142f94dc0871fbcbb/confluence-cloud
-Confluence Cloud Migration Assistant - DataCenter - https://marketplace.atlassian.com/apps/1219672/confluence-cloud-migration-assistant?hosting=datacenter
-Confluence Cloud Migration Assistant - Server - https://marketplace.atlassian.com/apps/1219672/confluence-cloud-migration-assistant?hosting=server
-Confluence Cloud for Microsoft Teams - Cloud - https://marketplace.atlassian.com/apps/1226127/confluence-cloud-for-microsoft-teams-official?hosting=cloud
-Confluence Cloud for Slack (Official) - Cloud - https://marketplace.atlassian.com/apps/1219518/confluence-cloud-for-slack-official?hosting=cloud
-Confluence Cloud for Slack - Cloud - https://marketplace.atlassian.com/apps/1219498/confluence-cloud-for-slack?hosting=cloud
-Confluence Issue Tab Plugin for Jira - Server - https://marketplace.atlassian.com/apps/1211312/confluence-issue-tab-plugin-for-jira?hosting=server
-Confluence Server for Slack (Official) - DataCenter - https://marketplace.atlassian.com/apps/1220186/confluence-server-for-slack-official?hosting=datacenter
-Confluence Server for Slack (Official) - Sever - https://marketplace.atlassian.com/apps/1220186/confluence-server-for-slack-official?hosting=server
-Confluence Source Editor - Server - https://marketplace.atlassian.com/apps/1210722/confluence-source-editor?hosting=server
-Confluence Trello Power-Up - Cloud - https://marketplace.atlassian.com/apps/1216623/confluence-trello-power-up?hosting=cloud
-Confluence recent edits overview - Cloud - https://marketplace.atlassian.com/apps/1224758/confluence-recent-edits-overview?hosting=cloud
-Continuous Plugin Deployment for Bamboo - Server - https://marketplace.atlassian.com/apps/602870/continuous-plugin-deployment-for-bamboo?hosting=server
-Copy Source for Fisheye and Crucible - Server - https://marketplace.atlassian.com/apps/1215624/copy-source-for-fisheye-and-crucible?hosting=server
-Copy Space for Confluence - Server - https://marketplace.atlassian.com/apps/212/copy-space-for-confluence?hosting=server
-Crucible build status - Server - https://marketplace.atlassian.com/apps/1224728/crucible-build-status?hosting=server
-Custom Fields - https://trello.com/power-ups/56d5e249a98895a9797bebb9/custom-fields
-Dashcards  - https://trello.com/power-ups/6048e897c73d032a983e2a7c/dashcards
-Data Generator for Jira - Server - https://marketplace.atlassian.com/apps/1210725/data-generator-for-jira?hosting=server
-Decisions Helper for Confluence - Cloud - https://marketplace.atlassian.com/apps/1226380/decisions-helper-for-confluence?hosting=cloud
-Delegated Directory Pruning for Crowd - Server - https://marketplace.atlassian.com/apps/1218630/delegated-directory-pruning-for-crowd?hosting=server
-Dependency Graph Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1215979/dependency-graph-plugin-for-bamboo?hosting=server
-Developer Assistant for Confluence - Cloud - https://marketplace.atlassian.com/apps/1229446/developer-assistant-for-confluence?hosting=cloud
-Developer Assistant for Jira - Cloud - https://marketplace.atlassian.com/apps/1229343/developer-assistant-for-jira?hosting=cloud
-Directory Scanning Plugin - Server - https://marketplace.atlassian.com/apps/30318/directory-scanning-plugin?hosting=server
-Disable Referer for Bitbucket Server - DataCenter - https://marketplace.atlassian.com/apps/1214351/disable-referer-for-bitbucket-server?hosting=datacenter
-Disable Referer for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1214351/disable-referer-for-bitbucket-server?hosting=server
-Embedded Marketplace for Confluence - Cloud - https://marketplace.atlassian.com/apps/1218875/embedded-marketplace-for-confluence?hosting=cloud
-Embedded Marketplace for Jira - Cloud - https://marketplace.atlassian.com/apps/1218864/embedded-marketplace-for-jira?hosting=cloud
-Entity Property Tool for Jira - Cloud - https://marketplace.atlassian.com/apps/1214509/entity-property-tool-for-jira?hosting=cloud
-Evernote - https://trello.com/power-ups/55a5d915446f517774210003/evernote
-Fail Build Trigger for Bamboo - Server - https://marketplace.atlassian.com/apps/1215235/fail-build-trigger-for-bamboo?hosting=server
-Favorites Dialog for Confluence - Server - https://marketplace.atlassian.com/apps/1214046/favorites-dialog-for-confluence?hosting=server
-File Tagging Plugin for Crucible - Server - https://marketplace.atlassian.com/apps/1211738/file-tagging-plugin-for-crucible?hosting=server
-Form macro builder for Confluence - Cloud - https://marketplace.atlassian.com/apps/1225664/form-macro-builder-for-confluence?hosting=cloud
-Giphy - https://trello.com/power-ups/568c1415eeaeb62f5a43aa01/giphy
-GitHub - https://trello.com/power-ups/55a5d916446f517774210004/github
-GitHub for Jira - Cloud - https://marketplace.atlassian.com/apps/1219592/github-for-jira?hosting=cloud
-GitHub webhooks for Fisheye - Server - https://marketplace.atlassian.com/apps/1223584/github-webhooks-for-fisheye?hosting=server
-Google Drive - https://trello.com/power-ups/55a5d916446f517774210006/google-drive
-Google Drive for Confluence (Official) - Legacy Editor Only - Cloud - https://marketplace.atlassian.com/apps/1213092/google-drive-for-confluence-official-legacy-editor-only?hosting=cloud
-Google Hangouts - https://trello.com/power-ups/55a5d916446f517774210007/google-hangouts
-Hackathon Workflow Alan - Cloud - https://marketplace.atlassian.com/apps/1227949/hackathon-workflow-alan?hosting=cloud
-Hackathon Workflow Alan - Data Center - https://marketplace.atlassian.com/apps/1227949/hackathon-workflow-alan?hosting=datacenter
-Hackathon for Jira - Cloud - https://marketplace.atlassian.com/apps/1214757/hackathon-for-jira?hosting=cloud
-Icons for Jira - Server - https://marketplace.atlassian.com/apps/1214988/icons-for-jira?hosting=server
-Image Paste for Fisheye/Crucible - Server - https://marketplace.atlassian.com/apps/1215192/image-paste-for-fisheye-crucible?hosting=server
-Inbox Hook for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1211715/inbox-hook-for-bitbucket-server?hosting=server
-Ipython Notebook Viewer - Cloud - https://marketplace.atlassian.com/apps/1218117/ipython-notebook-viewer?hosting=cloud
-Issue Edit Notifications for Jira - Server - https://marketplace.atlassian.com/apps/1211504/issue-edit-notifications-for-jira?hosting=server
-JMeter Aggregator for Bamboo - Server - https://marketplace.atlassian.com/apps/5902/jmeter-aggregator-for-bamboo?hosting=server
-JavaScript Charts for Jira Cloud - Cloud - https://marketplace.atlassian.com/apps/1214527/javascript-charts-for-jira-cloud?hosting=cloud
-Jenkins for Jira (official) - Cloud - https://marketplace.atlassian.com/apps/1227791/jenkins-for-jira-official?hosting=cloud
-Jenkins integration for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1222132/jenkins-integration-for-bitbucket-server?hosting=server
-Jet by Jira Align - Cloud - https://marketplace.atlassian.com/apps/1221602/jet-by-jira-align?hosting=cloud
-Jet by Jira Align - DataCenter - https://marketplace.atlassian.com/apps/1221602/jet-by-jira-align?hosting=datacenter
-Jet by Jira Align - Server - https://marketplace.atlassian.com/apps/1221602/jet-by-jira-align?hosting=server
-Jira - https://trello.com/power-ups/586be36326cc4c7e9f70beb3/jira
-Jira Align - https://trello.com/power-ups/5e3886cd2ae34410748d0d5b/jira-align-
-Jira Calendar Plugin - Server - https://marketplace.atlassian.com/apps/293/jira-calendar-plugin?hosting=server
-Jira Charting Plugin  - Server - https://marketplace.atlassian.com/apps/288/jira-charting-plugin?hosting=server
-Jira Cloud Migration Assistant - DataCenter - https://marketplace.atlassian.com/apps/1222010/jira-cloud-migration-assistant?hosting=datacenter
-Jira Cloud Migration Assistant - Server - https://marketplace.atlassian.com/apps/1222010/jira-cloud-migration-assistant?hosting=server
-Jira Cloud Power-Up for Trello - Cloud - https://marketplace.atlassian.com/apps/1216850/jira-cloud-power-up-for-trello?hosting=cloud
-Jira Cloud for CRM (Official) - Cloud - https://marketplace.atlassian.com/apps/1217661/jira-cloud-for-crm-official?hosting=cloud
-Jira Cloud for Excel (official) - Cloud - https://marketplace.atlassian.com/apps/1221301/jira-cloud-for-excel-official?hosting=cloud
-Jira Cloud for Google Sheets (Official) - Cloud - https://marketplace.atlassian.com/apps/1220382/jira-cloud-for-google-sheets-official?hosting=cloud
-Jira Cloud for Microsoft Teams - Cloud - https://marketplace.atlassian.com/apps/1226478/jira-cloud-for-microsoft-teams-official?hosting=cloud
-Jira Cloud for Outlook (Official) - Cloud - https://marketplace.atlassian.com/apps/1220666/jira-cloud-for-outlook-official?hosting=cloud
-Jira Cloud for Slack (Official) - Cloud - https://marketplace.atlassian.com/apps/1216863/jira-cloud-for-slack-official?hosting=cloud&tab=overview
-Jira Cloud for Slack - Cloud - https://marketplace.atlassian.com/apps/1215948/jira-cloud-for-slack?hosting=cloud
-Jira Enterprise Scale Assessment Tool - DataCenter - https://marketplace.atlassian.com/apps/1227744/jira-enterprise-scale-assessment-tool?hosting=datacenter&tab=overview
-Jira Enterprise Scale Assessment Tool - Server - https://marketplace.atlassian.com/apps/1227744/jira-enterprise-scale-assessment-tool?hosting=server
-Jira Server for Slack (Official) - DataCenter - https://marketplace.atlassian.com/apps/1220099/jira-server-for-slack-official?hosting=datacenter
-Jira Server for Slack (Official) - Server - https://marketplace.atlassian.com/apps/1220099/jira-server-for-slack-official?hosting=server
-Jira Service Management Widget - Cloud - https://marketplace.atlassian.com/apps/1217230/jira-service-management-widget?hosting=cloud
-Jira Trello Power-Up - Cloud - https://marketplace.atlassian.com/apps/1216625/jira-trello-power-up?hosting=cloud
-Jira to Jira Issue Copy - Server - https://marketplace.atlassian.com/apps/678725/jira-to-jira-issue-copy?hosting=server
-Look and Feel for Bitbucket Server - Datacenter - https://marketplace.atlassian.com/apps/1212632/look-and-feel-for-bitbucket-server?hosting=datacenter
-Look and Feel for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1212632/look-and-feel-for-bitbucket-server?hosting=server
-Look and Feel for Fisheye and Crucible - Server - https://marketplace.atlassian.com/apps/1216128/look-and-feel-for-fisheye-and-crucible?hosting=server
-MailChimp - https://trello.com/power-ups/55a5d917446f51777421000c/mailchimp
-Mandatory Reviewers for Crucible - Server - https://marketplace.atlassian.com/apps/1219472/mandatory-reviewers-for-crucible?hosting=server
-Microsoft OneDrive for Business - Legacy Editor Only - Cloud - https://marketplace.atlassian.com/apps/1221882/microsoft-onedrive-for-business-legacy-editor-only?hosting=cloud
-Microsoft Teams for Bitbucket Cloud - Cloud - https://marketplace.atlassian.com/apps/1218941/microsoft-teams-for-bitbucket-cloud?hosting=cloud
-Microsoft Teams for Confluence Cloud - Cloud - https://marketplace.atlassian.com/apps/1219516/microsoft-teams-for-confluence-cloud?hosting=cloud
-Microsoft Teams for Jira - DataCenter - https://marketplace.atlassian.com/apps/1217836/microsoft-teams-for-jira?hosting=datacenter
-Microsoft Teams for Jira - Server - https://marketplace.atlassian.com/apps/1217836/microsoft-teams-for-jira?hosting=server
-Mobile Connect Plugin for Jira - Server - https://marketplace.atlassian.com/apps/322837/mobile-connect-plugin-for-jira?hosting=server
-Mobile Plugin for Jira - DataCenter - https://marketplace.atlassian.com/apps/1220151/mobile-plugin-for-jira-data-center-and-server?hosting=datacenter
-My Reminders for Jira - Cloud - https://marketplace.atlassian.com/apps/1212778/my-reminders-for-jira?hosting=cloud
-OneDrive - https://trello.com/power-ups/5940440775fbe327abd3329f/onedrive
-Opsgenie - Cloud - https://marketplace.atlassian.com/apps/1222147/opsgenie?hosting=cloud
-Opsgenie Incident Timeline - Cloud - https://marketplace.atlassian.com/apps/1221251/opsgenie-incident-timeline?hosting=cloud
-Opsgenie Incident Timeline EU - Cloud - https://marketplace.atlassian.com/apps/1221312/opsgenie-incident-timeline-eu?hosting=cloud
-Package Tracker - https://trello.com/power-ups/55a5d917446f51777421000d/package-tracker
-Permission Lockdown for Bitbucket Server - DataCenter - https://marketplace.atlassian.com/apps/1217941/permission-lockdown-for-bitbucket-server?hosting=datacenter
-Permission Lockdown for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1217941/permission-lockdown-for-bitbucket-server?hosting=server
-Pre-Post Build Command Runner - Server - https://marketplace.atlassian.com/apps/5581/pre-post-build-command-runner?hosting=server
-Predator Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1212736/predator-plugin-for-bamboo?hosting=server
-Previous/next navigation - Cloud - https://marketplace.atlassian.com/apps/1223382/previous-next-navigation?hosting=cloud
-ProForma Lite: Forms & Checklists - Datacenter - https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?hosting=datacenter
-ProForma Lite: Forms & Checklists - Server - https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?hosting=server
-ProForma: Forms & Checklist for Jira - Datacenter - https://marketplace.atlassian.com/apps/1215833/proforma-forms-checklist-for-jira?hosting=datacenter
-ProForma: Forms & Checklist for Jira - Server - https://marketplace.atlassian.com/apps/1215833/proforma-forms-checklist-for-jira?hosting=server
-Project transfer for Crucible - Server - https://marketplace.atlassian.com/apps/1221227/project-transfer-for-crucible?hosting=server
-Questions for Confluence - Cloud - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=cloud
-Questions for Confluence - DataCenter - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=datacenter
-Questions for Confluence - Server - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=server
-Queue Priority Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1216287/queue-priority-plugin-for-bamboo?hosting=server
-Read Me - https://trello.com/power-ups/5a2de0c41ae4a1537bb0055d/read-me
-Reconcile unknown attachments - Data Center - https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hosting=datacenter
-Reconcile unknown attachments - Server - https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hosting=server
-Release Plugin for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1218118/release-plugin-for-bitbucket-server?hosting=server
-Release Report for Fisheye - Server - https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
-Repository QuickAdd for Fisheye/Crucible - Server - https://marketplace.atlassian.com/apps/1212100/repository-quickadd-for-fisheye-crucible?hosting=server
-Review Creator for Fisheye - Server - https://marketplace.atlassian.com/apps/14896/review-creator-for-fisheye?hosting=server
-Reviewer Suggester for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1211619/reviewer-suggester-for-bitbucket-server?hosting=server
-Rich Text Gadget for Jira - Cloud - https://marketplace.atlassian.com/apps/1214632/rich-text-gadget-for-jira?hosting=cloud
-SBT Task Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1214713/sbt-task-plugin-for-bamboo?hosting=server
-SSL for Jira - Server - https://marketplace.atlassian.com/apps/1211087/ssl-for-jira?hosting=server
-SSO for Atlassian Server and Data Center - DataCenter - https://marketplace.atlassian.com/apps/1216096/sso-for-atlassian-server-and-data-center?hosting=datacenter
-SSO for Atlassian Server and Data Center - Server - https://marketplace.atlassian.com/apps/1216096/sso-for-atlassian-server-and-data-center?hosting=server
-Salesforce - https://trello.com/power-ups/55a5d917446f517774210009/salesforce
-Slack - https://trello.com/power-ups/55a5d917446f51777421000a/slack
-Spreadsheets for Jira Cloud - Cloud - https://marketplace.atlassian.com/apps/1220711/spreadsheets-for-jira-cloud?hosting=cloud
-Statuspage for Jira - Cloud - https://marketplace.atlassian.com/apps/1219451/statuspage-for-jira?hosting=cloud
-Statuspage for Jira Service Management - Cloud - https://marketplace.atlassian.com/apps/1216079/statuspage-for-jira-service-management?hosting=cloud
-Statuspage for Jira Service Management - DataCenter - https://marketplace.atlassian.com/apps/1216079/statuspage-for-jira-service-management?hosting=datacenter
-Statuspage for Jira Service Management - Server - https://marketplace.atlassian.com/apps/1216079/statuspage-for-jira-service-management?hosting=server
-Sticker Printer for Jira - Cloud - https://marketplace.atlassian.com/apps/1222124/sticker-printer-for-jira?hosting=cloud
-SurveyMonkey - https://trello.com/power-ups/568c143d95adcd7308cbc3fb/surveymonkey
-Team Calendars for Confluence - Cloud - https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=cloud
-Team Calendars for Confluence - DataCenter - https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=datacenter
-Team Calendars for Confluence - Server - https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=server
-Thready - Give Tomcat threads a name - Server - https://marketplace.atlassian.com/apps/1214899/thready-give-tomcat-threads-a-name?hosting=server
-Toolkit Plugin for Jira - Server - https://marketplace.atlassian.com/apps/5142/toolkit-plugin-for-jira?hosting=server
-Training for Jira - Cloud - https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=cloud
-Training for Jira - DataCenter - https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=datacenter
-Training for Jira - Server - https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=server
-Trello Connector for Jira Server - Server - https://marketplace.atlassian.com/apps/1218011/trello-connector-for-jira-server?hosting=server
-Troubleshooting and Support - Bamboo - Data Center - https://marketplace.atlassian.com/apps/1217745/troubleshooting-and-support-bamboo?hosting=datacenter
-Troubleshooting and Support - Bamboo - Server - https://marketplace.atlassian.com/apps/1217745/troubleshooting-and-support-bamboo?hosting=server
-Troubleshooting and Support - Confluence - DataCenter - https://marketplace.atlassian.com/apps/1217697/troubleshooting-and-support-confluence?hosting=datacenter
-Troubleshooting and Support - Confluence - Server - https://marketplace.atlassian.com/apps/1217697/troubleshooting-and-support-confluence?hosting=server
-Troubleshooting and Support - Crowd - Server - https://marketplace.atlassian.com/apps/1221430/troubleshooting-and-support-crowd?hosting=server
-Troubleshooting and Support - FeCru - Server - https://marketplace.atlassian.com/apps/1217747/troubleshooting-and-support-fecru?hosting=server
-Troubleshooting and Support - Jira - DataCenter - https://marketplace.atlassian.com/apps/1217696/troubleshooting-and-support-jira?hosting=datacenter
-Troubleshooting and Support - Jira - Server - https://marketplace.atlassian.com/apps/1217696/troubleshooting-and-support-jira?hosting=server
-Twitter - https://trello.com/power-ups/55a5d917446f51777421000b/twitter
-VFS for Git for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1217957/vfs-for-git-for-bitbucket-server?hosting=server
-Variable tasks for Bamboo - Server - https://marketplace.atlassian.com/apps/1212549/variable-tasks-for-bamboo?hosting=server
-Web Post Hooks for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1211539/web-post-hooks-for-bitbucket-server?hosting=server
-Who's Looking for Jira Cloud - Cloud - https://marketplace.atlassian.com/apps/1211596/whos-looking-for-jira-cloud?hosting=cloud
-Workflow Screenshot for Jira - Server - https://marketplace.atlassian.com/apps/1215704/workflow-screenshot-for-jira?hosting=server
-Xcode for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1219105/xcode-for-bitbucket-server?hosting=server
-Zendesk - https://trello.com/power-ups/56940ede94fd60cf95f7ce6a/zendesk
-https://marketplace.atlassian.com/apps/1210722/confluence-source-editor?hosting=server
-https://marketplace.atlassian.com/apps/1210725/data-generator-for-jira?hosting=server
-https://marketplace.atlassian.com/apps/1210950/atlassian-plugin-sdk-windows?hosting=server
-https://marketplace.atlassian.com/apps/1210951/atlassian-plugin-sdk-mac-os-x?hosting=server
-https://marketplace.atlassian.com/apps/1210991/atlassian-plugin-sdk-rpm?hosting=server
-https://marketplace.atlassian.com/apps/1210992/atlassian-plugin-sdk-deb?hosting=cloud
-https://marketplace.atlassian.com/apps/1210992/atlassian-plugin-sdk-deb?hosting=server
-https://marketplace.atlassian.com/apps/1210993/atlassian-plugin-sdk-tgz?hosting=server
-https://marketplace.atlassian.com/apps/1211087/ssl-for-jira?hosting=server
-https://marketplace.atlassian.com/apps/1211094/archive-plugin-for-bitbucket-server?hosting=server
-https://marketplace.atlassian.com/apps/1211203/bitbucket-server-protect-unmerged-hook?hosting=datacenter
-https://marketplace.atlassian.com/apps/1211203/bitbucket-server-protect-unmerged-hook?hosting=server
-https://marketplace.atlassian.com/apps/1211246/autolink-plugin-for-jira?hosting=server
-https://marketplace.atlassian.com/apps/1211312/confluence-issue-tab-plugin-for-jira?hosting=server
-https://marketplace.atlassian.com/apps/1211449/auto-unapprove-for-bitbucket-server?hosting=datacenter
-https://marketplace.atlassian.com/apps/1211449/auto-unapprove-for-bitbucket-server?hosting=server
-https://marketplace.atlassian.com/apps/1211500/bitbucket-server-backup-client?hosting=server
-https://marketplace.atlassian.com/apps/1211504/issue-edit-notifications-for-jira?hosting=server
-https://marketplace.atlassian.com/apps/1211539/web-post-hooks-for-bitbucket-server?hosting=server
-https://marketplace.atlassian.com/apps/1211542/atlassian-rest-api-browser?hosting=server
-https://marketplace.atlassian.com/apps/1211596/whos-looking-for-jira-cloud?hosting=cloud
-https://marketplace.atlassian.com/apps/1211619/reviewer-suggester-for-bitbucket-server?hosting=server
-https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=cloud
-https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=datacenter
-https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=server
-https://marketplace.atlassian.com/apps/1211715/inbox-hook-for-bitbucket-server?hosting=server
-https://marketplace.atlassian.com/apps/1211738/file-tagging-plugin-for-crucible?hosting=server
-https://marketplace.atlassian.com/apps/1211836/automation-for-jira-server-lite?hosting=server
-https://marketplace.atlassian.com/apps/1212100/repository-quickadd-for-fisheye-crucible?hosting=server
-https://marketplace.atlassian.com/apps/1212136/advanced-roadmaps-formerly-portfolio?hosting=datacenter
-https://marketplace.atlassian.com/apps/1212136/advanced-roadmaps-formerly-portfolio?hosting=server
-https://marketplace.atlassian.com/apps/1212137/assets?hosting=server
-https://marketplace.atlassian.com/apps/1212137/insight-asset-management?hosting=datacenter
-https://marketplace.atlassian.com/apps/1212549/variable-tasks-for-bamboo?hosting=server
-https://marketplace.atlassian.com/apps/1212632/look-and-feel-for-bitbucket-server?hosting=datacenter
-https://marketplace.atlassian.com/apps/1212632/look-and-feel-for-bitbucket-server?hosting=server
-https://marketplace.atlassian.com/apps/1212736/predator-plugin-for-bamboo?hosting=server
-https://marketplace.atlassian.com/apps/1212778/my-reminders-for-jira?hosting=cloud
-https://marketplace.atlassian.com/apps/1213092/google-drive-for-confluence-official-legacy-editor-only?hosting=cloud
-https://marketplace.atlassian.com/apps/1213440/asana-importer-plugin-for-jira?hosting=server
-https://marketplace.atlassian.com/apps/1214046/favorites-dialog-for-confluence?hosting=server
-https://marketplace.atlassian.com/apps/1214351/disable-referer-for-bitbucket-server?hosting=datacenter
-https://marketplace.atlassian.com/apps/1214351/disable-referer-for-bitbucket-server?hosting=server
-https://marketplace.atlassian.com/apps/1214509/entity-property-tool-for-jira?hosting=cloud
-https://marketplace.atlassian.com/apps/1214527/javascript-charts-for-jira-cloud?hosting=cloud
-https://marketplace.atlassian.com/apps/1214632/rich-text-gadget-for-jira?hosting=cloud
-https://marketplace.atlassian.com/apps/1214668/insight-discovery?hosting=cloud
-https://marketplace.atlassian.com/apps/1214668/insight-discovery?hosting=datacenter
-https://marketplace.atlassian.com/apps/1214713/sbt-task-plugin-for-bamboo?hosting=server
-https://marketplace.atlassian.com/apps/1214757/hackathon-for-jira?hosting=cloud
-https://marketplace.atlassian.com/apps/1214899/thready-give-tomcat-threads-a-name?hosting=server
-https://marketplace.atlassian.com/apps/1214912/better-code-macro-for-confluence?hosting=cloud
-https://marketplace.atlassian.com/apps/1214988/icons-for-jira?hosting=server
-https://marketplace.atlassian.com/apps/1215089/bulk-delete-review-files-for-crucible?hosting=server
-https://marketplace.atlassian.com/apps/1215175/change-management-for-jsm?hosting=server
-https://marketplace.atlassian.com/apps/1215175/change-management-workflow-for-jira-service-management?hosting=datacenter
-https://marketplace.atlassian.com/apps/1215175/change-management-workflow-for-jira-service-management?hosting=server
-https://marketplace.atlassian.com/apps/1215192/image-paste-for-fisheye-crucible?hosting=server
-https://marketplace.atlassian.com/apps/1215235/fail-build-trigger-for-bamboo?hosting=server
-https://marketplace.atlassian.com/apps/1215460/automation-for-jira-data-center-and-server?hosting=datacenter
-https://marketplace.atlassian.com/apps/1215460/automation-for-jira-data-center-and-server?hosting=server
-https://marketplace.atlassian.com/apps/1215460/automation-for-jira-server?hosting=cloud
-https://marketplace.atlassian.com/apps/1215624/copy-source-for-fisheye-and-crucible?hosting=server
-https://marketplace.atlassian.com/apps/1215704/workflow-screenshot-for-jira?hosting=server
-https://marketplace.atlassian.com/apps/1215795/analytics-for-confluence?hosting=cloud
-https://marketplace.atlassian.com/apps/1215833/proforma-forms-checklist-for-jira?hosting=datacenter
-https://marketplace.atlassian.com/apps/1215833/proforma-forms-checklist-for-jira?hosting=server
-https://marketplace.atlassian.com/apps/1215924/agent-usage-visualization-for-bamboo?hosting=server
-https://marketplace.atlassian.com/apps/1215948/jira-cloud-for-slack?hosting=cloud
-https://marketplace.atlassian.com/apps/1215965/build-times-for-bamboo-5-10?hosting=server
-https://marketplace.atlassian.com/apps/1215979/dependency-graph-plugin-for-bamboo?hosting=server
-https://marketplace.atlassian.com/apps/1216074/insight-macro-for-confluence?hosting=datacenter
-https://marketplace.atlassian.com/apps/1216074/insight-macro-for-confluence?hosting=server
-https://marketplace.atlassian.com/apps/1216079/statuspage-for-jira-service-management?hosting=cloud
-https://marketplace.atlassian.com/apps/1216079/statuspage-for-jira-service-management?hosting=datacenter
-https://marketplace.atlassian.com/apps/1216079/statuspage-for-jira-service-management?hosting=server
-https://marketplace.atlassian.com/apps/1216096/sso-for-atlassian-server-and-data-center?hosting=datacenter
-https://marketplace.atlassian.com/apps/1216096/sso-for-atlassian-server-and-data-center?hosting=server
-https://marketplace.atlassian.com/apps/1216128/look-and-feel-for-fisheye-and-crucible?hosting=server
-https://marketplace.atlassian.com/apps/1216136/after-deployment-trigger-for-bamboo?hosting=server
-https://marketplace.atlassian.com/apps/1216177/agent-notifications-for-bamboo?hosting=server
-https://marketplace.atlassian.com/apps/1216287/queue-priority-plugin-for-bamboo?hosting=server
-https://marketplace.atlassian.com/apps/1216357/atlassian-team-playbook-blueprints?hosting=server
-https://marketplace.atlassian.com/apps/1216623/confluence-trello-power-up?hosting=cloud
-https://marketplace.atlassian.com/apps/1216625/jira-trello-power-up?hosting=cloud
-https://marketplace.atlassian.com/apps/1216850/jira-cloud-power-up-for-trello?hosting=cloud
-https://marketplace.atlassian.com/apps/1216863/jira-cloud-for-slack-official?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=cloud
-https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=datacenter
-https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=server
-https://marketplace.atlassian.com/apps/1217230/jira-service-management-widget?hosting=cloud
-https://marketplace.atlassian.com/apps/1217289/announcement-plugin-for-bamboo?hosting=server
-https://marketplace.atlassian.com/apps/1217661/jira-cloud-for-crm-official?hosting=cloud
-https://marketplace.atlassian.com/apps/1217696/troubleshooting-and-support-jira?hosting=datacenter
-https://marketplace.atlassian.com/apps/1217696/troubleshooting-and-support-jira?hosting=server
-https://marketplace.atlassian.com/apps/1217697/troubleshooting-and-support-confluence?hosting=datacenter
-https://marketplace.atlassian.com/apps/1217697/troubleshooting-and-support-confluence?hosting=server
-https://marketplace.atlassian.com/apps/1217745/troubleshooting-and-support-bamboo?hosting=datacenter
-https://marketplace.atlassian.com/apps/1217745/troubleshooting-and-support-bamboo?hosting=server
-https://marketplace.atlassian.com/apps/1217747/troubleshooting-and-support-fecru?hosting=server
-https://marketplace.atlassian.com/apps/1217750/insight-jira-bitbucket-integration?hosting=datacenter
-https://marketplace.atlassian.com/apps/1217750/insight-jira-bitbucket-integration?hosting=server
-https://marketplace.atlassian.com/apps/1217751/insight-tempo-integration?hosting=datacenter
-https://marketplace.atlassian.com/apps/1217751/insight-tempo-integration?hosting=server
-https://marketplace.atlassian.com/apps/1217836/microsoft-teams-for-jira?hosting=datacenter
-https://marketplace.atlassian.com/apps/1217836/microsoft-teams-for-jira?hosting=server
-https://marketplace.atlassian.com/apps/1217941/permission-lockdown-for-bitbucket-server?hosting=datacenter
-https://marketplace.atlassian.com/apps/1217941/permission-lockdown-for-bitbucket-server?hosting=server
-https://marketplace.atlassian.com/apps/1217957/vfs-for-git-for-bitbucket-server?hosting=server
-https://marketplace.atlassian.com/apps/1218011/trello-connector-for-jira-server?hosting=server
-https://marketplace.atlassian.com/apps/1218117/ipython-notebook-viewer?hosting=cloud
-https://marketplace.atlassian.com/apps/1218118/release-plugin-for-bitbucket-server?hosting=server
-https://marketplace.atlassian.com/apps/1218250/mobile-plugin-for-confluence-data-center-and-server?hosting=datacenter
-https://marketplace.atlassian.com/apps/1218250/mobile-plugin-for-confluence-data-center-and-server?hosting=server
-https://marketplace.atlassian.com/apps/1218271/code-coverage-for-bitbucket-server?hosting=server
-https://marketplace.atlassian.com/apps/1218630/delegated-directory-pruning-for-crowd?hosting=server
-https://marketplace.atlassian.com/apps/1218757/insight-aws-integration?hosting=datacenter
-https://marketplace.atlassian.com/apps/1218757/insight-aws-integration?hosting=server
-https://marketplace.atlassian.com/apps/1218781/bitbucket-cloud-for-slack-official?hosting=cloud
-https://marketplace.atlassian.com/apps/1218864/embedded-marketplace-for-jira?hosting=cloud
-https://marketplace.atlassian.com/apps/1218875/embedded-marketplace-for-confluence?hosting=cloud
-https://marketplace.atlassian.com/apps/1218941/microsoft-teams-for-bitbucket-cloud?hosting=cloud
-https://marketplace.atlassian.com/apps/1218974/insight-azure-integration?hosting=datacenter
-https://marketplace.atlassian.com/apps/1218974/insight-azure-integration?hosting=server
-https://marketplace.atlassian.com/apps/1219094/insight-sccm-integration?hosting=datacenter
-https://marketplace.atlassian.com/apps/1219094/insight-sccm-integration?hosting=server
-https://marketplace.atlassian.com/apps/1219105/xcode-for-bitbucket-server?hosting=server
-https://marketplace.atlassian.com/apps/1219212/insight-google-cloud-integration?hosting=datacenter
-https://marketplace.atlassian.com/apps/1219212/insight-google-cloud-integration?hosting=server
-https://marketplace.atlassian.com/apps/1219298/insight-snow-integration?hosting=datacenter
-https://marketplace.atlassian.com/apps/1219298/insight-snow-integration?hosting=server
-https://marketplace.atlassian.com/apps/1219311/atlassian-cloud-for-gmail?hosting=cloud
-https://marketplace.atlassian.com/apps/1219451/statuspage-for-jira?hosting=cloud
-https://marketplace.atlassian.com/apps/1219472/mandatory-reviewers-for-crucible?hosting=server
-https://marketplace.atlassian.com/apps/1219498/confluence-cloud-for-slack?hosting=cloud
-https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?hosting=datacenter
-https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?hosting=server
-https://marketplace.atlassian.com/apps/1219516/microsoft-teams-for-confluence-cloud?hosting=cloud
-https://marketplace.atlassian.com/apps/1219518/confluence-cloud-for-slack-official?hosting=cloud
-https://marketplace.atlassian.com/apps/1219561/insight-servicenow-integration?hosting=datacenter
-https://marketplace.atlassian.com/apps/1219561/insight-servicenow-integration?hosting=server
-https://marketplace.atlassian.com/apps/1219592/github-for-jira?hosting=cloud
-https://marketplace.atlassian.com/apps/1219632/insight-device42-integration?hosting=datacenter
-https://marketplace.atlassian.com/apps/1219632/insight-device42-integration?hosting=server
-https://marketplace.atlassian.com/apps/1219672/confluence-cloud-migration-assistant?hosting=datacenter
-https://marketplace.atlassian.com/apps/1219672/confluence-cloud-migration-assistant?hosting=server
-https://marketplace.atlassian.com/apps/1219706/conditional-tasks-for-bamboo?hosting=server
-https://marketplace.atlassian.com/apps/1219908/insight-jamf-integration?hosting=datacenter
-https://marketplace.atlassian.com/apps/1219908/insight-jamf-integration?hosting=server
-https://marketplace.atlassian.com/apps/1220099/jira-server-for-slack-official?hosting=datacenter
-https://marketplace.atlassian.com/apps/1220099/jira-server-for-slack-official?hosting=server
-https://marketplace.atlassian.com/apps/1220151/mobile-plugin-for-jira-data-center-and-server?hosting=datacenter
-https://marketplace.atlassian.com/apps/1220151/mobile-plugin-for-jira-data-center-and-server?hosting=server
-https://marketplace.atlassian.com/apps/1220186/confluence-server-for-slack-official?hosting=datacenter
-https://marketplace.atlassian.com/apps/1220186/confluence-server-for-slack-official?hosting=server
-https://marketplace.atlassian.com/apps/1220353/insight-nvd-integration?hosting=datacenter
-https://marketplace.atlassian.com/apps/1220353/insight-nvd-integration?hosting=server
-https://marketplace.atlassian.com/apps/1220382/jira-cloud-for-google-sheets-official?hosting=cloud
-https://marketplace.atlassian.com/apps/1220666/jira-cloud-for-outlook-official?hosting=cloud
-https://marketplace.atlassian.com/apps/1220711/spreadsheets-for-jira-cloud?hosting=cloud
-https://marketplace.atlassian.com/apps/1220729/bitbucket-server-for-slack-official?hosting=datacenter
-https://marketplace.atlassian.com/apps/1220729/bitbucket-server-for-slack-official?hosting=server
-https://marketplace.atlassian.com/apps/1220745/centralized-license-visibility?hosting=datacenter
-https://marketplace.atlassian.com/apps/1220745/centralized-license-visibility?hosting=server
-https://marketplace.atlassian.com/apps/1220798/assign-reviewer-groups?hosting=server
-https://marketplace.atlassian.com/apps/1220820/bitbucket-pipelines-for-jira?hosting=cloud
-https://marketplace.atlassian.com/apps/1221117/cloud-compatibility-for-jira?hosting=datacenter
-https://marketplace.atlassian.com/apps/1221117/cloud-compatibility-for-jira?hosting=server
-https://marketplace.atlassian.com/apps/1221227/project-transfer-for-crucible?hosting=server
-https://marketplace.atlassian.com/apps/1221237/advanced-roadmaps-for-jira-in-confluence?hosting=datacenter
-https://marketplace.atlassian.com/apps/1221237/advanced-roadmaps-for-jira-in-confluence?hosting=server
-https://marketplace.atlassian.com/apps/1221251/opsgenie-incident-timeline?hosting=cloud
-https://marketplace.atlassian.com/apps/1221301/jira-cloud-for-excel-official?hosting=cloud
-https://marketplace.atlassian.com/apps/1221312/opsgenie-incident-timeline-eu?hosting=cloud
-https://marketplace.atlassian.com/apps/1221430/troubleshooting-and-support-crowd?hosting=server
-https://marketplace.atlassian.com/apps/1221551/aws-service-catalog-for-jsm-cloud?hosting=cloud
-https://marketplace.atlassian.com/apps/1221602/jet-by-jira-align?hosting=cloud
-https://marketplace.atlassian.com/apps/1221602/jet-by-jira-align?hosting=datacenter
-https://marketplace.atlassian.com/apps/1221602/jet-by-jira-align?hosting=server
-https://marketplace.atlassian.com/apps/1221882/microsoft-onedrive-for-business-legacy-editor-only?hosting=cloud
-https://marketplace.atlassian.com/apps/1222010/jira-cloud-migration-assistant?hosting=datacenter
-https://marketplace.atlassian.com/apps/1222010/jira-cloud-migration-assistant?hosting=server
-https://marketplace.atlassian.com/apps/1222124/sticker-printer-for-jira?hosting=cloud
-https://marketplace.atlassian.com/apps/1222132/jenkins-integration-for-bitbucket-server?hosting=server
-https://marketplace.atlassian.com/apps/1222147/opsgenie?hosting=cloud
-https://marketplace.atlassian.com/apps/1223382/previous-next-navigation?hosting=cloud
-https://marketplace.atlassian.com/apps/1223584/github-webhooks-for-fisheye?hosting=server
-https://marketplace.atlassian.com/apps/1224300/opsgenie-bamboo-plugin?hosting=server
-https://marketplace.atlassian.com/apps/1224728/crucible-build-status?hosting=server
-https://marketplace.atlassian.com/apps/1224729/bamboo-build-status-notifier?hosting=server
-https://marketplace.atlassian.com/apps/1224758/confluence-recent-edits-overview?hosting=cloud
-https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hosting=datacenter
-https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hosting=server
-https://marketplace.atlassian.com/apps/1225664/form-macro-builder-for-confluence?hosting=cloud
-https://marketplace.atlassian.com/apps/1225689/admin-kit-for-jira-cloud?hosting=cloud
-https://marketplace.atlassian.com/apps/1225691/admin-kit-for-confluence-cloud?hosting=cloud
-https://marketplace.atlassian.com/apps/1226127/confluence-cloud-for-microsoft-teams?hosting=cloudhttps://marketplace.atlassian.com/apps/1226127/confluence-cloud-for-microsoft-teams?hosting=cloud
-https://marketplace.atlassian.com/apps/1226380/decisions-helper-for-confluence?hosting=cloud
-https://marketplace.atlassian.com/apps/1226478/jira-cloud-for-microsoft-teams?hosting=cloud
-https://marketplace.atlassian.com/apps/1226610/bitbucket-cloud-migration-assistant?hosting=datacenter
-https://marketplace.atlassian.com/apps/1226610/bitbucket-cloud-migration-assistant?hosting=server
-https://marketplace.atlassian.com/apps/1227744/jira-enterprise-scale-assessment-tool?hosting=datacenter&tab=overview
-https://marketplace.atlassian.com/apps/1227744/jira-enterprise-scale-assessment-tool?hosting=server
-https://marketplace.atlassian.com/apps/1227791/jenkins-for-jira-official?hosting=cloud
-https://marketplace.atlassian.com/apps/1227901/application-tunnels?hosting=datacenter
-https://marketplace.atlassian.com/apps/1227901/application-tunnels?hosting=server
-https://marketplace.atlassian.com/apps/1227949/hackathon-workflow-alan?hosting=cloud
-https://marketplace.atlassian.com/apps/1227949/hackathon-workflow-alan?hosting=datacenter
-https://marketplace.atlassian.com/apps/1228153/comms-dashboard?hosting=cloud
-https://marketplace.atlassian.com/apps/1228937/atlas-for-jira-cloud?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1229183/add-watchers-at-issue-creation?hosting=cloud
-https://marketplace.atlassian.com/apps/1229343/developer-assistant-for-jira?hosting=cloud
-https://marketplace.atlassian.com/apps/1229446/developer-assistant-for-confluence?hosting=cloud
-https://marketplace.atlassian.com/apps/1229704/cloud-migration-planner?hosting=cloud
-https://marketplace.atlassian.com/apps/14896/review-creator-for-fisheye?hosting=server
-https://marketplace.atlassian.com/apps/212/copy-space-for-confluence?hosting=server
-https://marketplace.atlassian.com/apps/23915/atlassian-universal-plugin-manager?hosting=datacenter
-https://marketplace.atlassian.com/apps/23915/atlassian-universal-plugin-manager?hosting=server
-https://marketplace.atlassian.com/apps/288/jira-charting-plugin?hosting=server
-https://marketplace.atlassian.com/apps/293/jira-calendar-plugin?hosting=server
-https://marketplace.atlassian.com/apps/30318/directory-scanning-plugin?hosting=server
-https://marketplace.atlassian.com/apps/322837/mobile-connect-plugin-for-jira?hosting=server
-https://marketplace.atlassian.com/apps/5142/toolkit-plugin-for-jira?hosting=server
-https://marketplace.atlassian.com/apps/5581/pre-post-build-command-runner?hosting=server
-https://marketplace.atlassian.com/apps/5902/jmeter-aggregator-for-bamboo?hosting=server
-https://marketplace.atlassian.com/apps/602870/continuous-plugin-deployment-for-bamboo?hosting=server
-https://marketplace.atlassian.com/apps/678725/jira-to-jira-issue-copy?hosting=server
-https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=cloud
-https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=datacenter
-https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=server
-https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
-https://trello.com/power-ups/55a5d915446f517774210001/box
-https://trello.com/power-ups/55a5d915446f517774210003/evernote
-https://trello.com/power-ups/55a5d916446f517774210004/github
-https://trello.com/power-ups/55a5d916446f517774210006/google-drive
-https://trello.com/power-ups/55a5d916446f517774210007/google-hangouts
-https://trello.com/power-ups/55a5d917446f517774210009/salesforce
-https://trello.com/power-ups/55a5d917446f51777421000a/slack
-https://trello.com/power-ups/55a5d917446f51777421000b/twitter
-https://trello.com/power-ups/55a5d917446f51777421000c/mailchimp
-https://trello.com/power-ups/55a5d917446f51777421000d/package-tracker
-https://trello.com/power-ups/568c1415eeaeb62f5a43aa01/giphy
-https://trello.com/power-ups/568c143d95adcd7308cbc3fb/surveymonkey
-https://trello.com/power-ups/56940ede94fd60cf95f7ce6a/zendesk
-https://trello.com/power-ups/56d5e249a98895a9797bebb9/custom-fields
-https://trello.com/power-ups/57b47fb862d25a30298459b1/card-repeater
-https://trello.com/power-ups/586be36326cc4c7e9f70beb3/jira
-https://trello.com/power-ups/586be37142f94dc0871fbcbb/confluence-cloud
-https://trello.com/power-ups/588a331cc86ffbe08f5d2c67/bitbucket-cloud
-https://trello.com/power-ups/58dd18bdccfca7af8311792e/card-snooze
-https://trello.com/power-ups/5940440775fbe327abd3329f/onedrive
-https://trello.com/power-ups/5a2de0c41ae4a1537bb0055d/read-me
-https://trello.com/power-ups/5e3886cd2ae34410748d0d5b/jira-align-
-https://trello.com/power-ups/6048e897c73d032a983e2a7c/dashcards
-opsgenie-bamboo-plugin - Server - https://marketplace.atlassian.com/apps/1224300/opsgenie-bamboo-plugin?hosting=server
 https://acorns.com/
 https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
 https://graphql.acorns.com
@@ -638,43 +57,6 @@ https://play.google.com/store/apps/details?id=au.com.ampol.teamapp
 https://my.ampol.com.au/
 https://carbonneutral.ampol.com.au/
 https://cards.ampol.com.au
-Arlo Safe Android App
-Arlo Safe iOS App
-Arlo Secure Android App
-Arlo Secure iOS App
-Arlo
-Arlo All-In-One Sensor (Home Security System)
-Arlo Baby
-Arlo Base Station
-Arlo Bridge
-Arlo Cellular & Battery Backup (Home Security System)
-Arlo Chime / Chime 2
-Arlo Essential
-Arlo Floodlight
-Arlo Go / Go 2
-Arlo Home Security System
-Arlo Pro
-Arlo Pro 2
-Arlo Pro 3
-Arlo Pro 4
-Arlo Pro 5S
-Arlo Q / Q+
-Arlo Safe Button
-Arlo Security Light
-Arlo Ultra
-Arlo Video Doorbell
-Arlo Wireless Video Doorbell
-Arlo Wire-Free Outdoor Siren (Home Security System)
-https://*-prod.arlo.com
-https://arlo-device.messaging.netgear.com
-https://beta.arlo.com
-https://community.arlo.com
-https://downloads.arlo.com
-https://mcs.arlo.com
-https://my.arlo.com
-https://myapi.arlo.com
-https://www.arlo.com
-https://updates.arlo.com
 Aruba Wireless – ArubaOS and Aruba Instant
 Aruba ClearPass Policy Manager
 ArubaOS-CX Wired Switches
@@ -704,6 +86,298 @@ https://asana.com/download
 https://apps.apple.com/us/app/asana-mobile/id489969512
 https://play.google.com/store/apps/details?id=com.asana.app&hl=en
 https://form.asana.com
+https://admin.atlassian.com/atlassian-access
+https://admin.atlassian.com/
+https://id.atlassian.com/login
+https://start.atlassian.com
+https://bitbucket.org
+https://www.atlassian.com/software/confluence
+https://www.atlassian.com/software/confluence/premium
+https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.core&hl=en_US&gl=US
+https://apps.apple.com/us/app/confluence-cloud/id1006971684
+https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&hl=en_US&gl=US
+https://apps.apple.com/us/app/jira-cloud-by-atlassian/id1006972087
+https://www.atlassian.com/software/jira/service-management
+https://www.atlassian.com/software/jira
+https://www.atlassian.com/software/jira/work-management
+https://www.atlassian.com/software/rovo
+https://www.atlassian.com/software/compass
+https://marketplace.atlassian.com
+https://www.atlassian.com/software/atlas
+https://www.atlassian.com/enterprise/data-center/bitbucket
+https://www.atlassian.com/enterprise/data-center/confluence
+https://www.atlassian.com/enterprise/data-center/crowd
+https://www.atlassian.com/enterprise/data-center/jira
+https://www.atlassian.com/enterprise/data-center/jira/service-management
+https://www.atlassian.com/enterprise/data-center/jira
+https://www.atlassian.com/software/bamboo
+https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
+https://play.google.com/store/apps/details?id=com.atlassian.confluence.server
+https://apps.apple.com/us/app/confluence-server/id1288365159
+https://www.atlassian.com/software/crucible
+https://www.atlassian.com/software/fisheye
+https://play.google.com/store/apps/details?id=com.atlassian.jira.server&hl=en_US&gl=US
+https://apps.apple.com/us/app/jira-server/id1405353949
+https://www.sourcetreeapp.com/
+Other - (all other Atlassian targets)
+https://www.atlassian.com/software/jira/product-discovery
+Forge Platform
+GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)
+https://www.npmjs.com/package/@forge/cli	
+https://marketplace.atlassian.com/apps/1216625/jira-trello-power-up?hosting=cloud
+https://marketplace.atlassian.com/apps/1215948/jira-cloud-for-slack?hosting=cloud
+https://marketplace.atlassian.com/apps/1217230/jira-service-management-widget?hosting=cloud
+https://marketplace.atlassian.com/apps/1218864/embedded-marketplace-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1219451/statuspage-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1220711/spreadsheets-for-jira-cloud?hosting=cloud
+https://marketplace.atlassian.com/apps/1222147/opsgenie?hosting=cloud
+https://marketplace.atlassian.com/apps/1216623/confluence-trello-power-up?hosting=cloud
+https://marketplace.atlassian.com/apps/1219498/confluence-cloud-for-slack?hosting=cloud
+https://marketplace.atlassian.com/apps/1218875/embedded-marketplace-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1215795/analytics-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1215460/automation-for-jira-server?hosting=cloud
+https://marketplace.atlassian.com/apps/1221251/opsgenie-incident-timeline?hosting=cloud
+https://marketplace.atlassian.com/apps/1221312/opsgenie-incident-timeline-eu?hosting=cloud
+https://marketplace.atlassian.com/apps/1220666/jira-cloud-for-outlook-official?hosting=cloud
+https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1215460/automation-for-jira-data-center-and-server?hosting=datacenter
+https://marketplace.atlassian.com/apps/1215460/automation-for-jira-data-center-and-server?hosting=server
+https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=datacenter
+https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=server
+https://marketplace.atlassian.com/apps/1212136/advanced-roadmaps-formerly-portfolio?hosting=datacenter
+https://marketplace.atlassian.com/apps/1212136/advanced-roadmaps-formerly-portfolio?hosting=server
+https://marketplace.atlassian.com/apps/23915/atlassian-universal-plugin-manager?hosting=server
+https://marketplace.atlassian.com/apps/23915/atlassian-universal-plugin-manager?hosting=datacenter
+https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=datacenter
+https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=server
+https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1217696/troubleshooting-and-support-jira?hosting=datacenter
+https://marketplace.atlassian.com/apps/1217696/troubleshooting-and-support-jira?hosting=server
+https://marketplace.atlassian.com/apps/1217697/troubleshooting-and-support-confluence?hosting=datacenter
+https://marketplace.atlassian.com/apps/1217697/troubleshooting-and-support-confluence?hosting=server
+https://marketplace.atlassian.com/apps/1219672/confluence-cloud-migration-assistant?hosting=datacenter
+https://marketplace.atlassian.com/apps/1219672/confluence-cloud-migration-assistant?hosting=server
+https://marketplace.atlassian.com/apps/1216096/sso-for-atlassian-server-and-data-center?hosting=datacenter
+https://marketplace.atlassian.com/apps/1216096/sso-for-atlassian-server-and-data-center?hosting=server
+https://marketplace.atlassian.com/apps/293/jira-calendar-plugin?hosting=server
+https://marketplace.atlassian.com/apps/1211836/automation-for-jira-server-lite?hosting=server
+https://marketplace.atlassian.com/apps/1220099/jira-server-for-slack-official?hosting=datacenter
+https://marketplace.atlassian.com/apps/1220099/jira-server-for-slack-official?hosting=server
+https://marketplace.atlassian.com/apps/1213092/google-drive-for-confluence-official-legacy-editor-only?hosting=cloud
+https://marketplace.atlassian.com/apps/1211449/auto-unapprove-for-bitbucket-server?hosting=datacenter
+https://marketplace.atlassian.com/apps/1211449/auto-unapprove-for-bitbucket-server?hosting=server
+https://marketplace.atlassian.com/apps/1217745/troubleshooting-and-support-bamboo?hosting=server
+https://marketplace.atlassian.com/apps/1211539/web-post-hooks-for-bitbucket-server?hosting=server
+https://marketplace.atlassian.com/apps/1212632/look-and-feel-for-bitbucket-server?hosting=server
+https://marketplace.atlassian.com/apps/1214988/icons-for-jira?hosting=server
+https://marketplace.atlassian.com/apps/1217747/troubleshooting-and-support-fecru?hosting=server
+https://marketplace.atlassian.com/apps/1217661/jira-cloud-for-crm-official?hosting=cloud
+https://marketplace.atlassian.com/apps/1218011/trello-connector-for-jira-server?hosting=server
+https://marketplace.atlassian.com/apps/1220186/confluence-server-for-slack-official?hosting=datacenter
+https://marketplace.atlassian.com/apps/1220186/confluence-server-for-slack-official?hosting=server
+https://marketplace.atlassian.com/apps/1216079/statuspage-for-jira-service-management?hosting=server
+https://marketplace.atlassian.com/apps/1216079/statuspage-for-jira-service-management?hosting=datacenter
+https://marketplace.atlassian.com/apps/1216079/statuspage-for-jira-service-management?hosting=cloud
+https://marketplace.atlassian.com/apps/1211619/reviewer-suggester-for-bitbucket-server?hosting=server
+https://marketplace.atlassian.com/apps/1220151/mobile-plugin-for-jira-data-center-and-server?hosting=server
+https://marketplace.atlassian.com/apps/1222010/jira-cloud-migration-assistant?hosting=server
+https://marketplace.atlassian.com/apps/1220729/bitbucket-server-for-slack-official?hosting=datacenter
+https://marketplace.atlassian.com/apps/1220729/bitbucket-server-for-slack-official?hosting=server
+https://marketplace.atlassian.com/apps/1211203/bitbucket-server-protect-unmerged-hook?hosting=server
+https://marketplace.atlassian.com/apps/1221237/advanced-roadmaps-for-jira-in-confluence?hosting=server
+https://marketplace.atlassian.com/apps/1221237/advanced-roadmaps-for-jira-in-confluence?hosting=datacenter
+https://marketplace.atlassian.com/apps/1221882/microsoft-onedrive-for-business-legacy-editor-only?hosting=cloud
+https://marketplace.atlassian.com/apps/1220745/centralized-license-visibility?hosting=server
+https://marketplace.atlassian.com/apps/1220745/centralized-license-visibility?hosting=datacenter
+https://marketplace.atlassian.com/apps/1216357/atlassian-team-playbook-blueprints?hosting=server
+https://marketplace.atlassian.com/apps/1221430/troubleshooting-and-support-crowd?hosting=server
+https://marketplace.atlassian.com/apps/1221602/jet-by-jira-align?hosting=server
+https://marketplace.atlassian.com/apps/1221602/jet-by-jira-align?hosting=datacenter
+https://marketplace.atlassian.com/apps/1221602/jet-by-jira-align?hosting=cloud
+https://marketplace.atlassian.com/apps/5581/pre-post-build-command-runner?hosting=server
+https://marketplace.atlassian.com/apps/1217941/permission-lockdown-for-bitbucket-server?hosting=datacenter
+https://marketplace.atlassian.com/apps/1217941/permission-lockdown-for-bitbucket-server?hosting=server
+https://marketplace.atlassian.com/apps/30318/directory-scanning-plugin?hosting=server
+https://marketplace.atlassian.com/apps/1221551/aws-service-catalog-for-jsm-cloud?hosting=cloud
+https://marketplace.atlassian.com/apps/1217957/vfs-for-git-for-bitbucket-server?hosting=server
+https://marketplace.atlassian.com/apps/1218630/delegated-directory-pruning-for-crowd?hosting=server
+https://marketplace.atlassian.com/apps/1221117/cloud-compatibility-for-jira?hosting=server
+https://marketplace.atlassian.com/apps/1219105/xcode-for-bitbucket-server?hosting=server
+https://marketplace.atlassian.com/apps/1216863/jira-cloud-for-slack-official?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1219518/confluence-cloud-for-slack-official?hosting=cloud
+https://marketplace.atlassian.com/apps/1222132/jenkins-integration-for-bitbucket-server?hosting=server
+https://marketplace.atlassian.com/apps/1210951/atlassian-plugin-sdk-mac-os-x?hosting=server
+https://marketplace.atlassian.com/apps/1210993/atlassian-plugin-sdk-tgz?hosting=server
+https://marketplace.atlassian.com/apps/1216850/jira-cloud-power-up-for-trello?hosting=cloud
+https://marketplace.atlassian.com/apps/1220382/jira-cloud-for-google-sheets-official?hosting=cloud
+https://marketplace.atlassian.com/apps/1210950/atlassian-plugin-sdk-windows?hosting=server
+https://marketplace.atlassian.com/apps/1218781/bitbucket-cloud-for-slack-official?hosting=cloud
+https://marketplace.atlassian.com/apps/1210991/atlassian-plugin-sdk-rpm?hosting=server
+https://marketplace.atlassian.com/apps/1210992/atlassian-plugin-sdk-deb?hosting=server
+https://marketplace.atlassian.com/apps/1210992/atlassian-plugin-sdk-deb?hosting=cloud
+https://marketplace.atlassian.com/apps/1211500/bitbucket-server-backup-client?hosting=server
+https://marketplace.atlassian.com/apps/1221301/jira-cloud-for-excel-official?hosting=cloud
+https://marketplace.atlassian.com/apps/1227791/jenkins-for-jira-official?hosting=cloud
+https://marketplace.atlassian.com/apps/1219311/atlassian-cloud-for-gmail?hosting=cloud
+https://marketplace.atlassian.com/apps/1220820/bitbucket-pipelines-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1220151/mobile-plugin-for-jira-data-center-and-server?hosting=datacenter
+https://marketplace.atlassian.com/apps/1210722/confluence-source-editor?hosting=server
+https://marketplace.atlassian.com/apps/1211246/autolink-plugin-for-jira?hosting=server
+https://marketplace.atlassian.com/apps/1217751/insight-tempo-integration?hosting=server
+https://marketplace.atlassian.com/apps/1217751/insight-tempo-integration?hosting=datacenter
+https://marketplace.atlassian.com/apps/1219908/insight-jamf-integration?hosting=server
+https://marketplace.atlassian.com/apps/1219908/insight-jamf-integration?hosting=datacenter
+https://marketplace.atlassian.com/apps/5902/jmeter-aggregator-for-bamboo?hosting=server
+https://marketplace.atlassian.com/apps/1219632/insight-device42-integration?hosting=server
+https://marketplace.atlassian.com/apps/1219632/insight-device42-integration?hosting=datacenter
+https://marketplace.atlassian.com/apps/1212137/insight-asset-management?hosting=datacenter
+https://marketplace.atlassian.com/apps/1218757/insight-aws-integration?hosting=server
+https://marketplace.atlassian.com/apps/1218757/insight-aws-integration?hosting=datacenter
+https://marketplace.atlassian.com/apps/1219212/insight-google-cloud-integration?hosting=datacenter
+https://marketplace.atlassian.com/apps/1219212/insight-google-cloud-integration?hosting=server
+https://marketplace.atlassian.com/apps/1220353/insight-nvd-integration?hosting=datacenter
+https://marketplace.atlassian.com/apps/1220353/insight-nvd-integration?hosting=server
+https://marketplace.atlassian.com/apps/1212549/variable-tasks-for-bamboo?hosting=server
+https://marketplace.atlassian.com/apps/1215175/change-management-for-jsm?hosting=server
+https://marketplace.atlassian.com/apps/1217836/microsoft-teams-for-jira?hosting=server
+https://marketplace.atlassian.com/apps/1217836/microsoft-teams-for-jira?hosting=datacenter
+https://marketplace.atlassian.com/apps/1214351/disable-referer-for-bitbucket-server?hosting=server
+https://marketplace.atlassian.com/apps/1214668/insight-discovery?hosting=datacenter
+https://marketplace.atlassian.com/apps/678725/jira-to-jira-issue-copy?hosting=server
+https://marketplace.atlassian.com/apps/1214527/javascript-charts-for-jira-cloud?hosting=cloud
+https://marketplace.atlassian.com/apps/1214509/entity-property-tool-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1211312/confluence-issue-tab-plugin-for-jira?hosting=server
+https://marketplace.atlassian.com/apps/1212778/my-reminders-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1218271/code-coverage-for-bitbucket-server?hosting=server
+https://marketplace.atlassian.com/apps/1215924/agent-usage-visualization-for-bamboo?hosting=server
+https://marketplace.atlassian.com/apps/1219561/insight-servicenow-integration?hosting=server
+https://marketplace.atlassian.com/apps/1219561/insight-servicenow-integration?hosting=datacenter
+https://marketplace.atlassian.com/apps/1213440/asana-importer-plugin-for-jira?hosting=server
+https://marketplace.atlassian.com/apps/1217289/announcement-plugin-for-bamboo?hosting=server
+https://marketplace.atlassian.com/apps/1223584/github-webhooks-for-fisheye?hosting=server
+https://marketplace.atlassian.com/apps/1220798/assign-reviewer-groups?hosting=server
+https://marketplace.atlassian.com/apps/1219472/mandatory-reviewers-for-crucible?hosting=server
+https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
+https://marketplace.atlassian.com/apps/1211094/archive-plugin-for-bitbucket-server?hosting=server
+https://marketplace.atlassian.com/apps/1214632/rich-text-gadget-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/602870/continuous-plugin-deployment-for-bamboo?hosting=server
+https://marketplace.atlassian.com/apps/1223382/previous-next-navigation?hosting=cloud
+https://marketplace.atlassian.com/apps/1214757/hackathon-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1211596/whos-looking-for-jira-cloud?hosting=cloud
+https://marketplace.atlassian.com/apps/1212736/predator-plugin-for-bamboo?hosting=server
+https://marketplace.atlassian.com/apps/1214713/sbt-task-plugin-for-bamboo?hosting=server
+https://marketplace.atlassian.com/apps/1215979/dependency-graph-plugin-for-bamboo?hosting=server
+https://marketplace.atlassian.com/apps/1216177/agent-notifications-for-bamboo?hosting=server
+https://marketplace.atlassian.com/apps/1219706/conditional-tasks-for-bamboo?hosting=server
+https://marketplace.atlassian.com/apps/1215965/build-times-for-bamboo-5-10?hosting=server
+https://marketplace.atlassian.com/apps/1215235/fail-build-trigger-for-bamboo?hosting=server
+https://marketplace.atlassian.com/apps/1216136/after-deployment-trigger-for-bamboo?hosting=server
+https://marketplace.atlassian.com/apps/1216287/queue-priority-plugin-for-bamboo?hosting=server
+https://marketplace.atlassian.com/apps/1216074/insight-macro-for-confluence?hosting=server
+https://marketplace.atlassian.com/apps/1218974/insight-azure-integration?hosting=datacenter
+https://marketplace.atlassian.com/apps/1219094/insight-sccm-integration?hosting=server
+https://marketplace.atlassian.com/apps/1219094/insight-sccm-integration?hosting=datacenter
+https://marketplace.atlassian.com/apps/1219298/insight-snow-integration?hosting=datacenter
+https://marketplace.atlassian.com/apps/1217750/insight-jira-bitbucket-integration?hosting=datacenter
+https://marketplace.atlassian.com/apps/1219298/insight-snow-integration?hosting=server
+https://marketplace.atlassian.com/apps/1216074/insight-macro-for-confluence?hosting=datacenter
+https://marketplace.atlassian.com/apps/1218974/insight-azure-integration?hosting=server
+https://marketplace.atlassian.com/apps/1217750/insight-jira-bitbucket-integration?hosting=server
+https://marketplace.atlassian.com/apps/1218250/mobile-plugin-for-confluence-data-center-and-server?hosting=server
+https://marketplace.atlassian.com/apps/1218250/mobile-plugin-for-confluence-data-center-and-server?hosting=datacenter
+https://marketplace.atlassian.com/apps/1211715/inbox-hook-for-bitbucket-server?hosting=server
+https://marketplace.atlassian.com/apps/1218118/release-plugin-for-bitbucket-server?hosting=server
+https://marketplace.atlassian.com/apps/1215192/image-paste-for-fisheye-crucible?hosting=server
+https://marketplace.atlassian.com/apps/1215624/copy-source-for-fisheye-and-crucible?hosting=server
+https://marketplace.atlassian.com/apps/1216128/look-and-feel-for-fisheye-and-crucible?hosting=server
+https://marketplace.atlassian.com/apps/1212100/repository-quickadd-for-fisheye-crucible?hosting=server
+https://marketplace.atlassian.com/apps/14896/review-creator-for-fisheye?hosting=server
+https://marketplace.atlassian.com/apps/1215089/bulk-delete-review-files-for-crucible?hosting=server
+https://marketplace.atlassian.com/apps/1211738/file-tagging-plugin-for-crucible?hosting=server
+https://marketplace.atlassian.com/apps/1221227/project-transfer-for-crucible?hosting=server
+https://marketplace.atlassian.com/apps/212/copy-space-for-confluence?hosting=server
+https://marketplace.atlassian.com/apps/1214046/favorites-dialog-for-confluence?hosting=server
+https://marketplace.atlassian.com/apps/288/jira-charting-plugin?hosting=server
+https://marketplace.atlassian.com/apps/1215704/workflow-screenshot-for-jira?hosting=server
+https://marketplace.atlassian.com/apps/5142/toolkit-plugin-for-jira?hosting=server
+https://marketplace.atlassian.com/apps/322837/mobile-connect-plugin-for-jira?hosting=server
+https://marketplace.atlassian.com/apps/1211087/ssl-for-jira?hosting=server
+https://marketplace.atlassian.com/apps/1210725/data-generator-for-jira?hosting=server
+https://marketplace.atlassian.com/apps/1222010/jira-cloud-migration-assistant?hosting=datacenter
+https://marketplace.atlassian.com/apps/1214899/thready-give-tomcat-threads-a-name?hosting=server
+https://marketplace.atlassian.com/apps/1211542/atlassian-rest-api-browser?hosting=server
+https://marketplace.atlassian.com/apps/1211504/issue-edit-notifications-for-jira?hosting=server
+https://marketplace.atlassian.com/apps/1222124/sticker-printer-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1214912/better-code-macro-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1218941/microsoft-teams-for-bitbucket-cloud?hosting=cloud
+https://marketplace.atlassian.com/apps/1219516/microsoft-teams-for-confluence-cloud?hosting=cloud
+https://marketplace.atlassian.com/apps/1214351/disable-referer-for-bitbucket-server?hosting=datacenter
+https://marketplace.atlassian.com/apps/1224300/opsgenie-bamboo-plugin?hosting=server
+https://marketplace.atlassian.com/apps/1212632/look-and-feel-for-bitbucket-server?hosting=datacenter
+https://marketplace.atlassian.com/apps/1214668/insight-discovery?hosting=cloud
+https://marketplace.atlassian.com/apps/1224729/bamboo-build-status-notifier?hosting=server
+https://marketplace.atlassian.com/apps/1224728/crucible-build-status?hosting=server
+https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?hosting=server
+https://marketplace.atlassian.com/apps/1215833/proforma-forms-checklist-for-jira?hosting=server
+https://marketplace.atlassian.com/apps/1215833/proforma-forms-checklist-for-jira?hosting=datacenter
+https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?hosting=datacenter
+https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hosting=server
+https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=datacenter
+https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=server
+https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hosting=datacenter
+https://marketplace.atlassian.com/apps/1215175/change-management-workflow-for-jira-service-management?hosting=server
+https://marketplace.atlassian.com/apps/1225689/admin-kit-for-jira-cloud?hosting=cloud
+https://marketplace.atlassian.com/apps/1225664/form-macro-builder-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1225691/admin-kit-for-confluence-cloud?hosting=cloud
+https://marketplace.atlassian.com/apps/1219592/github-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1226127/confluence-cloud-for-microsoft-teams?hosting=cloudhttps://marketplace.atlassian.com/apps/1226127/confluence-cloud-for-microsoft-teams?hosting=cloud
+https://marketplace.atlassian.com/apps/1211203/bitbucket-server-protect-unmerged-hook?hosting=datacenter
+https://marketplace.atlassian.com/apps/1215175/change-management-workflow-for-jira-service-management?hosting=datacenter
+https://marketplace.atlassian.com/apps/1224758/confluence-recent-edits-overview?hosting=cloud
+https://marketplace.atlassian.com/apps/1226610/bitbucket-cloud-migration-assistant?hosting=server
+https://marketplace.atlassian.com/apps/1226478/jira-cloud-for-microsoft-teams?hosting=cloud
+https://marketplace.atlassian.com/apps/1221117/cloud-compatibility-for-jira?hosting=datacenter
+https://marketplace.atlassian.com/apps/1226380/decisions-helper-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1227744/jira-enterprise-scale-assessment-tool?hosting=server
+https://marketplace.atlassian.com/apps/1217745/troubleshooting-and-support-bamboo?hosting=datacenter
+https://marketplace.atlassian.com/apps/1226610/bitbucket-cloud-migration-assistant?hosting=datacenter
+https://marketplace.atlassian.com/apps/1227949/hackathon-workflow-alan?hosting=cloud
+https://marketplace.atlassian.com/apps/1227949/hackathon-workflow-alan?hosting=datacenter
+https://marketplace.atlassian.com/apps/1227901/application-tunnels?hosting=server
+https://marketplace.atlassian.com/apps/1227901/application-tunnels?hosting=datacenter
+https://marketplace.atlassian.com/apps/1228153/comms-dashboard?hosting=cloud
+https://marketplace.atlassian.com/apps/1218117/ipython-notebook-viewer?hosting=cloud
+https://marketplace.atlassian.com/apps/1228937/atlas-for-jira-cloud?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1227744/jira-enterprise-scale-assessment-tool?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/1229183/add-watchers-at-issue-creation?hosting=cloud
+https://marketplace.atlassian.com/apps/1212137/assets?hosting=server
+https://marketplace.atlassian.com/apps/1229446/developer-assistant-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1229343/developer-assistant-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1229704/cloud-migration-planner?hosting=cloud
+https://trello.com/power-ups/588a331cc86ffbe08f5d2c67/bitbucket-cloud
+https://trello.com/power-ups/55a5d915446f517774210001/box
+https://trello.com/power-ups/57b47fb862d25a30298459b1/card-repeater
+https://trello.com/power-ups/58dd18bdccfca7af8311792e/card-snooze
+https://trello.com/power-ups/586be37142f94dc0871fbcbb/confluence-cloud
+https://trello.com/power-ups/56d5e249a98895a9797bebb9/custom-fields
+https://trello.com/power-ups/55a5d915446f517774210003/evernote
+https://trello.com/power-ups/568c1415eeaeb62f5a43aa01/giphy
+https://trello.com/power-ups/55a5d916446f517774210004/github
+https://trello.com/power-ups/55a5d916446f517774210006/google-drive
+https://trello.com/power-ups/55a5d916446f517774210007/google-hangouts
+https://trello.com/power-ups/5e3886cd2ae34410748d0d5b/jira-align-
+https://trello.com/power-ups/55a5d917446f51777421000c/mailchimp
+https://trello.com/power-ups/5940440775fbe327abd3329f/onedrive
+https://trello.com/power-ups/55a5d917446f51777421000d/package-tracker
+https://trello.com/power-ups/5a2de0c41ae4a1537bb0055d/read-me
+https://trello.com/power-ups/55a5d917446f517774210009/salesforce
+https://trello.com/power-ups/55a5d917446f51777421000a/slack
+https://trello.com/power-ups/568c143d95adcd7308cbc3fb/surveymonkey
+https://trello.com/power-ups/55a5d917446f51777421000b/twitter
+https://trello.com/power-ups/56940ede94fd60cf95f7ce6a/zendesk
+https://trello.com/power-ups/6048e897c73d032a983e2a7c/dashcards
+https://trello.com/power-ups/586be36326cc4c7e9f70beb3/jira
 https://app.aurory.io
 https://store.epicgames.com/en-US/p/seekers-of-tokane-a5986d
 https://www.australiansuper.com/
@@ -1404,7 +1078,6 @@ https://mobile.monash/
 https://status.mobile.monash/
 https://monashcollege.edu.au
 https://online.monash.edu/
-https://my.monash
 https://apps.apple.com/us/app/monash-study/id1462126829
 https://play.google.com/store/apps/details?id=edu.monash.monashmobile
 https://myapp.monash.edu/
@@ -1594,6 +1267,10 @@ api.gx.games/dc
 api.gx.games/dev 
 api.gx.games/profile
 api.gx.games/session
+https://app.opsgenie.com
+https://mobileapp.opsgenie.com
+Opsgenie (IoS)
+Opsgenie (Android)
 https://app.optimizely.com/
 https://cdn.optimizely.com/
 https://cdn-pci.optimizely.com/
@@ -1708,6 +1385,20 @@ https://api.rec.net
 https://rec.net/download
 https://recroom.com/studio
 https://devportal.rec.net/
+SAP SuccessFactors
+SAP S/4HANA Cloud Public Edition
+SAP S/4HANA Cloud Private Edition
+SAP Integrated Business Planning for Supply Chain
+SAP Cloud ALM
+SAP Customer Data Cloud portfolio from Gigya
+SAP S/4HANA migration cockpit
+SAP Risk and Assurance Management
+SAP Order Management for Sourcing and Availability
+SAP Continuous Integration and Delivery
+SAP Order Management foundation
+SAP Business Network for Logistics	
+SAP Signavio
+SAP Enable Now
 https://api.thesecurityteam.rocks
 https://api.anytask.thesecurityteam.rocks
 https://anytask.thesecurityteam.rocks
@@ -1782,6 +1473,7 @@ Square Terminal
 ███████████████████████████████████
 ███████████████████████████████
 ██████████████████████████████
+https://manage.statuspage.io
 Vehicle Head Units, TPMS sensors, remote keyless entry, and any other system that is present in a hardware product that you own or are authorized to test against
 https://www.driveuconnect.com
 https://www.driveuconnect.eu
@@ -1881,6 +1573,18 @@ Tidal Client for iOS
 Tidal Client for Android
 https://offer.tidal.com/download
 Tidal Official Clients (e.g. Sonos integration, Tesla integration, etc.)
+trello.com
+api.trello.com
+Trello Desktop Client
+Trello Mobile App for Android
+Trello Mobile App for iOS
+https://butlerfortrello.com/
+https://trello.com/power-ups/55a5d917446f517774210011/calendar-power-up
+https://trello.com/power-ups/55a5d917446f517774210012/card-aging
+https://trello.com/power-ups/5c2462c384ab8949b1724a20/list-limits
+https://trello.com/power-ups/55a5d917446f517774210013/voting
+https://trello.com/power-ups/6052d130068a8c0de7b022b4
+Trello Third Party Powerups
 https://api.production.cde.tamg.cloud
 https://partnerapi.tapayments.com
 https://partnerapi1.tapayments.com
@@ -2120,6 +1824,60 @@ https://remoteaccess.westernunion.com
 https://secureauth.westernunion.com
 mydesktop.wu.com
 Any host or verified to be owned by Western Union (domains/IP space/etc.)
+https://www.westernunion.com
+https://www2.westernunion.com
+https://www.westernunion.fr
+https://www.westernunion.de
+https://www.westernunion.no
+https://www.westernunion.se
+https://www.westernunion.ca
+https://www.westernunion.nl
+https://www.westernunion.es
+https://www.westernunion.ie
+https://www.westernunion.ch
+https://www.westernunion.pt
+https://www.westernunion.be
+https://www.westernunion.dk
+https://www.westernunion.fi
+https://www.westernunion.pl
+https://www.westernunion.ee
+https://www.westernunion.lu
+https://www.westernunion.gr
+https://www.westernunion.at
+https://www.westernunion.it
+https://www.westernunion.co.nz
+https://www.westernunion.co.uk
+https://www.westernunion.com.au
+https://cuba.westernunion.com
+https://egypt.westernunion.com
+https://hk.westernunion.com
+https://india.westernunion.com
+https://jamaica.westernunion.com
+https://location.westernunion.com
+https://m.westernunion.com
+https://senegal.westernunion.com
+https://sg.westernunion.com
+https://wuagentportal.westernunion.com
+https://agentportal.westernunion.com
+https://westernunionbank.com
+https://ebanking.westernunionbank.com
+https://transvision.westernunion.com
+https://partnernet.westernunion.com
+https://iwgo.westernunion.com
+http://agenttraining.westernunion.com
+https://paymentstatus.westernunion.com
+https://foundation.westernunion.com
+https://partners.westernunion.com
+https://wucare.westernunion.com
+https://secure.westernunion.com
+https://corporate.westernunion.com
+https://apps.apple.com/us/app/western-union-transfer-money/id424716908
+https://play.google.com/store/apps/details?id=com.westernunion.android.mtapp&hl=en_US&gl=US
+https://wuinsights.westernunion.com
+https://remoteaccess.westernunion.com
+https://secureauth.westernunion.com
+mydesktop.wu.com
+Any host or verified to be owned by Western Union (domains/IP space/etc.)
 Researcher owned WHMCS Instance
 https://transferwise.com
 https://wise.com
@@ -2159,29 +1917,3 @@ https://bc.yieldstreet.net
 staging-app.bany.dev
 █████████████████████
 ████████████
-Opsgenie (Android)
-Opsgenie (IoS)
-app.opsgenie.com
-https://app.opsgenie.com
-https://mobileapp.opsgenie.com
-mobileapp.opsgenie.com
-https://manage.statuspage.io
-manage.statuspage.io
-Butler for Trello
-Calendar Power-Up
-Card Aging Power-Up
-List Limits Power-Up
-Microsoft Teams Integration
-Trello Desktop Client
-Trello Mobile App for Android
-Trello Mobile App for iOS
-Trello Third Party Powerups
-Voting Power-Up
-api.trello.com
-https://butlerfortrello.com/
-https://trello.com/power-ups/55a5d917446f517774210011/calendar-power-up
-https://trello.com/power-ups/55a5d917446f517774210012/card-aging
-https://trello.com/power-ups/55a5d917446f517774210013/voting
-https://trello.com/power-ups/5c2462c384ab8949b1724a20/list-limits
-https://trello.com/power-ups/6052d130068a8c0de7b022b4
-trello.com

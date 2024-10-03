@@ -1,12 +1,9 @@
-*.atlastunnel.com
-Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
-Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
-*.atlastunnel.com
-*.arlo.com
-*.arloxcld.com
 *.central.arubanetworks.com
 *.asana.biz
 *.app.asana.com
+Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
+*.atlastunnel.com
+Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 *.cic-bug-bounty.auth0app.com
 *.tube8.com
 *.trafficjunky.com
@@ -127,6 +124,7 @@ prod-*.nu.com.co
 *.operafootball.com
 *.feednews.com
 *.dailyadvent.com
+*.opsgenie.com
 *.origindigital-pac.com.au
 *.odcdn.com.au
 *.support.originenergy.com.au
@@ -172,6 +170,7 @@ prod-*.nu.com.co
 api-*.soundcloud.com
 *.square.com
 *.squareup.com
+*.statuspage.io
 *.tesla.cn
 *.tesla.services
 *.tesla.com
@@ -182,6 +181,7 @@ api-*.soundcloud.com
 *.wimpmusic.com
 *.tidalhifi.com
 *.tdl.sh
+*.trello.services
 *.vacationhomerentals.com
 *.holidaylettings.com
 *.flipkey.com
@@ -197,6 +197,8 @@ api-*.soundcloud.com
 *.viator.com
 *.westernunion.*
 *.wu.*
+*.westernunion.*
+*.wu.*
 *.transferwise.com
 *.wise.com
 *-cvr-aws-*.sys.comcast.net
@@ -206,6 +208,3 @@ api-*.soundcloud.com
 xhomeapi-*.codebig2.net
 xhomeapi-*.cloud.comcast.net
 *.xfinityhome.com
-*.opsgenie.com
-*.statuspage.io
-*.trello.services

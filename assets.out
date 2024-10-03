@@ -3,20 +3,37 @@
  Finicity Connect
  Fortress.HongKong.IOS
  MS Office Add-In
- Mobile Plugin for Confluence Data Center and Server - Data Center - https://marketplace.atlassian.com/apps/1218250/mobile-plugin-for-confluence-data-center-and-server?hosting=datacenter
- Mobile Plugin for Confluence Data Center and Server - Server - https://marketplace.atlassian.com/apps/1218250/mobile-plugin-for-confluence-data-center-and-server?hosting=server
- Mobile Plugin for Jira - Server - https://marketplace.atlassian.com/apps/1220151/mobile-plugin-for-jira-data-center-and-server?hosting=server
+ Mobile Apps
  Twilio CDNs (static*.twilio.com)
  Watsons.TaiWan.Android
+ aweb.suivo.com
  com.citymapper.app.release
  https://app.init.capital/
  https://github.com/0xPolygon/proof-generation-api
  https://github.com/river-build/river
+ idp-contact.nexuzhealth.be
  mix.monash.edu 
+ sweb.suivo.com
+ vrtnws-api.vrt.be
+(Firmware)	Motherboard / System (e.g., Intel Compute Stick)
+(Firmware) 	Baseboard Management Controller (BMC)
+(Firmware) 	Intel® Management Engine
+(Firmware) 	Solid State Drives
+(Firmware) 	UEFI BIOS (Tiano core components for which Intel is only named maintainer)
+(Hardware)	Processor (inclusive of micro-code ROM + updates)
+(Hardware) 	Chipset
+(Hardware) 	FPGA
+(Hardware) 	Motherboard / System (e.g., Intel Compute Stick, NUC)
+(Hardware) 	Networking / Communication
+(Hardware) 	Solid State Drive
+(Software) 	Application
+(Software) 	Development Tool
+(Software) 	Device driver
 (youriwssubdomain).cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
 (yoursubdomain).us.iws.cloud.com
+)www.sterkinjeschoenen.be
 * hln.be/inloggen
 * hln.be/login
 * hln.be/registreren
@@ -42,6 +59,9 @@
 *.LCX.com
 *.YOUR-TESTING-STORE.mybigcommerce.com/
 *.a.exodus.io
+*.acbpost.be
+*.acc-pub.mobilevikings.be
+*.acc.mobilevikings.be
 *.account.api.here.com
 *.account.here.com
 *.acrobat.com
@@ -100,8 +120,8 @@
 *.api.playstation.com
 *.app.asana.com
 *.app.spacelift.dev
-*.arlo.com
-*.arloxcld.com
+*.appmiral.com
+*.aroundtheworld.tomorrowland.com
 *.artstation.com
 *.asana.biz
 *.astaro.com
@@ -119,6 +139,7 @@
 *.ayco.com
 *.backblazeb2.com
 *.backend-capital.com
+*.backend.currency.com
 *.backpack.exchange/
 *.base.org
 *.berush.com
@@ -164,6 +185,9 @@
 *.boozt.com
 *.booztlet.com
 *.boredapeyachtclub.com
+*.bpost.be
+*.bpost.cloud
+*.bpost2.be
 *.braintree-api.com
 *.braintree.tools
 *.braintreegateway.com
@@ -205,6 +229,7 @@
 *.chimepayments.com
 *.chmfin.com
 *.cic-bug-bounty.auth0app.com
+*.cineramabios.nl
 *.citrixworkspacesapi.net
 *.citymeal.com
 *.claritymoney.com
@@ -216,6 +241,9 @@
 *.cloudways.com
 *.clubhouse.com
 *.clubhouseapi.com
+*.cm.com
+*.cmtelecom.com
+*.cmtickets.com
 *.coda.io/*
 *.code.gov
 *.cognitiveperformer.com
@@ -225,6 +253,7 @@
 *.comcast.com
 *.computerbild.de
 *.consumer.worldcoin.org
+*.contactallerg(y|ie).uzleuven.be
 *.contentsquare.com
 *.cornershop.io/*
 *.cornershopapp.com/*
@@ -253,8 +282,10 @@
 *.deriv.cloud
 *.deriv.com
 *.derivws.com
+*.dev-pub.mobilevikings.be
 *.dev.*.lfscnp.com
 *.dev.grindr.io
+*.dev.mobilevikings.be
 *.dev.remitly.com
 *.devicelock.com
 *.dex-trade.com
@@ -268,6 +299,7 @@
 *.doctolib.(fr|de|it|com|net)
 *.download.originenergy.com.au
 *.dpgmedia.be
+*.dpgmedia.com
 *.dpgmedia.nl
 *.dropbox.com    
 *.dropboxer.net
@@ -329,6 +361,7 @@
 *.fortnite.com
 *.found.io
 *.fromspotify.com
+*.fullcinemas.com
 *.fuze.com
 *.fuze.site
 *.gamma.be/*
@@ -386,6 +419,7 @@
 *.hellosign.com
 *.helloworks.com
 *.here.com
+*.here.com employee accounts
 *.hereapi.com
 *.hey.com
 *.highrolling.nu
@@ -439,13 +473,18 @@
 *.instacart.com
 *.instacart.tools
 *.int.remitly.com
+*.intel.com
 *.intercomassets.com / *.intercomcdn.com
 *.intergamma-test.nl
 *.intergamma.cloud
 *.intergamma.nl/*
+*.intigriti.com
+*.intigriti.io
+*.intigriti.me
 *.irccloud-cdn.com
 *.irccloud.com
 *.itcapital.io
+*.jezofficial.be
 *.jit.si
 *.jitsi.net
 *.jobapi.io
@@ -460,6 +499,7 @@
 *.just-eat.no
 *.justfall.lol,*.justplay.lol,*.1v1.lol
 *.karwei.nl/*
+*.karweioutletstore.nl
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
 *.kes.kindredext.net
@@ -469,11 +509,17 @@
 *.kiln.it
 *.kindredext.net
 *.kinepolis.be
+*.kinepolis.be 
 *.kinepolis.ch
+*.kinepolis.ch 
 *.kinepolis.com
+*.kinepolis.com 
+*.kinepolis.es 
 *.kinepolis.fr
+*.kinepolis.fr 
 *.kinepolis.lu
 *.kinepolis.nl
+*.kinepolis.nl 
 *.kiwi.com
 *.klubcinema.fr
 *.kolikkopelit.com
@@ -482,9 +528,12 @@
 *.krisp.ai
 *.kucoin.com
 *.kwsdose.be
+*.la.spring-media.de
 *.lahitapiola.fi
 *.lahitapiolarahoitus.fi
 *.landmarkcinemas.com
+*.landmarkglobal-group.com
+*.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
 *.latitudefinancial.co.nz
@@ -538,7 +587,7 @@
 *.mdvmm.xyz
 *.mediatonic.co.uk
 *.meebits.app
-*.megatix.be
+*.megatix.be  
 *.melonapp.com
 *.memorable.io
 *.meraki.com
@@ -546,6 +595,7 @@
 *.mevo.com
 *.mgmt.fndlsb.net
 *.mi.com
+*.mir.uzleuven.be
 *.miui.com
 *.miwifi.com
 *.mixamo.com
@@ -642,6 +692,9 @@
 *.paypalcorp.com
 *.personio-internal.de
 *.personio.de
+*.personio.de/compensation
+*.personio.de/svc/compensation/graphql
+*.personio.de/whistleblowing
 *.personio.tools
 *.personiowhistleblowing.com
 *.petbook-magazine.com/
@@ -653,6 +706,8 @@
 *.playuzleuven.be
 *.playwsop.com
 *.points.com
+*.portofantwerp.com
+*.portofantwerpbruges.com
 *.ppbdev.com
 *.prd-pub.mobilevikings.be
 *.prd.fndlsb.net
@@ -788,6 +843,7 @@
 *.sonyentertainmentnetwork.com
 *.sophos.com
 *.soundcloud.org
+*.souparea.com
 *.spiketrap.io
 *.spinaway.com
 *.sportinglife.com
@@ -806,6 +862,7 @@
 *.status.app
 *.status.im
 *.statuspage.io
+*.stbpost.be
 *.storspiller.com
 *.streamlabs.com
 *.streamlabscharity.com
@@ -972,13 +1029,16 @@
 *.zellepay.com
 *.zomans.com
 *.zomato.com
+*dev.uzleuven.be
 *developer.cloud.com
 *ensemble*.yahoo.com
+*idp*.uzleuven.be
 *inf.fndlsb.net
 *omega*.yahoo.com
 *pwn.intigriti.rocks
 *racing.fanduel.com
 *signalservice.comcast.net
+*stag*.uzleuven.be
 *tidalhi.fi
 *uat.marriott.com
 *ubereats.com
@@ -1002,6 +1062,7 @@
 1032480595
 1052238659
 107.167.96.0/19
+1074833098
 1076840480
 1079537578
 1080248000
@@ -1017,6 +1078,7 @@
 1180074773
 1180400838
 1192506963
+1199521324
 1200391796
 121.200.237.36/29
 1215220850
@@ -1033,6 +1095,7 @@
 1324809509
 1337574835
 134.58.179.102-103
+134.58.179.33
 134.58.179.82
 1343620481
 1395921017
@@ -1057,6 +1120,7 @@
 1541949985
 1557515848
 1558129454
+1579530451
 1589023233
 1589071345
 1591003012
@@ -1068,12 +1132,14 @@
 1671793296
 169.254.169.254
 185.26.180.0/22
+188.118.8.0/17
 188.118.8.0/25
 192.251.123.0/24
 192.251.124.0/24
 192.251.125.0/24
 192.251.126.0/24
 193.0.0.0/19 and 2001:67c:2e8::/48
+194.78.161.160/27
 194.90.151.192/28
 194.90.25.80/29
 194.90.89.165/32
@@ -1090,6 +1156,7 @@
 284910350
 284971959
 288429040
+294855237
 297606951
 2kleague.nba.com
 3.0 API
@@ -1197,6 +1264,7 @@
 936983378
 937011954453721119
 938003185
+94.107.237.192/18
 94.107.237.192/26
 944011620
 947984433
@@ -1230,6 +1298,7 @@
 <Your own 1Password account> —> https://events.1password.com/  (Event Reporting API is available on 1Password Business Accounts Only)
 <Your own 1Pasword Personal Account> --> https://my.1password.com/
 <locale>.trip.com
+@here.com employee accounts
 AI Gateway
 AMP Real URL
 AOL (misc)
@@ -1243,7 +1312,6 @@ API & Websocket
 API Shield
 AS41690
 AWS Infrastructure
-AWS Service Catalog for JSM Cloud - Cloud - https://marketplace.atlassian.com/apps/1221551/aws-service-catalog-for-jsm-cloud?hosting=cloud
 AWS infrastructure and services in use by Wise (eg: S3 buckets)
 Account Settings
 Acronis Agent
@@ -1256,24 +1324,14 @@ Acronis DeviceLock DLP
 Acronis Snap Deploy
 Actively Supported, Bounty Eligible Dell Products
 Actively Supported, Non-Reward Eligible Dell Products
-Add watchers at issue creation - Cloud - https://marketplace.atlassian.com/apps/1229183/add-watchers-at-issue-creation?hosting=cloud
-Admin Kit for Confluence Cloud - Cloud - https://marketplace.atlassian.com/apps/1225691/admin-kit-for-confluence-cloud?hosting=cloud
-Admin Kit for Jira Cloud - Cloud - https://marketplace.atlassian.com/apps/1225689/admin-kit-for-jira-cloud?hosting=cloud
 Adobe AIR
 Adobe Acrobat Reader DC
 Adobe Campaign
 Adobe Commerce, Commerce B2B and Commerce Open Source
 Adobe Experience Manager (AEM)
-Advanced Roadmaps (formerly Portfolio) - DataCenter - https://marketplace.atlassian.com/apps/1212136/advanced-roadmaps-formerly-portfolio?hosting=datacenter
-Advanced Roadmaps (formerly Portfolio) - Server - https://marketplace.atlassian.com/apps/1212136/advanced-roadmaps-formerly-portfolio?hosting=server
-Advanced Roadmaps for Jira in Confluence - DataCenter - https://marketplace.atlassian.com/apps/1221237/advanced-roadmaps-for-jira-in-confluence?hosting=datacenter
-Advanced Roadmaps for Jira in Confluence - Server - https://marketplace.atlassian.com/apps/1221237/advanced-roadmaps-for-jira-in-confluence?hosting=server
 AdwCleaner
 Affiliates or entities such as recently acquired companies
-After Deployment Trigger for Bamboo - Server - https://marketplace.atlassian.com/apps/1216136/after-deployment-trigger-for-bamboo?hosting=server
 After Effects
-Agent Notifications for Bamboo - Server - https://marketplace.atlassian.com/apps/1216177/agent-notifications-for-bamboo?hosting=server
-Agent Usage Visualization for Bamboo - Server - https://marketplace.atlassian.com/apps/1215924/agent-usage-visualization-for-bamboo?hosting=server
 AgentConnect (see program description for github link)
 Agora for Android (see dowload link for APK file and mobile app GitHub repository in description)
 Agora for iOS (see dowload link for IPA file and mobile app GitHub repository in description)
@@ -1298,7 +1356,6 @@ All other Assets
 All the Blockchain Infrastructure
 Amazon Subsidiaries (Please only actively test explicitly stated scope)
 AmpliFi
-Analytics for Confluence - Cloud - https://marketplace.atlassian.com/apps/1215795/analytics-for-confluence?hosting=cloud
 Anchor
 Android
 Android & iOS App for Instacart Shoppers
@@ -1310,7 +1367,6 @@ Android SDK
 Android Wallet
 Android Zen App
 Animate
-Announcement Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1217289/announcement-plugin-for-bamboo?hosting=server
 Any .magic.link demo sites
 Any FIS asset is in scope
 Any Other Sophos Product or Service
@@ -1331,43 +1387,14 @@ Any public cloud resource or infrastructure operated and managed by REI.
 Any publicly accessible Tripadvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
 Any publicly facing host owned by Etsy, including the below:
 Any related DPG media domain
+Any related Torfs domain
 Any resource created or accessed with the Outscale Cloud, on all regions
 Any subdomain application issue
 Any subdomain infrastructure issue
 AppActions
 Apple App Store (886492891)
-Application tunnels - DataCenter - https://marketplace.atlassian.com/apps/1227901/application-tunnels?hosting=datacenter
-Application tunnels - Server - https://marketplace.atlassian.com/apps/1227901/application-tunnels?hosting=server
 Apps which are listed within this bot
-Archive Plugin for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1211094/archive-plugin-for-bitbucket-server?hosting=server
 Arkime
-Arlo
-Arlo All-In-One Sensor (Home Security System)
-Arlo Baby
-Arlo Base Station
-Arlo Bridge
-Arlo Cellular & Battery Backup (Home Security System)
-Arlo Chime / Chime 2
-Arlo Essential
-Arlo Floodlight
-Arlo Go / Go 2
-Arlo Home Security System
-Arlo Pro
-Arlo Pro 2
-Arlo Pro 3
-Arlo Pro 4
-Arlo Pro 5S
-Arlo Q / Q+
-Arlo Safe Android App
-Arlo Safe Button
-Arlo Safe iOS App
-Arlo Secure Android App
-Arlo Secure iOS App
-Arlo Security Light
-Arlo Ultra
-Arlo Video Doorbell
-Arlo Wire-Free Outdoor Siren (Home Security System)
-Arlo Wireless Video Doorbell
 Aruba AirWave AMP
 Aruba ClearPass Policy Manager
 Aruba EdgeConnect Enterprise
@@ -1378,66 +1405,12 @@ Aruba InstantOn Switches
 Aruba NetEdit
 Aruba Wireless – ArubaOS and Aruba Instant
 ArubaOS-CX Wired Switches
-Asana Importer Plugin for Jira - Server - https://marketplace.atlassian.com/apps/1213440/asana-importer-plugin-for-jira?hosting=server
-Assets - AWS Integration - DataCenter - https://marketplace.atlassian.com/apps/1218757/assets-aws-integration?hosting=datacenter
-Assets - AWS Integration - Server - https://marketplace.atlassian.com/apps/1218757/assets-aws-integration?hosting=server
-Assets - Azure Integration - DataCenter - https://marketplace.atlassian.com/apps/1218974/assets-azure-integration?hosting=datacenter
-Assets - Azure Integration - Server - https://marketplace.atlassian.com/apps/1218974/assets-azure-integration?hosting=server
-Assets - Confluence Macro - DataCenter - https://marketplace.atlassian.com/apps/1216074/assets-confluence-macro?hosting=datacenter
-Assets - Confluence Macro - Server - https://marketplace.atlassian.com/apps/1216074/assets-confluence-macro?hosting=server
-Assets - DataCenter - https://marketplace.atlassian.com/apps/1212137/assets?hosting=datacenter
-Assets - Device42 Integration - DataCenter - https://marketplace.atlassian.com/apps/1219632/assets-device42-integration?hosting=datacenter
-Assets - Device42 Integration - Server - https://marketplace.atlassian.com/apps/1219632/assets-device42-integration?hosting=server
-Assets - Google Cloud Integration - DataCenter - https://marketplace.atlassian.com/apps/1219212/assets-google-cloud-integration?hosting=datacenter
-Assets - Google Cloud Integration - Server - https://marketplace.atlassian.com/apps/1219212/assets-google-cloud-integration?hosting=server
-Assets - Jamf Integration - DataCenter - https://marketplace.atlassian.com/apps/1219908/assets-jamf-integration?hosting=datacenter
-Assets - Jamf Integration - Server - https://marketplace.atlassian.com/apps/1219908/assets-jamf-integration?hosting=server
-Assets - Jira & Bitbucket Integration - DataCenter - https://marketplace.atlassian.com/apps/1217750/assets-jira-bitbucket-integration?hosting=datacenter
-Assets - Jira & Bitbucket Integration - Server - https://marketplace.atlassian.com/apps/1217750/assets-jira-bitbucket-integration?hosting=server
-Assets - NVD Integration - DataCenter - https://marketplace.atlassian.com/apps/1220353/assets-nvd-integration?hosting=datacenter
-Assets - NVD Integration - Server - https://marketplace.atlassian.com/apps/1220353/assets-nvd-integration?hosting=server
-Assets - SCCM Integration - DataCenter - https://marketplace.atlassian.com/apps/1219094/assets-sccm-integration?hosting=datacenter
-Assets - SCCM Integration - Server - https://marketplace.atlassian.com/apps/1219094/assets-sccm-integration?hosting=server
-Assets - Server - https://marketplace.atlassian.com/apps/1212137/assets?hosting=server
-Assets - ServiceNow Integration - DataCenter - https://marketplace.atlassian.com/apps/1219561/assets-servicenow-integration?hosting=datacenter
-Assets - ServiceNow Integration - Server - https://marketplace.atlassian.com/apps/1219561/assets-servicenow-integration?hosting=server
-Assets - Snow Integration - DataCenter - https://marketplace.atlassian.com/apps/1219298/assets-snow-integration?hosting=datacenter
-Assets - Snow Integration - Server - https://marketplace.atlassian.com/apps/1219298/assets-snow-integration?hosting=server
-Assets - Tempo Integration - DataCenter - https://marketplace.atlassian.com/apps/1217751/assets-tempo-integration?hosting=datacenter
-Assets Discovery - Cloud - https://marketplace.atlassian.com/apps/1214668/assets-discovery?hosting=cloud
-Assets Discovery - DataCenter - https://marketplace.atlassian.com/apps/1214668/assets-discovery?hosting=datacenter
-Assets Tempo Integration - Server - https://marketplace.atlassian.com/apps/1217751/assets-tempo-integration?hosting=server
 Assets labeled as in-scope
-Assign Reviewer Groups - Server - https://marketplace.atlassian.com/apps/1220798/assign-reviewer-groups?hosting=server
+Assets owned by RIPE NCC
 Athenz
-Atlas for Jira Cloud - Cloud - https://marketplace.atlassian.com/apps/1228937/atlas-for-jira-cloud?hosting=cloud&tab=overview
-Atlassian Access (https://admin.atlassian.com/atlassian-access)
-Atlassian Admin (https://admin.atlassian.com/)
-Atlassian Atlas
-Atlassian Cloud for Gmail - Cloud - https://marketplace.atlassian.com/apps/1219311/atlassian-cloud-for-gmail?hosting=cloud
-Atlassian Compass
-Atlassian Identity (https://id.atlassian.com/login)
-Atlassian Marketplace (https://marketplace.atlassian.com)
-Atlassian Plugin SDK - DEB - Cloud - https://marketplace.atlassian.com/apps/1210992/atlassian-plugin-sdk-deb?hosting=cloud
-Atlassian Plugin SDK - DEB - Server - https://marketplace.atlassian.com/apps/1210992/atlassian-plugin-sdk-deb?hosting=server
-Atlassian Plugin SDK - Mac OS X - Server - https://marketplace.atlassian.com/apps/1210951/atlassian-plugin-sdk-mac-os-x?hosting=server
-Atlassian Plugin SDK - RPM - Server - https://marketplace.atlassian.com/apps/1210991/atlassian-plugin-sdk-rpm?hosting=server
-Atlassian Plugin SDK - TGZ - Server - https://marketplace.atlassian.com/apps/1210993/atlassian-plugin-sdk-tgz?hosting=server
-Atlassian Plugin SDK - Windows - Server - https://marketplace.atlassian.com/apps/1210950/atlassian-plugin-sdk-windows?hosting=server
-Atlassian REST API Browser - Server - https://marketplace.atlassian.com/apps/1211542/atlassian-rest-api-browser?hosting=server
-Atlassian Start (https://start.atlassian.com)
-Atlassian Team Playbook blueprints - Server - https://marketplace.atlassian.com/apps/1216357/atlassian-team-playbook-blueprints?hosting=server
-Atlassian Universal Plugin Manager - DataCenter - https://marketplace.atlassian.com/apps/23915/atlassian-universal-plugin-manager?hosting=datacenter
-Atlassian Universal Plugin Manager - Server - https://marketplace.atlassian.com/apps/23915/atlassian-universal-plugin-manager?hosting=server
 Audition
 Authentication component
-Auto Unapprove for Bitbucket Server - DataCenter - https://marketplace.atlassian.com/apps/1211449/auto-unapprove-for-bitbucket-server?hosting=datacenter
-Auto Unapprove for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1211449/auto-unapprove-for-bitbucket-server?hosting=server
-AutoLink Plugin for Jira - Server - https://marketplace.atlassian.com/apps/1211246/autolink-plugin-for-jira?hosting=server
-Automation for Jira - Cloud - https://marketplace.atlassian.com/apps/1215460/automation-for-jira-server?hosting=cloud
-Automation for Jira - Data Center and Server - Server - https://marketplace.atlassian.com/apps/1215460/automation-for-jira-data-center-and-server?hosting=server
-Automation for Jira - DataCenter - https://marketplace.atlassian.com/apps/1215460/automation-for-jira?hosting=datacenter
-Automation for Jira - Server Lite - Server - https://marketplace.atlassian.com/apps/1211836/automation-for-jira-server-lite?hosting=server
+Autoblog
 Ava Labs Warden server and blob storage endpoints (please test on testnet only)
 Avalanche-Wallet
 Avalanche-Wallet-SDK
@@ -1451,8 +1424,6 @@ BSC HandlerReserve
 BSC Voter
 BUILD
 Backstage source code
-Bamboo
-Bamboo build status notifier - Server - https://marketplace.atlassian.com/apps/1224729/bamboo-build-status-notifier?hosting=server
 Basecamp.app
 Beats
 Beats - Auditbeat
@@ -1461,23 +1432,10 @@ Beats - Heartbeat
 Beats - Metricbeat
 Beats - Packetbeat
 Beats - Winlogbeat
-Better Code Macro for Confluence - Cloud - https://marketplace.atlassian.com/apps/1214912/better-code-macro-for-confluence?hosting=cloud
 Binance Desktop Application
 Binance Mobile Application for Android
 Binance Mobile Application for iOS
 Binance macOS Application
-Bitbucket Cloud - https://trello.com/power-ups/588a331cc86ffbe08f5d2c67/bitbucket-cloud
-Bitbucket Cloud Migration Assistant - Data Center - https://marketplace.atlassian.com/apps/1226610/bitbucket-cloud-migration-assistant?hosting=datacenter
-Bitbucket Cloud Migration Assistant - Server - https://marketplace.atlassian.com/apps/1226610/bitbucket-cloud-migration-assistant?hosting=server
-Bitbucket Cloud for Slack (Official) - Cloud - https://marketplace.atlassian.com/apps/1218781/bitbucket-cloud-for-slack-official?hosting=cloud
-Bitbucket Cloud including Bitbucket Pipelines (https://bitbucket.org)
-Bitbucket Data Center
-Bitbucket Pipelines for Jira - Cloud - https://marketplace.atlassian.com/apps/1220820/bitbucket-pipelines-for-jira?hosting=cloud
-Bitbucket Server Backup Client - Server - https://marketplace.atlassian.com/apps/1211500/bitbucket-server-backup-client?hosting=server
-Bitbucket Server Protect Unmerged Hook - Data Center - https://marketplace.atlassian.com/apps/1211203/bitbucket-server-protect-unmerged-hook?hosting=datacenter
-Bitbucket Server Protect Unmerged Hook - Server - https://marketplace.atlassian.com/apps/1211203/bitbucket-server-protect-unmerged-hook?hosting=server
-Bitbucket Server for Slack (Official) - DataCenter - https://marketplace.atlassian.com/apps/1220729/bitbucket-server-for-slack-official?hosting=datacenter
-Bitbucket Server for Slack (Official) - Server - https://marketplace.atlassian.com/apps/1220729/bitbucket-server-for-slack-official?hosting=server
 Bitdefender Antimalware Engines
 Bitdefender BOX v2
 Bitdefender Total Security
@@ -1490,7 +1448,6 @@ Body Comp scale
 Body Scan scale
 Bot Management
 Boundary.dfinity.network
-Box - https://trello.com/power-ups/55a5d915446f517774210001/box
 Braintree SDK
 Bridge
 Broken Link
@@ -1498,35 +1455,23 @@ Browser Extensions
 Browser Isolation
 BrowserGuard (Firefox/Chrome/Safari browser extension)
 BuddyPress Core
-Build Times for Bamboo 5.10+ - Server - https://marketplace.atlassian.com/apps/1215965/build-times-for-bamboo-5-10?hosting=server
 Built By Girls
-Bulk delete review files for Crucible - Server - https://marketplace.atlassian.com/apps/1215089/bulk-delete-review-files-for-crucible?hosting=server
 Burp Collaborator
 Burp Suite Enterprise Edition
 Burp Suite Extension (BApps)
 Burp Suite Pro/Community
-Butler for Trello
 C# SDK
 C100447517
 C103149579
 C2PA Tool
 CDNJS
-Calendar Power-Up
 Canva (Android)
 Canva (Chrome Extension)
 Canva (iOS)
 Canva Desktop (macOS / Windows)
 Capital One Shopping Browser Extension
 Capture the Flag
-Card Aging Power-Up
-Card Repeater - https://trello.com/power-ups/57b47fb862d25a30298459b1/card-repeater
-Card Snooze - https://trello.com/power-ups/58dd18bdccfca7af8311792e/card-snooze
 Cellular Network Auth Bypass via Web/Mobile App
-Centralized license visibility - DataCenter - https://marketplace.atlassian.com/apps/1220745/centralized-license-visibility?hosting=datacenter
-Centralized license visibility - Server - https://marketplace.atlassian.com/apps/1220745/centralized-license-visibility?hosting=server
-Change Management Workflow for Jira Service Management - DataCenter - https://marketplace.atlassian.com/apps/1215175/change-management-workflow-for-jira-service-management?hosting=datacenter
-Change Management Workflow for Jira Service Management - Server - https://marketplace.atlassian.com/apps/1215175/change-management-workflow-for-jira-service-management?hosting=server
-Change Management for JSM - Server - https://marketplace.atlassian.com/apps/1215175/change-management-for-jsm?hosting=server
 Character Animator
 Chartable
 Chime
@@ -1545,9 +1490,6 @@ Cisco Meraki Systems Manager
 Cisco Meraki Virtual Security Appliances
 Cisco Meraki Z Series (Z1,Z3(C))
 ClickHouse Cloud environment hosted by ClickHouse
-Cloud Compatibility for Jira - DataCenter - https://marketplace.atlassian.com/apps/1221117/cloud-compatibility-for-jira?hosting=datacenter
-Cloud Compatibility for Jira - Server - https://marketplace.atlassian.com/apps/1221117/cloud-compatibility-for-jira?hosting=server
-Cloud Migration Planner - Cloud - https://marketplace.atlassian.com/apps/1229704/cloud-migration-planner?hosting=cloud
 Cloudflare Access
 Cloudflare Analytics
 Cloudflare CASB
@@ -1563,46 +1505,20 @@ Cloudflare Zero Trust/Cloudflare One
 Cloudkey
 Clubhouse Production and Corporate Infrastructure
 Coda Chrome Extension
-Code Coverage for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1218271/code-coverage-for-bitbucket-server?hosting=server
 CoinMarketCap Android app
 CoinMarketCap iOS app
 Coinbase WaaS (Wallet as a Service)
 ColdFusion
 CometBFT
-Comms Dashboard - Cloud - https://marketplace.atlassian.com/apps/1228153/comms-dashboard?hosting=cloud
 Community Management & Communications
 Components
-Conditional tasks for Bamboo - Server - https://marketplace.atlassian.com/apps/1219706/conditional-tasks-for-bamboo?hosting=server
-Confluence Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)
-Confluence Cloud - https://trello.com/power-ups/586be37142f94dc0871fbcbb/confluence-cloud
-Confluence Cloud Migration Assistant - DataCenter - https://marketplace.atlassian.com/apps/1219672/confluence-cloud-migration-assistant?hosting=datacenter
-Confluence Cloud Migration Assistant - Server - https://marketplace.atlassian.com/apps/1219672/confluence-cloud-migration-assistant?hosting=server
-Confluence Cloud Mobile App for Android
-Confluence Cloud Mobile App for iOS
-Confluence Cloud Premium (bugbounty-test-<bugcrowd-name>.atlassian.net/wiki)
-Confluence Cloud for Microsoft Teams - Cloud - https://marketplace.atlassian.com/apps/1226127/confluence-cloud-for-microsoft-teams-official?hosting=cloud
-Confluence Cloud for Slack (Official) - Cloud - https://marketplace.atlassian.com/apps/1219518/confluence-cloud-for-slack-official?hosting=cloud
-Confluence Cloud for Slack - Cloud - https://marketplace.atlassian.com/apps/1219498/confluence-cloud-for-slack?hosting=cloud
-Confluence Companion App for macOS and Windows
-Confluence Data Center
-Confluence Data Center Mobile App for Android
-Confluence Data Center Mobile App for iOS
-Confluence Issue Tab Plugin for Jira - Server - https://marketplace.atlassian.com/apps/1211312/confluence-issue-tab-plugin-for-jira?hosting=server
-Confluence Server for Slack (Official) - DataCenter - https://marketplace.atlassian.com/apps/1220186/confluence-server-for-slack-official?hosting=datacenter
-Confluence Server for Slack (Official) - Sever - https://marketplace.atlassian.com/apps/1220186/confluence-server-for-slack-official?hosting=server
-Confluence Source Editor - Server - https://marketplace.atlassian.com/apps/1210722/confluence-source-editor?hosting=server
-Confluence Trello Power-Up - Cloud - https://marketplace.atlassian.com/apps/1216623/confluence-trello-power-up?hosting=cloud
-Confluence recent edits overview - Cloud - https://marketplace.atlassian.com/apps/1224758/confluence-recent-edits-overview?hosting=cloud
 Content Authorization Targets
 Content authorization vulnerabilities affecting only the in-browser player
 ContentCal
 Contentsquare SDK (cf : Program Description)
-Continuous Plugin Deployment for Bamboo - Server - https://marketplace.atlassian.com/apps/602870/continuous-plugin-deployment-for-bamboo?hosting=server
 Copilot
 Copilot Chat on dotcom
 Copilot for Business
-Copy Source for Fisheye and Crucible - Server - https://marketplace.atlassian.com/apps/1215624/copy-source-for-fisheye-and-crucible?hosting=server
-Copy Space for Confluence - Server - https://marketplace.atlassian.com/apps/212/copy-space-for-confluence?hosting=server
 Core Android App
 Core Assets
 Core Browser Extension 
@@ -1613,16 +1529,12 @@ CosmWasm
 Cosmos SDK
 CounterAct 8.4
 Creative Cloud Desktop Application
-Crowd
 CrowdStrike public infrastructure
 Crowdsignal
-Crucible
-Crucible build status - Server - https://marketplace.atlassian.com/apps/1224728/crucible-build-status?hosting=server
 Crypto.com Exchange APIs that require an account
 Crypto.com Wallet Extension
 Crypto.com mobile app APIs that require an account
 Crypviser Network
-Custom Fields - https://trello.com/power-ups/56d5e249a98895a9797bebb9/custom-fields
 Customer connected domain (2)
 CyberGhost APIs
 CyberGhost PS3+PS4 apps
@@ -1631,25 +1543,15 @@ CyberGhost Xbox One + Xbox360 apps
 DS proxy (see https://github.com/demarches-simplifiees/ds_proxy)
 DSE, Opscenter
 DSP
-Dashcards  - https://trello.com/power-ups/6048e897c73d032a983e2a7c/dashcards
-Data Generator for Jira - Server - https://marketplace.atlassian.com/apps/1210725/data-generator-for-jira?hosting=server
 Data Loss Prevention (DLP)
 Data.lime.bike 
-Decisions Helper for Confluence - Cloud - https://marketplace.atlassian.com/apps/1226380/decisions-helper-for-confluence?hosting=cloud
-Delegated Directory Pruning for Crowd - Server - https://marketplace.atlassian.com/apps/1218630/delegated-directory-pruning-for-crowd?hosting=server
 Dependabot
-Dependency Graph Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1215979/dependency-graph-plugin-for-bamboo?hosting=server
 Desktop Client
 Desktop MFA for Windows
 Desktop MFA for macOS
-Developer Assistant for Confluence - Cloud - https://marketplace.atlassian.com/apps/1229446/developer-assistant-for-confluence?hosting=cloud
-Developer Assistant for Jira - Cloud - https://marketplace.atlassian.com/apps/1229343/developer-assistant-for-jira?hosting=cloud
 Digital Editions
 Dimension
 Direct Contracts
-Directory Scanning Plugin - Server - https://marketplace.atlassian.com/apps/30318/directory-scanning-plugin?hosting=server
-Disable Referer for Bitbucket Server - DataCenter - https://marketplace.atlassian.com/apps/1214351/disable-referer-for-bitbucket-server?hosting=datacenter
-Disable Referer for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1214351/disable-referer-for-bitbucket-server?hosting=server
 Discovered Leaked Credentials
 Distiller
 Dovecot IMAP Server and Pigeonhole SIEVE (see "Software packages" and "Source code")
@@ -1673,8 +1575,7 @@ Elastic Maps Server
 Elastic Package Registry
 Elastic Synthetics Monitoring
 Elasticsearch
-Embedded Marketplace for Confluence - Cloud - https://marketplace.atlassian.com/apps/1218875/embedded-marketplace-for-confluence?hosting=cloud
-Embedded Marketplace for Jira - Cloud - https://marketplace.atlassian.com/apps/1218864/embedded-marketplace-for-jira?hosting=cloud
+Employee accounts *.here.com
 Enclave server (please test on testnet only)
 Engadget
 Enjin - Ethereum ERC-1155 Contract
@@ -1682,11 +1583,9 @@ Enjin Blockchain
 Enjin Coin - Ethereum ERC-20 Contract
 Eno® Browser Extension
 Ensemble
-Entity Property Tool for Jira - Cloud - https://marketplace.atlassian.com/apps/1214509/entity-property-tool-for-jira?hosting=cloud
 EpicGamesLauncher.exe    
 EpicOnlineServices
 Etherspot SDK
-Evernote - https://trello.com/power-ups/55a5d915446f517774210003/evernote
 Exness Investor
 Exness Social Trading
 Exness Trade: Online Trading
@@ -1704,15 +1603,12 @@ ExpressVPN iOS application
 ExpressVPN macOS application
 External service data leakage 
 FIles.com REST API
-Fail Build Trigger for Bamboo - Server - https://marketplace.atlassian.com/apps/1215235/fail-build-trigger-for-bamboo?hosting=server
 Faucets
-Favorites Dialog for Confluence - Server - https://marketplace.atlassian.com/apps/1214046/favorites-dialog-for-confluence?hosting=server
 Figma Atlassian App
 Figma Desktop App
 Figma Slack App
 Figma for Microsoft Teams
 Figma iOS and Android apps
-File Tagging Plugin for Crucible - Server - https://marketplace.atlassian.com/apps/1211738/file-tagging-plugin-for-crucible?hosting=server
 Files.com Desktop Application for Windows or Mac
 Files.com SDK's
 Fing desktop
@@ -1722,13 +1618,12 @@ Finicity- Data Services
 Finicity- Open Banking Payment History application
 FireTV
 Firmware
-FishEye
 Flash Player
 Fleet Server
 Flex - Xfinity hardware and services
+Flurry
 Fonts
 Forge Platform
-Form macro builder for Confluence - Cloud - https://marketplace.atlassian.com/apps/1225664/form-macro-builder-for-confluence?hosting=cloud
 FortniteClient-Android-Shipping-arm64-es2.apk
 FortniteClient-Win64-Shipping.exe
 FortniteLauncher-Win64-Shipping.exe
@@ -1762,9 +1657,7 @@ Games Tier 2
 Gateway
 Gemini
 GenAI Apps under *.amazon.*
-Giphy - https://trello.com/power-ups/568c1415eeaeb62f5a43aa01/giphy
 Git Repositories (b2-sdk-java & B2 Command Line Tool)
-GitHub - https://trello.com/power-ups/55a5d916446f517774210004/github
 GitHub CLI
 GitHub CSP
 GitHub Desktop
@@ -1772,18 +1665,13 @@ GitHub Enterprise Cloud
 GitHub Enterprise Server
 GitHub Pages
 GitHub Production Credentials
-GitHub for Jira - Cloud - https://marketplace.atlassian.com/apps/1219592/github-for-jira?hosting=cloud
 GitHub for mobile
-GitHub webhooks for Fisheye - Server - https://marketplace.atlassian.com/apps/1223584/github-webhooks-for-fisheye?hosting=server
 GitLab and GitHub repos listed on this page
 GitLab for Jira Cloud
 Github findings
 GlotPress
 Go TTC
 Google Cloud Plateform Instances
-Google Drive - https://trello.com/power-ups/55a5d916446f517774210006/google-drive
-Google Drive for Confluence (Official) - Legacy Editor Only - Cloud - https://marketplace.atlassian.com/apps/1213092/google-drive-for-confluence-official-legacy-editor-only?hosting=cloud
-Google Hangouts - https://trello.com/power-ups/55a5d916446f517774210007/google-hangouts
 Google Play (com.expressvpn.vpn)
 Grafana Loki
 Grafana Mimir
@@ -1801,9 +1689,6 @@ H5G
 HEY.app
 HEY.exe
 HYPR Workforce Access.app
-Hackathon Workflow Alan - Cloud - https://marketplace.atlassian.com/apps/1227949/hackathon-workflow-alan?hosting=cloud
-Hackathon Workflow Alan - Data Center - https://marketplace.atlassian.com/apps/1227949/hackathon-workflow-alan?hosting=datacenter
-Hackathon for Jira - Cloud - https://marketplace.atlassian.com/apps/1214757/hackathon-for-jira?hosting=cloud
 Hardware
 Hardware found on https://www.ezviz.com/category/security-wifi-cameras
 Hardware found on https://www.ezviz.com/category/smart-home
@@ -1828,20 +1713,18 @@ ID 1634643482 - iOS App Bitexen Global
 IOS
 IOS App MEW wallet
 Ibotta App Data & Memory
-Icons for Jira - Server - https://marketplace.atlassian.com/apps/1214988/icons-for-jira?hosting=server
 Illustrator
-Image Paste for Fisheye/Crucible - Server - https://marketplace.atlassian.com/apps/1215192/image-paste-for-fisheye-crucible?hosting=server
 Images
 In Scope - Points only
 In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)
 InCopy
 InDesign
-Inbox Hook for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1211715/inbox-hook-for-bitbucket-server?hosting=server
 Indoor Cam
 Insight Android App
 Insight Cloud Portal
 Insight Managed Smart Cloud Wireless Access Point
 Insight iOS App
+Integration between client portal and Doccle
 Intellectual Property on Public Domains
 Intelligent Canvas
 Intercept X Endpoint
@@ -1850,50 +1733,9 @@ Internet.xfinity.com
 Interoperability Issue in OpenPGP.js
 IoS
 IoS App
-Ipython Notebook Viewer - Cloud - https://marketplace.atlassian.com/apps/1218117/ipython-notebook-viewer?hosting=cloud
-Issue Edit Notifications for Jira - Server - https://marketplace.atlassian.com/apps/1211504/issue-edit-notifications-for-jira?hosting=server
-JMeter Aggregator for Bamboo - Server - https://marketplace.atlassian.com/apps/5902/jmeter-aggregator-for-bamboo?hosting=server
 Java SDK
-JavaScript Charts for Jira Cloud - Cloud - https://marketplace.atlassian.com/apps/1214527/javascript-charts-for-jira-cloud?hosting=cloud
-Jenkins for Jira (official) - Cloud - https://marketplace.atlassian.com/apps/1227791/jenkins-for-jira-official?hosting=cloud
-Jenkins integration for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1222132/jenkins-integration-for-bitbucket-server?hosting=server
-Jet by Jira Align - Cloud - https://marketplace.atlassian.com/apps/1221602/jet-by-jira-align?hosting=cloud
-Jet by Jira Align - DataCenter - https://marketplace.atlassian.com/apps/1221602/jet-by-jira-align?hosting=datacenter
-Jet by Jira Align - Server - https://marketplace.atlassian.com/apps/1221602/jet-by-jira-align?hosting=server
 Jetpack
 Jira
-Jira - https://trello.com/power-ups/586be36326cc4c7e9f70beb3/jira
-Jira Align - https://trello.com/power-ups/5e3886cd2ae34410748d0d5b/jira-align-
-Jira Calendar Plugin - Server - https://marketplace.atlassian.com/apps/293/jira-calendar-plugin?hosting=server
-Jira Charting Plugin  - Server - https://marketplace.atlassian.com/apps/288/jira-charting-plugin?hosting=server
-Jira Cloud Migration Assistant - DataCenter - https://marketplace.atlassian.com/apps/1222010/jira-cloud-migration-assistant?hosting=datacenter
-Jira Cloud Migration Assistant - Server - https://marketplace.atlassian.com/apps/1222010/jira-cloud-migration-assistant?hosting=server
-Jira Cloud Mobile App for Android
-Jira Cloud Mobile App for iOS
-Jira Cloud Power-Up for Trello - Cloud - https://marketplace.atlassian.com/apps/1216850/jira-cloud-power-up-for-trello?hosting=cloud
-Jira Cloud for CRM (Official) - Cloud - https://marketplace.atlassian.com/apps/1217661/jira-cloud-for-crm-official?hosting=cloud
-Jira Cloud for Excel (official) - Cloud - https://marketplace.atlassian.com/apps/1221301/jira-cloud-for-excel-official?hosting=cloud
-Jira Cloud for Google Sheets (Official) - Cloud - https://marketplace.atlassian.com/apps/1220382/jira-cloud-for-google-sheets-official?hosting=cloud
-Jira Cloud for Microsoft Teams - Cloud - https://marketplace.atlassian.com/apps/1226478/jira-cloud-for-microsoft-teams-official?hosting=cloud
-Jira Cloud for Outlook (Official) - Cloud - https://marketplace.atlassian.com/apps/1220666/jira-cloud-for-outlook-official?hosting=cloud
-Jira Cloud for Slack (Official) - Cloud - https://marketplace.atlassian.com/apps/1216863/jira-cloud-for-slack-official?hosting=cloud&tab=overview
-Jira Cloud for Slack - Cloud - https://marketplace.atlassian.com/apps/1215948/jira-cloud-for-slack?hosting=cloud
-Jira Core Data Center
-Jira Data Center Mobile App for Android
-Jira Data Center Mobile App for iOS
-Jira Enterprise Scale Assessment Tool - DataCenter - https://marketplace.atlassian.com/apps/1227744/jira-enterprise-scale-assessment-tool?hosting=datacenter&tab=overview
-Jira Enterprise Scale Assessment Tool - Server - https://marketplace.atlassian.com/apps/1227744/jira-enterprise-scale-assessment-tool?hosting=server
-Jira Product Discovery
-Jira Server for Slack (Official) - DataCenter - https://marketplace.atlassian.com/apps/1220099/jira-server-for-slack-official?hosting=datacenter
-Jira Server for Slack (Official) - Server - https://marketplace.atlassian.com/apps/1220099/jira-server-for-slack-official?hosting=server
-Jira Service Management Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)
-Jira Service Management Data Center
-Jira Service Management Widget - Cloud - https://marketplace.atlassian.com/apps/1217230/jira-service-management-widget?hosting=cloud
-Jira Software Cloud (bugbounty-test-<bugcrowd-name>.atlassian.net)
-Jira Software Data Center
-Jira Trello Power-Up - Cloud - https://marketplace.atlassian.com/apps/1216625/jira-trello-power-up?hosting=cloud
-Jira Work Management Cloud formerly Jira Core (bugbounty-test-<bugcrowd-name>.atlassian.net)
-Jira to Jira Issue Copy - Server - https://marketplace.atlassian.com/apps/678725/jira-to-jira-issue-copy?hosting=server
 Kibana
 Kindle E-Reader
 Kohl’s entire public digital footprint that is not Out-Of-Scope(See list below)
@@ -1917,7 +1759,6 @@ Lending and Borrowing
 Lens Studio
 Lightroom
 Lightroom Classic
-List Limits Power-Up
 Livestream software (Producer, Studio)
 Load Balancing
 Localized airbnb sites listed at the link below:
@@ -1935,9 +1776,6 @@ Logitech Mice & Keyboards
 Logitech Options PC/MAC
 Logitech Sync
 Logstash
-Look and Feel for Bitbucket Server - Datacenter - https://marketplace.atlassian.com/apps/1212632/look-and-feel-for-bitbucket-server?hosting=datacenter
-Look and Feel for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1212632/look-and-feel-for-bitbucket-server?hosting=server
-Look and Feel for Fisheye and Crucible - Server - https://marketplace.atlassian.com/apps/1216128/look-and-feel-for-fisheye-and-crucible?hosting=server
 Loomi.tv
 Low Cost Access
 Low impact, individually exposed Google Docs with no common root cause (see “Publicly accessible Google Document or Drive Links” in the “Corporate Targets” section)
@@ -1957,7 +1795,6 @@ Magic Firewall
 Magic Transit
 Magic WAN
 Magic and Fortmatic Products
-MailChimp - https://trello.com/power-ups/55a5d917446f51777421000c/mailchimp
 Main website
 Makers
 Malicious or compromised gem
@@ -1975,7 +1812,6 @@ Malwarebytes Windows Firewall Control
 Malwarebytes for Mac
 Malwarebytes for Teams
 Malwarebytes for Windows
-Mandatory Reviewers for Crucible - Server - https://marketplace.atlassian.com/apps/1219472/mandatory-reviewers-for-crucible?hosting=server
 Marionnaud (subdomains)
 Marionnaud.Austria.Android
 Marionnaud.Austria.iOS
@@ -2008,17 +1844,9 @@ Mi TV
 Mi TV Box
 Mi/Redmi Phone
 Microsites
-Microsoft OneDrive for Business - Legacy Editor Only - Cloud - https://marketplace.atlassian.com/apps/1221882/microsoft-onedrive-for-business-legacy-editor-only?hosting=cloud
-Microsoft Teams Integration
-Microsoft Teams for Bitbucket Cloud - Cloud - https://marketplace.atlassian.com/apps/1218941/microsoft-teams-for-bitbucket-cloud?hosting=cloud
-Microsoft Teams for Confluence Cloud - Cloud - https://marketplace.atlassian.com/apps/1219516/microsoft-teams-for-confluence-cloud?hosting=cloud
-Microsoft Teams for Jira - DataCenter - https://marketplace.atlassian.com/apps/1217836/microsoft-teams-for-jira?hosting=datacenter
-Microsoft Teams for Jira - Server - https://marketplace.atlassian.com/apps/1217836/microsoft-teams-for-jira?hosting=server
 Miro SDK
 Mobile App
 Mobile Apps
-Mobile Connect Plugin for Jira - Server - https://marketplace.atlassian.com/apps/322837/mobile-connect-plugin-for-jira?hosting=server
-Mobile Plugin for Jira - DataCenter - https://marketplace.atlassian.com/apps/1220151/mobile-plugin-for-jira-data-center-and-server?hosting=datacenter
 MoneyBack.HongKong.Android
 MoneyBack.HongKong.iOS
 Moneyback (subdomains)
@@ -2036,7 +1864,6 @@ MongoDB Driver: PHP
 MongoDB Driver: Python
 MongoDB Driver: Ruby
 MongoDB Driver: Rust
-MongoDB Driver: Swift
 MongoDB Kafka Connector
 MongoDB Owned GitHub Repositories
 MongoDB Realm SDKs
@@ -2049,7 +1876,6 @@ Mozilla Ad Routing Service
 Mozilla VPN Clients
 Multi-factor Auth - Feature
 Multiplier 
-My Reminders for Jira - Cloud - https://marketplace.atlassian.com/apps/1212778/my-reminders-for-jira?hosting=cloud
 NFTs
 Native K8S workers and operator
 Netflix Gaming Target
@@ -2065,6 +1891,7 @@ Nighthawk iOS App
 Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
 Non-Core Assets
+Non-Core Grafana Plugins
 NordPass - Linux Executable
 NordPass - MacOS Executable
 NordPass - Windows Executable
@@ -2090,7 +1917,6 @@ Okta
 Okta On-Prem Agents ( AD, LDAP, RDP, IWA )
 Okta Verify (Windows)
 Omega
-OneDrive - https://trello.com/power-ups/5940440775fbe327abd3329f/onedrive
 Online Marketplace
 Open Source - Atlas
 Open Source - Consoleme
@@ -2104,9 +1930,6 @@ OpenAI API Keys
 OpenPGP Cert Directory Specification
 Opsgenie (Android)
 Opsgenie (IoS)
-Opsgenie - Cloud - https://marketplace.atlassian.com/apps/1222147/opsgenie?hosting=cloud
-Opsgenie Incident Timeline - Cloud - https://marketplace.atlassian.com/apps/1221251/opsgenie-incident-timeline?hosting=cloud
-Opsgenie Incident Timeline EU - Cloud - https://marketplace.atlassian.com/apps/1221312/opsgenie-incident-timeline-eu?hosting=cloud
 Orbi 
 Orbi Android App 
 Orbi iOS App 
@@ -2121,6 +1944,7 @@ Other Amazon Retail Assets (Please only actively test explicitly stated scope)
 Other Amazon Retail Mobile Apps (Please only actively test explicitly stated scope)
 Other Amazon Retail Sites (Please only actively test explicitly stated scope)
 Other Assets
+Other BMW Domains
 Other Dyson Assets
 Other Hardware Assets
 Other HubSpot-owned (sub)domains not listed as Out of Scope . Please make sure to exercise due diligence before testing. You must include proof that the subdomain is registered to HubSpot to be eligible for a reward.
@@ -2140,15 +1964,12 @@ PNS (subdomains)
 PNS.HongKong.Android
 PNS.HongKong.iOS
 PTaaS Reference
-Package Tracker - https://trello.com/power-ups/55a5d917446f51777421000d/package-tracker
 Packet Forward Middleware
 Password Sync for macOS
 PayFriends/PayAnyone Features
 PayPal SDK
 Peephole Cam
 Penny
-Permission Lockdown for Bitbucket Server - DataCenter - https://marketplace.atlassian.com/apps/1217941/permission-lockdown-for-bitbucket-server?hosting=datacenter
-Permission Lockdown for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1217941/permission-lockdown-for-bitbucket-server?hosting=server
 Photoshop
 Platform Core API
 PlayStation 4
@@ -2163,18 +1984,11 @@ Polygon Mainnet Voter
 PoolStake 
 PoolStakeFactory 
 PowerDNS authoritative server, recursor and DNSdist (see "Software packages" and "Source-code")
-Pre-Post Build Command Runner - Server - https://marketplace.atlassian.com/apps/5581/pre-post-build-command-runner?hosting=server
-Predator Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1212736/predator-plugin-for-bamboo?hosting=server
 Prelude
 Premiere Elements
 Premiere Pro
 Premiere Rush
 Presentation Remotes
-Previous/next navigation - Cloud - https://marketplace.atlassian.com/apps/1223382/previous-next-navigation?hosting=cloud
-ProForma Lite: Forms & Checklists - Datacenter - https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?hosting=datacenter
-ProForma Lite: Forms & Checklists - Server - https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?hosting=server
-ProForma: Forms & Checklist for Jira - Datacenter - https://marketplace.atlassian.com/apps/1215833/proforma-forms-checklist-for-jira?hosting=datacenter
-ProForma: Forms & Checklist for Jira - Server - https://marketplace.atlassian.com/apps/1215833/proforma-forms-checklist-for-jira?hosting=server
 Prod BTC Bridge Enclave Address: Avalanche
 Prod BTC Bridge Enclave Address: Bitcoin
 Prod EVM Bridge Enclave Address: Avalanche
@@ -2206,43 +2020,39 @@ Prod contract address: WOO.e
 Prod contract address: YFI.e
 Prod contract address: ZRX.e
 Product Delivery
-Project transfer for Crucible - Server - https://marketplace.atlassian.com/apps/1221227/project-transfer-for-crucible?hosting=server
 Protocol of the Swiss Post Voting System
 Public Others Target
-Questions for Confluence - Cloud - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=cloud
-Questions for Confluence - DataCenter - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=datacenter
-Questions for Confluence - Server - https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=server
-Queue Priority Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1216287/queue-priority-plugin-for-bamboo?hosting=server
 RYOT
 React Native SDK
-Read Me - https://trello.com/power-ups/5a2de0c41ae4a1537bb0055d/read-me
 Recon Data
-Reconcile unknown attachments - Data Center - https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hosting=datacenter
-Reconcile unknown attachments - Server - https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hosting=server
-Release Plugin for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1218118/release-plugin-for-bitbucket-server?hosting=server
-Release Report for Fisheye - Server - https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
 Remaining functions
-Repository QuickAdd for Fisheye/Crucible - Server - https://marketplace.atlassian.com/apps/1212100/repository-quickadd-for-fisheye-crucible?hosting=server
 Researcher owned WHMCS Instance
-Review Creator for Fisheye - Server - https://marketplace.atlassian.com/apps/14896/review-creator-for-fisheye?hosting=server
-Reviewer Suggester for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1211619/reviewer-suggester-for-bitbucket-server?hosting=server
-Rich Text Gadget for Jira - Cloud - https://marketplace.atlassian.com/apps/1214632/rich-text-gadget-for-jira?hosting=cloud
 Ring Alarm
 Ring Smart Lighting Bridge
 Roblox Client
 Roblox Engine
 Roblox Studio
 Rockstar Games Launcher
-Rovo
-SBT Task Plugin for Bamboo - Server - https://marketplace.atlassian.com/apps/1214713/sbt-task-plugin-for-bamboo?hosting=server
+Rust SDK
+SAML request from eloket towards the smart meter platform
+SAP Business Network for Logistics	
+SAP Cloud ALM
+SAP Continuous Integration and Delivery
+SAP Customer Data Cloud portfolio from Gigya
+SAP Enable Now
+SAP Integrated Business Planning for Supply Chain
+SAP Order Management for Sourcing and Availability
+SAP Order Management foundation
+SAP Risk and Assurance Management
+SAP S/4HANA Cloud Private Edition
+SAP S/4HANA Cloud Public Edition
+SAP S/4HANA migration cockpit
+SAP Signavio
+SAP SuccessFactors
 SHA1-CD
 SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope
-SSL for Jira - Server - https://marketplace.atlassian.com/apps/1211087/ssl-for-jira?hosting=server
 SSL/TLS
-SSO for Atlassian Server and Data Center - DataCenter - https://marketplace.atlassian.com/apps/1216096/sso-for-atlassian-server-and-data-center?hosting=datacenter
-SSO for Atlassian Server and Data Center - Server - https://marketplace.atlassian.com/apps/1216096/sso-for-atlassian-server-and-data-center?hosting=server
 SSO_Saml_connector
-Salesforce - https://trello.com/power-ups/55a5d917446f517774210009/salesforce
 Scanwatch
 Scanwatch 2
 Scanwatch Light
@@ -2254,6 +2064,7 @@ Security Vulnerability in OpenPGP.js's high-level API
 Security Vulnerability in the OpenPGP Standard
 Self Register Account on T-Mobile Microsoft Entra ID
 Sequoia git Specification
+Services
 Shared OpenPGP Certificate Directory
 Shido Network - Beta Testnet
 Shopify Developed Apps
@@ -2267,7 +2078,6 @@ Skyscanner Android App
 Skyscanner Android app
 Skyscanner iOS App
 Skyscanner iOS app
-Slack - https://trello.com/power-ups/55a5d917446f51777421000a/slack
 Slack Desktop Application
 Smart Contract - Smart Contract: Polygon Router SDK 
 Smart Contract - Smart Contract: Polygon Staking 
@@ -2280,7 +2090,6 @@ Software
 Software Supply Chain
 Sonantic
 Source Code
-Sourcetree for macOS and Windows (https://www.sourcetreeapp.com/)
 SpaceX and Starlink assets (target information and rewards detailed above on the brief)
 Special Conditions
 Special scenarios (see description)
@@ -2289,19 +2098,13 @@ Specific scenarios (see program description)
 Spectrum
 Spotify SDKs
 Spotify desktop application (Windows and Mac)
-Spreadsheets for Jira Cloud - Cloud - https://marketplace.atlassian.com/apps/1220711/spreadsheets-for-jira-cloud?hosting=cloud
 Square Register
 Square Terminal
 Staging, QA, Dev, and Test Environments
 Standalone Chrome extension
 Status Smart Contracts
-Statuspage for Jira - Cloud - https://marketplace.atlassian.com/apps/1219451/statuspage-for-jira?hosting=cloud
-Statuspage for Jira Service Management - Cloud - https://marketplace.atlassian.com/apps/1216079/statuspage-for-jira-service-management?hosting=cloud
-Statuspage for Jira Service Management - DataCenter - https://marketplace.atlassian.com/apps/1216079/statuspage-for-jira-service-management?hosting=datacenter
-Statuspage for Jira Service Management - Server - https://marketplace.atlassian.com/apps/1216079/statuspage-for-jira-service-management?hosting=server
 Steam Client
 Steam Servers
-Sticker Printer for Jira - Cloud - https://marketplace.atlassian.com/apps/1222124/sticker-printer-for-jira?hosting=cloud
 Stickup Cam
 Stream
 Streamlabs Desktop Application PC/MAC
@@ -2335,7 +2138,6 @@ Superdrug (subdomains)
 Superdrug.App.Android
 Superdrug.App.IOS
 Superdrug.Healthera.App.Android
-SurveyMonkey - https://trello.com/power-ups/568c143d95adcd7308cbc3fb/surveymonkey
 System Specification
 T&P Servers
 TTC Connect
@@ -2349,12 +2151,10 @@ TW Media: News
 TW Media: Stock
 TW eCommerce: Auctions
 TW eCommerce: Shopping
+TW eCommerce: Store
 TW eCommerce: Used Car
 Tablets
 Tacsk.fuib.com
-Team Calendars for Confluence - Cloud - https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=cloud
-Team Calendars for Confluence - DataCenter - https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=datacenter
-Team Calendars for Confluence - Server - https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=server
 TechCrunch
 Techcrunch
 Ternoa Indexer
@@ -2384,38 +2184,27 @@ Third Party Snaps
 Third Party Targets
 ThousandEyes Endpoint Agent 
 ThousandEyes Enterprise Agent
-Thready - Give Tomcat threads a name - Server - https://marketplace.atlassian.com/apps/1214899/thready-give-tomcat-threads-a-name?hosting=server
 Tidal Client for Android
 Tidal Client for iOS
 Tidal Official Clients (e.g. Sonos integration, Tesla integration, etc.)
 Tier 1
+Tier 1 subdomains
 Tier 2
+Tier 2 subdomains
+Tier 3 subdomains
 Tier A - Core Assets
 Tier B - Non Core (Bitmoji, Playcanvas)
 Tier1
 Tier2
-Toolkit Plugin for Jira - Server - https://marketplace.atlassian.com/apps/5142/toolkit-plugin-for-jira?hosting=server
 Tor
 Tor Browser
-Training for Jira - Cloud - https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=cloud
-Training for Jira - DataCenter - https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=datacenter
-Training for Jira - Server - https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=server
 Trekpleister (subdomains)
-Trello Connector for Jira Server - Server - https://marketplace.atlassian.com/apps/1218011/trello-connector-for-jira-server?hosting=server
 Trello Desktop Client
 Trello Mobile App for Android
 Trello Mobile App for iOS
 Trello Third Party Powerups
 Tripadvisor Android App
 Tripadvisor iOS App
-Troubleshooting and Support - Bamboo - Data Center - https://marketplace.atlassian.com/apps/1217745/troubleshooting-and-support-bamboo?hosting=datacenter
-Troubleshooting and Support - Bamboo - Server - https://marketplace.atlassian.com/apps/1217745/troubleshooting-and-support-bamboo?hosting=server
-Troubleshooting and Support - Confluence - DataCenter - https://marketplace.atlassian.com/apps/1217697/troubleshooting-and-support-confluence?hosting=datacenter
-Troubleshooting and Support - Confluence - Server - https://marketplace.atlassian.com/apps/1217697/troubleshooting-and-support-confluence?hosting=server
-Troubleshooting and Support - Crowd - Server - https://marketplace.atlassian.com/apps/1221430/troubleshooting-and-support-crowd?hosting=server
-Troubleshooting and Support - FeCru - Server - https://marketplace.atlassian.com/apps/1217747/troubleshooting-and-support-fecru?hosting=server
-Troubleshooting and Support - Jira - DataCenter - https://marketplace.atlassian.com/apps/1217696/troubleshooting-and-support-jira?hosting=datacenter
-Troubleshooting and Support - Jira - Server - https://marketplace.atlassian.com/apps/1217696/troubleshooting-and-support-jira?hosting=server
 TrueLayer for Magento (Magento plugin)
 TrueLayer for WooCommerce (WordPress plugin)
 Trustwallet Android App
@@ -2423,7 +2212,6 @@ Trustwallet Chrome Extension
 Trustwallet iOS App
 Turnstile
 Twilio APIs
-Twitter - https://trello.com/power-ups/55a5d917446f51777421000b/twitter
 UCRM
 UFiber
 UID
@@ -2452,7 +2240,6 @@ Upwork - api.upwork.com/graphql
 Upwork - iOS Application
 Upwork Dash Messenger Desktop Version (www.upwork.com/downloads)
 User Dashboard  (see program description for github link)
-VFS for Git for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1217957/vfs-for-git-for-bitbucket-server?hosting=server
 VHX Branded Customer Android Apps
 VHX Branded Customer Roku Apps
 VHX Branded Customer iOS Apps
@@ -2460,7 +2247,6 @@ VIP191
 VPN
 VPN servers
 VPN: vpn.monash.edu
-Variable tasks for Bamboo - Server - https://marketplace.atlassian.com/apps/1212549/variable-tasks-for-bamboo?hosting=server
 Vectorize
 Vehicle Head Units, TPMS sensors, remote keyless entry, and any other system that is present in a hardware product that you own or are authorized to test against
 Video Conferencing Products
@@ -2468,9 +2254,9 @@ Video Doorbell
 Virtual Office Desktop
 Virtualisation layer
 Voice - Hardware and service
-Voting Power-Up
 Vox Cinemas Android
 Vox Cinemas iOS
+Vulnerabilities on other endpoints that impact the PvP context in games
 Vulnerability & Patch Management
 WARP Mobile Apps
 WARP desktop client
@@ -2502,12 +2288,10 @@ Watsons.Turkey.Android
 Watsons.Turkey.iOS
 Web
 Web Playback SDK
-Web Post Hooks for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1211539/web-post-hooks-for-bitbucket-server?hosting=server
 Web SDK
 Web of Trust Specification
 Web3 Smart Contract
 Web3 Smart Contracts
-Who's Looking for Jira Cloud - Cloud - https://marketplace.atlassian.com/apps/1211596/whos-looking-for-jira-cloud?hosting=cloud
 Wickr Me Android
 Wickr Me Linux
 Wickr Me OS X
@@ -2533,7 +2317,6 @@ WordPress.com VIP
 Workers
 Workers AI
 Workers KV
-Workflow Screenshot for Jira - Server - https://marketplace.atlassian.com/apps/1215704/workflow-screenshot-for-jira?hosting=server
 Workfront Outlook Plugin
 Workstation MFA (WMFA)
 Wyze Cam V3
@@ -2541,7 +2324,6 @@ XD
 XG Firewall
 XG Firewall - Pre-auth RCE
 XMP Toolkit
-Xcode for Bitbucket Server - Server - https://marketplace.atlassian.com/apps/1219105/xcode-for-bitbucket-server?hosting=server
 Xfinity Android mobile app
 Xfinity Home Hardware (items listed below in brief)
 Xfinity Home cameras
@@ -2576,8 +2358,8 @@ Yield Farming
 Yoti Password Manager browser extension
 Yoti liveness detection campaign
 Your Own GitLab Instance
-Zendesk - https://trello.com/power-ups/56940ede94fd60cf95f7ce6a/zendesk
 Zero days that affect Intigriti or participating customers (listed below)
+[nl|be].vidaxl.be
 [yourstore].company.site
 a.root-servers.net (DNS service; DNS related)
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
@@ -2586,6 +2368,11 @@ a5s.hackerone-ext-content.com
 ab-platform-api.eu-east-1.indriverapp.com
 ab2b0c50cdc7b445391f99d4957850c5-cd4ccfdb37dfafad.elb.us-east-1.amazonaws.com
 ablink.info.remitly.com
+abonnement.demorgen.be
+abonnement.humo.be
+abonnement.parool.nl
+abonnement.trouw.nl
+abonnement.volkskrant.nl
 about.gitlab.com
 academy-outbound-ads.tiktok.com
 academy.databricks.com
@@ -2626,6 +2413,8 @@ accounts.stage.evernote.com
 accountsettings.connect.identity.stagaws.visma.com
 acrobat.adobe.com
 acrobatoauth.adobe.com
+activesync-ws.uzleuven.be
+activesync.uzleuven.be
 activities.marriott.com
 adblocking.clario.co
 addons.allizom.org
@@ -2664,6 +2453,7 @@ advisories.gitlab.com
 advocates.databricks.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
 aed.arubanetworks.com
+aff.capital.com
 affiliate-id.tokopedia.com
 agents.tasheer.com
 aggregator.etoro.com
@@ -2712,7 +2502,9 @@ api-polygon-tokens.polygon.technology/
 api-saas.dana.id
 api-sandbox.gocardless.com
 api-sandbox.uphold.com
+api-sandbox.venly.market
 api-staging.airtable.com
+api-staging.venly.market
 api-v2.frame.io
 api-wallet-sandbox.venly.io
 api-wallet.venly.io
@@ -2724,6 +2516,7 @@ api.airbnb.com
 api.alasco.de
 api.amazonalexa.com/*
 api.arkane.network
+api.arkane.network 
 api.atg.se
 api.au.frontegg.com
 api.avax-test.network
@@ -2752,8 +2545,8 @@ api.data.gov
 api.deezer.com
 api.deriv.com
 api.dex-trade.com
-api.digital.delen.be
-api.digital.delen.lu
+api.digital.delen.be 
+api.digital.delen.lu 
 api.digitalocean.com
 api.direct.playstation.com
 api.doppler.com
@@ -2802,6 +2595,7 @@ api.gx.games/gxc
 api.gx.games/profile
 api.gx.games/session
 api.hackerone.com
+api.home.stag.visma.com
 api.iciparisxl.be
 api.iciparisxl.lu
 api.iciparisxl.nl
@@ -2821,6 +2615,7 @@ api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
 api.localizestaging.com
+api.maakafspraak.karwei.nl and maakafspraak.karwei.nl
 api.magic.link
 api.mapbox.com
 api.marionnaud.at
@@ -2878,6 +2673,7 @@ api.unleashed.be
 api.uphold.com
 api.upwork.com/graphql
 api.us.veriff.me
+api.venly.market
 api.veriff.me
 api.vhx.tv
 api.vidaxl.com
@@ -2911,14 +2707,15 @@ apis.mail.yahoo.com
 apix.vodafone.om
 app-pwn.intigriti.rocks
 app.alasco.de
+app.arkane.network 
 app.avtoelon.uz
 app.chime.com
 app.circle.com
 app.command.cysiv.com
 app.dashlane.com
-app.delen.be
-app.delen.ch
-app.delen.lu
+app.delen.be 
+app.delen.ch 
+app.delen.lu 
 app.deriv.com
 app.drogas.lv
 app.dynamic-preprod.xyz
@@ -2963,7 +2760,6 @@ app.mona.co
 app.netlify.com
 app.nl.socialdeal
 app.nordpass.com
-app.opsgenie.com
 app.pullrequest.com
 app.quovo.com
 app.recordedfuture.com
@@ -2998,10 +2794,12 @@ apps.nextcloud.com
 apps.portofantwerp.com
 apps.portofantwerpbruges.com
 apps://itunes.apple.com/app/1486151349
+apptec.uzleuven.be
 aqtooling.com
 aquiris.com.br
 aquiris.studio
 aquiristech.com
+ar.vidaxl.sa
 ar.vidaxl.sa.com
 argocd.indrive.dev
 arrive-server.shopifycloud.com
@@ -3015,6 +2813,7 @@ ase.arubanetworks.com
 asiointi.lahitapiola.fi
 ask.khealth.com
 asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
+assets*.uzleuven.be
 assets.adobe.com
 assets.airbnb.com
 assets.hyatt.com
@@ -3031,8 +2830,8 @@ aus5.mozilla.org
 auth.23andme.com
 auth.bittrex.com
 auth.crypto.com
-auth.digital.delen.be
-auth.digital.delen.lu
+auth.digital.delen.be 
+auth.digital.delen.lu 
 auth.indrive.tech
 auth.magic.link
 auth.monespacesante.fr
@@ -3050,11 +2849,11 @@ auth4-noneu.truecaller.com
 authz.workbox.dk
 autocomplete.booking.com
 autodiscover.uzleuven.be
+autointerface-embeddable-stage.maventa.com
 autointerface.stag.visma.net
 autoupdateapi.lansweeper.com
 avtoelon.uz
 aw.visa.com
-aweb.suivo.com
 aws.indrive.tech
 ax-stage.maventa.com
 b2b.tvgnetwork.com
@@ -3065,6 +2864,7 @@ backstage.io
 backup.truecaller.com
 badoo.com
 badoocdn.com
+bahninfrastruktur.sbb.ch
 bal.nba.com
 balance-api.polygon.technology/
 ballistic.com
@@ -3075,7 +2875,10 @@ basicattentiontoken.org
 batchlogging4.truecaller.com
 battles.tv
 bb.visa.com
+bbweditor.bpost.be
 bd.visa.com
+be.bpost.mobilecard
+be.bpost.mybpost
 be.delen.digital
 be.gamma.app.android
 be.nexuzhealth.mobile.cpv
@@ -3088,11 +2891,13 @@ behance.net
 bestfiends.com
 beta-cloud.acronis.com
 beta.rarible.com
+beta.sbb.ch
 bff.ketnet.be
 bigcommerce-adapter.judge.me
 billing-pci.etoro.com
 billing.etoro.com
 billingsupport.chaturbate.com
+bimchange.sbb.ch
 bioid-management.app
 biometservices.com
 bitso.com
@@ -3133,6 +2938,9 @@ bookus.expediacruises.com
 booth.pm
 boundary.ic0.app
 bounty-node.rsk.co
+bpost Parcel Lockers
+bpost parcel lockers
+bpost4me.be
 bq.visa.com
 brave.com
 buckingfuggy.com
@@ -3146,15 +2954,18 @@ bugcrowd-pam-###.pam.oktapreview.com
 bugzilla.mozilla.org
 builder.hostinger.com
 building-blocks.com
+building-blocks.com/*
 builds-auckland.ninja.kiwi
 bullsheet.me
 business.booking.com/
 business.kayak.com
 business.kinepolis.be
+business.kinepolis.be/
 business.kinepolis.lu
 business.kinepolis.nl
 business.linkedin.com
 business.reddithelp.com
+business.sbb.ch
 business.snapchat.com
 business.tiktok.com
 business.truecaller.com
@@ -3178,6 +2989,7 @@ capturingreality.com
 card.starbucks.com.sg
 cardpayments.remitly.io
 cards.remitly.io
+career.bpost.be
 careers.booking.com
 careers.fortmatic.com
 careers.marriott.com
@@ -3205,6 +3017,8 @@ cdn.plaid.com
 cdna.lystit.com
 cds.vrt.radio
 cfapi.voikukka.fi
+ch.sbb.mobile.android.b2c
+ch.sbb.mobile.android.preview
 chain.link
 chainstack.com
 channelstore.roku.com/details/48061/vhx
@@ -3215,6 +3029,7 @@ chat.booking.com
 chat.clario.co
 chatdate.app
 chaturbate.com
+checkout.cmpayments.com
 checkout.rapyd.net
 checkout.razorpay.com
 checkout.vimeo.com
@@ -3247,10 +3062,12 @@ cmcom.atlassian.net
 cms.monespacesante.fr
 cms.nba.com
 cms.woger-cdn.com
+cms.woger-cdn.com/
 co.mona.android
 co.tide
 co.tide.tideplatform.in
 co.uk.getmondo
+coaching-api-rac.r10.sentiance.com
 coban.pixiv.net
 codacontent.io
 codahosted.io
@@ -3327,6 +3144,7 @@ com.bumblebff.app
 com.capital.trading
 com.cheaptickets
 com.clubhouse.android
+com.cm.cashregister
 com.coinbase.android
 com.coinbase.ios
 com.coinbase.wallite
@@ -3336,6 +3154,7 @@ com.coinspot.app
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
+com.currency.exchange.prod2
 com.dashlane
 com.dashlane.dashlanephonefinal
 com.defi.wallet
@@ -3401,6 +3220,10 @@ com.hotornot.app
 com.hotwire.hotels
 com.hypr.one
 com.immediasemi.android.blink
+com.innogames.elvenar - Android
+com.innogames.enterprise.elvenar - iOS
+com.innogames.enterprise.iforge
+com.innogames.foeandroid
 com.instacart.client
 com.inthepocket.kinepolis
 com.iphone.workfront
@@ -3483,8 +3306,9 @@ com.scopely.yux
 com.secretkeylabs.xverse
 com.security.BatteryCam
 com.security.care
+com.sentiance.coaching.driving
 com.sentiance.journeys
-com.sentiance.journeys2
+com.sentiance.journeys2  
 com.shipt.groceries
 com.shipt.shopper
 com.skypicker.Skypicker
@@ -3513,12 +3337,14 @@ com.starbuckschina.mystarbucksmoments
 com.streamlabs
 com.streamlabs.slobsrc
 com.stripe.android.dashboard
+com.ticketflow.ticketscanner
 com.tideplatform.banking
 com.tiktok.tv
 com.tiktokshop.seller
 com.tinder
 com.tinyspeck.chatlyio
 com.tomorrowland.oneworldradio
+com.tomorrowland.tomorrowland
 com.toyopagroup.picaboo
 com.travelocity.android
 com.trendyol.milla.android
@@ -3600,7 +3426,7 @@ configure.mini.de
 confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
-connect.arkane.network
+connect.arkane.network 
 connect.arubanetworks.com
 connect.deezer.com
 connect.identity.stagaws.visma.com
@@ -3624,9 +3450,11 @@ content.ketnet.be
 contributor.stock.adobe.com
 controltower.sentiance.com
 core-api.nba.com
+core.periodandyear.stage.visma.com
 core.yoti.com
 cornershopapp.android
 corp.badoo.com
+corporate.bpost.be
 corporate.pineperks.in
 corporate.vidaxl.com
 cover-photos-us-east-2.hackerone-user-content.com
@@ -3653,6 +3481,7 @@ css-tricks.com
 ct.deriv.com
 ct.ninjakiwi.com
 ctf.hacker101.com
+currency.com/*
 custody.coinbase.com
 customer-academy.databricks.com
 customer-services.vidaxl.org
@@ -3660,6 +3489,7 @@ customer-sessions.arkoselabs.com
 customerevents.netflix.com
 customers.gitlab.com
 customers.mattermost.com
+customersupport.kinepolis.com
 customerupdates.nextcloud.com
 cw.visa.com
 cyberghost.app
@@ -3710,12 +3540,14 @@ demo.arkoselabs.com
 demo.cloud.databricks.com
 demo.dynamic.xyz
 demo.fareharbor.com
+demo.globalticket.com/*
 demo.plaid.com
 derivws.com
 design.gitlab.com
 design.ui.com
 dev-training.ui.com
 dev.takeaway.com/html/
+dev.uzleuven.be
 developer*.earlywarning.com
 developer.amazon.com/alexa/*
 developer.amazon.com/apps-and-games/*
@@ -3734,6 +3566,7 @@ developer.visa.com
 developer.zendesk.com
 developers.cloudways.com
 developers.reddit.com
+developers.sentiance.com
 developers.tiktok.com
 developers.veriff.me
 devhub.arubanetworks.com
@@ -3751,6 +3584,7 @@ direct-demo.currencycloud.com
 direct.playstation.com
 distribution-xml.booking.com
 dl.clario.co
+dmm.bpost.be
 dmxleo.com
 dns1.uzleuven.be
 dns2.uzleuven.be
@@ -3772,6 +3606,7 @@ dointernal.com
 donations.livestream.com
 doppler
 doppler.team
+dopplerdcmserver.uzleuven.be
 download.krisp.ai
 download.nextcloud.com
 downloads.datastax.com
@@ -3795,6 +3630,7 @@ ebsext.oft.hyatt.com
 ecosystem-api.polygon.technology
 ecosystem.polygon.technology
 ecrf.uzleuven.be
+ecrftest1.uzleuven.be
 edex.adobe.com
 edge-locations5.truecaller.com
 edge.lansweeper.com
@@ -3816,6 +3652,7 @@ eero Pro (2nd Generation)
 eets-sftp-listener.gamma.redoxstage.com
 eets.gamma.redoxstage.com
 effecthouse.tiktok.com
+egaming.kinepolis.es
 elastic.co credentials
 email-verification-eu.truecaller.com
 email-verification-noneu.truecaller.com
@@ -3823,6 +3660,7 @@ embed.tumblr.com
 embed.vhx.tv
 en.vidaxl.ae
 en.vidaxl.ca
+en.vidaxl.sa.com
 eng.magiceden.dev
 eng.magiceden.io
 enterprise-account-management-noneu.truecaller.com
@@ -3844,6 +3682,7 @@ erpx.unit4cloud.com/u4erx_pab_acp1
 erpx.unit4cloud.com/u4erx_pab_prev
 erpx.unit4cloud.com/u4erx_pab_prod
 errors.hackerone.net
+eshop.bpost.be
 etickets.infomaniak.com
 etorologsapi.etoro.com
 etoropartners.com
@@ -3852,7 +3691,10 @@ eu.remix.com
 eu1.badoo.com
 evening-earth.gamma.redoxstage.com
 event.clario.co
+events-sandbox.venly.market
+events-staging.venly.market
 events.launchdarkly.com
+events.venly.market
 ews-fusion.my.site.com
 exchange.adobe.com
 exchange.opera.com
@@ -3870,7 +3712,9 @@ ext-gw.lahitapiola.fi
 external-api.lime.bike
 external.indrive.dev
 external.logitech.com
+extranet-2.uzleuven.be
 extranet-asa.uzleuven.be
+extranet-test.uzleuven.be
 extranet.s-pankki.fi
 extranet.uzleuven.be
 extras-acc.landmarkcinemas.com
@@ -3888,6 +3732,7 @@ federalist.18f.gov
 federation.data.gov
 feedback-asia-south1.truecaller.com
 feedback.logitech.com
+ferrero.kinepolis.lu
 fetlife.com
 fhdn.fareharbor.com
 fhir.redoxengine.com
@@ -3897,6 +3742,8 @@ fi.reworks.redecor
 fi.spankki
 file-storage-front.eu-east-1.indriverapp.com
 file.larksuite.com
+files*.uzleuven.be
+files.uzleuven.be
 filter-store4-asia-south1.truecaller.com
 filter-store4.truecaller.com
 firefly.adobe.com
@@ -3957,6 +3804,7 @@ global.bittrex.com
 globaljourney.tomorrowland.com
 gnip.com
 gnocchi-www.buffalo-ggn.net
+go.capital.com
 goldmansachsindices.com
 gps.echosign.com
 gql.reddit.com
@@ -4004,6 +3852,7 @@ help.steampowered.com
 help.ui.com
 helpx.adobe.com
 hey-mail
+hey.bild.de
 hg.mozilla.org
 hilton.com
 hilton.io
@@ -4117,7 +3966,6 @@ http://www.register.com
 http://www.rei.com/learn/expert-advice
 http://www.shopmarriott.com
 http://www.whynot.com/
-https://*-prod.arlo.com
 https://0-2744452194.s3.nbg01.de.dracoon.io
 https://1shoppingcart.com
 https://28degreescard.com.au
@@ -4233,6 +4081,9 @@ https://api.openai.com
 https://api.optimizely.com/
 https://api.orderly.org/
 https://api.paymaya.com/
+https://api.personio.de
+https://api.personio.de/v2/webhooks
+https://api.personio.de/v2/webhooks/*
 https://api.planethoster.net
 https://api.pornhub.com/
 https://api.probit.com/api/
@@ -4304,6 +4155,7 @@ https://app.sendgrid.com/
 https://app.staging.luno.com/
 https://app.strattic.com
 https://app.thousandeyes.com/
+https://app.vidaxl.io/
 https://app.welcomesoftware.com/
 https://app.withings.com
 https://appgallery.huawei.com/#/app/C100570215
@@ -4442,6 +4294,7 @@ https://apps.facebook.com/pearls-peril
 https://apps.facebook.com/pokerheat
 https://apps.facebook.com/vegas_downtown_slots
 https://apps.yeswehack.com
+https://aquawardsoperateacc.water-link.be
 https://arbiscan.io/address/0x0E8A12e59C2c528333e84a12b0fA4B817A35909A
 https://arbiscan.io/address/0x316142C166AdA230D0aFAD9493ef4bF053289269
 https://arbiscan.io/address/0x41A00e3FbE7F479A99bA6822704d9c5dEB611F22
@@ -4462,7 +4315,6 @@ https://arbiscan.io/address/0xd3E1BDe4b4163c86B9b7668dE8Ae7618720dCa93
 https://arbiscan.io/address/0xd978bb7a7ae5b01116d1bd714fedd1b77ca9e75b
 https://arbiscan.io/address/0xdd4536dD9636564D891c919416880a3e250f975A
 https://arbiscan.io/address/0xeb0b9B5FFb763dD69440565F63c67f9695B7C3dA
-https://arlo-device.messaging.netgear.com
 https://artist.link
 https://asana.com
 https://asana.com/apps?category=made-by-asana
@@ -4477,9 +4329,10 @@ https://auth.foxy.io/
 https://auth.immutable.com
 https://auth.lastpass.com
 https://auth.opera.com
-https://auth.pdq.tools/
+https://auth.pdq.tools/ 
 https://auth.seek.com
 https://auth.wyze.com
+https://auth2.pdq.tools/
 https://authn.usaa.com/
 https://authy.com/download/
 https://autoupdate.geo.opera.com
@@ -4497,7 +4350,6 @@ https://basescan.org/address/0xa5d378c05192e3f1f365d6298921879c4d51c5a3
 https://basescan.org/address/0xd978bb7a7ae5b01116d1bd714fedd1b77ca9e75b
 https://basescan.org/address/0xdd4536dD9636564D891c919416880a3e250f975A
 https://bc.yieldstreet.net
-https://beta.arlo.com
 https://bigcommerce.com/blog
 https://bigcommerce.com/make-it-big
 https://billing.ring.com/*
@@ -4638,7 +4490,6 @@ https://coda.io/signup/email
 https://code.elementor.com/
 https://coinstore-openapi.github.io/en/#45fa4e00db
 https://comment-moderation-stats.20min.ch
-https://community.arlo.com
 https://community.cloud.databricks.com/
 https://compulsoryunits.monash.edu/
 https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
@@ -4652,6 +4503,7 @@ https://console.aiven.io/login
 https://console.delltechnologies.com/nav/administration
 https://console.delltechnologies.com/nav/billing
 https://console.delltechnologies.com/nav/invoice
+https://console.waylay.io
 https://consumer-sustainability.underarmour.com/en
 https://consumer.finicityreports.com
 https://content-server.ibotta.com/graphql
@@ -4660,6 +4512,7 @@ https://content.usaa.com
 https://contentcredentials.org/
 https://contrastsecurity.dev/
 https://coral.20min.ch/
+https://corporate.vidaxl.com/
 https://corporate.westernunion.com
 https://create.gx.games
 https://credit.pinelabs.com
@@ -4755,6 +4608,7 @@ https://datadome.co
 https://dataportal.originenergy.com.au
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
 https://dcfgatewaytst1.marriott.com/
+https://de.vidaxl.ch/
 https://dealer.prod.ps.axelspringer.de/api/v1/partners/{partnerId}/activation
 https://dealer.prod.ps.axelspringer.de/purchases/004/bild/*
 https://dealer.prod.ps.axelspringer.de/purchases/004/welt/*
@@ -4765,6 +4619,7 @@ https://depinscan.io/
 https://design.glassdoor.com/*
 https://desk-api-{region}.sendbird.com
 https://desktop.water-link.be/
+https://detect.pdq.tools/ 
 https://dev.init.capital/contract-addresses/blast
 https://dev.init.capital/contract-addresses/mantle
 https://dev.tutoring.classdojo.com
@@ -4809,7 +4664,6 @@ https://download.bkexer.xin/app/download/android/app-release.apk
 https://download.krisp.ai/mac
 https://download.krisp.ai/win
 https://download.opera.com
-https://downloads.arlo.com
 https://dropbox.com/dash/download
 https://dxc.episerver.net/ 
 https://ebanking.westernunionbank.com
@@ -4822,8 +4676,12 @@ https://eim.eu-west-2.outscale.com
 https://electroneum.com/
 https://elementor.com/
 https://emistores.pinelabs.com/
+https://en.vidaxl.ae/
 https://enterprise-demo.portswigger.net/
 https://equatorialguinea-evisa.com
+https://erpx.unit4cloud.com/u4erx_pab_acp1
+https://erpx.unit4cloud.com/u4erx_pab_prev
+https://erpx.unit4cloud.com/u4erx_pab_prod
 https://eshop.salt.ch
 https://etherscan.io/address/0x000000000000204327E6669f00901a57CE15aE15
 https://etherscan.io/address/0x000000000000a53f64b7bcf4cd59624943c43fc7
@@ -4949,12 +4807,15 @@ https://flags.expeng.optimizely.com
 https://flo.uri.sh
 https://flourish.studio/
 https://flow.opera.com
+https://fm.voiapp.io/login
 https://form.asana.com
 https://formative.eassessment.monash.edu/
 https://forms.apps.monash.edu/
 https://forum.newrelic.com
 https://foundation.westernunion.com
 https://foxycart-demo.foxycart.com/cart
+https://fr.vidaxl.be/
+https://fr.vidaxl.ch/
 https://fulcrom.finance
 https://futures.coinstore.com/api
 https://fw.ring.com/*
@@ -4963,6 +4824,8 @@ https://gaadmin.vfsglobal.com/DHAAppointmentAdmin
 https://gaadmin.vfsglobal.com/GAR1Ph1ApptAdmin/
 https://gaadmin.vfsglobal.com/Global-Admin/
 https://gaadmin.vfsglobal.com/GlobalAdmin/
+https://gammacademy.starringjane.com/
+https://gammacademy.starringjane.com/*
 https://gap.citizenportal-test.bugbounty.akinox.dev
 https://gate.sendbird.com
 https://gatewaydsapdev2.marriott.com/
@@ -5506,6 +5369,7 @@ https://iotexscout.io/
 https://iotube.org/
 https://ipfs-mainnet.trnnfr.com/
 https://iphone-xml.booking.com/json/
+https://is.vidaxl.is/
 https://itunes.apple.com/fr/app/blablacar-trusted-carpooling/id341329033?l=en&mt=8
 https://itunes.apple.com/gb/app/uconnect-live/id881830261?mt=8
 https://itunes.apple.com/pl/app/panda-uconnect/id1117321678?mt=8
@@ -5520,6 +5384,7 @@ https://jaguar.here.com
 https://jamaica.westernunion.com
 https://jointhemoment.net/
 https://jojo.exchange/
+https://journeys-api.sentiance.com/v2
 https://jp-api-staging.getmoneytree.com
 https://judge.me/reviews
 https://just-eat.es
@@ -5559,7 +5424,7 @@ https://legacy-blockexplorer.electroneum.com
 https://lego.yellowblocks.me/
 https://lensstudio.snapchat.com/api/
 https://letsexchange.io/
-https://library-staging.pdq.tools/
+https://library-staging.pdq.tools/ 
 https://library.elementor.com/
 https://link.swisstronik.com/04j
 https://link.swisstronik.com/486
@@ -5573,6 +5438,7 @@ https://link.x.immutable.com/
 https://linktr.ee
 https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
 https://linktree.com
+https://live-testing.pdq.com/
 https://liveassist.usaa.com/
 https://liveassist11.usaa.com/
 https://liveassist12.usaa.com/
@@ -5597,6 +5463,7 @@ https://m.thefork.com
 https://m.westernunion.com
 https://machinefi.com/
 https://maf-holding-prod.apigee.net
+https://mail.water-link.be
 https://manage.cic-bug-bounty.auth0app.com/
 https://manage.statuspage.io
 https://manager.trial.lsk.lightspeed.app/	
@@ -5912,12 +5779,13 @@ https://matrix.agent.tchap.gouv.fr
 https://matrix.e.tchap.gouv.fr
 https://matrix.i.tchap.gouv.fr
 https://mc.sendgrid.com/
-https://mcs.arlo.com
 https://mcssl.com
 https://mediaflows.cloudinary.com/
+https://meinkonto.bild.de/
 https://menulog.co.nz
 https://menulog.com.au
 https://meraki.cisco.com
+https://mercury-staging.pdq.tools/
 https://metamask-sdk-socket.metafi.codefi.network/
 https://metamask.github.io/phishing-warning/<vX.Y.Z>
 https://metrobyt-mobile.com
@@ -5947,14 +5815,12 @@ https://movieclub-int.kinepolis.com
 https://movienow-int.kinepolis.be/admin
 https://mstatic.usaa.com
 https://my.ampol.com.au/
-https://my.arlo.com
 https://my.ecwid.com
 https://my.electroneum.com/
 https://my.elementor.com/
 https://my.exness.com/pa/pim/manager
 https://my.exness.com/pa/socialtrading
 https://my.exness.com/webtrading/
-https://my.monash
 https://my.planethoster.com
 https://my.salt.ch
 https://my.sogexia.com
@@ -5962,7 +5828,6 @@ https://my.thesecurityteam.rocks
 https://my.thesecurityteam.rocks/
 https://my.wyze.com
 https://myaccount-staging.getmoneytree.com
-https://myapi.arlo.com
 https://myapp.monash.edu/
 https://mydesktop.usaa.com
 https://mylink.page
@@ -5979,6 +5844,7 @@ https://newrelic.com/
 https://newrelic.com/blog
 https://newsletter.thuisbezorgd.nl
 https://nice.wfmusaa.com
+https://nl.vidaxl.be/
 https://nns.ic0.app/
 https://node.e2ro.com/*
 https://nubank.com.br/
@@ -6061,6 +5927,7 @@ https://pentest-app.onetrust.com/
 https://peopleview.naspers.com
 https://performance.neogov.com
 https://performancemarketing.mastercard.com/portal/
+https://personio.de/login
 https://pg.paymaya.com
 https://pinepgconsole.in:9099
 https://pionex-doc.gitbook.io/apidocs/
@@ -6183,6 +6050,8 @@ https://play.google.com/store/apps/details?id=com.tmobile.tuesdays&hl=en_US&gl=U
 https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.trusteeplus
 https://play.google.com/store/apps/details?id=com.ua.shop&hl=en
+https://play.google.com/store/apps/details?id=com.uphold.card
+https://play.google.com/store/apps/details?id=com.uphold.wallet
 https://play.google.com/store/apps/details?id=com.usaa.mobile.android.usaa&hl=en
 https://play.google.com/store/apps/details?id=com.viator.mobile.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.westernunion.android.mtapp&hl=en_US&gl=US
@@ -6235,7 +6104,7 @@ https://polygonscan.com/address/0x9A1e1681f6D59Ca051776410465AfAda6384398f
 https://polygonscan.com/address/0xA8EF6FEa013034E62E2C4A9Ec1CDb059fE23Af33
 https://polygonscan.com/address/0xD3a69BfaC779AE0D97ae7c4f1Bb77d2Be6C2B943
 https://pornhub.mainhub.com
-https://portal-staging.pdq.tools/
+https://portal-staging.pdq.tools/ 
 https://portal.afterpay.com
 https://portal.australiansuper.com/
 https://portal.clearpay.co.uk
@@ -6260,6 +6129,7 @@ https://projects.epam.com
 https://public-ipfs-mainnet.ternoa.network
 https://public.je-apis.com
 https://public.thesecurityteam.rocks/resources/app/android/etnapp-5.2.2-staging.apk
+https://qa.vidaxl.io/
 https://rarible.com/
 https://rbo.raiffeisen.ua/
 https://rc.fstr.rocks
@@ -6343,6 +6213,7 @@ https://staging-prime.navan.com
 https://staging.coda.io/*
 https://staging.gearset.com/
 https://staging.luno.com/
+https://staging.vidaxl.io/
 https://standalone2.fuib.com
 https://start.1password.com
 https://start.atlassian.com
@@ -6454,6 +6325,7 @@ https://twilio.com/blog
 https://uae.voxcinemas.com/
 https://ui.com/distributors/
 https://ui.com/training/partners/
+https://uk.vidaxl.com.ua/
 https://uk.web.com
 https://ultramobile.com
 https://umiloans.com.au
@@ -6462,7 +6334,6 @@ https://unified.neogov.com
 https://unihub.monash.edu/
 https://unity3d.com/get-unity/download
 https://unity3d.com/get-unity/download/archive
-https://updates.arlo.com
 https://us.eufy.com/products/e8213181
 https://us.eufy.com/products/t8410121
 https://us.eufy.com/products/t88511d1
@@ -6479,6 +6350,7 @@ https://vfs.mioot.com/
 https://vfseu.mioot.com/
 https://viatorapi.viator.com/service/directory
 https://videoplayer.20min.ch
+https://vip-club.computerbild.de/
 https://virtuswap.io/
 https://vlagg.usaa.com
 https://vlapi.usaa.com
@@ -6493,11 +6365,13 @@ https://walletproxy.tapayments.com
 https://walletproxy1.tapayments.com
 https://walletproxy2.tapayments.com
 https://wbsapi.withings.net
+https://we-are-hiring.cdn.personio.de
 https://web.bitpanda.com
 https://web.raiffeisen.ua/
 https://web.teamviewer.com
 https://webmail.usaa.com
 https://webrtc.8x8.com/
+https://webwsp.aps.kuleuven.be
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
 https://westernunionbank.com
 https://widget.thefork.com
@@ -6530,7 +6404,6 @@ https://www.ankermake.com/products/m5?variant=42744298373269
 https://www.anytask.com/
 https://www.api.hpr.kiwai-normandie.fr/
 https://www.api.kiwai-normandie.fr
-https://www.arlo.com
 https://www.arubanetworks.com/products/networking/analytics-and-assurance/user-experience-insight-sensors/
 https://www.atlassian.com/enterprise/data-center/bitbucket
 https://www.atlassian.com/enterprise/data-center/confluence
@@ -6597,6 +6470,7 @@ https://www.demarches-simplifiees.fr/api/v2/graphql
 https://www.demarches-simplifiees.fr/graphql
 https://www.dermstore.com
 https://www.designify.com
+https://www.digitalocean.com/
 https://www.driveuconnect.com
 https://www.driveuconnect.eu
 https://www.drogas.lv/blog/
@@ -6605,6 +6479,7 @@ https://www.drogas.lv/ru/blog
 https://www.dropbox.com/capture
 https://www.dropbox.com/desktop
 https://www.dropbox.com/paper
+https://www.dropshippingxl.com
 https://www.epam.com/
 https://www.espaskincare.com/
 https://www.etsy.com
@@ -6696,7 +6571,6 @@ https://www.monashprofessional.edu.au/
 https://www.mybag.com/
 https://www.myvitamins.com/
 https://www.networksolutions.com
-https://www.npmjs.com/package/@forge/cli
 https://www.npmjs.com/package/@forge/cli	
 https://www.nuinvest.com.br/
 https://www.oculus.com/experiences/quest/2173678582678296
@@ -6787,8 +6661,10 @@ https://www.verisign.com
 https://www.vfsglobalservices-germany.com/Global-Appointment/
 https://www.vfsvisaservice.com/
 https://www.vfsvisaservice.com/IHC-SouthKorea-Appointment
+https://www.vidaxl.com.tr/
 https://www.vtcprodapi.maf.ae/svc/svcHifi.svc/SaveOCRReceipt
 https://www.water-link-jaarverslag.be
+https://www.water-link-pensioenfonds.be
 https://www.water-link.be
 https://www.waterstoring.be/
 https://www.web.com
@@ -6834,10 +6710,14 @@ https://wwws-staging.moneytree.jp/link/mobile/#/signup?client_id=38d99a6e8e9fc87
 https://xyzbmojn.net/
 https://yeswehack.com
 https://youcouldbe.com
+https://zabbix.intergamma.nl/
+https://zabbix.intergamma.nl/*
 hub-api-sandbox.remitly.io
 hub.myconnect.com.au
+hub.us.veriff.com
+hub.veriff.com
 hub.vroid.com
-hub.vznkul.be/*
+hub.vznkul.be/* 
 hub.vznkul.be/services/interhub/InterHubService
 hub.vznkul.be/services/intrahub/IntraHubService
 hub.yoti.com
@@ -6874,11 +6754,13 @@ identity.stage.vismaonline.com
 identity.yoti.com
 identityserver-acc.landmarkcinemas.com
 identityserver.landmarkcinemas.com
-idp-contact.nexuzhealth.be
+idp-mobile-play.uzleuven.be
 idp-mobile.nexuzhealth.be
+idp-myuz-play.uzleuven.be
 idp.fr.cloud.gov
 iframe.arkoselabs.com
 ifttt-adaptor.pub.kube.dm.gg
+images*.uzleuven.be
 images-asia-south1.truecaller.com
 images.truecaller.com
 imagine.magento.com
@@ -6927,6 +6809,7 @@ irccloud.com
 irclogs.wordpress.org
 iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
 is.vidaxl.is
+isa.uzleuven.be
 ispdesign.ui.com
 it.niedermann.owncloud.notes
 it.twsweb.Nextcloud
@@ -6935,12 +6818,14 @@ itv7.itv.com
 ius.ezvizlife.com
 ix2smbdyjt.infomaniak.site
 j.root-servers.net (DNS service; DNS related)
+jaguar.here.com
 jimmobile.be
 jira.grab.com
 jira.hyattdev.com
 jira.logitech.com
 jobs.kiwi.com
 jobs.marriott.com
+jobs.uzleuven.be
 journeys-2/id984087229?mt=8
 journeys-api.sentiance.com/v2
 jp.naver.line.android
@@ -6978,7 +6863,9 @@ krisha.kz
 krisp.ai
 kubernetes-csi.github.io
 kubernetes.io
+kumulus.uzleuven.be
 kuna.io
+kundenstimme.sbb.ch
 kws-companion/id1342124012
 kyc-onboarding.booking.com
 kyc-src.etoro.com
@@ -6990,6 +6877,7 @@ labs.data.gov
 labs.databricks.com
 ladex.exchange
 lando.services.mozilla.com
+landrover.here.com
 langflow.datastax.com
 langflow.org
 lark-frontier.byteoversea.com
@@ -7012,6 +6900,7 @@ linkpop.com
 links.rarible.com
 liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
+liquidfiletest.uzleuven.be
 lirportal.ripe.net
 lisasijoitus.lahitapiola.fi
 list-v2--netlify-plugins.netlify.app
@@ -7020,6 +6909,7 @@ lists.wordpress.org
 lite.qwant.com
 live-backstage.tiktok.com
 live-cf-vrt.akamaized.net
+live-cf.lwc.vrtcdn.be
 lms-stg-develop.eks-stg-use1.getaws.arubanetworks.com
 loanbuilder.com
 localizestaging.com
@@ -7035,9 +6925,9 @@ login-pabets.tvg.com
 login-test.portofantwerpbruges.com/poam/XUI/
 login.arkane.network
 login.cm.com
-login.delen.be
-login.delen.ch
-login.delen.lu
+login.delen.be 
+login.delen.ch 
+login.delen.lu 
 login.en.travelbrandsagent.com
 login.fr.cloud.gov
 login.fr.travelbrandsagent.com
@@ -7056,6 +6946,14 @@ login.tvg.com
 login.venly.io
 login.vrt.be
 login.www.vaxvacationaccess.com
+login2.ad.nl
+login2.demorgen.be
+login2.hln.be
+login2.humo.be
+login2.parool.nl
+login2.trouw.nl
+login2.volkskrant.nl
+login2.vtm.be
 logitech.zendesk.com
 logitechg.com.cn
 logitechgchallenge.com
@@ -7090,6 +6988,7 @@ magic.veriff.me
 magiceden.io
 magisto.com,www.magisto.com
 mail.infomaniak.com
+mail.uzleuven.be
 mailpoet.com
 mainnet-boot-0.ternoa.network
 mainnet-boot-1.ternoa.network
@@ -7099,7 +6998,6 @@ maintenance.logitech.com
 manage-sandbox.gocardless.com
 manage.blockscore.com
 manage.grab.co
-manage.statuspage.io
 manager.infomaniak.com/v3/*
 map.snapchat.com
 mapi.moneyback.com.hk
@@ -7126,6 +7024,8 @@ maximo-accpt.portofantwerp.com
 maximo-accpt.portofantwerpbruges.com
 maximo.portofantwerp.com
 maximo.portofantwerpbruges.com
+maxiresponse.bpost.be
+mdm.weareone.world
 mds.voiapp.io
 media-services-public.vrt.be
 media.drogas.lv
@@ -7136,7 +7036,7 @@ media.marionnaud.at
 media.marionnaud.ch
 media.marionnaud.fr
 media.marionnaud.it
-media.nexuzhealth.be/patient/
+media.nexuzhealth.be/patient/ 
 media.remitly.io
 media.superdrug.com
 media.theperfumeshop.com
@@ -7189,7 +7089,11 @@ middle-force.khealth.io
 mijn.gamma.be/*
 mijn.gamma.nl/*
 mijn.karwei.nl/*
+mijnacc.uzleuven.be
+mijnplanning.uzleuven.be
+mijnplanningtest.uzleuven.be
 mipartnerprivileges.marriott.com
+mirc.uzleuven.be
 miro.com
 mix-dev.monash.edu/*
 mix-qat.monash.edu/*
@@ -7201,7 +7105,6 @@ mobileapi.insightly.com
 mobileapi.lystit.com
 mobileapi.na1.insightly.com
 mobileapp.hyatt.com
-mobileapp.opsgenie.com
 mobilemarketing.adobe.com
 mobilevikings.be
 mod.reddit.com
@@ -7223,6 +7126,7 @@ mx2.uzleuven.be
 my-accpt.portofantwerp.com
 my-accpt.portofantwerpbruges.com
 my.account.sony.com
+my.bpost.be
 my.eurid.eu
 my.exness.com
 my.loanbuilder.com
@@ -7235,6 +7139,7 @@ my.pressable.com
 my.snapchat.com
 my.swiftfinancial.com
 my.tomorrowland.com
+myBMW and myMini Apps
 myaccount-hardening.dynatracelabs.com
 myaccount.ad.nl
 myaccount.demorgen.be
@@ -7332,12 +7237,14 @@ nextcloud/user_saml
 nextcloud/viewer
 nextcloud/workflow_script
 nexus.vidaxl.org
+nexus.vidaxl.org/
 nft.coinbase.com
 nft.io
 nicetryapril.na1.echosignsandbox.com
 ninja.kiwi
 ninjakiwi.com
 nl.gamma.app.android
+nl.gamma.verf
 nl.karwei.app.android
 nl.vidaxl.be
 nmtracking.netflix.com
@@ -7371,6 +7278,7 @@ onboarding-*.cloud.com
 onboarding-api.truelayer.com
 onboarding.cloud.com
 onboarding.greenhouse.io
+ondemand-cf.lwc.vrtcdn.be
 ondemand-vrt.akamaized.net
 one-world-radio-tomorrowland/id1485778856
 one.airbnb.com
@@ -7390,7 +7298,6 @@ openid-noneu.truecaller.com
 openidconnect.net	
 oprc.portofantwerpbruges.com
 ops.lime.bike
-opsgenie-bamboo-plugin - Server - https://marketplace.atlassian.com/apps/1224300/opsgenie-bamboo-plugin?hosting=server
 opslogin.fr.cloud.gov
 opt-out-noneu.truecaller.com
 orc-xfi.com
@@ -7400,6 +7307,7 @@ org.qwant.com
 org.toshi
 org.toshi.distribution
 org.vom8x8.sipua
+osp.bpost.be
 otp-callback-eu.truecaller.com
 otp-callback-noneu.truecaller.com
 outage.logitech.com
@@ -7438,6 +7346,7 @@ pay.truelayer[-sandbox].com
 paybridge.booking.com
 paydirect.truelayer[-sandbox].com
 payment.backend-capital.com
+payment.backend.currency.com
 payment.deezer.com
 payment.pixiv.net
 payment.truelayer[-sandbox].com
@@ -7476,6 +7385,7 @@ platform.cloudways.com
 platform.enjin.io
 platform.remix.com
 platformtest.cat.earlywarning.io
+play.bild.de
 play.google.com/store/apps/details?id=com.crowdstrike.falconmobile
 play.google.com/store/apps/details?id=fr.assurancemaladie.monespacesante&showAllReviews=true (Android)
 playartifact.com
@@ -7499,6 +7409,7 @@ portfolio.adobe.com
 portfolio.metamask.io
 portswigger.net
 prd-ring-web-us.prd.rings.solutions
+prddnighting01.uzleuven.be
 prddsplunkhf.uzleuven.be
 premium-eu.truecaller.com
 premium-noneu.truecaller.com
@@ -7528,6 +7439,7 @@ pro-api.coinmarketcap.com
 pro.coinbase.com
 pro.coinmarketcap.com
 pro.doctolib.(fr|de|it) (see "Free features for healthcare professionals"))
+procuration.bpost.be
 prod-*.nu.com.co
 prod-*.nu.com.mx
 prod-*.nubank.com.br
@@ -7546,9 +7458,11 @@ profiler.firefox.com
 projects.nextcloud.com
 prometheus.fr.cloud.gov
 promos.tvg.com
+protest.voiapp.io
 prow.k8s.io
 proxy-production.lime.bike
 public.hyatt.com
+pudo-ac01.bpost.cloud
 push-callerid-eu.truecaller.com
 push-callerid-noneu.truecaller.com
 push-d-gw.cloud.etoro.com
@@ -7571,6 +7485,7 @@ qa-db.vidaxl.io
 qa.vidaxl.io
 qa1-apigateway.vidaxl.io
 qm-*.8x8.com
+quickstamp-gb.bpost.be
 qwantjunior.com
 r.etoro.com
 random.uzleuven.be/random/
@@ -7580,10 +7495,13 @@ rates.rewire.com
 read.amazon.com
 readonly.fareharbor.com
 recommended-contacts-noneu.truecaller.com
+recon.periodandyear.stage.visma.com
 redditforbusiness.com
 referrals-asia-south1.truecaller.com
 register-accpt.portofantwerp.com
 register-accpt.portofantwerpbruges.com
+register.bpost.be
+register.capital.com
 registre.notebleue.pro
 registry.gitlab.com
 rei.com
@@ -7592,6 +7510,7 @@ relay.firefox.com
 relay.playcanvas.com
 remitly.com
 remix-cf-vrt.akamaized.net
+remix-cf.lwc.vrtcdn.be
 repo.magento.com
 report.voi.com
 request3-asia-south1.truecaller.com
@@ -7640,6 +7559,7 @@ s2.qwant.com
 s3://faraday-secret
 s3://faraday-uploads
 safe.tumblr.com
+safer-driver-trial/id1499089254
 salesforce.khealth.com
 salesportal.hyatt.com
 samltool.io	
@@ -7648,7 +7568,10 @@ sandbox.authorize.net
 sandbox.braintreegateway.com
 sandbox.fireblocks.io
 sandbox.secure.checkout.visa.com
+sandbox.uphold.com/dashboard
+sandbox.venly.market
 sapi.poloniex.com
+sbbstimme.sbb.ch
 scan.nextcloud.com
 scan.snapchat.com
 scapegoat.hyatt.com
@@ -7721,9 +7644,9 @@ shop.dyson.tw
 shop.humo.be
 shop.infomaniak.com
 shop.judge.me
-shop.kinepolis.be
+shop.kinepolis.be 
 shop.kinepolis.es
-shop.kinepolis.fr
+shop.kinepolis.fr 
 shop.kinepolis.lu
 shop.parool.nl
 shop.shipt.com
@@ -7777,6 +7700,7 @@ spark.fareharbor.com
 spectacles.com
 speedtest.xfinity.com
 sport-components.sporza.be
+sportbild.bild.de
 sportsbook.fanduel.com
 sporza.be
 sq
@@ -7789,6 +7713,7 @@ sso.8x8pilot.com
 sso.marriott.com
 sso.oft.hyatt.com
 ssu.myconnect.com.au/signup/get-connected 
+ssupport.suivo.com
 stage.bittrex.com
 stage.landmarkcinemas.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
@@ -7802,6 +7727,7 @@ staging-shop.shipt.com
 staging-shoppingcart.shipt.com
 staging.airtable.com
 staging.magisto.com
+staging.venly.market
 staging.vidaxl.io
 staking-api.polygon.technology
 staking.polygon.technology
@@ -7817,7 +7743,7 @@ stats-trafficcop-prod.nba.com
 stats.nba.com
 stats.nextcloud.com
 status.adobe.com
-status.delen.be
+status.delen.be 
 status.larksuite.com
 status.oasis.io
 steamcommunity.com
@@ -7842,7 +7768,7 @@ streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streams.etoro.com
-sts.delen.be
+sts.delen.be 
 sts.etoro.com
 sts.uzleuven.be
 stubru.be/luister/select
@@ -7912,6 +7838,7 @@ talk.brave.com
 tapi-demo.etoro.com
 tapi-real.etoro.com
 tax.crypto.com
+tax.periodandyear.stage.visma.com
 taxi.booking.com
 taxis.booking.com
 team-irc.irccloud.com
@@ -7950,8 +7877,10 @@ tickets.kz/my
 tickets.metamask.io
 tiktok.com
 tms.polo-static.com
+tna.periodandyear.stage.visma.com
 tock.18f.gov
 todo.notebleue.pro
+tomorrowland-2019/id652140946?l=nl&mt=8
 ton.org
 ton.org/api
 tools.deribit.com
@@ -7967,6 +7896,7 @@ travelfrom.fr
 trello.com
 trendyol.com
 tria.ge
+tribalwars.cash
 trm.pinepaymentsolutions.com
 truck-api.eu-east-1.indriverapp.com
 truehelper-eu.truecaller.com
@@ -8002,6 +7932,7 @@ updates.forescout.com
 updates.frame.io
 updates.nextcloud.com
 updatetracker.clario.co
+uphold.com/dashboard
 upld.krisp.ai
 upload3-asia-south1.truecaller.com
 upload3-noneu.truecaller.com
@@ -8029,11 +7960,14 @@ vacations.travelimpressions.com
 vacations.united.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
+vacatures.uzleuven.be
 valid-names-eu.truecaller.com
 valid-names-noneu.truecaller.com
+validationlist.bpost.be
 vault.omise.co
 vcc-*.8x8.com
 vcc-ce.8x8.com
+venly.market
 verification-eu.truecaller.com
 verification-noneu.truecaller.com
 verify.arkoselabs.com
@@ -8046,10 +7980,12 @@ vfo03.vodafone.om
 vhx.tv
 via.rider
 vidaxl.zendesk.com
+vidaxl.zendesk.com/
 video-callerid-eu.truecaller.com
 video-callerid-noneu.truecaller.com
 vikingco.be
 vikingdeals.be
+vikinglab.be
 vimeo.magisto.com
 vimeopro.com
 visa.co.cr
@@ -8069,10 +8005,10 @@ vpn.mozilla.org
 vroid.com
 vrt.be/vrtnu
 vrt.be/vrtnws
-vrtnws-api.vrt.be
 vtm.be/vtmgo
 vtmgo.be
 w1.uzleuven.be
+w1.uzleuven.be/random
 waf.cumulusfire.net
 wallet-sandbox.uphold.com
 wallet.etoro.com
@@ -8098,6 +8034,7 @@ webapps-accpt.portofantwerpbruges.com
 webapps-test.portofantwerpbruges.com/xui
 webapps.portofantwerp.com
 webapps.portofantwerpbruges.com
+webapps.uzleuven.be
 webauthn.me	
 webdirectory-eu.truecaller.com
 webdirectory-noneu.truecaller.com
@@ -8106,6 +8043,7 @@ webhook.metamask-institutional.io
 webhooks.booking.com
 webhooks.gamma.redoxstage.com
 webhooks.truelayer[-sandbox].com
+webmail.uzleuven.be
 webonboarding-eu.truecaller.com
 webonboarding-noneu.truecaller.com
 webtoolbox.notebleue.pro
@@ -8161,6 +8099,7 @@ wss://socket.bitpanda.com
 wss://ws-futures.coinstore.com/socket.io/
 wss://ws.backpack.exchange/
 wss://ws.coinstore.com/s/ws
+www..gammagoudjacht.nl
 www.32red.com
 www.4njbets.com
 www.abritel.fr
@@ -8171,6 +8110,7 @@ www.algolia.com
 www.am.monespacesante.fr
 www.amazon.*
 www.amazon.com/photos/*
+www.amendesroutieres.be
 www.analvids.com
 www.applevacations.com
 www.arkoselabs.com
@@ -8179,7 +8119,10 @@ www.arubanetworks.com
 www.astrogaming.com
 www.atg.se
 www.authorize.net
+www.autobild.de
 www.beachbound.com
+www.bild.de
+www.bild.tv
 www.bitexen.com
 www.bitmoji.com
 www.bitstrips.com
@@ -8190,9 +8133,13 @@ www.bmw-motorrad.de
 www.bmw.de
 www.bookabach.co.nz
 www.bookingholdings.com
+www.bpost.be
+www.bpost.be 
 www.bumble.com
-www.cadelam.be
-www.cadelux.lu/en
+www.bz-berlin.de
+www.cadelam.be 
+www.cadelux.lu 
+www.cadelux.lu/en 
 www.cardinalcommerce.com
 www.carrentals.com
 www.cheapcaribbean.com
@@ -8204,12 +8151,16 @@ www.citex.info
 www.citex.io
 www.cloudways.com
 www.cm.com
+www.cm.com/[locale]/ajax
+www.cm.com/[locale]/app/*
+www.cm.com/[locale]/register
 www.coinhako.com
 www.coinspot.com.au
 www.coinstore.com
 www.cointr.com
 www.cointr.pro
 www.compass.com
+www.computerbild.de
 www.counter-strike.net
 www.creditkarma.ca
 www.crowdstrike.com
@@ -8223,7 +8174,8 @@ www.datastax.com
 www.ddfcontent.com
 www.deezer.com
 www.delen.bank
-www.delen.be/en
+www.delen.be 
+www.delen.be/en 
 www.demorgen.be
 www.demorgen.be/abonnementen
 www.digitalocean.com
@@ -8277,6 +8229,7 @@ www.ebookers.com
 www.ebookers.fi
 www.editeur.am.monespacesante.fr
 www.editeur.api.monespacesante.fr
+www.ein-herz-fuer-kinder.de
 www.elastic.co
 www.elvetino.ch
 www.etoro.com
@@ -8291,6 +8244,9 @@ www.fewo-direkt.de
 www.fi.dyson.com
 www.figma.com
 www.files.com
+www.fing.com 
+www.fing.com*
+www.fitbook.de
 www.fitvermogen.nl
 www.flights.com
 www.forescout.com
@@ -8321,23 +8277,27 @@ www.hyattinclusivecollection.com
 www.iciparisxl.be
 www.iciparisxl.lu
 www.iciparisxl.nl
+www.ihrestrafe.be
 www.infomaniak.com
 www.instacart.com
+www.intergamma.nl/*
 www.intigriti.com
 www.irccloud.com
 www.jaybirdsport.com
 www.karwei.nl/*
 www.kayak.com
 www.ketnet.be
-www.kinepolis.be
+www.kinepolis.be 
 www.kinepolis.biz
-www.kinepolis.ch
-www.kinepolis.com
-www.kinepolis.es
-www.kinepolis.fr
-www.kinepolis.lu
-www.kinepolis.nl
+www.kinepolis.biz/  
+www.kinepolis.ch 
+www.kinepolis.com 
+www.kinepolis.es 
+www.kinepolis.fr 
+www.kinepolis.lu 
+www.kinepolis.nl 
 www.kinepolisempresas.com/
+www.kinepolisempresas.com/ 
 www.kiwi.com
 www.koho.ca
 www.kpharmacyllc.com
@@ -8371,6 +8331,7 @@ www.marionnaud.it
 www.marionnaud.ro
 www.marionnaud.sk
 www.marriott.com
+www.megatix.be  
 www.mercadolibre.cl
 www.mercadolibre.com.ar
 www.mercadolibre.com.co
@@ -8394,8 +8355,11 @@ www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
 www.myetherwallet.com
+www.myhomebook.de
 www.nba.com
 www.netflix.com
+www.nexuzhealth.be
+www.nexuzhealth.be/en
 www.omise.co
 www.opn.ooo
 www.orbitz.com
@@ -8406,6 +8370,7 @@ www.pangleglobal.com
 www.parool.nl
 www.parool.nl/abonnementen
 www.paypal-*.com
+www.petbook.de
 www.pineperks.in
 www.pixiv.net
 www.pns.hk
@@ -8424,16 +8389,18 @@ www.quip.com
 www.qwant.com
 www.recordedfuture.com
 www.redoxengine.com
+www.rieker-shop.be
 www.ritzcarlton.com/
 www.rocaton.com
 www.s-kaupat.fi
 www.s-pankki.fi
 www.sa.dyson.com
 www.samenfittorfs.be
+www.samenfittorfs.be/
 www.sbb.ch
 www.sbbcargo.com
 www.schoenentorfs.be
-www.schoenentorfs.nl
+www.schoenentorfs.nl 
 www.shipt.com
 www.six-group.com
 www.socialdeal.nl
@@ -8450,7 +8417,9 @@ www.starbucks.de
 www.starbucks.fr
 www.starbucksreserve.com
 www.stayz.com.au
+www.sterkinjeschoenen.be
 www.stripe.partners
+www.stylebook.de
 www.superdrug.com
 www.swiftcapital.com
 www.swiftfinancial.com
@@ -8459,13 +8428,17 @@ www.swisstransfer.com
 www.swoodoo.com
 www.tapiola.fi
 www.teamfortress.com
+www.techbook.de
 www.temu.com
 www.theperfumeshop.com
 www.tink.com
 www.tomorrowland.com
 www.torfs.be
 www.torfs.nl
+www.torfssuppliers.be
+www.trafficfines.be
 www.transsicura.ch
+www.travelbook.de
 www.travelocity.ca
 www.travelocity.com
 www.trekpleister.nl
@@ -8487,13 +8460,45 @@ www.upwork.com/api
 www.urbanclap.com
 www.urbancompany.com
 www.usa.gov
+www.uwboete.be
 www.uzleuven.be
+www.uzleuven.be/en
 www.valvesoftware.com
 www.vascoworldwide.net
 www.veriff.com
+www.verkeersboeten.be
+www.verkehrsstrafen.be
 www.vfsvisaonline.com
 www.vfsvisaservicesrussia.com
 www.vidaxl.<TLD>
+www.vidaxl.at
+www.vidaxl.bg
+www.vidaxl.co.uk
+www.vidaxl.com
+www.vidaxl.com.au
+www.vidaxl.com.tr
+www.vidaxl.cz
+www.vidaxl.de
+www.vidaxl.dk
+www.vidaxl.ee
+www.vidaxl.es
+www.vidaxl.fi
+www.vidaxl.fr
+www.vidaxl.gr
+www.vidaxl.hr
+www.vidaxl.hu
+www.vidaxl.ie
+www.vidaxl.it
+www.vidaxl.lt
+www.vidaxl.lv
+www.vidaxl.nl
+www.vidaxl.no
+www.vidaxl.pl
+www.vidaxl.pt
+www.vidaxl.ro
+www.vidaxl.se
+www.vidaxl.si
+www.vidaxl.sk
 www.vimeo.com
 www.visa.co.ao
 www.visa.co.id
@@ -8527,9 +8532,11 @@ www.visa.com.tw
 www.visa.com.vn
 www.visainfinite.ca
 www.vodafone.om
+www.voi.com
 www.voiscooters.com
 www.volkskrant.nl
 www.volkskrant.nl/abonnementen
+www.votreamende.be
 www.vrbo.com
 www.watsons.co.id
 www.watsons.co.th
@@ -8541,11 +8548,14 @@ www.watsons.com.tr
 www.watsons.com.tw
 www.watsons.vn
 www.wearehackerone.com
+www.welt.de
 www.wickr.com
+www.wissen-sie-mehr.de
 www.wotif.com
 www.wynnvacations.com
 www.yellowpepper.com
 www.yotisign.com
+www.yourfine.be
 www.zendesk.com
 www10.fortress.com.hk
 www10.pns.hk
@@ -8568,6 +8578,16 @@ xadsacademy.com
 xd.adobe.com
 xhomeapi-*.cloud.comcast.net
 xhomeapi-*.codebig2.net
+xs.elvenar.com
+xs.forgeofempires.com
+xs.grepolis.com
+xs0.elvenar.com
+xs0.forgeofempires.com
+xs0.grepolis.com
+xs1.elvenar.com
+xs1.forgeofempires.com
+xs1.grepolis.com
+xs1.tribalwars.cash
 xtramile.grabpay.com
 yapi.clario.co
 yelptop100.com
@@ -8596,6 +8616,7 @@ zellepay.force.com
 zelleservice.my.site.com
 zen.deezer.com
 zerobounce.net
+ziekenhuisschool.be
 zopim.com
 ████████████
 ██████████████
