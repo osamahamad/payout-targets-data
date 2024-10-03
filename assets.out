@@ -218,7 +218,6 @@
 *.cb.dev
 *.cbhq.net
 *.central.arubanetworks.com
-*.certinia.com
 *.certsy.com
 *.certsynonprod.com
 *.chainstacklabs.com
@@ -517,7 +516,6 @@
 *.khealth.com
 *.khealth.io/
 *.khealth.us/
-*.kiln.it
 *.kindredext.net
 *.kinepolis.be
 *.kinepolis.be 
@@ -3812,8 +3810,6 @@ firefly.adobe.com
 firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 flights.booking.com
-flourish-user-preview.com
-flourish-user-templates.com
 flyiin.com
 fm.anchor.android
 fonts.adobe.com
@@ -4098,6 +4094,9 @@ https://api-test.nicehash.com
 https://api-test.nicex.com
 https://api-test.nicex.com/
 https://api-user.e2ro.com/*
+https://api-{app-id}.calls.sendbird.com
+https://api-{app-id}.notifications.sendbird.com
+https://api-{app-id}.sendbird.com
 https://api.20min.ch/
 https://api.aiven.io/login
 https://api.anytask.com/
@@ -4663,6 +4662,7 @@ https://daily.blablacar.fr
 https://dashboard.fga.dev/
 https://dashboard.pantheon.io
 https://dashboard.rapyd.net/
+https://dashboard.sendbird.com/
 https://dashboard.unity3d.com
 https://data.coda.io/*
 https://data.limeinternal.com
@@ -4680,6 +4680,7 @@ https://dealflowapi.prosus.com
 https://demo.priceless.com/
 https://depinscan.io/
 https://design.glassdoor.com/*
+https://desk-api-{region}.sendbird.com
 https://desktop.water-link.be/
 https://detect.pdq.tools/ 
 https://dev.init.capital/contract-addresses/blast
@@ -4865,10 +4866,7 @@ https://ferroprotocol.com
 https://fileshare.ze.monash.edu
 https://filezilla-project.org/download.php?type=server&show_all=1
 https://financeiro.hostgator.com.br
-https://financialforce.com
 https://flags.expeng.optimizely.com
-https://flo.uri.sh
-https://flourish.studio/
 https://flow.opera.com
 https://fm.voiapp.io/login
 https://form.asana.com
@@ -4890,6 +4888,7 @@ https://gaadmin.vfsglobal.com/GlobalAdmin/
 https://gammacademy.starringjane.com/
 https://gammacademy.starringjane.com/*
 https://gap.citizenportal-test.bugbounty.akinox.dev
+https://gate.sendbird.com
 https://gatewaydsapdev2.marriott.com/
 https://gatewaydsaptst1.marriott.com/
 https://gatewaydsaptst2.marriott.com/
@@ -6240,6 +6239,8 @@ https://security-testing-env-dashboard.k8s.tools-001.d-use-1.braze.com/
 https://seekcdn.com
 https://segment.com/docs/sources/
 https://selector.viator.com
+https://sendbird.com
+https://sendbird.com/docs
 https://sendgrid.com
 https://senegal.westernunion.com
 https://service.platform.tripadvisor.com
@@ -6445,6 +6446,8 @@ https://wise.com
 https://woox.io/
 https://world.planethoster.net
 https://wowjobs.ca
+https://ws-{app-id}.calls.sendbird.com
+https://ws-{app-id}.sendbird.com
 https://ws.multiplayer.classdojo.com/
 https://ws.usaa.com
 https://wslatam.ifood.com.br
@@ -6771,7 +6774,6 @@ https://www2.westernunion.com
 https://wwws-staging.moneytree.jp/link/
 https://wwws-staging.moneytree.jp/link/mobile/
 https://wwws-staging.moneytree.jp/link/mobile/#/signup?client_id=38d99a6e8e9fc87c866f5aa82bdc2569c464b2323a55e0b28f658efa678e9623&redirect_uri=https://wwws-staging.moneytree.jp/link/mobile/callback&response_type=token&scope=guest_read+accounts_read+transactions_read+request_refresh
-https://xyzbmojn.net/
 https://yeswehack.com
 https://youcouldbe.com
 https://zabbix.intergamma.nl/

@@ -1,20 +1,10 @@
-3rdparty-apis.coinmarketcap.com
-Binance Desktop Application
-Binance Mobile Application for Android
-Binance Mobile Application for iOS
-Binance macOS Application
-CoinMarketCap Android app
-CoinMarketCap iOS app
-Trustwallet Android App
-Trustwallet Chrome Extension
-Trustwallet iOS App
-api.binance.com
-api.coinmarketcap.com
-coinmarketcap.com
-https://github.com/trustwallet/wallet-core/
-https://trbinance.com
-https://www.binance.com/
-https://www.binance.us/
-portal-api.coinmarketcap.com
-pro-api.coinmarketcap.com
-pro.coinmarketcap.com
+https://api-{app-id}.calls.sendbird.com
+https://api-{app-id}.notifications.sendbird.com
+https://api-{app-id}.sendbird.com
+https://dashboard.sendbird.com/
+https://desk-api-{region}.sendbird.com
+https://gate.sendbird.com
+https://sendbird.com
+https://sendbird.com/docs
+https://ws-{app-id}.calls.sendbird.com
+https://ws-{app-id}.sendbird.com
