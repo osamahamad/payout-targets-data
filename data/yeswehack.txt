@@ -139,6 +139,33 @@ Specific scenarios
 GLib
 glib-networking
 libsoup
+Device: JBL Bar 300
+Device: JBL Bar 500
+Device: JBL Bar 700
+Device: JBL Bar 800
+Device: JBL Bar 1000
+Device: JBL Bar 1300
+a1ttqkupgmaxeg-ats.iot.us-east-1.amazonaws.com
+a1ttqkupgmaxeg-ats.iot.ap-east-1.amazonaws.com
+lsaconsumerevents2.onecloud.harman.com
+lsaconsumerevents3.onecloud.harman.com
+lsaconsumerevents1.onecloud.harman.com
+events.onecloud.harman.com
+ota-staging.onecloud.harman.com
+ota.onecloud.harman.com
+apis.onecloud.harman.com
+edgeapis.onecloud.harman.com
+things.onecloud.harman.com
+JBL Authentics 200
+JBL Authentics 300
+JBL Authentics 500
+JBL Boombox 3 Wi-Fi
+JBL Charge 5 Wi-Fi
+JBL PartyBox Ultimate
+https://apps.apple.com/fr/app/jbl-one/id1610239857
+https://play.google.com/store/apps/details?id=com.jbl.oneapp&hl=fr&gl=US
+JBL Flip 6
+JBL Charge 5
 api.infomaniak.com
 login.infomaniak.com
 manager.infomaniak.com/v3/*
