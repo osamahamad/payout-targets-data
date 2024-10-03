@@ -121,6 +121,8 @@
 *.app.asana.com
 *.app.spacelift.dev
 *.appmiral.com
+*.arlo.com
+*.arloxcld.com
 *.aroundtheworld.tomorrowland.com
 *.artstation.com
 *.asana.biz
@@ -1395,6 +1397,33 @@ AppActions
 Apple App Store (886492891)
 Apps which are listed within this bot
 Arkime
+Arlo
+Arlo All-In-One Sensor (Home Security System)
+Arlo Baby
+Arlo Base Station
+Arlo Bridge
+Arlo Cellular & Battery Backup (Home Security System)
+Arlo Chime / Chime 2
+Arlo Essential
+Arlo Floodlight
+Arlo Go / Go 2
+Arlo Home Security System
+Arlo Pro
+Arlo Pro 2
+Arlo Pro 3
+Arlo Pro 4
+Arlo Pro 5S
+Arlo Q / Q+
+Arlo Safe Android App
+Arlo Safe Button
+Arlo Safe iOS App
+Arlo Secure Android App
+Arlo Secure iOS App
+Arlo Security Light
+Arlo Ultra
+Arlo Video Doorbell
+Arlo Wire-Free Outdoor Siren (Home Security System)
+Arlo Wireless Video Doorbell
 Aruba AirWave AMP
 Aruba ClearPass Policy Manager
 Aruba EdgeConnect Enterprise
@@ -3966,6 +3995,7 @@ http://www.register.com
 http://www.rei.com/learn/expert-advice
 http://www.shopmarriott.com
 http://www.whynot.com/
+https://*-prod.arlo.com
 https://0-2744452194.s3.nbg01.de.dracoon.io
 https://1shoppingcart.com
 https://28degreescard.com.au
@@ -4315,6 +4345,7 @@ https://arbiscan.io/address/0xd3E1BDe4b4163c86B9b7668dE8Ae7618720dCa93
 https://arbiscan.io/address/0xd978bb7a7ae5b01116d1bd714fedd1b77ca9e75b
 https://arbiscan.io/address/0xdd4536dD9636564D891c919416880a3e250f975A
 https://arbiscan.io/address/0xeb0b9B5FFb763dD69440565F63c67f9695B7C3dA
+https://arlo-device.messaging.netgear.com
 https://artist.link
 https://asana.com
 https://asana.com/apps?category=made-by-asana
@@ -4350,6 +4381,7 @@ https://basescan.org/address/0xa5d378c05192e3f1f365d6298921879c4d51c5a3
 https://basescan.org/address/0xd978bb7a7ae5b01116d1bd714fedd1b77ca9e75b
 https://basescan.org/address/0xdd4536dD9636564D891c919416880a3e250f975A
 https://bc.yieldstreet.net
+https://beta.arlo.com
 https://bigcommerce.com/blog
 https://bigcommerce.com/make-it-big
 https://billing.ring.com/*
@@ -4490,6 +4522,7 @@ https://coda.io/signup/email
 https://code.elementor.com/
 https://coinstore-openapi.github.io/en/#45fa4e00db
 https://comment-moderation-stats.20min.ch
+https://community.arlo.com
 https://community.cloud.databricks.com/
 https://compulsoryunits.monash.edu/
 https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
@@ -4664,6 +4697,7 @@ https://download.bkexer.xin/app/download/android/app-release.apk
 https://download.krisp.ai/mac
 https://download.krisp.ai/win
 https://download.opera.com
+https://downloads.arlo.com
 https://dropbox.com/dash/download
 https://dxc.episerver.net/ 
 https://ebanking.westernunionbank.com
@@ -5779,6 +5813,7 @@ https://matrix.agent.tchap.gouv.fr
 https://matrix.e.tchap.gouv.fr
 https://matrix.i.tchap.gouv.fr
 https://mc.sendgrid.com/
+https://mcs.arlo.com
 https://mcssl.com
 https://mediaflows.cloudinary.com/
 https://meinkonto.bild.de/
@@ -5815,6 +5850,7 @@ https://movieclub-int.kinepolis.com
 https://movienow-int.kinepolis.be/admin
 https://mstatic.usaa.com
 https://my.ampol.com.au/
+https://my.arlo.com
 https://my.ecwid.com
 https://my.electroneum.com/
 https://my.elementor.com/
@@ -5828,6 +5864,7 @@ https://my.thesecurityteam.rocks
 https://my.thesecurityteam.rocks/
 https://my.wyze.com
 https://myaccount-staging.getmoneytree.com
+https://myapi.arlo.com
 https://myapp.monash.edu/
 https://mydesktop.usaa.com
 https://mylink.page
@@ -6334,6 +6371,7 @@ https://unified.neogov.com
 https://unihub.monash.edu/
 https://unity3d.com/get-unity/download
 https://unity3d.com/get-unity/download/archive
+https://updates.arlo.com
 https://us.eufy.com/products/e8213181
 https://us.eufy.com/products/t8410121
 https://us.eufy.com/products/t88511d1
@@ -6404,6 +6442,7 @@ https://www.ankermake.com/products/m5?variant=42744298373269
 https://www.anytask.com/
 https://www.api.hpr.kiwai-normandie.fr/
 https://www.api.kiwai-normandie.fr
+https://www.arlo.com
 https://www.arubanetworks.com/products/networking/analytics-and-assurance/user-experience-insight-sensors/
 https://www.atlassian.com/enterprise/data-center/bitbucket
 https://www.atlassian.com/enterprise/data-center/confluence
