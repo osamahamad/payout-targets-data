@@ -14,11 +14,6 @@ https://apps.apple.com/se/app/atg-live/id1608156355
 https://play.google.com/store/apps/details?id=se.atg.live&hl=en&gl=SE
 app.alasco.de
 api.alasco.de
-Log4j 2.x
-Log4j API for Kotlin
-Log4j API for Scala
-Log4cxx
-Log4net
 Agora for Android (see dowload link for APK file and mobile app GitHub repository in description)
 Agora for iOS (see dowload link for IPA file and mobile app GitHub repository in description)
 https://app.sandbox.agora.incubateur.net
@@ -44,8 +39,6 @@ https://bounty.cryptobox.com
 https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr
 https://apps.apple.com/fr/app/cryptobox/id972602802
 https://pprd.cybermalveillance.gouv.fr
-cyclonedx-bom
-cargo-cyclonedx
 https://play.google.com/store/apps/details?id=id.dana&hl=en
 https://apps.apple.com/id/app/dana/id1437123008
 https://appgallery.huawei.com/#/app/C100570215
@@ -121,7 +114,6 @@ https://apps.apple.com/fr/app/doctolib/id925339063
 http://play.google.com/store/apps/details?id=fr.doctolib.www
 https://apps.apple.com/ie/app/doctolib-siilo/id1083002150
 https://play.google.com/store/apps/details?id=com.siilo.android&hl=en
-Dovecot IMAP Server and Pigeonhole SIEVE (see "Software packages" and "Source code")
 Hardware found on https://www.ezviz.com/category/security-wifi-cameras
 Hardware found on https://www.ezviz.com/category/smart-home
 i.ys7.com
@@ -136,9 +128,6 @@ France Identité mobile application for Android (see link in program description
 France Identité mobile application for iOS (see link in program description)
 https://mobile.france-identite.gouv.fr
 Specific scenarios
-GLib
-glib-networking
-libsoup
 Device: JBL Bar 300
 Device: JBL Bar 500
 Device: JBL Bar 700
@@ -269,16 +258,10 @@ https://retail-api.otto.de
 api.ovh.com
 www.ovh.com/manager
 www.ovh.com
-https://sandbox.open-xchange.com
-https://sandbox.open-xchange.com
-GitLab and GitHub repos listed on this page
 https://www.ooredoo.qa
 https://mobile.ooredoo.qa
 https://play.google.com/store/apps/details?id=qa.ooredoo.android&hl=en&gl=US
 https://apps.apple.com/qa/app/ooredoo-qatar/id619828745
-Security Vulnerability in OpenPGP.js's high-level API
-Security Vulnerability in the OpenPGP Standard
-Interoperability Issue in OpenPGP.js
 https://billingserver.pinelabs.com/
 dashboard.pluralonline.com
 https://lounge.pinelabs.com/loungeui/login
@@ -305,7 +288,6 @@ https://one.pinelabs.com/
 https://plmcixt.pinelabs.com/
 https://play.google.com/store/apps/details?id=com.pinelabs.emicatalogue.pinelabs&hl=uz
 https://emistores.pinelabs.com/
-PowerDNS authoritative server, recursor and DNSdist (see "Software packages" and "Source-code")
 https://pbgq.deontologie-policiere.gouv.qc.ca
 https://pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-acces-info
 https://pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-revision
@@ -343,27 +325,6 @@ edu.qwantjunior.com
 https://my.salt.ch
 https://eshop.salt.ch
 https://login.salt.ch
-buffered-reader
-nettle-sys
-nettle-rs
-SHA1-CD
-sequoia-openpgp
-sequoia-autocrypt
-sequoia-ipc
-sequoia-net
-Shared OpenPGP Certificate Directory
-sequoia-cert-store
-sequoia-wot
-sequoia-policy-config
-rpm-sequoia
-sqv
-sq
-sqop
-octopus
-sequoia-git
-OpenPGP Cert Directory Specification
-Web of Trust Specification
-Sequoia git Specification
 https://my.sogexia.com
 https://play.google.com/store/apps/details?id=io.gonative.android.xjndrq&hl=fr
 itmss://apps.apple.com/us/app/id1510360750?ign-mscache=1
@@ -465,43 +426,5 @@ svn.notebleue.pro
 todo.notebleue.pro
 webtoolbox.notebleue.pro
 cam.notebleue.pro
-https://github.com/pendulum-project/ntpd-rs
-https://github.com/pendulum-project/timestamped-socket
-https://github.com/pendulum-project/clock-steering
-https://owncloud.org/install/#install-clients
-https://play.google.com/store/apps/details?id=com.owncloud.android
-https://apps.apple.com/app/id1359583808
-https://github.com/owncloud/customgroups
-https://github.com/owncloud/guests
-https://github.com/owncloud/richdocuments
-https://github.com/owncloud/notifications
-https://github.com/owncloud/client
-https://github.com/owncloud/core
-https://github.com/owncloud/gallery
-https://github.com/owncloud/ocis
-https://github.com/owncloud/user_ldap
-https://github.com/owncloud/oauth2
-https://github.com/owncloud/activity
-https://github.com/owncloud/updater
-https://github.com/owncloud/core/tree/master/apps/files
-https://github.com/owncloud/android
-https://github.com/owncloud/ios-app
-systemd (the manager itself)
-systemd-boot
-systemd-stub
-systemd-udev
-systemd-journald
-systemd-logind
-systemd-networkd
-libsystemd
-systemd-timesyncd
-systemd-hostnamed
-systemd-resolved
-systemd-cryptenroll
-systemd-cryptsetup
-systemd-veritysetup
-systemd-fstab-generator
-systemd-gpt-auto-generator
-systemd-ask-password
 https://toom.de
 https://api.toom.de
