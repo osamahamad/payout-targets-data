@@ -1304,6 +1304,7 @@ After Effects
 AgentConnect (see program description for github link)
 Agora for Android (see dowload link for APK file and mobile app GitHub repository in description)
 Agora for iOS (see dowload link for IPA file and mobile app GitHub repository in description)
+Aiven for AlloyDB Omni
 Aiven for Apache Flink
 Aiven for Apache Kafka
 Aiven for Caching
@@ -1559,6 +1560,7 @@ Dimension
 Direct Contracts
 Discovered Leaked Credentials
 Distiller
+Dovecot IMAP Server and Pigeonhole SIEVE (see "Software packages" and "Source code")
 Dreamweaver
 Drogas (subdomains)
 Drogas.Latvia.Android
@@ -1651,6 +1653,7 @@ Front for Windows
 Functions dealing with vehicle access and immobilizer
 G Hub
 GHE
+GLib
 GS Select iOS app
 GameMaker Studio 2
 Games Tier 1
@@ -1667,6 +1670,7 @@ GitHub Enterprise Server
 GitHub Pages
 GitHub Production Credentials
 GitHub for mobile
+GitLab and GitHub repos listed on this page
 GitLab for Jira Cloud
 Github findings
 GlotPress
@@ -1729,6 +1733,7 @@ Intelligent Canvas
 Intercept X Endpoint
 Internal Server via Internet Network
 Internet.xfinity.com
+Interoperability Issue in OpenPGP.js
 IoS
 IoS App
 JBL Authentics 200
@@ -1769,6 +1774,11 @@ Livestream software (Producer, Studio)
 Load Balancing
 Localized airbnb sites listed at the link below:
 Localized versions of www.tripadvisor.com available from the site's header or footer
+Log4cxx
+Log4j 2.x
+Log4j API for Kotlin
+Log4j API for Scala
+Log4net
 Logi Options+ PC/MAC
 Logi Tune PC/MAC
 Login with SMS - Feature
@@ -1928,6 +1938,7 @@ Open Source - Zuul
 Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 Open source tools from Cloudflare
 OpenAI API Keys
+OpenPGP Cert Directory Specification
 Opsgenie (Android)
 Opsgenie (IoS)
 Orbi 
@@ -1983,6 +1994,7 @@ Polygon Mainnet HandlerReserve
 Polygon Mainnet Voter
 PoolStake 
 PoolStakeFactory 
+PowerDNS authoritative server, recursor and DNSdist (see "Software packages" and "Source-code")
 Prelude
 Premiere Elements
 Premiere Pro
@@ -2033,6 +2045,7 @@ Roblox Engine
 Roblox Studio
 Rockstar Games Launcher
 Rust SDK
+SHA1-CD
 SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope
 SSL/TLS
 SSO_Saml_connector
@@ -2043,8 +2056,12 @@ Scanwatch Nova
 Scenarios with Special Bounties
 Scope Questions: Items not explicitly listed here
 Secondary Assets
+Security Vulnerability in OpenPGP.js's high-level API
+Security Vulnerability in the OpenPGP Standard
 Self Register Account on T-Mobile Microsoft Entra ID
+Sequoia git Specification
 Services
+Shared OpenPGP Certificate Directory
 Shido Network - Beta Testnet
 Shopify Developed Apps
 Shopify Mobile Applications
@@ -2263,6 +2280,7 @@ Watsons.Turkey.iOS
 Web
 Web Playback SDK
 Web SDK
+Web of Trust Specification
 Web3 Smart Contract
 Web3 Smart Contracts
 Wickr Me Android
@@ -2895,6 +2913,7 @@ bpost Parcel Lockers
 bq.visa.com
 brave.com
 buckingfuggy.com
+buffered-reader
 bugcrowd-oie-%username%-1.at.oktapreview.com
 bugcrowd-oie-%username%-1.oktapreview.com
 bugcrowd-oie-%username%-2.at.oktapreview.com
@@ -2943,6 +2962,7 @@ careers.marriott.com
 careers.remitly.com
 careers.tiktok.com
 careers.ui.com
+cargo-cyclonedx
 cargo.indrive.com
 cars.booking.com
 cart.starbucks.co.jp
@@ -3423,6 +3443,7 @@ customers.mattermost.com
 customerupdates.nextcloud.com
 cw.visa.com
 cyberghost.app
+cyclonedx-bom
 cysiv.com
 cz.skodaauto.myskoda
 daita/files_fulltextsearch_tesseract
@@ -3716,6 +3737,7 @@ github.com/kubernetes-retired
 github.com/oasisprotocol/explorer
 gitlab.com
 gleague.nba.com
+glib-networking
 global-api.citymapper.com
 global.bitexen.com
 global.bittrex.com 
@@ -4083,6 +4105,7 @@ https://apps.apple.com/app/apple-store/id1556596708
 https://apps.apple.com/app/bitpanda-buy-bitcoin-crypto/id1449018960
 https://apps.apple.com/app/bitx-wallet/id927362479
 https://apps.apple.com/app/id1216446440
+https://apps.apple.com/app/id1359583808
 https://apps.apple.com/app/id1450306065
 https://apps.apple.com/app/id1465314783
 https://apps.apple.com/app/id1503045795
@@ -5120,6 +5143,24 @@ https://github.com/oasisprotocol/oasis-wallet-ext
 https://github.com/oasisprotocol/oasis-wallet-web
 https://github.com/oort-tech/Olympus
 https://github.com/openssl/openssl
+https://github.com/owncloud/activity
+https://github.com/owncloud/android
+https://github.com/owncloud/client
+https://github.com/owncloud/core
+https://github.com/owncloud/core/tree/master/apps/files
+https://github.com/owncloud/customgroups
+https://github.com/owncloud/gallery
+https://github.com/owncloud/guests
+https://github.com/owncloud/ios-app
+https://github.com/owncloud/notifications
+https://github.com/owncloud/oauth2
+https://github.com/owncloud/ocis
+https://github.com/owncloud/richdocuments
+https://github.com/owncloud/updater
+https://github.com/owncloud/user_ldap
+https://github.com/pendulum-project/clock-steering
+https://github.com/pendulum-project/ntpd-rs
+https://github.com/pendulum-project/timestamped-socket
 https://github.com/pinterest/
 https://github.com/pixiv/charcoal
 https://github.com/plaid/plaid-link-android
@@ -5795,6 +5836,7 @@ https://ort-admin.pingone.com/*
 https://ort-authenticator.pingone.com/*
 https://ort-desktop.pingone.com/*
 https://osu.eu-west-2.outscale.com
+https://owncloud.org/install/#install-clients
 https://p2pb2b.com/
 https://paasportal.episerver.net/
 https://paasportal.episerver.net/api/v1.0/
@@ -5925,6 +5967,7 @@ https://play.google.com/store/apps/details?id=com.opera.app.sports
 https://play.google.com/store/apps/details?id=com.opera.browser
 https://play.google.com/store/apps/details?id=com.opera.gx
 https://play.google.com/store/apps/details?id=com.opera.mini.native
+https://play.google.com/store/apps/details?id=com.owncloud.android
 https://play.google.com/store/apps/details?id=com.paymaya
 https://play.google.com/store/apps/details?id=com.pinegift
 https://play.google.com/store/apps/details?id=com.pinelabs.emicatalogue.pinelabs&hl=uz
@@ -6062,6 +6105,7 @@ https://salesforce.quip.com/blog/desktop
 https://sandbox.digitalwallet.earlywarning.com
 https://sandbox.directly.com/dashboard/index
 https://sandbox.fireblocks.io/v2/settings/notifications
+https://sandbox.open-xchange.com
 https://scalews.withings.com
 https://screenplayer.20min.ch
 https://sec-test-<intigriti handle>-<nn>.personio.de
@@ -6778,6 +6822,8 @@ le.yahooapis.com
 leadgen-asia-south1.truecaller.com
 learningmanager.adobe.com
 legacy-docs.sentiance.com
+libsoup
+libsystemd
 licenses.adobe.com
 licensing.adobe.com
 lightroom.adobe.com
@@ -7040,6 +7086,8 @@ net.wooga.switchcraft.googleplay
 net.wooga.tropicats_tropical_cats_puzzle_paradise
 netlify-cdp-loader.netlify.app
 netlify-rum.netlify.app
+nettle-rs
+nettle-sys
 new-order.eu-east-1.indriverapp.com
 new.reddit.com
 new.www.vaxvacationaccess.com
@@ -7137,6 +7185,7 @@ oauth.deriv.com
 oauth.developers.stagaws.visma.com
 obs-sensors.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
+octopus
 odoo14.notebleue.pro
 offsite.omise.co
 om.vodafone.mva
@@ -7412,6 +7461,7 @@ ro.superbet.sport
 rockstarnorth.com
 roominglist.hyatt.com
 royal.checksw.com
+rpm-sequoia
 rt.playcanvas.com
 rubygems.org
 s-boards.qwant.com
@@ -7466,6 +7516,14 @@ select.logitech.com
 seller-id.tokopedia.com
 senior-bff.ketnet.be
 sensei.pixiv.net
+sequoia-autocrypt
+sequoia-cert-store
+sequoia-git
+sequoia-ipc
+sequoia-net
+sequoia-openpgp
+sequoia-policy-config
+sequoia-wot
 serveur12.notebleue.com
 service.fing.com
 service.racing.fanduel.com
@@ -7552,6 +7610,9 @@ speedtest.xfinity.com
 sport-components.sporza.be
 sportsbook.fanduel.com
 sporza.be
+sq
+sqop
+sqv
 ssh.fr.cloud.gov
 sso-sprint.dynatracelabs.com
 sso.8x8.com
@@ -7655,6 +7716,22 @@ swiss-backup*.infomaniak.com
 sync.infomaniak.com
 sync.logitech.com
 sync.services.mozilla.com
+systemd (the manager itself)
+systemd-ask-password
+systemd-boot
+systemd-cryptenroll
+systemd-cryptsetup
+systemd-fstab-generator
+systemd-gpt-auto-generator
+systemd-hostnamed
+systemd-journald
+systemd-logind
+systemd-networkd
+systemd-resolved
+systemd-stub
+systemd-timesyncd
+systemd-udev
+systemd-veritysetup
 t.co
 t.me/theontonbot: NFT tickets sales
 t.me/theontonbot: events participation
