@@ -1272,7 +1272,6 @@ All Other BitMEX Assets
 All Other In-Scope Assets
 All other Assets
 All the Blockchain Infrastructure
-Alternate Assets
 Amazon Subsidiaries (Please only actively test explicitly stated scope)
 AmpliFi
 Anchor
@@ -1444,7 +1443,6 @@ ColdFusion
 CometBFT
 Community Management & Communications
 Components
-Connected Products (IoT Hardware)
 Content Authorization Targets
 Content authorization vulnerabilities affecting only the in-browser player
 ContentCal
