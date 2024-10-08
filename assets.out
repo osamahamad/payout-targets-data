@@ -402,7 +402,6 @@
 *.hyperpure.com
 *.hyperwallet.com
 *.hypr.com
-*.igpayment.com
 *.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
@@ -419,8 +418,6 @@
 *.indriverapp.com
 *.indriverjob.com
 *.infra-prod.nsvcs.net
-*.innogames.com
-*.innogames.de
 *.instacart.com
 *.instacart.tools
 *.int.remitly.com
@@ -544,8 +541,6 @@
 *.mobilevikings.be
 *.mobilitygraph.hereapi.com
 *.mona.co
-*.monzo.com
-*.monzo.me
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -650,7 +645,6 @@
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
-*.prod-ffs.io
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
 *.prod.fdbox.net
@@ -984,7 +978,6 @@
 1023499075
 103.83.120.0/22
 1032480595
-1052238659
 107.167.96.0/19
 1076840480
 1079537578
@@ -2827,7 +2820,6 @@ cms.woger-cdn.com
 co.mona.android
 co.tide
 co.tide.tideplatform.in
-co.uk.getmondo
 coban.pixiv.net
 codacontent.io
 codahosted.io
@@ -5858,7 +5850,6 @@ indicative-pricing.taxi.booking.com
 infomaniak.events
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
-innogames.com
 insights-by-sentiance/id1608074635
 insights-categorizer-eu.truecaller.com
 insights-categorizer-noneu.truecaller.com
@@ -6818,7 +6809,6 @@ support.creditkarma.ca
 support.cs.money
 support.databricks.com
 support.greenhouse.io
-support.innogames.com
 support.logi.com
 support.malwarebytes.com
 support.metamask.io
