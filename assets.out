@@ -542,6 +542,8 @@
 *.mobilevikings.be
 *.mobilitygraph.hereapi.com
 *.mona.co
+*.monzo.com
+*.monzo.me
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -647,6 +649,7 @@
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
 *.prod.fdbox.net
@@ -980,6 +983,7 @@
 1023499075
 103.83.120.0/22
 1032480595
+1052238659
 107.167.96.0/19
 1076840480
 1079537578
@@ -2824,6 +2828,7 @@ cms.woger-cdn.com
 co.mona.android
 co.tide
 co.tide.tideplatform.in
+co.uk.getmondo
 coban.pixiv.net
 codacontent.io
 codahosted.io

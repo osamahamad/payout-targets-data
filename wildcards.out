@@ -522,6 +522,8 @@
 *.mobilevikings.be
 *.mobilitygraph.hereapi.com
 *.mona.co
+*.monzo.com
+*.monzo.me
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -627,6 +629,7 @@
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
 *.prod.fdbox.net
