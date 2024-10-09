@@ -1353,6 +1353,7 @@ Audition
 Authentication component
 BBPress Core
 BUILD
+Backend endpoint: bug-bounty-be.glean.com
 Backstage source code
 Basecamp.app
 Beats
@@ -3839,6 +3840,7 @@ https://app.bitgo.com
 https://app.chime.com/
 https://app.datadome.co
 https://app.ecwid.com/api/v3/	
+https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.hubspot.com/
 https://app.ibotta.com/sign-in 
 https://app.intercom.com
@@ -4900,6 +4902,8 @@ https://marketplace.atlassian.com/apps/1222102/webhook-manager-for-confluence-cl
 https://marketplace.atlassian.com/apps/1222124/sticker-printer-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1222132/jenkins-integration-for-bitbucket-server?hosting=server
 https://marketplace.atlassian.com/apps/1222147/opsgenie?hosting=cloud
+https://marketplace.atlassian.com/apps/1222714/scio-search-crawler-for-confluence?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1222715/scio-search-crawler-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1222978/dynamic-fields-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1223249/mailto-wiki-email-for-confluence?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1223249/mailto-wiki-send-emails-to-confluence?hosting=cloud&tab=overview
@@ -4937,6 +4941,7 @@ https://marketplace.atlassian.com/apps/1227949/hackathon-workflow-alan?hosting=c
 https://marketplace.atlassian.com/apps/1227949/hackathon-workflow-alan?hosting=datacenter
 https://marketplace.atlassian.com/apps/1228153/comms-dashboard?hosting=cloud
 https://marketplace.atlassian.com/apps/1228937/atlas-for-jira-cloud?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1229003/glean-activity-plugin-for-jira-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1229183/add-watchers-at-issue-creation?hosting=cloud
 https://marketplace.atlassian.com/apps/1229343/developer-assistant-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1229446/developer-assistant-for-confluence?hosting=cloud
