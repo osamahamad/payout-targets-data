@@ -929,6 +929,7 @@
 *.worldcoin.org
 *.wotif.com
 *.wu.*
+*.x.ai
 *.xcal.tv
 *.xfinity.com	
 *.xfinityhome.com
@@ -2220,7 +2221,6 @@ accounts.reddit.com
 accounts.shopify.com
 accounts.snapchat.com
 accounts.stage.evernote.com
-accounts.x.ai
 accountsettings.connect.identity.stagaws.visma.com
 acrobat.adobe.com
 acrobatoauth.adobe.com
@@ -2479,7 +2479,6 @@ api.watsons.vn
 api.wisdomtreeprimeapp.com
 api.wordpress.org
 api.workbox.dk
-api.x.ai
 api.yoti.com
 api.ys7.com
 api.zellepay.com
@@ -3184,7 +3183,6 @@ console.circle.com
 console.dashlane.com
 console.tink.com
 console.truelayer[-sandbox].com
-console.x.ai
 contact-lists-eu.truecaller.com
 contact-lists-noneu.truecaller.com
 contact-request-stateless-eu.truecaller.com
@@ -3536,7 +3534,6 @@ graphql.sandbox.topperpay.com/graphql
 graphql.topperpay.com/graphql
 graphqldocs.sentiance.com
 gravatar.com
-grok.x.ai
 gutenberg.run
 guts.ninjakiwi.com
 gw.api.dh.comcast.com
@@ -5857,7 +5854,6 @@ id1427744264
 id1520720139
 id1534920947
 id1541153375
-ide.x.ai
 identity.nba.com
 identity.stage.vismaonline.com
 identity.yoti.com
