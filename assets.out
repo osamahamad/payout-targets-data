@@ -589,7 +589,6 @@
 *.octopus.com
 *.oda.com
 *.odcdn.com.au
-*.okcoin.com
 *.oklink.com
 *.okto.tech
 *.okx.com
@@ -1818,8 +1817,6 @@ OT scanner
 Observability - APM Agents
 Observability - APM Server
 Official WordPress plugins
-Okcoin Android APK
-Okcoin iOS App
 Okta
 Okta On-Prem Agents ( AD, LDAP, RDP, IWA )
 Okta Verify (Windows)
