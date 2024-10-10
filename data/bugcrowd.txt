@@ -36,6 +36,7 @@ Aiven for Dragonfly
 Aiven for Apache Flink
 Aiven for Metrics
 Aiven for Valkey
+Aiven for Apache Cassandra
 Aiven for AlloyDB Omni
 Aiven for OpenSearch
 Aiven for Grafana
@@ -43,6 +44,7 @@ Aiven for Apache Kafka
 Aiven for M3
 Aiven for PostgreSQL
 Aiven for Caching
+Aiven for MySQL
 https://aiven.io/
 https://console.aiven.io/login
 https://api.aiven.io/login
