@@ -234,7 +234,6 @@
 *.dailymotion.com
 *.dancecentral.com
 *.das.eu
-*.de.jbl.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demorgen.be
@@ -368,8 +367,6 @@
 *.guildofguardians.com
 *.hackerone-ext-content.com
 *.hackerone-user-content.com/
-*.harmanaudio.com
-*.harmankardon.com
 *.harmonixmusic.com
 *.harmonyremote.com
 *.hellofax.com
@@ -411,7 +408,6 @@
 *.immutable.com
 *.imperva.com
 *.imtbl.com
-*.in.jbl.com
 *.incapsula.com
 *.indeed.com
 *.indeed.net
@@ -434,10 +430,6 @@
 *.irccloud-cdn.com
 *.irccloud.com
 *.itcapital.io
-*.jbl.com
-*.jbl.com.br
-*.jbl.nl
-*.jbl.ru
 *.jit.si
 *.jitsi.net
 *.jobapi.io
@@ -445,7 +437,6 @@
 *.joinclubhouse.com
 *.jora.com
 *.jora.xyz
-*.jp.jbl.com
 *.just-data.io
 *.just-eat.com 
 *.just-eat.dk
@@ -811,7 +802,6 @@
 *.superbet.rs
 *.superpal.com/*
 *.superpal.io/*
-*.support.jbl.com
 *.support.originenergy.com.au
 *.swiftype.com
 *.swisspass.ch
@@ -880,8 +870,6 @@
 *.ui.com
 *.ui.com/distributors/
 *.ui.com/training/partners/
-*.uk.harmanaudio.com
-*.uk.jbl.com
 *.ultimateearsuniversity.com
 *.unibet.com
 *.unibet.fr
@@ -1489,12 +1477,6 @@ Dependabot
 Desktop Client
 Desktop MFA for Windows
 Desktop MFA for macOS
-Device: JBL Bar 1000
-Device: JBL Bar 1300
-Device: JBL Bar 300
-Device: JBL Bar 500
-Device: JBL Bar 700
-Device: JBL Bar 800
 Digital Editions
 Dimension
 Direct Contracts
@@ -1670,14 +1652,6 @@ Internet.xfinity.com
 Interoperability Issue in OpenPGP.js
 IoS
 IoS App
-JBL Authentics 200
-JBL Authentics 300
-JBL Authentics 500
-JBL Boombox 3 Wi-Fi
-JBL Charge 5
-JBL Charge 5 Wi-Fi
-JBL Flip 6
-JBL PartyBox Ultimate
 Java SDK
 Jetpack
 Jira
@@ -2206,8 +2180,6 @@ Your Own GitLab Instance
 Zero days that affect Intigriti or participating customers (listed below)
 [yourstore].company.site
 a.root-servers.net (DNS service; DNS related)
-a1ttqkupgmaxeg-ats.iot.ap-east-1.amazonaws.com
-a1ttqkupgmaxeg-ats.iot.us-east-1.amazonaws.com
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 a4k.amazon.com
 a5s.hackerone-ext-content.com
@@ -2521,7 +2493,6 @@ apigateway.vidaxl.io
 apigw-noneu.truecaller.com
 apigw.foliofn.com
 apis.mail.yahoo.com
-apis.onecloud.harman.com
 apix.vodafone.om
 app-pwn.intigriti.rocks
 app.alasco.de
@@ -3400,7 +3371,6 @@ edex.adobe.com
 edge-locations5.truecaller.com
 edge.lansweeper.com
 edgeapi.slack.com
-edgeapis.onecloud.harman.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
 editeurs.monespacesante.fr
@@ -3457,7 +3427,6 @@ eu1.badoo.com
 evening-earth.gamma.redoxstage.com
 event.clario.co
 events.launchdarkly.com
-events.onecloud.harman.com
 ews-fusion.my.site.com
 exchange.adobe.com
 exchange.opera.com
@@ -3921,7 +3890,6 @@ https://apps.apple.com/fr/app/cryptobox/id972602802
 https://apps.apple.com/fr/app/dailymotion/id336978041
 https://apps.apple.com/fr/app/doctolib/id925339063
 https://apps.apple.com/fr/app/infomaniak-mail/id1622596573
-https://apps.apple.com/fr/app/jbl-one/id1610239857
 https://apps.apple.com/fr/app/swapcard/id879488719
 https://apps.apple.com/fr/app/tchap/id1446253779
 https://apps.apple.com/gb/app/clearpay-buy-now-pay-later/id1474022186
@@ -5239,7 +5207,6 @@ https://play.google.com/store/apps/details?id=com.indeed.resume
 https://play.google.com/store/apps/details?id=com.infomaniak.drive
 https://play.google.com/store/apps/details?id=com.infomaniak.mail&hl=en_US
 https://play.google.com/store/apps/details?id=com.irobot.home
-https://play.google.com/store/apps/details?id=com.jbl.oneapp&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US	
 https://play.google.com/store/apps/details?id=com.keepersecurity.chat&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.kubi.kucoin
@@ -6083,9 +6050,6 @@ logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
 lookup.nextcloud.com
 louvre.veriff.me
-lsaconsumerevents1.onecloud.harman.com
-lsaconsumerevents2.onecloud.harman.com
-lsaconsumerevents3.onecloud.harman.com
 luxfilmfestfilms.megatix.be
 luxfilmfestproducts.megatix.be
 luxfilmfesttickets.megatix.be
@@ -6415,8 +6379,6 @@ org.qwant.com
 org.toshi
 org.toshi.distribution
 org.vom8x8.sipua
-ota-staging.onecloud.harman.com
-ota.onecloud.harman.com
 otp-callback-eu.truecaller.com
 otp-callback-noneu.truecaller.com
 outage.logitech.com
@@ -6946,7 +6908,6 @@ teststs.uzleuven.be
 theblog.adobe.com
 therapeutics.23andme.com
 therecord.media
-things.onecloud.harman.com
 tickets.kinepolis.be
 tickets.kinepolis.ch
 tickets.kinepolis.es
