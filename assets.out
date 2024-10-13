@@ -11,7 +11,6 @@
  https://github.com/0xPolygon/proof-generation-api
  idp-contact.nexuzhealth.be
  mix.monash.edu 
- vrtnws-api.vrt.be
 (youriwssubdomain).cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com
@@ -975,7 +974,6 @@
 0xfbfa258b9028c7d4fc52ce28031469214d10daeb
 1.1.1.1 Resolver
 10.128.0.0/10
-1001982587
 1005070636
 1013961111
 1018340690
@@ -1015,7 +1013,6 @@
 1294578643
 1298908406
 1324809509
-1337574835
 134.58.179.102-103
 134.58.179.82
 1343620481
@@ -1225,6 +1222,7 @@ AOL Mail
 AOL Mobile Apps
 AOL Search
 API Shield
+API's
 AS41690
 AWS Infrastructure
 AWS infrastructure and services in use by Wise (eg: S3 buckets)
@@ -1758,6 +1756,7 @@ Mi TV Box
 Mi/Redmi Phone
 Microsites
 Miro SDK
+Mobile Applications
 Mobile Apps
 MoneyBack.HongKong.Android
 MoneyBack.HongKong.iOS
@@ -2445,7 +2444,6 @@ api.slack.com
 api.smtp2go.com
 api.sokos.fi
 api.sorare.com
-api.sporza.be
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -2469,7 +2467,6 @@ api.veriff.me
 api.vhx.tv
 api.vidaxl.com
 api.vimeo.com
-api.vrt.radio
 api.watsons.co.id
 api.watsons.co.th
 api.watsons.com.hk
@@ -2661,8 +2658,6 @@ be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
-be.vrt.ketnet.ketnetjr
-be.vrt.vrtnu
 beacon.netflix.com
 behance.net
 bestfiends.com
@@ -6030,7 +6025,6 @@ login.swisspass.ch
 login.truelayer[-sandbox].com
 login.tvg.com
 login.venly.io
-login.vrt.be
 login.www.vaxvacationaccess.com
 logitech.zendesk.com
 logitechg.com.cn
@@ -6739,7 +6733,6 @@ spark.adobe.com
 spark.fareharbor.com
 spectacles.com
 speedtest.xfinity.com
-sport-components.sporza.be
 sportsbook.fanduel.com
 sporza.be
 sq
