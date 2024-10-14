@@ -586,7 +586,6 @@
 *.nr-ops.net
 *.numberfire.com
 *.octopus.com
-*.oda.com
 *.odcdn.com.au
 *.oklink.com
 *.okto.tech
@@ -652,7 +651,6 @@
 *.prod.dradis.netflix.com
 *.prod.fdbox.net
 *.prod.ftl.netflix.com
-*.prod.nube.tech
 *.proofhq.com
 *.prowly.com
 *.psynet.gg
@@ -981,8 +979,6 @@
 1032480595
 1052238659
 107.167.96.0/19
-1076840480
-1079537578
 1080248000
 1089294040
 1091010942
@@ -1923,9 +1919,6 @@ Shopify Developed Apps
 Shopify Mobile Applications
 Shopify Third Party Apps
 Shopify Third Party Store
-SimScale API
-SimScale Platform
-SimScale Website
 Skyscanner Android App
 Skyscanner Android app
 Skyscanner iOS App
@@ -5002,7 +4995,6 @@ https://marketplace.auth0.com
 https://marketplace.ifood.com.br
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
 https://master.servicecentre.digitalservicing-np.lfscnp.com/
-https://mathem.se
 https://matrix.agent.tchap.gouv.fr
 https://matrix.e.tchap.gouv.fr
 https://matrix.i.tchap.gouv.fr
@@ -5080,7 +5072,6 @@ https://nw.ring.com/*
 https://oauth.ring.com/*
 https://octopus.com
 https://octopus.com/downloads
-https://oda.com
 https://odesli.co
 https://odesli.com
 https://offer.tidal.com/download
@@ -6305,7 +6296,6 @@ nl.gamma.verf
 nl.karwei.app.android
 nl.vidaxl.be
 nmtracking.netflix.com
-no.kolonial.tienda
 notifications5-asia-south1.truecaller.com
 notifications5.truecaller.com
 notula-accpt.portofantwerpbruges.com
@@ -6620,7 +6610,6 @@ scrutiny.swiftfinancial.com
 sdg.data.gov
 sdk-apps-noneu.truecaller.com
 sdk-otp-verification-noneu.truecaller.com
-se.mathem.mathem
 search-external-features-asia-south1.truecaller.com
 search-external-features-noneu.truecaller.com
 search-warnings-asia-south1.truecaller.com
