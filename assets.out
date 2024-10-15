@@ -1299,7 +1299,6 @@ Any public (Internet-facing) infrastructure owned and operated by Palantir.
 Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
 Any public cloud resource or infrastructure operated and managed by REI.
 Any publicly accessible Tripadvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
-Any publicly facing host owned by Etsy, including the below:
 Any related DPG media domain
 Any related Torfs domain
 Any resource created or accessed with the Outscale Cloud, on all regions
@@ -3595,12 +3594,9 @@ http://auth.khealth.com/khealth/sign-up
 http://auth.khealth.com/mayo-la-crosse/sign-up
 http://backend-api.devicecloud.production.forescoutcloud.net/api/v1/settings
 http://bitso.com/alpha
-http://blog.etsy.com/
-http://careers.etsy.com/
 http://clinical-quality.khealth.com/api/v1
 http://coinbase.com
 http://collaboration.rei.com
-http://community.etsy.com/
 http://datapod-1-druid-ingest.production.forescoutcloud.net/v1/upload
 http://datapod-1-druid-query.production.forescoutcloud.net/v1/polling
 http://datapod-1-druid-query.production.forescoutcloud.net/v1/query/agg
@@ -3987,6 +3983,7 @@ https://bitbucket.org
 https://blablacardaily.com
 https://blockexplorer.electroneum.com
 https://blog.bitpanda.com/en
+https://blog.etsy.com
 https://blog.lastpass.com
 https://blog.thefork.com/
 https://blog.verisign.com
@@ -4031,6 +4028,7 @@ https://canva.com/developers
 https://carbonneutral.ampol.com.au/
 https://cards.ampol.com.au
 https://carecredit.com.au
+https://careers.etsy.com
 https://careers.takeaway.com
 https://cash.app
 https://cashback.opera.com/
@@ -4070,6 +4068,7 @@ https://code.elementor.com/
 https://comment-moderation-stats.20min.ch
 https://community.arlo.com
 https://community.cloud.databricks.com/
+https://community.etsy.com
 https://compulsoryunits.monash.edu/
 https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://connect.com
