@@ -2289,7 +2289,6 @@ api*.netflix.com
 api-*.soundcloud.com
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
-api-boards.qwant.com
 api-eu.floqast.app
 api-gateway.polygon.technology
 api-js.datadome.co
@@ -2675,7 +2674,6 @@ bm.visa.com
 bma.badoo.com
 bma.bumble.com
 boards.greenhouse.io
-boards.qwant.com
 book.applevacations.com
 book.beachbound.com
 book.booktandl.com
@@ -3345,7 +3343,6 @@ edgeapi.slack.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
 editeurs.monespacesante.fr
-edu.qwantjunior.com
 education.23andme.com
 education.github.com
 eero (2nd Generation)
@@ -5969,7 +5966,6 @@ lisasijoitus.lahitapiola.fi
 list-v2--netlify-plugins.netlify.app
 lists.nextcloud.com
 lists.wordpress.org
-lite.qwant.com
 live-backstage.tiktok.com
 lms-stg-develop.eks-stg-use1.getaws.arubanetworks.com
 loanbuilder.com
@@ -6058,8 +6054,6 @@ marketplace.magento.com
 marquee.gs.com
 marriottfranchisetransactions.marriott.com
 marrtool.com
-masq-ws.qwant.com
-masq.qwant.com
 matomo.cloud
 matrix.agent.*.tchap.gouv.fr
 matrix.redditspace.com
@@ -6333,7 +6327,6 @@ opt-out-noneu.truecaller.com
 orc-xfi.com
 org.malwarebytes.antimalware
 org.piwik.mobile2
-org.qwant.com
 org.toshi
 org.toshi.distribution
 org.vom8x8.sipua
@@ -6568,7 +6561,6 @@ royal.checksw.com
 rpm-sequoia
 rt.playcanvas.com
 rubygems.org
-s-boards.qwant.com
 s.qwant.com
 s1.qwant.com
 s2.qwant.com
