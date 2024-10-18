@@ -557,8 +557,8 @@ https://www.bitstamp.net/
 https://apps.apple.com/us/app/bitstamp/id1406825640
 https://play.google.com/store/apps/details?id=net.bitstamp.app
 https://play.google.com/store/apps/details?id=net.bitstamp.appgo
-https://security-testing-env-api.k8s.tools-001.d-use-1.braze.com/
-https://security-testing-env-dashboard.k8s.tools-001.d-use-1.braze.com/
+https://bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com
+https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com
 https://docs.bugcrowd.com/
 https://bugcrowd.com/programs
 https://tracker.bugcrowd.com
