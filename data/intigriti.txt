@@ -57,7 +57,6 @@ open-api.capital.com
 aff.capital.com
 go.capital.com
 register.capital.com
-app-pwn.intigriti.rocks
 api.cloudways.com
 developers.cloudways.com
 platform.cloudways.com
@@ -539,15 +538,12 @@ Yahoo Video
 Yahoo Weather
 Yahoo! (Misc)
 yimg.com
-Zero days that affect Intigriti or participating customers (listed below)
 hub.vznkul.be/* 
 hub.vznkul.be/services/interhub/InterHubService
 hub.vznkul.be/services/intrahub/IntraHubService
 hubacc.vznkul.be/*
 hubacc.vznkul.be/services/acceptance/interhub/InterHubService
 hubacc.vznkul.be/services/acceptance/intrahub/IntraHubService
-*pwn.intigriti.rocks
-www.intigriti.com
 api.vidaxl.com
 ar.vidaxl.sa.com
 b2b.vidaxl.com
