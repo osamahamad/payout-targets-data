@@ -3900,7 +3900,6 @@ https://api-prod.thatconceptstore.com/
 https://api-staging.pingone.com/*
 https://api-test.nicehash.com
 https://api-test.nicex.com
-https://api-test.nicex.com/
 https://api-user.e2ro.com/*
 https://api-{app-id}.calls.sendbird.com
 https://api-{app-id}.notifications.sendbird.com
@@ -6151,8 +6150,6 @@ https://test.nicehash.com/
 https://test.nicehash.com/my/
 https://test.nicehash.com/shop/
 https://test.nicex.com
-https://test.nicex.com/
-https://test.nicex.com/my/
 https://testflight.apple.com/join/533gFghn
 https://testnet.tonscan.org/address/EQBQMoFbX2YFU5YP9_0VHdtMFnQMjsM9pH22r9ZSRpYg8Z29
 https://tfb.t-mobile.com
