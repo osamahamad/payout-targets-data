@@ -939,6 +939,7 @@
 *.water-link.be/
 *.wavecell.com
 *.wealthsimple.com
+*.wellsfargo.com
 *.welt.de
 *.westernunion.*
 *.white.market
@@ -3280,6 +3281,10 @@ com.visma.blue
 com.vrbo.android
 com.wealthsimple
 com.wealthsimple.wealthsimple
+com.wellsfargo.ceomobile
+com.wf.ceomobile
+com.wf.mobilebanking
+com.wf.wellsfargomobile
 com.wikibuy.prod.main
 com.wisdomtree.wtprime
 com.withbuddies.dice.free
@@ -3337,6 +3342,7 @@ connect.arkane.network
 connect.arubanetworks.com
 connect.deezer.com
 connect.identity.stagaws.visma.com
+connect.secure.wellsfargo.com
 connect.venly.io
 console-backend.truelayer[-sandbox].com
 console.chainstack.com
@@ -3842,6 +3848,7 @@ http://vimeo.com/api
 http://vimeo.com/create
 http://vimeo.com/ondemand
 http://wallets.opensea.io/
+http://wellsfargo.com
 http://www.kiwi.com/stories
 http://www.logitech.com/my-account
 http://www.lululemon.co.kr/
