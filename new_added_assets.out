@@ -1,0 +1,46 @@
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
+564141518
+C# SDK
+Java SDK
+PHP SDK
+React Native SDK
+Rust SDK
+TrueLayer for Magento (Magento plugin)
+TrueLayer for WooCommerce (WordPress plugin)
+Web SDK
+accountsettings.connect.identity.stagaws.visma.com
+admin.stage.vismaonline.com
+ai-testing.maventa.com
+aiassistant.stage.vismaonline.com
+api.truelayer[-sandbox].com
+api.workbox.dk
+app.workbox.dk
+auth.truelayer[-sandbox].com
+authz.workbox.dk
+autointerface.stag.visma.net
+ax-stage.maventa.com
+com.visma.blue
+connect.identity.stagaws.visma.com
+console-backend.truelayer[-sandbox].com
+console.truelayer[-sandbox].com
+eaccounting.stage.vismaonline.com
+eaccountingprinting.stage.vismaonline.com
+hpp.truelayer[-sandbox].com
+identity.stage.vismaonline.com
+login-api.truelayer[-sandbox].com
+login.truelayer[-sandbox].com
+myservices-api.stage.vismaonline.com
+myservices.stage.vismaonline.com
+oauth.developers.stagaws.visma.com
+onboarding-api.truelayer.com
+pay-api.truelayer[-sandbox].com
+pay.truelayer[-sandbox].com
+paydirect.truelayer[-sandbox].com
+payment.truelayer[-sandbox].com
+payouts.truelayer[-sandbox].com
+testing.maventa.com
+truelayer-signing
+users-api.truelayer.com
+webhooks.truelayer[-sandbox].com

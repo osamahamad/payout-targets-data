@@ -887,6 +887,9 @@
 *.trello.services
 *.trip.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tt.omtrdc.net
@@ -1166,6 +1169,7 @@
 547702041
 549057844
 563291345
+564141518
 566635048
 586634331
 589698942
@@ -1444,6 +1448,7 @@ Burp Collaborator
 Burp Suite Enterprise Edition
 Burp Suite Extension (BApps)
 Burp Suite Pro/Community
+C# SDK
 C100447517
 C103149579
 C2PA Tool
@@ -1714,6 +1719,7 @@ Internet.xfinity.com
 Interoperability Issue in OpenPGP.js
 IoS
 IoS App
+Java SDK
 Jetpack
 Jira
 Kibana
@@ -1937,6 +1943,7 @@ Other assets owned by Personio
 Other non-production infrastructure
 Other publicly-released plugins
 P2P functionality
+PHP SDK
 PIA APIs
 PIA VPN servers
 PNS (subdomains)
@@ -2003,6 +2010,7 @@ Product Delivery
 Protocol of the Swiss Post Voting System
 Public Others Target
 RYOT
+React Native SDK
 Recon Data
 Remaining functions
 Researcher owned WHMCS Instance
@@ -2012,6 +2020,7 @@ Roblox Client
 Roblox Engine
 Roblox Studio
 Rockstar Games Launcher
+Rust SDK
 SHA1-CD
 SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope
 SSL/TLS
@@ -2164,6 +2173,8 @@ Trello Mobile App for iOS
 Trello Third Party Powerups
 Tripadvisor Android App
 Tripadvisor iOS App
+TrueLayer for Magento (Magento plugin)
+TrueLayer for WooCommerce (WordPress plugin)
 Trustwallet Android App
 Trustwallet Chrome Extension
 Trustwallet iOS App
@@ -2244,6 +2255,7 @@ Watsons.Turkey.Android
 Watsons.Turkey.iOS
 Web
 Web Playback SDK
+Web SDK
 Web of Trust Specification
 Web3 Smart Contract
 Web3 Smart Contracts
@@ -2358,6 +2370,7 @@ accounts.reddit.com
 accounts.shopify.com
 accounts.snapchat.com
 accounts.stage.evernote.com
+accountsettings.connect.identity.stagaws.visma.com
 acrobat.adobe.com
 acrobatoauth.adobe.com
 activities.marriott.com
@@ -2374,6 +2387,7 @@ admin.rarible.com
 admin.rezserver.com
 admin.shipt.com
 admin.shopify.com
+admin.stage.vismaonline.com
 admin.wickr.com
 admincms.monespacesante.fr
 adminconsole.adobe.com
@@ -2401,8 +2415,10 @@ aff.capital.com
 affiliate-id.tokopedia.com
 agents.tasheer.com
 aggregator.etoro.com
+ai-testing.maventa.com
 ai-tools.infomaniak.com
 ai.kanghealth
+aiassistant.stage.vismaonline.com
 aiq-prod.codebig2.net
 air.com.bitrhymes.bingo
 air.com.buffalo_studios.newflashbingo
@@ -2604,6 +2620,7 @@ api.tidal.com
 api.tideplatform.in
 api.topperpay.com
 api.trello.com
+api.truelayer[-sandbox].com
 api.tumblr.com
 api.unleashed.be
 api.uphold.com
@@ -2623,6 +2640,7 @@ api.watsons.com.tw
 api.watsons.vn
 api.wisdomtreeprimeapp.com
 api.wordpress.org
+api.workbox.dk
 api.yoti.com
 api.ys7.com
 api.zellepay.com
@@ -2709,6 +2727,7 @@ app.taxjar.com
 app.theperfumeshop.com
 app.vidaxl.io
 app.watsons.com.tr
+app.workbox.dk
 app3.rewire.to
 applause1.magisto.com
 apple-subscription-monitor-eu.truecaller.com
@@ -2767,18 +2786,22 @@ auth.preprod.monespacesante.fr
 auth.remitly.com
 auth.services.adobe.com
 auth.skypicker.com
+auth.truelayer[-sandbox].com
 auth.ys7.com
 auth0.com	
 auth0.net
 auth2.indrive.tech
 auth4-asia-south1.truecaller.com
 auth4-noneu.truecaller.com
+authz.workbox.dk
 autocomplete.booking.com
 autodiscover.uzleuven.be
+autointerface.stag.visma.net
 autoupdateapi.lansweeper.com
 avtoelon.uz
 aw.visa.com
 aws.indrive.tech
+ax-stage.maventa.com
 b2b.tvgnetwork.com
 b2b.vidaxl.com
 b5s.hackerone-ext-content.com
@@ -3269,6 +3292,7 @@ com.venmo
 com.veriff.demo
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
+com.visma.blue
 com.vrbo.android
 com.wealthsimple
 com.wealthsimple.wealthsimple
@@ -3328,11 +3352,14 @@ connect.8x8.com
 connect.arkane.network 
 connect.arubanetworks.com
 connect.deezer.com
+connect.identity.stagaws.visma.com
 connect.venly.io
+console-backend.truelayer[-sandbox].com
 console.chainstack.com
 console.circle.com
 console.dashlane.com
 console.tink.com
+console.truelayer[-sandbox].com
 contact-lists-eu.truecaller.com
 contact-lists-noneu.truecaller.com
 contact-request-stateless-eu.truecaller.com
@@ -3507,6 +3534,8 @@ dx-demo.deriv.com
 dx.deriv.com
 e-Commerce
 eIDAS Bridge  (see program description for github link)
+eaccounting.stage.vismaonline.com
+eaccountingprinting.stage.vismaonline.com
 earlywarningapi.force.com
 eassessment.monash.edu
 ebctest.cybersource.com
@@ -3747,6 +3776,7 @@ horizonchaseturbo.com
 hotel-deals.marriott.com
 hotornot.com
 hpanel.hostinger.com
+hpp.truelayer[-sandbox].com
 ht.visa.com
 http://agenttraining.westernunion.com
 http://analytics.prosus.com
@@ -6635,6 +6665,7 @@ id1520720139
 id1534920947
 id1541153375
 identity.nba.com
+identity.stage.vismaonline.com
 identity.yoti.com
 identityserver-acc.landmarkcinemas.com
 identityserver.landmarkcinemas.com
@@ -6790,6 +6821,7 @@ logilife.logitech.com
 login-4ngbets.us.betfair.com
 login-4njbets.us.betfair.com
 login-accpt.portofantwerpbruges.com
+login-api.truelayer[-sandbox].com
 login-ia.tvg.com
 login-pabets.tvg.com
 login-test.portofantwerpbruges.com/poam/XUI/
@@ -6811,6 +6843,7 @@ login.portofantwerpbruges.com
 login.starbucks.co.jp
 login.swapcard.com
 login.swisspass.ch
+login.truelayer[-sandbox].com
 login.tvg.com
 login.venly.io
 login.www.vaxvacationaccess.com
@@ -7006,6 +7039,8 @@ mynexuz.be
 mynexuz.be/myUZ/
 mynexuzhealth/id1459856321
 mynk.ninjakiwi.com
+myservices-api.stage.vismaonline.com
+myservices.stage.vismaonline.com
 nationalidverification-noneu.truecaller.com
 near.org 
 neoket.net
@@ -7112,6 +7147,7 @@ oauth-portal-asia-south1.truecaller.com
 oauth-portal-noneu.truecaller.com
 oauth-sandbox.gocardless.com
 oauth.deriv.com
+oauth.developers.stagaws.visma.com
 obs-sensors.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 octopus
@@ -7121,6 +7157,7 @@ omgpro.airbnb.com
 on-premises software
 on-ramp.metaswap-dev.codefi.network
 onboarding-*.cloud.com
+onboarding-api.truelayer.com
 onboarding.cloud.com
 onboarding.greenhouse.io
 one-world-radio-tomorrowland/id1485778856
@@ -7177,19 +7214,24 @@ partners.shopify.com
 passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
+pay-api.truelayer[-sandbox].com
 pay-sandbox.gocardless.com
 pay.8x8.com
 pay.crypto.com
 pay.ibex.exchange
 pay.tokopediax.com
+pay.truelayer[-sandbox].com
 paybridge.booking.com
+paydirect.truelayer[-sandbox].com
 payment.backend-capital.com
 payment.deezer.com
 payment.pixiv.net
+payment.truelayer[-sandbox].com
 paymentcomponent.booking.com
 payments.hostinger.com
 paynotifications.booking.com
 payoneer.com.cn
+payouts.truelayer[-sandbox].com
 paypal.me
 paypalobjects.com
 payroll.razorpay.com
@@ -7677,6 +7719,7 @@ test.payworks.io
 test.rarible.com
 testapi.redoxengine.com
 testapp.redoxengine.com
+testing.maventa.com
 testnet.bitmex.com
 testnet.immutable.com
 teststs.uzleuven.be
@@ -7714,6 +7757,7 @@ trm.pinepaymentsolutions.com
 truck-api.eu-east-1.indriverapp.com
 truehelper-eu.truecaller.com
 truehelper-noneu.truecaller.com
+truelayer-signing
 try.discourse.org
 tunnistus.lahitapiola.fi
 tunnistus.s-ryhma.fi
@@ -7762,6 +7806,7 @@ usercontent.apps.nextcloud.com
 usercontent.koho.ca
 userprofile-acc.landmarkcinemas.com
 userprofile-ui.landmarkcinemas.com
+users-api.truelayer.com
 uwa.mobilevikings.be
 uz.avtoelon
 uzlcm12cmg1.uzleuven.be
@@ -7846,6 +7891,7 @@ webgateway.koho.ca
 webhook.metamask-institutional.io
 webhooks.booking.com
 webhooks.gamma.redoxstage.com
+webhooks.truelayer[-sandbox].com
 webonboarding-eu.truecaller.com
 webonboarding-noneu.truecaller.com
 webtoolbox.notebleue.pro
