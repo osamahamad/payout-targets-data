@@ -343,6 +343,8 @@
 *.fromspotify.com
 *.fuze.com
 *.fuze.site
+*.gamma.be/*
+*.gamma.nl/*
 *.genoapay.co.nz
 *.genoapay.com
 *.gethypr.com
@@ -451,6 +453,9 @@
 *.int.remitly.com
 *.intel.com
 *.intercomassets.com / *.intercomcdn.com
+*.intergamma-test.nl
+*.intergamma.cloud
+*.intergamma.nl/*
 *.irccloud-cdn.com
 *.irccloud.com
 *.itcapital.io
@@ -467,6 +472,8 @@
 *.just-eat.fr
 *.just-eat.no
 *.justfall.lol,*.justplay.lol,*.1v1.lol
+*.karwei.nl/*
+*.karweioutletstore.nl
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
 *.kes.kindredext.net
@@ -712,6 +719,7 @@
 *.registry.eu
 *.rentalcars.com
 *.reposify.com
+*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -937,6 +945,9 @@
 *.wavecell.com
 *.wealthsimple.com
 *.welt.de
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
 *.westernunion.*
 *.white.market
 *.whois.eu
@@ -1065,6 +1076,7 @@
 1539469172
 1541949985
 1557515848
+1558129454
 1579530451
 1589023233
 1589071345
@@ -1210,6 +1222,9 @@
 94.107.237.192/26
 944011620
 947984433
+949829216
+950680989
+950693949
 955837609
 961114489414094898
 965180355
@@ -2020,6 +2035,9 @@ Shopify Developed Apps
 Shopify Mobile Applications
 Shopify Third Party Apps
 Shopify Third Party Store
+SimScale API
+SimScale Platform
+SimScale Website
 Skyscanner Android App
 Skyscanner Android app
 Skyscanner iOS App
@@ -2785,6 +2803,7 @@ bd.visa.com
 be.bpost.mobilecard
 be.bpost.mybpost
 be.delen.digital
+be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -6701,6 +6720,9 @@ k8s.gcr.io
 k8s.io
 kaccount.khealth.com
 kartaview.org
+kassa.gamma.be/*
+kassa.gamma.nl/*
+kassa.karwei.nl/*
 kb.databricks.com
 kbill.mackeeper.com
 kinepolis-studio.be
@@ -6920,6 +6942,9 @@ mgmtpod-1.production.forescoutcloud.net
 mgs-gw.m.dana.id
 mgs.marriott.com
 middle-force.khealth.io
+mijn.gamma.be/*
+mijn.gamma.nl/*
+mijn.karwei.nl/*
 mijnacc.uzleuven.be
 mipartnerprivileges.marriott.com
 mirc.uzleuven.be
@@ -7068,6 +7093,9 @@ nft.io
 nicetryapril.na1.echosignsandbox.com
 ninja.kiwi
 ninjakiwi.com
+nl.gamma.app.android
+nl.gamma.verf
+nl.karwei.app.android
 nl.vidaxl.be
 nmtracking.netflix.com
 no.kolonial.tienda
@@ -8018,6 +8046,8 @@ www.fortress.com.hk
 www.fraedom.com
 www.funjet.com
 www.fuzemeeting.com
+www.gamma.be/*
+www.gamma.nl/*
 www.getaroom.com
 www.globalhotelchoices.com
 www.gocardless.com
@@ -8043,6 +8073,7 @@ www.infomaniak.com
 www.instacart.com
 www.irccloud.com
 www.jaybirdsport.com
+www.karwei.nl/*
 www.kayak.com
 www.kinepolis.be 
 www.kinepolis.biz
