@@ -109,13 +109,11 @@
 *.artstation.com
 *.asana.biz
 *.asphere.xyz
-*.astaro.com
 *.atairbnb.com
 *.atg.se
 *.atlastunnel.com
 *.atspotify.com
 *.audicagame.com
-*.autobild.de
 *.avalabs.org
 *.avax-dev.network
 *.avax-test.network
@@ -138,8 +136,6 @@
 *.betviewapi.com
 *.big.one
 *.bigone.com
-*.bild.de
-*.bild.tv
 *.binary.com
 *.bingo.com
 *.bingoblitz.com
@@ -181,7 +177,6 @@
 *.byairbnb.com
 *.bybit.com
 *.byspotify.com
-*.bz-berlin.de
 *.c-point.be
 *.caesarsgames.com
 *.canva.cn
@@ -233,7 +228,6 @@
 *.coinmetro.com
 *.coinsbit.io
 *.comcast.com
-*.computerbild.de
 *.consumer.worldcoin.org
 *.contactallerg(y|ie).uzleuven.be
 *.contentsquare.com
@@ -251,7 +245,6 @@
 *.cryptopunks.app
 *.cubicmotion.com
 *.cyberghost.com
-*.cyberoam.com
 *.cyrus-security.com
 *.dailyadvent.com
 *.dailymotion.com
@@ -291,7 +284,6 @@
 *.east.fdbox.net
 *.easy.ac
 *.eat.ch
-*.ein-herz-fuer-kinder.de
 *.elastic.co
 *.elasticnet.co
 *.elstc.co
@@ -325,7 +317,6 @@
 *.fareharbor.engineering
 *.feednews.com
 *.fetlife.com
-*.fitbook.de
 *.flickr.com
 *.flipkey.com
 *.floqast.app
@@ -344,8 +335,6 @@
 *.fromspotify.com
 *.fuze.com
 *.fuze.site
-*.gamma.be/*
-*.gamma.nl/*
 *.genoapay.co.nz
 *.genoapay.com
 *.gethypr.com
@@ -408,7 +397,6 @@
 *.hiltonbusinessonline.com
 *.hiltonhotels.jp
 *.hiltonlocalbiz.com
-*.hitmanpro.com
 *.hln.be
 *.hmxservices.com
 *.hmxwebservices.com
@@ -454,9 +442,6 @@
 *.int.remitly.com
 *.intel.com
 *.intercomassets.com / *.intercomcdn.com
-*.intergamma-test.nl
-*.intergamma.cloud
-*.intergamma.nl/*
 *.irccloud-cdn.com
 *.irccloud.com
 *.itcapital.io
@@ -473,8 +458,6 @@
 *.just-eat.fr
 *.just-eat.no
 *.justfall.lol,*.justplay.lol,*.1v1.lol
-*.karwei.nl/*
-*.karweioutletstore.nl
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
 *.kes.kindredext.net
@@ -585,7 +568,6 @@
 *.mwbsys.com
 *.mworld.com
 *.myharmony.com
-*.myhomebook.de
 *.myinsights.io
 *.mysqueezebox.com
 *.myteksi.com
@@ -663,9 +645,8 @@
 *.personio.de
 *.personio.tools
 *.personiowhistleblowing.com
-*.petbook-magazine.com/
-*.petbook.de
 *.pinterest.com Web Apps
+*.plannthat.com
 *.platformservices.io
 *.playstation.net
 *.playtika.com
@@ -717,11 +698,9 @@
 *.redditinc.com
 *.redditmedia.com
 *.redecor.com
-*.reflexion.net
 *.registry.eu
 *.rentalcars.com
 *.reposify.com
-*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -808,14 +787,11 @@
 *.sol-data.com
 *.solarcity.com
 *.sonyentertainmentnetwork.com
-*.sophos.com
 *.soundcloud.org
 *.souparea.com
 *.spiketrap.io
 *.spinaway.com
 *.sportinglife.com
-*.spring-media.de
-*.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sqills.com
@@ -834,7 +810,6 @@
 *.streamlabs.com
 *.streamlabscharity.com
 *.stripe.com
-*.stylebook.de
 *.subp-router.hereapi.com
 *.superbet.com
 *.superbet.pl
@@ -851,7 +826,6 @@
 *.taralite.com
 *.tdl.sh
 *.teams.cloudflare.com
-*.techbook.de
 *.telenor.se
 *.tesla.cn
 *.tesla.com
@@ -881,7 +855,6 @@
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trafficjunky.com
 *.transferwise.com
-*.travelbook.de
 *.travelocity.ca
 *.travelocity.com
 *.travix.com
@@ -951,17 +924,12 @@
 *.wealthsimple.com
 *.wellsfargo.com
 *.wellsfargoadvisors.com
-*.welt.de
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
 *.westernunion.*
 *.wf.com
 *.white.market
 *.whois.eu
 *.wimpmusic.com
 *.wise.com
-*.wissen-sie-mehr.de
 *.withairbnb.com
 *.withbuddies.com
 *.withspotify.com
@@ -1085,7 +1053,6 @@
 1539469172
 1541949985
 1557515848
-1558129454
 1579530451
 1589023233
 1591003012
@@ -1137,6 +1104,7 @@
 3CX SBC
 3d.cs.money
 3rd party services
+3rd party services hosted at *.sophos.com
 3rdparty-apis.coinmarketcap.com
 403546234
 403684733
@@ -1231,9 +1199,6 @@
 94.107.237.192/26
 944011620
 947984433
-949829216
-950680989
-950693949
 955837609
 961114489414094898
 965180355
@@ -1719,7 +1684,6 @@ Insight Managed Smart Cloud Wireless Access Point
 Insight iOS App
 Intellectual Property on Public Domains
 Intelligent Canvas
-Intercept X Endpoint
 Internal Server via Internet Network
 Internet.xfinity.com
 Interoperability Issue in OpenPGP.js
@@ -2067,6 +2031,8 @@ Social Media Accounts
 Software
 Software Supply Chain
 Sonantic
+Sophos Firewall (XG/XGS, SFOS) - Pre-auth RCE
+Sophos IT Infrastructure (all other Sophos domains)
 Source Code
 SpaceX and Starlink assets (target information and rewards detailed above on the brief)
 Special Conditions
@@ -2294,8 +2260,6 @@ Workfront Outlook Plugin
 Workstation MFA (WMFA)
 Wyze Cam V3
 XD
-XG Firewall
-XG Firewall - Pre-auth RCE
 XMP Toolkit
 Xfinity Android mobile app
 Xfinity Home Hardware (items listed below in brief)
@@ -2486,7 +2450,6 @@ api.binance.com
 api.bitcoin.shapeshift.com 
 api.bitso.com
 api.blockchain.info
-api.blockscore.com
 api.chainstack.com
 api.circle.com
 api.cloudflare.com
@@ -2715,7 +2678,6 @@ app.netlify.com
 app.nl.socialdeal
 app.nordpass.com
 app.pullrequest.com
-app.quovo.com
 app.recordedfuture.com
 app.rewire.to
 app.sandbox.directly.com
@@ -2830,7 +2792,6 @@ bd.visa.com
 be.bpost.mobilecard
 be.bpost.mybpost
 be.delen.digital
-be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -3576,6 +3537,7 @@ eets.gamma.redoxstage.com
 effecthouse.tiktok.com
 egaming.kinepolis.es
 elastic.co credentials
+eligibility.khealth.com
 email-verification-eu.truecaller.com
 email-verification-noneu.truecaller.com
 embed.tumblr.com
@@ -3740,7 +3702,6 @@ hackathon-photos-us-east-2.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
 hackathon-tracker.digitalocean.com
 hackerone-ext-content.com
-hackerone-m1rtuq8orz.hbstaging.website
 hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com
 hackerone-user-content.com
 hackerone.com
@@ -4104,6 +4065,7 @@ https://apps.apple.com/au/app/bigcommerce/id1418570678
 https://apps.apple.com/au/app/caltex-australia/id1314768594
 https://apps.apple.com/au/app/certsy/id1617796159
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
+https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
 https://apps.apple.com/br/app/nubank-conta-e-cart%C3%A3o/id814456780
@@ -4534,9 +4496,6 @@ https://datadome.co
 https://dataportal.originenergy.com.au
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
 https://dcfgatewaytst1.marriott.com/
-https://dealer.prod.ps.axelspringer.de/api/v1/partners/{partnerId}/activation
-https://dealer.prod.ps.axelspringer.de/purchases/004/bild/*
-https://dealer.prod.ps.axelspringer.de/purchases/004/welt/*
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
 https://demo.priceless.com/
@@ -4582,6 +4541,7 @@ https://docs.mapbox.com/android/
 https://docs.mapbox.com/api/
 https://docs.mapbox.com/ios/maps/overview/
 https://docs.newrelic.com/
+https://docs.sophos.com/central/customer/help/en-us/ManageYourProducts/ThreatAnalysisCenter/Integrations/Sophos/NDR/index.html
 https://docs.tempus-ex.com
 https://donate.mastercard.com
 https://download.bkexer.xin/app/download/android/app-release.apk
@@ -4854,6 +4814,7 @@ https://github.com/RIPE-NCC/whois
 https://github.com/Shopify/*
 https://github.com/UnitusLabs/Contracts/wiki/Deployments#base-contracts
 https://github.com/Virtuswap/v1-core/tree/main/contracts
+https://github.com/Zharta/lending-protocol-v2
 https://github.com/adobe/*
 https://github.com/alchemyplatform/modular-account
 https://github.com/allinbits/govgen-governance-dapp 
@@ -4978,7 +4939,9 @@ https://github.com/gsa/data.gov
 https://github.com/gsa/datagov-deploy
 https://github.com/hackenproof-public/bluefin-exchange-contracts-sui
 https://github.com/hackenproof-public/bluefin-liquidity-vaults-contracts
+https://github.com/hackenproof-public/commonwealth-contracts
 https://github.com/hackenproof-public/elixir_bluefin_integration
+https://github.com/hackenproof-public/node-terminal-contracts/
 https://github.com/hackenproof/bluefin-exchange-contracts-sui
 https://github.com/hackenproof/elixir_bluefin_integration
 https://github.com/hyperledger/besu
@@ -6025,6 +5988,7 @@ https://play.google.com/store/apps/details?id=se.atg.live&hl=en&gl=SE
 https://play.google.com/store/apps/details?id=ua.aval.biz.client.android&hl=uk
 https://play.google.com/store/apps/details?id=ua.aval.dbo.client.android
 https://play.google.com/store/apps/details?id=ua.raiffeisen.myraif
+https://play.google.com/store/search?q=plann&c=apps
 https://playlist.link
 https://plmcixt.pinelabs.com/
 https://plugins.matomo.org/developer/innocraft
@@ -6105,7 +6069,6 @@ https://screenplayer.20min.ch
 https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secure-iphone-xml.booking.com/json/
 https://secure.cuehit.net
-https://secure.mypass.de/
 https://secure.neogov.com
 https://secure.vendhq.com
 https://secure.westernunion.com
@@ -6283,6 +6246,7 @@ https://user-storage.api.cx.metamask.io
 https://utv.usaa.com
 https://v.utv.usaa.com
 https://vault-staging.getmoneytree.com
+https://vc.tasheer.com/
 https://vendorss.usaa.com
 https://veno.finance
 https://vfs.mioot.com/
@@ -6554,7 +6518,12 @@ https://www.skidxb.com/
 https://www.skinstore.com/
 https://www.skroutz.gr/
 https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/
+https://www.sophos.com/
+https://www.sophos.com/en-us/products
+https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
+https://www.sophos.com/en-us/products/mobile-control/free-trial
+https://www.sophos.com/en-us/products/next-gen-firewall
 https://www.sourcetreeapp.com/
 https://www.status-takeaway.com/status
 https://www.superdrug.com/blog/
@@ -6698,6 +6667,7 @@ indicative-pricing.taxi.booking.com
 infomaniak.events
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
+innersloth.kidswebservices.com
 innogames.com
 insights-by-sentiance/id1608074635
 insights-categorizer-eu.truecaller.com
@@ -6763,11 +6733,9 @@ k8s.gcr.io
 k8s.io
 kaccount.khealth.com
 kartaview.org
-kassa.gamma.be/*
-kassa.gamma.nl/*
-kassa.karwei.nl/*
 kb.databricks.com
 kbill.mackeeper.com
+kidswebservices.com
 kinepolis-studio.be
 kinepolis.megatix.be
 kinepolis/id368204284
@@ -6901,7 +6869,6 @@ mainnet-boot-2.ternoa.network
 mainnet.ternoa.network
 maintenance.logitech.com
 manage-sandbox.gocardless.com
-manage.blockscore.com
 manage.grab.co
 manager.infomaniak.com/v3/*
 map.snapchat.com
@@ -6987,9 +6954,6 @@ mgmtpod-1.production.forescoutcloud.net
 mgs-gw.m.dana.id
 mgs.marriott.com
 middle-force.khealth.io
-mijn.gamma.be/*
-mijn.gamma.nl/*
-mijn.karwei.nl/*
 mijnacc.uzleuven.be
 mipartnerprivileges.marriott.com
 mirc.uzleuven.be
@@ -7137,12 +7101,10 @@ nextcloud/workflow_script
 nexus.vidaxl.org
 nft.coinbase.com
 nft.io
+niantic.kidswebservices.com
 nicetryapril.na1.echosignsandbox.com
 ninja.kiwi
 ninjakiwi.com
-nl.gamma.app.android
-nl.gamma.verf
-nl.karwei.app.android
 nl.vidaxl.be
 nmtracking.netflix.com
 no.kolonial.tienda
@@ -7478,7 +7440,6 @@ secure.echosign.com
 secure.lahitapiola.fi
 secure.netflix.com
 secure.plaid.com
-secure.quovo.com
 secure.rezserver.com
 secure.tumblr.com
 secureui.starbucks.com
@@ -7603,6 +7564,7 @@ staging-db.vidaxl.io
 staging-shop.shipt.com
 staging-shoppingcart.shipt.com
 staging.airtable.com
+staging.kidswebservices.com
 staging.magisto.com
 staging.travix.com & stg.travix.com & dev.travix.com & development.travix.com & playground.travix.com
 staging.vidaxl.io
@@ -7764,6 +7726,7 @@ translate.badoo.com
 travelagents.marriott.com/
 traveler.marriott.com
 travelfrom.fr
+treatments.khealth.com
 trello.com
 trendyol.com
 tria.ge
@@ -7824,6 +7787,8 @@ users-api.truelayer.com
 uwa.mobilevikings.be
 uz.avtoelon
 uzlcm12cmg1.uzleuven.be
+v1. kidswebservices.com
+v1staging.kidswebservices.com 
 v3.polo-static.com
 vacations.travelimpressions.com
 vacations.united.com
@@ -8100,8 +8065,6 @@ www.fortress.com.hk
 www.fraedom.com
 www.funjet.com
 www.fuzemeeting.com
-www.gamma.be/*
-www.gamma.nl/*
 www.getaroom.com
 www.globalhotelchoices.com
 www.gocardless.com
@@ -8127,7 +8090,6 @@ www.infomaniak.com
 www.instacart.com
 www.irccloud.com
 www.jaybirdsport.com
-www.karwei.nl/*
 www.kayak.com
 www.kinepolis.be 
 www.kinepolis.biz

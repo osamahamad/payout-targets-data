@@ -253,6 +253,7 @@ https://api.coinstore.com/api
 wss://ws.coinstore.com/s/ws
 https://futures.coinstore.com/api
 wss://ws-futures.coinstore.com/socket.io/
+https://github.com/hackenproof-public/commonwealth-contracts
 Core Browser Extension 
 Core Web Wallet
 Core Android App
@@ -567,6 +568,7 @@ https://test.nicehash.com/
 P2P functionality
 NFTs
 Lending and Borrowing
+https://github.com/hackenproof-public/node-terminal-contracts/
 https://www.okx.com/docs-v5/en/#market-maker-program
 https://www.okx.com/docs/en/
 Android App
@@ -861,4 +863,5 @@ https://labs.zetachain.com/
 https://explorer.zetachain.com/
 https://www.zetachain.com/ecosystem
 https://hub.zetachain.com/
+https://github.com/Zharta/lending-protocol-v2
 https://bitcastle.io/en

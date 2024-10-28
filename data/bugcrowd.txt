@@ -33,7 +33,6 @@ https://start.1password.com
 <Your own 1Password account> —> https://events.1password.com/  (Event Reporting API is available on 1Password Business Accounts Only)
 Aiven for Clickhouse
 Aiven for Dragonfly
-Aiven for Apache Flink
 Aiven for Metrics
 Aiven for Valkey
 Aiven for Apache Cassandra
@@ -45,6 +44,7 @@ Aiven for M3
 Aiven for PostgreSQL
 Aiven for Caching
 Aiven for MySQL
+Aiven for Apache Flink
 https://aiven.io/
 https://console.aiven.io/login
 https://api.aiven.io/login
@@ -1078,6 +1078,8 @@ https://playlist.link
 https://mylink.page
 https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
 https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
+https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
+https://play.google.com/store/search?q=plann&c=apps
 https://shop.lululemon.com
 https://apps.apple.com/us/app/lululemon/id920098546
 https://www.lululemon.com.au/  
@@ -1513,10 +1515,18 @@ https://smartmockups.com/
 https://snapnames.com/
 https://www.namejet.com/
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
-XG Firewall - Pre-auth RCE
+Sophos Firewall (XG/XGS, SFOS) - Pre-auth RCE
 https://central.sophos.com
-XG Firewall
-Intercept X Endpoint
+https://www.sophos.com/en-us/products/next-gen-firewall
+https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial
+https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial
+https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial
+https://www.sophos.com/en-us/products/mobile-control/free-trial
+https://www.sophos.com/en-us/products/mobile-control/free-trial
+https://docs.sophos.com/central/customer/help/en-us/ManageYourProducts/ThreatAnalysisCenter/Integrations/Sophos/NDR/index.html
+https://www.sophos.com/en-us/products
+https://www.sophos.com/
+Sophos IT Infrastructure (all other Sophos domains)
 Any Other Sophos Product or Service
 https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
 https://soundcloud.com

@@ -103,6 +103,7 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.sandbox.*.lfscnp.com
 *.-np.*.lfscnp.com
 *.linktree-extensions.com
+*.plannthat.com
 *.lululemon.com
 *.nr-data.net
 *.nr-ops.net
@@ -161,11 +162,7 @@ prod-*.nu.com.co
 *.certsynonprod.com
 *.mcssl.com
 *.skyscanner.net
-*.sophos.com
-*.cyberoam.com
-*.reflexion.net
-*.hitmanpro.com
-*.astaro.com
+3rd party services hosted at *.sophos.com
 *.soundcloud.org
 *.s-cloud.net
 *.services.repostnetwork.com
