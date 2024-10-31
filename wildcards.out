@@ -17,7 +17,6 @@
 *.8x8e2e.com
 *.8x8pilot.com
 *.8x8staging.com
-*.LCX.com
 *.YOUR-TESTING-STORE.mybigcommerce.com/
 *.a.exodus.io
 *.acbpost.be
@@ -87,25 +86,18 @@
 *.arloxcld.com
 *.artstation.com
 *.asana.biz
-*.asphere.xyz
 *.atairbnb.com
 *.atg.se
 *.atlastunnel.com
 *.atspotify.com
 *.audicagame.com
 *.autobild.de
-*.avalabs.org
-*.avax-dev.network
-*.avax-test.network
-*.avax.network
 *.avecspotify.com
 *.ayco.com
 *.backblazeb2.com
 *.backend-capital.com
-*.backpack.exchange/
 *.base.org
 *.berush.com
-*.beta.lahitapiola.fi
 *.beta.scoober.com
 *.betfair.com
 *.betfair.es
@@ -114,31 +106,20 @@
 *.betfair.se
 *.betsharedservices.io
 *.betviewapi.com
-*.big.one
-*.bigone.com
 *.bild.de
 *.bild.tv
 *.binary.com
 *.bingo.com
 *.bingoblitz.com
-*.bingx.com
-*.bingx.pro
 *.bionic.ai
 *.bistro.sk
 *.bitdefender.com
 *.bitdefender.net
-*.bitforex.com
-*.bitkub.com
-*.bitmart.com
 *.bitmex.com
-*.bitrue.com
 *.bitstamp.net - Bitstamp Supporting Services
-*.bittrex.com 
 *.bizible.com
 *.blinkforhome.com/*
-*.blitz.exchange
 *.blockchain.com
-*.blofin.com
 *.boardkingsgame.com
 *.bokundemo.com
 *.bokuntest.com
@@ -180,7 +161,6 @@
 *.certinia.com
 *.certsy.com
 *.certsynonprod.com
-*.chainstacklabs.com
 *.chalet.8x8.com
 *.chalet.8x8.com/ws/v1
 *.cheaptickets.com
@@ -208,8 +188,6 @@
 *.cognitiveperformer.com
 *.coinbase.com
 *.coindcx.com
-*.coinmetro.com
-*.coinsbit.io
 *.comcast.com
 *.computerbild.de
 *.consumer.worldcoin.org
@@ -225,7 +203,6 @@
 *.crossclip.com
 *.crowdstrike.com
 *.crypto.com
-*.cryptology.com
 *.cryptopunks.app
 *.cubicmotion.com
 *.cyberghost.com
@@ -234,6 +211,7 @@
 *.dailymotion.com
 *.dancecentral.com
 *.das.eu
+*.datacamp.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demorgen.be
@@ -247,7 +225,6 @@
 *.dev.mobilevikings.be
 *.dev.remitly.com
 *.devicelock.com
-*.dex-trade.com
 *.dh-commerce.com 
 *.dibz.co.uk
 *.digitalocean.com
@@ -289,8 +266,6 @@
 *.eu.floqast.app
 *.eurid.eu
 *.europolitan.se
-*.exmo.com
-*.exmo.me
 *.exodus.com
 *.exodus.io
 *.expediacruises.com
@@ -388,7 +363,6 @@
 *.hmxwebservices.com
 *.holidaylettings.com
 *.honestdollar.com
-*.hotbit.io
 *.hoteltonight-test.com
 *.hoteltonight.com
 *.hotwire.com
@@ -464,10 +438,7 @@
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
-*.kucoin.com
 *.kwsdose.be
-*.lahitapiola.fi
-*.lahitapiolarahoitus.fi
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
 *.lansweeper.com
@@ -578,10 +549,7 @@
 *.nflxso.net
 *.nflxvideo.net
 *.nic.eu
-*.ninjakiwi.com
-*.ninjakiwi.me
 *.niumba.com
-*.nkstatic.com
 *.nnip.com
 *.nordvpn.com
 *.nr-data.net
@@ -616,7 +584,6 @@
 *.outfra.xyz
 *.ovo.id
 *.ownit.se
-*.p2pify.com
 *.p8t.us
 *.packet8.net
 *.paddypartners.com
@@ -652,10 +619,7 @@
 *.preemptsecurity.com
 *.privateinternetaccess.com
 *.prod-ffs.io
-*.prod-networks.chainstack.com
-*.prod-networks.chainstack.net
 *.prod.cloud.netflix.com
-*.prod.cryptology.com
 *.prod.dradis.netflix.com
 *.prod.fdbox.net
 *.prod.ftl.netflix.com
@@ -664,8 +628,6 @@
 *.prowly.com
 *.psynet.gg
 *.psyonix.com
-*.public-rpc.com
-*.pumb.ua
 *.pyszne.pl
 *.qaglobal-liquidity.gs.com
 *.quip.com
@@ -777,7 +739,6 @@
 *.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
-*.souparea.com
 *.spiketrap.io
 *.spinaway.com
 *.sportinglife.com
@@ -793,8 +754,6 @@
 *.ssr.ccp.xcal.tv 
 *.staging-airtableblocks.com
 *.staging.airtable.com
-*.status.app
-*.status.im
 *.statuspage.io
 *.stbpost.be
 *.storspiller.com
@@ -814,7 +773,6 @@
 *.swisspass.ch
 *.sys.comcast.net
 *.takeaway.com
-*.tapiola.fi
 *.taralite.com
 *.tdl.sh
 *.teams.cloudflare.com
@@ -832,7 +790,6 @@
 *.threatdown.com
 *.thuisbezorgd.nl
 *.ticketing.cm.com
-*.tickets.ua
 *.tidalhifi.com
 *.tide.co
 *.tiktok.com
@@ -841,7 +798,6 @@
 *.tinderops.net
 *.tinderwebstaging.com
 *.tomorrowland.com
-*.ton.diamonds
 *.tools.thefork.tech
 *.toolsforhumanity.com
 *.tospotify.com
@@ -894,7 +850,6 @@
 *.vennhypotheken.nl
 *.veriff.com
 *.verisign-grs.com (DNS service; DNS related)
-*.vertexprotocol.com
 *.vfsevisa.com
 *.vfsglobal.(com|co.uk|ca)
 *.vhx.tv
@@ -921,7 +876,6 @@
 *.welt.de
 *.westernunion.*
 *.wf.com
-*.white.market
 *.whois.eu
 *.wimpmusic.com
 *.wise.com
