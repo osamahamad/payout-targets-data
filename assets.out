@@ -142,6 +142,7 @@
 *.boardkingsgame.com
 *.bokundemo.com
 *.bokuntest.com
+*.bolsasymercados.es
 *.bonne-terre-data-layer.com
 *.booking.com
 *.boozt.com
@@ -708,6 +709,7 @@
 *.scoober.com
 *.scopely.com
 *.scopely.io
+*.sdx.com
 *.search.gov
 *.sec-tunnel.com
 *.securecircle.com
@@ -1028,6 +1030,7 @@
 1510325826
 1519034860
 1528364633
+153.46.96.0/20
 1539469172
 1541949985
 1557515848
@@ -1050,6 +1053,7 @@
 192.251.125.0/24
 192.251.126.0/24
 193.0.0.0/19 and 2001:67c:2e8::/48
+193.110.154.0/24
 194.90.151.192/28
 194.90.25.80/29
 194.90.89.165/32
@@ -3874,6 +3878,7 @@ https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
 https://apps.apple.com/br/app/nubank-conta-e-cart%C3%A3o/id814456780
 https://apps.apple.com/ca/app/lime-ridegreen/id1199780189
 https://apps.apple.com/ca/app/lime-supply/id1620058457
+https://apps.apple.com/ch/app/debix/id1581440132?l=en-GB
 https://apps.apple.com/ch/app/die-post/id378676700
 https://apps.apple.com/de/app/otto-shopping-m%C3%B6bel/id404844644
 https://apps.apple.com/de/app/teamviewer-quicksupport/id661649585
@@ -3896,6 +3901,9 @@ https://apps.apple.com/in/app/okto-wallet/id6450688229
 https://apps.apple.com/in/app/pine-labs-one/id6444654068
 https://apps.apple.com/in/app/pineperks/id908644471
 https://apps.apple.com/mt/app/woo-x-buy-crypto-btc/id1576648404
+https://apps.apple.com/mx/app/debix/id1581440132
+https://apps.apple.com/mx/app/schweizer-finanzmuseum/id1225222871
+https://apps.apple.com/mx/app/six-id/id1620496931
 https://apps.apple.com/no/app/world-app-worldcoin-wallet/id1560859847
 https://apps.apple.com/qa/app/ooredoo-qatar/id619828745
 https://apps.apple.com/se/app/atg-live/id1608156355
@@ -3907,6 +3915,7 @@ https://apps.apple.com/us/app/asana-mobile/id489969512
 https://apps.apple.com/us/app/auth0-guardian/id1093447833
 https://apps.apple.com/us/app/backblaze/id628638330
 https://apps.apple.com/us/app/bitstamp/id1406825640
+https://apps.apple.com/us/app/bme-conecta/id6443938949
 https://apps.apple.com/us/app/booking-com-hotels-travel/id367003839
 https://apps.apple.com/us/app/bybit-app/id1488296980
 https://apps.apple.com/us/app/compass-real-estate-homes/id692766504
@@ -5239,6 +5248,8 @@ https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&
 https://play.google.com/store/apps/details?id=com.scu.bsafe
 https://play.google.com/store/apps/details?id=com.sentiance.saferdriver
 https://play.google.com/store/apps/details?id=com.siilo.android&hl=en
+https://play.google.com/store/apps/details?id=com.sixgroup.debixplus
+https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1
 https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.squareup.cash
@@ -5265,6 +5276,7 @@ https://play.google.com/store/apps/details?id=com.yopeso.lieferando&hl=en_US
 https://play.google.com/store/apps/details?id=de.cellular.ottohybrid&hl=de
 https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost
 https://play.google.com/store/apps/details?id=edu.monash.monashmobile
+https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta
 https://play.google.com/store/apps/details?id=fr.gouv.tchap.a&hl=fr
 https://play.google.com/store/apps/details?id=id.dana&hl=en
 https://play.google.com/store/apps/details?id=io.gonative.android.xjndrq&hl=fr
@@ -5275,6 +5287,7 @@ https://play.google.com/store/apps/details?id=net.bitstamp.appgo
 https://play.google.com/store/apps/details?id=network.woo.mobile&hl=en&gl=US&pli=1
 https://play.google.com/store/apps/details?id=qa.ooredoo.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=se.atg.live&hl=en&gl=SE
+https://play.google.com/store/search?q=Schweizer+Finanzmuseum&c=apps
 https://play.google.com/store/search?q=plann&c=apps
 https://playlist.link
 https://plmcixt.pinelabs.com/
@@ -5517,6 +5530,7 @@ https://wbsapi.withings.net
 https://web-retailer-portal.ultramobile.com
 https://web.bitpanda.com
 https://web.teamviewer.com
+https://web3.sdx.com
 https://webmail.usaa.com
 https://webrtc.8x8.com/
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
@@ -5733,6 +5747,7 @@ https://www.redtube.com/
 https://www.redtubepremium.com/
 https://www.remove.bg
 https://www.restaurant-information.com
+https://www.sdx.com/
 https://www.sharerewards.com/
 https://www.shiseido.me/
 https://www.simplify.com/commerce/ 
@@ -7133,6 +7148,7 @@ www.blockchain.info
 www.blueskytours.com
 www.bmw-motorrad.de
 www.bmw.de
+www.bolsasymercados.es
 www.bookabach.co.nz
 www.bookingholdings.com
 www.bpost.be
