@@ -36,7 +36,7 @@
 *.8x8e2e.com
 *.8x8pilot.com
 *.8x8staging.com
-*.YOUR-TESTING-STORE.mybigcommerce.com/
+*.<researcher-store>.mybigcommerce.com
 *.a.exodus.io
 *.acbpost.be
 *.acc-pub.mobilevikings.be
@@ -125,6 +125,7 @@
 *.betfair.se
 *.betsharedservices.io
 *.betviewapi.com
+*.bigcommerce.net
 *.bild.de
 *.bild.tv
 *.binary.com
@@ -3703,7 +3704,6 @@ https://195.60.68.250
 https://1shoppingcart.com
 https://28degreescard.com.au
 https://8x8.vc/xmpp-websocket
-https://STORE-YOURSTOREHash.mybigcommerce.com/
 https://a.simplemdm.com/
 https://account-registration.monash.edu/
 https://account.bitpanda.com
@@ -4312,6 +4312,7 @@ https://github.com/auth0/auth0.js
 https://github.com/auth0/lock
 https://github.com/auth0/nextjs-auth0
 https://github.com/auth0/react-native-auth0
+https://github.com/bigcommerce/*
 https://github.com/brave-intl/bat-balance
 https://github.com/brave-intl/bat-client
 https://github.com/brave-intl/bat-go
@@ -5593,7 +5594,6 @@ https://www.australiansuper.com/
 https://www.beautyexpert.com/
 https://www.beta.tchap.gouv.fr
 https://www.bigcommerce.com
-https://www.bigcommerce.net
 https://www.binance.com/
 https://www.binance.us/
 https://www.bitdefender.com/business/smb-products/business-security.html?cid=ppc|b|google|smb&s_kwcid=AL!6076!3!514235572261!p!!g!!bitdefender%20business&utm_term=bitdefender%20business&utm_campaign=USA+SMB+Branded+30&utm_source=adwords&utm_medium=ppc&hsa_acc=8155205354&hsa_cam=7848657822&hsa_grp=124745713150&hsa_ad=514235572261&hsa_src=g&hsa_tgt=kwd-308396066873&hsa_kw=bitdefender%20business&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwqIiFBhAHEiwANg9szk-Rr3iSn4mrwsvAUOn-pzrO12ufWDmyCLopWigaLQW0t_xtlBE65RoCr6kQAvD_BwE
@@ -6046,6 +6046,7 @@ login-ia.tvg.com
 login-pabets.tvg.com
 login-test.portofantwerpbruges.com/poam/XUI/
 login.arkane.network
+login.bigcommerce.com
 login.cm.com
 login.delen.be 
 login.delen.ch 

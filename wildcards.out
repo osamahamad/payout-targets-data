@@ -17,7 +17,7 @@
 *.8x8e2e.com
 *.8x8pilot.com
 *.8x8staging.com
-*.YOUR-TESTING-STORE.mybigcommerce.com/
+*.<researcher-store>.mybigcommerce.com
 *.a.exodus.io
 *.acbpost.be
 *.acc-pub.mobilevikings.be
@@ -106,6 +106,7 @@
 *.betfair.se
 *.betsharedservices.io
 *.betviewapi.com
+*.bigcommerce.net
 *.bild.de
 *.bild.tv
 *.binary.com
