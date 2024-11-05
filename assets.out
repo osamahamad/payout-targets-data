@@ -694,6 +694,7 @@
 *.router.hereapi.com
 *.runnr.in
 *.s-cloud.net
+*.saltlabs.com
 *.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
 *.say.rocks
@@ -2554,12 +2555,14 @@ app.nordpass.com
 app.pullrequest.com
 app.recordedfuture.com
 app.rewire.to
+app.saltlabs.com
 app.sandbox.directly.com
 app.shipt.com
 app.skinport.com
 app.slack.com
 app.smtp2go.com
 app.snapchat.com
+app.staging.saltlabs.com
 app.starbucks.com
 app.superdrug.com
 app.swapcard.com
@@ -3060,6 +3063,7 @@ com.robinhood.android
 com.robinhood.gateway
 com.robinhood.money
 com.romwe
+com.saltlabs.app
 com.scee.psxandroid
 com.scopely.monopolygo
 com.scopely.startrek
@@ -5895,6 +5899,7 @@ id1427744264
 id1520720139
 id1534920947
 id1541153375
+id1668462142
 identity.nba.com
 identity.stage.vismaonline.com
 identity.yoti.com
@@ -6656,6 +6661,7 @@ s3://faraday-uploads
 safe.tumblr.com
 salesforce.khealth.com
 salesportal.hyatt.com
+saltlabs.com
 samltool.io	
 sandbox.affirm.com
 sandbox.authorize.net
