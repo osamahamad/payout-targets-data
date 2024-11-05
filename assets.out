@@ -111,7 +111,6 @@
 *.atlastunnel.com
 *.atspotify.com
 *.audicagame.com
-*.autobild.de
 *.avecspotify.com
 *.ayco.com
 *.backblazeb2.com
@@ -127,8 +126,6 @@
 *.betsharedservices.io
 *.betviewapi.com
 *.bigcommerce.net
-*.bild.de
-*.bild.tv
 *.binary.com
 *.bingo.com
 *.bingoblitz.com
@@ -161,7 +158,6 @@
 *.byairbnb.com
 *.bybit.com
 *.byspotify.com
-*.bz-berlin.de
 *.c-point.be
 *.caesarsgames.com
 *.canva.cn
@@ -210,7 +206,6 @@
 *.coinbase.com
 *.coindcx.com
 *.comcast.com
-*.computerbild.de
 *.consumer.worldcoin.org
 *.contactallerg(y|ie).uzleuven.be
 *.contentsquare.com
@@ -266,7 +261,6 @@
 *.east.fdbox.net
 *.easy.ac
 *.eat.ch
-*.ein-herz-fuer-kinder.de
 *.elastic.co
 *.elasticnet.co
 *.elstc.co
@@ -298,7 +292,6 @@
 *.fareharbor.engineering
 *.feednews.com
 *.fetlife.com
-*.fitbook.de
 *.flickr.com
 *.flipkey.com
 *.floqast.app
@@ -552,7 +545,6 @@
 *.mwbsys.com
 *.mworld.com
 *.myharmony.com
-*.myhomebook.de
 *.myinsights.io
 *.mysqueezebox.com
 *.myteksi.com
@@ -629,8 +621,6 @@
 *.personio.de
 *.personio.tools
 *.personiowhistleblowing.com
-*.petbook-magazine.com/
-*.petbook.de
 *.pinterest.com Web Apps
 *.plannthat.com
 *.platformservices.io
@@ -775,8 +765,6 @@
 *.spiketrap.io
 *.spinaway.com
 *.sportinglife.com
-*.spring-media.de
-*.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sqills.com
@@ -793,7 +781,6 @@
 *.streamlabs.com
 *.streamlabscharity.com
 *.stripe.com
-*.stylebook.de
 *.subp-router.hereapi.com
 *.superbet.com
 *.superbet.pl
@@ -809,7 +796,6 @@
 *.taralite.com
 *.tdl.sh
 *.teams.cloudflare.com
-*.techbook.de
 *.telenor.se
 *.tesla.cn
 *.tesla.com
@@ -837,7 +823,6 @@
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trafficjunky.com
 *.transferwise.com
-*.travelbook.de
 *.travelocity.ca
 *.travelocity.com
 *.travix.com
@@ -906,7 +891,6 @@
 *.wealthsimple.com
 *.wellsfargo.com
 *.wellsfargoadvisors.com
-*.welt.de
 *.werkenbijgamma.be
 *.werkenbijgamma.nl
 *.werkenbijkarwei.nl
@@ -915,7 +899,6 @@
 *.whois.eu
 *.wimpmusic.com
 *.wise.com
-*.wissen-sie-mehr.de
 *.withairbnb.com
 *.withbuddies.com
 *.withspotify.com
@@ -4160,9 +4143,6 @@ https://datadome.co
 https://dataportal.originenergy.com.au
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
 https://dcfgatewaytst1.marriott.com/
-https://dealer.prod.ps.axelspringer.de/api/v1/partners/{partnerId}/activation
-https://dealer.prod.ps.axelspringer.de/purchases/004/bild/*
-https://dealer.prod.ps.axelspringer.de/purchases/004/welt/*
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
 https://demo.priceless.com/
@@ -5371,7 +5351,6 @@ https://screenplayer.20min.ch
 https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secure-iphone-xml.booking.com/json/
 https://secure.cuehit.net
-https://secure.mypass.de/
 https://secure.neogov.com
 https://secure.vendhq.com
 https://secure.westernunion.com
