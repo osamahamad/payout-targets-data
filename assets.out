@@ -11,6 +11,7 @@
  https://github.com/0xPolygon/proof-generation-api
  idp-contact.nexuzhealth.be
  mix.monash.edu 
+(*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 (youriwssubdomain).cloud.com
 (yoursubdomain).ap.iws.cloud.com
 (yoursubdomain).eu.iws.cloud.com

@@ -20,6 +20,7 @@ swiss-backup*.infomaniak.com
 storage*.infomaniak.com
 *.okto.tech
 *.app.spacelift.dev
+(*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *.telenor.se
 *.bredbandsbolaget.se
 *.europolitan.se
