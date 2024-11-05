@@ -761,6 +761,8 @@
 *.spiketrap.io
 *.spinaway.com
 *.sportinglife.com
+*.spotify.com
+*.spotify.net
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sqills.com
@@ -2426,7 +2428,7 @@ api.smtp2go.com
 api.sokos.fi
 api.sorare.com
 api.soundtrackyourbrand.com
-api.spotify.com
+api.spotify.com, api-partner.spotify.com
 api.stage.evernote.com
 api.steampowered.com
 api.stripe.com
