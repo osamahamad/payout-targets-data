@@ -111,6 +111,7 @@
 *.atlastunnel.com
 *.atspotify.com
 *.audicagame.com
+*.autobild.de
 *.avecspotify.com
 *.ayco.com
 *.backblazeb2.com
@@ -126,6 +127,8 @@
 *.betsharedservices.io
 *.betviewapi.com
 *.bigcommerce.net
+*.bild.de
+*.bild.tv
 *.binary.com
 *.bingo.com
 *.bingoblitz.com
@@ -158,6 +161,7 @@
 *.byairbnb.com
 *.bybit.com
 *.byspotify.com
+*.bz-berlin.de
 *.c-point.be
 *.caesarsgames.com
 *.canva.cn
@@ -206,6 +210,7 @@
 *.coinbase.com
 *.coindcx.com
 *.comcast.com
+*.computerbild.de
 *.consumer.worldcoin.org
 *.contactallerg(y|ie).uzleuven.be
 *.contentsquare.com
@@ -261,6 +266,7 @@
 *.east.fdbox.net
 *.easy.ac
 *.eat.ch
+*.ein-herz-fuer-kinder.de
 *.elastic.co
 *.elasticnet.co
 *.elstc.co
@@ -292,6 +298,7 @@
 *.fareharbor.engineering
 *.feednews.com
 *.fetlife.com
+*.fitbook.de
 *.flickr.com
 *.flipkey.com
 *.floqast.app
@@ -545,6 +552,7 @@
 *.mwbsys.com
 *.mworld.com
 *.myharmony.com
+*.myhomebook.de
 *.myinsights.io
 *.mysqueezebox.com
 *.myteksi.com
@@ -568,7 +576,10 @@
 *.nflxso.net
 *.nflxvideo.net
 *.nic.eu
+*.ninjakiwi.com
+*.ninjakiwi.me
 *.niumba.com
+*.nkstatic.com
 *.nnip.com
 *.nordvpn.com
 *.nr-data.net
@@ -618,6 +629,8 @@
 *.personio.de
 *.personio.tools
 *.personiowhistleblowing.com
+*.petbook-magazine.com/
+*.petbook.de
 *.pinterest.com Web Apps
 *.plannthat.com
 *.platformservices.io
@@ -758,11 +771,14 @@
 *.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
+*.souparea.com
 *.spiketrap.io
 *.spinaway.com
 *.sportinglife.com
 *.spotify.com
 *.spotify.net
+*.spring-media.de
+*.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sqills.com
@@ -779,6 +795,7 @@
 *.streamlabs.com
 *.streamlabscharity.com
 *.stripe.com
+*.stylebook.de
 *.subp-router.hereapi.com
 *.superbet.com
 *.superbet.pl
@@ -794,6 +811,7 @@
 *.taralite.com
 *.tdl.sh
 *.teams.cloudflare.com
+*.techbook.de
 *.telenor.se
 *.tesla.cn
 *.tesla.com
@@ -821,6 +839,7 @@
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trafficjunky.com
 *.transferwise.com
+*.travelbook.de
 *.travelocity.ca
 *.travelocity.com
 *.travix.com
@@ -889,6 +908,7 @@
 *.wealthsimple.com
 *.wellsfargo.com
 *.wellsfargoadvisors.com
+*.welt.de
 *.werkenbijgamma.be
 *.werkenbijgamma.nl
 *.werkenbijkarwei.nl
@@ -897,6 +917,7 @@
 *.whois.eu
 *.wimpmusic.com
 *.wise.com
+*.wissen-sie-mehr.de
 *.withairbnb.com
 *.withbuddies.com
 *.withspotify.com
@@ -2280,6 +2301,7 @@ amazonpayinsurance.in
 amp.reddit.com
 analytics-*.8x8.com
 analytics.krisp.ai
+analytics.ninjakiwi.com
 analytics.pinelabs.com
 anthem.khealth.com
 ap-s.cloud.com
@@ -2404,6 +2426,7 @@ api.miro.com
 api.monespacesante.fr
 api.moonpay.com
 api.netlify.com
+api.ninjakiwi.com
 api.omise.co
 api.ovh.com
 api.pinterest.com
@@ -2640,6 +2663,7 @@ bankaccountdata.gocardless.com, ob.gocardless.com
 basecamp3.exe
 basicattentiontoken.org
 batchlogging4.truecaller.com
+battles.tv
 bb.visa.com
 bd.visa.com
 be.bpost.mobilecard
@@ -2709,6 +2733,7 @@ bugcrowd-pam-###.pam.oktapreview.com
 bugzilla.mozilla.org
 builder.hostinger.com
 building-blocks.com
+builds-auckland.ninja.kiwi
 builds.soundtrackyourbrand.com
 bullsheet.me
 business.booking.com/
@@ -3220,6 +3245,7 @@ cs.money
 csp-pci.prod.codebig2.net
 css-tricks.com
 ct.deriv.com
+ct.ninjakiwi.com
 ctf.hacker101.com
 custody.coinbase.com
 customer-academy.databricks.com
@@ -3250,6 +3276,7 @@ dashboard.pluralonline.com
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
 data.mail.yahoo.com
+data.ninjakiwi.com
 data.rarible.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
@@ -3528,6 +3555,7 @@ graphql.topperpay.com/graphql
 graphqldocs.sentiance.com
 gravatar.com
 gutenberg.run
+guts.ninjakiwi.com
 gw.api.dh.comcast.com
 h1-*your-own-instance*.cloud.mattermost.com
 h1-your-domain.zendesk.com
@@ -4133,6 +4161,9 @@ https://datadome.co
 https://dataportal.originenergy.com.au
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
 https://dcfgatewaytst1.marriott.com/
+https://dealer.prod.ps.axelspringer.de/api/v1/partners/{partnerId}/activation
+https://dealer.prod.ps.axelspringer.de/purchases/004/bild/*
+https://dealer.prod.ps.axelspringer.de/purchases/004/welt/*
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
 https://demo.priceless.com/
@@ -5341,6 +5372,7 @@ https://screenplayer.20min.ch
 https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secure-iphone-xml.booking.com/json/
 https://secure.cuehit.net
+https://secure.mypass.de/
 https://secure.neogov.com
 https://secure.vendhq.com
 https://secure.westernunion.com
@@ -6234,6 +6266,7 @@ mydesktop.wu.com
 mynexuz.be
 mynexuz.be/myUZ/
 mynexuzhealth/id1459856321
+mynk.ninjakiwi.com
 myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
 nationalidverification-noneu.truecaller.com
@@ -6319,6 +6352,8 @@ nft.coinbase.com
 nft.io
 niantic.kidswebservices.com
 nicetryapril.na1.echosignsandbox.com
+ninja.kiwi
+ninjakiwi.com
 nl.gamma.app.android
 nl.gamma.verf
 nl.karwei.app.android
