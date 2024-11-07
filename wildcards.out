@@ -951,6 +951,7 @@ analytics-*.8x8.com
 api*.netflix.com
 api-*.soundcloud.com
 api.zmsp.*.earlywarning.io
+bugcrowd-*your-own-instance*.cloud.mattermost.com/
 casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 dcfgateway*.marriott.com
 developer*.earlywarning.com

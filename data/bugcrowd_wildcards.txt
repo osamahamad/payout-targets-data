@@ -106,6 +106,7 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.linktree-extensions.com
 *.plannthat.com
 *.lululemon.com
+bugcrowd-*your-own-instance*.cloud.mattermost.com/
 *.nr-data.net
 *.nr-ops.net
 prod-*.nubank.com.br
