@@ -142,6 +142,8 @@
 *.blinkforhome.com/*
 *.blockchain.com
 *.boardkingsgame.com
+*.bokundemo.com
+*.bokuntest.com
 *.bonne-terre-data-layer.com
 *.booking.com
 *.boozt.com
@@ -296,6 +298,7 @@
 *.fetlife.com
 *.fitbook.de
 *.flickr.com
+*.flipkey.com
 *.floqast.app
 *.floqast.engineering
 *.flowsecurity.app
@@ -379,11 +382,13 @@
 *.hln.be
 *.hmxservices.com
 *.hmxwebservices.com
+*.holidaylettings.com
 *.honestdollar.com
 *.hoteltonight-test.com
 *.hoteltonight.com
 *.hotwire.com
 *.houseoffun.com
+*.housetrip.com
 *.hs-sites(-eu1)?.com
 *.hubspotemail.net
 *.hubspotpagebuilder.com
@@ -571,6 +576,7 @@
 *.nic.eu
 *.ninjakiwi.com
 *.ninjakiwi.me
+*.niumba.com
 *.nkstatic.com
 *.nnip.com
 *.nordvpn.com
@@ -866,6 +872,7 @@
 *.unrealtournament.com
 *.uphold.com
 *.uzleuven.*
+*.vacationhomerentals.com
 *.varonis.com
 *.varonis.io
 *.varonis.net
@@ -1294,6 +1301,7 @@ Any other Malwarebytes asset
 Any public (Internet-facing) infrastructure owned and operated by Palantir.
 Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
 Any public cloud resource or infrastructure operated and managed by REI.
+Any publicly accessible Tripadvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
 Any related DPG media domain
 Any related Torfs domain
 Any resource created or accessed with the Outscale Cloud, on all regions
@@ -1670,6 +1678,7 @@ Lightroom Classic
 Livestream software (Producer, Studio)
 Load Balancing
 Localized airbnb sites listed at the link below:
+Localized versions of www.tripadvisor.com available from the site's header or footer
 Log4cxx
 Log4j 2.x
 Log4j API for Kotlin
@@ -2024,6 +2033,8 @@ Trello Desktop Client
 Trello Mobile App for Android
 Trello Mobile App for iOS
 Trello Third Party Powerups
+Tripadvisor Android App
+Tripadvisor iOS App
 TrueLayer for Magento (Magento plugin)
 TrueLayer for WooCommerce (WordPress plugin)
 Trustwallet Android App
@@ -3625,6 +3636,7 @@ http://ims-na1.adobelogin.com
 http://itunes.apple.com/us/app/ibotta/id559887125
 http://logstash-props.devicecloud.production.forescoutcloud.net/api/v1/properties
 http://market.android.com/details?id=com.ibotta.android
+http://marlo.ext.tripadvisor.com
 http://member-qa.chime.com/enroll/#/account
 http://member-qa.chime.com/users/sign_in
 http://mgmtpod-1.production.forescoutcloud.net/oauth/token
@@ -3773,6 +3785,7 @@ https://api.orderly.org/
 https://api.paymaya.com/
 https://api.planethoster.net
 https://api.pornhub.com/
+https://api.production.cde.tamg.cloud
 https://api.rarible.com/v0.1/doc
 https://api.rec.net
 https://api.ring.com/*
@@ -3791,6 +3804,7 @@ https://api.thefork.com
 https://api.thesecurityteam.rocks
 https://api.thousandeyes.com/
 https://api.toom.de
+https://api.tripadvisor.com
 https://api.twilio.com
 https://api.unity.com
 https://api.us1.fga.dev/
@@ -4550,6 +4564,9 @@ https://graphql.acorns.com
 https://graphql.seek.com
 https://guest.usaa.com/
 https://guildofguardians.com
+https://gwapi.tripadvisor.com
+https://gwapi1.tripadvisor.com
+https://gwapi2.tripadvisor.com
 https://gx.games
 https://gx.opera-api.com
 https://hackme.matrixreq.com
@@ -4595,6 +4612,7 @@ https://itunes.apple.com/us/app/cash-app/id711923939?mt=8
 https://itunes.apple.com/us/app/irobot-home/id1012014442?mt=8
 https://itunes.apple.com/us/app/lieferando-de/id419724490?l=es&mt=8
 https://itunes.apple.com/us/app/uconnect/id1229236724?mt=8
+https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045663228?mt=8
 https://iwgo.westernunion.com
 https://jaguar.here.com
 https://jamaica.westernunion.com
@@ -5119,6 +5137,9 @@ https://paasportal.episerver.net/api/v1.0/
 https://pab.donneesquebec.ca
 https://partner-feeds.20min.ch
 https://partner.apps.monash.edu
+https://partnerapi.tapayments.com
+https://partnerapi1.tapayments.com
+https://partnerapi2.tapayments.com
 https://partnerhelp.viator.com/
 https://partnernet.westernunion.com
 https://partnerprogramm.otto.de
@@ -5315,6 +5336,7 @@ https://rec.net/download
 https://recroom.com/studio
 https://redash-staging.getmoneytree.com/
 https://remoteaccess.westernunion.com
+https://rentals.tripadvisor.com
 https://reptox.cnesst.gouv.qc.ca
 https://res.cloudinary.com
 https://resume.com
@@ -5351,6 +5373,7 @@ https://sendbird.com
 https://sendbird.com/docs
 https://sendgrid.com
 https://senegal.westernunion.com
+https://service.platform.tripadvisor.com
 https://service.post.ch/ekp-web/
 https://service.post.ch/ele-klp/ele/
 https://service.post.ch/zopa/app/
@@ -5507,6 +5530,9 @@ https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/entitlem
 https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/notifications/raas
 https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/robots/{robot_id}/entitlements
 https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/users/{user_id}/entitlements
+https://walletproxy.tapayments.com
+https://walletproxy1.tapayments.com
+https://walletproxy2.tapayments.com
 https://wbsapi.withings.net
 https://web-retailer-portal.ultramobile.com
 https://web.bitpanda.com
@@ -5761,6 +5787,7 @@ https://www.thumbzilla.com/
 https://www.toursgds.com/
 https://www.toursgds.com/SupplierService?wsdl
 https://www.toursgds.com/ToursGdsService?wsdl
+https://www.tripadvisor.com
 https://www.twilio.com/authy
 https://www.twilio.com/blog/get-started-webrtc
 https://www.twilio.com/console
