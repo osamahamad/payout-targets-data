@@ -182,6 +182,13 @@ api-*.soundcloud.com
 *.tidalhifi.com
 *.tdl.sh
 *.trello.services
+*.vacationhomerentals.com
+*.holidaylettings.com
+*.flipkey.com
+*.niumba.com
+*.housetrip.com
+*.bokundemo.com
+*.bokuntest.com
  *.sip.*.twilio.com
  Twilio CDNs (static*.twilio.com)
 *.gtld-servers.net (DNS service; DNS related)
