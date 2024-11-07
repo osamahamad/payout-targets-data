@@ -214,8 +214,6 @@
 *.consumer.worldcoin.org
 *.contactallerg(y|ie).uzleuven.be
 *.contentsquare.com
-*.cornershop.io/*
-*.cornershopapp.com/*
 *.corp.mongodb.com*
 *.cp.dyson.com
 *.creditkarma.ca
@@ -800,8 +798,6 @@
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
-*.superpal.com/*
-*.superpal.io/*
 *.support.originenergy.com.au
 *.swiftype.com
 *.swisspass.ch
@@ -3205,7 +3201,6 @@ content-api-prod.nba.com
 contributor.stock.adobe.com
 core-api.nba.com
 core.yoti.com
-cornershopapp.android
 corp.badoo.com
 corporate.pineperks.in
 corporate.vidaxl.com
@@ -3513,7 +3508,6 @@ gifts.grab.com
 gist.github.com
 github.com
 github.com/binary-com
-github.com/cornershop/*
 github.com/deriv-com
 github.com/kubernetes-csi
 github.com/kubernetes-retired
@@ -5935,7 +5929,6 @@ invitation.infomaniak.com
 invoices.razorpay.com
 io.coda
 io.coda.codaapp
-io.cornershop.ios
 io.getdelta.android
 io.getdelta.ios
 io.metamask
