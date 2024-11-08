@@ -24,9 +24,6 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.meraki.com
 *.ikarem.io
 *.network-auth.com
-*.xfinity.com	
-*.comcast.com
-*.xcal.tv
 *.sys.comcast.net
 *.cyberghost.com
 *.dell.com/*
@@ -151,6 +148,16 @@ prod-*.nu.com.co
 *.neat.hk
 *.neat.wtf
 *.rec.net/*
+*.seek.com.au
+*.skinfra.xyz
+*.outfra.xyz
+*.sol-data.com
+*.jobapi.net
+*.seekpass.co
+*.seekpass-staging.com
+*.aips-internal.com
+*.certsy.com
+*.certsynonprod.com
 *.seek.com.au
 *.skinfra.xyz
 *.outfra.xyz
