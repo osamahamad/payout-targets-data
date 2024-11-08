@@ -1,27 +1,2 @@
-*.bokundemo.com
-*.bokuntest.com
-*.flipkey.com
-*.holidaylettings.com
-*.housetrip.com
-*.niumba.com
-*.vacationhomerentals.com
-Any publicly accessible Tripadvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
-Localized versions of www.tripadvisor.com available from the site's header or footer
-Tripadvisor Android App
-Tripadvisor iOS App
-http://marlo.ext.tripadvisor.com
-https://api.production.cde.tamg.cloud
-https://api.tripadvisor.com
-https://gwapi.tripadvisor.com
-https://gwapi1.tripadvisor.com
-https://gwapi2.tripadvisor.com
-https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045663228?mt=8
-https://partnerapi.tapayments.com
-https://partnerapi1.tapayments.com
-https://partnerapi2.tapayments.com
-https://rentals.tripadvisor.com
-https://service.platform.tripadvisor.com
-https://walletproxy.tapayments.com
-https://walletproxy1.tapayments.com
-https://walletproxy2.tapayments.com
-https://www.tripadvisor.com
+https://adhoc-bugcrowd-studio.cdn-code.org
+https://adhoc-bugcrowd.cdn-code.org
