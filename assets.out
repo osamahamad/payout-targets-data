@@ -207,7 +207,6 @@
 *.cognitiveperformer.com
 *.coinbase.com
 *.coindcx.com
-*.comcast.com
 *.computerbild.de
 *.consumer.worldcoin.org
 *.contactallerg(y|ie).uzleuven.be
@@ -913,8 +912,6 @@
 *.wu.*
 *.wystar.com
 *.x.ai
-*.xcal.tv
-*.xfinity.com	
 *.xfinityhome.com
 *.xfiplatform.com
 *.xiaomi.com
@@ -1937,7 +1934,6 @@ Spotify SDKs
 Spotify desktop application (Windows and Mac)
 Square Register
 Square Terminal
-Staging, QA, Dev, and Test Environments
 Standalone Chrome extension
 Steam Client
 Steam Servers
