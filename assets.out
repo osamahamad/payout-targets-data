@@ -503,7 +503,6 @@
 *.marcus.com
 *.marketo.com
 *.mas.mobilevikings.be
-*.mattermost.com
 *.mb-cosmos.com
 *.mbamupdates.com
 *.mcssl.com
@@ -1711,9 +1710,6 @@ Marionnaud.Romania.Android
 Marionnaud.Romania.iOS
 Marionnaud.Switzerland.Android
 Marionnaud.Switzerland.iOS
-Mattermost Desktop
-Mattermost Plugins
-Mattermost Source Code
 Media Encoder
 MediaStreamer DNS servers
 Megaphone
@@ -1839,7 +1835,6 @@ Other Spotify websites
 Other assets
 Other assets owned by Personio
 Other non-production infrastructure
-Other publicly-released plugins
 PHP SDK
 PIA APIs
 PIA VPN servers
@@ -2977,7 +2972,6 @@ com.marcus.android
 com.marcus.android.uk
 com.marcus.ios-uk
 com.marcus.ios-us
-com.mattermost.rn
 com.mercadoenvios.crowdsourcing
 com.mercadoenvios.driver
 com.mercadolibre
@@ -3198,7 +3192,6 @@ customer-services.vidaxl.org
 customer-sessions.arkoselabs.com
 customerevents.netflix.com
 customers.gitlab.com
-customers.mattermost.com
 customerupdates.nextcloud.com
 cw.visa.com
 cyberghost.app
@@ -3496,7 +3489,6 @@ graphql.topperpay.com/graphql
 gravatar.com
 gutenberg.run
 gw.api.dh.comcast.com
-h1-*your-own-instance*.cloud.mattermost.com
 h1-your-domain.zendesk.com
 hack1.mtrx.ovh
 hackathon-photos-us-east-2.hackerone-user-content.com

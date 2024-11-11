@@ -484,7 +484,6 @@
 *.marcus.com
 *.marketo.com
 *.mas.mobilevikings.be
-*.mattermost.com
 *.mb-cosmos.com
 *.mbamupdates.com
 *.mcssl.com
@@ -932,7 +931,6 @@ casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 dcfgateway*.marriott.com
 developer*.earlywarning.com
 gateway*.marriott.com
-h1-*your-own-instance*.cloud.mattermost.com
 intercity-*.eu-east-1.indriverapp.com
 matrix.agent.*.tchap.gouv.fr
 munin-*.wordpress.org
