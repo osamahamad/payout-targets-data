@@ -686,7 +686,6 @@
 *.say.rocks
 *.saytechnologies.com
 *.sbb.ch
-*.sbbmobile.ch
 *.sbgcdn.com
 *.sbgcore.com
 *.sbgorigin.com
@@ -1253,6 +1252,8 @@ All Motorola Devices running Android 13 and above.
 All Other BitMEX Assets
 All Other In-Scope Assets
 All other Assets
+All other SBB owned IT assets
+All other Web and mobile APPs owned by SBB 
 All the Blockchain Infrastructure
 Amazon Subsidiaries (Please only actively test explicitly stated scope)
 AmpliFi
@@ -6019,7 +6020,6 @@ login.pabets.tvg.com
 login.playcanvas.com
 login.portofantwerpbruges.com
 login.swapcard.com
-login.swisspass.ch
 login.truelayer[-sandbox].com
 login.tvg.com
 login.venly.io
@@ -7365,7 +7365,6 @@ www.stripe.partners
 www.superdrug.com
 www.swiftcapital.com
 www.swiftfinancial.com
-www.swisspass.ch
 www.swisstransfer.com
 www.swoodoo.com
 www.teamfortress.com
