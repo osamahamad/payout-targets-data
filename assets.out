@@ -940,6 +940,7 @@
 *idp*.uzleuven.be
 *inf.fndlsb.net
 *omega*.yahoo.com
+*pwn.intigriti.rocks
 *racing.fanduel.com
 *signalservice.comcast.net
 *stag*.uzleuven.be
@@ -3476,7 +3477,6 @@ github.com/binary-com
 github.com/deriv-com
 github.com/kubernetes-csi
 github.com/kubernetes-retired
-github.com/oasisprotocol/explorer
 gitlab.com
 gleague.nba.com
 glib-networking
@@ -3584,13 +3584,11 @@ http://datapod-1-druid-query.production.forescoutcloud.net/v2/services
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/matrixoverview
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/overlappingzones
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
-http://emerald.oasis.dev
 http://expressobutiolem.onion
 http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
 http://federatedid-na1.services.adobe.com
 http://github.com/circlefin/noble-cctp
 http://github.com/cloudflare
-http://grpc.oasis.dev
 http://h1-your-domain.zendesk.com/qa/
 http://h1-your-domain.zendesk.com/sell
 http://h1-your-domain.zendesk.com/wfm/
@@ -3616,9 +3614,7 @@ http://recruit.linepluscorp.com
 http://rei.com/adventures
 http://rei.com/events
 http://rei.com/lists
-http://rosetta.oasis.dev/api/mainnet
 http://sandbox-api.fireblocks.io
-http://sapphire.oasis.io
 http://sb-console-api.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://secure-iphone-xml.booking.com/json/
@@ -4449,13 +4445,6 @@ https://github.com/nextcloud/files_confidential
 https://github.com/nextcloud/tables
 https://github.com/nimiq/core-rs-albatross
 https://github.com/nodejs/node
-https://github.com/oasisprotocol/curve25519-voi
-https://github.com/oasisprotocol/deoxysii
-https://github.com/oasisprotocol/deoxysii-rust
-https://github.com/oasisprotocol/oasis-core
-https://github.com/oasisprotocol/oasis-sdk
-https://github.com/oasisprotocol/oasis-wallet-ext
-https://github.com/oasisprotocol/oasis-wallet-web
 https://github.com/openssl/openssl
 https://github.com/owncloud/activity
 https://github.com/owncloud/android
@@ -6779,7 +6768,6 @@ stats.nextcloud.com
 status.adobe.com
 status.delen.be 
 status.larksuite.com
-status.oasis.io
 steamcommunity.com
 stock.adobe.com
 storage*.infomaniak.com
@@ -7022,7 +7010,6 @@ w1.uzleuven.be/random
 waf.cumulusfire.net
 wallet-sandbox.uphold.com
 wallet.etoro.com
-wallet.oasis.io
 wallet.uphold.com
 wallet.venly.io
 wallets.api.playstation.com
@@ -7259,6 +7246,7 @@ www.iciparisxl.lu
 www.iciparisxl.nl
 www.infomaniak.com
 www.instacart.com
+www.intigriti.com
 www.irccloud.com
 www.jaybirdsport.com
 www.karwei.nl/*
