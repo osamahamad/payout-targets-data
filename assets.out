@@ -1,4 +1,5 @@
  *.sip.*.twilio.com
+ *.test.*.lfscnp.com
  Finicity Connect
  Fortress.HongKong.IOS
  MS Office Add-In
@@ -22,6 +23,7 @@
 *-api-*.acronis.com
 *-bugcrowd.foxycart.com (read below for details)
 *-cvr-aws-*.sys.comcast.net
+*.-np.*.lfscnp.com
 *.10bis.co.il
 *.1debit.com
 *.3lateral.com
@@ -235,6 +237,7 @@
 *.deriv.com
 *.derivws.com
 *.dev-pub.mobilevikings.be
+*.dev.*.lfscnp.com
 *.dev.grindr.io
 *.dev.mobilevikings.be
 *.dev.remitly.com
@@ -312,6 +315,8 @@
 *.fuze.site
 *.gamma.be/*
 *.gamma.nl/*
+*.genoapay.co.nz
+*.genoapay.com
 *.gethypr.com
 *.getmeetio.com
 *.github.net
@@ -458,6 +463,11 @@
 *.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
+*.latitudefinancial.co.nz
+*.latitudefinancial.com
+*.latitudefinancial.com.au
+*.latitudepay.com
+*.latitudepay.com.au
 *.libelle.nl
 *.lieferando.at
 *.lieferando.de
@@ -674,6 +684,7 @@
 *.runnr.in
 *.s-cloud.net
 *.saltlabs.com
+*.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
 *.say.rocks
 *.saytechnologies.com
@@ -3649,6 +3660,7 @@ https://195.60.68.248
 https://195.60.68.249
 https://195.60.68.250
 https://1shoppingcart.com
+https://28degreescard.com.au
 https://8x8.vc/xmpp-websocket
 https://a.simplemdm.com/
 https://account-registration.monash.edu/
@@ -3759,6 +3771,7 @@ https://api.shop.ua.com/graphql
 https://api.simnext.bullish-test.com
 https://api.staging.luno.com/
 https://api.t-mobile.com
+https://api.test.latitudefinancial.com
 https://api.thefork.com
 https://api.thesecurityteam.rocks
 https://api.thousandeyes.com/
@@ -3793,6 +3806,7 @@ https://app.hubspot.com/
 https://app.ibotta.com/sign-in 
 https://app.intercom.com
 https://app.intercom.io/
+https://app.latitudepayapps.com/
 https://app.opsgenie.com
 https://app.optimizely.com/
 https://app.ring.com/*
@@ -4002,10 +4016,12 @@ https://business-staging.getmoneytree.com/
 https://business.australiansuper.com/
 https://business.comcast.com/account
 https://butlerfortrello.com/
+https://buyersedge.co.nz
 https://canva.cn/developers 
 https://canva.com/developers
 https://carbonneutral.ampol.com.au/
 https://cards.ampol.com.au
+https://carecredit.com.au
 https://careers.etsy.com
 https://careers.takeaway.com
 https://cash.app
@@ -4198,6 +4214,9 @@ https://gate.sendbird.com
 https://gatewaydsapdev2.marriott.com/
 https://gatewaydsaptst1.marriott.com/
 https://gatewaydsaptst2.marriott.com/
+https://gemcreditline.co.nz
+https://gemfinance.co.nz
+https://gemvisa.com.au
 https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
 https://git.libssh.org/
@@ -4506,6 +4525,7 @@ https://gitlab.com/gitlab-org/gitlab-shell
 https://gitlab.com/gitlab-org/gitlab-vscode-extension
 https://gitlab.com/gitlab-org/opstrace/opstrace
 https://go.elementor.com/
+https://gomastercard.com.au
 https://google-reserve-api.thefork.io
 https://gpt.lime.bike
 https://graphql.acorns.com
@@ -4543,10 +4563,12 @@ https://id.unity.com
 https://identity.bugcrowd.com/
 https://identity.monash.edu
 https://identity.monash.edu/
+https://images.latitudepayapps.com/
 https://india.westernunion.com
 https://indonesiavoa.vfsevisa.id/
 https://infiniteathlete.ai
 https://infra.coda.io/*
+https://interestfree.com.au
 https://internal.exoscale.ch
 https://interviews.monash.edu/
 https://investor.bullish.com/
@@ -4593,6 +4615,7 @@ https://laptop-updates.brave.com/latest/winia32
 https://laptop-updates.brave.com/latest/winx64
 https://lastpass.com
 https://lastpass.com/misc_download2.php
+https://latitudeinfinity.com.au
 https://lbu.eu-west-2.outscale.com
 https://learn.neogov.com
 https://learn.newrelic.com/
@@ -4968,6 +4991,8 @@ https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosti
 https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
 https://marketplace.auth0.com
 https://marketplace.ifood.com.br
+https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
+https://master.servicecentre.digitalservicing-np.lfscnp.com/
 https://mathem.se
 https://matrix.agent.tchap.gouv.fr
 https://matrix.e.tchap.gouv.fr
@@ -5441,6 +5466,7 @@ https://ui.com/distributors/
 https://ui.com/training/partners/
 https://uk.web.com
 https://ultramobile.com
+https://umiloans.com.au
 https://underarmournext.com/
 https://unified.neogov.com
 https://unihub.monash.edu/
