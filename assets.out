@@ -850,7 +850,6 @@
 *.varonis.net
 *.venmo.com
 *.vennhypotheken.nl
-*.veriff.com
 *.verisign-grs.com (DNS service; DNS related)
 *.vfsevisa.com
 *.vfsglobal.(com|co.uk|ca)
@@ -992,7 +991,6 @@
 1438744533
 1452166623
 1456293789
-1467907532
 1476615877
 1486322860
 1491791513
@@ -2243,7 +2241,6 @@ airFiber
 airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 akismet.com
-alchemy.veriff.com
 alert.logitech.com
 alertmanager.fr.cloud.gov
 alexa.amazon.com
@@ -2335,7 +2332,6 @@ api.ezvizlife.com
 api.faraday.ai
 api.fi.dyson.com
 api.figma.com
-api.flamingo-eu.veriff.com
 api.foliofn.com
 api.fortmatic.com
 api.fortress.com.hk
@@ -2422,8 +2418,6 @@ api.tumblr.com
 api.unleashed.be
 api.uphold.com
 api.upwork.com/graphql
-api.us.veriff.me
-api.veriff.me
 api.vhx.tv
 api.vidaxl.com
 api.vimeo.com
@@ -3059,7 +3053,6 @@ com.urbanclap.provider
 com.urbanclap.urbanclap
 com.valvesoftware.Steam
 com.venmo
-com.veriff.demo
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
 com.visma.blue
@@ -3253,7 +3246,6 @@ developer.zendesk.com
 developers.cloudways.com
 developers.reddit.com
 developers.tiktok.com
-developers.veriff.me
 devhub.arubanetworks.com
 device-safety-asia-south1.truecaller.com
 diagrams.fr.cloud.gov
@@ -6006,7 +5998,6 @@ logs.nextcloud.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
 lookup.nextcloud.com
-louvre.veriff.me
 luxfilmfestfilms.megatix.be
 luxfilmfestproducts.megatix.be
 luxfilmfesttickets.megatix.be
@@ -6025,7 +6016,6 @@ mackeeper.com
 magento.com
 magentocommerce.com
 magentolive.com
-magic.veriff.me
 magiceden.io
 magisto.com,www.magisto.com
 mail.infomaniak.com
@@ -6732,8 +6722,6 @@ static-cdn.clario.co
 static.apps.nextcloud.com
 static.rarible.com
 static.thuisbezorgd.nl
-station.veriff.com
-stationapi.veriff.com
 stats-trafficcop-prod.nba.com
 stats.nba.com
 stats.nextcloud.com
@@ -7370,7 +7358,6 @@ www.usa.gov
 www.uzleuven.be
 www.valvesoftware.com
 www.vascoworldwide.net
-www.veriff.com
 www.vfsvisaonline.com
 www.vfsvisaservicesrussia.com
 www.vidaxl.<TLD>
