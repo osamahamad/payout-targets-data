@@ -2264,6 +2264,7 @@ api-*.soundcloud.com
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
 api-eu.floqast.app
+api-frontend.pab.porsche.com
 api-gateway.polygon.technology
 api-js.datadome.co
 api-ne.mackeeper.com
@@ -2326,6 +2327,7 @@ api.dyson.pt
 api.dyson.se
 api.dysoncanada.ca
 api.editeur.preprod.monespacesante.fr
+api.emea.gravity.porsche.com
 api.etoro.com
 api.evernote.com
 api.excalls.mobi
@@ -2381,10 +2383,12 @@ api.netlify.com
 api.ninjakiwi.com
 api.omise.co
 api.ovh.com
+api.pab.porsche.com
 api.pinterest.com
 api.pns.hk
 api.portofantwerp.com
 api.portofantwerpbruges.com
+api.ppa.porsche.com
 api.preprod.monespacesante.fr
 api.profiler.firefox.com
 api.qwant.com
@@ -2574,6 +2578,7 @@ auth.magic.link
 auth.monespacesante.fr
 auth.moonpay.com
 auth.nextcloud.com
+auth.pab.porsche.com
 auth.preprod.monespacesante.fr
 auth.remitly.com
 auth.services.adobe.com
@@ -2594,6 +2599,7 @@ avtoelon.uz
 aw.visa.com
 aws.indrive.tech
 ax-stage.maventa.com
+b2b.porsche-design.com
 b2b.tvgnetwork.com
 b2b.vidaxl.com
 b5s.hackerone-ext-content.com
@@ -2622,6 +2628,7 @@ be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
 beacon.netflix.com
 behance.net
+benefit.porsche-design.com
 bestfiends.com
 beta-cloud.acronis.com
 beta.rarible.com
@@ -2711,6 +2718,7 @@ campus.datacamp.com
 candle-src.etoro.com
 candle.etoro.com
 capital.com/*
+capitalmarketsday.porsche.com
 captivateprime.adobe.com
 capturingreality.com
 cardpayments.remitly.io
@@ -2756,6 +2764,7 @@ checkout.razorpay.com
 checkout.vimeo.com
 checksw.com
 chk.infomaniak.com
+christmas-silence.porsche.com
 ci.fr.cloud.gov
 ci.indrive.dev
 circle.logi.com
@@ -2779,6 +2788,7 @@ cloudflareworkers.com
 cm.com/[locale]/app/*
 cm.com/[locale]/register
 cm.com/app/messagingtrial/
+cm.staging.pcom.weu.porsche.com
 cmcom.atlassian.net
 cms.monespacesante.fr
 cms.nba.com
@@ -3119,10 +3129,12 @@ components.frame.io
 components.stag.tomorrowland.com
 components.tomorrowland.com
 config.cic-bug-bounty.auth0app.com
+configurator.porsche.com
 configure.bmw.de
 configure.mini.de
 confluence.hyattdev.com
 connect-sandbox.gocardless.com
+connect-store.porsche.com
 connect.8x8.com
 connect.arkane.network 
 connect.arubanetworks.com
@@ -3218,6 +3230,7 @@ dcfgateway*.marriott.com
 dcs.clario.co
 de.bmw.connected.mobile20.row
 de.forescout.cloud
+dealer.porsche.com
 debug.clairvoyance.indrive.tech
 decision.swiftfinancial.com
 delen/id1064839588
@@ -3289,6 +3302,7 @@ doppler.team
 download.krisp.ai
 download.nextcloud.com
 downloads.datastax.com
+drive.porsche.com
 drone.vidaxl.io
 duo-eu.truecaller.com
 duo-invite-eu.truecaller.com
@@ -3306,6 +3320,7 @@ earlywarningapi.force.com
 eassessment.monash.edu
 ebctest.cybersource.com
 ebsext.oft.hyatt.com
+ecc.porsche.com
 ecosystem-api.polygon.technology
 ecosystem.polygon.technology
 ecrf.uzleuven.be
@@ -3359,6 +3374,7 @@ erpx.unit4cloud.com/u4erx_pab_acp1
 erpx.unit4cloud.com/u4erx_pab_prev
 erpx.unit4cloud.com/u4erx_pab_prod
 errors.hackerone.net
+es.porsche.com
 eshop.bpost.be
 etickets.infomaniak.com
 etorologsapi.etoro.com
@@ -3377,6 +3393,7 @@ exnessaffiliates.com
 exodus-movement.exodus
 exodusmovement.exodus
 experience.adobe.com
+experience.porsche.com
 experiencecloud.adobe.com
 experiences.booking.com
 explore.redoxengine.com
@@ -3412,6 +3429,7 @@ file.larksuite.com
 files.uzleuven.be
 filter-store4-asia-south1.truecaller.com
 filter-store4.truecaller.com
+finder.porsche.com
 firefly.adobe.com
 firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
@@ -3431,6 +3449,7 @@ forums.malwarebytes.com
 fp-sg.tiktokv.com
 fps-extr-services.vidaxl.org
 fr.vidaxl.ch
+friends.porsche-design.com
 fs.rarible.com
 funding-webhooks.remitly.io
 fuze.me
@@ -3814,6 +3833,7 @@ https://apps.apple.com/ca/app/lime-ridegreen/id1199780189
 https://apps.apple.com/ca/app/lime-supply/id1620058457
 https://apps.apple.com/ch/app/debix/id1581440132?l=en-GB
 https://apps.apple.com/ch/app/die-post/id378676700
+https://apps.apple.com/de/app/my-porsche/id1559529059
 https://apps.apple.com/de/app/otto-shopping-m%C3%B6bel/id404844644
 https://apps.apple.com/de/app/teamviewer-quicksupport/id661649585
 https://apps.apple.com/de/app/teamviewer-remote-control/id692035811
@@ -5186,6 +5206,7 @@ https://play.google.com/store/apps/details?id=com.pinelabs.emicatalogue.pinelabs
 https://play.google.com/store/apps/details?id=com.pinelabs.pinelabsone
 https://play.google.com/store/apps/details?id=com.pinterest&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.pinterest.twa&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.porsche.one
 https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&hl=en
 https://play.google.com/store/apps/details?id=com.scu.bsafe
 https://play.google.com/store/apps/details?id=com.siilo.android&hl=en
@@ -5828,6 +5849,7 @@ id1534920947
 id1541153375
 id1668462142
 identity.nba.com
+identity.porsche.com
 identity.stage.vismaonline.com
 identity.yoti.com
 identityserver-acc.landmarkcinemas.com
@@ -5865,6 +5887,7 @@ international.coinbase.com
 interseller.io
 intranet.takeaway.com
 inventory.data.gov
+investorrelations.porsche.de
 investors.semrush.com
 invitation.infomaniak.com
 invoices.razorpay.com
@@ -5896,6 +5919,8 @@ jira.hyattdev.com
 jira.logitech.com
 jobs.kiwi.com
 jobs.marriott.com
+jobs.porsche-design.com
+jobs.porsche.com
 jp.naver.line.android
 js.crypto.com
 js.datadome.co
@@ -6117,6 +6142,7 @@ mgmtpod-1-dashboard.production.forescoutcloud.net
 mgmtpod-1.production.forescoutcloud.net
 mgs-gw.m.dana.id
 mgs.marriott.com
+microsite.porsche.com
 middle-force.khealth.io
 mijn.gamma.be/*
 mijn.gamma.nl/*
@@ -6163,6 +6189,7 @@ my.loanbuilder.com
 my.malwarebytes.com
 my.plaid.com
 my.playstation.com
+my.porsche.com
 my.portofantwerp.com
 my.portofantwerpbruges.com
 my.pressable.com
@@ -6206,6 +6233,7 @@ new.www.vaxvacationaccess.com
 news.remitly.com
 newsletter.nextcloud.com
 newsroom.images.hyatt.com
+newsroom.porsche.com
 next.airbnb.com
 nextcloud.com
 nextcloud/3rdparty
@@ -6342,8 +6370,10 @@ outline-noneu.truecaller.com
 outlook.insightly.com
 ovo.id
 p.grabtaxi.com
+pab.porsche.com
 pabets.tvg.com
 paperspace.com
+paris.porsche.com
 partner-account-asia-south1.truecaller.com
 partner-account-eu.truecaller.com
 partner-account-noneu.truecaller.com
@@ -6421,6 +6451,53 @@ player.vimeo.com
 player.vrt.be
 playwonderbox.com
 playwonderbox.com.br
+porsche-design.com
+porsche-dortmund.eu
+porsche-duesseldorf.de
+porsche-erfahren.de
+porsche-essen.de
+porsche-giessen.de
+porsche-hahn.de
+porsche-hamburgnordwest.de
+porsche-kempten.de
+porsche-koeln.de
+porsche-moers.de
+porsche-olympiapark.de
+porsche-paderborn.de
+porsche-poster.com
+porsche-solingen.de
+porsche-stuttgart-flughafen.de
+porsche-stuttgart.de
+porsche-ulm.de
+porsche-villingen.de
+porsche-wiesbaden.de
+porsche-zentrum-essen.de
+porsche-zentrum-niederrhein.de
+porsche-zentrum-olympiapark.de
+porsche-zentrum-paderborn.de
+porsche-zentrum-pforzheim.de
+porsche-zentrum-reutlingen.de
+porsche-zentrum-seestern.de
+porsche-zentrum-solingen-remscheid.de
+porsche-zentrum-wuppertal.de
+porsche-zentrum.com
+porsche.biz
+porsche.com
+porsche.de
+porsche.digital
+porsche.it
+porschediesellookup.com
+porscheengineering.com
+porscheenglewood.com
+porschefortcollins.com
+porschegolfusa.com
+porschetravels.com
+porschezentrum-berlin-sued.de
+porschezentrum-berlin.de
+porschezentrum-muenchen-sued.de
+porschezentrumbremen.de
+porshe-design.com
+porshedesign.com
 portal-api.coinmarketcap.com
 portal.arkoselabs.com
 portal.au.frontegg.com
@@ -6452,6 +6529,8 @@ presence-grpc-eu.truecaller.com
 presence-grpc-noneu.truecaller.com
 presence-grpc.truecaller.com
 presentationtracking.netflix.com
+press.porsche-design.com
+press.porsche.com
 press.priceline.com
 priceline.com
 prime.coinbase.com
@@ -6464,6 +6543,7 @@ procuration.bpost.be
 prod-*.nu.com.co
 prod-*.nu.com.mx
 prod-*.nubank.com.br
+prod.porsche-design.com
 prod.ros.rockstargames.com
 proddata.xobni.yahoo.com
 production.plaid.com
@@ -6502,6 +6582,11 @@ pushfeed.nextcloud.com
 pushid-asia-south1.truecaller.com
 pwapi.ex2b.com
 py.pl
+pzk.de
+pzm.de
+pzms.de
+pzsc.de
+pzsf.de
 qa-db.vidaxl.io
 qa.vidaxl.io
 qa1-apigateway.vidaxl.io
@@ -6655,6 +6740,7 @@ shop.humo.be
 shop.infomaniak.com
 shop.judge.me
 shop.parool.nl
+shop.porsche.com
 shop.shipt.com
 shop.tiktok.com
 shop.trouw.nl
@@ -6666,6 +6752,7 @@ shoppers.instacart.com
 shoppingcart.shipt.com
 shops-services.vidaxl.org
 signup.myconnect.com.au
+signup.porsche.com
 simperium.com
 simplenote.com
 siorc.xfinity.com
@@ -6676,6 +6763,7 @@ skills-store.amazon.com
 skinport.com
 skyscanner.net/*
 skyscanner.net/hotels/book/*
+skyway.porsche.com
 slack-imgs.com
 slack-redir.net
 slack-status.com
@@ -6768,7 +6856,11 @@ sts.delen.be
 sts.etoro.com
 sts.uzleuven.be
 studio-api.swapcard.com
+studio-fa-porsche.de
+studio-fa-porsche.net
 studio.swapcard.com
+studiofaporsche.de
+studiofaporsche.net
 subscription-monitor-eu.truecaller.com
 substance3d.com
 super-services.indriverapp.com
@@ -6862,6 +6954,7 @@ tickets.kinepolis.lu
 tickets.kinepolis.nl
 tickets.metamask.io
 tiktok.com
+timepeacesconfigurator.porsche-design.com
 tock.18f.gov
 todo.notebleue.pro
 tools.deribit.com
@@ -6892,6 +6985,7 @@ uapi-front.etoro.com
 uber.com
 uc.8x8pilot.com
 ugurus.com
+ui.pab.porsche.com
 uisp.com
 uk.forescout.cloud
 uk.vidaxl.com.ua
@@ -7061,6 +7155,7 @@ ws.blockchain.info
 ws.sorare.com
 ws1.dashlane.com
 wss://socket.bitpanda.com
+www-staging.porscheautoinsurance.com
 www.4njbets.com
 www.abritel.fr
 www.ad.nl
@@ -7453,6 +7548,16 @@ xadsacademy.com
 xd.adobe.com
 xhomeapi-*.cloud.comcast.net
 xhomeapi-*.codebig2.net
+xn--porsche-alttting-wwb.de
+xn--porsche-gppingen-uwb.de
+xn--porsche-gttingen-uwb.de
+xn--porsche-kln-zfb.de
+xn--porsche-lbeck-4ob.de
+xn--porsche-lneburg-7vb.de
+xn--porsche-mnchen-sd-b3bh.de
+xn--porsche-nrnberg-7vb.de
+xn--porsche-schwbisch-gmnd-c5b89c.de
+xn--porsche-wrzburg-7vb.de
 xtramile.grabpay.com
 yapi.clario.co
 yelptop100.com
