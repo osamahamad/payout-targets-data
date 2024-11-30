@@ -1,121 +1,38 @@
-api-frontend.pab.porsche.com
-api.emea.gravity.porsche.com
-api.pab.porsche.com
-api.ppa.porsche.com
-auth.pab.porsche.com
-b2b.porsche-design.com
-benefit.porsche-design.com
-capitalmarketsday.porsche.com
-christmas-silence.porsche.com
-cm.staging.pcom.weu.porsche.com
-configurator.porsche.com
-connect-store.porsche.com
-dealer.porsche.com
-drive.porsche.com
-ecc.porsche.com
-es.porsche.com
-experience.porsche.com
-finder.porsche.com
-friends.porsche-design.com
-https://apps.apple.com/de/app/my-porsche/id1559529059
-https://play.google.com/store/apps/details?id=com.porsche.one
-identity.porsche.com
-investorrelations.porsche.de
-jobs.porsche-design.com
-jobs.porsche.com
-microsite.porsche.com
-my.porsche.com
-newsroom.porsche.com
-pab.porsche.com
-paris.porsche.com
-porsche-design.com
-porsche-dortmund.eu
-porsche-duesseldorf.de
-porsche-erfahren.de
-porsche-essen.de
-porsche-giessen.de
-porsche-hahn.de
-porsche-hamburgnordwest.de
-porsche-kempten.de
-porsche-koeln.de
-porsche-moers.de
-porsche-olympiapark.de
-porsche-paderborn.de
-porsche-poster.com
-porsche-solingen.de
-porsche-stuttgart-flughafen.de
-porsche-stuttgart.de
-porsche-ulm.de
-porsche-villingen.de
-porsche-wiesbaden.de
-porsche-zentrum-essen.de
-porsche-zentrum-niederrhein.de
-porsche-zentrum-olympiapark.de
-porsche-zentrum-paderborn.de
-porsche-zentrum-pforzheim.de
-porsche-zentrum-reutlingen.de
-porsche-zentrum-seestern.de
-porsche-zentrum-solingen-remscheid.de
-porsche-zentrum-wuppertal.de
-porsche-zentrum.com
-porsche.biz
-porsche.com
-porsche.de
-porsche.digital
-porsche.it
-porschediesellookup.com
-porscheengineering.com
-porscheenglewood.com
-porschefortcollins.com
-porschegolfusa.com
-porschetravels.com
-porschezentrum-berlin-sued.de
-porschezentrum-berlin.de
-porschezentrum-muenchen-sued.de
-porschezentrumbremen.de
-porshe-design.com
-porshedesign.com
-press.porsche-design.com
-press.porsche.com
-prod.porsche-design.com
-pzk.de
-pzm.de
-pzms.de
-pzsc.de
-pzsf.de
-shop.porsche.com
-signup.porsche.com
-skyway.porsche.com
-studio-fa-porsche.de
-studio-fa-porsche.net
-studiofaporsche.de
-studiofaporsche.net
-timepeacesconfigurator.porsche-design.com
-ui.pab.porsche.com
-www-staging.porscheautoinsurance.com
-xn--porsche-alttting-wwb.de
-xn--porsche-gppingen-uwb.de
-xn--porsche-gttingen-uwb.de
-xn--porsche-kln-zfb.de
-xn--porsche-lbeck-4ob.de
-xn--porsche-lneburg-7vb.de
-xn--porsche-mnchen-sd-b3bh.de
-xn--porsche-nrnberg-7vb.de
-xn--porsche-schwbisch-gmnd-c5b89c.de
-xn--porsche-wrzburg-7vb.de
+Starbucks China Android
+Starbucks China iOS
+www.starbucks.com.cn/
 2kleague.nba.com
 bal.nba.com
+cdn-bal.nba.com
 cdn.nba.com
 cms.nba.com
+com.nbaimd.gametime.nba2011
+com.nbaimd.gametime.universal
 content-api-nextgen-prod.nba.com
 content-api-prod.nba.com
 core-api.nba.com
+corp-dev.nba.com
+cweb-ott.nba.com
+elm.nba.com
 gleague.nba.com
 id.nba.com
 identity.nba.com
+lockervision.nba.com
+manage-teams.nba.com
+manage.nba.com
+mcd.nba.com
+mcdalerts.nba.com
+nbafedsvc.nba.com
 stats-trafficcop-prod.nba.com
+stats.2kleague.nba.com
+stats.gleague.nba.com
 stats.nba.com
+stats.wnba.com
+syndication.nba.com
+teamportal.nba.com
+vote.nba.com
 www.nba.com
+www.wnba.com
 api.circle.com
 app.circle.com
 console.circle.com
@@ -124,9 +41,9 @@ https://github.com/circlefin/buidl-wallet-contracts
 https://github.com/circlefin/evm-cctp-contracts
 https://github.com/circlefin/noble-fiattokenfactory
 https://github.com/circlefin/solana-cctp-contracts
+https://github.com/circlefin/stablecoin-aptos
 https://github.com/circlefin/stablecoin-evm
 https://github.com/circlefin/stablecoin-sui
-Merchant Portal
 https://github.com/nimiq/core-rs-albatross
 https://github.com/Chia-Network/chia-blockchain
 https://github.com/Chia-Network/chia-blockchain-gui
@@ -486,7 +403,6 @@ watchdocs.indriverapp.com
 wga.volans.tech
 1671793296
 zerobounce.net
-1291586307
 1324809509
 1528364633
 302584613
@@ -506,7 +422,6 @@ amazon.com/hz/mycd/*
 api.amazonalexa.com/*
 blueprints.amazon.com
 com.amazon.clouddrive.photos
-com.amazon.cosmos
 com.amazon.dee.app
 com.amazon.kindle
 com.amazon.storm.lightning.client.aosp
@@ -873,8 +788,10 @@ www.recordedfuture.com
 1503133294
 Clubhouse Production and Corporate Infrastructure
 com.clubhouse.android
+developer.metamask.io
 http://staking.consensys.io
 https://consensys.io/
+https://docs.metamask.io/developer-tools/faucet
 https://metamask-sdk-socket.metafi.codefi.network/
 on-ramp.metaswap-dev.codefi.network
 support.metamask.io
@@ -918,12 +835,10 @@ www.stripe.partners
 Freshcaller-iOS-App
 Freshchat-iOS-App
 Freshdesk-iOS-App
-Freshsales-iOS-App
 Freshservice Discovery Agent and Probe
 Freshservice-Intune-iOS-App
 Freshservice-iOS-App
 com.freshchat.agent.android
-com.freshdesk.freshsales.mobile
 com.freshdesk.helpdesk
 com.freshservice.helpdesk
 com.freshservice.helpdesk.intune
@@ -1305,6 +1220,7 @@ Other Amazon Retail Sites (Please only actively test explicitly stated scope)
 amazonpayinsurance.in
 com.amazon.mShop.android.shopping
 https://www.amazonpay.in/*
+primevideo.com/*
 www.amazon.*
 3d.cs.money
 blog.cs.money
@@ -1585,8 +1501,6 @@ https://github.com/kubernetes/frakti
 https://github.com/kubernetes/funding
 https://github.com/kubernetes/gengo
 https://github.com/kubernetes/git-sync
-https://github.com/kubernetes/ingress-gce
-https://github.com/kubernetes/ingress-nginx
 https://github.com/kubernetes/k8s.io
 https://github.com/kubernetes/klog
 https://github.com/kubernetes/kompose
@@ -1913,9 +1827,6 @@ api2.frontapp.com
 app.frontapp.com
 com.frontapp.mobile
 com.frontapp.mobile
-Etherspot SDK
-com.pillarproject.wallet
-com.pillarproject.wallet
 aggregator.etoro.com
 api.etoro.com
 billing-pci.etoro.com
@@ -2385,6 +2296,8 @@ com.paddypower.sportsbook.u.inhouse
 itv7.itv.com
 super6.skysports.com
 bounty-node.rsk.co
+https://github.com/rsksmart/2wp-api
+https://github.com/rsksmart/2wp-app
 https://github.com/rsksmart/powpeg-node
 https://github.com/rsksmart/rif-wallet
 https://github.com/rsksmart/rif-wallet-libs
@@ -2575,10 +2488,13 @@ AppActions
 Browser Extensions
 Capture the Flag
 Grammarly AI Assistant
+Grammarly Auth Services
 Grammarly Business Features
 Grammarly Desktop for Windows
 Grammarly Desktop for macOS
 Grammarly for Microsoft Word
+app.grammarly.com
+capi.grammarly.com
 com.grammarly.android.keyboard
 com.grammarly.keyboard
 grammarly.ai
@@ -2650,7 +2566,6 @@ www.opn.ooo
 Anchor
 Android SDK
 Backstage source code
-Chartable
 Core Assets
 GHE
 Jira
@@ -2905,6 +2820,7 @@ com.withbuddies.dice.free
 com.withbuddies.dice.free
 id1427744264
 id1541153375
+id1621328561
 api.localizestaging.com
 app.localizestaging.com
 cdn.localizestaging.com
@@ -3060,7 +2976,6 @@ npmjs.com
 npmjs.org
 com.wealthsimple
 com.wealthsimple.wealthsimple
-hackerone-m1rtuq8orz.hbstaging.website
 https://github.com/mainwp/mainwp
 https://github.com/mainwp/mainwp-child
 434613896
@@ -3575,6 +3490,8 @@ gnip.com
 t.co
 x.com
 xadsacademy.com
+GitHub repositories
+WordPress.org plugins
 1.1.1.1 Resolver
 AI Gateway
 AMP Real URL
