@@ -398,7 +398,6 @@
 *.hyperpure.com
 *.hyperwallet.com
 *.hypr.com
-*.igpayment.com
 *.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
@@ -415,8 +414,6 @@
 *.indriverapp.com
 *.indriverjob.com
 *.infra-prod.nsvcs.net
-*.innogames.com
-*.innogames.de
 *.instacart.com
 *.instacart.tools
 *.int.remitly.com
@@ -1497,6 +1494,7 @@ Eno® Browser Extension
 Ensemble
 EpicGamesLauncher.exe    
 EpicOnlineServices
+Etherspot SDK
 Exness Investor
 Exness Social Trading
 Exness Trade: Online Trading
@@ -3016,6 +3014,7 @@ com.paypal.merchant
 com.paypal.merchant.client
 com.peterandlinda.iOCNotes
 com.pieyel.scrabble
+com.pillarproject.wallet
 com.playtika.caesarscasino
 com.playtika.wsop.gp
 com.priceline.android.negotiator
@@ -5885,7 +5884,6 @@ infomaniak.events
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
 innersloth.kidswebservices.com
-innogames.com
 insights-categorizer-eu.truecaller.com
 insights-categorizer-noneu.truecaller.com
 insights-registry-eu.truecaller.com
@@ -6827,7 +6825,6 @@ support.creditkarma.ca
 support.cs.money
 support.databricks.com
 support.greenhouse.io
-support.innogames.com
 support.logi.com
 support.malwarebytes.com
 support.metamask.io
