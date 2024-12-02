@@ -2264,7 +2264,6 @@ Crypto.com Exchange APIs that require an account
 Crypto.com Wallet Extension
 Crypto.com mobile app APIs that require an account
 app.mona.co
-auth.crypto.com
 co.mona.android
 com.defi.wallet
 com.defi.wallet
@@ -2275,10 +2274,8 @@ https://crypto.com/nft
 https://crypto.com/price
 js.crypto.com
 merchant.crypto.com
-pay.crypto.com
 tax.crypto.com
 web.crypto.com
-www.crypto.com
 com.goodrx
 com.goodrx.iphone
 www.goodrx.com
