@@ -1308,6 +1308,8 @@ bugcrowd-oie-%username%-1.oktapreview.com
 bugcrowd-oie-%username%-2.oktapreview.com
 https://bugcrowd-pam-###.oktapreview.com
 https://www.okta.com/fastpass/
+bugcrowd-oie-%username%-1-admin.oktapreview.com
+bugcrowd-oie-%username%-2-admin.oktapreview.com
 https://www.okta.com/products/advanced-server-access/
 http://app.scaleft.com/
 https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
