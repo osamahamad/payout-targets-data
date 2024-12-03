@@ -1248,11 +1248,11 @@ Aiven for OpenSearch
 Aiven for PostgreSQL
 Aiven for Valkey
 All Assets (other than Blinkit)
-All Blinkit assets (in scope)
 All Mobile Assets
 All Motorola Devices running Android 13 and above. 
 All Other BitMEX Assets
 All Other In-Scope Assets
+All Zomato Assets (Other than BlinkIT & Hyperpure)
 All other Assets
 All other SBB owned IT assets
 All other Web and mobile APPs owned by SBB 
@@ -1361,6 +1361,7 @@ Blink Mini
 Blink Outdoor
 Blink Sync Module 2
 Blink Video Doorbell
+BlinkIT & Hyperpure assets (in scope)
 Body Comp scale
 Body Scan scale
 Bot Management
