@@ -2195,6 +2195,7 @@ Beats - Metricbeat
 Beats - Packetbeat
 Beats - Winlogbeat
 Elastic Agent
+Elastic Behavior Detections
 Elastic Clients
 Elastic Cloud Enterprise (ECE)
 Elastic Cloud on Kubernetes (ECK)
