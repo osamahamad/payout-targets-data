@@ -22,8 +22,11 @@
 * hln.be/registreren
 * humo.be/registreren
 *-api-*.acronis.com
+*-asia-south1.truecaller.com
 *-bugcrowd.foxycart.com (read below for details)
 *-cvr-aws-*.sys.comcast.net
+*-eu.truecaller.com
+*-noneu.truecaller.com
 *.-np.*.lfscnp.com
 *.10bis.co.il
 *.1debit.com
@@ -2207,9 +2210,6 @@ access-sandbox.remitly.com
 access.remitly.com
 access.ripe.net
 accommodations.booking.com
-account-noneu.truecaller.com
-account-onboarding-eu.truecaller.com
-account-onboarding-noneu.truecaller.com
 account-sprint.dynatracelabs.com
 account.acronis.com
 account.adobe.com
@@ -2262,17 +2262,9 @@ admintool.lime.bike
 adobeid-na1.services.adobe.com
 adobeid.services.adobe.com
 adobelogin.com
-ads-audience-ingestion-noneu.truecaller.com
-ads-audience-uploader.truecaller.com
-ads-config-engine-noneu.truecaller.com
-ads-partner-noneu.truecaller.com
-ads-rules-asia-south1.truecaller.com
-ads-rules-noneu.truecaller.com
-ads-segment-profile-eu.truecaller.com
 ads.reddit.com
 ads.snapchat.com
 ads.tiktok.com
-ads5-asia-south1.truecaller.com
 advisories.gitlab.com
 advocates.databricks.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
@@ -2492,9 +2484,7 @@ api.zmsp.*.earlywarning.io
 api.zmsp.earlywarning.com
 api2.frontapp.com
 api2.grofers.com
-api4-asia-south1.truecaller.com
 apigateway.vidaxl.io
-apigw-noneu.truecaller.com
 apigw.foliofn.com
 apis.mail.yahoo.com
 apis.onecloud.harman.com
@@ -2574,7 +2564,6 @@ app.watsons.com.tr
 app.workbox.dk
 app3.rewire.to
 applause1.magisto.com
-apple-subscription-monitor-eu.truecaller.com
 applications.frame.io
 appmiral.com
 apps-accpt.portofantwerp.com
@@ -2607,13 +2596,9 @@ assets.airbnb.com
 assets.hyatt.com
 assets.spotify.com
 assets.tumblr.com
-assure-noneu.truecaller.com
 astra.datastax.com
 asupport.suivo.com
 atarkasher.co.il
-audience-uploader-asia-south1.truecaller.com
-audience-uploader-noneu.truecaller.com
-audience-uploader.truecaller.com
 aus5.mozilla.org
 auth.23andme.com
 auth.digital.delen.be 
@@ -2632,8 +2617,6 @@ auth.ys7.com
 auth0.com	
 auth0.net
 auth2.indrive.tech
-auth4-asia-south1.truecaller.com
-auth4-noneu.truecaller.com
 authz.workbox.dk
 autocomplete.booking.com
 autodiscover.uzleuven.be
@@ -2648,7 +2631,6 @@ b2b.vidaxl.com
 b5s.hackerone-ext-content.com
 backoffice.lansweeper.com
 backstage.io
-backup.truecaller.com
 badoo.com
 badoocdn.com
 bal.nba.com
@@ -2658,7 +2640,6 @@ ballistic.com.br
 bankaccountdata.gocardless.com, ob.gocardless.com
 basecamp3.exe
 basicattentiontoken.org
-batchlogging4.truecaller.com
 battles.tv
 bb.visa.com
 bcny.com
@@ -2757,7 +2738,6 @@ calculators.arubanetworks.com
 caldav.larksuite.com
 calendar.infomaniak.com
 callbacks.airbnb.com
-callkit-asia-south1.truecaller.com
 cam.notebleue.pro
 campaign.adobe.com
 candle-src.etoro.com
@@ -3153,9 +3133,6 @@ com.zhiliaoapp.musically
 com.zopim.android
 com.zzkko
 comic.pixiv.net
-comments-asia-south1.truecaller.com
-comments-eu.truecaller.com
-comments-noneu.truecaller.com
 commerce.adobe.com
 commerce.coinbase.com
 community-tc.services.mozilla.com
@@ -3164,9 +3141,6 @@ community.databricks.com
 community.forescout.com
 community.logitech.com
 community.ui.com
-company-profile-asia-south1.truecaller.com
-company-profile-eu.truecaller.com
-company-profile-noneu.truecaller.com
 company.thebrowser.arc
 compass.fareharbor.com
 components.frame.io
@@ -3189,12 +3163,6 @@ console.circle.com
 console.dashlane.com
 console.tink.com
 console.truelayer[-sandbox].com
-contact-lists-eu.truecaller.com
-contact-lists-noneu.truecaller.com
-contact-request-stateless-eu.truecaller.com
-contact-request-stateless-noneu.truecaller.com
-contact-upload4-asia-south1.truecaller.com
-contact-upload4.truecaller.com
 contacts.infomaniak.com
 content-api-nextgen-prod.nba.com
 content-api-prod.nba.com
@@ -3311,7 +3279,6 @@ developers.cloudways.com
 developers.reddit.com
 developers.tiktok.com
 devhub.arubanetworks.com
-device-safety-asia-south1.truecaller.com
 diagrams.fr.cloud.gov
 dic.pixiv.net
 digili.s-cloud.fi
@@ -3346,12 +3313,6 @@ download.krisp.ai
 download.nextcloud.com
 downloads.datastax.com
 drone.vidaxl.io
-duo-eu.truecaller.com
-duo-invite-eu.truecaller.com
-duo-invite-noneu.truecaller.com
-duo-invite.truecaller.com
-duo-noneu.truecaller.com
-duo.truecaller.com
 dx-demo.deriv.com
 dx.deriv.com
 e-Commerce
@@ -3366,7 +3327,6 @@ ecosystem-api.polygon.technology
 ecosystem.polygon.technology
 ecrf.uzleuven.be
 edex.adobe.com
-edge-locations5.truecaller.com
 edge.lansweeper.com
 edgeapi.slack.com
 edgeapis.onecloud.harman.com
@@ -3390,28 +3350,12 @@ egaming.kinepolis.es
 elastic.co credentials
 eligibility.khealth.com
 elm.nba.com
-email-verification-eu.truecaller.com
-email-verification-noneu.truecaller.com
 embed.tumblr.com
 embed.vhx.tv
 en.vidaxl.ae
 en.vidaxl.ca
 eng.magiceden.dev
 eng.magiceden.io
-enterprise-account-management-noneu.truecaller.com
-enterprise-accounts-noneu.truecaller.com
-enterprise-auth-eu.truecaller.com
-enterprise-auth-noneu.truecaller.com
-enterprise-bizengage-noneu.truecaller.com
-enterprise-biznumbers-noneu.truecaller.com
-enterprise-feedback-noneu.truecaller.com
-enterprise-portal-noneu.truecaller.com
-enterprise-reports-noneu.truecaller.com
-enterprise-service-management-noneu.truecaller.com
-enterprise-survey-asia-south1.truecaller.com
-enterprise-survey-noneu.truecaller.com
-enterprise-userfeedback-noneu.truecaller.com
-enterprise-webhooks-noneu.truecaller.com
 epptool-ctld.verisign-grs.com (EPP service; DNS related)
 erpx.unit4cloud.com/u4erx_pab_acp1
 erpx.unit4cloud.com/u4erx_pab_prev
@@ -3459,7 +3403,6 @@ federalist-docs.18f.gov
 federalist-proxy.app.cloud.gov
 federalist.18f.gov
 federation.data.gov
-feedback-asia-south1.truecaller.com
 feedback.logitech.com
 fetlife.com
 fhdn.fareharbor.com
@@ -3469,8 +3412,6 @@ fi.spankki
 file-storage-front.eu-east-1.indriverapp.com
 file.larksuite.com
 files.uzleuven.be
-filter-store4-asia-south1.truecaller.com
-filter-store4.truecaller.com
 firefly.adobe.com
 firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
@@ -5913,8 +5854,6 @@ idp-mobile.nexuzhealth.be
 idp.fr.cloud.gov
 iframe.arkoselabs.com
 ifttt-adaptor.pub.kube.dm.gg
-images-asia-south1.truecaller.com
-images.truecaller.com
 imagine.magento.com
 img.swapcard.com
 imove.bpost.cloud
@@ -5925,9 +5864,6 @@ infomaniak.events
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
 innersloth.kidswebservices.com
-insights-categorizer-eu.truecaller.com
-insights-categorizer-noneu.truecaller.com
-insights-registry-eu.truecaller.com
 insights.deribit.com
 institutional.coinbase.com
 intensedebate.com
@@ -6025,7 +5961,6 @@ launch.playcanvas.com
 launchpad.37signals.com
 lawmanager.marriott.com
 le.yahooapis.com
-leadgen-asia-south1.truecaller.com
 learningmanager.adobe.com
 lego.me
 libsoup
@@ -6175,17 +6110,6 @@ mercantile.wordpress.org
 merchandise.opera-api.com
 merchant.crypto.com
 merino.services.mozilla.com
-messenger-eu.truecaller.com
-messenger-previews-asia-south1.truecaller.com
-messenger-previews-eu.truecaller.com
-messenger-previews-noneu.truecaller.com
-messenger-previews.truecaller.com
-messenger-web-eu.truecaller.com
-messenger-web-relay-compat-eu.truecaller.com
-messenger-web-relay-compat-noneu.truecaller.com
-messenger-web-relay-eu.truecaller.com
-messenger-web-relay-europe-west4.truecaller.com
-messenger-web-relay-noneu.truecaller.com
 messenger.eu-east-1.indriverapp.com
 meta-api.reddit.com
 metahuman.unrealengine.com
@@ -6272,7 +6196,6 @@ mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
 myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
-nationalidverification-noneu.truecaller.com
 nbafedsvc.nba.com
 neoket.net
 nessus.fr.cloud.gov
@@ -6366,17 +6289,12 @@ nl.karwei.app.android
 nl.vidaxl.be
 nmtracking.netflix.com
 no.kolonial.tienda
-notifications5-asia-south1.truecaller.com
-notifications5.truecaller.com
 notula-accpt.portofantwerpbruges.com
 novel.pixiv.net
 npm CLI
 npmjs.com
 npmjs.org
 nz.co.vista.android.movie.mjrtheatres
-oauth-account-asia-south1.truecaller.com
-oauth-portal-asia-south1.truecaller.com
-oauth-portal-noneu.truecaller.com
 oauth-sandbox.gocardless.com
 oauth.deriv.com
 oauth.developers.stagaws.visma.com
@@ -6406,12 +6324,10 @@ open.airbnb.com
 open.larksuite.com
 open.ys7.com
 openapi.starbucks.com
-openid-noneu.truecaller.com
 openidconnect.net	
 oprc.portofantwerpbruges.com
 ops.lime.bike
 opslogin.fr.cloud.gov
-opt-out-noneu.truecaller.com
 orc-xfi.com
 org.malwarebytes.antimalware
 org.piwik.mobile2
@@ -6420,20 +6336,13 @@ org.toshi.distribution
 org.vom8x8.sipua
 ota-staging.onecloud.harman.com
 ota.onecloud.harman.com
-otp-callback-eu.truecaller.com
-otp-callback-noneu.truecaller.com
 outage.logitech.com
 outagehistory.logitech.com
-outline-asia-south1.truecaller.com
-outline-noneu.truecaller.com
 outlook.insightly.com
 ovo.id
 p.grabtaxi.com
 pabets.tvg.com
 paperspace.com
-partner-account-asia-south1.truecaller.com
-partner-account-eu.truecaller.com
-partner-account-noneu.truecaller.com
 partner-webhook.remitly.io
 partner.logitech.com
 partner.steamgames.com
@@ -6441,7 +6350,6 @@ partner.steampowered.com
 partner.swiftfinancial.com
 partner.tiktokshop.com
 partnerportal.skyscanner.net/*
-partners-search.truecaller.com
 partners.adobe.com
 partners.databricks.com
 partners.etoro.com
@@ -6472,20 +6380,13 @@ payroll.razorpay.com
 pb.deribit.com
 pcrstudioruzb.uzleuven.be
 phabricator.allizom.org
-phone-gateway-eu.truecaller.com
-phone-gateway-noneu.truecaller.com
 phone-validation.taxi.booking.com
-phonebook5-asia-south1.truecaller.com
-phonebook5.truecaller.com
 photoshop.adobe.com
 photoshop.com
 piaservers.com
 pigeon.swiftfinancial.com
 pipe.deezer.com
 piuk.blockchain.android
-pixel-noneu.truecaller.com
-pixel.truecaller.com
-placement-rules-noneu.truecaller.com
 plaid.com
 planet.wordpress.org
 plannerrequest.hyatt.com
@@ -6522,8 +6423,6 @@ portswigger.net
 prd-ring-web-us.prd.rings.solutions
 prddnighting01.uzleuven.be
 prddsplunkhf.uzleuven.be
-premium-eu.truecaller.com
-premium-noneu.truecaller.com
 preprod.am.monespacesante.fr
 preprod.api.monespacesante.fr
 preprod.auth.monespacesante.fr
@@ -6534,9 +6433,6 @@ preprod1.grindr.com
 preprod1.monespacesante.fr
 preprod2.monespacesante.fr
 prequal.swiftfinancial.com
-presence-grpc-eu.truecaller.com
-presence-grpc-noneu.truecaller.com
-presence-grpc.truecaller.com
 presentationtracking.netflix.com
 press.priceline.com
 priceline.com
@@ -6558,10 +6454,6 @@ profiel.vrt.be
 profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
-profile-view-asia-south1.truecaller.com
-profile-view.truecaller.com
-profile4-asia-south1.truecaller.com
-profile4.truecaller.com
 profiler.firefox.com
 projects.nextcloud.com
 prometheus.fr.cloud.gov
@@ -6570,8 +6462,6 @@ prow.k8s.io
 proxy-production.lime.bike
 psychobunny.me
 public.hyatt.com
-push-callerid-eu.truecaller.com
-push-callerid-noneu.truecaller.com
 push-d-gw.cloud.etoro.com
 push-d-hap.cloud.etoro.com
 push-demo-hk-lightstreamer.cloud.etoro.com
@@ -6585,7 +6475,6 @@ push-real-hk-lightstreamer.cloud.etoro.com
 push.opera.com
 push.services.mozilla.com
 pushfeed.nextcloud.com
-pushid-asia-south1.truecaller.com
 pwapi.ex2b.com
 py.pl
 qa-db.vidaxl.io
@@ -6601,9 +6490,7 @@ rari.foundation
 rates.rewire.com
 read.amazon.com
 readonly.fareharbor.com
-recommended-contacts-noneu.truecaller.com
 redditforbusiness.com
-referrals-asia-south1.truecaller.com
 register-accpt.portofantwerp.com
 register-accpt.portofantwerpbruges.com
 register.bpost.be
@@ -6616,9 +6503,6 @@ relay.playcanvas.com
 remitly.com
 repo.magento.com
 report.voi.com
-request3-asia-south1.truecaller.com
-request3-eu.truecaller.com
-request3-noneu.truecaller.com
 res.blueskytours.globalbookingsolutions.com
 res.en.travelbrandsagent.com
 res.fr.travelbrandsagent.com
@@ -6678,17 +6562,8 @@ scapegoat.hyatt.com
 screenshot-proxy.netlify.app
 scrutiny.swiftfinancial.com
 sdg.data.gov
-sdk-apps-noneu.truecaller.com
-sdk-otp-verification-noneu.truecaller.com
 se.mathem.mathem
-search-external-features-asia-south1.truecaller.com
-search-external-features-noneu.truecaller.com
-search-warnings-asia-south1.truecaller.com
-search-warnings-eu.truecaller.com
-search-warnings-noneu.truecaller.com
 search.brave.com
-search5-asia-south1.truecaller.com
-search5.truecaller.com
 sec.m.dana.id
 secure-dfadmin.deriv.com
 secure-supply-xml.booking.com
@@ -6843,7 +6718,6 @@ store.snapchat.com
 store.steampowered.com
 store.ui.com
 storefront.steampowered.com
-stores-api-noneu.truecaller.com
 story.snapchat.com
 strapi.reddit.com
 stream.frame.io
@@ -6859,7 +6733,6 @@ sts.etoro.com
 sts.uzleuven.be
 studio-api.swapcard.com
 studio.swapcard.com
-subscription-monitor-eu.truecaller.com
 substance3d.com
 super-services.indriverapp.com
 super6.skysports.com
@@ -6880,9 +6753,6 @@ support.nextcloud.com
 support.rockstargames.com
 support.steampowered.com
 supportal.netlify.app
-survey-asia-south1.truecaller.com
-survey-eu.truecaller.com
-survey-noneu.truecaller.com
 surveyserver.nextcloud.com
 svn.notebleue.pro
 swiftcapital.com
@@ -6912,7 +6782,6 @@ t.co
 t.swapcard.com
 t.umblr.com
 tableau.fareharbor.engineering
-tagging5-asia-south1.truecaller.com
 talk.brave.com
 tapi-demo.etoro.com
 tapi-real.etoro.com
@@ -6923,9 +6792,6 @@ team-irc.irccloud.com
 team.swapcard.com
 teamportal.nba.com
 teams.krisp.ai
-telecom-operator-data-asia-south1.truecaller.com
-telecom-operator-data-noneu.truecaller.com
-telecom-operator-data.truecaller.com
 teleport.fareharbor.engineering
 temp.rarible.com
 tequila.kiwi.com
@@ -6959,7 +6825,6 @@ tock.18f.gov
 todo.notebleue.pro
 tools.deribit.com
 toolsforhumanity.com
-topspammers-asia-south1.truecaller.com
 tracking.vidaxl.com
 training.ui.com
 transact.playstation.com
@@ -6972,8 +6837,6 @@ trendyol.com
 tria.ge
 trm.pinepaymentsolutions.com
 truck-api.eu-east-1.indriverapp.com
-truehelper-eu.truecaller.com
-truehelper-noneu.truecaller.com
 truelayer-signing
 try.discourse.org
 tunnistus.s-ryhma.fi
@@ -6991,29 +6854,19 @@ uk.vidaxl.com.ua
 unifi.ui.com
 unified.cloudways.com
 university-staging.dynatracelabs.com
-unlist5-asia-south1.truecaller.com
-unlist5-eu.truecaller.com
-unlist5-noneu.truecaller.com
-unlist5.truecaller.com
-unwanted-communication-extension-eu.truecaller.com
-unwanted-communication-extension-noneu.truecaller.com
 updater.clario.co
 updates.forescout.com
 updates.frame.io
 updates.nextcloud.com
 updatetracker.clario.co
 upld.krisp.ai
-upload3-asia-south1.truecaller.com
-upload3-noneu.truecaller.com
 upsell.hyatt.com
-url-metadata-noneu.truecaller.com
 us.cloud.com
 us.forescout.cloud
 us.tvg.com
 us1.badoo.com
 usa.visa.com
 usauth.ezvizlife.com
-user-archive-asia-south1.truecaller.com
 user-profile-staging.8x8.com
 user-profile.8x8.com
 usercontent.apps.nextcloud.com
@@ -7030,13 +6883,9 @@ vacations.travelimpressions.com
 vacations.united.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
-valid-names-eu.truecaller.com
-valid-names-noneu.truecaller.com
 validationlist.bpost.be
 vcc-*.8x8.com
 vcc-ce.8x8.com
-verification-eu.truecaller.com
-verification-noneu.truecaller.com
 verify.arkoselabs.com
 verify.rapyd.net
 vfo01.vodafone.om
@@ -7045,8 +6894,6 @@ vfo03.vodafone.om
 vhx.tv
 via.rider
 vidaxl.zendesk.com
-video-callerid-eu.truecaller.com
-video-callerid-noneu.truecaller.com
 vikingco.be
 vikingdeals.be
 vikinglab.be
@@ -7062,7 +6909,6 @@ visa.com.ua
 voapi.8x8.com
 vod.infomaniak.com
 voi.com
-voip-asia-south1.truecaller.com
 volans.tech
 vote.nba.com
 vpn.mobilevikings.be
@@ -7083,7 +6929,6 @@ wallets.api.playstation.com
 watchdocs.indriverapp.com
 watchlistapi.etoro.com
 weather.opera-api.com
-web-consent-noneu.truecaller.com
 web-message-high.lime.bike
 web-message.lime.bike
 web-production.lime.bike
@@ -7100,14 +6945,10 @@ webapps-test.portofantwerpbruges.com/xui
 webapps.portofantwerp.com
 webapps.portofantwerpbruges.com
 webauthn.me	
-webdirectory-eu.truecaller.com
-webdirectory-noneu.truecaller.com
 webgateway.koho.ca
 webhooks.booking.com
 webhooks.gamma.redoxstage.com
 webhooks.truelayer[-sandbox].com
-webonboarding-eu.truecaller.com
-webonboarding-noneu.truecaller.com
 webtoolbox.notebleue.pro
 webwinkel.ad.nl
 webwinkel.parool.nl
