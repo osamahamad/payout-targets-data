@@ -319,6 +319,8 @@
 *.fromspotify.com
 *.fuze.com
 *.fuze.site
+*.gamma.be/*
+*.gamma.nl/*
 *.genoapay.co.nz
 *.genoapay.com
 *.gethypr.com
@@ -424,6 +426,9 @@
 *.int.remitly.com
 *.intel.com
 *.intercomassets.com / *.intercomcdn.com
+*.intergamma-test.nl
+*.intergamma.cloud
+*.intergamma.nl/*
 *.irccloud-cdn.com
 *.irccloud.com
 *.itcapital.io
@@ -444,6 +449,8 @@
 *.just-eat.fr
 *.just-eat.no
 *.justfall.lol,*.justplay.lol,*.1v1.lol
+*.karwei.nl/*
+*.karweioutletstore.nl
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
 *.khealth.com
@@ -464,6 +471,7 @@
 *.kwsdose.be
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
+*.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
 *.latitudefinancial.co.nz
@@ -676,6 +684,7 @@
 *.registry.eu
 *.rentalcars.com
 *.reposify.com
+*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -896,6 +905,9 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
 *.westernunion.*
 *.wf.com
 *.whois.eu
@@ -1022,6 +1034,7 @@
 153.46.96.0/20
 1541949985
 1557515848
+1558129454
 1579530451
 1589023233
 1589071345
@@ -1169,6 +1182,9 @@
 94.107.237.192/26
 944011620
 947984433
+949829216
+950680989
+950693949
 955837609
 961114489414094898
 965180355
@@ -1814,6 +1830,7 @@ OKX Wallet Edge Add-ons
 OKX Wallet Safari Extension
 OKX iOS APP
 ONCE: Campfire
+OT scanner
 Observability - APM Agents
 Observability - APM Server
 Official WordPress plugins
@@ -2388,6 +2405,7 @@ api.khealth.io
 api.kolesa.kz
 api.krisha.kz
 api.krisp.ai
+api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
@@ -2506,6 +2524,8 @@ app.krisha.kz
 app.krisp.ai
 app.kruidvat.be
 app.kruidvat.nl
+app.lansweeper.com
+app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
 app.localizestaging.com
@@ -2601,6 +2621,7 @@ authz.workbox.dk
 autocomplete.booking.com
 autodiscover.uzleuven.be
 autointerface.stag.visma.net
+autoupdateapi.lansweeper.com
 avtoelon.uz
 aw.visa.com
 aws.indrive.tech
@@ -2608,6 +2629,7 @@ ax-stage.maventa.com
 b2b.tvgnetwork.com
 b2b.vidaxl.com
 b5s.hackerone-ext-content.com
+backoffice.lansweeper.com
 backstage.io
 badoo.com
 badoocdn.com
@@ -2625,6 +2647,7 @@ bd.visa.com
 be.bpost.mobilecard
 be.bpost.mybpost
 be.delen.digital
+be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -3277,6 +3300,7 @@ doaction.org
 docs.databricks.com
 docs.datastax.com
 docs.gitlab.com
+docs.lansweeper.com
 docs.launchdarkly.com
 docs.nextcloud.com
 docs.redoxengine.com
@@ -3303,6 +3327,7 @@ ecosystem-api.polygon.technology
 ecosystem.polygon.technology
 ecrf.uzleuven.be
 edex.adobe.com
+edge.lansweeper.com
 edgeapi.slack.com
 edgeapis.onecloud.harman.com
 editeur.am.monespacesante.fr
@@ -4601,6 +4626,7 @@ https://login.salt.ch
 https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
+https://lsagentrelay.lansweeper.com/
 https://luna.amazon.com/*
 https://m-api.lafourchette.com
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
@@ -5894,6 +5920,9 @@ k8s.gcr.io
 k8s.io
 kaccount.khealth.com
 kartaview.org
+kassa.gamma.be/*
+kassa.gamma.nl/*
+kassa.karwei.nl/*
 kb.databricks.com
 kbill.mackeeper.com
 kidswebservices.com
@@ -5973,6 +6002,7 @@ login.fr.cloud.gov
 login.fr.travelbrandsagent.com
 login.infomaniak.com
 login.insightly.com
+login.lansweeper.com
 login.oyens.com
 login.pabets.tvg.com
 login.playcanvas.com
@@ -6096,6 +6126,9 @@ mgmtpod-1.production.forescoutcloud.net
 mgs-gw.m.dana.id
 mgs.marriott.com
 middle-force.khealth.io
+mijn.gamma.be/*
+mijn.gamma.nl/*
+mijn.karwei.nl/*
 mijnacc.uzleuven.be
 mipartnerprivileges.marriott.com
 mirc.uzleuven.be
@@ -6250,6 +6283,9 @@ niantic.kidswebservices.com
 nicetryapril.na1.echosignsandbox.com
 ninja.kiwi
 ninjakiwi.com
+nl.gamma.app.android
+nl.gamma.verf
+nl.karwei.app.android
 nl.vidaxl.be
 nmtracking.netflix.com
 no.kolonial.tienda
@@ -6268,6 +6304,7 @@ octopus
 odoo14.notebleue.pro
 om.vodafone.mva
 omgpro.airbnb.com
+on-premises software
 on-ramp.metaswap-dev.codefi.network
 onboarding-*.cloud.com
 onboarding-api.truelayer.com
@@ -7088,6 +7125,8 @@ www.fortress.com.hk
 www.fraedom.com
 www.funjet.com
 www.fuzemeeting.com
+www.gamma.be/*
+www.gamma.nl/*
 www.getaroom.com
 www.globalhotelchoices.com
 www.gocardless.com
@@ -7114,6 +7153,7 @@ www.instacart.com
 www.intigriti.com
 www.irccloud.com
 www.jaybirdsport.com
+www.karwei.nl/*
 www.kayak.com
 www.kinepolis.be 
 www.kinepolis.biz
@@ -7129,6 +7169,7 @@ www.kpharmacyllc.com
 www.kruidvat.be
 www.kruidvat.nl
 www.landmarkcinemas.com
+www.lansweeper.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.leather.io
