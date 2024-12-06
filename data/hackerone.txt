@@ -1399,6 +1399,7 @@ prow.k8s.io
 com.coinspot.app
 www.coinspot.com.au
 api-sandbox.gocardless.com
+auth0.gocardless.com
 bankaccountdata.gocardless.com, ob.gocardless.com
 connect-sandbox.gocardless.com
 manage-sandbox.gocardless.com
