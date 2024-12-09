@@ -1210,6 +1210,8 @@
 <Your own 1Password Account subdomain --> https://<your account domain>.1password.com/
 <Your own 1Password account> —> Latest stable, beta, or nightly Android Build
 <Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension  (Chrome, Brave, Firefox, Edge, and Safari)
+<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
+<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
 <Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI) 
 <Your own 1Password account> —> Latest stable, beta, or nightly Linux Build
 <Your own 1Password account> —> Latest stable, beta, or nightly MacOS Build
@@ -3540,6 +3542,7 @@ hotornot.com
 hpanel.hostinger.com
 hpp.truelayer[-sandbox].com
 ht.visa.com
+http://--your-own-1password-account--.1password.com
 http://agenttraining.westernunion.com
 http://analytics.prosus.com
 http://api.insightly.com/v3.1/
@@ -3985,6 +3988,7 @@ https://brand.takeaway.com
 https://browser-notifications.opera.com
 https://bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com
+https://bugbounty-ctf.1password.com/
 https://bugcrowd-oie-%username%-1.workflows.oktapreview.com
 https://bugcrowd-oie-%username%-2.workflows.oktapreview.com
 https://bugcrowd-pam-###.at.oktapreview.com
@@ -4172,6 +4176,7 @@ https://etherscan.io/address/0x0046000000000151008789797b54fdb500E2a61e
 https://etherscan.io/address/0xcE0000007B008F50d762D155002600004cD6c647
 https://etsypayments.com
 https://europe.priceless.com/shb
+https://events.1password.com/
 https://externalconnect.usaa.com/
 https://fcu.eu-west-2.outscale.com
 https://features.opera-api.com
