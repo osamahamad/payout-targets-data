@@ -164,6 +164,7 @@
 *.bugcrowd.com/auth/*
 *.byairbnb.com
 *.bybit.com
+*.bykea.net
 *.byspotify.com
 *.bz-berlin.de
 *.c-point.be
@@ -965,6 +966,7 @@
 *racing.fanduel.com
 *signalservice.comcast.net
 *stag*.uzleuven.be
+*test*.bykea.net
 *tidalhi.fi
 *uat.marriott.com
 *ubereats.com
@@ -1018,6 +1020,7 @@
 134.58.179.102-103
 134.58.179.82
 1343620481
+1351179184
 1395921017
 140.95.0.0/16
 141.0.8.0/21
@@ -2658,6 +2661,7 @@ be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
 beacon.netflix.com
 behance.net
+belaz.bykea.net
 bestfiends.com
 beta-cloud.acronis.com
 beta.rarible.com
@@ -2736,6 +2740,7 @@ business.truecaller.com
 businesshelp.snapchat.com
 buy.logitech.com
 buy.moonpay.com
+bykea.com
 ca.account.sony.com
 ca.koho
 cache.judge.me
@@ -2891,6 +2896,8 @@ com.brave.browser_beta
 com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
+com.bykea.pk
+com.bykea.pk.partner
 com.capital.trading
 com.cheaptickets
 com.clubhouse.android
@@ -3470,6 +3477,7 @@ gnocchi-www.buffalo-ggn.net
 go.capital.com
 gold.xnxx.com
 goldmansachsindices.com
+googleplace*.bykea.net
 gps.echosign.com
 gql.reddit.com
 grab.careers
@@ -3701,6 +3709,7 @@ https://api.anytask.thesecurityteam.rocks
 https://api.bitpanda.com
 https://api.blablalines.com
 https://api.bugcrowd.com
+https://api.bykea.net
 https://api.classdojo.com
 https://api.clearpay.com
 https://api.cloudinary.com
@@ -4197,6 +4206,7 @@ https://gatewaydsaptst2.marriott.com/
 https://gemcreditline.co.nz
 https://gemfinance.co.nz
 https://gemvisa.com.au
+https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
 https://git.libssh.org/
@@ -4602,6 +4612,7 @@ https://lastpass.com
 https://lastpass.com/misc_download2.php
 https://latitudeinfinity.com.au
 https://lbu.eu-west-2.outscale.com
+https://leaflet-map.bykea.net
 https://learn.neogov.com
 https://learn.newrelic.com/
 https://legacy-blockexplorer.electroneum.com
@@ -4640,6 +4651,7 @@ https://manager.trial.lsk.lightspeed.app/
 https://mapi-a.usaa.com
 https://mapi.usaa.com/
 https://mapmyfitness.api.ua.com
+https://maps.bykea.net
 https://market.immutable.com/
 https://marketplace.atlassian.com
 https://marketplace.atlassian.com/apps/1210722/confluence-source-editor?hosting=server
@@ -5049,6 +5061,7 @@ https://newrelic.com/blog
 https://newsletter.thuisbezorgd.nl
 https://nice.wfmusaa.com
 https://node.e2ro.com/*
+https://nominatim.bykea.net
 https://northwesternmutual.com
 https://nubank.com.br/
 https://nubank.com.co
@@ -5939,6 +5952,7 @@ konfigurator.bmw-motorrad.de
 kpaste.infomaniak.com
 krisha.kz
 krisp.ai
+kronos*.bykea.net
 kubernetes-csi.github.io
 kubernetes.io
 kumulus.uzleuven.be
@@ -5978,6 +5992,7 @@ lists.nextcloud.com
 lists.wordpress.org
 live-backstage.tiktok.com
 lms-stg-develop.eks-stg-use1.getaws.arubanetworks.com
+loadboard*.bykea.net/
 loanbuilder.com
 localizestaging.com
 lockervision.nba.com
@@ -6486,6 +6501,7 @@ qwantjunior.com
 r.etoro.com
 random.uzleuven.be/random/
 rankings.etoro.com
+raptor*.bykea.net
 rari.foundation
 rates.rewire.com
 read.amazon.com

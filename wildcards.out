@@ -141,6 +141,7 @@
 *.bugcrowd.com/auth/*
 *.byairbnb.com
 *.bybit.com
+*.bykea.net
 *.byspotify.com
 *.bz-berlin.de
 *.c-point.be
@@ -936,6 +937,7 @@
 *idp*.uzleuven.be
 *omega*.yahoo.com
 *stag*.uzleuven.be
+*test*.bykea.net
 3rd party services hosted at *.sophos.com
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
@@ -951,7 +953,10 @@ casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 dcfgateway*.marriott.com
 developer*.earlywarning.com
 gateway*.marriott.com
+googleplace*.bykea.net
 intercity-*.eu-east-1.indriverapp.com
+kronos*.bykea.net
+loadboard*.bykea.net/
 matrix.agent.*.tchap.gouv.fr
 munin-*.wordpress.org
 onboarding-*.cloud.com
@@ -960,6 +965,7 @@ prod-*.nu.com.co
 prod-*.nu.com.mx
 prod-*.nubank.com.br
 qm-*.8x8.com
+raptor*.bykea.net
 storage*.infomaniak.com
 support*.earlywarning.com
 swiss-backup*.infomaniak.com
