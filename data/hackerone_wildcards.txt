@@ -10,6 +10,7 @@
 *.prod.ftl.netflix.com
 api*.netflix.com
 *.bybit.com
+*.cheaptickets.nl
 *.trainpal.com,*.mytrainpal.com
 *.travix.com
 *.travix.io
