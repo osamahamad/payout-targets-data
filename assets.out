@@ -7,7 +7,6 @@
  Twilio CDNs (static*.twilio.com)
  Watsons.TaiWan.Android
  api.spotify.com, api-partner.spotify.com
- aweb.suivo.com
  com.citymapper.app.release
  https://github.com/0xPolygon/proof-generation-api
  idp-contact.nexuzhealth.be
@@ -1754,6 +1753,7 @@ Microsites
 Miro SDK
 Mobile Applications
 Mobile Apps
+Modernized Discovery
 MoneyBack.HongKong.Android
 MoneyBack.HongKong.iOS
 Moneyback (subdomains)
@@ -1811,7 +1811,6 @@ OKX Wallet Edge Add-ons
 OKX Wallet Safari Extension
 OKX iOS APP
 ONCE: Campfire
-OT scanner
 Observability - APM Agents
 Observability - APM Server
 Official WordPress plugins
@@ -2580,7 +2579,6 @@ assets.hyatt.com
 assets.spotify.com
 assets.tumblr.com
 astra.datastax.com
-asupport.suivo.com
 atarkasher.co.il
 aus5.mozilla.org
 auth.23andme.com
