@@ -941,6 +941,8 @@ www.fuzemeeting.com
 Drogas (subdomains)
 Drogas.Latvia.Android
 Drogas.Latvia.iOS
+Drogas.Lietuva.Android
+Drogas.Lietuva.iOS
 Fortress (subdomains)
 Fortress.HongKong.Android
 ICI Paris XL (subdomains)
@@ -1000,6 +1002,7 @@ Watsons.Thailand.Android
 Watsons.Thailand.IOS
 Watsons.Turkey.Android
 Watsons.Turkey.iOS
+api.drogas.lt
 api.drogas.lv
 api.fortress.com.hk
 api.iciparisxl.be
@@ -1020,6 +1023,7 @@ api.watsons.com.ph
 api.watsons.com.sg
 api.watsons.com.tw
 api.watsons.vn
+app.drogas.lt
 app.drogas.lv
 app.iciparisxl.be
 app.iciparisxl.lu
@@ -1038,6 +1042,7 @@ app.superdrug.com
 app.theperfumeshop.com
 app.watsons.com.tr
 blog.watsons.com.tr
+https://www.drogas.lt/blog
 https://www.drogas.lv/blog/
 https://www.drogas.lv/lv/blog
 https://www.drogas.lv/ru/blog
@@ -1065,6 +1070,7 @@ https://www.superdrug.com/blog/
 https://www.theperfumeshop.com/blog/
 https://www.theperfumeshop.com/ie/blog/
 mapi.moneyback.com.hk
+media.drogas.lt
 media.drogas.lv
 media.iciparisxl.be
 media.iciparisxl.lu
@@ -1085,6 +1091,7 @@ medias.watsons.com.ph
 medias.watsons.com.sg
 medias.watsons.com.tw
 medias.watsons.vn
+www.drogas.lt
 www.drogas.lv
 www.fortress.com.hk
 www.iciparisxl.be
