@@ -2328,8 +2328,6 @@ api.dashlane.com
 api.data.gov
 api.deezer.com
 api.deriv.com
-api.digital.delen.be 
-api.digital.delen.lu 
 api.digitalocean.com
 api.direct.playstation.com
 api.doppler.com
@@ -2478,9 +2476,6 @@ app.chime.com
 app.circle.com
 app.command.cysiv.com
 app.dashlane.com
-app.delen.be 
-app.delen.ch 
-app.delen.lu 
 app.deriv.com
 app.drogas.lv
 app.dynamic-preprod.xyz
@@ -2582,8 +2577,6 @@ astra.datastax.com
 atarkasher.co.il
 aus5.mozilla.org
 auth.23andme.com
-auth.digital.delen.be 
-auth.digital.delen.lu 
 auth.indrive.tech
 auth.magic.link
 auth.monespacesante.fr
@@ -2628,7 +2621,6 @@ bcny.com
 bd.visa.com
 be.bpost.mobilecard
 be.bpost.mybpost
-be.delen.digital
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -3229,7 +3221,6 @@ de.bmw.connected.mobile20.row
 de.forescout.cloud
 debug.clairvoyance.indrive.tech
 decision.swiftfinancial.com
-delen/id1064839588
 delta.app
 demo.arkoselabs.com
 demo.cloud.databricks.com
@@ -5990,16 +5981,12 @@ login-test.portofantwerpbruges.com/poam/XUI/
 login.arkane.network
 login.bigcommerce.com
 login.cm.com
-login.delen.be 
-login.delen.ch 
-login.delen.lu 
 login.en.travelbrandsagent.com
 login.fr.cloud.gov
 login.fr.travelbrandsagent.com
 login.infomaniak.com
 login.insightly.com
 login.lansweeper.com
-login.oyens.com
 login.pabets.tvg.com
 login.playcanvas.com
 login.portofantwerpbruges.com
@@ -6697,7 +6684,6 @@ stats.nba.com
 stats.nextcloud.com
 stats.wnba.com
 status.adobe.com
-status.delen.be 
 status.larksuite.com
 steamcommunity.com
 stock.adobe.com
@@ -6720,7 +6706,6 @@ streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streams.etoro.com
-sts.delen.be 
 sts.etoro.com
 sts.uzleuven.be
 studio-api.swapcard.com
@@ -7018,8 +7003,6 @@ www.bookabach.co.nz
 www.bookingholdings.com
 www.bpost.be
 www.bumble.com
-www.cadelam.be 
-www.cadelux.lu/en 
 www.cardinalcommerce.com
 www.carrentals.com
 www.chaire-arpenter.fr
@@ -7044,8 +7027,6 @@ www.data.gov
 www.datastax.com
 www.ddfcontent.com
 www.deezer.com
-www.delen.bank
-www.delen.be/en 
 www.demorgen.be
 www.demorgen.be/abonnementen
 www.digitalocean.com
