@@ -1166,7 +1166,6 @@
 737216887
 740514933
 77.111.244.0/22
-7News
 82.145.208.0/20
 82.196.42.196/28
 831287358355275877
@@ -1217,7 +1216,6 @@ AOL (misc)
 AOL Help
 AOL Homepage
 AOL Mail
-AOL Mobile Apps
 AOL Search
 API Shield
 API's
@@ -1309,7 +1307,6 @@ Apple App Store (886492891)
 Arc on Mac
 Arc on Window
 Area 1
-Arkime
 Arlo
 Arlo All-In-One Sensor (Home Security System)
 Arlo Baby
@@ -1349,11 +1346,9 @@ Aruba Wireless – ArubaOS and Aruba Instant
 ArubaOS-CX Wired Switches
 Assets labeled as in-scope
 Assets owned by RIPE NCC
-Athenz
 Audition
 Authentication component
 BBPress Core
-BUILD
 Backend endpoint: bug-bounty-be.glean.com
 Backstage source code
 Basecamp.app
@@ -1388,7 +1383,6 @@ Browser Extensions
 Browser Isolation
 BrowserGuard (Firefox/Chrome/Safari browser extension)
 BuddyPress Core
-Built By Girls
 Burp Collaborator
 Burp Suite Enterprise Edition
 Burp Suite Extension (BApps)
@@ -1469,7 +1463,6 @@ CyberGhost VPN servers
 CyberGhost Xbox One + Xbox360 apps
 DS proxy (see https://github.com/demarches-simplifiees/ds_proxy)
 DSE, Opscenter
-DSP
 Data Loss Prevention (DLP)
 Data.lime.bike 
 Dependabot
@@ -1516,7 +1509,6 @@ Enjin - Ethereum ERC-1155 Contract
 Enjin Blockchain
 Enjin Coin - Ethereum ERC-20 Contract
 Eno® Browser Extension
-Ensemble
 EpicGamesLauncher.exe    
 EpicOnlineServices
 Etherspot SDK
@@ -1724,7 +1716,6 @@ Magic Firewall
 Magic Transit
 Magic WAN
 Magic and Fortmatic Products
-Makers
 Malicious or compromised gem
 Malwarebytes Anti-Exploit
 Malwarebytes Anti-Ransomware
@@ -1805,7 +1796,6 @@ Native K8S workers and operator
 Netflix Gaming Target
 Netflix Mobile Application for Android
 Netflix Mobile Application for iOS
-Newsroom
 Nighthawk Android App
 Nighthawk Pro Gaming Switch
 Nighthawk Router
@@ -1836,7 +1826,6 @@ Official WordPress plugins
 Okta
 Okta On-Prem Agents ( AD, LDAP, RDP, IWA )
 Okta Verify (Windows)
-Omega
 Online Marketplace
 Open Source - Atlas
 Open Source - Consoleme
@@ -1855,7 +1844,6 @@ Orbi Android App
 Orbi iOS App 
 Other
 Other (Misc)
-Other (misc)
 Other - (all other Atlassian targets)
 Other APK Assets
 Other Acronis Domains
@@ -1905,7 +1893,6 @@ Primary Assets
 Product Delivery
 Protocol of the Swiss Post Voting System
 Public Others Target
-RYOT
 React Native SDK
 Recon Data
 Remaining functions
@@ -2014,7 +2001,6 @@ TW eCommerce: Auctions
 TW eCommerce: Shopping
 TW eCommerce: Used Car
 Tablets
-TechCrunch
 Techcrunch
 Tesla Energy hardware you own
 Tesla vehicle hardware that you own
@@ -2165,15 +2151,11 @@ Xfinity Home cameras
 Xfinity iOS mobile app
 YADIFA authoritative name server
 Yahoo Calendar
-Yahoo Elections
 Yahoo Finance
-Yahoo Games
 Yahoo HK News
-Yahoo Homepages
 Yahoo Mail
 Yahoo News
 Yahoo Open Source Projects
-Yahoo Open Source Projects (misc)
 Yahoo Search
 Yahoo Sports: Best Ball
 Yahoo Sports: Daily Fantasy
@@ -2188,7 +2170,6 @@ Yahoo Sports: Rivals Forums
 Yahoo Video
 Yahoo Weather
 Yahoo! (Misc)
-Yahoo! (misc)
 Yoti Password Manager browser extension
 Yoti liveness detection campaign
 Your Own GitLab Instance
@@ -3128,9 +3109,7 @@ com.xiaomi.payment
 com.xiaomi.smarthome
 com.xoom.android.app
 com.xoom.app
-com.yahoo.aerogram
 com.yahoo.mobile.client.android.flickr
-com.yahoo.mobile.client.android.mail
 com.yelp.android
 com.yelp.android.biz
 com.yoti.mobile.android.live
@@ -5987,7 +5966,6 @@ launch.gamma.redoxstage.com
 launch.playcanvas.com
 launchpad.37signals.com
 lawmanager.marriott.com
-le.yahooapis.com
 learningmanager.adobe.com
 lego.me
 leonard.vinci.com
