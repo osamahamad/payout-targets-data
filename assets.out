@@ -167,7 +167,6 @@
 *.bykea.net
 *.byspotify.com
 *.bz-berlin.de
-*.c-point.be
 *.caesarsgames.com
 *.canva-apps.cn
 *.canva-apps.com
@@ -644,8 +643,6 @@
 *.playuzleuven.be
 *.playwsop.com
 *.points.com
-*.portofantwerp.com
-*.portofantwerpbruges.com
 *.ppbdev.com
 *.prd-pub.mobilevikings.be
 *.prd.fndlsb.net
@@ -1054,7 +1051,6 @@
 1671793296
 169.254.169.254
 185.26.180.0/22
-188.118.8.0/25
 192.251.123.0/24
 192.251.124.0/24
 192.251.125.0/24
@@ -1185,7 +1181,6 @@
 936983378
 937011954453721119
 938003185
-94.107.237.192/26
 944011620
 947984433
 949829216
@@ -2287,8 +2282,6 @@ anthem.khealth.com
 ap-s.cloud.com
 api*.netflix.com
 api-*.soundcloud.com
-api-accpt.portofantwerp.com
-api-accpt.portofantwerpbruges.com
 api-eu.floqast.app
 api-gateway.polygon.technology
 api-js.datadome.co
@@ -2409,8 +2402,6 @@ api.ninjakiwi.com
 api.ovh.com
 api.pinterest.com
 api.pns.hk
-api.portofantwerp.com
-api.portofantwerpbruges.com
 api.preprod.monespacesante.fr
 api.profiler.firefox.com
 api.qwant.com
@@ -2550,14 +2541,10 @@ app3.rewire.to
 applause1.magisto.com
 applications.frame.io
 appmiral.com
-apps-accpt.portofantwerp.com
-apps-accpt.portofantwerpbruges.com
 apps.apple.com/fr/app/mon-espace-sant%C3%A9/id1589255019 (iOS)
 apps.apple.com/us/app/crowdstrike-falcon/id1458815656
 apps.meraki.io
 apps.nextcloud.com
-apps.portofantwerp.com
-apps.portofantwerpbruges.com
 aqtooling.com
 aquiris.com.br
 aquiris.studio
@@ -2568,10 +2555,6 @@ argocd.indrive.dev
 arrive-server.shopifycloud.com
 artifactory.corp.mongodb.com/
 artists.tomorrowland.com/production-website/33117
-as2-accpt.portofantwerp.com
-as2-accpt.portofantwerpbruges.com
-as2.portofantwerp.com
-as2.portofantwerpbruges.com
 ase.arubanetworks.com
 ask.khealth.com
 asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
@@ -3274,7 +3257,6 @@ digitaloceanmirrors.com
 digitaloceanpartners.com
 digitaloceanstatus.com
 digitaloceantest.com
-digitalspecs.portofantwerpbruges.com
 direct-demo.currencycloud.com
 direct.playstation.com
 distribution-xml.booking.com
@@ -3346,9 +3328,6 @@ en.vidaxl.ca
 eng.magiceden.dev
 eng.magiceden.io
 epptool-ctld.verisign-grs.com (EPP service; DNS related)
-erpx.unit4cloud.com/u4erx_pab_acp1
-erpx.unit4cloud.com/u4erx_pab_prev
-erpx.unit4cloud.com/u4erx_pab_prod
 errors.hackerone.net
 eshop.bpost.be
 essentials.vinci.com
@@ -5993,11 +5972,9 @@ logging.rarible.com
 logilife.logitech.com
 login-4ngbets.us.betfair.com
 login-4njbets.us.betfair.com
-login-accpt.portofantwerpbruges.com
 login-api.truelayer[-sandbox].com
 login-ia.tvg.com
 login-pabets.tvg.com
-login-test.portofantwerpbruges.com/poam/XUI/
 login.arkane.network
 login.bigcommerce.com
 login.cm.com
@@ -6013,7 +5990,6 @@ login.lansweeper.com
 login.oyens.com
 login.pabets.tvg.com
 login.playcanvas.com
-login.portofantwerpbruges.com
 login.swapcard.com
 login.truelayer[-sandbox].com
 login.tvg.com
@@ -6078,10 +6054,6 @@ marrtool.com
 matomo.cloud
 matrix.agent.*.tchap.gouv.fr
 matrix.redditspace.com
-maximo-accpt.portofantwerp.com
-maximo-accpt.portofantwerpbruges.com
-maximo.portofantwerp.com
-maximo.portofantwerpbruges.com
 maxiresponse.bpost.be
 mcd.nba.com
 mcdalerts.nba.com
@@ -6169,8 +6141,6 @@ munin-*.wordpress.org
 mus1.badoo.com
 mx1.uzleuven.be
 mx2.uzleuven.be
-my-accpt.portofantwerp.com
-my-accpt.portofantwerpbruges.com
 my.account.sony.com
 my.bpost.be
 my.eurid.eu
@@ -6179,8 +6149,6 @@ my.loanbuilder.com
 my.malwarebytes.com
 my.plaid.com
 my.playstation.com
-my.portofantwerp.com
-my.portofantwerpbruges.com
 my.pressable.com
 my.sheer.com
 my.snapchat.com
@@ -6297,7 +6265,6 @@ nl.karwei.app.android
 nl.vidaxl.be
 nmtracking.netflix.com
 no.kolonial.tienda
-notula-accpt.portofantwerpbruges.com
 novel.pixiv.net
 npm CLI
 npmjs.com
@@ -6333,7 +6300,6 @@ open.larksuite.com
 open.ys7.com
 openapi.starbucks.com
 openidconnect.net	
-oprc.portofantwerpbruges.com
 ops.lime.bike
 opslogin.fr.cloud.gov
 orc-xfi.com
@@ -6500,8 +6466,6 @@ rates.rewire.com
 read.amazon.com
 readonly.fareharbor.com
 redditforbusiness.com
-register-accpt.portofantwerp.com
-register-accpt.portofantwerpbruges.com
 register.bpost.be
 register.capital.com
 registre.notebleue.pro
@@ -6602,18 +6566,10 @@ serveur12.notebleue.com
 service.fing.com
 service.racing.fanduel.com
 service.tvg.com
-servicedesk-accpt.portofantwerp.com
-servicedesk-accpt.portofantwerpbruges.com
-servicedesk.portofantwerp.com
-servicedesk.portofantwerpbruges.com
 serviceportal.vidaxl.com
 sftp.gamma.redoxstage.com
 sh.reddit.com
-share-accpt.portofantwerp.com
-share-accpt.portofantwerpbruges.com
 share.doppler.com
-share.portofantwerp.com
-share.portofantwerpbruges.com
 shavar.services.mozilla.com
 shipit.rubygems.org
 shop-id.tokopedia.com
@@ -6952,11 +6908,6 @@ web.snapchat.com
 web.truecaller.com
 web3.moonpay.com
 webapi.clario.co
-webapps-accpt.portofantwerp.com
-webapps-accpt.portofantwerpbruges.com
-webapps-test.portofantwerpbruges.com/xui
-webapps.portofantwerp.com
-webapps.portofantwerpbruges.com
 webauthn.me	
 webgateway.koho.ca
 webhooks.booking.com
@@ -6972,12 +6923,8 @@ wellbeing.deezer.com
 wellbeing.dzcdn.net
 wga.volans.tech
 widget.rentalcars.com
-wiki-accpt.portofantwerp.com
-wiki-accpt.portofantwerpbruges.com
 wiki.cs.money
 wiki.grab.com
-wiki.portofantwerp.com
-wiki.portofantwerpbruges.com
 wiki.teamfortress.com
 wiki.ui.com
 winecellar.zomato.com
@@ -7239,7 +7186,6 @@ www.mundi.com.br
 www.nba.com
 www.netflix.com
 www.orbitz.com
-www.oursustainableport.com
 www.ovh.com
 www.ovh.com/manager
 www.pangleglobal.com
@@ -7251,7 +7197,6 @@ www.pixiv.net
 www.pns.hk
 www.pornbox.com
 www.pornworld.com
-www.portofantwerpbruges.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.com
 www.practicalmoneyskills.org
