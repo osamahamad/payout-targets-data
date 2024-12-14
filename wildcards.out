@@ -23,8 +23,6 @@
 *.acbpost.be
 *.acc-pub.mobilevikings.be
 *.acc.mobilevikings.be
-*.account.api.here.com
-*.account.here.com
 *.acrobat.com
 *.acronis.com
 *.acronis.work
@@ -346,8 +344,6 @@
 *.hellofax.com
 *.hellosign.com
 *.helloworks.com
-*.here.com
-*.hereapi.com
 *.hey.com
 *.highwebmedia.com
 *.hilton.com
@@ -505,7 +501,6 @@
 *.mmcdn.com
 *.mmwebc.dev
 *.mobilevikings.be
-*.mobilitygraph.hereapi.com
 *.mona.co
 *.monzo.com
 *.monzo.me
@@ -652,7 +647,6 @@
 *.rocketleague.com
 *.rockstargames.com
 *.romwe.com
-*.router.hereapi.com
 *.runnr.in
 *.s-cloud.net
 *.saltlabs.com
@@ -669,7 +663,6 @@
 *.sc-core.net
 *.sc-corp.net
 *.scatec.io
-*.scbe.api.here.com
 *.scene7.com
 *.scoober.com
 *.scopely.com
@@ -751,7 +744,6 @@
 *.streamlabs.com
 *.streamlabscharity.com
 *.stripe.com
-*.subp-router.hereapi.com
 *.superbet.com
 *.superbet.pl
 *.superbet.ro
@@ -912,7 +904,6 @@
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 GenAI Apps under *.amazon.*
-Leaked/compromised employee accounts *.here.com
 Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 analytics-*.8x8.com
 api*.netflix.com
