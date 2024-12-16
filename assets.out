@@ -46,6 +46,8 @@
 *.acbpost.be
 *.acc-pub.mobilevikings.be
 *.acc.mobilevikings.be
+*.account.api.here.com
+*.account.here.com
 *.acrobat.com
 *.acronis.com
 *.acronis.work
@@ -114,6 +116,7 @@
 *.atlastunnel.com
 *.atspotify.com
 *.audicagame.com
+*.autobild.de
 *.avecspotify.com
 *.ayco.com
 *.backblazeb2.com
@@ -129,6 +132,8 @@
 *.betsharedservices.io
 *.betviewapi.com
 *.bigcommerce.net
+*.bild.de
+*.bild.tv
 *.binary.com
 *.bingoblitz.com
 *.bionic.ai
@@ -161,6 +166,7 @@
 *.bybit.com
 *.bykea.net
 *.byspotify.com
+*.bz-berlin.de
 *.c-point.be
 *.caesarsgames.com
 *.canva-apps.cn
@@ -212,6 +218,7 @@
 *.coinbase.com
 *.coindcx.com
 *.comcast.com
+*.computerbild.de
 *.consumer.worldcoin.org
 *.contactallerg(y|ie).uzleuven.be
 *.contentsquare.com
@@ -265,6 +272,7 @@
 *.east.fdbox.net
 *.easy.ac
 *.eat.ch
+*.ein-herz-fuer-kinder.de
 *.elastic.co
 *.elasticnet.co
 *.elstc.co
@@ -296,6 +304,7 @@
 *.fareharbor.engineering
 *.feednews.com
 *.fetlife.com
+*.fitbook.de
 *.flickr.com
 *.flipkey.com
 *.floqast.app
@@ -314,6 +323,8 @@
 *.fromspotify.com
 *.fuze.com
 *.fuze.site
+*.gamma.be/*
+*.gamma.nl/*
 *.genoapay.co.nz
 *.genoapay.com
 *.gethypr.com
@@ -368,6 +379,8 @@
 *.hellofax.com
 *.hellosign.com
 *.helloworks.com
+*.here.com
+*.hereapi.com
 *.hey.com
 *.highwebmedia.com
 *.hilton.com
@@ -416,6 +429,9 @@
 *.int.remitly.com
 *.intel.com
 *.intercomassets.com / *.intercomcdn.com
+*.intergamma-test.nl
+*.intergamma.cloud
+*.intergamma.nl/*
 *.irccloud-cdn.com
 *.irccloud.com
 *.itcapital.io
@@ -436,6 +452,8 @@
 *.just-eat.fr
 *.just-eat.no
 *.justfall.lol,*.justplay.lol,*.1v1.lol
+*.karwei.nl/*
+*.karweioutletstore.nl
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
 *.khealth.com
@@ -525,6 +543,7 @@
 *.mmcdn.com
 *.mmwebc.dev
 *.mobilevikings.be
+*.mobilitygraph.hereapi.com
 *.mona.co
 *.monzo.com
 *.monzo.me
@@ -538,6 +557,7 @@
 *.mwbsys.com
 *.mworld.com
 *.myharmony.com
+*.myhomebook.de
 *.myinsights.io
 *.mysqueezebox.com
 *.myteksi.com
@@ -614,6 +634,8 @@
 *.personio.de
 *.personio.tools
 *.personiowhistleblowing.com
+*.petbook-magazine.com/
+*.petbook.de
 *.pinterest.com Web Apps
 *.plannthat.com
 *.platformservices.io
@@ -665,6 +687,7 @@
 *.registry.eu
 *.rentalcars.com
 *.reposify.com
+*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -673,6 +696,7 @@
 *.rocketleague.com
 *.rockstargames.com
 *.romwe.com
+*.router.hereapi.com
 *.runnr.in
 *.s-cloud.net
 *.saltlabs.com
@@ -689,6 +713,7 @@
 *.sc-core.net
 *.sc-corp.net
 *.scatec.io
+*.scbe.api.here.com
 *.scene7.com
 *.scoober.com
 *.scopely.com
@@ -755,6 +780,8 @@
 *.sportinglife.com
 *.spotify.com
 *.spotify.net
+*.spring-media.de
+*.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sqills.com
@@ -770,6 +797,8 @@
 *.streamlabs.com
 *.streamlabscharity.com
 *.stripe.com
+*.stylebook.de
+*.subp-router.hereapi.com
 *.superbet.com
 *.superbet.pl
 *.superbet.ro
@@ -783,6 +812,7 @@
 *.taralite.com
 *.tdl.sh
 *.teams.cloudflare.com
+*.techbook.de
 *.telenor.se
 *.tesla.cn
 *.tesla.com
@@ -803,6 +833,7 @@
 *.tinder.com
 *.tinderops.net
 *.tinderwebstaging.com
+*.tomorrowland.com
 *.tools.thefork.tech
 *.toolsforhumanity.com
 *.tospotify.com
@@ -810,6 +841,7 @@
 *.trafficjunky.com
 *.trainpal.com,*.mytrainpal.com
 *.transferwise.com
+*.travelbook.de
 *.travelocity.ca
 *.travelocity.com
 *.travix.com
@@ -877,11 +909,16 @@
 *.wealthsimple.com
 *.wellsfargo.com
 *.wellsfargoadvisors.com
+*.welt.de
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
 *.westernunion.*
 *.wf.com
 *.whois.eu
 *.wimpmusic.com
 *.wise.com
+*.wissen-sie-mehr.de
 *.withairbnb.com
 *.withbuddies.com
 *.withspotify.com
@@ -1004,6 +1041,7 @@
 153.46.96.0/20
 1541949985
 1557515848
+1558129454
 1579530451
 1589023233
 1589071345
@@ -1150,6 +1188,10 @@
 94.107.237.192/26
 944011620
 947984433
+949829216
+950680989
+950693949
+955837609
 961114489414094898
 965180355
 97.105.243.96/28
@@ -1634,6 +1676,7 @@ LINE Messenger - OpenChat
 LINE Messenger - VOOM
 LINE Messenger - VoIP
 LaunchDarkly Open Source SDKs
+Leaked/compromised employee accounts *.here.com
 Leaked/Сompromised Employee accounts
 Lens Studio
 Lightroom
@@ -2524,6 +2567,7 @@ arc.net
 argocd.indrive.dev
 arrive-server.shopifycloud.com
 artifactory.corp.mongodb.com/
+artists.tomorrowland.com/production-website/33117
 as2-accpt.portofantwerp.com
 as2-accpt.portofantwerpbruges.com
 as2.portofantwerp.com
@@ -2588,6 +2632,7 @@ bd.visa.com
 be.bpost.mobilecard
 be.bpost.mybpost
 be.delen.digital
+be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -2770,6 +2815,7 @@ codahosted.io
 code.playcanvas.com
 code.yoti.com
 codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
+cognito-idp.eu-west-1.amazonaws.com
 coinbase.com
 coinmarketcap.com
 coldfusion.adobe.com
@@ -2902,6 +2948,7 @@ com.gsn.android.casino
 com.gsn.android.tripeaks
 com.gsn.grandcasino
 com.hcom.android
+com.here.app.maps
 com.hey.app.ios
 com.hotornot.app
 com.hotwire.hotels
@@ -3017,6 +3064,7 @@ com.tiktok.tv
 com.tiktokshop.seller
 com.tinder
 com.tinyspeck.chatlyio
+com.tomorrowland.oneworldradio
 com.toyopagroup.picaboo
 com.travelocity.android
 com.trendyol.milla.android
@@ -3084,6 +3132,8 @@ community.ui.com
 company.thebrowser.arc
 compass.fareharbor.com
 components.frame.io
+components.stag.tomorrowland.com
+components.tomorrowland.com
 config.cic-bug-bounty.auth0app.com
 configure.bmw.de
 configure.mini.de
@@ -3401,6 +3451,7 @@ gitlab.com
 gleague.nba.com
 glib-networking
 global-api.citymapper.com
+globaljourney.tomorrowland.com
 gnip.com
 gnocchi-www.buffalo-ggn.net
 go.capital.com
@@ -4033,6 +4084,9 @@ https://datadome.co
 https://dataportal.originenergy.com.au
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
 https://dcfgatewaytst1.marriott.com/
+https://dealer.prod.ps.axelspringer.de/api/v1/partners/{partnerId}/activation
+https://dealer.prod.ps.axelspringer.de/purchases/004/bild/*
+https://dealer.prod.ps.axelspringer.de/purchases/004/welt/*
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
 https://demo.priceless.com/
@@ -4511,6 +4565,7 @@ https://itunes.apple.com/us/app/lieferando-de/id419724490?l=es&mt=8
 https://itunes.apple.com/us/app/uconnect/id1229236724?mt=8
 https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045663228?mt=8
 https://iwgo.westernunion.com
+https://jaguar.here.com
 https://jamaica.westernunion.com
 https://jointhemoment.net/
 https://jp-api-staging.getmoneytree.com
@@ -4530,6 +4585,7 @@ https://kucoin.com
 https://kw-bugcrowd-pub.bounty.kiteworks.dev/
 https://l.usaa.com/
 https://lab.epam.com
+https://landrover.here.com
 https://lapi.yellowblocks.me
 https://laptop-updates.brave.com/latest/dev/debian64
 https://laptop-updates.brave.com/latest/dev/ubuntu64
@@ -5253,6 +5309,7 @@ https://screenplayer.20min.ch
 https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secure-iphone-xml.booking.com/json/
 https://secure.cuehit.net
+https://secure.mypass.de/
 https://secure.neogov.com
 https://secure.vendhq.com
 https://secure.westernunion.com
@@ -5868,6 +5925,9 @@ k8s.gcr.io
 k8s.io
 kaccount.khealth.com
 kartaview.org
+kassa.gamma.be/*
+kassa.gamma.nl/*
+kassa.karwei.nl/*
 kb.databricks.com
 kbill.mackeeper.com
 kidswebservices.com
@@ -6074,6 +6134,9 @@ mgmtpod-1.production.forescoutcloud.net
 mgs-gw.m.dana.id
 mgs.marriott.com
 middle-force.khealth.io
+mijn.gamma.be/*
+mijn.gamma.nl/*
+mijn.karwei.nl/*
 mijnacc.uzleuven.be
 mipartnerprivileges.marriott.com
 mirc.uzleuven.be
@@ -6122,6 +6185,7 @@ my.pressable.com
 my.sheer.com
 my.snapchat.com
 my.swiftfinancial.com
+my.tomorrowland.com
 myaccount-hardening.dynatracelabs.com
 myaccount.ad.nl
 myaccount.demorgen.be
@@ -6227,6 +6291,9 @@ niantic.kidswebservices.com
 nicetryapril.na1.echosignsandbox.com
 ninja.kiwi
 ninjakiwi.com
+nl.gamma.app.android
+nl.gamma.verf
+nl.karwei.app.android
 nl.vidaxl.be
 nmtracking.netflix.com
 no.kolonial.tienda
@@ -6251,11 +6318,13 @@ onboarding-*.cloud.com
 onboarding-api.truelayer.com
 onboarding.cloud.com
 onboarding.greenhouse.io
+one-world-radio-tomorrowland/id1485778856
 one.airbnb.com
 one.dash.cloudflare.com
 onepush.query.yahoo.com
 onevasco.com
 oneview.malwarebytes.com
+oneworldradio.tomorrowland.com
 online.s-pankki.fi
 open redirect at *.epam.com
 open-api.capital.com
@@ -6599,6 +6668,7 @@ socialclub.rockstargames.com
 socket.frame.io
 solutions-environnement.vinci.com
 sorare.com
+sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com
 spaces.pm
 spark.adobe.com
 spark.fareharbor.com
@@ -6912,6 +6982,7 @@ wiki.teamfortress.com
 wiki.ui.com
 winecellar.zomato.com
 winkels.torfs.be
+winterpackages.tomorrowland.com
 wonderboxapi.com
 wonderboxdev.com
 woocommerce-adapter.judge.me
@@ -7071,6 +7142,8 @@ www.fortress.com.hk
 www.fraedom.com
 www.funjet.com
 www.fuzemeeting.com
+www.gamma.be/*
+www.gamma.nl/*
 www.getaroom.com
 www.globalhotelchoices.com
 www.gocardless.com
@@ -7097,6 +7170,7 @@ www.instacart.com
 www.intigriti.com
 www.irccloud.com
 www.jaybirdsport.com
+www.karwei.nl/*
 www.kayak.com
 www.kinepolis.be 
 www.kinepolis.biz
@@ -7220,6 +7294,7 @@ www.teamfortress.com
 www.temu.com
 www.theperfumeshop.com
 www.tink.com
+www.tomorrowland.com
 www.torfs.be
 www.torfs.nl
 www.trajeoh.com

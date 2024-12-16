@@ -12,6 +12,10 @@ myaccount.ad.nl
 webwinkel.ad.nl
 www.ad.nl
 www.ad.nl/abonnementen
+https://dealer.prod.ps.axelspringer.de/api/v1/partners/{partnerId}/activation
+https://dealer.prod.ps.axelspringer.de/purchases/004/bild/*
+https://dealer.prod.ps.axelspringer.de/purchases/004/welt/*
+https://secure.mypass.de/
 www.bmw-motorrad.de
 www.bmw.de
 www.mini.de
@@ -131,6 +135,10 @@ Grafana Pyroscope
 Grafana Tempo
 https://github.com/grafana/*
 Non-Core Grafana Plugins
+955837609
+com.here.app.maps
+https://jaguar.here.com
+https://landrover.here.com
 * hln.be/inloggen
 * hln.be/login
 * hln.be/registreren
@@ -152,6 +160,23 @@ Hardware
 Firmware
 Software
 Services
+949829216
+950680989
+950693949
+be.gamma.app.android
+kassa.gamma.be/*
+kassa.gamma.nl/*
+kassa.karwei.nl/*
+mijn.gamma.be/*
+mijn.gamma.nl/*
+mijn.karwei.nl/*
+nl.gamma.app.android
+nl.karwei.app.android
+www.gamma.be/*
+www.gamma.nl/*
+www.karwei.nl/*
+1558129454
+nl.gamma.verf
 booking.mjrtheatres.com
 extras.landmarkcinemas.com
 identityserver.landmarkcinemas.com
@@ -365,6 +390,18 @@ https://www.soundtrackyourbrand.com
 macOS app
  aweb.suivo.com
 asupport.suivo.com
+artists.tomorrowland.com/production-website/33117
+cognito-idp.eu-west-1.amazonaws.com
+com.tomorrowland.oneworldradio
+globaljourney.tomorrowland.com
+my.tomorrowland.com
+one-world-radio-tomorrowland/id1485778856
+oneworldradio.tomorrowland.com
+sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com
+winterpackages.tomorrowland.com
+www.tomorrowland.com
+components.stag.tomorrowland.com
+components.tomorrowland.com
 winkels.torfs.be
 www.schoenentorfs.be
 www.schoenentorfs.nl 

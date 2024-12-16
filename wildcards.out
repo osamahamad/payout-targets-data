@@ -23,6 +23,8 @@
 *.acbpost.be
 *.acc-pub.mobilevikings.be
 *.acc.mobilevikings.be
+*.account.api.here.com
+*.account.here.com
 *.acrobat.com
 *.acronis.com
 *.acronis.work
@@ -91,6 +93,7 @@
 *.atlastunnel.com
 *.atspotify.com
 *.audicagame.com
+*.autobild.de
 *.avecspotify.com
 *.ayco.com
 *.backblazeb2.com
@@ -106,6 +109,8 @@
 *.betsharedservices.io
 *.betviewapi.com
 *.bigcommerce.net
+*.bild.de
+*.bild.tv
 *.binary.com
 *.bingoblitz.com
 *.bionic.ai
@@ -138,6 +143,7 @@
 *.bybit.com
 *.bykea.net
 *.byspotify.com
+*.bz-berlin.de
 *.c-point.be
 *.caesarsgames.com
 *.canva-apps.cn
@@ -189,6 +195,7 @@
 *.coinbase.com
 *.coindcx.com
 *.comcast.com
+*.computerbild.de
 *.consumer.worldcoin.org
 *.contactallerg(y|ie).uzleuven.be
 *.contentsquare.com
@@ -242,6 +249,7 @@
 *.east.fdbox.net
 *.easy.ac
 *.eat.ch
+*.ein-herz-fuer-kinder.de
 *.elastic.co
 *.elasticnet.co
 *.elstc.co
@@ -273,6 +281,7 @@
 *.fareharbor.engineering
 *.feednews.com
 *.fetlife.com
+*.fitbook.de
 *.flickr.com
 *.flipkey.com
 *.floqast.app
@@ -291,6 +300,8 @@
 *.fromspotify.com
 *.fuze.com
 *.fuze.site
+*.gamma.be/*
+*.gamma.nl/*
 *.genoapay.co.nz
 *.genoapay.com
 *.gethypr.com
@@ -345,6 +356,8 @@
 *.hellofax.com
 *.hellosign.com
 *.helloworks.com
+*.here.com
+*.hereapi.com
 *.hey.com
 *.highwebmedia.com
 *.hilton.com
@@ -393,6 +406,9 @@
 *.int.remitly.com
 *.intel.com
 *.intercomassets.com / *.intercomcdn.com
+*.intergamma-test.nl
+*.intergamma.cloud
+*.intergamma.nl/*
 *.irccloud-cdn.com
 *.irccloud.com
 *.itcapital.io
@@ -413,6 +429,8 @@
 *.just-eat.fr
 *.just-eat.no
 *.justfall.lol,*.justplay.lol,*.1v1.lol
+*.karwei.nl/*
+*.karweioutletstore.nl
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
 *.khealth.com
@@ -502,6 +520,7 @@
 *.mmcdn.com
 *.mmwebc.dev
 *.mobilevikings.be
+*.mobilitygraph.hereapi.com
 *.mona.co
 *.monzo.com
 *.monzo.me
@@ -515,6 +534,7 @@
 *.mwbsys.com
 *.mworld.com
 *.myharmony.com
+*.myhomebook.de
 *.myinsights.io
 *.mysqueezebox.com
 *.myteksi.com
@@ -591,6 +611,8 @@
 *.personio.de
 *.personio.tools
 *.personiowhistleblowing.com
+*.petbook-magazine.com/
+*.petbook.de
 *.pinterest.com Web Apps
 *.plannthat.com
 *.platformservices.io
@@ -642,6 +664,7 @@
 *.registry.eu
 *.rentalcars.com
 *.reposify.com
+*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -650,6 +673,7 @@
 *.rocketleague.com
 *.rockstargames.com
 *.romwe.com
+*.router.hereapi.com
 *.runnr.in
 *.s-cloud.net
 *.saltlabs.com
@@ -666,6 +690,7 @@
 *.sc-core.net
 *.sc-corp.net
 *.scatec.io
+*.scbe.api.here.com
 *.scene7.com
 *.scoober.com
 *.scopely.com
@@ -732,6 +757,8 @@
 *.sportinglife.com
 *.spotify.com
 *.spotify.net
+*.spring-media.de
+*.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sqills.com
@@ -747,6 +774,8 @@
 *.streamlabs.com
 *.streamlabscharity.com
 *.stripe.com
+*.stylebook.de
+*.subp-router.hereapi.com
 *.superbet.com
 *.superbet.pl
 *.superbet.ro
@@ -760,6 +789,7 @@
 *.taralite.com
 *.tdl.sh
 *.teams.cloudflare.com
+*.techbook.de
 *.telenor.se
 *.tesla.cn
 *.tesla.com
@@ -780,6 +810,7 @@
 *.tinder.com
 *.tinderops.net
 *.tinderwebstaging.com
+*.tomorrowland.com
 *.tools.thefork.tech
 *.toolsforhumanity.com
 *.tospotify.com
@@ -787,6 +818,7 @@
 *.trafficjunky.com
 *.trainpal.com,*.mytrainpal.com
 *.transferwise.com
+*.travelbook.de
 *.travelocity.ca
 *.travelocity.com
 *.travix.com
@@ -854,11 +886,16 @@
 *.wealthsimple.com
 *.wellsfargo.com
 *.wellsfargoadvisors.com
+*.welt.de
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
 *.westernunion.*
 *.wf.com
 *.whois.eu
 *.wimpmusic.com
 *.wise.com
+*.wissen-sie-mehr.de
 *.withairbnb.com
 *.withbuddies.com
 *.withspotify.com
@@ -906,6 +943,7 @@
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 GenAI Apps under *.amazon.*
+Leaked/compromised employee accounts *.here.com
 Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 analytics-*.8x8.com
 api*.netflix.com
