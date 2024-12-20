@@ -42,6 +42,7 @@ Starbucks United Kingdom iOS
 card.starbucks.com.cy/
 card.starbucks.com.gr/
 https://www.starbucks.at
+www.roastery.starbucks.it
 www.starbucks.be
 www.starbucks.bg
 www.starbucks.ch
@@ -1277,6 +1278,10 @@ https://github.com/maticnetwork/matic-cli
 portal.polygon.technology
 staking-api.polygon.technology
 staking.polygon.technology
+https://github.com/skalenetwork/libBLS
+https://github.com/skalenetwork/sgxwallet
+https://github.com/skalenetwork/skale-consensus
+https://github.com/skalenetwork/skale-manager/tree/develop/contracts
 accounts.insightly.com
 crm.na1.insightly.com
 http://api.insightly.com/v3.1/
