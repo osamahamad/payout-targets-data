@@ -1,6 +1,13 @@
 Hardware
 Firmware
 Software
+app.aikido.dev
+https://github.com/AikidoSec/firewall-node#Vulnerability
+https://github.com/AikidoSec/firewall-python#Vulnerability
+https://github.com/AikidoSec/firewall-node#Detection Bypass
+https://github.com/AikidoSec/firewall-python#Detection Bypass
+https://github.com/AikidoSec/firewall-node#False Positive
+https://github.com/AikidoSec/firewall-python#False Positive
 myaccount.ad.nl
 webwinkel.ad.nl
 www.ad.nl
@@ -153,6 +160,23 @@ Hardware
 Firmware
 Software
 Services
+949829216
+950680989
+950693949
+be.gamma.app.android
+kassa.gamma.be/*
+kassa.gamma.nl/*
+kassa.karwei.nl/*
+mijn.gamma.be/*
+mijn.gamma.nl/*
+mijn.karwei.nl/*
+nl.gamma.app.android
+nl.karwei.app.android
+www.gamma.be/*
+www.gamma.nl/*
+www.karwei.nl/*
+1558129454
+nl.gamma.verf
 booking.mjrtheatres.com
 extras.landmarkcinemas.com
 identityserver.landmarkcinemas.com
