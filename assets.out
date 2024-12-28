@@ -494,6 +494,7 @@
 *.line.naver.jp
 *.linecorp.com
 *.link.co
+*.linktree-extensions.com
 *.livestream.com
 *.logi.com
 *.login.gov
@@ -638,6 +639,7 @@
 *.petbook-magazine.com/
 *.petbook.de
 *.pinterest.com Web Apps
+*.plannthat.com
 *.platformservices.io
 *.playstation.net
 *.playtika.com
@@ -699,7 +701,6 @@
 *.romwe.com
 *.router.hereapi.com
 *.runnr.in
-*.s-cloud.net
 *.saltlabs.com
 *.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
@@ -736,7 +737,6 @@
 *.seriously.com
 *.services-prod.nsvcs.net
 *.services.netlify.com
-*.services.repostnetwork.com
 *.shein.com
 *.sheingsp.com
 *.shipt.com
@@ -775,7 +775,6 @@
 *.sol-data.com
 *.solarcity.com
 *.sonyentertainmentnetwork.com
-*.soundcloud.org
 *.souparea.com
 *.spiketrap.io
 *.spinaway.com
@@ -2308,7 +2307,6 @@ analytics.pinelabs.com
 anthem.khealth.com
 ap-s.cloud.com
 api*.netflix.com
-api-*.soundcloud.com
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
 api-eu.floqast.app
@@ -3546,7 +3544,6 @@ http://api.koho.ca/partner
 http://api.na1.insightly.com/v3.1/
 http://app.scaleft.com/
 http://apps.connect.monash.edu/
-http://artists.soundcloud.com/
 http://auth.khealth.com/cedars/sign-up
 http://auth.khealth.com/khealth/sign-up
 http://auth.khealth.com/mayo-la-crosse/sign-up
@@ -3675,6 +3672,7 @@ https://airflow-prod.coda.io/*
 https://airflow-prod.ops.coda.io/*
 https://aiven.io/
 https://ajax.staging.luno.com/
+https://album.link
 https://alumni-friends.monash.edu
 https://ampcharge.ampol.com.au/
 https://ampol.com.au/
@@ -3818,6 +3816,7 @@ https://apps.apple.com/au/app/bigcommerce/id1418570678
 https://apps.apple.com/au/app/caltex-australia/id1314768594
 https://apps.apple.com/au/app/certsy/id1617796159
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
+https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://apps.apple.com/be/app/zen-by-deezer-m%C3%A9ditation/id1597326355
 https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
@@ -3900,7 +3899,6 @@ https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
 https://apps.apple.com/us/app/share-rewards/id1465450657
-https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
 https://apps.apple.com/us/app/syncup-drive/id1576574297
 https://apps.apple.com/us/app/syncup-kids/id1503394062
@@ -3922,6 +3920,7 @@ https://apps.facebook.com/vegas_downtown_slots
 https://apps.microsoft.com/detail/3cx/9NW77489NGJ0
 https://apps.yeswehack.com
 https://arlo-device.messaging.netgear.com
+https://artist.link
 https://asana.com
 https://asana.com/apps?category=made-by-asana
 https://asana.com/download
@@ -4055,7 +4054,6 @@ https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://connect.com
 https://connect.monash.edu
 https://connect.paymaya.com/
-https://connect.soundcloud.com
 https://consensys.io/
 https://console-staging.pingone.com/*
 https://console.aiven.io/login
@@ -4627,6 +4625,9 @@ https://lensstudio.snapchat.com/api/
 https://library-staging.pdq.tools/ 
 https://library.elementor.com/
 https://link.x.immutable.com/
+https://linktr.ee
+https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
+https://linktree.com
 https://liveassist.usaa.com/
 https://liveassist11.usaa.com/
 https://liveassist12.usaa.com/
@@ -5053,6 +5054,7 @@ https://myaccount-staging.getmoneytree.com
 https://myapi.arlo.com
 https://myapp.monash.edu/
 https://mydesktop.usaa.com
+https://mylink.page
 https://myplutus.pinelabs.my/
 https://myvpn.usaa.com
 https://mywallet-management-east.wallet.cat.earlywarning.io/
@@ -5076,6 +5078,8 @@ https://oauth.ring.com/*
 https://octopus.com
 https://octopus.com/downloads
 https://oda.com
+https://odesli.co
+https://odesli.com
 https://offer.tidal.com/download
 https://onboard.neogov.com
 https://one.newrelic.com
@@ -5220,7 +5224,6 @@ https://play.google.com/store/apps/details?id=com.scu.bsafe
 https://play.google.com/store/apps/details?id=com.siilo.android&hl=en
 https://play.google.com/store/apps/details?id=com.sixgroup.debixplus
 https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1
-https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.squareup.cash
 https://play.google.com/store/apps/details?id=com.swapcard.apps.android&hl=fr
@@ -5262,10 +5265,13 @@ https://play.google.com/store/apps/details?id=qa.ooredoo.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=se.atg.live&hl=en&gl=SE
 https://play.google.com/store/search?q=Schweizer+Finanzmuseum&c=apps
 https://play.google.com/store/search?q=mattermost&c=apps
+https://play.google.com/store/search?q=plann&c=apps
+https://playlist.link
 https://plmcixt.pinelabs.com/
 https://plugins.matomo.org/developer/innocraft
 https://plugins.matomo.org/developer/matomo-org
 https://poc-op-ywh.it.authentification.si.gouv.qc.ca
+https://pods.link
 https://pornhub.mainhub.com
 https://portal-staging.pdq.tools/ 
 https://portal.3cx.com
@@ -5356,9 +5362,9 @@ https://sks-ch-gva-2.exo.io
 https://smartmockups.com/
 https://snapnames.com/
 https://sncf-connect.com
+https://song.link
+https://songlink.io
 https://sos-ch-gva-2.exo.io/
-https://soundcloud.com
-https://soundcloud.org
 https://speeddials.opera.com
 https://sprint.com
 https://square.online
@@ -5417,6 +5423,7 @@ https://thueringer-foerderportal.eu
 https://ticket.multiplayer.classdojo.com
 https://tidal.com/
 https://toom.de
+https://tr.ee
 https://tracker.bugcrowd.com
 https://tracker.naspers.com/
 https://transferwise.com
