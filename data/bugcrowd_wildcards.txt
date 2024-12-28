@@ -30,6 +30,7 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.comcast.com
 *.xcal.tv
 *.sys.comcast.net
+*.sys.comcast.net
 *.cyberghost.com
 *.dell.com/*
 *.delltechnologies.com/* 
@@ -117,9 +118,6 @@ prod-*.nubank.com.br
 prod-*.nu.com.mx
 prod-*.nu.com.co
 *.octopus.com
-*.openai.org
-*.openai.org
-*.openai.com
 *.opera.software
 *.osp.opera.software
 *.opera.technology
