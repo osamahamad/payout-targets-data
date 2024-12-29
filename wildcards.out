@@ -347,6 +347,7 @@
 *.gsselect.com
 *.gtld-servers.net (DNS service; DNS related)
 *.guilded.gg
+*.guildofguardians.com
 *.hackerone-ext-content.com
 *.hackerone-user-content.com/
 *.harmanaudio.com
@@ -386,7 +387,9 @@
 *.hypr.com
 *.ikarem.io
 *.immedia-semi.com/*
+*.immutable.com
 *.imperva.com
+*.imtbl.com
 *.in.jbl.com
 *.incapsula.com
 *.indeed.com
@@ -798,6 +801,7 @@
 *.teslainsuranceservices.com
 *.teslamotors.com
 *.testdrive.workfront.com
+*.testnet.immutable.com
 *.thinkingphones.com
 *.thinkingphones.net
 *.threatdown.com
