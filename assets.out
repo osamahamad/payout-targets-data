@@ -370,6 +370,7 @@
 *.gsselect.com
 *.gtld-servers.net (DNS service; DNS related)
 *.guilded.gg
+*.guildofguardians.com
 *.hackerone-ext-content.com
 *.hackerone-user-content.com/
 *.harmanaudio.com
@@ -409,7 +410,9 @@
 *.hypr.com
 *.ikarem.io
 *.immedia-semi.com/*
+*.immutable.com
 *.imperva.com
+*.imtbl.com
 *.in.jbl.com
 *.incapsula.com
 *.indeed.com
@@ -821,6 +824,7 @@
 *.teslainsuranceservices.com
 *.teslamotors.com
 *.testdrive.workfront.com
+*.testnet.immutable.com
 *.thinkingphones.com
 *.thinkingphones.net
 *.threatdown.com
@@ -3716,6 +3720,7 @@ https://api.hubspot.com/
 https://api.ibops.net
 https://api.ibops.net/ad-management
 https://api.ibotta.com
+https://api.immutable.com
 https://api.int.ibops.net
 https://api.int.ibops.net/customer-loyalty-service
 https://api.intercom.com
@@ -3759,6 +3764,7 @@ https://api.voiapp.io/
 https://api.welcomesoftware.com/
 https://api.woox.io/
 https://api.wyzecam.com
+https://api.x.immutable.com/
 https://api.yeswehack.com
 https://api3.pentest.clicsante.ca
 https://apis-v5.australiansuper.com/
@@ -3931,6 +3937,7 @@ https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.foxy.io/
+https://auth.immutable.com
 https://auth.lastpass.com
 https://auth.opera.com
 https://auth.seek.com
@@ -4127,6 +4134,7 @@ https://dimensions.cloudinary.com
 https://directlink.eu-west-2.outscale.com
 https://docs.bugcrowd.com/
 https://docs.eazybi.com/
+https://docs.immutable.com/
 https://docs.keeper.io/en/v/secrets-manager
 https://docs.keeper.io/kcm
 https://docs.keeper.io/keeper-bridge/
@@ -4339,6 +4347,7 @@ https://github.com/hyperledger/fabric-sdk-go
 https://github.com/hyperledger/fabric-sdk-java
 https://github.com/hyperledger/fabric-sdk-node
 https://github.com/hyperledger/fabric-sdk-py
+https://github.com/immutable/ts-immutable-sdk/tree/main/packages/passport/
 https://github.com/innocraft/
 https://github.com/iqlusioninc/crates/tree/main/signatory
 https://github.com/iqlusioninc/tmkms
@@ -4527,6 +4536,7 @@ https://gpt.lime.bike
 https://graphql.acorns.com
 https://graphql.seek.com
 https://guest.usaa.com/
+https://guildofguardians.com
 https://gwapi.tripadvisor.com
 https://gwapi1.tripadvisor.com
 https://gwapi2.tripadvisor.com
@@ -4550,6 +4560,7 @@ https://houston-staging.pdq.tools
 https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
 https://hr.neogov.com
 https://hr.prosus.com/
+https://hub.immutable.com/
 https://hug.personio.com
 https://icu.eu-west-2.outscale.com
 https://id.atlassian.com/login
@@ -4620,6 +4631,7 @@ https://legacy-blockexplorer.electroneum.com
 https://lensstudio.snapchat.com/api/
 https://library-staging.pdq.tools/ 
 https://library.elementor.com/
+https://link.x.immutable.com/
 https://linktr.ee
 https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
 https://linktree.com
@@ -4652,6 +4664,7 @@ https://mapi-a.usaa.com
 https://mapi.usaa.com/
 https://mapmyfitness.api.ua.com
 https://maps.bykea.net
+https://market.immutable.com/
 https://marketplace.atlassian.com
 https://marketplace.atlassian.com/apps/1210722/confluence-source-editor?hosting=server
 https://marketplace.atlassian.com/apps/1210725/data-generator-for-jira?hosting=server
@@ -5113,6 +5126,7 @@ https://partnerprogramm.otto.de
 https://partners.usaa.com
 https://partners.viator.com
 https://partners.westernunion.com
+https://passport.immutable.com/
 https://pay.unity.com
 https://paymayabiller-prod.paymaya.com/
 https://payment-connectors.vendhq.com/
@@ -5873,6 +5887,7 @@ ifttt-adaptor.pub.kube.dm.gg
 imagine.magento.com
 img.swapcard.com
 imove.bpost.cloud
+imx.community
 inapp.clario.co
 indicative-pricing.taxi.booking.com
 infomaniak.events
@@ -6826,6 +6841,7 @@ test.rarible.com
 testapi.redoxengine.com
 testapp.redoxengine.com
 testnet.bitmex.com
+testnet.immutable.com
 teststs.uzleuven.be
 theblog.adobe.com
 thebrowser.company
