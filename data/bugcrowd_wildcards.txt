@@ -11,7 +11,6 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.trafficjunky.com
 *.adultforce.com
 *.backblazeb2.com
-*.backblazeb2.com
 *.<researcher-store>.mybigcommerce.com
 *.bigcommerce.net
 *.bitdefender.net
@@ -65,6 +64,10 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.hubspotpagebuilder.eu
 *.movilepay.com
 *.movilepay.com.br
+*.guildofguardians.com
+*.immutable.com
+*.imtbl.com
+*.testnet.immutable.com
 *.imperva.com
 *.incapsula.com
 *.indeed.com
