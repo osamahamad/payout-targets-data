@@ -767,6 +767,7 @@
 *.skygamingcontent.com
 *.skypicker.com
 *.skypoker.com
+*.skyscanner.net
 *.skyvegas.com
 *.slader.com
 *.slimdevices.com
@@ -1224,6 +1225,7 @@ AOL Search
 API Shield
 API's
 AS41690
+AWS Infrastructure
 AWS infrastructure and services in use by Wise (eg: S3 buckets)
 Account Settings
 Acronis Agent
@@ -1929,6 +1931,10 @@ SimScale API
 SimScale Forum
 SimScale Platform
 SimScale Website
+Skyscanner Android App
+Skyscanner Android app
+Skyscanner iOS App
+Skyscanner iOS app
 Slack Desktop Application
 Snaps
 Snaps Development Packages
@@ -3444,6 +3450,7 @@ gamma.redoxstage.com
 gasstation.polygon.technology/
 gateway*.marriott.com
 gateway.reddit.com
+gateway.skyscanner.net/*
 gehmmocbbkpblljhkekmfhjpfbkclbph
 geminiadvisory.io
 geofilters.snapchat.com
@@ -6375,6 +6382,7 @@ partner.steamgames.com
 partner.steampowered.com
 partner.swiftfinancial.com
 partner.tiktokshop.com
+partnerportal.skyscanner.net/*
 partners.adobe.com
 partners.databricks.com
 partners.etoro.com
@@ -6662,6 +6670,8 @@ sites.fareharbor.com
 sketch.pixiv.net
 skills-store.amazon.com
 skinport.com
+skyscanner.net/*
+skyscanner.net/hotels/book/*
 slack-imgs.com
 slack-redir.net
 slack-status.com
