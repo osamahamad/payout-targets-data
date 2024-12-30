@@ -105,10 +105,6 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.dev.*.lfscnp.com
 *.sandbox.*.lfscnp.com
 *.-np.*.lfscnp.com
-*.linktree-extensions.com
-*.plannthat.com
-*.linktree-extensions.com
-*.plannthat.com
 *.lululemon.com
 bugcrowd-*your-own-instance*.cloud.mattermost.com/
 *.nr-data.net
@@ -144,6 +140,10 @@ prod-*.nu.com.co
 *.pinterest.com Web Apps
 *.points.com
 *.privateinternetaccess.com
+*.quizlet.com
+*.slader.com
+*.quizlet.com
+*.slader.com
 *.rapyd.net
 *.neatcommerce.com
 *.korta.is
