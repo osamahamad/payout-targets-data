@@ -117,9 +117,6 @@ prod-*.nubank.com.br
 prod-*.nu.com.mx
 prod-*.nu.com.co
 *.octopus.com
-*.openai.org
-*.openai.org
-*.openai.com
 *.opera.software
 *.osp.opera.software
 *.opera.technology
@@ -134,6 +131,11 @@ prod-*.nu.com.co
 *.feednews.com
 *.dailyadvent.com
 *.opsgenie.com
+*.origindigital-pac.com.au
+*.odcdn.com.au
+*.support.originenergy.com.au
+*.api.originenergy.com.au
+*.download.originenergy.com.au
 *.origindigital-pac.com.au
 *.odcdn.com.au
 *.support.originenergy.com.au
