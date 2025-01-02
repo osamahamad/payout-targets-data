@@ -600,6 +600,8 @@
 *.oncatapult.com
 *.onduo.com/
 *.onegraph.com
+*.openai.com
+*.openai.org
 *.opera-mini.net
 *.opera.com
 *.opera.news
@@ -1829,6 +1831,7 @@ Open Source - Weep
 Open Source - Zuul
 Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 Open source tools from Cloudflare
+OpenAI API Keys
 OpenPGP Cert Directory Specification
 Opsgenie (Android)
 Opsgenie (IoS)
@@ -2029,6 +2032,7 @@ ThePerfumeShop.App.iOS
 Third Party Application
 Third Party Marketplace Apps
 Third Party Snaps
+Third Party Targets
 ThousandEyes Endpoint Agent 
 ThousandEyes Enterprise Agent
 Tidal Client for Android
@@ -2159,7 +2163,6 @@ Workers
 Workers AI
 Workers KV
 Workfront Outlook Plugin
-Workstation MFA (WMFA)
 Wyze Cam V3
 XD
 XMP Toolkit
@@ -3634,7 +3637,6 @@ https://account.t-mobile.com
 https://account.teamviewer.com
 https://account.withings.com
 https://accounts.cmp.optimizely.com/
-https://accounts.lastpass.com
 https://accounts.opera.com
 https://accounts.welcomesoftware.com/
 https://acorns.com/
@@ -3649,7 +3651,6 @@ https://admin.atlassian.com/
 https://admin.atlassian.com/atlassian-access
 https://admin.foxy.io/
 https://admin.foxycart.com
-https://admin.lastpass.com
 https://admin.moneyboxapp.org/
 https://admin.ring.com/*
 https://admin3.pentest.clicsante.ca
@@ -3716,6 +3717,7 @@ https://api.mafshoppingmalls.com/
 https://api.moneyboxapp.com/
 https://api.neogov.com
 https://api.netgear.com
+https://api.openai.com
 https://api.optimizely.com/
 https://api.orderly.org/
 https://api.paymaya.com/
@@ -3875,8 +3877,6 @@ https://apps.apple.com/us/app/jira-server/id1405353949
 https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665	
 https://apps.apple.com/us/app/keeperchat/id1273303729?mt=12
 https://apps.apple.com/us/app/kucoin-buy-bitcoin-crypto/id1378956601?mt=8
-https://apps.apple.com/us/app/lastpass-authenticator/id1079110004
-https://apps.apple.com/us/app/lastpass-password-manager/id324613447
 https://apps.apple.com/us/app/lululemon/id920098546
 https://apps.apple.com/us/app/mattermost/id1257222717
 https://apps.apple.com/us/app/monash-study/id1462126829
@@ -3923,7 +3923,6 @@ https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|t
 https://auth.datadome.co
 https://auth.foxy.io/
 https://auth.immutable.com
-https://auth.lastpass.com
 https://auth.opera.com
 https://auth.seek.com
 https://auth.wyze.com
@@ -3951,7 +3950,6 @@ https://blablacardaily.com
 https://blockexplorer.electroneum.com
 https://blog.bitpanda.com/en
 https://blog.etsy.com
-https://blog.lastpass.com
 https://blog.thefork.com/
 https://blog.verisign.com
 https://bot-tester.datadome.co/
@@ -4013,6 +4011,7 @@ https://cdn.optimizely.com/
 https://central.sophos.com
 https://central.sophos.com/
 https://cfc.naspers.com/
+https://chat.openai.com
 https://chatspot.ai
 https://checkout.eyeko.com
 https://checkout.glossybox.com
@@ -4603,8 +4602,6 @@ https://laptop-updates.brave.com/latest/openSUSE64
 https://laptop-updates.brave.com/latest/osx
 https://laptop-updates.brave.com/latest/winia32
 https://laptop-updates.brave.com/latest/winx64
-https://lastpass.com
-https://lastpass.com/misc_download2.php
 https://latitudeinfinity.com.au
 https://lbu.eu-west-2.outscale.com
 https://leaflet-map.bykea.net
@@ -5079,6 +5076,7 @@ https://online.mustaqel.qa/qat/en/login
 https://online.srilankaevisa.lk/lka/en/login
 https://onlinena.vfsglobal.dz/AppointmentAdmin/
 https://op.paymaya.com/
+https://openai.com/
 https://openam-bug-bounty-stag.forgeblocks.com/*
 https://opendata-demo.test-socrata.com
 https://opendata.test-socrata.com
@@ -5129,6 +5127,7 @@ https://pinepgconsole.in:9099
 https://pit.water-link.be/
 https://pixabay.com/
 https://platform.infiniteathlete.ai
+https://platform.openai.com/playground
 https://play.fga.dev/
 https://play.google.com/store/apps/details?hl=en&id=co.bitx.android.wallet
 https://play.google.com/store/apps/details?id=au.com.ampol.flagship&hl=en_AU&gl=US
@@ -5181,8 +5180,6 @@ https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US
 https://play.google.com/store/apps/details?id=com.keepersecurity.chat&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.kubi.kucoin
 https://play.google.com/store/apps/details?id=com.lafourchette.lafourchette
-https://play.google.com/store/apps/details?id=com.lastpass.authenticator&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.lastpass.lpandroid
 https://play.google.com/store/apps/details?id=com.lime.supply&hl=en_US
 https://play.google.com/store/apps/details?id=com.limebike
 https://play.google.com/store/apps/details?id=com.maf.share&hl=en_US&gl=US
@@ -5384,7 +5381,6 @@ https://studentplacements.monash.edu
 https://suggestions.opera-api.com
 https://supplier-connect.otto.de
 https://supplier.viator.com/
-https://support.lastpass.com
 https://support.newrelic.com/
 https://support.okta.com
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/
@@ -5642,7 +5638,6 @@ https://www.kuleuven.be/sapredir/huisvesting
 https://www.ladbrokes.com
 https://www.ladbrokes.com/en/games
 https://www.lascana.de/
-https://www.lastpass.com
 https://www.letspaylater.ph/
 https://www.li.me/
 https://www.lieferando.de/thetakeaway/
