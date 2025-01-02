@@ -2169,7 +2169,6 @@ Workers
 Workers AI
 Workers KV
 Workfront Outlook Plugin
-Workstation MFA (WMFA)
 Wyze Cam V3
 XD
 XMP Toolkit
@@ -3401,6 +3400,7 @@ fab.com
 falcon-sandbox.com
 fanduel.com
 fareharborsites.com
+fashion4less.me
 faucet-api.polygon.technology/
 faucet.polygon.technology
 fdbox.net
@@ -3645,7 +3645,6 @@ https://account.t-mobile.com
 https://account.teamviewer.com
 https://account.withings.com
 https://accounts.cmp.optimizely.com/
-https://accounts.lastpass.com
 https://accounts.opera.com
 https://accounts.welcomesoftware.com/
 https://acorns.com/
@@ -3660,7 +3659,6 @@ https://admin.atlassian.com/
 https://admin.atlassian.com/atlassian-access
 https://admin.foxy.io/
 https://admin.foxycart.com
-https://admin.lastpass.com
 https://admin.moneyboxapp.org/
 https://admin.ring.com/*
 https://admin3.pentest.clicsante.ca
@@ -3688,6 +3686,7 @@ https://api-a.usaa.com
 https://api-ch-gva-2.exoscale.com/v2
 https://api-evm.orderly.org/
 https://api-js.datadome.co
+https://api-prod.thatconceptstore.com/
 https://api-staging.pingone.com/*
 https://api-test.nicehash.com
 https://api-test.nicex.com
@@ -3807,6 +3806,7 @@ https://apps.apple.com/app/chia-signer/id6504493785
 https://apps.apple.com/app/id1216446440
 https://apps.apple.com/app/id1359583808
 https://apps.apple.com/app/id1450306065
+https://apps.apple.com/app/id1503045795
 https://apps.apple.com/app/id1635031432
 https://apps.apple.com/app/infomaniak-kdrive/id1482778676
 https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693
@@ -3885,8 +3885,6 @@ https://apps.apple.com/us/app/jira-server/id1405353949
 https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665	
 https://apps.apple.com/us/app/keeperchat/id1273303729?mt=12
 https://apps.apple.com/us/app/kucoin-buy-bitcoin-crypto/id1378956601?mt=8
-https://apps.apple.com/us/app/lastpass-authenticator/id1079110004
-https://apps.apple.com/us/app/lastpass-password-manager/id324613447
 https://apps.apple.com/us/app/lululemon/id920098546
 https://apps.apple.com/us/app/mattermost/id1257222717
 https://apps.apple.com/us/app/monash-study/id1462126829
@@ -3933,7 +3931,6 @@ https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|t
 https://auth.datadome.co
 https://auth.foxy.io/
 https://auth.immutable.com
-https://auth.lastpass.com
 https://auth.opera.com
 https://auth.seek.com
 https://auth.wyze.com
@@ -3961,7 +3958,6 @@ https://blablacardaily.com
 https://blockexplorer.electroneum.com
 https://blog.bitpanda.com/en
 https://blog.etsy.com
-https://blog.lastpass.com
 https://blog.thefork.com/
 https://blog.verisign.com
 https://bot-tester.datadome.co/
@@ -4605,6 +4601,7 @@ https://kw-bugcrowd-pub.bounty.kiteworks.dev/
 https://l.usaa.com/
 https://lab.epam.com
 https://landrover.here.com
+https://lapi.yellowblocks.me
 https://laptop-updates.brave.com/latest/dev/debian64
 https://laptop-updates.brave.com/latest/dev/ubuntu64
 https://laptop-updates.brave.com/latest/fedora64
@@ -4614,8 +4611,6 @@ https://laptop-updates.brave.com/latest/openSUSE64
 https://laptop-updates.brave.com/latest/osx
 https://laptop-updates.brave.com/latest/winia32
 https://laptop-updates.brave.com/latest/winx64
-https://lastpass.com
-https://lastpass.com/misc_download2.php
 https://latitudeinfinity.com.au
 https://lbu.eu-west-2.outscale.com
 https://leaflet-map.bykea.net
@@ -5194,11 +5189,10 @@ https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US
 https://play.google.com/store/apps/details?id=com.keepersecurity.chat&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.kubi.kucoin
 https://play.google.com/store/apps/details?id=com.lafourchette.lafourchette
-https://play.google.com/store/apps/details?id=com.lastpass.authenticator&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.lastpass.lpandroid
 https://play.google.com/store/apps/details?id=com.lime.supply&hl=en_US
 https://play.google.com/store/apps/details?id=com.limebike
 https://play.google.com/store/apps/details?id=com.maf.share&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.maf.thatandroid
 https://play.google.com/store/apps/details?id=com.moneyboxapp
 https://play.google.com/store/apps/details?id=com.moonpay
 https://play.google.com/store/apps/details?id=com.newrelic.rpm
@@ -5396,7 +5390,6 @@ https://studentplacements.monash.edu
 https://suggestions.opera-api.com
 https://supplier-connect.otto.de
 https://supplier.viator.com/
-https://support.lastpass.com
 https://support.newrelic.com/
 https://support.okta.com
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/
@@ -5420,6 +5413,7 @@ https://test.nicex.com
 https://testflight.apple.com/join/533gFghn
 https://testflight.apple.com/join/FuaxsScP
 https://tfb.t-mobile.com
+https://thatconceptstore.com
 https://thinkglobalhealth.org
 https://thueringer-foerderportal.eu
 https://ticket.multiplayer.classdojo.com
@@ -5532,6 +5526,7 @@ https://wucare.westernunion.com
 https://wuinsights.westernunion.com
 https://www.*mongodb.com/*
 https://www.20min.ch
+https://www.allsaints.me/
 https://www.amazon.com/luna/*
 https://www.amazonpay.in/*
 https://www.ameliorate.com/
@@ -5573,12 +5568,14 @@ https://www.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr
 https://www.bluehost.com/
 https://www.bookbeat.com
 https://www.bwin.com
+https://www.cb2.ae/en
 https://www.cfr.org/
 https://www.classdojo.com
 https://www.cloudvector.com/
 https://www.contrastsecurity.com/
 https://www.coral.co.uk
 https://www.coral.co.uk/en/games
+https://www.crateandbarrel.me
 https://www.creditkarma.com/reviews/
 https://www.creditkarma.com/savings
 https://www.cultbeauty.co.uk/
@@ -5650,7 +5647,6 @@ https://www.kuleuven.be/sapredir/huisvesting
 https://www.ladbrokes.com
 https://www.ladbrokes.com/en/games
 https://www.lascana.de/
-https://www.lastpass.com
 https://www.letspaylater.ph/
 https://www.li.me/
 https://www.lieferando.de/thetakeaway/
@@ -5662,6 +5658,7 @@ https://www.lululemon.com.hk/
 https://www.lululemon.de/
 https://www.lululemon.es/ 
 https://www.lululemon.fr/
+https://www.lululemon.me
 https://www.magicplanetmena.com/
 https://www.malloftheemirates.com
 https://www.mankind.co.uk/
@@ -5729,6 +5726,7 @@ https://www.remove.bg
 https://www.restaurant-information.com
 https://www.sdx.com/
 https://www.sharerewards.com/
+https://www.shiseido.me/
 https://www.simplify.com/commerce/ 
 https://www.skidxb.com/
 https://www.skinstore.com/
@@ -5981,6 +5979,7 @@ launch.playcanvas.com
 launchpad.37signals.com
 lawmanager.marriott.com
 learningmanager.adobe.com
+lego.me
 leonard.vinci.com
 libsoup
 libsystemd
@@ -6479,6 +6478,7 @@ prometheus.fr.cloud.gov
 promos.tvg.com
 prow.k8s.io
 proxy-production.lime.bike
+psychobunny.me
 public.hyatt.com
 push-d-gw.cloud.etoro.com
 push-d-hap.cloud.etoro.com
