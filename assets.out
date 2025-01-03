@@ -3678,6 +3678,9 @@ https://api-staging.pingone.com/*
 https://api-test.nicehash.com
 https://api-test.nicex.com
 https://api-user.e2ro.com/*
+https://api-{app-id}.calls.sendbird.com
+https://api-{app-id}.notifications.sendbird.com
+https://api-{app-id}.sendbird.com
 https://api.20min.ch/
 https://api.aiven.io/login
 https://api.anytask.com/
@@ -4075,6 +4078,7 @@ https://daily.blablacar.fr
 https://dashboard.fga.dev/
 https://dashboard.pantheon.io
 https://dashboard.rapyd.net/
+https://dashboard.sendbird.com/
 https://data.coda.io/*
 https://data.limeinternal.com
 https://data.prosus.com/
@@ -4089,6 +4093,7 @@ https://dealflow.prosus.com
 https://dealflowapi.prosus.com
 https://demo.priceless.com/
 https://design.glassdoor.com/*
+https://desk-api-{region}.sendbird.com
 https://desktop.water-link.be/
 https://dev.tutoring.classdojo.com
 https://devedge.t-mobile.com
@@ -4181,6 +4186,7 @@ https://gaadmin.vfsglobal.com/GAR1Ph1ApptAdmin/
 https://gaadmin.vfsglobal.com/Global-Admin/
 https://gaadmin.vfsglobal.com/GlobalAdmin/
 https://gap.citizenportal-test.bugbounty.akinox.dev
+https://gate.sendbird.com
 https://gatewaydsapdev2.marriott.com/
 https://gatewaydsaptst1.marriott.com/
 https://gatewaydsaptst2.marriott.com/
@@ -4870,9 +4876,6 @@ https://marketplace.atlassian.com/apps/1222147/opsgenie?hosting=cloud
 https://marketplace.atlassian.com/apps/1222714/scio-search-crawler-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1222715/scio-search-crawler-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1222978/dynamic-fields-for-jira?hosting=cloud
-https://marketplace.atlassian.com/apps/1223249/mailto-wiki-email-for-confluence?hosting=datacenter&tab=overview
-https://marketplace.atlassian.com/apps/1223249/mailto-wiki-send-emails-to-confluence?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1223249/mailto-wiki-send-emails-to-confluence?tab=overview&hosting=server
 https://marketplace.atlassian.com/apps/1223382/previous-next-navigation?hosting=cloud
 https://marketplace.atlassian.com/apps/1223455/advanced-bulk-edit-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1223584/github-webhooks-for-fisheye?hosting=server
@@ -5322,6 +5325,8 @@ https://securesignin.powerdms.com/
 https://seekcdn.com
 https://segment.com/docs/sources/
 https://selector.viator.com
+https://sendbird.com
+https://sendbird.com/docs
 https://sendgrid.com
 https://senegal.westernunion.com
 https://service.platform.tripadvisor.com
@@ -5501,6 +5506,8 @@ https://wise.com
 https://woox.io/
 https://world.planethoster.net
 https://wowjobs.ca
+https://ws-{app-id}.calls.sendbird.com
+https://ws-{app-id}.sendbird.com
 https://ws.multiplayer.classdojo.com/
 https://ws.usaa.com
 https://wslatam.ifood.com.br
