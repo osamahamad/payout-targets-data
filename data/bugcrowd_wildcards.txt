@@ -62,8 +62,6 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.hs-sites(-eu1)?.com
 *.hubspotpagebuilder.com
 *.hubspotpagebuilder.eu
-*.movilepay.com
-*.movilepay.com.br
 *.guildofguardians.com
 *.immutable.com
 *.imtbl.com
@@ -117,6 +115,9 @@ prod-*.nubank.com.br
 prod-*.nu.com.mx
 prod-*.nu.com.co
 *.octopus.com
+*.openai.org
+*.openai.org
+*.openai.com
 *.openai.org
 *.openai.org
 *.openai.com
