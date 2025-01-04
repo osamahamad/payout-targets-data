@@ -104,6 +104,7 @@
 *.api.playstation.com
 *.app.asana.com
 *.app.spacelift.dev
+*.appmiral.com
 *.arlo.com
 *.arloxcld.com
 *.artstation.com
@@ -207,6 +208,8 @@
 *.cloudways.com
 *.clubhouse.com
 *.clubhouseapi.com
+*.cm.com
+*.cmtelecom.com
 *.coda.io/*
 *.code.gov
 *.cognitiveperformer.com
@@ -233,7 +236,6 @@
 *.dailymotion.com
 *.dancecentral.com
 *.das.eu
-*.datacamp.com
 *.de.jbl.com
 *.dell.com/*
 *.delltechnologies.com/* 
@@ -539,8 +541,6 @@
 *.monzo.me
 *.moonpay.com
 *.moonpaycloud.com
-*.movilepay.com
-*.movilepay.com.br
 *.msgsvc.io
 *.muscache.com
 *.mwb-threatintel.com
@@ -817,6 +817,7 @@
 *.thinkingphones.net
 *.threatdown.com
 *.thuisbezorgd.nl
+*.ticketing.cm.com
 *.tidalhifi.com
 *.tide.co
 *.tiktok.com
@@ -995,6 +996,7 @@
 1180074773
 1180400838
 1192506963
+1199521324
 1200391796
 121.200.237.36/29
 1215220850
@@ -1029,6 +1031,7 @@
 153.46.96.0/20
 1541949985
 1557515848
+1579530451
 1589023233
 1589071345
 1591003012
@@ -2299,8 +2302,6 @@ api-sandbox.gocardless.com
 api-sandbox.uphold.com
 api-staging.airtable.com
 api-v2.frame.io
-api-wallet-sandbox.venly.io
-api-wallet.venly.io
 api.23andme.com
 api.8x8.com
 api.account.clario.co
@@ -2308,7 +2309,6 @@ api.adm.cloud.com
 api.airbnb.com
 api.alasco.de
 api.amazonalexa.com/*
-api.arkane.network
 api.atg.se
 api.au.frontegg.com
 api.avtoelon.uz
@@ -2317,6 +2317,8 @@ api.blockchain.info
 api.circle.com
 api.cloudflare.com
 api.cloudways.com
+api.cm.com
+api.cmtelecom.com
 api.coinbase.com
 api.coindcx.com
 api.coinmarketcap.com
@@ -2469,16 +2471,12 @@ apigw.foliofn.com
 apis.mail.yahoo.com
 apis.onecloud.harman.com
 apix.vodafone.om
-app.aikido.dev
 app.alasco.de
 app.avtoelon.uz
 app.chime.com
 app.circle.com
 app.command.cysiv.com
 app.dashlane.com
-app.datacamp.com/certification
-app.datacamp.com/groups
-app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -2548,6 +2546,7 @@ app.watsons.com.tr
 app3.rewire.to
 applause1.magisto.com
 applications.frame.io
+appmiral.com
 apps-accpt.portofantwerp.com
 apps-accpt.portofantwerpbruges.com
 apps.apple.com/fr/app/mon-espace-sant%C3%A9/id1589255019 (iOS)
@@ -2573,9 +2572,6 @@ as2.portofantwerpbruges.com
 ase.arubanetworks.com
 ask.khealth.com
 asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com 
-assessment.datacamp.com
 assets.adobe.com
 assets.airbnb.com
 assets.hyatt.com
@@ -2697,6 +2693,7 @@ bugcrowd-pam-###.oktapreview.com
 bugcrowd-pam-###.pam.oktapreview.com
 bugzilla.mozilla.org
 builder.hostinger.com
+building-blocks.com
 builds-auckland.ninja.kiwi
 builds.soundtrackyourbrand.com
 bullsheet.me
@@ -2723,7 +2720,6 @@ calendar.infomaniak.com
 callbacks.airbnb.com
 cam.notebleue.pro
 campaign.adobe.com
-campus.datacamp.com
 candle-src.etoro.com
 candle.etoro.com
 capi.grammarly.com
@@ -2797,6 +2793,10 @@ cloud.update.justeattakeaway.com
 cloud.update.takeaway.com
 cloud8.8x8.com
 cloudflareworkers.com
+cm.com/[locale]/app/*
+cm.com/[locale]/register
+cm.com/app/messagingtrial/
+cmcom.atlassian.net
 cms.monespacesante.fr
 cms.nba.com
 cms.woger-cdn.com
@@ -2875,6 +2875,7 @@ com.bykea.pk.partner
 com.capital.trading
 com.cheaptickets
 com.clubhouse.android
+com.cm.cashregister
 com.coinbase.android
 com.coinbase.ios
 com.coinbase.wallite
@@ -2886,7 +2887,6 @@ com.creditkarma.mobile
 com.creditkarma.mobile.international
 com.dashlane
 com.dashlane.dashlanephonefinal
-com.datacamp
 com.defi.wallet
 com.deribit
 com.dolap.android
@@ -3052,6 +3052,7 @@ com.starbucks.mystarbucks
 com.streamlabs
 com.streamlabs.slobsrc
 com.stripe.android.dashboard
+com.ticketflow.ticketscanner
 com.tideplatform.banking
 com.tiktok.tv
 com.tiktokshop.seller
@@ -3132,11 +3133,9 @@ configure.mini.de
 confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
-connect.arkane.network 
 connect.arubanetworks.com
 connect.deezer.com
 connect.secure.wellsfargo.com
-connect.venly.io
 console-backend.truelayer[-sandbox].com
 console.circle.com
 console.dashlane.com
@@ -3227,6 +3226,7 @@ demo.arkoselabs.com
 demo.cloud.databricks.com
 demo.dynamic.xyz
 demo.fareharbor.com
+demo.globalticket.com/*
 demo.plaid.com
 derivws.com
 design.gitlab.com
@@ -3684,7 +3684,6 @@ https://api.datadome.co
 https://api.electroneum.com/
 https://api.fishbowlapp.com/*
 https://api.foxycart.com/
-https://api.fstr.rocks
 https://api.glassdoor.com/*
 https://api.hubspot.com/
 https://api.ibops.net
@@ -3790,12 +3789,10 @@ https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/bigcommerce/id1418570678
 https://apps.apple.com/au/app/caltex-australia/id1314768594
 https://apps.apple.com/au/app/certsy/id1617796159
-https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://apps.apple.com/be/app/zen-by-deezer-m%C3%A9ditation/id1597326355
-https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
 https://apps.apple.com/br/app/nubank-conta-e-cart%C3%A3o/id814456780
 https://apps.apple.com/ca/app/lime-ridegreen/id1199780189
 https://apps.apple.com/ca/app/lime-supply/id1620058457
@@ -4085,7 +4082,6 @@ https://desk-api-{region}.sendbird.com
 https://desktop.water-link.be/
 https://dev.tutoring.classdojo.com
 https://devedge.t-mobile.com
-https://developer.ifood.com.br
 https://developer.mastercard.com
 https://developer.newrelic.com/
 https://developer.withings.com/dashboard/
@@ -4183,7 +4179,6 @@ https://gemcreditline.co.nz
 https://gemfinance.co.nz
 https://gemvisa.com.au
 https://geocode-beta.bykea.net
-https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
 https://git.libssh.org/
 https://github.com/0xPolygon/auto-claim-service
@@ -4568,6 +4563,7 @@ https://judge.me/reviews
 https://just-eat.es
 https://just-eat.io/
 https://just-eat.it
+https://justonweb.be/fines/
 https://keepersecurity.com
 https://keepersecurity.com/console
 https://keepersecurity.com/vault
@@ -4972,7 +4968,6 @@ https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosti
 https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=server
 https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
 https://marketplace.auth0.com
-https://marketplace.ifood.com.br
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
 https://master.servicecentre.digitalservicing-np.lfscnp.com/
 https://mathem.se
@@ -5123,7 +5118,6 @@ https://play.google.com/store/apps/details?hl=en&id=co.bitx.android.wallet
 https://play.google.com/store/apps/details?id=au.com.ampol.flagship&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=au.com.ampol.teamapp
 https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US
-https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR
 https://play.google.com/store/apps/details?id=com.AgainstGravity.RecRoom
 https://play.google.com/store/apps/details?id=com.acn.uc&hl=en
 https://play.google.com/store/apps/details?id=com.acorns.android&hl=en_US&gl=US
@@ -5278,7 +5272,6 @@ https://public.je-apis.com
 https://public.thesecurityteam.rocks/resources/app/android/etnapp-5.2.2-staging.apk
 https://radio.api.soundtrackyourbrand.com/
 https://rarible.com/
-https://rc.fstr.rocks
 https://rec.net/
 https://rec.net/download
 https://recroom.com/studio
@@ -5328,7 +5321,6 @@ https://service.post.ch/zopa/app/
 https://sg.westernunion.com
 https://shiny.ops.coda.io/*
 https://shop-acc.kinepolis.be/
-https://shop.ifood.com.br
 https://shop.lululemon.com
 https://shop.monash.edu/
 https://shop.post.ch/shop
@@ -5356,7 +5348,6 @@ https://staging.coda.io/*
 https://staging.gearset.com/
 https://staging.luno.com/
 https://start.atlassian.com
-https://static-images.ifood.com.br
 https://static.demarches-simplifiees.fr
 https://static.usaa.com
 https://status-takeaway.com/status
@@ -5502,8 +5493,6 @@ https://ws-{app-id}.calls.sendbird.com
 https://ws-{app-id}.sendbird.com
 https://ws.multiplayer.classdojo.com/
 https://ws.usaa.com
-https://wslatam.ifood.com.br
-https://wsloja.ifood.com.br
 https://wsmbr.usaa.com/
 https://wuagentportal.westernunion.com
 https://wucare.westernunion.com
@@ -5612,7 +5601,6 @@ https://www.hqhair.com/
 https://www.iciparisxl.be/blog/
 https://www.iciparisxl.lu/blog/
 https://www.iciparisxl.nl/blog/
-https://www.ifood.com.br
 https://www.illamasqua.com/
 https://www.intercom.com/
 https://www.just-eat.co.uk
@@ -5992,8 +5980,8 @@ login-api.truelayer[-sandbox].com
 login-ia.tvg.com
 login-pabets.tvg.com
 login-test.portofantwerpbruges.com/poam/XUI/
-login.arkane.network
 login.bigcommerce.com
+login.cm.com
 login.delen.be 
 login.delen.ch 
 login.delen.lu 
@@ -6010,7 +5998,6 @@ login.portofantwerpbruges.com
 login.swapcard.com
 login.truelayer[-sandbox].com
 login.tvg.com
-login.venly.io
 login.www.vaxvacationaccess.com
 logitech.zendesk.com
 logitechg.com.cn
@@ -6413,7 +6400,6 @@ portal.taxi.booking.com
 portfolio.adobe.com
 portfolio.metamask.io
 portswigger.net
-practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prddnighting01.uzleuven.be
 prddsplunkhf.uzleuven.be
@@ -6449,7 +6435,6 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profiler.firefox.com
-projects.datacamp.com
 projects.nextcloud.com
 prometheus.fr.cloud.gov
 promos.tvg.com
@@ -6923,7 +6908,6 @@ waf.cumulusfire.net
 wallet-sandbox.uphold.com
 wallet.etoro.com
 wallet.uphold.com
-wallet.venly.io
 wallets.api.playstation.com
 watchdocs.indriverapp.com
 watchlistapi.etoro.com
@@ -7033,6 +7017,7 @@ www.cheaptickets.com
 www.checkfelix.com
 www.chime.com
 www.cloudways.com
+www.cm.com
 www.coinhako.com
 www.coinspot.com.au
 www.compass.com
@@ -7044,8 +7029,6 @@ www.currencycloud.com
 www.cybersource.com
 www.dashlane.com
 www.data.gov
-www.datacamp.com
-www.datacamp.com/datalab
 www.datastax.com
 www.ddfcontent.com
 www.deezer.com
