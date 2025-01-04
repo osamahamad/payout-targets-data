@@ -105,6 +105,10 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.dev.*.lfscnp.com
 *.sandbox.*.lfscnp.com
 *.-np.*.lfscnp.com
+*.linktree-extensions.com
+*.plannthat.com
+*.linktree-extensions.com
+*.plannthat.com
 *.lululemon.com
 bugcrowd-*your-own-instance*.cloud.mattermost.com/
 *.nr-data.net
@@ -132,11 +136,6 @@ prod-*.nu.com.co
 *.feednews.com
 *.dailyadvent.com
 *.opsgenie.com
-*.origindigital-pac.com.au
-*.odcdn.com.au
-*.support.originenergy.com.au
-*.api.originenergy.com.au
-*.download.originenergy.com.au
 *.origindigital-pac.com.au
 *.odcdn.com.au
 *.support.originenergy.com.au
