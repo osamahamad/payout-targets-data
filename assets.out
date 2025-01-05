@@ -541,8 +541,6 @@
 *.monzo.me
 *.moonpay.com
 *.moonpaycloud.com
-*.movilepay.com
-*.movilepay.com.br
 *.msgsvc.io
 *.muscache.com
 *.mwb-threatintel.com
@@ -593,6 +591,8 @@
 *.oncatapult.com
 *.onduo.com/
 *.onegraph.com
+*.openai.com
+*.openai.org
 *.opera-mini.net
 *.opera.com
 *.opera.news
@@ -689,6 +689,7 @@
 *.romwe.com
 *.router.hereapi.com
 *.runnr.in
+*.s-cloud.net
 *.saltlabs.com
 *.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
@@ -725,6 +726,7 @@
 *.seriously.com
 *.services-prod.nsvcs.net
 *.services.netlify.com
+*.services.repostnetwork.com
 *.shein.com
 *.sheingsp.com
 *.shipt.com
@@ -763,6 +765,7 @@
 *.sol-data.com
 *.solarcity.com
 *.sonyentertainmentnetwork.com
+*.soundcloud.org
 *.souparea.com
 *.spiketrap.io
 *.spinaway.com
@@ -1814,6 +1817,7 @@ Open Source - Weep
 Open Source - Zuul
 Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 Open source tools from Cloudflare
+OpenAI API Keys
 OpenPGP Cert Directory Specification
 Opsgenie (Android)
 Opsgenie (IoS)
@@ -2014,6 +2018,7 @@ ThePerfumeShop.App.iOS
 Third Party Application
 Third Party Marketplace Apps
 Third Party Snaps
+Third Party Targets
 ThousandEyes Endpoint Agent 
 ThousandEyes Enterprise Agent
 Tidal Client for Android
@@ -2284,6 +2289,7 @@ analytics.pinelabs.com
 anthem.khealth.com
 ap-s.cloud.com
 api*.netflix.com
+api-*.soundcloud.com
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
 api-eu.floqast.app
@@ -3512,6 +3518,7 @@ http://api.koho.ca/partner
 http://api.na1.insightly.com/v3.1/
 http://app.scaleft.com/
 http://apps.connect.monash.edu/
+http://artists.soundcloud.com/
 http://auth.khealth.com/cedars/sign-up
 http://auth.khealth.com/khealth/sign-up
 http://auth.khealth.com/mayo-la-crosse/sign-up
@@ -3659,9 +3666,6 @@ https://api-staging.pingone.com/*
 https://api-test.nicehash.com
 https://api-test.nicex.com
 https://api-user.e2ro.com/*
-https://api-{app-id}.calls.sendbird.com
-https://api-{app-id}.notifications.sendbird.com
-https://api-{app-id}.sendbird.com
 https://api.20min.ch/
 https://api.aiven.io/login
 https://api.anytask.com/
@@ -3677,7 +3681,6 @@ https://api.datadome.co
 https://api.electroneum.com/
 https://api.fishbowlapp.com/*
 https://api.foxycart.com/
-https://api.fstr.rocks
 https://api.glassdoor.com/*
 https://api.hubspot.com/
 https://api.ibops.net
@@ -3693,6 +3696,7 @@ https://api.mafshoppingmalls.com/
 https://api.moneyboxapp.com/
 https://api.neogov.com
 https://api.netgear.com
+https://api.openai.com
 https://api.optimizely.com/
 https://api.orderly.org/
 https://api.paymaya.com/
@@ -3786,7 +3790,6 @@ https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://apps.apple.com/be/app/zen-by-deezer-m%C3%A9ditation/id1597326355
-https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
 https://apps.apple.com/br/app/nubank-conta-e-cart%C3%A3o/id814456780
 https://apps.apple.com/ca/app/lime-ridegreen/id1199780189
 https://apps.apple.com/ca/app/lime-supply/id1620058457
@@ -3866,6 +3869,7 @@ https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
 https://apps.apple.com/us/app/share-rewards/id1465450657
+https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
 https://apps.apple.com/us/app/syncup-drive/id1576574297
 https://apps.apple.com/us/app/syncup-kids/id1503394062
@@ -3989,6 +3993,7 @@ https://cdn.optimizely.com/
 https://central.sophos.com
 https://central.sophos.com/
 https://cfc.naspers.com/
+https://chat.openai.com
 https://chatspot.ai
 https://checkout.eyeko.com
 https://checkout.glossybox.com
@@ -4020,6 +4025,7 @@ https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://connect.com
 https://connect.monash.edu
 https://connect.paymaya.com/
+https://connect.soundcloud.com
 https://consensys.io/
 https://console-staging.pingone.com/*
 https://console.aiven.io/login
@@ -4054,7 +4060,6 @@ https://daily.blablacar.fr
 https://dashboard.fga.dev/
 https://dashboard.pantheon.io
 https://dashboard.rapyd.net/
-https://dashboard.sendbird.com/
 https://data.coda.io/*
 https://data.limeinternal.com
 https://data.prosus.com/
@@ -4069,11 +4074,9 @@ https://dealflow.prosus.com
 https://dealflowapi.prosus.com
 https://demo.priceless.com/
 https://design.glassdoor.com/*
-https://desk-api-{region}.sendbird.com
 https://desktop.water-link.be/
 https://dev.tutoring.classdojo.com
 https://devedge.t-mobile.com
-https://developer.ifood.com.br
 https://developer.mastercard.com
 https://developer.newrelic.com/
 https://developer.withings.com/dashboard/
@@ -4163,7 +4166,6 @@ https://gaadmin.vfsglobal.com/GAR1Ph1ApptAdmin/
 https://gaadmin.vfsglobal.com/Global-Admin/
 https://gaadmin.vfsglobal.com/GlobalAdmin/
 https://gap.citizenportal-test.bugbounty.akinox.dev
-https://gate.sendbird.com
 https://gatewaydsapdev2.marriott.com/
 https://gatewaydsaptst1.marriott.com/
 https://gatewaydsaptst2.marriott.com/
@@ -4171,7 +4173,6 @@ https://gemcreditline.co.nz
 https://gemfinance.co.nz
 https://gemvisa.com.au
 https://geocode-beta.bykea.net
-https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
 https://git.libssh.org/
 https://github.com/0xPolygon/auto-claim-service
@@ -4961,7 +4962,6 @@ https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosti
 https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=server
 https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
 https://marketplace.auth0.com
-https://marketplace.ifood.com.br
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
 https://master.servicecentre.digitalservicing-np.lfscnp.com/
 https://mathem.se
@@ -5055,6 +5055,7 @@ https://online.mustaqel.qa/qat/en/login
 https://online.srilankaevisa.lk/lka/en/login
 https://onlinena.vfsglobal.dz/AppointmentAdmin/
 https://op.paymaya.com/
+https://openai.com/
 https://openam-bug-bounty-stag.forgeblocks.com/*
 https://opendata-demo.test-socrata.com
 https://opendata.test-socrata.com
@@ -5105,12 +5106,12 @@ https://pinepgconsole.in:9099
 https://pit.water-link.be/
 https://pixabay.com/
 https://platform.infiniteathlete.ai
+https://platform.openai.com/playground
 https://play.fga.dev/
 https://play.google.com/store/apps/details?hl=en&id=co.bitx.android.wallet
 https://play.google.com/store/apps/details?id=au.com.ampol.flagship&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=au.com.ampol.teamapp
 https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US
-https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR
 https://play.google.com/store/apps/details?id=com.AgainstGravity.RecRoom
 https://play.google.com/store/apps/details?id=com.acn.uc&hl=en
 https://play.google.com/store/apps/details?id=com.acorns.android&hl=en_US&gl=US
@@ -5188,6 +5189,7 @@ https://play.google.com/store/apps/details?id=com.scu.bsafe
 https://play.google.com/store/apps/details?id=com.siilo.android&hl=en
 https://play.google.com/store/apps/details?id=com.sixgroup.debixplus
 https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1
+https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.squareup.cash
 https://play.google.com/store/apps/details?id=com.swapcard.apps.android&hl=fr
@@ -5264,7 +5266,6 @@ https://public.je-apis.com
 https://public.thesecurityteam.rocks/resources/app/android/etnapp-5.2.2-staging.apk
 https://radio.api.soundtrackyourbrand.com/
 https://rarible.com/
-https://rc.fstr.rocks
 https://rec.net/
 https://rec.net/download
 https://recroom.com/studio
@@ -5303,8 +5304,6 @@ https://securesignin.powerdms.com/
 https://seekcdn.com
 https://segment.com/docs/sources/
 https://selector.viator.com
-https://sendbird.com
-https://sendbird.com/docs
 https://sendgrid.com
 https://senegal.westernunion.com
 https://service.platform.tripadvisor.com
@@ -5314,7 +5313,6 @@ https://service.post.ch/zopa/app/
 https://sg.westernunion.com
 https://shiny.ops.coda.io/*
 https://shop-acc.kinepolis.be/
-https://shop.ifood.com.br
 https://shop.lululemon.com
 https://shop.monash.edu/
 https://shop.post.ch/shop
@@ -5329,6 +5327,8 @@ https://sncf-connect.com
 https://song.link
 https://songlink.io
 https://sos-ch-gva-2.exo.io/
+https://soundcloud.com
+https://soundcloud.org
 https://speeddials.opera.com
 https://sprint.com
 https://square.online
@@ -5340,7 +5340,6 @@ https://staging.coda.io/*
 https://staging.gearset.com/
 https://staging.luno.com/
 https://start.atlassian.com
-https://static-images.ifood.com.br
 https://static.demarches-simplifiees.fr
 https://static.usaa.com
 https://status-takeaway.com/status
@@ -5482,12 +5481,8 @@ https://wise.com
 https://woox.io/
 https://world.planethoster.net
 https://wowjobs.ca
-https://ws-{app-id}.calls.sendbird.com
-https://ws-{app-id}.sendbird.com
 https://ws.multiplayer.classdojo.com/
 https://ws.usaa.com
-https://wslatam.ifood.com.br
-https://wsloja.ifood.com.br
 https://wsmbr.usaa.com/
 https://wuagentportal.westernunion.com
 https://wucare.westernunion.com
@@ -5596,7 +5591,6 @@ https://www.hqhair.com/
 https://www.iciparisxl.be/blog/
 https://www.iciparisxl.lu/blog/
 https://www.iciparisxl.nl/blog/
-https://www.ifood.com.br
 https://www.illamasqua.com/
 https://www.intercom.com/
 https://www.just-eat.co.uk
