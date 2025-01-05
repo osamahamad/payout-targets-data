@@ -1,17 +1,8 @@
-*.linktree-extensions.com
-*.plannthat.com
-https://album.link
-https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
-https://artist.link
-https://linktr.ee
-https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
-https://linktree.com
-https://mylink.page
-https://odesli.co
-https://odesli.com
-https://play.google.com/store/search?q=plann&c=apps
-https://playlist.link
-https://pods.link
-https://song.link
-https://songlink.io
-https://tr.ee
+*.openai.com
+*.openai.org
+OpenAI API Keys
+Third Party Targets
+https://api.openai.com
+https://chat.openai.com
+https://openai.com/
+https://platform.openai.com/playground
