@@ -971,6 +971,7 @@
 0x7c31560552170ce96c4a7b018e93cddc19dc61b6
 0xfbfa258b9028c7d4fc52ce28031469214d10daeb
 1.1.1.1 Resolver
+10.128.0.0/10
 1005070636
 1013961111
 1018340690
@@ -1329,6 +1330,7 @@ Aruba InstantOn Switches
 Aruba NetEdit
 Aruba Wireless – ArubaOS and Aruba Instant
 ArubaOS-CX Wired Switches
+Assets labeled as in-scope
 Assets owned by RIPE NCC
 Audition
 Authentication component
@@ -1383,6 +1385,7 @@ Canva (iOS)
 Canva Desktop (macOS / Windows)
 Capital One Shopping Browser Extension
 Capture the Flag
+Cellular Network Auth Bypass via Web/Mobile App
 Character Animator
 Chime
 Chime Android App (Beta)
@@ -1628,6 +1631,7 @@ Insight Managed Smart Cloud Wireless Access Point
 Insight iOS App
 Intellectual Property on Public Domains
 Intelligent Canvas
+Internal Server via Internet Network
 Internet.xfinity.com
 Interoperability Issue in OpenPGP.js
 IoS App
@@ -1896,6 +1900,7 @@ Scope Questions: Items not explicitly listed here
 Secondary Assets
 Security Vulnerability in OpenPGP.js's high-level API
 Security Vulnerability in the OpenPGP Standard
+Self Register Account on T-Mobile Microsoft Entra ID
 Sequoia git Specification
 Services
 Shared OpenPGP Certificate Directory
@@ -1996,6 +2001,7 @@ Superdrug.App.Android
 Superdrug.App.IOS
 Superdrug.Healthera.App.Android
 System Specification
+T&P Servers
 TV - Xfinity hardware and services
 TW Media: Front Page
 TW Media: News
@@ -3610,6 +3616,7 @@ https://a.simplemdm.com/
 https://account-registration.monash.edu/
 https://account.bitpanda.com
 https://account.post.ch
+https://account.t-mobile.com
 https://account.teamviewer.com
 https://account.withings.com
 https://accounts.cmp.optimizely.com/
@@ -3714,6 +3721,7 @@ https://api.sendgrid.com
 https://api.shop.ua.com/graphql
 https://api.simnext.bullish-test.com
 https://api.staging.luno.com/
+https://api.t-mobile.com
 https://api.test.latitudefinancial.com
 https://api.thefork.com
 https://api.thesecurityteam.rocks
@@ -3870,6 +3878,11 @@ https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
 https://apps.apple.com/us/app/share-rewards/id1465450657
 https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
+https://apps.apple.com/us/app/syncup-drive/id1576574297
+https://apps.apple.com/us/app/syncup-kids/id1503394062
+https://apps.apple.com/us/app/syncup-tracker/id1526380335
+https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
+https://apps.apple.com/us/app/t-mobile/id561625752
 https://apps.apple.com/us/app/tesla/id582007913
 https://apps.apple.com/us/app/under-armour/id1092704571
 https://apps.apple.com/us/app/usaa-mobile/id312325565
@@ -4072,6 +4085,7 @@ https://design.glassdoor.com/*
 https://desk-api-{region}.sendbird.com
 https://desktop.water-link.be/
 https://dev.tutoring.classdojo.com
+https://devedge.t-mobile.com
 https://developer.ifood.com.br
 https://developer.mastercard.com
 https://developer.newrelic.com/
@@ -4086,6 +4100,8 @@ https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
 https://developers.vendhq.com/
 https://devportal.rec.net/
 https://devstaging.pcapcloud.com/*
+https://digits.t-mobile.com
+https://digits.t-mobile.com/
 https://dimensions.cloudinary.com
 https://directlink.eu-west-2.outscale.com
 https://docs.bugcrowd.com/
@@ -4975,6 +4991,7 @@ https://menulog.com.au
 https://meraki.cisco.com
 https://metamask-sdk-socket.metafi.codefi.network/
 https://metamask.github.io/phishing-warning/<vX.Y.Z>
+https://metrobyt-mobile.com
 https://metroconnect.app.ridewithvia.com
 https://mg.n0c.com/
 https://mguest.usaa.com/
@@ -5196,6 +5213,11 @@ https://play.google.com/store/apps/details?id=com.teamviewer.host.market&hl=en&g
 https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.tmobile.drive
+https://play.google.com/store/apps/details?id=com.tmobile.kids
+https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
+https://play.google.com/store/apps/details?id=com.tmobile.syncuptag
+https://play.google.com/store/apps/details?id=com.tmobile.tuesdays&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.ua.shop&hl=en
 https://play.google.com/store/apps/details?id=com.usaa.mobile.android.usaa&hl=en
@@ -5326,6 +5348,7 @@ https://sos-ch-gva-2.exo.io/
 https://soundcloud.com
 https://soundcloud.org
 https://speeddials.opera.com
+https://sprint.com
 https://square.online
 https://src.mastercard.com/*
 https://src.mastercard.com/profile/enroll
@@ -5361,6 +5384,7 @@ https://svn.filezilla-project.org/svn/libfilezilla/trunk
 https://svn.filezilla-project.org/svn/libfilezilla/trunk/
 https://sycamore.moneyboxapp.org/
 https://syncsketch.dev
+https://t-mobile.com
 https://takeawaypay.azurefd.net/en/takeawaypay/
 https://teach.classdojo.com
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/package
@@ -5368,11 +5392,13 @@ https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/polling
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/upload
 https://teleoptiprd.otto.de
 https://tempus-ex.com
+https://tess.service-now.com
 https://test.m4sv.bugbounty.akinox.dev
 https://test.nicehash.com/shop/
 https://test.nicex.com
 https://testflight.apple.com/join/533gFghn
 https://testflight.apple.com/join/FuaxsScP
+https://tfb.t-mobile.com
 https://thatconceptstore.com
 https://thinkglobalhealth.org
 https://thueringer-foerderportal.eu
