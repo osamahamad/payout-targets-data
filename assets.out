@@ -427,8 +427,6 @@
 *.int.remitly.com
 *.intel.com
 *.intercomassets.com / *.intercomcdn.com
-*.irccloud-cdn.com
-*.irccloud.com
 *.itcapital.io
 *.jbl.com
 *.jbl.com.br
@@ -2384,7 +2382,6 @@ api.iciparisxl.lu
 api.iciparisxl.nl
 api.infomaniak.com
 api.instacart.com
-api.irccloud.com
 api.khealth.com
 api.khealth.io
 api.kolesa.kz
@@ -2651,7 +2648,6 @@ blocklist.opera-api.com
 blog.23andme.com
 blog.creditkarma.com
 blog.cs.money
-blog.irccloud.com
 blog.malwarebytes.com
 blog.playcanvas.com
 blog.remitly.com
@@ -2955,8 +2951,6 @@ com.immediasemi.android.blink
 com.instacart.client
 com.inthepocket.kinepolis
 com.iphone.workfront
-com.irccloud.IRCCloud
-com.irccloud.android
 com.jellybtn.boardkings
 com.jellybtn.cashkingmobile
 com.kayak.android
@@ -4325,8 +4319,6 @@ https://github.com/innocraft/
 https://github.com/iqlusioninc/crates/tree/main/signatory
 https://github.com/iqlusioninc/tmkms
 https://github.com/iqlusioninc/yubihsm.rs
-https://github.com/irccloud/android
-https://github.com/irccloud/ios
 https://github.com/jitsi
 https://github.com/kiwicom/*
 https://github.com/kubernetes-client
@@ -5892,8 +5884,6 @@ io.metamask.Metamask
 io.voiapp.voi
 ir.remitly.com
 ir.ui.com
-irc.irccloud.com
-irccloud.com
 irclogs.wordpress.org
 iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
 is.vidaxl.is
@@ -6786,7 +6776,6 @@ tapi-real.etoro.com
 tax.crypto.com
 taxi.booking.com
 taxis.booking.com
-team-irc.irccloud.com
 team.swapcard.com
 teamportal.nba.com
 teams.krisp.ai
@@ -7150,7 +7139,6 @@ www.iciparisxl.nl
 www.infomaniak.com
 www.instacart.com
 www.intigriti.com
-www.irccloud.com
 www.jaybirdsport.com
 www.kayak.com
 www.kinepolis.be 
