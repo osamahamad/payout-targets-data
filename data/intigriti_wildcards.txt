@@ -34,6 +34,7 @@
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -57,6 +58,17 @@ Leaked/compromised employee accounts *.here.com
 *.parool.nl
 *.humo.be
 *.intel.com
+*.gamma.be/*
+*.gamma.nl/*
+*.intergamma.cloud
+*.intergamma.nl/*
+*.karwei.nl/*
+*.restintergamma.nl
+*.intergamma-test.nl
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
+*.karweioutletstore.nl
 *.klubcinema.fr
 *.megatix.be  
 *.kinepolis.be

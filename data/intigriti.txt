@@ -1,6 +1,7 @@
 Hardware
 Firmware
 Software
+app.aikido.dev
 https://github.com/AikidoSec/firewall-node#Vulnerability
 https://github.com/AikidoSec/firewall-python#Vulnerability
 https://github.com/AikidoSec/firewall-node#Detection Bypass
@@ -11,6 +12,11 @@ myaccount.ad.nl
 webwinkel.ad.nl
 www.ad.nl
 www.ad.nl/abonnementen
+Non Altera Products
+Firmware
+Hardware
+Software
+FPGA Solution Development Tools and Utilities
 https://dealer.prod.ps.axelspringer.de/api/v1/partners/{partnerId}/activation
 https://dealer.prod.ps.axelspringer.de/purchases/004/bild/*
 https://dealer.prod.ps.axelspringer.de/purchases/004/welt/*
@@ -73,6 +79,19 @@ uacademy.ugurus.com
 ugurus.com
 https://justonweb.be/fines/
 Any related DPG media domain
+assessment-api.datacamp.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
+assessment-v2.datacamp.com 
+assessment.datacamp.com
+campus.datacamp.com
+com.datacamp
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
+practice.datacamp.com
+projects.datacamp.com
+www.datacamp.com
+www.datacamp.com/datalab
 myaccount.demorgen.be
 shop.demorgen.be
 www.demorgen.be
@@ -159,6 +178,23 @@ Hardware
 Firmware
 Software
 Services
+949829216
+950680989
+950693949
+be.gamma.app.android
+kassa.gamma.be/*
+kassa.gamma.nl/*
+kassa.karwei.nl/*
+mijn.gamma.be/*
+mijn.gamma.nl/*
+mijn.karwei.nl/*
+nl.gamma.app.android
+nl.karwei.app.android
+www.gamma.be/*
+www.gamma.nl/*
+www.karwei.nl/*
+1558129454
+nl.gamma.verf
 booking.mjrtheatres.com
 extras.landmarkcinemas.com
 identityserver.landmarkcinemas.com
@@ -473,6 +509,14 @@ Brand Sites
 myaccount.vtm.be
 vtm.be/vtmgo
 vtmgo.be
+api-wallet.venly.io
+api.arkane.network
+connect.arkane.network 
+connect.venly.io
+login.arkane.network
+login.venly.io
+wallet.venly.io
+api-wallet-sandbox.venly.io
 1395921017
 https://api.voiapp.io/
 io.voiapp.voi
