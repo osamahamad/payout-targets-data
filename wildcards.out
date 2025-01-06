@@ -4,6 +4,7 @@
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *-api-*.acronis.com
 *-cvr-aws-*.sys.comcast.net
+*. vfsevisa.id
 *.-np.*.lfscnp.com
 *.10bis.co.il
 *.1debit.com
