@@ -1144,6 +1144,7 @@
 547702041
 549057844
 563291345
+564141518
 566635048
 586634331
 589698942
@@ -2255,6 +2256,7 @@ accounts.reddit.com
 accounts.shopify.com
 accounts.snapchat.com
 accounts.stage.evernote.com
+accountsettings.connect.identity.stagaws.visma.com
 acrobat.adobe.com
 acrobatoauth.adobe.com
 actionnaires.vinci.com
@@ -2271,6 +2273,7 @@ admin.rarible.com
 admin.rezserver.com
 admin.shipt.com
 admin.shopify.com
+admin.stage.vismaonline.com
 admin.wickr.com
 admincms.monespacesante.fr
 adminconsole.adobe.com
@@ -2290,8 +2293,10 @@ aff.capital.com
 affiliate-id.tokopedia.com
 agents.tasheer.com
 aggregator.etoro.com
+ai-testing.maventa.com
 ai-tools.infomaniak.com
 ai.kanghealth
+aiassistant.stage.vismaonline.com
 aiq-prod.codebig2.net
 air.com.bitrhymes.bingo
 air.com.buffalo_studios.newflashbingo
@@ -2492,6 +2497,7 @@ api.watsons.com.tw
 api.watsons.vn
 api.wisdomtreeprimeapp.com
 api.wordpress.org
+api.workbox.dk
 api.yoti.com
 api.ys7.com
 api.zellepay.com
@@ -2580,6 +2586,7 @@ app.taxjar.com
 app.theperfumeshop.com
 app.vidaxl.io
 app.watsons.com.tr
+app.workbox.dk
 app3.rewire.to
 applause1.magisto.com
 applications.frame.io
@@ -2639,12 +2646,15 @@ auth0.com
 auth0.gocardless.com
 auth0.net
 auth2.indrive.tech
+authz.workbox.dk
 autocomplete.booking.com
 autodiscover.uzleuven.be
+autointerface.stag.visma.net
 autoupdateapi.lansweeper.com
 avtoelon.uz
 aw.visa.com
 aws.indrive.tech
+ax-stage.maventa.com
 b2b.tvgnetwork.com
 b2b.vidaxl.com
 b5s.hackerone-ext-content.com
@@ -3121,6 +3131,7 @@ com.valvesoftware.Steam
 com.venmo
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
+com.visma.blue
 com.vrbo.android
 com.wealthsimple
 com.wealthsimple.wealthsimple
@@ -3177,6 +3188,7 @@ connect.8x8.com
 connect.arkane.network 
 connect.arubanetworks.com
 connect.deezer.com
+connect.identity.stagaws.visma.com
 connect.secure.wellsfargo.com
 connect.venly.io
 console-backend.truelayer[-sandbox].com
@@ -3337,6 +3349,8 @@ dx-demo.deriv.com
 dx.deriv.com
 e-Commerce
 eIDAS Bridge  (see program description for github link)
+eaccounting.stage.vismaonline.com
+eaccountingprinting.stage.vismaonline.com
 earlywarningapi.force.com
 eassessment.monash.edu
 ebctest.cybersource.com
@@ -5892,6 +5906,7 @@ id1621328561
 id1668462142
 id6472513080
 identity.nba.com
+identity.stage.vismaonline.com
 identity.yoti.com
 identityserver-acc.landmarkcinemas.com
 identityserver.landmarkcinemas.com
@@ -6243,6 +6258,8 @@ mynexuz.be/myUZ/
 mynexuzhealth/id1459856321
 mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
+myservices-api.stage.vismaonline.com
+myservices.stage.vismaonline.com
 nadex.com
 nbafedsvc.nba.com
 neoket.net
@@ -6345,6 +6362,7 @@ npmjs.org
 nz.co.vista.android.movie.mjrtheatres
 oauth-sandbox.gocardless.com
 oauth.deriv.com
+oauth.developers.stagaws.visma.com
 obs-sensors.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 octopus
@@ -6854,6 +6872,7 @@ test.payworks.io
 test.rarible.com
 testapi.redoxengine.com
 testapp.redoxengine.com
+testing.maventa.com
 testnet.bitmex.com
 testnet.immutable.com
 teststs.uzleuven.be
