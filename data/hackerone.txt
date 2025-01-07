@@ -524,6 +524,7 @@ amazon.com/hz/mycd/*
 api.amazonalexa.com/*
 blueprints.amazon.com
 com.amazon.clouddrive.photos
+com.amazon.dee.alexaonwearos
 com.amazon.dee.app
 com.amazon.kindle
 com.amazon.storm.lightning.client.aosp
@@ -1317,11 +1318,7 @@ Figma for Microsoft Teams
 Figma iOS and Android apps
 api.figma.com
 www.figma.com
-1013961111
-1023499075
 1057338687
-1068014324
-1218902777
 1265170914
 1276296103
 1454725763
@@ -1340,14 +1337,12 @@ www.figma.com
 348712880
 358861688
 374254473
-392988420
 510855668
 545519333
 6444868926
 6452192521
 6471528064
 794141485
-926252661
 988788863
 Amazon Subsidiaries (Please only actively test explicitly stated scope)
 Other Amazon Retail Assets (Please only actively test explicitly stated scope)
@@ -1357,7 +1352,6 @@ amazon.speech.sim
 amazonpayinsurance.in
 com.amazon.amazonvideo.livingroom
 com.amazon.avod.thirdpartyclient
-com.amazon.dee.alexaonwearos
 com.amazon.flex.rabbit
 com.amazon.helix.prod
 com.amazon.imdb.tv.mobile.app
@@ -1378,14 +1372,9 @@ com.amazon.technician.android
 com.amazon.vendormobile.android
 com.amazon.vendormobile.india.android
 com.amazon.ziggy.android
-com.eero.android
 com.imdbtv.livingroom
 com.immediasemi.android.blink
 com.localqueen
-com.ring.neighborhoods
-com.ringapp
-com.zappos.android
-com.zappos.android.sixpmFlavor
 https://www.amazonpay.in/*
 in.amazon.mShop.android.business.shopping
 in.amazon.mShop.android.shopping
