@@ -1349,11 +1349,14 @@ Other Amazon Retail Mobile Apps (Please only actively test explicitly stated sco
 Other Amazon Retail Sites (Please only actively test explicitly stated scope)
 amazon.speech.sim
 amazonpayinsurance.in
+com.amazon.amazonone.androidapp
 com.amazon.amazonvideo.livingroom
+com.amazon.astro
 com.amazon.avod.thirdpartyclient
 com.amazon.flex.rabbit
 com.amazon.helix.prod
 com.amazon.imdb.tv.mobile.app
+com.amazon.kisan.app
 com.amazon.mShop.android.business.shopping
 com.amazon.mShop.android.shopping
 com.amazon.minitv.android.app
@@ -1370,6 +1373,7 @@ com.amazon.tahoe.grownups
 com.amazon.technician.android
 com.amazon.vendormobile.android
 com.amazon.vendormobile.india.android
+com.amazon.warhol.android
 com.amazon.ziggy.android
 com.imdbtv.livingroom
 com.localqueen

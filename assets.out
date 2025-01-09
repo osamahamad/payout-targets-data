@@ -2912,7 +2912,9 @@ com.affirm.central.audit
 com.affirm.internal.hackerone
 com.airbnb.android
 com.airbnb.app
+com.amazon.amazonone.androidapp
 com.amazon.amazonvideo.livingroom
+com.amazon.astro
 com.amazon.avod.thirdpartyclient
 com.amazon.clouddrive.photos
 com.amazon.dee.alexaonwearos
@@ -2921,6 +2923,7 @@ com.amazon.flex.rabbit
 com.amazon.helix.prod
 com.amazon.imdb.tv.mobile.app
 com.amazon.kindle
+com.amazon.kisan.app
 com.amazon.mShop.android.business.shopping
 com.amazon.mShop.android.shopping
 com.amazon.minitv.android.app
@@ -2940,6 +2943,7 @@ com.amazon.tails
 com.amazon.technician.android
 com.amazon.vendormobile.android
 com.amazon.vendormobile.india.android
+com.amazon.warhol.android
 com.amazon.ziggy.android
 com.anchorfminc.Anchor
 com.android.browser
