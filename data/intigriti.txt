@@ -432,7 +432,6 @@ shop.trouw.nl
 webwinkel.trouw.nl
 www.trouw.nl
 www.trouw.nl/abonnementen
-Web SDK
 api.truelayer[-sandbox].com
 auth.truelayer[-sandbox].com
 login-api.truelayer[-sandbox].com
@@ -456,6 +455,7 @@ truelayer-signing
 webhooks.truelayer[-sandbox].com
 iOS SDK
 React Native SDK
+Web SDK
 Rust SDK
 134.58.179.102-103
 autodiscover.uzleuven.be
