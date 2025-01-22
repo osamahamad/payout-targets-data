@@ -26,6 +26,10 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.meraki.com
 *.ikarem.io
 *.network-auth.com
+*.classdojo.com
+*.classdojo.co.uk
+*.doj.io
+*.dojo.me
 *.xfinity.com	
 *.comcast.com
 *.xcal.tv
@@ -107,7 +111,6 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.-np.*.lfscnp.com
 *.linktree-extensions.com
 *.plannthat.com
-*.lululemon.com
 bugcrowd-*your-own-instance*.cloud.mattermost.com/
 *.nr-data.net
 *.nr-ops.net
@@ -143,7 +146,6 @@ prod-*.nu.com.co
 *.points.com
 *.privateinternetaccess.com
 *.quizlet.com
-*.slader.com
 *.rapyd.net
 *.neatcommerce.com
 *.korta.is
@@ -195,6 +197,7 @@ api-*.soundcloud.com
 *.bokuntest.com
  *.sip.*.twilio.com
  Twilio CDNs (static*.twilio.com)
+*.api.ua.com/
 *.gtld-servers.net (DNS service; DNS related)
 *.verisign-grs.com (DNS service; DNS related)
 *.viatorinc.com

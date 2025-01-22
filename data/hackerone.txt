@@ -14,6 +14,7 @@ https://apps.apple.com/us/app/onduo/id1138490045
 https://apps.apple.com/us/app/verily-me/id6448808133
 https://play.google.com/store/apps/details?id=com.google.android.apps.diabetes
 https://play.google.com/store/apps/details?id=com.verily.me
+http://bumba.global
 Starbucks Japan Android
 Starbucks Japan iOS
 cart.starbucks.co.jp
@@ -21,6 +22,46 @@ gift.starbucks.co.jp
 login.starbucks.co.jp
 www.cart.starbucks.co.jp/
 www.starbucks.co.jp
+Starbucks Australia Android
+Starbucks Australia iOS
+Starbucks Cambodia Android
+Starbucks Cambodia iOS
+Starbucks Hong Kong Android
+Starbucks Hong Kong iOS
+Starbucks India Android
+Starbucks India iOS
+Starbucks Indonesia Android
+Starbucks Indonesia iOS
+Starbucks Korea Android
+Starbucks Malaysia Android
+Starbucks Malaysia iOS
+Starbucks New Zealand Android
+Starbucks New Zealand iOS
+Starbucks Philippines Android
+Starbucks Philippines iOS
+Starbucks Singapore Android
+Starbucks Singapore iOS
+Starbucks Taiwan Android
+Starbucks Taiwan iOS
+Starbucks Thailand Android
+Starbucks Thailand iOS
+Starbucks Vietnam Android
+Starbucks Vietnam iOS
+www.starbucks.co.id/
+www.starbucks.co.kr/
+www.starbucks.co.nz/
+www.starbucks.co.th/
+www.starbucks.com.au/
+www.starbucks.com.bn/
+www.starbucks.com.hk/
+www.starbucks.com.kh/
+www.starbucks.com.my/
+www.starbucks.com.sg/
+www.starbucks.com.tw/
+www.starbucks.in/
+www.starbucks.la/
+www.starbucks.ph/
+www.starbucks.vn/
 Starbucks Austria Android App
 Starbucks Austria iOS
 Starbucks Czech Republic
@@ -83,6 +124,27 @@ www.starbucks.ro
 www.starbucks.rs
 www.starbucks.sa
 www.starbucksslovakia.sk/
+Starbucks Argentina Android
+Starbucks Argentina iOS
+Starbucks Chile Android
+Starbucks Chile iOS
+Starbucks El Salvador Android
+Starbucks El Salvador iOS
+Starbucks Mexico Android
+Starbucks Mexico iOS
+Starbucks Peru Android
+Starbucks Peru iOS
+www.starbucks.cl
+www.starbucks.co.cr/
+www.starbucks.com.ar/
+www.starbucks.com.mx/
+www.starbucks.com.py/
+www.starbucks.com.sv
+www.starbucks.com.uy
+www.starbucks.pa/
+www.starbucks.pe
+www.starbucks.tt
+www.starbuckspr.com/
 Starbucks China Android
 Starbucks China iOS
 www.starbucks.com.cn/
@@ -156,6 +218,9 @@ https://etherscan.io/address/0x000000e92d78d90000007f0082006fda09bd5f11
 https://etherscan.io/address/0x0046000000000151008789797b54fdb500E2a61e
 https://etherscan.io/address/0xcE0000007B008F50d762D155002600004cD6c647
 https://github.com/alchemyplatform/modular-account
+auth.privy.io
+dashboard.privy.io
+https://www.npmjs.com/package/@privy-io/react-auth
 Affiliates or entities such as recently acquired companies
 Content Authorization Targets
 Content authorization vulnerabilities affecting only the in-browser player
@@ -194,6 +259,17 @@ you.23andme.com
 1641486558
 com.einnovation.temu
 www.temu.com
+http://api.lightspark.com
+http://app.lightspark.com
+https://github.com/lightsparkdev/go-sdk
+https://github.com/lightsparkdev/lightspark-rs
+https://github.com/lightsparkdev/python-sdk
+https://link.uma.me
+lightsparkdev/flutter-sdk
+lightsparkdev/js-sdk
+lightsparkdev/kotlin-sdk
+lightsparkdev/lightspark-crypto-uniffi
+lightsparkdev/swift-wallet-sdk
 Web3 Smart Contract
 https://apps.apple.com/us/app/bybit-app/id1488296980
 https://play.google.com/store/apps/details?id=com.bybit.app&hl=en
@@ -442,9 +518,6 @@ ro.superbet.sport
 Magic Eden Wallet (Chrome Extension)
 eng.magiceden.dev
 eng.magiceden.io
-https://github.com/coralcube-oss/mmm/releases/latest
-https://github.com/magiceden-oss/erc721m/releases/latest
-https://github.com/magiceden-oss/open_creator_protocol/releases/latest
 magiceden.io
 1431768824
 563291345
@@ -673,6 +746,7 @@ Wickr Pro iOS
 Wickr Pro/Wickr Me (all related technical components) (up to)
 admin.wickr.com
 www.wickr.com
+http://greenchannel.payoneer.com.cn/gcportal
 payoneer.com.cn
 api.moonpay.com
 app.moonpay.com
@@ -822,6 +896,8 @@ smtp2go.com
 1223338261
 1413287364
 1438744533
+1448884851
+1474700 (Steam app id)
 1508620125
 1510325826
 1v1.lol
@@ -836,6 +912,7 @@ smtp2go.com
 719525810
 868013618
 975035622
+9nqwjwnqjj5n
 air.com.buffalo_studios.newflashbingo
 air.com.playtika.cvs
 air.com.playtika.slotomania
@@ -849,6 +926,7 @@ com.pacificinteractive.HouseOfFun
 com.playtika.caesarscasino
 com.playtika.wsop.gp
 com.wooga.pearlsperil
+com.youdagames.monopolypoker
 fi.reworks.redecor
 gnocchi-www.buffalo-ggn.net
 https://apps.facebook.com/pearls-peril
@@ -1303,15 +1381,6 @@ https://github.com/skalenetwork/libBLS
 https://github.com/skalenetwork/sgxwallet
 https://github.com/skalenetwork/skale-consensus
 https://github.com/skalenetwork/skale-manager/tree/develop/contracts
-accounts.insightly.com
-crm.na1.insightly.com
-http://api.insightly.com/v3.1/
-http://api.na1.insightly.com/v3.1/
-login.insightly.com
-marketing.na1.insightly.com
-mobileapi.insightly.com
-mobileapi.na1.insightly.com
-outlook.insightly.com
 Figma Atlassian App
 Figma Desktop App
 Figma Slack App
@@ -1889,8 +1958,8 @@ supportal.netlify.app
 4njbets.us.betfair.com
 599664106
 b2b.tvgnetwork.com
-com.fanduel.android.live
 com.fanduel.android.self
+com.fanduel.sportsbook
 fanduel.com
 fdbox.net
 ia.tvg.com
@@ -1922,7 +1991,7 @@ https://www.creditkarma.com/reviews/
 https://www.creditkarma.com/savings
 support.creditkarma.ca
 www.creditkarma.ca
-Mercado Pago Apps Endpoints
+Crypto
 Point Smart
 api.mercadolibre.com
 api.mercadopago.com
@@ -1932,20 +2001,19 @@ com.mercadoenvios.driver
 com.mercadolibre
 com.mercadopago.MercadoPago
 com.mercadopago.wallet
-www.mercadolibre.cl
-www.mercadolibre.com.ar
-www.mercadolibre.com.co
-www.mercadolibre.com.mx
-www.mercadolibre.com.pe
-www.mercadolibre.com.uy
-www.mercadolivre.com.br
-www.mercadopago.cl
-www.mercadopago.com.ar
-www.mercadopago.com.br
-www.mercadopago.com.co
-www.mercadopago.com.mx
-www.mercadopago.com.pe
-www.mercadopago.com.uy
+logistica.redelcom.cl
+www.mercadolibre.co.cr
+www.mercadolibre.com.bo
+www.mercadolibre.com.do
+www.mercadolibre.com.ec
+www.mercadolibre.com.gt
+www.mercadolibre.com.hn
+www.mercadolibre.com.ni
+www.mercadolibre.com.pa
+www.mercadolibre.com.py
+www.mercadolibre.com.sv
+www.mercadolivre.com
+www.mercadopago.com.ec
 1032480595
 982922982
 com.urbanclap.provider
@@ -2119,8 +2187,6 @@ holidays-sg.fijiairways.com
 holidays-us.fijiairways.com
 hyatt.com
 jira.hyattdev.com
-login.en.travelbrandsagent.com
-login.fr.travelbrandsagent.com
 login.www.vaxvacationaccess.com
 meetings.hyatt.com
 mobileapp.hyatt.com
@@ -2129,8 +2195,6 @@ newsroom.images.hyatt.com
 plannerrequest.hyatt.com
 public.hyatt.com
 res.blueskytours.globalbookingsolutions.com
-res.en.travelbrandsagent.com
-res.fr.travelbrandsagent.com
 res.funjet.com
 res.hyattinclusivecollection.com
 res.nowresorts.com
@@ -2800,6 +2864,7 @@ pwapi.ex2b.com
 social-trading.exness.com
 Games Tier 1
 Games Tier 2
+Games Tier 3
 air.com.bitrhymes.bingo
 com.aqupepgames.projectpepe
 com.aqupepgames.projectpepe

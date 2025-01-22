@@ -2,12 +2,6 @@ Hardware
 Firmware
 Software
 app.aikido.dev
-https://github.com/AikidoSec/firewall-node#Vulnerability
-https://github.com/AikidoSec/firewall-python#Vulnerability
-https://github.com/AikidoSec/firewall-node#Detection Bypass
-https://github.com/AikidoSec/firewall-python#Detection Bypass
-https://github.com/AikidoSec/firewall-node#False Positive
-https://github.com/AikidoSec/firewall-python#False Positive
 myaccount.ad.nl
 webwinkel.ad.nl
 www.ad.nl
@@ -69,14 +63,12 @@ open-api.capital.com
 aff.capital.com
 go.capital.com
 register.capital.com
-css-tricks.com
 api.cloudways.com
 developers.cloudways.com
 platform.cloudways.com
 unified.cloudways.com
 www.cloudways.com
-uacademy.ugurus.com
-ugurus.com
+css-tricks.com
 https://justonweb.be/fines/
 Any related DPG media domain
 assessment-api.datacamp.com
@@ -273,19 +265,6 @@ mynexuz.be/myUZ/
 mynexuzhealth/id1459856321
  idp-contact.nexuzhealth.be
 media.nexuzhealth.be/patient/ 
-analytics.ninjakiwi.com
-api.ninjakiwi.com
-builds-auckland.ninja.kiwi
-guts.ninjakiwi.com
-battles.tv
-data.ninjakiwi.com
-ninja.kiwi
-ninjakiwi.com
-alerts.ninjakiwi.com
-boomer2.ninjakiwi.com
-ct.ninjakiwi.com
-mynk-dash.ninjakiwi.com
-mynk.ninjakiwi.com
 1079537578
 https://oda.com
 no.kolonial.tienda
@@ -409,13 +388,18 @@ macOS app
  aweb.suivo.com
 asupport.suivo.com
 artists.tomorrowland.com/production-website/33117
-cognito-idp.eu-west-1.amazonaws.com
+belgium.tomorrowland.com
+brasil.tomorrowland.com
 com.tomorrowland.oneworldradio
 globaljourney.tomorrowland.com
 my.tomorrowland.com
 one-world-radio-tomorrowland/id1485778856
 oneworldradio.tomorrowland.com
 sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com
+tlbe.prod.tomorrowland.com
+tlbr.prod.tomorrowland.com
+tlfr.prod.tomorrowland.com
+winter.tomorrowland.com
 winterpackages.tomorrowland.com
 www.tomorrowland.com
 components.stag.tomorrowland.com
@@ -548,6 +532,17 @@ https://pit.water-link.be/
 https://www.water-link-jaarverslag.be
 https://www.water-link.be
 https://www.waterstoring.be/
+authentication.wolt.com
+wolt.com
+corporate.wolt.com
+drive.wolt.com
+merchant.wolt.com
+ops.wolt.com
+restaurant-api.wolt.com
+1477299281
+943905271
+com.wolt.android
+com.wolt.courierapp
 7 News
 AOL (misc)
 AOL Help
