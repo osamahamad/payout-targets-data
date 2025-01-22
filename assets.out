@@ -677,7 +677,6 @@
 *.personio.de
 *.personio.tools
 *.personiowhistleblowing.com
-*.pinterest.com Web Apps
 *.plannthat.com
 *.platformservices.io
 *.playstation.net
@@ -2551,7 +2550,6 @@ api.monespacesante.fr
 api.moonpay.com
 api.netlify.com
 api.ovh.com
-api.pinterest.com
 api.pns.hk
 api.portofantwerp.com
 api.portofantwerpbruges.com
@@ -3818,7 +3816,6 @@ https://accounts.opera.com
 https://accounts.welcomesoftware.com/
 https://acorns.com/
 https://addons.mozilla.org/en-US/firefox/addon/cyberghost-vpn-free-proxy/
-https://addons.mozilla.org/en-US/firefox/addon/pinterest/
 https://addons.mozilla.org/en-US/firefox/addon/private-internet-access-ext/
 https://addons.opera.com/en/extensions/details/private-internet-access-extension/
 https://adhoc-bugcrowd-studio.cdn-code.org
@@ -4063,7 +4060,6 @@ https://apps.apple.com/us/app/okta-verify/id490179405
 https://apps.apple.com/us/app/onduo/id1138490045
 https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
 https://apps.apple.com/us/app/paper-by-dropbox/id1126623662
-https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
 https://apps.apple.com/us/app/share-rewards/id1465450657
@@ -4199,7 +4195,6 @@ https://checkout.glossybox.com
 https://checkout.myvitamins.com
 https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad
 https://chrome.google.com/webstore/detail/ibotta-browser-extension/mfaedmjlefifhnhpgipjjiiekchaimpk?hl=en-US
-https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en
 https://chrome.google.com/webstore/detail/private-internet-access/jplnlifepflhkbkgonidnobkakhmpnmh
 https://chrome.google.com/webstore/detail/stay-secure-with-cybergho/ffbkglfijbcbgblgflchnbphjdllaogb
 https://chrome.google.com/webstore/detail/xverse-wallet/idnnbdplmphpflfnlkomgpfbpcgelopg
@@ -4633,7 +4628,6 @@ https://github.com/owncloud/web-extensions
 https://github.com/pendulum-project/clock-steering
 https://github.com/pendulum-project/ntpd-rs
 https://github.com/pendulum-project/timestamped-socket
-https://github.com/pinterest/
 https://github.com/pixiv/charcoal
 https://github.com/plaid/plaid-link-android
 https://github.com/plaid/plaid-link-examples
@@ -5177,7 +5171,6 @@ https://metrobyt-mobile.com
 https://metroconnect.app.ridewithvia.com
 https://mg.n0c.com/
 https://mguest.usaa.com/
-https://microsoftedge.microsoft.com/addons/detail/pinterest-save-button/bkgoflemacdadndiohhdnphcmdhacabg
 https://mids.monash.edu/
 https://mintmobile.com
 https://mlivetickets.monash.edu
@@ -5377,8 +5370,6 @@ https://play.google.com/store/apps/details?id=com.paymaya
 https://play.google.com/store/apps/details?id=com.pinegift
 https://play.google.com/store/apps/details?id=com.pinelabs.emicatalogue.pinelabs&hl=uz
 https://play.google.com/store/apps/details?id=com.pinelabs.pinelabsone
-https://play.google.com/store/apps/details?id=com.pinterest&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.pinterest.twa&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&hl=en
 https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid
 https://play.google.com/store/apps/details?id=com.scu.bsafe
@@ -6847,6 +6838,8 @@ staging-db.vidaxl.io
 staging-shop.shipt.com
 staging-shoppingcart.shipt.com
 staging.airtable.com
+staging.auth.coindesk.com
+staging.coindesk.com
 staging.kidswebservices.com
 staging.magisto.com
 staging.travix.com & stg.travix.com & dev.travix.com & development.travix.com & playground.travix.com
