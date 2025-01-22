@@ -3585,7 +3585,6 @@ fab.com
 falcon-sandbox.com
 fanduel.com
 fareharborsites.com
-fashion4less.me
 faucet-api.polygon.technology/
 faucet.polygon.technology
 fdbox.net
@@ -3873,7 +3872,6 @@ https://api-ch-gva-2.exoscale.com/v2
 https://api-evm.orderly.org/
 https://api-js.datadome.co
 https://api-prod.retailsso.com
-https://api-prod.thatconceptstore.com/
 https://api-staging.pingone.com/*
 https://api-test.nicehash.com
 https://api-user.e2ro.com/*
@@ -3990,7 +3988,6 @@ https://apps.apple.com/app/chia-signer/id6504493785
 https://apps.apple.com/app/id1216446440
 https://apps.apple.com/app/id1359583808
 https://apps.apple.com/app/id1450306065
-https://apps.apple.com/app/id1503045795
 https://apps.apple.com/app/id1635031432
 https://apps.apple.com/app/infomaniak-kdrive/id1482778676
 https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693
@@ -4211,6 +4208,9 @@ https://central.sophos.com/
 https://cfc.naspers.com/
 https://chat.openai.com
 https://chatspot.ai
+https://checkout.eyeko.com
+https://checkout.glossybox.com
+https://checkout.myvitamins.com
 https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad
 https://chrome.google.com/webstore/detail/ibotta-browser-extension/mfaedmjlefifhnhpgipjjiiekchaimpk?hl=en-US
 https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en
@@ -4779,7 +4779,6 @@ https://kw-bugcrowd-pub.bounty.kiteworks.dev/
 https://l.usaa.com/
 https://lab.epam.com
 https://landrover.here.com
-https://lapi.yellowblocks.me
 https://laptop-updates.brave.com/latest/dev/debian64
 https://laptop-updates.brave.com/latest/dev/ubuntu64
 https://laptop-updates.brave.com/latest/fedora64
@@ -5376,7 +5375,6 @@ https://play.google.com/store/apps/details?id=com.lastpass.lpandroid
 https://play.google.com/store/apps/details?id=com.lime.supply&hl=en_US
 https://play.google.com/store/apps/details?id=com.limebike
 https://play.google.com/store/apps/details?id=com.maf.share&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.maf.thatandroid
 https://play.google.com/store/apps/details?id=com.moneyboxapp
 https://play.google.com/store/apps/details?id=com.moonpay
 https://play.google.com/store/apps/details?id=com.newrelic.rpm
@@ -5599,7 +5597,6 @@ https://test.nicehash.com/shop/
 https://testflight.apple.com/join/533gFghn
 https://testflight.apple.com/join/FuaxsScP
 https://tfb.t-mobile.com
-https://thatconceptstore.com
 https://thinkglobalhealth.org
 https://thueringer-foerderportal.eu
 https://ticket.multiplayer.classdojo.com
@@ -5712,9 +5709,9 @@ https://wsloja.ifood.com.br
 https://wsmbr.usaa.com/
 https://www.*mongodb.com/*
 https://www.20min.ch
-https://www.allsaints.me/
 https://www.amazon.com/luna/*
 https://www.amazonpay.in/*
+https://www.ameliorate.com/
 https://www.ankermake.com/products/m5?variant=42744298373269
 https://www.anytask.com/
 https://www.api.hpr.kiwai-normandie.fr/
@@ -5739,6 +5736,7 @@ https://www.atlassian.com/software/jira/service-management
 https://www.atlassian.com/software/jira/work-management
 https://www.atlassian.com/software/rovo
 https://www.australiansuper.com/
+https://www.beautyexpert.com/
 https://www.beta.tchap.gouv.fr
 https://www.bigcommerce.com
 https://www.binance.com/
@@ -5753,16 +5751,15 @@ https://www.bluehost.com/
 https://www.bookbeat.com
 https://www.bwin.com
 https://www.carrefouruae.com/
-https://www.cb2.ae/en
 https://www.cfr.org/
 https://www.classdojo.com
 https://www.cloudvector.com/
 https://www.contrastsecurity.com/
 https://www.coral.co.uk
 https://www.coral.co.uk/en/games
-https://www.crateandbarrel.me
 https://www.creditkarma.com/reviews/
 https://www.creditkarma.com/savings
+https://www.cultbeauty.co.uk/
 https://www.cyber.gouv.qc.ca
 https://www.cyberghostvpn.com/
 https://www.cyberghostvpn.com/en_US/apps/linux-vpn
@@ -5774,6 +5771,7 @@ https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=ar
 https://www.demarches-simplifiees.fr
 https://www.demarches-simplifiees.fr/api/v2/graphql
 https://www.demarches-simplifiees.fr/graphql
+https://www.dermstore.com
 https://www.designify.com
 https://www.driveuconnect.com
 https://www.driveuconnect.eu
@@ -5785,10 +5783,13 @@ https://www.dropbox.com/capture
 https://www.dropbox.com/desktop
 https://www.dropbox.com/paper
 https://www.epam.com/
+https://www.espaskincare.com/
 https://www.etsy.com
 https://www.etsy.com/developers/documentation/getting_started/api_basics
 https://www.etsy.com/mobile
+https://www.exantediet.com/
 https://www.expressvpn.com
+https://www.eyeko.com/
 https://www.finicity.com
 https://www.fishbowlapp.com/*
 https://www.foreignaffairs.com/
@@ -5796,15 +5797,19 @@ https://www.galabingo.com
 https://www.galacasino.com
 https://www.gamemaker.io
 https://www.glassdoor.com/*
+https://www.glossybox.com/
 https://www.gohenry.com/
 https://www.governmentjobs.com
+https://www.growgorgeous.com/
 https://www.hostgator.com.br/
 https://www.hostgator.com/
 https://www.hpr.kiwai-normandie.fr/
+https://www.hqhair.com/
 https://www.iciparisxl.be/blog/
 https://www.iciparisxl.lu/blog/
 https://www.iciparisxl.nl/blog/
 https://www.ifood.com.br
+https://www.illamasqua.com/
 https://www.intercom.com/
 https://www.just-eat.co.uk
 https://www.just-eat.ie
@@ -5828,9 +5833,9 @@ https://www.lastpass.com
 https://www.letspaylater.ph/
 https://www.li.me/
 https://www.lieferando.de/thetakeaway/
-https://www.lululemon.me
 https://www.magicplanetmena.com/
 https://www.malloftheemirates.com
+https://www.mankind.co.uk/
 https://www.mapbox.com/mapbox-gl-js/
 https://www.marionnaud.at/blog/
 https://www.marionnaud.at/m-life/
@@ -5851,8 +5856,11 @@ https://www.mastercard.com.au/en-au.html
 https://www.mastercard.nl/nl-nl.html
 https://www.mastercard.us/en-us.html
 https://www.microsoft.com/en-us/p/keeperchat/9pdqtcpn4kxn#activetab=pivot:overviewtab
+https://www.mioskincare.com/
 https://www.monash.edu
 https://www.monashprofessional.edu.au/
+https://www.mybag.com/
+https://www.myvitamins.com/
 https://www.namejet.com/
 https://www.networksolutions.com
 https://www.nintendo.com/us/store/products/rec-room-switch/
@@ -5880,6 +5888,7 @@ https://www.pixpay.fr/
 https://www.planethoster.com
 https://www.pornhub.com/
 https://www.pornhubpremium.com/
+https://www.powerman.co.uk/
 https://www.ppr.kiwai-enr.fr/
 https://www.premogiftcards.com
 https://www.privateinternetaccess.com/
@@ -5892,9 +5901,9 @@ https://www.remove.bg
 https://www.restaurant-information.com
 https://www.sdx.com/
 https://www.sharerewards.com/
-https://www.shiseido.me/
 https://www.simplify.com/commerce/ 
 https://www.skidxb.com/
+https://www.skinstore.com/
 https://www.skroutz.gr/
 https://www.sncf-connect.com
 https://www.sncf-connect.com/bff
@@ -5916,6 +5925,7 @@ https://www.takeaway.com/foodwiki/
 https://www.tchap.gouv.fr
 https://www.teamviewer.com/en/products/teamviewer/
 https://www.thefork.com/
+https://www.thehut.com/
 https://www.theperfumeshop.com/blog/
 https://www.theperfumeshop.com/ie/blog/
 https://www.thousandeyes.com/
@@ -6123,7 +6133,6 @@ launch.playcanvas.com
 launchpad.37signals.com
 lawmanager.marriott.com
 learningmanager.adobe.com
-lego.me
 leonard.vinci.com
 libsoup
 libsystemd
@@ -6620,7 +6629,6 @@ prometheus.fr.cloud.gov
 promos.tvg.com
 prow.k8s.io
 proxy-production.lime.bike
-psychobunny.me
 public.hyatt.com
 push-d-gw.cloud.etoro.com
 push-d-hap.cloud.etoro.com
