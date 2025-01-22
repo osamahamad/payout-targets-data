@@ -481,7 +481,6 @@
 *.khealth.com
 *.khealth.io/
 *.khealth.us/
-*.kiln.it
 *.kinepolis.be
 *.kinepolis.ch
 *.kinepolis.com
@@ -3585,6 +3584,7 @@ fab.com
 falcon-sandbox.com
 fanduel.com
 fareharborsites.com
+fashion4less.me
 faucet-api.polygon.technology/
 faucet.polygon.technology
 fdbox.net
@@ -3605,8 +3605,6 @@ firefly.adobe.com
 firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 flights.booking.com
-flourish-user-preview.com
-flourish-user-templates.com
 flyiin.com
 fm.anchor.android
 fonts.adobe.com
@@ -3872,6 +3870,7 @@ https://api-ch-gva-2.exoscale.com/v2
 https://api-evm.orderly.org/
 https://api-js.datadome.co
 https://api-prod.retailsso.com
+https://api-prod.thatconceptstore.com/
 https://api-staging.pingone.com/*
 https://api-test.nicehash.com
 https://api-user.e2ro.com/*
@@ -3988,6 +3987,7 @@ https://apps.apple.com/app/chia-signer/id6504493785
 https://apps.apple.com/app/id1216446440
 https://apps.apple.com/app/id1359583808
 https://apps.apple.com/app/id1450306065
+https://apps.apple.com/app/id1503045795
 https://apps.apple.com/app/id1635031432
 https://apps.apple.com/app/infomaniak-kdrive/id1482778676
 https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693
@@ -4364,8 +4364,6 @@ https://filezilla-project.org/download.php?type=server&show_all=1
 https://financeiro.hostgator.com.br
 https://financialforce.com
 https://flags.expeng.optimizely.com
-https://flo.uri.sh
-https://flourish.studio/
 https://flow.opera.com
 https://form.asana.com
 https://formative.eassessment.monash.edu/
@@ -4779,6 +4777,7 @@ https://kw-bugcrowd-pub.bounty.kiteworks.dev/
 https://l.usaa.com/
 https://lab.epam.com
 https://landrover.here.com
+https://lapi.yellowblocks.me
 https://laptop-updates.brave.com/latest/dev/debian64
 https://laptop-updates.brave.com/latest/dev/ubuntu64
 https://laptop-updates.brave.com/latest/fedora64
@@ -5375,6 +5374,7 @@ https://play.google.com/store/apps/details?id=com.lastpass.lpandroid
 https://play.google.com/store/apps/details?id=com.lime.supply&hl=en_US
 https://play.google.com/store/apps/details?id=com.limebike
 https://play.google.com/store/apps/details?id=com.maf.share&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.maf.thatandroid
 https://play.google.com/store/apps/details?id=com.moneyboxapp
 https://play.google.com/store/apps/details?id=com.moonpay
 https://play.google.com/store/apps/details?id=com.newrelic.rpm
@@ -5597,6 +5597,7 @@ https://test.nicehash.com/shop/
 https://testflight.apple.com/join/533gFghn
 https://testflight.apple.com/join/FuaxsScP
 https://tfb.t-mobile.com
+https://thatconceptstore.com
 https://thinkglobalhealth.org
 https://thueringer-foerderportal.eu
 https://ticket.multiplayer.classdojo.com
@@ -5709,6 +5710,7 @@ https://wsloja.ifood.com.br
 https://wsmbr.usaa.com/
 https://www.*mongodb.com/*
 https://www.20min.ch
+https://www.allsaints.me/
 https://www.amazon.com/luna/*
 https://www.amazonpay.in/*
 https://www.ameliorate.com/
@@ -5751,12 +5753,14 @@ https://www.bluehost.com/
 https://www.bookbeat.com
 https://www.bwin.com
 https://www.carrefouruae.com/
+https://www.cb2.ae/en
 https://www.cfr.org/
 https://www.classdojo.com
 https://www.cloudvector.com/
 https://www.contrastsecurity.com/
 https://www.coral.co.uk
 https://www.coral.co.uk/en/games
+https://www.crateandbarrel.me
 https://www.creditkarma.com/reviews/
 https://www.creditkarma.com/savings
 https://www.cultbeauty.co.uk/
@@ -5833,6 +5837,7 @@ https://www.lastpass.com
 https://www.letspaylater.ph/
 https://www.li.me/
 https://www.lieferando.de/thetakeaway/
+https://www.lululemon.me
 https://www.magicplanetmena.com/
 https://www.malloftheemirates.com
 https://www.mankind.co.uk/
@@ -5901,6 +5906,7 @@ https://www.remove.bg
 https://www.restaurant-information.com
 https://www.sdx.com/
 https://www.sharerewards.com/
+https://www.shiseido.me/
 https://www.simplify.com/commerce/ 
 https://www.skidxb.com/
 https://www.skinstore.com/
@@ -5973,7 +5979,6 @@ https://www.zabbix.com/download_sources
 https://wwws-staging.moneytree.jp/link/
 https://wwws-staging.moneytree.jp/link/mobile/
 https://wwws-staging.moneytree.jp/link/mobile/#/signup?client_id=38d99a6e8e9fc87c866f5aa82bdc2569c464b2323a55e0b28f658efa678e9623&redirect_uri=https://wwws-staging.moneytree.jp/link/mobile/callback&response_type=token&scope=guest_read+accounts_read+transactions_read+request_refresh
-https://xyzbmojn.net/
 https://yeswehack.com
 https://youcouldbe.com
 https:/pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-acces-info/
@@ -6133,6 +6138,7 @@ launch.playcanvas.com
 launchpad.37signals.com
 lawmanager.marriott.com
 learningmanager.adobe.com
+lego.me
 leonard.vinci.com
 libsoup
 libsystemd
@@ -6629,6 +6635,7 @@ prometheus.fr.cloud.gov
 promos.tvg.com
 prow.k8s.io
 proxy-production.lime.bike
+psychobunny.me
 public.hyatt.com
 push-d-gw.cloud.etoro.com
 push-d-hap.cloud.etoro.com
