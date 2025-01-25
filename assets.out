@@ -164,7 +164,6 @@
 *.braintreepayments.com
 *.bredbandsbolaget.se
 *.buddypress.org,bbpress.org,profiles.wordpress.org
-*.bugcrowd.com/auth/*
 *.byairbnb.com
 *.bybit.com
 *.bykea.net
@@ -237,6 +236,7 @@
 *.crypto.com
 *.cryptopunks.app
 *.cubicmotion.com
+*.cyberghost.com
 *.cyrus-security.com
 *.dailyadvent.com
 *.dailymotion.com
@@ -1556,6 +1556,10 @@ Crypto.com Exchange APIs that require an account
 Crypto.com Wallet Extension
 Crypto.com mobile app APIs that require an account
 Customer connected domain (2)
+CyberGhost APIs
+CyberGhost PS3+PS4 apps
+CyberGhost VPN servers
+CyberGhost Xbox One + Xbox360 apps
 DS proxy (see https://github.com/demarches-simplifiees/ds_proxy)
 DSE, Opscenter
 Data Loss Prevention (DLP)
@@ -3376,6 +3380,7 @@ customers.gitlab.com
 customerupdates.nextcloud.com
 cw.visa.com
 cweb-ott.nba.com
+cyberghost.app
 cyclonedx-bom
 cysiv.com
 cz.skodaauto.myskoda
@@ -3817,6 +3822,7 @@ https://accounts.lastpass.com
 https://accounts.opera.com
 https://accounts.welcomesoftware.com/
 https://acorns.com/
+https://addons.mozilla.org/en-US/firefox/addon/cyberghost-vpn-free-proxy/
 https://addons.mozilla.org/en-US/firefox/addon/pinterest/
 https://addons.mozilla.org/en-US/firefox/addon/private-internet-access-ext/
 https://addons.opera.com/en/extensions/details/private-internet-access-extension/
@@ -3865,7 +3871,6 @@ https://api.anytask.com/
 https://api.anytask.thesecurityteam.rocks
 https://api.bitpanda.com
 https://api.blablalines.com
-https://api.bugcrowd.com
 https://api.bykea.net
 https://api.classdojo.com
 https://api.clearpay.com
@@ -4041,6 +4046,7 @@ https://apps.apple.com/us/app/dropbox-secure-cloud-storage/id327630330
 https://apps.apple.com/us/app/ecwid-ecommerce/id626731456
 https://apps.apple.com/us/app/electroneum/id1270774992
 https://apps.apple.com/us/app/hubspot/id1107711722
+https://apps.apple.com/us/app/id583009522
 https://apps.apple.com/us/app/indeed-connect-for-employers/id6443822731
 https://apps.apple.com/us/app/indeed-job-search/id309735670
 https://apps.apple.com/us/app/jira-cloud-by-atlassian/id1006972087
@@ -4154,7 +4160,6 @@ https://bugcrowd-oie-%username%-2.workflows.oktapreview.com
 https://bugcrowd-pam-###.at.oktapreview.com
 https://bugcrowd-pam-###.oktapreview.com
 https://bugcrowd-pam-###.workflows.oktapreview.com
-https://bugcrowd.com/programs
 https://bugcrowd.hotdoc.com.au
 https://bugcrowd.hotdoc.com.au/api
 https://bugcrowd.hotdoc.com.au/dashboard
@@ -4195,6 +4200,7 @@ https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeo
 https://chrome.google.com/webstore/detail/ibotta-browser-extension/mfaedmjlefifhnhpgipjjiiekchaimpk?hl=en-US
 https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en
 https://chrome.google.com/webstore/detail/private-internet-access/jplnlifepflhkbkgonidnobkakhmpnmh
+https://chrome.google.com/webstore/detail/stay-secure-with-cybergho/ffbkglfijbcbgblgflchnbphjdllaogb
 https://chrome.google.com/webstore/detail/xverse-wallet/idnnbdplmphpflfnlkomgpfbpcgelopg
 https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcmnfgpnmkkhmkllnlflef
 https://clearpay.co.uk
@@ -4243,6 +4249,7 @@ https://csp-prod.codebig2.net
 https://customer-api.datadome.co
 https://customerportal.winconnect.com.au/login
 https://customers.us1.fga.dev/
+https://cyberghost.com
 https://d1.utv.usaa.com
 https://d2.utv.usaa.com
 https://daily.blablacar.fr
@@ -4284,7 +4291,6 @@ https://digits.t-mobile.com
 https://digits.t-mobile.com/
 https://dimensions.cloudinary.com
 https://directlink.eu-west-2.outscale.com
-https://docs.bugcrowd.com/
 https://docs.eazybi.com/
 https://docs.immutable.com/
 https://docs.keeper.io/en/v/secrets-manager
@@ -4709,7 +4715,6 @@ https://hug.personio.com
 https://icu.eu-west-2.outscale.com
 https://id.atlassian.com/login
 https://id.unity.com
-https://identity.bugcrowd.com/
 https://identity.majidalfuttaim.com
 https://identity.monash.edu
 https://identity.monash.edu/
@@ -5400,6 +5405,7 @@ https://play.google.com/store/apps/details?id=com.worldcoin
 https://play.google.com/store/apps/details?id=com.xfinity.digitalhome&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.yopeso.lieferando&hl=en_US
 https://play.google.com/store/apps/details?id=de.cellular.ottohybrid&hl=de
+https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost
 https://play.google.com/store/apps/details?id=deezer.android.app
 https://play.google.com/store/apps/details?id=edu.monash.monashmobile
 https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta
@@ -5575,7 +5581,6 @@ https://tidal.com/
 https://tms.onecloud.harman.com
 https://toom.de
 https://tr.ee
-https://tracker.bugcrowd.com
 https://tracker.naspers.com/
 https://transfer.underarmour.com/
 https://transferwise.com
@@ -5734,6 +5739,10 @@ https://www.creditkarma.com/reviews/
 https://www.creditkarma.com/savings
 https://www.cultbeauty.co.uk/
 https://www.cyber.gouv.qc.ca
+https://www.cyberghostvpn.com/
+https://www.cyberghostvpn.com/en_US/apps/linux-vpn
+https://www.cyberghostvpn.com/en_US/apps/macos-vpn
+https://www.cyberghostvpn.com/en_US/apps/windows-vpn
 https://www.dash.ai/
 https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&target=launcher_macosx
 https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
