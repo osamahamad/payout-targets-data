@@ -16,6 +16,7 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.bitdefender.net
 *.bitdefender.com
 *.bitstamp.net - Bitstamp Supporting Services
+*.bugcrowd.com/auth/*
 *.canva.cn
 *.canva.com
 *.canva-apps.com
@@ -33,7 +34,6 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.comcast.com
 *.xcal.tv
 *.sys.comcast.net
-*.cyberghost.com
 *.cyberghost.com
 *.dell.com/*
 *.delltechnologies.com/* 
