@@ -16,7 +16,6 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.bitdefender.net
 *.bitdefender.com
 *.bitstamp.net - Bitstamp Supporting Services
-*.bugcrowd.com/auth/*
 *.canva.cn
 *.canva.com
 *.canva-apps.com
@@ -38,6 +37,13 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.dell.com/*
 *.delltechnologies.com/* 
 *.sandbox.directly.com/
+*.dropbox.com    
+*.hellosign.com
+*.helloworks.com
+*.hellofax.com
+*.dropboxforum.com
+*.docsend.com
+*.dropboxer.net
 *.dropbox.com    
 *.hellosign.com
 *.helloworks.com
@@ -78,6 +84,7 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.indeedflex.com
 *.indeed.tech
 *.indeed.net
+*.intercomassets.com / *.intercomcdn.com
 *.intercomassets.com / *.intercomcdn.com
 *.jora.com
 *.jora.xyz
