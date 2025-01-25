@@ -198,6 +198,10 @@ api-*.soundcloud.com
  *.sip.*.twilio.com
  Twilio CDNs (static*.twilio.com)
 *.api.ua.com/
+*.gtld-servers.net (DNS service; DNS related)
+*.verisign-grs.com (DNS service; DNS related)
+*.gtld-servers.net (DNS service; DNS related)
+*.verisign-grs.com (DNS service; DNS related)
 *.viatorinc.com
 *.viator.com
 *.transferwise.com
