@@ -58,8 +58,8 @@ open redirect at *.epam.com
 Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.etsy.com
 *.expressvpn.com
-*.xvservice.net
 *.xvtest.net
+*.xvservice.net
 *.certinia.com
 *.kiln.it
 *.hubspotemail.net
@@ -81,10 +81,10 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.intercomassets.com / *.intercomcdn.com
 *.jora.com
 *.jora.xyz
+*.scoober.com
 *.lieferando.at
 *.yourdelivery.de
 *.takeaway.com
-*.scoober.com
 *.citymeal.com
 *.lieferando.de
 *.thuisbezorgd.nl
@@ -198,8 +198,6 @@ api-*.soundcloud.com
  *.sip.*.twilio.com
  Twilio CDNs (static*.twilio.com)
 *.api.ua.com/
-*.gtld-servers.net (DNS service; DNS related)
-*.verisign-grs.com (DNS service; DNS related)
 *.gtld-servers.net (DNS service; DNS related)
 *.verisign-grs.com (DNS service; DNS related)
 *.viatorinc.com

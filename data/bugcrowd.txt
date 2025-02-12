@@ -102,7 +102,6 @@ lms-stg-develop.eks-stg-use1.getaws.arubanetworks.com
 www.arubanetworks.com
 www.arubainstanton.com
 mspshowcase.arubanetworks.com
-ase.arubanetworks.com
 blogs.arubanetworks.com
 aed.arubanetworks.com
 connect.arubanetworks.com
@@ -503,11 +502,8 @@ Mac Restore Downloaders
 Windows Restore Downloaders
 Git Repositories (b2-sdk-java & B2 Command Line Tool)
 https://backblaze.com
-Balsamiq Cloud
-Balsamiq Wireframes for Desktop
 https://marketplace.atlassian.com/apps/1213404/balsamiq-wireframes-for-confluence-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1212796/balsamiq-wireframes-for-jira-cloud?hosting=cloud&tab=overview
-https://balsamiq.com
 https://marketplace.atlassian.com/apps/5161/balsamiq-wireframes-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/256/balsamiq-wireframes-for-confluence?hosting=datacenter&tab=overview
 https://www.bigcommerce.com
@@ -656,25 +652,26 @@ TV - Xfinity hardware and services
 Flex - Xfinity hardware and services
 Voice - Hardware and service
 https://www.xfinity.com/apps
-https://www.contrastsecurity.com/
-https://contrastsecurity.dev/
 https://marketplace.atlassian.com/apps/1223249/mailto-wiki-send-emails-to-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1223249/mailto-wiki-send-emails-to-confluence?tab=overview&hosting=server
 https://marketplace.atlassian.com/apps/1223249/mailto-wiki-email-for-confluence?hosting=datacenter&tab=overview
-CyberGhost VPN servers
-https://apps.apple.com/us/app/id583009522
-https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost
-https://www.cyberghostvpn.com/en_US/apps/linux-vpn
-https://www.cyberghostvpn.com/en_US/apps/macos-vpn
-https://www.cyberghostvpn.com/en_US/apps/windows-vpn
-https://addons.mozilla.org/en-US/firefox/addon/cyberghost-vpn-free-proxy/
-https://chrome.google.com/webstore/detail/stay-secure-with-cybergho/ffbkglfijbcbgblgflchnbphjdllaogb
-CyberGhost APIs
-CyberGhost PS3+PS4 apps
-CyberGhost Xbox One + Xbox360 apps
+https://www.cyberghostvpn.com/
 https://cyberghost.com
 cyberghost.app
-https://www.cyberghostvpn.com/
+https://www.cyberghostvpn.com/vpn-server
+CyberGhost APIs
+https://apps.apple.com/us/app/id583009522
+https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost
+https://www.cyberghostvpn.com/en_US/apps/macos-vpn
+https://www.cyberghostvpn.com/en_US/apps/windows-vpn
+https://www.cyberghostvpn.com/en_US/apps/linux-vpn
+https://addons.mozilla.org/en-US/firefox/addon/cyberghost-vpn-free-proxy/
+https://chrome.google.com/webstore/detail/stay-secure-with-cybergho/ffbkglfijbcbgblgflchnbphjdllaogb
+polymoon.it
+Employee Email
+Internal chat messages
+Vulnerabilities compromising the privacy of our employees
+Source code hosting
 https://console.delltechnologies.com/nav/administration
 https://console.delltechnologies.com/nav/invoice
 https://console.delltechnologies.com/nav/billing
@@ -765,23 +762,25 @@ https://sos-ch-gva-2.exo.io/
 https://internal.exoscale.ch
 https://api-ch-gva-2.exoscale.com/v2
 https://api-ch-gva-2.exoscale.com/v2
-VPN servers
-ExpressVPN iOS application
-ExpressVPN Android application
-ExpressVPN Linux application
-ExpressVPN macOS application
-ExpressVPN Windows application
-ExpressVPN Router
-ExpressVPN Firefox extension
-ExpressVPN Chrome extension
-MediaStreamer DNS servers
-ExpressVPN APIs
 https://www.expressvpn.com
-http://expressobutiolem.onion
-Google Play (com.expressvpn.vpn)
-Apple App Store (886492891)
+ExpressVPN APIs
+https://www.expressvpn.com/vpn-server
+ExpressVPN Router
+MediaStreamer DNS servers
+https://apps.apple.com/us/app/expressvpn-fast-secure-vpn/id886492891?mt=8
+https://apps.apple.com/us/app/expressvpn-fast-secure-vpn/id886492891?mt=8
+https://www.expressvpn.com/latest#linux
+https://www.expressvpn.com/latest#mac
+https://www.expressvpn.com/latest#windows
+https://chromewebstore.google.com/detail/expressvpn-vpn-proxy-for/fgddmllnllkalaagkghckoinaemmogpe?pli=1
+https://addons.mozilla.org/en-US/firefox/addon/expressvpn/
+https://chromewebstore.google.com/detail/expressvpn-keys-password/blgcbajigpdfohpgcmbbfnphcgifjopc
 https://github.com/expressvpn/lightway-core
-ExpressVPN Keys Browser Extension
+polymoon.it
+Employee Email
+Internal chat messages
+Source code hosting
+Vulnerabilities compromising the privacy of our employees
 https://financialforce.com
 Any FIS asset is in scope
 https://flo.uri.sh
@@ -1162,6 +1161,7 @@ https://www.finicity.com
 https://consumer.finicityreports.com
 Finicity- Open Banking Payment History application
 Finicity - OBB (Open Banking Business Service) 
+https://pioneer.truata.com/
 Public Others Target
 https://play.google.com/store/search?q=mattermost&c=apps
 https://apps.apple.com/us/app/mattermost/id1257222717
@@ -1440,6 +1440,7 @@ ssu.myconnect.com.au/signup/get-connected
 hub.myconnect.com.au
 https://dashboard.pantheon.io
 https://devstaging.pcapcloud.com/*
+https://www.pexels.com/
 ██████████████
 ██████████████
 ██████████████████
@@ -1459,18 +1460,82 @@ https://mg.n0c.com/
 https://www.planethoster.com
 https://marketplace.atlassian.com/apps/4832/enterprise-mail-handler-for-jira-jemh?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/4832/enterprise-mail-handler-for-jira-jemh?hosting=datacenter&tab=overview
-PIA VPN servers
+https://www.staples.com/services/printing
+https://splus-flightdeck.pnimedia.com/#/login
+https://splus-estimator.pnimedia.com/#/login
+https://splus-coupon-web.pnimedia.com/#/
+http://flightdeck.staples.com/#/login
+https://portal.pnimedia.com/Account/Login
+https://splus-prod-phoenix-portal-legacy.pnimedia.com/Account/Login
+https://splus-estimator-api.pnimedia.com/
+https://splus-flightdeck-capablefulfiller-api.pnimedia.com/
+https://splus-lmd-api.pnimedia.com/swagger/index.html
+https://usvdc1-fakepuller.pnimedia.com/
+https://orderrouter-api.pnimedia.com/
+https://orders.pniws.com/
+https://phoenix-catalog.pnimedia.com/
+https://portal.pnimedia.com/
+https://productasset.pnimedia.com/
+http://skumapper-splus.pnimedia.com/
+https://design.staples.com
+https://splus-apollox.pnimedia.com/
+https://splus-storage.pnimedia.com/
+https://splus-dock.pnimedia.com/
+https://splus-assets.pnimedia.com/
+https://usvdc1-orders.pnimedia.com/
+https://splus-dock2.pnimedia.com
+https://splus-office365.pnimedia.com/
+https://splus-falcon-api.pnimedia.com/
+https://splus-hercules-api.pnimedia.com/
+https://splus-kepler-upload.pnimedia.com/
+https://splus-premium-asset.pnimedia.com/
+https://usvdc1-fulfillmentdash.pnimedia.com/
+https://usvdc1-imageeditserver.pnimedia.com/
+https://usvdc1-imageserver.pnimedia.com/
+https://usvdc1-imageserver-orders.pnimedia.com/
+https://usvdc1-pniwebservice.pnimedia.com/
+https://usvdc1-project-builder.pnimedia.com/
+https://usvdc1-projectresolver.pnimedia.com/
+https://usvdc1-thumbnailserver-api.pnimedia.com/
+https://usvdc1-render3d.pnimedia.com/
+https://usvdc1-uploadserver.pnimedia.com/
+https://splus-static-site.pnimedia.com/
+https://splus-static-site-pages.pnimedia.com/services/printing/
+https://splus-static-site-pages.pnimedia.com/
+https://splus-static-site-pages-slot1.pnimedia.com/
+https://splus-prod-dam-api-v2-azure.pnimedia.com/
+https://splus-prod-dam-api-v2-slot1.pnimedia.com/
+https://splus-prod-dam-api-v2.pnimedia.com/
+https://splus-prod-dam-api.pnimedia.com/
+https://splus-prod-dam-mediapicker-api.pnimedia.com/
+https://splus-prod-dam-redundancy-sync.pnimedia.com/
+https://splus-cart-api-azure.pnimedia.com/
+https://splus-prod-dam-v2-thumb.pnimedia.com/
+https://splus-cart-api.pnimedia.com/
+https://splus-oms-azure-cart-ui.pnimedia.com/
+https://splus-oms-azure-cart.pnimedia.com/
+https://splus-oms-cart-ui.pnimedia.com/
+https://splus-oms-cart.pnimedia.com/
+https://splus-flightdeck-api.pnimedia.com/
+https://splus-prod-dam-mediapicker-api-slot1.pnimedia.com/
+https://www.privateinternetaccess.com/
+piaservers.com
+piaservers.net
+PIA APIs
+https://www.privateinternetaccess.com/vpn-server
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
 https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&hl=en
 https://www.privateinternetaccess.com/download/linux-vpn
 https://www.privateinternetaccess.com/download/mac-vpn
 https://www.privateinternetaccess.com/download/windows-vpn
-https://addons.mozilla.org/en-US/firefox/addon/private-internet-access-ext/
 https://chrome.google.com/webstore/detail/private-internet-access/jplnlifepflhkbkgonidnobkakhmpnmh
+https://addons.mozilla.org/en-US/firefox/addon/private-internet-access-ext/
 https://addons.opera.com/en/extensions/details/private-internet-access-extension/
-PIA APIs
-https://www.privateinternetaccess.com/
-piaservers.com
+polymoon.it
+Employee Email
+Internal chat messages
+Source code hosting
+Vulnerabilities compromising the privacy of our employees
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
 https://analytics-admin.prosus.com
@@ -1533,16 +1598,16 @@ https://apps.apple.com/au/app/certsy/id1617796159
 https://play.google.com/store/apps/details?id=com.certsy.app
 https://graphql.seek.com
 https://auth.seek.com
-██████████████████████████████
-█████████████████████████
-█████████████████████████████████
-████████████████████████████████
-██████████████████████████████████████
-██████████████████████████████████████
-███████████████████████████████████████
-███████████████████████████████████████████████
-█████████████████████████
-████████████████████
+https://dashboard.sendbird.com/
+https://gate.sendbird.com
+https://api-{app-id}.sendbird.com
+https://ws-{app-id}.sendbird.com
+https://desk-api-{region}.sendbird.com
+https://ws-{app-id}.calls.sendbird.com
+https://api-{app-id}.calls.sendbird.com
+https://api-{app-id}.notifications.sendbird.com
+https://sendbird.com/docs
+https://sendbird.com
 https://1shoppingcart.com
 https://mcssl.com
 https://www.skroutz.gr/
@@ -1745,12 +1810,9 @@ https://api.twilio.com
 Twilio APIs
 https://tsock.us1.twilio.com
 https://www.twilio.com/blog/get-started-webrtc
-https://www.twilio.com/wireless
 https://www.twilio.com/docs/libraries
 https://www.twilio.com/console
-https://www.twilio.com/docs/libraries
 https://twilio.com/blog
-https://build.twilio.com/s/
 https://sendgrid.com
 https://app.sendgrid.com/
 https://signup.sendgrid.com/
@@ -1759,16 +1821,12 @@ https://mc.sendgrid.com/
 smtp.sendgrid.net
 https://authy.com/download/
 https://authy.com/download/
-https://authy.com/download/
-https://www.twilio.com/authy
-https://www.twilio.com/docs/verify/api
+https://www.twilio.com/docs/verify/api 
 https://www.twilio.com/docs/authy/api
-https://www.twilio.com/docs/authy/api/dashboard
-Any host/web property verified to be owned by Twilio
 https://app.segment.com/
 https://api.segment.io/
 https://segment.com/docs/sources/
-Any host / web property verified to be owned by Segment (domains/IP space/etc.)	
+Any host/web property verified to be owned by Twilio et al.
 https://opendata-demo.test-socrata.com
 https://opendata.test-socrata.com
 https://opendata.test-socrata.com/admin/gateway
@@ -1879,15 +1937,6 @@ https://vlapi.usaa.com
 https://webmail.usaa.com
 https://ws.usaa.com
 https://wsmbr.usaa.com/
-epptool-ctld.verisign-grs.com (EPP service; DNS related)
-a.root-servers.net (DNS service; DNS related)
-j.root-servers.net (DNS service; DNS related)
-https://www.verisign.com
-https://youcouldbe.com
-https://blog.verisign.com
-https://namestudioforsocial.com/
-https://namestudio.com
-https://www.verisign.com
 epptool-ctld.verisign-grs.com (EPP service; DNS related)
 a.root-servers.net (DNS service; DNS related)
 j.root-servers.net (DNS service; DNS related)

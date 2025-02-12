@@ -1,2 +1,5 @@
-*.gtld-servers.net (DNS service; DNS related)
-*.verisign-grs.com (DNS service; DNS related)
+*.app.personio-dev.com
+*.app.personio.com
+*.datacamp.com
+*.pci.shopifyinc.com
+*.playticorp.com

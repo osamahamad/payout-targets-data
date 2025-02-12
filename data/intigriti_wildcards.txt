@@ -34,6 +34,7 @@
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -93,10 +94,12 @@ Leaked/compromised employee accounts *.here.com
 *.prod-ffs.io
 *.oda.com
 *.prod.nube.tech
-*.personiowhistleblowing.com
+*.app.personio-dev.com
+*.app.personio.com
 *.personio-internal.de
 *.personio.tools
 *.personio.de
+*.personiowhistleblowing.com
 *.c-point.be
 *.portofantwerp.com
 *.portofantwerpbruges.com
@@ -111,8 +114,8 @@ Leaked/compromised employee accounts *.here.com
 *.sqills.com
 *.sqills.team
 *.weareone.world
-*.stag.weareone.world
 *.stag.tomorrowland.com
+*.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
 *.truelayer.cloud

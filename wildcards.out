@@ -26,17 +26,11 @@
 *.acc.mobilevikings.be
 *.account.api.here.com
 *.account.here.com
-*.acrobat.com
 *.acronis.com
 *.acronis.work
 *.ad.nl
 *.adaptive-shield.com
 *.adminml.com
-*.adobe.com
-*.adobe.io
-*.adobeaemcloud.com
-*.adobeconnect.com
-*.adobecqms.net
 *.adultforce.com
 *.advisor-connection.com
 *.advisorsolutions.gs.com
@@ -46,8 +40,6 @@
 *.airbnbcitizen.com
 *.alasco.de
 *.alasco.rocks
-*.algolia.net
-*.algolianet.com
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
 *.allegro.sk.allegrosandbox.pl
@@ -85,6 +77,8 @@
 *.api.playstation.com
 *.api.ua.com/
 *.app.asana.com
+*.app.personio-dev.com
+*.app.personio.com
 *.app.spacelift.dev
 *.appmiral.com
 *.arlo.com
@@ -122,7 +116,6 @@
 *.bitdefender.net
 *.bitmex.com
 *.bitstamp.net - Bitstamp Supporting Services
-*.bizible.com
 *.blinkforhome.com/*
 *.blockchain.com
 *.boardkingsgame.com
@@ -205,7 +198,6 @@
 *.contactallerg(y|ie).uzleuven.be
 *.contentsquare.com
 *.corp.mongodb.com*
-*.cp.dyson.com
 *.creditkarma.ca
 *.creditkarma.co.uk
 *.creditkarma.com
@@ -220,6 +212,7 @@
 *.dailymotion.com
 *.dancecentral.com
 *.das.eu
+*.datacamp.com
 *.de.jbl.com
 *.dell.com/*
 *.delltechnologies.com/* 
@@ -254,9 +247,7 @@
 *.dropboxer.net
 *.dropboxforum.com
 *.dropmix.com
-*.dyson.com
 *.earlywarning.com
-*.east.fdbox.net
 *.easy.ac
 *.eat.ch
 *.edition.in
@@ -331,10 +322,6 @@
 *.gocardless.com
 *.gocardless.dev
 *.gocardless.io,*.gocardless-banking.io
-*.gokangu.cl
-*.gokangu.co
-*.gokangu.mx
-*.gokangu.uy
 *.goldman.com
 *.goldmanpfm.com
 *.goldmansachs.com
@@ -448,8 +435,6 @@
 *.just-eat.fr
 *.just-eat.no
 *.justfall.lol,*.justplay.lol,*.1v1.lol
-*.kangu.com.br
-*.kangu.tech
 *.karwei.nl/*
 *.karweioutletstore.nl
 *.kchat.infomaniak.com
@@ -516,7 +501,6 @@
 *.malwarebytes.com
 *.marcus.co.uk
 *.marcus.com
-*.marketo.com
 *.mas.mobilevikings.be
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -564,7 +548,6 @@
 *.mir.uzleuven.be
 *.miui.com
 *.miwifi.com
-*.mixamo.com
 *.mjrtheatres.com
 *.mlstatic.com
 *.mmcdn.com
@@ -622,7 +605,6 @@
 *.oklink.com
 *.okto.tech
 *.okx.com
-*.omniture.com
 *.oncatapult.com
 *.onduo.com/
 *.onegraph.com
@@ -657,6 +639,7 @@
 *.payoneer.com
 *.paypal.com
 *.paypalcorp.com
+*.pci.shopifyinc.com
 *.personio-internal.de
 *.personio.de
 *.personio.tools
@@ -667,6 +650,7 @@
 *.plannthat.com
 *.platformservices.io
 *.playstation.net
+*.playticorp.com
 *.playtika.com
 *.playuzleuven.be
 *.playwsop.com
@@ -683,11 +667,9 @@
 *.prod-ffs.io
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
-*.prod.fdbox.net
 *.prod.ftl.netflix.com
 *.prod.nube.tech
 *.projectbaseline.com/
-*.proofhq.com
 *.prowly.com
 *.psynet.gg
 *.psyonix.com
@@ -742,7 +724,6 @@
 *.sc-corp.net
 *.scatec.io
 *.scbe.api.here.com
-*.scene7.com
 *.scoober.com
 *.scopely.com
 *.scopely.io
@@ -796,7 +777,6 @@
 *.skyvegas.com
 *.slimdevices.com
 *.slotomania.com
-*.smartcontract.com
 *.snooguts.net
 *.sol-data.com
 *.solarcity.com
@@ -848,7 +828,6 @@
 *.tesla.services
 *.teslainsuranceservices.com
 *.teslamotors.com
-*.testdrive.workfront.com
 *.testnet.immutable.com
 *.thinkingphones.com
 *.thinkingphones.net
@@ -885,9 +864,7 @@
 *.truelayer.io
 *.tstaging.com
 *.tstaging.tools
-*.tt.omtrdc.net
 *.tube8.com
-*.tubemogul.com
 *.tumblr.com
 *.tweakblogs.net
 *.tweakers.net
@@ -895,7 +872,6 @@
 *.twimg.com
 *.twinmotion.com
 *.twitter.com
-*.typekit.com
 *.uberinternal.com
 *.ubnt.com
 *.ucverse.com

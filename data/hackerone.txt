@@ -1,10 +1,11 @@
+Constitutional Classifiers
 https://bugbounty-ctf.1password.com/
 <Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
 <Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
 http://--your-own-1password-account--.1password.com
-https://events.1password.com/
+https://events.1password.com/api/
 Arc on Mac
-Arc on Window
+Arc on Windows
 arc.net
 bcny.com
 company.thebrowser.arc
@@ -148,6 +149,20 @@ www.starbuckspr.com/
 Starbucks China Android
 Starbucks China iOS
 www.starbucks.com.cn/
+ai.toloka.expert
+auth.toloka.ai
+experts-portal.toloka.ai
+https://api-ui.toloka.ai
+https://mindrift.ai/
+https://toloka.ai/
+https://we.toloka.ai/auth
+id6504492387
+ladybug.a9s.toloka.ai
+mindrift.toloka.ai
+sso.auth.toloka.ai
+tb.toloka.dev
+workspace.toloka.ai
+workspace.toloka.dev
 2kleague.nba.com
 bal.nba.com
 cdn-bal.nba.com
@@ -290,9 +305,6 @@ https://nominatim.bykea.net
 e-Commerce
 https://github.com/leather-wallet/extension
 www.leather.io
-com.secretkeylabs.xverse
-com.secretkeylabs.xverse
-https://chrome.google.com/webstore/detail/xverse-wallet/idnnbdplmphpflfnlkomgpfbpcgelopg
 https://github.com/fireblocks/mpc-lib
 aw.visa.com
 bb.visa.com
@@ -373,6 +385,7 @@ https://github.com/worldcoin
 https://play.google.com/store/apps/details?id=com.worldcoin
 id.worldcoin.org
 toolsforhumanity.com
+world.org
 worldcoin.org
 com.nicehash.metallum
 com.nicehash.mobile
@@ -408,8 +421,12 @@ https://nw.ring.com/*
 https://oauth.ring.com/*
 https://ring.com/*
 prd-ring-web-us.prd.rings.solutions
+153.46.108.0/22
+153.46.240.0/20
 153.46.96.0/20
+193.109.229.0/24
 193.110.154.0/24
+62.192.20.16/29
 https://apps.apple.com/ch/app/debix/id1581440132?l=en-GB
 https://apps.apple.com/mx/app/debix/id1581440132
 https://apps.apple.com/mx/app/schweizer-finanzmuseum/id1225222871
@@ -556,15 +573,20 @@ www.vodafone.om
 api.au.frontegg.com
 portal.au.frontegg.com
 ab-platform-api.eu-east-1.indriverapp.com
+alternativa.film
 argocd.indrive.dev
+auroratechaward.com
 auth.indrive.tech
 auth2.indrive.tech
 aws.indrive.tech
+bridekidnapping.alternativa.film
 cargo.indrive.com
 ci.indrive.dev
 debug.clairvoyance.indrive.tech
 external.indrive.dev
+festival.alternativa.film
 file-storage-front.eu-east-1.indriverapp.com
+indrive.alternativa.film
 ingest.clairvoyance.indrive.tech
 injob.indriver.com
 messenger.eu-east-1.indriverapp.com
@@ -614,10 +636,8 @@ www.amazon.com/photos/*
 Android & iOS App for REI Customers
 Any public cloud resource or infrastructure operated and managed by REI.
 http://collaboration.rei.com
-http://rei.com/adventures
-http://rei.com/events
-http://rei.com/lists
 http://www.rei.com/learn/expert-advice
+login.rei.com
 rei.com
 api.mergify.com
 dashboard.mergify.com
@@ -663,6 +683,7 @@ io.metamask
 io.metamask.Metamask
 metamask.io
 portfolio.metamask.io
+signature-insights.api.cx.metamask.io
 snaps.metamask.io
 api.skinport.com
 app.skinport.com
@@ -746,8 +767,12 @@ Wickr Pro iOS
 Wickr Pro/Wickr Me (all related technical components) (up to)
 admin.wickr.com
 www.wickr.com
-http://greenchannel.payoneer.com.cn/gcportal
 payoneer.com.cn
+https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP
+https://github.com/Agoric/agoric-sdk/tree/master/packages/inter-protocol
+https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe
+https://github.com/endojs
+https://github.com/endojs/endo/tree/master/packages/ses
 api.moonpay.com
 app.moonpay.com
 auth.moonpay.com
@@ -768,6 +793,16 @@ usercontent.koho.ca
 web.koho.ca
 webgateway.koho.ca
 www.koho.ca
+api.stg.inspectorio.com
+app.stg.inspectorio.com
+docuflow.stg.inspectorio.com
+files-stg.inspectorio.com
+https://app.bitrise.io/app/51a95edaab331ec5/installable-artifacts/e5213e1a814bf0ba/public-install-page/bed0d33f048271d6828c5a4a979ecc96
+https://testflight.apple.com/join/vwFxXX7t
+id.stg.inspectorio.com
+report-html-sight.stg.inspectorio.com
+rise-api.stg.inspectorio.com
+rise.stg.inspectorio.com
 1089294040
 407558537
 Capital One Shopping Browser Extension
@@ -859,19 +894,11 @@ krisp.ai
 resources.krisp.ai
 teams.krisp.ai
 upld.krisp.ai
-Hedera Go SDK
-Hedera Java SDK
-Hedera Javascript SDK
-Hedera Mirror Node Codebase
-Hedera Network Services Codebase
-Hedera Testnet API Endpoints
-Testnet Mirror Node APIs
 1180400838
 Tier 1
 Tier 2
 accounts.khealth.com
 ai.kanghealth
-anthem.khealth.com
 api.khealth.com
 api.khealth.io
 app.khealth.com
@@ -953,11 +980,14 @@ www.trendyol-milla.com
 www.trendyol.com
 api.recordedfuture.com
 app.recordedfuture.com
+bgpview.io
 com.recordedfuture.mobile
 com.recordedfuture.mobile
+dns.watch
 geminiadvisory.io
 hatching.io
 id.recordedfuture.com
+rescan.io
 securitytrails.com
 therecord.media
 tria.ge
@@ -1072,6 +1102,7 @@ api.8x8.com
 cloud8.8x8.com
 connect.8x8.com
 dashboard.qa.ai.8x8.com
+debug.8x8.com
 fuze.me
 https://8x8.vc/xmpp-websocket
 https://github.com/jitsi
@@ -1377,10 +1408,6 @@ https://github.com/maticnetwork/matic-cli
 portal.polygon.technology
 staking-api.polygon.technology
 staking.polygon.technology
-https://github.com/skalenetwork/libBLS
-https://github.com/skalenetwork/sgxwallet
-https://github.com/skalenetwork/skale-consensus
-https://github.com/skalenetwork/skale-manager/tree/develop/contracts
 Figma Atlassian App
 Figma Desktop App
 Figma Slack App
@@ -1850,6 +1877,7 @@ auth.magic.link
 dashboard.fortmatic.com
 dashboard.magic.link
 fortmatic.com
+portal.magicnewton.com
 1245772818
 284803487
 284971959
@@ -1961,7 +1989,6 @@ b2b.tvgnetwork.com
 com.fanduel.android.self
 com.fanduel.sportsbook
 fanduel.com
-fdbox.net
 ia.tvg.com
 login-4ngbets.us.betfair.com
 login-4njbets.us.betfair.com
@@ -2255,12 +2282,6 @@ account.acronis.com
 beta-cloud.acronis.com
 com.acronis.abc
 com.acronis.acronistrueimage
-Faucets
-chain.link
-https://github.com/smartcontractkit/chainlink
-https://github.com/smartcontractkit/chainlink/tree/master/contracts
-https://github.com/smartcontractkit/external-adapters-js/
-https://github.com/smartcontractkit/staking-v0.1/tree/master/contracts
 351727428
 Braintree SDK
 PayPal SDK
@@ -2297,6 +2318,7 @@ secure.chaturbate.com
 accounts.pixiv.net
 booth.pm
 coban.pixiv.net
+comic-indies.pixiv.net
 comic.pixiv.net
 dic.pixiv.net
 https://github.com/pixiv/charcoal
@@ -2624,7 +2646,13 @@ mus1.badoo.com
 translate.badoo.com
 us1.badoo.com
 www.bumble.com
- api.spotify.com, api-partner.spotify.com
+api.omise.co
+dashboard.omise.co
+github.com
+offsite.omise.co
+vault.omise.co
+www.omise.co
+www.opn.ooo
 Anchor
 Android SDK
 Backstage source code
@@ -2641,6 +2669,8 @@ Spotify SDKs
 Spotify desktop application (Windows and Mac)
 VPN
 Web Playback SDK
+api-partner.spotify.com
+api.spotify.com
 assets.spotify.com
 backstage.io
 com.anchorfminc.Anchor
@@ -2658,71 +2688,6 @@ Roblox Client
 Roblox Engine
 Roblox Studio
 blox.link
-993135524
-Dyson Connected Products (IoT Hardware)
-Github findings
-Other Dyson Assets
-api.dyson.at
-api.dyson.be
-api.dyson.ch
-api.dyson.co.uk
-api.dyson.com
-api.dyson.de
-api.dyson.dk
-api.dyson.es
-api.dyson.fr
-api.dyson.ie
-api.dyson.it
-api.dyson.nl
-api.dyson.no
-api.dyson.pt
-api.dyson.se
-api.dysoncanada.ca
-api.fi.dyson.com
-com.dyson.mobile.android
-shop.dyson.co.za
-shop.dyson.tw
-www.dyson.ae
-www.dyson.at
-www.dyson.be
-www.dyson.ch
-www.dyson.cn
-www.dyson.co.il
-www.dyson.co.jp
-www.dyson.co.kr
-www.dyson.co.nz
-www.dyson.co.th
-www.dyson.co.uk
-www.dyson.com
-www.dyson.com.au
-www.dyson.com.ee
-www.dyson.com.mx
-www.dyson.com.ro
-www.dyson.com.sg
-www.dyson.com.tr
-www.dyson.com.ua
-www.dyson.cz
-www.dyson.de
-www.dyson.dk
-www.dyson.es
-www.dyson.fr
-www.dyson.hk
-www.dyson.hu
-www.dyson.ie
-www.dyson.in
-www.dyson.it
-www.dyson.my
-www.dyson.nl
-www.dyson.no
-www.dyson.pl
-www.dyson.pt
-www.dyson.se
-www.dyson.tw
-www.dyson.vn
-www.dysoncanada.ca
-www.fi.dyson.com
-www.gr.dyson.com
-www.sa.dyson.com
 971888874
 976353472
 admin.shipt.com
@@ -2838,7 +2803,11 @@ https://github.com/rubygems/rubygems
 rubygems.org
 shipit.rubygems.org
 FIles.com REST API
-Files.com Desktop Application for Windows or Mac
+Files.com Command Line Interface (CLI) App
+Files.com Desktop v4 App (previously known as Desktop App) 
+Files.com Desktop v6 App
+Files.com Mobile App
+Files.com On-Premise Agent
 Files.com SDK's
 app.files.com
 www.files.com
@@ -2852,7 +2821,6 @@ External service data leakage
 api.excalls.mobi
 com.exness.android.pa
 com.exness.investments
-com.exness.investor
 exness.com
 exnessaffiliates.com
 https://my.exness.com/pa/pim/manager
@@ -3018,6 +2986,7 @@ rockstarnorth.com
 socialclub.rockstargames.com
 store.rockstargames.com
 support.rockstargames.com
+www.rockstargames.com
 Copilot
 Copilot Chat on dotcom
 Copilot for Business
@@ -3040,6 +3009,7 @@ npmjs.com
 npmjs.org
 com.wealthsimple
 com.wealthsimple.wealthsimple
+hackerone-m1rtuq8orz.hbstaging.website
 https://github.com/mainwp/mainwp
 https://github.com/mainwp/mainwp-child
 434613896
@@ -3084,8 +3054,6 @@ https://www.glassdoor.com/*
 547702041
 com.tinder
 fetlife.com
-dashboard.algolia.com
-www.algolia.com
 1142114207
 1257641454
 1343620481
@@ -3248,138 +3216,44 @@ www.fareharbor.com
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 api-staging.airtable.com
 staging.airtable.com
-Adobe AIR
-Adobe Acrobat Reader DC
-Adobe Campaign
 Adobe Commerce, Commerce B2B and Commerce Open Source
-Adobe Experience Manager (AEM)
-After Effects
-Animate
-Audition
-Bridge
 C2PA Tool
-Character Animator
 ColdFusion
-ContentCal
-Creative Cloud Desktop Application
-Digital Editions
-Dimension
-Distiller
-Dreamweaver
-Flash Player
-Fonts
-Framemaker
-Illustrator
-InCopy
-InDesign
-Lightroom
-Lightroom Classic
-Media Encoder
 Other
-Photoshop
-Prelude
-Premiere Elements
-Premiere Pro
-Premiere Rush
-Substance 3D
-Workfront Outlook Plugin
-XD
-XMP Toolkit
 account.adobe.com
 account.magento.com
-accounts.adobe.com
-accounts.frame.io
 accounts.magento.cloud
 acrobat.adobe.com
-acrobatoauth.adobe.com
-adminconsole.adobe.com
 adobeid-na1.services.adobe.com
-adobeid.services.adobe.com
-adobelogin.com
-api-v2.frame.io
-api.frame.io
-app.frame.io
-applications.frame.io
-assets.adobe.com
 auth.services.adobe.com
-behance.net
-campaign.adobe.com
-captivateprime.adobe.com
-cbconnection.adobe.com
-cloud.acrobat.com
-coldfusion.adobe.com
 com.adobe.Adobe-Reader
 com.adobe.PSMobile
-com.adobe.echosign
-com.adobe.fas
 com.adobe.lrmobile
 com.adobe.lrmobile
-com.adobe.lrmobilephone
 com.adobe.reader
 com.adobe.scan.android
 com.adobe.scan.ios
 com.frame.FrameIO
-com.iphone.workfront
-com.workfront.android.aware
-commerce.adobe.com
-community.adobe.com
-components.frame.io
 contributor.stock.adobe.com
-create.adobe.com
-creative.adobe.com
-creativecloud.adobe.com
-developer.frame.io
-documentcloud.adobe.com
-documents.adobe.com
-edex.adobe.com
-exchange.adobe.com
-experience.adobe.com
-experiencecloud.adobe.com
 firefly.adobe.com
-fonts.adobe.com
-gps.echosign.com
-helpx.adobe.com
 http://federatedid-na1.services.adobe.com
 http://ims-na1.adobelogin.com
 https://contentcredentials.org/
-https://github.com/adobe/*
 https://github.com/contentauth/c2pa-js
 https://github.com/contentauth/c2pa-rs
 imagine.magento.com
-learningmanager.adobe.com
-licenses.adobe.com
-licensing.adobe.com
-lightroom.adobe.com
+learningmanagerstage4.adobe.com
 magento.com
 magentocommerce.com
 magentolive.com
-marketing-assets.adobe.com
-marketing.adobe.com
-marketo.com
 marketplace.magento.com
-mobilemarketing.adobe.com
 net.s2stagehance.com
 new.express.adobe.com
-nicetryapril.na1.echosignsandbox.com
-partners.adobe.com
+photos.adobe.io
 photoshop.adobe.com
-photoshop.com
-platform.adobe.com
-portfolio.adobe.com
 repo.magento.com
-secure.echosign.com
-shop.adobe.com
-socket.frame.io
-spark.adobe.com
-status.adobe.com
 stock.adobe.com
-stream.frame.io
-substance3d.com
-theblog.adobe.com
 u.magento.com
-updates.frame.io
-workflow.frame.io
-xd.adobe.com
 1557515848
 493253309
 api.blockchain.info
@@ -3607,8 +3481,10 @@ http://github.com/cloudflare
 https://github.com/cloudflare/workerd
 one.dash.cloudflare.com
 waf.cumulusfire.net
+Beeper
 Crowdsignal
 Jetpack
+Texts
 WooCommerce
 WordPress Plugins & Themes
 WordPress.com VIP
@@ -3662,15 +3538,14 @@ org.toshi
 org.toshi.distribution
 prime.coinbase.com
 pro.coinbase.com
-647922896
 Slack Desktop Application
 api.slack.com
 app.slack.com
 com.Slack
-com.quip.quip
 com.slack.slackmdm
 com.tinyspeck.chatlyio
 edgeapi.slack.com
+https://apps.apple.com/us/app/quip-docs-chat-sheets/id647922896
 https://github.com/slackhq/nebula
 https://salesforce.quip.com/blog/desktop
 slack-imgs.com
