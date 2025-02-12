@@ -48,6 +48,7 @@
 *.acc.mobilevikings.be
 *.account.api.here.com
 *.account.here.com
+*.acrobat.adobe.com
 *.acronis.com
 *.acronis.work
 *.ad.nl
@@ -799,6 +800,7 @@
 *.skyvegas.com
 *.slimdevices.com
 *.slotomania.com
+*.smartcontract.com
 *.snooguts.net
 *.sol-data.com
 *.solarcity.com
@@ -1583,6 +1585,7 @@ ExpressVPN Router
 External service data leakage 
 FIles.com REST API
 FPGA Solution Development Tools and Utilities
+Faucets
 Figma Atlassian App
 Figma Desktop App
 Figma Slack App
@@ -2302,7 +2305,6 @@ accounts.shopify.com
 accounts.snapchat.com
 accounts.stage.evernote.com
 accountsettings.connect.identity.stagaws.visma.com
-acrobat.adobe.com
 actionnaires.vinci.com
 activities.marriott.com
 adblocking.clario.co
@@ -2321,6 +2323,7 @@ admin.wickr.com
 admincms.monespacesante.fr
 adminstore.monespacesante.fr
 admintool.lime.bike
+adobe.fresco.ios
 adobeid-na1.services.adobe.com
 ads.reddit.com
 ads.snapchat.com
@@ -2829,6 +2832,7 @@ cdn.plaid.com
 cdna.lystit.com
 cds.vrt.radio
 cfapi.voikukka.fi
+chain.link
 channelstore.roku.com/details/48061/vhx
 charts.etoro.com
 chat-api.swapcard.com/graphql
@@ -2894,6 +2898,7 @@ com.adobe.lrmobile
 com.adobe.reader
 com.adobe.scan.android
 com.adobe.scan.ios
+com.adobe.workfront
 com.affirm.central.audit
 com.affirm.internal.hackerone
 com.airbnb.android
@@ -4561,6 +4566,10 @@ https://github.com/ruby/ruby
 https://github.com/rubygems/rubygems
 https://github.com/rust-lang/rust
 https://github.com/slackhq/nebula
+https://github.com/smartcontractkit/chainlink
+https://github.com/smartcontractkit/chainlink/tree/master/contracts
+https://github.com/smartcontractkit/external-adapters-js/
+https://github.com/smartcontractkit/staking-v0.1/tree/master/contracts
 https://github.com/spiffe/spiffe
 https://github.com/spiffe/spire
 https://github.com/tchapgouv

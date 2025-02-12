@@ -2282,6 +2282,12 @@ account.acronis.com
 beta-cloud.acronis.com
 com.acronis.abc
 com.acronis.acronistrueimage
+Faucets
+chain.link
+https://github.com/smartcontractkit/chainlink
+https://github.com/smartcontractkit/chainlink/tree/master/contracts
+https://github.com/smartcontractkit/external-adapters-js/
+https://github.com/smartcontractkit/staking-v0.1/tree/master/contracts
 351727428
 Braintree SDK
 PayPal SDK
@@ -3223,7 +3229,7 @@ Other
 account.adobe.com
 account.magento.com
 accounts.magento.cloud
-acrobat.adobe.com
+adobe.fresco.ios
 adobeid-na1.services.adobe.com
 auth.services.adobe.com
 com.adobe.Adobe-Reader
@@ -3233,6 +3239,7 @@ com.adobe.lrmobile
 com.adobe.reader
 com.adobe.scan.android
 com.adobe.scan.ios
+com.adobe.workfront
 com.frame.FrameIO
 contributor.stock.adobe.com
 firefly.adobe.com
