@@ -82,6 +82,8 @@
 *.app.personio.com
 *.app.spacelift.dev
 *.appmiral.com
+*.arlo.com
+*.arloxcld.com
 *.artstation.com
 *.asana.biz
 *.atairbnb.com
@@ -871,7 +873,6 @@
 *.truelayer.io
 *.tstaging.com
 *.tstaging.tools
-*.tube8.com
 *.tumblr.com
 *.tweakblogs.net
 *.tweakers.net
