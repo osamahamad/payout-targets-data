@@ -215,6 +215,7 @@
 *.cognitiveperformer.com
 *.coinbase.com
 *.coindcx.com
+*.coloros.com
 *.comcast.com
 *.computerbild.de
 *.consumer.worldcoin.org
@@ -229,7 +230,6 @@
 *.crypto.com
 *.cryptopunks.app
 *.cubicmotion.com
-*.cyberghost.com
 *.cyrus-security.com
 *.dailyadvent.com
 *.dailymotion.com
@@ -592,6 +592,8 @@
 *.myharmony.com
 *.myhomebook.de
 *.myinsights.io
+*.myoas.com
+*.myoas.net
 *.mysqueezebox.com
 *.myteksi.com
 *.myteksi.net
@@ -643,6 +645,8 @@
 *.operafootball.com
 *.operanewsapp.com
 *.operationstechnology.io
+*.oppo.com
+*.oppomobile.com
 *.ops.netlify.com
 *.opsgenie.com
 *.origindigital-pac.com.au
@@ -804,6 +808,7 @@
 *.smartcontract.com
 *.snooguts.net
 *.sol-data.com
+*.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
 *.souparea.com
@@ -848,6 +853,11 @@
 *.teams.cloudflare.com
 *.techbook.de
 *.telenor.se
+*.tesla.cn
+*.tesla.com
+*.tesla.services
+*.teslainsuranceservices.com
+*.teslamotors.com
 *.testnet.immutable.com
 *.thinkingphones.com
 *.thinkingphones.net
@@ -933,6 +943,7 @@
 *.vrbo.com
 *.vtm.be
 *.vtmgo.be
+*.wanyol.com
 *.water-link.be/
 *.wavecell.com
 *.wealthsimple.com
@@ -1282,6 +1293,9 @@
 <Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
 <Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
 <locale>.trip.com
+A16k
+A76
+A96
 AI Gateway
 AMP Real URL
 AOL (misc)
@@ -1348,6 +1362,7 @@ Any Other Sophos Product or Service
 Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
 Any Worldpay asset is in scope
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
+Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Any host/web property verified to be owned by Twilio et al.
 Any host/web property/mobile app verified to be owned by Indeed
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
@@ -1495,6 +1510,7 @@ CoinMarketCap Android app
 CoinMarketCap iOS app
 Coinbase WaaS (Wallet as a Service)
 ColdFusion
+ColorOS
 CometBFT
 Community Management & Communications
 Constitutional Classifiers
@@ -1517,7 +1533,6 @@ Crypto.com Exchange APIs that require an account
 Crypto.com Wallet Extension
 Crypto.com mobile app APIs that require an account
 Customer connected domain (2)
-CyberGhost APIs
 DS proxy (see https://github.com/demarches-simplifiees/ds_proxy)
 DSE, Opscenter
 Data Loss Prevention (DLP)
@@ -1578,6 +1593,7 @@ Exodus Desktop Wallet
 ExpressVPN APIs
 ExpressVPN Router
 External service data leakage 
+F 21 Pro
 FIles.com REST API
 FPGA Solution Development Tools and Utilities
 Faucets
@@ -1592,6 +1608,14 @@ Files.com Desktop v6 App
 Files.com Mobile App
 Files.com On-Premise Agent
 Files.com SDK's
+FindN2
+FindN2Flip
+FindN3
+FindN3Flip
+FindX6
+FindX6Pro
+FindX7
+FindX7Ultra
 Fing desktop
 Finicity - OBB (Open Banking Business Service) 
 Finicity Decisioning
@@ -1697,6 +1721,11 @@ JBL Flip 6
 Java SDK
 Jetpack
 Jira
+K10
+K105G
+K9
+K9Pro
+K9s
 Kibana
 Kindle E-Reader
 Kohl’s entire public digital footprint that is not Out-Of-Scope(See list below)
@@ -1719,6 +1748,7 @@ Livestream software (Producer, Studio)
 Load Balancing
 Localized airbnb sites listed at the link below:
 Localized versions of www.tripadvisor.com available from the site's header or footer
+LockScreenMagazine
 Log4cxx
 Log4j 2.x
 Log4j API for Kotlin
@@ -1852,6 +1882,7 @@ OKX Wallet Edge Add-ons
 OKX Wallet Safari Extension
 OKX iOS APP
 ONCE: Campfire
+OPPO+
 Observability - APM Agents
 Observability - APM Server
 Official WordPress plugins
@@ -1912,6 +1943,7 @@ PlayStation 5
 PlayStation Network
 Podsights
 Point Smart
+Porsche-B
 PowerDNS authoritative server, recursor and DNSdist (see "Software packages" and "Source-code")
 Presentation Remotes
 Primary Assets
@@ -1919,9 +1951,21 @@ ProConnect (see program description for github link)
 Product Delivery
 Protocol of the Swiss Post Voting System
 Public Others Target
+QuickApps
 React Native SDK
 Recon Data
 Remaining functions
+Reno 9 5G
+Reno105G
+Reno10Pro+5G
+Reno10Pro5G
+Reno115G
+Reno11Pro5G
+Reno12
+Reno12Pro
+Reno8Pro5G
+Reno9Pro+5G
+Reno9Pro5G
 Ring Alarm
 Ring Smart Lighting Bridge
 Roblox Client
@@ -2030,6 +2074,8 @@ TW eCommerce: Shopping
 TW eCommerce: Used Car
 Tablets
 Techcrunch
+Tesla Energy hardware you own
+Tesla vehicle hardware that you own
 Texts
 The Perfume Shop (subdomains)
 ThePerfumeShop.App.Android
@@ -2910,6 +2956,11 @@ com.coinbase.wallite
 com.coinhako
 com.coinhako.app
 com.coinspot.app
+com.coloros.browser
+com.coloros.encryption
+com.coloros.securepay
+com.coloros.speechassist
+com.coloros.video
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
@@ -2933,6 +2984,7 @@ com.expedia.bookings
 com.expediapartnercentral
 com.fanduel.android.self
 com.fanduel.sportsbook
+com.fintech.life
 com.fishbowlmedia.fishbowl
 com.flashgap.fruits
 com.flashgap.fruitz
@@ -2972,6 +3024,12 @@ com.gsn.grandcasino
 com.hcom.android
 com.here.app.maps
 com.hey.app.ios
+com.heytap.browser
+com.heytap.cloud
+com.heytap.health.international
+com.heytap.market
+com.heytap.themestore
+com.heytap.xgame
 com.hotornot.app
 com.hotwire.hotels
 com.hypr.one
@@ -3018,6 +3076,9 @@ com.moneybird.Moneybird
 com.moneybird.android
 com.nbaimd.gametime.nba2011
 com.nbaimd.gametime.universal
+com.nearme.browser
+com.nearme.themespace
+com.nearme.themestore
 com.nextcloud.Talk
 com.nextcloud.client
 com.nextcloud.talk2
@@ -3030,6 +3091,17 @@ com.oceanwing.battery.cam
 com.oceanwing.care.cam
 com.official.rnapp
 com.onedebit.chime
+com.oplus.account
+com.oplus.member
+com.oplus.themestore
+com.oplus.vip
+com.opos.ads
+com.oppo.cloud
+com.oppo.encryption
+com.oppo.market
+com.oppo.quicksearchbox
+com.oppo.speechassist
+com.oppo.usercenter
 com.orbitz
 com.pacificinteractive.HouseOfFun
 com.paddypower.sportsbook.u.inhouse
@@ -3147,6 +3219,7 @@ comic-indies.pixiv.net
 comic.pixiv.net
 commerce.coinbase.com
 community-tc.services.mozilla.com
+community.coloros.com
 community.databricks.com
 community.forescout.com
 community.logitech.com
@@ -3211,7 +3284,6 @@ customers.gitlab.com
 customerupdates.nextcloud.com
 cw.visa.com
 cweb-ott.nba.com
-cyberghost.app
 cyclonedx-bom
 cysiv.com
 cz.skodaauto.myskoda
@@ -3554,6 +3626,7 @@ http://bumba.global
 http://clinical-quality.khealth.com/api/v1
 http://coinbase.com
 http://collaboration.rei.com
+http://coloros.com
 http://datapod-1-druid-ingest.production.forescoutcloud.net/v1/upload
 http://datapod-1-druid-query.production.forescoutcloud.net/v1/polling
 http://datapod-1-druid-query.production.forescoutcloud.net/v1/query/agg
@@ -3578,6 +3651,8 @@ http://github.com/cloudflare
 http://h1-your-domain.zendesk.com/qa/
 http://h1-your-domain.zendesk.com/sell
 http://h1-your-domain.zendesk.com/wfm/
+http://heytap.com
+http://heytapmobi.com
 http://ibotta.com
 http://ims-na1.adobelogin.com
 http://itunes.apple.com/us/app/ibotta/id559887125
@@ -3594,6 +3669,7 @@ http://my.mintmobile.com/
 http://my.ultramobile.com
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://nav.naspers.com/
+http://oppofind.com
 http://ourhouse.underarmour.com/
 http://partners.deriv.com
 http://pay.monashcollege.edu.au/
@@ -3651,7 +3727,6 @@ https://accounts.lastpass.com
 https://accounts.opera.com
 https://accounts.welcomesoftware.com/
 https://acorns.com/
-https://addons.mozilla.org/en-US/firefox/addon/cyberghost-vpn-free-proxy/
 https://addons.mozilla.org/en-US/firefox/addon/expressvpn/
 https://addons.mozilla.org/en-US/firefox/addon/pinterest/
 https://addons.mozilla.org/en-US/firefox/addon/private-internet-access-ext/
@@ -3884,7 +3959,6 @@ https://apps.apple.com/us/app/ecwid-ecommerce/id626731456
 https://apps.apple.com/us/app/electroneum/id1270774992
 https://apps.apple.com/us/app/expressvpn-fast-secure-vpn/id886492891?mt=8
 https://apps.apple.com/us/app/hubspot/id1107711722
-https://apps.apple.com/us/app/id583009522
 https://apps.apple.com/us/app/indeed-connect-for-employers/id6443822731
 https://apps.apple.com/us/app/indeed-job-search/id309735670
 https://apps.apple.com/us/app/jira-cloud-by-atlassian/id1006972087
@@ -3913,6 +3987,7 @@ https://apps.apple.com/us/app/syncup-kids/id1503394062
 https://apps.apple.com/us/app/syncup-tracker/id1526380335
 https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
 https://apps.apple.com/us/app/t-mobile/id561625752
+https://apps.apple.com/us/app/tesla/id582007913
 https://apps.apple.com/us/app/under-armour/id1092704571
 https://apps.apple.com/us/app/usaa-mobile/id312325565
 https://apps.apple.com/us/app/verily-me/id6448808133
@@ -4037,7 +4112,6 @@ https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeo
 https://chrome.google.com/webstore/detail/ibotta-browser-extension/mfaedmjlefifhnhpgipjjiiekchaimpk?hl=en-US
 https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en
 https://chrome.google.com/webstore/detail/private-internet-access/jplnlifepflhkbkgonidnobkakhmpnmh
-https://chrome.google.com/webstore/detail/stay-secure-with-cybergho/ffbkglfijbcbgblgflchnbphjdllaogb
 https://chrome.google.com/webstore/detail/xverse-wallet/idnnbdplmphpflfnlkomgpfbpcgelopg
 https://chromewebstore.google.com/detail/expressvpn-keys-password/blgcbajigpdfohpgcmbbfnphcgifjopc
 https://chromewebstore.google.com/detail/expressvpn-vpn-proxy-for/fgddmllnllkalaagkghckoinaemmogpe?pli=1
@@ -4087,7 +4161,6 @@ https://csp-prod.codebig2.net
 https://customer-api.datadome.co
 https://customerportal.winconnect.com.au/login
 https://customers.us1.fga.dev/
-https://cyberghost.com
 https://d1.utv.usaa.com
 https://d2.utv.usaa.com
 https://daily.blablacar.fr
@@ -4125,6 +4198,7 @@ https://developers.elementor.com/
 https://developers.hubspot.com/docs/api/overview
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
+https://developers.oppomobile.com
 https://developers.vendhq.com/
 https://devportal.rec.net/
 https://devstaging.pcapcloud.com/*
@@ -4157,6 +4231,9 @@ https://downloads.arlo.com
 https://dropbox.com/dash/download
 https://dropboxpartners.com
 https://dxc.episerver.net/ 
+https://e.heytap.com/
+https://e.oppo.com
+https://e.oppomobile.com
 https://ecohesion.aufbaubank.de
 https://edge.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua))
 https://education.cfr.org/
@@ -5102,6 +5179,7 @@ https://online.mustaqel.qa/qat/en/login
 https://online.srilankaevisa.lk/lka/en/login
 https://onlinena.vfsglobal.dz/AppointmentAdmin/
 https://op.paymaya.com/
+https://open.oppomobile.com
 https://openai.com/
 https://openam-bug-bounty-stag.forgeblocks.com/*
 https://opendata-demo.test-socrata.com
@@ -5250,6 +5328,7 @@ https://play.google.com/store/apps/details?id=com.tcx.sipphone14
 https://play.google.com/store/apps/details?id=com.teamviewer.host.market&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile&hl=en&gl=US
+https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.tmobile.drive
 https://play.google.com/store/apps/details?id=com.tmobile.kids
 https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
@@ -5264,7 +5343,6 @@ https://play.google.com/store/apps/details?id=com.worldcoin
 https://play.google.com/store/apps/details?id=com.xfinity.digitalhome&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.yopeso.lieferando&hl=en_US
 https://play.google.com/store/apps/details?id=de.cellular.ottohybrid&hl=de
-https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost
 https://play.google.com/store/apps/details?id=deezer.android.app
 https://play.google.com/store/apps/details?id=edu.monash.monashmobile
 https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta
@@ -5654,11 +5732,6 @@ https://www.creditkarma.com/reviews/
 https://www.creditkarma.com/savings
 https://www.cultbeauty.co.uk/
 https://www.cyber.gouv.qc.ca/
-https://www.cyberghostvpn.com/
-https://www.cyberghostvpn.com/en_US/apps/linux-vpn
-https://www.cyberghostvpn.com/en_US/apps/macos-vpn
-https://www.cyberghostvpn.com/en_US/apps/windows-vpn
-https://www.cyberghostvpn.com/vpn-server
 https://www.dash.ai/
 https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&target=launcher_macosx
 https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
@@ -6252,10 +6325,12 @@ mynexuz.be/myUZ/
 mynexuzhealth/id1459856321
 mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
+myoppo.com
 myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
 nadex.com
 nbafedsvc.nba.com
+nearme.com.cn
 neoket.net
 nessus.fr.cloud.gov
 net.s2stagehance.com
@@ -6378,9 +6453,13 @@ open redirect at *.epam.com
 open-api.capital.com
 open.airbnb.com
 open.larksuite.com
+open.oppomobile.com
 open.ys7.com
 openapi.starbucks.com
 openidconnect.net	
+oppo.com
+oppomoble.com
+opposhop.cn
 oprc.portofantwerpbruges.com
 ops.lime.bike
 ops.wolt.com
