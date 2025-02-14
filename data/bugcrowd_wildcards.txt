@@ -7,7 +7,6 @@ Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DI
 *.atlastunnel.com
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 *.cic-bug-bounty.auth0app.com
-*.tube8.com
 *.trafficjunky.com
 *.adultforce.com
 *.backblazeb2.com
@@ -79,6 +78,8 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.indeed.tech
 *.indeed.net
 *.intercomassets.com / *.intercomcdn.com
+*.jora.com
+*.jora.xyz
 *.jora.com
 *.jora.xyz
 *.scoober.com
