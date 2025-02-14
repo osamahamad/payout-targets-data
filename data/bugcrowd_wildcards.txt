@@ -7,7 +7,6 @@ Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DI
 *.atlastunnel.com
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 *.cic-bug-bounty.auth0app.com
-*.tube8.com
 *.trafficjunky.com
 *.adultforce.com
 *.backblazeb2.com
@@ -177,6 +176,12 @@ api-*.soundcloud.com
 *.square.com
 *.squareup.com
 *.statuspage.io
+*.tesla.cn
+*.tesla.services
+*.tesla.com
+*.teslamotors.com
+*.solarcity.com
+*.teslainsuranceservices.com
 *.tesla.cn
 *.tesla.services
 *.tesla.com
