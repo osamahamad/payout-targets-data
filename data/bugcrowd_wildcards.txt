@@ -1,5 +1,3 @@
-*.arlo.com
-*.arloxcld.com
 *.central.arubanetworks.com
 *.asana.biz
 *.app.asana.com
@@ -177,6 +175,12 @@ api-*.soundcloud.com
 *.square.com
 *.squareup.com
 *.statuspage.io
+*.tesla.cn
+*.tesla.services
+*.tesla.com
+*.teslamotors.com
+*.solarcity.com
+*.teslainsuranceservices.com
 *.tesla.cn
 *.tesla.services
 *.tesla.com
