@@ -403,10 +403,6 @@
 *.hoteltonight.com
 *.houseoffun.com
 *.housetrip.com
-*.hs-sites(-eu1)?.com
-*.hubspotemail.net
-*.hubspotpagebuilder.com
-*.hubspotpagebuilder.eu
 *.humio.com
 *.humo.be
 *.hypermint.com
@@ -1539,7 +1535,6 @@ Crypto
 Crypto.com Exchange APIs that require an account
 Crypto.com Wallet Extension
 Crypto.com mobile app APIs that require an account
-Customer connected domain (2)
 CyberGhost APIs
 DS proxy (see https://github.com/demarches-simplifiees/ds_proxy)
 DSE, Opscenter
@@ -1927,7 +1922,6 @@ Other Amazon Retail Sites (Please only actively test explicitly stated scope)
 Other Assets
 Other BMW Domains
 Other Hardware Assets
-Other HubSpot-owned (sub)domains not listed as Out of Scope . Please make sure to exercise due diligence before testing. You must include proof that the subdomain is registered to HubSpot to be eligible for a reward.
 Other Logitech Desktop and Mobile Application
 Other Logitech Hardware/IoT
 Other Semrush Related Asset
@@ -2024,7 +2018,6 @@ Sophos IT Infrastructure (all other Sophos domains)
 Source Code
 Source code hosting
 SpaceX and Starlink assets (target information and rewards detailed above on the brief)
-Special Conditions
 Special scenarios (see description)
 Specific scenarios (see program description)
 Spectrum
@@ -3814,7 +3807,6 @@ https://api.fishbowlapp.com/*
 https://api.foxycart.com/
 https://api.fstr.rocks
 https://api.glassdoor.com/*
-https://api.hubspot.com/
 https://api.ibops.net
 https://api.ibops.net/ad-management
 https://api.ibotta.com
@@ -3869,7 +3861,6 @@ https://api3.pentest.clicsante.ca/
 https://apis-v5.australiansuper.com/
 https://apis.australiansuper.com/
 https://apis.indeed.com/graphql
-https://app-eu1.hubspot.com
 https://app-staging.getmoneytree.com
 https://app.agency360.com
 https://app.asana.com
@@ -3881,7 +3872,6 @@ https://app.chime.com/
 https://app.datadome.co
 https://app.ecwid.com/api/v3/	
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
-https://app.hubspot.com/
 https://app.ibotta.com/sign-in 
 https://app.intercom.com
 https://app.intercom.io/
@@ -3981,7 +3971,6 @@ https://apps.apple.com/us/app/dropbox-secure-cloud-storage/id327630330
 https://apps.apple.com/us/app/ecwid-ecommerce/id626731456
 https://apps.apple.com/us/app/electroneum/id1270774992
 https://apps.apple.com/us/app/expressvpn-fast-secure-vpn/id886492891?mt=8
-https://apps.apple.com/us/app/hubspot/id1107711722
 https://apps.apple.com/us/app/id583009522
 https://apps.apple.com/us/app/indeed-connect-for-employers/id6443822731
 https://apps.apple.com/us/app/indeed-job-search/id309735670
@@ -4130,7 +4119,6 @@ https://central.sophos.com
 https://central.sophos.com/
 https://cfc.naspers.com/
 https://chat.openai.com
-https://chatspot.ai
 https://checkout.eyeko.com
 https://checkout.glossybox.com
 https://checkout.myvitamins.com
@@ -4160,7 +4148,6 @@ https://community.cloud.databricks.com/
 https://community.etsy.com
 https://compulsoryunits.monash.edu/
 https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
-https://connect.com
 https://connect.monash.edu
 https://connect.paymaya.com/
 https://connect.soundcloud.com
@@ -4223,7 +4210,6 @@ https://developer.zendesk.com/documentation/zendesk-sdks/#android
 https://developer.zendesk.com/documentation/zendesk-sdks/#ios
 https://developers.afterpay.com
 https://developers.elementor.com/
-https://developers.hubspot.com/docs/api/overview
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
 https://developers.oppomobile.com
@@ -4714,8 +4700,6 @@ https://keepersecurity.com
 https://keepersecurity.com/console
 https://keepersecurity.com/vault
 https://kiwi.partner.viator.com
-https://knowledge.hubspot.com/connected-email/get-started-with-the-hubspot-sales-office-365-add-in
-https://knowledge.hubspot.com/inbox/set-up-a-customer-portal
 https://knowledge.newrelic.com/
 https://kucoin.com
 https://kw-bugcrowd-pub.bounty.kiteworks.dev/
@@ -5313,7 +5297,6 @@ https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr
 https://play.google.com/store/apps/details?id=com.fcagroup.us.uconnect
 https://play.google.com/store/apps/details?id=com.google.android.apps.diabetes
-https://play.google.com/store/apps/details?id=com.hubspot.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
 https://play.google.com/store/apps/details?id=com.indeed.resume
 https://play.google.com/store/apps/details?id=com.infomaniak.drive
