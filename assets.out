@@ -3541,6 +3541,7 @@ github.com/binary-com
 github.com/deriv-com
 github.com/kubernetes-csi
 github.com/kubernetes-retired
+github.com/oasisprotocol/explorer
 gitlab.com
 gleague.nba.com
 glib-networking
@@ -3649,11 +3650,13 @@ http://datapod-1-druid-query.production.forescoutcloud.net/v2/services
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/matrixoverview
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/overlappingzones
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
+http://emerald.oasis.dev
 http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
 http://federatedid-na1.services.adobe.com
 http://flightdeck.staples.com/#/login
 http://github.com/circlefin/noble-cctp
 http://github.com/cloudflare
+http://grpc.oasis.dev
 http://h1-your-domain.zendesk.com/qa/
 http://h1-your-domain.zendesk.com/sell
 http://h1-your-domain.zendesk.com/wfm/
@@ -3683,7 +3686,9 @@ http://play.google.com/store/apps/details?id=fr.doctolib.www
 http://poe.com
 http://portfolio.metamask.io
 http://recruit.linepluscorp.com
+http://rosetta.oasis.dev/api/mainnet
 http://sandbox-api.fireblocks.io
+http://sapphire.oasis.io
 http://sb-console-api.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://secure-iphone-xml.booking.com/json/
@@ -4399,6 +4404,7 @@ https://github.com/electroneum/electroneum-sc/
 https://github.com/electroneum/electroneum/
 https://github.com/endojs
 https://github.com/endojs/endo/tree/master/packages/ses
+https://github.com/expressvpn/lightway
 https://github.com/expressvpn/lightway-core
 https://github.com/fireblocks/mpc-lib
 https://github.com/freedomofpress/securedrop
@@ -4548,6 +4554,13 @@ https://github.com/nextcloud/files_confidential
 https://github.com/nextcloud/tables
 https://github.com/nimiq/core-rs-albatross
 https://github.com/nodejs/node
+https://github.com/oasisprotocol/curve25519-voi
+https://github.com/oasisprotocol/deoxysii
+https://github.com/oasisprotocol/deoxysii-rust
+https://github.com/oasisprotocol/oasis-core
+https://github.com/oasisprotocol/oasis-sdk
+https://github.com/oasisprotocol/oasis-wallet-ext
+https://github.com/oasisprotocol/oasis-wallet-web
 https://github.com/openssl/openssl
 https://github.com/owncloud/activity
 https://github.com/owncloud/android
@@ -6859,6 +6872,7 @@ stats.nextcloud.com
 stats.wnba.com
 status.delen.be 
 status.larksuite.com
+status.oasis.io
 steamcommunity.com
 stock.adobe.com
 storage*.infomaniak.com
@@ -7071,6 +7085,7 @@ w1.uzleuven.be/random
 waf.cumulusfire.net
 wallet-sandbox.uphold.com
 wallet.etoro.com
+wallet.oasis.io
 wallet.uphold.com
 wallet.venly.io
 wallets.api.playstation.com
