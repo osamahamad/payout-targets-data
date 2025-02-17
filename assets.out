@@ -1040,6 +1040,8 @@
 1091010942
 10x.redoxengine.com
 1101145849
+1114799709
+1114800186
 1116488672
 1118448159
 1127881507
@@ -1733,6 +1735,8 @@ K9Pro
 K9s
 Kibana
 Kindle E-Reader
+Klarna Android App (com.myklarnamobile)
+Klarna iOS App (com.klarna.app)
 Kohl’s entire public digital footprint that is not Out-Of-Scope(See list below)
 Kruidvat (subdomains)
 Kruidvat.Belgium.Android
@@ -2477,6 +2481,7 @@ api.slack.com
 api.smtp2go.com
 api.sokos.fi
 api.sorare.com
+api.soundtrackyourbrand.com
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -2701,6 +2706,7 @@ beta-cloud.acronis.com
 bgpview.io
 bigcommerce-adapter.judge.me
 billing-pci.etoro.com
+billing.api.soundtrackyourbrand.com
 billing.etoro.com
 billingsupport.chaturbate.com
 bioid-management.app
@@ -2759,6 +2765,7 @@ bugzilla.mozilla.org
 builder.hostinger.com
 building-blocks.com
 builds-auckland.ninja.kiwi
+builds.soundtrackyourbrand.com
 bullsheet.me
 business-resources.truecaller.com
 business.kayak.com
@@ -2768,6 +2775,7 @@ business.kinepolis.nl
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
+business.soundtrackyourbrand.com
 business.tiktok.com
 business.truecaller.com
 businesshelp.snapchat.com
@@ -2818,6 +2826,7 @@ cdna.lystit.com
 cds.vrt.radio
 cfapi.voikukka.fi
 chain.link
+chameleon
 channelstore.roku.com/details/48061/vhx
 charts.etoro.com
 chat-api.swapcard.com/graphql
@@ -3143,6 +3152,7 @@ com.skypicker.Skypicker
 com.skypicker.main
 com.slack.slackmdm
 com.snapchat.android
+com.soundtrackyourbrand.soundtrack.player
 com.spotify.client
 com.spotify.kids
 com.spotify.lite
@@ -4022,6 +4032,7 @@ https://asana.com/download
 https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://audio.20min.ch/
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
+https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.foxy.io/
@@ -4091,6 +4102,7 @@ https://bugcrowd.hotdoc.com.au
 https://bugcrowd.hotdoc.com.au/api
 https://bugcrowd.hotdoc.com.au/dashboard
 https://bugs.opera.com/
+https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.australiansuper.com/
@@ -5416,6 +5428,7 @@ https://pt-runner.app.ridewithvia.com
 https://public.je-apis.com
 https://public.thesecurityteam.rocks/resources/app/android/etnapp-5.2.2-staging.apk
 https://quantum-events.onecloud.harman.com
+https://radio.api.soundtrackyourbrand.com/
 https://rc.fstr.rocks
 https://rec.net/
 https://rec.net/download
@@ -5914,6 +5927,7 @@ https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
 https://www.sophos.com/en-us/products/mobile-control/free-trial
 https://www.sophos.com/en-us/products/next-gen-firewall
+https://www.soundtrackyourbrand.com
 https://www.sourcetreeapp.com/
 https://www.staples.com/services/printing
 https://www.status-takeaway.com/status
@@ -6207,6 +6221,7 @@ m.kolesa.kz
 m.krisha.kz
 m.reddit.com
 m.trendyol.com
+macOS app
 mackeeper.com
 magento.com
 magiceden.io
