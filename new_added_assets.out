@@ -1,0 +1,17 @@
+*.hs-sites(-eu1)?.com
+*.hubspotemail.net
+*.hubspotpagebuilder.com
+*.hubspotpagebuilder.eu
+Customer connected domain (2)
+Other HubSpot-owned (sub)domains not listed as Out of Scope . Please make sure to exercise due diligence before testing. You must include proof that the subdomain is registered to HubSpot to be eligible for a reward.
+Special Conditions
+https://api.hubspot.com/
+https://app-eu1.hubspot.com
+https://app.hubspot.com/
+https://apps.apple.com/us/app/hubspot/id1107711722
+https://chatspot.ai
+https://connect.com
+https://developers.hubspot.com/docs/api/overview
+https://knowledge.hubspot.com/connected-email/get-started-with-the-hubspot-sales-office-365-add-in
+https://knowledge.hubspot.com/inbox/set-up-a-customer-portal
+https://play.google.com/store/apps/details?id=com.hubspot.android&hl=en_US&gl=US
