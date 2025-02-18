@@ -116,6 +116,9 @@ bugcrowd-*your-own-instance*.cloud.mattermost.com/
 *.nr-ops.net
 *.nml.com
 *.nmfn.com
+prod-*.nubank.com.br
+prod-*.nu.com.mx
+prod-*.nu.com.co
 *.octopus.com
 *.openai.org
 *.openai.org
@@ -171,8 +174,6 @@ bugcrowd-*your-own-instance*.cloud.mattermost.com/
 *.s-cloud.net
 *.services.repostnetwork.com
 api-*.soundcloud.com
-*.square.com
-*.squareup.com
 *.square.com
 *.squareup.com
 *.statuspage.io
