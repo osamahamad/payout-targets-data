@@ -651,7 +651,6 @@
 *.oppo.com
 *.oppomobile.com
 *.ops.netlify.com
-*.opsgenie.com
 *.origindigital-pac.com.au
 *.oslo.io
 *.osp.opera.software
@@ -1914,8 +1913,6 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 Open source tools from Cloudflare
 OpenAI API Keys
 OpenPGP Cert Directory Specification
-Opsgenie (Android)
-Opsgenie (IoS)
 Orbi 
 Orbi Android App 
 Orbi iOS App 
@@ -3891,7 +3888,6 @@ https://app.ibotta.com/sign-in 
 https://app.intercom.com
 https://app.intercom.io/
 https://app.latitudepayapps.com/
-https://app.opsgenie.com
 https://app.optimizely.com/
 https://app.reclaim.ai
 https://app.ring.com/*
@@ -5147,7 +5143,6 @@ https://mobile.usaa.com
 https://mobileapi.afterpay.com
 https://mobileapi.clearpay.com
 https://mobileapi.staging.luno.com/
-https://mobileapp.opsgenie.com
 https://mobileapps.usaa.com/
 https://monash.app.nutrip.com
 https://monashcollege.edu.au
