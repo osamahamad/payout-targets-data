@@ -60,6 +60,9 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.expressvpn.com
 *.xvtest.net
 *.xvservice.net
+*.expressvpn.com
+*.xvtest.net
+*.xvservice.net
 *.certinia.com
 *.kiln.it
 *.hubspotemail.net
@@ -116,9 +119,6 @@ bugcrowd-*your-own-instance*.cloud.mattermost.com/
 *.nr-ops.net
 *.nml.com
 *.nmfn.com
-prod-*.nubank.com.br
-prod-*.nu.com.mx
-prod-*.nu.com.co
 *.octopus.com
 *.openai.org
 *.openai.org
