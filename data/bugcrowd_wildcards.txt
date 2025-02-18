@@ -60,9 +60,6 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.expressvpn.com
 *.xvtest.net
 *.xvservice.net
-*.expressvpn.com
-*.xvtest.net
-*.xvservice.net
 *.certinia.com
 *.kiln.it
 *.hubspotemail.net
@@ -139,6 +136,7 @@ prod-*.nu.com.co
 *.operafootball.com
 *.feednews.com
 *.dailyadvent.com
+*.opsgenie.com
 *.origindigital-pac.com.au
 *.odcdn.com.au
 *.support.originenergy.com.au
