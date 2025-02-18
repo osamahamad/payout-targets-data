@@ -3767,6 +3767,7 @@ https://admin.ring.com/*
 https://admin3.pentest.clicsante.ca/
 https://admintool.lime.bike
 https://adviser.australiansuper.com/
+https://aemdam.usaa360.com/
 https://afterpay.com
 https://agent.apps.monash.edu/
 https://airflow-prod.coda.io/*
@@ -3783,6 +3784,7 @@ https://analytics.neogov.com
 https://analytics.welcomesoftware.com/
 https://anytask.thesecurityteam.rocks
 https://anytask.thesecurityteam.rocks/
+https://api-a.usaa.com
 https://api-ch-gva-2.exoscale.com/v2
 https://api-evm.orderly.org/
 https://api-js.datadome.co
@@ -3854,6 +3856,7 @@ https://api.tripadvisor.com
 https://api.twilio.com
 https://api.unity.com
 https://api.us1.fga.dev/
+https://api.usaa.com/
 https://api.vistarmedia.com
 https://api.vistarmedia.eu
 https://api.voiapp.io/
@@ -4010,6 +4013,7 @@ https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
 https://apps.apple.com/us/app/t-mobile/id561625752
 https://apps.apple.com/us/app/tesla/id582007913
 https://apps.apple.com/us/app/under-armour/id1092704571
+https://apps.apple.com/us/app/usaa-mobile/id312325565
 https://apps.apple.com/us/app/verily-me/id6448808133
 https://apps.apple.com/us/app/viator-tours-activities/id434832826
 https://apps.apple.com/us/app/wise-ex-transferwise/id612261027
@@ -4040,8 +4044,13 @@ https://auth.pentest.clicsante.ca/
 https://auth.seek.com
 https://auth.wyze.com
 https://auth2.pdq.tools/ 
+https://authn.usaa.com/
 https://authy.com/download/
 https://autoupdate.geo.opera.com
+https://b2bapi-a.usaa.com
+https://b2bapi.usaa.com
+https://b2blsapi-a.usaa.com
+https://b2blsapi.usaa.com
 https://backblaze.com
 https://backend.ibotta.com/
 https://base.org
@@ -4165,6 +4174,7 @@ https://consumer-sustainability.underarmour.com/en
 https://consumer.finicityreports.com
 https://content-server.ibotta.com/graphql
 https://content.agora.beta.gouv.fr
+https://content.usaa.com
 https://contentcredentials.org/
 https://coral.20min.ch/
 https://create.gx.games
@@ -4179,6 +4189,8 @@ https://customer-api.datadome.co
 https://customerportal.winconnect.com.au/login
 https://customers.us1.fga.dev/
 https://cyberghost.com
+https://d1.utv.usaa.com
+https://d2.utv.usaa.com
 https://daily.blablacar.fr
 https://dashboard.fga.dev/
 https://dashboard.pantheon.io
@@ -4273,6 +4285,7 @@ https://etherscan.io/token/0xfe18ae03741a5b84e39c295ac9c856ed7991c38e
 https://etsypayments.com
 https://events.1password.com/api/
 https://evigilation.monash.edu
+https://externalconnect.usaa.com/
 https://fcu.eu-west-2.outscale.com
 https://features.opera-api.com
 https://fileshare.ze.monash.edu
@@ -4636,6 +4649,7 @@ https://google-reserve-api.thefork.io
 https://gpt.lime.bike
 https://graphql.acorns.com
 https://graphql.seek.com
+https://guest.usaa.com/
 https://guildofguardians.com
 https://gwapi.tripadvisor.com
 https://gwapi1.tripadvisor.com
@@ -4705,6 +4719,7 @@ https://knowledge.hubspot.com/inbox/set-up-a-customer-portal
 https://knowledge.newrelic.com/
 https://kucoin.com
 https://kw-bugcrowd-pub.bounty.kiteworks.dev/
+https://l.usaa.com/
 https://lab.epam.com
 https://landrover.here.com
 https://lapi.yellowblocks.me
@@ -4733,6 +4748,13 @@ https://link.x.immutable.com/
 https://linktr.ee
 https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
 https://linktree.com
+https://liveassist.usaa.com/
+https://liveassist11.usaa.com/
+https://liveassist12.usaa.com/
+https://liveassist21.usaa.com/
+https://liveassist22.usaa.com/
+https://liveassist23.usaa.com
+https://liveassist24.usaa.com
 https://login.aufbaubank.de
 https://login.neogov.com
 https://login.salt.ch
@@ -4749,6 +4771,8 @@ https://maf-holding-prod.apigee.net
 https://manage.cic-bug-bounty.auth0app.com/
 https://manage.statuspage.io
 https://manager.trial.lsk.lightspeed.app/	
+https://mapi-a.usaa.com
+https://mapi.usaa.com/
 https://maps.bykea.net
 https://market.immutable.com/
 https://marketplace.atlassian.com
@@ -5112,6 +5136,7 @@ https://metamask.github.io/phishing-warning/<vX.Y.Z>
 https://metrobyt-mobile.com
 https://metroconnect.app.ridewithvia.com
 https://mg.n0c.com/
+https://mguest.usaa.com/
 https://microsoftedge.microsoft.com/addons/detail/pinterest-save-button/bkgoflemacdadndiohhdnphcmdhacabg
 https://mids.monash.edu/
 https://mindrift.ai/
@@ -5122,16 +5147,19 @@ https://mobile-production.content-square.net/
 https://mobile.monash/ 
 https://mobile.ooredoo.qa
 https://mobile.pornhub.com/
+https://mobile.usaa.com
 https://mobileapi.afterpay.com
 https://mobileapi.clearpay.com
 https://mobileapi.staging.luno.com/
 https://mobileapp.opsgenie.com
+https://mobileapps.usaa.com/
 https://monash.app.nutrip.com
 https://monashcollege.edu.au
 https://monster-customizer.classdojo.com/cf6dfa68-1a81-4c6d-bc0b-38f3666b37d6/index.html
 https://move.monash.edu/
 https://movieclub-int.kinepolis.com
 https://movienow-int.kinepolis.be/admin
+https://mstatic.usaa.com
 https://multipay-staging.test.komoju.com
 https://my.ampol.com.au/
 https://my.arlo.com
@@ -5151,8 +5179,10 @@ https://my.wyze.com
 https://myaccount-staging.getmoneytree.com
 https://myapi.arlo.com
 https://myapp.monash.edu/
+https://mydesktop.usaa.com
 https://mylink.page
 https://myplutus.pinelabs.my/
+https://myvpn.usaa.com
 https://mywallet-management-east.wallet.cat.earlywarning.io/
 https://mywallet-management-west.wallet.cat.earlywarning.io/
 https://namestudio.com
@@ -5161,12 +5191,14 @@ https://net.geo.opera.com
 https://newrelic.com/
 https://newrelic.com/blog
 https://newsletter.thuisbezorgd.nl
+https://nice.wfmusaa.com
 https://node.e2ro.com/*
 https://nominatim.bykea.net
 https://northwesternmutual.com
 https://nubank.com.br/
 https://nubank.com.co
 https://nubank.com.mx
+https://nvoice.usaa.com/
 https://nw.ring.com/*
 https://oauth.ring.com/*
 https://octopus.com
@@ -5213,6 +5245,7 @@ https://partnerapi1.tapayments.com
 https://partnerapi2.tapayments.com
 https://partnerhelp.viator.com/
 https://partnerprogramm.otto.de
+https://partners.usaa.com
 https://partners.viator.com
 https://passport.immutable.com/
 https://pay.unity.com
@@ -5339,6 +5372,7 @@ https://play.google.com/store/apps/details?id=com.tmobile.syncuptag
 https://play.google.com/store/apps/details?id=com.tmobile.tuesdays&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.ua.shop&hl=en
+https://play.google.com/store/apps/details?id=com.usaa.mobile.android.usaa&hl=en
 https://play.google.com/store/apps/details?id=com.verily.me
 https://play.google.com/store/apps/details?id=com.viator.mobile.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.worldcoin
@@ -5413,6 +5447,9 @@ https://review-api.lafourchette.com
 https://ring.com/*
 https://rusadminappt.vfsglobal.com/Global-Admin/
 https://s.contentsquare.net
+https://s.usaa.com/
+https://s1.utv.usaa.com
+https://s2.utv.usaa.com
 https://salesforce.quip.com/blog/desktop
 https://sandbox.digitalwallet.earlywarning.com
 https://sandbox.directly.com/dashboard/index
@@ -5426,6 +5463,7 @@ https://secure.cuehit.net
 https://secure.mypass.de/
 https://secure.neogov.com
 https://secure.vendhq.com
+https://securemail.usaa.com
 https://securesignin.neogov.com
 https://securesignin.powerdms.com/
 https://seekcdn.com
@@ -5510,6 +5548,7 @@ https://staging.luno.com/
 https://start.atlassian.com
 https://static-images.ifood.com.br
 https://static.demarches-simplifiees.fr
+https://static.usaa.com
 https://status-takeaway.com/status
 https://status.mobile.monash/
 https://storage.googleapis.com/kubernetes-release/
@@ -5628,13 +5667,18 @@ https://usvdc1-projectresolver.pnimedia.com/
 https://usvdc1-render3d.pnimedia.com/
 https://usvdc1-thumbnailserver-api.pnimedia.com/
 https://usvdc1-uploadserver.pnimedia.com/
+https://utv.usaa.com
+https://v.utv.usaa.com
 https://vault-staging.getmoneytree.com
 https://vault.chiatest.net/
 https://vc.tasheer.com/
+https://vendorss.usaa.com
 https://vfs.mioot.com/
 https://vfseu.mioot.com/
 https://viatorapi.viator.com/service/directory
 https://videoplayer.20min.ch
+https://vlagg.usaa.com
+https://vlapi.usaa.com
 https://vpe-us.underarmour.com/
 https://vroid.com/studio
 https://vtxapp9d.underarmour.com/
@@ -5655,6 +5699,7 @@ https://web-retailer-portal.ultramobile.com
 https://web.bitpanda.com
 https://web.teamviewer.com
 https://web3.sdx.com
+https://webmail.usaa.com
 https://webrtc.8x8.com/
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
 https://widget.thefork.com
@@ -5666,8 +5711,10 @@ https://wowjobs.ca
 https://ws-{app-id}.calls.sendbird.com
 https://ws-{app-id}.sendbird.com
 https://ws.multiplayer.classdojo.com/
+https://ws.usaa.com
 https://wslatam.ifood.com.br
 https://wsloja.ifood.com.br
+https://wsmbr.usaa.com/
 https://www.*mongodb.com/*
 https://www.20min.ch
 https://www.allsaints.me/
@@ -5912,6 +5959,8 @@ https://www.underarmour.com
 https://www.underarmournext.co.uk/
 https://www.unscreen.com
 https://www.upwork.com
+https://www.usaa.com
+https://www.usaainsurance.com/
 https://www.vendhq.com/
 https://www.verisign.com
 https://www.vfsglobalservices-germany.com/Global-Appointment/
