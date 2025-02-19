@@ -293,7 +293,6 @@
 *.epam.com
 *.epicgames.com
 *.epicgames.dev
-*.etsy.com
 *.eu.floqast.app
 *.eurid.eu
 *.europolitan.se
@@ -3926,6 +3925,7 @@ https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://apps.apple.com/be/app/zen-by-deezer-m%C3%A9ditation/id1597326355
 https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
+https://apps.apple.com/br/app/nubank-conta-e-cart%C3%A3o/id814456780
 https://apps.apple.com/ca/app/lime-ridegreen/id1199780189
 https://apps.apple.com/ca/app/lime-supply/id1620058457
 https://apps.apple.com/ch/app/debix/id1581440132?l=en-GB
@@ -4068,7 +4068,6 @@ https://bitbucket.org
 https://blablacardaily.com
 https://blockexplorer.electroneum.com
 https://blog.bitpanda.com/en
-https://blog.etsy.com
 https://blog.lastpass.com
 https://blog.thefork.com/
 https://blog.verisign.com
@@ -4115,7 +4114,6 @@ https://californiatenant.skyflow-preview.com/login
 https://carbonneutral.ampol.com.au/
 https://cards.ampol.com.au
 https://carecredit.com.au
-https://careers.etsy.com
 https://careers.takeaway.com
 https://cash.app
 https://cashback.opera.com/
@@ -4158,7 +4156,6 @@ https://coda.io/signup/email
 https://code.elementor.com/
 https://community.arlo.com
 https://community.cloud.databricks.com/
-https://community.etsy.com
 https://compulsoryunits.monash.edu/
 https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://connect.com
@@ -4276,7 +4273,6 @@ https://eshop.salt.ch
 https://etherscan.io/address/0x00005EA00Ac477B1030CE78506496e8C2dE24bf5
 https://etherscan.io/address/0x0000a26b00c1F0DF003000390027140000fAa719
 https://etherscan.io/token/0xfe18ae03741a5b84e39c295ac9c856ed7991c38e
-https://etsypayments.com
 https://events.1password.com/api/
 https://evigilation.monash.edu
 https://externalconnect.usaa.com/
@@ -4653,7 +4649,6 @@ https://hackme.matrixreq.com
 https://he.elementor.com/
 https://head.coda.io/*
 https://healthmate.withings.com
-https://help.etsy.com
 https://help.glassdoor.com/*
 https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
 https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows.htm
@@ -5189,6 +5184,9 @@ https://nice.wfmusaa.com
 https://node.e2ro.com/*
 https://nominatim.bykea.net
 https://northwesternmutual.com
+https://nubank.com.br/
+https://nubank.com.co
+https://nubank.com.mx
 https://nvoice.usaa.com/
 https://nw.ring.com/*
 https://oauth.ring.com/*
@@ -5326,6 +5324,7 @@ https://play.google.com/store/apps/details?id=com.moonpay
 https://play.google.com/store/apps/details?id=com.newrelic.rpm
 https://play.google.com/store/apps/details?id=com.nm.nm&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.nth.swisspost&hl=de_CH&gl=US
+https://play.google.com/store/apps/details?id=com.nu.production&hl=pt_BR&gl=US&pli=1
 https://play.google.com/store/apps/details?id=com.okta.android.auth&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.opera.app.news
 https://play.google.com/store/apps/details?id=com.opera.app.sports
@@ -5789,9 +5788,6 @@ https://www.dropbox.com/desktop
 https://www.dropbox.com/paper
 https://www.epam.com/
 https://www.espaskincare.com/
-https://www.etsy.com
-https://www.etsy.com/developers/documentation/getting_started/api_basics
-https://www.etsy.com/mobile
 https://www.exantediet.com/
 https://www.expressvpn.com
 https://www.expressvpn.com/latest#linux
@@ -5877,6 +5873,7 @@ https://www.nintendo.com/us/store/products/rec-room-switch/
 https://www.npmjs.com/package/@8x8/pui-partner-comm
 https://www.npmjs.com/package/@forge/cli	
 https://www.npmjs.com/package/@privy-io/react-auth
+https://www.nuinvest.com.br/
 https://www.oculus.com/experiences/quest/2173678582678296
 https://www.oculus.com/experiences/rift/1257029974329451
 https://www.okta.com/fastpass/
@@ -6620,6 +6617,9 @@ pro.coinbase.com
 pro.coinmarketcap.com
 pro.doctolib.(fr|de|it) (see "Free features for healthcare professionals"))
 procuration.bpost.be
+prod-*.nu.com.co
+prod-*.nu.com.mx
+prod-*.nubank.com.br
 prod.ros.rockstargames.com
 proddata.xobni.yahoo.com
 production.plaid.com

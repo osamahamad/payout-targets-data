@@ -56,7 +56,6 @@ casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 *.epam.com
 open redirect at *.epam.com
 Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
-*.etsy.com
 *.expressvpn.com
 *.xvtest.net
 *.xvservice.net
@@ -116,6 +115,9 @@ bugcrowd-*your-own-instance*.cloud.mattermost.com/
 *.nr-ops.net
 *.nml.com
 *.nmfn.com
+prod-*.nubank.com.br
+prod-*.nu.com.mx
+prod-*.nu.com.co
 *.octopus.com
 *.openai.org
 *.openai.org
