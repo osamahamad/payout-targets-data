@@ -195,7 +195,6 @@
 *.chimecard.com
 *.chimepayments.com
 *.chmfin.com
-*.cic-bug-bounty.auth0app.com
 *.citrixworkspacesapi.net
 *.citymeal.com
 *.claritymoney.com
@@ -1781,7 +1780,6 @@ Low Cost Access
 Low impact, individually exposed Google Docs with no common root cause (see “Publicly accessible Google Document or Drive Links” in the “Corporate Targets” section)
 Luna
 MFA
-MFA Integrations	
 MIUI OS for Xiaomi Phone
 Mac OS Executable
 Mac OS Executable: Download here https://www.larksuite.com/download
@@ -2663,9 +2661,7 @@ auth.skypicker.com
 auth.toloka.ai
 auth.truelayer[-sandbox].com
 auth.ys7.com
-auth0.com	
 auth0.gocardless.com
-auth0.net
 auth2.indrive.tech
 authentication.wolt.com
 authz.workbox.dk
@@ -3244,7 +3240,6 @@ company.thebrowser.arc
 compass.fareharbor.com
 components.stag.tomorrowland.com
 components.tomorrowland.com
-config.cic-bug-bounty.auth0app.com
 configure.bmw.de
 configure.mini.de
 confluence.hyattdev.com
@@ -3789,6 +3784,7 @@ https://api-a.usaa.com
 https://api-ch-gva-2.exoscale.com/v2
 https://api-evm.orderly.org/
 https://api-js.datadome.co
+https://api-prod.retailsso.com
 https://api-prod.thatconceptstore.com/
 https://api-staging.pingone.com/*
 https://api-test.nicehash.com
@@ -3856,7 +3852,6 @@ https://api.toom.de
 https://api.tripadvisor.com
 https://api.twilio.com
 https://api.unity.com
-https://api.us1.fga.dev/
 https://api.usaa.com/
 https://api.vistarmedia.com
 https://api.vistarmedia.eu
@@ -3967,7 +3962,6 @@ https://apps.apple.com/us/app/%E5%B1%A5%E6%AD%B4%E6%9B%B8%E4%BD%9C%E6%88%90-%E3%
 https://apps.apple.com/us/app/3cx/id992045982
 https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
 https://apps.apple.com/us/app/asana-mobile/id489969512
-https://apps.apple.com/us/app/auth0-guardian/id1093447833
 https://apps.apple.com/us/app/backblaze/id628638330
 https://apps.apple.com/us/app/bitstamp/id1406825640
 https://apps.apple.com/us/app/bme-conecta/id6443938949
@@ -4188,12 +4182,10 @@ https://cryptowallet.opera-api.com
 https://csp-prod.codebig2.net
 https://customer-api.datadome.co
 https://customerportal.winconnect.com.au/login
-https://customers.us1.fga.dev/
 https://cyberghost.com
 https://d1.utv.usaa.com
 https://d2.utv.usaa.com
 https://daily.blablacar.fr
-https://dashboard.fga.dev/
 https://dashboard.pantheon.io
 https://dashboard.rapyd.net/
 https://dashboard.sendbird.com/
@@ -4365,14 +4357,6 @@ https://github.com/apache/airflow
 https://github.com/apache/httpd
 https://github.com/apache/tomcat
 https://github.com/argoproj/argoproj
-https://github.com/auth0/Auth0.Net
-https://github.com/auth0/auth0-java
-https://github.com/auth0/auth0-php
-https://github.com/auth0/auth0-spa-js
-https://github.com/auth0/auth0.js
-https://github.com/auth0/lock
-https://github.com/auth0/nextjs-auth0
-https://github.com/auth0/react-native-auth0
 https://github.com/bigcommerce/
 https://github.com/brave-intl/bat-balance
 https://github.com/brave-intl/bat-client
@@ -4685,6 +4669,7 @@ https://internal.exoscale.ch
 https://interviews.monash.edu/
 https://investor.bullish.com/
 https://iphone-xml.booking.com/json/
+https://itunes.apple.com/app/carrefour-uae/id626805470
 https://itunes.apple.com/fr/app/blablacar-trusted-carpooling/id341329033?l=en&mt=8
 https://itunes.apple.com/gb/app/uconnect-live/id881830261?mt=8
 https://itunes.apple.com/pl/app/panda-uconnect/id1117321678?mt=8
@@ -4760,7 +4745,6 @@ https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|c
 https://m.csqtrk.net
 https://m.thefork.com
 https://maf-holding-prod.apigee.net
-https://manage.cic-bug-bounty.auth0app.com/
 https://manage.skyflowapis-preview.com
 https://manage.statuspage.io
 https://manager.trial.lsk.lightspeed.app/	
@@ -5108,7 +5092,6 @@ https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosti
 https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=server
 https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
-https://marketplace.auth0.com
 https://marketplace.ifood.com.br
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
 https://master.servicecentre.digitalservicing-np.lfscnp.com/
@@ -5263,7 +5246,6 @@ https://pit.water-link.be/
 https://pixabay.com/
 https://platform.infiniteathlete.ai
 https://platform.openai.com/playground
-https://play.fga.dev/
 https://play.google.com/store/apps/details?hl=en&id=co.bitx.android.wallet
 https://play.google.com/store/apps/details?id=au.com.ampol.flagship&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=au.com.ampol.teamapp
@@ -5275,11 +5257,11 @@ https://play.google.com/store/apps/details?id=com.acorns.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.afterpaymobile.uk
 https://play.google.com/store/apps/details?id=com.afterpaymobile.us&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.asana.app&hl=en
+https://play.google.com/store/apps/details?id=com.aswat.carrefouruae
 https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.core&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.atlassian.confluence.server
 https://play.google.com/store/apps/details?id=com.atlassian.jira.server&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.auth0.guardian&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.backblaze.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.belongi.moe
 https://play.google.com/store/apps/details?id=com.bigcommerce.mobile
@@ -5755,6 +5737,7 @@ https://www.canva.com
 https://www.canva.com/developers/
 https://www.canva.com/en_au/help/chatgpt-templates/
 https://www.canva.com/integrations/slack/
+https://www.carrefouruae.com/
 https://www.cb2.ae/en
 https://www.cfr.org/
 https://www.classdojo.com
@@ -6100,7 +6083,6 @@ js.stripe.com
 jss.greenhouse.io
 judge.me
 juicer.lime.bike
-jwt.io
 k8s.gcr.io
 k8s.io
 kaccount.khealth.com
@@ -6500,7 +6482,6 @@ open.airbnb.com
 open.larksuite.com
 open.ys7.com
 openapi.starbucks.com
-openidconnect.net	
 opposhop.cn
 oprc.portofantwerpbruges.com
 ops.lime.bike
@@ -6732,7 +6713,6 @@ safe.tumblr.com
 salesforce.khealth.com
 salesportal.hyatt.com
 saltlabs.com
-samltool.io	
 sandbox.affirm.com
 sandbox.authorize.net
 sandbox.braintreegateway.com
@@ -7120,7 +7100,6 @@ webapps-accpt.portofantwerpbruges.com
 webapps-test.portofantwerpbruges.com/xui
 webapps.portofantwerp.com
 webapps.portofantwerpbruges.com
-webauthn.me	
 webgateway.koho.ca
 webhooks.booking.com
 webhooks.gamma.redoxstage.com
