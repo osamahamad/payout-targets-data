@@ -120,6 +120,12 @@ prod-*.nubank.com.br
 prod-*.nu.com.mx
 prod-*.nu.com.co
 *.octopus.com
+*.openai.org
+*.openai.org
+*.openai.com
+*.openai.org
+*.openai.org
+*.openai.com
 *.opera.software
 *.osp.opera.software
 *.opera.technology
@@ -139,8 +145,6 @@ prod-*.nu.com.co
 *.support.originenergy.com.au
 *.api.originenergy.com.au
 *.download.originenergy.com.au
-*.pinterest.com Web Apps
-*.pinterest.com Web Apps
 *.points.com
 *.privateinternetaccess.com
 *.quizlet.com

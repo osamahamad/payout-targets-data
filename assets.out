@@ -640,6 +640,8 @@
 *.onduo.com/
 *.onegraph.com
 *.onevasco.com
+*.openai.com
+*.openai.org
 *.opera-mini.net
 *.opera.com
 *.opera.news
@@ -677,7 +679,6 @@
 *.personiowhistleblowing.com
 *.petbook-magazine.com/
 *.petbook.de
-*.pinterest.com Web Apps
 *.plannthat.com
 *.platformservices.io
 *.playstation.net
@@ -1912,6 +1913,7 @@ Open Source - Weep
 Open Source - Zuul
 Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 Open source tools from Cloudflare
+OpenAI API Keys
 OpenPGP Cert Directory Specification
 Opsgenie (Android)
 Opsgenie (IoS)
@@ -2097,6 +2099,7 @@ ThePerfumeShop.App.iOS
 Third Party Application
 Third Party Marketplace Apps
 Third Party Snaps
+Third Party Targets
 ThousandEyes Endpoint Agent 
 ThousandEyes Enterprise Agent
 Tidal Client for Android
@@ -2465,7 +2468,6 @@ api.ninjakiwi.com
 api.ovh.com
 api.personio-dev.com
 api.personio.com
-api.pinterest.com
 api.pns.hk
 api.portofantwerp.com
 api.portofantwerpbruges.com
@@ -3751,7 +3753,6 @@ https://accounts.welcomesoftware.com/
 https://acorns.com/
 https://addons.mozilla.org/en-US/firefox/addon/cyberghost-vpn-free-proxy/
 https://addons.mozilla.org/en-US/firefox/addon/expressvpn/
-https://addons.mozilla.org/en-US/firefox/addon/pinterest/
 https://addons.mozilla.org/en-US/firefox/addon/private-internet-access-ext/
 https://addons.opera.com/en/extensions/details/private-internet-access-extension/
 https://adhoc-bugcrowd-studio.cdn-code.org
@@ -3829,6 +3830,7 @@ https://api.mafshoppingmalls.com/
 https://api.moneyboxapp.com/
 https://api.neogov.com
 https://api.netgear.com
+https://api.openai.com
 https://api.optimizely.com/
 https://api.orderly.org/
 https://api.paymaya.com/
@@ -3999,7 +4001,6 @@ https://apps.apple.com/us/app/okta-verify/id490179405
 https://apps.apple.com/us/app/onduo/id1138490045
 https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
 https://apps.apple.com/us/app/paper-by-dropbox/id1126623662
-https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
 https://apps.apple.com/us/app/quip-docs-chat-sheets/id647922896
@@ -4129,13 +4130,13 @@ https://cdn.optimizely.com/
 https://central.sophos.com
 https://central.sophos.com/
 https://cfc.naspers.com/
+https://chat.openai.com
 https://chatspot.ai
 https://checkout.eyeko.com
 https://checkout.glossybox.com
 https://checkout.myvitamins.com
 https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad
 https://chrome.google.com/webstore/detail/ibotta-browser-extension/mfaedmjlefifhnhpgipjjiiekchaimpk?hl=en-US
-https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en
 https://chrome.google.com/webstore/detail/private-internet-access/jplnlifepflhkbkgonidnobkakhmpnmh
 https://chrome.google.com/webstore/detail/stay-secure-with-cybergho/ffbkglfijbcbgblgflchnbphjdllaogb
 https://chrome.google.com/webstore/detail/xverse-wallet/idnnbdplmphpflfnlkomgpfbpcgelopg
@@ -4588,7 +4589,6 @@ https://github.com/owncloud/web-extensions
 https://github.com/pendulum-project/clock-steering
 https://github.com/pendulum-project/ntpd-rs
 https://github.com/pendulum-project/timestamped-socket
-https://github.com/pinterest/
 https://github.com/pixiv/charcoal
 https://github.com/plaid/plaid-link-android
 https://github.com/plaid/plaid-link-examples
@@ -5129,7 +5129,6 @@ https://metrobyt-mobile.com
 https://metroconnect.app.ridewithvia.com
 https://mg.n0c.com/
 https://mguest.usaa.com/
-https://microsoftedge.microsoft.com/addons/detail/pinterest-save-button/bkgoflemacdadndiohhdnphcmdhacabg
 https://mids.monash.edu/
 https://mindrift.ai/
 https://mintmobile.com
@@ -5208,6 +5207,7 @@ https://online.srilankaevisa.lk/lka/en/login
 https://onlinena.vfsglobal.dz/AppointmentAdmin/
 https://op.paymaya.com/
 https://open.oppomobile.com
+https://openai.com/
 https://openam-bug-bounty-stag.forgeblocks.com/*
 https://opendata-demo.test-socrata.com
 https://opendata.test-socrata.com
@@ -5260,6 +5260,7 @@ https://pioneer.truata.com/
 https://pit.water-link.be/
 https://pixabay.com/
 https://platform.infiniteathlete.ai
+https://platform.openai.com/playground
 https://play.fga.dev/
 https://play.google.com/store/apps/details?hl=en&id=co.bitx.android.wallet
 https://play.google.com/store/apps/details?id=au.com.ampol.flagship&hl=en_AU&gl=US
@@ -5337,8 +5338,6 @@ https://play.google.com/store/apps/details?id=com.paymaya
 https://play.google.com/store/apps/details?id=com.pinegift
 https://play.google.com/store/apps/details?id=com.pinelabs.emicatalogue.pinelabs&hl=uz
 https://play.google.com/store/apps/details?id=com.pinelabs.pinelabsone
-https://play.google.com/store/apps/details?id=com.pinterest&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.pinterest.twa&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&hl=en
 https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid
 https://play.google.com/store/apps/details?id=com.scu.bsafe
