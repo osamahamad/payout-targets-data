@@ -33,7 +33,6 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.xfinity.com	
 *.comcast.com
 *.xcal.tv
-*.sys.comcast.net
 *.cyberghost.com
 *.dell.com/*
 *.delltechnologies.com/* 
@@ -109,6 +108,8 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.dev.*.lfscnp.com
 *.sandbox.*.lfscnp.com
 *.-np.*.lfscnp.com
+*.linktree-extensions.com
+*.plannthat.com
 *.linktree-extensions.com
 *.plannthat.com
 bugcrowd-*your-own-instance*.cloud.mattermost.com/
