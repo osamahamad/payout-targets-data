@@ -500,7 +500,6 @@
 *.line.naver.jp
 *.linecorp.com
 *.link.co
-*.linktree-extensions.com
 *.livestream.com
 *.logi.com
 *.login.gov
@@ -680,7 +679,6 @@
 *.petbook-magazine.com/
 *.petbook.de
 *.pinterest.com Web Apps
-*.plannthat.com
 *.platformservices.io
 *.playstation.net
 *.playticorp.com
@@ -3495,6 +3493,7 @@ fab.com
 falcon-sandbox.com
 fanduel.com
 fareharborsites.com
+fashion4less.me
 faucet-api.polygon.technology/
 faucet.polygon.technology
 federalist-docs.18f.gov
@@ -3779,7 +3778,6 @@ https://airflow-prod.coda.io/*
 https://airflow-prod.ops.coda.io/*
 https://aiven.io/
 https://ajax.staging.luno.com/
-https://album.link
 https://alumni-friends.monash.edu
 https://ampcharge.ampol.com.au/
 https://ampol.com.au/
@@ -3794,6 +3792,7 @@ https://api-ch-gva-2.exoscale.com/v2
 https://api-evm.orderly.org/
 https://api-js.datadome.co
 https://api-prod.retailsso.com
+https://api-prod.thatconceptstore.com/
 https://api-staging.pingone.com/*
 https://api-test.nicehash.com
 https://api-ui.toloka.ai
@@ -3914,6 +3913,7 @@ https://apps.apple.com/app/chia-signer/id6504493785
 https://apps.apple.com/app/id1216446440
 https://apps.apple.com/app/id1359583808
 https://apps.apple.com/app/id1450306065
+https://apps.apple.com/app/id1503045795
 https://apps.apple.com/app/id1635031432
 https://apps.apple.com/app/infomaniak-kdrive/id1482778676
 https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693
@@ -3924,7 +3924,6 @@ https://apps.apple.com/au/app/caltex-australia/id1314768594
 https://apps.apple.com/au/app/certsy/id1617796159
 https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
-https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://apps.apple.com/be/app/zen-by-deezer-m%C3%A9ditation/id1597326355
 https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
@@ -4030,7 +4029,6 @@ https://apps.microsoft.com/detail/3cx/9NW77489NGJ0
 https://apps.yeswehack.com
 https://arlo-device.messaging.netgear.com
 https://armourhouse.underarmour.com
-https://artist.link
 https://asana.com
 https://asana.com/apps?category=made-by-asana
 https://asana.com/download
@@ -4718,6 +4716,7 @@ https://kw-bugcrowd-pub.bounty.kiteworks.dev/
 https://l.usaa.com/
 https://lab.epam.com
 https://landrover.here.com
+https://lapi.yellowblocks.me
 https://laptop-updates.brave.com/latest/dev/debian64
 https://laptop-updates.brave.com/latest/dev/ubuntu64
 https://laptop-updates.brave.com/latest/fedora64
@@ -4740,9 +4739,6 @@ https://library-staging.pdq.tools/
 https://library.elementor.com/
 https://link.uma.me
 https://link.x.immutable.com/
-https://linktr.ee
-https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
-https://linktree.com
 https://liveassist.usaa.com/
 https://liveassist11.usaa.com/
 https://liveassist12.usaa.com/
@@ -5176,7 +5172,6 @@ https://myaccount-staging.getmoneytree.com
 https://myapi.arlo.com
 https://myapp.monash.edu/
 https://mydesktop.usaa.com
-https://mylink.page
 https://myplutus.pinelabs.my/
 https://myvpn.usaa.com
 https://mywallet-management-east.wallet.cat.earlywarning.io/
@@ -5200,8 +5195,6 @@ https://oauth.ring.com/*
 https://octopus.com
 https://octopus.com/downloads
 https://oda.com
-https://odesli.co
-https://odesli.com
 https://offer.tidal.com/download
 https://onboard.neogov.com
 https://one.newrelic.com
@@ -5325,6 +5318,7 @@ https://play.google.com/store/apps/details?id=com.lastpass.lpandroid
 https://play.google.com/store/apps/details?id=com.lime.supply&hl=en_US
 https://play.google.com/store/apps/details?id=com.limebike
 https://play.google.com/store/apps/details?id=com.maf.share&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.maf.thatandroid
 https://play.google.com/store/apps/details?id=com.moneyboxapp
 https://play.google.com/store/apps/details?id=com.moonpay
 https://play.google.com/store/apps/details?id=com.newrelic.rpm
@@ -5390,13 +5384,10 @@ https://play.google.com/store/apps/details?id=qa.ooredoo.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=se.atg.live&hl=en&gl=SE
 https://play.google.com/store/search?q=Schweizer+Finanzmuseum&c=apps
 https://play.google.com/store/search?q=mattermost&c=apps
-https://play.google.com/store/search?q=plann&c=apps
-https://playlist.link
 https://plmcixt.pinelabs.com/
 https://plugins.matomo.org/developer/innocraft
 https://plugins.matomo.org/developer/matomo-org
 https://poc-op-ywh.it.authentification.si.gouv.qc.ca/
-https://pods.link
 https://pornhub.mainhub.com
 https://portal-staging.pdq.tools/ 
 https://portal.3cx.com
@@ -5486,8 +5477,6 @@ https://snc.underarmour.com/
 https://sncf-connect.com
 https://snctest-c.underarmour.com/
 https://snctest-s.underarmour.com/
-https://song.link
-https://songlink.io
 https://sos-ch-gva-2.exo.io/
 https://soundcloud.com
 https://soundcloud.org
@@ -5582,6 +5571,7 @@ https://testflight.apple.com/join/533gFghn
 https://testflight.apple.com/join/FuaxsScP
 https://testflight.apple.com/join/vwFxXX7t
 https://tfb.t-mobile.com
+https://thatconceptstore.com
 https://thinkglobalhealth.org
 https://thueringer-foerderportal.eu
 https://ticket.multiplayer.classdojo.com
@@ -5589,7 +5579,6 @@ https://tidal.com/
 https://tms.onecloud.harman.com
 https://toloka.ai/
 https://toom.de
-https://tr.ee
 https://tracker.bugcrowd.com
 https://tracker.naspers.com/
 https://transfer.underarmour.com/
@@ -5710,6 +5699,7 @@ https://wsloja.ifood.com.br
 https://wsmbr.usaa.com/
 https://www.*mongodb.com/*
 https://www.20min.ch
+https://www.allsaints.me/
 https://www.amazon.com/luna/*
 https://www.amazonpay.in/*
 https://www.ameliorate.com/
@@ -5756,11 +5746,13 @@ https://www.canva.com/developers/
 https://www.canva.com/en_au/help/chatgpt-templates/
 https://www.canva.com/integrations/slack/
 https://www.carrefouruae.com/
+https://www.cb2.ae/en
 https://www.cfr.org/
 https://www.classdojo.com
 https://www.cloudvector.com/
 https://www.coral.co.uk
 https://www.coral.co.uk/en/games
+https://www.crateandbarrel.me
 https://www.creditkarma.com/reviews/
 https://www.creditkarma.com/savings
 https://www.cultbeauty.co.uk/
@@ -5842,6 +5834,7 @@ https://www.lastpass.com
 https://www.letspaylater.ph/
 https://www.li.me/
 https://www.lieferando.de/thetakeaway/
+https://www.lululemon.me
 https://www.magicplanetmena.com/
 https://www.malloftheemirates.com
 https://www.mankind.co.uk/
@@ -5912,6 +5905,7 @@ https://www.remove.bg
 https://www.restaurant-information.com
 https://www.sdx.com/
 https://www.sharerewards.com/
+https://www.shiseido.me/
 https://www.simplify.com/commerce/ 
 https://www.skidxb.com/
 https://www.skinstore.com/
@@ -6146,6 +6140,7 @@ launch.playcanvas.com
 launchpad.37signals.com
 lawmanager.marriott.com
 learningmanagerstage4.adobe.com
+lego.me
 leonard.vinci.com
 libsoup
 libsystemd
@@ -6291,7 +6286,6 @@ meta-api.reddit.com
 metahuman.unrealengine.com
 metamask.io
 metasearch-api.booking.com
-metrics.deribit.com
 metrics.int.remitly.com
 meu1.badoo.com
 mgm.mobilevikings.be
@@ -6636,6 +6630,7 @@ prometheus.fr.cloud.gov
 promos.tvg.com
 prow.k8s.io
 proxy-production.lime.bike
+psychobunny.me
 public.hyatt.com
 push-d-gw.cloud.etoro.com
 push-d-hap.cloud.etoro.com
@@ -6996,7 +6991,6 @@ tlbr.prod.tomorrowland.com
 tlfr.prod.tomorrowland.com
 tock.18f.gov
 todo.notebleue.pro
-tools.deribit.com
 toolsforhumanity.com
 tracking.vidaxl.com
 training.ui.com
