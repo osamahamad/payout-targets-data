@@ -10,7 +10,6 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.tube8.com
 *.trafficjunky.com
 *.adultforce.com
-*.backblazeb2.com
 *.<researcher-store>.mybigcommerce.com
 *.bigcommerce.net
 *.bitdefender.net
@@ -109,6 +108,8 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.dev.*.lfscnp.com
 *.sandbox.*.lfscnp.com
 *.-np.*.lfscnp.com
+*.linktree-extensions.com
+*.plannthat.com
 *.linktree-extensions.com
 *.plannthat.com
 bugcrowd-*your-own-instance*.cloud.mattermost.com/
