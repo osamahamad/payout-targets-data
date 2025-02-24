@@ -16,6 +16,7 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.bitdefender.net
 *.bitdefender.com
 *.bitstamp.net - Bitstamp Supporting Services
+*.bugcrowd.com/auth/*
 *.canva.com
 *.canva-apps.com
 *.canva.tech
@@ -77,6 +78,7 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.indeedflex.com
 *.indeed.tech
 *.indeed.net
+*.intercomassets.com / *.intercomcdn.com
 *.jora.com
 *.jora.xyz
 *.scoober.com
