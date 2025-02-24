@@ -814,7 +814,6 @@
 *.smartcontract.com
 *.snooguts.net
 *.sol-data.com
-*.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
 *.souparea.com
@@ -860,11 +859,6 @@
 *.teams.cloudflare.com
 *.techbook.de
 *.telenor.se
-*.tesla.cn
-*.tesla.com
-*.tesla.services
-*.teslainsuranceservices.com
-*.teslamotors.com
 *.testnet.immutable.com
 *.thinkingphones.com
 *.thinkingphones.net
@@ -1371,7 +1365,6 @@ Any Other Sophos Product or Service
 Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
 Any Worldpay asset is in scope
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
-Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Any host/web property verified to be owned by Twilio et al.
 Any host/web property/mobile app verified to be owned by Indeed
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
@@ -1740,6 +1733,7 @@ Kibana
 Kindle E-Reader
 Klarna Android App (com.myklarnamobile)
 Klarna iOS App (com.klarna.app)
+Kohl’s entire public digital footprint that is not Out-Of-Scope(See list below)
 Kruidvat (subdomains)
 Kruidvat.Belgium.Android
 Kruidvat.Belgium.iOS
@@ -2087,8 +2081,6 @@ TW eCommerce: Shopping
 TW eCommerce: Used Car
 Tablets
 Techcrunch
-Tesla Energy hardware you own
-Tesla vehicle hardware that you own
 Test environment
 Texts
 The Perfume Shop (subdomains)
@@ -3871,7 +3863,6 @@ https://apis-v5.australiansuper.com/
 https://apis.australiansuper.com/
 https://apis.indeed.com/graphql
 https://app-eu1.hubspot.com
-https://app-staging.getmoneytree.com
 https://app.agency360.com
 https://app.asana.com
 https://app.aurory.io
@@ -4012,14 +4003,12 @@ https://apps.apple.com/us/app/syncup-kids/id1503394062
 https://apps.apple.com/us/app/syncup-tracker/id1526380335
 https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
 https://apps.apple.com/us/app/t-mobile/id561625752
-https://apps.apple.com/us/app/tesla/id582007913
 https://apps.apple.com/us/app/under-armour/id1092704571
 https://apps.apple.com/us/app/usaa-mobile/id312325565
 https://apps.apple.com/us/app/verily-me/id6448808133
 https://apps.apple.com/us/app/viator-tours-activities/id434832826
 https://apps.apple.com/us/app/wise-ex-transferwise/id612261027
 https://apps.apple.com/us/app/xfinity/id1178765645
-https://apps.apple.com/vc/app/moneytree-finance-made-easy/id586847189
 https://apps.facebook.com/pearls-peril
 https://apps.facebook.com/pokerheat
 https://apps.facebook.com/vegas_downtown_slots
@@ -4104,7 +4093,6 @@ https://bugcrowd.hotdoc.com.au/api
 https://bugcrowd.hotdoc.com.au/dashboard
 https://bugs.opera.com/
 https://bullish.com/
-https://business-staging.getmoneytree.com/
 https://business.australiansuper.com/
 https://business.comcast.com/account
 https://butlerfortrello.com/
@@ -4695,7 +4683,6 @@ https://itunes.apple.com/us/app/uconnect/id1229236724?mt=8
 https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045663228?mt=8
 https://jaguar.here.com
 https://jointhemoment.net/
-https://jp-api-staging.getmoneytree.com
 https://judge.me/reviews
 https://just-eat.es
 https://just-eat.io/
@@ -5168,7 +5155,6 @@ https://my.thesecurityteam.rocks
 https://my.thesecurityteam.rocks/
 https://my.ultramobile.com
 https://my.wyze.com
-https://myaccount-staging.getmoneytree.com
 https://myapi.arlo.com
 https://myapp.monash.edu/
 https://mydesktop.usaa.com
@@ -5356,7 +5342,6 @@ https://play.google.com/store/apps/details?id=com.tcx.sipphone14
 https://play.google.com/store/apps/details?id=com.teamviewer.host.market&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile&hl=en&gl=US
-https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.tmobile.drive
 https://play.google.com/store/apps/details?id=com.tmobile.kids
 https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
@@ -5379,7 +5364,6 @@ https://play.google.com/store/apps/details?id=fr.gouv.tchap.a&hl=fr
 https://play.google.com/store/apps/details?id=io.aurory.seekersoftokane&hl=en_CA
 https://play.google.com/store/apps/details?id=io.gonative.android.xjndrq&hl=fr
 https://play.google.com/store/apps/details?id=io.opensea&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=jp.moneytree.moneytree&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=net.bitstamp.app
 https://play.google.com/store/apps/details?id=net.bitstamp.appgo
 https://play.google.com/store/apps/details?id=network.woo.mobile&hl=en&gl=US&pli=1
@@ -5426,7 +5410,6 @@ https://rec.net/
 https://rec.net/download
 https://reclaim.ai
 https://recroom.com/studio
-https://redash-staging.getmoneytree.com/
 https://rentals.tripadvisor.com
 https://reptox.cnesst.gouv.qc.ca/
 https://res.cloudinary.com
@@ -5659,7 +5642,6 @@ https://usvdc1-thumbnailserver-api.pnimedia.com/
 https://usvdc1-uploadserver.pnimedia.com/
 https://utv.usaa.com
 https://v.utv.usaa.com
-https://vault-staging.getmoneytree.com
 https://vault.chiatest.net/
 https://vc.tasheer.com/
 https://vendorss.usaa.com
@@ -5828,6 +5810,8 @@ https://www.kaleido.ai
 https://www.keepersecurity.com/download.html
 https://www.kiwai-enr.fr/
 https://www.kiwai-normandie.fr/
+https://www.kohls.com
+https://www.kohls.com/feature/app.jsp
 https://www.kruidvat.be/blog/
 https://www.kruidvat.nl/blog/
 https://www.kruidvat.nl/fotoservice
@@ -5978,9 +5962,6 @@ https://www.yeswehack.com
 https://www.youporn.com/
 https://www.youpornpremium.com/
 https://www.zabbix.com/download_sources
-https://wwws-staging.moneytree.jp/link/
-https://wwws-staging.moneytree.jp/link/mobile/
-https://wwws-staging.moneytree.jp/link/mobile/#/signup?client_id=38d99a6e8e9fc87c866f5aa82bdc2569c464b2323a55e0b28f658efa678e9623&redirect_uri=https://wwws-staging.moneytree.jp/link/mobile/callback&response_type=token&scope=guest_read+accounts_read+transactions_read+request_refresh
 https://xyzbmojn.net/
 https://yeswehack.com
 https://yeswehack.staging.komoju.com
