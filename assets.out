@@ -1357,6 +1357,7 @@ All Zomato Assets (Other than BlinkIT & Hyperpure)
 All other Assets
 All other SBB owned IT assets
 All other Web and mobile APPs owned by SBB 
+All the Blockchain Infrastructure
 Amazon Subsidiaries (Please only actively test explicitly stated scope)
 AmpliFi
 Anchor
@@ -3741,6 +3742,7 @@ https://a.simplemdm.com/
 https://a370a9658141.gateway.skyflowapis-preview.com
 https://a370a9658141.vault.skyflowapis-preview.com
 https://account-registration.monash.edu/
+https://account.bitpanda.com
 https://account.post.ch
 https://account.t-mobile.com
 https://account.teamviewer.com
@@ -3802,6 +3804,7 @@ https://api.20min.ch/
 https://api.aiven.io/login
 https://api.anytask.com/
 https://api.anytask.thesecurityteam.rocks
+https://api.bitpanda.com
 https://api.blablalines.com
 https://api.bugcrowd.com
 https://api.bykea.net
@@ -3904,6 +3907,7 @@ https://apphouse.underarmour.com/
 https://appointment.vfsglobal.com.dz/forms/FRDZ/
 https://apps-staging.pingone.com/*
 https://apps.apple.com/am/app/maya-your-all-in-one-money-app/id991673877
+https://apps.apple.com/app/bitpanda-buy-bitcoin-crypto/id1449018960
 https://apps.apple.com/app/bitx-wallet/id927362479
 https://apps.apple.com/app/chia-signer/id6504493785 
 https://apps.apple.com/app/id1216446440
@@ -4066,6 +4070,7 @@ https://biocorellc.com
 https://bitbucket.org
 https://blablacardaily.com
 https://blockexplorer.electroneum.com
+https://blog.bitpanda.com/en
 https://blog.etsy.com
 https://blog.lastpass.com
 https://blog.thefork.com/
@@ -5285,6 +5290,7 @@ https://play.google.com/store/apps/details?id=com.backblaze.android&hl=en_US&gl=
 https://play.google.com/store/apps/details?id=com.belongi.moe
 https://play.google.com/store/apps/details?id=com.bigcommerce.mobile
 https://play.google.com/store/apps/details?id=com.bitmex.app.android.testnet
+https://play.google.com/store/apps/details?id=com.bitpanda.bitpanda
 https://play.google.com/store/apps/details?id=com.blablalines
 https://play.google.com/store/apps/details?id=com.booking&hl=en
 https://play.google.com/store/apps/details?id=com.booking.hotelmanager&hl=en
@@ -5691,6 +5697,7 @@ https://walletproxy2.tapayments.com
 https://wbsapi.withings.net
 https://we.toloka.ai/auth
 https://web-retailer-portal.ultramobile.com
+https://web.bitpanda.com
 https://web.teamviewer.com
 https://web3.sdx.com
 https://webmail.usaa.com
@@ -5746,6 +5753,8 @@ https://www.binance.com/
 https://www.binance.us/
 https://www.bitdefender.com/business/smb-products/business-security.html?cid=ppc|b|google|smb&s_kwcid=AL!6076!3!514235572261!p!!g!!bitdefender%20business&utm_term=bitdefender%20business&utm_campaign=USA+SMB+Branded+30&utm_source=adwords&utm_medium=ppc&hsa_acc=8155205354&hsa_cam=7848657822&hsa_grp=124745713150&hsa_ad=514235572261&hsa_src=g&hsa_tgt=kwd-308396066873&hsa_kw=bitdefender%20business&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwqIiFBhAHEiwANg9szk-Rr3iSn4mrwsvAUOn-pzrO12ufWDmyCLopWigaLQW0t_xtlBE65RoCr6kQAvD_BwE
 https://www.bitgo.com
+https://www.bitpanda.com/
+https://www.bitpanda.com/academy/en/
 https://www.bitstamp.net/
 https://www.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
 https://www.bluehost.com/
@@ -5895,6 +5904,7 @@ https://www.partycasino.com
 https://www.partypoker.com
 https://www.personio.com/free-trial/
 https://www.personio.de/kostenlos-testen/
+https://www.pexels.com/
 https://www.pinelabs.ae/
 https://www.pixpay.fr/
 https://www.planethoster.com
@@ -7172,6 +7182,7 @@ wp-qa.chime.com
 ws.blockchain.info
 ws.sorare.com
 ws1.dashlane.com
+wss://socket.bitpanda.com
 www.4njbets.com
 www.abritel.fr
 www.ad.nl
