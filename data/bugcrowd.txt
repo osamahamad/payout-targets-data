@@ -540,6 +540,9 @@ Bitdefender BOX v2
 https://www.bitgo.com
 https://app.bitgo.com
 https://app.bitgo-test.com
+https://www.bitgo.com
+https://app.bitgo.com
+https://app.bitgo-test.com
 https://web.bitpanda.com
 https://www.bitpanda.com/
 https://api.bitpanda.com
@@ -556,11 +559,6 @@ https://play.google.com/store/apps/details?id=net.bitstamp.app
 https://play.google.com/store/apps/details?id=net.bitstamp.appgo
 https://bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com
-https://docs.bugcrowd.com/
-https://bugcrowd.com/programs
-https://tracker.bugcrowd.com
-https://api.bugcrowd.com
-https://identity.bugcrowd.com/
 https://bullish.com/
 https://investor.bullish.com/
 https://simnext.bullish-test.com
@@ -922,12 +920,6 @@ https://play.google.com/store/apps/details?id=com.indeed.resume
 https://apps.apple.com/us/app/indeed-connect-for-employers/id6443822731
 https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcmnfgpnmkkhmkllnlflef
 Any host/web property/mobile app verified to be owned by Indeed
-https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
-https://api.intercom.com
-https://app.intercom.com
-https://app.intercom.io/
-https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
-https://www.intercom.com/
 iRobot cloud-connected robot that you own (i.e. j7, s9, i7, 980, 960, 690, Braava, etc.)
 https://play.google.com/store/apps/details?id=com.irobot.home
 https://itunes.apple.com/us/app/irobot-home/id1012014442?mt=8
@@ -2094,6 +2086,7 @@ https://csp-prod.codebig2.net
 csp-pci.prod.codebig2.net
 aiq-prod.codebig2.net
 https://bc.yieldstreet.net
+staging-app.bany.dev
 staging-app.bany.dev
 █████████████████████
 ████████████

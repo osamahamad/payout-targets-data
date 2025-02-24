@@ -158,7 +158,6 @@
 *.braintreepayments.com
 *.bredbandsbolaget.se
 *.buddypress.org,bbpress.org,profiles.wordpress.org
-*.bugcrowd.com/auth/*
 *.byairbnb.com
 *.bybit.com
 *.bykea.net
@@ -435,7 +434,6 @@
 *.instacart.tools
 *.int.remitly.com
 *.intel.com
-*.intercomassets.com / *.intercomcdn.com
 *.intergamma-test.nl
 *.intergamma.cloud
 *.intergamma.nl/*
@@ -3806,7 +3804,6 @@ https://api.anytask.com/
 https://api.anytask.thesecurityteam.rocks
 https://api.bitpanda.com
 https://api.blablalines.com
-https://api.bugcrowd.com
 https://api.bykea.net
 https://api.canva.com
 https://api.classdojo.com
@@ -3825,7 +3822,6 @@ https://api.ibotta.com
 https://api.immutable.com
 https://api.int.ibops.net
 https://api.int.ibops.net/customer-loyalty-service
-https://api.intercom.com
 https://api.justeat-int.com
 https://api.lafourchette.com
 https://api.mafshoppingmalls.com/
@@ -3887,8 +3883,6 @@ https://app.ecwid.com/api/v3/
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.hubspot.com/
 https://app.ibotta.com/sign-in 
-https://app.intercom.com
-https://app.intercom.io/
 https://app.latitudepayapps.com/
 https://app.opsgenie.com
 https://app.optimizely.com/
@@ -4102,7 +4096,6 @@ https://bugcrowd-oie-%username%-2.workflows.oktapreview.com
 https://bugcrowd-pam-###.at.oktapreview.com
 https://bugcrowd-pam-###.oktapreview.com
 https://bugcrowd-pam-###.workflows.oktapreview.com
-https://bugcrowd.com/programs
 https://bugcrowd.hotdoc.com.au
 https://bugcrowd.hotdoc.com.au/api
 https://bugcrowd.hotdoc.com.au/dashboard
@@ -4228,8 +4221,6 @@ https://developer.zendesk.com/documentation/zendesk-sdks/#ios
 https://developers.afterpay.com
 https://developers.elementor.com/
 https://developers.hubspot.com/docs/api/overview
-https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
-https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
 https://developers.oppomobile.com
 https://developers.vendhq.com/
 https://devportal.rec.net/
@@ -4239,7 +4230,6 @@ https://digits.t-mobile.com/
 https://dimensions.cloudinary.com
 https://directlink.eu-west-2.outscale.com
 https://doc.komoju.com/docs/fields-overview
-https://docs.bugcrowd.com/
 https://docs.eazybi.com/
 https://docs.immutable.com/
 https://docs.keeper.io/en/v/secrets-manager
@@ -4674,7 +4664,6 @@ https://hug.personio.com
 https://icu.eu-west-2.outscale.com
 https://id.atlassian.com/login
 https://id.unity.com
-https://identity.bugcrowd.com/
 https://identity.majidalfuttaim.com
 https://identity.monash.edu
 https://identity.monash.edu/
@@ -5597,7 +5586,6 @@ https://tms.onecloud.harman.com
 https://toloka.ai/
 https://toom.de
 https://tr.ee
-https://tracker.bugcrowd.com
 https://tracker.naspers.com/
 https://transcodes-cdn.vistarmedia.com
 https://transfer.underarmour.com/
@@ -5830,7 +5818,6 @@ https://www.iciparisxl.lu/blog/
 https://www.iciparisxl.nl/blog/
 https://www.ifood.com.br
 https://www.illamasqua.com/
-https://www.intercom.com/
 https://www.just-eat.co.uk
 https://www.just-eat.ie
 https://www.justeat.it/rider
