@@ -158,6 +158,7 @@
 *.braintreepayments.com
 *.bredbandsbolaget.se
 *.buddypress.org,bbpress.org,profiles.wordpress.org
+*.bugcrowd.com/auth/*
 *.byairbnb.com
 *.bybit.com
 *.bykea.net
@@ -3805,6 +3806,7 @@ https://api.anytask.com/
 https://api.anytask.thesecurityteam.rocks
 https://api.bitpanda.com
 https://api.blablalines.com
+https://api.bugcrowd.com
 https://api.bykea.net
 https://api.canva.com
 https://api.classdojo.com
@@ -4100,6 +4102,7 @@ https://bugcrowd-oie-%username%-2.workflows.oktapreview.com
 https://bugcrowd-pam-###.at.oktapreview.com
 https://bugcrowd-pam-###.oktapreview.com
 https://bugcrowd-pam-###.workflows.oktapreview.com
+https://bugcrowd.com/programs
 https://bugcrowd.hotdoc.com.au
 https://bugcrowd.hotdoc.com.au/api
 https://bugcrowd.hotdoc.com.au/dashboard
@@ -4236,6 +4239,7 @@ https://digits.t-mobile.com/
 https://dimensions.cloudinary.com
 https://directlink.eu-west-2.outscale.com
 https://doc.komoju.com/docs/fields-overview
+https://docs.bugcrowd.com/
 https://docs.eazybi.com/
 https://docs.immutable.com/
 https://docs.keeper.io/en/v/secrets-manager
@@ -4670,6 +4674,7 @@ https://hug.personio.com
 https://icu.eu-west-2.outscale.com
 https://id.atlassian.com/login
 https://id.unity.com
+https://identity.bugcrowd.com/
 https://identity.majidalfuttaim.com
 https://identity.monash.edu
 https://identity.monash.edu/
@@ -5592,6 +5597,7 @@ https://tms.onecloud.harman.com
 https://toloka.ai/
 https://toom.de
 https://tr.ee
+https://tracker.bugcrowd.com
 https://tracker.naspers.com/
 https://transcodes-cdn.vistarmedia.com
 https://transfer.underarmour.com/
