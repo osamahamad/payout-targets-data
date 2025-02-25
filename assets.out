@@ -963,6 +963,7 @@
 *.werkenbijkarwei.nl
 *.wf.com
 *.whois.eu
+*.whoop.com
 *.wimpmusic.com
 *.wise.com
 *.wissen-sie-mehr.de
@@ -2188,6 +2189,7 @@ Vulnerabilities compromising the privacy of our employees
 Vulnerability & Patch Management
 WARP Mobile Apps
 WARP desktop client
+WHOOP 4.0 STRAP
 WP-CLI
 Waiting Room
 Watsons HK (subdomains)
@@ -2489,6 +2491,7 @@ api.pns.hk
 api.portofantwerp.com
 api.portofantwerpbruges.com
 api.preprod.monespacesante.fr
+api.prod.whoop.com
 api.profiler.firefox.com
 api.qwant.com
 api.rapyd.net
@@ -3219,6 +3222,8 @@ com.wellsfargo.ceomobile
 com.wf.ceomobile
 com.wf.mobilebanking
 com.wf.wellsfargomobile
+com.whoop.android
+com.whoop.iphone
 com.wikibuy.prod.main
 com.wisdomtree.wtprime
 com.withbuddies.dice.free
@@ -5600,6 +5605,7 @@ https://support.lastpass.com
 https://support.newrelic.com/
 https://support.okta.com
 https://support.oppo.com/cn/
+https://support.whoop.com/Battery_Pack_Updater
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 https://svn.filezilla-project.org/svn/libfilezilla/trunk
