@@ -78,6 +78,8 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.indeedflex.com
 *.indeed.tech
 *.indeed.net
+*.intercomassets.com / *.intercomcdn.com
+*.intercomassets.com / *.intercomcdn.com
 *.jora.com
 *.jora.xyz
 *.scoober.com
@@ -176,12 +178,6 @@ api-*.soundcloud.com
 *.square.com
 *.squareup.com
 *.statuspage.io
-*.tesla.cn
-*.tesla.services
-*.tesla.com
-*.teslamotors.com
-*.solarcity.com
-*.teslainsuranceservices.com
 *.tools.thefork.tech
 *.wimpmusic.com
 *.tidalhifi.com

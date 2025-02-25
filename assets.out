@@ -435,6 +435,7 @@
 *.instacart.tools
 *.int.remitly.com
 *.intel.com
+*.intercomassets.com / *.intercomcdn.com
 *.intergamma-test.nl
 *.intergamma.cloud
 *.intergamma.nl/*
@@ -813,7 +814,6 @@
 *.smartcontract.com
 *.snooguts.net
 *.sol-data.com
-*.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
 *.souparea.com
@@ -859,11 +859,6 @@
 *.teams.cloudflare.com
 *.techbook.de
 *.telenor.se
-*.tesla.cn
-*.tesla.com
-*.tesla.services
-*.teslainsuranceservices.com
-*.teslamotors.com
 *.testnet.immutable.com
 *.thinkingphones.com
 *.thinkingphones.net
@@ -1370,7 +1365,6 @@ Any Other Sophos Product or Service
 Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
 Any Worldpay asset is in scope
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
-Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Any host/web property verified to be owned by Twilio et al.
 Any host/web property/mobile app verified to be owned by Indeed
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
@@ -2087,8 +2081,6 @@ TW eCommerce: Shopping
 TW eCommerce: Used Car
 Tablets
 Techcrunch
-Tesla Energy hardware you own
-Tesla vehicle hardware that you own
 Test environment
 Texts
 The Perfume Shop (subdomains)
@@ -3824,6 +3816,7 @@ https://api.ibotta.com
 https://api.immutable.com
 https://api.int.ibops.net
 https://api.int.ibops.net/customer-loyalty-service
+https://api.intercom.com
 https://api.justeat-int.com
 https://api.lafourchette.com
 https://api.mafshoppingmalls.com/
@@ -3885,6 +3878,8 @@ https://app.ecwid.com/api/v3/
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.hubspot.com/
 https://app.ibotta.com/sign-in 
+https://app.intercom.com
+https://app.intercom.io/
 https://app.latitudepayapps.com/
 https://app.opsgenie.com
 https://app.optimizely.com/
@@ -4011,7 +4006,6 @@ https://apps.apple.com/us/app/syncup-kids/id1503394062
 https://apps.apple.com/us/app/syncup-tracker/id1526380335
 https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
 https://apps.apple.com/us/app/t-mobile/id561625752
-https://apps.apple.com/us/app/tesla/id582007913
 https://apps.apple.com/us/app/under-armour/id1092704571
 https://apps.apple.com/us/app/usaa-mobile/id312325565
 https://apps.apple.com/us/app/verily-me/id6448808133
@@ -4224,6 +4218,8 @@ https://developer.zendesk.com/documentation/zendesk-sdks/#ios
 https://developers.afterpay.com
 https://developers.elementor.com/
 https://developers.hubspot.com/docs/api/overview
+https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
+https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
 https://developers.oppomobile.com
 https://developers.vendhq.com/
 https://devportal.rec.net/
@@ -5356,7 +5352,6 @@ https://play.google.com/store/apps/details?id=com.tcx.sipphone14
 https://play.google.com/store/apps/details?id=com.teamviewer.host.market&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile&hl=en&gl=US
-https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.tmobile.drive
 https://play.google.com/store/apps/details?id=com.tmobile.kids
 https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
@@ -5824,6 +5819,7 @@ https://www.iciparisxl.lu/blog/
 https://www.iciparisxl.nl/blog/
 https://www.ifood.com.br
 https://www.illamasqua.com/
+https://www.intercom.com/
 https://www.just-eat.co.uk
 https://www.just-eat.ie
 https://www.justeat.it/rider

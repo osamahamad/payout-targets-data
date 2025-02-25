@@ -413,6 +413,7 @@
 *.instacart.tools
 *.int.remitly.com
 *.intel.com
+*.intercomassets.com / *.intercomcdn.com
 *.intergamma-test.nl
 *.intergamma.cloud
 *.intergamma.nl/*
@@ -791,7 +792,6 @@
 *.smartcontract.com
 *.snooguts.net
 *.sol-data.com
-*.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
 *.souparea.com
@@ -837,11 +837,6 @@
 *.teams.cloudflare.com
 *.techbook.de
 *.telenor.se
-*.tesla.cn
-*.tesla.com
-*.tesla.services
-*.teslainsuranceservices.com
-*.teslamotors.com
 *.testnet.immutable.com
 *.thinkingphones.com
 *.thinkingphones.net
