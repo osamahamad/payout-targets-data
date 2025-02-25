@@ -79,7 +79,6 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.indeed.tech
 *.indeed.net
 *.intercomassets.com / *.intercomcdn.com
-*.intercomassets.com / *.intercomcdn.com
 *.jora.com
 *.jora.xyz
 *.scoober.com
@@ -137,19 +136,6 @@ prod-*.nu.com.co
 *.operafootball.com
 *.feednews.com
 *.dailyadvent.com
-*.opera.software
-*.osp.opera.software
-*.opera.technology
-*.sec-tunnel.com
-*.opera.com
-*.opera-mini.net
-*.opera.news
-*.operanewsapp.com
-*.yoyogames.com
-*.apex-football.com
-*.operafootball.com
-*.feednews.com
-*.dailyadvent.com
 *.opsgenie.com
 *.origindigital-pac.com.au
 *.odcdn.com.au
@@ -171,6 +157,16 @@ prod-*.nu.com.co
 *.neat.hk
 *.neat.wtf
 *.rec.net/*
+*.seek.com.au
+*.skinfra.xyz
+*.outfra.xyz
+*.sol-data.com
+*.jobapi.net
+*.seekpass.co
+*.seekpass-staging.com
+*.aips-internal.com
+*.certsy.com
+*.certsynonprod.com
 *.mcssl.com
 *.skyscanner.net
 3rd party services hosted at *.sophos.com
@@ -181,6 +177,12 @@ api-*.soundcloud.com
 *.square.com
 *.squareup.com
 *.statuspage.io
+*.tesla.cn
+*.tesla.services
+*.tesla.com
+*.teslamotors.com
+*.solarcity.com
+*.teslainsuranceservices.com
 *.tools.thefork.tech
 *.wimpmusic.com
 *.tidalhifi.com
