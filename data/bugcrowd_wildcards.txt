@@ -38,8 +38,6 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.xcal.tv
 *.sys.comcast.net
 *.cyberghost.com
-*.dell.com/*
-*.delltechnologies.com/* 
 *.sandbox.directly.com/
 *.dropbox.com    
 *.hellosign.com
@@ -201,6 +199,8 @@ api-*.soundcloud.com
  *.sip.*.twilio.com
  Twilio CDNs (static*.twilio.com)
 *.api.ua.com/
+*.gtld-servers.net (DNS service; DNS related)
+*.verisign-grs.com (DNS service; DNS related)
 *.viatorinc.com
 *.viator.com
 *.transferwise.com
