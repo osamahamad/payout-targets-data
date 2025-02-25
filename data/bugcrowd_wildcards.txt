@@ -23,9 +23,6 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.canva.cn
 *.canva-apps.cn
 *.cashstaging.app
-*.meraki.com
-*.ikarem.io
-*.network-auth.com
 *.classdojo.com
 *.classdojo.co.uk
 *.doj.io
@@ -177,6 +174,12 @@ api-*.soundcloud.com
 *.square.com
 *.squareup.com
 *.statuspage.io
+*.tesla.cn
+*.tesla.services
+*.tesla.com
+*.teslamotors.com
+*.solarcity.com
+*.teslainsuranceservices.com
 *.tesla.cn
 *.tesla.services
 *.tesla.com
