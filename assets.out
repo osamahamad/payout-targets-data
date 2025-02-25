@@ -239,6 +239,8 @@
 *.das.eu
 *.datacamp.com
 *.de.jbl.com
+*.dell.com/*
+*.delltechnologies.com/* 
 *.demorgen.be
 *.deribit.com
 *.deriv.cloud
@@ -1366,6 +1368,7 @@ Android SDK
 Any .magic.link demo sites
 Any FIS asset is in scope
 Any Other Sophos Product or Service
+Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
 Any Worldpay asset is in scope
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
@@ -1984,6 +1987,22 @@ Roblox Engine
 Roblox Studio
 Rockstar Games Launcher
 Rust SDK
+SAP Business Network for Logistics	
+SAP Cloud ALM
+SAP Continuous Integration and Delivery
+SAP Customer Data Cloud portfolio from Gigya
+SAP Enable Now
+SAP Integrated Business Planning for Supply Chain
+SAP Omnichannel Promotion Pricing
+SAP Order Management for Sourcing and Availability
+SAP Order Management foundation
+SAP Revenue Growth Optimization 
+SAP Risk and Assurance Management
+SAP S/4HANA Cloud Private Edition
+SAP S/4HANA Cloud Public Edition
+SAP S/4HANA migration cockpit
+SAP Signavio
+SAP SuccessFactors
 SHA1-CD
 SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope
 SSL/TLS
@@ -4167,6 +4186,9 @@ https://connect.soundcloud.com
 https://consensys.io/
 https://console-staging.pingone.com/*
 https://console.aiven.io/login
+https://console.delltechnologies.com/nav/administration
+https://console.delltechnologies.com/nav/billing
+https://console.delltechnologies.com/nav/invoice
 https://consumer-sustainability.underarmour.com/en
 https://consumer.finicityreports.com
 https://content-server.ibotta.com/graphql
