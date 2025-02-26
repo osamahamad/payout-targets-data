@@ -66,6 +66,10 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.hs-sites(-eu1)?.com
 *.hubspotpagebuilder.com
 *.hubspotpagebuilder.eu
+*.hubspotemail.net
+*.hs-sites(-eu1)?.com
+*.hubspotpagebuilder.com
+*.hubspotpagebuilder.eu
 *.movilepay.com
 *.movilepay.com.br
 *.guildofguardians.com
@@ -200,8 +204,6 @@ api-*.soundcloud.com
 *.api.ua.com/
 *.gtld-servers.net (DNS service; DNS related)
 *.verisign-grs.com (DNS service; DNS related)
-*.viatorinc.com
-*.viator.com
 *.transferwise.com
 *.wise.com
 *-cvr-aws-*.sys.comcast.net
