@@ -83,8 +83,6 @@
 *.app.personio.com
 *.app.spacelift.dev
 *.appmiral.com
-*.arlo.com
-*.arloxcld.com
 *.artstation.com
 *.asana.biz
 *.atairbnb.com
@@ -914,6 +912,8 @@
 *.vfsglobal.(com|co.uk|ca)
 *.vfsglobal.by
 *.vhx.tv
+*.viator.com
+*.viatorinc.com
 *.vimeo.com
 *.vimla.io
 *.vimla.se
