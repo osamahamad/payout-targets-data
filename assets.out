@@ -105,6 +105,8 @@
 *.app.personio.com
 *.app.spacelift.dev
 *.appmiral.com
+*.arlo.com
+*.arloxcld.com
 *.artstation.com
 *.asana.biz
 *.atairbnb.com
@@ -1390,6 +1392,33 @@ Apps SDK Sandboxing
 Arc on Mac
 Arc on Windows
 Area 1
+Arlo
+Arlo All-In-One Sensor (Home Security System)
+Arlo Baby
+Arlo Base Station
+Arlo Bridge
+Arlo Cellular & Battery Backup (Home Security System)
+Arlo Chime / Chime 2
+Arlo Essential
+Arlo Floodlight
+Arlo Go / Go 2
+Arlo Home Security System
+Arlo Pro
+Arlo Pro 2
+Arlo Pro 3
+Arlo Pro 4
+Arlo Pro 5S
+Arlo Q / Q+
+Arlo Safe Android App
+Arlo Safe Button
+Arlo Safe iOS App
+Arlo Secure Android App
+Arlo Secure iOS App
+Arlo Security Light
+Arlo Ultra
+Arlo Video Doorbell
+Arlo Wire-Free Outdoor Siren (Home Security System)
+Arlo Wireless Video Doorbell
 Aruba AirWave AMP
 Aruba ClearPass Policy Manager
 Aruba EdgeConnect Enterprise
@@ -3716,6 +3745,7 @@ http://www.shopmarriott.com
 http://www.underarmour.com.sg
 http://www.whynot.com/
 https//monidentifiant.sncf
+https://*-prod.arlo.com
 https://0-2744452194.s3.nbg01.de.dracoon.io
 https://195.60.68.241
 https://195.60.68.242
@@ -4019,6 +4049,7 @@ https://apps.facebook.com/pokerheat
 https://apps.facebook.com/vegas_downtown_slots
 https://apps.microsoft.com/detail/3cx/9NW77489NGJ0
 https://apps.yeswehack.com
+https://arlo-device.messaging.netgear.com
 https://armourhouse.underarmour.com
 https://artist.link
 https://asana.com
@@ -4049,6 +4080,7 @@ https://backblaze.com
 https://backend.ibotta.com/
 https://base.org
 https://bc.yieldstreet.net
+https://beta.arlo.com
 https://bigcommerce.com/blog
 https://bigcommerce.com/make-it-big
 https://billing.ring.com/*
@@ -4151,6 +4183,7 @@ https://cockpit-eu-west-2.outscale.com/
 https://coda.io/*
 https://coda.io/signup/email
 https://code.elementor.com/
+https://community.arlo.com
 https://community.cloud.databricks.com/
 https://community.etsy.com
 https://compulsoryunits.monash.edu/
@@ -4251,6 +4284,7 @@ https://donate.mastercard.com
 https://download.krisp.ai/mac
 https://download.krisp.ai/win
 https://download.opera.com
+https://downloads.arlo.com
 https://dropbox.com/dash/download
 https://dropboxpartners.com
 https://dxc.episerver.net/ 
@@ -5116,6 +5150,7 @@ https://matrix.e.tchap.gouv.fr
 https://matrix.i.tchap.gouv.fr
 https://mattermost.com/apps/
 https://mc.sendgrid.com/
+https://mcs.arlo.com
 https://mcssl.com
 https://mediaflows.cloudinary.com/
 https://menulog.co.nz
@@ -5153,6 +5188,7 @@ https://mstatic.usaa.com
 https://mtp.myoas.com
 https://multipay-staging.test.komoju.com
 https://my.ampol.com.au/
+https://my.arlo.com
 https://my.electroneum.com/
 https://my.elementor.com/
 https://my.exness.com/pa/pim/manager
@@ -5167,6 +5203,7 @@ https://my.thesecurityteam.rocks/
 https://my.ultramobile.com
 https://my.wyze.com
 https://myaccount-staging.getmoneytree.com
+https://myapi.arlo.com
 https://myapp.monash.edu/
 https://mydesktop.usaa.com
 https://mylink.page
@@ -5638,6 +5675,7 @@ https://unified.neogov.com
 https://unihub.monash.edu/
 https://unity3d.com/get-unity/download
 https://unity3d.com/get-unity/download/archive
+https://updates.arlo.com
 https://us.eufy.com/products/e8213181
 https://us.eufy.com/products/t8410121
 https://us.eufy.com/products/t88511d1
@@ -5714,6 +5752,7 @@ https://www.ankermake.com/products/m5?variant=42744298373269
 https://www.anytask.com/
 https://www.api.hpr.kiwai-normandie.fr/
 https://www.api.kiwai-normandie.fr
+https://www.arlo.com
 https://www.arubanetworks.com/products/networking/analytics-and-assurance/user-experience-insight-sensors/
 https://www.atlassian.com/enterprise/data-center/bitbucket
 https://www.atlassian.com/enterprise/data-center/confluence
