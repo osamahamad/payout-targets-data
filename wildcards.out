@@ -381,10 +381,6 @@
 *.hoteltonight.com
 *.houseoffun.com
 *.housetrip.com
-*.hs-sites(-eu1)?.com
-*.hubspotemail.net
-*.hubspotpagebuilder.com
-*.hubspotpagebuilder.eu
 *.humio.com
 *.humo.be
 *.hypermint.com
@@ -914,6 +910,8 @@
 *.vfsglobal.(com|co.uk|ca)
 *.vfsglobal.by
 *.vhx.tv
+*.viator.com
+*.viatorinc.com
 *.vimeo.com
 *.vimla.io
 *.vimla.se
