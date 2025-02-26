@@ -1,3 +1,5 @@
+*.arlo.com
+*.arloxcld.com
 *.central.arubanetworks.com
 *.asana.biz
 *.app.asana.com
@@ -185,7 +187,6 @@ api-*.soundcloud.com
 *.wimpmusic.com
 *.tidalhifi.com
 *.tdl.sh
-*.trello.services
 *.trello.services
 *.vacationhomerentals.com
 *.holidaylettings.com
