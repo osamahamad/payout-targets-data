@@ -83,8 +83,6 @@
 *.app.personio.com
 *.app.spacelift.dev
 *.appmiral.com
-*.arlo.com
-*.arloxcld.com
 *.artstation.com
 *.asana.biz
 *.atairbnb.com
@@ -871,6 +869,7 @@
 *.travelocity.com
 *.travix.com
 *.travix.io
+*.trello.services
 *.trip.com
 *.trouw.nl
 *.truelayer.cloud
