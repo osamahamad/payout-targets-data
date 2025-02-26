@@ -1,7 +1,3 @@
-*.arlo.com
-*.arloxcld.com
-*.arlo.com
-*.arloxcld.com
 *.central.arubanetworks.com
 *.asana.biz
 *.app.asana.com
@@ -64,6 +60,10 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.xvservice.net
 *.certinia.com
 *.kiln.it
+*.hubspotemail.net
+*.hs-sites(-eu1)?.com
+*.hubspotpagebuilder.com
+*.hubspotpagebuilder.eu
 *.hubspotemail.net
 *.hs-sites(-eu1)?.com
 *.hubspotpagebuilder.com
@@ -189,6 +189,8 @@ api-*.soundcloud.com
 *.wimpmusic.com
 *.tidalhifi.com
 *.tdl.sh
+*.trello.services
+*.trello.services
 *.vacationhomerentals.com
 *.holidaylettings.com
 *.flipkey.com
@@ -201,8 +203,6 @@ api-*.soundcloud.com
 *.api.ua.com/
 *.gtld-servers.net (DNS service; DNS related)
 *.verisign-grs.com (DNS service; DNS related)
-*.viatorinc.com
-*.viator.com
 *.transferwise.com
 *.wise.com
 *-cvr-aws-*.sys.comcast.net
