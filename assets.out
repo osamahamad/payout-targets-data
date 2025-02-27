@@ -413,6 +413,7 @@
 *.hyperpure.com
 *.hyperwallet.com
 *.hypr.com
+*.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
 *.imperva.com
@@ -535,6 +536,7 @@
 *.megatix.be  
 *.melonapp.com
 *.memorable.io
+*.meraki.com
 *.mercadolibre.cl
 *.mercadolibre.com
 *.mercadolibre.com.ar
@@ -609,6 +611,7 @@
 *.neat.wtf
 *.neatcommerce.com
 *.neattest.com
+*.network-auth.com
 *.new.livestream.com
 *.newegg.ca
 *.newegg.com
@@ -1492,6 +1495,14 @@ Chime IOS App (Beta)
 China Network
 Chrome Extension
 Circle Cameras
+Cisco Meraki Dashboard Mobile Application (iOS and Android)
+Cisco Meraki MR Access Points
+Cisco Meraki MS Switches
+Cisco Meraki MV Security Cameras
+Cisco Meraki MX Security Appliances
+Cisco Meraki Systems Manager
+Cisco Meraki Virtual Security Appliances
+Cisco Meraki Z Series (Z1,Z3(C))
 ClickHouse Cloud environment hosted by ClickHouse
 Cloudflare Access
 Cloudflare Analytics
@@ -2631,6 +2642,7 @@ apps-accpt.portofantwerp.com
 apps-accpt.portofantwerpbruges.com
 apps.apple.com/fr/app/mon-espace-sant%C3%A9/id1589255019 (iOS)
 apps.apple.com/us/app/crowdstrike-falcon/id1458815656
+apps.meraki.io
 apps.nextcloud.com
 apps.portofantwerp.com
 apps.portofantwerpbruges.com
@@ -5158,6 +5170,7 @@ https://mcssl.com
 https://mediaflows.cloudinary.com/
 https://menulog.co.nz
 https://menulog.com.au
+https://meraki.cisco.com
 https://metamask-sdk-socket.metafi.codefi.network/
 https://metamask.github.io/phishing-warning/<vX.Y.Z>
 https://metrobyt-mobile.com
