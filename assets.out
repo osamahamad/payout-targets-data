@@ -239,6 +239,8 @@
 *.das.eu
 *.datacamp.com
 *.de.jbl.com
+*.dell.com/*
+*.delltechnologies.com/* 
 *.demorgen.be
 *.deribit.com
 *.deriv.cloud
@@ -1370,6 +1372,7 @@ Android SDK
 Any .magic.link demo sites
 Any FIS asset is in scope
 Any Other Sophos Product or Service
+Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
 Any Worldpay asset is in scope
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
@@ -4205,6 +4208,9 @@ https://consensus2024.sandbox.events.coindesk.com/
 https://consensys.io/
 https://console-staging.pingone.com/*
 https://console.aiven.io/login
+https://console.delltechnologies.com/nav/administration
+https://console.delltechnologies.com/nav/billing
+https://console.delltechnologies.com/nav/invoice
 https://consumer-sustainability.underarmour.com/en
 https://consumer.finicityreports.com
 https://content-server.ibotta.com/graphql
