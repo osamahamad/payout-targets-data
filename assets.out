@@ -815,7 +815,6 @@
 *.smartcontract.com
 *.snooguts.net
 *.sol-data.com
-*.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
 *.souparea.com
@@ -861,11 +860,6 @@
 *.teams.cloudflare.com
 *.techbook.de
 *.telenor.se
-*.tesla.cn
-*.tesla.com
-*.tesla.services
-*.teslainsuranceservices.com
-*.teslamotors.com
 *.testnet.immutable.com
 *.thinkingphones.com
 *.thinkingphones.net
@@ -902,6 +896,7 @@
 *.truelayer.io
 *.tstaging.com
 *.tstaging.tools
+*.tube8.com
 *.tumblr.com
 *.tweakblogs.net
 *.tweakers.net
@@ -1372,7 +1367,6 @@ Any Other Sophos Product or Service
 Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
 Any Worldpay asset is in scope
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
-Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Any host/web property verified to be owned by Twilio et al.
 Any host/web property/mobile app verified to be owned by Indeed
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
@@ -2105,8 +2099,6 @@ TW eCommerce: Shopping
 TW eCommerce: Used Car
 Tablets
 Techcrunch
-Tesla Energy hardware you own
-Tesla vehicle hardware that you own
 Test environment
 Texts
 The Perfume Shop (subdomains)
@@ -3860,6 +3852,7 @@ https://api.optimizely.com/
 https://api.orderly.org/
 https://api.paymaya.com/
 https://api.planethoster.net
+https://api.pornhub.com/
 https://api.production.cde.tamg.cloud
 https://api.rec.net
 https://api.ring.com/*
@@ -4037,7 +4030,6 @@ https://apps.apple.com/us/app/syncup-kids/id1503394062
 https://apps.apple.com/us/app/syncup-tracker/id1526380335
 https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
 https://apps.apple.com/us/app/t-mobile/id561625752
-https://apps.apple.com/us/app/tesla/id582007913
 https://apps.apple.com/us/app/under-armour/id1092704571
 https://apps.apple.com/us/app/usaa-mobile/id312325565
 https://apps.apple.com/us/app/verily-me/id6448808133
@@ -5174,6 +5166,7 @@ https://mmp.otto.de
 https://mobile-production.content-square.net/
 https://mobile.monash/ 
 https://mobile.ooredoo.qa
+https://mobile.pornhub.com/
 https://mobile.usaa.com
 https://mobileapi.afterpay.com
 https://mobileapi.clearpay.com
@@ -5393,7 +5386,6 @@ https://play.google.com/store/apps/details?id=com.tcx.sipphone14
 https://play.google.com/store/apps/details?id=com.teamviewer.host.market&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile&hl=en&gl=US
-https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.tmobile.drive
 https://play.google.com/store/apps/details?id=com.tmobile.kids
 https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
@@ -5431,6 +5423,7 @@ https://plugins.matomo.org/developer/innocraft
 https://plugins.matomo.org/developer/matomo-org
 https://poc-op-ywh.it.authentification.si.gouv.qc.ca/
 https://pods.link
+https://pornhub.mainhub.com
 https://portal-staging.pdq.tools/ 
 https://portal.3cx.com
 https://portal.afterpay.com
@@ -5945,6 +5938,8 @@ https://www.pexels.com/
 https://www.pinelabs.ae/
 https://www.pixpay.fr/
 https://www.planethoster.com
+https://www.pornhub.com/
+https://www.pornhubpremium.com/
 https://www.powerman.co.uk/
 https://www.ppr.kiwai-enr.fr/
 https://www.premogiftcards.com
@@ -5953,6 +5948,8 @@ https://www.privateinternetaccess.com/download/linux-vpn
 https://www.privateinternetaccess.com/download/mac-vpn
 https://www.privateinternetaccess.com/download/windows-vpn
 https://www.privateinternetaccess.com/vpn-server
+https://www.redtube.com/
+https://www.redtubepremium.com/
 https://www.remove.bg
 https://www.restaurant-information.com
 https://www.sdx.com/
@@ -5986,6 +5983,7 @@ https://www.theperfumeshop.com/blog/
 https://www.theperfumeshop.com/ie/blog/
 https://www.thousandeyes.com/
 https://www.thuisbezorgd.nl/aanmelden
+https://www.thumbzilla.com/
 https://www.toursgds.com/
 https://www.toursgds.com/SupplierService?wsdl
 https://www.toursgds.com/ToursGdsService?wsdl
@@ -6020,6 +6018,8 @@ https://www.xbox.com/en-us/games/store/rec-room/9pgpqk0xthrz
 https://www.xfinity.com/apps
 https://www.xvideos.net/app/
 https://www.yeswehack.com
+https://www.youporn.com/
+https://www.youpornpremium.com/
 https://www.zabbix.com/download_sources
 https://wwws-staging.moneytree.jp/link/
 https://wwws-staging.moneytree.jp/link/mobile/
