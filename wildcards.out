@@ -1,9 +1,11 @@
  *.sip.*.twilio.com
+ *.test.*.lfscnp.com
  Twilio CDNs (static*.twilio.com)
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *-api-*.acronis.com
 *-cvr-aws-*.sys.comcast.net
 *. vfsevisa.id
+*.-np.*.lfscnp.com
 *.10bis.co.il
 *.1debit.com
 *.3lateral.com
@@ -223,6 +225,7 @@
 *.deriv.com
 *.derivws.com
 *.dev-pub.mobilevikings.be
+*.dev.*.lfscnp.com
 *.dev.grindr.io
 *.dev.mobilevikings.be
 *.dev.remitly.com
@@ -304,6 +307,8 @@
 *.fuze.site
 *.gamma.be/*
 *.gamma.nl/*
+*.genoapay.co.nz
+*.genoapay.com
 *.gethypr.com
 *.getmeetio.com
 *.github.net
@@ -458,6 +463,11 @@
 *.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
+*.latitudefinancial.co.nz
+*.latitudefinancial.com
+*.latitudefinancial.com.au
+*.latitudepay.com
+*.latitudepay.com.au
 *.lemonsqueezy.com
 *.libelle.nl
 *.lieferando.at
@@ -713,6 +723,7 @@
 *.runnr.in
 *.s-cloud.net
 *.saltlabs.com
+*.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
 *.say.rocks
 *.saytechnologies.com
