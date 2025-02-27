@@ -98,17 +98,6 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.beta.scoober.com
 *.just-data.io
 *.just-eat.com 
-*.genoapay.co.nz
-*.genoapay.com
-*.latitudefinancial.co.nz
-*.latitudefinancial.com
-*.latitudefinancial.com.au
-*.latitudepay.com.au
-*.latitudepay.com
- *.test.*.lfscnp.com
-*.dev.*.lfscnp.com
-*.sandbox.*.lfscnp.com
-*.-np.*.lfscnp.com
 *.linktree-extensions.com
 *.plannthat.com
 bugcrowd-*your-own-instance*.cloud.mattermost.com/
@@ -177,6 +166,12 @@ api-*.soundcloud.com
 *.square.com
 *.squareup.com
 *.statuspage.io
+*.tesla.cn
+*.tesla.services
+*.tesla.com
+*.teslamotors.com
+*.solarcity.com
+*.teslainsuranceservices.com
 *.tools.thefork.tech
 *.wimpmusic.com
 *.tidalhifi.com
