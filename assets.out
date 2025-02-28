@@ -112,7 +112,6 @@
 *.asana.biz
 *.atairbnb.com
 *.atg.se
-*.atlastunnel.com
 *.atspotify.com
 *.audicagame.com
 *.autobild.de
@@ -1377,11 +1376,9 @@ Any FIS asset is in scope
 Any Other Sophos Product or Service
 Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
 Any Worldpay asset is in scope
-Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Any host/web property verified to be owned by Twilio et al.
 Any host/web property/mobile app verified to be owned by Indeed
-Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 Any other Epic games owned asset not listed in the out of scope section
 Any other Malwarebytes asset
 Any public (Internet-facing) infrastructure owned and operated by Palantir.
@@ -1642,7 +1639,6 @@ FireTV
 Firmware
 Fleet Server
 Flex - Xfinity hardware and services
-Forge Platform
 FortniteClient-Android-Shipping-arm64-es2.apk
 FortniteClient-Win64-Shipping.exe
 FortniteLauncher-Win64-Shipping.exe
@@ -1698,7 +1694,6 @@ Grammarly Business Features
 Grammarly Desktop for Windows
 Grammarly Desktop for macOS
 Grammarly for Microsoft Word
-GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)
 Gutenberg
 H5G
 HEY.app
@@ -1928,7 +1923,6 @@ Orbi Android App
 Orbi iOS App 
 Other
 Other (Misc)
-Other - (all other Atlassian targets)
 Other APK Assets
 Other Acronis Domains
 Other Acronis executables
@@ -2050,6 +2044,7 @@ Sophos Firewall (XG/XGS, SFOS) - Pre-auth RCE
 Sophos IT Infrastructure (all other Sophos domains)
 Source Code
 Source code hosting
+SpaceX and Starlink assets (target information and rewards detailed above on the brief)
 Special Conditions
 Special scenarios (see description)
 Specific scenarios (see program description)
@@ -3798,8 +3793,6 @@ https://addons.opera.com/en/extensions/details/private-internet-access-extension
 https://adhoc-bugcrowd-studio.cdn-code.org
 https://adhoc-bugcrowd.cdn-code.org
 https://admin-roundups.moneyboxapp.org/
-https://admin.atlassian.com/
-https://admin.atlassian.com/atlassian-access
 https://admin.foxy.io/
 https://admin.foxycart.com
 https://admin.lastpass.com
@@ -3921,6 +3914,7 @@ https://app.bitgo.com
 https://app.bitrise.io/app/51a95edaab331ec5/installable-artifacts/e5213e1a814bf0ba/public-install-page/bed0d33f048271d6828c5a4a979ecc96
 https://app.chime.com/
 https://app.datadome.co
+https://app.ecwid.com/api/v3/	
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.hubspot.com/
 https://app.ibotta.com/sign-in 
@@ -4015,18 +4009,15 @@ https://apps.apple.com/us/app/booking-com-hotels-travel/id367003839
 https://apps.apple.com/us/app/bybit-app/id1488296980
 https://apps.apple.com/us/app/classdojo/id552602056
 https://apps.apple.com/us/app/compass-real-estate-homes/id692766504
-https://apps.apple.com/us/app/confluence-cloud/id1006971684
-https://apps.apple.com/us/app/confluence-server/id1288365159
 https://apps.apple.com/us/app/dropbox-emm/id1080074001
 https://apps.apple.com/us/app/dropbox-secure-cloud-storage/id327630330
+https://apps.apple.com/us/app/ecwid-ecommerce/id626731456
 https://apps.apple.com/us/app/electroneum/id1270774992
 https://apps.apple.com/us/app/expressvpn-fast-secure-vpn/id886492891?mt=8
 https://apps.apple.com/us/app/hubspot/id1107711722
 https://apps.apple.com/us/app/id583009522
 https://apps.apple.com/us/app/indeed-connect-for-employers/id6443822731
 https://apps.apple.com/us/app/indeed-job-search/id309735670
-https://apps.apple.com/us/app/jira-cloud-by-atlassian/id1006972087
-https://apps.apple.com/us/app/jira-server/id1405353949
 https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665	
 https://apps.apple.com/us/app/keeperchat/id1273303729?mt=12
 https://apps.apple.com/us/app/kucoin-buy-bitcoin-crypto/id1378956601?mt=8
@@ -4104,7 +4095,6 @@ https://billingonline.post.ch/OnlinePayment/Web/v1/BOI
 https://billingserver.pinelabs.com/
 https://binance.tr
 https://biocorellc.com
-https://bitbucket.org
 https://blablacardaily.com
 https://blockexplorer.electroneum.com
 https://blog.bitpanda.com/en
@@ -4204,7 +4194,6 @@ https://community.arlo.com
 https://community.cloud.databricks.com/
 https://community.etsy.com
 https://compulsoryunits.monash.edu/
-https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://connect.com
 https://connect.monash.edu
 https://connect.paymaya.com/
@@ -4277,6 +4266,7 @@ https://developers.hubspot.com/docs/api/overview
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
 https://developers.oppomobile.com
+https://developers.vendhq.com/
 https://devportal.rec.net/
 https://devstaging.pcapcloud.com/*
 https://digits.t-mobile.com
@@ -4719,7 +4709,6 @@ https://hr.prosus.com/
 https://hub.immutable.com/
 https://hug.personio.com
 https://icu.eu-west-2.outscale.com
-https://id.atlassian.com/login
 https://id.unity.com
 https://identity.bugcrowd.com/
 https://identity.majidalfuttaim.com
@@ -4822,7 +4811,6 @@ https://mapi.usaa.com/
 https://maps.bykea.net
 https://maps.vistarmedia.com
 https://market.immutable.com/
-https://marketplace.atlassian.com
 https://marketplace.atlassian.com/apps/1210722/confluence-source-editor?hosting=server
 https://marketplace.atlassian.com/apps/1210725/data-generator-for-jira?hosting=server
 https://marketplace.atlassian.com/apps/1210766/teamcity-integration-for-jira?hosting=cloud
@@ -5299,6 +5287,7 @@ https://partners.viator.com
 https://passport.immutable.com/
 https://pay.unity.com
 https://paymayabiller-prod.paymaya.com/
+https://payment-connectors.vendhq.com/
 https://paymentoptimizerdashboard.pinepg.in/
 https://payoutapi.maya.ph/
 https://pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-revision/
@@ -5331,10 +5320,6 @@ https://play.google.com/store/apps/details?id=com.afterpaymobile.uk
 https://play.google.com/store/apps/details?id=com.afterpaymobile.us&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.asana.app&hl=en
 https://play.google.com/store/apps/details?id=com.aswat.carrefouruae
-https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.core&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.atlassian.confluence.server
-https://play.google.com/store/apps/details?id=com.atlassian.jira.server&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.auth0.guardian&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.backblaze.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.belongi.moe
@@ -5356,6 +5341,7 @@ https://play.google.com/store/apps/details?id=com.deezer.zen
 https://play.google.com/store/apps/details?id=com.dropbox.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.dropbox.app.hellosign&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.dropbox.paper&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.ecwid.android&pli=1
 https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr
 https://play.google.com/store/apps/details?id=com.fcagroup.us.uconnect
@@ -5511,6 +5497,7 @@ https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secure-iphone-xml.booking.com/json/
 https://secure.cuehit.net
 https://secure.neogov.com
+https://secure.vendhq.com
 https://securemail.usaa.com
 https://securesignin.neogov.com
 https://securesignin.powerdms.com/
@@ -5595,7 +5582,6 @@ https://staging-prime.navan.com
 https://staging.coda.io/*
 https://staging.gearset.com/
 https://staging.luno.com/
-https://start.atlassian.com
 https://static-images.ifood.com.br
 https://static.demarches-simplifiees.fr
 https://static.usaa.com
@@ -5605,6 +5591,7 @@ https://storage.googleapis.com/kubernetes-release/
 https://store.epicgames.com/en-US/p/seekers-of-tokane-a5986d
 https://store.playstation.com/en-us/product/UP2662-CUSA08481_00-RECROOM000000001
 https://store.playstation.com/en-us/product/UP2662-PPSA05532_00-6681199027107223
+https://store.retail.lightspeed.app
 https://store.steampowered.com/app/471710/Rec_Room/
 https://store.unity.com
 https://storybook.vistarmedia.com
@@ -5779,23 +5766,6 @@ https://www.api.hpr.kiwai-normandie.fr/
 https://www.api.kiwai-normandie.fr
 https://www.arlo.com
 https://www.arubanetworks.com/products/networking/analytics-and-assurance/user-experience-insight-sensors/
-https://www.atlassian.com/enterprise/data-center/bitbucket
-https://www.atlassian.com/enterprise/data-center/confluence
-https://www.atlassian.com/enterprise/data-center/crowd
-https://www.atlassian.com/enterprise/data-center/jira
-https://www.atlassian.com/enterprise/data-center/jira/service-management
-https://www.atlassian.com/software/atlas
-https://www.atlassian.com/software/bamboo
-https://www.atlassian.com/software/compass
-https://www.atlassian.com/software/confluence
-https://www.atlassian.com/software/confluence/premium
-https://www.atlassian.com/software/crucible
-https://www.atlassian.com/software/fisheye
-https://www.atlassian.com/software/jira
-https://www.atlassian.com/software/jira/product-discovery
-https://www.atlassian.com/software/jira/service-management
-https://www.atlassian.com/software/jira/work-management
-https://www.atlassian.com/software/rovo
 https://www.australiansuper.com/
 https://www.beautyexpert.com/
 https://www.beta.tchap.gouv.fr
@@ -5937,7 +5907,6 @@ https://www.namejet.com/
 https://www.networksolutions.com
 https://www.nintendo.com/us/store/products/rec-room-switch/
 https://www.npmjs.com/package/@8x8/pui-partner-comm
-https://www.npmjs.com/package/@forge/cli	
 https://www.npmjs.com/package/@privy-io/react-auth
 https://www.nuinvest.com.br/
 https://www.oculus.com/experiences/quest/2173678582678296
@@ -5993,7 +5962,6 @@ https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial
 https://www.sophos.com/en-us/products/mobile-control/free-trial
 https://www.sophos.com/en-us/products/next-gen-firewall
 https://www.soundtrackyourbrand.com
-https://www.sourcetreeapp.com/
 https://www.staples.com/services/printing
 https://www.status-takeaway.com/status
 https://www.superdrug.com/blog/
@@ -6026,6 +5994,7 @@ https://www.unscreen.com
 https://www.upwork.com
 https://www.usaa.com
 https://www.usaainsurance.com/
+https://www.vendhq.com/
 https://www.verisign.com
 https://www.vfsglobalservices-germany.com/Global-Appointment/
 https://www.vfsvisaservice.com/
