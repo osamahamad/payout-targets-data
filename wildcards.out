@@ -258,9 +258,17 @@
 *.elastic.co
 *.elasticnet.co
 *.elstc.co
+*.emakina.at
+*.emakina.ch
+*.emakina.com
+*.emakina.fr
+*.emakina.group
+*.emakina.nl 
+*.emakina.us
 *.enjinusercontent.com
 *.enspotify.com
 *.eops.nl
+*.epam.com
 *.epicgames.com
 *.epicgames.dev
 *.etsy.com
@@ -987,6 +995,7 @@
 3rd party services hosted at *.sophos.com
 GenAI Apps under *.amazon.*
 Leaked/compromised employee accounts *.here.com
+Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 analytics-*.8x8.com
 api*.netflix.com
 api-*.soundcloud.com
@@ -1003,6 +1012,7 @@ loadboard*.bykea.net/
 matrix.agent.*.tchap.gouv.fr
 munin-*.wordpress.org
 onboarding-*.cloud.com
+open redirect at *.epam.com
 prod-*.nu.com.co
 prod-*.nu.com.mx
 prod-*.nubank.com.br

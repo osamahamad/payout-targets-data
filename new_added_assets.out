@@ -1,2 +1,15 @@
-github.com/uphold/*
-https://pixabay.com/
+*.emakina.at
+*.emakina.ch
+*.emakina.com
+*.emakina.fr
+*.emakina.group
+*.emakina.nl 
+*.emakina.us
+*.epam.com
+In Scope - Points only
+Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
+https://lab.epam.com
+https://opensource.epam.com
+https://projects.epam.com
+https://www.epam.com/
+open redirect at *.epam.com
