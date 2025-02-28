@@ -561,6 +561,11 @@ https://bugcrowd.com/programs
 https://tracker.bugcrowd.com
 https://api.bugcrowd.com
 https://identity.bugcrowd.com/
+https://docs.bugcrowd.com/
+https://bugcrowd.com/programs
+https://tracker.bugcrowd.com
+https://api.bugcrowd.com
+https://identity.bugcrowd.com/
 https://bullish.com/
 https://investor.bullish.com/
 https://simnext.bullish-test.com
@@ -754,15 +759,6 @@ https://projects.epam.com
 https://lab.epam.com
 https://opensource.epam.com
 In Scope - Points only
-https://www.etsy.com
-https://www.etsy.com/mobile
-https://www.etsy.com/mobile
-https://www.etsy.com/developers/documentation/getting_started/api_basics
-https://etsypayments.com
-https://blog.etsy.com
-https://careers.etsy.com
-https://help.etsy.com
-https://community.etsy.com
 Virtualisation layer
 https://sks-ch-gva-2.exo.io
 https://portal.exoscale.com/
@@ -1779,11 +1775,6 @@ https://infiniteathlete.ai
 https://platform.infiniteathlete.ai
 https://docs.tempus-ex.com
 https://github.com/tempus-ex
-https://apps.apple.com/us/app/tesla/id582007913
-Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
-https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
-Tesla Energy hardware you own
-Tesla vehicle hardware that you own
 https://www.thefork.com/
 https://m.thefork.com
 https://blog.thefork.com/
@@ -2087,6 +2078,7 @@ https://woox.io/
 https://play.google.com/store/apps/details?id=network.woo.mobile&hl=en&gl=US&pli=1
 https://apps.apple.com/mt/app/woo-x-buy-crypto-btc/id1576648404
 Any Worldpay asset is in scope
+Any Worldpay asset is in scope
 https://auth.wyze.com
 https://my.wyze.com
 https://api.wyzecam.com
@@ -2112,5 +2104,7 @@ csp-pci.prod.codebig2.net
 aiq-prod.codebig2.net
 https://bc.yieldstreet.net
 staging-app.bany.dev
+http://staging-api.ynab.com
+www.ynab.com
 █████████████████████
 ████████████

@@ -20,6 +20,7 @@
 * hln.be/login
 * hln.be/registreren
 * humo.be/registreren
+**.whoop.com
 *-api-*.acronis.com
 *-asia-south1.truecaller.com
 *-bugcrowd.foxycart.com (read below for details)
@@ -293,7 +294,6 @@
 *.epam.com
 *.epicgames.com
 *.epicgames.dev
-*.etsy.com
 *.eu.floqast.app
 *.eurid.eu
 *.europolitan.se
@@ -655,6 +655,7 @@
 *.oppomobile.com
 *.ops.netlify.com
 *.opsgenie.com
+*.optimuscards.com
 *.origindigital-pac.com.au
 *.oslo.io
 *.osp.opera.software
@@ -815,7 +816,6 @@
 *.smartcontract.com
 *.snooguts.net
 *.sol-data.com
-*.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
 *.souparea.com
@@ -861,11 +861,6 @@
 *.teams.cloudflare.com
 *.techbook.de
 *.telenor.se
-*.tesla.cn
-*.tesla.com
-*.tesla.services
-*.teslainsuranceservices.com
-*.teslamotors.com
 *.testnet.immutable.com
 *.thinkingphones.com
 *.thinkingphones.net
@@ -884,6 +879,7 @@
 *.tomorrowland.com
 *.tools.thefork.tech
 *.toolsforhumanity.com
+*.topperpay.com
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trafficjunky.com
@@ -922,6 +918,7 @@
 *.ultimateearsuniversity.com
 *.unrealengine.com
 *.unrealtournament.com
+*.uphodl.com
 *.uphold.com
 *.uzleuven.*
 *.vacationhomerentals.com
@@ -964,7 +961,6 @@
 *.werkenbijkarwei.nl
 *.wf.com
 *.whois.eu
-*.whoop.com
 *.wimpmusic.com
 *.wise.com
 *.wissen-sie-mehr.de
@@ -1375,7 +1371,6 @@ Any Other Sophos Product or Service
 Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
 Any Worldpay asset is in scope
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
-Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Any host/web property verified to be owned by Twilio et al.
 Any host/web property/mobile app verified to be owned by Indeed
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
@@ -2108,8 +2103,6 @@ TW eCommerce: Shopping
 TW eCommerce: Used Car
 Tablets
 Techcrunch
-Tesla Energy hardware you own
-Tesla vehicle hardware that you own
 Test environment
 Texts
 The Perfume Shop (subdomains)
@@ -2395,6 +2388,7 @@ api-partner.spotify.com
 api-polygon-tokens.polygon.technology/
 api-sandbox.gocardless.com
 api-sandbox.uphold.com
+api-sandbox.uphold.com/graphql
 api-staging.airtable.com
 api-wallet-sandbox.venly.io
 api-wallet.venly.io
@@ -2491,6 +2485,7 @@ api.personio-dev.com
 api.personio.com
 api.pinterest.com
 api.pns.hk
+api.portal.enterprise.uphold.com 
 api.portofantwerp.com
 api.portofantwerpbruges.com
 api.preprod.monespacesante.fr
@@ -2523,12 +2518,10 @@ api.taxjar.com
 api.theperfumeshop.com
 api.tidal.com
 api.tideplatform.in
-api.topperpay.com
 api.trello.com
 api.truelayer[-sandbox].com
 api.tumblr.com
 api.unleashed.be
-api.uphold.com
 api.upwork.com/graphql
 api.vault.chiatest.net
 api.vhx.tv
@@ -2620,6 +2613,7 @@ app.recordedfuture.com
 app.rewire.to
 app.saltlabs.com
 app.sandbox.directly.com
+app.sandbox.topperpay.com
 app.shipt.com
 app.skinport.com
 app.slack.com
@@ -3422,6 +3416,7 @@ dns1.uzleuven.be
 dns2.uzleuven.be
 do.co
 doaction.org
+docs.api.enterprise.uphold.com
 docs.databricks.com
 docs.datastax.com
 docs.gitlab.com
@@ -3429,6 +3424,8 @@ docs.lansweeper.com
 docs.launchdarkly.com
 docs.nextcloud.com
 docs.redoxengine.com
+docs.topperpay.com
+docs.uphold.com
 docuflow.stg.inspectorio.com
 donations.livestream.com
 doppler
@@ -3600,7 +3597,6 @@ grab.careers
 grafana.fr.cloud.gov
 grammarly.ai
 graphql.sandbox.topperpay.com/graphql
-graphql.topperpay.com/graphql
 gravatar.com
 gutenberg.run
 guts.ninjakiwi.com
@@ -3738,6 +3734,7 @@ http://secure-iphone-xml.booking.com/json/
 http://skinport.com/blog/
 http://skumapper-splus.pnimedia.com/
 http://socialdeal.nl/inspirations/bluemonday/
+http://staging-api.ynab.com
 http://staking.consensys.io
 http://vimeo.com/api
 http://vimeo.com/create
@@ -4046,7 +4043,6 @@ https://apps.apple.com/us/app/syncup-kids/id1503394062
 https://apps.apple.com/us/app/syncup-tracker/id1526380335
 https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
 https://apps.apple.com/us/app/t-mobile/id561625752
-https://apps.apple.com/us/app/tesla/id582007913
 https://apps.apple.com/us/app/under-armour/id1092704571
 https://apps.apple.com/us/app/usaa-mobile/id312325565
 https://apps.apple.com/us/app/verily-me/id6448808133
@@ -4103,7 +4099,6 @@ https://bitbucket.org
 https://blablacardaily.com
 https://blockexplorer.electroneum.com
 https://blog.bitpanda.com/en
-https://blog.etsy.com
 https://blog.lastpass.com
 https://blog.thefork.com/
 https://blog.verisign.com
@@ -4151,7 +4146,6 @@ https://carbonneutral.ampol.com.au/
 https://cards.ampol.com.au
 https://carecredit.com.au
 https://career.oppo.com/
-https://careers.etsy.com
 https://careers.takeaway.com
 https://cash.app
 https://cashback.opera.com/
@@ -4197,7 +4191,6 @@ https://coda.io/signup/email
 https://code.elementor.com/
 https://community.arlo.com
 https://community.cloud.databricks.com/
-https://community.etsy.com
 https://compulsoryunits.monash.edu/
 https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://connect.com
@@ -4206,11 +4199,14 @@ https://connect.paymaya.com/
 https://connect.soundcloud.com
 https://consensus2024.sandbox.events.coindesk.com/
 https://consensys.io/
+https://console-stage.neon.build/
 https://console-staging.pingone.com/*
 https://console.aiven.io/login
 https://console.delltechnologies.com/nav/administration
 https://console.delltechnologies.com/nav/billing
 https://console.delltechnologies.com/nav/invoice
+https://console.neon.tech/
+https://console.neon.tech/api/v2/
 https://consumer-sustainability.underarmour.com/en
 https://consumer.finicityreports.com
 https://content-server.ibotta.com/graphql
@@ -4317,7 +4313,6 @@ https://eshop.salt.ch
 https://etherscan.io/address/0x00005EA00Ac477B1030CE78506496e8C2dE24bf5
 https://etherscan.io/address/0x0000a26b00c1F0DF003000390027140000fAa719
 https://etherscan.io/token/0xfe18ae03741a5b84e39c295ac9c856ed7991c38e
-https://etsypayments.com
 https://events.1password.com/api/
 https://evigilation.monash.edu
 https://externalconnect.usaa.com/
@@ -4669,6 +4664,7 @@ https://github.com/tempus-ex
 https://github.com/transferwise/*
 https://github.com/tronprotocol/java-tron
 https://github.com/trustwallet/wallet-core/
+https://github.com/uphold
 https://github.com/valvesoftware
 https://github.com/worldcoin
 https://gitlab.com/gitlab-org/gitaly
@@ -4696,7 +4692,6 @@ https://hd.opposhop.cn
 https://he.elementor.com/
 https://head.coda.io/*
 https://healthmate.withings.com
-https://help.etsy.com
 https://help.glassdoor.com/*
 https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
 https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows.htm
@@ -5406,7 +5401,6 @@ https://play.google.com/store/apps/details?id=com.tcx.sipphone14
 https://play.google.com/store/apps/details?id=com.teamviewer.host.market&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile&hl=en&gl=US
-https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.tmobile.drive
 https://play.google.com/store/apps/details?id=com.tmobile.kids
 https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
@@ -5616,7 +5610,6 @@ https://support.lastpass.com
 https://support.newrelic.com/
 https://support.okta.com
 https://support.oppo.com/cn/
-https://support.whoop.com/Battery_Pack_Updater
 https://svn.filezilla-project.org/svn/FileZilla3/trunk/
 https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 https://svn.filezilla-project.org/svn/libfilezilla/trunk
@@ -5849,9 +5842,6 @@ https://www.dropbox.com/desktop
 https://www.dropbox.com/paper
 https://www.epam.com/
 https://www.espaskincare.com/
-https://www.etsy.com
-https://www.etsy.com/developers/documentation/getting_started/api_basics
-https://www.etsy.com/mobile
 https://www.exantediet.com/
 https://www.expressvpn.com
 https://www.expressvpn.com/latest#linux
@@ -6651,6 +6641,7 @@ polymoon.it
 portal-api.coinmarketcap.com
 portal.arkoselabs.com
 portal.au.frontegg.com
+portal.enterprise.uphold.com
 portal.magicnewton.com
 portal.myconnect.com.au
 portal.myconnect.com.au/new-connection
@@ -6949,6 +6940,7 @@ stats.wnba.com
 status.delen.be 
 status.larksuite.com
 status.oasis.io
+status.uphold.com
 steamcommunity.com
 stock.adobe.com
 storage*.infomaniak.com
@@ -6980,6 +6972,8 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 support*.earlywarning.com
 support-api.airbnb.com
+support-sandbox.uphold.com
+support-staging.topperpay.com
 support.creditkarma.ca
 support.cs.money
 support.databricks.com
@@ -7162,7 +7156,6 @@ waf.cumulusfire.net
 wallet-sandbox.uphold.com
 wallet.etoro.com
 wallet.oasis.io
-wallet.uphold.com
 wallet.venly.io
 wallets.api.playstation.com
 watchdocs.indriverapp.com
@@ -7487,6 +7480,7 @@ www.temu.com
 www.theperfumeshop.com
 www.tink.com
 www.tomorrowland.com
+www.topperpay.com
 www.torfs.be
 www.torfs.nl
 www.trajeoh.com
@@ -7507,6 +7501,7 @@ www.tvg.com
 www.udemy.com
 www.ultimateears.com
 www.universalorlandovacations.com
+www.uphodl.com
 www.uphold.com
 www.upwork.com/api 
 www.urbanclap.com
@@ -7575,6 +7570,7 @@ www.xnxx.gold
 www.xvideos.com
 www.xvideos.red
 www.yellowpepper.com
+www.ynab.com
 www.yotisign.com
 www.zendesk.com
 www10.fortress.com.hk

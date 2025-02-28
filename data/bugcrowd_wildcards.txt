@@ -17,6 +17,7 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.bitdefender.com
 *.bitstamp.net - Bitstamp Supporting Services
 *.bugcrowd.com/auth/*
+*.bugcrowd.com/auth/*
 *.canva.com
 *.canva-apps.com
 *.canva.tech
@@ -46,6 +47,7 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.docsend.com
 *.dropboxer.net
 casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
+*.epam.com
 *.emakina.nl 
 *.emakina.group
 *.emakina.com
@@ -53,10 +55,8 @@ casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 *.emakina.fr
 *.emakina.us
 *.emakina.at
-*.epam.com
 open redirect at *.epam.com
 Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
-*.etsy.com
 *.expressvpn.com
 *.xvtest.net
 *.xvservice.net
@@ -177,12 +177,6 @@ api-*.soundcloud.com
 *.square.com
 *.squareup.com
 *.statuspage.io
-*.tesla.cn
-*.tesla.services
-*.tesla.com
-*.teslamotors.com
-*.solarcity.com
-*.teslainsuranceservices.com
 *.tools.thefork.tech
 *.wimpmusic.com
 *.tidalhifi.com
