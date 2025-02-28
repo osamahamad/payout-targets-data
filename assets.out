@@ -166,11 +166,6 @@
 *.bz-berlin.de
 *.c-point.be
 *.caesarsgames.com
-*.canva-apps.cn
-*.canva-apps.com
-*.canva.cn
-*.canva.com
-*.canva.tech
 *.capital.com
 *.capitalone.ca
 *.capitalone.com
@@ -1179,7 +1174,6 @@
 3CX SBC
 3d.cs.money
 3rd party services hosted at *.sophos.com
-3rd-Party Provider Vulnerability
 3rdparty-apis.coinmarketcap.com
 403546234
 403684733
@@ -1393,7 +1387,6 @@ Any subdomain infrastructure issue
 Anything Owned by Northwestern Mutual on the Public Internet Not Listed as Out of Scope
 Anything that Clearly Affects Northwestern Mutual But is Not Own by Northwestern Mutual
 AppActions
-Apps SDK Sandboxing
 Arc on Mac
 Arc on Windows
 Area 1
@@ -1482,10 +1475,6 @@ C103149579
 C2PA Tool
 CDNJS
 CHP Cloud Portal
-Canva (Android)
-Canva (Chrome Extension)
-Canva (iOS)
-Canva Desktop (macOS / Windows)
 Capital One Shopping Browser Extension
 Capture the Flag
 Cellular Network Auth Bypass via Web/Mobile App
@@ -1755,8 +1744,6 @@ LINE Messenger - OpenChat
 LINE Messenger - VOOM
 LINE Messenger - VoIP
 LaunchDarkly Open Source SDKs
-Leaked Credentials and Secrets (Canva Employee/Contractor)
-Leaked Credentials and Secrets (Canva User)
 Leaked/compromised employee accounts *.here.com
 Leaked/Сompromised Employee accounts
 Lens Studio
@@ -3838,7 +3825,6 @@ https://api.bitpanda.com
 https://api.blablalines.com
 https://api.bugcrowd.com
 https://api.bykea.net
-https://api.canva.com
 https://api.classdojo.com
 https://api.clearpay.com
 https://api.cloudinary.com
@@ -5304,6 +5290,7 @@ https://phoenix-catalog.pnimedia.com/
 https://pinepgconsole.in:9099
 https://pioneer.truata.com/
 https://pit.water-link.be/
+https://pixabay.com/
 https://platform.infiniteathlete.ai
 https://platform.openai.com/playground
 https://play.fga.dev/
@@ -5780,10 +5767,6 @@ https://www.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr
 https://www.bluehost.com/
 https://www.bookbeat.com
 https://www.bwin.com
-https://www.canva.com
-https://www.canva.com/developers/
-https://www.canva.com/en_au/help/chatgpt-templates/
-https://www.canva.com/integrations/slack/
 https://www.carrefouruae.com/
 https://www.cb2.ae/en
 https://www.cfr.org/
