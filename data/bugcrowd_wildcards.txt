@@ -3,12 +3,6 @@
 *.central.arubanetworks.com
 *.asana.biz
 *.app.asana.com
-Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
-*.atlastunnel.com
-Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
-Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
-*.atlastunnel.com
-Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 *.cic-bug-bounty.auth0app.com
 *.tube8.com
 *.trafficjunky.com
@@ -49,26 +43,6 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.docsend.com
 *.dropboxer.net
 casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
-*.epam.com
-*.emakina.nl 
-*.emakina.group
-*.emakina.com
-*.emakina.ch
-*.emakina.fr
-*.emakina.us
-*.emakina.at
-open redirect at *.epam.com
-Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
-*.epam.com
-*.emakina.nl 
-*.emakina.group
-*.emakina.com
-*.emakina.ch
-*.emakina.fr
-*.emakina.us
-*.emakina.at
-open redirect at *.epam.com
-Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.etsy.com
 *.expressvpn.com
 *.xvtest.net
