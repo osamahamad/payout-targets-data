@@ -1,0 +1,8 @@
+*.atlastunnel.com
+*.canva-apps.cn
+*.canva-apps.com
+*.canva.cn
+*.canva.com
+*.canva.tech
+Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
+Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance

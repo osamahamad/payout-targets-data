@@ -1,0 +1,58 @@
+*.atlastunnel.com
+*.canva-apps.cn
+*.canva-apps.com
+*.canva.cn
+*.canva.com
+*.canva.tech
+3rd-Party Provider Vulnerability
+Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
+Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
+Apps SDK Sandboxing
+Canva (Android)
+Canva (Chrome Extension)
+Canva (iOS)
+Canva Desktop (macOS / Windows)
+Forge Platform
+GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)
+Leaked Credentials and Secrets (Canva Employee/Contractor)
+Leaked Credentials and Secrets (Canva User)
+Other - (all other Atlassian targets)
+https://admin.atlassian.com/
+https://admin.atlassian.com/atlassian-access
+https://api.canva.com
+https://apps.apple.com/us/app/confluence-cloud/id1006971684
+https://apps.apple.com/us/app/confluence-server/id1288365159
+https://apps.apple.com/us/app/jira-cloud-by-atlassian/id1006972087
+https://apps.apple.com/us/app/jira-server/id1405353949
+https://bitbucket.org
+https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
+https://id.atlassian.com/login
+https://marketplace.atlassian.com
+https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.core&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.atlassian.confluence.server
+https://play.google.com/store/apps/details?id=com.atlassian.jira.server&hl=en_US&gl=US
+https://start.atlassian.com
+https://www.atlassian.com/enterprise/data-center/bitbucket
+https://www.atlassian.com/enterprise/data-center/confluence
+https://www.atlassian.com/enterprise/data-center/crowd
+https://www.atlassian.com/enterprise/data-center/jira
+https://www.atlassian.com/enterprise/data-center/jira/service-management
+https://www.atlassian.com/software/atlas
+https://www.atlassian.com/software/bamboo
+https://www.atlassian.com/software/compass
+https://www.atlassian.com/software/confluence
+https://www.atlassian.com/software/confluence/premium
+https://www.atlassian.com/software/crucible
+https://www.atlassian.com/software/fisheye
+https://www.atlassian.com/software/jira
+https://www.atlassian.com/software/jira/product-discovery
+https://www.atlassian.com/software/jira/service-management
+https://www.atlassian.com/software/jira/work-management
+https://www.atlassian.com/software/rovo
+https://www.canva.com
+https://www.canva.com/developers/
+https://www.canva.com/en_au/help/chatgpt-templates/
+https://www.canva.com/integrations/slack/
+https://www.npmjs.com/package/@forge/cli	
+https://www.sourcetreeapp.com/
