@@ -1340,20 +1340,6 @@ AdwCleaner
 Affiliates or entities such as recently acquired companies
 Agora for Android (see dowload link for APK file and mobile app GitHub repository in description)
 Agora for iOS (see dowload link for IPA file and mobile app GitHub repository in description)
-Aiven for AlloyDB Omni
-Aiven for Apache Cassandra
-Aiven for Apache Flink
-Aiven for Apache Kafka
-Aiven for Caching
-Aiven for Clickhouse
-Aiven for Dragonfly
-Aiven for Grafana
-Aiven for M3
-Aiven for Metrics
-Aiven for MySQL
-Aiven for OpenSearch
-Aiven for PostgreSQL
-Aiven for Valkey
 All Assets (other than Blinkit)
 All District Assets (Other than Zomato, BlinkIT & Hyperpure)
 All Mobile Assets
@@ -3701,7 +3687,6 @@ http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/overlappingz
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
 http://emerald.oasis.dev
 http://engine.heytap.com
-http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
 http://federatedid-na1.services.adobe.com
 http://flightdeck.staples.com/#/login
 http://github.com/circlefin/noble-cctp
@@ -3814,7 +3799,6 @@ https://afterpay.com
 https://agent.apps.monash.edu/
 https://airflow-prod.coda.io/*
 https://airflow-prod.ops.coda.io/*
-https://aiven.io/
 https://ajax.staging.luno.com/
 https://album.link
 https://alumni-friends.monash.edu
@@ -3840,7 +3824,6 @@ https://api-{app-id}.calls.sendbird.com
 https://api-{app-id}.notifications.sendbird.com
 https://api-{app-id}.sendbird.com
 https://api.20min.ch/
-https://api.aiven.io/login
 https://api.anytask.com/
 https://api.anytask.thesecurityteam.rocks
 https://api.bitpanda.com
@@ -3922,6 +3905,7 @@ https://app.bitgo.com
 https://app.bitrise.io/app/51a95edaab331ec5/installable-artifacts/e5213e1a814bf0ba/public-install-page/bed0d33f048271d6828c5a4a979ecc96
 https://app.chime.com/
 https://app.datadome.co
+https://app.ecwid.com/api/v3/	
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.hubspot.com/
 https://app.ibotta.com/sign-in 
@@ -4020,6 +4004,7 @@ https://apps.apple.com/us/app/confluence-cloud/id1006971684
 https://apps.apple.com/us/app/confluence-server/id1288365159
 https://apps.apple.com/us/app/dropbox-emm/id1080074001
 https://apps.apple.com/us/app/dropbox-secure-cloud-storage/id327630330
+https://apps.apple.com/us/app/ecwid-ecommerce/id626731456
 https://apps.apple.com/us/app/electroneum/id1270774992
 https://apps.apple.com/us/app/expressvpn-fast-secure-vpn/id886492891?mt=8
 https://apps.apple.com/us/app/hubspot/id1107711722
@@ -4214,7 +4199,6 @@ https://consensus2024.sandbox.events.coindesk.com/
 https://consensys.io/
 https://console-stage.neon.build/
 https://console-staging.pingone.com/*
-https://console.aiven.io/login
 https://console.delltechnologies.com/nav/administration
 https://console.delltechnologies.com/nav/billing
 https://console.delltechnologies.com/nav/invoice
@@ -4278,6 +4262,7 @@ https://developers.hubspot.com/docs/api/overview
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
 https://developers.oppomobile.com
+https://developers.vendhq.com/
 https://devportal.rec.net/
 https://devstaging.pcapcloud.com/*
 https://digits.t-mobile.com
@@ -4384,8 +4369,6 @@ https://github.com/AikidoSec/firewall-node#Vulnerability
 https://github.com/AikidoSec/firewall-python#Detection Bypass
 https://github.com/AikidoSec/firewall-python#False Positive
 https://github.com/AikidoSec/firewall-python#Vulnerability
-https://github.com/Aiven
-https://github.com/Aiven-Open
 https://github.com/AleoHQ/snarkOS/
 https://github.com/AleoHQ/snarkVM/
 https://github.com/Chia-Network/chia-blockchain
@@ -5300,6 +5283,7 @@ https://partners.viator.com
 https://passport.immutable.com/
 https://pay.unity.com
 https://paymayabiller-prod.paymaya.com/
+https://payment-connectors.vendhq.com/
 https://paymentoptimizerdashboard.pinepg.in/
 https://payoutapi.maya.ph/
 https://pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-revision/
@@ -5357,6 +5341,7 @@ https://play.google.com/store/apps/details?id=com.deezer.zen
 https://play.google.com/store/apps/details?id=com.dropbox.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.dropbox.app.hellosign&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.dropbox.paper&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.ecwid.android&pli=1
 https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr
 https://play.google.com/store/apps/details?id=com.fcagroup.us.uconnect
@@ -5512,6 +5497,7 @@ https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secure-iphone-xml.booking.com/json/
 https://secure.cuehit.net
 https://secure.neogov.com
+https://secure.vendhq.com
 https://securemail.usaa.com
 https://securesignin.neogov.com
 https://securesignin.powerdms.com/
@@ -5606,6 +5592,7 @@ https://storage.googleapis.com/kubernetes-release/
 https://store.epicgames.com/en-US/p/seekers-of-tokane-a5986d
 https://store.playstation.com/en-us/product/UP2662-CUSA08481_00-RECROOM000000001
 https://store.playstation.com/en-us/product/UP2662-PPSA05532_00-6681199027107223
+https://store.retail.lightspeed.app
 https://store.steampowered.com/app/471710/Rec_Room/
 https://store.unity.com
 https://storybook.vistarmedia.com
@@ -6027,6 +6014,7 @@ https://www.unscreen.com
 https://www.upwork.com
 https://www.usaa.com
 https://www.usaainsurance.com/
+https://www.vendhq.com/
 https://www.verisign.com
 https://www.vfsglobalservices-germany.com/Global-Appointment/
 https://www.vfsvisaservice.com/
