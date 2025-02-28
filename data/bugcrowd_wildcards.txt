@@ -6,6 +6,9 @@
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 *.atlastunnel.com
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
+Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
+*.atlastunnel.com
+Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 *.cic-bug-bounty.auth0app.com
 *.tube8.com
 *.trafficjunky.com
@@ -195,6 +198,10 @@ api-*.soundcloud.com
 *.housetrip.com
 *.bokundemo.com
 *.bokuntest.com
+ *.sip.*.twilio.com
+ Twilio CDNs (static*.twilio.com)
+ *.sip.*.twilio.com
+ Twilio CDNs (static*.twilio.com)
 *.api.ua.com/
 *.gtld-servers.net (DNS service; DNS related)
 *.verisign-grs.com (DNS service; DNS related)
