@@ -1,22 +1,20 @@
-**.whoop.com
-*.optimuscards.com
-*.topperpay.com
-*.uphodl.com
-api-sandbox.uphold.com/graphql
-api.portal.enterprise.uphold.com 
-app.sandbox.topperpay.com
-docs.api.enterprise.uphold.com
-docs.topperpay.com
-docs.uphold.com
-http://staging-api.ynab.com
-https://console-stage.neon.build/
-https://console.neon.tech/
-https://console.neon.tech/api/v2/
-https://github.com/uphold
-portal.enterprise.uphold.com
-status.uphold.com
-support-sandbox.uphold.com
-support-staging.topperpay.com
-www.topperpay.com
-www.uphodl.com
-www.ynab.com
+*.etsy.com
+*.solarcity.com
+*.tesla.cn
+*.tesla.com
+*.tesla.services
+*.teslainsuranceservices.com
+*.teslamotors.com
+Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
+Tesla Energy hardware you own
+Tesla vehicle hardware that you own
+https://apps.apple.com/us/app/tesla/id582007913
+https://blog.etsy.com
+https://careers.etsy.com
+https://community.etsy.com
+https://etsypayments.com
+https://help.etsy.com
+https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
+https://www.etsy.com
+https://www.etsy.com/developers/documentation/getting_started/api_basics
+https://www.etsy.com/mobile
