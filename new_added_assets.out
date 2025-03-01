@@ -1,6 +1,22 @@
-https://acorns.com/
-https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
-https://graphql.acorns.com
-https://play.google.com/store/apps/details?id=com.acorns.android&hl=en_US&gl=US
-https://www.gohenry.com/
-https://www.pixpay.fr/
+ *.sip.*.twilio.com
+ Twilio CDNs (static*.twilio.com)
+Any host/web property verified to be owned by Twilio et al.
+Twilio APIs
+https://api.segment.io/
+https://api.sendgrid.com
+https://api.twilio.com
+https://app.segment.com/
+https://app.sendgrid.com/
+https://authy.com/download/
+https://mc.sendgrid.com/
+https://segment.com/docs/sources/
+https://sendgrid.com
+https://signup.sendgrid.com/
+https://tsock.us1.twilio.com
+https://twilio.com/blog
+https://www.twilio.com/blog/get-started-webrtc
+https://www.twilio.com/console
+https://www.twilio.com/docs/authy/api
+https://www.twilio.com/docs/libraries
+https://www.twilio.com/docs/verify/api 
+smtp.sendgrid.net
