@@ -22,6 +22,11 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.canva.tech
 *.canva.cn
 *.canva-apps.cn
+*.canva.com
+*.canva-apps.com
+*.canva.tech
+*.canva.cn
+*.canva-apps.cn
 *.cashstaging.app
 *.meraki.com
 *.ikarem.io
@@ -137,6 +142,11 @@ prod-*.nu.com.co
 *.feednews.com
 *.dailyadvent.com
 *.opsgenie.com
+*.origindigital-pac.com.au
+*.odcdn.com.au
+*.support.originenergy.com.au
+*.api.originenergy.com.au
+*.download.originenergy.com.au
 *.origindigital-pac.com.au
 *.odcdn.com.au
 *.support.originenergy.com.au
