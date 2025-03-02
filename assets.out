@@ -468,7 +468,6 @@
 *.khealth.com
 *.khealth.io/
 *.khealth.us/
-*.kiln.it
 *.kinepolis.be
 *.kinepolis.ch
 *.kinepolis.com
@@ -1435,6 +1434,7 @@ Aruba InstantOn Switches
 Aruba NetEdit
 Aruba Wireless – ArubaOS and Aruba Instant
 ArubaOS-CX Wired Switches
+Assets labeled as in-scope
 Assets owned by RIPE NCC
 Authentication component
 BBPress Core
@@ -1488,6 +1488,7 @@ Canva (iOS)
 Canva Desktop (macOS / Windows)
 Capital One Shopping Browser Extension
 Capture the Flag
+Cellular Network Auth Bypass via Web/Mobile App
 Chime
 Chime Android App (Beta)
 Chime IOS App (Beta)
@@ -1725,6 +1726,7 @@ Insight Managed Smart Cloud Wireless Access Point
 Insight iOS App
 Intellectual Property on Public Domains
 Intelligent Canvas
+Internal Server via Internet Network
 Internal chat messages
 Internet.xfinity.com
 Interoperability Issue in OpenPGP.js
@@ -2016,6 +2018,7 @@ Scope Questions: Items not explicitly listed here
 Secondary Assets
 Security Vulnerability in OpenPGP.js's high-level API
 Security Vulnerability in the OpenPGP Standard
+Self Register Account on T-Mobile Microsoft Entra ID
 Sequoia git Specification
 Services
 Shared OpenPGP Certificate Directory
@@ -2093,6 +2096,7 @@ Superdrug.App.Android
 Superdrug.App.IOS
 Superdrug.Healthera.App.Android
 System Specification
+T&P Servers
 TV - Xfinity hardware and services
 TW Media: Front Page
 TW Media: News
@@ -3547,8 +3551,6 @@ firefly.adobe.com
 firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 flights.booking.com
-flourish-user-preview.com
-flourish-user-templates.com
 flyiin.com
 fm.anchor.android
 fonts.adobe.com
@@ -3777,6 +3779,7 @@ https://a370a9658141.vault.skyflowapis-preview.com
 https://account-registration.monash.edu/
 https://account.bitpanda.com
 https://account.post.ch
+https://account.t-mobile.com
 https://account.teamviewer.com
 https://account.withings.com
 https://accounts.cmp.optimizely.com/
@@ -3882,6 +3885,7 @@ https://api.sendgrid.com
 https://api.shop.ua.com/graphql
 https://api.simnext.bullish-test.com
 https://api.staging.luno.com/
+https://api.t-mobile.com
 https://api.test.latitudefinancial.com
 https://api.thefork.com
 https://api.thesecurityteam.rocks
@@ -3892,6 +3896,8 @@ https://api.twilio.com
 https://api.unity.com
 https://api.us1.fga.dev/
 https://api.usaa.com/
+https://api.vistarmedia.com
+https://api.vistarmedia.eu
 https://api.voiapp.io/
 https://api.welcomesoftware.com/
 https://api.woox.io/
@@ -4039,6 +4045,11 @@ https://apps.apple.com/us/app/quip-docs-chat-sheets/id647922896
 https://apps.apple.com/us/app/share-rewards/id1465450657
 https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
+https://apps.apple.com/us/app/syncup-drive/id1576574297
+https://apps.apple.com/us/app/syncup-kids/id1503394062
+https://apps.apple.com/us/app/syncup-tracker/id1526380335
+https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
+https://apps.apple.com/us/app/t-mobile/id561625752
 https://apps.apple.com/us/app/tesla/id582007913
 https://apps.apple.com/us/app/under-armour/id1092704571
 https://apps.apple.com/us/app/usaa-mobile/id312325565
@@ -4058,6 +4069,7 @@ https://artist.link
 https://asana.com
 https://asana.com/apps?category=made-by-asana
 https://asana.com/download
+https://assets-cdn.vistarmedia.com
 https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://audio.20min.ch/
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
@@ -4214,6 +4226,7 @@ https://content.usaa.com
 https://contentcredentials.org/
 https://coral.20min.ch/
 https://create.gx.games
+https://creatives.vistarmedia.com
 https://credit.pinelabs.com
 https://crosskey.io/stores/s-pankki/apis
 https://crypto.com/exchange
@@ -4250,6 +4263,7 @@ https://design.staples.com
 https://desk-api-{region}.sendbird.com
 https://desktop.water-link.be/
 https://dev.tutoring.classdojo.com
+https://devedge.t-mobile.com
 https://developer.ifood.com.br
 https://developer.mastercard.com
 https://developer.newrelic.com/
@@ -4265,6 +4279,8 @@ https://developers.oppomobile.com
 https://developers.vendhq.com/
 https://devportal.rec.net/
 https://devstaging.pcapcloud.com/*
+https://digits.t-mobile.com
+https://digits.t-mobile.com/
 https://dimensions.cloudinary.com
 https://directlink.eu-west-2.outscale.com
 https://doc.komoju.com/docs/fields-overview
@@ -4320,8 +4336,6 @@ https://financeiro.hostgator.com.br
 https://financialforce.com
 https://find.yun.oppo.com/
 https://flags.expeng.optimizely.com
-https://flo.uri.sh
-https://flourish.studio/
 https://flow.opera.com
 https://form.asana.com
 https://formative.eassessment.monash.edu/
@@ -4804,6 +4818,7 @@ https://manager.trial.lsk.lightspeed.app/
 https://mapi-a.usaa.com
 https://mapi.usaa.com/
 https://maps.bykea.net
+https://maps.vistarmedia.com
 https://market.immutable.com/
 https://marketplace.atlassian.com
 https://marketplace.atlassian.com/apps/1210722/confluence-source-editor?hosting=server
@@ -5163,6 +5178,7 @@ https://menulog.com.au
 https://meraki.cisco.com
 https://metamask-sdk-socket.metafi.codefi.network/
 https://metamask.github.io/phishing-warning/<vX.Y.Z>
+https://metrobyt-mobile.com
 https://metroconnect.app.ridewithvia.com
 https://mg.n0c.com/
 https://mguest.usaa.com/
@@ -5268,6 +5284,7 @@ https://owncloud.org/install/#install-clients
 https://paasportal.episerver.net/
 https://paasportal.episerver.net/api/v1.0/
 https://pab.donneesquebec.ca/
+https://packages.cortexpowered.com
 https://partner-feeds.20min.ch
 https://partner.apps.monash.edu
 https://partnerapi.tapayments.com
@@ -5395,6 +5412,11 @@ https://play.google.com/store/apps/details?id=com.teamviewer.host.market&hl=en&g
 https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.tmobile.drive
+https://play.google.com/store/apps/details?id=com.tmobile.kids
+https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
+https://play.google.com/store/apps/details?id=com.tmobile.syncuptag
+https://play.google.com/store/apps/details?id=com.tmobile.tuesdays&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.ua.shop&hl=en
 https://play.google.com/store/apps/details?id=com.usaa.mobile.android.usaa&hl=en
@@ -5435,6 +5457,7 @@ https://portal.australiansuper.com/
 https://portal.clearpay.co.uk
 https://portal.clearpay.com
 https://portal.exoscale.com/
+https://portal.lrs.t-mobile.com
 https://portal.pnimedia.com/
 https://portal.pnimedia.com/Account/Login
 https://portal3.pentest.clicsante.ca/
@@ -5445,6 +5468,8 @@ https://pprd.cybermalveillance.gouv.fr
 https://priceless.com/golf/
 https://pro.opensea.io/
 https://productasset.pnimedia.com/
+https://production-delivery-metrics-svc.vistarmedia.com
+https://production-dynam-creative.vistarmedia.com
 https://production.maf.auth0.com
 https://production.maf.auth0.com/api/v2/
 https://profile.pentest.clicsante.ca/
@@ -5500,6 +5525,7 @@ https://service.platform.tripadvisor.com
 https://service.post.ch/ekp-web/
 https://service.post.ch/ele-klp/ele/
 https://service.post.ch/zopa/app/
+https://sflower.cortexpowered.com
 https://shiny.ops.coda.io/*
 https://shop-acc.kinepolis.be/
 https://shop.ifood.com.br
@@ -5561,6 +5587,7 @@ https://splus-static-site-pages.pnimedia.com/services/printing/
 https://splus-static-site.pnimedia.com/
 https://splus-storage.pnimedia.com/
 https://springboard.pinelabs.com
+https://sprint.com
 https://square.online
 https://src.mastercard.com/*
 https://src.mastercard.com/profile/enroll
@@ -5582,6 +5609,7 @@ https://store.playstation.com/en-us/product/UP2662-PPSA05532_00-6681199027107223
 https://store.retail.lightspeed.app
 https://store.steampowered.com/app/471710/Rec_Room/
 https://store.unity.com
+https://storybook.vistarmedia.com
 https://student.classdojo.com
 https://student.monash
 https://studentplacements.monash.edu
@@ -5599,6 +5627,7 @@ https://svn.filezilla-project.org/svn/libfilezilla/trunk
 https://svn.filezilla-project.org/svn/libfilezilla/trunk/
 https://sycamore.moneyboxapp.org/
 https://syncsketch.dev
+https://t-mobile.com
 https://takeawaypay.azurefd.net/en/takeawaypay/
 https://teach.classdojo.com
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/package
@@ -5606,10 +5635,12 @@ https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/polling
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/upload
 https://teleoptiprd.otto.de
 https://tempus-ex.com
+https://tess.service-now.com
 https://test.m4sv.bugbounty.akinox.dev/
 https://testflight.apple.com/join/533gFghn
 https://testflight.apple.com/join/FuaxsScP
 https://testflight.apple.com/join/vwFxXX7t
+https://tfb.t-mobile.com
 https://thatconceptstore.com
 https://thinkglobalhealth.org
 https://thueringer-foerderportal.eu
@@ -5621,6 +5652,7 @@ https://toom.de
 https://tr.ee
 https://tracker.bugcrowd.com
 https://tracker.naspers.com/
+https://transcodes-cdn.vistarmedia.com
 https://transfer.underarmour.com/
 https://transferwise.com
 https://translate.elementor.com/
@@ -6019,7 +6051,6 @@ https://www.zabbix.com/download_sources
 https://wwws-staging.moneytree.jp/link/
 https://wwws-staging.moneytree.jp/link/mobile/
 https://wwws-staging.moneytree.jp/link/mobile/#/signup?client_id=38d99a6e8e9fc87c866f5aa82bdc2569c464b2323a55e0b28f658efa678e9623&redirect_uri=https://wwws-staging.moneytree.jp/link/mobile/callback&response_type=token&scope=guest_read+accounts_read+transactions_read+request_refresh
-https://xyzbmojn.net/
 https://yeswehack.com
 https://yeswehack.staging.komoju.com
 https://youcouldbe.com
