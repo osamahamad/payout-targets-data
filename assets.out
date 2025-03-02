@@ -100,7 +100,6 @@
 *.api.dailymotion.com
 *.api.originenergy.com.au
 *.api.playstation.com
-*.api.ua.com/
 *.app.asana.com
 *.app.personio-dev.com
 *.app.personio.com
@@ -3758,7 +3757,6 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 http://www.register.com
 http://www.rei.com/learn/expert-advice
 http://www.shopmarriott.com
-http://www.underarmour.com.sg
 http://www.whynot.com/
 https//monidentifiant.sncf
 https://*-prod.arlo.com
@@ -3885,7 +3883,6 @@ https://api.rx.originenergy.com.au/v1/lpg/graphql
 https://api.sandbox.agora.incubateur.net  (source code available on GitHub, see description)
 https://api.segment.io/
 https://api.sendgrid.com
-https://api.shop.ua.com/graphql
 https://api.simnext.bullish-test.com
 https://api.staging.luno.com/
 https://api.t-mobile.com
@@ -4054,7 +4051,6 @@ https://apps.apple.com/us/app/syncup-tracker/id1526380335
 https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
 https://apps.apple.com/us/app/t-mobile/id561625752
 https://apps.apple.com/us/app/tesla/id582007913
-https://apps.apple.com/us/app/under-armour/id1092704571
 https://apps.apple.com/us/app/usaa-mobile/id312325565
 https://apps.apple.com/us/app/verily-me/id6448808133
 https://apps.apple.com/us/app/viator-tours-activities/id434832826
@@ -4067,7 +4063,6 @@ https://apps.facebook.com/vegas_downtown_slots
 https://apps.microsoft.com/detail/3cx/9NW77489NGJ0
 https://apps.yeswehack.com
 https://arlo-device.messaging.netgear.com
-https://armourhouse.underarmour.com
 https://artist.link
 https://asana.com
 https://asana.com/apps?category=made-by-asana
@@ -4221,7 +4216,6 @@ https://console.delltechnologies.com/nav/billing
 https://console.delltechnologies.com/nav/invoice
 https://console.neon.tech/
 https://console.neon.tech/api/v2/
-https://consumer-sustainability.underarmour.com/en
 https://consumer.finicityreports.com
 https://content-server.ibotta.com/graphql
 https://content.agora.beta.gouv.fr
@@ -5423,7 +5417,6 @@ https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
 https://play.google.com/store/apps/details?id=com.tmobile.syncuptag
 https://play.google.com/store/apps/details?id=com.tmobile.tuesdays&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.ua.shop&hl=en
 https://play.google.com/store/apps/details?id=com.usaa.mobile.android.usaa&hl=en
 https://play.google.com/store/apps/details?id=com.verily.me
 https://play.google.com/store/apps/details?id=com.viator.mobile.android&hl=en_US&gl=US
@@ -5700,8 +5693,6 @@ https://ui.com/training/partners/
 https://uk.web.com
 https://ultramobile.com
 https://umiloans.com.au
-https://underarmour.co.kr
-https://underarmournext.com/
 https://unified.neogov.com
 https://unihub.monash.edu/
 https://unity3d.com/get-unity/download
@@ -6025,10 +6016,6 @@ https://www.twilio.com/console
 https://www.twilio.com/docs/authy/api
 https://www.twilio.com/docs/libraries
 https://www.twilio.com/docs/verify/api 
-https://www.underarmour.cn
-https://www.underarmour.co.uk
-https://www.underarmour.com
-https://www.underarmournext.co.uk/
 https://www.unscreen.com
 https://www.upwork.com
 https://www.usaa.com
