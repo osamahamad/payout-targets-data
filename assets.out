@@ -9,7 +9,6 @@
  aweb.suivo.com
  com.citymapper.app.release
  https://github.com/0xPolygon/proof-generation-api
- https://join.whoop.com
  idp-contact.nexuzhealth.be
  mix.monash.edu 
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
@@ -4279,6 +4278,7 @@ https://digits.t-mobile.com/
 https://dimensions.cloudinary.com
 https://directlink.eu-west-2.outscale.com
 https://doc.komoju.com/docs/fields-overview
+https://docker-staging.adstruc.com
 https://docs.bugcrowd.com/
 https://docs.eazybi.com/
 https://docs.immutable.com/
@@ -4295,6 +4295,7 @@ https://docs.newrelic.com/
 https://docs.sophos.com/central/customer/help/en-us/ManageYourProducts/ThreatAnalysisCenter/Integrations/Sophos/NDR/index.html
 https://docs.tempus-ex.com
 https://docs.world.org/world-chain/reference/address-book
+https://docsite.vistarmedia.com
 https://donate.mastercard.com
 https://download.krisp.ai/mac
 https://download.krisp.ai/win
@@ -4743,6 +4744,7 @@ https://itunes.apple.com/us/app/quizlet-flashcards/id546473125
 https://itunes.apple.com/us/app/uconnect/id1229236724?mt=8
 https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045663228?mt=8
 https://jaguar.here.com
+https://job-svc-b.vistarmedia.com
 https://jointhemoment.net/
 https://jp-api-staging.getmoneytree.com
 https://judge.me/reviews
@@ -5520,6 +5522,7 @@ https://service.platform.tripadvisor.com
 https://service.post.ch/ekp-web/
 https://service.post.ch/ele-klp/ele/
 https://service.post.ch/zopa/app/
+https://sfleet.cortexpowered.com
 https://sflower.cortexpowered.com
 https://shiny.ops.coda.io/*
 https://shop-acc.kinepolis.be/
@@ -5588,6 +5591,7 @@ https://src.mastercard.com/*
 https://src.mastercard.com/profile/enroll
 https://staff.monash
 https://staging-prime.navan.com
+https://staging-trafficking.vistarmedia.com
 https://staging.coda.io/*
 https://staging.gearset.com/
 https://staging.luno.com/
@@ -6154,6 +6158,7 @@ jira.logitech.com
 jobs.kiwi.com
 jobs.marriott.com
 jobs.vinci.com
+join.whoop.com
 jp.naver.line.android
 js.crypto.com
 js.datadome.co
