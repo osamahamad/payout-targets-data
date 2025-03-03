@@ -9,6 +9,7 @@
  aweb.suivo.com
  com.citymapper.app.release
  https://github.com/0xPolygon/proof-generation-api
+ https://join.whoop.com
  idp-contact.nexuzhealth.be
  mix.monash.edu 
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
@@ -20,7 +21,6 @@
 * hln.be/login
 * hln.be/registreren
 * humo.be/registreren
-**.whoop.com
 *-api-*.acronis.com
 *-asia-south1.truecaller.com
 *-bugcrowd.foxycart.com (read below for details)
@@ -2631,6 +2631,7 @@ app.taxjar.com
 app.theperfumeshop.com
 app.vidaxl.io
 app.watsons.com.tr
+app.whoop.com
 app.workbox.dk
 app3.rewire.to
 applause1.magisto.com
@@ -6858,6 +6859,7 @@ shop.shipt.com
 shop.tiktok.com
 shop.trouw.nl
 shop.volkskrant.nl
+shop.whoop.com
 shop.wyndhamvacationownership.trisept.travel
 shopify.plus
 shopifyinbox.com
