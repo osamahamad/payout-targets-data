@@ -811,11 +811,9 @@
 *.skygamingcontent.com
 *.skypicker.com
 *.skypoker.com
-*.skyscanner.net
 *.skyvegas.com
 *.slimdevices.com
 *.slotomania.com
-*.smartcontract.com
 *.snooguts.net
 *.sol-data.com
 *.solarcity.com
@@ -1321,7 +1319,6 @@ AOL Search
 API Shield
 API's
 AS41690
-AWS Infrastructure
 AWS infrastructure and services in use by Wise (eg: S3 buckets)
 Acronis Agent
 Acronis Cloud Manager
@@ -1610,7 +1607,6 @@ External service data leakage
 F 21 Pro
 FIles.com REST API
 FPGA Solution Development Tools and Utilities
-Faucets
 Figma Atlassian App
 Figma Desktop App
 Figma Slack App
@@ -1994,6 +1990,7 @@ SAP Business Network for Logistics
 SAP Cloud ALM
 SAP Continuous Integration and Delivery
 SAP Customer Data Cloud portfolio from Gigya
+SAP Decentralized Identity Verification
 SAP Enable Now
 SAP Integrated Business Planning for Supply Chain
 SAP Omnichannel Promotion Pricing
@@ -2031,10 +2028,6 @@ SimScale API
 SimScale Forum
 SimScale Platform
 SimScale Website
-Skyscanner Android App
-Skyscanner Android app
-Skyscanner iOS App
-Skyscanner iOS app
 Slack Desktop Application
 Snaps
 Snaps Development Packages
@@ -2851,7 +2844,6 @@ cdn.plaid.com
 cdna.lystit.com
 cds.vrt.radio
 cfapi.voikukka.fi
-chain.link
 chameleon
 channelstore.roku.com/details/48061/vhx
 charts.etoro.com
@@ -3573,7 +3565,6 @@ gamma.redoxstage.com
 gasstation.polygon.technology/
 gateway*.marriott.com
 gateway.reddit.com
-gateway.skyscanner.net/*
 gehmmocbbkpblljhkekmfhjpfbkclbph
 geminiadvisory.io
 geofilters.snapchat.com
@@ -4673,10 +4664,6 @@ https://github.com/ruby/ruby
 https://github.com/rubygems/rubygems
 https://github.com/rust-lang/rust
 https://github.com/slackhq/nebula
-https://github.com/smartcontractkit/chainlink
-https://github.com/smartcontractkit/chainlink/tree/master/contracts
-https://github.com/smartcontractkit/external-adapters-js/
-https://github.com/smartcontractkit/staking-v0.1/tree/master/contracts
 https://github.com/spiffe/spiffe
 https://github.com/spiffe/spire
 https://github.com/tchapgouv
@@ -6601,7 +6588,6 @@ partner.steamgames.com
 partner.steampowered.com
 partner.swiftfinancial.com
 partner.tiktokshop.com
-partnerportal.skyscanner.net/*
 partners.databricks.com
 partners.etoro.com
 partners.shopify.com
@@ -6892,8 +6878,6 @@ sites.fareharbor.com
 sketch.pixiv.net
 skills-store.amazon.com
 skinport.com
-skyscanner.net/*
-skyscanner.net/hotels/book/*
 slack-imgs.com
 slack-redir.net
 slack-status.com
