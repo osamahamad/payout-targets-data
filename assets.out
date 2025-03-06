@@ -390,7 +390,6 @@
 *.helloworks.com
 *.here.com
 *.hereapi.com
-*.hey.com
 *.highwebmedia.com
 *.hilton.com
 *.hilton.io
@@ -1157,7 +1156,6 @@
 3.19.172.158
 3.223.149.182
 3.230.219.249
-3.basecamp.com
 302584613
 319881193
 328407587
@@ -1440,7 +1438,6 @@ Authentication component
 BBPress Core
 Backend endpoint: bug-bounty-be.glean.com
 Backstage source code
-Basecamp.app
 Beats
 Beats - Auditbeat
 Beats - Filebeat
@@ -1698,8 +1695,6 @@ Grammarly for Microsoft Word
 GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)
 Gutenberg
 H5G
-HEY.app
-HEY.exe
 HYPR Workforce Access.app
 Hardware
 Hardware found on https://www.ezviz.com/category/security-wifi-cameras
@@ -1898,7 +1893,6 @@ OKX Wallet Chrome Extension
 OKX Wallet Edge Add-ons
 OKX Wallet Safari Extension
 OKX iOS APP
-ONCE: Campfire
 OPPO+
 Observability - APM Agents
 Observability - APM Server
@@ -2714,7 +2708,6 @@ balance-api.polygon.technology/
 ballistic.com
 ballistic.com.br
 bankaccountdata.gocardless.com, ob.gocardless.com
-basecamp3.exe
 basicattentiontoken.org
 battles.tv
 bb.visa.com
@@ -2966,9 +2959,6 @@ com.atebits.Tweetie2
 com.badoo.hotornot
 com.badoo.mobile
 com.badoo.twa
-com.basecamp.bc3
-com.basecamp.bc3-ios
-com.basecamp.hey
 com.betfair.exchange
 com.betfair.sportsbook
 com.bigblueparrot.pokerfriends
@@ -3063,7 +3053,6 @@ com.gsn.android.tripeaks
 com.gsn.grandcasino
 com.hcom.android
 com.here.app.maps
-com.hey.app.ios
 com.heytap.browser
 com.heytap.cloud
 com.heytap.health.international
@@ -3637,7 +3626,6 @@ help.redoxengine.com
 help.sketchfab.com
 help.steampowered.com
 help.ui.com
-hey-mail
 hg.mozilla.org
 hilton.com
 hilton.io
@@ -4206,6 +4194,7 @@ https://code.elementor.com/
 https://community.arlo.com
 https://community.cloud.databricks.com/
 https://community.etsy.com
+https://community.personio.com
 https://compulsoryunits.monash.edu/
 https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://connect.com
@@ -6223,7 +6212,6 @@ lark-frontier.byteoversea.com
 larksuite.com
 launch.gamma.redoxstage.com
 launch.playcanvas.com
-launchpad.37signals.com
 lawmanager.marriott.com
 learningmanagerstage4.adobe.com
 lego.me
@@ -7237,7 +7225,6 @@ work.8x8.com
 workflows.semrush.com
 workspace.toloka.ai
 workspace.toloka.dev
-world.hey.com
 world.hyatt.com
 world.org
 worldcoin.org
