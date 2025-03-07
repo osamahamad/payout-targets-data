@@ -1324,6 +1324,7 @@ API's
 AS41690
 AWS Infrastructure
 AWS infrastructure and services in use by Wise (eg: S3 buckets)
+Acrobat Reader
 Acronis Agent
 Acronis Cloud Manager
 Acronis Cyber Files
@@ -1334,9 +1335,11 @@ Acronis Snap Deploy
 Acronis True Image (formerly Acronis Cyber Protect Home Office)
 Actively Supported, Bounty Eligible Dell Products
 Actively Supported, Non-Reward Eligible Dell Products
+Adobe Acrobat Reader DC
 Adobe Commerce, Commerce B2B and Commerce Open Source
 AdwCleaner
 Affiliates or entities such as recently acquired companies
+After Effects
 Agora for Android (see dowload link for APK file and mobile app GitHub repository in description)
 Agora for iOS (see dowload link for IPA file and mobile app GitHub repository in description)
 Aiven for AlloyDB Omni
@@ -1371,6 +1374,7 @@ Android & iOS App for Instacart Shoppers
 Android & iOS App for REI Customers
 Android App
 Android SDK
+Animate
 Any FIS asset is in scope
 Any Other Sophos Product or Service
 Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
@@ -1437,6 +1441,7 @@ Aruba Wireless – ArubaOS and Aruba Instant
 ArubaOS-CX Wired Switches
 Assets labeled as in-scope
 Assets owned by RIPE NCC
+Audition
 Authentication component
 BBPress Core
 Backend endpoint: bug-bounty-be.glean.com
@@ -1468,6 +1473,7 @@ Body Scan scale
 Bot Management
 Braintree SDK
 Brand Sites
+Bridge
 Broken Link
 Browser Extensions
 Browser Isolation
@@ -1490,6 +1496,7 @@ Canva Desktop (macOS / Windows)
 Capital One Shopping Browser Extension
 Capture the Flag
 Cellular Network Auth Bypass via Web/Mobile App
+Character Animator
 Chime
 Chime Android App (Beta)
 Chime IOS App (Beta)
@@ -1568,9 +1575,11 @@ Device: JBL Bar 800
 Device: JBL Boombox 3 Wi-Fi
 Device: JBL Charge 5 Wi-Fi
 Device: JBL PartyBox Ultimate
+Dimension
 Direct Contracts
 Discovered Leaked Credentials
 Dovecot IMAP Server and Pigeonhole SIEVE (see "Software packages" and "Source code")
+Dreamweaver
 Drogas (subdomains)
 Drogas.Latvia.Android
 Drogas.Latvia.iOS
@@ -1648,6 +1657,7 @@ FortniteLauncher-Win64-Shipping_EAC.exe
 FortniteLauncher.exe
 Fortress (subdomains)
 Fortress.HongKong.Android
+Framemaker
 FranceConnect (see program description for github link)
 FranceConnect+ (see program description for github link)
 Freshcaller-iOS-App
@@ -1715,10 +1725,13 @@ ICI Paris XL (subdomains)
 ICIParisXL.App.Android
 ICIParisXL.App.IOS
 Ibotta App Data & Memory
+Illustrator
 Images
 In Scope - Points only
 In-Scope Applications can be found here: https://mysrc.group/project_detail?id=11
 In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)
+InCopy
+InDesign
 Indoor Cam
 Innovation Workspace
 Insight Android App
@@ -1763,6 +1776,7 @@ Leaked Credentials and Secrets (Canva User)
 Leaked/compromised employee accounts *.here.com
 Leaked/Сompromised Employee accounts
 Lens Studio
+Lightroom Classic
 Livestream software (Producer, Studio)
 Load Balancing
 Localized airbnb sites listed at the link below:
@@ -1822,6 +1836,7 @@ Marionnaud.Romania.Android
 Marionnaud.Romania.iOS
 Marionnaud.Switzerland.Android
 Marionnaud.Switzerland.iOS
+Media Encoder
 MediaStreamer DNS servers
 Megaphone
 Membership
@@ -1955,6 +1970,7 @@ PayFriends/PayAnyone Features
 PayPal SDK
 Peephole Cam
 Penny
+Photoshop
 PlayStation 4
 PlayStation 5
 PlayStation Network
@@ -1962,6 +1978,8 @@ Podsights
 Point Smart
 Porsche-B
 PowerDNS authoritative server, recursor and DNSdist (see "Software packages" and "Source-code")
+Premiere Pro
+Premiere Rush
 Presentation Remotes
 Primary Assets
 ProConnect (see program description for github link)
@@ -2093,6 +2111,7 @@ Stripe Terminal
 Stripe Treasury
 Stripe for Visual Studio Code
 Subdomain Takeover (SDTO)
+Substance 3D
 Superdrug (subdomains)
 Superdrug.App.Android
 Superdrug.App.IOS
@@ -2252,6 +2271,7 @@ Workers AI
 Workers KV
 Workstation MFA (WMFA)
 Wyze Cam V3
+XD
 Xfinity Android mobile app
 Xfinity Home Hardware (items listed below in brief)
 Xfinity Home cameras
