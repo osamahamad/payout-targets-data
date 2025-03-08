@@ -859,7 +859,6 @@
 *.sys.comcast.net
 *.takeaway.com
 *.taralite.com
-*.tdl.sh
 *.teams.cloudflare.com
 *.techbook.de
 *.telenor.se
@@ -875,7 +874,6 @@
 *.thuisbezorgd.nl
 *.ticketing.cm.com
 *.ticketnew.com
-*.tidalhifi.com
 *.tide.co
 *.tiktok.com
 *.tiktokv.com
@@ -968,7 +966,6 @@
 *.werkenbijkarwei.nl
 *.wf.com
 *.whois.eu
-*.wimpmusic.com
 *.wise.com
 *.wissen-sie-mehr.de
 *.withairbnb.com
@@ -1021,7 +1018,6 @@
 *signalservice.comcast.net
 *stag*.uzleuven.be
 *test*.bykea.net
-*tidalhi.fi
 *uat.marriott.com
 *ubereats.com
 *vc.logitech.com
@@ -1757,6 +1753,7 @@ Kibana
 Kindle E-Reader
 Klarna Android App (com.myklarnamobile)
 Klarna iOS App (com.klarna.app)
+Kohl’s entire public digital footprint that is not Out-Of-Scope(See list below)
 Kruidvat (subdomains)
 Kruidvat.Belgium.Android
 Kruidvat.Belgium.iOS
@@ -2139,9 +2136,6 @@ Third Party Snaps
 Third Party Targets
 ThousandEyes Endpoint Agent 
 ThousandEyes Enterprise Agent
-Tidal Client for Android
-Tidal Client for iOS
-Tidal Official Clients (e.g. Sonos integration, Tesla integration, etc.)
 Tier 1
 Tier 2
 Tier 3
@@ -2541,7 +2535,6 @@ api.swapcard.com
 api.swiftfinancial.com
 api.taxjar.com
 api.theperfumeshop.com
-api.tidal.com
 api.tideplatform.in
 api.trello.com
 api.truelayer[-sandbox].com
@@ -5280,7 +5273,6 @@ https://octopus.com/downloads
 https://oda.com
 https://odesli.co
 https://odesli.com
-https://offer.tidal.com/download
 https://onboard.neogov.com
 https://one.newrelic.com
 https://one.pinelabs.com/
@@ -5674,7 +5666,6 @@ https://thatconceptstore.com
 https://thinkglobalhealth.org
 https://thueringer-foerderportal.eu
 https://ticket.multiplayer.classdojo.com
-https://tidal.com/
 https://tms.onecloud.harman.com
 https://toloka.ai/
 https://toom.de
@@ -5921,6 +5912,8 @@ https://www.kaleido.ai
 https://www.keepersecurity.com/download.html
 https://www.kiwai-enr.fr/
 https://www.kiwai-normandie.fr/
+https://www.kohls.com
+https://www.kohls.com/feature/app.jsp
 https://www.kruidvat.be/blog/
 https://www.kruidvat.nl/blog/
 https://www.kruidvat.nl/fotoservice
