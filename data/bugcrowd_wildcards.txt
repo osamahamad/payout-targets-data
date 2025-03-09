@@ -170,6 +170,10 @@ prod-*.nu.com.co
 *.mcssl.com
 *.skyscanner.net
 3rd party services hosted at *.sophos.com
+*.soundcloud.org
+*.s-cloud.net
+*.services.repostnetwork.com
+api-*.soundcloud.com
 *.square.com
 *.squareup.com
 *.statuspage.io
@@ -180,9 +184,6 @@ prod-*.nu.com.co
 *.solarcity.com
 *.teslainsuranceservices.com
 *.tools.thefork.tech
-*.wimpmusic.com
-*.tidalhifi.com
-*.tdl.sh
 *.wimpmusic.com
 *.tidalhifi.com
 *.tdl.sh

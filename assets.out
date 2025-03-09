@@ -746,6 +746,7 @@
 *.romwe.com
 *.router.hereapi.com
 *.runnr.in
+*.s-cloud.net
 *.saltlabs.com
 *.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
@@ -781,6 +782,7 @@
 *.seriously.com
 *.services-prod.nsvcs.net
 *.services.netlify.com
+*.services.repostnetwork.com
 *.shein.com
 *.sheingsp.com
 *.shipt.com
@@ -817,6 +819,7 @@
 *.sol-data.com
 *.solarcity.com
 *.sonyentertainmentnetwork.com
+*.soundcloud.org
 *.souparea.com
 *.spiketrap.io
 *.spinaway.com
@@ -1754,6 +1757,7 @@ Kibana
 Kindle E-Reader
 Klarna Android App (com.myklarnamobile)
 Klarna iOS App (com.klarna.app)
+Kohl’s entire public digital footprint that is not Out-Of-Scope(See list below)
 Kruidvat (subdomains)
 Kruidvat.Belgium.Android
 Kruidvat.Belgium.iOS
@@ -2400,6 +2404,7 @@ analytics.ninjakiwi.com
 analytics.pinelabs.com
 ap-s.cloud.com
 api*.netflix.com
+api-*.soundcloud.com
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
 api-eu.floqast.app
@@ -3690,6 +3695,7 @@ http://api.lightspark.com
 http://app.lightspark.com
 http://app.scaleft.com/
 http://apps.connect.monash.edu/
+http://artists.soundcloud.com/
 http://auth.khealth.com/cedars/sign-up
 http://auth.khealth.com/khealth/sign-up
 http://auth.khealth.com/mayo-la-crosse/sign-up
@@ -4068,6 +4074,7 @@ https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
 https://apps.apple.com/us/app/quip-docs-chat-sheets/id647922896
 https://apps.apple.com/us/app/share-rewards/id1465450657
+https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
 https://apps.apple.com/us/app/syncup-drive/id1576574297
 https://apps.apple.com/us/app/syncup-kids/id1503394062
@@ -4231,6 +4238,7 @@ https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://connect.com
 https://connect.monash.edu
 https://connect.paymaya.com/
+https://connect.soundcloud.com
 https://consensus2024.sandbox.events.coindesk.com/
 https://consensys.io/
 https://console-stage.neon.build/
@@ -5422,6 +5430,7 @@ https://play.google.com/store/apps/details?id=com.scu.bsafe
 https://play.google.com/store/apps/details?id=com.siilo.android&hl=en
 https://play.google.com/store/apps/details?id=com.sixgroup.debixplus
 https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1
+https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.squareup.cash
 https://play.google.com/store/apps/details?id=com.swapcard.apps.android&hl=fr
@@ -5564,6 +5573,8 @@ https://snctest-s.underarmour.com/
 https://song.link
 https://songlink.io
 https://sos-ch-gva-2.exo.io/
+https://soundcloud.com
+https://soundcloud.org
 https://spacelift.dev/
 https://speeddials.opera.com
 https://spgw-pay.finzfin.com
@@ -5911,6 +5922,8 @@ https://www.kaleido.ai
 https://www.keepersecurity.com/download.html
 https://www.kiwai-enr.fr/
 https://www.kiwai-normandie.fr/
+https://www.kohls.com
+https://www.kohls.com/feature/app.jsp
 https://www.kruidvat.be/blog/
 https://www.kruidvat.nl/blog/
 https://www.kruidvat.nl/fotoservice
