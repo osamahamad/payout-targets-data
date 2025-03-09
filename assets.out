@@ -859,7 +859,6 @@
 *.sys.comcast.net
 *.takeaway.com
 *.taralite.com
-*.tdl.sh
 *.teams.cloudflare.com
 *.techbook.de
 *.telenor.se
@@ -875,7 +874,6 @@
 *.thuisbezorgd.nl
 *.ticketing.cm.com
 *.ticketnew.com
-*.tidalhifi.com
 *.tide.co
 *.tiktok.com
 *.tiktokv.com
@@ -968,7 +966,6 @@
 *.werkenbijkarwei.nl
 *.wf.com
 *.whois.eu
-*.wimpmusic.com
 *.wise.com
 *.wissen-sie-mehr.de
 *.withairbnb.com
@@ -1021,7 +1018,6 @@
 *signalservice.comcast.net
 *stag*.uzleuven.be
 *test*.bykea.net
-*tidalhi.fi
 *uat.marriott.com
 *ubereats.com
 *vc.logitech.com
@@ -2140,9 +2136,6 @@ Third Party Snaps
 Third Party Targets
 ThousandEyes Endpoint Agent 
 ThousandEyes Enterprise Agent
-Tidal Client for Android
-Tidal Client for iOS
-Tidal Official Clients (e.g. Sonos integration, Tesla integration, etc.)
 Tier 1
 Tier 2
 Tier 3
@@ -2542,7 +2535,6 @@ api.swapcard.com
 api.swiftfinancial.com
 api.taxjar.com
 api.theperfumeshop.com
-api.tidal.com
 api.tideplatform.in
 api.trello.com
 api.truelayer[-sandbox].com
@@ -3866,7 +3858,6 @@ https://api-user.e2ro.com/*
 https://api-{app-id}.calls.sendbird.com
 https://api-{app-id}.notifications.sendbird.com
 https://api-{app-id}.sendbird.com
-https://api.20min.ch/
 https://api.aiven.io/login
 https://api.anytask.com/
 https://api.anytask.thesecurityteam.rocks
@@ -4102,7 +4093,6 @@ https://asana.com/apps?category=made-by-asana
 https://asana.com/download
 https://assets-cdn.vistarmedia.com
 https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
-https://audio.20min.ch/
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
 https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
@@ -4255,7 +4245,6 @@ https://content-server.ibotta.com/graphql
 https://content.agora.beta.gouv.fr
 https://content.usaa.com
 https://contentcredentials.org/
-https://coral.20min.ch/
 https://create.gx.games
 https://creatives.vistarmedia.com
 https://credit.pinelabs.com
@@ -5281,7 +5270,6 @@ https://octopus.com/downloads
 https://oda.com
 https://odesli.co
 https://odesli.com
-https://offer.tidal.com/download
 https://onboard.neogov.com
 https://one.newrelic.com
 https://one.pinelabs.com/
@@ -5313,7 +5301,6 @@ https://paasportal.episerver.net/
 https://paasportal.episerver.net/api/v1.0/
 https://pab.donneesquebec.ca/
 https://packages.cortexpowered.com
-https://partner-feeds.20min.ch
 https://partner.apps.monash.edu
 https://partnerapi.tapayments.com
 https://partnerapi1.tapayments.com
@@ -5532,7 +5519,6 @@ https://sandbox.fireblocks.io/v2/settings/notifications
 https://sandbox.open-xchange.com
 https://sbox.myoas.com
 https://scalews.withings.com
-https://screenplayer.20min.ch
 https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secure-iphone-xml.booking.com/json/
 https://secure.cuehit.net
@@ -5675,7 +5661,6 @@ https://thatconceptstore.com
 https://thinkglobalhealth.org
 https://thueringer-foerderportal.eu
 https://ticket.multiplayer.classdojo.com
-https://tidal.com/
 https://tms.onecloud.harman.com
 https://toloka.ai/
 https://toom.de
@@ -5760,7 +5745,6 @@ https://vendorss.usaa.com
 https://vfs.mioot.com/
 https://vfseu.mioot.com/
 https://viatorapi.viator.com/service/directory
-https://videoplayer.20min.ch
 https://vlagg.usaa.com
 https://vlapi.usaa.com
 https://vpe-us.underarmour.com/
@@ -5800,7 +5784,6 @@ https://wslatam.ifood.com.br
 https://wsloja.ifood.com.br
 https://wsmbr.usaa.com/
 https://www.*mongodb.com/*
-https://www.20min.ch
 https://www.allsaints.me/
 https://www.amazon.com/luna/*
 https://www.amazonpay.in/*
