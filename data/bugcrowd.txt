@@ -40,15 +40,6 @@ https://api.aiven.io/login
 https://github.com/Aiven-Open
 https://github.com/Aiven
 http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
-https://ampol.com.au/
-https://apps.apple.com/au/app/caltex-australia/id1314768594
-https://play.google.com/store/apps/details?id=au.com.ampol.flagship&hl=en_AU&gl=US
-https://ampcharge.ampol.com.au/
-https://ampolenergy.com.au
-https://play.google.com/store/apps/details?id=au.com.ampol.teamapp
-https://my.ampol.com.au/
-https://carbonneutral.ampol.com.au/
-https://cards.ampol.com.au
 Arlo Safe Android App
 Arlo Safe iOS App
 Arlo Secure Android App
@@ -1649,6 +1640,15 @@ https://a370a9658141.gateway.skyflowapis-preview.com
 https://manage.skyflowapis-preview.com
 https://a370a9658141.vault.skyflowapis-preview.com
 https://californiatenant.skyflow-preview.com/login
+Skyscanner iOS App
+Skyscanner Android App
+gateway.skyscanner.net/*
+skyscanner.net/hotels/book/*
+skyscanner.net/*
+partnerportal.skyscanner.net/*
+Skyscanner Android app
+Skyscanner iOS app
+AWS Infrastructure
 Skyscanner iOS App
 Skyscanner Android App
 gateway.skyscanner.net/*
