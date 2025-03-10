@@ -19,6 +19,8 @@
 *.8x8e2e.com
 *.8x8pilot.com
 *.8x8staging.com
+*.8x8testa.com
+*.8x8testb.com
 *.<researcher-store>.mybigcommerce.com
 *.a.exodus.io
 *.acbpost.be
@@ -642,6 +644,7 @@
 *.ovo.id
 *.ownit.se
 *.p8t.us
+*.packet8-pilot.net
 *.packet8.net
 *.paddypartners.com
 *.paddypower.com
