@@ -571,10 +571,7 @@
 *.metamask.io
 *.mevo.com
 *.mgmt.fndlsb.net
-*.mi.com
 *.mir.uzleuven.be
-*.miui.com
-*.miwifi.com
 *.mjrtheatres.com
 *.mlstatic.com
 *.mmcdn.com
@@ -815,6 +812,7 @@
 *.skyvegas.com
 *.slimdevices.com
 *.slotomania.com
+*.smartcontract.com
 *.snooguts.net
 *.sol-data.com
 *.solarcity.com
@@ -991,8 +989,6 @@
 *.xfinity.com	
 *.xfinityhome.com
 *.xfiplatform.com
-*.xiaomi.com
-*.xiaomiyoupin.com
 *.xoom.com
 *.xvservice.net
 *.xvtest.net
@@ -1620,6 +1616,7 @@ External service data leakage
 F 21 Pro
 FIles.com REST API
 FPGA Solution Development Tools and Utilities
+Faucets
 Figma Atlassian App
 Figma Desktop App
 Figma Slack App
@@ -1800,7 +1797,6 @@ Low impact, individually exposed Google Docs with no common root cause (see “P
 Luna
 MFA
 MFA Integrations	
-MIUI OS for Xiaomi Phone
 Mac OS Executable
 Mac OS Executable: Download here https://www.larksuite.com/download
 Mac Personal Backup Clients
@@ -1845,14 +1841,6 @@ Message signing snap
 MetaMask Browser Extension
 MetaMask SDK
 Meural
-Mi Band
-Mi Electric Scooter 
-Mi Home Webcam 
-Mi Laser Projector
-Mi Robot Vacuum
-Mi TV 
-Mi TV Box
-Mi/Redmi Phone
 Microsites
 Miro SDK
 Mobile Applications
@@ -1940,7 +1928,6 @@ Orbi iOS App
 Other
 Other (Misc)
 Other - (all other Atlassian targets)
-Other APK Assets
 Other Acronis Domains
 Other Acronis executables
 Other Amazon Retail Assets (Please only actively test explicitly stated scope)
@@ -1948,7 +1935,6 @@ Other Amazon Retail Mobile Apps (Please only actively test explicitly stated sco
 Other Amazon Retail Sites (Please only actively test explicitly stated scope)
 Other Assets
 Other BMW Domains
-Other Hardware Assets
 Other HubSpot-owned (sub)domains not listed as Out of Scope . Please make sure to exercise due diligence before testing. You must include proof that the subdomain is registered to HubSpot to be eligible for a reward.
 Other Logitech Desktop and Mobile Application
 Other Logitech Hardware/IoT
@@ -2875,6 +2861,7 @@ cdn.plaid.com
 cdna.lystit.com
 cds.vrt.radio
 cfapi.voikukka.fi
+chain.link
 chameleon
 channelstore.roku.com/details/48061/vhx
 charts.etoro.com
@@ -2980,7 +2967,6 @@ com.amazon.vendormobile.india.android
 com.amazon.warhol.android
 com.amazon.ziggy.android
 com.anchorfminc.Anchor
-com.android.browser
 com.anker.AnkerMake
 com.application.zomato
 com.application.zomatomerchant
@@ -3133,10 +3119,6 @@ com.mercadoenvios.logistics
 com.mercadolibre
 com.mercadopago.MercadoPago
 com.mercadopago.wallet
-com.mi.global.shop
-com.miui.cloudbackup
-com.miui.cloudservice
-com.miui.micloudsync
 com.monaco.mobile
 com.moneybird.Moneybird
 com.moneybird.android
@@ -3263,13 +3245,6 @@ com.wolt.android
 com.wolt.courierapp
 com.wooga.pearlsperil
 com.wotif.android
-com.xiaomi.account
-com.xiaomi.market
-com.xiaomi.mibrain.speech
-com.xiaomi.micloud.sdk
-com.xiaomi.mipicks
-com.xiaomi.payment
-com.xiaomi.smarthome
 com.xoom.android.app
 com.xoom.app
 com.yahoo.mobile.client.android.flickr
@@ -4698,6 +4673,10 @@ https://github.com/ruby/ruby
 https://github.com/rubygems/rubygems
 https://github.com/rust-lang/rust
 https://github.com/slackhq/nebula
+https://github.com/smartcontractkit/chainlink
+https://github.com/smartcontractkit/chainlink/tree/master/contracts
+https://github.com/smartcontractkit/external-adapters-js/
+https://github.com/smartcontractkit/staking-v0.1/tree/master/contracts
 https://github.com/spiffe/spiffe
 https://github.com/spiffe/spire
 https://github.com/tchapgouv
