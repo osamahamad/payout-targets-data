@@ -1,5 +1,6 @@
  *.sip.*.twilio.com
  *.test.*.lfscnp.com
+ Finicity Connect
  Fortress.HongKong.IOS
  MS Office Add-In
  Mobile Apps
@@ -283,17 +284,9 @@
 *.elastic.co
 *.elasticnet.co
 *.elstc.co
-*.emakina.at
-*.emakina.ch
-*.emakina.com
-*.emakina.fr
-*.emakina.group
-*.emakina.nl 
-*.emakina.us
 *.enjinusercontent.com
 *.enspotify.com
 *.eops.nl
-*.epam.com
 *.epicgames.com
 *.epicgames.dev
 *.etsy.com
@@ -752,6 +745,7 @@
 *.s-cloud.net
 *.saltlabs.com
 *.sandbox.*.lfscnp.com
+*.sandbox.directly.com/
 *.say.rocks
 *.saytechnologies.com
 *.sbb.ch
@@ -1655,6 +1649,10 @@ FindX6Pro
 FindX7
 FindX7Ultra
 Fing desktop
+Finicity - OBB (Open Banking Business Service) 
+Finicity Decisioning
+Finicity- Data Services
+Finicity- Open Banking Payment History application
 FireTV
 Firmware
 Fleet Server
@@ -1740,7 +1738,6 @@ ICIParisXL.App.IOS
 Ibotta App Data & Memory
 Illustrator
 Images
-In Scope - Points only
 In-Scope Applications can be found here: https://mysrc.group/project_detail?id=11
 In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)
 InCopy
@@ -1927,7 +1924,6 @@ Open Source - Dispatch
 Open Source - Spectator
 Open Source - Weep
 Open Source - Zuul
-Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 Open source tools from Cloudflare
 OpenAI API Keys
 OpenPGP Cert Directory Specification
@@ -1984,6 +1980,7 @@ Presentation Remotes
 Primary Assets
 Product Delivery
 Protocol of the Swiss Post Voting System
+Public Others Target
 Python Driver
 QuickApps
 React Native SDK
@@ -2028,6 +2025,7 @@ SAP S/4HANA migration cockpit
 SAP Signavio
 SAP SuccessFactors
 SHA1-CD
+SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope
 SSL/TLS
 SSO_Saml_connector
 Scanwatch
@@ -2644,6 +2642,7 @@ app.pullrequest.com
 app.recordedfuture.com
 app.rewire.to
 app.saltlabs.com
+app.sandbox.directly.com
 app.sandbox.topperpay.com
 app.shipt.com
 app.slack.com
@@ -4265,6 +4264,7 @@ https://console.delltechnologies.com/nav/invoice
 https://console.neon.tech/
 https://console.neon.tech/api/v2/
 https://consumer-sustainability.underarmour.com/en
+https://consumer.finicityreports.com
 https://content-server.ibotta.com/graphql
 https://content.agora.beta.gouv.fr
 https://content.usaa.com
@@ -4302,6 +4302,7 @@ https://dealer.prod.ps.axelspringer.de/purchases/004/bild/*
 https://dealer.prod.ps.axelspringer.de/purchases/004/welt/*
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
+https://demo.priceless.com/
 https://design.glassdoor.com/*
 https://design.staples.com
 https://desk-api-{region}.sendbird.com
@@ -4310,6 +4311,7 @@ https://detect.pdq.tools/
 https://dev.tutoring.classdojo.com
 https://devedge.t-mobile.com
 https://developer.ifood.com.br
+https://developer.mastercard.com
 https://developer.newrelic.com/
 https://developer.thefork.io/
 https://developer.withings.com/dashboard/
@@ -4347,6 +4349,7 @@ https://docs.sophos.com/central/customer/help/en-us/ManageYourProducts/ThreatAna
 https://docs.tempus-ex.com
 https://docs.world.org/world-chain/reference/address-book
 https://docsite.vistarmedia.com
+https://donate.mastercard.com
 https://download.krisp.ai/mac
 https://download.krisp.ai/win
 https://download.opera.com
@@ -4807,7 +4810,6 @@ https://knowledge.newrelic.com/
 https://kucoin.com
 https://kw-bugcrowd-pub.bounty.kiteworks.dev/
 https://l.usaa.com/
-https://lab.epam.com
 https://landrover.here.com
 https://lapi.yellowblocks.me
 https://laptop-updates.brave.com/latest/dev/debian64
@@ -5313,7 +5315,6 @@ https://opendata-demo.test-socrata.com
 https://opendata.test-socrata.com
 https://opendata.test-socrata.com/admin/gateway
 https://opensea.io/
-https://opensource.epam.com
 https://optimizely-edge.com
 https://orbidder.otto.de
 https://orchard.limeinternal.com
@@ -5353,9 +5354,11 @@ https://pbgq.upac.gouv.qc.ca/
 https://pentest-app.onetrust.com/
 https://peopleview.naspers.com
 https://performance.neogov.com
+https://performancemarketing.mastercard.com/portal/
 https://pg.paymaya.com
 https://phoenix-catalog.pnimedia.com/
 https://pinepgconsole.in:9099
+https://pioneer.truata.com/
 https://pit.water-link.be/
 https://pixabay.com/
 https://platform.infiniteathlete.ai
@@ -5510,6 +5513,7 @@ https://portalapi.eu.clearpay.co.uk
 https://portalapi.us.afterpay.com
 https://powerdms.com/
 https://pprd.cybermalveillance.gouv.fr
+https://priceless.com/golf/
 https://pro.opensea.io/
 https://productasset.pnimedia.com/
 https://production-delivery-metrics-svc.vistarmedia.com
@@ -5517,7 +5521,6 @@ https://production-dynam-creative.vistarmedia.com
 https://production.maf.auth0.com
 https://production.maf.auth0.com/api/v2/
 https://profile.pentest.clicsante.ca/
-https://projects.epam.com
 https://prozentoomat.toom.de
 https://pt-runner.app.ridewithvia.com
 https://public.je-apis.com
@@ -5545,6 +5548,7 @@ https://s.usaa.com/
 https://s1.utv.usaa.com
 https://s2.utv.usaa.com
 https://salesforce.quip.com/blog/desktop
+https://sandbox.directly.com/dashboard/index
 https://sandbox.fireblocks.io/v2/settings/notifications
 https://sandbox.open-xchange.com
 https://sbox.myoas.com
@@ -5635,6 +5639,8 @@ https://splus-storage.pnimedia.com/
 https://springboard.pinelabs.com
 https://sprint.com
 https://square.online
+https://src.mastercard.com/*
+https://src.mastercard.com/profile/enroll
 https://staff.monash
 https://staging-prime.navan.com
 https://staging-trafficking.vistarmedia.com
@@ -5893,7 +5899,6 @@ https://www.drogas.lv/ru/blog
 https://www.dropbox.com/capture
 https://www.dropbox.com/desktop
 https://www.dropbox.com/paper
-https://www.epam.com/
 https://www.espaskincare.com/
 https://www.etsy.com
 https://www.etsy.com/developers/documentation/getting_started/api_basics
@@ -5905,6 +5910,7 @@ https://www.expressvpn.com/latest#mac
 https://www.expressvpn.com/latest#windows
 https://www.expressvpn.com/vpn-server
 https://www.eyeko.com/
+https://www.finicity.com
 https://www.fishbowlapp.com/*
 https://www.foreignaffairs.com/
 https://www.galabingo.com
@@ -5965,6 +5971,11 @@ https://www.marionnaud.ro/blog/
 https://www.marionnaud.ro/m-life/
 https://www.marionnaud.sk/blog/
 https://www.marionnaud.sk/m-life/
+https://www.mastercard.ch/de-ch.html
+https://www.mastercard.ch/fr-ch.html
+https://www.mastercard.com.au/en-au.html
+https://www.mastercard.nl/nl-nl.html
+https://www.mastercard.us/en-us.html
 https://www.microsoft.com/en-us/p/keeperchat/9pdqtcpn4kxn#activetab=pivot:overviewtab
 https://www.mioskincare.com/
 https://www.monash.edu
@@ -6018,6 +6029,7 @@ https://www.restaurant-information.com
 https://www.sdx.com/
 https://www.sharerewards.com/
 https://www.shiseido.me/
+https://www.simplify.com/commerce/ 
 https://www.skidxb.com/
 https://www.skinstore.com/
 https://www.skroutz.gr/
@@ -6601,7 +6613,6 @@ one.dash.cloudflare.com
 onepush.query.yahoo.com
 oneview.malwarebytes.com
 online.s-pankki.fi
-open redirect at *.epam.com
 open-api.capital.com
 open.airbnb.com
 open.larksuite.com
