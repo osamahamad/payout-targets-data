@@ -750,6 +750,7 @@
 *.romwe.com
 *.router.hereapi.com
 *.runnr.in
+*.s-cloud.net
 *.saltlabs.com
 *.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
@@ -785,6 +786,7 @@
 *.seriously.com
 *.services-prod.nsvcs.net
 *.services.netlify.com
+*.services.repostnetwork.com
 *.shein.com
 *.sheingsp.com
 *.shipt.com
@@ -822,6 +824,7 @@
 *.sol-data.com
 *.solarcity.com
 *.sonyentertainmentnetwork.com
+*.soundcloud.org
 *.souparea.com
 *.spiketrap.io
 *.spinaway.com
@@ -2415,6 +2418,7 @@ analytics.ninjakiwi.com
 analytics.pinelabs.com
 ap-s.cloud.com
 api*.netflix.com
+api-*.soundcloud.com
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
 api-eu.floqast.app
@@ -3711,6 +3715,7 @@ http://api.lightspark.com
 http://app.lightspark.com
 http://app.scaleft.com/
 http://apps.connect.monash.edu/
+http://artists.soundcloud.com/
 http://auth.khealth.com/cedars/sign-up
 http://auth.khealth.com/khealth/sign-up
 http://auth.khealth.com/mayo-la-crosse/sign-up
@@ -4091,6 +4096,7 @@ https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
 https://apps.apple.com/us/app/quip-docs-chat-sheets/id647922896
 https://apps.apple.com/us/app/share-rewards/id1465450657
+https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
 https://apps.apple.com/us/app/syncup-drive/id1576574297
 https://apps.apple.com/us/app/syncup-kids/id1503394062
@@ -4222,9 +4228,6 @@ https://cfc.naspers.com/
 https://chat.openai.com
 https://chat.oppo.com/
 https://chatspot.ai
-https://checkout.eyeko.com
-https://checkout.glossybox.com
-https://checkout.myvitamins.com
 https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad
 https://chrome.google.com/webstore/detail/ibotta-browser-extension/mfaedmjlefifhnhpgipjjiiekchaimpk?hl=en-US
 https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en
@@ -4257,6 +4260,7 @@ https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://connect.com
 https://connect.monash.edu
 https://connect.paymaya.com/
+https://connect.soundcloud.com
 https://consensus2024.sandbox.events.coindesk.com/
 https://consensys.io/
 https://console-stage.neon.build/
@@ -5454,6 +5458,7 @@ https://play.google.com/store/apps/details?id=com.scu.bsafe
 https://play.google.com/store/apps/details?id=com.siilo.android&hl=en
 https://play.google.com/store/apps/details?id=com.sixgroup.debixplus
 https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1
+https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.squareup.cash
 https://play.google.com/store/apps/details?id=com.swapcard.apps.android&hl=fr
@@ -5600,6 +5605,8 @@ https://snctest-s.underarmour.com/
 https://song.link
 https://songlink.io
 https://sos-ch-gva-2.exo.io/
+https://soundcloud.com
+https://soundcloud.org
 https://spacelift.dev/
 https://speeddials.opera.com
 https://spgw-pay.finzfin.com
@@ -5825,7 +5832,6 @@ https://www.20min.ch
 https://www.allsaints.me/
 https://www.amazon.com/luna/*
 https://www.amazonpay.in/*
-https://www.ameliorate.com/
 https://www.ankermake.com/products/m5?variant=42744298373269
 https://www.anytask.com/
 https://www.api.hpr.kiwai-normandie.fr/
@@ -5850,7 +5856,6 @@ https://www.atlassian.com/software/jira/service-management
 https://www.atlassian.com/software/jira/work-management
 https://www.atlassian.com/software/rovo
 https://www.australiansuper.com/
-https://www.beautyexpert.com/
 https://www.beta.tchap.gouv.fr
 https://www.bigcommerce.com
 https://www.binance.com/
@@ -5878,7 +5883,6 @@ https://www.coral.co.uk/en/games
 https://www.crateandbarrel.me
 https://www.creditkarma.com/reviews/
 https://www.creditkarma.com/savings
-https://www.cultbeauty.co.uk/
 https://www.cyber.gouv.qc.ca/
 https://www.cyberghostvpn.com/
 https://www.cyberghostvpn.com/en_US/apps/linux-vpn
@@ -5891,7 +5895,6 @@ https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=ar
 https://www.demarches-simplifiees.fr
 https://www.demarches-simplifiees.fr/api/v2/graphql
 https://www.demarches-simplifiees.fr/graphql
-https://www.dermstore.com
 https://www.designify.com
 https://www.driveuconnect.com
 https://www.driveuconnect.eu
@@ -5903,17 +5906,14 @@ https://www.dropbox.com/capture
 https://www.dropbox.com/desktop
 https://www.dropbox.com/paper
 https://www.epam.com/
-https://www.espaskincare.com/
 https://www.etsy.com
 https://www.etsy.com/developers/documentation/getting_started/api_basics
 https://www.etsy.com/mobile
-https://www.exantediet.com/
 https://www.expressvpn.com
 https://www.expressvpn.com/latest#linux
 https://www.expressvpn.com/latest#mac
 https://www.expressvpn.com/latest#windows
 https://www.expressvpn.com/vpn-server
-https://www.eyeko.com/
 https://www.finicity.com
 https://www.fishbowlapp.com/*
 https://www.foreignaffairs.com/
@@ -5921,19 +5921,15 @@ https://www.galabingo.com
 https://www.galacasino.com
 https://www.gamemaker.io
 https://www.glassdoor.com/*
-https://www.glossybox.com/
 https://www.gohenry.com/
 https://www.governmentjobs.com
-https://www.growgorgeous.com/
 https://www.hostgator.com.br/
 https://www.hostgator.com/
 https://www.hpr.kiwai-normandie.fr/
-https://www.hqhair.com/
 https://www.iciparisxl.be/blog/
 https://www.iciparisxl.lu/blog/
 https://www.iciparisxl.nl/blog/
 https://www.ifood.com.br
-https://www.illamasqua.com/
 https://www.intercom.com/
 https://www.just-eat.co.uk
 https://www.just-eat.ie
@@ -5960,7 +5956,6 @@ https://www.lieferando.de/thetakeaway/
 https://www.lululemon.me
 https://www.magicplanetmena.com/
 https://www.malloftheemirates.com
-https://www.mankind.co.uk/
 https://www.mapbox.com/mapbox-gl-js/
 https://www.marionnaud.at/blog/
 https://www.marionnaud.at/m-life/
@@ -5981,12 +5976,9 @@ https://www.mastercard.com.au/en-au.html
 https://www.mastercard.nl/nl-nl.html
 https://www.mastercard.us/en-us.html
 https://www.microsoft.com/en-us/p/keeperchat/9pdqtcpn4kxn#activetab=pivot:overviewtab
-https://www.mioskincare.com/
 https://www.monash.edu
 https://www.monashprofessional.edu.au/
-https://www.mybag.com/
 https://www.mydirtyhobby.com/app/download
-https://www.myvitamins.com/
 https://www.namejet.com/
 https://www.networksolutions.com
 https://www.nintendo.com/us/store/products/rec-room-switch/
@@ -6018,7 +6010,6 @@ https://www.pixpay.fr/
 https://www.planethoster.com
 https://www.pornhub.com/
 https://www.pornhubpremium.com/
-https://www.powerman.co.uk/
 https://www.ppr.kiwai-enr.fr/
 https://www.premogiftcards.com
 https://www.privateinternetaccess.com/
@@ -6035,7 +6026,6 @@ https://www.sharerewards.com/
 https://www.shiseido.me/
 https://www.simplify.com/commerce/ 
 https://www.skidxb.com/
-https://www.skinstore.com/
 https://www.skroutz.gr/
 https://www.sncf-connect.com
 https://www.sncf-connect.com/bff
@@ -6057,7 +6047,6 @@ https://www.tchap.gouv.fr
 https://www.teamviewer.com/en/products/teamviewer/
 https://www.thefork.com/
 https://www.theforkmanager.com
-https://www.thehut.com/
 https://www.theperfumeshop.com/blog/
 https://www.theperfumeshop.com/ie/blog/
 https://www.thousandeyes.com/
