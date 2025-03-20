@@ -1,6 +1,5 @@
  *.sip.*.twilio.com
  *.test.*.lfscnp.com
- Finicity Connect
  Fortress.HongKong.IOS
  MS Office Add-In
  Mobile Apps
@@ -1657,10 +1656,6 @@ FindX6Pro
 FindX7
 FindX7Ultra
 Fing desktop
-Finicity - OBB (Open Banking Business Service) 
-Finicity Decisioning
-Finicity- Data Services
-Finicity- Open Banking Payment History application
 FireTV
 Firmware
 Fleet Server
@@ -1990,7 +1985,6 @@ Presentation Remotes
 Primary Assets
 Product Delivery
 Protocol of the Swiss Post Voting System
-Public Others Target
 Python Driver
 QuickApps
 React Native SDK
@@ -2035,7 +2029,6 @@ SAP S/4HANA migration cockpit
 SAP Signavio
 SAP SuccessFactors
 SHA1-CD
-SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope
 SSL/TLS
 SSO_Saml_connector
 Scanwatch
@@ -4274,7 +4267,6 @@ https://console.delltechnologies.com/nav/invoice
 https://console.neon.tech/
 https://console.neon.tech/api/v2/
 https://consumer-sustainability.underarmour.com/en
-https://consumer.finicityreports.com
 https://content-server.ibotta.com/graphql
 https://content.agora.beta.gouv.fr
 https://content.usaa.com
@@ -4312,7 +4304,6 @@ https://dealer.prod.ps.axelspringer.de/purchases/004/bild/*
 https://dealer.prod.ps.axelspringer.de/purchases/004/welt/*
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
-https://demo.priceless.com/
 https://design.glassdoor.com/*
 https://design.staples.com
 https://desk-api-{region}.sendbird.com
@@ -4321,7 +4312,6 @@ https://detect.pdq.tools/
 https://dev.tutoring.classdojo.com
 https://devedge.t-mobile.com
 https://developer.ifood.com.br
-https://developer.mastercard.com
 https://developer.newrelic.com/
 https://developer.thefork.io/
 https://developer.withings.com/dashboard/
@@ -4359,7 +4349,6 @@ https://docs.sophos.com/central/customer/help/en-us/ManageYourProducts/ThreatAna
 https://docs.tempus-ex.com
 https://docs.world.org/world-chain/reference/address-book
 https://docsite.vistarmedia.com
-https://donate.mastercard.com
 https://download.krisp.ai/mac
 https://download.krisp.ai/win
 https://download.opera.com
@@ -5366,11 +5355,9 @@ https://pbgq.upac.gouv.qc.ca/
 https://pentest-app.onetrust.com/
 https://peopleview.naspers.com
 https://performance.neogov.com
-https://performancemarketing.mastercard.com/portal/
 https://pg.paymaya.com
 https://phoenix-catalog.pnimedia.com/
 https://pinepgconsole.in:9099
-https://pioneer.truata.com/
 https://pit.water-link.be/
 https://pixabay.com/
 https://platform.infiniteathlete.ai
@@ -5525,7 +5512,6 @@ https://portalapi.eu.clearpay.co.uk
 https://portalapi.us.afterpay.com
 https://powerdms.com/
 https://pprd.cybermalveillance.gouv.fr
-https://priceless.com/golf/
 https://pro.opensea.io/
 https://productasset.pnimedia.com/
 https://production-delivery-metrics-svc.vistarmedia.com
@@ -5652,8 +5638,6 @@ https://splus-storage.pnimedia.com/
 https://springboard.pinelabs.com
 https://sprint.com
 https://square.online
-https://src.mastercard.com/*
-https://src.mastercard.com/profile/enroll
 https://staff.monash
 https://staging-prime.navan.com
 https://staging-trafficking.vistarmedia.com
@@ -5924,7 +5908,6 @@ https://www.expressvpn.com/latest#mac
 https://www.expressvpn.com/latest#windows
 https://www.expressvpn.com/vpn-server
 https://www.eyeko.com/
-https://www.finicity.com
 https://www.fishbowlapp.com/*
 https://www.foreignaffairs.com/
 https://www.galabingo.com
@@ -5985,11 +5968,6 @@ https://www.marionnaud.ro/blog/
 https://www.marionnaud.ro/m-life/
 https://www.marionnaud.sk/blog/
 https://www.marionnaud.sk/m-life/
-https://www.mastercard.ch/de-ch.html
-https://www.mastercard.ch/fr-ch.html
-https://www.mastercard.com.au/en-au.html
-https://www.mastercard.nl/nl-nl.html
-https://www.mastercard.us/en-us.html
 https://www.microsoft.com/en-us/p/keeperchat/9pdqtcpn4kxn#activetab=pivot:overviewtab
 https://www.mioskincare.com/
 https://www.monash.edu
@@ -6043,7 +6021,6 @@ https://www.restaurant-information.com
 https://www.sdx.com/
 https://www.sharerewards.com/
 https://www.shiseido.me/
-https://www.simplify.com/commerce/ 
 https://www.skidxb.com/
 https://www.skinstore.com/
 https://www.skroutz.gr/
