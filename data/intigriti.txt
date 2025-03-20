@@ -1,12 +1,6 @@
 Hardware
 Firmware
 Software
-https://github.com/AikidoSec/firewall-node#Vulnerability
-https://github.com/AikidoSec/firewall-python#Vulnerability
-https://github.com/AikidoSec/firewall-node#Detection Bypass
-https://github.com/AikidoSec/firewall-python#Detection Bypass
-https://github.com/AikidoSec/firewall-node#False Positive
-https://github.com/AikidoSec/firewall-python#False Positive
 myaccount.ad.nl
 webwinkel.ad.nl
 www.ad.nl
@@ -46,18 +40,19 @@ quickstamp-gb.bpost.be
 register.bpost.be
 validationlist.bpost.be
 www.bpost.be
+https://github.com/cmdotcom
 login.cm.com
 api.cm.com
 api.cmtelecom.com
 cm.com/[locale]/app/*
 cm.com/[locale]/register
+appmiral.com
+building-blocks.com
 cm.com/app/messagingtrial/
+cmcom.atlassian.net
 www.cm.com
 1199521324
 1579530451
-appmiral.com
-building-blocks.com
-cmcom.atlassian.net
 com.cm.cashregister
 com.ticketflow.ticketscanner
 demo.globalticket.com/*
@@ -396,18 +391,6 @@ http://socialdeal.nl/inspirations/bluemonday/
 http://www.whynot.com/
 https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/
 www.socialdeal.nl
-1114799709
-1114800186
-api.soundtrackyourbrand.com
-billing.api.soundtrackyourbrand.com
-builds.soundtrackyourbrand.com
-business.soundtrackyourbrand.com
-com.soundtrackyourbrand.soundtrack.player
-https://auth.api.soundtrackyourbrand.com/
-https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
-https://radio.api.soundtrackyourbrand.com/
-https://www.soundtrackyourbrand.com
-macOS app
  aweb.suivo.com
 asupport.suivo.com
 belgium.tomorrowland.com

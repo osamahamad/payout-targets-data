@@ -1,0 +1,116 @@
+*.mi.com
+*.miui.com
+*.miwifi.com
+*.xiaomi.com
+*.xiaomiyoupin.com
+.NET Driver
+C Driver
+C# Driver
+C++ Driver
+Citrix End Point Analysis (EPA) client for Linux
+Citrix End Point Analysis (EPA) client for Windows
+Citrix Secure Access client for Android
+Citrix Secure Access client for Linux
+Citrix Secure Access client for Windows
+Citrix Secure Access client for iOS
+Citrix Secure Access client for macOS
+Cluster-To-Cluster sync
+Compass
+GO Driver
+Geneva 
+Java Driver
+Kafka Connector
+MIUI OS for Xiaomi Phone
+Mi Band
+Mi Electric Scooter 
+Mi Home Webcam 
+Mi Laser Projector
+Mi Robot Vacuum
+Mi TV 
+Mi TV Box
+Mi/Redmi Phone
+Node.js Driver
+Other APK Assets
+Other Hardware Assets
+PHP Driver
+Python Driver
+Relational Migrator
+Ruby Driver
+Rust Driver
+Spark Connector
+Tap to Pay (Android)
+Tap to Pay (iOS)
+VS Code Plugin
+alfred.syfe.com
+api-uat-bugbounty.nonprod.syfe.com
+api.geneva-staging.com
+api.omise.co
+api.ort-one-pingone.com
+api.syfe.com
+app.geneva-staging.chat
+apps.ort-one-pingone.com
+blog.bitmex.com
+cloud.forescout.com
+com.android.browser
+com.mi.global.shop
+com.miui.cloudbackup
+com.miui.cloudservice
+com.miui.micloudsync
+com.syfe
+com.xiaomi.account
+com.xiaomi.market
+com.xiaomi.mibrain.speech
+com.xiaomi.micloud.sdk
+com.xiaomi.mipicks
+com.xiaomi.payment
+com.xiaomi.smarthome
+console.ort-one-pingone.com
+dashboard.omise.co
+deeplinks.geneva-staging.chat
+deeplinks.geneva-staging.com
+gateway.geneva-staging.chat
+gateway.geneva-staging.com
+geneva-staging.chat
+go.geneva-staging.com
+https://api.thefork.io
+https://appdistribution.firebase.google.com/pub/i/505927432f64f04a
+https://apps.apple.com/app/thefork-manager-neo/id1295795281
+https://apps.apple.com/sg/app/syfe-stay-invested/id1497156434
+https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/entitlements
+https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/entitlements/{entitlement_id}
+https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/robots/{robot_id}/entitlements
+https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/users/{user_id}/entitlements
+https://developer.thefork.io/
+https://github.com/cmdotcom
+https://manager.thefork.com
+https://ob-sandbox.gocardless.io
+https://payment.lafourchette.com
+https://play.google.com/store/apps/details?id=com.lafourchette.tfm3
+https://play.immutable.com
+https://prozentoomat.toom.de
+https://regatta.aiven.io/
+https://secure.thefork.com
+https://testflight.apple.com/join/Y4cHu289
+https://www.theforkmanager.com
+https://zuora-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/notifications/raas
+links.geneva-staging.chat
+links.geneva-staging.com
+mark8.syfe.com
+offsite.omise.co
+payments.geneva-staging.chat
+payments.geneva-staging.com
+presence.geneva-staging.chat
+presence.geneva-staging.com
+router.geneva-staging.com
+social.geneva-staging.chat
+social.geneva-staging.com
+sockets.geneva-staging.chat
+sockets.geneva-staging.com
+uat-bugbounty.nonprod.syfe.com
+vault.omise.co
+web.geneva-staging.com
+www.geneva-staging.chat
+www.geneva-staging.com
+www.omise.co
+www.opn.ooo
+www.syfe.com

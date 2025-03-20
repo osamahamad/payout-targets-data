@@ -574,7 +574,10 @@
 *.metamask.io
 *.mevo.com
 *.mgmt.fndlsb.net
+*.mi.com
 *.mir.uzleuven.be
+*.miui.com
+*.miwifi.com
 *.mjrtheatres.com
 *.mlstatic.com
 *.mmcdn.com
@@ -747,7 +750,6 @@
 *.romwe.com
 *.router.hereapi.com
 *.runnr.in
-*.s-cloud.net
 *.saltlabs.com
 *.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
@@ -783,7 +785,6 @@
 *.seriously.com
 *.services-prod.nsvcs.net
 *.services.netlify.com
-*.services.repostnetwork.com
 *.shein.com
 *.sheingsp.com
 *.shipt.com
@@ -821,7 +822,6 @@
 *.sol-data.com
 *.solarcity.com
 *.sonyentertainmentnetwork.com
-*.soundcloud.org
 *.souparea.com
 *.spiketrap.io
 *.spinaway.com
@@ -993,6 +993,8 @@
 *.xfinity.com	
 *.xfinityhome.com
 *.xfiplatform.com
+*.xiaomi.com
+*.xiaomiyoupin.com
 *.xoom.com
 *.xvservice.net
 *.xvtest.net
@@ -1025,6 +1027,7 @@
 *uat.marriott.com
 *ubereats.com
 *vc.logitech.com
+.NET Driver
 0x0d8775f648430679a709e98d2b0cb6250d2887ef
 0x44fcfabfbe32024a01b778c025d70498382cced0
 0x67fa2c06c9c6d4332f330e14a66bdf1873ef3d2b
@@ -1048,8 +1051,6 @@
 1091010942
 10x.redoxengine.com
 1101145849
-1114799709
-1114800186
 1116488672
 1118448159
 1127881507
@@ -1483,7 +1484,10 @@ Burp Collaborator
 Burp Suite Enterprise Edition
 Burp Suite Extension (BApps)
 Burp Suite Pro/Community
+C Driver
+C# Driver
 C# SDK
+C++ Driver
 C100447517
 C103149579
 C2PA Tool
@@ -1511,6 +1515,13 @@ Cisco Meraki MX Security Appliances
 Cisco Meraki Systems Manager
 Cisco Meraki Virtual Security Appliances
 Cisco Meraki Z Series (Z1,Z3(C))
+Citrix End Point Analysis (EPA) client for Linux
+Citrix End Point Analysis (EPA) client for Windows
+Citrix Secure Access client for Android
+Citrix Secure Access client for Linux
+Citrix Secure Access client for Windows
+Citrix Secure Access client for iOS
+Citrix Secure Access client for macOS
 ClickHouse Cloud environment hosted by ClickHouse
 Cloudflare Access
 Cloudflare Analytics
@@ -1527,6 +1538,7 @@ Cloudflare Zaraz
 Cloudflare Zero Trust/Cloudflare One
 Cloudkey
 Clubhouse Production and Corporate Infrastructure
+Cluster-To-Cluster sync
 Coda Chrome Extension
 CoinMarketCap Android app
 CoinMarketCap iOS app
@@ -1535,6 +1547,7 @@ ColdFusion
 ColorOS
 CometBFT
 Community Management & Communications
+Compass
 Content Authorization Targets
 Content authorization vulnerabilities affecting only the in-browser player
 Contentsquare SDK (cf : Program Description)
@@ -1673,6 +1686,7 @@ Functions dealing with vehicle access and immobilizer
 G Hub
 GHE
 GLib
+GO Driver
 GS Select iOS app
 GameMaker Studio 2
 Games Tier 1
@@ -1681,6 +1695,7 @@ Games Tier 3
 Gateway
 Gemini
 GenAI Apps under *.amazon.*
+Geneva 
 Git Repositories (b2-sdk-java & B2 Command Line Tool)
 GitHub CLI
 GitHub CSP
@@ -1746,6 +1761,7 @@ Internet.xfinity.com
 Interoperability Issue in OpenPGP.js
 JBL Charge 5
 JBL Flip 6
+Java Driver
 Java SDK
 Jetpack
 Jira
@@ -1754,6 +1770,7 @@ K105G
 K9
 K9Pro
 K9s
+Kafka Connector
 Kibana
 Kindle E-Reader
 Klarna Android App (com.myklarnamobile)
@@ -1801,6 +1818,7 @@ Low impact, individually exposed Google Docs with no common root cause (see “P
 Luna
 MFA
 MFA Integrations	
+MIUI OS for Xiaomi Phone
 Mac OS Executable
 Mac OS Executable: Download here https://www.larksuite.com/download
 Mac Personal Backup Clients
@@ -1845,6 +1863,14 @@ Message signing snap
 MetaMask Browser Extension
 MetaMask SDK
 Meural
+Mi Band
+Mi Electric Scooter 
+Mi Home Webcam 
+Mi Laser Projector
+Mi Robot Vacuum
+Mi TV 
+Mi TV Box
+Mi/Redmi Phone
 Microsites
 Miro SDK
 Mobile Applications
@@ -1854,27 +1880,10 @@ MoneyBack.HongKong.Android
 MoneyBack.HongKong.iOS
 Moneyback (subdomains)
 MongoDB BI Connector
-MongoDB Cluster-To-Cluster sync
-MongoDB Compass
-MongoDB Driver: .NET
-MongoDB Driver: C
-MongoDB Driver: C#
-MongoDB Driver: C++
-MongoDB Driver: Go
-MongoDB Driver: Java
-MongoDB Driver: Node.js
-MongoDB Driver: PHP
-MongoDB Driver: Python
-MongoDB Driver: Ruby
-MongoDB Driver: Rust
-MongoDB Kafka Connector
 MongoDB Owned GitHub Repositories
 MongoDB Realm SDKs
-MongoDB Relational Migrator
 MongoDB Server Local Instance
 MongoDB Shell
-MongoDB Spark Connector
-MongoDB VS Code Plugin
 Mozilla Ad Routing Service
 Mozilla VPN Clients
 Native K8S workers and operator
@@ -1888,6 +1897,7 @@ Nighthawk Switch
 Nighthawk iOS App
 Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
+Node.js Driver
 Non Altera Products
 Non-Core Assets
 Non-Core Grafana Plugins
@@ -1932,6 +1942,7 @@ Orbi iOS App
 Other
 Other (Misc)
 Other - (all other Atlassian targets)
+Other APK Assets
 Other Acronis Domains
 Other Acronis executables
 Other Amazon Retail Assets (Please only actively test explicitly stated scope)
@@ -1939,6 +1950,7 @@ Other Amazon Retail Mobile Apps (Please only actively test explicitly stated sco
 Other Amazon Retail Sites (Please only actively test explicitly stated scope)
 Other Assets
 Other BMW Domains
+Other Hardware Assets
 Other HubSpot-owned (sub)domains not listed as Out of Scope . Please make sure to exercise due diligence before testing. You must include proof that the subdomain is registered to HubSpot to be eligible for a reward.
 Other Logitech Desktop and Mobile Application
 Other Logitech Hardware/IoT
@@ -1947,6 +1959,7 @@ Other Spotify websites
 Other assets
 Other assets owned by Personio
 Other non-production infrastructure
+PHP Driver
 PHP SDK
 PIA APIs
 PNS (subdomains)
@@ -1972,13 +1985,14 @@ Premiere Pro
 Premiere Rush
 Presentation Remotes
 Primary Assets
-ProConnect (see program description for github link)
 Product Delivery
 Protocol of the Swiss Post Voting System
 Public Others Target
+Python Driver
 QuickApps
 React Native SDK
 Recon Data
+Relational Migrator
 Remaining functions
 Reno 9 5G
 Reno105G
@@ -1997,6 +2011,8 @@ Roblox Client
 Roblox Engine
 Roblox Studio
 Rockstar Games Launcher
+Ruby Driver
+Rust Driver
 Rust SDK
 SAP Business Network for Logistics	
 SAP Cloud ALM
@@ -2056,6 +2072,7 @@ Sophos IT Infrastructure (all other Sophos domains)
 Source Code
 Source code hosting
 SpaceX and Starlink assets (target information and rewards detailed above on the brief)
+Spark Connector
 Special Conditions
 Special scenarios (see description)
 Specific scenarios (see program description)
@@ -2116,6 +2133,8 @@ TW eCommerce: Auctions
 TW eCommerce: Shopping
 TW eCommerce: Used Car
 Tablets
+Tap to Pay (Android)
+Tap to Pay (iOS)
 Techcrunch
 Tesla Energy hardware you own
 Tesla vehicle hardware that you own
@@ -2188,6 +2207,7 @@ VHX Branded Customer Roku Apps
 VHX Branded Customer iOS Apps
 VPN
 VPN: vpn.monash.edu
+VS Code Plugin
 Vectorize
 Vehicle Head Units, TPMS sensors, remote keyless entry, and any other system that is present in a hardware product that you own or are authorized to test against
 Video Conferencing Products
@@ -2379,6 +2399,7 @@ alertmanager.fr.cloud.gov
 alerts.ninjakiwi.com
 alexa.amazon.com
 alexaanswers.amazon.com
+alfred.syfe.com
 all-inclusive.marriott.com
 alternativa.film
 am.editeur.preprod.monespacesante.fr
@@ -2394,7 +2415,6 @@ analytics.ninjakiwi.com
 analytics.pinelabs.com
 ap-s.cloud.com
 api*.netflix.com
-api-*.soundcloud.com
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
 api-eu.floqast.app
@@ -2407,6 +2427,7 @@ api-sandbox.gocardless.com
 api-sandbox.uphold.com
 api-sandbox.uphold.com/graphql
 api-staging.airtable.com
+api-uat-bugbounty.nonprod.syfe.com
 api-wallet-sandbox.venly.io
 api-wallet.venly.io
 api.23andme.com
@@ -2456,6 +2477,7 @@ api.fortmatic.com
 api.fortress.com.hk
 api.fr.cloud.gov
 api.gamma.redoxstage.com
+api.geneva-staging.com
 api.github.com
 api.grabpay.com
 api.greenhouse.io
@@ -2496,6 +2518,8 @@ api.monespacesante.fr
 api.moonpay.com
 api.netlify.com
 api.ninjakiwi.com
+api.omise.co
+api.ort-one-pingone.com
 api.ovh.com
 api.personio-dev.com
 api.personio.com
@@ -2516,12 +2540,10 @@ api.remitly.io
 api.rezserver.com
 api.sandbox.topperpay.com
 api.shipt.com
-api.skinport.com
 api.slack.com
 api.smtp2go.com
 api.sokos.fi
 api.sorare.com
-api.soundtrackyourbrand.com
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -2530,6 +2552,7 @@ api.stripe.com
 api.superdrug.com
 api.swapcard.com
 api.swiftfinancial.com
+api.syfe.com
 api.taxjar.com
 api.theperfumeshop.com
 api.tidal.com
@@ -2570,7 +2593,6 @@ app.alasco.de
 app.avtoelon.uz
 app.chime.com
 app.circle.com
-app.command.cysiv.com
 app.dashlane.com
 app.datacamp.com/certification
 app.datacamp.com/groups
@@ -2588,14 +2610,13 @@ app.files.com
 app.fing.com
 app.frontapp.com
 app.gamma.redoxstage.com
+app.geneva-staging.chat
 app.grammarly.com
 app.greenhouse.io
 app.iciparisxl.be
 app.iciparisxl.lu
 app.iciparisxl.nl
 app.interseller.io
-app.iris.acceptance.forescoutcloud.net
-app.iris.production.forescoutcloud.net
 app.khealth.com
 app.klarna.com
 app.koho.ca
@@ -2630,7 +2651,6 @@ app.saltlabs.com
 app.sandbox.directly.com
 app.sandbox.topperpay.com
 app.shipt.com
-app.skinport.com
 app.slack.com
 app.smtp2go.com
 app.snapchat.com
@@ -2654,6 +2674,7 @@ apps.apple.com/fr/app/mon-espace-sant%C3%A9/id1589255019 (iOS)
 apps.apple.com/us/app/crowdstrike-falcon/id1458815656
 apps.meraki.io
 apps.nextcloud.com
+apps.ort-one-pingone.com
 apps.portofantwerp.com
 apps.portofantwerpbruges.com
 aqtooling.com
@@ -2746,7 +2767,6 @@ beta-cloud.acronis.com
 bgpview.io
 bigcommerce-adapter.judge.me
 billing-pci.etoro.com
-billing.api.soundtrackyourbrand.com
 billing.etoro.com
 billingsupport.chaturbate.com
 bioid-management.app
@@ -2755,6 +2775,7 @@ blinkit.com
 blob.gamma.redoxstage.com
 blocklist.opera-api.com
 blog.23andme.com
+blog.bitmex.com
 blog.creditkarma.com
 blog.cs.money
 blog.irccloud.com
@@ -2805,7 +2826,6 @@ bugzilla.mozilla.org
 builder.hostinger.com
 building-blocks.com
 builds-auckland.ninja.kiwi
-builds.soundtrackyourbrand.com
 bullsheet.me
 business-resources.truecaller.com
 business.kayak.com
@@ -2815,7 +2835,6 @@ business.kinepolis.nl
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
-business.soundtrackyourbrand.com
 business.tiktok.com
 business.truecaller.com
 businesshelp.snapchat.com
@@ -2893,6 +2912,7 @@ cloud.connect.justeattakeaway.com
 cloud.connect.takeaway.com
 cloud.digitalocean.com
 cloud.elastic.co
+cloud.forescout.com
 cloud.gov
 cloud.malwarebytes.com
 cloud.update.justeattakeaway.com
@@ -2971,6 +2991,7 @@ com.amazon.vendormobile.india.android
 com.amazon.warhol.android
 com.amazon.ziggy.android
 com.anchorfminc.Anchor
+com.android.browser
 com.anker.AnkerMake
 com.application.zomato
 com.application.zomatomerchant
@@ -3123,6 +3144,10 @@ com.mercadoenvios.logistics
 com.mercadolibre
 com.mercadopago.MercadoPago
 com.mercadopago.wallet
+com.mi.global.shop
+com.miui.cloudbackup
+com.miui.cloudservice
+com.miui.micloudsync
 com.monaco.mobile
 com.moneybird.Moneybird
 com.moneybird.android
@@ -3190,7 +3215,6 @@ com.skypicker.Skypicker
 com.skypicker.main
 com.slack.slackmdm
 com.snapchat.android
-com.soundtrackyourbrand.soundtrack.player
 com.spotify.client
 com.spotify.kids
 com.spotify.lite
@@ -3204,6 +3228,7 @@ com.starbucks.mystarbucks
 com.streamlabs
 com.streamlabs.slobsrc
 com.stripe.android.dashboard
+com.syfe
 com.ticketflow.ticketscanner
 com.tideplatform.banking
 com.tiktok.tv
@@ -3249,6 +3274,13 @@ com.wolt.android
 com.wolt.courierapp
 com.wooga.pearlsperil
 com.wotif.android
+com.xiaomi.account
+com.xiaomi.market
+com.xiaomi.mibrain.speech
+com.xiaomi.micloud.sdk
+com.xiaomi.mipicks
+com.xiaomi.payment
+com.xiaomi.smarthome
 com.xoom.android.app
 com.xoom.app
 com.yahoo.mobile.client.android.flickr
@@ -3293,6 +3325,7 @@ connect.venly.io
 console-backend.truelayer[-sandbox].com
 console.circle.com
 console.dashlane.com
+console.ort-one-pingone.com
 console.tink.com
 console.truelayer[-sandbox].com
 contacts.infomaniak.com
@@ -3336,7 +3369,6 @@ cw.visa.com
 cweb-ott.nba.com
 cyberghost.app
 cyclonedx-bom
-cysiv.com
 cz.skodaauto.myskoda
 daita/files_fulltextsearch_tesseract
 dash.cloudflare.com
@@ -3347,6 +3379,7 @@ dashboard.fr.cloud.gov
 dashboard.gamma.redoxstage.com
 dashboard.magic.link
 dashboard.mergify.com
+dashboard.omise.co
 dashboard.plaid.com
 dashboard.pluralonline.com
 dashboard.privy.io
@@ -3372,6 +3405,8 @@ de.forescout.cloud
 debug.8x8.com
 debug.clairvoyance.indrive.tech
 decision.swiftfinancial.com
+deeplinks.geneva-staging.chat
+deeplinks.geneva-staging.com
 delen/id1064839588
 delta.app
 demo.arkoselabs.com
@@ -3547,8 +3582,6 @@ file-storage-front.eu-east-1.indriverapp.com
 file.larksuite.com
 files-stg.inspectorio.com
 files.uzleuven.be
-finzfin.com
-finzjr.com
 firefly.adobe.com
 firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
@@ -3576,10 +3609,13 @@ gamma.grab.co
 gamma.redoxstage.com
 gasstation.polygon.technology/
 gateway*.marriott.com
+gateway.geneva-staging.chat
+gateway.geneva-staging.com
 gateway.reddit.com
 gateway.skyscanner.net/*
 gehmmocbbkpblljhkekmfhjpfbkclbph
 geminiadvisory.io
+geneva-staging.chat
 geofilters.snapchat.com
 getworldcoin.com
 gift.starbucks.co.jp
@@ -3601,6 +3637,7 @@ globaljourney.tomorrowland.com
 gnip.com
 gnocchi-www.buffalo-ggn.net
 go.capital.com
+go.geneva-staging.com
 goldmansachsindices.com
 googleplace*.bykea.net
 gql.reddit.com
@@ -3674,7 +3711,6 @@ http://api.lightspark.com
 http://app.lightspark.com
 http://app.scaleft.com/
 http://apps.connect.monash.edu/
-http://artists.soundcloud.com/
 http://auth.khealth.com/cedars/sign-up
 http://auth.khealth.com/khealth/sign-up
 http://auth.khealth.com/mayo-la-crosse/sign-up
@@ -3746,7 +3782,6 @@ http://sapphire.oasis.io
 http://sb-console-api.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://secure-iphone-xml.booking.com/json/
-http://skinport.com/blog/
 http://skumapper-splus.pnimedia.com/
 http://socialdeal.nl/inspirations/bluemonday/
 http://staging-api.ynab.com
@@ -3839,7 +3874,6 @@ https://api-evm.orderly.org/
 https://api-js.datadome.co
 https://api-prod.retailsso.com
 https://api-prod.thatconceptstore.com/
-https://api-staging.pingone.com/*
 https://api-test.nicehash.com
 https://api-ui.toloka.ai
 https://api-user.e2ro.com/*
@@ -3899,6 +3933,7 @@ https://api.staging.luno.com/
 https://api.t-mobile.com
 https://api.test.latitudefinancial.com
 https://api.thefork.com
+https://api.thefork.io
 https://api.thesecurityteam.rocks
 https://api.thousandeyes.com/
 https://api.toom.de
@@ -3948,10 +3983,10 @@ https://app.strattic.com
 https://app.thousandeyes.com/
 https://app.welcomesoftware.com/
 https://app.withings.com
+https://appdistribution.firebase.google.com/pub/i/505927432f64f04a
 https://appgallery.huawei.com/app/C101186357
 https://apphouse.underarmour.com/
 https://appointment.vfsglobal.com.dz/forms/FRDZ/
-https://apps-staging.pingone.com/*
 https://apps.apple.com/am/app/maya-your-all-in-one-money-app/id991673877
 https://apps.apple.com/app/bitpanda-buy-bitcoin-crypto/id1449018960
 https://apps.apple.com/app/bitx-wallet/id927362479
@@ -3963,6 +3998,7 @@ https://apps.apple.com/app/id1503045795
 https://apps.apple.com/app/id1635031432
 https://apps.apple.com/app/infomaniak-kdrive/id1482778676
 https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693
+https://apps.apple.com/app/thefork-manager-neo/id1295795281
 https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/bigcommerce/id1418570678
@@ -4012,6 +4048,7 @@ https://apps.apple.com/no/app/world-app-worldcoin-wallet/id1560859847
 https://apps.apple.com/qa/app/ooredoo-qatar/id619828745
 https://apps.apple.com/se/app/atg-live/id1608156355
 https://apps.apple.com/se/app/atg/id1434660322
+https://apps.apple.com/sg/app/syfe-stay-invested/id1497156434
 https://apps.apple.com/us/app/%E5%B1%A5%E6%AD%B4%E6%9B%B8%E4%BD%9C%E6%88%90-%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%89/id1484451230
 https://apps.apple.com/us/app/3cx/id992045982
 https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
@@ -4054,7 +4091,6 @@ https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
 https://apps.apple.com/us/app/quip-docs-chat-sheets/id647922896
 https://apps.apple.com/us/app/share-rewards/id1465450657
-https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
 https://apps.apple.com/us/app/syncup-drive/id1576574297
 https://apps.apple.com/us/app/syncup-kids/id1503394062
@@ -4080,11 +4116,14 @@ https://artist.link
 https://asana.com
 https://asana.com/apps?category=made-by-asana
 https://asana.com/download
+https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/entitlements
+https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/entitlements/{entitlement_id}
+https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/robots/{robot_id}/entitlements
+https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/users/{user_id}/entitlements
 https://assets-cdn.vistarmedia.com
 https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://audio.20min.ch/
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
-https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.foxy.io/
@@ -4154,7 +4193,6 @@ https://bugcrowd.hotdoc.com.au
 https://bugcrowd.hotdoc.com.au/api
 https://bugcrowd.hotdoc.com.au/dashboard
 https://bugs.opera.com/
-https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.australiansuper.com/
@@ -4219,11 +4257,9 @@ https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://connect.com
 https://connect.monash.edu
 https://connect.paymaya.com/
-https://connect.soundcloud.com
 https://consensus2024.sandbox.events.coindesk.com/
 https://consensys.io/
 https://console-stage.neon.build/
-https://console-staging.pingone.com/*
 https://console.aiven.io/login
 https://console.delltechnologies.com/nav/administration
 https://console.delltechnologies.com/nav/billing
@@ -4280,6 +4316,7 @@ https://devedge.t-mobile.com
 https://developer.ifood.com.br
 https://developer.mastercard.com
 https://developer.newrelic.com/
+https://developer.thefork.io/
 https://developer.withings.com/dashboard/
 https://developer.zendesk.com/documentation/zendesk-sdks/#android
 https://developer.zendesk.com/documentation/zendesk-sdks/#ios
@@ -4392,12 +4429,6 @@ https://github.com/18f/identity-saml-sinatra
 https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP
 https://github.com/Agoric/agoric-sdk/tree/master/packages/inter-protocol
 https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe
-https://github.com/AikidoSec/firewall-node#Detection Bypass
-https://github.com/AikidoSec/firewall-node#False Positive
-https://github.com/AikidoSec/firewall-node#Vulnerability
-https://github.com/AikidoSec/firewall-python#Detection Bypass
-https://github.com/AikidoSec/firewall-python#False Positive
-https://github.com/AikidoSec/firewall-python#Vulnerability
 https://github.com/Aiven
 https://github.com/Aiven-Open
 https://github.com/AleoHQ/snarkOS/
@@ -4455,6 +4486,7 @@ https://github.com/circlefin/stablecoin-evm
 https://github.com/circlefin/stablecoin-sui
 https://github.com/circlefin/sui-cctp
 https://github.com/cloudflare/workerd
+https://github.com/cmdotcom
 https://github.com/contentauth/c2pa-js
 https://github.com/contentauth/c2pa-rs
 https://github.com/cosmos/gaia
@@ -4832,6 +4864,7 @@ https://maf-holding-prod.apigee.net
 https://manage.cic-bug-bounty.auth0app.com/
 https://manage.skyflowapis-preview.com
 https://manage.statuspage.io
+https://manager.thefork.com
 https://manager.trial.lsk.lightspeed.app/	
 https://mapi-a.usaa.com
 https://mapi.usaa.com/
@@ -5264,6 +5297,7 @@ https://nubank.com.mx
 https://nvoice.usaa.com/
 https://nw.ring.com/*
 https://oauth.ring.com/*
+https://ob-sandbox.gocardless.io
 https://octopus.com
 https://octopus.com/downloads
 https://oda.com
@@ -5314,6 +5348,7 @@ https://passport.immutable.com/
 https://pay.unity.com
 https://paymayabiller-prod.paymaya.com/
 https://payment-connectors.vendhq.com/
+https://payment.lafourchette.com
 https://paymentoptimizerdashboard.pinepg.in/
 https://payoutapi.maya.ph/
 https://pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-revision/
@@ -5387,6 +5422,7 @@ https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US
 https://play.google.com/store/apps/details?id=com.keepersecurity.chat&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.kubi.kucoin
 https://play.google.com/store/apps/details?id=com.lafourchette.lafourchette
+https://play.google.com/store/apps/details?id=com.lafourchette.tfm3
 https://play.google.com/store/apps/details?id=com.lastpass.authenticator&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.lastpass.lpandroid
 https://play.google.com/store/apps/details?id=com.lime.supply&hl=en_US
@@ -5418,7 +5454,6 @@ https://play.google.com/store/apps/details?id=com.scu.bsafe
 https://play.google.com/store/apps/details?id=com.siilo.android&hl=en
 https://play.google.com/store/apps/details?id=com.sixgroup.debixplus
 https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1
-https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.squareup.cash
 https://play.google.com/store/apps/details?id=com.swapcard.apps.android&hl=fr
@@ -5459,6 +5494,7 @@ https://play.google.com/store/apps/details?id=se.atg.live&hl=en&gl=SE
 https://play.google.com/store/search?q=Schweizer+Finanzmuseum&c=apps
 https://play.google.com/store/search?q=mattermost&c=apps
 https://play.google.com/store/search?q=plann&c=apps
+https://play.immutable.com
 https://playlist.link
 https://plmcixt.pinelabs.com/
 https://plugins.matomo.org/developer/innocraft
@@ -5490,17 +5526,18 @@ https://production.maf.auth0.com
 https://production.maf.auth0.com/api/v2/
 https://profile.pentest.clicsante.ca/
 https://projects.epam.com
+https://prozentoomat.toom.de
 https://pt-runner.app.ridewithvia.com
 https://public.je-apis.com
 https://public.thesecurityteam.rocks/resources/app/android/etnapp-5.2.2-staging.apk
 https://quantum-events.onecloud.harman.com
-https://radio.api.soundtrackyourbrand.com/
 https://rc.fstr.rocks
 https://rec.net/
 https://rec.net/download
 https://reclaim.ai
 https://recroom.com/studio
 https://redash-staging.getmoneytree.com/
+https://regatta.aiven.io/
 https://rentals.tripadvisor.com
 https://reptox.cnesst.gouv.qc.ca/
 https://res.cloudinary.com
@@ -5526,6 +5563,7 @@ https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secure-iphone-xml.booking.com/json/
 https://secure.cuehit.net
 https://secure.neogov.com
+https://secure.thefork.com
 https://secure.vendhq.com
 https://securemail.usaa.com
 https://securesignin.neogov.com
@@ -5562,8 +5600,6 @@ https://snctest-s.underarmour.com/
 https://song.link
 https://songlink.io
 https://sos-ch-gva-2.exo.io/
-https://soundcloud.com
-https://soundcloud.org
 https://spacelift.dev/
 https://speeddials.opera.com
 https://spgw-pay.finzfin.com
@@ -5658,6 +5694,7 @@ https://tess.service-now.com
 https://test.m4sv.bugbounty.akinox.dev/
 https://testflight.apple.com/join/533gFghn
 https://testflight.apple.com/join/FuaxsScP
+https://testflight.apple.com/join/Y4cHu289
 https://testflight.apple.com/join/vwFxXX7t
 https://tfb.t-mobile.com
 https://thatconceptstore.com
@@ -5758,11 +5795,6 @@ https://vtxapp9d.underarmour.com/
 https://vtxapp9p.underarmour.com/
 https://vtxapp9q.underarmour.com/
 https://vtxappd.underarmour.com/
-https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/entitlements
-https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/entitlements/{entitlement_id}
-https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/notifications/raas
-https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/robots/{robot_id}/entitlements
-https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/users/{user_id}/entitlements
 https://walletproxy.tapayments.com
 https://walletproxy1.tapayments.com
 https://walletproxy2.tapayments.com
@@ -6014,7 +6046,6 @@ https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
 https://www.sophos.com/en-us/products/mobile-control/free-trial
 https://www.sophos.com/en-us/products/next-gen-firewall
-https://www.soundtrackyourbrand.com
 https://www.sourcetreeapp.com/
 https://www.staples.com/services/printing
 https://www.status-takeaway.com/status
@@ -6025,6 +6056,7 @@ https://www.takeaway.com/foodwiki/
 https://www.tchap.gouv.fr
 https://www.teamviewer.com/en/products/teamviewer/
 https://www.thefork.com/
+https://www.theforkmanager.com
 https://www.thehut.com/
 https://www.theperfumeshop.com/blog/
 https://www.theperfumeshop.com/ie/blog/
@@ -6075,6 +6107,7 @@ https://xyzbmojn.net/
 https://yeswehack.com
 https://yeswehack.staging.komoju.com
 https://youcouldbe.com
+https://zuora-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/notifications/raas
 https:/pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-acces-info/
 hub-api-sandbox.remitly.io
 hub.myconnect.com.au
@@ -6247,6 +6280,8 @@ lightsparkdev/kotlin-sdk
 lightsparkdev/lightspark-crypto-uniffi
 lightsparkdev/swift-wallet-sdk
 linkpop.com
+links.geneva-staging.chat
+links.geneva-staging.com
 liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
 lirportal.ripe.net
@@ -6310,7 +6345,6 @@ m.kolesa.kz
 m.krisha.kz
 m.reddit.com
 m.trendyol.com
-macOS app
 mackeeper.com
 magento.com
 magiceden.io
@@ -6325,6 +6359,7 @@ manage.nba.com
 manager.infomaniak.com/v3/*
 map.snapchat.com
 mapi.moneyback.com.hk
+mark8.syfe.com
 marketing.fareharbor.com
 marketplace.databricks.com
 marketplace.digitalocean.com
@@ -6567,6 +6602,7 @@ obs-sensors.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 octopus
 odoo14.notebleue.pro
+offsite.omise.co
 om.vodafone.mva
 omgpro.airbnb.com
 on-premises software
@@ -6632,6 +6668,8 @@ payment.deezer.com
 payment.pixiv.net
 payment.truelayer[-sandbox].com
 paymentcomponent.booking.com
+payments.geneva-staging.chat
+payments.geneva-staging.com
 payments.hostinger.com
 paynotifications.booking.com
 payoneer.com.cn
@@ -6699,6 +6737,8 @@ preprod1.grindr.com
 preprod1.monespacesante.fr
 preprod2.monespacesante.fr
 prequal.swiftfinancial.com
+presence.geneva-staging.chat
+presence.geneva-staging.com
 presentationtracking.netflix.com
 press.priceline.com
 priceline.com
@@ -6807,6 +6847,7 @@ ro.superbet.games
 ro.superbet.sport
 rockstarnorth.com
 roominglist.hyatt.com
+router.geneva-staging.com
 royal.checksw.com
 rpm-sequoia
 rt.playcanvas.com
@@ -6902,7 +6943,6 @@ site.rewire.com
 sites.fareharbor.com
 sketch.pixiv.net
 skills-store.amazon.com
-skinport.com
 skyscanner.net/*
 skyscanner.net/hotels/book/*
 slack-imgs.com
@@ -6921,8 +6961,12 @@ snaps.metamask.io
 snapshooter.com
 soaext.oft.hyatt.com
 social-trading.exness.com
+social.geneva-staging.chat
+social.geneva-staging.com
 social.playstation.com
 socialclub.rockstargames.com
+sockets.geneva-staging.chat
+sockets.geneva-staging.com
 solutions-environnement.vinci.com
 sorare.com
 sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com
@@ -7111,6 +7155,7 @@ tunnistus.s-ryhma.fi
 tvg.com
 twinmotion.unrealengine.com
 uapi-front.etoro.com
+uat-bugbounty.nonprod.syfe.com
 uatcms.optimuscards.com
 uber.com
 uc.8x8pilot.com
@@ -7149,6 +7194,7 @@ vacations.united.com
 vacations.universalstudioshollywood.com
 vacations.us.palladiumhotelgroup.com
 validationlist.bpost.be
+vault.omise.co
 vcc-*.8x8.com
 vcc-ce.8x8.com
 verify.arkoselabs.com
@@ -7200,6 +7246,7 @@ web-message-high.lime.bike
 web-message.lime.bike
 web-production.lime.bike
 web.crypto.com
+web.geneva-staging.com
 web.grindr.com
 web.koho.ca
 web.snapchat.com
@@ -7364,6 +7411,8 @@ www.funjet.com
 www.fuzemeeting.com
 www.gamma.be/*
 www.gamma.nl/*
+www.geneva-staging.chat
+www.geneva-staging.com
 www.getaroom.com
 www.globalhotelchoices.com
 www.gocardless.com
@@ -7457,6 +7506,8 @@ www.mrjet.se
 www.mundi.com.br
 www.nba.com
 www.netflix.com
+www.omise.co
+www.opn.ooo
 www.optimuscards.com
 www.orbitz.com
 www.oursustainableport.com
@@ -7510,6 +7561,7 @@ www.swiftcapital.com
 www.swiftfinancial.com
 www.swisstransfer.com
 www.swoodoo.com
+www.syfe.com
 www.teamfortress.com
 www.temu.com
 www.theperfumeshop.com

@@ -72,8 +72,6 @@ com.oppo.quicksearchbox
 com.oppo.speechassist
 com.oppo.usercenter
 community.coloros.com
-finzfin.com
-finzjr.com
 http://coloros.com
 http://engine.heytap.com
 http://heytap.com
@@ -132,6 +130,14 @@ www.starbucks.co.jp
 Starbucks China Android
 Starbucks China iOS
 www.starbucks.com.cn/
+alfred.syfe.com
+api-uat-bugbounty.nonprod.syfe.com
+api.syfe.com
+com.syfe
+https://apps.apple.com/sg/app/syfe-stay-invested/id1497156434
+mark8.syfe.com
+uat-bugbounty.nonprod.syfe.com
+www.syfe.com
 ai.toloka.expert
 auth.toloka.ai
 experts-portal.toloka.ai
@@ -666,35 +672,31 @@ metamask.io
 portfolio.metamask.io
 signature-insights.api.cx.metamask.io
 snaps.metamask.io
-api.skinport.com
-app.skinport.com
-http://skinport.com/blog/
-skinport.com
 api-eu.floqast.app
 Any public (Internet-facing) infrastructure owned and operated by Palantir.
 Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
+.NET Driver
+C Driver
+C# Driver
+C++ Driver
+Cluster-To-Cluster sync
+Compass
+GO Driver
+Java Driver
+Kafka Connector
 MongoDB BI Connector
-MongoDB Cluster-To-Cluster sync
-MongoDB Compass
-MongoDB Driver: .NET
-MongoDB Driver: C
-MongoDB Driver: C#
-MongoDB Driver: C++
-MongoDB Driver: Go
-MongoDB Driver: Java
-MongoDB Driver: Node.js
-MongoDB Driver: PHP
-MongoDB Driver: Python
-MongoDB Driver: Ruby
-MongoDB Driver: Rust
-MongoDB Kafka Connector
 MongoDB Owned GitHub Repositories
 MongoDB Realm SDKs
-MongoDB Relational Migrator
 MongoDB Server Local Instance
 MongoDB Shell
-MongoDB Spark Connector
-MongoDB VS Code Plugin
+Node.js Driver
+PHP Driver
+Python Driver
+Relational Migrator
+Ruby Driver
+Rust Driver
+Spark Connector
+VS Code Plugin
 artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
@@ -1013,6 +1015,8 @@ Stripe Tax
 Stripe Terminal
 Stripe Treasury
 Stripe for Visual Studio Code
+Tap to Pay (Android)
+Tap to Pay (iOS)
 api.stripe.com
 api.taxjar.com
 app.taxjar.com
@@ -1056,6 +1060,13 @@ web.grindr.com
 (yoursubdomain).eu.iws.cloud.com
 (yoursubdomain).us.iws.cloud.com
 *developer.cloud.com
+Citrix End Point Analysis (EPA) client for Linux
+Citrix End Point Analysis (EPA) client for Windows
+Citrix Secure Access client for Android
+Citrix Secure Access client for Linux
+Citrix Secure Access client for Windows
+Citrix Secure Access client for iOS
+Citrix Secure Access client for macOS
 accounts.cloud.com
 adm.cloud.com
 ap-s.cloud.com
@@ -1649,6 +1660,7 @@ api-sandbox.gocardless.com
 auth0.gocardless.com
 bankaccountdata.gocardless.com, ob.gocardless.com
 connect-sandbox.gocardless.com
+https://ob-sandbox.gocardless.io
 manage-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
 pay-sandbox.gocardless.com
@@ -1665,11 +1677,8 @@ CounterAct 8.4
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 ab2b0c50cdc7b445391f99d4957850c5-cd4ccfdb37dfafad.elb.us-east-1.amazonaws.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
-app.command.cysiv.com
-app.iris.acceptance.forescoutcloud.net
-app.iris.production.forescoutcloud.net
+cloud.forescout.com
 community.forescout.com
-cysiv.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 datapod-1-100-druid-ingest.testing.forescoutcloud.net
 datapod-1-100-druid-query.development.forescoutcloud.net
@@ -1785,6 +1794,29 @@ platform.remix.com
 ridewithvia.neoridelittlerock
 ridewithvia.par.piercetransit
 via.rider
+MIUI OS for Xiaomi Phone
+Mi Band
+Mi Electric Scooter 
+Mi Home Webcam 
+Mi Laser Projector
+Mi Robot Vacuum
+Mi TV 
+Mi TV Box
+Mi/Redmi Phone
+Other APK Assets
+Other Hardware Assets
+com.android.browser
+com.mi.global.shop
+com.miui.cloudbackup
+com.miui.cloudservice
+com.miui.micloudsync
+com.xiaomi.account
+com.xiaomi.market
+com.xiaomi.mibrain.speech
+com.xiaomi.micloud.sdk
+com.xiaomi.mipicks
+com.xiaomi.payment
+com.xiaomi.smarthome
 Coda Chrome Extension
 codacontent.io
 codahosted.io
@@ -2345,9 +2377,9 @@ com.goodrx
 com.goodrx.iphone
 www.goodrx.com
 https://github.com/nodejs/node
-https://api-staging.pingone.com/*
-https://apps-staging.pingone.com/*
-https://console-staging.pingone.com/*
+api.ort-one-pingone.com
+apps.ort-one-pingone.com
+console.ort-one-pingone.com
 https://openam-bug-bounty-stag.forgeblocks.com/*
 https://ort-admin.pingone.com/*
 https://ort-authenticator.pingone.com/*
@@ -2369,6 +2401,7 @@ https://github.com/rsksmart/rskj
 https://github.com/rsksmart/tokenbridge
 1589023233
 All Other BitMEX Assets
+blog.bitmex.com
 com.bitmex.app.android
 https://play.google.com/store/apps/details?id=com.bitmex.app.android.testnet
 https://testflight.apple.com/join/533gFghn
@@ -2592,6 +2625,9 @@ https://github.com/hyperledger/fabric-sdk-py
 403684733
 6444040977
 930441707
+Geneva 
+api.geneva-staging.com
+app.geneva-staging.chat
 badoo.com
 badoocdn.com
 bma.badoo.com
@@ -2606,14 +2642,43 @@ com.bumble.app
 com.bumblebff.app
 com.hotornot.app
 corp.badoo.com
+deeplinks.geneva-staging.chat
+deeplinks.geneva-staging.com
 eu1.badoo.com
+gateway.geneva-staging.chat
+gateway.geneva-staging.com
+geneva-staging.chat
+go.geneva-staging.com
 hotornot.com
+https://appdistribution.firebase.google.com/pub/i/505927432f64f04a
+https://testflight.apple.com/join/Y4cHu289
+links.geneva-staging.chat
+links.geneva-staging.com
 m.badoo.com
 meu1.badoo.com
 mus1.badoo.com
+payments.geneva-staging.chat
+payments.geneva-staging.com
+presence.geneva-staging.chat
+presence.geneva-staging.com
+router.geneva-staging.com
+social.geneva-staging.chat
+social.geneva-staging.com
+sockets.geneva-staging.chat
+sockets.geneva-staging.com
 translate.badoo.com
 us1.badoo.com
+web.geneva-staging.com
 www.bumble.com
+www.geneva-staging.chat
+www.geneva-staging.com
+api.omise.co
+dashboard.omise.co
+github.com
+offsite.omise.co
+vault.omise.co
+www.omise.co
+www.opn.ooo
 Anchor
 Android SDK
 Backstage source code

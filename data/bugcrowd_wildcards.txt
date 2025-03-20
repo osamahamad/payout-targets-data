@@ -68,10 +68,10 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.hubspotpagebuilder.eu
 *.movilepay.com
 *.movilepay.com.br
-*.guildofguardians.com
 *.immutable.com
 *.imtbl.com
 *.testnet.immutable.com
+*.guildofguardians.com
 *.imperva.com
 *.incapsula.com
 *.indeed.com
@@ -170,10 +170,6 @@ prod-*.nu.com.co
 *.mcssl.com
 *.skyscanner.net
 3rd party services hosted at *.sophos.com
-*.soundcloud.org
-*.s-cloud.net
-*.services.repostnetwork.com
-api-*.soundcloud.com
 *.square.com
 *.squareup.com
 *.statuspage.io

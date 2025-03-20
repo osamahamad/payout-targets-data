@@ -21,19 +21,20 @@ https://mobileapi.clearpay.com
 https://portalapi.eu.clearpay.co.uk
 https://api.clearpay.com
 Aiven for Clickhouse
-Aiven for Dragonfly
 Aiven for Metrics
 Aiven for Valkey
-Aiven for Apache Cassandra
+Aiven for Apache Kafka
 Aiven for AlloyDB Omni
 Aiven for OpenSearch
 Aiven for Grafana
-Aiven for Apache Kafka
 Aiven for M3
 Aiven for PostgreSQL
 Aiven for Caching
 Aiven for MySQL
 Aiven for Apache Flink
+Aiven for Dragonfly
+Aiven for Apache Cassandra
+https://regatta.aiven.io/
 https://aiven.io/
 https://console.aiven.io/login
 https://api.aiven.io/login
@@ -769,14 +770,14 @@ https://blog.etsy.com
 https://careers.etsy.com
 https://help.etsy.com
 https://community.etsy.com
-Virtualisation layer
-https://sks-ch-gva-2.exo.io
 https://portal.exoscale.com/
 https://api-ch-gva-2.exoscale.com/v2
 https://sos-ch-gva-2.exo.io/
 https://internal.exoscale.ch
 https://api-ch-gva-2.exoscale.com/v2
 https://api-ch-gva-2.exoscale.com/v2
+https://sks-ch-gva-2.exo.io
+Virtualisation layer
 https://www.expressvpn.com
 ExpressVPN APIs
 https://www.expressvpn.com/vpn-server
@@ -878,6 +879,27 @@ https://www.thehut.com/
 https://checkout.myvitamins.com
 https://checkout.eyeko.com
 https://checkout.glossybox.com
+https://www.ameliorate.com/
+https://www.beautyexpert.com/
+https://www.cultbeauty.co.uk/
+https://www.dermstore.com
+https://www.espaskincare.com/
+https://www.exantediet.com/
+https://www.eyeko.com/
+https://www.glossybox.com/
+https://www.growgorgeous.com/
+https://www.hqhair.com/
+https://www.illamasqua.com/
+https://www.mioskincare.com/
+https://www.mankind.co.uk/
+https://www.mybag.com/
+https://www.myvitamins.com/
+https://www.powerman.co.uk/
+https://www.skinstore.com/
+https://www.thehut.com/
+https://checkout.myvitamins.com
+https://checkout.eyeko.com
+https://checkout.glossybox.com
 https://chrome.google.com/webstore/detail/ibotta-browser-extension/mfaedmjlefifhnhpgipjjiiekchaimpk?hl=en-US
 http://market.android.com/details?id=com.ibotta.android
 http://itunes.apple.com/us/app/ibotta/id559887125
@@ -903,11 +925,11 @@ https://api.fstr.rocks
 https://rc.fstr.rocks
 https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR
 https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
-https://guildofguardians.com
 https://passport.immutable.com/
 https://auth.immutable.com
 https://github.com/immutable/ts-immutable-sdk/tree/main/packages/passport/
 https://hub.immutable.com/
+https://play.immutable.com
 https://api.immutable.com
 https://api.x.immutable.com/
 testnet.immutable.com
@@ -915,6 +937,7 @@ https://link.x.immutable.com/
 https://market.immutable.com/
 https://docs.immutable.com/
 imx.community
+https://guildofguardians.com
 https://www.cloudvector.com/
 https://supportportal.thalesgroup.com
 PTaaS Reference
@@ -939,12 +962,12 @@ https://www.intercom.com/
 iRobot cloud-connected robot that you own (i.e. j7, s9, i7, 980, 960, 690, Braava, etc.)
 https://play.google.com/store/apps/details?id=com.irobot.home
 https://itunes.apple.com/us/app/irobot-home/id1012014442?mt=8
-https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/entitlements
-https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/entitlements/{entitlement_id}
-https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/notifications/raas
-https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/users/{user_id}/entitlements
+https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/entitlements
+https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/entitlements/{entitlement_id}
 iRobot API Endpoint
-https://w2ab2i60y4.execute-api.us-east-1.amazonaws.com/dev/v1/ecommerce/robots/{robot_id}/entitlements
+https://zuora-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/notifications/raas
+https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/robots/{robot_id}/entitlements
+https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/users/{user_id}/entitlements
 https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665	
 https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US	
 restaurant-api.takeaway.com
@@ -1036,6 +1059,14 @@ https://www.kohls.com/feature/app.jsp
 https://kucoin.com
 https://apps.apple.com/us/app/kucoin-buy-bitcoin-crypto/id1378956601?mt=8
 https://play.google.com/store/apps/details?id=com.kubi.kucoin
+https://manager.thefork.com
+https://secure.thefork.com
+https://payment.lafourchette.com
+https://api.thefork.io
+https://apps.apple.com/app/thefork-manager-neo/id1295795281
+https://play.google.com/store/apps/details?id=com.lafourchette.tfm3
+https://www.theforkmanager.com
+https://developer.thefork.io/
 https://lastpass.com
 https://lastpass.com/misc_download2.php
 https://lastpass.com/misc_download2.php
@@ -1243,7 +1274,6 @@ https://researchmgt.monash.edu/
 https://move.monash.edu/
 mix-qat.monash.edu/*
 mix-dev.monash.edu/*
-https://apps.apple.com/vc/app/moneytree-finance-made-easy/id586847189
 https://wwws-staging.moneytree.jp/link/
 https://vault-staging.getmoneytree.com
 https://redash-staging.getmoneytree.com/
@@ -1251,9 +1281,10 @@ https://app-staging.getmoneytree.com
 https://wwws-staging.moneytree.jp/link/mobile/
 https://wwws-staging.moneytree.jp/link/mobile/#/signup?client_id=38d99a6e8e9fc87c866f5aa82bdc2569c464b2323a55e0b28f658efa678e9623&redirect_uri=https://wwws-staging.moneytree.jp/link/mobile/callback&response_type=token&scope=guest_read+accounts_read+transactions_read+request_refresh
 https://myaccount-staging.getmoneytree.com
-https://jp-api-staging.getmoneytree.com
 https://business-staging.getmoneytree.com/
+https://jp-api-staging.getmoneytree.com
 https://play.google.com/store/apps/details?id=jp.moneytree.moneytree&hl=en_AU&gl=US
+https://apps.apple.com/vc/app/moneytree-finance-made-easy/id586847189
 All Motorola Devices running Android 13 and above. 
 https://staging-prime.navan.com
 https://secure.neogov.com
@@ -1676,12 +1707,6 @@ https://www.sophos.com/en-us/products
 https://www.sophos.com/
 Sophos IT Infrastructure (all other Sophos domains)
 Any Other Sophos Product or Service
-https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
-https://soundcloud.com
-https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
-https://connect.soundcloud.com
-http://artists.soundcloud.com/
-https://soundcloud.org
 SpaceX and Starlink assets (target information and rewards detailed above on the brief)
 https://square.online
 https://www.weebly.com/
