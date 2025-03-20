@@ -753,6 +753,7 @@
 *.s-cloud.net
 *.saltlabs.com
 *.sandbox.*.lfscnp.com
+*.sandbox.directly.com/
 *.say.rocks
 *.saytechnologies.com
 *.sbb.ch
@@ -2651,6 +2652,7 @@ app.pullrequest.com
 app.recordedfuture.com
 app.rewire.to
 app.saltlabs.com
+app.sandbox.directly.com
 app.sandbox.topperpay.com
 app.shipt.com
 app.slack.com
@@ -5559,6 +5561,7 @@ https://s.usaa.com/
 https://s1.utv.usaa.com
 https://s2.utv.usaa.com
 https://salesforce.quip.com/blog/desktop
+https://sandbox.directly.com/dashboard/index
 https://sandbox.fireblocks.io/v2/settings/notifications
 https://sandbox.open-xchange.com
 https://sbox.myoas.com
