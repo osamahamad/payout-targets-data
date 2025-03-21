@@ -815,7 +815,6 @@
 *.skygamingcontent.com
 *.skypicker.com
 *.skypoker.com
-*.skyscanner.net
 *.skyvegas.com
 *.slimdevices.com
 *.slotomania.com
@@ -1326,7 +1325,6 @@ AOL Search
 API Shield
 API's
 AS41690
-AWS Infrastructure
 AWS infrastructure and services in use by Wise (eg: S3 buckets)
 Acrobat Reader
 Acronis Agent
@@ -2059,10 +2057,6 @@ SimScale API
 SimScale Forum
 SimScale Platform
 SimScale Website
-Skyscanner Android App
-Skyscanner Android app
-Skyscanner iOS App
-Skyscanner iOS app
 Slack Desktop Application
 Snaps
 Snaps Development Packages
@@ -3620,7 +3614,6 @@ gateway*.marriott.com
 gateway.geneva-staging.chat
 gateway.geneva-staging.com
 gateway.reddit.com
-gateway.skyscanner.net/*
 gehmmocbbkpblljhkekmfhjpfbkclbph
 geminiadvisory.io
 geneva-staging.chat
@@ -6390,8 +6383,6 @@ maximo-accpt.portofantwerpbruges.com
 maximo.portofantwerp.com
 maximo.portofantwerpbruges.com
 maxiresponse.bpost.be
-mcd.nba.com
-mcdalerts.nba.com
 mds.voiapp.io
 media.drogas.lt
 media.drogas.lv
@@ -6661,7 +6652,6 @@ partner.steamgames.com
 partner.steampowered.com
 partner.swiftfinancial.com
 partner.tiktokshop.com
-partnerportal.skyscanner.net/*
 partners.databricks.com
 partners.etoro.com
 partners.shopify.com
@@ -6956,8 +6946,6 @@ site.rewire.com
 sites.fareharbor.com
 sketch.pixiv.net
 skills-store.amazon.com
-skyscanner.net/*
-skyscanner.net/hotels/book/*
 slack-imgs.com
 slack-redir.net
 slack-status.com
@@ -7011,8 +6999,6 @@ staging-db.vidaxl.io
 staging-shop.shipt.com
 staging-shoppingcart.shipt.com
 staging.airtable.com
-staging.auth.coindesk.com
-staging.coindesk.com
 staging.kidswebservices.com
 staging.magisto.com
 staging.travix.com & stg.travix.com & dev.travix.com & development.travix.com & playground.travix.com
