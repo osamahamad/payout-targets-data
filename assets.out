@@ -646,8 +646,6 @@
 *.onduo.com/
 *.onegraph.com
 *.onevasco.com
-*.openai.com
-*.openai.org
 *.opera-mini.net
 *.opera.com
 *.opera.news
@@ -1935,7 +1933,6 @@ Open Source - Weep
 Open Source - Zuul
 Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 Open source tools from Cloudflare
-OpenAI API Keys
 OpenPGP Cert Directory Specification
 Opsgenie (Android)
 Opsgenie (IoS)
@@ -2149,7 +2146,6 @@ ThePerfumeShop.App.iOS
 Third Party Application
 Third Party Marketplace Apps
 Third Party Snaps
-Third Party Targets
 ThousandEyes Endpoint Agent 
 ThousandEyes Enterprise Agent
 Tidal Client for Android
@@ -2179,6 +2175,7 @@ Trustwallet iOS App
 Turnstile
 Twilio APIs
 UCRM
+UEFN
 UFiber
 UID
 UNMS
@@ -3335,6 +3332,8 @@ console.truelayer[-sandbox].com
 contacts.infomaniak.com
 content-api-nextgen-prod.nba.com
 content-api-prod.nba.com
+content-service-live-testing.bfda.live.use1a.on.epicgames.com
+content-service.bfda.live.use1a.on.epicgames.com
 contributor.stock.adobe.com
 core-api.nba.com
 core.yoti.com
@@ -3349,6 +3348,7 @@ cpanel.hostinger.com
 cpp.marriott.com
 crash-reports.allizom.org
 crash-stats.allizom.org
+create.fortnite.com
 create.snapchat.com
 creator.amazon.com
 creatormarketplace.tiktok.com
@@ -3917,7 +3917,6 @@ https://api.mafshoppingmalls.com/
 https://api.moneyboxapp.com/
 https://api.neogov.com
 https://api.netgear.com
-https://api.openai.com
 https://api.optimizely.com/
 https://api.orderly.org/
 https://api.paymaya.com/
@@ -4225,7 +4224,6 @@ https://cdn.optimizely.com/
 https://central.sophos.com
 https://central.sophos.com/
 https://cfc.naspers.com/
-https://chat.openai.com
 https://chat.oppo.com/
 https://chatspot.ai
 https://checkout.eyeko.com
@@ -5319,7 +5317,6 @@ https://online.srilankaevisa.lk/lka/en/login
 https://onlinena.vfsglobal.dz/AppointmentAdmin/
 https://op.paymaya.com/
 https://open.oppomobile.com
-https://openai.com/
 https://openam-bug-bounty-stag.forgeblocks.com/*
 https://opendata-demo.test-socrata.com
 https://opendata.test-socrata.com
@@ -5373,7 +5370,6 @@ https://pioneer.truata.com/
 https://pit.water-link.be/
 https://pixabay.com/
 https://platform.infiniteathlete.ai
-https://platform.openai.com/playground
 https://play.fga.dev/
 https://play.google.com/store/apps/details?hl=en&id=co.bitx.android.wallet
 https://play.google.com/store/apps/details?id=au.com.ampol.flagship&hl=en_AU&gl=US
