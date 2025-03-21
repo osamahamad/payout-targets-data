@@ -815,7 +815,6 @@
 *.skygamingcontent.com
 *.skypicker.com
 *.skypoker.com
-*.skyscanner.net
 *.skyvegas.com
 *.slimdevices.com
 *.slotomania.com
@@ -1326,7 +1325,6 @@ AOL Search
 API Shield
 API's
 AS41690
-AWS Infrastructure
 AWS infrastructure and services in use by Wise (eg: S3 buckets)
 Acrobat Reader
 Acronis Agent
@@ -2059,10 +2057,6 @@ SimScale API
 SimScale Forum
 SimScale Platform
 SimScale Website
-Skyscanner Android App
-Skyscanner Android app
-Skyscanner iOS App
-Skyscanner iOS app
 Slack Desktop Application
 Snaps
 Snaps Development Packages
@@ -3620,7 +3614,6 @@ gateway*.marriott.com
 gateway.geneva-staging.chat
 gateway.geneva-staging.com
 gateway.reddit.com
-gateway.skyscanner.net/*
 gehmmocbbkpblljhkekmfhjpfbkclbph
 geminiadvisory.io
 geneva-staging.chat
@@ -3806,6 +3799,7 @@ http://www.logitech.com/my-account
 http://www.mydirtyhobby.com/
 http://www.mydirtyhobby.de/
 http://www.myvisacardportal.com/welcome/enbd/product/#
+http://www.register.com
 http://www.rei.com/learn/expert-advice
 http://www.shopmarriott.com
 http://www.underarmour.com.sg
@@ -3868,6 +3862,9 @@ https://aiven.io/
 https://ajax.staging.luno.com/
 https://album.link
 https://alumni-friends.monash.edu
+https://ampcharge.ampol.com.au/
+https://ampol.com.au/
+https://ampolenergy.com.au
 https://analytics-admin.prosus.com
 https://analytics.neogov.com
 https://analytics.welcomesoftware.com/
@@ -4007,6 +4004,7 @@ https://apps.apple.com/app/thefork-manager-neo/id1295795281
 https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/bigcommerce/id1418570678
+https://apps.apple.com/au/app/caltex-australia/id1314768594
 https://apps.apple.com/au/app/certsy/id1617796159
 https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
@@ -4205,6 +4203,8 @@ https://business.comcast.com/account
 https://butlerfortrello.com/
 https://buyersedge.co.nz
 https://californiatenant.skyflow-preview.com/login
+https://carbonneutral.ampol.com.au/
+https://cards.ampol.com.au
 https://carecredit.com.au
 https://career.oppo.com/
 https://careers.etsy.com
@@ -5261,6 +5261,7 @@ https://movienow-int.kinepolis.be/admin
 https://mstatic.usaa.com
 https://mtp.myoas.com
 https://multipay-staging.test.komoju.com
+https://my.ampol.com.au/
 https://my.arlo.com
 https://my.electroneum.com/
 https://my.elementor.com/
@@ -5372,6 +5373,8 @@ https://platform.infiniteathlete.ai
 https://platform.openai.com/playground
 https://play.fga.dev/
 https://play.google.com/store/apps/details?hl=en&id=co.bitx.android.wallet
+https://play.google.com/store/apps/details?id=au.com.ampol.flagship&hl=en_AU&gl=US
+https://play.google.com/store/apps/details?id=au.com.ampol.teamapp
 https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR
 https://play.google.com/store/apps/details?id=com.AgainstGravity.RecRoom
@@ -5751,6 +5754,7 @@ https://twilio.com/blog
 https://uae.voxcinemas.com/
 https://ui.com/distributors/
 https://ui.com/training/partners/
+https://uk.web.com
 https://ultramobile.com
 https://umiloans.com.au
 https://underarmour.co.kr
@@ -5863,6 +5867,7 @@ https://www.bitpanda.com/
 https://www.bitpanda.com/academy/en/
 https://www.bitstamp.net/
 https://www.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
+https://www.bluehost.com/
 https://www.bookbeat.com
 https://www.bwin.com
 https://www.canva.com
@@ -5927,6 +5932,7 @@ https://www.gohenry.com/
 https://www.governmentjobs.com
 https://www.growgorgeous.com/
 https://www.hostgator.com.br/
+https://www.hostgator.com/
 https://www.hpr.kiwai-normandie.fr/
 https://www.hqhair.com/
 https://www.iciparisxl.be/blog/
@@ -5988,6 +5994,7 @@ https://www.mybag.com/
 https://www.mydirtyhobby.com/app/download
 https://www.myvitamins.com/
 https://www.namejet.com/
+https://www.networksolutions.com
 https://www.nintendo.com/us/store/products/rec-room-switch/
 https://www.npmjs.com/package/@8x8/pui-partner-comm
 https://www.npmjs.com/package/@forge/cli	
@@ -6088,6 +6095,7 @@ https://www.vtcprodapi.maf.ae/svc/svcHifi.svc/SaveOCRReceipt
 https://www.water-link-jaarverslag.be
 https://www.water-link.be
 https://www.waterstoring.be/
+https://www.web.com
 https://www.weebly.com/
 https://www.winconnect.com.au/get-connected/
 https://www.winconnect.com.au/moving-out/
@@ -6644,7 +6652,6 @@ partner.steamgames.com
 partner.steampowered.com
 partner.swiftfinancial.com
 partner.tiktokshop.com
-partnerportal.skyscanner.net/*
 partners.databricks.com
 partners.etoro.com
 partners.shopify.com
@@ -6939,8 +6946,6 @@ site.rewire.com
 sites.fareharbor.com
 sketch.pixiv.net
 skills-store.amazon.com
-skyscanner.net/*
-skyscanner.net/hotels/book/*
 slack-imgs.com
 slack-redir.net
 slack-status.com
