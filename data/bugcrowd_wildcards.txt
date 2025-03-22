@@ -17,6 +17,7 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.bitdefender.com
 *.bitstamp.net - Bitstamp Supporting Services
 *.bugcrowd.com/auth/*
+*.bugcrowd.com/auth/*
 *.canva.com
 *.canva-apps.com
 *.canva.tech
@@ -34,7 +35,6 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.comcast.com
 *.xcal.tv
 *.sys.comcast.net
-*.cyberghost.com
 *.cyberghost.com
 *.dell.com/*
 *.delltechnologies.com/* 
@@ -79,7 +79,6 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.indeedflex.com
 *.indeed.tech
 *.indeed.net
-*.intercomassets.com / *.intercomcdn.com
 *.jora.com
 *.jora.xyz
 *.scoober.com
@@ -178,6 +177,12 @@ api-*.soundcloud.com
 *.square.com
 *.squareup.com
 *.statuspage.io
+*.tesla.cn
+*.tesla.services
+*.tesla.com
+*.teslamotors.com
+*.solarcity.com
+*.teslainsuranceservices.com
 *.tools.thefork.tech
 *.wimpmusic.com
 *.tidalhifi.com
