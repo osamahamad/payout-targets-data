@@ -264,6 +264,7 @@
 *.dm.gg
 *.dmcdn.net
 *.dns.eu
+*.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
@@ -271,6 +272,9 @@
 *.download.originenergy.com.au
 *.dpgmedia.be
 *.dpgmedia.nl
+*.dropbox.com    
+*.dropboxer.net
+*.dropboxforum.com
 *.dropmix.com
 *.earlywarning.com
 *.easy.ac
@@ -383,6 +387,9 @@
 *.harmankardon.com
 *.harmonixmusic.com
 *.harmonyremote.com
+*.hellofax.com
+*.hellosign.com
+*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.com
@@ -2461,6 +2468,7 @@ api.direct.playstation.com
 api.doppler.com
 api.drogas.lt
 api.drogas.lv
+api.dropboxapi.com
 api.editeur.preprod.monespacesante.fr
 api.etoro.com
 api.evernote.com
@@ -3866,7 +3874,6 @@ https://ampolenergy.com.au
 https://analytics-admin.prosus.com
 https://analytics.neogov.com
 https://analytics.welcomesoftware.com/
-https://anytask.thesecurityteam.rocks
 https://anytask.thesecurityteam.rocks/
 https://api-a.usaa.com
 https://api-ch-gva-2.exoscale.com/v2
@@ -3883,7 +3890,6 @@ https://api-{app-id}.sendbird.com
 https://api.20min.ch/
 https://api.aiven.io/login
 https://api.anytask.com/
-https://api.anytask.thesecurityteam.rocks
 https://api.bitpanda.com
 https://api.blablalines.com
 https://api.bugcrowd.com
@@ -3934,7 +3940,6 @@ https://api.t-mobile.com
 https://api.test.latitudefinancial.com
 https://api.thefork.com
 https://api.thefork.io
-https://api.thesecurityteam.rocks
 https://api.thousandeyes.com/
 https://api.toom.de
 https://api.tripadvisor.com
@@ -3959,8 +3964,6 @@ https://app-staging.getmoneytree.com
 https://app.agency360.com
 https://app.asana.com
 https://app.aurory.io
-https://app.bitgo-test.com
-https://app.bitgo.com
 https://app.bitrise.io/app/51a95edaab331ec5/installable-artifacts/e5213e1a814bf0ba/public-install-page/bed0d33f048271d6828c5a4a979ecc96
 https://app.chime.com/
 https://app.datadome.co
@@ -3973,6 +3976,7 @@ https://app.intercom.io/
 https://app.latitudepayapps.com/
 https://app.opsgenie.com
 https://app.optimizely.com/
+https://app.reclaim.ai
 https://app.ring.com/*
 https://app.sandbox.agora.incubateur.net
 https://app.segment.com/
@@ -4062,6 +4066,8 @@ https://apps.apple.com/us/app/classdojo/id552602056
 https://apps.apple.com/us/app/compass-real-estate-homes/id692766504
 https://apps.apple.com/us/app/confluence-cloud/id1006971684
 https://apps.apple.com/us/app/confluence-server/id1288365159
+https://apps.apple.com/us/app/dropbox-emm/id1080074001
+https://apps.apple.com/us/app/dropbox-secure-cloud-storage/id327630330
 https://apps.apple.com/us/app/ecwid-ecommerce/id626731456
 https://apps.apple.com/us/app/electroneum/id1270774992
 https://apps.apple.com/us/app/expressvpn-fast-secure-vpn/id886492891?mt=8
@@ -4082,6 +4088,7 @@ https://apps.apple.com/us/app/northwestern-mutual/id1132579006
 https://apps.apple.com/us/app/okta-verify/id490179405
 https://apps.apple.com/us/app/onduo/id1138490045
 https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
+https://apps.apple.com/us/app/paper-by-dropbox/id1126623662
 https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
@@ -4354,6 +4361,8 @@ https://download.krisp.ai/mac
 https://download.krisp.ai/win
 https://download.opera.com
 https://downloads.arlo.com
+https://dropbox.com/dash/download
+https://dropboxpartners.com
 https://dxc.episerver.net/ 
 https://e.heytap.com/
 https://e.oppomobile.com
@@ -4498,7 +4507,6 @@ https://github.com/digitalocean/terraform-provider-digitalocean
 https://github.com/discourse/discourse
 https://github.com/django
 https://github.com/electroneum/electroneum-sc/
-https://github.com/electroneum/electroneum/
 https://github.com/endojs
 https://github.com/endojs/endo/tree/master/packages/ses
 https://github.com/expressvpn/lightway
@@ -4827,7 +4835,6 @@ https://lbu.eu-west-2.outscale.com
 https://leaflet-map.bykea.net
 https://learn.neogov.com
 https://learn.newrelic.com/
-https://legacy-blockexplorer.electroneum.com
 https://lensstudio.snapchat.com/api/
 https://library-staging.pdq.tools/ 
 https://library.elementor.com/
@@ -5264,7 +5271,6 @@ https://my.mintmobile.com
 https://my.planethoster.com
 https://my.salt.ch
 https://my.sogexia.com
-https://my.thesecurityteam.rocks
 https://my.thesecurityteam.rocks/
 https://my.ultramobile.com
 https://my.wyze.com
@@ -5398,6 +5404,9 @@ https://play.google.com/store/apps/details?id=com.coindcx.okto
 https://play.google.com/store/apps/details?id=com.comuto&hl=en
 https://play.google.com/store/apps/details?id=com.dailymotion.dailymotion&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.deezer.zen
+https://play.google.com/store/apps/details?id=com.dropbox.android&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.dropbox.app.hellosign&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.dropbox.paper&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.ecwid.android&pli=1
 https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr
@@ -5522,11 +5531,11 @@ https://projects.epam.com
 https://prozentoomat.toom.de
 https://pt-runner.app.ridewithvia.com
 https://public.je-apis.com
-https://public.thesecurityteam.rocks/resources/app/android/etnapp-5.2.2-staging.apk
 https://quantum-events.onecloud.harman.com
 https://rc.fstr.rocks
 https://rec.net/
 https://rec.net/download
+https://reclaim.ai
 https://recroom.com/studio
 https://redash-staging.getmoneytree.com/
 https://regatta.aiven.io/
@@ -5850,7 +5859,6 @@ https://www.bigcommerce.com
 https://www.binance.com/
 https://www.binance.us/
 https://www.bitdefender.com/business/smb-products/business-security.html?cid=ppc|b|google|smb&s_kwcid=AL!6076!3!514235572261!p!!g!!bitdefender%20business&utm_term=bitdefender%20business&utm_campaign=USA+SMB+Branded+30&utm_source=adwords&utm_medium=ppc&hsa_acc=8155205354&hsa_cam=7848657822&hsa_grp=124745713150&hsa_ad=514235572261&hsa_src=g&hsa_tgt=kwd-308396066873&hsa_kw=bitdefender%20business&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwqIiFBhAHEiwANg9szk-Rr3iSn4mrwsvAUOn-pzrO12ufWDmyCLopWigaLQW0t_xtlBE65RoCr6kQAvD_BwE
-https://www.bitgo.com
 https://www.bitpanda.com/
 https://www.bitpanda.com/academy/en/
 https://www.bitstamp.net/
@@ -5879,6 +5887,7 @@ https://www.cyberghostvpn.com/en_US/apps/linux-vpn
 https://www.cyberghostvpn.com/en_US/apps/macos-vpn
 https://www.cyberghostvpn.com/en_US/apps/windows-vpn
 https://www.cyberghostvpn.com/vpn-server
+https://www.dash.ai/
 https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&target=launcher_macosx
 https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
 https://www.demarches-simplifiees.fr
@@ -5892,6 +5901,9 @@ https://www.drogas.lt/blog
 https://www.drogas.lv/blog/
 https://www.drogas.lv/lv/blog
 https://www.drogas.lv/ru/blog
+https://www.dropbox.com/capture
+https://www.dropbox.com/desktop
+https://www.dropbox.com/paper
 https://www.epam.com/
 https://www.espaskincare.com/
 https://www.etsy.com
