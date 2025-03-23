@@ -3874,6 +3874,7 @@ https://ampolenergy.com.au
 https://analytics-admin.prosus.com
 https://analytics.neogov.com
 https://analytics.welcomesoftware.com/
+https://anytask.thesecurityteam.rocks
 https://anytask.thesecurityteam.rocks/
 https://api-a.usaa.com
 https://api-ch-gva-2.exoscale.com/v2
@@ -3884,12 +3885,10 @@ https://api-prod.thatconceptstore.com/
 https://api-test.nicehash.com
 https://api-ui.toloka.ai
 https://api-user.e2ro.com/*
-https://api-{app-id}.calls.sendbird.com
-https://api-{app-id}.notifications.sendbird.com
-https://api-{app-id}.sendbird.com
 https://api.20min.ch/
 https://api.aiven.io/login
 https://api.anytask.com/
+https://api.anytask.thesecurityteam.rocks
 https://api.bitpanda.com
 https://api.blablalines.com
 https://api.bugcrowd.com
@@ -3940,6 +3939,7 @@ https://api.t-mobile.com
 https://api.test.latitudefinancial.com
 https://api.thefork.com
 https://api.thefork.io
+https://api.thesecurityteam.rocks
 https://api.thousandeyes.com/
 https://api.toom.de
 https://api.tripadvisor.com
@@ -4299,7 +4299,6 @@ https://daily.blablacar.fr
 https://dashboard.fga.dev/
 https://dashboard.pantheon.io
 https://dashboard.rapyd.net/
-https://dashboard.sendbird.com/
 https://data.coda.io/*
 https://data.limeinternal.com
 https://data.prosus.com/
@@ -4315,7 +4314,6 @@ https://dealflowapi.prosus.com
 https://demo.priceless.com/
 https://design.glassdoor.com/*
 https://design.staples.com
-https://desk-api-{region}.sendbird.com
 https://desktop.water-link.be/
 https://detect.pdq.tools/ 
 https://dev.tutoring.classdojo.com
@@ -4409,7 +4407,6 @@ https://gaadmin.vfsglobal.com/GAR1Ph1ApptAdmin/
 https://gaadmin.vfsglobal.com/Global-Admin/
 https://gaadmin.vfsglobal.com/GlobalAdmin/
 https://gap.citizenportal-test.bugbounty.akinox.dev/
-https://gate.sendbird.com
 https://gatewaydsapdev2.marriott.com/
 https://gatewaydsaptst1.marriott.com/
 https://gatewaydsaptst2.marriott.com/
@@ -4509,6 +4506,7 @@ https://github.com/digitalocean/terraform-provider-digitalocean
 https://github.com/discourse/discourse
 https://github.com/django
 https://github.com/electroneum/electroneum-sc/
+https://github.com/electroneum/electroneum/
 https://github.com/endojs
 https://github.com/endojs/endo/tree/master/packages/ses
 https://github.com/expressvpn/lightway
@@ -4837,6 +4835,7 @@ https://lbu.eu-west-2.outscale.com
 https://leaflet-map.bykea.net
 https://learn.neogov.com
 https://learn.newrelic.com/
+https://legacy-blockexplorer.electroneum.com
 https://lensstudio.snapchat.com/api/
 https://library-staging.pdq.tools/ 
 https://library.elementor.com/
@@ -5273,6 +5272,7 @@ https://my.mintmobile.com
 https://my.planethoster.com
 https://my.salt.ch
 https://my.sogexia.com
+https://my.thesecurityteam.rocks
 https://my.thesecurityteam.rocks/
 https://my.ultramobile.com
 https://my.wyze.com
@@ -5533,6 +5533,7 @@ https://projects.epam.com
 https://prozentoomat.toom.de
 https://pt-runner.app.ridewithvia.com
 https://public.je-apis.com
+https://public.thesecurityteam.rocks/resources/app/android/etnapp-5.2.2-staging.apk
 https://quantum-events.onecloud.harman.com
 https://rc.fstr.rocks
 https://rec.net/
@@ -5575,8 +5576,6 @@ https://seekcdn.com
 https://segment.com/docs/sources/
 https://selector.viator.com
 https://selfcare.ooredoo.qa
-https://sendbird.com
-https://sendbird.com/docs
 https://sendgrid.com
 https://service.platform.tripadvisor.com
 https://service.post.ch/ekp-web/
@@ -5818,8 +5817,6 @@ https://wise.com
 https://woox.io/
 https://world.planethoster.net
 https://wowjobs.ca
-https://ws-{app-id}.calls.sendbird.com
-https://ws-{app-id}.sendbird.com
 https://ws.multiplayer.classdojo.com/
 https://ws.usaa.com
 https://wslatam.ifood.com.br
