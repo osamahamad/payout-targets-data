@@ -3885,9 +3885,6 @@ https://api-prod.thatconceptstore.com/
 https://api-test.nicehash.com
 https://api-ui.toloka.ai
 https://api-user.e2ro.com/*
-https://api-{app-id}.calls.sendbird.com
-https://api-{app-id}.notifications.sendbird.com
-https://api-{app-id}.sendbird.com
 https://api.20min.ch/
 https://api.aiven.io/login
 https://api.anytask.com/
@@ -4302,7 +4299,6 @@ https://daily.blablacar.fr
 https://dashboard.fga.dev/
 https://dashboard.pantheon.io
 https://dashboard.rapyd.net/
-https://dashboard.sendbird.com/
 https://data.coda.io/*
 https://data.limeinternal.com
 https://data.prosus.com/
@@ -4318,7 +4314,6 @@ https://dealflowapi.prosus.com
 https://demo.priceless.com/
 https://design.glassdoor.com/*
 https://design.staples.com
-https://desk-api-{region}.sendbird.com
 https://desktop.water-link.be/
 https://detect.pdq.tools/ 
 https://dev.tutoring.classdojo.com
@@ -4412,7 +4407,6 @@ https://gaadmin.vfsglobal.com/GAR1Ph1ApptAdmin/
 https://gaadmin.vfsglobal.com/Global-Admin/
 https://gaadmin.vfsglobal.com/GlobalAdmin/
 https://gap.citizenportal-test.bugbounty.akinox.dev/
-https://gate.sendbird.com
 https://gatewaydsapdev2.marriott.com/
 https://gatewaydsaptst1.marriott.com/
 https://gatewaydsaptst2.marriott.com/
@@ -5582,8 +5576,6 @@ https://seekcdn.com
 https://segment.com/docs/sources/
 https://selector.viator.com
 https://selfcare.ooredoo.qa
-https://sendbird.com
-https://sendbird.com/docs
 https://sendgrid.com
 https://service.platform.tripadvisor.com
 https://service.post.ch/ekp-web/
@@ -5602,6 +5594,7 @@ https://simnext.bullish-test.com
 https://skipthedishes.com
 https://sks-ch-gva-2.exo.io
 https://smartmockups.com/
+https://snapnames.com/
 https://snc.underarmour.com/
 https://sncf-connect.com
 https://snctest-c.underarmour.com/
@@ -5824,8 +5817,6 @@ https://wise.com
 https://woox.io/
 https://world.planethoster.net
 https://wowjobs.ca
-https://ws-{app-id}.calls.sendbird.com
-https://ws-{app-id}.sendbird.com
 https://ws.multiplayer.classdojo.com/
 https://ws.usaa.com
 https://wslatam.ifood.com.br
@@ -5998,6 +5989,7 @@ https://www.monashprofessional.edu.au/
 https://www.mybag.com/
 https://www.mydirtyhobby.com/app/download
 https://www.myvitamins.com/
+https://www.namejet.com/
 https://www.networksolutions.com
 https://www.nintendo.com/us/store/products/rec-room-switch/
 https://www.npmjs.com/package/@8x8/pui-partner-comm
