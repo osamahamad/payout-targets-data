@@ -264,7 +264,6 @@
 *.dm.gg
 *.dmcdn.net
 *.dns.eu
-*.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
@@ -272,9 +271,6 @@
 *.download.originenergy.com.au
 *.dpgmedia.be
 *.dpgmedia.nl
-*.dropbox.com    
-*.dropboxer.net
-*.dropboxforum.com
 *.dropmix.com
 *.earlywarning.com
 *.easy.ac
@@ -387,9 +383,6 @@
 *.harmankardon.com
 *.harmonixmusic.com
 *.harmonyremote.com
-*.hellofax.com
-*.hellosign.com
-*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.com
@@ -534,6 +527,7 @@
 *.mas.mobilevikings.be
 *.mb-cosmos.com
 *.mbamupdates.com
+*.mcssl.com
 *.mdvmm.xyz
 *.mediatonic.co.uk
 *.meebits.app
@@ -2467,7 +2461,6 @@ api.direct.playstation.com
 api.doppler.com
 api.drogas.lt
 api.drogas.lv
-api.dropboxapi.com
 api.editeur.preprod.monespacesante.fr
 api.etoro.com
 api.evernote.com
@@ -3822,6 +3815,7 @@ https://195.60.68.247
 https://195.60.68.248
 https://195.60.68.249
 https://195.60.68.250
+https://1shoppingcart.com
 https://28degreescard.com.au
 https://8x8.vc/xmpp-websocket
 https://Fr.mydirtyhobby.com
@@ -3945,6 +3939,7 @@ https://api.thousandeyes.com/
 https://api.toom.de
 https://api.tripadvisor.com
 https://api.twilio.com
+https://api.unity.com
 https://api.us1.fga.dev/
 https://api.usaa.com/
 https://api.vistarmedia.com
@@ -3978,7 +3973,6 @@ https://app.intercom.io/
 https://app.latitudepayapps.com/
 https://app.opsgenie.com
 https://app.optimizely.com/
-https://app.reclaim.ai
 https://app.ring.com/*
 https://app.sandbox.agora.incubateur.net
 https://app.segment.com/
@@ -4068,8 +4062,6 @@ https://apps.apple.com/us/app/classdojo/id552602056
 https://apps.apple.com/us/app/compass-real-estate-homes/id692766504
 https://apps.apple.com/us/app/confluence-cloud/id1006971684
 https://apps.apple.com/us/app/confluence-server/id1288365159
-https://apps.apple.com/us/app/dropbox-emm/id1080074001
-https://apps.apple.com/us/app/dropbox-secure-cloud-storage/id327630330
 https://apps.apple.com/us/app/ecwid-ecommerce/id626731456
 https://apps.apple.com/us/app/electroneum/id1270774992
 https://apps.apple.com/us/app/expressvpn-fast-secure-vpn/id886492891?mt=8
@@ -4090,7 +4082,6 @@ https://apps.apple.com/us/app/northwestern-mutual/id1132579006
 https://apps.apple.com/us/app/okta-verify/id490179405
 https://apps.apple.com/us/app/onduo/id1138490045
 https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
-https://apps.apple.com/us/app/paper-by-dropbox/id1126623662
 https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
@@ -4247,6 +4238,7 @@ https://clients.multiplayer.classdojo.com/launcher/prod/latest
 https://clients3.pentest.clicsante.ca/
 https://cloud.heytap.com/
 https://cloud.oppo.com/
+https://cloud.unity.com
 https://cloudinary.com/console
 https://cms.mobile.monash/ 
 https://cockpit-eu-west-2.outscale.com/
@@ -4362,8 +4354,6 @@ https://download.krisp.ai/mac
 https://download.krisp.ai/win
 https://download.opera.com
 https://downloads.arlo.com
-https://dropbox.com/dash/download
-https://dropboxpartners.com
 https://dxc.episerver.net/ 
 https://e.heytap.com/
 https://e.oppomobile.com
@@ -4772,6 +4762,7 @@ https://hub.immutable.com/
 https://hug.personio.com
 https://icu.eu-west-2.outscale.com
 https://id.atlassian.com/login
+https://id.unity.com
 https://identity.bugcrowd.com/
 https://identity.majidalfuttaim.com
 https://identity.monash.edu
@@ -5226,6 +5217,7 @@ https://matrix.i.tchap.gouv.fr
 https://mattermost.com/apps/
 https://mc.sendgrid.com/
 https://mcs.arlo.com
+https://mcssl.com
 https://mediaflows.cloudinary.com/
 https://menulog.co.nz
 https://menulog.com.au
@@ -5348,6 +5340,7 @@ https://partnerprogramm.otto.de
 https://partners.usaa.com
 https://partners.viator.com
 https://passport.immutable.com/
+https://pay.unity.com
 https://paymayabiller-prod.paymaya.com/
 https://payment-connectors.vendhq.com/
 https://payment.lafourchette.com
@@ -5405,9 +5398,6 @@ https://play.google.com/store/apps/details?id=com.coindcx.okto
 https://play.google.com/store/apps/details?id=com.comuto&hl=en
 https://play.google.com/store/apps/details?id=com.dailymotion.dailymotion&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.deezer.zen
-https://play.google.com/store/apps/details?id=com.dropbox.android&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.dropbox.app.hellosign&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.dropbox.paper&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.ecwid.android&pli=1
 https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr
@@ -5537,7 +5527,6 @@ https://quantum-events.onecloud.harman.com
 https://rc.fstr.rocks
 https://rec.net/
 https://rec.net/download
-https://reclaim.ai
 https://recroom.com/studio
 https://redash-staging.getmoneytree.com/
 https://regatta.aiven.io/
@@ -5667,6 +5656,7 @@ https://store.playstation.com/en-us/product/UP2662-CUSA08481_00-RECROOM000000001
 https://store.playstation.com/en-us/product/UP2662-PPSA05532_00-6681199027107223
 https://store.retail.lightspeed.app
 https://store.steampowered.com/app/471710/Rec_Room/
+https://store.unity.com
 https://storybook.vistarmedia.com
 https://student.classdojo.com
 https://student.monash
@@ -5685,6 +5675,7 @@ https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 https://svn.filezilla-project.org/svn/libfilezilla/trunk
 https://svn.filezilla-project.org/svn/libfilezilla/trunk/
 https://sycamore.moneyboxapp.org/
+https://syncsketch.dev
 https://t-mobile.com
 https://takeawaypay.azurefd.net/en/takeawaypay/
 https://teach.classdojo.com
@@ -5758,6 +5749,8 @@ https://underarmour.co.kr
 https://underarmournext.com/
 https://unified.neogov.com
 https://unihub.monash.edu/
+https://unity3d.com/get-unity/download
+https://unity3d.com/get-unity/download/archive
 https://updates.arlo.com
 https://us.eufy.com/products/e8213181
 https://us.eufy.com/products/t8410121
@@ -5886,7 +5879,6 @@ https://www.cyberghostvpn.com/en_US/apps/linux-vpn
 https://www.cyberghostvpn.com/en_US/apps/macos-vpn
 https://www.cyberghostvpn.com/en_US/apps/windows-vpn
 https://www.cyberghostvpn.com/vpn-server
-https://www.dash.ai/
 https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&target=launcher_macosx
 https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
 https://www.demarches-simplifiees.fr
@@ -5900,9 +5892,6 @@ https://www.drogas.lt/blog
 https://www.drogas.lv/blog/
 https://www.drogas.lv/lv/blog
 https://www.drogas.lv/ru/blog
-https://www.dropbox.com/capture
-https://www.dropbox.com/desktop
-https://www.dropbox.com/paper
 https://www.epam.com/
 https://www.espaskincare.com/
 https://www.etsy.com
@@ -6702,6 +6691,7 @@ play.google.com/store/apps/details?id=fr.assurancemaladie.monespacesante&showAll
 playartifact.com
 playcanv.as
 playcanvas.com
+player-login.unity.com
 player-radio.infomaniak.com
 player.vimeo.com
 player.vrt.be
