@@ -534,7 +534,6 @@
 *.mas.mobilevikings.be
 *.mb-cosmos.com
 *.mbamupdates.com
-*.mcssl.com
 *.mdvmm.xyz
 *.mediatonic.co.uk
 *.meebits.app
@@ -822,7 +821,6 @@
 *.smartcontract.com
 *.snooguts.net
 *.sol-data.com
-*.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
 *.souparea.com
@@ -868,11 +866,6 @@
 *.teams.cloudflare.com
 *.techbook.de
 *.telenor.se
-*.tesla.cn
-*.tesla.com
-*.tesla.services
-*.teslainsuranceservices.com
-*.teslamotors.com
 *.testnet.immutable.com
 *.thinkingphones.com
 *.thinkingphones.net
@@ -1384,7 +1377,6 @@ Any Other Sophos Product or Service
 Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
 Any Worldpay asset is in scope
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
-Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Any host/web property verified to be owned by Twilio et al.
 Any host/web property/mobile app verified to be owned by Indeed
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
@@ -2138,8 +2130,6 @@ Tablets
 Tap to Pay (Android)
 Tap to Pay (iOS)
 Techcrunch
-Tesla Energy hardware you own
-Tesla vehicle hardware that you own
 Test environment
 Texts
 The Perfume Shop (subdomains)
@@ -3823,7 +3813,6 @@ https://195.60.68.247
 https://195.60.68.248
 https://195.60.68.249
 https://195.60.68.250
-https://1shoppingcart.com
 https://28degreescard.com.au
 https://8x8.vc/xmpp-websocket
 https://Fr.mydirtyhobby.com
@@ -3947,7 +3936,6 @@ https://api.thousandeyes.com/
 https://api.toom.de
 https://api.tripadvisor.com
 https://api.twilio.com
-https://api.unity.com
 https://api.us1.fga.dev/
 https://api.usaa.com/
 https://api.vistarmedia.com
@@ -4084,6 +4072,7 @@ https://apps.apple.com/us/app/jira-cloud-by-atlassian/id1006972087
 https://apps.apple.com/us/app/jira-server/id1405353949
 https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665	
 https://apps.apple.com/us/app/keeperchat/id1273303729?mt=12
+https://apps.apple.com/us/app/kucoin-buy-bitcoin-crypto/id1378956601?mt=8
 https://apps.apple.com/us/app/lastpass-authenticator/id1079110004
 https://apps.apple.com/us/app/lastpass-password-manager/id324613447
 https://apps.apple.com/us/app/mattermost/id1257222717
@@ -4105,7 +4094,6 @@ https://apps.apple.com/us/app/syncup-kids/id1503394062
 https://apps.apple.com/us/app/syncup-tracker/id1526380335
 https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
 https://apps.apple.com/us/app/t-mobile/id561625752
-https://apps.apple.com/us/app/tesla/id582007913
 https://apps.apple.com/us/app/under-armour/id1092704571
 https://apps.apple.com/us/app/usaa-mobile/id312325565
 https://apps.apple.com/us/app/verily-me/id6448808133
@@ -4249,7 +4237,6 @@ https://clients.multiplayer.classdojo.com/launcher/prod/latest
 https://clients3.pentest.clicsante.ca/
 https://cloud.heytap.com/
 https://cloud.oppo.com/
-https://cloud.unity.com
 https://cloudinary.com/console
 https://cms.mobile.monash/ 
 https://cockpit-eu-west-2.outscale.com/
@@ -4768,13 +4755,13 @@ https://hipaa.staging.gearset.com/
 https://home.classdojo.com
 https://home.xfinity.com
 https://houston-staging.pdq.tools
+https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
 https://hr.neogov.com
 https://hr.prosus.com/
 https://hub.immutable.com/
 https://hug.personio.com
 https://icu.eu-west-2.outscale.com
 https://id.atlassian.com/login
-https://id.unity.com
 https://identity.bugcrowd.com/
 https://identity.majidalfuttaim.com
 https://identity.monash.edu
@@ -4817,6 +4804,7 @@ https://kiwi.partner.viator.com
 https://knowledge.hubspot.com/connected-email/get-started-with-the-hubspot-sales-office-365-add-in
 https://knowledge.hubspot.com/inbox/set-up-a-customer-portal
 https://knowledge.newrelic.com/
+https://kucoin.com
 https://kw-bugcrowd-pub.bounty.kiteworks.dev/
 https://l.usaa.com/
 https://lab.epam.com
@@ -4871,6 +4859,7 @@ https://manage.cic-bug-bounty.auth0app.com/
 https://manage.skyflowapis-preview.com
 https://manage.statuspage.io
 https://manager.thefork.com
+https://manager.trial.lsk.lightspeed.app/	
 https://mapi-a.usaa.com
 https://mapi.usaa.com/
 https://maps.bykea.net
@@ -5227,7 +5216,6 @@ https://matrix.i.tchap.gouv.fr
 https://mattermost.com/apps/
 https://mc.sendgrid.com/
 https://mcs.arlo.com
-https://mcssl.com
 https://mediaflows.cloudinary.com/
 https://menulog.co.nz
 https://menulog.com.au
@@ -5350,7 +5338,6 @@ https://partnerprogramm.otto.de
 https://partners.usaa.com
 https://partners.viator.com
 https://passport.immutable.com/
-https://pay.unity.com
 https://paymayabiller-prod.paymaya.com/
 https://payment-connectors.vendhq.com/
 https://payment.lafourchette.com
@@ -5425,6 +5412,7 @@ https://play.google.com/store/apps/details?id=com.irobot.home
 https://play.google.com/store/apps/details?id=com.jbl.oneapp&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US	
 https://play.google.com/store/apps/details?id=com.keepersecurity.chat&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.kubi.kucoin
 https://play.google.com/store/apps/details?id=com.lafourchette.lafourchette
 https://play.google.com/store/apps/details?id=com.lafourchette.tfm3
 https://play.google.com/store/apps/details?id=com.lastpass.authenticator&hl=en_US&gl=US
@@ -5467,7 +5455,6 @@ https://play.google.com/store/apps/details?id=com.tcx.sipphone14
 https://play.google.com/store/apps/details?id=com.teamviewer.host.market&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile&hl=en&gl=US
-https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.tmobile.drive
 https://play.google.com/store/apps/details?id=com.tmobile.kids
 https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
@@ -5597,6 +5584,7 @@ https://simnext.bullish-test.com
 https://skipthedishes.com
 https://sks-ch-gva-2.exo.io
 https://smartmockups.com/
+https://snapnames.com/
 https://snc.underarmour.com/
 https://sncf-connect.com
 https://snctest-c.underarmour.com/
@@ -5668,7 +5656,6 @@ https://store.playstation.com/en-us/product/UP2662-CUSA08481_00-RECROOM000000001
 https://store.playstation.com/en-us/product/UP2662-PPSA05532_00-6681199027107223
 https://store.retail.lightspeed.app
 https://store.steampowered.com/app/471710/Rec_Room/
-https://store.unity.com
 https://storybook.vistarmedia.com
 https://student.classdojo.com
 https://student.monash
@@ -5687,7 +5674,6 @@ https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
 https://svn.filezilla-project.org/svn/libfilezilla/trunk
 https://svn.filezilla-project.org/svn/libfilezilla/trunk/
 https://sycamore.moneyboxapp.org/
-https://syncsketch.dev
 https://t-mobile.com
 https://takeawaypay.azurefd.net/en/takeawaypay/
 https://teach.classdojo.com
@@ -5761,8 +5747,6 @@ https://underarmour.co.kr
 https://underarmournext.com/
 https://unified.neogov.com
 https://unihub.monash.edu/
-https://unity3d.com/get-unity/download
-https://unity3d.com/get-unity/download/archive
 https://updates.arlo.com
 https://us.eufy.com/products/e8213181
 https://us.eufy.com/products/t8410121
@@ -5993,6 +5977,7 @@ https://www.monashprofessional.edu.au/
 https://www.mybag.com/
 https://www.mydirtyhobby.com/app/download
 https://www.myvitamins.com/
+https://www.namejet.com/
 https://www.networksolutions.com
 https://www.nintendo.com/us/store/products/rec-room-switch/
 https://www.npmjs.com/package/@8x8/pui-partner-comm
@@ -6706,7 +6691,6 @@ play.google.com/store/apps/details?id=fr.assurancemaladie.monespacesante&showAll
 playartifact.com
 playcanv.as
 playcanvas.com
-player-login.unity.com
 player-radio.infomaniak.com
 player.vimeo.com
 player.vrt.be

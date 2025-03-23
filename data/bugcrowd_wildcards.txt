@@ -167,8 +167,6 @@ prod-*.nu.com.co
 *.aips-internal.com
 *.certsy.com
 *.certsynonprod.com
-*.mcssl.com
-*.mcssl.com
 *.skyscanner.net
 3rd party services hosted at *.sophos.com
 *.soundcloud.org
@@ -178,18 +176,6 @@ api-*.soundcloud.com
 *.square.com
 *.squareup.com
 *.statuspage.io
-*.tesla.cn
-*.tesla.services
-*.tesla.com
-*.teslamotors.com
-*.solarcity.com
-*.teslainsuranceservices.com
-*.tesla.cn
-*.tesla.services
-*.tesla.com
-*.teslamotors.com
-*.solarcity.com
-*.teslainsuranceservices.com
 *.tools.thefork.tech
 *.wimpmusic.com
 *.tidalhifi.com
