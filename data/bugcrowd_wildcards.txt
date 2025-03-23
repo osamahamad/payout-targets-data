@@ -45,6 +45,13 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.dropboxforum.com
 *.docsend.com
 *.dropboxer.net
+*.dropbox.com    
+*.hellosign.com
+*.helloworks.com
+*.hellofax.com
+*.dropboxforum.com
+*.docsend.com
+*.dropboxer.net
 casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 *.epam.com
 *.emakina.nl 
@@ -167,7 +174,6 @@ prod-*.nu.com.co
 *.aips-internal.com
 *.certsy.com
 *.certsynonprod.com
-*.mcssl.com
 *.skyscanner.net
 3rd party services hosted at *.sophos.com
 *.soundcloud.org
