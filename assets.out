@@ -264,7 +264,6 @@
 *.dm.gg
 *.dmcdn.net
 *.dns.eu
-*.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
@@ -272,9 +271,6 @@
 *.download.originenergy.com.au
 *.dpgmedia.be
 *.dpgmedia.nl
-*.dropbox.com    
-*.dropboxer.net
-*.dropboxforum.com
 *.dropmix.com
 *.earlywarning.com
 *.easy.ac
@@ -387,9 +383,6 @@
 *.harmankardon.com
 *.harmonixmusic.com
 *.harmonyremote.com
-*.hellofax.com
-*.hellosign.com
-*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.com
@@ -2468,7 +2461,6 @@ api.direct.playstation.com
 api.doppler.com
 api.drogas.lt
 api.drogas.lv
-api.dropboxapi.com
 api.editeur.preprod.monespacesante.fr
 api.etoro.com
 api.evernote.com
@@ -3981,7 +3973,6 @@ https://app.intercom.io/
 https://app.latitudepayapps.com/
 https://app.opsgenie.com
 https://app.optimizely.com/
-https://app.reclaim.ai
 https://app.ring.com/*
 https://app.sandbox.agora.incubateur.net
 https://app.segment.com/
@@ -4071,8 +4062,6 @@ https://apps.apple.com/us/app/classdojo/id552602056
 https://apps.apple.com/us/app/compass-real-estate-homes/id692766504
 https://apps.apple.com/us/app/confluence-cloud/id1006971684
 https://apps.apple.com/us/app/confluence-server/id1288365159
-https://apps.apple.com/us/app/dropbox-emm/id1080074001
-https://apps.apple.com/us/app/dropbox-secure-cloud-storage/id327630330
 https://apps.apple.com/us/app/ecwid-ecommerce/id626731456
 https://apps.apple.com/us/app/electroneum/id1270774992
 https://apps.apple.com/us/app/expressvpn-fast-secure-vpn/id886492891?mt=8
@@ -4093,7 +4082,6 @@ https://apps.apple.com/us/app/northwestern-mutual/id1132579006
 https://apps.apple.com/us/app/okta-verify/id490179405
 https://apps.apple.com/us/app/onduo/id1138490045
 https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
-https://apps.apple.com/us/app/paper-by-dropbox/id1126623662
 https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
@@ -4366,8 +4354,6 @@ https://download.krisp.ai/mac
 https://download.krisp.ai/win
 https://download.opera.com
 https://downloads.arlo.com
-https://dropbox.com/dash/download
-https://dropboxpartners.com
 https://dxc.episerver.net/ 
 https://e.heytap.com/
 https://e.oppomobile.com
@@ -5412,9 +5398,6 @@ https://play.google.com/store/apps/details?id=com.coindcx.okto
 https://play.google.com/store/apps/details?id=com.comuto&hl=en
 https://play.google.com/store/apps/details?id=com.dailymotion.dailymotion&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.deezer.zen
-https://play.google.com/store/apps/details?id=com.dropbox.android&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.dropbox.app.hellosign&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.dropbox.paper&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.ecwid.android&pli=1
 https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr
@@ -5544,7 +5527,6 @@ https://quantum-events.onecloud.harman.com
 https://rc.fstr.rocks
 https://rec.net/
 https://rec.net/download
-https://reclaim.ai
 https://recroom.com/studio
 https://redash-staging.getmoneytree.com/
 https://regatta.aiven.io/
@@ -5897,7 +5879,6 @@ https://www.cyberghostvpn.com/en_US/apps/linux-vpn
 https://www.cyberghostvpn.com/en_US/apps/macos-vpn
 https://www.cyberghostvpn.com/en_US/apps/windows-vpn
 https://www.cyberghostvpn.com/vpn-server
-https://www.dash.ai/
 https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&target=launcher_macosx
 https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
 https://www.demarches-simplifiees.fr
@@ -5911,9 +5892,6 @@ https://www.drogas.lt/blog
 https://www.drogas.lv/blog/
 https://www.drogas.lv/lv/blog
 https://www.drogas.lv/ru/blog
-https://www.dropbox.com/capture
-https://www.dropbox.com/desktop
-https://www.dropbox.com/paper
 https://www.epam.com/
 https://www.espaskincare.com/
 https://www.etsy.com
