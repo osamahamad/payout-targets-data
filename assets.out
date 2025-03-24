@@ -2591,6 +2591,7 @@ apigw.foliofn.com
 apis.mail.yahoo.com
 apis.onecloud.harman.com
 apix.vodafone.om
+app.aikido.dev
 app.alasco.de
 app.avtoelon.uz
 app.chime.com
@@ -4429,6 +4430,12 @@ https://github.com/18f/identity-saml-sinatra
 https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP
 https://github.com/Agoric/agoric-sdk/tree/master/packages/inter-protocol
 https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe
+https://github.com/AikidoSec/firewall-node#Detection Bypass
+https://github.com/AikidoSec/firewall-node#False Positive
+https://github.com/AikidoSec/firewall-node#Vulnerability
+https://github.com/AikidoSec/firewall-python#Detection Bypass
+https://github.com/AikidoSec/firewall-python#False Positive
+https://github.com/AikidoSec/firewall-python#Vulnerability
 https://github.com/Aiven
 https://github.com/Aiven-Open
 https://github.com/AleoHQ/snarkOS/
