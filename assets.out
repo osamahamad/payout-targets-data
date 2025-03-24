@@ -3634,7 +3634,6 @@ github.com/binary-com
 github.com/deriv-com
 github.com/kubernetes-csi
 github.com/kubernetes-retired
-github.com/oasisprotocol/explorer
 github.com/uphold/*
 gitlab.com
 gleague.nba.com
@@ -3744,7 +3743,6 @@ http://datapod-1-druid-query.production.forescoutcloud.net/v2/services
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/matrixoverview
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/overlappingzones
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
-http://emerald.oasis.dev
 http://engine.heytap.com
 http://es.mydirtyhobby.com/
 http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
@@ -3753,7 +3751,6 @@ http://flightdeck.staples.com/#/login
 http://github.com/circlefin/noble-cctp
 http://github.com/cloudflare
 http://greenchannel.payoneer.com.cn/gcportal
-http://grpc.oasis.dev
 http://h1-your-domain.zendesk.com/qa/
 http://h1-your-domain.zendesk.com/sell
 http://h1-your-domain.zendesk.com/wfm/
@@ -3784,9 +3781,7 @@ http://play.google.com/store/apps/details?id=fr.doctolib.www
 http://poe.com
 http://portfolio.metamask.io
 http://recruit.linepluscorp.com
-http://rosetta.oasis.dev/api/mainnet
 http://sandbox-api.fireblocks.io
-http://sapphire.oasis.io
 http://sb-console-api.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://secure-iphone-xml.booking.com/json/
@@ -4063,6 +4058,7 @@ https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
 https://apps.apple.com/us/app/asana-mobile/id489969512
 https://apps.apple.com/us/app/auth0-guardian/id1093447833
 https://apps.apple.com/us/app/backblaze/id628638330
+https://apps.apple.com/us/app/bforbank-banque-en-ligne/id1607839793
 https://apps.apple.com/us/app/bitstamp/id1406825640
 https://apps.apple.com/us/app/bme-conecta/id6443938949
 https://apps.apple.com/us/app/booking-com-hotels-travel/id367003839
@@ -4665,13 +4661,6 @@ https://github.com/nextcloud/files_confidential
 https://github.com/nextcloud/tables
 https://github.com/nimiq/core-rs-albatross
 https://github.com/nodejs/node
-https://github.com/oasisprotocol/curve25519-voi
-https://github.com/oasisprotocol/deoxysii
-https://github.com/oasisprotocol/deoxysii-rust
-https://github.com/oasisprotocol/oasis-core
-https://github.com/oasisprotocol/oasis-sdk
-https://github.com/oasisprotocol/oasis-wallet-ext
-https://github.com/oasisprotocol/oasis-wallet-web
 https://github.com/openssl/openssl
 https://github.com/owncloud/activity
 https://github.com/owncloud/android
@@ -4747,6 +4736,8 @@ https://google-reserve-api.thefork.io
 https://gpt.lime.bike
 https://graphql.acorns.com
 https://graphql.seek.com
+https://gtw-b2capps.bforbank.com/*
+https://gtw-b2capps.bforbank.com/customer-acquisition/access-management/users*
 https://guest.usaa.com/
 https://guildofguardians.com
 https://gwapi.tripadvisor.com
@@ -5397,6 +5388,7 @@ https://play.google.com/store/apps/details?id=com.atlassian.jira.server&hl=en_US
 https://play.google.com/store/apps/details?id=com.auth0.guardian&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.backblaze.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.belongi.moe
+https://play.google.com/store/apps/details?id=com.bforbank.android
 https://play.google.com/store/apps/details?id=com.bigcommerce.mobile
 https://play.google.com/store/apps/details?id=com.bitmex.app.android.testnet
 https://play.google.com/store/apps/details?id=com.bitpanda.bitpanda
@@ -7028,7 +7020,6 @@ stats.nextcloud.com
 stats.wnba.com
 status.delen.be 
 status.larksuite.com
-status.oasis.io
 status.uphold.com
 steamcommunity.com
 stock.adobe.com
@@ -7246,7 +7237,6 @@ w1.uzleuven.be/random
 waf.cumulusfire.net
 wallet-sandbox.uphold.com
 wallet.etoro.com
-wallet.oasis.io
 wallet.venly.io
 wallets.api.playstation.com
 watchdocs.indriverapp.com
