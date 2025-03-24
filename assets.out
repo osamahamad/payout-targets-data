@@ -790,7 +790,6 @@
 *.services.repostnetwork.com
 *.shein.com
 *.sheingsp.com
-*.shipt.com
 *.shopify.com
 *.shopify.io
 *.shopifycloud.com
@@ -1301,9 +1300,7 @@
 961114489414094898
 965180355
 97.105.243.96/28
-971888874
 975035622
-976353472
 978342143
 978516833
 982922982
@@ -2367,7 +2364,6 @@ admin.booking.com
 admin.fr.cloud.gov
 admin.instacart.com
 admin.rezserver.com
-admin.shipt.com
 admin.shopify.com
 admin.stage.vismaonline.com
 admin.wickr.com
@@ -2547,7 +2543,6 @@ api.reddit.com
 api.remitly.io
 api.rezserver.com
 api.sandbox.topperpay.com
-api.shipt.com
 api.slack.com
 api.smtp2go.com
 api.sokos.fi
@@ -2596,7 +2591,6 @@ apigw.foliofn.com
 apis.mail.yahoo.com
 apis.onecloud.harman.com
 apix.vodafone.om
-app.aikido.dev
 app.alasco.de
 app.avtoelon.uz
 app.chime.com
@@ -2658,7 +2652,6 @@ app.rewire.to
 app.saltlabs.com
 app.sandbox.directly.com
 app.sandbox.topperpay.com
-app.shipt.com
 app.slack.com
 app.smtp2go.com
 app.snapchat.com
@@ -3216,8 +3209,6 @@ com.scopely.yux
 com.secretkeylabs.xverse
 com.security.BatteryCam
 com.security.care
-com.shipt.groceries
-com.shipt.shopper
 com.skypicker.Skypicker
 com.skypicker.main
 com.slack.slackmdm
@@ -6940,7 +6931,6 @@ shop.humo.be
 shop.infomaniak.com
 shop.judge.me
 shop.parool.nl
-shop.shipt.com
 shop.tiktok.com
 shop.trouw.nl
 shop.volkskrant.nl
@@ -6949,7 +6939,6 @@ shop.wyndhamvacationownership.trisept.travel
 shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
-shoppingcart.shipt.com
 signature-insights.api.cx.metamask.io
 signup.myconnect.com.au
 simperium.com
@@ -7005,12 +6994,7 @@ sso.oft.hyatt.com
 ssu.myconnect.com.au/signup/get-connected 
 stage.landmarkcinemas.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
-staging-admin.shipt.com
-staging-api.shipt.com
 staging-app.bany.dev
-staging-app.shipt.com
-staging-shop.shipt.com
-staging-shoppingcart.shipt.com
 staging.airtable.com
 staging.auth.coindesk.com
 staging.coindesk.com
@@ -7557,7 +7541,6 @@ www.sbbcargo.com
 www.schoenentorfs.be
 www.schoenentorfs.nl 
 www.sheer.com
-www.shipt.com
 www.six-group.com
 www.socialdeal.nl
 www.sokos.fi
