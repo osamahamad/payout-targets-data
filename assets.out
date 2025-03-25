@@ -378,6 +378,7 @@
 *.gsam.com
 *.gspublishing.com
 *.gsselect.com
+*.gtld-servers.net (DNS service; DNS related)
 *.guilded.gg
 *.guildofguardians.com
 *.hackerone-ext-content.com
@@ -936,6 +937,7 @@
 *.venmo.com
 *.vennhypotheken.nl
 *.verily.com/
+*.verisign-grs.com (DNS service; DNS related)
 *.vfsevisa.com
 *.vfsglobal.(com|co.uk|ca)
 *.vfsglobal.by
@@ -2309,6 +2311,7 @@ Yahoo Weather
 Yahoo! (Misc)
 Yoti Password Manager browser extension
 Your Own GitLab Instance
+a.root-servers.net (DNS service; DNS related)
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 a4k.amazon.com
 a5s.hackerone-ext-content.com
@@ -3504,6 +3507,7 @@ en.kolikkopelit.com
 en.ottokasino.com
 eng.magiceden.dev
 eng.magiceden.io
+epptool-ctld.verisign-grs.com (EPP service; DNS related)
 erpx.unit4cloud.com/u4erx_pab_acp1
 erpx.unit4cloud.com/u4erx_pab_prev
 erpx.unit4cloud.com/u4erx_pab_prod
@@ -4133,6 +4137,7 @@ https://blog.bitpanda.com/en
 https://blog.etsy.com
 https://blog.lastpass.com
 https://blog.thefork.com/
+https://blog.verisign.com
 https://bot-tester.datadome.co/
 https://bounty-cloud.dracoon.app/
 https://bounty-cloud.dracoon.app/api
@@ -5250,6 +5255,8 @@ https://mydesktop.usaa.com
 https://mylink.page
 https://myplutus.pinelabs.my/
 https://myvpn.usaa.com
+https://namestudio.com
+https://namestudioforsocial.com/
 https://nativepay.keke.cn
 https://net.geo.opera.com
 https://newrelic.com/
@@ -6058,6 +6065,7 @@ https://www.upwork.com
 https://www.usaa.com
 https://www.usaainsurance.com/
 https://www.vendhq.com/
+https://www.verisign.com
 https://www.vfsglobalservices-germany.com/Global-Appointment/
 https://www.vfsvisaservice.com/
 https://www.vfsvisaservice.com/IHC-SouthKorea-Appointment
@@ -6082,6 +6090,7 @@ https://wwws-staging.moneytree.jp/link/mobile/#/signup?client_id=38d99a6e8e9fc87
 https://xyzbmojn.net/
 https://yeswehack.com
 https://yeswehack.staging.komoju.com
+https://youcouldbe.com
 https://zuora-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/notifications/raas
 https:/pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-acces-info/
 hub-api-sandbox.remitly.io
@@ -6181,6 +6190,7 @@ itmss://apps.apple.com/us/app/id1510360750?ign-mscache=1
 itv7.itv.com
 ius.ezvizlife.com
 ix2smbdyjt.infomaniak.site
+j.root-servers.net (DNS service; DNS related)
 jimmobile.be
 jira.grab.com
 jira.hyattdev.com

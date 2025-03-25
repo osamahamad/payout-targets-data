@@ -26,9 +26,6 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.meraki.com
 *.ikarem.io
 *.network-auth.com
-*.meraki.com
-*.ikarem.io
-*.network-auth.com
 *.classdojo.com
 *.classdojo.co.uk
 *.doj.io
@@ -201,6 +198,8 @@ api-*.soundcloud.com
  *.sip.*.twilio.com
  Twilio CDNs (static*.twilio.com)
 *.api.ua.com/
+*.gtld-servers.net (DNS service; DNS related)
+*.verisign-grs.com (DNS service; DNS related)
 *.viatorinc.com
 *.viator.com
 *.transferwise.com
