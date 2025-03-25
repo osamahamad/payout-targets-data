@@ -378,7 +378,6 @@
 *.gsam.com
 *.gspublishing.com
 *.gsselect.com
-*.gtld-servers.net (DNS service; DNS related)
 *.guilded.gg
 *.guildofguardians.com
 *.hackerone-ext-content.com
@@ -417,6 +416,7 @@
 *.hyperpure.com
 *.hyperwallet.com
 *.hypr.com
+*.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
 *.imperva.com
@@ -540,6 +540,7 @@
 *.megatix.be  
 *.melonapp.com
 *.memorable.io
+*.meraki.com
 *.mercadolibre.cl
 *.mercadolibre.com
 *.mercadolibre.com.ar
@@ -614,6 +615,7 @@
 *.neat.wtf
 *.neatcommerce.com
 *.neattest.com
+*.network-auth.com
 *.new.livestream.com
 *.newegg.ca
 *.newegg.com
@@ -934,7 +936,6 @@
 *.venmo.com
 *.vennhypotheken.nl
 *.verily.com/
-*.verisign-grs.com (DNS service; DNS related)
 *.vfsevisa.com
 *.vfsglobal.(com|co.uk|ca)
 *.vfsglobal.by
@@ -1506,6 +1507,14 @@ Chime IOS App (Beta)
 China Network
 Chrome Extension
 Circle Cameras
+Cisco Meraki Dashboard Mobile Application (iOS and Android)
+Cisco Meraki MR Access Points
+Cisco Meraki MS Switches
+Cisco Meraki MV Security Cameras
+Cisco Meraki MX Security Appliances
+Cisco Meraki Systems Manager
+Cisco Meraki Virtual Security Appliances
+Cisco Meraki Z Series (Z1,Z3(C))
 Citrix End Point Analysis (EPA) client for Linux
 Citrix End Point Analysis (EPA) client for Windows
 Citrix Secure Access client for Android
@@ -2300,7 +2309,6 @@ Yahoo Weather
 Yahoo! (Misc)
 Yoti Password Manager browser extension
 Your Own GitLab Instance
-a.root-servers.net (DNS service; DNS related)
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 a4k.amazon.com
 a5s.hackerone-ext-content.com
@@ -2654,6 +2662,7 @@ apps-accpt.portofantwerp.com
 apps-accpt.portofantwerpbruges.com
 apps.apple.com/fr/app/mon-espace-sant%C3%A9/id1589255019 (iOS)
 apps.apple.com/us/app/crowdstrike-falcon/id1458815656
+apps.meraki.io
 apps.nextcloud.com
 apps.ort-one-pingone.com
 apps.portofantwerp.com
@@ -3495,7 +3504,6 @@ en.kolikkopelit.com
 en.ottokasino.com
 eng.magiceden.dev
 eng.magiceden.io
-epptool-ctld.verisign-grs.com (EPP service; DNS related)
 erpx.unit4cloud.com/u4erx_pab_acp1
 erpx.unit4cloud.com/u4erx_pab_prev
 erpx.unit4cloud.com/u4erx_pab_prod
@@ -4125,7 +4133,6 @@ https://blog.bitpanda.com/en
 https://blog.etsy.com
 https://blog.lastpass.com
 https://blog.thefork.com/
-https://blog.verisign.com
 https://bot-tester.datadome.co/
 https://bounty-cloud.dracoon.app/
 https://bounty-cloud.dracoon.app/api
@@ -5189,6 +5196,7 @@ https://mcssl.com
 https://mediaflows.cloudinary.com/
 https://menulog.co.nz
 https://menulog.com.au
+https://meraki.cisco.com
 https://metamask-sdk-socket.metafi.codefi.network/
 https://metamask.github.io/phishing-warning/<vX.Y.Z>
 https://metrobyt-mobile.com
@@ -5242,8 +5250,6 @@ https://mydesktop.usaa.com
 https://mylink.page
 https://myplutus.pinelabs.my/
 https://myvpn.usaa.com
-https://namestudio.com
-https://namestudioforsocial.com/
 https://nativepay.keke.cn
 https://net.geo.opera.com
 https://newrelic.com/
@@ -6052,7 +6058,6 @@ https://www.upwork.com
 https://www.usaa.com
 https://www.usaainsurance.com/
 https://www.vendhq.com/
-https://www.verisign.com
 https://www.vfsglobalservices-germany.com/Global-Appointment/
 https://www.vfsvisaservice.com/
 https://www.vfsvisaservice.com/IHC-SouthKorea-Appointment
@@ -6077,7 +6082,6 @@ https://wwws-staging.moneytree.jp/link/mobile/#/signup?client_id=38d99a6e8e9fc87
 https://xyzbmojn.net/
 https://yeswehack.com
 https://yeswehack.staging.komoju.com
-https://youcouldbe.com
 https://zuora-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/notifications/raas
 https:/pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-acces-info/
 hub-api-sandbox.remitly.io
@@ -6177,7 +6181,6 @@ itmss://apps.apple.com/us/app/id1510360750?ign-mscache=1
 itv7.itv.com
 ius.ezvizlife.com
 ix2smbdyjt.infomaniak.site
-j.root-servers.net (DNS service; DNS related)
 jimmobile.be
 jira.grab.com
 jira.hyattdev.com
