@@ -406,7 +406,9 @@ https://nw.ring.com/*
 https://oauth.ring.com/*
 https://ring.com/*
 prd-ring-web-us.prd.rings.solutions
+153.46.104.0/22
 153.46.108.0/22
+153.46.111.0/24
 153.46.240.0/20
 153.46.96.0/20
 193.109.229.0/24
@@ -2122,7 +2124,7 @@ community.logitech.com
 external.logitech.com
 feedback.logitech.com
 gaming.logicool.co.jp
-http://www.logitech.com/my-account
+https://www.logitech.com/blog
 id.logi.com
 jira.logitech.com
 logilife.logitech.com
