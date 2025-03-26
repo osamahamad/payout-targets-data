@@ -237,6 +237,7 @@
 *.crypto.com
 *.cryptopunks.app
 *.cubicmotion.com
+*.cyberghost.com
 *.cyrus-security.com
 *.dailyadvent.com
 *.dailymotion.com
@@ -1579,6 +1580,7 @@ Crypto.com Exchange APIs that require an account
 Crypto.com Wallet Extension
 Crypto.com mobile app APIs that require an account
 Customer connected domain (2)
+CyberGhost APIs
 DS proxy (see https://github.com/demarches-simplifiees/ds_proxy)
 DSE, Opscenter
 Data Loss Prevention (DLP)
@@ -3366,6 +3368,7 @@ customers.gitlab.com
 customerupdates.nextcloud.com
 cw.visa.com
 cweb-ott.nba.com
+cyberghost.app
 cyclonedx-bom
 cz.skodaauto.myskoda
 daita/files_fulltextsearch_tesseract
@@ -3827,6 +3830,7 @@ https://accounts.lastpass.com
 https://accounts.opera.com
 https://accounts.welcomesoftware.com/
 https://acorns.com/
+https://addons.mozilla.org/en-US/firefox/addon/cyberghost-vpn-free-proxy/
 https://addons.mozilla.org/en-US/firefox/addon/expressvpn/
 https://addons.mozilla.org/en-US/firefox/addon/pinterest/
 https://addons.mozilla.org/en-US/firefox/addon/private-internet-access-ext/
@@ -4065,6 +4069,7 @@ https://apps.apple.com/us/app/ecwid-ecommerce/id626731456
 https://apps.apple.com/us/app/electroneum/id1270774992
 https://apps.apple.com/us/app/expressvpn-fast-secure-vpn/id886492891?mt=8
 https://apps.apple.com/us/app/hubspot/id1107711722
+https://apps.apple.com/us/app/id583009522
 https://apps.apple.com/us/app/indeed-connect-for-employers/id6443822731
 https://apps.apple.com/us/app/indeed-job-search/id309735670
 https://apps.apple.com/us/app/jira-cloud-by-atlassian/id1006972087
@@ -4228,6 +4233,7 @@ https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeo
 https://chrome.google.com/webstore/detail/ibotta-browser-extension/mfaedmjlefifhnhpgipjjiiekchaimpk?hl=en-US
 https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en
 https://chrome.google.com/webstore/detail/private-internet-access/jplnlifepflhkbkgonidnobkakhmpnmh
+https://chrome.google.com/webstore/detail/stay-secure-with-cybergho/ffbkglfijbcbgblgflchnbphjdllaogb
 https://chrome.google.com/webstore/detail/xverse-wallet/idnnbdplmphpflfnlkomgpfbpcgelopg
 https://chromewebstore.google.com/detail/expressvpn-keys-password/blgcbajigpdfohpgcmbbfnphcgifjopc
 https://chromewebstore.google.com/detail/expressvpn-vpn-proxy-for/fgddmllnllkalaagkghckoinaemmogpe?pli=1
@@ -4284,6 +4290,7 @@ https://csp-prod.codebig2.net
 https://customer-api.datadome.co
 https://customerportal.winconnect.com.au/login
 https://customers.us1.fga.dev/
+https://cyberghost.com
 https://d1.utv.usaa.com
 https://d2.utv.usaa.com
 https://daily.blablacar.fr
@@ -5478,6 +5485,7 @@ https://play.google.com/store/apps/details?id=com.worldcoin
 https://play.google.com/store/apps/details?id=com.xfinity.digitalhome&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.yopeso.lieferando&hl=en_US
 https://play.google.com/store/apps/details?id=de.cellular.ottohybrid&hl=de
+https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost
 https://play.google.com/store/apps/details?id=deezer.android.app
 https://play.google.com/store/apps/details?id=edu.monash.monashmobile
 https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta
@@ -5884,6 +5892,11 @@ https://www.creditkarma.com/reviews/
 https://www.creditkarma.com/savings
 https://www.cultbeauty.co.uk/
 https://www.cyber.gouv.qc.ca/
+https://www.cyberghostvpn.com/
+https://www.cyberghostvpn.com/en_US/apps/linux-vpn
+https://www.cyberghostvpn.com/en_US/apps/macos-vpn
+https://www.cyberghostvpn.com/en_US/apps/windows-vpn
+https://www.cyberghostvpn.com/vpn-server
 https://www.dash.ai/
 https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&target=launcher_macosx
 https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
