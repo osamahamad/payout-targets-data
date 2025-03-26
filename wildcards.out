@@ -241,7 +241,6 @@
 *.dm.gg
 *.dmcdn.net
 *.dns.eu
-*.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
@@ -249,9 +248,6 @@
 *.download.originenergy.com.au
 *.dpgmedia.be
 *.dpgmedia.nl
-*.dropbox.com    
-*.dropboxer.net
-*.dropboxforum.com
 *.dropmix.com
 *.earlywarning.com
 *.easy.ac
@@ -355,6 +351,7 @@
 *.gsam.com
 *.gspublishing.com
 *.gsselect.com
+*.gtld-servers.net (DNS service; DNS related)
 *.guilded.gg
 *.guildofguardians.com
 *.hackerone-ext-content.com
@@ -363,9 +360,6 @@
 *.harmankardon.com
 *.harmonixmusic.com
 *.harmonyremote.com
-*.hellofax.com
-*.hellosign.com
-*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.com
@@ -610,7 +604,6 @@
 *.nr-data.net
 *.nr-ops.net
 *.ociadmin.cloud.8x8.com
-*.octopus.com
 *.oda.com
 *.odcdn.com.au
 *.oklink.com
@@ -913,6 +906,7 @@
 *.venmo.com
 *.vennhypotheken.nl
 *.verily.com/
+*.verisign-grs.com (DNS service; DNS related)
 *.vfsevisa.com
 *.vfsglobal.(com|co.uk|ca)
 *.vfsglobal.by

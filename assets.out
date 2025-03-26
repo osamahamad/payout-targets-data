@@ -264,7 +264,6 @@
 *.dm.gg
 *.dmcdn.net
 *.dns.eu
-*.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
@@ -272,9 +271,6 @@
 *.download.originenergy.com.au
 *.dpgmedia.be
 *.dpgmedia.nl
-*.dropbox.com    
-*.dropboxer.net
-*.dropboxforum.com
 *.dropmix.com
 *.earlywarning.com
 *.easy.ac
@@ -378,6 +374,7 @@
 *.gsam.com
 *.gspublishing.com
 *.gsselect.com
+*.gtld-servers.net (DNS service; DNS related)
 *.guilded.gg
 *.guildofguardians.com
 *.hackerone-ext-content.com
@@ -386,9 +383,6 @@
 *.harmankardon.com
 *.harmonixmusic.com
 *.harmonyremote.com
-*.hellofax.com
-*.hellosign.com
-*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.com
@@ -633,7 +627,6 @@
 *.nr-data.net
 *.nr-ops.net
 *.ociadmin.cloud.8x8.com
-*.octopus.com
 *.oda.com
 *.odcdn.com.au
 *.oklink.com
@@ -936,6 +929,7 @@
 *.venmo.com
 *.vennhypotheken.nl
 *.verily.com/
+*.verisign-grs.com (DNS service; DNS related)
 *.vfsevisa.com
 *.vfsglobal.(com|co.uk|ca)
 *.vfsglobal.by
@@ -2309,6 +2303,7 @@ Yahoo Weather
 Yahoo! (Misc)
 Yoti Password Manager browser extension
 Your Own GitLab Instance
+a.root-servers.net (DNS service; DNS related)
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
 a4k.amazon.com
 a5s.hackerone-ext-content.com
@@ -2461,7 +2456,6 @@ api.direct.playstation.com
 api.doppler.com
 api.drogas.lt
 api.drogas.lv
-api.dropboxapi.com
 api.editeur.preprod.monespacesante.fr
 api.etoro.com
 api.evernote.com
@@ -3504,6 +3498,7 @@ en.kolikkopelit.com
 en.ottokasino.com
 eng.magiceden.dev
 eng.magiceden.io
+epptool-ctld.verisign-grs.com (EPP service; DNS related)
 erpx.unit4cloud.com/u4erx_pab_acp1
 erpx.unit4cloud.com/u4erx_pab_prev
 erpx.unit4cloud.com/u4erx_pab_prod
@@ -3862,6 +3857,7 @@ https://api.bykea.net
 https://api.canva.com
 https://api.classdojo.com
 https://api.clearpay.com
+https://api.cloudinary.com
 https://api.datadome.co
 https://api.electroneum.com/
 https://api.fishbowlapp.com/*
@@ -3943,7 +3939,6 @@ https://app.intercom.io/
 https://app.latitudepayapps.com/
 https://app.opsgenie.com
 https://app.optimizely.com/
-https://app.reclaim.ai
 https://app.ring.com/*
 https://app.sandbox.agora.incubateur.net
 https://app.segment.com/
@@ -4033,8 +4028,6 @@ https://apps.apple.com/us/app/classdojo/id552602056
 https://apps.apple.com/us/app/compass-real-estate-homes/id692766504
 https://apps.apple.com/us/app/confluence-cloud/id1006971684
 https://apps.apple.com/us/app/confluence-server/id1288365159
-https://apps.apple.com/us/app/dropbox-emm/id1080074001
-https://apps.apple.com/us/app/dropbox-secure-cloud-storage/id327630330
 https://apps.apple.com/us/app/ecwid-ecommerce/id626731456
 https://apps.apple.com/us/app/electroneum/id1270774992
 https://apps.apple.com/us/app/expressvpn-fast-secure-vpn/id886492891?mt=8
@@ -4055,7 +4048,6 @@ https://apps.apple.com/us/app/northwestern-mutual/id1132579006
 https://apps.apple.com/us/app/okta-verify/id490179405
 https://apps.apple.com/us/app/onduo/id1138490045
 https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
-https://apps.apple.com/us/app/paper-by-dropbox/id1126623662
 https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
@@ -4132,6 +4124,7 @@ https://blog.bitpanda.com/en
 https://blog.etsy.com
 https://blog.lastpass.com
 https://blog.thefork.com/
+https://blog.verisign.com
 https://bot-tester.datadome.co/
 https://bounty-cloud.dracoon.app/
 https://bounty-cloud.dracoon.app/api
@@ -4214,6 +4207,7 @@ https://clients3.pentest.clicsante.ca/
 https://cloud.heytap.com/
 https://cloud.oppo.com/
 https://cloud.unity.com
+https://cloudinary.com/console
 https://cms.mobile.monash/ 
 https://cockpit-eu-west-2.outscale.com/
 https://coda.io/*
@@ -4302,6 +4296,7 @@ https://devportal.rec.net/
 https://devstaging.pcapcloud.com/*
 https://digits.t-mobile.com
 https://digits.t-mobile.com/
+https://dimensions.cloudinary.com
 https://directlink.eu-west-2.outscale.com
 https://doc.komoju.com/docs/fields-overview
 https://docker-staging.adstruc.com
@@ -4327,8 +4322,6 @@ https://download.krisp.ai/mac
 https://download.krisp.ai/win
 https://download.opera.com
 https://downloads.arlo.com
-https://dropbox.com/dash/download
-https://dropboxpartners.com
 https://dxc.episerver.net/ 
 https://e.heytap.com/
 https://e.oppomobile.com
@@ -4416,7 +4409,6 @@ https://github.com/Dynatrace-innovationlab
 https://github.com/Electron
 https://github.com/Infomaniak/desktop-kDrive
 https://github.com/Nginx
-https://github.com/OctopusDeploy
 https://github.com/ProjectOpenSea/seaport#deployments
 https://github.com/RIPE-NCC/rpki-commons
 https://github.com/RIPE-NCC/rpki-core
@@ -5190,6 +5182,7 @@ https://mattermost.com/apps/
 https://mc.sendgrid.com/
 https://mcs.arlo.com
 https://mcssl.com
+https://mediaflows.cloudinary.com/
 https://menulog.co.nz
 https://menulog.com.au
 https://meraki.cisco.com
@@ -5246,6 +5239,8 @@ https://mydesktop.usaa.com
 https://mylink.page
 https://myplutus.pinelabs.my/
 https://myvpn.usaa.com
+https://namestudio.com
+https://namestudioforsocial.com/
 https://nativepay.keke.cn
 https://net.geo.opera.com
 https://newrelic.com/
@@ -5262,7 +5257,6 @@ https://nvoice.usaa.com/
 https://nw.ring.com/*
 https://oauth.ring.com/*
 https://ob-sandbox.gocardless.io
-https://octopus.com
 https://octopus.com/downloads
 https://oda.com
 https://odesli.co
@@ -5369,9 +5363,6 @@ https://play.google.com/store/apps/details?id=com.coindcx.okto
 https://play.google.com/store/apps/details?id=com.comuto&hl=en
 https://play.google.com/store/apps/details?id=com.dailymotion.dailymotion&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.deezer.zen
-https://play.google.com/store/apps/details?id=com.dropbox.android&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.dropbox.app.hellosign&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.dropbox.paper&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.ecwid.android&pli=1
 https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr
@@ -5502,12 +5493,12 @@ https://radio.api.soundtrackyourbrand.com/
 https://rc.fstr.rocks
 https://rec.net/
 https://rec.net/download
-https://reclaim.ai
 https://recroom.com/studio
 https://redash-staging.getmoneytree.com/
 https://regatta.aiven.io/
 https://rentals.tripadvisor.com
 https://reptox.cnesst.gouv.qc.ca/
+https://res.cloudinary.com
 https://research.monash.edu/
 https://researchmgt.monash.edu/
 https://resume.com
@@ -5855,7 +5846,6 @@ https://www.cyberghostvpn.com/en_US/apps/linux-vpn
 https://www.cyberghostvpn.com/en_US/apps/macos-vpn
 https://www.cyberghostvpn.com/en_US/apps/windows-vpn
 https://www.cyberghostvpn.com/vpn-server
-https://www.dash.ai/
 https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&target=launcher_macosx
 https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
 https://www.demarches-simplifiees.fr
@@ -5869,9 +5859,6 @@ https://www.drogas.lt/blog
 https://www.drogas.lv/blog/
 https://www.drogas.lv/lv/blog
 https://www.drogas.lv/ru/blog
-https://www.dropbox.com/capture
-https://www.dropbox.com/desktop
-https://www.dropbox.com/paper
 https://www.epam.com/
 https://www.espaskincare.com/
 https://www.etsy.com
@@ -6053,6 +6040,7 @@ https://www.upwork.com
 https://www.usaa.com
 https://www.usaainsurance.com/
 https://www.vendhq.com/
+https://www.verisign.com
 https://www.vfsglobalservices-germany.com/Global-Appointment/
 https://www.vfsvisaservice.com/
 https://www.vfsvisaservice.com/IHC-SouthKorea-Appointment
@@ -6077,6 +6065,7 @@ https://wwws-staging.moneytree.jp/link/mobile/#/signup?client_id=38d99a6e8e9fc87
 https://xyzbmojn.net/
 https://yeswehack.com
 https://yeswehack.staging.komoju.com
+https://youcouldbe.com
 https://zuora-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/notifications/raas
 https:/pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-acces-info/
 hub-api-sandbox.remitly.io
@@ -6176,6 +6165,7 @@ itmss://apps.apple.com/us/app/id1510360750?ign-mscache=1
 itv7.itv.com
 ius.ezvizlife.com
 ix2smbdyjt.infomaniak.site
+j.root-servers.net (DNS service; DNS related)
 jimmobile.be
 jira.grab.com
 jira.hyattdev.com
