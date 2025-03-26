@@ -7,6 +7,12 @@ Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DI
 *.atlastunnel.com
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 *.cic-bug-bounty.auth0app.com
+*.twistys.com
+*.brazzers.com
+*.mofos.com
+*.realitykings.com
+*.seancody.com
+*.probiller.com
 *.tube8.com
 *.trafficjunky.com
 *.adultforce.com
@@ -35,16 +41,10 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.xcal.tv
 *.sys.comcast.net
 *.cyberghost.com
+*.cyberghost.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.sandbox.directly.com/
-*.dropbox.com    
-*.hellosign.com
-*.helloworks.com
-*.hellofax.com
-*.dropboxforum.com
-*.docsend.com
-*.dropboxer.net
 casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 *.epam.com
 *.emakina.nl 

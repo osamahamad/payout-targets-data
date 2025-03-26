@@ -161,6 +161,7 @@
 *.braintree.tools
 *.braintreegateway.com
 *.braintreepayments.com
+*.brazzers.com
 *.bredbandsbolaget.se
 *.buddypress.org,bbpress.org,profiles.wordpress.org
 *.bugcrowd.com/auth/*
@@ -242,7 +243,6 @@
 *.dailymotion.com
 *.dancecentral.com
 *.das.eu
-*.datacamp.com
 *.de.jbl.com
 *.dell.com/*
 *.delltechnologies.com/* 
@@ -265,7 +265,6 @@
 *.dm.gg
 *.dmcdn.net
 *.dns.eu
-*.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
@@ -273,9 +272,6 @@
 *.download.originenergy.com.au
 *.dpgmedia.be
 *.dpgmedia.nl
-*.dropbox.com    
-*.dropboxer.net
-*.dropboxforum.com
 *.dropmix.com
 *.earlywarning.com
 *.easy.ac
@@ -388,9 +384,6 @@
 *.harmankardon.com
 *.harmonixmusic.com
 *.harmonyremote.com
-*.hellofax.com
-*.hellosign.com
-*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.com
@@ -585,6 +578,7 @@
 *.mmwebc.dev
 *.mobilevikings.be
 *.mobilitygraph.hereapi.com
+*.mofos.com
 *.mona.co
 *.monopoly-poker.com
 *.monzo.com
@@ -707,6 +701,7 @@
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
+*.probiller.com
 *.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
@@ -728,6 +723,7 @@
 *.rapyd.net
 *.rapyd.org
 *.rbx.com
+*.realitykings.com
 *.rec.net/*
 *.recko.io
 *.reckoproduction.com
@@ -771,6 +767,7 @@
 *.scoober.com
 *.scopely.com
 *.scopely.io
+*.seancody.com
 *.search.gov
 *.sec-tunnel.com
 *.securecircle.com
@@ -918,6 +915,7 @@
 *.tweakimg.net
 *.twimg.com
 *.twinmotion.com
+*.twistys.com
 *.twitter.com
 *.uberinternal.com
 *.ubnt.com
@@ -2472,7 +2470,6 @@ api.direct.playstation.com
 api.doppler.com
 api.drogas.lt
 api.drogas.lv
-api.dropboxapi.com
 api.editeur.preprod.monespacesante.fr
 api.etoro.com
 api.evernote.com
@@ -2601,9 +2598,6 @@ app.avtoelon.uz
 app.chime.com
 app.circle.com
 app.dashlane.com
-app.datacamp.com/certification
-app.datacamp.com/groups
-app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -2696,9 +2690,6 @@ as2.portofantwerp.com
 as2.portofantwerpbruges.com
 ask.khealth.com
 asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com 
-assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.spotify.com
@@ -2854,7 +2845,6 @@ caldav.larksuite.com
 calendar.infomaniak.com
 callbacks.airbnb.com
 cam.notebleue.pro
-campus.datacamp.com
 candle-src.etoro.com
 candle.etoro.com
 capi.grammarly.com
@@ -3047,7 +3037,6 @@ com.creditkarma.mobile
 com.creditkarma.mobile.international
 com.dashlane
 com.dashlane.dashlanephonefinal
-com.datacamp
 com.defi.wallet
 com.deribit
 com.dolap.android
@@ -3739,6 +3728,7 @@ http://datapod-1-druid-query.production.forescoutcloud.net/v2/services
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/matrixoverview
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/overlappingzones
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
+http://digitalplayground.com/
 http://engine.heytap.com
 http://es.mydirtyhobby.com/
 http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
@@ -3785,6 +3775,7 @@ http://skumapper-splus.pnimedia.com/
 http://socialdeal.nl/inspirations/bluemonday/
 http://staging-api.ynab.com
 http://staking.consensys.io
+http://transangels.com/
 http://vimeo.com/api
 http://vimeo.com/create
 http://vimeo.com/ondemand
@@ -3971,7 +3962,6 @@ https://app.intercom.io/
 https://app.latitudepayapps.com/
 https://app.opsgenie.com
 https://app.optimizely.com/
-https://app.reclaim.ai
 https://app.ring.com/*
 https://app.sandbox.agora.incubateur.net
 https://app.segment.com/
@@ -4002,7 +3992,6 @@ https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/bigcommerce/id1418570678
 https://apps.apple.com/au/app/caltex-australia/id1314768594
 https://apps.apple.com/au/app/certsy/id1617796159
-https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
@@ -4065,8 +4054,6 @@ https://apps.apple.com/us/app/coindesk-crypto-bitcoin-news/id6502816903
 https://apps.apple.com/us/app/compass-real-estate-homes/id692766504
 https://apps.apple.com/us/app/confluence-cloud/id1006971684
 https://apps.apple.com/us/app/confluence-server/id1288365159
-https://apps.apple.com/us/app/dropbox-emm/id1080074001
-https://apps.apple.com/us/app/dropbox-secure-cloud-storage/id327630330
 https://apps.apple.com/us/app/ecwid-ecommerce/id626731456
 https://apps.apple.com/us/app/electroneum/id1270774992
 https://apps.apple.com/us/app/expressvpn-fast-secure-vpn/id886492891?mt=8
@@ -4087,7 +4074,6 @@ https://apps.apple.com/us/app/northwestern-mutual/id1132579006
 https://apps.apple.com/us/app/okta-verify/id490179405
 https://apps.apple.com/us/app/onduo/id1138490045
 https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
-https://apps.apple.com/us/app/paper-by-dropbox/id1126623662
 https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
@@ -4363,8 +4349,6 @@ https://download.krisp.ai/mac
 https://download.krisp.ai/win
 https://download.opera.com
 https://downloads.arlo.com
-https://dropbox.com/dash/download
-https://dropboxpartners.com
 https://dxc.episerver.net/ 
 https://e.heytap.com/
 https://e.oppomobile.com
@@ -5412,9 +5396,6 @@ https://play.google.com/store/apps/details?id=com.coindesk.mobile
 https://play.google.com/store/apps/details?id=com.comuto&hl=en
 https://play.google.com/store/apps/details?id=com.dailymotion.dailymotion&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.deezer.zen
-https://play.google.com/store/apps/details?id=com.dropbox.android&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.dropbox.app.hellosign&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.dropbox.paper&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.ecwid.android&pli=1
 https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr
@@ -5545,7 +5526,6 @@ https://radio.api.soundtrackyourbrand.com/
 https://rc.fstr.rocks
 https://rec.net/
 https://rec.net/download
-https://reclaim.ai
 https://recroom.com/studio
 https://redash-staging.getmoneytree.com/
 https://regatta.aiven.io/
@@ -5899,7 +5879,6 @@ https://www.cyberghostvpn.com/en_US/apps/linux-vpn
 https://www.cyberghostvpn.com/en_US/apps/macos-vpn
 https://www.cyberghostvpn.com/en_US/apps/windows-vpn
 https://www.cyberghostvpn.com/vpn-server
-https://www.dash.ai/
 https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&target=launcher_macosx
 https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
 https://www.demarches-simplifiees.fr
@@ -5913,9 +5892,6 @@ https://www.drogas.lt/blog
 https://www.drogas.lv/blog/
 https://www.drogas.lv/lv/blog
 https://www.drogas.lv/ru/blog
-https://www.dropbox.com/capture
-https://www.dropbox.com/desktop
-https://www.dropbox.com/paper
 https://www.epam.com/
 https://www.espaskincare.com/
 https://www.etsy.com
@@ -6747,7 +6723,6 @@ portal.taxi.booking.com
 portfolio.ccpsx.com
 portfolio.metamask.io
 portswigger.net
-practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prddnighting01.uzleuven.be
 prddsplunkhf.uzleuven.be
@@ -6785,7 +6760,6 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profiler.firefox.com
-projects.datacamp.com
 projects.nextcloud.com
 prometheus.fr.cloud.gov
 promos.tvg.com
@@ -7372,8 +7346,6 @@ www.currencycloud.com
 www.cybersource.com
 www.dashlane.com
 www.data.gov
-www.datacamp.com
-www.datacamp.com/datalab
 www.datastax.com
 www.ddfcontent.com
 www.deezer.com
