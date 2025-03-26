@@ -1,15 +1,25 @@
-*.gtld-servers.net (DNS service; DNS related)
-*.verisign-grs.com (DNS service; DNS related)
-a.root-servers.net (DNS service; DNS related)
-epptool-ctld.verisign-grs.com (EPP service; DNS related)
-https://api.cloudinary.com
-https://blog.verisign.com
-https://cloudinary.com/console
-https://dimensions.cloudinary.com
-https://mediaflows.cloudinary.com/
-https://namestudio.com
-https://namestudioforsocial.com/
-https://res.cloudinary.com
-https://www.verisign.com
-https://youcouldbe.com
-j.root-servers.net (DNS service; DNS related)
+*.docsend.com
+*.dropbox.com    
+*.dropboxer.net
+*.dropboxforum.com
+*.hellofax.com
+*.hellosign.com
+*.helloworks.com
+*.octopus.com
+api.dropboxapi.com
+https://app.reclaim.ai
+https://apps.apple.com/us/app/dropbox-emm/id1080074001
+https://apps.apple.com/us/app/dropbox-secure-cloud-storage/id327630330
+https://apps.apple.com/us/app/paper-by-dropbox/id1126623662
+https://dropbox.com/dash/download
+https://dropboxpartners.com
+https://github.com/OctopusDeploy
+https://octopus.com
+https://play.google.com/store/apps/details?id=com.dropbox.android&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.dropbox.app.hellosign&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.dropbox.paper&hl=en_US&gl=US
+https://reclaim.ai
+https://www.dash.ai/
+https://www.dropbox.com/capture
+https://www.dropbox.com/desktop
+https://www.dropbox.com/paper
