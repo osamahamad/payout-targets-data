@@ -685,7 +685,6 @@
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
-*.probiller.com
 *.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
@@ -1026,6 +1025,7 @@ matrix.agent.*.tchap.gouv.fr
 munin-*.wordpress.org
 onboarding-*.cloud.com
 open redirect at *.epam.com
+probiller.*.com
 prod-*.nu.com.co
 prod-*.nu.com.mx
 prod-*.nubank.com.br
