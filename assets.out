@@ -237,7 +237,6 @@
 *.crypto.com
 *.cryptopunks.app
 *.cubicmotion.com
-*.cyberghost.com
 *.cyrus-security.com
 *.dailyadvent.com
 *.dailymotion.com
@@ -265,6 +264,7 @@
 *.dm.gg
 *.dmcdn.net
 *.dns.eu
+*.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
@@ -272,6 +272,9 @@
 *.download.originenergy.com.au
 *.dpgmedia.be
 *.dpgmedia.nl
+*.dropbox.com    
+*.dropboxer.net
+*.dropboxforum.com
 *.dropmix.com
 *.earlywarning.com
 *.easy.ac
@@ -384,6 +387,9 @@
 *.harmankardon.com
 *.harmonixmusic.com
 *.harmonyremote.com
+*.hellofax.com
+*.hellosign.com
+*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.com
@@ -1573,7 +1579,6 @@ Crypto.com Exchange APIs that require an account
 Crypto.com Wallet Extension
 Crypto.com mobile app APIs that require an account
 Customer connected domain (2)
-CyberGhost APIs
 DS proxy (see https://github.com/demarches-simplifiees/ds_proxy)
 DSE, Opscenter
 Data Loss Prevention (DLP)
@@ -2470,6 +2475,7 @@ api.direct.playstation.com
 api.doppler.com
 api.drogas.lt
 api.drogas.lv
+api.dropboxapi.com
 api.editeur.preprod.monespacesante.fr
 api.etoro.com
 api.evernote.com
@@ -3360,7 +3366,6 @@ customers.gitlab.com
 customerupdates.nextcloud.com
 cw.visa.com
 cweb-ott.nba.com
-cyberghost.app
 cyclonedx-bom
 cz.skodaauto.myskoda
 daita/files_fulltextsearch_tesseract
@@ -3822,7 +3827,6 @@ https://accounts.lastpass.com
 https://accounts.opera.com
 https://accounts.welcomesoftware.com/
 https://acorns.com/
-https://addons.mozilla.org/en-US/firefox/addon/cyberghost-vpn-free-proxy/
 https://addons.mozilla.org/en-US/firefox/addon/expressvpn/
 https://addons.mozilla.org/en-US/firefox/addon/pinterest/
 https://addons.mozilla.org/en-US/firefox/addon/private-internet-access-ext/
@@ -3962,6 +3966,7 @@ https://app.intercom.io/
 https://app.latitudepayapps.com/
 https://app.opsgenie.com
 https://app.optimizely.com/
+https://app.reclaim.ai
 https://app.ring.com/*
 https://app.sandbox.agora.incubateur.net
 https://app.segment.com/
@@ -4054,11 +4059,12 @@ https://apps.apple.com/us/app/coindesk-crypto-bitcoin-news/id6502816903
 https://apps.apple.com/us/app/compass-real-estate-homes/id692766504
 https://apps.apple.com/us/app/confluence-cloud/id1006971684
 https://apps.apple.com/us/app/confluence-server/id1288365159
+https://apps.apple.com/us/app/dropbox-emm/id1080074001
+https://apps.apple.com/us/app/dropbox-secure-cloud-storage/id327630330
 https://apps.apple.com/us/app/ecwid-ecommerce/id626731456
 https://apps.apple.com/us/app/electroneum/id1270774992
 https://apps.apple.com/us/app/expressvpn-fast-secure-vpn/id886492891?mt=8
 https://apps.apple.com/us/app/hubspot/id1107711722
-https://apps.apple.com/us/app/id583009522
 https://apps.apple.com/us/app/indeed-connect-for-employers/id6443822731
 https://apps.apple.com/us/app/indeed-job-search/id309735670
 https://apps.apple.com/us/app/jira-cloud-by-atlassian/id1006972087
@@ -4074,6 +4080,7 @@ https://apps.apple.com/us/app/northwestern-mutual/id1132579006
 https://apps.apple.com/us/app/okta-verify/id490179405
 https://apps.apple.com/us/app/onduo/id1138490045
 https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
+https://apps.apple.com/us/app/paper-by-dropbox/id1126623662
 https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
@@ -4221,7 +4228,6 @@ https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeo
 https://chrome.google.com/webstore/detail/ibotta-browser-extension/mfaedmjlefifhnhpgipjjiiekchaimpk?hl=en-US
 https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en
 https://chrome.google.com/webstore/detail/private-internet-access/jplnlifepflhkbkgonidnobkakhmpnmh
-https://chrome.google.com/webstore/detail/stay-secure-with-cybergho/ffbkglfijbcbgblgflchnbphjdllaogb
 https://chrome.google.com/webstore/detail/xverse-wallet/idnnbdplmphpflfnlkomgpfbpcgelopg
 https://chromewebstore.google.com/detail/expressvpn-keys-password/blgcbajigpdfohpgcmbbfnphcgifjopc
 https://chromewebstore.google.com/detail/expressvpn-vpn-proxy-for/fgddmllnllkalaagkghckoinaemmogpe?pli=1
@@ -4278,7 +4284,6 @@ https://csp-prod.codebig2.net
 https://customer-api.datadome.co
 https://customerportal.winconnect.com.au/login
 https://customers.us1.fga.dev/
-https://cyberghost.com
 https://d1.utv.usaa.com
 https://d2.utv.usaa.com
 https://daily.blablacar.fr
@@ -4349,6 +4354,8 @@ https://download.krisp.ai/mac
 https://download.krisp.ai/win
 https://download.opera.com
 https://downloads.arlo.com
+https://dropbox.com/dash/download
+https://dropboxpartners.com
 https://dxc.episerver.net/ 
 https://e.heytap.com/
 https://e.oppomobile.com
@@ -5396,6 +5403,9 @@ https://play.google.com/store/apps/details?id=com.coindesk.mobile
 https://play.google.com/store/apps/details?id=com.comuto&hl=en
 https://play.google.com/store/apps/details?id=com.dailymotion.dailymotion&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.deezer.zen
+https://play.google.com/store/apps/details?id=com.dropbox.android&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.dropbox.app.hellosign&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.dropbox.paper&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.ecwid.android&pli=1
 https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr
@@ -5468,7 +5478,6 @@ https://play.google.com/store/apps/details?id=com.worldcoin
 https://play.google.com/store/apps/details?id=com.xfinity.digitalhome&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.yopeso.lieferando&hl=en_US
 https://play.google.com/store/apps/details?id=de.cellular.ottohybrid&hl=de
-https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost
 https://play.google.com/store/apps/details?id=deezer.android.app
 https://play.google.com/store/apps/details?id=edu.monash.monashmobile
 https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta
@@ -5526,6 +5535,7 @@ https://radio.api.soundtrackyourbrand.com/
 https://rc.fstr.rocks
 https://rec.net/
 https://rec.net/download
+https://reclaim.ai
 https://recroom.com/studio
 https://redash-staging.getmoneytree.com/
 https://regatta.aiven.io/
@@ -5874,11 +5884,7 @@ https://www.creditkarma.com/reviews/
 https://www.creditkarma.com/savings
 https://www.cultbeauty.co.uk/
 https://www.cyber.gouv.qc.ca/
-https://www.cyberghostvpn.com/
-https://www.cyberghostvpn.com/en_US/apps/linux-vpn
-https://www.cyberghostvpn.com/en_US/apps/macos-vpn
-https://www.cyberghostvpn.com/en_US/apps/windows-vpn
-https://www.cyberghostvpn.com/vpn-server
+https://www.dash.ai/
 https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&target=launcher_macosx
 https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
 https://www.demarches-simplifiees.fr
@@ -5892,6 +5898,9 @@ https://www.drogas.lt/blog
 https://www.drogas.lv/blog/
 https://www.drogas.lv/lv/blog
 https://www.drogas.lv/ru/blog
+https://www.dropbox.com/capture
+https://www.dropbox.com/desktop
+https://www.dropbox.com/paper
 https://www.epam.com/
 https://www.espaskincare.com/
 https://www.etsy.com
