@@ -1402,7 +1402,7 @@ Any public cloud resource or infrastructure operated and managed by REI.
 Any publicly accessible Tripadvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
 Any related DPG media domain
 Any related Torfs domain
-Any resource created or accessed with the Outscale Cloud, on all regions
+Any resource created or accessed with the Outscale Cloud on eu-west-2 region -  created by the Hunter
 Any subdomain application issue
 Any subdomain infrastructure issue
 Anything Owned by Northwestern Mutual on the Public Internet Not Listed as Out of Scope
