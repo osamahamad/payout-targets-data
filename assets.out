@@ -184,7 +184,6 @@
 *.capitaloneshopping.com
 *.captcha-delivery.com
 *.carrentals.com
-*.cashstaging.app
 *.cb.dev
 *.cbhq.net
 *.cceng.8x8.com
@@ -419,6 +418,7 @@
 *.hyperpure.com
 *.hyperwallet.com
 *.hypr.com
+*.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
 *.imperva.com
@@ -542,6 +542,7 @@
 *.megatix.be  
 *.melonapp.com
 *.memorable.io
+*.meraki.com
 *.mercadolibre.cl
 *.mercadolibre.com
 *.mercadolibre.com.ar
@@ -617,6 +618,7 @@
 *.neat.wtf
 *.neatcommerce.com
 *.neattest.com
+*.network-auth.com
 *.new.livestream.com
 *.newegg.ca
 *.newegg.com
@@ -1516,6 +1518,14 @@ Chime IOS App (Beta)
 China Network
 Chrome Extension
 Circle Cameras
+Cisco Meraki Dashboard Mobile Application (iOS and Android)
+Cisco Meraki MR Access Points
+Cisco Meraki MS Switches
+Cisco Meraki MV Security Cameras
+Cisco Meraki MX Security Appliances
+Cisco Meraki Systems Manager
+Cisco Meraki Virtual Security Appliances
+Cisco Meraki Z Series (Z1,Z3(C))
 Citrix End Point Analysis (EPA) client for Linux
 Citrix End Point Analysis (EPA) client for Windows
 Citrix Secure Access client for Android
@@ -2671,6 +2681,7 @@ apps-accpt.portofantwerp.com
 apps-accpt.portofantwerpbruges.com
 apps.apple.com/fr/app/mon-espace-sant%C3%A9/id1589255019 (iOS)
 apps.apple.com/us/app/crowdstrike-falcon/id1458815656
+apps.meraki.io
 apps.nextcloud.com
 apps.ort-one-pingone.com
 apps.portofantwerp.com
@@ -4206,7 +4217,6 @@ https://carecredit.com.au
 https://career.oppo.com/
 https://careers.etsy.com
 https://careers.takeaway.com
-https://cash.app
 https://cashback.opera.com/
 https://casino.bwin.com
 https://casino.partycasino.com
@@ -4785,7 +4795,6 @@ https://itunes.apple.com/gb/app/uconnect-live/id881830261?mt=8
 https://itunes.apple.com/gb/app/unibet-casino-slots-games/id905382680
 https://itunes.apple.com/gb/app/unibet-live-sports-betting/id463335337
 https://itunes.apple.com/pl/app/panda-uconnect/id1117321678?mt=8
-https://itunes.apple.com/us/app/cash-app/id711923939?mt=8
 https://itunes.apple.com/us/app/irobot-home/id1012014442?mt=8
 https://itunes.apple.com/us/app/lieferando-de/id419724490?l=es&mt=8
 https://itunes.apple.com/us/app/quizlet-flashcards/id546473125
@@ -5223,6 +5232,7 @@ https://mcssl.com
 https://mediaflows.cloudinary.com/
 https://menulog.co.nz
 https://menulog.com.au
+https://meraki.cisco.com
 https://metamask-sdk-socket.metafi.codefi.network/
 https://metamask.github.io/phishing-warning/<vX.Y.Z>
 https://metrobyt-mobile.com
@@ -5459,7 +5469,6 @@ https://play.google.com/store/apps/details?id=com.sixgroup.debixplus
 https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1
 https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.squareup.cash
 https://play.google.com/store/apps/details?id=com.swapcard.apps.android&hl=fr
 https://play.google.com/store/apps/details?id=com.syftapp.android
 https://play.google.com/store/apps/details?id=com.tcx.sipphone14
