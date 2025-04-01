@@ -3710,6 +3710,9 @@ http://analytics.prosus.com
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
 http://api.lightspark.com
+http://api.louisvuitton.com/eco-as/*
+http://api.louisvuitton.com/eco-eu/*
+http://api.louisvuitton.com/eco-us/*
 http://app.lightspark.com
 http://app.scaleft.com/
 http://apps.connect.monash.edu/
@@ -3819,6 +3822,7 @@ https://1shoppingcart.com
 https://28degreescard.com.au
 https://8x8.vc/xmpp-websocket
 https://Fr.mydirtyhobby.com
+https://[it | fr | us | sg | …].louisvuitton.com
 https://a.simplemdm.com/
 https://a370a9658141.gateway.skyflowapis-preview.com
 https://a370a9658141.vault.skyflowapis-preview.com
