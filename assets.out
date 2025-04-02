@@ -504,6 +504,7 @@
 *.line.naver.jp
 *.linecorp.com
 *.link.co
+*.linktree-extensions.com
 *.livestream.com
 *.logi.com
 *.logicool.co.jp
@@ -684,6 +685,7 @@
 *.petbook-magazine.com/
 *.petbook.de
 *.pinterest.com Web Apps
+*.plannthat.com
 *.platformservices.io
 *.playstation.net
 *.playticorp.com
@@ -3846,6 +3848,7 @@ https://airflow-prod.coda.io/*
 https://airflow-prod.ops.coda.io/*
 https://aiven.io/
 https://ajax.staging.luno.com/
+https://album.link
 https://alumni-friends.monash.edu
 https://ampcharge.ampol.com.au/
 https://ampol.com.au/
@@ -3864,9 +3867,6 @@ https://api-prod.thatconceptstore.com/
 https://api-test.nicehash.com
 https://api-ui.toloka.ai
 https://api-user.e2ro.com/*
-https://api-{app-id}.calls.sendbird.com
-https://api-{app-id}.notifications.sendbird.com
-https://api-{app-id}.sendbird.com
 https://api.20min.ch/
 https://api.aiven.io/login
 https://api.anytask.com/
@@ -3994,6 +3994,7 @@ https://apps.apple.com/au/app/caltex-australia/id1314768594
 https://apps.apple.com/au/app/certsy/id1617796159
 https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
+https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://apps.apple.com/be/app/zen-by-deezer-m%C3%A9ditation/id1597326355
 https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
@@ -4104,6 +4105,7 @@ https://apps.microsoft.com/detail/3cx/9NW77489NGJ0
 https://apps.yeswehack.com
 https://arlo-device.messaging.netgear.com
 https://armourhouse.underarmour.com
+https://artist.link
 https://asana.com
 https://asana.com/apps?category=made-by-asana
 https://asana.com/download
@@ -4287,7 +4289,6 @@ https://daily.blablacar.fr
 https://dashboard.fga.dev/
 https://dashboard.pantheon.io
 https://dashboard.rapyd.net/
-https://dashboard.sendbird.com/
 https://data.coda.io/*
 https://data.limeinternal.com
 https://data.prosus.com/
@@ -4303,7 +4304,6 @@ https://dealflowapi.prosus.com
 https://demo.priceless.com/
 https://design.glassdoor.com/*
 https://design.staples.com
-https://desk-api-{region}.sendbird.com
 https://desktop.water-link.be/
 https://detect.pdq.tools/ 
 https://dev.tutoring.classdojo.com
@@ -4397,7 +4397,6 @@ https://gaadmin.vfsglobal.com/GAR1Ph1ApptAdmin/
 https://gaadmin.vfsglobal.com/Global-Admin/
 https://gaadmin.vfsglobal.com/GlobalAdmin/
 https://gap.citizenportal-test.bugbounty.akinox.dev/
-https://gate.sendbird.com
 https://gatewaydsapdev2.marriott.com/
 https://gatewaydsaptst1.marriott.com/
 https://gatewaydsaptst2.marriott.com/
@@ -4834,6 +4833,9 @@ https://library-staging.pdq.tools/
 https://library.elementor.com/
 https://link.uma.me
 https://link.x.immutable.com/
+https://linktr.ee
+https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
+https://linktree.com
 https://liveassist.usaa.com/
 https://liveassist11.usaa.com/
 https://liveassist12.usaa.com/
@@ -5270,6 +5272,7 @@ https://myaccount-staging.getmoneytree.com
 https://myapi.arlo.com
 https://myapp.monash.edu/
 https://mydesktop.usaa.com
+https://mylink.page
 https://myplutus.pinelabs.my/
 https://myvpn.usaa.com
 https://namestudio.com
@@ -5295,6 +5298,8 @@ https://ob-sandbox.gocardless.io
 https://octopus.com
 https://octopus.com/downloads
 https://oda.com
+https://odesli.co
+https://odesli.com
 https://offer.tidal.com/download
 https://onboard.neogov.com
 https://one.newrelic.com
@@ -5491,11 +5496,14 @@ https://play.google.com/store/apps/details?id=qa.ooredoo.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=se.atg.live&hl=en&gl=SE
 https://play.google.com/store/search?q=Schweizer+Finanzmuseum&c=apps
 https://play.google.com/store/search?q=mattermost&c=apps
+https://play.google.com/store/search?q=plann&c=apps
 https://play.immutable.com
+https://playlist.link
 https://plmcixt.pinelabs.com/
 https://plugins.matomo.org/developer/innocraft
 https://plugins.matomo.org/developer/matomo-org
 https://poc-op-ywh.it.authentification.si.gouv.qc.ca/
+https://pods.link
 https://pornhub.mainhub.com
 https://portal-staging.pdq.tools/ 
 https://portal.3cx.com
@@ -5569,8 +5577,6 @@ https://seekcdn.com
 https://segment.com/docs/sources/
 https://selector.viator.com
 https://selfcare.ooredoo.qa
-https://sendbird.com
-https://sendbird.com/docs
 https://sendgrid.com
 https://service.platform.tripadvisor.com
 https://service.post.ch/ekp-web/
@@ -5594,6 +5600,8 @@ https://snc.underarmour.com/
 https://sncf-connect.com
 https://snctest-c.underarmour.com/
 https://snctest-s.underarmour.com/
+https://song.link
+https://songlink.io
 https://sos-ch-gva-2.exo.io/
 https://soundcloud.com
 https://soundcloud.org
@@ -5703,6 +5711,7 @@ https://tidal.com/
 https://tms.onecloud.harman.com
 https://toloka.ai/
 https://toom.de
+https://tr.ee
 https://tracker.bugcrowd.com
 https://tracker.naspers.com/
 https://transcodes-cdn.vistarmedia.com
@@ -5810,8 +5819,6 @@ https://wise.com
 https://woox.io/
 https://world.planethoster.net
 https://wowjobs.ca
-https://ws-{app-id}.calls.sendbird.com
-https://ws-{app-id}.sendbird.com
 https://ws.multiplayer.classdojo.com/
 https://ws.usaa.com
 https://wslatam.ifood.com.br
