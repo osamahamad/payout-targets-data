@@ -939,6 +939,7 @@
 *.vennhypotheken.nl
 *.verily.com/
 *.verisign-grs.com (DNS service; DNS related)
+*.vfsai.com
 *.vfsevisa.com
 *.vfsglobal.(com|co.uk|ca)
 *.vfsglobal.by
@@ -2901,7 +2902,6 @@ circolocorecords.com/
 clario.co
 classroom.github.com
 client-api.arkoselabs.com
-client-api.vfsai.com
 clientcert.gamma.redoxstage.com
 cloud.coinbase.com
 cloud.connect.justeattakeaway.com
@@ -3618,6 +3618,7 @@ github.com/binary-com
 github.com/deriv-com
 github.com/kubernetes-csi
 github.com/kubernetes-retired
+github.com/oasisprotocol/explorer
 github.com/uphold/*
 gitlab.com
 gleague.nba.com
@@ -3729,6 +3730,7 @@ http://datapod-1-druid-query.production.forescoutcloud.net/v3/matrixoverview
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/overlappingzones
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
 http://digitalplayground.com/
+http://emerald.oasis.dev
 http://engine.heytap.com
 http://es.mydirtyhobby.com/
 http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
@@ -3737,6 +3739,7 @@ http://flightdeck.staples.com/#/login
 http://github.com/circlefin/noble-cctp
 http://github.com/cloudflare
 http://greenchannel.payoneer.com.cn/gcportal
+http://grpc.oasis.dev
 http://h1-your-domain.zendesk.com/qa/
 http://h1-your-domain.zendesk.com/sell
 http://h1-your-domain.zendesk.com/wfm/
@@ -3767,7 +3770,9 @@ http://play.google.com/store/apps/details?id=fr.doctolib.www
 http://poe.com
 http://portfolio.metamask.io
 http://recruit.linepluscorp.com
+http://rosetta.oasis.dev/api/mainnet
 http://sandbox-api.fireblocks.io
+http://sapphire.oasis.io
 http://sb-console-api.fireblocks.io
 http://sb-mobile-api.fireblocks.io
 http://secure-iphone-xml.booking.com/json/
@@ -3867,6 +3872,9 @@ https://api-prod.thatconceptstore.com/
 https://api-test.nicehash.com
 https://api-ui.toloka.ai
 https://api-user.e2ro.com/*
+https://api-{app-id}.calls.sendbird.com
+https://api-{app-id}.notifications.sendbird.com
+https://api-{app-id}.sendbird.com
 https://api.20min.ch/
 https://api.aiven.io/login
 https://api.anytask.com/
@@ -4289,6 +4297,7 @@ https://daily.blablacar.fr
 https://dashboard.fga.dev/
 https://dashboard.pantheon.io
 https://dashboard.rapyd.net/
+https://dashboard.sendbird.com/
 https://data.coda.io/*
 https://data.limeinternal.com
 https://data.prosus.com/
@@ -4304,6 +4313,7 @@ https://dealflowapi.prosus.com
 https://demo.priceless.com/
 https://design.glassdoor.com/*
 https://design.staples.com
+https://desk-api-{region}.sendbird.com
 https://desktop.water-link.be/
 https://detect.pdq.tools/ 
 https://dev.tutoring.classdojo.com
@@ -4397,6 +4407,7 @@ https://gaadmin.vfsglobal.com/GAR1Ph1ApptAdmin/
 https://gaadmin.vfsglobal.com/Global-Admin/
 https://gaadmin.vfsglobal.com/GlobalAdmin/
 https://gap.citizenportal-test.bugbounty.akinox.dev/
+https://gate.sendbird.com
 https://gatewaydsapdev2.marriott.com/
 https://gatewaydsaptst1.marriott.com/
 https://gatewaydsaptst2.marriott.com/
@@ -4654,6 +4665,13 @@ https://github.com/nextcloud/collectives
 https://github.com/nextcloud/files_confidential
 https://github.com/nextcloud/tables
 https://github.com/nodejs/node
+https://github.com/oasisprotocol/curve25519-voi
+https://github.com/oasisprotocol/deoxysii
+https://github.com/oasisprotocol/deoxysii-rust
+https://github.com/oasisprotocol/oasis-core
+https://github.com/oasisprotocol/oasis-sdk
+https://github.com/oasisprotocol/oasis-wallet-ext
+https://github.com/oasisprotocol/oasis-wallet-web
 https://github.com/openssl/openssl
 https://github.com/owncloud/activity
 https://github.com/owncloud/android
@@ -5577,6 +5595,8 @@ https://seekcdn.com
 https://segment.com/docs/sources/
 https://selector.viator.com
 https://selfcare.ooredoo.qa
+https://sendbird.com
+https://sendbird.com/docs
 https://sendgrid.com
 https://service.platform.tripadvisor.com
 https://service.post.ch/ekp-web/
@@ -5819,6 +5839,8 @@ https://wise.com
 https://woox.io/
 https://world.planethoster.net
 https://wowjobs.ca
+https://ws-{app-id}.calls.sendbird.com
+https://ws-{app-id}.sendbird.com
 https://ws.multiplayer.classdojo.com/
 https://ws.usaa.com
 https://wslatam.ifood.com.br
@@ -7016,6 +7038,7 @@ stats.nextcloud.com
 stats.wnba.com
 status.delen.be 
 status.larksuite.com
+status.oasis.io
 status.uphold.com
 steamcommunity.com
 stock.adobe.com
@@ -7230,6 +7253,7 @@ w1.uzleuven.be/random
 waf.cumulusfire.net
 wallet-sandbox.uphold.com
 wallet.etoro.com
+wallet.oasis.io
 wallet.venly.io
 wallets.api.playstation.com
 watchdocs.indriverapp.com
