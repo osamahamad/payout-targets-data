@@ -115,8 +115,6 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.dev.*.lfscnp.com
 *.sandbox.*.lfscnp.com
 *.-np.*.lfscnp.com
-*.linktree-extensions.com
-*.plannthat.com
 bugcrowd-*your-own-instance*.cloud.mattermost.com/
 *.nr-data.net
 *.nr-ops.net
@@ -179,6 +177,10 @@ prod-*.nu.com.co
 *.s-cloud.net
 *.services.repostnetwork.com
 api-*.soundcloud.com
+*.soundcloud.org
+*.s-cloud.net
+*.services.repostnetwork.com
+api-*.soundcloud.com
 *.square.com
 *.squareup.com
 *.statuspage.io
@@ -202,6 +204,7 @@ api-*.soundcloud.com
 *.bokuntest.com
  *.sip.*.twilio.com
  Twilio CDNs (static*.twilio.com)
+*.api.ua.com/
 *.api.ua.com/
 *.gtld-servers.net (DNS service; DNS related)
 *.verisign-grs.com (DNS service; DNS related)
