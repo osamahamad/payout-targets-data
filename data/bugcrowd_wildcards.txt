@@ -115,8 +115,6 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.dev.*.lfscnp.com
 *.sandbox.*.lfscnp.com
 *.-np.*.lfscnp.com
-*.linktree-extensions.com
-*.plannthat.com
 bugcrowd-*your-own-instance*.cloud.mattermost.com/
 *.nr-data.net
 *.nr-ops.net
@@ -175,6 +173,10 @@ prod-*.nu.com.co
 *.mcssl.com
 *.skyscanner.net
 3rd party services hosted at *.sophos.com
+*.soundcloud.org
+*.s-cloud.net
+*.services.repostnetwork.com
+api-*.soundcloud.com
 *.soundcloud.org
 *.s-cloud.net
 *.services.repostnetwork.com
