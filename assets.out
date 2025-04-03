@@ -104,7 +104,6 @@
 *.api.dailymotion.com
 *.api.originenergy.com.au
 *.api.playstation.com
-*.api.ua.com/
 *.app.asana.com
 *.app.personio-dev.com
 *.app.personio.com
@@ -748,7 +747,6 @@
 *.romwe.com
 *.router.hereapi.com
 *.runnr.in
-*.s-cloud.net
 *.saltlabs.com
 *.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
@@ -785,7 +783,6 @@
 *.seriously.com
 *.services-prod.nsvcs.net
 *.services.netlify.com
-*.services.repostnetwork.com
 *.shein.com
 *.sheingsp.com
 *.shopify.com
@@ -822,7 +819,6 @@
 *.sol-data.com
 *.solarcity.com
 *.sonyentertainmentnetwork.com
-*.soundcloud.org
 *.souparea.com
 *.spiketrap.io
 *.spinaway.com
@@ -2420,7 +2416,6 @@ analytics.ninjakiwi.com
 analytics.pinelabs.com
 ap-s.cloud.com
 api*.netflix.com
-api-*.soundcloud.com
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
 api-eu.floqast.app
@@ -3708,7 +3703,6 @@ http://api.louisvuitton.com/eco-us/*
 http://app.lightspark.com
 http://app.scaleft.com/
 http://apps.connect.monash.edu/
-http://artists.soundcloud.com/
 http://auth.khealth.com/cedars/sign-up
 http://auth.khealth.com/khealth/sign-up
 http://auth.khealth.com/mayo-la-crosse/sign-up
@@ -3799,7 +3793,6 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 http://www.register.com
 http://www.rei.com/learn/expert-advice
 http://www.shopmarriott.com
-http://www.underarmour.com.sg
 http://www.whynot.com/
 https//monidentifiant.sncf
 https://*-prod.arlo.com
@@ -3929,7 +3922,6 @@ https://api.rx.originenergy.com.au/v1/lpg/graphql
 https://api.sandbox.agora.incubateur.net  (source code available on GitHub, see description)
 https://api.segment.io/
 https://api.sendgrid.com
-https://api.shop.ua.com/graphql
 https://api.simnext.bullish-test.com
 https://api.staging.luno.com/
 https://api.t-mobile.com
@@ -4097,7 +4089,6 @@ https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
 https://apps.apple.com/us/app/quip-docs-chat-sheets/id647922896
 https://apps.apple.com/us/app/share-rewards/id1465450657
-https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
 https://apps.apple.com/us/app/syncup-drive/id1576574297
 https://apps.apple.com/us/app/syncup-kids/id1503394062
@@ -4105,7 +4096,6 @@ https://apps.apple.com/us/app/syncup-tracker/id1526380335
 https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
 https://apps.apple.com/us/app/t-mobile/id561625752
 https://apps.apple.com/us/app/tesla/id582007913
-https://apps.apple.com/us/app/under-armour/id1092704571
 https://apps.apple.com/us/app/usaa-mobile/id312325565
 https://apps.apple.com/us/app/verily-me/id6448808133
 https://apps.apple.com/us/app/viator-tours-activities/id434832826
@@ -4118,7 +4108,6 @@ https://apps.facebook.com/vegas_downtown_slots
 https://apps.microsoft.com/detail/3cx/9NW77489NGJ0
 https://apps.yeswehack.com
 https://arlo-device.messaging.netgear.com
-https://armourhouse.underarmour.com
 https://artist.link
 https://asana.com
 https://asana.com/apps?category=made-by-asana
@@ -4265,7 +4254,6 @@ https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://connect.com
 https://connect.monash.edu
 https://connect.paymaya.com/
-https://connect.soundcloud.com
 https://consensus2024.sandbox.events.coindesk.com/
 https://consensys.io/
 https://console-stage.neon.build/
@@ -4275,7 +4263,6 @@ https://console.delltechnologies.com/nav/billing
 https://console.delltechnologies.com/nav/invoice
 https://console.neon.tech/
 https://console.neon.tech/api/v2/
-https://consumer-sustainability.underarmour.com/en
 https://consumer.finicityreports.com
 https://content-server.ibotta.com/graphql
 https://content.agora.beta.gouv.fr
@@ -5473,7 +5460,6 @@ https://play.google.com/store/apps/details?id=com.scu.bsafe
 https://play.google.com/store/apps/details?id=com.siilo.android&hl=en
 https://play.google.com/store/apps/details?id=com.sixgroup.debixplus
 https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1
-https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.squareup.cash
 https://play.google.com/store/apps/details?id=com.swapcard.apps.android&hl=fr
@@ -5489,7 +5475,6 @@ https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
 https://play.google.com/store/apps/details?id=com.tmobile.syncuptag
 https://play.google.com/store/apps/details?id=com.tmobile.tuesdays&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.ua.shop&hl=en
 https://play.google.com/store/apps/details?id=com.usaa.mobile.android.usaa&hl=en
 https://play.google.com/store/apps/details?id=com.verily.me
 https://play.google.com/store/apps/details?id=com.viator.mobile.android&hl=en_US&gl=US
@@ -5621,8 +5606,6 @@ https://snctest-s.underarmour.com/
 https://song.link
 https://songlink.io
 https://sos-ch-gva-2.exo.io/
-https://soundcloud.com
-https://soundcloud.org
 https://spacelift.dev/
 https://speeddials.opera.com
 https://spgw-pay.finzfin.com
@@ -5775,8 +5758,6 @@ https://ui.com/training/partners/
 https://uk.web.com
 https://ultramobile.com
 https://umiloans.com.au
-https://underarmour.co.kr
-https://underarmournext.com/
 https://unified.neogov.com
 https://unihub.monash.edu/
 https://unity3d.com/get-unity/download
@@ -6102,10 +6083,6 @@ https://www.twilio.com/console
 https://www.twilio.com/docs/authy/api
 https://www.twilio.com/docs/libraries
 https://www.twilio.com/docs/verify/api 
-https://www.underarmour.cn
-https://www.underarmour.co.uk
-https://www.underarmour.com
-https://www.underarmournext.co.uk/
 https://www.unscreen.com
 https://www.upwork.com
 https://www.usaa.com
