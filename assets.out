@@ -677,6 +677,7 @@
 *.payoneer.com
 *.paypal.com
 *.paypalcorp.com
+*.payzippy.com
 *.pci.shopifyinc.com
 *.personio-internal.de
 *.personio.de
@@ -3905,6 +3906,7 @@ https://api.justeat-int.com
 https://api.lafourchette.com
 https://api.mafshoppingmalls.com/
 https://api.moneyboxapp.com/
+https://api.myntra.com
 https://api.neogov.com
 https://api.netgear.com
 https://api.onedoc.ch
@@ -5365,6 +5367,7 @@ https://paymayabiller-prod.paymaya.com/
 https://payment-connectors.vendhq.com/
 https://payment.lafourchette.com
 https://paymentoptimizerdashboard.pinepg.in/
+https://payments.myntra.com
 https://payoutapi.maya.ph/
 https://pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-revision/
 https://pbgq-pes.deontologie-policiere.gouv.qc.ca/reponses-questions/
@@ -5943,6 +5946,7 @@ https://www.expressvpn.com/vpn-server
 https://www.eyeko.com/
 https://www.finicity.com
 https://www.fishbowlapp.com/*
+https://www.flipkart.com
 https://www.foreignaffairs.com/
 https://www.galabingo.com
 https://www.galacasino.com
@@ -6015,6 +6019,7 @@ https://www.monash.edu
 https://www.monashprofessional.edu.au/
 https://www.mybag.com/
 https://www.mydirtyhobby.com/app/download
+https://www.myntra.com
 https://www.myvitamins.com/
 https://www.namejet.com/
 https://www.networksolutions.com
