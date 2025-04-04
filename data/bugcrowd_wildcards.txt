@@ -44,6 +44,7 @@ probiller.*.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.sandbox.directly.com/
+*.sandbox.directly.com/
 *.dropbox.com    
 *.hellosign.com
 *.helloworks.com
@@ -72,8 +73,6 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.hs-sites(-eu1)?.com
 *.hubspotpagebuilder.com
 *.hubspotpagebuilder.eu
-*.movilepay.com
-*.movilepay.com.br
 *.immutable.com
 *.imtbl.com
 *.testnet.immutable.com
