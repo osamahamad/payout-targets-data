@@ -589,6 +589,8 @@
 *.monzo.me
 *.moonpay.com
 *.moonpaycloud.com
+*.movilepay.com
+*.movilepay.com.br
 *.msgsvc.io
 *.muscache.com
 *.mwb-threatintel.com
@@ -3897,6 +3899,7 @@ https://api.datadome.co
 https://api.electroneum.com/
 https://api.fishbowlapp.com/*
 https://api.foxycart.com/
+https://api.fstr.rocks
 https://api.glassdoor.com/*
 https://api.hubspot.com/
 https://api.ibops.net
@@ -4011,6 +4014,7 @@ https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://apps.apple.com/be/app/zen-by-deezer-m%C3%A9ditation/id1597326355
+https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
 https://apps.apple.com/br/app/nubank-conta-e-cart%C3%A3o/id814456780
 https://apps.apple.com/ca/app/lime-ridegreen/id1199780189
 https://apps.apple.com/ca/app/lime-supply/id1620058457
@@ -4322,6 +4326,7 @@ https://desktop.water-link.be/
 https://detect.pdq.tools/ 
 https://dev.tutoring.classdojo.com
 https://devedge.t-mobile.com
+https://developer.ifood.com.br
 https://developer.mastercard.com
 https://developer.newrelic.com/
 https://developer.withings.com/dashboard/
@@ -4418,6 +4423,7 @@ https://gemcreditline.co.nz
 https://gemfinance.co.nz
 https://gemvisa.com.au
 https://geocode-beta.bykea.net
+https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
 https://git.libssh.org/
 https://github.com/0xPolygon/auto-claim-service
@@ -5222,6 +5228,7 @@ https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosti
 https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=server
 https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
 https://marketplace.auth0.com
+https://marketplace.ifood.com.br
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
 https://master.servicecentre.digitalservicing-np.lfscnp.com/
 https://mathem.se
@@ -5387,6 +5394,7 @@ https://play.google.com/store/apps/details?hl=en&id=co.bitx.android.wallet
 https://play.google.com/store/apps/details?id=au.com.ampol.flagship&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=au.com.ampol.teamapp
 https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US
+https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR
 https://play.google.com/store/apps/details?id=com.AgainstGravity.RecRoom
 https://play.google.com/store/apps/details?id=com.acn.uc&hl=en
 https://play.google.com/store/apps/details?id=com.acorns.android&hl=en_US&gl=US
@@ -5551,6 +5559,7 @@ https://pt-runner.app.ridewithvia.com
 https://public.je-apis.com
 https://public.thesecurityteam.rocks/resources/app/android/etnapp-5.2.2-staging.apk
 https://quantum-events.onecloud.harman.com
+https://rc.fstr.rocks
 https://rec.net/
 https://rec.net/download
 https://reclaim.ai
@@ -5602,6 +5611,7 @@ https://sfleet.cortexpowered.com
 https://sflower.cortexpowered.com
 https://shiny.ops.coda.io/*
 https://shop-acc.kinepolis.be/
+https://shop.ifood.com.br
 https://shop.monash.edu/
 https://shop.post.ch/shop
 https://shop.thuisbezorgd.nl
@@ -5671,6 +5681,7 @@ https://staging.coda.io/*
 https://staging.gearset.com/
 https://staging.luno.com/
 https://start.atlassian.com
+https://static-images.ifood.com.br
 https://static.demarches-simplifiees.fr
 https://static.mgm.mo
 https://static.usaa.com
@@ -5838,6 +5849,8 @@ https://ws-{app-id}.calls.sendbird.com
 https://ws-{app-id}.sendbird.com
 https://ws.multiplayer.classdojo.com/
 https://ws.usaa.com
+https://wslatam.ifood.com.br
+https://wsloja.ifood.com.br
 https://wsmbr.usaa.com/
 https://www.*mongodb.com/*
 https://www.20min.ch
@@ -5953,6 +5966,7 @@ https://www.hqhair.com/
 https://www.iciparisxl.be/blog/
 https://www.iciparisxl.lu/blog/
 https://www.iciparisxl.nl/blog/
+https://www.ifood.com.br
 https://www.illamasqua.com/
 https://www.intercom.com/
 https://www.just-eat.co.uk
