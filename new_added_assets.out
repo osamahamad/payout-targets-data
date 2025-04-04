@@ -1,14 +1,8 @@
-*.movilepay.com
-*.movilepay.com.br
-https://api.fstr.rocks
-https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
-https://developer.ifood.com.br
-https://gestordepedidos.ifood.com.br
-https://marketplace.ifood.com.br
-https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR
-https://rc.fstr.rocks
-https://shop.ifood.com.br
-https://static-images.ifood.com.br
-https://wslatam.ifood.com.br
-https://wsloja.ifood.com.br
-https://www.ifood.com.br
+*.openai.com
+*.openai.org
+OpenAI API Keys
+Third Party Targets
+https://api.openai.com
+https://chat.openai.com
+https://openai.com/
+https://platform.openai.com/playground

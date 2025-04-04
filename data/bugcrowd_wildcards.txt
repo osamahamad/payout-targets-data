@@ -74,8 +74,6 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.hubspotpagebuilder.eu
 *.movilepay.com
 *.movilepay.com.br
-*.movilepay.com
-*.movilepay.com.br
 *.immutable.com
 *.imtbl.com
 *.testnet.immutable.com
@@ -128,6 +126,9 @@ prod-*.nubank.com.br
 prod-*.nu.com.mx
 prod-*.nu.com.co
 *.octopus.com
+*.openai.org
+*.openai.org
+*.openai.com
 *.opera.software
 *.osp.opera.software
 *.opera.technology
