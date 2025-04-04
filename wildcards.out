@@ -566,6 +566,8 @@
 *.monzo.me
 *.moonpay.com
 *.moonpaycloud.com
+*.movilepay.com
+*.movilepay.com.br
 *.msgsvc.io
 *.muscache.com
 *.mwb-threatintel.com
@@ -619,8 +621,6 @@
 *.onduo.com/
 *.onegraph.com
 *.onevasco.com
-*.openai.com
-*.openai.org
 *.opera-mini.net
 *.opera.com
 *.opera.news
