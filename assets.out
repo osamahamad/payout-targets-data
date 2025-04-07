@@ -678,7 +678,6 @@
 *.payoneer.com
 *.paypal.com
 *.paypalcorp.com
-*.payzippy.com
 *.pci.shopifyinc.com
 *.personio-internal.de
 *.personio.de
@@ -5359,6 +5358,7 @@ https://partnerprogramm.otto.de
 https://partners.usaa.com
 https://partners.viator.com
 https://passport.immutable.com/
+https://pay.payzippy.com
 https://pay.unity.com
 https://paymayabiller-prod.paymaya.com/
 https://payment-connectors.vendhq.com/
@@ -5775,6 +5775,7 @@ https://twilio.com/blog
 https://uae.voxcinemas.com/
 https://ui.com/distributors/
 https://ui.com/training/partners/
+https://uiscoop.payzippy.com
 https://uk.web.com
 https://ultramobile.com
 https://umiloans.com.au
