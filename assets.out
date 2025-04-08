@@ -23,7 +23,6 @@
 * humo.be/registreren
 *-api-*.acronis.com
 *-asia-south1.truecaller.com
-*-bugcrowd.foxycart.com (read below for details)
 *-cvr-aws-*.sys.comcast.net
 *-eu.truecaller.com
 *-noneu.truecaller.com
@@ -3848,8 +3847,6 @@ https://adhoc-bugcrowd.cdn-code.org
 https://admin-roundups.moneyboxapp.org/
 https://admin.atlassian.com/
 https://admin.atlassian.com/atlassian-guard
-https://admin.foxy.io/
-https://admin.foxycart.com
 https://admin.lastpass.com
 https://admin.moneyboxapp.org/
 https://admin.ring.com/*
@@ -3900,7 +3897,6 @@ https://api.cloudinary.com
 https://api.datadome.co
 https://api.electroneum.com/
 https://api.fishbowlapp.com/*
-https://api.foxycart.com/
 https://api.fstr.rocks
 https://api.glassdoor.com/*
 https://api.hubspot.com/
@@ -4092,6 +4088,7 @@ https://apps.apple.com/us/app/lastpass-authenticator/id1079110004
 https://apps.apple.com/us/app/lastpass-password-manager/id324613447
 https://apps.apple.com/us/app/mattermost/id1257222717
 https://apps.apple.com/us/app/monash-study/id1462126829
+https://apps.apple.com/us/app/moovit-all-transit-options/id498477945
 https://apps.apple.com/us/app/northwestern-mutual/id1132579006
 https://apps.apple.com/us/app/okta-verify/id490179405
 https://apps.apple.com/us/app/onduo/id1138490045
@@ -4139,7 +4136,6 @@ https://auth-ywh.it.authentification.si.gouv.qc.ca/
 https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
-https://auth.foxy.io/
 https://auth.immutable.com
 https://auth.lastpass.com
 https://auth.opera.com
@@ -4410,7 +4406,6 @@ https://form.asana.com
 https://formative.eassessment.monash.edu/
 https://forms.apps.monash.edu/
 https://forum.newrelic.com
-https://foxycart-demo.foxycart.com/cart
 https://fw.ring.com/*
 https://gaadmin.vfsglobal.com/AustraliaApptAdmin/
 https://gaadmin.vfsglobal.com/DHAAppointmentAdmin
@@ -5499,6 +5494,7 @@ https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
 https://play.google.com/store/apps/details?id=com.tmobile.syncuptag
 https://play.google.com/store/apps/details?id=com.tmobile.tuesdays&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.tranzmate&hl=en_US
 https://play.google.com/store/apps/details?id=com.ua.shop&hl=en
 https://play.google.com/store/apps/details?id=com.usaa.mobile.android.usaa&hl=en
 https://play.google.com/store/apps/details?id=com.verily.me
@@ -5708,6 +5704,7 @@ https://supplier-connect.otto.de
 https://supplier.underarmour.com/
 https://supplier.viator.com/
 https://support.lastpass.com
+https://support.moovitapp.com/hc/en-us/articles/11389054527122-WayFinder-Augmented-Reality-helper-to-find-your-stop-iPhone-only
 https://support.newrelic.com/
 https://support.okta.com
 https://support.oppo.com/cn/
@@ -6538,7 +6535,6 @@ mynexuz.be/myUZ/
 mynexuzhealth/id1459856321
 mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
-myoppo.com
 myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
 nadex.com
@@ -7754,6 +7750,7 @@ zooplus.net
 zopim.com
 ███████████
 ████████████
+█████████████
 ██████████████
 ███████████████
 ████████████████
@@ -7781,6 +7778,7 @@ zopim.com
 ███████████████████████████████████████
 ██████████████████████████████████████████
 ██████████████████████████████████████████████
+████████████████████████████████████████████████
 ██████████████████████████████████████████████████
 ██████████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████████████████████████████████████████████
