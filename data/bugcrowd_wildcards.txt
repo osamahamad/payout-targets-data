@@ -117,6 +117,7 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.-np.*.lfscnp.com
 *.linktree-extensions.com
 *.plannthat.com
+*.lululemon.com
 bugcrowd-*your-own-instance*.cloud.mattermost.com/
 *.nr-data.net
 *.nr-ops.net
@@ -144,11 +145,6 @@ prod-*.nu.com.co
 *.dailyadvent.com
 *.opsgenie.com
 *.optus.com.au
-*.origindigital-pac.com.au
-*.odcdn.com.au
-*.support.originenergy.com.au
-*.api.originenergy.com.au
-*.download.originenergy.com.au
 *.pinterest.com Web Apps
 *.privateinternetaccess.com
 *.quizlet.com
