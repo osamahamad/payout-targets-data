@@ -101,6 +101,7 @@
 *.apex-football.com
 *.api.cx.metamask.io
 *.api.dailymotion.com
+*.api.originenergy.com.au
 *.api.playstation.com
 *.api.ua.com/
 *.app.asana.com
@@ -266,6 +267,7 @@
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
 *.dojo.me
+*.download.originenergy.com.au
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dropbox.com    
@@ -634,6 +636,7 @@
 *.ociadmin.cloud.8x8.com
 *.octopus.com
 *.oda.com
+*.odcdn.com.au
 *.oklink.com
 *.okto.tech
 *.okx.com
@@ -656,6 +659,7 @@
 *.ops.netlify.com
 *.opsgenie.com
 *.optimuscards.com
+*.origindigital-pac.com.au
 *.oslo.io
 *.osp.opera.software
 *.otherside.xyz
@@ -851,6 +855,7 @@
 *.superbet.ro
 *.superbet.rs
 *.support.jbl.com
+*.support.originenergy.com.au
 *.swiftype.com
 *.swisspass.ch
 *.sys.comcast.net
@@ -3878,7 +3883,6 @@ https://api-user.e2ro.com/*
 https://api-{app-id}.calls.sendbird.com
 https://api-{app-id}.notifications.sendbird.com
 https://api-{app-id}.sendbird.com
-https://api.20min.ch/
 https://api.aiven.io/login
 https://api.anytask.com/
 https://api.anytask.thesecurityteam.rocks
@@ -3920,6 +3924,9 @@ https://api.pornhub.com/
 https://api.production.cde.tamg.cloud
 https://api.rec.net
 https://api.ring.com/*
+https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
+https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql
+https://api.rx.originenergy.com.au/v1/lpg/graphql
 https://api.sandbox.agora.incubateur.net  (source code available on GitHub, see description)
 https://api.segment.io/
 https://api.sendgrid.com
@@ -4124,7 +4131,6 @@ https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/robots/{robot_id
 https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/users/{user_id}/entitlements
 https://assets-cdn.vistarmedia.com
 https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
-https://audio.20min.ch/
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
 https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
@@ -4276,7 +4282,6 @@ https://content-server.ibotta.com/graphql
 https://content.agora.beta.gouv.fr
 https://content.usaa.com
 https://contentcredentials.org/
-https://coral.20min.ch/
 https://create.gx.games
 https://creatives.vistarmedia.com
 https://credit.pinelabs.com
@@ -4287,6 +4292,7 @@ https://crypto.com/price
 https://cryptowallet.opera-api.com
 https://csp-prod.codebig2.net
 https://customer-api.datadome.co
+https://customerportal.winconnect.com.au/login
 https://customers.us1.fga.dev/
 https://cyberghost.com
 https://d1.utv.usaa.com
@@ -4300,6 +4306,7 @@ https://data.coda.io/*
 https://data.limeinternal.com
 https://data.prosus.com/
 https://datadome.co
+https://dataportal.originenergy.com.au
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
 https://dcfgatewaytst1.marriott.com/
 https://dealer.prod.ps.axelspringer.de/api/v1/partners/{partnerId}/activation
@@ -5341,7 +5348,6 @@ https://paasportal.episerver.net/
 https://paasportal.episerver.net/api/v1.0/
 https://pab.donneesquebec.ca/
 https://packages.cortexpowered.com
-https://partner-feeds.20min.ch
 https://partner.apps.monash.edu
 https://partnerapi.tapayments.com
 https://partnerapi1.tapayments.com
@@ -5576,7 +5582,6 @@ https://sandbox.fireblocks.io/v2/settings/notifications
 https://sandbox.open-xchange.com
 https://sbox.myoas.com
 https://scalews.withings.com
-https://screenplayer.20min.ch
 https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secure-iphone-xml.booking.com/json/
 https://secure.cuehit.net
@@ -5810,7 +5815,6 @@ https://vendorss.usaa.com
 https://vfs.mioot.com/
 https://vfseu.mioot.com/
 https://viatorapi.viator.com/service/directory
-https://videoplayer.20min.ch
 https://vlagg.usaa.com
 https://vlapi.usaa.com
 https://vpe-us.underarmour.com/
@@ -5845,7 +5849,6 @@ https://wslatam.ifood.com.br
 https://wsloja.ifood.com.br
 https://wsmbr.usaa.com/
 https://www.*mongodb.com/*
-https://www.20min.ch
 https://www.32red.com/
 https://www.allsaints.me/
 https://www.amazon.com/luna/*
@@ -6036,6 +6039,7 @@ https://www.opera.com/computer/thanks?ni=stable&os=windows
 https://www.oppo.com/in/
 https://www.opposhop.cn/
 https://www.opposhop.cn/m/
+https://www.originenergy.com.au/
 https://www.otto.de
 https://www.otto.de/jobs
 https://www.partycasino.com
@@ -6124,6 +6128,8 @@ https://www.water-link.be
 https://www.waterstoring.be/
 https://www.web.com
 https://www.weebly.com/
+https://www.winconnect.com.au/get-connected/
+https://www.winconnect.com.au/moving-out/
 https://www.xbox.com/en-us/games/store/rec-room/9pgpqk0xthrz
 https://www.xfinity.com/apps
 https://www.xvideos.net/app/
@@ -6141,6 +6147,7 @@ https://youcouldbe.com
 https://zuora-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/notifications/raas
 https:/pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-acces-info/
 hub-api-sandbox.remitly.io
+hub.myconnect.com.au
 hub.vroid.com
 hub.vznkul.be/* 
 hub.vznkul.be/services/interhub/InterHubService
@@ -6514,6 +6521,7 @@ myaccount.parool.nl
 myaccount.trouw.nl
 myaccount.volkskrant.nl
 myaccount.vtm.be
+myconnect.com.au
 mynexuz.be
 mynexuz.be/myUZ/
 mynexuzhealth/id1459856321
@@ -6749,6 +6757,8 @@ portal.arkoselabs.com
 portal.au.frontegg.com
 portal.enterprise.uphold.com
 portal.magicnewton.com
+portal.myconnect.com.au
+portal.myconnect.com.au/new-connection
 portal.nextcloud.com
 portal.polygon.technology
 portal.taxi.booking.com
@@ -6963,6 +6973,7 @@ shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
 signature-insights.api.cx.metamask.io
+signup.myconnect.com.au
 simperium.com
 simplenote.com
 siorc.xfinity.com
@@ -7013,6 +7024,7 @@ sso.8x8pilot.com
 sso.auth.toloka.ai
 sso.marriott.com
 sso.oft.hyatt.com
+ssu.myconnect.com.au/signup/get-connected 
 stage.landmarkcinemas.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 staging-app.bany.dev
