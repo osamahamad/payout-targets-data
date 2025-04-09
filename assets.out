@@ -659,6 +659,7 @@
 *.ops.netlify.com
 *.opsgenie.com
 *.optimuscards.com
+*.optus.com.au
 *.origindigital-pac.com.au
 *.oslo.io
 *.osp.opera.software
@@ -1128,6 +1129,9 @@
 167.187.0.0/16
 1671793296
 169.254.169.254
+172.24.250.128
+172.26.2.133
+172.26.39.9
 18.184.198.198, 18.185.214.59, 18.194.109.179, 3.121.117.72, 3.121.138.10, 3.121.138.128, 3.121.138.134, 3.121.138.170, 3.121.138.33, 3.121.138.43, 3.124.248.208, 35.156.137.39
 185.26.180.0/22
 188.118.8.0/25
@@ -1142,12 +1146,18 @@
 194.90.25.80/29
 194.90.89.165/32
 195.189.143.0/24
+198.142.65.253
 199.66.248.0/22
 1v1.lol
 203.79.37.2/29
 203.89.100.0/22
 204.29.196.0/23
 206.166.248.0/23
+211.28.90.133
+211.28.90.134
+211.28.90.148
+211.28.90.164
+211.28.90.196
 212.143.112.81/29
 213.139.133.32/28
 216.20.176.0/20
@@ -1387,6 +1397,7 @@ Any host/web property/mobile app verified to be owned by Indeed
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 Any other Epic games owned asset not listed in the out of scope section
 Any other Malwarebytes asset
+Any other Optus Sport asset
 Any public (Internet-facing) infrastructure owned and operated by Palantir.
 Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
 Any public cloud resource or infrastructure operated and managed by REI.
@@ -1891,6 +1902,7 @@ MongoDB Server Local Instance
 MongoDB Shell
 Mozilla Ad Routing Service
 Mozilla VPN Clients
+Naasapi.optus.com.au
 Native K8S workers and operator
 Netflix Gaming Target
 Netflix Mobile Application for Android
@@ -3455,6 +3467,8 @@ dl.clario.co
 dmm.bpost.be
 dmxleo.com
 dns.watch
+dns0.optus.net.au
+dns1.optus.net.au
 dns1.uzleuven.be
 dns2.uzleuven.be
 do.co
@@ -3872,6 +3886,8 @@ https://analytics.welcomesoftware.com/
 https://anytask.thesecurityteam.rocks
 https://anytask.thesecurityteam.rocks/
 https://api-a.usaa.com
+https://api-cdn.optussport.info/api/*
+https://api-cdn.optussport.tv/api/*
 https://api-ch-gva-2.exoscale.com/v2
 https://api-evm.orderly.org/
 https://api-js.datadome.co
@@ -4010,6 +4026,7 @@ https://apps.apple.com/au/app/caltex-australia/id1314768594
 https://apps.apple.com/au/app/certsy/id1617796159
 https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
+https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://apps.apple.com/be/app/zen-by-deezer-m%C3%A9ditation/id1597326355
@@ -4242,6 +4259,7 @@ https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfa
 https://chrome.google.com/webstore/detail/private-internet-access/jplnlifepflhkbkgonidnobkakhmpnmh
 https://chrome.google.com/webstore/detail/stay-secure-with-cybergho/ffbkglfijbcbgblgflchnbphjdllaogb
 https://chrome.google.com/webstore/detail/xverse-wallet/idnnbdplmphpflfnlkomgpfbpcgelopg
+https://chromecast-pp.optussport.tv
 https://chromewebstore.google.com/detail/expressvpn-keys-password/blgcbajigpdfohpgcmbbfnphcgifjopc
 https://chromewebstore.google.com/detail/expressvpn-vpn-proxy-for/fgddmllnllkalaagkghckoinaemmogpe?pli=1
 https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcmnfgpnmkkhmkllnlflef
@@ -4254,7 +4272,10 @@ https://cloud.heytap.com/
 https://cloud.oppo.com/
 https://cloud.unity.com
 https://cloudinary.com/console
+https://cms-qa.optussport.tv
+https://cms-uat.optussport.tv
 https://cms.mobile.monash/ 
+https://cms.optussport.tv
 https://cockpit-eu-west-2.outscale.com/
 https://coda.io/*
 https://coda.io/signup/email
@@ -4312,6 +4333,7 @@ https://datadome.co
 https://dataportal.originenergy.com.au
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
 https://dcfgatewaytst1.marriott.com/
+https://ddosportal.optus.com.au
 https://dealer.prod.ps.axelspringer.de/api/v1/partners/{partnerId}/activation
 https://dealer.prod.ps.axelspringer.de/purchases/004/bild/*
 https://dealer.prod.ps.axelspringer.de/purchases/004/welt/*
@@ -4414,6 +4436,7 @@ https://gaadmin.vfsglobal.com/Global-Admin/
 https://gaadmin.vfsglobal.com/GlobalAdmin/
 https://gap.citizenportal-test.bugbounty.akinox.dev/
 https://gate.sendbird.com
+https://gateway.optus.com.au/api/ai-search/search/v1
 https://gatewaydsapdev2.marriott.com/
 https://gatewaydsaptst1.marriott.com/
 https://gatewaydsaptst2.marriott.com/
@@ -5319,7 +5342,9 @@ https://octopus.com/downloads
 https://oda.com
 https://odesli.co
 https://odesli.com
+https://oes.optusnet.com.au/
 https://offer.tidal.com/download
+https://ogws.optusnet.com.au/
 https://onboard.neogov.com
 https://one.newrelic.com
 https://one.pinelabs.com/
@@ -5391,6 +5416,7 @@ https://play.fga.dev/
 https://play.google.com/store/apps/details?hl=en&id=co.bitx.android.wallet
 https://play.google.com/store/apps/details?id=au.com.ampol.flagship&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=au.com.ampol.teamapp
+https://play.google.com/store/apps/details?id=au.com.optus.selfservice&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR
 https://play.google.com/store/apps/details?id=com.AgainstGravity.RecRoom
@@ -5581,6 +5607,8 @@ https://s.usaa.com/
 https://s1.utv.usaa.com
 https://s2.utv.usaa.com
 https://salesforce.quip.com/blog/desktop
+https://samsung-pp.optussport.tv/
+https://samsung.optussport.tv
 https://sandbox.directly.com/dashboard/index
 https://sandbox.fireblocks.io/v2/settings/notifications
 https://sandbox.open-xchange.com
@@ -5669,6 +5697,7 @@ https://splus-static-site-pages.pnimedia.com/
 https://splus-static-site-pages.pnimedia.com/services/printing/
 https://splus-static-site.pnimedia.com/
 https://splus-storage.pnimedia.com/
+https://sport.optus.com.au/
 https://springboard.pinelabs.com
 https://sprint.com
 https://square.online
@@ -5682,9 +5711,18 @@ https://staging.gearset.com/
 https://staging.luno.com/
 https://start.atlassian.com
 https://static-images.ifood.com.br
+https://static.cms-qa.optussport.tv
+https://static.cms-uat.optussport.tv
+https://static.cms.optussport.tv
 https://static.demarches-simplifiees.fr
 https://static.mgm.mo
+https://static.sport-pp.optus.com.au/api/*
+https://static.sport.optus.com.au/api/*
 https://static.usaa.com
+https://stats-pp.akamai.optussport.tv
+https://stats.akamai.optussport.tv
+https://stats.optussport.info
+https://stats.sport.optus.com.au
 https://status-takeaway.com/status
 https://status.mobile.monash/
 https://storage.googleapis.com/kubernetes-release/
@@ -5838,6 +5876,7 @@ https://web-retailer-portal.ultramobile.com
 https://web.bitpanda.com
 https://web.teamviewer.com
 https://web3.sdx.com
+https://webmail.optusnet.com.au/
 https://webmail.usaa.com
 https://webrtc.8x8.com/
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
@@ -6046,9 +6085,12 @@ https://www.opera.com/computer/thanks?ni=stable&os=windows
 https://www.oppo.com/in/
 https://www.opposhop.cn/
 https://www.opposhop.cn/m/
+https://www.optus.com.au/osp-ecare
 https://www.originenergy.com.au/
 https://www.otto.de
 https://www.otto.de/jobs
+https://www.outsourcing.optus.net.au/eFRAMS3/
+https://www.outsourcing2.optus.net.au/eFRAMS3/
 https://www.partycasino.com
 https://www.partypoker.com
 https://www.personio.com/free-trial/
@@ -6633,6 +6675,8 @@ novel.pixiv.net
 npm CLI
 npmjs.com
 npmjs.org
+ns1.optusnet.com.au
+ns2.optusnet.com.au
 nz.co.vista.android.movie.mjrtheatres
 oauth-sandbox.gocardless.com
 oauth.deriv.com
@@ -6843,6 +6887,7 @@ rancher.ninjakiwi.me
 random.uzleuven.be/random/
 rankings.etoro.com
 raptor*.bykea.net
+ras1.optus.com.au 
 rates.rewire.com
 read.amazon.com
 readonly.fareharbor.com
@@ -7258,6 +7303,7 @@ volans.tech
 vote.nba.com
 vpn.mobilevikings.be
 vpn.mozilla.org
+vpn01.syd.optusnet.com.au
 vroid.com
 vrt.be/vrtmax
 vrt.be/vrtnws
