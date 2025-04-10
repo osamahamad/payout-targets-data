@@ -3899,6 +3899,7 @@ https://api-user.e2ro.com/*
 https://api-{app-id}.calls.sendbird.com
 https://api-{app-id}.notifications.sendbird.com
 https://api-{app-id}.sendbird.com
+https://api.20min.ch/
 https://api.aiven.io/login
 https://api.anytask.com/
 https://api.anytask.thesecurityteam.rocks
@@ -4149,6 +4150,7 @@ https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/robots/{robot_id
 https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/users/{user_id}/entitlements
 https://assets-cdn.vistarmedia.com
 https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
+https://audio.20min.ch/
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
 https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
@@ -4304,6 +4306,7 @@ https://content-server.ibotta.com/graphql
 https://content.agora.beta.gouv.fr
 https://content.usaa.com
 https://contentcredentials.org/
+https://coral.20min.ch/
 https://create.gx.games
 https://creatives.vistarmedia.com
 https://credit.pinelabs.com
@@ -5374,6 +5377,7 @@ https://paasportal.episerver.net/
 https://paasportal.episerver.net/api/v1.0/
 https://pab.donneesquebec.ca/
 https://packages.cortexpowered.com
+https://partner-feeds.20min.ch
 https://partner.apps.monash.edu
 https://partnerapi.tapayments.com
 https://partnerapi1.tapayments.com
@@ -5611,6 +5615,7 @@ https://sandbox.fireblocks.io/v2/settings/notifications
 https://sandbox.open-xchange.com
 https://sbox.myoas.com
 https://scalews.withings.com
+https://screenplayer.20min.ch
 https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secure-iphone-xml.booking.com/json/
 https://secure.cuehit.net
@@ -5855,6 +5860,7 @@ https://vendorss.usaa.com
 https://vfs.mioot.com/
 https://vfseu.mioot.com/
 https://viatorapi.viator.com/service/directory
+https://videoplayer.20min.ch
 https://vlagg.usaa.com
 https://vlapi.usaa.com
 https://vpe-us.underarmour.com/
@@ -5890,6 +5896,7 @@ https://wslatam.ifood.com.br
 https://wsloja.ifood.com.br
 https://wsmbr.usaa.com/
 https://www.*mongodb.com/*
+https://www.20min.ch
 https://www.32red.com/
 https://www.allsaints.me/
 https://www.amazon.com/luna/*
