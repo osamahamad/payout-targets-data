@@ -25,6 +25,8 @@ Agora for iOS (see dowload link for IPA file and mobile app GitHub repository in
 https://app.sandbox.agora.incubateur.net
 https://api.sandbox.agora.incubateur.net  (source code available on GitHub, see description)
 https://content.agora.beta.gouv.fr
+https://play.google.com/store/apps/details?id=com.bitoasis&hl=en
+https://apps.apple.com/ae/app/bitoasis-buy-bitcoin-crypto/id1521661794
 https://play.google.com/store/apps/details?id=com.bforbank.android
 https://apps.apple.com/us/app/bforbank-banque-en-ligne/id1607839793
 https://gtw-b2capps.bforbank.com/*
@@ -56,10 +58,9 @@ https://bounty.cryptobox.com
 https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr
 https://apps.apple.com/fr/app/cryptobox/id972602802
 https://pprd.cybermalveillance.gouv.fr
-cyclonedx-bom
-cargo-cyclonedx
 Core Product
 https://www.decathlon.(be|ch|es|fr|hu|pl|pt|ro|cz|com.tr)/
+https://www.decathlon.(co.uk|it|nl|de)/
 https://www.demarches-simplifiees.fr
 https://www.demarches-simplifiees.fr/graphql
 https://www.demarches-simplifiees.fr/api/v2/graphql
@@ -99,12 +100,12 @@ https://bounty-nginx.datashield.co
 js.datadome.co
 api-js.datadome.co
 https://app.datadome.co
+https://api-app.datadome.co/
 https://customer-api.datadome.co
 https://api.datadome.co
 https://api-js.datadome.co
 https://auth.datadome.co
 https://datadome.co
-https://bot-tester.datadome.co/
 www.deezer.com
 connect.deezer.com
 api.deezer.com
@@ -126,6 +127,31 @@ http://play.google.com/store/apps/details?id=fr.doctolib.www
 https://apps.apple.com/ie/app/doctolib-siilo/id1083002150
 https://play.google.com/store/apps/details?id=com.siilo.android&hl=en
 Dovecot IMAP Server and Pigeonhole SIEVE (see "Software packages" and "Source code")
+expressvpn.jobs
+ExpressVPN APIs
+https://xv-cp.apis-staging.xvtest.net/
+https://cp.expressapisv2.net
+https://api.expressvpn.com
+https://api.enc.kape.com
+https://api.dbs.kape.com
+https://api.dts.kape.com
+https://api.blts.kape.com
+https://api.pcrs.kape.com
+https://api.jwks.kape.com
+VPN servers
+ExpressVPN Router
+it.xvservice.net
+1pw-scim.prd.iat.it.xvservice.net
+gatekeeper.prd.iat.it.xvservice.net
+iat.it.xvservice.net
+prd.iat.it.xvservice.net
+vector.prd.iat.it.xvservice.net
+gh-mail.expressvpn.com
+corp.polymoon.it
+networkguard.com
+Any Applications under https://www.expressvpn.com/latest
+https://github.com/expressvpn/lightway-core
+https://github.com/expressvpn/lightway
 Hardware found on https://www.ezviz.com/category/security-wifi-cameras
 Hardware found on https://www.ezviz.com/category/smart-home
 i.ys7.com
@@ -198,6 +224,7 @@ JBL Flip 6
 JBL Charge 5
 https://tms.onecloud.harman.com
 https://quantum-events.onecloud.harman.com
+ksuite.infomaniak.com
 api.infomaniak.com
 login.infomaniak.com
 manager.infomaniak.com/v3/*
@@ -232,16 +259,12 @@ https://play.google.com/store/apps/details?id=com.infomaniak.mail&hl=en_US
 https://yeswehack.staging.komoju.com
 https://multipay-staging.test.komoju.com
 https://doc.komoju.com/docs/fields-overview
-https://www.hpr.kiwai-normandie.fr/
-https://www.api.hpr.kiwai-normandie.fr/
-https://www.ppr.kiwai-enr.fr/
-https://www.kiwai-enr.fr/
-https://www.api.kiwai-normandie.fr
-https://www.kiwai-normandie.fr/
 https://[it | fr | us | sg | …].louisvuitton.com
-http://api.louisvuitton.com/eco-eu/*
-http://api.louisvuitton.com/eco-as/*
-http://api.louisvuitton.com/eco-us/*
+https://apps.apple.com/fr/app/louis-vuitton/id709101942
+https://play.google.com/store/apps/details?id=com.vuitton.android&hl=fr&gl=US
+https://appgallery.huawei.com/#/app/C102099703?locale=zh_CN&source=appshare&subsource=C102099703
+https://apps.apple.com/fr/app/louis-vuitton-city-guide/id1014618396
+https://horizonv2prodapi.azurewebsites.net
 hack1.mtrx.ovh
 https://hackme.matrixreq.com
 https://play.google.com/store/apps/details?id=com.paymaya
@@ -306,6 +329,9 @@ https://supplier-connect.otto.de
 https://retail-api.otto.de
 api.ovh.com
 www.ovh.com
+help.ovhcloud.com
+agent-chat.ovh.com
+community.ovhcloud.com
 https://sandbox.open-xchange.com
 https://sandbox.open-xchange.com
 GitLab and GitHub repos listed on this page
@@ -323,29 +349,42 @@ https://apps.apple.com/qa/app/ooredoo-qatar/id619828745
 Security Vulnerability in OpenPGP.js's high-level API
 Security Vulnerability in the OpenPGP Standard
 Interoperability Issue in OpenPGP.js
+https://vendors.paddle.com
+https://sandbox-vendors.paddle.com
+https://api.paddle.com
+https://sandbox-api.paddle.com
+https://sandbox-checkout-service.paddle.com
+https://sandbox-buy.paddle.com
+https://paddle.net
+https://customer-portal.paddle.com
+https://login.paddle.com
+https://sandbox-login.paddle.com
+https://www.paddle.com
+https://developer.paddle.com
 https://billingserver.pinelabs.com/
 dashboard.pluralonline.com
 https://lounge.pinelabs.com/loungeui/login
 https://pinepgconsole.in:9099
-https://paymentoptimizerdashboard.pinepg.in/
 analytics.pinelabs.com
-corporate.pineperks.in
-www.pineperks.in
 https://myplutus.pinelabs.my/
 trm.pinepaymentsolutions.com
 https://trm.pinelabs.ae
 https://www.pinelabs.ae/
 https://www.letspaylater.ph/
-https://apps.apple.com/in/app/pineperks/id908644471
-https://play.google.com/store/apps/details?id=com.pinegift
 https://credit.pinelabs.com
-https://play.google.com/store/apps/details?id=com.pinelabs.pinelabsone
-https://apps.apple.com/in/app/pine-labs-one/id6444654068
-https://one.pinelabs.com/
 https://plmcixt.pinelabs.com/
 https://play.google.com/store/apps/details?id=com.pinelabs.emicatalogue.pinelabs&hl=uz
 https://emistores.pinelabs.com/
-https://springboard.pinelabs.com
+https://www.pinelabs.com/
+https://www.pinelabs.my/
+https://www.pinelabs.ae/
+https://www.pinelabs.us/
+https://board.pinelabs.com/
+https://nbs.pinelabs.com/
+https://api.pluralonline.com
+https://api.pluralpay.in
+https://pinepg.in/
+https://pluralcheckout.pinepg.in
 PowerDNS authoritative server, recursor and DNSdist (see "Software packages" and "Source-code")
 https://reptox.cnesst.gouv.qc.ca/
 https://auth.pentest.clicsante.ca/
@@ -376,6 +415,15 @@ qwantjunior.com
 https://my.salt.ch
 https://eshop.salt.ch
 https://login.salt.ch
+www.onsexprime.fr
+www.1000-premiers-jours.fr
+mangerbouger.fr
+sso.mangerbouger.fr
+questionsexualite.fr
+vaccination-info-service.fr
+professionnels.vaccination-info-service.fr
+www.vivre-avec-la-chaleur.fr
+www.tabac-info-service.fr
 buffered-reader
 nettle-sys
 nettle-rs
@@ -423,6 +471,8 @@ https://service.post.ch/ekp-web/
 https://service.post.ch/zopa/app/
 https://play.google.com/store/apps/details?id=com.nth.swisspost&hl=de_CH&gl=US
 https://apps.apple.com/ch/app/die-post/id378676700
+https://itunes.apple.com/ch/app/postcard-creator/id820354055?mt=8
+https://play.google.com/store/apps/details?id=ch.post.it.pcc&hl=en
 https://billingonline.post.ch/OnlinePayment/Web/v1/BOI
 https://service.post.ch/ele-klp/ele/
 Source Code
@@ -465,6 +515,11 @@ https://indonesiavoa.vfsevisa.id/
 https://www.vfsglobalservices-germany.com/Global-Appointment/
 https://www.vfsvisaservice.com/IHC-SouthKorea-Appointment
 https://vc.tasheer.com/
+https://cicforms.mioot.com/forms/PS/
+svtselb.tasheer.com
+https://vfs-ai-tiff-image-api-hchkdabjdsdya6ea.switzerlandnorth-01.azurewebsites.net/
+https://vfsuserverification.azurewebsites.net/
+https://vfs-ai-doc-reader.azurewebsites.net/
 www.vinci.com
 leonard.vinci.com
 castor.vinci.com
@@ -485,6 +540,7 @@ essentiel.vinci.com
 essentials.vinci.com
 www.chaire-arpenter.fr
 www.habileoh.com
+stats.vinci.com
 https://wbsapi.withings.net
 https://healthmate.withings.com
 https://account.withings.com

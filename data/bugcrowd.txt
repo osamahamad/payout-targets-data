@@ -1,3 +1,5 @@
+http://data-api.coindesk.com/
+https://tools-api.cryptocompare.com/
 https://acorns.com/
 https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
 https://graphql.acorns.com
@@ -20,14 +22,13 @@ https://portal.clearpay.co.uk
 https://mobileapi.clearpay.com
 https://portalapi.eu.clearpay.co.uk
 https://api.clearpay.com
-Aiven for Clickhouse
-Aiven for Metrics
+https://aiven.io/clickhouse
+https://aiven.io/docs/products/metrics/concepts/metrics-overview
 Aiven for Valkey
 Aiven for Apache Kafka
 Aiven for AlloyDB Omni
 Aiven for OpenSearch
 Aiven for Grafana
-Aiven for M3
 Aiven for PostgreSQL
 Aiven for Caching
 Aiven for MySQL
@@ -41,40 +42,24 @@ https://api.aiven.io/login
 https://github.com/Aiven-Open
 https://github.com/Aiven
 http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
-https://ampol.com.au/
-https://apps.apple.com/au/app/caltex-australia/id1314768594
-https://play.google.com/store/apps/details?id=au.com.ampol.flagship&hl=en_AU&gl=US
-https://ampcharge.ampol.com.au/
-https://ampolenergy.com.au
-https://play.google.com/store/apps/details?id=au.com.ampol.teamapp
-https://my.ampol.com.au/
-https://carbonneutral.ampol.com.au/
-https://cards.ampol.com.au
 Arlo Safe Android App
 Arlo Safe iOS App
 Arlo Secure Android App
 Arlo Secure iOS App
-Arlo
 Arlo All-In-One Sensor (Home Security System)
-Arlo Baby
 Arlo Base Station
-Arlo Bridge
 Arlo Cellular & Battery Backup (Home Security System)
-Arlo Chime / Chime 2
+Arlo Chime 2
 Arlo Essential
-Arlo Floodlight
-Arlo Go / Go 2
+Arlo Essential 2 (indoor & outdoor camera, doorbell)
+Arlo Pro 3 Floodlight
+Arlo Wired Floodlight
+Arlo Go v2
 Arlo Home Security System
-Arlo Pro
-Arlo Pro 2
-Arlo Pro 3
-Arlo Pro 4
+Arlo Pro SmartHub
 Arlo Pro 5S
-Arlo Q / Q+
 Arlo Safe Button
-Arlo Security Light
-Arlo Ultra
-Arlo Video Doorbell
+Arlo Ultra 2
 Arlo Wireless Video Doorbell
 Arlo Wire-Free Outdoor Siren (Home Security System)
 https://*-prod.arlo.com
@@ -87,14 +72,17 @@ https://my.arlo.com
 https://myapi.arlo.com
 https://www.arlo.com
 https://updates.arlo.com
-Aruba Wireless – ArubaOS and Aruba Instant
-Aruba ClearPass Policy Manager
-ArubaOS-CX Wired Switches
-Aruba EdgeConnect Enterprise Orchestrator
-Aruba EdgeConnect Enterprise
-Aruba InstantOn APs and supporting backend infrastructure
-Aruba Fabric Composer
-Aruba NetEdit
+HPE Aruba Networking Wireless – AOS-10.7 and later
+HPE Aruba Networking Central - New UI (see Scope Details)
+ArubaOS-CX Switches
+HPE Aruba Networking Wireless – AOS-8 and AOS-8 Instant
+HPE Aruba Networking ClearPass Policy Manager
+HPE Aruba Networking EdgeConnect SD-WAN Orchestrator
+HPE Networking Instant On APs and supporting backend infrastructure
+HPE Aruba Networking Fabric Composer
+HPE Aruba Networking NetEdit
+HPE Aruba Networking Private 5G
+HPE Aruba Networking SSE
 Aruba InstantOn Switches
 Aruba AirWave AMP
 https://www.arubanetworks.com/products/networking/analytics-and-assurance/user-experience-insight-sensors/
@@ -139,6 +127,12 @@ https://www.atlassian.com/enterprise/data-center/crowd
 https://www.atlassian.com/enterprise/data-center/jira
 https://www.atlassian.com/enterprise/data-center/jira/service-management
 https://www.atlassian.com/enterprise/data-center/jira
+https://www.loom.com/
+https://www.loom.com/download
+https://www.loom.com/download
+https://play.google.com/store/apps/details?id=com.loom.android&hl=en_US&pli=1
+https://apps.apple.com/us/app/loom-screen-recorder/id1474480829
+https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb?hl=en-US&pli=1
 https://www.atlassian.com/software/bamboo
 https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://play.google.com/store/apps/details?id=com.atlassian.confluence.server
@@ -446,12 +440,6 @@ https://app.aurory.io
 https://store.epicgames.com/en-US/p/seekers-of-tokane-a5986d
 https://play.google.com/store/apps/details?id=io.aurory.seekersoftokane&hl=en_CA
 https://testflight.apple.com/join/FuaxsScP
-https://www.australiansuper.com/
-https://portal.australiansuper.com/
-https://business.australiansuper.com/
-https://adviser.australiansuper.com/
-https://apis.australiansuper.com/
-https://apis-v5.australiansuper.com/
 config.cic-bug-bounty.auth0app.com
 https://manage.cic-bug-bounty.auth0app.com/
 https://play.google.com/store/apps/details?id=com.auth0.guardian&hl=en_US&gl=US
@@ -511,6 +499,8 @@ http://it.mydirtyhobby.com/
 http://es.mydirtyhobby.com/
 https://Fr.mydirtyhobby.com
 https://www.mydirtyhobby.com/app/download
+http://mgpg2.probiller.com/
+http://mgpg.probiller.com/
 https://play.google.com/store/apps/details?id=com.backblaze.android&hl=en_US&gl=US
 https://apps.apple.com/us/app/backblaze/id628638330
 Mac Personal Backup Clients
@@ -578,8 +568,19 @@ https://www.bitstamp.net/
 https://apps.apple.com/us/app/bitstamp/id1406825640
 https://play.google.com/store/apps/details?id=net.bitstamp.app
 https://play.google.com/store/apps/details?id=net.bitstamp.appgo
-https://bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com
-https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com
+https://www.blockchain.com/
+https://apps.apple.com/us/app/blockchain-com-buy-btc-sol/id493253309
+https://play.google.com/store/apps/details?id=piuk.blockchain.android
+api.blockchain.info
+ws.blockchain.info
+https://apps.apple.com/ee/app/bolt-fast-affordable-rides/id675033630
+https://play.google.com/store/apps/details?id=ee.mtakso.client
+https://apps.apple.com/ee/app/bolt-food/id1451492388
+https://play.google.com/store/apps/details?id=com.bolt.deliveryclient
+https://taxify.eu/
+https://bolt.eu/
+██████████████████████████████████████████████████████████
+█████████████████████████████████████████████████████████████████
 https://docs.bugcrowd.com/
 https://bugcrowd.com/programs
 https://tracker.bugcrowd.com
@@ -589,21 +590,6 @@ https://bullish.com/
 https://investor.bullish.com/
 https://simnext.bullish-test.com
 https://api.simnext.bullish-test.com
-████████████████████████
-████████████████████████████
-███████████████████████████
-███████████████████████████
-███████████████████████
-████████████
-███████████████████████
-███████████████████
-████████████████████████
-████████████████████████
-█████████████████████████████
-████████████████████████
-████████████████████████████
-█████████████████████████████
-██████████████████████████
 https://www.canva.com
 https://www.canva.com/developers/
 Apps SDK Sandboxing
@@ -628,6 +614,19 @@ https://www.foreignaffairs.com/
 https://www.cfr.org/
 https://thinkglobalhealth.org
 https://education.cfr.org/
+All Chime Assets
+https://www.chime.com
+https://app.chime.com
+https://play.google.com/store/apps/details?id=com.onedebit.chime
+https://apps.apple.com/us/app/chime-mobile-banking/id836215269
+https://app.bitrise.io/app/5bec038cb1e318cd/build/0e56ea84-4683-4ef6-8d3e-60eb0a012c25/artifact/cf0e6abc6528df88/p/85802412acd014f154decf14e4bb8c57
+https://app.bitrise.io/app/5bec038cb1e318cd/build/e071d2ed-1b34-41d7-88ac-78d683fce9c7/artifact/4edf32abe1b497ea/p/2f6cacc3a3ca02df5fc194248bfb15b7
+http://member-qa.chime.com/enroll
+http://app-qa.chime.com/users/sign_in
+https://app.saltlabs.com/
+https://play.google.com/store/apps/details?id=com.saltlabs.app
+https://apps.apple.com/us/app/salt-work-and-get-rewarded/id1668462142
+https://app.staging.saltlabs.com/
 Cisco Meraki Systems Manager
 Cisco Meraki Virtual Security Appliances
 Cisco Meraki Dashboard Mobile Application (iOS and Android)
@@ -676,8 +675,7 @@ https://marketplace.atlassian.com/apps/1226627/prime-custom-fields-for-jira?host
 https://marketplace.atlassian.com/apps/1230689/easy-confluence-gadget-for-jira-dashboards?hosting=cloud
 https://adhoc-bugcrowd.cdn-code.org
 https://adhoc-bugcrowd-studio.cdn-code.org
-staging.coindesk.com
-staging.auth.coindesk.com
+https://www.coindesk.com/
 https://apps.apple.com/us/app/coindesk-crypto-bitcoin-news/id6502816903
 https://play.google.com/store/apps/details?id=com.coindesk.mobile
 Staging, QA, Dev, and Test Environments
@@ -819,20 +817,14 @@ Source code hosting
 Vulnerabilities compromising the privacy of our employees
 https://financialforce.com
 Any FIS asset is in scope
+https://fivetran.com/login
+https://app.getcensus.com
+https://fivetran.com/login
 https://flo.uri.sh
 https://flourish.studio/
 https://xyzbmojn.net/
 flourish-user-templates.com
 flourish-user-preview.com
-█████████████████████████████████████
-███████████████████████████████████
-████████████████████████████████
-██████████████████████
-█████████████████████████
-█████████████████████████
-█████████████████████
-██████████████████████████████████████████████
-██████████████████████████████████████████████████
 ████████████████████████████████████████████████
 ██████████████████
 █████████████
@@ -855,26 +847,28 @@ Backend endpoint: bug-bounty-be.glean.com
 https://marketplace.atlassian.com/apps/1222714/scio-search-crawler-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1222715/scio-search-crawler-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1229003/glean-activity-plugin-for-jira-cloud?hosting=cloud&tab=overview
-████████████
 https://www.hostgator.com.br/
 https://financeiro.hostgator.com.br
 https://bugcrowd.hotdoc.com.au
 https://bugcrowd.hotdoc.com.au/api
 https://bugcrowd.hotdoc.com.au/dashboard
-https://app.hubspot.com/
-https://app-eu1.hubspot.com
-https://api.hubspot.com/
-https://developers.hubspot.com/docs/api/overview
-https://chatspot.ai
-https://connect.com
-https://knowledge.hubspot.com/inbox/set-up-a-customer-portal
-Customer connected domain (2)
-https://play.google.com/store/apps/details?id=com.hubspot.android&hl=en_US&gl=US
-https://apps.apple.com/us/app/hubspot/id1107711722
-https://knowledge.hubspot.com/connected-email/get-started-with-the-hubspot-sales-office-365-add-in
-Other HubSpot-owned (sub)domains not listed as Out of Scope . Please make sure to exercise due diligence before testing. You must include proof that the subdomain is registered to HubSpot to be eligible for a reward.
-Special Conditions
-https://www.ameliorate.com/
+███████████████
+███████████████████
+███████████████
+██████████████
+███████████
+███████████
+██████████████████
+█████████████████████
+████████████████████████
+███████████████████████
+███████████████████
+█████████████████████████████
+██████████████████████████
+██████████████████████
+███████████████████████████████
+████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+██████████████████
 https://www.beautyexpert.com/
 https://www.cultbeauty.co.uk/
 https://www.dermstore.com
@@ -890,7 +884,6 @@ https://www.mankind.co.uk/
 https://www.mybag.com/
 https://www.myvitamins.com/
 https://www.powerman.co.uk/
-https://www.skinstore.com/
 https://www.thehut.com/
 https://checkout.myvitamins.com
 https://checkout.eyeko.com
@@ -908,18 +901,24 @@ Ibotta App Data & Memory
 https://app.ibotta.com/sign-in 
 http://ibotta.com
 https://backend.ibotta.com/
+https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR
+https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
 https://www.ifood.com.br
-https://shop.ifood.com.br
 https://marketplace.ifood.com.br
-https://wsloja.ifood.com.br
-https://wslatam.ifood.com.br
-https://static-images.ifood.com.br
 https://gestordepedidos.ifood.com.br
+https://wsloja.ifood.com.br
+https://shop.ifood.com.br
+https://static-images.ifood.com.br
 https://developer.ifood.com.br
 https://api.fstr.rocks
 https://rc.fstr.rocks
-https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR
-https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
+https://www.zoop.com.br
+https://www.zoop.ws
+https://www.minhaconta.zoop.com.br
+https://dash.zoop.com.br/
+https://www.contadigital.ifoodpago.com.br/
+https://play.google.com/store/apps/details?id=br.com.movilepay.banking.application&hl=pt_BR
+https://portal.iFoodpago.com.br
 https://passport.immutable.com/
 https://auth.immutable.com
 https://github.com/immutable/ts-immutable-sdk/tree/main/packages/passport/
@@ -936,11 +935,13 @@ https://guildofguardians.com
 https://www.cloudvector.com/
 https://supportportal.thalesgroup.com
 PTaaS Reference
+https://indeed.com
 https://apis.indeed.com/graphql
 https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
 https://apps.apple.com/us/app/indeed-job-search/id309735670
 https://play.google.com/store/apps/details?id=com.syftapp.android
 https://apps.apple.com/gb/app/indeed-flex-job-search/id1013812731
+Career Scout
 https://resume.com
 https://wowjobs.ca
 https://apps.apple.com/us/app/%E5%B1%A5%E6%AD%B4%E6%9B%B8%E4%BD%9C%E6%88%90-%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%89/id1484451230
@@ -954,53 +955,77 @@ https://app.intercom.com
 https://app.intercom.io/
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
 https://www.intercom.com/
-iRobot cloud-connected robot that you own (i.e. j7, s9, i7, 980, 960, 690, Braava, etc.)
-https://play.google.com/store/apps/details?id=com.irobot.home
-https://itunes.apple.com/us/app/irobot-home/id1012014442?mt=8
-https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/entitlements
+iRobot Romoba™ 105
+iRobot Romoba™ 205
+iRobot Romoba™ 405
+iRobot Romoba™ 505
+iRobot Romoba™ 705
+https://apps.apple.com/us/app/roomba-home/id6504274697
+https://play.google.com/store/apps/details?id=com.irobot.home.prime
 https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/entitlements/{entitlement_id}
 iRobot API Endpoint
 https://zuora-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/notifications/raas
 https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/robots/{robot_id}/entitlements
 https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/users/{user_id}/entitlements
+https://www.irobot.com
+https://www.irobot.ca/en_CA
+https://www.irobot.ca/fr_CA/home
+https://www.irobot.at/
+https://www.irobot.be/
+https://www.irobot.de/
+https://www.irobot.es/
+https://www.irobot.fr/
+https://www.irobot.co.uk/
+https://www.irobot.ie/
+https://www.irobot.nl/
+https://www.irobot.pt/
+https://www.homesupport.irobot.com
+https://media.irobot.com
+https://investor.irobot.com
+https://answers.irobot.com
 https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665	
 https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US	
-restaurant-api.takeaway.com
-https://itunes.apple.com/us/app/lieferando-de/id419724490?l=es&mt=8
-https://play.google.com/store/apps/details?id=com.yopeso.lieferando&hl=en_US
+https://api-payments-secure-prod.skippayments.com
 https://takeawaypay.azurefd.net/en/takeawaypay/
-https://www.justeattakeaway.com
-https://www.justeat.it/rider
-https://status-takeaway.com/status
-https://www.takeaway.com/foodwiki/
-https://www.takeaway.com/drivers
-https://www.takeaway.com/deals
-https://www.thuisbezorgd.nl/aanmelden
-https://shop.thuisbezorgd.nl
-https://tv.takeaway.com
-static.thuisbezorgd.nl
-dev.takeaway.com/html/
-intranet.takeaway.com
-atarkasher.co.il
-https://brand.takeaway.com
-https://careers.takeaway.com
-https://newsletter.thuisbezorgd.nl
-https://www.status-takeaway.com/status
-https://www.lieferando.de/thetakeaway/
-cloud.update.takeaway.com
-cloud.connect.takeaway.com
-cloud.connect.justeattakeaway.com
-cloud.update.justeattakeaway.com
-https://api.justeat-int.com
-https://www.just-eat.co.uk
-https://www.just-eat.ie
-https://menulog.co.nz
+https://takeaway.pay-creditcard.takeaway.com/
+pay.{business_critical_assets} *see business assets for more information
+https://global-payments-web.payments.pmt-1.eu-west-1.production.jet-external.com
+https://rest.api.eu-central-1.production.jet-external.com
+https://uk.api.just-eat.io
+https://aus.api.just-eat.io/
+https://api-skipthedishes.skipthedishes.com
+https://i18n.api.just-eat.io
+https://cw-api.takeaway.com
+https://www.thuisbezorgd.nl/
 https://menulog.com.au
-https://public.je-apis.com
-https://just-eat.it
-https://just-eat.es
+https://takeaway.com
 https://skipthedishes.com
+https://just-eat.dk
+https://lieferando.de
+https://pyszne.pl
+https://bistro.sk
+https://just-eat.es
+https://www.just-eat.co.uk
+https://just-eat.ch
+https://10bis.co.il
+https://scoober.com
+https://just-eat.com
+https://skippayments.com
+https://play.google.com/store/apps/developer?id=Takeaway.com
+https://play.google.com/store/apps/developer?id=Just-Eat+Holding+Limited
+https://play.google.com/store/apps/developer?id=10bis.co.il+ltd.
+https://play.google.com/store/apps/developer?id=Skip+Canada
+https://apps.apple.com/nz/developer/just-eat-com/id383091095
+https://apps.apple.com/it/developer/takeaway-com-central-core-b-v/id329472762
+https://apps.apple.com/us/developer/skipthedishes/id969229980
+https://apps.apple.com/us/developer/10bis-co-il-ltd/id434368194
+https://www.justeattakeaway.com
 https://just-eat.io/
+https://api.justeat-int.com
+https://yourdelivery.de
+https://just-data.io
+https://jet-external.com
+https://github.com/justeattakeaway
 https://marketplace.atlassian.com/apps/1215199/backbone-issue-sync-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1217608/scroll-documents-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/7019/scroll-pdf-exporter-for-confluence?hosting=cloud
@@ -1043,9 +1068,6 @@ https://keepersecurity.com/console
 https://docs.keeper.io/en/v/secrets-manager
 https://docs.keeper.io/sso-connect-guide/
 https://docs.keeper.io/sso-connect-cloud/
-██████████████████████████████████████████
-█████████████████████████████
-██████████████████████████████████████████████████████████████
 https://kw-bugcrowd-pub.bounty.kiteworks.dev/
 Kohl’s entire public digital footprint that is not Out-Of-Scope(See list below)
 https://www.kohls.com
@@ -1123,6 +1145,10 @@ https://gpt.lime.bike
 https://linktr.ee
 https://linktree.com
 https://tr.ee
+https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
+https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
+https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
+https://play.google.com/store/search?q=plann&c=apps
 https://odesli.co
 https://odesli.com
 https://song.link
@@ -1132,10 +1158,6 @@ https://artist.link
 https://pods.link
 https://playlist.link
 https://mylink.page
-https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
-https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
-https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
-https://play.google.com/store/search?q=plann&c=apps
 https://shop.lululemon.com
 https://apps.apple.com/us/app/lululemon/id920098546
 https://www.lululemon.com.au/  
@@ -1217,17 +1239,13 @@ https://github.com/mattermost/mattermost-plugin-boards
 https://github.com/mattermost/mattermost-plugin-ai
 https://github.com/mattermost/mattermost-plugin-mscalendar
 https://github.com/mattermost/mattermost-plugin-msteams-meetings
-██████████████████
-██████████████████████
-██████████████████████████
-██████████████████████████████
-██████████████████████████████████
 https://mgm.mo
 https://mgm.mo
 https://booking.mgm.mo/
 https://jobs.mgm.mo
 https://static.mgm.mo
 https://Mlife.mo
+https://www.mgmmacau.com
 https://www.tickets.mgm.mo/
 https://apps.apple.com/mo/app/%E7%BE%8E%E9%AB%98%E6%A2%85%E6%9C%83%E5%93%A1%E6%9C%8D%E5%8B%99-mgm-membership-rewards/id6444925665?l=en-GB
 https://play.google.com/store/apps/details?id=mo.mgm.app
@@ -1240,7 +1258,6 @@ https://identity.monash.edu
 https://www.monash.edu
 https://staff.monash
 http://apps.connect.monash.edu/
-VPN: vpn.monash.edu
 eassessment.monash.edu
 https://fileshare.ze.monash.edu
 https://cms.mobile.monash/ 
@@ -1394,7 +1411,6 @@ https://openai.com/
 https://platform.openai.com/playground
 Other
 https://opensea.io/
-https://pro.opensea.io/
 http://wallets.opensea.io/
 https://play.google.com/store/apps/details?id=io.opensea&hl=en_US&gl=US
 https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
@@ -1478,6 +1494,7 @@ https://play.google.com/store/apps/details?id=au.com.optus.selfservice&hl=en_AU&
 https://www.outsourcing.optus.net.au/eFRAMS3/
 https://www.outsourcing2.optus.net.au/eFRAMS3/
 https://www.optus.com.au/osp-ecare
+https://optus.my.site.com/MyHub/s/
 https://gateway.optus.com.au/api/ai-search/search/v1
 https://sport.optus.com.au/
 https://samsung.optussport.tv
@@ -1499,6 +1516,8 @@ https://cms-qa.optussport.tv
 https://static.cms-uat.optussport.tv
 https://static.cms-qa.optussport.tv
 Any other Optus Sport asset
+198.142.65.253
+vpn01.syd.optusnet.com.au
 Naasapi.optus.com.au
 ras1.optus.com.au 
 ns1.optusnet.com.au
@@ -1509,8 +1528,6 @@ https://ddosportal.optus.com.au
 172.26.39.9
 172.26.2.133
 172.24.250.128
-198.142.65.253
-vpn01.syd.optusnet.com.au
 211.28.90.133
 211.28.90.134
 211.28.90.148
@@ -1518,6 +1535,120 @@ vpn01.syd.optusnet.com.au
 211.28.90.196
 https://ogws.optusnet.com.au/
 https://oes.optusnet.com.au/
+speedtest-sydney.optusnet.com.au
+speedtest-newcastle.optusnet.com.au
+speedtest-blacktown.optusnet.com.au
+speedtest-melbourne.optusnet.com.au
+speedtest-geelong.optusnet.com.au
+speedtest-hobart.optusnet.com.au
+speedtest-perth.optusnet.com.au
+speedtest-broome.optusnet.com.au
+speedtest-rockingham.optusnet.com.au
+	 speedtest-eastburwood.optusnet.com.au
+speedtest-brisbane.optusnet.com.au
+speedtest-goldcoast.optusnet.com.au
+speedtest-townsville.optusnet.com.au
+202.139.138.208/28
+203.13.127.0/24
+203.13.128.128/27
+203.13.129.0/24
+203.16.75.0/24
+203.13.98.0/26
+203.13.98.144/28
+203.13.98.253/32
+203.13.98.254/32
+ 203.13.125.32/27
+203.13.128.0/27
+203.13.128.64/27
+203.13.128.160/27
+203.13.128.192/26
+203.16.76.0/27
+203.16.76.32/27
+203.16.76.64/27
+203.16.76.96/27
+203.16.76.30
+203.16.78.30
+198.142.205.252
+198.142.205.253
+198.142.205.254
+198.142.205.244
+198.142.205.245
+198.142.235.18
+211.29.133.33
+211.29.132.28
+211.31.132.13
+211.31.132.14
+211.29.132.82
+211.29.132.101
+211.31.132.15
+211.31.132.152
+211.29.152.243
+211.29.133.32
+198.142.152.60
+198.142.152.35
+198.142.152.43
+211.31.132.89
+211.29.93.8
+198.142.152.61
+198.142.152.36
+198.142.152.44
+211.31.132.90
+211.29.93.9
+198.142.152.51
+198.142.152.67
+198.142.152.52
+211.31.132.148
+198.142.152.68
+211.29.132.27
+211.29.133.161
+211.31.132.91
+211.29.133.163
+211.29.133.128
+211.31.132.149
+211.31.132.150
+198.142.152.5
+198.142.152.21
+198.142.152.6
+198.142.152.22
+198.142.152.3
+198.142.152.19
+198.142.152.4
+198.142.152.20
+211.31.132.104
+211.29.133.94
+211.31.132.107
+211.29.133.185
+198.142.152.132
+198.142.152.108
+198.142.152.124
+198.142.152.116
+198.142.152.100
+198.142.152.140
+198.142.152.92
+198.142.152.133
+198.142.152.109
+198.142.152.125
+network
+198.142.152.101
+198.142.152.141
+198.142.152.93
+211.31.132.151
+211.29.133.244
+211.31.132.96
+211.29.152.202
+211.31.132.97
+211.29.133.115
+211.29.132.223
+211.29.93.5
+211.29.93.6
+211.29.152.120
+211.29.152.114
+211.29.152.97
+211.31.132.98
+198.142.231.44
+198.142.231.36
+198.142.231.45
+198.142.231.37
 ████████████████████████████
 ████████████████████████
 ████████████████████████
@@ -1560,65 +1691,64 @@ https://mg.n0c.com/
 https://www.planethoster.com
 https://marketplace.atlassian.com/apps/4832/enterprise-mail-handler-for-jira-jemh?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/4832/enterprise-mail-handler-for-jira-jemh?hosting=datacenter&tab=overview
-████████████
-https://www.staples.com/services/printing
-https://splus-flightdeck.pnimedia.com/#/login
-https://splus-estimator.pnimedia.com/#/login
-https://splus-coupon-web.pnimedia.com/#/
-http://flightdeck.staples.com/#/login
-https://portal.pnimedia.com/Account/Login
-https://splus-prod-phoenix-portal-legacy.pnimedia.com/Account/Login
-https://splus-estimator-api.pnimedia.com/
-https://splus-flightdeck-capablefulfiller-api.pnimedia.com/
-https://splus-lmd-api.pnimedia.com/swagger/index.html
-https://usvdc1-fakepuller.pnimedia.com/
-https://orderrouter-api.pnimedia.com/
-https://orders.pniws.com/
-https://phoenix-catalog.pnimedia.com/
-https://portal.pnimedia.com/
-https://productasset.pnimedia.com/
-http://skumapper-splus.pnimedia.com/
-https://design.staples.com
-https://splus-apollox.pnimedia.com/
-https://splus-storage.pnimedia.com/
-https://splus-dock.pnimedia.com/
-https://splus-assets.pnimedia.com/
-https://usvdc1-orders.pnimedia.com/
-https://splus-dock2.pnimedia.com
-https://splus-office365.pnimedia.com/
-https://splus-falcon-api.pnimedia.com/
-https://splus-hercules-api.pnimedia.com/
-https://splus-kepler-upload.pnimedia.com/
-https://splus-premium-asset.pnimedia.com/
-https://usvdc1-fulfillmentdash.pnimedia.com/
-https://usvdc1-imageeditserver.pnimedia.com/
-https://usvdc1-imageserver.pnimedia.com/
-https://usvdc1-imageserver-orders.pnimedia.com/
-https://usvdc1-pniwebservice.pnimedia.com/
-https://usvdc1-project-builder.pnimedia.com/
-https://usvdc1-projectresolver.pnimedia.com/
-https://usvdc1-thumbnailserver-api.pnimedia.com/
-https://usvdc1-render3d.pnimedia.com/
-https://usvdc1-uploadserver.pnimedia.com/
-https://splus-static-site.pnimedia.com/
-https://splus-static-site-pages.pnimedia.com/services/printing/
-https://splus-static-site-pages.pnimedia.com/
-https://splus-static-site-pages-slot1.pnimedia.com/
-https://splus-prod-dam-api-v2-azure.pnimedia.com/
-https://splus-prod-dam-api-v2-slot1.pnimedia.com/
-https://splus-prod-dam-api-v2.pnimedia.com/
-https://splus-prod-dam-api.pnimedia.com/
-https://splus-prod-dam-mediapicker-api.pnimedia.com/
-https://splus-prod-dam-redundancy-sync.pnimedia.com/
-https://splus-cart-api-azure.pnimedia.com/
-https://splus-prod-dam-v2-thumb.pnimedia.com/
-https://splus-cart-api.pnimedia.com/
-https://splus-oms-azure-cart-ui.pnimedia.com/
-https://splus-oms-azure-cart.pnimedia.com/
-https://splus-oms-cart-ui.pnimedia.com/
-https://splus-oms-cart.pnimedia.com/
-https://splus-flightdeck-api.pnimedia.com/
-https://splus-prod-dam-mediapicker-api-slot1.pnimedia.com/
+██████████████████████████████████████████
+█████████████████████████████████████████████
+████████████████████████████████████████████
+████████████████████████████████████████
+██████████████████████████████████████
+█████████████████████████████████████████
+███████████████████████████████████████████████████████████████████
+█████████████████████████████████████████
+███████████████████████████████████████████████████████████
+█████████████████████████████████████████████████████
+███████████████████████████████████████
+█████████████████████████████████████
+█████████████████████████
+█████████████████████████████████████
+████████████████████████████
+██████████████████████████████████
+████████████████████████████████████
+██████████████████████████
+███████████████████████████████████
+███████████████████████████████████
+████████████████████████████████
+██████████████████████████████████
+███████████████████████████████████
+████████████████████████████████
+█████████████████████████████████████
+██████████████████████████████████████
+████████████████████████████████████████
+█████████████████████████████████████████
+█████████████████████████████████████████
+████████████████████████████████████████████
+████████████████████████████████████████████
+████████████████████████████████████████
+███████████████████████████████████████████████
+██████████████████████████████████████████
+████████████████████████████████████████████
+████████████████████████████████████████████
+████████████████████████████████████████████████
+█████████████████████████████████████
+█████████████████████████████████████████
+███████████████████████████████████████
+███████████████████████████████████████████████████████████████
+█████████████████████████████████████████████
+███████████████████████████████████████████████████
+█████████████████████████████████████████████████
+█████████████████████████████████████████████████
+███████████████████████████████████████████
+████████████████████████████████████████
+████████████████████████████████████████████████████
+████████████████████████████████████████████████████
+██████████████████████████████████████████
+█████████████████████████████████████████████
+████████████████████████████████████
+█████████████████████████████████████████████
+██████████████████████████████████████████
+███████████████████████████████████████
+████████████████████████████████████
+██████████████████████████████████████████
+██████████████████████████████████████████████████████████
 https://www.privateinternetaccess.com/
 piaservers.com
 piaservers.net
@@ -1647,13 +1777,24 @@ https://tracker.naspers.com/
 https://cfc.naspers.com/
 https://peopleview.naspers.com
 http://nav.naspers.com/
+https://www.quintoandar.com.br/*
+https://www.user.quintoandar.com.br/admin/*
+https://www.financeiro.quintoandar.com.br/*
+https://apigw.prod.quintoandar.com.br/pixar-api/*
+https://finance.quintoandar.com.br/*
+https://trato-feito-api.quintoandar.com.br/*
+https://apigw.prod.quintoandar.com.br/checkout-api/*
+https://apigw.prod.quintoandar.com.br/docx-api/*
+https://apigw.prod.quintoandar.com.br/sales-flow-api/*
+https://apigw.prod.quintoandar.com.br/nazare-api/*
+https://apigw.prod.quintoandar.com.br/rental-guarantee-api/*
 https://itunes.apple.com/us/app/quizlet-flashcards/id546473125
 https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid
 3.0 API
-api.rapyd.net
 https://dashboard.rapyd.net/
 verify.rapyd.net
 checkout.rapyd.net
+api.rapyd.net
 https://jointhemoment.net/
 ████████████████
 ███████████████
@@ -1689,17 +1830,19 @@ SAP S/4HANA Cloud Private Edition
 SAP Integrated Business Planning for Supply Chain
 SAP Cloud ALM
 SAP Customer Data Cloud portfolio from Gigya
+SAP Customer Data Platform
 SAP S/4HANA migration cockpit
 SAP Risk and Assurance Management
 SAP Order Management for Sourcing and Availability
 SAP Continuous Integration and Delivery
-SAP Business Network for Logistics	
 SAP Order Management foundation
+SAP Business Network for Logistics	
 SAP Signavio
-SAP Revenue Growth Optimization 
+https://app.stage-perf.rgo-stage-us.eurekacloud.io/
 SAP Omnichannel Promotion Pricing
 SAP Enable Now
 SAP Decentralized Identity Verification
+SAP Order and Delivery Scheduling
 https://api.thesecurityteam.rocks
 https://api.anytask.thesecurityteam.rocks
 https://anytask.thesecurityteam.rocks
@@ -1738,7 +1881,6 @@ partnerportal.skyscanner.net/*
 Skyscanner Android app
 Skyscanner iOS app
 AWS Infrastructure
-https://smartmockups.com/
 https://snapnames.com/
 https://www.namejet.com/
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
@@ -1754,6 +1896,8 @@ https://www.sophos.com/en-us/products/mobile-control/free-trial
 https://docs.sophos.com/central/customer/help/en-us/ManageYourProducts/ThreatAnalysisCenter/Integrations/Sophos/NDR/index.html
 https://www.sophos.com/en-us/products
 https://www.sophos.com/
+SOPHOS/Secureworks : Taegis
+SOPHOS/Secureworks : Redcloak
 Sophos IT Infrastructure (all other Sophos domains)
 Any Other Sophos Product or Service
 https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
@@ -1764,11 +1908,11 @@ http://artists.soundcloud.com/
 https://soundcloud.org
 SpaceX and Starlink assets (target information and rewards detailed above on the brief)
 https://square.online
-https://www.weebly.com/
 https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
 Square Register
 Square Terminal
+https://www.weebly.com/
 ███████████████████████████████████████
 █████████████████████████████████
 █████████████████████████████████
@@ -1786,28 +1930,22 @@ Square Terminal
 ███████████████████████████████
 ██████████████████████████████
 https://manage.statuspage.io
-Vehicle Head Units, TPMS sensors, remote keyless entry, and any other system that is present in a hardware product that you own or are authorized to test against
-https://www.driveuconnect.com
-https://www.driveuconnect.eu
-https://play.google.com/store/apps/details?id=com.acn.uc&hl=en
-https://play.google.com/store/apps/details?id=com.fcagroup.us.uconnect
-https://itunes.apple.com/us/app/uconnect/id1229236724?mt=8
-https://itunes.apple.com/pl/app/panda-uconnect/id1117321678?mt=8
-https://itunes.apple.com/gb/app/uconnect-live/id881830261?mt=8
+█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
+█████████████████████
+████████████████████
 https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=datacenter
+https://marketplace.atlassian.com/apps/1214971/handy-macros-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1214110/courses-and-quizzes-lms-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1210934/awesome-graphs-for-bitbucket?hosting=cloud
-https://marketplace.atlassian.com/apps/1210934/awesome-graphs-for-bitbucket?hosting=server
 https://marketplace.atlassian.com/apps/1210934/awesome-graphs-for-bitbucket?hosting=datacenter
 https://marketplace.atlassian.com/apps/1222084/spreadsheet-issue-field-editor?hosting=cloud
-https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=datacenter
-https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=server
 https://marketplace.atlassian.com/apps/1212507/smart-attachments-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1210766/teamcity-integration-for-jira?hosting=cloud
-https://marketplace.atlassian.com/apps/1214971/handy-macros-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1222102/webhook-manager-for-confluence-cloud?hosting=cloud
-https://marketplace.atlassian.com/apps/1222001/employee-performance-ratings?hosting=cloud
 https://marketplace.atlassian.com/apps/1224994/poll-maker-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1237512/latex-math-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1237729/checklist-for-jira-cloud-smart-todo-lists?hosting=cloud
 Self Register Account on T-Mobile Microsoft Entra ID
 Cellular Network Auth Bypass via Web/Mobile App
 T&P Servers
@@ -1841,6 +1979,10 @@ https://staging-trafficking.vistarmedia.com
 https://job-svc-b.vistarmedia.com
 https://docsite.vistarmedia.com
 https://sfleet.cortexpowered.com
+https://audience-builder.vistarmedia.com
+https://staging-login.vistarmedia.com
+https://clients.adstruc.com
+https://demo.adstruc.com
 Assets labeled as in-scope
 https://apps.apple.com/us/app/t-mobile/id561625752
 https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
@@ -1888,6 +2030,36 @@ https://play.google.com/store/apps/details?id=com.lafourchette.lafourchette
 https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://www.restaurant-information.com
 https://widget.thefork.com
+https://desk.thetradedesk.com
+https://api.thetradedesk.com
+https://auth.thetradedesk.com
+https://www.thetradedesk.com
+https://www.thecurrent.com
+https://partner.thetradedesk.com
+https://atlassian.thetradedesk.com
+https://www.adsrvr.org
+https://ops-sso.adsrvr.org/
+https://myopenpass.com
+https://auth.myopenpass.com
+https://partner.myopenpass.com
+https://atlantis-ext.myopenpass.com
+https://prod.uidapi.com
+https://prod.euid.eu
+https://core-prod.uidapi.com
+https://optout-prod.uidapi.com
+https://optout.prod.euid.eu
+https://transparentadvertising.com
+https://transparentadvertising.eu
+https://portal.unifiedid.com
+https://cdn.myopenpass.com
+https://demo.myopenpass.com
+https://cstg-integ.uidapi.com
+https://esp-jssdk-integ.uidapi.com
+https://esp-srvonly-integ.uidapi.com
+https://example-jssdk-integ.uidapi.com
+https://example-srvonly-integ.uidapi.com
+https://secure-signals-jssdk-integ.uidapi.com
+https://secure-signals-srvonly-integ.uidapi.com
 https://api.thousandeyes.com/
 https://app.thousandeyes.com/
 https://www.thousandeyes.com/
@@ -1960,18 +2132,18 @@ https://app.segment.com/
 https://api.segment.io/
 https://segment.com/docs/sources/
 Any host/web property verified to be owned by Twilio et al.
+https://opendata.test-socrata.com/admin/gateway
 https://opendata-demo.test-socrata.com
 https://opendata.test-socrata.com
-https://opendata.test-socrata.com/admin/gateway
-https://mintmobile.com
-https://ultramobile.com
-https://www.mintmobile.com/app/
-https://www.mintmobile.com/app/
-https://web-retailer-portal.ultramobile.com
 http://my.mintmobile.com/
 http://my.ultramobile.com
 https://my.mintmobile.com
 https://my.ultramobile.com
+https://play.google.com/store/apps/details?id=com.uvnv.mintsim
+https://apps.apple.com/us/app/mint-mobile/id1295303441
+https://mintmobile.com
+https://ultramobile.com
+https://web-retailer-portal.ultramobile.com
 https://www.underarmour.com
 https://www.underarmour.co.uk
 https://apps.apple.com/us/app/under-armour/id1092704571
@@ -1981,8 +2153,8 @@ https://www.underarmournext.co.uk/
 https://underarmournext.com/
 https://consumer-sustainability.underarmour.com/en
 https://vpe-us.underarmour.com/
-http://www.underarmour.com.sg
 https://www.underarmour.cn
+http://www.underarmour.com.sg
 https://underarmour.co.kr
 https://armourhouse.underarmour.com
 https://apphouse.underarmour.com/
@@ -2016,10 +2188,10 @@ https://api.unity.com
 https://cloud.unity.com
 https://store.unity.com
 https://pay.unity.com
-https://syncsketch.dev
 player-login.unity.com
 https://unity3d.com/get-unity/download/archive
 https://unity3d.com/get-unity/download
+https://services.unity.com
 https://www.upwork.com
 Upwork - Android Application
 Upwork - iOS Application
@@ -2081,6 +2253,15 @@ https://vlapi.usaa.com
 https://webmail.usaa.com
 https://ws.usaa.com
 https://wsmbr.usaa.com/
+CS2
+Dota2
+Dota Underlords
+Artifact
+Half-Life: Alyx
+Team Fortress 2
+Left 4 Dead
+Left 4 Dead 2
+All other games not listed in other target tables
 epptool-ctld.verisign-grs.com (EPP service; DNS related)
 a.root-servers.net (DNS service; DNS related)
 j.root-servers.net (DNS service; DNS related)
@@ -2124,7 +2305,6 @@ https://api.woox.io/
 https://woox.io/
 https://play.google.com/store/apps/details?id=network.woo.mobile&hl=en&gl=US&pli=1
 https://apps.apple.com/mt/app/woo-x-buy-crypto-btc/id1576648404
-██████████████████████████████
 https://auth.wyze.com
 https://my.wyze.com
 https://api.wyzecam.com
@@ -2152,5 +2332,5 @@ aiq-prod.codebig2.net
 staging-app.bany.dev
 http://staging-api.ynab.com
 www.ynab.com
-█████████████████████
-████████████
+https://baby.zola.com/
+https://apps.apple.com/us/app/zola-baby-registry/id6446598574

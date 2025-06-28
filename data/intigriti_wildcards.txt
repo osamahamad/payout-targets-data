@@ -2,10 +2,13 @@
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
 *.allegro.sk.allegrosandbox.pl
-*.bild.de
+*.hey.bild.de
+*.auth.bild.de
+*.sportbild.de
 *.bild.tv
 *.computerbild.de
 *.welt.de
+*.bild.de
 *.autobild.de
 *.bz-berlin.de
 *.spring-media.de
@@ -19,11 +22,11 @@
 *.techbook.de
 *.travelbook.de
 *.wissen-sie-mehr.de
-*.stbpost.be
 *.acbpost.be
 *.bpost.be
 *.bpost.cloud
 *.landmarkglobal-group.com
+*.stbpost.be
 *.ticketing.cm.com
 *.appmiral.com
 *.cm.com
@@ -50,7 +53,6 @@ Leaked/compromised employee accounts *.here.com
 *.hln.be
 *.parool.nl
 *.humo.be
-*.intel.com
 *.gamma.be/*
 *.gamma.nl/*
 *.intergamma.cloud
@@ -62,16 +64,6 @@ Leaked/compromised employee accounts *.here.com
 *.werkenbijgamma.nl
 *.werkenbijkarwei.nl
 *.karweioutletstore.nl
-*.klubcinema.fr
-*.megatix.be  
-*.kinepolis.be
-*.kinepolis.ch
-*.kinepolis.com
-*.kinepolis.fr
-*.kinepolis.lu
-*.kinepolis.nl
-*.landmarkcinemas.com
-*.mjrtheatres.com
 *.lansweeper.com
 *.libelle.nl
 *.mas.mobilevikings.be
@@ -82,12 +74,6 @@ Leaked/compromised employee accounts *.here.com
 *.acc.mobilevikings.be
 *.dev-pub.mobilevikings.be
 *.dev.mobilevikings.be
-*.monzo.com
-*.monzo.me
-*.prod-ffs.io
-*.ninjakiwi.me
-*.nkstatic.com
-*.souparea.com
 *.oda.com
 *.prod.nube.tech
 *.app.personio-dev.com
@@ -96,19 +82,17 @@ Leaked/compromised employee accounts *.here.com
 *.personio.tools
 *.personio.de
 *.personiowhistleblowing.com
-*.c-point.be
 *.portofantwerp.com
 *.portofantwerpbruges.com
 *.ripe.net
+ *.rivian.com
 *.rhinternal.net
 *.robinhood.com
 *.robinhood.net
 *.swisspass.ch
 *.sbb.ch
-*.say.rocks
 *.saytechnologies.com
-*.sqills.com
-*.sqills.team
+*.say.rocks
 *.weareone.world
 *.stag.tomorrowland.com
 *.stag.weareone.world
@@ -134,6 +118,14 @@ Leaked/compromised employee accounts *.here.com
 *.vtm.be
 *.vtmgo.be
 *.voiscooters.com
+*. advancedcustomfields.com
+*. bettersearchreplace.com
+*.deliciousbrains.com
+*.localwp.com
+*.nitropack.io
+*.studiopress.com
+*.wpengine.io
+*.wpesvc.net
 *.water-link.be/
 *.wolt.com
 *ensemble*.yahoo.com

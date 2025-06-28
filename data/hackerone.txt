@@ -1,3 +1,21 @@
+https://bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com/
+https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
+https://bug-bounty-rest.k8s.tools-001.d-use-1.braze-dev.com/
+Any other domain reasonably attributable to Silicon Labs
+Arduino Nano
+Gecko SDK
+SiW917
+Simplicity Studio Development Platform
+Wireless Microcontrollers (MCUs)
+community.silabs.com
+cpms.silabs.com
+docs.silabs.com
+https://github.com/SiliconLabsSoftware/aiml-extension
+https://github.com/SiliconLabsSoftware/matter_extension
+https://github.com/SiliconLabsSoftware/matter_sdk
+https://github.com/SiliconLabsSoftware/simplicity-device-manager
+https://github.com/tensorflow/tflite-micro/commit/02414075e7f718a2d0412775fcadbf28fb4cc5aa 
+ops.silabs.com
 WHOOP 4.0 STRAP
 api.prod.whoop.com
 app.whoop.com
@@ -5,6 +23,13 @@ com.whoop.android
 com.whoop.iphone
 join.whoop.com
 shop.whoop.com
+Customer Connected Domain
+Customer Portal
+HubSpot Android Mobile App
+HubSpot Sales Office 365 add-in
+HubSpot iOS Mobile App
+Other HubSpot-owned (sub)domains not listed as Out of Scope
+chatspot.ai
 A16k
 A76
 A96
@@ -51,9 +76,11 @@ com.fintech.life
 com.heytap.browser
 com.heytap.cloud
 com.heytap.health.international
+com.heytap.mall
 com.heytap.market
 com.heytap.music
 com.heytap.pictorial
+com.heytap.store
 com.heytap.themestore
 com.heytap.xgame
 com.nearme.browser
@@ -94,7 +121,11 @@ https://open.oppomobile.com
 https://sbox.myoas.com
 https://spgw-pay.finzfin.com
 https://support.oppo.com/cn/
+https://www.oppo.com/id/store
 https://www.oppo.com/in/
+https://www.oppo.com/my/store
+https://www.oppo.com/th
+https://www.oppo.com/th/store
 https://www.opposhop.cn/
 https://www.opposhop.cn/m/
 nearme.com.cn
@@ -106,6 +137,7 @@ http://--your-own-1password-account--.1password.com
 https://events.1password.com/api/
 Arc on Mac
 Arc on Windows
+Dia
 arc.net
 bcny.com
 company.thebrowser.arc
@@ -129,6 +161,14 @@ www.starbucks.co.jp
 Starbucks China Android
 Starbucks China iOS
 www.starbucks.com.cn/
+alfred.syfe.com
+api-uat-bugbounty.nonprod.syfe.com
+api.syfe.com
+com.syfe
+https://apps.apple.com/sg/app/syfe-stay-invested/id1497156434
+mark8.syfe.com
+uat-bugbounty.nonprod.syfe.com
+www.syfe.com
 ai.toloka.expert
 auth.toloka.ai
 experts-portal.toloka.ai
@@ -143,11 +183,21 @@ sso.auth.toloka.ai
 tb.toloka.dev
 workspace.toloka.ai
 workspace.toloka.dev
+2kleague-dev.nba.com
+2kleague-qa.nba.com
 2kleague.nba.com
+adb.nba.com
+bal-dev.nba.com
+bal-qa.nba.com
+bal-uat.nba.com
 bal.nba.com
+br.nba.com
+cares.nba.com
 cdn-bal.nba.com
 cdn.nba.com
+cl.nba.com
 cms.nba.com
+coalition.nba.com
 com.nbaimd.gametime.nba2011
 com.nbaimd.gametime.universal
 content-api-nextgen-prod.nba.com
@@ -156,21 +206,34 @@ core-api.nba.com
 corp-dev.nba.com
 cweb-ott.nba.com
 elm.nba.com
+gamenotes.nba.com
+gleague-dev.nba.com
+gleague-qa.nba.com
 gleague.nba.com
+grae.nba.com
 id.nba.com
 identity.nba.com
 lockervision.nba.com
 manage-teams.nba.com
 manage.nba.com
 nbafedsvc.nba.com
+socialimpact.nba.com
 stats-trafficcop-prod.nba.com
 stats.2kleague.nba.com
 stats.gleague.nba.com
 stats.nba.com
 stats.wnba.com
 syndication.nba.com
+teamdirectory.nba.com
 teamportal.nba.com
 vote.nba.com
+vth.nba.com
+www-dev.nba.com
+www-dev.wnba.com
+www-ng.nba.com
+www-qa.nba.com
+www-qa.wnba.com
+www-uat.nba.com
 www.nba.com
 www.wnba.com
 api.circle.com
@@ -179,6 +242,7 @@ console.circle.com
 http://github.com/circlefin/noble-cctp
 https://github.com/circlefin/buidl-wallet-contracts
 https://github.com/circlefin/evm-cctp-contracts
+https://github.com/circlefin/evm-gateway-contracts
 https://github.com/circlefin/noble-fiattokenfactory
 https://github.com/circlefin/solana-cctp-contracts
 https://github.com/circlefin/stablecoin-aptos
@@ -189,6 +253,10 @@ Klarna Android App (com.myklarnamobile)
 Klarna iOS App (com.klarna.app)
 Merchant Portal
 app.klarna.com
+Crypto infrastructure for cold and hot wallets
+pay.wallet.tg
+wallet.tg
+walletbot.me
 api.vault.chiatest.net
 https://apps.apple.com/app/chia-signer/id6504493785 
 https://github.com/Chia-Network/chia-blockchain
@@ -237,18 +305,30 @@ www.netflix.com
 api.23andme.com
 auth.23andme.com
 blog.23andme.com
+clinic.lemonaidhealth.com
 education.23andme.com
+healthaid.lemonaidhealth.com
+lemonaidhealth.com
 mediacenter.23andme.com
 medical.23andme.com
+pd-api.polkadoc.com
 research.23andme.com
+sapi-live.lh.us-west-2.prd.23andme.us
 store.23andme.com
 therapeutics.23andme.com
 you.23andme.com
+379693831
+com.audible.application
+tax.audible.com
 1641486558
 com.einnovation.temu
+seller.temu.com
 www.temu.com
+app.uma.money
 http://api.lightspark.com
 http://app.lightspark.com
+https://github.com/buildonspark/lrc20
+https://github.com/buildonspark/spark
 https://github.com/lightsparkdev/go-sdk
 https://github.com/lightsparkdev/lightspark-rs
 https://github.com/lightsparkdev/python-sdk
@@ -258,15 +338,14 @@ lightsparkdev/js-sdk
 lightsparkdev/kotlin-sdk
 lightsparkdev/lightspark-crypto-uniffi
 lightsparkdev/swift-wallet-sdk
-Web3 Smart Contract
+lrc20.lightspark.com
 https://apps.apple.com/us/app/bybit-app/id1488296980
 https://play.google.com/store/apps/details?id=com.bybit.app&hl=en
 <locale>.trip.com
+app.blueskytravelvietnam.com
 com.trip.android
 com.trip.ios
-staging.travix.com & stg.travix.com & dev.travix.com & development.travix.com & playground.travix.com
 1351179184
-belaz.bykea.net
 bykea.com
 com.bykea.pk
 com.bykea.pk.partner
@@ -276,8 +355,6 @@ https://leaflet-map.bykea.net
 https://maps.bykea.net
 https://nominatim.bykea.net
 e-Commerce
-https://github.com/leather-wallet/extension
-www.leather.io
 com.secretkeylabs.xverse
 com.secretkeylabs.xverse
 https://chrome.google.com/webstore/detail/xverse-wallet/idnnbdplmphpflfnlkomgpfbpcgelopg
@@ -298,6 +375,8 @@ ebctest.cybersource.com
 ht.visa.com
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
+https://ebctest.cybersource.com/merchant-mgmt/
+https://ebctest.cybersource.com/ums
 https://www.visa.com.az/az_az/account/registration
 sandbox.authorize.net
 sandbox.secure.checkout.visa.com
@@ -368,8 +447,8 @@ com.nicehash.metallum
 com.nicehash.mobile
 https://api-test.nicehash.com
 test.nicehash.com
-https://github.com/AleoHQ/snarkOS/
-https://github.com/AleoHQ/snarkVM/
+https://github.com/ProvableHQ/snarkOS
+https://github.com/ProvableHQ/snarkVM
 1013961111
 1218902777
 926252661
@@ -397,13 +476,19 @@ https://nw.ring.com/*
 https://oauth.ring.com/*
 https://ring.com/*
 prd-ring-web-us.prd.rings.solutions
+publicsafety.ring.com
+146.109.8.0/22
 153.46.104.0/22
 153.46.108.0/22
 153.46.111.0/24
 153.46.240.0/20
+153.46.30.0/23
+153.46.32.0/23
+153.46.34.0/23
 153.46.96.0/20
 193.109.229.0/24
 193.110.154.0/24
+194.209.121.0/24
 62.192.20.16/29
 https://apps.apple.com/ch/app/debix/id1581440132?l=en-GB
 https://apps.apple.com/mx/app/debix/id1581440132
@@ -418,18 +503,21 @@ https://web3.sdx.com
 https://www.sdx.com/
 www.bolsasymercados.es
 www.six-group.com
+Solarbank 2 E1600 Pro
 com.anker.AnkerMake
+com.anker.charging
 com.eufylife.EufyHome
 com.oceanwing.FDMPrint
 com.oceanwing.battery.cam
 com.oceanwing.care.cam
 com.security.BatteryCam
 com.security.care
+eufyMake E1
 https://us.eufy.com/products/e8213181
 https://us.eufy.com/products/t8410121
 https://us.eufy.com/products/t88511d1
 https://us.eufy.com/products/t88711w1
-https://www.ankermake.com/products/m5?variant=42744298373269
+id1635029057
 1023499075
 com.eero.android
 eero (2nd Generation)
@@ -495,6 +583,7 @@ Mac OS Executable
 OKT Chain
 OKX Android APK
 OKX Wallet Chrome Extension
+OKX Wallet Core Open Source
 OKX Wallet Edge Add-ons
 OKX Wallet Safari Extension
 OKX iOS APP
@@ -508,12 +597,23 @@ www.ddfcontent.com
 www.pornbox.com
 www.pornworld.com
 https://github.com/tronprotocol/java-tron
+https://napoleoncasino.be
+https://napoleoncasino.be/en-be/game/hogamba-crash?demo=false
+https://napoleondice.be
+https://napoleongames.be
+https://napoleonsports.be
+https://superbet.pl
+https://superbet.ro
+https://superbet.rs
 ro.superbet.games
 ro.superbet.sport
+superbet.bet.br
 Magic Eden Wallet (Chrome Extension)
-eng.magiceden.dev
-eng.magiceden.io
+com.magiceden.wallet
+com.magiceden.wallet
 magiceden.io
+slingshot.app
+slingshot.finance
 1431768824
 563291345
 965180355
@@ -552,26 +652,17 @@ api.au.frontegg.com
 portal.au.frontegg.com
 ab-platform-api.eu-east-1.indriverapp.com
 alternativa.film
-argocd.indrive.dev
 auroratechaward.com
-auth.indrive.tech
-auth2.indrive.tech
-aws.indrive.tech
-bridekidnapping.alternativa.film
 cargo.indrive.com
-ci.indrive.dev
 debug.clairvoyance.indrive.tech
 external.indrive.dev
-festival.alternativa.film
 file-storage-front.eu-east-1.indriverapp.com
-indrive.alternativa.film
+https://cas-cf.euce1.indriverapp.com/api/passkey
 ingest.clairvoyance.indrive.tech
-injob.indriver.com
 messenger.eu-east-1.indriverapp.com
 new-order.eu-east-1.indriverapp.com
 priority.eu-east-1.indriverapp.com
 profile-api.eu-east-1.indriverapp.com
-super-services.indriverapp.com
 truck-api.eu-east-1.indriverapp.com
 volans.tech
 watchdocs.indriverapp.com
@@ -637,9 +728,7 @@ sandbox.securegateway.com
 app.dynamic-preprod.xyz
 app.dynamic.xyz
 demo.dynamic.xyz
-329381334701178885
 831287358355275877
-937011954453721119
 961114489414094898
 app.moderntreasury.com
 cdn.moderntreasury.com
@@ -667,6 +756,7 @@ api-eu.floqast.app
 Any public (Internet-facing) infrastructure owned and operated by Palantir.
 Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
 .NET Driver
+All Evergreen Assets (Excluding staging)
 C Driver
 C# Driver
 C++ Driver
@@ -740,12 +830,9 @@ Wickr Pro/Wickr Me (all related technical components) (up to)
 admin.wickr.com
 www.wickr.com
 http://greenchannel.payoneer.com.cn/gcportal
+myaccount-cn.payoneer.com
+myaccount.payoneer.com
 payoneer.com.cn
-https://github.com/Agoric/agoric-sdk/tree/master/packages/ERTP
-https://github.com/Agoric/agoric-sdk/tree/master/packages/inter-protocol
-https://github.com/Agoric/agoric-sdk/tree/master/packages/zoe
-https://github.com/endojs
-https://github.com/endojs/endo/tree/master/packages/ses
 api.moonpay.com
 app.moonpay.com
 auth.moonpay.com
@@ -857,6 +944,8 @@ www.zooplus.co.uk
 www.zooplus.com
 www.zooplus.de
 zooplus.net
+com.newegg.app
+com.newegg.app
 Other
 account.krisp.ai
 analytics.krisp.ai
@@ -968,9 +1057,6 @@ securitytrails.com
 therecord.media
 tria.ge
 www.recordedfuture.com
-1503133294
-Clubhouse Production and Corporate Infrastructure
-com.clubhouse.android
 developer.metamask.io
 http://portfolio.metamask.io
 http://staking.consensys.io
@@ -985,6 +1071,7 @@ HyprUnlock.exe
 com.hypr.one
 com.hypr.one
 978516833
+Sandboxes
 Stripe Apps
 Stripe Atlas
 Stripe Billing
@@ -1000,6 +1087,7 @@ Stripe Identity
 Stripe Invoicing
 Stripe Issuing
 Stripe Open Source
+Stripe Organizations
 Stripe Payment Links
 Stripe Payments
 Stripe Radar
@@ -1074,10 +1162,26 @@ www.xnxx.com
 www.xnxx.gold
 www.xvideos.com
 www.xvideos.red
+*-vpn.8x8.com
 8x8 Communication APIs
 8x8 Partner Portal
 8x8-work
 8x8.my.site.com
+ASN: AS10976
+ASN: AS133144
+ASN: AS13896
+ASN: AS14294
+ASN: AS198554
+ASN: AS199687
+ASN: AS206422
+ASN: AS32308
+ASN: AS395362
+ASN: AS398067
+ASN: AS44965
+ASN: AS46680
+ASN: AS49856
+ASN: AS62306
+ASN: AS62876
 Cloud Misconfigurations
 Discovered Leaked Credentials
 Intellectual Property on Public Domains
@@ -1332,50 +1436,11 @@ shop-id.tokopedia.com
 shop.tiktok.com
 tiktok.com
 www.pangleglobal.com
-1180074773
-9n236hqqtvnh
-Innovation Workspace
-Intelligent Canvas
-MacOS Desktop Application
-Miro SDK
-Tier1
-Tier2
-Windows Desktop Application
-api.miro.com
-com.realtimeboard
-http://miro.com/app
-http://miro.com/blog
-https://marketplace.atlassian.com/apps/1215456/miro-for-jira-cloud?hosting=cloud
-https://marketplace.atlassian.com/apps/1217530/miro-for-confluence?hosting=cloud
-https://marketplace.atlassian.com/apps/1219583/jira-cards-by-miro?hosting=cloud
-miro.com
-Chime Android App (Beta)
-Chime IOS App (Beta)
-PayFriends/PayAnyone Features
-app.chime.com
-app.saltlabs.com
-app.staging.saltlabs.com
-com.1debit.ChimeProdApp
-com.onedebit.chime
-com.saltlabs.app
-http://member-qa.chime.com/enroll/#/account
-http://member-qa.chime.com/users/sign_in
-https://app.chime.com/
-id1668462142
-saltlabs.com
-wp-ci.chime.com
-wp-dev1.chime.com
-wp-dev2.chime.com
-wp-dev3.chime.com
-wp-dev4.chime.com
-wp-dev5.chime.com
-wp-integ.chime.com
-wp-qa.chime.com
-www.chime.com
 LaunchDarkly Open Source SDKs
 app.launchdarkly.com
 docs.launchdarkly.com
 events.launchdarkly.com
+https://launchdarkly.com/docs
 stream.launchdarkly.com
  https://github.com/0xPolygon/proof-generation-api
 api-gateway.polygon.technology
@@ -1404,6 +1469,7 @@ Figma iOS and Android apps
 api.figma.com
 www.figma.com
 1057338687
+1151746202
 1265170914
 1276296103
 1454725763
@@ -1427,6 +1493,8 @@ www.figma.com
 6444868926
 6452192521
 6471528064
+6479334468
+6560104638
 794141485
 988788863
 Amazon Subsidiaries (Please only actively test explicitly stated scope)
@@ -1435,12 +1503,16 @@ Other Amazon Retail Mobile Apps (Please only actively test explicitly stated sco
 Other Amazon Retail Sites (Please only actively test explicitly stated scope)
 amazon.speech.sim
 amazonpayinsurance.in
+com.amazon.aba.application
 com.amazon.amazonone.androidapp
 com.amazon.amazonvideo.livingroom
 com.amazon.astro
 com.amazon.avod.thirdpartyclient
+com.amazon.enterprise.access.android
+com.amazon.firetv.recast.blaster.aosp
 com.amazon.flex.rabbit
 com.amazon.helix.prod
+com.amazon.ihm.candycane
 com.amazon.imdb.tv.mobile.app
 com.amazon.kisan.app
 com.amazon.mShop.android.business.shopping
@@ -1455,6 +1527,7 @@ com.amazon.sellerflexmobile
 com.amazon.sellermobile.android
 com.amazon.sft.rangoli.seller.app
 com.amazon.shopperpanel.android.mobile.app
+com.amazon.swa.mobileapp
 com.amazon.tahoe.grownups
 com.amazon.technician.android
 com.amazon.vendormobile.android
@@ -1479,6 +1552,7 @@ cpanel.hostinger.com
 horizons.hostinger.com
 hpanel.hostinger.com
 payments.hostinger.com
+reach.hostinger.com
 www.hostinger.com
 1080248000
 878577184
@@ -1520,11 +1594,6 @@ api.evernote.com
 api.stage.evernote.com
 com.evernote
 www.evernote.com
-https://filezilla-project.org/download.php?type=server&show_all=1
-https://svn.filezilla-project.org/svn/FileZilla3/trunk/
-https://svn.filezilla-project.org/svn/filezilla3/trunk/src/putty
-https://svn.filezilla-project.org/svn/libfilezilla/trunk
-https://svn.filezilla-project.org/svn/libfilezilla/trunk/
 github.com/oasisprotocol/explorer
 http://emerald.oasis.dev
 http://grpc.oasis.dev
@@ -1754,7 +1823,6 @@ Dynatrace MobileAgent
 Dynatrace OneAgent
 account-sprint.dynatracelabs.com
 https://github.com/Dynatrace
-https://github.com/Dynatrace-innovationlab
 myaccount-hardening.dynatracelabs.com
 sso-sprint.dynatracelabs.com
 university-staging.dynatracelabs.com
@@ -1847,11 +1915,10 @@ api.instacart.com
 com.instacart.client
 shoppers.instacart.com
 www.instacart.com
-api.fortmatic.com
 api.magic.link
 auth.magic.link
 dashboard.magic.link
-portal.magicnewton.com
+newton.xyz
 1245772818
 284803487
 284971959
@@ -1862,7 +1929,6 @@ portal.magicnewton.com
 566635048
 880759727
 987675995
-bookus.expediacruises.com
 com.cheaptickets
 com.ebookers
 com.expedia.bookings
@@ -1879,8 +1945,8 @@ www.carrentals.com
 www.cheaptickets.com
 www.ebookers.com
 www.ebookers.fi
+www.expedia-aarp.com
 www.expedia.com
-www.expediaagents.com
 www.expediagroup.com
 www.expediataap.com
 www.fewo-direkt.de
@@ -1920,6 +1986,7 @@ com.etoro.wallet
 delta.app
 etorologsapi.etoro.com
 etoropartners.com
+helpers.bullsheet.me
 io.getdelta.android
 io.getdelta.ios
 kyc-src.etoro.com
@@ -1998,14 +2065,33 @@ Leaked Credentials
 Point Smart
 api.mercadolibre.com
 api.mercadopago.com
+biolibre.ar
+biolibre.cl
+biolibre.co
+biolibre.mx
+biolivre.com.br
 com.3mosquitos.MercadoLibre
 com.mercadoenvios.crowdsourcing
 com.mercadoenvios.driver
 com.mercadoenvios.logistics
 com.mercadolibre
+com.mercadolibre.android.mplay_tv
 com.mercadopago.MercadoPago
 com.mercadopago.wallet
 logistica.redelcom.cl
+meliplay.com.ar
+meliplay.com.pe
+meliplay.com.uy
+mercadoplay.co
+mercadoplay.com.pe
+mercadoplay.com.uy
+mercadoplay.pe
+mercadoplay.uy
+portalinmobiliario.cl
+portalinmobiliario.com
+tucarro.com
+tucarro.com.co
+tumoto.com
 www.mercadolibre.co.cr
 www.mercadolibre.com.bo
 www.mercadolibre.com.do
@@ -2160,6 +2246,7 @@ mgs.marriott.com
 mipartnerprivileges.marriott.com
 moments.marriottbonvoy.com
 passwordchallenge.marriott.com
+psp.marriott.com
 reservations.all-inclusive.marriott.com
 sso.marriott.com
 travelagents.marriott.com/
@@ -2231,7 +2318,6 @@ www.beachbound.com
 www.blueskytours.com
 www.cheapcaribbean.com
 www.funjet.com
-www.globalhotelchoices.com
 www.hyatt.com
 www.hyattconnect.com
 www.hyattinclusivecollection.com
@@ -2267,7 +2353,8 @@ com.acronis.acronistrueimage
 Faucets
 chain.link
 https://github.com/smartcontractkit/chainlink
-https://github.com/smartcontractkit/chainlink/tree/master/contracts
+https://github.com/smartcontractkit/chainlink-evm/tree/develop/contracts
+https://github.com/smartcontractkit/chainlink-solana/tree/develop/contracts
 https://github.com/smartcontractkit/external-adapters-js/
 https://github.com/smartcontractkit/staking-v0.1/tree/master/contracts
 351727428
@@ -2347,7 +2434,9 @@ co.mona.android
 com.defi.wallet
 com.defi.wallet
 com.monaco.mobile
+developer-api.crypto.com
 developer-platform-api.crypto.com
+developer.crypto.com
 https://crypto.com/exchange
 https://crypto.com/nft
 https://crypto.com/price
@@ -2376,6 +2465,10 @@ itv7.itv.com
 super6.skysports.com
 https://github.com/rsksmart/2wp-api
 https://github.com/rsksmart/2wp-app
+https://github.com/rsksmart/bridges-core-sdk
+https://github.com/rsksmart/flyover-sdk
+https://github.com/rsksmart/liquidity-bridge-contract
+https://github.com/rsksmart/liquidity-provider-server
 https://github.com/rsksmart/powpeg-node
 https://github.com/rsksmart/rif-wallet
 https://github.com/rsksmart/rif-wallet-libs
@@ -2544,13 +2637,13 @@ AdwCleaner
 Any other Malwarebytes asset
 BrowserGuard (Firefox/Chrome/Safari browser extension)
 Malwarebytes Anti-Exploit
-Malwarebytes Anti-Ransomware
 Malwarebytes Device Control
 Malwarebytes Endpoint Detection and Response (EDR)
 Malwarebytes Endpoint Protection
 Malwarebytes Incident Response
 Malwarebytes Privacy (VPN)
 Malwarebytes Remediation for CrowdStrike
+Malwarebytes Support Tool (MBST)
 Malwarebytes ToolSet (MBTS)
 Malwarebytes Windows Firewall Control
 Malwarebytes for Mac
@@ -2737,6 +2830,11 @@ com.enjin.mobile.wallet
 com.enjin.mobile.wallet
 nft.io
 platform.enjin.io
+Nintendo Switch 2 Kernel / ARM® TrustZone®
+Nintendo Switch 2 Security controller known as PSC or Platform Security Controller (any component) / Security controller known as TSEC (bootROM only)
+Nintendo Switch 2 System Processes
+Nintendo Switch 2 System Processes allowing piracy
+Nintendo Switch 2 applications for which Nintendo is the publisher worldwide
 Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
 cdn.plaid.com
@@ -2791,7 +2889,7 @@ https://laptop-updates.brave.com/latest/winx64
 search.brave.com
 talk.brave.com
 Burp Collaborator
-Burp Suite Enterprise Edition
+Burp Suite DAST
 Burp Suite Extension (BApps)
 Burp Suite Pro/Community
 ai.portswigger.net
@@ -2853,10 +2951,6 @@ com.withbuddies.dice.free
 id1427744264
 id1541153375
 id1621328561
-api.localizestaging.com
-app.localizestaging.com
-cdn.localizestaging.com
-localizestaging.com
 BBPress Core
 BuddyPress Core
 GlotPress
@@ -2995,6 +3089,7 @@ GitHub CLI
 GitHub CSP
 GitHub Desktop
 GitHub Enterprise Cloud
+GitHub Enterprise Cloud with Data Residency (GHEC-DR)
 GitHub Enterprise Server
 GitHub Pages
 GitHub Production Credentials
@@ -3009,19 +3104,20 @@ npmjs.com
 npmjs.org
 com.wealthsimple
 com.wealthsimple.wealthsimple
-https://github.com/mainwp/mainwp
-https://github.com/mainwp/mainwp-child
 434613896
+6670203019
 All Assets (other than Blinkit)
 All District Assets (Other than Zomato, BlinkIT & Hyperpure)
 All Zomato Assets (Other than BlinkIT & Hyperpure)
-BlinkIT, Hyperpure assets (in scope)
+Blinkit, Bistro and Hyperpure assets (in scope)
 Scope Questions: Items not explicitly listed here
 api.grofers.com
 api2.grofers.com
+bistro-api.blinkit.com
 blinkit.com
 com.application.zomato
 com.application.zomatomerchant
+com.blinkit.bistro
 com.grofers.customerapp
 winecellar.zomato.com
 Tor
@@ -3053,11 +3149,11 @@ https://www.glassdoor.com/*
 547702041
 com.tinder
 fetlife.com
-dashboard.algolia.com
-www.algolia.com
+fetlifemail.com
 1142114207
 1257641454
 1343620481
+1481198245
 647268330
 C100447517
 C103149579
@@ -3066,9 +3162,11 @@ com.grab.merchant
 com.grabpay.merchant
 com.grabtaxi.driver2
 com.grabtaxi.passenger
+com.moveit.app.customer
 gamma.grab.co
 gifts.grab.com
 grab.careers
+hungrygowhere.com
 jira.grab.com
 kartaview.org
 manage.grab.co
@@ -3096,15 +3194,12 @@ www.dashlane.com
 www.udemy.com
 yourcompany.udemy.com
 1174276185
-488534576
 549057844
-com.futuresimple.base
 com.zendesk.android
 com.zopim.android
 developer.zendesk.com
 h1-your-domain.zendesk.com
 http://h1-your-domain.zendesk.com/qa/
-http://h1-your-domain.zendesk.com/sell
 http://h1-your-domain.zendesk.com/wfm/
 https://developer.zendesk.com/documentation/zendesk-sdks/#android
 https://developer.zendesk.com/documentation/zendesk-sdks/#ios
@@ -3113,6 +3208,7 @@ zopim.com
 business.kayak.com
 com.kayak.android
 com.kayak.travel
+kayak.ai
 www.cheapflights.com
 www.checkfelix.com
 www.hotelscombined.com
@@ -3148,8 +3244,8 @@ shopify.plus
 shopifyinbox.com
 your-store.myshopify.com
 api.mapbox.com
+https://docs.mapbox.com/
 https://docs.mapbox.com/android/
-https://docs.mapbox.com/api/
 https://docs.mapbox.com/ios/maps/overview/
 https://github.com/mapbox
 https://www.mapbox.com/mapbox-gl-js/
@@ -3177,6 +3273,7 @@ careers.booking.com
 cars.booking.com
 chat.booking.com
 compass.fareharbor.com
+cruises.booking.com
 demo.fareharbor.com
 distribution-xml.booking.com
 experiences.booking.com
@@ -3213,6 +3310,7 @@ teleport.fareharbor.engineering
 webhooks.booking.com
 widget.rentalcars.com
 www.fareharbor.com
+www.sustainability.booking.com
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 api-staging.airtable.com
 staging.airtable.com
@@ -3279,10 +3377,12 @@ EdgeMAX
 UCRM
 UFiber
 UID
+UISP
 UNMS
 UniFi
 UniFi Access
 UniFi Cloud
+UniFi Connect
 UniFi Gateways (UDM, UXG, USG)
 UniFi LED
 UniFi Network Application
@@ -3360,6 +3460,7 @@ bookingholdings-coe.com
 com.priceline.android.negotiator
 cruises.priceline.com
 flyiin.com
+https://www.priceline.com/pwd/v0/pcln-graphql/
 ir.bookingholdings.com
 press.priceline.com
 priceline.com
@@ -3439,6 +3540,7 @@ https://gitlab.com/gitlab-org/gitlab-vscode-extension
 https://gitlab.com/gitlab-org/opstrace/opstrace
 registry.gitlab.com
 ai.x.GrokApp
+ai.x.grok
 com.atebits.Tweetie2
 com.twitter.android
 gnip.com
@@ -3503,7 +3605,7 @@ Jetpack
 Texts
 WooCommerce
 WordPress Plugins & Themes
-WordPress.com VIP
+WordPress VIP
 akismet.com
 api.tumblr.com
 assets.tumblr.com
@@ -3521,16 +3623,6 @@ simplenote.com
 t.umblr.com
 wordpress.com
 www.tumblr.com
-api.irccloud.com
-blog.irccloud.com
-com.irccloud.IRCCloud
-com.irccloud.android
-https://github.com/irccloud/android
-https://github.com/irccloud/ios
-irc.irccloud.com
-irccloud.com
-team-irc.irccloud.com
-www.irccloud.com
 54.175.255.192/27
 Coinbase WaaS (Wallet as a Service)
 Other
@@ -3547,6 +3639,7 @@ custody.coinbase.com
 http://coinbase.com
 https://base.org
 https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad
+https://github.com/coinbase/cb-mpc
 institutional.coinbase.com
 international.coinbase.com
 nft.coinbase.com
@@ -3590,6 +3683,7 @@ hackerone-us-west-2-production-attachments.s3.us-west-2.amazonaws.com
 hackerone-user-content.com
 hackerone.com
 hackerone.live
+https://github.com/Hacker0x01/react-datepicker
 mta-sts.wearehackerone.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com

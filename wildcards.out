@@ -1,12 +1,14 @@
+ *.rivian.com
  *.sip.*.twilio.com
  *.test.*.lfscnp.com
  Twilio CDNs (static*.twilio.com)
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *-api-*.acronis.com
 *-cvr-aws-*.sys.comcast.net
+*. advancedcustomfields.com
+*. bettersearchreplace.com
 *. vfsevisa.id
 *.-np.*.lfscnp.com
-*.10bis.co.il
 *.1debit.com
 *.3lateral.com
 *.5nine.com
@@ -17,6 +19,8 @@
 *.8x8.vc
 *.8x8cloud.net
 *.8x8e2e.com
+*.8x8hosts.internal
+*.8x8hosts.pilot
 *.8x8pilot.com
 *.8x8staging.com
 *.8x8testa.com
@@ -29,12 +33,14 @@
 *.acceptance.cloud.8x8.com
 *.account.api.here.com
 *.account.here.com
+*.account.mongodb.com/*
 *.acrobat.adobe.com
 *.acronis.com
 *.acronis.work
 *.ad.nl
 *.adaptive-shield.com
 *.adminml.com
+*.adsrvr.org
 *.adultforce.com
 *.advisor-connection.com
 *.advisorsolutions.gs.com
@@ -44,8 +50,6 @@
 *.airbnbcitizen.com
 *.alasco.de
 *.alasco.rocks
-*.algolia.net
-*.algolianet.com
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
 *.allegro.sk.allegrosandbox.pl
@@ -79,6 +83,7 @@
 *.apex-football.com
 *.api.cx.metamask.io
 *.api.dailymotion.com
+*.api.louisvuitton.com
 *.api.originenergy.com.au
 *.api.playstation.com
 *.api.ua.com/
@@ -95,7 +100,9 @@
 *.atg.se
 *.atlastunnel.com
 *.atspotify.com
+*.audible.(TLD)
 *.audicagame.com
+*.auth.bild.de
 *.autobild.de
 *.avecspotify.com
 *.ayco.com
@@ -103,7 +110,6 @@
 *.backend-capital.com
 *.base.org
 *.berush.com
-*.beta.scoober.com
 *.betfair.com
 *.betfair.es
 *.betfair.it
@@ -117,10 +123,10 @@
 *.binary.com
 *.bingoblitz.com
 *.bionic.ai
-*.bistro.sk
 *.bitdefender.com
 *.bitdefender.net
 *.bitmex.com
+*.bitoasis.net
 *.bitstamp.net - Bitstamp Supporting Services
 *.blinkforhome.com/*
 *.boardkingsgame.com
@@ -139,15 +145,17 @@
 *.braintreepayments.com
 *.brazzers.com
 *.bredbandsbolaget.se
+*.bridge.xyz
 *.buddypress.org,bbpress.org,profiles.wordpress.org
+*.budgetair.com
 *.bugcrowd.com/auth/*
 *.byairbnb.com
 *.bybit.com
 *.bykea.net
 *.byspotify.com
 *.bz-berlin.de
-*.c-point.be
 *.caesarsgames.com
+*.call-control.ie
 *.canva-apps.cn
 *.canva-apps.com
 *.canva.cn
@@ -173,24 +181,21 @@
 *.cheaptickets.com
 *.cheaptickets.nl
 *.chime.com
-*.chimebank.com
+*.chimebank.com	
 *.chimecard.com
 *.chimepayments.com
 *.chmfin.com
 *.cic-bug-bounty.auth0app.com
 *.citrixworkspacesapi.net
-*.citymeal.com
 *.claritymoney.com
 *.classdojo.co.uk
 *.classdojo.com
-*.clearxchange.com
 *.cloud.malwarebytes.com
+*.cloud.mongodb.com/*
 *.cloud.vimeo.com
 *.cloudflare.com
 *.cloudflarepartners.com
 *.cloudways.com
-*.clubhouse.com
-*.clubhouseapi.com
 *.cm.com
 *.cmtelecom.com
 *.coda.io/*
@@ -211,7 +216,6 @@
 *.crossclip.com
 *.crowdstrike.com
 *.crypto.com
-*.cryptopunks.app
 *.cubicmotion.com
 *.cyberghost.com
 *.cyrus-security.com
@@ -220,6 +224,7 @@
 *.dancecentral.com
 *.datacamp.com
 *.de.jbl.com
+*.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demorgen.be
@@ -234,6 +239,7 @@
 *.dev.remitly.com
 *.devicelock.com
 *.dh-commerce.com 
+*.dialog.com.au
 *.dibz.co.uk
 *.digitalocean.com
 *.directverify.in
@@ -252,9 +258,10 @@
 *.dropboxer.net
 *.dropboxforum.com
 *.dropmix.com
+*.dropxl.com
+*.dsanalytics.com
 *.earlywarning.com
 *.easy.ac
-*.eat.ch
 *.edition.in
 *.ein-herz-fuer-kinder.de
 *.elastic.co
@@ -278,7 +285,6 @@
 *.europolitan.se
 *.exodus.com
 *.exodus.io
-*.expediacruises.com
 *.expediapartnercentral.com
 *.expressvpn.com
 *.fallguys.com
@@ -293,6 +299,7 @@
 *.floqast.app
 *.floqast.engineering
 *.flowsecurity.app
+*.flugladen.de
 *.folioclient.com
 *.foliodigitalwealth.com
 *.foliofirst.com
@@ -332,6 +339,7 @@
 *.gop3.nl
 *.gotinder.com
 *.governorofpoker.com
+*.gp.monash.edu
 *.grab-sure.com
 *.grab.co
 *.grab.com
@@ -340,13 +348,13 @@
 *.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
-*.granularinsurance.com/
 *.grindr.com
 *.grindr.io
 *.grindr.mobi
 *.grofer.io
 *.grofers.com
 *.grok.com
+*.grwtrading.com
 *.gs-mosaic.gs.com
 *.gs-mosaic.qa.gs.com
 *.gs.com
@@ -368,6 +376,7 @@
 *.helloworks.com
 *.here.com
 *.hereapi.com
+*.hey.bild.de
 *.hey.com
 *.highwebmedia.com
 *.hilton.com
@@ -401,7 +410,6 @@
 *.in.jbl.com
 *.in2tel.ie
 *.incapsula.com
-*.indeed.com
 *.indeed.net
 *.indeed.tech
 *.indeedflex.com
@@ -409,19 +417,15 @@
 *.indriver.com
 *.indriver.io
 *.indriverapp.com
-*.indriverjob.com
 *.infra-prod.nsvcs.net
 *.insider.in
 *.instacart.com
 *.instacart.tools
 *.int.remitly.com
-*.intel.com
 *.intercomassets.com / *.intercomcdn.com
 *.intergamma-test.nl
 *.intergamma.cloud
 *.intergamma.nl/*
-*.irccloud-cdn.com
-*.irccloud.com
 *.itcapital.io
 *.jbl.com
 *.jbl.com.br
@@ -430,14 +434,8 @@
 *.jit.si
 *.jitsi.net
 *.jobapi.net
-*.joinclubhouse.com
 *.jora.com
 *.jora.xyz
-*.just-data.io
-*.just-eat.com 
-*.just-eat.dk
-*.just-eat.fr
-*.just-eat.no
 *.justfall.lol,*.justplay.lol,*.1v1.lol
 *.karwei.nl/*
 *.karweioutletstore.nl
@@ -448,19 +446,11 @@
 *.khealth.io/
 *.khealth.us/
 *.kiln.it
-*.kinepolis.be
-*.kinepolis.ch
-*.kinepolis.com
-*.kinepolis.fr
-*.kinepolis.lu
-*.kinepolis.nl
 *.kiwi.com
-*.klubcinema.fr
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
 *.kwsdose.be
-*.landmarkcinemas.com
 *.landmarkglobal-group.com
 *.lansweeper.com
 *.lastminute.co.nz
@@ -472,8 +462,6 @@
 *.latitudepay.com.au
 *.lemonsqueezy.com
 *.libelle.nl
-*.lieferando.at
-*.lieferando.de
 *.lightroom.adobe.com
 *.line-apps.com
 *.line.biz
@@ -483,6 +471,7 @@
 *.link.co
 *.linktree-extensions.com
 *.livestream.com
+*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.login.gov
@@ -512,10 +501,7 @@
 *.mb-cosmos.com
 *.mbamupdates.com
 *.mcssl.com
-*.mdvmm.xyz
 *.mediatonic.co.uk
-*.meebits.app
-*.megatix.be  
 *.melonapp.com
 *.memorable.io
 *.meraki.com
@@ -555,7 +541,6 @@
 *.mir.uzleuven.be
 *.miui.com
 *.miwifi.com
-*.mjrtheatres.com
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
@@ -564,8 +549,6 @@
 *.mofos.com
 *.mona.co
 *.monopoly-poker.com
-*.monzo.com
-*.monzo.me
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -588,6 +571,9 @@
 *.napoleondice.be
 *.napoleongames.be
 *.napoleonsports.be
+*.ncs.co
+*.ncs.com.cn
+*.ncsimpact.co
 *.nearme.com.cn
 *.neat.com.hk
 *.neat.hk
@@ -603,9 +589,8 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
-*.ninjakiwi.me
+*.nitropack.io
 *.niumba.com
-*.nkstatic.com
 *.nmfn.com
 *.nml.com
 *.nnip.com
@@ -645,6 +630,7 @@
 *.otherside.xyz
 *.outfra.xyz
 *.ovo.id
+*.ovofinansial.com
 *.ownit.se
 *.p8t.us
 *.packet8-pilot.net
@@ -673,6 +659,8 @@
 *.playtika.com
 *.playuzleuven.be
 *.playwsop.com
+*.points.com
+*.polymoon.it
 *.portofantwerp.com
 *.portofantwerpbruges.com
 *.ppbdev.com
@@ -682,7 +670,6 @@
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
-*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -692,7 +679,6 @@
 *.prowly.com
 *.psynet.gg
 *.psyonix.com
-*.pyszne.pl
 *.qaglobal-liquidity.gs.com
 *.quip.com
 *.quixel.com
@@ -743,7 +729,6 @@
 *.sc-corp.net
 *.scatec.io
 *.scbe.api.here.com
-*.scoober.com
 *.scopely.com
 *.scopely.io
 *.seancody.com
@@ -775,6 +760,7 @@
 *.sidefx.com
 *.signalpath.com/
 *.siilo.com
+*.silabs.com
 *.simpletax.ca
 *.singspacegame.com
 *.sketchfab.com
@@ -802,9 +788,9 @@
 *.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
-*.souparea.com
 *.spiketrap.io
 *.spinaway.com
+*.sportbild.de
 *.sportinglife.com
 *.spotify.com
 *.spotify.net
@@ -812,8 +798,6 @@
 *.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
-*.sqills.com
-*.sqills.team
 *.square.com
 *.squareup.com
 *.srvcs.tumblr.com
@@ -823,11 +807,13 @@
 *.staging-airtableblocks.com
 *.staging.airtable.com
 *.staging.cloud.8x8.com
+*.staging.travix.com
 *.statuspage.io
 *.stbpost.be
 *.streamlabs.com
 *.streamlabscharity.com
 *.stripe.com
+*.studiopress.com
 *.stylebook.de
 *.subp-router.hereapi.com
 *.superbet.com
@@ -839,8 +825,6 @@
 *.swiftype.com
 *.swisspass.ch
 *.sys.comcast.net
-*.takeaway.com
-*.taralite.com
 *.tdl.sh
 *.teams.cloudflare.com
 *.techbook.de
@@ -851,10 +835,10 @@
 *.teslainsuranceservices.com
 *.teslamotors.com
 *.testnet.immutable.com
+*.thetradedesk.com
 *.thinkingphones.com
 *.thinkingphones.net
 *.threatdown.com
-*.thuisbezorgd.nl
 *.ticketing.cm.com
 *.ticketnew.com
 *.tidalhifi.com
@@ -880,7 +864,9 @@
 *.travix.com
 *.travix.io
 *.trello.services
+*.trip.biz
 *.trip.com
+*.triplinkintl.com
 *.trouw.nl
 *.truelayer.cloud
 *.truelayer.com
@@ -895,7 +881,9 @@
 *.twimg.com
 *.twinmotion.com
 *.twistys.com
+*.twitter.biz
 *.twitter.com
+*.tyo-masters.co.jp
 *.uberinternal.com
 *.ubnt.com
 *.ucverse.com
@@ -903,6 +891,7 @@
 *.ui.com
 *.ui.com/distributors/
 *.ui.com/training/partners/
+*.uisp.com
 *.uk.harmanaudio.com
 *.uk.jbl.com
 *.ultimateearsuniversity.com
@@ -916,6 +905,7 @@
 *.varonis.io
 *.varonis.net
 *.vascoworldwide.net
+*.vayama.com
 *.venmo.com
 *.vennhypotheken.nl
 *.verily.com/
@@ -932,6 +922,7 @@
 *.vimla.se
 *.vimla.work
 *.vine.co
+*.vliegwinkel.nl
 *.vod2.infomaniak.com
 *.voiscooters.com
 *.volkskrant.nl
@@ -951,6 +942,7 @@
 *.werkenbijgamma.nl
 *.werkenbijkarwei.nl
 *.wf.com
+*.wholesalexl.com
 *.wimpmusic.com
 *.wise.com
 *.wissen-sie-mehr.de
@@ -967,7 +959,8 @@
 *.worldcoin.dev
 *.worldcoin.org
 *.wotif.com
-*.wystar.com
+*.wpengine.io
+*.wpesvc.net
 *.x.ai
 *.x.com
 *.xcal.tv
@@ -982,7 +975,6 @@
 *.yelp-support.com
 *.yelp.com
 *.yelpwifi.com
-*.yourdelivery.de
 *.yoyogames.com
 *.ys7.com
 *.yuga.com
@@ -1004,9 +996,12 @@ GenAI Apps under *.amazon.*
 Leaked/compromised employee accounts *.here.com
 Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 analytics-*.8x8.com
+api*.hubapi.com
+api*.hubspot.com
 api*.netflix.com
 api-*.soundcloud.com
 api.zmsp.*.earlywarning.io
+app*.hubspot.com
 bugcrowd-*your-own-instance*.cloud.mattermost.com/
 casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 dcfgateway*.marriott.com

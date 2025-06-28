@@ -28,6 +28,13 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.canva.cn
 *.canva-apps.cn
 *.cashstaging.app
+*.chimepayments.com
+*.chime.com
+*.1debit.com
+*.chimecard.com
+*.chmfin.com
+*.chimebank.com	
+*.saltlabs.com
 *.meraki.com
 *.ikarem.io
 *.network-auth.com
@@ -67,10 +74,6 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.xvservice.net
 *.certinia.com
 *.kiln.it
-*.hubspotemail.net
-*.hs-sites(-eu1)?.com
-*.hubspotpagebuilder.com
-*.hubspotpagebuilder.eu
 *.movilepay.com
 *.movilepay.com.br
 *.immutable.com
@@ -79,30 +82,12 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.guildofguardians.com
 *.imperva.com
 *.incapsula.com
-*.indeed.com
 *.indeedflex.com
 *.indeed.tech
 *.indeed.net
 *.intercomassets.com / *.intercomcdn.com
 *.jora.com
 *.jora.xyz
-*.scoober.com
-*.lieferando.at
-*.yourdelivery.de
-*.takeaway.com
-*.citymeal.com
-*.lieferando.de
-*.thuisbezorgd.nl
-*.bistro.sk
-*.just-eat.fr
-*.eat.ch
-*.just-eat.no
-*.just-eat.dk
-*.pyszne.pl
-*.10bis.co.il
-*.beta.scoober.com
-*.just-data.io
-*.just-eat.com 
 *.genoapay.co.nz
 *.genoapay.com
 *.latitudefinancial.co.nz
@@ -118,6 +103,7 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.plannthat.com
 *.lululemon.com
 bugcrowd-*your-own-instance*.cloud.mattermost.com/
+*.gp.monash.edu
 *.nr-data.net
 *.nr-ops.net
 *.nml.com
@@ -150,6 +136,7 @@ prod-*.nu.com.co
 *.api.originenergy.com.au
 *.download.originenergy.com.au
 *.pinterest.com Web Apps
+*.points.com
 *.privateinternetaccess.com
 *.quizlet.com
 *.rapyd.net
@@ -190,6 +177,8 @@ api-*.soundcloud.com
 *.solarcity.com
 *.teslainsuranceservices.com
 *.tools.thefork.tech
+*.thetradedesk.com
+*.adsrvr.org
 *.wimpmusic.com
 *.tidalhifi.com
 *.tdl.sh

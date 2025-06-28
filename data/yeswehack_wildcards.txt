@@ -1,6 +1,7 @@
 *.atg.se
 *.alasco.de
 *.alasco.rocks
+*.bitoasis.net
 *.coindcx.com
 *.contentsquare.com
 matrix.agent.*.tchap.gouv.fr
@@ -12,7 +13,14 @@ matrix.agent.*.tchap.gouv.fr
 *.captcha-delivery.com
 *.doctolib.(fr|de|it|com|net)
 *.siilo.com
+*.expressvpn.com
+*.xvtest.net
+*.xvservice.net
+*.polymoon.it
 *.ys7.com
+*.grwtrading.com
+*.dropxl.com
+*.wholesalexl.com
 *.jbl.com
 *.harmanaudio.com
 *.harmankardon.com
@@ -29,6 +37,12 @@ matrix.agent.*.tchap.gouv.fr
 swiss-backup*.infomaniak.com
 *.vod2.infomaniak.com
 storage*.infomaniak.com
+*.api.louisvuitton.com
+*.ncs.co
+*.ncs.com.cn
+*.dsanalytics.com
+*.dialog.com.au
+*.ncsimpact.co
 *.okto.tech
 *.app.spacelift.dev
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17

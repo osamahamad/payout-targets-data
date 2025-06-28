@@ -2,15 +2,27 @@ Hardware
 Firmware
 Software
 app.aikido.dev
+https://github.com/AikidoSec/firewall-node#Vulnerability
+https://github.com/AikidoSec/firewall-python#Vulnerability
+https://github.com/AikidoSec/firewall-node#Detection Bypass
+https://github.com/AikidoSec/firewall-python#Detection Bypass
+https://github.com/AikidoSec/firewall-node#False Positive
+https://github.com/AikidoSec/firewall-python#False Positive
 myaccount.ad.nl
 webwinkel.ad.nl
 www.ad.nl
 www.ad.nl/abonnementen
-Non Altera Products
 Firmware
 Hardware
-Software
 FPGA Solution Development Tools and Utilities
+Software
+Non Altera Products
+Firmware: Mali Command Stream Frontend (CSF) Firmware
+Software: Mali GPU Kernel Driver
+m.bild.de
+https://hey.bild.de
+bild.de
+meinkonto.bild.de
 18.184.198.198, 18.185.214.59, 18.194.109.179, 3.121.117.72, 3.121.138.10, 3.121.138.128, 3.121.138.134, 3.121.138.170, 3.121.138.33, 3.121.138.43, 3.124.248.208, 35.156.137.39
 https://dealer.prod.ps.axelspringer.de/api/v1/partners/{partnerId}/activation
 https://dealer.prod.ps.axelspringer.de/purchases/004/bild/*
@@ -23,10 +35,11 @@ configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
 Other BMW Domains
-de.bmw.connected.mobile20.row
-1519034860
 Functions dealing with vehicle access and immobilizer
+1519034860
+de.bmw.connected.mobile20.row
 Remaining functions
+www.bpost2.be
 imove.bpost.cloud
 be.bpost.mobilecard
 be.bpost.mybpost
@@ -41,7 +54,6 @@ quickstamp-gb.bpost.be
 register.bpost.be
 validationlist.bpost.be
 www.bpost.be
-https://github.com/cmdotcom
 login.cm.com
 api.cm.com
 api.cmtelecom.com
@@ -57,6 +69,7 @@ www.cm.com
 com.cm.cashregister
 com.ticketflow.ticketscanner
 demo.globalticket.com/*
+https://github.com/cmdotcom
 payment.backend-capital.com
 capital.com/*
 com.capital.trading
@@ -95,7 +108,6 @@ shop.volkskrant.nl
 webwinkel.volkskrant.nl
 www.volkskrant.nl
 www.volkskrant.nl/abonnementen
-www.delen.bank
 api.digital.delen.be 
 api.digital.delen.lu 
 app.delen.be 
@@ -113,10 +125,12 @@ status.delen.be
 sts.delen.be 
 www.cadelam.be 
 www.cadelux.lu/en 
+www.delen.bank
 www.delen.be/en 
 169.254.169.254
 api.digitalocean.com
 cloud.digitalocean.com
+amd.digitalocean.com
 https://github.com/digitalocean/do-agent
 https://github.com/digitalocean/doctl
 https://github.com/digitalocean/droplet-agent
@@ -175,6 +189,7 @@ Hardware
 Firmware
 Software
 Services
+IT Infrastructure
 949829216
 950680989
 950693949
@@ -192,71 +207,28 @@ www.gamma.nl/*
 www.karwei.nl/*
 1558129454
 nl.gamma.verf
-booking.mjrtheatres.com
-extras.landmarkcinemas.com
-identityserver.landmarkcinemas.com
-kinepolis.megatix.be
-luxfilmfestfilms.megatix.be
-luxfilmfestproducts.megatix.be
-luxfilmfesttickets.megatix.be
-movieapi.kinepolis.megatix.be
-tickets.kinepolis.be
-tickets.kinepolis.ch
-tickets.kinepolis.es
-tickets.kinepolis.fr
-tickets.kinepolis.lu
-tickets.kinepolis.nl
-userprofile-ui.landmarkcinemas.com
-www.kinepolis.be 
-www.kinepolis.ch 
-www.kinepolis.com 
-www.kinepolis.es 
-www.kinepolis.fr 
-www.kinepolis.lu 
-www.kinepolis.nl 
-www.landmarkcinemas.com
-www.mjrtheatres.com
-business.kinepolis.be
-business.kinepolis.lu
-business.kinepolis.nl
-com.inthepocket.kinepolis
-extras-acc.landmarkcinemas.com
-https://movieclub-int.kinepolis.com
-https://movienow-int.kinepolis.be/admin
-https://shop-acc.kinepolis.be/
-identityserver-acc.landmarkcinemas.com
-kinepolis-studio.be
-kinepolis/id368204284
-nz.co.vista.android.movie.mjrtheatres
-stage.landmarkcinemas.com
-userprofile-acc.landmarkcinemas.com
-www.kinepolis.biz
-522089287
-egaming.kinepolis.es
 edge.lansweeper.com
 api.lansweeper.com
 app.lansweeper.com
 backoffice.lansweeper.com
 https://lsagentrelay.lansweeper.com/
+Modernized Discovery
 app.lansweeper.com/trial
 autoupdateapi.lansweeper.com
 docs.lansweeper.com
 login.lansweeper.com
-Modernized Discovery
 on-premises software
 www.lansweeper.com
 www.libelle.nl
 mobilevikings.be
 api.unleashed.be
 jimmobile.be
-mgm.mobilevikings.be
 uwa.mobilevikings.be
 vpn.mobilevikings.be
+mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
 vikinglab.be
-1052238659
-co.uk.getmondo
 134.58.179.82
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
@@ -270,34 +242,20 @@ mynexuz.be/myUZ/
 mynexuzhealth/id1459856321
  idp-contact.nexuzhealth.be
 media.nexuzhealth.be/patient/ 
-rancher.ninjakiwi.me
-analytics.ninjakiwi.com
-api.ninjakiwi.com
-builds-auckland.ninja.kiwi
-guts.ninjakiwi.com
-battles.tv
-data.ninjakiwi.com
-ninja.kiwi
-ninjakiwi.com
-alerts.ninjakiwi.com
-boomer2.ninjakiwi.com
-ct.ninjakiwi.com
-mynk-dash.ninjakiwi.com
-mynk.ninjakiwi.com
+1076840480
 1079537578
+https://mathem.se
 https://oda.com
 no.kolonial.tienda
-1076840480
-https://mathem.se
 se.mathem.mathem
 https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
 https://a.simplemdm.com/
 https://auth2.pdq.tools/ 
 https://library-staging.pdq.tools/ 
+https://detect.pdq.tools/ 
 https://houston-staging.pdq.tools
 https://portal-staging.pdq.tools/ 
-https://detect.pdq.tools/ 
 api.personio-dev.com
 api.personio.com
 https://community.personio.com
@@ -370,6 +328,14 @@ https://github.com/RIPE-NCC/rpki-publication-server
 https://github.com/RIPE-NCC/rpki-ta-0
 https://github.com/RIPE-NCC/rsyncit
 Assets owned by RIPE NCC
+https://business.rivian.com/api
+https://rivian.com/api/gql/content/graphql
+https://rivian.com/api/gql/gateway/graphql
+https://rivian.com/api/gql/orders/graphql
+1570215232
+basecamp.rivian.com
+com.rivian.android.consumer
+rivian.com
 1634080733
 6462308655
 938003185
@@ -384,10 +350,6 @@ www.sbbcargo.com
 www.transsicura.ch
 All other Web and mobile APPs owned by SBB 
 All other SBB owned IT assets
-SimScale API
-SimScale Platform
-SimScale Forum
-SimScale Website
 1632202810
 cz.skodaauto.myskoda
 910898851
@@ -396,20 +358,9 @@ http://socialdeal.nl/inspirations/bluemonday/
 http://www.whynot.com/
 https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/
 www.socialdeal.nl
-1114799709
-1114800186
-api.soundtrackyourbrand.com
-billing.api.soundtrackyourbrand.com
-builds.soundtrackyourbrand.com
-business.soundtrackyourbrand.com
-com.soundtrackyourbrand.soundtrack.player
-https://auth.api.soundtrackyourbrand.com/
-https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
-https://radio.api.soundtrackyourbrand.com/
-https://www.soundtrackyourbrand.com
-macOS app
  aweb.suivo.com
 asupport.suivo.com
+cas.tomorrowland.com
 belgium.tomorrowland.com
 brasil.tomorrowland.com
 com.tomorrowland.oneworldradio
@@ -423,6 +374,8 @@ tlfr.prod.tomorrowland.com
 winter.tomorrowland.com
 winterpackages.tomorrowland.com
 www.tomorrowland.com
+store.tomorrowland.com
+brasil-store.tomorrowland.com
 components.stag.tomorrowland.com
 components.tomorrowland.com
 winkels.torfs.be
@@ -462,6 +415,7 @@ iOS SDK
 React Native SDK
 Web SDK
 Rust SDK
+wp5-truststroke.uzleuven.be
 134.58.179.102-103
 autodiscover.uzleuven.be
 ecrf.uzleuven.be
@@ -552,6 +506,7 @@ identity.stage.vismaonline.com
 myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
 oauth.developers.stagaws.visma.com
+photoservice.stage.vismaonline.com
 testing.maventa.com
 1395921017
 https://api.voiapp.io/
@@ -560,6 +515,16 @@ mds.voiapp.io
 report.voi.com
 voi.com
 www.voiscooters.com
+https://app.getflywheel.com
+https://getflywheel.com
+https://my.wpengine.com
+https://payments.wpengine.com
+https://wpengine.com
+WP Engine-developed WordPress Plugins and Themes
+https://makeshift.film
+https://studiopress.blog
+https://torquemag.io
+https://velocitize.com
 https://desktop.water-link.be/
 https://pit.water-link.be/
 https://www.water-link-jaarverslag.be
@@ -593,7 +558,6 @@ Online Marketplace
 Other (Misc)
 proddata.xobni.yahoo.com
 Social Media Accounts
-Techcrunch
 TW eCommerce: Auctions
 TW eCommerce: Shopping
 TW eCommerce: Used Car
