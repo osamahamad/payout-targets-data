@@ -2577,15 +2577,12 @@ api-sandbox.uphold.com
 api-sandbox.uphold.com/graphql
 api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
-api-wallet-sandbox.venly.io
-api-wallet.venly.io
 api.23andme.com
 api.8x8.com
 api.adm.cloud.com
 api.airbnb.com
 api.alasco.de
 api.amazonalexa.com/*
-api.arkane.network
 api.atg.se
 api.au.frontegg.com
 api.avtoelon.uz
@@ -3438,12 +3435,10 @@ configure.mini.de
 confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
-connect.arkane.network 
 connect.arubanetworks.com
 connect.deezer.com
 connect.identity.stagaws.visma.com
 connect.secure.wellsfargo.com
-connect.venly.io
 console-backend.truelayer[-sandbox].com
 console.circle.com
 console.dashlane.com
@@ -6591,7 +6586,6 @@ login-api.truelayer[-sandbox].com
 login-ia.tvg.com
 login-pabets.tvg.com
 login-test.portofantwerpbruges.com/poam/XUI/
-login.arkane.network
 login.bigcommerce.com
 login.cm.com
 login.delen.be 
@@ -6609,7 +6603,6 @@ login.starbucks.co.jp
 login.swapcard.com
 login.truelayer[-sandbox].com
 login.tvg.com
-login.venly.io
 login.www.vaxvacationaccess.com
 logistica.redelcom.cl
 logitech.zendesk.com
@@ -7542,7 +7535,6 @@ wallet-sandbox.uphold.com
 wallet.etoro.com
 wallet.oasis.io
 wallet.tg
-wallet.venly.io
 walletbot.me
 wallets.api.playstation.com
 watchdocs.indriverapp.com
