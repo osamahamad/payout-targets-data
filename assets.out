@@ -30,8 +30,6 @@
 *-eu.truecaller.com
 *-noneu.truecaller.com
 *-vpn.8x8.com
-*. advancedcustomfields.com
-*. bettersearchreplace.com
 *. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
@@ -248,7 +246,6 @@
 *.dailymotion.com
 *.dancecentral.com
 *.de.jbl.com
-*.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demorgen.be
@@ -495,7 +492,6 @@
 *.link.co
 *.linktree-extensions.com
 *.livestream.com
-*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.login.gov
@@ -613,7 +609,6 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
-*.nitropack.io
 *.niumba.com
 *.nmfn.com
 *.nml.com
@@ -835,7 +830,6 @@
 *.streamlabs.com
 *.streamlabscharity.com
 *.stripe.com
-*.studiopress.com
 *.stylebook.de
 *.subp-router.hereapi.com
 *.superbet.com
@@ -981,8 +975,6 @@
 *.worldcoin.dev
 *.worldcoin.org
 *.wotif.com
-*.wpengine.io
-*.wpesvc.net
 *.x.ai
 *.x.com
 *.xcal.tv
@@ -2369,7 +2361,6 @@ Vulnerability & Patch Management
 WARP Mobile Apps
 WARP desktop client
 WHOOP 4.0 STRAP
-WP Engine-developed WordPress Plugins and Themes
 WP-CLI
 Waiting Room
 Watsons HK (subdomains)
@@ -4116,7 +4107,6 @@ https://app.chime.com
 https://app.datadome.co
 https://app.ecwid.com/api/v3/	
 https://app.getcensus.com
-https://app.getflywheel.com
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.ibotta.com/sign-in 
 https://app.intercom.com
@@ -4615,7 +4605,6 @@ https://gemvisa.com.au
 https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
-https://getflywheel.com
 https://git.libssh.org/
 https://github.com/0xPolygon/auto-claim-service
 https://github.com/0xPolygon/chain-indexer-framework 
@@ -5086,7 +5075,6 @@ https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|c
 https://m.csqtrk.net
 https://m.thefork.com
 https://maf-holding-prod.apigee.net
-https://makeshift.film
 https://manage.cic-bug-bounty.auth0app.com/
 https://manage.statuspage.io
 https://manager.thefork.com
@@ -5489,7 +5477,6 @@ https://my.sogexia.com
 https://my.thesecurityteam.rocks
 https://my.thesecurityteam.rocks/
 https://my.ultramobile.com
-https://my.wpengine.com
 https://my.wyze.com
 https://myaccount-staging.getmoneytree.com
 https://myapi.arlo.com
@@ -5582,7 +5569,6 @@ https://paymayabiller-prod.paymaya.com/
 https://payment-connectors.vendhq.com/
 https://payment.lafourchette.com
 https://payments.myntra.com
-https://payments.wpengine.com
 https://payoutapi.maya.ph/
 https://pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-revision/
 https://pbgq-pes.deontologie-policiere.gouv.qc.ca/reponses-questions/
@@ -5907,7 +5893,6 @@ https://storybook.vistarmedia.com
 https://student.classdojo.com
 https://student.monash
 https://studentplacements.monash.edu
-https://studiopress.blog
 https://suggestions.opera-api.com
 https://superbet.pl
 https://superbet.ro
@@ -5950,7 +5935,6 @@ https://tms.onecloud.harman.com
 https://toloka.ai/
 https://tools-api.cryptocompare.com/
 https://toom.de
-https://torquemag.io
 https://tr.ee
 https://tracker.bugcrowd.com
 https://tracker.naspers.com/
@@ -6020,7 +6004,6 @@ https://v.utv.usaa.com
 https://vault-staging.getmoneytree.com
 https://vault.chiatest.net/
 https://vc.tasheer.com/
-https://velocitize.com
 https://vendors.paddle.com
 https://vendorss.usaa.com
 https://vfs-ai-doc-reader.azurewebsites.net/
@@ -6057,7 +6040,6 @@ https://wise.com
 https://woox.io/
 https://world.planethoster.net
 https://wowjobs.ca
-https://wpengine.com
 https://ws-{app-id}.calls.sendbird.com
 https://ws-{app-id}.sendbird.com
 https://ws.multiplayer.classdojo.com/
