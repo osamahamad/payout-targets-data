@@ -618,8 +618,10 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
+*.ninjakiwi.me
 *.nitropack.io
 *.niumba.com
+*.nkstatic.com
 *.nmfn.com
 *.nml.com
 *.nnip.com
@@ -818,6 +820,7 @@
 *.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
+*.souparea.com
 *.spiketrap.io
 *.spinaway.com
 *.sportbild.de
@@ -1057,6 +1060,8 @@
 1091010942
 10x.redoxengine.com
 1101145849
+1114799709
+1114800186
 1116488672
 1118448159
 1127881507
@@ -2565,6 +2570,7 @@ akismet.com
 alchemy.veriff.com
 alert.logitech.com
 alertmanager.fr.cloud.gov
+alerts.ninjakiwi.com
 alexa.amazon.com
 alexaanswers.amazon.com
 alfred.syfe.com
@@ -2580,6 +2586,7 @@ amd.digitalocean.com
 amp.reddit.com
 analytics-*.8x8.com
 analytics.krisp.ai
+analytics.ninjakiwi.com
 analytics.pinelabs.com
 ap-s.cloud.com
 api*.hubapi.com
@@ -2681,6 +2688,7 @@ api.mergify.com
 api.monespacesante.fr
 api.moonpay.com
 api.netlify.com
+api.ninjakiwi.com
 api.omise.co
 api.ort-one-pingone.com
 api.ovh.com
@@ -2707,6 +2715,7 @@ api.slack.com
 api.smtp2go.com
 api.sokos.fi
 api.sorare.com
+api.soundtrackyourbrand.com
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -2906,6 +2915,7 @@ bankaccountdata.gocardless.com
 basecamp.rivian.com
 basecamp3.exe
 basicattentiontoken.org
+battles.tv
 bb.visa.com
 bcny.com
 bd.visa.com
@@ -2924,6 +2934,7 @@ bgpview.io
 bigcommerce-adapter.judge.me
 bild.de
 billing-pci.etoro.com
+billing.api.soundtrackyourbrand.com
 billing.etoro.com
 billingsupport.chaturbate.com
 bioid-management.app
@@ -2964,6 +2975,7 @@ booking.beachbound.com
 booking.cheapcaribbean.com
 booking.com
 bookingholdings-coe.com
+boomer2.ninjakiwi.com
 boost.vinci.com
 booth.pm
 bpost Parcel Lockers
@@ -2986,12 +2998,14 @@ bugcrowd-pam-###.pam.oktapreview.com
 bugzilla.mozilla.org
 builder.hostinger.com
 building-blocks.com
+builds.soundtrackyourbrand.com
 bullsheet.me
 business-resources.truecaller.com
 business.kayak.com
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
+business.soundtrackyourbrand.com
 business.tiktok.com
 business.truecaller.com
 businesshelp.snapchat.com
@@ -3369,6 +3383,7 @@ com.skypicker.Skypicker
 com.skypicker.main
 com.slack.slackmdm
 com.snapchat.android
+com.soundtrackyourbrand.soundtrack.player
 com.spotify.client
 com.spotify.kids
 com.spotify.lite
@@ -3514,6 +3529,7 @@ cs.money
 csp-pci.prod.codebig2.net
 css-tricks.com
 ct.deriv.com
+ct.ninjakiwi.com
 ctf.hacker101.com
 custody.coinbase.com
 customer-academy.databricks.com
@@ -3540,6 +3556,7 @@ dashboard.privy.io
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
 data.mail.yahoo.com
+data.ninjakiwi.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 datapod-1-100-druid-ingest.testing.forescoutcloud.net
@@ -3806,6 +3823,7 @@ graphql.sandbox.topperpay.com/graphql
 gravatar.com
 grok.com
 gutenberg.run
+guts.ninjakiwi.com
 gw.api.dh.comcast.com
 h1-your-domain.zendesk.com
 hack1.mtrx.ovh
@@ -4123,6 +4141,7 @@ https://api.thousandeyes.com/
 https://api.toom.de
 https://api.tripadvisor.com
 https://api.twilio.com
+https://api.unity.com
 https://api.us1.fga.dev/
 https://api.usaa.com/
 https://api.vistarmedia.com
@@ -4341,6 +4360,7 @@ https://audience-builder.vistarmedia.com
 https://audio.20min.ch/
 https://aus.api.just-eat.io/
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
+https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.immutable.com
@@ -4414,6 +4434,7 @@ https://bugcrowd.hotdoc.com.au
 https://bugcrowd.hotdoc.com.au/api
 https://bugcrowd.hotdoc.com.au/dashboard
 https://bugs.opera.com/
+https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
@@ -4464,6 +4485,7 @@ https://clients.multiplayer.classdojo.com/launcher/prod/latest
 https://clients3.pentest.clicsante.ca/
 https://cloud.heytap.com/
 https://cloud.oppo.com/
+https://cloud.unity.com
 https://cloudinary.com/console
 https://cms-qa.optussport.tv
 https://cms-uat.optussport.tv
@@ -5026,6 +5048,7 @@ https://hug.personio.com
 https://i18n.api.just-eat.io
 https://icu.eu-west-2.outscale.com
 https://id.atlassian.com/login
+https://id.unity.com
 https://identity.bugcrowd.com/
 https://identity.majidalfuttaim.com
 https://identity.monash.edu
@@ -5618,6 +5641,7 @@ https://partners.usaa.com
 https://partners.viator.com
 https://passport.immutable.com/
 https://pay.payzippy.com
+https://pay.unity.com
 https://paymayabiller-prod.paymaya.com/
 https://payment-connectors.vendhq.com/
 https://payment.lafourchette.com
@@ -5821,6 +5845,7 @@ https://pt-runner.app.ridewithvia.com
 https://public.thesecurityteam.rocks/resources/app/android/etnapp-5.2.2-staging.apk
 https://pyszne.pl
 https://quantum-events.onecloud.harman.com
+https://radio.api.soundtrackyourbrand.com/
 https://rc.fstr.rocks
 https://rec.net/
 https://rec.net/download
@@ -5883,6 +5908,7 @@ https://service.platform.tripadvisor.com
 https://service.post.ch/ekp-web/
 https://service.post.ch/ele-klp/ele/
 https://service.post.ch/zopa/app/
+https://services.unity.com
 https://sfleet.cortexpowered.com
 https://sflower.cortexpowered.com
 https://shiny.ops.coda.io/*
@@ -5941,6 +5967,7 @@ https://store.playstation.com/en-us/product/UP2662-CUSA08481_00-RECROOM000000001
 https://store.playstation.com/en-us/product/UP2662-PPSA05532_00-6681199027107223
 https://store.retail.lightspeed.app
 https://store.steampowered.com/app/471710/Rec_Room/
+https://store.unity.com
 https://storybook.vistarmedia.com
 https://student.classdojo.com
 https://student.monash
@@ -6043,6 +6070,8 @@ https://underarmour.co.kr
 https://underarmournext.com/
 https://unified.neogov.com
 https://unihub.monash.edu/
+https://unity3d.com/get-unity/download
+https://unity3d.com/get-unity/download/archive
 https://updates.arlo.com
 https://us.eufy.com/products/e8213181
 https://us.eufy.com/products/t8410121
@@ -6364,6 +6393,7 @@ https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
 https://www.sophos.com/en-us/products/mobile-control/free-trial
 https://www.sophos.com/en-us/products/next-gen-firewall
+https://www.soundtrackyourbrand.com
 https://www.sourcetreeapp.com/
 https://www.superdrug.com/blog/
 https://www.tchap.gouv.fr
@@ -6665,6 +6695,7 @@ m.kolesa.kz
 m.krisha.kz
 m.reddit.com
 m.trendyol.com
+macOS app
 magento.com
 magic.veriff.me
 magiceden.io
@@ -6816,6 +6847,8 @@ myconnect.com.au
 mynexuz.be
 mynexuz.be/myUZ/
 mynexuzhealth/id1459856321
+mynk-dash.ninjakiwi.com
+mynk.ninjakiwi.com
 myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
 nadex.com
@@ -6906,6 +6939,8 @@ nextcloud/workflow_script
 nft.coinbase.com
 nft.io
 niantic.kidswebservices.com
+ninja.kiwi
+ninjakiwi.com
 nl.gamma.app.android
 nl.gamma.verf
 nl.karwei.app.android
@@ -7041,6 +7076,7 @@ play.google.com/store/apps/details?id=fr.assurancemaladie.monespacesante&showAll
 playartifact.com
 playcanv.as
 playcanvas.com
+player-login.unity.com
 player-radio.infomaniak.com
 player.vimeo.com
 player.vrt.be
@@ -7132,6 +7168,7 @@ questionsexualite.fr
 quickstamp-gb.bpost.be
 qwantjunior.com
 r.etoro.com
+rancher.ninjakiwi.me
 random.uzleuven.be/random/
 rankings.etoro.com
 raptor*.bykea.net
