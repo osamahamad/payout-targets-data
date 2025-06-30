@@ -53,6 +53,17 @@ Leaked/compromised employee accounts *.here.com
 *.hln.be
 *.parool.nl
 *.humo.be
+*.gamma.be/*
+*.gamma.nl/*
+*.intergamma.cloud
+*.intergamma.nl/*
+*.karwei.nl/*
+*.restintergamma.nl
+*.intergamma-test.nl
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
+*.karweioutletstore.nl
 *.lansweeper.com
 *.libelle.nl
 *.mas.mobilevikings.be
@@ -63,6 +74,9 @@ Leaked/compromised employee accounts *.here.com
 *.acc.mobilevikings.be
 *.dev-pub.mobilevikings.be
 *.dev.mobilevikings.be
+*.monzo.com
+*.monzo.me
+*.prod-ffs.io
 *.oda.com
 *.prod.nube.tech
 *.app.personio-dev.com
@@ -82,6 +96,8 @@ Leaked/compromised employee accounts *.here.com
 *.sbb.ch
 *.saytechnologies.com
 *.say.rocks
+*.sqills.com
+*.sqills.team
 *.weareone.world
 *.stag.tomorrowland.com
 *.stag.weareone.world
@@ -107,6 +123,14 @@ Leaked/compromised employee accounts *.here.com
 *.vtm.be
 *.vtmgo.be
 *.voiscooters.com
+*. advancedcustomfields.com
+*. bettersearchreplace.com
+*.deliciousbrains.com
+*.localwp.com
+*.nitropack.io
+*.studiopress.com
+*.wpengine.io
+*.wpesvc.net
 *.water-link.be/
 *.wolt.com
 *ensemble*.yahoo.com

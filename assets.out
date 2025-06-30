@@ -30,6 +30,8 @@
 *-eu.truecaller.com
 *-noneu.truecaller.com
 *-vpn.8x8.com
+*. advancedcustomfields.com
+*. bettersearchreplace.com
 *. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
@@ -247,6 +249,7 @@
 *.dancecentral.com
 *.datacamp.com
 *.de.jbl.com
+*.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demorgen.be
@@ -335,6 +338,8 @@
 *.fromspotify.com
 *.fuze.com
 *.fuze.site
+*.gamma.be/*
+*.gamma.nl/*
 *.genoapay.co.nz
 *.genoapay.com
 *.gethypr.com
@@ -443,6 +448,9 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
+*.intergamma-test.nl
+*.intergamma.cloud
+*.intergamma.nl/*
 *.itcapital.io
 *.jbl.com
 *.jbl.com.br
@@ -454,6 +462,8 @@
 *.jora.com
 *.jora.xyz
 *.justfall.lol,*.justplay.lol,*.1v1.lol
+*.karwei.nl/*
+*.karweioutletstore.nl
 *.kayak.com
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
@@ -486,6 +496,7 @@
 *.link.co
 *.linktree-extensions.com
 *.livestream.com
+*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.login.gov
@@ -563,6 +574,8 @@
 *.mofos.com
 *.mona.co
 *.monopoly-poker.com
+*.monzo.com
+*.monzo.me
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -603,6 +616,7 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
+*.nitropack.io
 *.niumba.com
 *.nmfn.com
 *.nml.com
@@ -683,6 +697,7 @@
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -715,6 +730,7 @@
 *.redecor.com
 *.rentalcars.com
 *.reposify.com
+*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -810,6 +826,8 @@
 *.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
+*.sqills.com
+*.sqills.team
 *.square.com
 *.squareup.com
 *.srvcs.tumblr.com
@@ -825,6 +843,7 @@
 *.streamlabs.com
 *.streamlabscharity.com
 *.stripe.com
+*.studiopress.com
 *.stylebook.de
 *.subp-router.hereapi.com
 *.superbet.com
@@ -949,6 +968,9 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
 *.wf.com
 *.wholesalexl.com
 *.wimpmusic.com
@@ -967,6 +989,8 @@
 *.worldcoin.dev
 *.worldcoin.org
 *.wotif.com
+*.wpengine.io
+*.wpesvc.net
 *.x.ai
 *.x.com
 *.xcal.tv
@@ -1020,6 +1044,7 @@
 1023499075
 103.83.120.0/22
 1032480595
+1052238659
 1057338687
 107.167.96.0/19
 1076840480
@@ -1092,6 +1117,7 @@
 1532153219
 1541949985
 1552455423
+1558129454
 1570215232
 1579372261
 1579530451
@@ -1380,6 +1406,9 @@
 943905271
 944011620
 947984433
+949829216
+950680989
+950693949
 955837609
 961114489414094898
 965180355
@@ -1815,6 +1844,11 @@ GitLab and GitHub repos listed on this page
 GitLab for Jira Cloud
 GlotPress
 Google Cloud Plateform Instances
+Grafana Loki
+Grafana Mimir
+Grafana OSS
+Grafana Pyroscope
+Grafana Tempo
 Grammarly AI Assistant
 Grammarly Auth Services
 Grammarly Business Features
@@ -2019,6 +2053,7 @@ Nintendo Switch applications for which Nintendo is the publisher worldwide
 Node.js Driver
 Non Altera Products
 Non-Core Assets
+Non-Core Grafana Plugins
 NordPass - Linux Executable
 NordPass - MacOS Executable
 NordPass - Windows Executable
@@ -2174,6 +2209,10 @@ Shopify Mobile Applications
 Shopify Third Party Apps
 Shopify Third Party Store
 SiW917
+SimScale API
+SimScale Forum
+SimScale Platform
+SimScale Website
 Simplicity Studio Development Platform
 Skyscanner Android App
 Skyscanner Android app
@@ -2346,6 +2385,7 @@ Vulnerability & Patch Management
 WARP Mobile Apps
 WARP desktop client
 WHOOP 4.0 STRAP
+WP Engine-developed WordPress Plugins and Themes
 WP-CLI
 Waiting Room
 Watsons HK (subdomains)
@@ -2863,6 +2903,7 @@ bd.visa.com
 be.bpost.mobilecard
 be.bpost.mybpost
 be.delen.digital
+be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -3027,6 +3068,7 @@ cms.nba.com
 co.mona.android
 co.tide
 co.tide.tideplatform.in
+co.uk.getmondo
 coalition.nba.com
 coban.pixiv.net
 codacontent.io
@@ -4099,6 +4141,7 @@ https://app.chime.com
 https://app.datadome.co
 https://app.ecwid.com/api/v3/	
 https://app.getcensus.com
+https://app.getflywheel.com
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.ibotta.com/sign-in 
 https://app.intercom.com
@@ -4598,6 +4641,7 @@ https://gemvisa.com.au
 https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
+https://getflywheel.com
 https://git.libssh.org/
 https://github.com/0xPolygon/auto-claim-service
 https://github.com/0xPolygon/chain-indexer-framework 
@@ -4711,6 +4755,7 @@ https://github.com/freedomofpress/securedrop-log
 https://github.com/freedomofpress/securedrop-proxy
 https://github.com/freedomofpress/securedrop-sdk
 https://github.com/freedomofpress/securedrop-workstation
+https://github.com/grafana/*
 https://github.com/gsa/data.gov
 https://github.com/gsa/datagov-deploy
 https://github.com/hyperledger/besu
@@ -5067,6 +5112,7 @@ https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|c
 https://m.csqtrk.net
 https://m.thefork.com
 https://maf-holding-prod.apigee.net
+https://makeshift.film
 https://manage.cic-bug-bounty.auth0app.com/
 https://manage.statuspage.io
 https://manager.thefork.com
@@ -5470,6 +5516,7 @@ https://my.sogexia.com
 https://my.thesecurityteam.rocks
 https://my.thesecurityteam.rocks/
 https://my.ultramobile.com
+https://my.wpengine.com
 https://my.wyze.com
 https://myaccount-staging.getmoneytree.com
 https://myapi.arlo.com
@@ -5563,6 +5610,7 @@ https://paymayabiller-prod.paymaya.com/
 https://payment-connectors.vendhq.com/
 https://payment.lafourchette.com
 https://payments.myntra.com
+https://payments.wpengine.com
 https://payoutapi.maya.ph/
 https://pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-revision/
 https://pbgq-pes.deontologie-policiere.gouv.qc.ca/reponses-questions/
@@ -5887,6 +5935,7 @@ https://storybook.vistarmedia.com
 https://student.classdojo.com
 https://student.monash
 https://studentplacements.monash.edu
+https://studiopress.blog
 https://suggestions.opera-api.com
 https://superbet.pl
 https://superbet.ro
@@ -5929,6 +5978,7 @@ https://tms.onecloud.harman.com
 https://toloka.ai/
 https://tools-api.cryptocompare.com/
 https://toom.de
+https://torquemag.io
 https://tr.ee
 https://tracker.bugcrowd.com
 https://tracker.naspers.com/
@@ -5998,6 +6048,7 @@ https://v.utv.usaa.com
 https://vault-staging.getmoneytree.com
 https://vault.chiatest.net/
 https://vc.tasheer.com/
+https://velocitize.com
 https://vendors.paddle.com
 https://vendorss.usaa.com
 https://vfs-ai-doc-reader.azurewebsites.net/
@@ -6034,6 +6085,7 @@ https://wise.com
 https://woox.io/
 https://world.planethoster.net
 https://wowjobs.ca
+https://wpengine.com
 https://ws-{app-id}.calls.sendbird.com
 https://ws-{app-id}.sendbird.com
 https://ws.multiplayer.classdojo.com/
@@ -6488,6 +6540,9 @@ k8s.gcr.io
 k8s.io
 kaccount.khealth.com
 kartaview.org
+kassa.gamma.be/*
+kassa.gamma.nl/*
+kassa.karwei.nl/*
 kayak.ai
 kb.databricks.com
 kidswebservices.com
@@ -6688,6 +6743,9 @@ mgmtpod-1-dashboard.production.forescoutcloud.net
 mgmtpod-1.production.forescoutcloud.net
 mgs.marriott.com
 middle-force.khealth.io
+mijn.gamma.be/*
+mijn.gamma.nl/*
+mijn.karwei.nl/*
 mijnacc.uzleuven.be
 mindrift.toloka.ai
 mipartnerprivileges.marriott.com
@@ -6836,6 +6894,9 @@ nextcloud/workflow_script
 nft.coinbase.com
 nft.io
 niantic.kidswebservices.com
+nl.gamma.app.android
+nl.gamma.verf
+nl.karwei.app.android
 nmtracking.netflix.com
 no.kolonial.tienda
 notula-accpt.portofantwerpbruges.com
@@ -7676,6 +7737,8 @@ www.fortress.com.hk
 www.fraedom.com
 www.funjet.com
 www.fuzemeeting.com
+www.gamma.be/*
+www.gamma.nl/*
 www.geneva-staging.chat
 www.geneva-staging.com
 www.getaroom.com
@@ -7703,6 +7766,7 @@ www.infomaniak.com
 www.instacart.com
 www.intigriti.com
 www.jaybirdsport.com
+www.karwei.nl/*
 www.kayak.com
 www.kiwi.com
 www.koho.ca

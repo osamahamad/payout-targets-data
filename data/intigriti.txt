@@ -152,6 +152,13 @@ service.fing.com
 app.fing.com
 Fing desktop
 www.fing.com*
+Grafana Loki
+Grafana Mimir
+Grafana OSS
+Grafana Pyroscope
+Grafana Tempo
+https://github.com/grafana/*
+Non-Core Grafana Plugins
 955837609
 com.here.app.maps
 https://jaguar.here.com
@@ -183,6 +190,23 @@ Firmware
 Software
 Services
 IT Infrastructure
+949829216
+950680989
+950693949
+be.gamma.app.android
+kassa.gamma.be/*
+kassa.gamma.nl/*
+kassa.karwei.nl/*
+mijn.gamma.be/*
+mijn.gamma.nl/*
+mijn.karwei.nl/*
+nl.gamma.app.android
+nl.karwei.app.android
+www.gamma.be/*
+www.gamma.nl/*
+www.karwei.nl/*
+1558129454
+nl.gamma.verf
 edge.lansweeper.com
 api.lansweeper.com
 app.lansweeper.com
@@ -205,6 +229,8 @@ mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
 vikinglab.be
+1052238659
+co.uk.getmondo
 134.58.179.82
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
@@ -326,6 +352,10 @@ www.sbbcargo.com
 www.transsicura.ch
 All other Web and mobile APPs owned by SBB 
 All other SBB owned IT assets
+SimScale API
+SimScale Platform
+SimScale Forum
+SimScale Website
 1632202810
 cz.skodaauto.myskoda
 910898851
@@ -483,6 +513,16 @@ mds.voiapp.io
 report.voi.com
 voi.com
 www.voiscooters.com
+https://app.getflywheel.com
+https://getflywheel.com
+https://my.wpengine.com
+https://payments.wpengine.com
+https://wpengine.com
+WP Engine-developed WordPress Plugins and Themes
+https://makeshift.film
+https://studiopress.blog
+https://torquemag.io
+https://velocitize.com
 https://desktop.water-link.be/
 https://pit.water-link.be/
 https://www.water-link-jaarverslag.be
