@@ -1850,11 +1850,6 @@ GitLab and GitHub repos listed on this page
 GitLab for Jira Cloud
 GlotPress
 Google Cloud Plateform Instances
-Grafana Loki
-Grafana Mimir
-Grafana OSS
-Grafana Pyroscope
-Grafana Tempo
 Grammarly AI Assistant
 Grammarly Auth Services
 Grammarly Business Features
@@ -2059,7 +2054,6 @@ Nintendo Switch applications for which Nintendo is the publisher worldwide
 Node.js Driver
 Non Altera Products
 Non-Core Assets
-Non-Core Grafana Plugins
 NordPass - Linux Executable
 NordPass - MacOS Executable
 NordPass - Windows Executable
@@ -4777,7 +4771,6 @@ https://github.com/freedomofpress/securedrop-log
 https://github.com/freedomofpress/securedrop-proxy
 https://github.com/freedomofpress/securedrop-sdk
 https://github.com/freedomofpress/securedrop-workstation
-https://github.com/grafana/*
 https://github.com/gsa/data.gov
 https://github.com/gsa/datagov-deploy
 https://github.com/hyperledger/besu
