@@ -248,7 +248,6 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
-*.datacamp.com
 *.de.jbl.com
 *.deliciousbrains.com
 *.dell.com/*
@@ -2603,12 +2602,15 @@ api-sandbox.uphold.com
 api-sandbox.uphold.com/graphql
 api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
+api-wallet-sandbox.venly.io
+api-wallet.venly.io
 api.23andme.com
 api.8x8.com
 api.adm.cloud.com
 api.airbnb.com
 api.alasco.de
 api.amazonalexa.com/*
+api.arkane.network
 api.atg.se
 api.au.frontegg.com
 api.avtoelon.uz
@@ -2782,9 +2784,6 @@ app.avtoelon.uz
 app.blueskytravelvietnam.com
 app.circle.com
 app.dashlane.com
-app.datacamp.com/certification
-app.datacamp.com/groups
-app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -2874,9 +2873,6 @@ as2.portofantwerp.com
 as2.portofantwerpbruges.com
 ask.khealth.com
 asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com 
-assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.spotify.com
@@ -3031,7 +3027,6 @@ caldav.larksuite.com
 calendar.infomaniak.com
 callbacks.airbnb.com
 cam.notebleue.pro
-campus.datacamp.com
 candle-src.etoro.com
 candle.etoro.com
 capi.grammarly.com
@@ -3224,7 +3219,6 @@ com.creditkarma.mobile
 com.creditkarma.mobile.international
 com.dashlane
 com.dashlane.dashlanephonefinal
-com.datacamp
 com.defi.wallet
 com.deribit
 com.dolap.android
@@ -3502,10 +3496,12 @@ configure.mini.de
 confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
+connect.arkane.network 
 connect.arubanetworks.com
 connect.deezer.com
 connect.identity.stagaws.visma.com
 connect.secure.wellsfargo.com
+connect.venly.io
 console-backend.truelayer[-sandbox].com
 console.circle.com
 console.dashlane.com
@@ -4227,7 +4223,6 @@ https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/bigcommerce/id1418570678
 https://apps.apple.com/au/app/certsy/id1617796159
-https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
@@ -6664,6 +6659,7 @@ login-api.truelayer[-sandbox].com
 login-ia.tvg.com
 login-pabets.tvg.com
 login-test.portofantwerpbruges.com/poam/XUI/
+login.arkane.network
 login.bigcommerce.com
 login.cm.com
 login.delen.be 
@@ -6681,6 +6677,7 @@ login.starbucks.co.jp
 login.swapcard.com
 login.truelayer[-sandbox].com
 login.tvg.com
+login.venly.io
 login.www.vaxvacationaccess.com
 logistica.redelcom.cl
 logitech.zendesk.com
@@ -7103,7 +7100,6 @@ portalinmobiliario.com
 portfolio.ccpsx.com
 portfolio.metamask.io
 portswigger.net
-practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -7143,7 +7139,6 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profiler.firefox.com
-projects.datacamp.com
 projects.nextcloud.com
 prometheus.fr.cloud.gov
 promos.tvg.com
@@ -7627,6 +7622,7 @@ wallet-sandbox.uphold.com
 wallet.etoro.com
 wallet.oasis.io
 wallet.tg
+wallet.venly.io
 walletbot.me
 wallets.api.playstation.com
 watchdocs.indriverapp.com
@@ -7755,8 +7751,6 @@ www.currencycloud.com
 www.cybersource.com
 www.dashlane.com
 www.data.gov
-www.datacamp.com
-www.datacamp.com/datalab
 www.datastax.com
 www.ddfcontent.com
 www.deezer.com
