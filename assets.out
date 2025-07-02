@@ -235,6 +235,7 @@
 *.contactallerg(y|ie).uzleuven.be
 *.contentsquare.com
 *.corp.mongodb.com*
+*.cp.dyson.com
 *.creditkarma.ca
 *.creditkarma.co.uk
 *.creditkarma.com
@@ -1426,6 +1427,7 @@
 983980808
 987675995
 988788863
+993135524
 9nqwjwnqjj5n
 9wzdncrfj2g6
 9wzdncrfj3mb
@@ -1735,6 +1737,7 @@ Drogas.Lietuva.iOS
 Dynatrace ActiveGate
 Dynatrace MobileAgent
 Dynatrace OneAgent
+Dyson Connected Products (IoT Hardware)
 EOS C# SDK
 Echo Family Devices
 EdgeMAX
@@ -1848,8 +1851,14 @@ GitHub for mobile
 GitHub repositories
 GitLab and GitHub repos listed on this page
 GitLab for Jira Cloud
+Github findings
 GlotPress
 Google Cloud Plateform Instances
+Grafana Loki
+Grafana Mimir
+Grafana OSS
+Grafana Pyroscope
+Grafana Tempo
 Grammarly AI Assistant
 Grammarly Auth Services
 Grammarly Business Features
@@ -2054,6 +2063,7 @@ Nintendo Switch applications for which Nintendo is the publisher worldwide
 Node.js Driver
 Non Altera Products
 Non-Core Assets
+Non-Core Grafana Plugins
 NordPass - Linux Executable
 NordPass - MacOS Executable
 NordPass - Windows Executable
@@ -2104,6 +2114,7 @@ Other Amazon Retail Mobile Apps (Please only actively test explicitly stated sco
 Other Amazon Retail Sites (Please only actively test explicitly stated scope)
 Other Assets
 Other BMW Domains
+Other Dyson Assets
 Other Hardware Assets
 Other HubSpot-owned (sub)domains not listed as Out of Scope
 Other Logitech Desktop and Mobile Application
@@ -2625,12 +2636,29 @@ api.doppler.com
 api.drogas.lt
 api.drogas.lv
 api.dropboxapi.com
+api.dyson.at
+api.dyson.be
+api.dyson.ch
+api.dyson.co.uk
+api.dyson.com
+api.dyson.de
+api.dyson.dk
+api.dyson.es
+api.dyson.fr
+api.dyson.ie
+api.dyson.it
+api.dyson.nl
+api.dyson.no
+api.dyson.pt
+api.dyson.se
+api.dysoncanada.ca
 api.editeur.preprod.monespacesante.fr
 api.etoro.com
 api.evernote.com
 api.excalls.mobi
 api.ezvizlife.com
 api.faraday.ai
+api.fi.dyson.com
 api.figma.com
 api.flamingo-eu.veriff.com
 api.foliofn.com
@@ -3200,6 +3228,7 @@ com.datacamp
 com.defi.wallet
 com.deribit
 com.dolap.android
+com.dyson.mobile.android
 com.ebookers
 com.eero.android
 com.einnovation.temu
@@ -4771,6 +4800,7 @@ https://github.com/freedomofpress/securedrop-log
 https://github.com/freedomofpress/securedrop-proxy
 https://github.com/freedomofpress/securedrop-sdk
 https://github.com/freedomofpress/securedrop-workstation
+https://github.com/grafana/*
 https://github.com/gsa/data.gov
 https://github.com/gsa/datagov-deploy
 https://github.com/hyperledger/besu
@@ -7276,6 +7306,8 @@ shipit.rubygems.org
 shop-id.tokopedia.com
 shop.app
 shop.demorgen.be
+shop.dyson.co.za
+shop.dyson.tw
 shop.humo.be
 shop.infomaniak.com
 shop.judge.me
@@ -7739,6 +7771,44 @@ www.dota2.com
 www.drogas.lt
 www.drogas.lv
 www.dvpc.net
+www.dyson.ae
+www.dyson.at
+www.dyson.be
+www.dyson.ch
+www.dyson.cn
+www.dyson.co.il
+www.dyson.co.jp
+www.dyson.co.kr
+www.dyson.co.nz
+www.dyson.co.th
+www.dyson.co.uk
+www.dyson.com
+www.dyson.com.au
+www.dyson.com.ee
+www.dyson.com.mx
+www.dyson.com.ro
+www.dyson.com.sg
+www.dyson.com.tr
+www.dyson.com.ua
+www.dyson.cz
+www.dyson.de
+www.dyson.dk
+www.dyson.es
+www.dyson.fr
+www.dyson.hk
+www.dyson.hu
+www.dyson.ie
+www.dyson.in
+www.dyson.it
+www.dyson.my
+www.dyson.nl
+www.dyson.no
+www.dyson.pl
+www.dyson.pt
+www.dyson.se
+www.dyson.tw
+www.dyson.vn
+www.dysoncanada.ca
 www.ebookers.com
 www.ebookers.fi
 www.editeur.am.monespacesante.fr
@@ -7754,6 +7824,7 @@ www.expediataap.com
 www.fareharbor.com
 www.fedramp.gov
 www.fewo-direkt.de
+www.fi.dyson.com
 www.figma.com
 www.files.com
 www.fing.com*
@@ -7772,6 +7843,7 @@ www.geneva-staging.com
 www.getaroom.com
 www.gocardless.com
 www.goodrx.com
+www.gr.dyson.com
 www.greenhouse.io
 www.habileoh.com
 www.hackerone.com
@@ -7886,6 +7958,7 @@ www.ritzcarlton.com/
 www.rockstargames.com
 www.s-kaupat.fi
 www.s-pankki.fi
+www.sa.dyson.com
 www.samenfittorfs.be
 www.sbb.ch
 www.sbbcargo.com
