@@ -44,6 +44,9 @@ storage*.infomaniak.com
 *.dialog.com.au
 *.ncsimpact.co
 *.okto.tech
+*.privateinternetaccess.com
+*.piaservers.com
+*.piaservers.net
 *.app.spacelift.dev
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *.telenor.se

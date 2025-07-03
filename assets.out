@@ -680,6 +680,8 @@
 *.personiowhistleblowing.com
 *.petbook-magazine.com/
 *.petbook.de
+*.piaservers.com
+*.piaservers.net
 *.pinterest.com Web Apps
 *.plannthat.com
 *.platformservices.io
@@ -1538,6 +1540,7 @@ Any subdomain infrastructure issue
 Anything Owned by Northwestern Mutual on the Public Internet Not Listed as Out of Scope
 Anything that Clearly Affects Northwestern Mutual But is Not Own by Northwestern Mutual
 AppActions
+Applications/Extensions under https://www.privateinternetaccess.com/download
 Apps SDK Sandboxing
 Arc on Mac
 Arc on Windows
@@ -2124,6 +2127,7 @@ Other non-production infrastructure
 PHP Driver
 PHP SDK
 PIA APIs
+PIA VPN servers
 PNS (subdomains)
 PNS.HongKong.Android
 PNS.HongKong.iOS
@@ -2714,6 +2718,7 @@ api.portal.enterprise.uphold.com
 api.portofantwerp.com
 api.portofantwerpbruges.com
 api.preprod.monespacesante.fr
+api.privateinternetaccess.com
 api.prod.whoop.com
 api.profiler.firefox.com
 api.qwant.com
@@ -5822,6 +5827,7 @@ https://portalapi.us.afterpay.com
 https://powerdms.com/
 https://pprd.cybermalveillance.gouv.fr
 https://priceless.com/golf/
+https://privateinternetaccess.com/api/client/v5
 https://pro.onedoc.ch
 https://prod.euid.eu
 https://prod.uidapi.com
