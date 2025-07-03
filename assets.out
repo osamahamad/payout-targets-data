@@ -651,7 +651,6 @@
 *.oppomobile.com
 *.ops.netlify.com
 *.opsgenie.com
-*.optimuscards.com
 *.optus.com.au
 *.origindigital-pac.com.au
 *.oslo.io
@@ -886,7 +885,6 @@
 *.tomorrowland.com
 *.tools.thefork.tech
 *.toolsforhumanity.com
-*.topperpay.com
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trafficjunky.com
@@ -931,8 +929,6 @@
 *.ultimateearsuniversity.com
 *.unrealengine.com
 *.unrealtournament.com
-*.uphodl.com
-*.uphold.com
 *.uzleuven.*
 *.vacationhomerentals.com
 *.varonis.com
@@ -1058,7 +1054,6 @@
 1089294040
 1091010942
 10x.redoxengine.com
-1101145849
 1116488672
 1118448159
 1127881507
@@ -1366,7 +1361,6 @@
 64.47.18.80/29
 64.84.60.0/24
 641062073
-6444005221
 6444040977
 6444868926
 6449737830
@@ -2600,8 +2594,6 @@ api-js.datadome.co
 api-partner.spotify.com
 api-polygon-tokens.polygon.technology/
 api-sandbox.gocardless.com
-api-sandbox.uphold.com
-api-sandbox.uphold.com/graphql
 api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
 api-wallet-sandbox.venly.io
@@ -2714,7 +2706,6 @@ api.personio-dev.com
 api.personio.com
 api.pinterest.com
 api.pns.hk
-api.portal.enterprise.uphold.com 
 api.portofantwerp.com
 api.portofantwerpbruges.com
 api.preprod.monespacesante.fr
@@ -2729,7 +2720,6 @@ api.reddit.com
 api.remitly.io
 api.rezserver.com
 api.s-kaupat.fi
-api.sandbox.topperpay.com
 api.slack.com
 api.smtp2go.com
 api.sokos.fi
@@ -2836,7 +2826,6 @@ app.pullrequest.com
 app.recordedfuture.com
 app.rewire.to
 app.sandbox.directly.com
-app.sandbox.topperpay.com
 app.slack.com
 app.smtp2go.com
 app.snapchat.com
@@ -3424,8 +3413,6 @@ com.ubnt.discovery.app
 com.ubnt.easyunifi
 com.ubnt.ucrm
 com.ubnt.umobile
-com.uphold.labs.uphodl.android
-com.uphold.wallet
 com.urbanclap.provider
 com.urbanclap.urbanclap
 com.valvesoftware.Steam
@@ -3639,18 +3626,14 @@ dns1.uzleuven.be
 dns2.uzleuven.be
 do.co
 doaction.org
-docs.api.enterprise.uphold.com
 docs.databricks.com
 docs.datastax.com
 docs.gitlab.com
 docs.lansweeper.com
 docs.launchdarkly.com
 docs.nextcloud.com
-docs.optimuscards.com
 docs.redoxengine.com
 docs.silabs.com
-docs.topperpay.com
-docs.uphold.com
 docuflow.stg.inspectorio.com
 donations.livestream.com
 doppler
@@ -3806,7 +3789,6 @@ github.com/deriv-com
 github.com/kubernetes-csi
 github.com/kubernetes-retired
 github.com/oasisprotocol/explorer
-github.com/uphold/*
 gitlab.com
 gleague-dev.nba.com
 gleague-qa.nba.com
@@ -3825,7 +3807,6 @@ grab.careers
 grae.nba.com
 grafana.fr.cloud.gov
 grammarly.ai
-graphql.sandbox.topperpay.com/graphql
 gravatar.com
 grok.com
 gutenberg.run
@@ -7077,7 +7058,6 @@ polymoon.it
 portal-api.coinmarketcap.com
 portal.arkoselabs.com
 portal.au.frontegg.com
-portal.enterprise.uphold.com
 portal.myconnect.com.au
 portal.myconnect.com.au/new-connection
 portal.nextcloud.com
@@ -7392,7 +7372,6 @@ stats.wnba.com
 status.delen.be 
 status.larksuite.com
 status.oasis.io
-status.uphold.com
 steamcommunity.com
 stock.adobe.com
 storage*.infomaniak.com
@@ -7425,8 +7404,6 @@ supplier.auth.toag.booking.com
 supply-xml.booking.com
 support*.earlywarning.com
 support-api.airbnb.com
-support-sandbox.uphold.com
-support-staging.topperpay.com
 support.creditkarma.ca
 support.cs.money
 support.databricks.com
@@ -7529,7 +7506,6 @@ tvg.com
 twinmotion.unrealengine.com
 uapi-front.etoro.com
 uat-bugbounty.nonprod.syfe.com
-uatcms.optimuscards.com
 uber.com
 uc.8x8pilot.com
 uisp.com
@@ -7605,7 +7581,6 @@ vœux.vinci.com
 w1.uzleuven.be
 w1.uzleuven.be/random
 waf.cumulusfire.net
-wallet-sandbox.uphold.com
 wallet.etoro.com
 wallet.oasis.io
 wallet.tg
@@ -7908,7 +7883,6 @@ www.netflix.com
 www.omise.co
 www.onsexprime.fr
 www.opn.ooo
-www.optimuscards.com
 www.orbitz.com
 www.ottocasino.se
 www.ottokasino.com
@@ -7971,7 +7945,6 @@ www.temu.com
 www.theperfumeshop.com
 www.tink.com
 www.tomorrowland.com
-www.topperpay.com
 www.torfs.be
 www.torfs.nl
 www.trajeoh.com
@@ -7993,8 +7966,6 @@ www.udemy.com
 www.ultimateears.com
 www.unibet.(com­|it|se|co.uk|be|nl|dk|ro|fr|ee|ie|com.au)
 www.universalorlandovacations.com
-www.uphodl.com
-www.uphold.com
 www.upwork.com/api 
 www.urbanclap.com
 www.urbancompany.com
