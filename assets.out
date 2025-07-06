@@ -478,7 +478,6 @@
 *.krisp.ai
 *.kwsdose.be
 *.landmarkglobal-group.com
-*.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
 *.latitudefinancial.co.nz
@@ -1061,8 +1060,6 @@
 1091010942
 10x.redoxengine.com
 1101145849
-1114799709
-1114800186
 1116488672
 1118448159
 1127881507
@@ -2036,7 +2033,6 @@ Mi/Redmi Phone
 Microsites
 Mobile Applications
 Mobile Apps
-Modernized Discovery
 MoneyBack.HongKong.Android
 MoneyBack.HongKong.iOS
 Moneyback (subdomains)
@@ -2691,7 +2687,6 @@ api.khealth.io
 api.kolesa.kz
 api.krisha.kz
 api.krisp.ai
-api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
@@ -2735,7 +2730,6 @@ api.slack.com
 api.smtp2go.com
 api.sokos.fi
 api.sorare.com
-api.soundtrackyourbrand.com
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -2813,8 +2807,6 @@ app.krisha.kz
 app.krisp.ai
 app.kruidvat.be
 app.kruidvat.nl
-app.lansweeper.com
-app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
 app.marionnaud.at
@@ -2903,13 +2895,11 @@ authz.workbox.dk
 autocomplete.booking.com
 autodiscover.uzleuven.be
 autointerface.stag.visma.net
-autoupdateapi.lansweeper.com
 avtoelon.uz
 aw.visa.com
 ax-stage.maventa.com
 b2b.tvgnetwork.com
 b5s.hackerone-ext-content.com
-backoffice.lansweeper.com
 backstage.io
 badoo.com
 badoocdn.com
@@ -2942,7 +2932,6 @@ bgpview.io
 bigcommerce-adapter.judge.me
 bild.de
 billing-pci.etoro.com
-billing.api.soundtrackyourbrand.com
 billing.etoro.com
 billingsupport.chaturbate.com
 bioid-management.app
@@ -3006,14 +2995,12 @@ bugcrowd-pam-###.pam.oktapreview.com
 bugzilla.mozilla.org
 builder.hostinger.com
 building-blocks.com
-builds.soundtrackyourbrand.com
 bullsheet.me
 business-resources.truecaller.com
 business.kayak.com
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
-business.soundtrackyourbrand.com
 business.tiktok.com
 business.truecaller.com
 businesshelp.snapchat.com
@@ -3391,7 +3378,6 @@ com.skypicker.Skypicker
 com.skypicker.main
 com.slack.slackmdm
 com.snapchat.android
-com.soundtrackyourbrand.soundtrack.player
 com.spotify.client
 com.spotify.kids
 com.spotify.lite
@@ -3646,7 +3632,6 @@ docs.api.enterprise.uphold.com
 docs.databricks.com
 docs.datastax.com
 docs.gitlab.com
-docs.lansweeper.com
 docs.launchdarkly.com
 docs.nextcloud.com
 docs.optimuscards.com
@@ -3675,7 +3660,6 @@ ebsext.oft.hyatt.com
 ecosystem-api.polygon.technology
 ecosystem.polygon.technology
 ecrf.uzleuven.be
-edge.lansweeper.com
 edgeapi.slack.com
 edgeapis.onecloud.harman.com
 editeur.am.monespacesante.fr
@@ -4368,7 +4352,6 @@ https://audience-builder.vistarmedia.com
 https://audio.20min.ch/
 https://aus.api.just-eat.io/
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
-https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.immutable.com
@@ -4442,7 +4425,6 @@ https://bugcrowd.hotdoc.com.au
 https://bugcrowd.hotdoc.com.au/api
 https://bugcrowd.hotdoc.com.au/dashboard
 https://bugs.opera.com/
-https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
@@ -5142,7 +5124,6 @@ https://login.salt.ch
 https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
-https://lsagentrelay.lansweeper.com/
 https://luna.amazon.com/*
 https://m-api.lafourchette.com
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
@@ -5847,7 +5828,6 @@ https://pt-runner.app.ridewithvia.com
 https://public.thesecurityteam.rocks/resources/app/android/etnapp-5.2.2-staging.apk
 https://pyszne.pl
 https://quantum-events.onecloud.harman.com
-https://radio.api.soundtrackyourbrand.com/
 https://rc.fstr.rocks
 https://rec.net/
 https://rec.net/download
@@ -6395,7 +6375,6 @@ https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
 https://www.sophos.com/en-us/products/mobile-control/free-trial
 https://www.sophos.com/en-us/products/next-gen-firewall
-https://www.soundtrackyourbrand.com
 https://www.sourcetreeapp.com/
 https://www.superdrug.com/blog/
 https://www.tchap.gouv.fr
@@ -6661,7 +6640,6 @@ login.bigcommerce.com
 login.cm.com
 login.fr.cloud.gov
 login.infomaniak.com
-login.lansweeper.com
 login.pabets.tvg.com
 login.playcanvas.com
 login.portofantwerpbruges.com
@@ -6695,7 +6673,6 @@ m.kolesa.kz
 m.krisha.kz
 m.reddit.com
 m.trendyol.com
-macOS app
 magento.com
 magic.veriff.me
 magiceden.io
@@ -6963,7 +6940,6 @@ octopus
 odoo14.notebleue.pro
 offsite.omise.co
 om.vodafone.mva
-on-premises software
 on-ramp.metaswap-dev.codefi.network
 onboarding-*.cloud.com
 onboarding-api.truelayer.com
@@ -7862,7 +7838,6 @@ www.kruidvat.be
 www.kruidvat.nl
 www.lab-recherche-environnement.org
 www.lafabriquedelacite.com
-www.lansweeper.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.libelle.nl
