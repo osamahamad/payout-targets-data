@@ -331,10 +331,12 @@
 *.gocardless.com
 *.gocardless.dev
 *.gocardless.io,*.gocardless-banking.io
+*.gojekapi.com
 *.goldman.com
 *.goldmanpfm.com
 *.goldmansachs.com
 *.gop3.nl
+*.gopayapi.com
 *.gotinder.com
 *.governorofpoker.com
 *.gp.monash.edu
