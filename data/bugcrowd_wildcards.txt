@@ -46,7 +46,6 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.comcast.com
 *.xcal.tv
 *.sys.comcast.net
-*.cyberghost.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.sandbox.directly.com/
@@ -69,9 +68,6 @@ casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 open redirect at *.epam.com
 Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.etsy.com
-*.expressvpn.com
-*.xvtest.net
-*.xvservice.net
 *.certinia.com
 *.kiln.it
 *.movilepay.com
@@ -136,7 +132,6 @@ prod-*.nu.com.co
 *.download.originenergy.com.au
 *.pinterest.com Web Apps
 *.points.com
-*.privateinternetaccess.com
 *.quizlet.com
 *.rapyd.net
 *.neatcommerce.com
