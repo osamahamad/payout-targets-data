@@ -292,17 +292,9 @@
 *.elastic.co
 *.elasticnet.co
 *.elstc.co
-*.emakina.at
-*.emakina.ch
-*.emakina.com
-*.emakina.fr
-*.emakina.group
-*.emakina.nl 
-*.emakina.us
 *.enjinusercontent.com
 *.enspotify.com
 *.eops.nl
-*.epam.com
 *.epicgames.com
 *.epicgames.dev
 *.etsy.com
@@ -1912,7 +1904,6 @@ IT Infrastructure
 Ibotta App Data & Memory
 Illustrator
 Images
-In Scope - Points only
 In-Scope Applications can be found here: https://mysrc.group/project_detail?id=11
 In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)
 InCopy
@@ -2103,7 +2094,6 @@ Open Source - Dispatch
 Open Source - Spectator
 Open Source - Weep
 Open Source - Zuul
-Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 Open source tools from Cloudflare
 OpenAI API Keys
 OpenPGP Cert Directory Specification
@@ -5123,7 +5113,6 @@ https://knowledge.newrelic.com/
 https://kucoin.com
 https://kw-bugcrowd-pub.bounty.kiteworks.dev/
 https://l.usaa.com/
-https://lab.epam.com
 https://landrover.here.com
 https://lapi.yellowblocks.me
 https://laptop-updates.brave.com/latest/dev/debian64
@@ -5635,7 +5624,6 @@ https://opendata-demo.test-socrata.com
 https://opendata.test-socrata.com
 https://opendata.test-socrata.com/admin/gateway
 https://opensea.io/
-https://opensource.epam.com
 https://ops-sso.adsrvr.org/
 https://optimizely-edge.com
 https://optout-prod.uidapi.com
@@ -5868,7 +5856,6 @@ https://production-dynam-creative.vistarmedia.com
 https://production.maf.auth0.com
 https://production.maf.auth0.com/api/v2/
 https://profile.pentest.clicsante.ca/
-https://projects.epam.com
 https://prozentoomat.toom.de
 https://pt-runner.app.ridewithvia.com
 https://public.thesecurityteam.rocks/resources/app/android/etnapp-5.2.2-staging.apk
@@ -6240,7 +6227,6 @@ https://www.drogas.lv/ru/blog
 https://www.dropbox.com/capture
 https://www.dropbox.com/desktop
 https://www.dropbox.com/paper
-https://www.epam.com/
 https://www.espaskincare.com/
 https://www.etsy.com
 https://www.etsy.com/developers/documentation/getting_started/api_basics
@@ -7004,7 +6990,6 @@ one.dash.cloudflare.com
 onepush.query.yahoo.com
 oneview.malwarebytes.com
 online.s-pankki.fi
-open redirect at *.epam.com
 open-api.capital.com
 open.airbnb.com
 open.larksuite.com
