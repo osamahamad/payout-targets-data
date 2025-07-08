@@ -84,9 +84,6 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.indeedflex.com
 *.indeed.tech
 *.indeed.net
-*.indeedflex.com
-*.indeed.tech
-*.indeed.net
 *.intercomassets.com / *.intercomcdn.com
 *.jora.com
 *.jora.xyz
@@ -162,7 +159,6 @@ prod-*.nu.com.co
 *.aips-internal.com
 *.certsy.com
 *.certsynonprod.com
-*.mcssl.com
 *.skyscanner.net
 3rd party services hosted at *.sophos.com
 *.soundcloud.org
