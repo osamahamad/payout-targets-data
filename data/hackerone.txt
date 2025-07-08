@@ -3177,6 +3177,8 @@ com.wealthsimple
 com.wealthsimple.wealthsimple
 434613896
 6670203019
+6670536058
+960335206
 All Assets (other than Blinkit)
 All District Assets (Other than Zomato, BlinkIT & Hyperpure)
 All Zomato Assets (Other than BlinkIT & Hyperpure)
@@ -3187,6 +3189,7 @@ api2.grofers.com
 bistro-api.blinkit.com
 blinkit.com
 com.application.zomato
+com.application.zomato.district
 com.application.zomatomerchant
 com.blinkit.bistro
 com.grofers.customerapp
