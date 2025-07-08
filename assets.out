@@ -436,9 +436,6 @@
 *.in.jbl.com
 *.in2tel.ie
 *.incapsula.com
-*.indeed.net
-*.indeed.tech
-*.indeedflex.com
 *.indrive.com
 *.indriver.com
 *.indriver.io
@@ -1529,7 +1526,6 @@ Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Any host/web property verified to be owned by Twilio et al.
-Any host/web property/mobile app verified to be owned by Indeed
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 Any other Epic games owned asset not listed in the out of scope section
 Any other Malwarebytes asset
@@ -1638,7 +1634,6 @@ Canva (iOS)
 Canva Desktop (macOS / Windows)
 Capital One Shopping Browser Extension
 Capture the Flag
-Career Scout
 Cellular Network Auth Bypass via Web/Mobile App
 Character Animator
 Chime
@@ -4184,7 +4179,6 @@ https://apigw.prod.quintoandar.com.br/nazare-api/*
 https://apigw.prod.quintoandar.com.br/pixar-api/*
 https://apigw.prod.quintoandar.com.br/rental-guarantee-api/*
 https://apigw.prod.quintoandar.com.br/sales-flow-api/*
-https://apis.indeed.com/graphql
 https://app-staging.getmoneytree.com
 https://app.agency360.com
 https://app.asana.com
@@ -4271,7 +4265,6 @@ https://apps.apple.com/fr/app/tchap/id1446253779
 https://apps.apple.com/gb/app/bwin-poker-and-casino-games/id410242773
 https://apps.apple.com/gb/app/bwin-sports-betting/id393760245
 https://apps.apple.com/gb/app/clearpay-buy-now-pay-later/id1474022186
-https://apps.apple.com/gb/app/indeed-flex-job-search/id1013812731
 https://apps.apple.com/gb/app/moneybox-save-and-invest/id1049797239
 https://apps.apple.com/gb/app/partycasino-play-casino-games/id818432894
 https://apps.apple.com/gb/app/partypoker-texas-holdem-poker/id687740281
@@ -4293,7 +4286,6 @@ https://apps.apple.com/qa/app/ooredoo-qatar/id619828745
 https://apps.apple.com/se/app/atg-live/id1608156355
 https://apps.apple.com/se/app/atg/id1434660322
 https://apps.apple.com/sg/app/syfe-stay-invested/id1497156434
-https://apps.apple.com/us/app/%E5%B1%A5%E6%AD%B4%E6%9B%B8%E4%BD%9C%E6%88%90-%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%89/id1484451230
 https://apps.apple.com/us/app/3cx/id992045982
 https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
 https://apps.apple.com/us/app/asana-mobile/id489969512
@@ -4319,8 +4311,6 @@ https://apps.apple.com/us/app/ecwid-ecommerce/id626731456
 https://apps.apple.com/us/app/electroneum/id1270774992
 https://apps.apple.com/us/app/expressvpn-fast-secure-vpn/id886492891?mt=8
 https://apps.apple.com/us/app/id583009522
-https://apps.apple.com/us/app/indeed-connect-for-employers/id6443822731
-https://apps.apple.com/us/app/indeed-job-search/id309735670
 https://apps.apple.com/us/app/jira-cloud-by-atlassian/id1006972087
 https://apps.apple.com/us/app/jira-server/id1405353949
 https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665	
@@ -4500,7 +4490,6 @@ https://chrome.google.com/webstore/detail/xverse-wallet/idnnbdplmphpflfnlkomgpfb
 https://chromecast-pp.optussport.tv
 https://chromewebstore.google.com/detail/expressvpn-keys-password/blgcbajigpdfohpgcmbbfnphcgifjopc
 https://chromewebstore.google.com/detail/expressvpn-vpn-proxy-for/fgddmllnllkalaagkghckoinaemmogpe?pli=1
-https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcmnfgpnmkkhmkllnlflef
 https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb?hl=en-US&pli=1
 https://cicforms.mioot.com/forms/PS/
 https://clearpay.co.uk
@@ -5080,7 +5069,6 @@ https://ifind.heytapmobi.com
 https://ifind.oppomobile.com
 https://images.latitudepayapps.com/
 https://ims.monash.edu
-https://indeed.com
 https://indonesiavoa.vfsevisa.id/
 https://infiniteathlete.ai
 https://infra.coda.io/*
@@ -5739,8 +5727,6 @@ https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr
 https://play.google.com/store/apps/details?id=com.gojek.app
 https://play.google.com/store/apps/details?id=com.gojek.gopay&hl=id
 https://play.google.com/store/apps/details?id=com.google.android.apps.diabetes
-https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
-https://play.google.com/store/apps/details?id=com.indeed.resume
 https://play.google.com/store/apps/details?id=com.infomaniak.drive
 https://play.google.com/store/apps/details?id=com.infomaniak.mail&hl=en_US
 https://play.google.com/store/apps/details?id=com.irobot.home.prime
@@ -5786,7 +5772,6 @@ https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.squareup.cash
 https://play.google.com/store/apps/details?id=com.swapcard.apps.android&hl=fr
-https://play.google.com/store/apps/details?id=com.syftapp.android
 https://play.google.com/store/apps/details?id=com.tcx.sipphone14
 https://play.google.com/store/apps/details?id=com.teamviewer.host.market&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=en&gl=US
@@ -5885,7 +5870,6 @@ https://res.cloudinary.com
 https://research.monash.edu/
 https://researchmgt.monash.edu/
 https://rest.api.eu-central-1.production.jet-external.com
-https://resume.com
 https://retail-api.otto.de
 https://review-api.lafourchette.com
 https://ring.com/*
@@ -6147,7 +6131,6 @@ https://wiki.xenproject.org/wiki/Xen_Project_Repositories
 https://wise.com
 https://woox.io/
 https://world.planethoster.net
-https://wowjobs.ca
 https://wpengine.com
 https://ws-{app-id}.calls.sendbird.com
 https://ws-{app-id}.sendbird.com
