@@ -223,6 +223,7 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
+*.datacamp.com
 *.de.jbl.com
 *.deliciousbrains.com
 *.dell.com/*
@@ -267,9 +268,17 @@
 *.elastic.co
 *.elasticnet.co
 *.elstc.co
+*.emakina.at
+*.emakina.ch
+*.emakina.com
+*.emakina.fr
+*.emakina.group
+*.emakina.nl 
+*.emakina.us
 *.enjinusercontent.com
 *.enspotify.com
 *.eops.nl
+*.epam.com
 *.epicgames.com
 *.epicgames.dev
 *.etsy.com
@@ -1000,6 +1009,7 @@ Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DI
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 GenAI Apps under *.amazon.*
 Leaked/compromised employee accounts *.here.com
+Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 analytics-*.8x8.com
 api*.hubapi.com
 api*.hubspot.com
@@ -1019,6 +1029,7 @@ loadboard*.bykea.net/
 matrix.agent.*.tchap.gouv.fr
 munin-*.wordpress.org
 onboarding-*.cloud.com
+open redirect at *.epam.com
 prod-*.nu.com.co
 prod-*.nu.com.mx
 prod-*.nubank.com.br
