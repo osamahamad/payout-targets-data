@@ -74,6 +74,12 @@ Leaked/compromised employee accounts *.here.com
 *.acc.mobilevikings.be
 *.dev-pub.mobilevikings.be
 *.dev.mobilevikings.be
+*.monzo.com
+*.monzo.me
+*.prod-ffs.io
+*.ninjakiwi.me
+*.nkstatic.com
+*.souparea.com
 *.oda.com
 *.prod.nube.tech
 *.app.personio-dev.com
@@ -114,6 +120,7 @@ Leaked/compromised employee accounts *.here.com
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
+*.veriff.com
 *.voiscooters.com
 *. advancedcustomfields.com
 *. bettersearchreplace.com

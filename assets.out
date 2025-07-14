@@ -9,6 +9,7 @@
  Mobile Apps
  Twilio CDNs (static*.twilio.com)
  Watsons.TaiWan.Android
+ aweb.suivo.com
  com.citymapper.app.release
  https://github.com/0xPolygon/proof-generation-api
  idp-contact.nexuzhealth.be
@@ -594,6 +595,8 @@
 *.mona.co
 *.moneyback.com.hk
 *.monopoly-poker.com
+*.monzo.com
+*.monzo.me
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -634,8 +637,10 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
+*.ninjakiwi.me
 *.nitropack.io
 *.niumba.com
+*.nkstatic.com
 *.nmfn.com
 *.nml.com
 *.nnip.com
@@ -720,6 +725,7 @@
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -835,6 +841,7 @@
 *.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
+*.souparea.com
 *.spiketrap.io
 *.spinaway.com
 *.sportbild.de
@@ -960,6 +967,7 @@
 *.vayama.com
 *.venmo.com
 *.vennhypotheken.nl
+*.veriff.com
 *.verily.com/
 *.verisign-grs.com (DNS service; DNS related)
 *.vfsai.com
@@ -1074,6 +1082,7 @@
 1023499075
 103.83.120.0/22
 1032480595
+1052238659
 1057338687
 107.167.96.0/19
 1076840480
@@ -1121,6 +1130,7 @@
 1454725763
 1456293789
 146.109.8.0/22
+1467907532
 1474700 (Steam app id)
 1475021574
 1476615877
@@ -2570,8 +2580,10 @@ airFiber
 airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 akismet.com
+alchemy.veriff.com
 alert.logitech.com
 alertmanager.fr.cloud.gov
+alerts.ninjakiwi.com
 alexa.amazon.com
 alexaanswers.amazon.com
 alfred.syfe.com
@@ -2587,6 +2599,7 @@ amd.digitalocean.com
 amp.reddit.com
 analytics-*.8x8.com
 analytics.krisp.ai
+analytics.ninjakiwi.com
 analytics.pinelabs.com
 ap-s.cloud.com
 api*.hubapi.com
@@ -2665,6 +2678,7 @@ api.ezvizlife.com
 api.faraday.ai
 api.fi.dyson.com
 api.figma.com
+api.flamingo-eu.veriff.com
 api.foliofn.com
 api.fortress.com.hk
 api.fr.cloud.gov
@@ -2707,6 +2721,7 @@ api.mergify.com
 api.monespacesante.fr
 api.moonpay.com
 api.netlify.com
+api.ninjakiwi.com
 api.omise.co
 api.ort-one-pingone.com
 api.ovh.com
@@ -2752,7 +2767,9 @@ api.truelayer[-sandbox].com
 api.tumblr.com
 api.unleashed.be
 api.upwork.com/graphql
+api.us.veriff.me
 api.vault.chiatest.net
+api.veriff.me
 api.vhx.tv
 api.vimeo.com
 api.watsons.co.id
@@ -2878,6 +2895,7 @@ assets.hyatt.com
 assets.spotify.com
 assets.tumblr.com
 astra.datastax.com
+asupport.suivo.com
 auroratechaward.com
 aus5.mozilla.org
 auth.23andme.com
@@ -2924,6 +2942,7 @@ bankaccountdata.gocardless.com
 basecamp.rivian.com
 basecamp3.exe
 basicattentiontoken.org
+battles.tv
 bb.visa.com
 bcny.com
 bd.visa.com
@@ -2982,6 +3001,7 @@ booking.beachbound.com
 booking.cheapcaribbean.com
 booking.com
 bookingholdings-coe.com
+boomer2.ninjakiwi.com
 boost.vinci.com
 booth.pm
 bpost Parcel Lockers
@@ -3089,6 +3109,7 @@ cms.nba.com
 co.mona.android
 co.tide
 co.tide.tideplatform.in
+co.uk.getmondo
 coalition.nba.com
 coban.pixiv.net
 coda.grammarly.com
@@ -3414,6 +3435,7 @@ com.urbanclap.provider
 com.urbanclap.urbanclap
 com.valvesoftware.Steam
 com.venmo
+com.veriff.demo
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
 com.visma.blue
@@ -3520,6 +3542,7 @@ cs.money
 csp-pci.prod.codebig2.net
 css-tricks.com
 ct.deriv.com
+ct.ninjakiwi.com
 ctf.hacker101.com
 custody.coinbase.com
 customer-academy.databricks.com
@@ -3547,6 +3570,7 @@ dashboard.privy.io
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
 data.mail.yahoo.com
+data.ninjakiwi.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 datapod-1-100-druid-ingest.testing.forescoutcloud.net
@@ -3601,6 +3625,7 @@ developer.zendesk.com
 developers.cloudways.com
 developers.reddit.com
 developers.tiktok.com
+developers.veriff.me
 devhub.arubanetworks.com
 diagrams.fr.cloud.gov
 dic.pixiv.net
@@ -3813,6 +3838,7 @@ graphql.sandbox.topperpay.com/graphql
 gravatar.com
 grok.com
 gutenberg.run
+guts.ninjakiwi.com
 gw.api.dh.comcast.com
 h1-your-domain.zendesk.com
 hack1.mtrx.ovh
@@ -6649,6 +6675,7 @@ logs.nextcloud.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
 lookup.nextcloud.com
+louvre.veriff.me
 lrc20.lightspark.com
 m.4njbets.tvg.com
 m.airbnb.com
@@ -6661,6 +6688,7 @@ m.krisha.kz
 m.reddit.com
 m.trendyol.com
 magento.com
+magic.veriff.me
 magiceden.io
 magisto.com,www.magisto.com
 mail.infomaniak.com
@@ -6810,6 +6838,8 @@ myconnect.com.au
 mynexuz.be
 mynexuz.be/myUZ/
 mynexuzhealth/id1459856321
+mynk-dash.ninjakiwi.com
+mynk.ninjakiwi.com
 myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
 nadex.com
@@ -6900,6 +6930,8 @@ nextcloud/workflow_script
 nft.coinbase.com
 nft.io
 niantic.kidswebservices.com
+ninja.kiwi
+ninjakiwi.com
 nl.gamma.app.android
 nl.gamma.verf
 nl.karwei.app.android
@@ -7122,6 +7154,7 @@ questionsexualite.fr
 quickstamp-gb.bpost.be
 qwantjunior.com
 r.etoro.com
+rancher.ninjakiwi.me
 random.uzleuven.be/random/
 rankings.etoro.com
 raptor*.bykea.net
@@ -7346,6 +7379,8 @@ staking-api.polygon.technology
 staking.polygon.technology
 start.khealth.com
 static.apps.nextcloud.com
+station.veriff.com
+stationapi.veriff.com
 stats-trafficcop-prod.nba.com
 stats.2kleague.nba.com
 stats.gleague.nba.com
@@ -7966,6 +8001,7 @@ www.urbancompany.com
 www.usa.gov
 www.uzleuven.be
 www.valvesoftware.com
+www.veriff.com
 www.vfsvisaonline.com
 www.vfsvisaservicesrussia.com
 www.vimeo.com
