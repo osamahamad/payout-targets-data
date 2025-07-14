@@ -17,6 +17,7 @@ https://github.com/SiliconLabsSoftware/simplicity-device-manager
 https://github.com/tensorflow/tflite-micro/commit/02414075e7f718a2d0412775fcadbf28fb4cc5aa 
 ops.silabs.com
 WHOOP 4.0 STRAP
+WHOOP 5.0/MG STRAP
 api.prod.whoop.com
 app.whoop.com
 com.whoop.android
@@ -1121,6 +1122,7 @@ com.freshworks.freshcaller
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
 yourdomain.freshdesk.com
+yourdomain.freshrelease.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
 bigcommerce-adapter.judge.me
@@ -1216,22 +1218,17 @@ work.8x8.com
 www.fuzemeeting.com
  Fortress.HongKong.IOS
  Watsons.TaiWan.Android
-Drogas (subdomains)
 Drogas.Latvia.Android
 Drogas.Latvia.iOS
 Drogas.Lietuva.Android
 Drogas.Lietuva.iOS
-Fortress (subdomains)
 Fortress.HongKong.Android
-ICI Paris XL (subdomains)
 ICIParisXL.App.Android
 ICIParisXL.App.IOS
-Kruidvat (subdomains)
 Kruidvat.Belgium.Android
 Kruidvat.Belgium.iOS
 Kruidvat.Netherlands.Android
 Kruidvat.Netherlands.iOS
-Marionnaud (subdomains)
 Marionnaud.Austria.Android
 Marionnaud.Austria.iOS
 Marionnaud.France.Android
@@ -1244,27 +1241,13 @@ Marionnaud.Switzerland.Android
 Marionnaud.Switzerland.iOS
 MoneyBack.HongKong.Android
 MoneyBack.HongKong.iOS
-Moneyback (subdomains)
-PNS (subdomains)
 PNS.HongKong.Android
 PNS.HongKong.iOS
-Superdrug (subdomains)
 Superdrug.App.Android
 Superdrug.App.IOS
 Superdrug.Healthera.App.Android
-The Perfume Shop (subdomains)
 ThePerfumeShop.App.Android
 ThePerfumeShop.App.iOS
-Trekpleister (subdomains)
-Watsons HK (subdomains)
-Watsons ID (subdomains)
-Watsons MY (subdomains)
-Watsons PH (subdomains)
-Watsons SG (subdomains)
-Watsons TH (subdomains)
-Watsons TR (subdomains)
-Watsons TW (subdomains)
-Watsons VN (subdomains)
 Watsons.HongKong.Android
 Watsons.HongKong.IOS
 Watsons.Indonesia.Android
@@ -1613,7 +1596,6 @@ https://github.com/oasisprotocol/oasis-wallet-ext
 https://github.com/oasisprotocol/oasis-wallet-web
 status.oasis.io
 wallet.oasis.io
-Exodus Browser Extension
 Exodus Desktop Wallet
 Passkey Wallet
 exodus-movement.exodus
@@ -2463,10 +2445,10 @@ https://openam-bug-bounty-stag.forgeblocks.com/*
 https://ort-admin.pingone.com/*
 https://ort-authenticator.pingone.com/*
 https://ort-desktop.pingone.com/*
-com.betfair.exchange
-com.betfair.sportsbook
-com.flutter.bem.release
-com.paddypower.sportsbook.u.inhouse
+https://play.google.com/store/apps/dev?id=5503565801970655430&gl=gb
+https://play.google.com/store/apps/dev?id=8912907283039023448&gl=GB
+https://play.google.com/store/apps/dev?id=9151483005769461618&gl=GB
+https://play.google.com/store/apps/developer?id=Sky+Betting+and+Gaming+Apps&gl=uk
 itv7.itv.com
 super6.skysports.com
 https://github.com/rsksmart/2wp-api
