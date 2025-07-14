@@ -4044,6 +4044,27 @@ https://api-js.datadome.co
 https://api-payments-secure-prod.skippayments.com
 https://api-prod.retailsso.com
 https://api-prod.thatconceptstore.com/
+https://api-proxy.choco.kz/api/*
+https://api-proxy.choco.kz/balance/*
+https://api-proxy.choco.kz/composite/*
+https://api-proxy.choco.kz/courier/*
+https://api-proxy.choco.kz/lavka-ab/*
+https://api-proxy.choco.kz/lavka-favorites/*
+https://api-proxy.choco.kz/lavka-promoaction/*
+https://api-proxy.choco.kz/lavka-tip/*
+https://api-proxy.choco.kz/lavka/*
+https://api-proxy.choco.kz/locations/*
+https://api-proxy.choco.kz/loyalty/*
+https://api-proxy.choco.kz/ofd/*
+https://api-proxy.choco.kz/orders/*
+https://api-proxy.choco.kz/partner/*
+https://api-proxy.choco.kz/qrcode/*
+https://api-proxy.choco.kz/reviews/*
+https://api-proxy.choco.kz/ryadom-eta/*
+https://api-proxy.choco.kz/ryadom-review/*
+https://api-proxy.choco.kz/smart-receipt/*
+https://api-proxy.choco.kz/tips/*
+https://api-proxy.choco.kz/v1/*
 https://api-skipthedishes.skipthedishes.com
 https://api-test.nicehash.com
 https://api-ui.toloka.ai
@@ -4102,6 +4123,9 @@ https://api.ring.com/*
 https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
 https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql
 https://api.rx.originenergy.com.au/v1/lpg/graphql
+https://api.ryadom.kz/api/*
+https://api.ryadom.kz/courier/*
+https://api.ryadom.kz/lavka/*
 https://api.sandbox.agora.incubateur.net  (source code available on GitHub, see description)
 https://api.segment.io/
 https://api.sendgrid.com
@@ -5817,6 +5841,7 @@ https://rivian.com/api/gql/content/graphql
 https://rivian.com/api/gql/gateway/graphql
 https://rivian.com/api/gql/orders/graphql
 https://rusadminappt.vfsglobal.com/Global-Admin/
+https://ryadom-sso.choco.kz/oauth/*
 https://s.contentsquare.net
 https://s.usaa.com/
 https://s1.utv.usaa.com
@@ -6501,6 +6526,7 @@ jimmobile.be
 jira.grab.com
 jira.hyattdev.com
 jira.logitech.com
+job.ryadom.kz
 jobs.kiwi.com
 jobs.marriott.com
 jobs.vinci.com
@@ -6549,6 +6575,7 @@ l75pvbdyjo.infomaniak.site
 labs.data.gov
 labs.databricks.com
 ladybug.a9s.toloka.ai
+landing.choco.kz
 lando.services.mozilla.com
 langflow.datastax.com
 langflow.org
@@ -7156,6 +7183,7 @@ router.geneva-staging.com
 rpm-sequoia
 rt.playcanvas.com
 rubygems.org
+ryadom.kz
 s.qwant.com
 s1.qwant.com
 s2.qwant.com
@@ -7571,6 +7599,7 @@ webgateway.koho.ca
 webhooks.booking.com
 webhooks.gamma.redoxstage.com
 webhooks.truelayer[-sandbox].com
+webryadom.choco.kz
 webtoolbox.notebleue.pro
 webwinkel.ad.nl
 webwinkel.parool.nl
