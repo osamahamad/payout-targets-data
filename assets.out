@@ -4053,6 +4053,7 @@ https://analytics-admin.prosus.com
 https://analytics.neogov.com
 https://analytics.welcomesoftware.com/
 https://answers.irobot.com
+https://anytask.thesecurityteam.rocks
 https://api-a.usaa.com
 https://api-app.datadome.co/
 https://api-cdn.optussport.info/api/*
@@ -4062,27 +4063,6 @@ https://api-js.datadome.co
 https://api-payments-secure-prod.skippayments.com
 https://api-prod.retailsso.com
 https://api-prod.thatconceptstore.com/
-https://api-proxy.choco.kz/api/*
-https://api-proxy.choco.kz/balance/*
-https://api-proxy.choco.kz/composite/*
-https://api-proxy.choco.kz/courier/*
-https://api-proxy.choco.kz/lavka-ab/*
-https://api-proxy.choco.kz/lavka-favorites/*
-https://api-proxy.choco.kz/lavka-promoaction/*
-https://api-proxy.choco.kz/lavka-tip/*
-https://api-proxy.choco.kz/lavka/*
-https://api-proxy.choco.kz/locations/*
-https://api-proxy.choco.kz/loyalty/*
-https://api-proxy.choco.kz/ofd/*
-https://api-proxy.choco.kz/orders/*
-https://api-proxy.choco.kz/partner/*
-https://api-proxy.choco.kz/qrcode/*
-https://api-proxy.choco.kz/reviews/*
-https://api-proxy.choco.kz/ryadom-eta/*
-https://api-proxy.choco.kz/ryadom-review/*
-https://api-proxy.choco.kz/smart-receipt/*
-https://api-proxy.choco.kz/tips/*
-https://api-proxy.choco.kz/v1/*
 https://api-skipthedishes.skipthedishes.com
 https://api-test.nicehash.com
 https://api-ui.toloka.ai
@@ -4092,6 +4072,8 @@ https://api-{app-id}.notifications.sendbird.com
 https://api-{app-id}.sendbird.com
 https://api.20min.ch/
 https://api.aiven.io/login
+https://api.anytask.com/
+https://api.anytask.thesecurityteam.rocks
 https://api.bitpanda.com
 https://api.blablalines.com
 https://api.blts.kape.com
@@ -4105,6 +4087,7 @@ https://api.cyberghostvpn.com
 https://api.datadome.co
 https://api.dbs.kape.com
 https://api.dts.kape.com
+https://api.electroneum.com/
 https://api.enc.kape.com
 https://api.expressvpn.com
 https://api.fishbowlapp.com/*
@@ -4141,9 +4124,6 @@ https://api.ring.com/*
 https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
 https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql
 https://api.rx.originenergy.com.au/v1/lpg/graphql
-https://api.ryadom.kz/api/*
-https://api.ryadom.kz/courier/*
-https://api.ryadom.kz/lavka/*
 https://api.sandbox.agora.incubateur.net  (source code available on GitHub, see description)
 https://api.segment.io/
 https://api.sendgrid.com
@@ -4154,6 +4134,7 @@ https://api.t-mobile.com
 https://api.test.latitudefinancial.com
 https://api.thefork.com
 https://api.thefork.io
+https://api.thesecurityteam.rocks
 https://api.thetradedesk.com
 https://api.thousandeyes.com/
 https://api.toom.de
@@ -4285,6 +4266,7 @@ https://apps.apple.com/sg/app/syfe-stay-invested/id1497156434
 https://apps.apple.com/us/app/%E5%B1%A5%E6%AD%B4%E6%9B%B8%E4%BD%9C%E6%88%90-%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%89/id1484451230
 https://apps.apple.com/us/app/3cx/id992045982
 https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
+https://apps.apple.com/us/app/anytask-com/id6741158899
 https://apps.apple.com/us/app/asana-mobile/id489969512
 https://apps.apple.com/us/app/auth0-guardian/id1093447833
 https://apps.apple.com/us/app/backblaze/id628638330
@@ -4305,6 +4287,7 @@ https://apps.apple.com/us/app/confluence-server/id1288365159
 https://apps.apple.com/us/app/dropbox-emm/id1080074001
 https://apps.apple.com/us/app/dropbox-secure-cloud-storage/id327630330
 https://apps.apple.com/us/app/ecwid-ecommerce/id626731456
+https://apps.apple.com/us/app/electroneum/id1270774992
 https://apps.apple.com/us/app/id583009522
 https://apps.apple.com/us/app/indeed-connect-for-employers/id6443822731
 https://apps.apple.com/us/app/indeed-job-search/id309735670
@@ -4406,6 +4389,7 @@ https://bistro.sk
 https://bitbucket.org
 https://bitso.com
 https://blablacardaily.com
+https://blockexplorer.electroneum.com
 https://blog.bitpanda.com/en
 https://blog.etsy.com
 https://blog.lastpass.com
@@ -4626,6 +4610,7 @@ https://edge.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|t
 https://education.cfr.org/
 https://eforms.neogov.com
 https://eim.eu-west-2.outscale.com
+https://electroneum.com/
 https://elementor.com/
 https://emistores.pinelabs.com/
 https://enterprise-demo.portswigger.net/
@@ -4772,6 +4757,8 @@ https://github.com/digitalocean/go-nbd
 https://github.com/digitalocean/terraform-provider-digitalocean
 https://github.com/discourse/discourse
 https://github.com/django
+https://github.com/electroneum/electroneum-sc/
+https://github.com/electroneum/electroneum/
 https://github.com/expressvpn/lightway
 https://github.com/expressvpn/lightway-core
 https://github.com/fireblocks/mpc-lib
@@ -5113,6 +5100,7 @@ https://lbu.eu-west-2.outscale.com
 https://leaflet-map.bykea.net
 https://learn.neogov.com
 https://learn.newrelic.com/
+https://legacy-blockexplorer.electroneum.com
 https://lensstudio.snapchat.com/api/
 https://library.elementor.com/
 https://lieferando.de
@@ -5534,6 +5522,7 @@ https://mstatic.usaa.com
 https://mtp.myoas.com
 https://multipay-staging.test.komoju.com
 https://my.arlo.com
+https://my.electroneum.com/
 https://my.elementor.com/
 https://my.exness.com/pa/pim/manager
 https://my.exness.com/pa/socialtrading
@@ -5542,6 +5531,7 @@ https://my.mintmobile.com
 https://my.planethoster.com
 https://my.salt.ch
 https://my.sogexia.com
+https://my.thesecurityteam.rocks
 https://my.ultramobile.com
 https://my.wpengine.com
 https://my.wyze.com
@@ -5667,6 +5657,7 @@ https://play.google.com/store/apps/details?id=com.AgainstGravity.RecRoom
 https://play.google.com/store/apps/details?id=com.acorns.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.afterpaymobile.uk
 https://play.google.com/store/apps/details?id=com.afterpaymobile.us&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.anytask.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.asana.app&hl=en
 https://play.google.com/store/apps/details?id=com.aswat.carrefouruae
 https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.core&hl=en_US&gl=US
@@ -5701,6 +5692,7 @@ https://play.google.com/store/apps/details?id=com.dropbox.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.dropbox.app.hellosign&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.dropbox.paper&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.ecwid.android&pli=1
+https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr
 https://play.google.com/store/apps/details?id=com.gojek.app
 https://play.google.com/store/apps/details?id=com.gojek.gopay&hl=id
@@ -5859,7 +5851,6 @@ https://rivian.com/api/gql/content/graphql
 https://rivian.com/api/gql/gateway/graphql
 https://rivian.com/api/gql/orders/graphql
 https://rusadminappt.vfsglobal.com/Global-Admin/
-https://ryadom-sso.choco.kz/oauth/*
 https://s.contentsquare.net
 https://s.usaa.com/
 https://s1.utv.usaa.com
@@ -5998,6 +5989,7 @@ https://testflight.apple.com/join/533gFghn
 https://testflight.apple.com/join/FuaxsScP
 https://testflight.apple.com/join/Y4cHu289
 https://testflight.apple.com/join/vwFxXX7t
+https://testnet-blockexplorer.electroneum.com
 https://tfb.t-mobile.com
 https://thatconceptstore.com
 https://thinkglobalhealth.org
@@ -6125,6 +6117,7 @@ https://www.adsrvr.org
 https://www.allsaints.me/
 https://www.amazon.com/luna/*
 https://www.amazonpay.in/*
+https://www.anytask.com/
 https://www.arlo.com
 https://www.atlassian.com/enterprise/data-center/bitbucket
 https://www.atlassian.com/enterprise/data-center/confluence
@@ -6544,7 +6537,6 @@ jimmobile.be
 jira.grab.com
 jira.hyattdev.com
 jira.logitech.com
-job.ryadom.kz
 jobs.kiwi.com
 jobs.marriott.com
 jobs.vinci.com
@@ -6593,7 +6585,6 @@ l75pvbdyjo.infomaniak.site
 labs.data.gov
 labs.databricks.com
 ladybug.a9s.toloka.ai
-landing.choco.kz
 lando.services.mozilla.com
 langflow.datastax.com
 langflow.org
@@ -7206,7 +7197,6 @@ router.geneva-staging.com
 rpm-sequoia
 rt.playcanvas.com
 rubygems.org
-ryadom.kz
 s.qwant.com
 s1.qwant.com
 s2.qwant.com
@@ -7622,7 +7612,6 @@ webgateway.koho.ca
 webhooks.booking.com
 webhooks.gamma.redoxstage.com
 webhooks.truelayer[-sandbox].com
-webryadom.choco.kz
 webtoolbox.notebleue.pro
 webwinkel.ad.nl
 webwinkel.parool.nl
