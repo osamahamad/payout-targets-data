@@ -967,7 +967,6 @@
 *.vayama.com
 *.venmo.com
 *.vennhypotheken.nl
-*.veriff.com
 *.verily.com/
 *.verisign-grs.com (DNS service; DNS related)
 *.vfsai.com
@@ -1130,7 +1129,6 @@
 1454725763
 1456293789
 146.109.8.0/22
-1467907532
 1474700 (Steam app id)
 1475021574
 1476615877
@@ -2580,7 +2578,6 @@ airFiber
 airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 akismet.com
-alchemy.veriff.com
 alert.logitech.com
 alertmanager.fr.cloud.gov
 alerts.ninjakiwi.com
@@ -2678,7 +2675,6 @@ api.ezvizlife.com
 api.faraday.ai
 api.fi.dyson.com
 api.figma.com
-api.flamingo-eu.veriff.com
 api.foliofn.com
 api.fortress.com.hk
 api.fr.cloud.gov
@@ -2767,9 +2763,7 @@ api.truelayer[-sandbox].com
 api.tumblr.com
 api.unleashed.be
 api.upwork.com/graphql
-api.us.veriff.me
 api.vault.chiatest.net
-api.veriff.me
 api.vhx.tv
 api.vimeo.com
 api.watsons.co.id
@@ -3435,7 +3429,6 @@ com.urbanclap.provider
 com.urbanclap.urbanclap
 com.valvesoftware.Steam
 com.venmo
-com.veriff.demo
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
 com.visma.blue
@@ -3625,7 +3618,6 @@ developer.zendesk.com
 developers.cloudways.com
 developers.reddit.com
 developers.tiktok.com
-developers.veriff.me
 devhub.arubanetworks.com
 diagrams.fr.cloud.gov
 dic.pixiv.net
@@ -6675,7 +6667,6 @@ logs.nextcloud.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
 lookup.nextcloud.com
-louvre.veriff.me
 lrc20.lightspark.com
 m.4njbets.tvg.com
 m.airbnb.com
@@ -6688,7 +6679,6 @@ m.krisha.kz
 m.reddit.com
 m.trendyol.com
 magento.com
-magic.veriff.me
 magiceden.io
 magisto.com,www.magisto.com
 mail.infomaniak.com
@@ -7379,8 +7369,6 @@ staking-api.polygon.technology
 staking.polygon.technology
 start.khealth.com
 static.apps.nextcloud.com
-station.veriff.com
-stationapi.veriff.com
 stats-trafficcop-prod.nba.com
 stats.2kleague.nba.com
 stats.gleague.nba.com
@@ -8001,7 +7989,6 @@ www.urbancompany.com
 www.usa.gov
 www.uzleuven.be
 www.valvesoftware.com
-www.veriff.com
 www.vfsvisaonline.com
 www.vfsvisaservicesrussia.com
 www.vimeo.com
