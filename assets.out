@@ -1557,7 +1557,6 @@ Any host/web property/mobile app verified to be owned by Indeed
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 Any other Epic games owned asset not listed in the out of scope section
 Any other Malwarebytes asset
-Any other Optus Sport asset
 Any other domain reasonably attributable to Silicon Labs
 Any public (Internet-facing) infrastructure owned and operated by Palantir.
 Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
@@ -4033,8 +4032,6 @@ https://answers.irobot.com
 https://anytask.thesecurityteam.rocks
 https://api-a.usaa.com
 https://api-app.datadome.co/
-https://api-cdn.optussport.info/api/*
-https://api-cdn.optussport.tv/api/*
 https://api-ch-gva-2.exoscale.com/v2
 https://api-js.datadome.co
 https://api-payments-secure-prod.skippayments.com
@@ -4436,7 +4433,6 @@ https://chrome.google.com/webstore/detail/coinbase-wallet-extension/hnfanknocfeo
 https://chrome.google.com/webstore/detail/ibotta-browser-extension/mfaedmjlefifhnhpgipjjiiekchaimpk?hl=en-US
 https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en
 https://chrome.google.com/webstore/detail/xverse-wallet/idnnbdplmphpflfnlkomgpfbpcgelopg
-https://chromecast-pp.optussport.tv
 https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcmnfgpnmkkhmkllnlflef
 https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb?hl=en-US&pli=1
 https://cicforms.mioot.com/forms/PS/
@@ -4449,10 +4445,7 @@ https://clients3.pentest.clicsante.ca/
 https://cloud.oppo.com/
 https://cloud.unity.com
 https://cloudinary.com/console
-https://cms-qa.optussport.tv
-https://cms-uat.optussport.tv
 https://cms.mobile.monash/ 
-https://cms.optussport.tv
 https://cockpit-eu-west-2.outscale.com/
 https://coda.io/*
 https://coda.io/signup/email
@@ -5829,8 +5822,6 @@ https://s.usaa.com/
 https://s1.utv.usaa.com
 https://s2.utv.usaa.com
 https://salesforce.quip.com/blog/desktop
-https://samsung-pp.optussport.tv/
-https://samsung.optussport.tv
 https://sandbox-api.paddle.com
 https://sandbox-buy.paddle.com
 https://sandbox-checkout-service.paddle.com
@@ -5889,7 +5880,6 @@ https://soundcloud.com
 https://soundcloud.org
 https://spacelift.dev/
 https://speeddials.opera.com
-https://sport.optus.com.au/
 https://sprint.com
 https://square.online
 https://src.mastercard.com/*
@@ -5903,18 +5893,9 @@ https://staging.gearset.com/
 https://staging.luno.com/
 https://start.atlassian.com
 https://static-images.ifood.com.br
-https://static.cms-qa.optussport.tv
-https://static.cms-uat.optussport.tv
-https://static.cms.optussport.tv
 https://static.demarches-simplifiees.fr
 https://static.mgm.mo
-https://static.sport-pp.optus.com.au/api/*
-https://static.sport.optus.com.au/api/*
 https://static.usaa.com
-https://stats-pp.akamai.optussport.tv
-https://stats.akamai.optussport.tv
-https://stats.optussport.info
-https://stats.sport.optus.com.au
 https://status.mobile.monash/
 https://storage.googleapis.com/kubernetes-release/
 https://store.epicgames.com/en-US/p/seekers-of-tokane-a5986d
