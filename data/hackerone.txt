@@ -50,9 +50,7 @@ K9
 K9Pro
 K9s
 LockScreenMagazine
-OPPO+
 Porsche-B
-QuickApps
 Reno 9 5G
 Reno105G
 Reno10Pro+5G
@@ -67,13 +65,9 @@ Reno9Pro5G
 Test environment
 com.coloros.assistantscreen
 com.coloros.browser
-com.coloros.encryption
 com.coloros.pictorial
-com.coloros.securepay
 com.coloros.speechassist
 com.coloros.video
-com.coloros.video
-com.fintech.life
 com.heytap.browser
 com.heytap.cloud
 com.heytap.health.international
@@ -117,7 +111,6 @@ https://hd.opposhop.cn
 https://ifind.heytapmobi.com
 https://ifind.oppomobile.com
 https://mtp.myoas.com
-https://nativepay.keke.cn
 https://open.oppomobile.com
 https://sbox.myoas.com
 https://spgw-pay.finzfin.com
@@ -129,7 +122,6 @@ https://www.oppo.com/th
 https://www.oppo.com/th/store
 https://www.opposhop.cn/
 https://www.opposhop.cn/m/
-nearme.com.cn
 opposhop.cn
 https://bugbounty-ctf.1password.com/
 <Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
