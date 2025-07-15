@@ -1114,7 +1114,6 @@
 1294578643
 13.58.121.166
 1324809509
-134.58.179.102-103
 134.58.179.82
 1343620481
 1351179184
@@ -1183,6 +1182,7 @@
 193.0.0.0/19 and 2001:67c:2e8::/48
 193.109.229.0/24
 193.110.154.0/24
+193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111
 194.209.121.0/24
 194.90.151.192/28
 194.90.25.80/29
@@ -3045,6 +3045,8 @@ capital.com/*
 capturingreality.com
 cardpayments.remitly.io
 cards.remitly.io
+cardsonline.azdiest.be
+cardsonlinetst.azdiest.be
 career.bpost.be
 careers.booking.com
 careers.marriott.com
@@ -3638,8 +3640,6 @@ dmxleo.com
 dns.watch
 dns0.optus.net.au
 dns1.optus.net.au
-dns1.uzleuven.be
-dns2.uzleuven.be
 do.co
 doaction.org
 docs.api.enterprise.uphold.com
@@ -7511,7 +7511,6 @@ usercontent.koho.ca
 users-api.truelayer.com
 uwa.mobilevikings.be
 uz.avtoelon
-uzlcm12cmg1.uzleuven.be
 v1. kidswebservices.com
 v1staging.kidswebservices.com 
 vacations.travelimpressions.com
