@@ -621,7 +621,6 @@
 *.ncs.co
 *.ncs.com.cn
 *.ncsimpact.co
-*.nearme.com.cn
 *.neat.com.hk
 *.neat.hk
 *.neat.wtf
@@ -668,7 +667,6 @@
 *.operafootball.com
 *.operanewsapp.com
 *.operationstechnology.io
-*.oppomobile.com
 *.ops.netlify.com
 *.opsgenie.com
 *.optimuscards.com
@@ -2333,7 +2331,6 @@ Tap to Pay (iOS)
 Team Fortress 2
 Tesla Energy hardware you own
 Tesla vehicle hardware that you own
-Test environment
 Texts
 ThePerfumeShop.App.Android
 ThePerfumeShop.App.iOS
@@ -3209,11 +3206,10 @@ com.coinbase.wallite
 com.coinhako
 com.coinhako.app
 com.coinspot.app
-com.coloros.assistantscreen
 com.coloros.browser
+com.coloros.findmyphone
 com.coloros.pictorial
 com.coloros.speechassist
-com.coloros.video
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
@@ -3237,6 +3233,7 @@ com.expedia.bookings
 com.expediapartnercentral
 com.fanduel.android.self
 com.fanduel.sportsbook
+com.finshell.wallet
 com.fishbowlmedia.fishbowl
 com.foxnextgames.m3
 com.frame.FrameIO
@@ -3277,11 +3274,9 @@ com.heytap.cloud
 com.heytap.health.international
 com.heytap.mall
 com.heytap.market
-com.heytap.music
 com.heytap.pictorial
 com.heytap.store
 com.heytap.themestore
-com.heytap.xgame
 com.hotornot.app
 com.hotwire.hotels
 com.hypr.one
@@ -3332,7 +3327,6 @@ com.moveit.app.customer
 com.nbaimd.gametime.nba2011
 com.nbaimd.gametime.universal
 com.nearme.browser
-com.nearme.themespace
 com.nearme.themestore
 com.newegg.app
 com.nextcloud.Talk
@@ -3346,15 +3340,10 @@ com.oceanwing.FDMPrint
 com.oceanwing.battery.cam
 com.oceanwing.care.cam
 com.oplus.account
-com.oplus.games
-com.oplus.member
 com.oplus.themestore
-com.oplus.vip
-com.opos.ads
 com.oppo.cloud
 com.oppo.encryption
 com.oppo.market
-com.oppo.quicksearchbox
 com.oppo.speechassist
 com.oppo.usercenter
 com.orbitz
@@ -3473,7 +3462,6 @@ comic.pixiv.net
 commerce.coinbase.com
 community-tc.services.mozilla.com
 community.8x8.com
-community.coloros.com
 community.databricks.com
 community.forescout.com
 community.logitech.com
@@ -3924,7 +3912,6 @@ http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/overlappingz
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
 http://digitalplayground.com/
 http://emerald.oasis.dev
-http://engine.heytap.com
 http://es.mydirtyhobby.com/
 http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
 http://federatedid-na1.services.adobe.com
@@ -3934,7 +3921,6 @@ http://greenchannel.payoneer.com.cn/gcportal
 http://grpc.oasis.dev
 http://h1-your-domain.zendesk.com/qa/
 http://h1-your-domain.zendesk.com/wfm/
-http://heytap.com
 http://heytapmobi.com
 http://ibotta.com
 http://ims-na1.adobelogin.com
@@ -3954,7 +3940,6 @@ http://my.mintmobile.com/
 http://my.ultramobile.com
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://nav.naspers.com/
-http://oppofind.com
 http://ourhouse.underarmour.com/
 http://partners.deriv.com
 http://pay.monashcollege.edu.au/
@@ -4469,7 +4454,6 @@ https://clickhou.se/bugcrowd
 https://clients.adstruc.com
 https://clients.multiplayer.classdojo.com/launcher/prod/latest
 https://clients3.pentest.clicsante.ca/
-https://cloud.heytap.com/
 https://cloud.oppo.com/
 https://cloud.unity.com
 https://cloudinary.com/console
@@ -4599,7 +4583,6 @@ https://downloads.arlo.com
 https://dropbox.com/dash/download
 https://dropboxpartners.com
 https://dxc.episerver.net/ 
-https://e.heytap.com/
 https://e.oppomobile.com
 https://ebctest.cybersource.com/merchant-mgmt/
 https://ebctest.cybersource.com/ums
@@ -4631,7 +4614,6 @@ https://fileshare.ze.monash.edu
 https://finance.quintoandar.com.br/*
 https://financeiro.hostgator.com.br
 https://financialforce.com
-https://find.yun.oppo.com/
 https://fivetran.com/login
 https://flags.expeng.optimizely.com
 https://flo.uri.sh
@@ -5012,7 +4994,6 @@ https://gwapi2.tripadvisor.com
 https://gx.games
 https://gx.opera-api.com
 https://hackme.matrixreq.com
-https://hd.opposhop.cn
 https://he.elementor.com/
 https://head.coda.io/*
 https://healthmate.withings.com
@@ -5040,8 +5021,6 @@ https://identity.bugcrowd.com/
 https://identity.majidalfuttaim.com
 https://identity.monash.edu
 https://identity.monash.edu/
-https://ifind.heytapmobi.com
-https://ifind.oppomobile.com
 https://images.latitudepayapps.com/
 https://ims.monash.edu
 https://indeed.com
@@ -5920,7 +5899,6 @@ https://soundcloud.com
 https://soundcloud.org
 https://spacelift.dev/
 https://speeddials.opera.com
-https://spgw-pay.finzfin.com
 https://sport.optus.com.au/
 https://sprint.com
 https://square.online
