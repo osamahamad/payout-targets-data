@@ -229,7 +229,6 @@
 *.cognitiveperformer.com
 *.coinbase.com
 *.coindcx.com
-*.coloros.com
 *.comcast.com
 *.computerbild.de
 *.consumer.worldcoin.org
@@ -609,8 +608,6 @@
 *.myharmony.com
 *.myhomebook.de
 *.myinsights.io
-*.myoas.com
-*.myoas.net
 *.mysqueezebox.com
 *.myteksi.com
 *.myteksi.net
@@ -990,7 +987,6 @@
 *.vrbo.com
 *.vtm.be
 *.vtmgo.be
-*.wanyol.com
 *.water-link.be/
 *.watsons.co.id
 *.watsons.co.th
@@ -1989,7 +1985,6 @@ Livestream software (Producer, Studio)
 Load Balancing
 Localized airbnb sites listed at the link below:
 Localized versions of www.tripadvisor.com available from the site's header or footer
-LockScreenMagazine
 Log4cxx
 Log4j 2.x
 Log4j API for Kotlin
@@ -3206,7 +3201,6 @@ com.coinbase.wallite
 com.coinhako
 com.coinhako.app
 com.coinspot.app
-com.coloros.browser
 com.coloros.findmyphone
 com.coloros.pictorial
 com.coloros.speechassist
@@ -3233,6 +3227,7 @@ com.expedia.bookings
 com.expediapartnercentral
 com.fanduel.android.self
 com.fanduel.sportsbook
+com.finshell.finance
 com.finshell.wallet
 com.fishbowlmedia.fishbowl
 com.foxnextgames.m3
@@ -3275,6 +3270,7 @@ com.heytap.health.international
 com.heytap.mall
 com.heytap.market
 com.heytap.pictorial
+com.heytap.research
 com.heytap.store
 com.heytap.themestore
 com.hotornot.app
@@ -3326,8 +3322,9 @@ com.moneybird.android
 com.moveit.app.customer
 com.nbaimd.gametime.nba2011
 com.nbaimd.gametime.universal
-com.nearme.browser
+com.nearme.gamecenter
 com.nearme.themestore
+com.netease.my.nearme.gamecenter
 com.newegg.app
 com.nextcloud.Talk
 com.nextcloud.client
@@ -3340,12 +3337,11 @@ com.oceanwing.FDMPrint
 com.oceanwing.battery.cam
 com.oceanwing.care.cam
 com.oplus.account
+com.oplus.aimemory
 com.oplus.themestore
-com.oppo.cloud
-com.oppo.encryption
+com.oplus.vip
 com.oppo.market
 com.oppo.speechassist
-com.oppo.usercenter
 com.orbitz
 com.pacificinteractive.HouseOfFun
 com.paypal.android.p2pmobile
@@ -3892,7 +3888,6 @@ http://bumba.global
 http://clinical-quality.khealth.com/api/v1
 http://coinbase.com
 http://collaboration.rei.com
-http://coloros.com
 http://data-api.coindesk.com/
 http://datapod-1-druid-ingest.production.forescoutcloud.net/v1/upload
 http://datapod-1-druid-query.production.forescoutcloud.net/v1/polling
@@ -3921,7 +3916,6 @@ http://greenchannel.payoneer.com.cn/gcportal
 http://grpc.oasis.dev
 http://h1-your-domain.zendesk.com/qa/
 http://h1-your-domain.zendesk.com/wfm/
-http://heytapmobi.com
 http://ibotta.com
 http://ims-na1.adobelogin.com
 http://it.mydirtyhobby.com/
@@ -4417,7 +4411,6 @@ https://business.rivian.com/api
 https://butlerfortrello.com/
 https://buyersedge.co.nz
 https://carecredit.com.au
-https://career.oppo.com/
 https://careers.etsy.com
 https://cas-cf.euce1.indriverapp.com/api/passkey
 https://cash.app
@@ -4436,7 +4429,6 @@ https://central.sophos.com
 https://central.sophos.com/
 https://cfc.naspers.com/
 https://chat.openai.com
-https://chat.oppo.com/
 https://checkout.eyeko.com
 https://checkout.glossybox.com
 https://checkout.myvitamins.com
@@ -4548,7 +4540,6 @@ https://developers.afterpay.com
 https://developers.elementor.com/
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
-https://developers.oppomobile.com
 https://developers.vendhq.com/
 https://devportal.rec.net/
 https://devstaging.pcapcloud.com/*
@@ -4582,8 +4573,9 @@ https://download.opera.com
 https://downloads.arlo.com
 https://dropbox.com/dash/download
 https://dropboxpartners.com
+https://drp.myoppo.com/
 https://dxc.episerver.net/ 
-https://e.oppomobile.com
+https://e.oppo.com/
 https://ebctest.cybersource.com/merchant-mgmt/
 https://ebctest.cybersource.com/ums
 https://ecohesion.aufbaubank.de
@@ -4636,6 +4628,7 @@ https://gateway.optus.com.au/api/ai-search/search/v1
 https://gatewaydsapdev2.marriott.com/
 https://gatewaydsaptst1.marriott.com/
 https://gatewaydsaptst2.marriott.com/
+https://gcsm.oppoit.com/
 https://gemcreditline.co.nz
 https://gemfinance.co.nz
 https://gemvisa.com.au
@@ -5502,7 +5495,6 @@ https://monashcollege.edu.au
 https://monster-customizer.classdojo.com/cf6dfa68-1a81-4c6d-bc0b-38f3666b37d6/index.html
 https://move.monash.edu/
 https://mstatic.usaa.com
-https://mtp.myoas.com
 https://multipay-staging.test.komoju.com
 https://my.arlo.com
 https://my.electroneum.com/
@@ -5565,7 +5557,6 @@ https://online.mustaqel.qa/qat/en/login
 https://online.srilankaevisa.lk/lka/en/login
 https://onlinena.vfsglobal.dz/AppointmentAdmin/
 https://op.paymaya.com/
-https://open.oppomobile.com
 https://openai.com/
 https://openam-bug-bounty-stag.forgeblocks.com/*
 https://opendata-demo.test-socrata.com
@@ -5848,7 +5839,6 @@ https://sandbox-vendors.paddle.com
 https://sandbox.directly.com/dashboard/index
 https://sandbox.fireblocks.io/v2/settings/notifications
 https://sandbox.open-xchange.com
-https://sbox.myoas.com
 https://scalews.withings.com
 https://scoober.com
 https://screenplayer.20min.ch
@@ -5949,7 +5939,6 @@ https://support.lastpass.com
 https://support.moovitapp.com/hc/en-us/articles/11389054527122-WayFinder-Augmented-Reality-helper-to-find-your-stop-iPhone-only
 https://support.newrelic.com/
 https://support.okta.com
-https://support.oppo.com/cn/
 https://supportportal.thalesgroup.com
 https://sycamore.moneyboxapp.org/
 https://t-mobile.com
@@ -6024,6 +6013,7 @@ https://trello.com/power-ups/6052d130068a8c0de7b022b4
 https://trm.pinelabs.ae
 https://tsock.us1.twilio.com
 https://twilio.com/blog
+https://u.oppomobile.com/
 https://uae.voxcinemas.com/
 https://ui.com/distributors/
 https://ui.com/training/partners/
