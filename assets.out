@@ -2639,6 +2639,8 @@ api.dashlane.com
 api.data.gov
 api.deezer.com
 api.deriv.com
+api.digital.delen.be 
+api.digital.delen.lu 
 api.digitalocean.com
 api.direct.playstation.com
 api.doppler.com
@@ -2788,6 +2790,9 @@ app.avtoelon.uz
 app.blueskytravelvietnam.com
 app.circle.com
 app.dashlane.com
+app.delen.be 
+app.delen.ch 
+app.delen.lu 
 app.deriv.com
 app.drogas.lt
 app.drogas.lv
@@ -2883,6 +2888,8 @@ asupport.suivo.com
 auroratechaward.com
 aus5.mozilla.org
 auth.23andme.com
+auth.digital.delen.be 
+auth.digital.delen.lu 
 auth.magic.link
 auth.monespacesante.fr
 auth.moonpay.com
@@ -2930,6 +2937,7 @@ bcny.com
 bd.visa.com
 be.bpost.mobilecard
 be.bpost.mybpost
+be.delen.digital
 be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
@@ -3565,6 +3573,7 @@ debug.clairvoyance.indrive.tech
 decision.swiftfinancial.com
 deeplinks.geneva-staging.chat
 deeplinks.geneva-staging.com
+delen/id1064839588
 delta.app
 demo.arkoselabs.com
 demo.cloud.databricks.com
@@ -6575,9 +6584,13 @@ login-test.portofantwerpbruges.com/poam/XUI/
 login.arkane.network
 login.bigcommerce.com
 login.cm.com
+login.delen.be 
+login.delen.ch 
+login.delen.lu 
 login.fr.cloud.gov
 login.infomaniak.com
 login.lansweeper.com
+login.oyens.com
 login.pabets.tvg.com
 login.playcanvas.com
 login.portofantwerpbruges.com
@@ -7305,6 +7318,7 @@ stats.nba.com
 stats.nextcloud.com
 stats.vinci.com
 stats.wnba.com
+status.delen.be 
 status.larksuite.com
 status.oasis.io
 status.uphold.com
@@ -7329,6 +7343,7 @@ streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streams.etoro.com
+sts.delen.be 
 sts.etoro.com
 sts.uzleuven.be
 studio-api.swapcard.com
@@ -7626,6 +7641,8 @@ www.bookingholdings.com
 www.bpost.be
 www.bpost2.be
 www.bumble.com
+www.cadelam.be 
+www.cadelux.lu/en 
 www.cardinalcommerce.com
 www.carrentals.com
 www.cart.starbucks.co.jp/
@@ -7651,6 +7668,8 @@ www.data.gov
 www.datastax.com
 www.ddfcontent.com
 www.deezer.com
+www.delen.bank
+www.delen.be/en 
 www.demorgen.be
 www.demorgen.be/abonnementen
 www.digitalocean.com
