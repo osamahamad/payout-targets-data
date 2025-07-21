@@ -641,7 +641,6 @@
 *.nutakupublishing.com
 *.ociadmin.cloud.8x8.com
 *.octopus.com
-*.oda.com
 *.odcdn.com.au
 *.oklink.com
 *.okto.tech
@@ -718,7 +717,6 @@
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
 *.prod.ftl.netflix.com
-*.prod.nube.tech
 *.projectbaseline.com/
 *.prowly.com
 *.psynet.gg
@@ -1073,8 +1071,6 @@
 1032480595
 1057338687
 107.167.96.0/19
-1076840480
-1079537578
 1080248000
 1089294040
 1091010942
@@ -5407,7 +5403,6 @@ https://marketplace.auth0.com
 https://marketplace.ifood.com.br
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
 https://master.servicecentre.digitalservicing-np.lfscnp.com/
-https://mathem.se
 https://matrix.agent.tchap.gouv.fr
 https://matrix.e.tchap.gouv.fr
 https://matrix.i.tchap.gouv.fr
@@ -5496,7 +5491,6 @@ https://oauth.ring.com/*
 https://ob-sandbox.gocardless.io
 https://octopus.com
 https://octopus.com/downloads
-https://oda.com
 https://odesli.co
 https://odesli.com
 https://oes.optusnet.com.au/
@@ -6821,7 +6815,6 @@ nl.gamma.app.android
 nl.gamma.verf
 nl.karwei.app.android
 nmtracking.netflix.com
-no.kolonial.tienda
 notula-accpt.portofantwerpbruges.com
 novel.pixiv.net
 npm CLI
@@ -7121,7 +7114,6 @@ scapegoat.hyatt.com
 screenshot-proxy.netlify.app
 scrutiny.swiftfinancial.com
 sdg.data.gov
-se.mathem.mathem
 search.brave.com
 secure-dfadmin.deriv.com
 secure-supply-xml.booking.com
