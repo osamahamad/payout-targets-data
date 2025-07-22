@@ -153,6 +153,13 @@ service.fing.com
 app.fing.com
 Fing desktop
 www.fing.com*
+Grafana Loki
+Grafana Mimir
+Grafana OSS
+Grafana Pyroscope
+Grafana Tempo
+https://github.com/grafana/*
+Non-Core Grafana Plugins
 955837609
 com.here.app.maps
 https://jaguar.here.com
@@ -223,6 +230,8 @@ mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
 vikinglab.be
+1052238659
+co.uk.getmondo
 134.58.179.82
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
@@ -350,6 +359,8 @@ http://socialdeal.nl/inspirations/bluemonday/
 http://www.whynot.com/
 https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/
 www.socialdeal.nl
+ aweb.suivo.com
+asupport.suivo.com
 cas.tomorrowland.com
 belgium.tomorrowland.com
 brasil.tomorrowland.com

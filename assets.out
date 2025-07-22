@@ -9,6 +9,7 @@
  Mobile Apps
  Twilio CDNs (static*.twilio.com)
  Watsons.TaiWan.Android
+ aweb.suivo.com
  com.citymapper.app.release
  https://github.com/0xPolygon/proof-generation-api
  idp-contact.nexuzhealth.be
@@ -595,6 +596,8 @@
 *.mona.co
 *.moneyback.com.hk
 *.monopoly-poker.com
+*.monzo.com
+*.monzo.me
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -715,6 +718,7 @@
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -970,6 +974,9 @@
 *.viator.com
 *.viatorinc.com
 *.vidaxl.hk
+*.vidaxl.io
+*.vidaxl.net
+*.vidaxl.org
 *.vimeo.com
 *.vimla.io
 *.vimla.se
@@ -1074,6 +1081,7 @@
 1023499075
 103.83.120.0/22
 1032480595
+1052238659
 1057338687
 107.167.96.0/19
 1076840480
@@ -1882,6 +1890,11 @@ GitLab for Jira Cloud
 Github findings
 GlotPress
 Google Cloud Plateform Instances
+Grafana Loki
+Grafana Mimir
+Grafana OSS
+Grafana Pyroscope
+Grafana Tempo
 Grammarly AI Assistant
 Grammarly Auth Services
 Grammarly Business Features
@@ -2079,6 +2092,7 @@ Nintendo Switch applications for which Nintendo is the publisher worldwide
 Node.js Driver
 Non Altera Products
 Non-Core Assets
+Non-Core Grafana Plugins
 NordPass - Linux Executable
 NordPass - MacOS Executable
 NordPass - Windows Executable
@@ -2876,6 +2890,7 @@ assets.hyatt.com
 assets.spotify.com
 assets.tumblr.com
 astra.datastax.com
+asupport.suivo.com
 auroratechaward.com
 aus5.mozilla.org
 auth.23andme.com
@@ -3089,6 +3104,7 @@ cms.nba.com
 co.mona.android
 co.tide
 co.tide.tideplatform.in
+co.uk.getmondo
 coalition.nba.com
 coban.pixiv.net
 coda.grammarly.com
@@ -4737,6 +4753,7 @@ https://github.com/freedomofpress/securedrop-log
 https://github.com/freedomofpress/securedrop-proxy
 https://github.com/freedomofpress/securedrop-sdk
 https://github.com/freedomofpress/securedrop-workstation
+https://github.com/grafana/*
 https://github.com/gsa/data.gov
 https://github.com/gsa/datagov-deploy
 https://github.com/hyperledger/besu
@@ -5571,6 +5588,7 @@ https://paasportal.episerver.net/api/v1.0/
 https://pab.donneesquebec.ca/
 https://packages.cortexpowered.com
 https://paddle.net
+https://parcelhubeurope.com
 https://partner-feeds.20min.ch
 https://partner.apps.monash.edu
 https://partner.myopenpass.com
@@ -6077,6 +6095,7 @@ https://vfs-ai-tiff-image-api-hchkdabjdsdya6ea.switzerlandnorth-01.azurewebsites
 https://vfs.mioot.com/
 https://vfseu.mioot.com/
 https://viatorapi.viator.com/service/directory
+https://vidaxlforwarding.com
 https://videoplayer.20min.ch
 https://vlagg.usaa.com
 https://vlapi.usaa.com
@@ -6407,6 +6426,7 @@ https://www.verisign.com
 https://www.vfsglobalservices-germany.com/Global-Appointment/
 https://www.vfsvisaservice.com/
 https://www.vfsvisaservice.com/IHC-SouthKorea-Appointment
+https://www.vidaxl{at|be|bg|ch|co.uk.com|com.au|com.ua|com|cz|de|dk|ee|es|fi|fr|gr|ie|is|it|hr|hu|lt|lv|no|nl|pl|pt|ro|se|si|sk|uk|sa.com|ae|ca|jp}
 https://www.visa.com.az/az_az/account/registration
 https://www.vtcprodapi.maf.ae/svc/svcHifi.svc/SaveOCRReceipt
 https://www.water-link-jaarverslag.be
