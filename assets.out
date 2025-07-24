@@ -1118,6 +1118,7 @@
 140.95.0.0/16
 141.0.8.0/21
 1413287364
+1413721906
 1431768824
 1438744533
 1448884851
@@ -1134,10 +1135,12 @@
 1477299281
 1478350915
 1481198245
+1485539253
 1486322860
 1491791513
 1494755014
 1498197033
+1506229470
 1508620125
 1510325826
 1519034860
@@ -1417,6 +1420,7 @@
 66.232.20.0/23
 6670203019
 6670536058
+6740879082
 674258465
 7 News
 719525810
@@ -3235,6 +3239,9 @@ com.exness.investments
 com.expedia.bookings
 com.expediapartnercentral
 com.fanduel.android.self
+com.fanduel.casino
+com.fanduel.flywheelnativecontainer.picks
+com.fanduel.racing
 com.fanduel.sportsbook
 com.finshell.finance
 com.finshell.wallet
