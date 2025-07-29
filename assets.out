@@ -519,6 +519,7 @@
 *.lyst.co
 *.lyst.com
 *.lystit.com
+*.m-pesa.com
 *.magiceden.dev
 *.magiceden.io
 *.magiceden.workers.dev
@@ -1115,6 +1116,7 @@
 1413721906
 1431768824
 1438744533
+1442121355
 1448884851
 1452166623
 1454725763
@@ -1134,6 +1136,7 @@
 1491791513
 1494755014
 1498197033
+1502222766
 1506229470
 1508620125
 1510325826
@@ -3410,6 +3413,9 @@ com.venmo
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
 com.visma.blue
+com.vodafone.mpesa.drc
+com.vodafone.mpesa.ls
+com.vodafone.mpesa.mozambique
 com.vrbo.android
 com.wealthsimple
 com.wealthsimple.wealthsimple
@@ -6642,6 +6648,7 @@ logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
 lookup.nextcloud.com
 lrc20.lightspark.com
+m-pesa.africa
 m.4njbets.tvg.com
 m.airbnb.com
 m.avtoelon.uz
@@ -6765,6 +6772,9 @@ monitor.mozilla.org
 monzo.com
 moonpay.com
 mozilla-pontoon-staging.herokuapp.com
+mpa.ekyc.backoffice.m-pesa.com
+mpa.ekyc.selfregister.m-pesa.com
+mpa.qr.web.m-pesa.com
 msg.playcanvas.com
 mspshowcase.arubanetworks.com
 mta-sts.wearehackerone.com
@@ -6930,7 +6940,9 @@ open-api.capital.com
 open.airbnb.com
 open.larksuite.com
 open.ys7.com
+openapi.m-pesa.com
 openapi.starbucks.com
+openapiportal.m-pesa.com
 openidconnect.net	
 opposhop.cn
 oprc.portofantwerpbruges.com
