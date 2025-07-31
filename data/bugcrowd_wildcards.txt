@@ -151,6 +151,10 @@ prod-*.nu.com.co
 *.certsynonprod.com
 *.skyscanner.net
 3rd party services hosted at *.sophos.com
+*.soundcloud.org
+*.s-cloud.net
+*.services.repostnetwork.com
+api-*.soundcloud.com
 *.square.com
 *.squareup.com
 *.statuspage.io
