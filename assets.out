@@ -108,7 +108,6 @@
 *.api.cx.metamask.io
 *.api.dailymotion.com
 *.api.louisvuitton.com
-*.api.originenergy.com.au
 *.api.playstation.com
 *.api.ua.com/
 *.app.asana.com
@@ -276,7 +275,6 @@
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
 *.dojo.me
-*.download.originenergy.com.au
 *.dpgmedia.be
 *.dpgmedia.nl
 *.drogas.lt
@@ -636,7 +634,6 @@
 *.ociadmin.cloud.8x8.com
 *.octopus.com
 *.oda.com
-*.odcdn.com.au
 *.oklink.com
 *.okto.tech
 *.okx.com
@@ -658,7 +655,6 @@
 *.opsgenie.com
 *.optimuscards.com
 *.optus.com.au
-*.origindigital-pac.com.au
 *.oslo.io
 *.osp.opera.software
 *.otherside.xyz
@@ -865,7 +861,6 @@
 *.superbet.rs
 *.superdrug.com
 *.support.jbl.com
-*.support.originenergy.com.au
 *.swiftype.com
 *.swisspass.ch
 *.sys.comcast.net
@@ -3994,7 +3989,6 @@ https://28degreescard.com.au
 https://8x8.vc/xmpp-websocket
 https://Fr.mydirtyhobby.com
 https://Mlife.mo
-https://Yourporter.com.au
 https://[it | fr | us | sg | …].louisvuitton.com
 https://account-registration.monash.edu/
 https://account.bitpanda.com
@@ -4021,7 +4015,6 @@ https://admintool.lime.bike
 https://aemdam.usaa360.com/
 https://afterpay.com
 https://agent.apps.monash.edu/
-https://agent.compareandconnect.com.au/
 https://airflow-prod.coda.io/*
 https://airflow-prod.ops.coda.io/*
 https://aiven.io/
@@ -4037,11 +4030,9 @@ https://answers.irobot.com
 https://anytask.thesecurityteam.rocks
 https://api-a.usaa.com
 https://api-app.datadome.co/
-https://api-businessportal.origin.com.au
 https://api-ch-gva-2.exoscale.com/v2
 https://api-js.datadome.co
 https://api-payments-secure-prod.skippayments.com
-https://api-portal.originzero.com.au
 https://api-prod.retailsso.com
 https://api-prod.thatconceptstore.com/
 https://api-skipthedishes.skipthedishes.com
@@ -4101,9 +4092,6 @@ https://api.pornhub.com/
 https://api.production.cde.tamg.cloud
 https://api.rec.net
 https://api.ring.com/*
-https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
-https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql
-https://api.rx.originenergy.com.au/v1/lpg/graphql
 https://api.sandbox.agora.incubateur.net  (source code available on GitHub, see description)
 https://api.segment.io/
 https://api.sendgrid.com
@@ -4407,7 +4395,6 @@ https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
 https://business.rivian.com/api
-https://businessportal.origin.com.au
 https://butlerfortrello.com/
 https://buyersedge.co.nz
 https://carecredit.com.au
@@ -4491,7 +4478,6 @@ https://csp-prod.codebig2.net
 https://cstg-integ.uidapi.com
 https://customer-api.datadome.co
 https://customer-portal.paddle.com
-https://customerportal.winconnect.com.au/login
 https://customers.us1.fga.dev/
 https://cw-api.takeaway.com
 https://d1.utv.usaa.com
@@ -4506,7 +4492,6 @@ https://data.coda.io/*
 https://data.limeinternal.com
 https://data.prosus.com/
 https://datadome.co
-https://dataportal.originenergy.com.au
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
 https://dcfgatewaytst1.marriott.com/
 https://ddosportal.optus.com.au
@@ -4594,7 +4579,6 @@ https://evigilation.monash.edu
 https://example-jssdk-integ.uidapi.com
 https://example-srvonly-integ.uidapi.com
 https://externalconnect.usaa.com/
-https://fastconnect.co.nz
 https://fcu.eu-west-2.outscale.com
 https://features.opera-api.com
 https://fileshare.ze.monash.edu
@@ -5761,16 +5745,13 @@ https://pluralcheckout.pinepg.in
 https://poc-op-ywh.it.authentification.si.gouv.qc.ca/
 https://pods.link
 https://pornhub.mainhub.com
-https://portal-api.anz.kinergysolutions.com
 https://portal.3cx.com
 https://portal.afterpay.com
-https://portal.anz.kinergysolutions.com
 https://portal.clearpay.co.uk
 https://portal.clearpay.com
 https://portal.exoscale.com/
 https://portal.iFoodpago.com.br
 https://portal.lrs.t-mobile.com
-https://portal.originzero.com.au
 https://portal.pnimedia.com/
 https://portal.pnimedia.com/Account/Login
 https://portal.unifiedid.com
@@ -5796,7 +5777,6 @@ https://prozentoomat.toom.de
 https://pt-runner.app.ridewithvia.com
 https://pyszne.pl
 https://quantum-events.onecloud.harman.com
-https://raywhitehomenow.com/ 
 https://rc.fstr.rocks
 https://rec.net/
 https://rec.net/download
@@ -5865,7 +5845,6 @@ https://shop.ifood.com.br
 https://shop.lululemon.com
 https://shop.monash.edu/
 https://shop.post.ch/shop
-https://sign.originzero.com.au
 https://signup.sendgrid.com/
 https://simnext.bullish-test.com
 https://skippayments.com
@@ -6165,7 +6144,6 @@ https://www.classdojo.com
 https://www.cloudvector.com/
 https://www.coindesk.com/
 https://www.coinspot.com.au/v2/api
-https://www.compareandconnect.com.au/
 https://www.contadigital.ifoodpago.com.br/
 https://www.coral.co.uk
 https://www.coral.co.uk/en/games
@@ -6320,7 +6298,6 @@ https://www.oppo.com/th/store
 https://www.opposhop.cn/
 https://www.opposhop.cn/m/
 https://www.optus.com.au/osp-ecare
-https://www.originenergy.com.au/
 https://www.otto.de
 https://www.otto.de/jobs
 https://www.outsourcing.optus.net.au/eFRAMS3/
@@ -6412,8 +6389,6 @@ https://www.water-link-jaarverslag.be
 https://www.water-link.be
 https://www.waterstoring.be/
 https://www.weebly.com/
-https://www.winconnect.com.au/get-connected/
-https://www.winconnect.com.au/moving-out/
 https://www.xbox.com/en-us/games/store/rec-room/9pgpqk0xthrz
 https://www.xfinity.com/apps
 https://www.xvideos.net/app/
@@ -6437,7 +6412,6 @@ https://yourdelivery.de
 https://zuora-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/notifications/raas
 https:/pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-acces-info/
 hub-api-sandbox.remitly.io
-hub.myconnect.com.au
 hub.vroid.com
 hub.vznkul.be/* 
 hub.vznkul.be/services/interhub/InterHubService
@@ -6819,7 +6793,6 @@ myaccount.payoneer.com
 myaccount.trouw.nl
 myaccount.volkskrant.nl
 myaccount.vtm.be
-myconnect.com.au
 mynexuz.be
 mynexuz.be/myUZ/
 mynexuzhealth/id1459856321
@@ -7056,8 +7029,6 @@ portal-api.coinmarketcap.com
 portal.arkoselabs.com
 portal.au.frontegg.com
 portal.enterprise.uphold.com
-portal.myconnect.com.au
-portal.myconnect.com.au/new-connection
 portal.nextcloud.com
 portal.polygon.technology
 portal.taxi.booking.com
@@ -7280,7 +7251,6 @@ shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
 signature-insights.api.cx.metamask.io
-signup.myconnect.com.au
 simperium.com
 simplenote.com
 siorc.xfinity.com
@@ -7346,7 +7316,6 @@ sso.8x8pilot.com
 sso.mangerbouger.fr
 sso.marriott.com
 sso.oft.hyatt.com
-ssu.myconnect.com.au/signup/get-connected 
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 staging-app.bany.dev
 staging.airtable.com
