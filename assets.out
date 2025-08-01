@@ -49,7 +49,6 @@
 *.8x8staging.com
 *.8x8testa.com
 *.8x8testb.com
-*.<researcher-store>.mybigcommerce.com
 *.a.exodus.io
 *.acbpost.be
 *.acc-pub.mobilevikings.be
@@ -144,7 +143,6 @@
 *.betfair.se
 *.betsharedservices.io
 *.betviewapi.com
-*.bigcommerce.net
 *.bild.de
 *.bild.tv
 *.binary.com
@@ -274,6 +272,7 @@
 *.district.in
 *.dm.gg
 *.dmcdn.net
+*.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
@@ -283,6 +282,10 @@
 *.dpgmedia.nl
 *.drogas.lt
 *.drogas.lv
+*.dropbox.com
+*.dropboxer.net
+*.dropboxforum.com
+*.dropboxpartners.com
 *.dropmix.com
 *.dropxl.com
 *.dsanalytics.com
@@ -399,6 +402,9 @@
 *.harmankardon.com
 *.harmonixmusic.com
 *.harmonyremote.com
+*.hellofax.com
+*.hellosign.com
+*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.bild.de
@@ -737,6 +743,7 @@
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
+*.reclaim.ai
 *.reddit.com
 *.redditblog.com
 *.reddithelp.com
@@ -1080,6 +1087,7 @@
 107.167.96.0/19
 1076840480
 1079537578
+1080074001
 1080248000
 1089294040
 1091010942
@@ -1324,6 +1332,7 @@
 3.basecamp.com
 302584613
 319881193
+327630330
 328407587
 335187483
 336381998
@@ -1405,6 +1414,7 @@
 6444040977
 6444868926
 6449737830
+6450553960
 6452192521
 645949180
 6462308655
@@ -1614,7 +1624,6 @@ ArubaOS-CX Switches
 Assets labeled as in-scope
 Assets owned by RIPE NCC
 Audition
-Authentication component
 BBPress Core
 Backend endpoint: bug-bounty-be.glean.com
 Backend/Non-Game
@@ -1778,6 +1787,8 @@ Drogas.Latvia.Android
 Drogas.Latvia.iOS
 Drogas.Lietuva.Android
 Drogas.Lietuva.iOS
+Dropbox Desktop Application
+Dropbox.com
 Dynatrace ActiveGate
 Dynatrace MobileAgent
 Dynatrace OneAgent
@@ -1929,6 +1940,8 @@ Hardware found on https://www.ezviz.com/category/security-wifi-cameras
 Hardware found on https://www.ezviz.com/category/smart-home
 Harmony Remote Software
 Harmony Remotes
+HelloFax.com
+HelloSign.com
 Hermes Relayer
 Horcrux
 HubSpot Android Mobile App
@@ -2655,6 +2668,7 @@ api.direct.playstation.com
 api.doppler.com
 api.drogas.lt
 api.drogas.lv
+api.dropbox.com
 api.dyson.at
 api.dyson.be
 api.dyson.ch
@@ -2787,6 +2801,7 @@ apis.mail.yahoo.com
 apis.onecloud.harman.com
 apix.vodafone.om
 app*.hubspot.com
+app.Reclaim.ai
 app.aikido.dev
 app.alasco.de
 app.avtoelon.uz
@@ -3220,6 +3235,8 @@ com.dashlane.dashlanephonefinal
 com.defi.wallet
 com.deribit
 com.dolap.android
+com.dropbox.android
+com.dropbox.dash
 com.dyson.mobile.android
 com.ebookers
 com.eero.android
@@ -3565,7 +3582,9 @@ cyberghost.app
 cyberghost.com
 cz.skodaauto.myskoda
 daita/files_fulltextsearch_tesseract
+dash.ai
 dash.cloudflare.com
+dash.dropbox.com
 dashboard-beta.fr.cloud.gov
 dashboard.doppler.com
 dashboard.fr.cloud.gov
@@ -3663,6 +3682,7 @@ docs.redoxengine.com
 docs.silabs.com
 docs.topperpay.com
 docs.uphold.com
+docsend.com
 docuflow.stg.inspectorio.com
 donations.livestream.com
 doppler
@@ -3671,6 +3691,7 @@ download.krisp.ai
 download.nextcloud.com
 downloads.datastax.com
 drive.wolt.com
+dropbox.com/paper
 dx-demo.deriv.com
 dx.deriv.com
 e-Commerce
@@ -4217,7 +4238,6 @@ https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693
 https://apps.apple.com/app/thefork-manager-neo/id1295795281
 https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
-https://apps.apple.com/au/app/bigcommerce/id1418570678
 https://apps.apple.com/au/app/certsy/id1617796159
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
@@ -4383,8 +4403,6 @@ https://backblaze.com
 https://backend.ibotta.com/
 https://base.org
 https://beta.arlo.com
-https://bigcommerce.com/blog
-https://bigcommerce.com/make-it-big
 https://billing.ring.com/*
 https://billingonline.post.ch/OnlinePayment/Web/v1/BOI
 https://billingserver.pinelabs.com/
@@ -4721,7 +4739,6 @@ https://github.com/auth0/auth0.js
 https://github.com/auth0/lock
 https://github.com/auth0/nextjs-auth0
 https://github.com/auth0/react-native-auth0
-https://github.com/bigcommerce/
 https://github.com/brave-intl/bat-balance
 https://github.com/brave-intl/bat-client
 https://github.com/brave-intl/bat-go
@@ -5659,7 +5676,6 @@ https://play.google.com/store/apps/details?id=com.auth0.guardian&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.backblaze.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.belongi.moe
 https://play.google.com/store/apps/details?id=com.bforbank.android
-https://play.google.com/store/apps/details?id=com.bigcommerce.mobile
 https://play.google.com/store/apps/details?id=com.bitmex.app.android.testnet
 https://play.google.com/store/apps/details?id=com.bitoasis&hl=en
 https://play.google.com/store/apps/details?id=com.bitpanda.bitpanda
@@ -6169,7 +6185,6 @@ https://www.atlassian.com/software/jira/work-management
 https://www.atlassian.com/software/rovo
 https://www.beautyexpert.com/
 https://www.beta.tchap.gouv.fr
-https://www.bigcommerce.com
 https://www.binance.com/
 https://www.binance.us/
 https://www.bitdefender.com/business/smb-products/business-security.html?cid=ppc|b|google|smb&s_kwcid=AL!6076!3!514235572261!p!!g!!bitdefender%20business&utm_term=bitdefender%20business&utm_campaign=USA+SMB+Branded+30&utm_source=adwords&utm_medium=ppc&hsa_acc=8155205354&hsa_cam=7848657822&hsa_grp=124745713150&hsa_ad=514235572261&hsa_src=g&hsa_tgt=kwd-308396066873&hsa_kw=bitdefender%20business&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwqIiFBhAHEiwANg9szk-Rr3iSn4mrwsvAUOn-pzrO12ufWDmyCLopWigaLQW0t_xtlBE65RoCr6kQAvD_BwE
@@ -6661,7 +6676,6 @@ login-ia.tvg.com
 login-pabets.tvg.com
 login-test.portofantwerpbruges.com/poam/XUI/
 login.arkane.network
-login.bigcommerce.com
 login.cm.com
 login.delen.be 
 login.delen.ch 
@@ -7208,6 +7222,7 @@ rei.com
 relay.firefox.com
 relay.playcanvas.com
 remitly.com
+replay.dropbox.com
 repo.magento.com
 report-html-sight.stg.inspectorio.com
 report.voi.com
@@ -7333,6 +7348,7 @@ shop.wyndhamvacationownership.trisept.travel
 shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
+sign.dropbox.com
 signature-insights.api.cx.metamask.io
 signup.myconnect.com.au
 simperium.com
@@ -8167,6 +8183,7 @@ zopim.com
 ███████████████████████████████████
 ████████████████████████████████████
 ███████████████████████████████████████
+██████████████████████████████████████████████
 ████████████████████████████████████████████████
 █████████████████████████████████████████████████████████
 ██████████████████████████████████████████████████████████
