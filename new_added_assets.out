@@ -1,9 +1,10 @@
-*.alipayplus.com
-*.antom.com
-*.logitechg.com*
-*.worldfirst.com
-Any Other Applications found here: https://mysrc.group/project_detail?id=11
-alipayhk.com
-anext.com.sg
-antbank.hk
-bettrfinancing.com
+https://api-{app-id}.calls.sendbird.com
+https://api-{app-id}.notifications.sendbird.com
+https://api-{app-id}.sendbird.com
+https://dashboard.sendbird.com/
+https://desk-api-{region}.sendbird.com
+https://gate.sendbird.com
+https://sendbird.com
+https://sendbird.com/docs
+https://ws-{app-id}.calls.sendbird.com
+https://ws-{app-id}.sendbird.com
