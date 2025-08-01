@@ -1008,6 +1008,7 @@
 *.withbuddies.com
 *.withspotify.com
 *.wlo.link
+*.wolt.com
 *.wooga.com
 *.wordcamp.org
 *.wordpress.net
@@ -1125,6 +1126,7 @@
 1474700 (Steam app id)
 1475021574
 1476615877
+1477299281
 1478350915
 1481198245
 1485539253
@@ -1440,6 +1442,7 @@
 936983378
 938003185
 94.107.237.192/26
+943905271
 944011620
 947984433
 949829216
@@ -2898,6 +2901,7 @@ auth.ys7.com
 auth0.com	
 auth0.gocardless.com
 auth0.net
+authentication.wolt.com
 authz.workbox.dk
 autocomplete.booking.com
 autodiscover.uzleuven.be
@@ -3431,6 +3435,8 @@ com.whoop.iphone
 com.wikibuy.prod.main
 com.wisdomtree.wtprime
 com.withbuddies.dice.free
+com.wolt.android
+com.wolt.courierapp
 com.wooga.pearlsperil
 com.wotif.android
 com.xiaomi.account
@@ -3500,6 +3506,7 @@ core.yoti.com
 corp-dev.nba.com
 corp.badoo.com
 corp.polymoon.it
+corporate.wolt.com
 cover-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 cpanel.hostinger.com
@@ -3637,6 +3644,7 @@ doppler.team
 download.krisp.ai
 download.nextcloud.com
 downloads.datastax.com
+drive.wolt.com
 dx-demo.deriv.com
 dx.deriv.com
 e-Commerce
@@ -3987,6 +3995,7 @@ https://28degreescard.com.au
 https://8x8.vc/xmpp-websocket
 https://Fr.mydirtyhobby.com
 https://Mlife.mo
+https://Yourporter.com.au
 https://[it | fr | us | sg | …].louisvuitton.com
 https://account-registration.monash.edu/
 https://account.bitpanda.com
@@ -4013,6 +4022,7 @@ https://admintool.lime.bike
 https://aemdam.usaa360.com/
 https://afterpay.com
 https://agent.apps.monash.edu/
+https://agent.compareandconnect.com.au/
 https://airflow-prod.coda.io/*
 https://airflow-prod.ops.coda.io/*
 https://aiven.io/
@@ -4028,9 +4038,11 @@ https://answers.irobot.com
 https://anytask.thesecurityteam.rocks
 https://api-a.usaa.com
 https://api-app.datadome.co/
+https://api-businessportal.origin.com.au
 https://api-ch-gva-2.exoscale.com/v2
 https://api-js.datadome.co
 https://api-payments-secure-prod.skippayments.com
+https://api-portal.originzero.com.au
 https://api-prod.retailsso.com
 https://api-prod.thatconceptstore.com/
 https://api-skipthedishes.skipthedishes.com
@@ -4396,6 +4408,7 @@ https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
 https://business.rivian.com/api
+https://businessportal.origin.com.au
 https://butlerfortrello.com/
 https://buyersedge.co.nz
 https://carecredit.com.au
@@ -4582,6 +4595,7 @@ https://evigilation.monash.edu
 https://example-jssdk-integ.uidapi.com
 https://example-srvonly-integ.uidapi.com
 https://externalconnect.usaa.com/
+https://fastconnect.co.nz
 https://fcu.eu-west-2.outscale.com
 https://features.opera-api.com
 https://fileshare.ze.monash.edu
@@ -5748,13 +5762,16 @@ https://pluralcheckout.pinepg.in
 https://poc-op-ywh.it.authentification.si.gouv.qc.ca/
 https://pods.link
 https://pornhub.mainhub.com
+https://portal-api.anz.kinergysolutions.com
 https://portal.3cx.com
 https://portal.afterpay.com
+https://portal.anz.kinergysolutions.com
 https://portal.clearpay.co.uk
 https://portal.clearpay.com
 https://portal.exoscale.com/
 https://portal.iFoodpago.com.br
 https://portal.lrs.t-mobile.com
+https://portal.originzero.com.au
 https://portal.pnimedia.com/
 https://portal.pnimedia.com/Account/Login
 https://portal.unifiedid.com
@@ -5780,6 +5797,7 @@ https://prozentoomat.toom.de
 https://pt-runner.app.ridewithvia.com
 https://pyszne.pl
 https://quantum-events.onecloud.harman.com
+https://raywhitehomenow.com/ 
 https://rc.fstr.rocks
 https://rec.net/
 https://rec.net/download
@@ -5848,6 +5866,7 @@ https://shop.ifood.com.br
 https://shop.lululemon.com
 https://shop.monash.edu/
 https://shop.post.ch/shop
+https://sign.originzero.com.au
 https://signup.sendgrid.com/
 https://simnext.bullish-test.com
 https://skippayments.com
@@ -6147,6 +6166,7 @@ https://www.classdojo.com
 https://www.cloudvector.com/
 https://www.coindesk.com/
 https://www.coinspot.com.au/v2/api
+https://www.compareandconnect.com.au/
 https://www.contadigital.ifoodpago.com.br/
 https://www.coral.co.uk
 https://www.coral.co.uk/en/games
@@ -6724,6 +6744,7 @@ mercadoplay.uy
 mercantile.wordpress.org
 merchandise.opera-api.com
 merchant.crypto.com
+merchant.wolt.com
 merino.services.mozilla.com
 messenger.eu-east-1.indriverapp.com
 meta-api.reddit.com
@@ -6938,6 +6959,7 @@ opposhop.cn
 oprc.portofantwerpbruges.com
 ops.lime.bike
 ops.silabs.com
+ops.wolt.com
 opslogin.fr.cloud.gov
 orc-xfi.com
 org.malwarebytes.antimalware
@@ -7157,6 +7179,7 @@ reservations.all-inclusive.marriott.com
 reservations.rezserver.com
 reservations.wynnvacations.com
 resources.krisp.ai
+restaurant-api.wolt.com
 reviewer.pullrequest.com
 rewire.com
 rezagent.triseptsolutions.com
@@ -7606,6 +7629,7 @@ winecellar.zomato.com
 winkels.torfs.be
 winter.tomorrowland.com
 winterpackages.tomorrowland.com
+wolt.com
 wonderboxapi.com
 wonderboxdev.com
 woocommerce-adapter.judge.me
