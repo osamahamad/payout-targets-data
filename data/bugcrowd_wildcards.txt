@@ -45,6 +45,7 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.comcast.com
 *.xcal.tv
 *.sys.comcast.net
+*.sys.comcast.net
 *.dell.com/*
 *.delltechnologies.com/* 
 *.sandbox.directly.com/
@@ -118,11 +119,6 @@ prod-*.nu.com.co
 *.dailyadvent.com
 *.opsgenie.com
 *.optus.com.au
-*.origindigital-pac.com.au
-*.odcdn.com.au
-*.support.originenergy.com.au
-*.api.originenergy.com.au
-*.download.originenergy.com.au
 *.pinterest.com Web Apps
 *.points.com
 *.quizlet.com
