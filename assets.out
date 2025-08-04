@@ -1093,6 +1093,8 @@
 1091010942
 10x.redoxengine.com
 1101145849
+1114799709
+1114800186
 1116488672
 1118448159
 1127881507
@@ -1116,6 +1118,7 @@
 1294578643
 13.58.121.166
 1324809509
+134.58.179.82
 1343620481
 1351179184
 1395921017
@@ -1581,6 +1584,7 @@ Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure o
 Any public cloud resource or infrastructure operated and managed by REI.
 Any publicly accessible Tripadvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
 Any related DPG media domain
+Any related Torfs domain
 Any resource created or accessed with the Outscale Cloud on eu-west-2 region -  created by the Hunter
 Any subdomain application issue
 Any subdomain infrastructure issue
@@ -2758,6 +2762,7 @@ api.slack.com
 api.smtp2go.com
 api.sokos.fi
 api.sorare.com
+api.soundtrackyourbrand.com
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -2953,6 +2958,9 @@ be.bpost.mobilecard
 be.bpost.mybpost
 be.delen.digital
 be.gamma.app.android
+be.nexuzhealth.mobile.cpv
+be.nexuzhealth.mobile.kws
+be.nexuzhealth.mobile.mynexuz
 beacon.netflix.com
 belgium.tomorrowland.com
 bestfiends.com
@@ -2962,6 +2970,7 @@ bgpview.io
 bigcommerce-adapter.judge.me
 bild.de
 billing-pci.etoro.com
+billing.api.soundtrackyourbrand.com
 billing.etoro.com
 billingsupport.chaturbate.com
 bioid-management.app
@@ -3016,12 +3025,14 @@ bugcrowd-pam-###.pam.oktapreview.com
 bugzilla.mozilla.org
 builder.hostinger.com
 building-blocks.com
+builds.soundtrackyourbrand.com
 bullsheet.me
 business-resources.truecaller.com
 business.kayak.com
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
+business.soundtrackyourbrand.com
 business.tiktok.com
 business.truecaller.com
 businesshelp.snapchat.com
@@ -3394,6 +3405,7 @@ com.skypicker.Skypicker
 com.skypicker.main
 com.slack.slackmdm
 com.snapchat.android
+com.soundtrackyourbrand.soundtrack.player
 com.spotify.client
 com.spotify.kids
 com.spotify.lite
@@ -3790,6 +3802,7 @@ flourish-user-templates.com
 flyiin.com
 fm.anchor.android
 fonts.adobe.com
+forms.nexuzhealth.be
 fortnite.com
 forum.playcanvas.com
 forum.portswigger.net
@@ -4370,6 +4383,7 @@ https://audience-builder.vistarmedia.com
 https://audio.20min.ch/
 https://aus.api.just-eat.io/
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
+https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.immutable.com
@@ -4439,6 +4453,7 @@ https://bugcrowd.hotdoc.com.au
 https://bugcrowd.hotdoc.com.au/api
 https://bugcrowd.hotdoc.com.au/dashboard
 https://bugs.opera.com/
+https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
@@ -5829,6 +5844,7 @@ https://prozentoomat.toom.de
 https://pt-runner.app.ridewithvia.com
 https://pyszne.pl
 https://quantum-events.onecloud.harman.com
+https://radio.api.soundtrackyourbrand.com/
 https://rc.fstr.rocks
 https://rec.net/
 https://rec.net/download
@@ -6395,6 +6411,7 @@ https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
 https://www.sophos.com/en-us/products/mobile-control/free-trial
 https://www.sophos.com/en-us/products/next-gen-firewall
+https://www.soundtrackyourbrand.com
 https://www.sourcetreeapp.com/
 https://www.staples.com/services/printing
 https://www.staples.com/services/printing/oms/basket
@@ -6518,6 +6535,7 @@ identity-uat.nba.com
 identity.nba.com
 identity.stage.vismaonline.com
 identity.yoti.com
+idp-mobile.nexuzhealth.be
 idp.fr.cloud.gov
 iframe.arkoselabs.com
 ifttt-adaptor.pub.kube.dm.gg
@@ -6609,6 +6627,7 @@ ksuite.infomaniak.com
 kubernetes-csi.github.io
 kubernetes.io
 kumulus.uzleuven.be
+kws-companion/id1342124012
 kyc-onboarding.booking.com
 kyc-src.etoro.com
 kyc.etoro.com
@@ -6701,6 +6720,7 @@ m.kolesa.kz
 m.krisha.kz
 m.reddit.com
 m.trendyol.com
+macOS app
 magento.com
 magiceden.io
 magisto.com,www.magisto.com
@@ -6818,6 +6838,7 @@ mirc.uzleuven.be
 mix-dev.monash.edu/*
 mix-qat.monash.edu/*
 mobile-prod.tvg.com
+mobile.nexuzhealth.be
 mobile.s-pankki.fi
 mobileapi.lystit.com
 mobileapp.hyatt.com
@@ -6869,6 +6890,9 @@ myaccount.trouw.nl
 myaccount.volkskrant.nl
 myaccount.vtm.be
 myconnect.com.au
+mynexuz.be
+mynexuz.be/myUZ/
+mynexuzhealth/id1459856321
 myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
 nadex.com
@@ -7675,6 +7699,7 @@ wiki.portofantwerpbruges.com
 wiki.teamfortress.com
 wiki.ui.com
 winecellar.zomato.com
+winkels.torfs.be
 winter.tomorrowland.com
 winterpackages.tomorrowland.com
 wolt.com
@@ -7956,8 +7981,11 @@ www.rockstargames.com
 www.s-kaupat.fi
 www.s-pankki.fi
 www.sa.dyson.com
+www.samenfittorfs.be
 www.sbb.ch
 www.sbbcargo.com
+www.schoenentorfs.be
+www.schoenentorfs.nl 
 www.sheer.com
 www.six-group.com
 www.socialdeal.nl
@@ -7985,6 +8013,8 @@ www.theperfumeshop.com
 www.tink.com
 www.tomorrowland.com
 www.topperpay.com
+www.torfs.be
+www.torfs.nl
 www.trajeoh.com
 www.transsicura.ch
 www.travelocity.ca
