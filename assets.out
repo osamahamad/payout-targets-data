@@ -4720,6 +4720,12 @@ https://github.com/18f/federalist-proxy
 https://github.com/18f/identity-idp
 https://github.com/18f/identity-saml-rails
 https://github.com/18f/identity-saml-sinatra
+https://github.com/AikidoSec/firewall-node#Detection Bypass
+https://github.com/AikidoSec/firewall-node#False Positive
+https://github.com/AikidoSec/firewall-node#Vulnerability
+https://github.com/AikidoSec/firewall-python#Detection Bypass
+https://github.com/AikidoSec/firewall-python#False Positive
+https://github.com/AikidoSec/firewall-python#Vulnerability
 https://github.com/Aiven
 https://github.com/Aiven-Open
 https://github.com/Chia-Network/chia-blockchain
@@ -4805,12 +4811,8 @@ https://github.com/expressvpn/lightway
 https://github.com/expressvpn/lightway-core
 https://github.com/fireblocks/mpc-lib
 https://github.com/freedomofpress/securedrop
+https://github.com/freedomofpress/securedrop-builder
 https://github.com/freedomofpress/securedrop-client
-https://github.com/freedomofpress/securedrop-debian-packaging
-https://github.com/freedomofpress/securedrop-export
-https://github.com/freedomofpress/securedrop-log
-https://github.com/freedomofpress/securedrop-proxy
-https://github.com/freedomofpress/securedrop-sdk
 https://github.com/freedomofpress/securedrop-workstation
 https://github.com/grafana/*
 https://github.com/gsa/data.gov
