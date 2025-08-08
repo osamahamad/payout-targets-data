@@ -122,7 +122,6 @@
 *.arlo.com
 *.arloxcld.com
 *.artstation.com
-*.as-nmt.de
 *.asana.biz
 *.atairbnb.com
 *.atg.se
@@ -130,8 +129,6 @@
 *.atspotify.com
 *.audible.(TLD)
 *.audicagame.com
-*.auth.bild.de
-*.autobild.de
 *.avecspotify.com
 *.ayco.com
 *.backblazeb2.com
@@ -145,8 +142,6 @@
 *.betfair.se
 *.betsharedservices.io
 *.betviewapi.com
-*.bild.de
-*.bild.tv
 *.binary.com
 *.bingoblitz.com
 *.bionic.ai
@@ -181,7 +176,6 @@
 *.bybit.eu
 *.bykea.net
 *.byspotify.com
-*.bz-berlin.de
 *.caesarsgames.com
 *.call-control.ie
 *.canva-apps.cn
@@ -232,7 +226,6 @@
 *.coinbase.com
 *.coindcx.com
 *.comcast.com
-*.computerbild.de
 *.consumer.worldcoin.org
 *.contactallerg(y|ie).uzleuven.be
 *.contentsquare.com
@@ -274,7 +267,6 @@
 *.district.in
 *.dm.gg
 *.dmcdn.net
-*.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
@@ -284,17 +276,12 @@
 *.dpgmedia.nl
 *.drogas.lt
 *.drogas.lv
-*.dropbox.com
-*.dropboxer.net
-*.dropboxforum.com
-*.dropboxpartners.com
 *.dropmix.com
 *.dropxl.com
 *.dsanalytics.com
 *.earlywarning.com
 *.easy.ac
 *.edition.in
-*.ein-herz-fuer-kinder.de
 *.elastic.co
 *.elasticnet.co
 *.elstc.co
@@ -324,7 +311,6 @@
 *.fareharbor.engineering
 *.feednews.com
 *.fetlife.com
-*.fitbook.de
 *.flickr.com
 *.flipkey.com
 *.floqast.app
@@ -404,12 +390,8 @@
 *.harmankardon.com
 *.harmonixmusic.com
 *.harmonyremote.com
-*.hellofax.com
-*.hellosign.com
-*.helloworks.com
 *.here.com
 *.hereapi.com
-*.hey.bild.de
 *.hey.com
 *.highwebmedia.com
 *.hilton.com
@@ -610,7 +592,6 @@
 *.mworld.com
 *.myfitnesspal.com
 *.myharmony.com
-*.myhomebook.de
 *.myinsights.io
 *.mysqueezebox.com
 *.myteksi.com
@@ -698,8 +679,6 @@
 *.personio.de
 *.personio.tools
 *.personiowhistleblowing.com
-*.petbook-magazine.com/
-*.petbook.de
 *.piaservers.com
 *.piaservers.net
 *.pinterest.com Web Apps
@@ -749,7 +728,6 @@
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
-*.reclaim.ai
 *.reddit.com
 *.redditblog.com
 *.reddithelp.com
@@ -848,12 +826,9 @@
 *.souparea.com
 *.spiketrap.io
 *.spinaway.com
-*.sportbild.de
 *.sportinglife.com
 *.spotify.com
 *.spotify.net
-*.spring-media.de
-*.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sqills.com
@@ -874,7 +849,6 @@
 *.streamlabscharity.com
 *.stripe.com
 *.studiopress.com
-*.stylebook.de
 *.subp-router.hereapi.com
 *.superbet.com
 *.superbet.pl
@@ -888,7 +862,6 @@
 *.sys.comcast.net
 *.tdl.sh
 *.teams.cloudflare.com
-*.techbook.de
 *.telenor.se
 *.tesla.cn
 *.tesla.com
@@ -920,7 +893,6 @@
 *.trafficjunky.com
 *.trainpal.com,*.mytrainpal.com
 *.transferwise.com
-*.travelbook.de
 *.travelocity.ca
 *.travelocity.com
 *.travix.com
@@ -1015,7 +987,6 @@
 *.weareone.world
 *.wellsfargo.com
 *.wellsfargoadvisors.com
-*.welt.de
 *.werkenbijgamma.be
 *.werkenbijgamma.nl
 *.werkenbijkarwei.nl
@@ -1023,7 +994,6 @@
 *.wholesalexl.com
 *.wimpmusic.com
 *.wise.com
-*.wissen-sie-mehr.de
 *.withairbnb.com
 *.withbuddies.com
 *.withspotify.com
@@ -1097,7 +1067,6 @@
 107.167.96.0/19
 1076840480
 1079537578
-1080074001
 1080248000
 1089294040
 1091010942
@@ -1194,7 +1163,6 @@
 172.26.2.133
 172.26.39.9
 174.44.253.152/29
-18.184.198.198, 18.185.214.59, 18.194.109.179, 3.121.117.72, 3.121.138.10, 3.121.138.128, 3.121.138.134, 3.121.138.170, 3.121.138.33, 3.121.138.43, 3.124.248.208, 35.156.137.39
 185.26.180.0/22
 188.118.8.0/25
 192.251.123.0/24
@@ -1342,7 +1310,6 @@
 3.basecamp.com
 302584613
 319881193
-327630330
 328407587
 335187483
 336381998
@@ -1424,7 +1391,6 @@
 6444040977
 6444868926
 6449737830
-6450553960
 6452192521
 645949180
 6462308655
@@ -1798,8 +1764,6 @@ Drogas.Latvia.Android
 Drogas.Latvia.iOS
 Drogas.Lietuva.Android
 Drogas.Lietuva.iOS
-Dropbox Desktop Application
-Dropbox.com
 Dynatrace ActiveGate
 Dynatrace MobileAgent
 Dynatrace OneAgent
@@ -1951,8 +1915,6 @@ Hardware found on https://www.ezviz.com/category/security-wifi-cameras
 Hardware found on https://www.ezviz.com/category/smart-home
 Harmony Remote Software
 Harmony Remotes
-HelloFax.com
-HelloSign.com
 Hermes Relayer
 Horcrux
 HubSpot Android Mobile App
@@ -2677,7 +2639,6 @@ api.direct.playstation.com
 api.doppler.com
 api.drogas.lt
 api.drogas.lv
-api.dropbox.com
 api.dyson.at
 api.dyson.be
 api.dyson.ch
@@ -2812,7 +2773,6 @@ apis.mail.yahoo.com
 apis.onecloud.harman.com
 apix.vodafone.om
 app*.hubspot.com
-app.Reclaim.ai
 app.aikido.dev
 app.alasco.de
 app.avtoelon.uz
@@ -2977,7 +2937,6 @@ beta-cloud.acronis.com
 bettrfinancing.com
 bgpview.io
 bigcommerce-adapter.judge.me
-bild.de
 billing-pci.etoro.com
 billing.etoro.com
 billingsupport.chaturbate.com
@@ -3248,8 +3207,6 @@ com.dashlane.dashlanephonefinal
 com.defi.wallet
 com.deribit
 com.dolap.android
-com.dropbox.android
-com.dropbox.dash
 com.dyson.mobile.android
 com.ebookers
 com.eero.android
@@ -3594,9 +3551,7 @@ cyberghost.app
 cyberghost.com
 cz.skodaauto.myskoda
 daita/files_fulltextsearch_tesseract
-dash.ai
 dash.cloudflare.com
-dash.dropbox.com
 dashboard-beta.fr.cloud.gov
 dashboard.doppler.com
 dashboard.fr.cloud.gov
@@ -3696,7 +3651,6 @@ docs.redoxengine.com
 docs.silabs.com
 docs.topperpay.com
 docs.uphold.com
-docsend.com
 docuflow.stg.inspectorio.com
 donations.livestream.com
 doppler
@@ -3705,7 +3659,6 @@ download.krisp.ai
 download.nextcloud.com
 downloads.datastax.com
 drive.wolt.com
-dropbox.com/paper
 dx-demo.deriv.com
 dx.deriv.com
 e-Commerce
@@ -3722,7 +3675,6 @@ edgeapis.onecloud.harman.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
 editeurs.monespacesante.fr
-editorial.one
 education.23andme.com
 education.github.com
 eero (2nd Generation)
@@ -3839,7 +3791,6 @@ gehmmocbbkpblljhkekmfhjpfbkclbph
 geminiadvisory.io
 geneva-staging.chat
 geofilters.snapchat.com
-germany.politico.eu/
 getworldcoin.com
 gh-mail.expressvpn.com
 gift.starbucks.co.jp
@@ -4571,9 +4522,6 @@ https://dataportal.originenergy.com.au
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
 https://dcfgatewaytst1.marriott.com/
 https://ddosportal.optus.com.au
-https://dealer.prod.ps.axelspringer.de/api/v1/partners/{partnerId}/activation
-https://dealer.prod.ps.axelspringer.de/purchases/004/bild/*
-https://dealer.prod.ps.axelspringer.de/purchases/004/welt/*
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
 https://demo.adstruc.com
@@ -5032,7 +4980,6 @@ https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
 https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows.htm
 https://help.okta.com/en/prod/Content/Topics/Settings/download-browser-plugin.htm
 https://help.supplier.viator.com/en
-https://hey.bild.de
 https://hipaa.staging.gearset.com/
 https://home.classdojo.com
 https://home.xfinity.com
@@ -6721,7 +6668,6 @@ m.4njbets.tvg.com
 m.airbnb.com
 m.avtoelon.uz
 m.badoo.com
-m.bild.de
 m.chaturbate.com
 m.kolesa.kz
 m.krisha.kz
@@ -6805,7 +6751,6 @@ medical.23andme.com
 meechum.netflix.com
 meetings.hyatt.com
 meetiobook.com
-meinkonto.bild.de
 meliplay.com.ar
 meliplay.com.pe
 meliplay.com.uy
@@ -7241,7 +7186,6 @@ rei.com
 relay.firefox.com
 relay.playcanvas.com
 remitly.com
-replay.dropbox.com
 repo.magento.com
 report-html-sight.stg.inspectorio.com
 report.voi.com
@@ -7367,7 +7311,6 @@ shop.wyndhamvacationownership.trisept.travel
 shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
-sign.dropbox.com
 signature-insights.api.cx.metamask.io
 signup.myconnect.com.au
 simperium.com
