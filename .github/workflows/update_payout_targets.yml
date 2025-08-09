@@ -1,0 +1,201 @@
+# This GitHub Actions workflow replicates the functionality of the original Bash
+# script that was previously run via a cron job inside a Docker container.  It
+# fetches the latest public bug bounty program targets offering monetary
+# rewards, aggregates them into consolidated lists, detects newly added
+# assets and wildcard domains compared to the previous run, optionally sends
+# notifications via Telegram, and then commits the updated files back to
+# the repository.  The workflow is scheduled to run every 30 minutes by
+# default and can also be triggered manually via `workflow_dispatch`.
+
+name: Update payout targets data
+
+on:
+  # Run this workflow every 30 minutes. GitHub Actions schedules are in UTC.
+  schedule:
+    - cron: '*/30 * * * *'
+  # Allow manual triggering of the workflow from the Actions tab.
+  workflow_dispatch:
+
+jobs:
+  update-targets:
+    runs-on: ubuntu-latest
+    # Expose optional environment variables for Telegram notifications via
+    # repository secrets. These should be configured in the repository's
+    # settings if you wish to receive notifications. If they are not set, the
+    # notification step will be skipped.
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch the entire history so that git diff/commit works as expected.
+          fetch-depth: 0
+
+      - name: Configure Git
+        # Set the author details for automated commits.  The user name and
+        # email are loaded from repository secrets so they are not
+        # hard‑coded in this workflow.  Define `GIT_USER_NAME` and
+        # `GIT_USER_EMAIL` in your repository secrets to override these values.
+        env:
+          GIT_USER_NAME: ${{ secrets.GIT_USER_NAME }}
+          GIT_USER_EMAIL: ${{ secrets.GIT_USER_EMAIL }}
+        run: |
+          git config --global user.name "$GIT_USER_NAME"
+          git config --global user.email "$GIT_USER_EMAIL"
+
+      - name: Install jq dependency
+        # jq is used to parse JSON files. It is not guaranteed to be present
+        # on GitHub-hosted runners, so we install it explicitly.
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
+
+      - name: Clone bounty-targets-data repository
+        # Retrieve the most recent copy of arkadiyt/bounty-targets-data.  Only
+        # a shallow clone is needed since we read JSON files from the data/
+        # directory.  If the repository structure changes, adjust the paths
+        # below accordingly.
+        run: |
+          git clone --depth 1 https://github.com/arkadiyt/bounty-targets-data.git bounty-targets-data
+
+      - name: Extract in‑scope assets and wildcard domains
+        # Parse the various platform JSON files in bounty-targets-data using jq
+        # to produce per-platform files in the local `data/` directory.  Both
+        # non-wildcard assets and wildcard domains are extracted (wildcards
+        # retain their leading *.).
+        run: |
+          mkdir -p data
+
+          # Bugcrowd: only include programs with a max_payout > 0
+          jq -r '.[] | select(.max_payout > 0) | .targets.in_scope[].target' bounty-targets-data/data/bugcrowd_data.json \
+            | grep -vF "*." > data/bugcrowd.txt
+
+          # HackerOne: only include programs that offer bounties
+          jq -r '.[] | select(.offers_bounties == true) | .targets.in_scope[].asset_identifier' bounty-targets-data/data/hackerone_data.json \
+            | grep -vF "*." > data/hackerone.txt
+
+          # HackenProof: only include targets where reward == "Bounty"
+          jq -r '.[] | .targets.in_scope[] | select(.reward == "Bounty") | .target' bounty-targets-data/data/hackenproof_data.json \
+            | grep -vF "*." > data/hackenproof.txt
+
+          # Intigriti: only include targets with a positive max_bounty value and
+          # impact not equal to "Out of scope" or "No bounty"
+          jq -r '.[] | select(.max_bounty.value > 0) | .targets.in_scope[] \
+            | select(.impact != "Out of scope" and .impact != "No bounty") | .endpoint' \
+            bounty-targets-data/data/intigriti_data.json | grep -vF "*." > data/intigriti.txt
+
+          # YesWeHack: only include programs with a non-null max_bounty
+          jq -r '.[] | select(.max_bounty != null) | .targets.in_scope[].target' bounty-targets-data/data/yeswehack_data.json \
+            | grep -vF "*." > data/yeswehack.txt
+
+          # Extract wildcard entries for each platform (retain the asterisk).
+          jq -r '.[] | select(.max_payout > 0) | .targets.in_scope[].target' bounty-targets-data/data/bugcrowd_data.json \
+            | grep -F "*." | sed 's#http://##g' | sed 's#https://##g' > data/bugcrowd_wildcards.txt
+
+          jq -r '.[] | select(.offers_bounties == true) | .targets.in_scope[].asset_identifier' bounty-targets-data/data/hackerone_data.json \
+            | grep -F "*." | sed 's#http://##g' | sed 's#https://##g' > data/hackerone_wildcards.txt
+
+          jq -r '.[] | .targets.in_scope[] | select(.reward == "Bounty") | .target' bounty-targets-data/data/hackenproof_data.json \
+            | grep -F "*." | sed 's#http://##g' | sed 's#https://##g' > data/hackenproof_wildcards.txt
+
+          jq -r '.[] | select(.max_bounty.value > 0) | .targets.in_scope[] \
+            | select(.impact != "Out of scope" and .impact != "No bounty") | .endpoint' \
+            bounty-targets-data/data/intigriti_data.json | grep -F "*." \
+            | sed 's#http://##g' | sed 's#https://##g' > data/intigriti_wildcards.txt
+
+          jq -r '.[] | select(.max_bounty != null) | .targets.in_scope[].target' bounty-targets-data/data/yeswehack_data.json \
+            | grep -F "*." | sed 's#http://##g' | sed 's#https://##g' > data/yeswehack_wildcards.txt
+
+      - name: Build consolidated lists and detect new entries
+        # Combine per-platform files into overall asset and wildcard lists,
+        # compare them against the previous run to identify newly added items,
+        # and update the tracked files.  The new lists are written to
+        # `assets.out` and `wildcards.out`, while the newly discovered entries are
+        # written to `new_added_assets.out` and `new_added_wildcards.out`.
+        run: |
+          # Consolidate wildcard domains
+          cat data/*_wildcards.txt > wildcards.new || true
+          sort -u wildcards.new -o wildcards.new || true
+
+          # Consolidate all assets (both non-wildcard and wildcard entries)
+          cat data/*.txt data/*_wildcards.txt > assets.new || true
+          sort -u assets.new -o assets.new || true
+
+          # Detect new assets compared to the previous assets.out
+          if [ -f assets.out ]; then
+            # Find lines in assets.new that are not present in the old assets.out
+            grep -Fxvf assets.out assets.new > new_added_assets.out || true
+          else
+            # If this is the first run, treat all assets as new
+            cp assets.new new_added_assets.out
+          fi
+
+          # Detect new wildcard domains compared to the previous wildcards.out
+          if [ -f wildcards.out ]; then
+            grep -Fxvf wildcards.out wildcards.new > new_added_wildcards.out || true
+          else
+            # If this is the first run, treat all wildcards as new
+            cp wildcards.new new_added_wildcards.out
+          fi
+
+          # Replace the old lists with the newly generated ones
+          mv assets.new assets.out
+          mv wildcards.new wildcards.out
+
+      - name: Commit and push updated files
+        # Stage the generated files and commit them back to the main branch if
+        # there are any changes.  The use of the GitHub-provided token allows
+        # the workflow to push to the repository without exposing a personal
+        # access token.  If there are no changes, skip the commit.
+        run: |
+          # Always add data/ and the output files to the commit
+          git add data/ wildcards.out assets.out new_added_assets.out new_added_wildcards.out
+
+          # Check if there are any changes to commit
+          if git diff --cached --quiet; then
+            echo "No changes detected; skipping commit."
+            exit 0
+          fi
+
+          # Commit the changes with a timestamped message
+          timestamp=$(TZ='Etc/GMT-3' date)
+          git commit -m "Automated update ${timestamp} UTC+3"
+
+          # Push the changes back to the main branch
+          # Use the default authentication provided by GitHub Actions
+          git push origin HEAD:main
+
+      - name: Send Telegram notifications for new entries
+        # Send a message via Telegram for each newly detected asset or wildcard
+        # domain.  This step runs only if both TELEGRAM_BOT_TOKEN and
+        # TELEGRAM_CHAT_ID are non-empty.  Messages are formatted using
+        # Markdown.  If you prefer a different messaging provider or format,
+        # you can adjust this step or remove it altogether.
+        if: env.TELEGRAM_BOT_TOKEN != '' && env.TELEGRAM_CHAT_ID != ''
+        run: |
+          set -e
+          # Notify about newly added assets
+          if [ -s new_added_assets.out ]; then
+            while IFS= read -r line; do
+              # Construct the message text for each new asset
+              text="New Payout Public Programs Asset Detected: ${line}  [bounty-targets-data](https://github.com/search?q=repo%3Aarkadiyt%2Fbounty-targets-data+%22${line}%22&type=code)   [Firebounty](https://firebounty.com/?sort=created_at&order=desc&search_field=scopes&search=${line})"
+              curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+                -d chat_id="${TELEGRAM_CHAT_ID}" \
+                -d text="$text" \
+                -d parse_mode="Markdown" >/dev/null
+            done < new_added_assets.out
+          fi
+
+          # Notify about newly added wildcard domains
+          if [ -s new_added_wildcards.out ]; then
+            while IFS= read -r line; do
+              text="New Payout Public Programs Wildcard Domain Detected: ${line}  [bounty-targets-data](https://github.com/search?q=repo%3Aarkadiyt%2Fbounty-targets-data+%22${line}%22&type=code)   [Firebounty](https://firebounty.com/?sort=created_at&order=desc&search_field=scopes&search=${line})"
+              curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+                -d chat_id="${TELEGRAM_CHAT_ID}" \
+                -d text="$text" \
+                -d parse_mode="Markdown" >/dev/null
+            done < new_added_wildcards.out
+          fi
