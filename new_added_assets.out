@@ -1,1 +1,8 @@
-*.airbnb.org
+*.openai.com
+*.openai.org
+OpenAI API Keys
+Third Party Targets
+https://api.openai.com
+https://chat.openai.com
+https://openai.com/
+https://platform.openai.com/playground
