@@ -89,8 +89,8 @@ jobs:
             bounty-targets-data/data/intigriti_data.json | grep -vF "*." > data/intigriti.txt
 
           # YesWeHack: only include programs with a non-null max_bounty
-          jq -r '.[] | select(.max_bounty != null) | .targets.in_scope[].target' bounty-targets-data/data/yeswehack_data.json \
-            | grep -vF "*." > data/yeswehack.txt
+          # jq -r '.[] | select(.max_bounty != null) | .targets.in_scope[].target' bounty-targets-data/data/yeswehack_data.json \
+          # | grep -vF "*." > data/yeswehack.txt
 
           # Extract wildcard entries for each platform (retain the asterisk).
           jq -r '.[] | select(.max_payout > 0) | .targets.in_scope[].target' bounty-targets-data/data/bugcrowd_data.json \
@@ -107,8 +107,8 @@ jobs:
             bounty-targets-data/data/intigriti_data.json | grep -F "*." \
             | sed 's#http://##g' | sed 's#https://##g' > data/intigriti_wildcards.txt
 
-          jq -r '.[] | select(.max_bounty != null) | .targets.in_scope[].target' bounty-targets-data/data/yeswehack_data.json \
-            | grep -F "*." | sed 's#http://##g' | sed 's#https://##g' > data/yeswehack_wildcards.txt
+          # jq -r '.[] | select(.max_bounty != null) | .targets.in_scope[].target' bounty-targets-data/data/yeswehack_data.json \
+          # | grep -F "*." | sed 's#http://##g' | sed 's#https://##g' > data/yeswehack_wildcards.txt
         continue-on-error: true
 
       - name: Build consolidated lists and detect new entries
