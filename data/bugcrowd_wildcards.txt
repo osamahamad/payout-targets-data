@@ -103,9 +103,6 @@ prod-*.nu.com.co
 *.openai.org
 *.openai.org
 *.openai.com
-*.openai.org
-*.openai.org
-*.openai.com
 *.opera.software
 *.osp.opera.software
 *.opera.technology
@@ -163,6 +160,8 @@ api-*.soundcloud.com
 *.square.com
 *.squareup.com
 *.statuspage.io
+*.uscc.net
+*.uscc.com
 *.tesla.cn
 *.tesla.services
 *.tesla.com
