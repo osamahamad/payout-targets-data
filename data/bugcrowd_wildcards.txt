@@ -100,9 +100,6 @@ prod-*.nubank.com.br
 prod-*.nu.com.mx
 prod-*.nu.com.co
 *.octopus.com
-*.openai.org
-*.openai.org
-*.openai.com
 *.opera.software
 *.osp.opera.software
 *.opera.technology
@@ -160,6 +157,8 @@ api-*.soundcloud.com
 *.square.com
 *.squareup.com
 *.statuspage.io
+*.uscc.net
+*.uscc.com
 *.uscc.net
 *.uscc.com
 *.tesla.cn

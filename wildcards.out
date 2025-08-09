@@ -47,6 +47,7 @@
 *.aips-internal.com
 *.airbnb-aws.com
 *.airbnb.com
+*.airbnb.org
 *.airbnbcitizen.com
 *.alasco.de
 *.alasco.rocks
@@ -624,8 +625,6 @@
 *.onduo.com/
 *.onegraph.com
 *.onevasco.com
-*.openai.com
-*.openai.org
 *.opera-mini.net
 *.opera.com
 *.opera.news
