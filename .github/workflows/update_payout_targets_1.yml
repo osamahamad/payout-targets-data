@@ -2,11 +2,11 @@ name: Update payout targets data
 
 on:
   schedule:
-    - cron: '*/30 * * * *'
+    - cron: "*/30 * * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write   # allow git push
+  contents: write
 
 concurrency:
   group: update-targets
@@ -20,153 +20,128 @@ jobs:
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
 
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
-      - name: Configure Git + pull latest
-        env:
-          GIT_USER_NAME: ${{ secrets.GIT_USER_NAME }}
-          GIT_USER_EMAIL: ${{ secrets.GIT_USER_EMAIL }}
-        run: |
-          git config --global user.name "${GIT_USER_NAME:-automation-bot}"
-          git config --global user.email "${GIT_USER_EMAIL:-bot@example.com}"
-          # ensure we’re current
-          git checkout main
-          git pull --rebase origin main
 
       - name: Install jq
         run: |
           sudo apt-get update
           sudo apt-get install -y jq
 
-      - name: Clone bounty-targets-data
+      - name: Set Git identity
         run: |
-          git clone --depth 1 https://github.com/arkadiyt/bounty-targets-data.git bounty-targets-data
+          git config --global user.name  "${{ secrets.GIT_USER_NAME || 'automation-bot' }}"
+          git config --global user.email "${{ secrets.GIT_USER_EMAIL || 'bot@example.com' }}"
 
-      - name: Extract assets + wildcards (normalized)
+      - name: Clone or update arkadiyt/bounty-targets-data
         run: |
-          set -euo pipefail
-          mkdir -p data
-
-          norm() {
-            # lowercase, strip scheme, trim spaces, remove trailing slash and trailing dot
-            sed 's#^[[:space:]]*##; s#[[:space:]]*$##' \
-            | tr '[:upper:]' '[:lower:]' \
-            | sed 's#^https\?://##' \
-            | sed 's#/$##' \
-            | sed 's#\.$##'
-          }
-
-          # Bugcrowd
-          jq -r '.[] | select(.max_payout > 0) | .targets.in_scope[].target' bounty-targets-data/data/bugcrowd_data.json \
-            | grep -vF "*." | norm > data/bugcrowd.txt
-          jq -r '.[] | select(.max_payout > 0) | .targets.in_scope[].target' bounty-targets-data/data/bugcrowd_data.json \
-            | grep -F "*." | norm > data/bugcrowd_wildcards.txt
-
-          # HackerOne
-          jq -r '.[] | select(.offers_bounties == true) | .targets.in_scope[].asset_identifier' bounty-targets-data/data/hackerone_data.json \
-            | grep -vF "*." | norm > data/hackerone.txt
-          jq -r '.[] | select(.offers_bounties == true) | .targets.in_scope[].asset_identifier' bounty-targets-data/data/hackerone_data.json \
-            | grep -F "*." | norm > data/hackerone_wildcards.txt
-
-          # HackenProof
-          jq -r '.[] | .targets.in_scope[] | select(.reward == "Bounty") | .target' bounty-targets-data/data/hackenproof_data.json \
-            | grep -vF "*." | norm > data/hackenproof.txt
-          jq -r '.[] | .targets.in_scope[] | select(.reward == "Bounty") | .target' bounty-targets-data/data/hackenproof_data.json \
-            | grep -F "*." | norm > data/hackenproof_wildcards.txt
-
-          # Intigriti
-          jq -r '.[] | select(.max_bounty.value > 0) | .targets.in_scope[]
-            | select(.impact != "Out of scope" and .impact != "No bounty") | .endpoint' \
-            bounty-targets-data/data/intigriti_data.json \
-            | grep -vF "*." | norm > data/intigriti.txt
-          jq -r '.[] | select(.max_bounty.value > 0) | .targets.in_scope[]
-            | select(.impact != "Out of scope" and .impact != "No bounty") | .endpoint' \
-            bounty-targets-data/data/intigriti_data.json \
-            | grep -F "*." | norm > data/intigriti_wildcards.txt
-
-      - name: Build consolidated lists + diff
-        run: |
-          set -euo pipefail
-          # consolidate
-          cat data/*_wildcards.txt 2>/dev/null | sort -u > wildcards.new || true
-          cat data/*.txt data/*_wildcards.txt 2>/dev/null | sort -u > assets.new || true
-
-          # ensure baseline files exist (LF endings)
-          : > assets.out
-          : > wildcards.out
-          if [ ! -s assets.out ]; then echo -n > assets.out; fi
-          if [ ! -s wildcards.out ]; then echo -n > wildcards.out; fi
-
-          # normalize endings just in case
-          awk '{sub(/\r$/,""); print}' assets.out > .assets.out && mv .assets.out assets.out
-          awk '{sub(/\r$/,""); print}' wildcards.out > .wildcards.out && mv .wildcards.out wildcards.out
-
-          # compute new additions vs repo-tracked lists
-          grep -Fxvf assets.out assets.new > new_added_assets.tmp || true
-          grep -Fxvf wildcards.out wildcards.new > new_added_wildcards.tmp || true
-
-          # update tracked lists
-          mv assets.new assets.out
-          mv wildcards.new wildcards.out
-
-      - name: Filter out already-notified and finalize outputs
-        run: |
-          set -euo pipefail
-          # logs to remember what we’ve already sent to Telegram
-          : > notified_assets.log
-          : > notified_wildcards.log
-          # if logs exist in repo, keep them
-          [ -f notified_assets.log ] || touch notified_assets.log
-          [ -f notified_wildcards.log ] || touch notified_wildcards.log
-
-          # filter “newly added” against already-notified logs
-          grep -Fxvf notified_assets.log new_added_assets.tmp > new_added_assets.out || true
-          grep -Fxvf notified_wildcards.log new_added_wildcards.tmp > new_added_wildcards.out || true
-
-          # append to logs (only the truly new lines)
-          cat new_added_assets.out >> notified_assets.log || true
-          cat new_added_wildcards.out >> notified_wildcards.log || true
-
-      - name: Commit and push updated files
-        run: |
-          set -euo pipefail
-          git add data/ assets.out wildcards.out notified_assets.log notified_wildcards.log \
-                  new_added_assets.out new_added_wildcards.out
-          if git diff --cached --quiet; then
-            echo "No changes to commit."
-            exit 0
+          set -e
+          REPO_DIR="bounty-targets-data"
+          if [ ! -d "$REPO_DIR/.git" ]; then
+            git clone https://github.com/arkadiyt/bounty-targets-data.git "$REPO_DIR"
+          else
+            cd "$REPO_DIR"
+            git fetch origin
+            git merge origin/main --no-edit
+            cd ..
           fi
-          timestamp=$(TZ='Etc/GMT-3' date)
-          git commit -m "Automated update ${timestamp} UTC+3"
-          git push origin HEAD:main
 
-      - name: Send Telegram notifications for new entries
+      - name: Extract payout targets (same logic as cron script)
+        run: |
+          set -e
+          MAIN_DIR=$(pwd)
+          bounty_targets_data_folder="$MAIN_DIR/bounty-targets-data"
+
+          mkdir -p data
+          cd data
+
+          # Non-wildcards
+          cat "$bounty_targets_data_folder/data/bugcrowd_data.json"   | jq -r '.[] | select(.max_payout > 0) | .targets.in_scope[].target'                                         | grep -vF "*." > bugcrowd.txt            || : > bugcrowd.txt
+          cat "$bounty_targets_data_folder/data/hackerone_data.json"  | jq -r '.[] | select(.offers_bounties == true) | .targets.in_scope[].asset_identifier'                        | grep -vF "*." > hackerone.txt           || : > hackerone.txt
+          cat "$bounty_targets_data_folder/data/hackenproof_data.json"| jq -r '.[] | .targets.in_scope[] | select(.reward == "Bounty") | .target'                                 | grep -vF "*." > hackenproof.txt         || : > hackenproof.txt
+          cat "$bounty_targets_data_folder/data/intigriti_data.json"  | jq -r '.[] | select(.max_bounty.value > 0) | .targets.in_scope[] | select(.impact != "Out of scope" and .impact != "No bounty") | .endpoint' | grep -vF "*." > intigriti.txt || : > intigriti.txt
+          cat "$bounty_targets_data_folder/data/yeswehack_data.json"  | jq -r '.[] | select(.max_bounty != null) | .targets.in_scope[].target'                                     | grep -vF "*." > yeswehack.txt           || : > yeswehack.txt
+
+          # Wildcards only (strip http/https)
+          cat "$bounty_targets_data_folder/data/bugcrowd_data.json"   | jq -r '.[] | select(.max_payout > 0) | .targets.in_scope[].target'                                         | grep -F "*." | sed 's#http://##;s#https://##' > bugcrowd_wildcards.txt    || : > bugcrowd_wildcards.txt
+          cat "$bounty_targets_data_folder/data/hackerone_data.json"  | jq -r '.[] | select(.offers_bounties == true) | .targets.in_scope[].asset_identifier'                        | grep -F "*." | sed 's#http://##;s#https://##' > hackerone_wildcards.txt   || : > hackerone_wildcards.txt
+          cat "$bounty_targets_data_folder/data/hackenproof_data.json"| jq -r '.[] | .targets.in_scope[] | select(.reward == "Bounty") | .target'                                 | grep -F "*." | sed 's#http://##;s#https://##' > hackenproof_wildcards.txt || : > hackenproof_wildcards.txt
+          cat "$bounty_targets_data_folder/data/intigriti_data.json"  | jq -r '.[] | select(.max_bounty.value > 0) | .targets.in_scope[] | select(.impact != "Out of scope" and .impact != "No bounty") | .endpoint' | grep -F "*." | sed 's#http://##;s#https://##' > intigriti_wildcards.txt || : > intigriti_wildcards.txt
+          cat "$bounty_targets_data_folder/data/yeswehack_data.json"  | jq -r '.[] | select(.max_bounty != null) | .targets.in_scope[].target'                                     | grep -F "*." | sed 's#http://##;s#https://##' > yeswehack_wildcards.txt   || : > yeswehack_wildcards.txt
+
+          cd "$MAIN_DIR"
+
+      - name: Consolidate to assets.out and wildcards.out
+        run: |
+          set -e
+          cat data/*_wildcards.txt > wildcards.out || : 
+          sort -u wildcards.out -o wildcards.out || :
+
+          cat data/* > assets.out || :
+          sort -u assets.out -o assets.out || :
+
+      - name: Diff with previous and produce new_added files
+        run: |
+          set -e
+          NEW_ASSETS_FILE="new_added_assets.out"
+          NEW_WILDCARD_FILE="new_added_wildcards.out"
+          PREV_SCAN_FILE=".previous_assets"
+          PREV_WILDCARD_FILE=".previous_wildcards"
+
+          # assets
+          if [ -f "$PREV_SCAN_FILE" ]; then
+            grep -Fxvf "$PREV_SCAN_FILE" "assets.out" > "$NEW_ASSETS_FILE" || : 
+            cp "assets.out" "$PREV_SCAN_FILE"
+          else
+            cp "assets.out" "$PREV_SCAN_FILE"
+            : > "$NEW_ASSETS_FILE"
+          fi
+
+          # wildcards
+          if [ -f "$PREV_WILDCARD_FILE" ]; then
+            grep -Fxvf "$PREV_WILDCARD_FILE" "wildcards.out" > "$NEW_WILDCARD_FILE" || :
+            cp "wildcards.out" "$PREV_WILDCARD_FILE"
+          else
+            cp "wildcards.out" "$PREV_WILDCARD_FILE"
+            : > "$NEW_WILDCARD_FILE"
+          fi
+
+      - name: Notify via Telegram (one message per new line, like cron script)
         if: env.TELEGRAM_BOT_TOKEN != '' && env.TELEGRAM_CHAT_ID != ''
         run: |
-          set -euo pipefail
-          send_msg() {
-            local text="$1"
-            curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
-              -d chat_id="${TELEGRAM_CHAT_ID}" \
-              -d text="$text" \
-              -d parse_mode="Markdown" >/dev/null
-          }
-
+          set -e
           if [ -s new_added_assets.out ]; then
             while IFS= read -r line; do
               [ -z "$line" ] && continue
-              text="New Payout Public Programs Asset Detected: ${line}  [bounty-targets-data](https://github.com/search?q=repo%3Aarkadiyt%2Fbounty-targets-data+%22${line}%22&type=code)   [Firebounty](https://firebounty.com/?sort=created_at&order=desc&search_field=scopes&search=${line})"
-              send_msg "$text"
+              text="New Payout Public Programs Assets Detected: ${line}  [bounty-targets-data](https://github.com/search?q=repo%3Aarkadiyt%2Fbounty-targets-data+%22${line}%22&type=code)   [Firebounty](https://firebounty.com/?sort=created_at&order=desc&search_field=scopes&search=${line})"
+              curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+                -d chat_id="${TELEGRAM_CHAT_ID}" \
+                -d text="$text" \
+                -d parse_mode="Markdown" > /dev/null
             done < new_added_assets.out
           fi
 
           if [ -s new_added_wildcards.out ]; then
             while IFS= read -r line; do
               [ -z "$line" ] && continue
-              text="New Payout Public Programs Wildcard Domain Detected: ${line}  [bounty-targets-data](https://github.com/search?q=repo%3Aarkadiyt%2Fbounty-targets-data+%22${line}%22&type=code)   [Firebounty](https://firebounty.com/?sort=created_at&order=desc&search_field=scopes&search=${line})"
-              send_msg "$text"
+              text="New Payout Public Programs Wildcard Domains Detected: ${line}  [bounty-targets-data](https://github.com/search?q=repo%3Aarkadiyt%2Fbounty-targets-data+%22${line}%22&type=code)   [Firebounty](https://firebounty.com/?sort=created_at&order=desc&search_field=scopes&search=${line})"
+              curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+                -d chat_id="${TELEGRAM_CHAT_ID}" \
+                -d text="$text" \
+                -d parse_mode="Markdown" > /dev/null
             done < new_added_wildcards.out
           fi
+
+      - name: Commit and push outputs (same files as script)
+        run: |
+          set -e
+          git add data/ wildcards.out assets.out new_added_assets.out new_added_wildcards.out .previous_assets .previous_wildcards
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          timestamp=$(TZ='Etc/GMT-3' date)
+          git commit -m "Automated commit ${timestamp} UTC+3"
+          git push origin HEAD:main
