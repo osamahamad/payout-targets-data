@@ -132,6 +132,112 @@ www.starbucks.co.jp
 Starbucks China Android
 Starbucks China iOS
 www.starbucks.com.cn/
+api-frontend.pab.porsche.com
+api.emea.gravity.porsche.com
+api.pab.porsche.com
+api.ppa.porsche.com
+auth.pab.porsche.com
+b2b.porsche-design.com
+benefit.porsche-design.com
+capitalmarketsday.porsche.com
+checkout.porsche.com
+christmas-silence.porsche.com
+cm.staging.pcom.weu.porsche.com
+configurator.porsche.com
+connect-store.porsche.com
+dealer.porsche.com
+drive.porsche.com
+ecc.porsche.com
+es.porsche.com
+experience.porsche.com
+finder.porsche.com
+friends.porsche-design.com
+https://apps.apple.com/de/app/my-porsche/id1559529059
+https://play.google.com/store/apps/details?id=com.porsche.one
+identity.porsche.com
+investorrelations.porsche.de
+jobs.porsche-design.com
+jobs.porsche.com
+microsite.porsche.com
+my.porsche.com
+myhistory.porsche.com
+pab.porsche.com
+paris.porsche.com
+porsche-design.com
+porsche-dortmund.eu
+porsche-duesseldorf.de
+porsche-erfahren.de
+porsche-essen.de
+porsche-giessen.de
+porsche-hahn.de
+porsche-hamburgnordwest.de
+porsche-kempten.de
+porsche-koeln.de
+porsche-moers.de
+porsche-olympiapark.de
+porsche-paderborn.de
+porsche-poster.com
+porsche-solingen.de
+porsche-stuttgart-flughafen.de
+porsche-stuttgart.de
+porsche-ulm.de
+porsche-villingen.de
+porsche-wiesbaden.de
+porsche-zentrum-essen.de
+porsche-zentrum-niederrhein.de
+porsche-zentrum-olympiapark.de
+porsche-zentrum-paderborn.de
+porsche-zentrum-pforzheim.de
+porsche-zentrum-reutlingen.de
+porsche-zentrum-seestern.de
+porsche-zentrum-solingen-remscheid.de
+porsche-zentrum-wuppertal.de
+porsche-zentrum.com
+porsche.biz
+porsche.com
+porsche.de
+porsche.digital
+porsche.it
+porschediesellookup.com
+porscheengineering.com
+porscheenglewood.com
+porschefortcollins.com
+porschegolfusa.com
+porschetravels.com
+porschezentrum-berlin-sued.de
+porschezentrum-berlin.de
+porschezentrum-muenchen-sued.de
+porschezentrumbremen.de
+porshe-design.com
+porshedesign.com
+press.porsche-design.com
+press.porsche.com
+prod.porsche-design.com
+pzk.de
+pzm.de
+pzms.de
+pzsc.de
+pzsf.de
+shop.porsche.com
+signup.porsche.com
+skyway.porsche.com
+studio-fa-porsche.de
+studio-fa-porsche.net
+studiofaporsche.de
+studiofaporsche.net
+timepeacesconfigurator.porsche-design.com
+ui.pab.porsche.com
+www-staging.porscheautoinsurance.com
+xn--porsche-alttting-wwb.de
+xn--porsche-gppingen-uwb.de
+xn--porsche-gttingen-uwb.de
+xn--porsche-kln-zfb.de
+xn--porsche-lbeck-4ob.de
+xn--porsche-lneburg-7vb.de
+xn--porsche-mnchen-sd-b3bh.de
+xn--porsche-nrnberg-7vb.de
+xn--porsche-schwbisch-gmnd-c5b89c.de
+xn--porsche-wrzburg-7vb.de
 alfred.syfe.com
 api-uat-bugbounty.nonprod.syfe.com
 api.syfe.com
@@ -143,7 +249,14 @@ www.syfe.com
 2kleague-dev.nba.com
 2kleague-qa.nba.com
 2kleague.nba.com
+aces-dev.wnba.com
+aces-qa.wnba.com
+aces.wnba.com
 adb.nba.com
+auth-identity-dev.nba.com
+auth-identity-qa.nba.com
+auth-identity-uat.nba.com
+auth-identity.nba.com
 bal-dev.nba.com
 bal-qa.nba.com
 bal-uat.nba.com
@@ -181,7 +294,16 @@ cweb-ott-qa.nba.com
 cweb-ott-uat-uc.nba.com
 cweb-ott-uc.nba.com
 cweb-ott.nba.com
+dream-dev.wnba.com
+dream-qa.wnba.com
+dream.wnba.com
 elm.nba.com
+fever-dev.wnba.com
+fever-qa.wnba.com
+fever.wnba.com
+fire-dev.wnba.com
+fire-qa.wnba.com
+fire.wnba.com
 gamenotes.nba.com
 gleague-dev.nba.com
 gleague-qa.nba.com
@@ -193,7 +315,13 @@ identity-ng.nba.com
 identity-qa.nba.com
 identity-uat.nba.com
 identity.nba.com
+liberty-dev.wnba.com
+liberty-qa.wnba.com
+liberty.wnba.com
 lockervision.nba.com
+lynx-dev.wnba.com
+lynx-qa.wnba.com
+lynx.wnba.com
 manage-dev.nba.com
 manage-teams-dev.nba.com
 manage-teams-qa.nba.com
@@ -213,20 +341,50 @@ mcdalerts-perf.nba.com
 mcdalerts-qa.nba.com
 mcdalerts-uat.nba.com
 mcdalerts.nba.com
+mercury-dev.wnba.com
+mercury-qa.wnba.com
+mercury.wnba.com
+mystics-dev.wnba.com
+mystics-qa.wnba.com
+mystics.wnba.com
 nbafedsvc-dev.nba.com
 nbafedsvc-qa.nba.com
 nbafedsvc.nba.com
+portland-dev.wnba.com
+portland-qa.wnba.com
+portland.wnba.com
+sky-dev.wnba.com
+sky-qa.wnba.com
+sky.wnba.com
 socialimpact.nba.com
+sparks-dev.wnba.com
+sparks-qa.wnba.com
+sparks.wnba.com
 stats-trafficcop-prod.nba.com
 stats.2kleague.nba.com
 stats.gleague.nba.com
 stats.nba.com
 stats.wnba.com
+storm-dev.wnba.com
+storm-qa.wnba.com
+storm.wnba.com
+sun-dev.wnba.com
+sun-qa.wnba.com
+sun.wnba.com
 syndication.nba.com
 teamdirectory.nba.com
 teamportal.nba.com
+tempo-dev.wnba.com
+tempo-qa.wnba.com
+tempo.wnba.com
+valkyries-dev.wnba.com
+valkyries-qa.wnba.com
+valkyries.wnba.com
 vote.nba.com
 vth.nba.com
+wings-dev.wnba.com
+wings-qa.wnba.com
+wings.wnba.com
 www-dev.nba.com
 www-dev.wnba.com
 www-ng.nba.com
@@ -356,7 +514,6 @@ e-Commerce
 com.secretkeylabs.xverse
 com.secretkeylabs.xverse
 https://chrome.google.com/webstore/detail/xverse-wallet/idnnbdplmphpflfnlkomgpfbpcgelopg
-https://github.com/fireblocks/mpc-lib
 aw.visa.com
 bb.visa.com
 bd.visa.com
@@ -373,9 +530,12 @@ ebctest.cybersource.com
 ht.visa.com
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://www.myvisacardportal.com/welcome/enbd/product/#
+https://ebctest.cybersource.com/cds/
 https://ebctest.cybersource.com/merchant-mgmt/
 https://ebctest.cybersource.com/ums
 https://www.visa.com.az/az_az/account/registration
+infinite.visa.fr
+my.visa.fr
 sandbox.authorize.net
 sandbox.secure.checkout.visa.com
 test.payworks.io
@@ -384,6 +544,7 @@ visa.co.cr
 visa.co.ni
 visa.co.za
 visa.com.au
+visa.com.bo
 visa.com.jm
 visa.com.ru
 visa.com.ua
@@ -426,7 +587,9 @@ www.visa.com.sg
 www.visa.com.tr
 www.visa.com.tw
 www.visa.com.vn
+www.visa.fr
 www.visainfinite.ca
+www.visamiddleeast.com
 www.yellowpepper.com
 Primary Assets
 Secondary Assets
@@ -578,7 +741,6 @@ testapp.redoxengine.com
 webhooks.gamma.redoxstage.com
 www.redoxengine.com
 Mac OS Executable
-OKT Chain
 OKX Android APK
 OKX Wallet Chrome Extension
 OKX Wallet Core Open Source
@@ -741,11 +903,6 @@ mpa.ekyc.selfregister.m-pesa.com
 mpa.qr.web.m-pesa.com
 openapi.m-pesa.com
 openapiportal.m-pesa.com
-http://sandbox-api.fireblocks.io
-http://sb-console-api.fireblocks.io
-http://sb-mobile-api.fireblocks.io
-https://sandbox.fireblocks.io/v2/settings/notifications
-sandbox.fireblocks.io
 Message signing snap
 MetaMask Browser Extension
 MetaMask SDK
@@ -790,6 +947,15 @@ VS Code Plugin
 artifactory.corp.mongodb.com/
 https://www.*mongodb.com/*
 mongodb.live/*
+*ripio.com
+*ripiotrade.co
+com.ripio.android
+com.ripio.ios
+defi.ripio.com
+http://auth.ripio.com
+https://app.ripio.com
+https://kyc.ripio.com/
+trade.ripio.com
 1293674041
 Tier 1
 Tier 2
@@ -1019,6 +1185,10 @@ smtp2go.com
 868013618
 975035622
 9nqwjwnqjj5n
+Tier 1
+Tier 1 Studios
+Tier 2
+Tier 3
 air.com.buffalo_studios.newflashbingo
 air.com.playtika.cvs
 air.com.playtika.slotomania
@@ -1152,10 +1322,6 @@ share.doppler.com
 com.grindrapp.android
 preprod1.grindr.com
 web.grindr.com
-(youriwssubdomain).cloud.com
-(yoursubdomain).ap.iws.cloud.com
-(yoursubdomain).eu.iws.cloud.com
-(yoursubdomain).us.iws.cloud.com
 *developer.cloud.com
 Citrix End Point Analysis (EPA) client for Linux
 Citrix End Point Analysis (EPA) client for Windows
@@ -1224,6 +1390,7 @@ sso.8x8pilot.com
 uc.8x8pilot.com
 user-profile-staging.8x8.com
 user-profile.8x8.com
+vap.8x8.com
 vcc-ce.8x8.com
 video-agent.8x8.com
 voapi.8x8.com
@@ -1590,19 +1757,6 @@ api.evernote.com
 api.stage.evernote.com
 com.evernote
 www.evernote.com
-github.com/oasisprotocol/explorer
-http://emerald.oasis.dev
-http://grpc.oasis.dev
-http://rosetta.oasis.dev/api/mainnet
-http://sapphire.oasis.io
-https://github.com/oasisprotocol/curve25519-voi
-https://github.com/oasisprotocol/deoxysii
-https://github.com/oasisprotocol/deoxysii-rust
-https://github.com/oasisprotocol/oasis-core
-https://github.com/oasisprotocol/oasis-sdk
-https://github.com/oasisprotocol/oasis-wallet-web
-status.oasis.io
-wallet.oasis.io
 Exodus Desktop Wallet
 Passkey Wallet
 exodus-movement.exodus
@@ -1819,7 +1973,6 @@ account-sprint.dynatracelabs.com
 https://github.com/Dynatrace
 myaccount-hardening.dynatracelabs.com
 sso-sprint.dynatracelabs.com
-university-staging.dynatracelabs.com
  com.citymapper.app.release
 469463298
 6449737830
@@ -1893,8 +2046,6 @@ new.reddit.com
 redditforbusiness.com
 sh.reddit.com
 strapi.reddit.com
-com.zellepay.zelle
-com.zellepay.zelle
 ews-fusion.my.site.com
 platform.cat.earlywarning.io
 platformtest.cat.earlywarning.io
@@ -2451,12 +2602,14 @@ merchant.crypto.com
 nadex.com
 tax.crypto.com
 web.crypto.com
+10.0.0.0/8
 com.goodrx
 com.goodrx.iphone
 www.goodrx.com
 https://github.com/nodejs/node
 api.ort-one-pingone.com
 apps.ort-one-pingone.com
+auth.ort-one-pingone.com
 console.ort-one-pingone.com
 https://openam-bug-bounty-stag.forgeblocks.com/*
 https://ort-admin.pingone.com/*
@@ -2524,6 +2677,7 @@ Elastic Behavior Detections
 Elastic Clients
 Elastic Cloud Enterprise (ECE)
 Elastic Cloud on Kubernetes (ECK)
+Elastic Defend
 Elastic Enterprise Search
 Elastic Maps Server
 Elastic Package Registry
@@ -3021,6 +3175,10 @@ com.withbuddies.dice.free
 id1427744264
 id1541153375
 id1621328561
+api.localizestaging.com
+app.localizestaging.com
+cdn.localizestaging.com
+localizestaging.com
 BBPress Core
 BuddyPress Core
 GlotPress
@@ -3173,6 +3331,7 @@ npmjs.com
 npmjs.org
 com.wealthsimple
 com.wealthsimple.wealthsimple
+https://signin-hackerone.hbstaging.website/
 434613896
 6670203019
 6670536058
@@ -3585,6 +3744,9 @@ api.linkedin.com
 business.linkedin.com
 com.linkedin.android
 www.linkedin.com
+Tier 1 Assets
+Tier 2 Assets
+Tier 3 Assets
 api.greenhouse.io
 app.greenhouse.io
 app.interseller.io
