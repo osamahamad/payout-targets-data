@@ -35,18 +35,16 @@ jobs:
           git config --global user.name  "${{ secrets.GIT_USER_NAME || 'automation-bot' }}"
           git config --global user.email "${{ secrets.GIT_USER_EMAIL || 'bot@example.com' }}"
 
-      - name: Clone or update arkadiyt/bounty-targets-data
-        run: |
-          set -e
-          REPO_DIR="bounty-targets-data"
-          if [ ! -d "$REPO_DIR/.git" ]; then
-            git clone https://github.com/arkadiyt/bounty-targets-data.git "$REPO_DIR"
-          else
-            cd "$REPO_DIR"
-            git fetch origin
-            git merge origin/main --no-edit
-            cd ..
-          fi
+      # === Option 1: use checkout to fetch the data repo fast ===
+      - name: Fetch bounty-targets-data (fast)
+        uses: actions/checkout@v4
+        with:
+          repository: arkadiyt/bounty-targets-data
+          ref: main
+          path: bounty-targets-data
+          fetch-depth: 1
+          persist-credentials: false
+        timeout-minutes: 2
 
       - name: Extract payout targets (same logic as cron script)
         run: |
@@ -58,25 +56,25 @@ jobs:
           cd data
 
           # Non-wildcards
-          cat "$bounty_targets_data_folder/data/bugcrowd_data.json"   | jq -r '.[] | select(.max_payout > 0) | .targets.in_scope[].target'                                         | grep -vF "*." > bugcrowd.txt            || : > bugcrowd.txt
-          cat "$bounty_targets_data_folder/data/hackerone_data.json"  | jq -r '.[] | select(.offers_bounties == true) | .targets.in_scope[].asset_identifier'                        | grep -vF "*." > hackerone.txt           || : > hackerone.txt
-          cat "$bounty_targets_data_folder/data/hackenproof_data.json"| jq -r '.[] | .targets.in_scope[] | select(.reward == "Bounty") | .target'                                 | grep -vF "*." > hackenproof.txt         || : > hackenproof.txt
-          cat "$bounty_targets_data_folder/data/intigriti_data.json"  | jq -r '.[] | select(.max_bounty.value > 0) | .targets.in_scope[] | select(.impact != "Out of scope" and .impact != "No bounty") | .endpoint' | grep -vF "*." > intigriti.txt || : > intigriti.txt
-          cat "$bounty_targets_data_folder/data/yeswehack_data.json"  | jq -r '.[] | select(.max_bounty != null) | .targets.in_scope[].target'                                     | grep -vF "*." > yeswehack.txt           || : > yeswehack.txt
+          cat "$bounty_targets_data_folder/data/bugcrowd_data.json"    | jq -r '.[] | select(.max_payout > 0) | .targets.in_scope[].target'                                              | grep -vF "*." > bugcrowd.txt            || : > bugcrowd.txt
+          cat "$bounty_targets_data_folder/data/hackerone_data.json"   | jq -r '.[] | select(.offers_bounties == true) | .targets.in_scope[].asset_identifier'                             | grep -vF "*." > hackerone.txt           || : > hackerone.txt
+          cat "$bounty_targets_data_folder/data/hackenproof_data.json" | jq -r '.[] | .targets.in_scope[] | select(.reward == "Bounty") | .target'                                      | grep -vF "*." > hackenproof.txt         || : > hackenproof.txt
+          cat "$bounty_targets_data_folder/data/intigriti_data.json"   | jq -r '.[] | select(.max_bounty.value > 0) | .targets.in_scope[] | select(.impact != "Out of scope" and .impact != "No bounty") | .endpoint' | grep -vF "*." > intigriti.txt || : > intigriti.txt
+          cat "$bounty_targets_data_folder/data/yeswehack_data.json"   | jq -r '.[] | select(.max_bounty != null) | .targets.in_scope[].target'                                            | grep -vF "*." > yeswehack.txt           || : > yeswehack.txt
 
           # Wildcards only (strip http/https)
-          cat "$bounty_targets_data_folder/data/bugcrowd_data.json"   | jq -r '.[] | select(.max_payout > 0) | .targets.in_scope[].target'                                         | grep -F "*." | sed 's#http://##;s#https://##' > bugcrowd_wildcards.txt    || : > bugcrowd_wildcards.txt
-          cat "$bounty_targets_data_folder/data/hackerone_data.json"  | jq -r '.[] | select(.offers_bounties == true) | .targets.in_scope[].asset_identifier'                        | grep -F "*." | sed 's#http://##;s#https://##' > hackerone_wildcards.txt   || : > hackerone_wildcards.txt
-          cat "$bounty_targets_data_folder/data/hackenproof_data.json"| jq -r '.[] | .targets.in_scope[] | select(.reward == "Bounty") | .target'                                 | grep -F "*." | sed 's#http://##;s#https://##' > hackenproof_wildcards.txt || : > hackenproof_wildcards.txt
-          cat "$bounty_targets_data_folder/data/intigriti_data.json"  | jq -r '.[] | select(.max_bounty.value > 0) | .targets.in_scope[] | select(.impact != "Out of scope" and .impact != "No bounty") | .endpoint' | grep -F "*." | sed 's#http://##;s#https://##' > intigriti_wildcards.txt || : > intigriti_wildcards.txt
-          cat "$bounty_targets_data_folder/data/yeswehack_data.json"  | jq -r '.[] | select(.max_bounty != null) | .targets.in_scope[].target'                                     | grep -F "*." | sed 's#http://##;s#https://##' > yeswehack_wildcards.txt   || : > yeswehack_wildcards.txt
+          cat "$bounty_targets_data_folder/data/bugcrowd_data.json"    | jq -r '.[] | select(.max_payout > 0) | .targets.in_scope[].target'                                              | grep -F "*." | sed 's#http://##;s#https://##' > bugcrowd_wildcards.txt    || : > bugcrowd_wildcards.txt
+          cat "$bounty_targets_data_folder/data/hackerone_data.json"   | jq -r '.[] | select(.offers_bounties == true) | .targets.in_scope[].asset_identifier'                             | grep -F "*." | sed 's#http://##;s#https://##' > hackerone_wildcards.txt   || : > hackerone_wildcards.txt
+          cat "$bounty_targets_data_folder/data/hackenproof_data.json" | jq -r '.[] | .targets.in_scope[] | select(.reward == "Bounty") | .target'                                      | grep -F "*." | sed 's#http://##;s#https://##' > hackenproof_wildcards.txt || : > hackenproof_wildcards.txt
+          cat "$bounty_targets_data_folder/data/intigriti_data.json"   | jq -r '.[] | select(.max_bounty.value > 0) | .targets.in_scope[] | select(.impact != "Out of scope" and .impact != "No bounty") | .endpoint' | grep -F "*." | sed 's#http://##;s#https://##' > intigriti_wildcards.txt || : > intigriti_wildcards.txt
+          cat "$bounty_targets_data_folder/data/yeswehack_data.json"   | jq -r '.[] | select(.max_bounty != null) | .targets.in_scope[].target'                                            | grep -F "*." | sed 's#http://##;s#https://##' > yeswehack_wildcards.txt   || : > yeswehack_wildcards.txt
 
           cd "$MAIN_DIR"
 
       - name: Consolidate to assets.out and wildcards.out
         run: |
           set -e
-          cat data/*_wildcards.txt > wildcards.out || : 
+          cat data/*_wildcards.txt > wildcards.out || :
           sort -u wildcards.out -o wildcards.out || :
 
           cat data/* > assets.out || :
@@ -92,7 +90,7 @@ jobs:
 
           # assets
           if [ -f "$PREV_SCAN_FILE" ]; then
-            grep -Fxvf "$PREV_SCAN_FILE" "assets.out" > "$NEW_ASSETS_FILE" || : 
+            grep -Fxvf "$PREV_SCAN_FILE" "assets.out" > "$NEW_ASSETS_FILE" || :
             cp "assets.out" "$PREV_SCAN_FILE"
           else
             cp "assets.out" "$PREV_SCAN_FILE"
@@ -108,7 +106,7 @@ jobs:
             : > "$NEW_WILDCARD_FILE"
           fi
 
-      - name: Notify via Telegram (one message per new line, like cron script)
+      - name: Notify via Telegram (assets only — matches your script)
         if: env.TELEGRAM_BOT_TOKEN != '' && env.TELEGRAM_CHAT_ID != ''
         run: |
           set -e
@@ -123,16 +121,18 @@ jobs:
             done < new_added_assets.out
           fi
 
-          if [ -s new_added_wildcards.out ]; then
-            while IFS= read -r line; do
-              [ -z "$line" ] && continue
-              text="New Payout Public Programs Wildcard Domains Detected: ${line}  [bounty-targets-data](https://github.com/search?q=repo%3Aarkadiyt%2Fbounty-targets-data+%22${line}%22&type=code)   [Firebounty](https://firebounty.com/?sort=created_at&order=desc&search_field=scopes&search=${line})"
-              curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
-                -d chat_id="${TELEGRAM_CHAT_ID}" \
-                -d text="$text" \
-                -d parse_mode="Markdown" > /dev/null
-            done < new_added_wildcards.out
-          fi
+          # NOTE: Your cron script has wildcard notification commented out.
+          # If you later want it, uncomment below to match your message format.
+          # if [ -s new_added_wildcards.out ]; then
+          #   while IFS= read -r line; do
+          #     [ -z "$line" ] && continue
+          #     text="New Payout Public Programs Wildcard Domains Detected: ${line}  [bounty-targets-data](https://github.com/search?q=repo%3Aarkadiyt%2Fbounty-targets-data+%22${line}%22&type=code)   [Firebounty](https://firebounty.com/?sort=created_at&order=desc&search_field=scopes&search=${line})"
+          #     curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
+          #       -d chat_id="${TELEGRAM_CHAT_ID}" \
+          #       -d text="$text" \
+          #       -d parse_mode="Markdown" > /dev/null
+          #   done < new_added_wildcards.out
+          # fi
 
       - name: Commit and push outputs (same files as script)
         run: |
