@@ -770,6 +770,7 @@
 *.romwe.com
 *.router.hereapi.com
 *.runnr.in
+*.s-cloud.net
 *.saltlabs.com
 *.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
@@ -806,6 +807,7 @@
 *.seriously.com
 *.services-prod.nsvcs.net
 *.services.netlify.com
+*.services.repostnetwork.com
 *.shein.com
 *.sheingsp.com
 *.shopify.com
@@ -843,6 +845,7 @@
 *.sol-data.com
 *.solarcity.com
 *.sonyentertainmentnetwork.com
+*.soundcloud.org
 *.souparea.com
 *.spiketrap.io
 *.spinaway.com
@@ -2662,6 +2665,7 @@ ap-s.cloud.com
 api*.hubapi.com
 api*.hubspot.com
 api*.netflix.com
+api-*.soundcloud.com
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
 api-eu.floqast.app
@@ -4030,6 +4034,7 @@ http://app-qa.chime.com/users/sign_in
 http://app.lightspark.com
 http://app.scaleft.com/
 http://apps.connect.monash.edu/
+http://artists.soundcloud.com/
 http://auth.khealth.com/cedars/sign-up
 http://auth.khealth.com/khealth/sign-up
 http://auth.khealth.com/mayo-la-crosse/sign-up
@@ -4440,6 +4445,7 @@ https://apps.apple.com/us/app/quip-docs-chat-sheets/id647922896
 https://apps.apple.com/us/app/roomba-home/id6504274697
 https://apps.apple.com/us/app/salt-work-and-get-rewarded/id1668462142
 https://apps.apple.com/us/app/share-rewards/id1465450657
+https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
 https://apps.apple.com/us/app/syncup-drive/id1576574297
 https://apps.apple.com/us/app/syncup-kids/id1503394062
@@ -4611,6 +4617,7 @@ https://compulsoryunits.monash.edu/
 https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://connect.monash.edu
 https://connect.paymaya.com/
+https://connect.soundcloud.com
 https://consensus2024.sandbox.events.coindesk.com/
 https://consensys.io/
 https://console-stage.neon.build/
@@ -5849,6 +5856,7 @@ https://play.google.com/store/apps/details?id=com.scu.bsafe
 https://play.google.com/store/apps/details?id=com.siilo.android&hl=en
 https://play.google.com/store/apps/details?id=com.sixgroup.debixplus
 https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1
+https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.squareup.cash
 https://play.google.com/store/apps/details?id=com.swapcard.apps.android&hl=fr
@@ -6035,6 +6043,8 @@ https://snctest-s.underarmour.com/
 https://song.link
 https://songlink.io
 https://sos-ch-gva-2.exo.io/
+https://soundcloud.com
+https://soundcloud.org
 https://spacelift.dev/
 https://speeddials.opera.com
 https://splus-apollox.pnimedia.com/

@@ -749,6 +749,7 @@
 *.romwe.com
 *.router.hereapi.com
 *.runnr.in
+*.s-cloud.net
 *.saltlabs.com
 *.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
@@ -785,6 +786,7 @@
 *.seriously.com
 *.services-prod.nsvcs.net
 *.services.netlify.com
+*.services.repostnetwork.com
 *.shein.com
 *.sheingsp.com
 *.shopify.com
@@ -822,6 +824,7 @@
 *.sol-data.com
 *.solarcity.com
 *.sonyentertainmentnetwork.com
+*.soundcloud.org
 *.souparea.com
 *.spiketrap.io
 *.spinaway.com
@@ -1056,6 +1059,7 @@ analytics-*.8x8.com
 api*.hubapi.com
 api*.hubspot.com
 api*.netflix.com
+api-*.soundcloud.com
 app*.hubspot.com
 bugcrowd-*your-own-instance*.cloud.mattermost.com/
 casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
