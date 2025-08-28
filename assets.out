@@ -2780,6 +2780,7 @@ api.mercadopago.com
 api.mergify.com
 api.monespacesante.fr
 api.moonpay.com
+api.mtls.truelayer[-sandbox].com
 api.netlify.com
 api.ninjakiwi.com
 api.ort-one-pingone.com
@@ -2922,6 +2923,7 @@ app.superdrug.com
 app.swapcard.com
 app.taxjar.com
 app.theperfumeshop.com
+app.truelayer[-sandbox].com
 app.uma.money
 app.watsons.com.tr
 app.whoop.com
@@ -2973,6 +2975,7 @@ auth.digital.delen.lu
 auth.magic.link
 auth.monespacesante.fr
 auth.moonpay.com
+auth.mtls.truelayer[-sandbox].com
 auth.nextcloud.com
 auth.ort-one-pingone.com
 auth.pab.porsche.com
@@ -4015,7 +4018,6 @@ horizons.hostinger.com
 hotel-deals.marriott.com
 hotornot.com
 hpanel.hostinger.com
-hpp.truelayer[-sandbox].com
 ht.visa.com
 http1mustdie.com
 http://--your-own-1password-account--.1password.com
@@ -7218,12 +7220,12 @@ payment.truelayer[-sandbox].com
 payment.unibet.(com­|it|se|co.uk|be|nl|dk|ro|fr|ee|ie|com.au|mt)
 payment.vladcazino.ro
 paymentcomponent.booking.com
+payments-experience-api.truelayer[-sandbox].com
 payments.geneva-staging.chat
 payments.geneva-staging.com
 payments.hostinger.com
 paynotifications.booking.com
 payoneer.com.cn
-payouts.truelayer[-sandbox].com
 paypal.me
 paypalobjects.com
 payroll.razorpay.com
@@ -7527,6 +7529,7 @@ servicedesk-accpt.portofantwerpbruges.com
 servicedesk.portofantwerp.com
 servicedesk.portofantwerpbruges.com
 sftp.gamma.redoxstage.com
+sftp.reports.truelayer.com
 sh.reddit.com
 share-accpt.portofantwerp.com
 share-accpt.portofantwerpbruges.com
@@ -7535,6 +7538,7 @@ share.portofantwerp.com
 share.portofantwerpbruges.com
 shipit.rubygems.org
 shop-id.tokopedia.com
+shop-pay-app-api.truelayer.com
 shop.app
 shop.demorgen.be
 shop.dyson.co.za
@@ -7549,6 +7553,7 @@ shop.trouw.nl
 shop.volkskrant.nl
 shop.whoop.com
 shop.wyndhamvacationownership.trisept.travel
+shopify-admin.truelayer.com
 shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
@@ -7816,6 +7821,7 @@ us.tvg.com
 us1.badoo.com
 usa.visa.com
 usauth.ezvizlife.com
+user-authentication-api.truelayer[-sandbox].com
 user-profile-staging.8x8.com
 user-profile.8x8.com
 usercontent.apps.nextcloud.com
