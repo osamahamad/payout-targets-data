@@ -175,9 +175,9 @@
 *.budgetair.com
 *.bugcrowd.com/auth/*
 *.byairbnb.com
-*.bybit-tr.com
 *.bybit.com
 *.bybit.eu
+*.bybit.tr
 *.bykea.net
 *.byspotify.com
 *.bz-berlin.de
@@ -998,6 +998,7 @@
 *.vod2.infomaniak.com
 *.voiscooters.com
 *.volkskrant.nl
+*.volkswagen.de
 *.vpn.hackerone.net
 *.vrbo.com
 *.vtm.be
@@ -2851,6 +2852,7 @@ apis.onecloud.harman.com
 apix.vodafone.om
 app*.hubspot.com
 app.Reclaim.ai
+app.aikido.dev
 app.alasco.de
 app.avtoelon.uz
 app.blueskytravelvietnam.com
@@ -4787,12 +4789,6 @@ https://github.com/18f/federalist-proxy
 https://github.com/18f/identity-idp
 https://github.com/18f/identity-saml-rails
 https://github.com/18f/identity-saml-sinatra
-https://github.com/AikidoSec/firewall-node#Detection Bypass
-https://github.com/AikidoSec/firewall-node#False Positive
-https://github.com/AikidoSec/firewall-node#Vulnerability
-https://github.com/AikidoSec/firewall-python#Detection Bypass
-https://github.com/AikidoSec/firewall-python#False Positive
-https://github.com/AikidoSec/firewall-python#Vulnerability
 https://github.com/Aiven
 https://github.com/Aiven-Open
 https://github.com/Chia-Network/chia-blockchain

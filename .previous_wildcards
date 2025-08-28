@@ -154,9 +154,9 @@
 *.budgetair.com
 *.bugcrowd.com/auth/*
 *.byairbnb.com
-*.bybit-tr.com
 *.bybit.com
 *.bybit.eu
+*.bybit.tr
 *.bykea.net
 *.byspotify.com
 *.bz-berlin.de
@@ -977,6 +977,7 @@
 *.vod2.infomaniak.com
 *.voiscooters.com
 *.volkskrant.nl
+*.volkswagen.de
 *.vpn.hackerone.net
 *.vrbo.com
 *.vtm.be

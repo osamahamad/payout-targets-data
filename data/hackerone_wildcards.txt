@@ -22,9 +22,9 @@ app*.hubspot.com
 *.prod.ftl.netflix.com
 api*.netflix.com
 *.audible.(TLD)
-*.bybit-tr.com
 *.bybit.com
 *.bybit.eu
+*.bybit.tr
 *.budgetair.com
 *.cheaptickets.nl
 *.flugladen.de
