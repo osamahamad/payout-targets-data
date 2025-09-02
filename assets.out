@@ -13,6 +13,7 @@
  com.citymapper.app.release
  https://github.com/0xPolygon/proof-generation-api
  idp-contact.nexuzhealth.be
+ login-test.portofantwerpbruges.com/
  mix.monash.edu 
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 (se|fi|uk).bingo.com
@@ -6780,7 +6781,6 @@ login-accpt.portofantwerpbruges.com
 login-api.truelayer[-sandbox].com
 login-ia.tvg.com
 login-pabets.tvg.com
-login-test.portofantwerpbruges.com/poam/XUI/
 login.arkane.network
 login.cm.com
 login.delen.be 
@@ -6792,7 +6792,6 @@ login.lansweeper.com
 login.oyens.com
 login.pabets.tvg.com
 login.playcanvas.com
-login.portofantwerpbruges.com
 login.rei.com
 login.starbucks.co.jp
 login.swapcard.com
