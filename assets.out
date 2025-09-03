@@ -274,6 +274,7 @@
 *.district.in
 *.dm.gg
 *.dmcdn.net
+*.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
@@ -283,6 +284,10 @@
 *.dpgmedia.nl
 *.drogas.lt
 *.drogas.lv
+*.dropbox.com
+*.dropboxer.net
+*.dropboxforum.com
+*.dropboxpartners.com
 *.dropmix.com
 *.dropxl.com
 *.dsanalytics.com
@@ -398,6 +403,9 @@
 *.harmankardon.com
 *.harmonixmusic.com
 *.harmonyremote.com
+*.hellofax.com
+*.hellosign.com
+*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.bild.de
@@ -730,6 +738,7 @@
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
+*.reclaim.ai
 *.reddit.com
 *.redditblog.com
 *.reddithelp.com
@@ -1076,6 +1085,7 @@
 107.167.96.0/19
 1076840480
 1079537578
+1080074001
 1080248000
 1089294040
 1091010942
@@ -1337,6 +1347,7 @@
 3.basecamp.com
 302584613
 319881193
+327630330
 328407587
 335187483
 336381998
@@ -1418,6 +1429,7 @@
 6444040977
 6444868926
 6449737830
+6450553960
 6452192521
 645949180
 6462308655
@@ -1791,6 +1803,8 @@ Drogas.Latvia.Android
 Drogas.Latvia.iOS
 Drogas.Lietuva.Android
 Drogas.Lietuva.iOS
+Dropbox Desktop Application
+Dropbox.com
 Dynatrace ActiveGate
 Dynatrace MobileAgent
 Dynatrace OneAgent
@@ -1944,6 +1958,8 @@ Hardware found on https://www.ezviz.com/category/security-wifi-cameras
 Hardware found on https://www.ezviz.com/category/smart-home
 Harmony Remote Software
 Harmony Remotes
+HelloFax.com
+HelloSign.com
 Hermes Relayer
 Horcrux
 HubSpot Android Mobile App
@@ -2563,7 +2579,6 @@ admin.8x8.com
 admin.booking.com
 admin.fr.cloud.gov
 admin.instacart.com
-admin.rezserver.com
 admin.shopify.com
 admin.stage.vismaonline.com
 admin.wickr.com
@@ -2654,6 +2669,7 @@ api.au.frontegg.com
 api.avtoelon.uz
 api.binance.com
 api.blockchain.info
+api.chainabuse-staging.com
 api.circle.com
 api.cloudflare.com
 api.cloudways.com
@@ -2675,6 +2691,7 @@ api.direct.playstation.com
 api.doppler.com
 api.drogas.lt
 api.drogas.lv
+api.dropbox.com
 api.dyson.at
 api.dyson.be
 api.dyson.ch
@@ -2765,7 +2782,6 @@ api.razorpay.com
 api.recordedfuture.com
 api.reddit.com
 api.remitly.io
-api.rezserver.com
 api.s-kaupat.fi
 api.sandbox.topperpay.com
 api.slack.com
@@ -2813,6 +2829,7 @@ apis.mail.yahoo.com
 apis.onecloud.harman.com
 apix.vodafone.om
 app*.hubspot.com
+app.Reclaim.ai
 app.aikido.dev
 app.alasco.de
 app.avtoelon.uz
@@ -3102,6 +3119,7 @@ cdn.plaid.com
 cdna.lystit.com
 cds.vrt.radio
 chain.link
+chainabuse-staging.com
 chameleon
 channelstore.roku.com/details/48061/vhx
 charts.etoro.com
@@ -3262,6 +3280,8 @@ com.dashlane.dashlanephonefinal
 com.defi.wallet
 com.deribit
 com.dolap.android
+com.dropbox.android
+com.dropbox.dash
 com.dyson.mobile.android
 com.ebookers
 com.eero.android
@@ -3608,7 +3628,9 @@ cyberghost.app
 cyberghost.com
 cz.skodaauto.myskoda
 daita/files_fulltextsearch_tesseract
+dash.ai
 dash.cloudflare.com
+dash.dropbox.com
 dashboard-beta.fr.cloud.gov
 dashboard.doppler.com
 dashboard.fr.cloud.gov
@@ -3711,6 +3733,7 @@ docs.redoxengine.com
 docs.silabs.com
 docs.topperpay.com
 docs.uphold.com
+docsend.com
 docuflow.stg.inspectorio.com
 donations.livestream.com
 doppler
@@ -3723,6 +3746,7 @@ dream-qa.wnba.com
 dream.wnba.com
 drive.porsche.com
 drive.wolt.com
+dropbox.com/paper
 dx-demo.deriv.com
 dx.deriv.com
 e-Commerce
@@ -7351,6 +7375,7 @@ rei.com
 relay.firefox.com
 relay.playcanvas.com
 remitly.com
+replay.dropbox.com
 repo.magento.com
 report-html-sight.stg.inspectorio.com
 report.voi.com
@@ -7372,7 +7397,6 @@ res.vacations.universalstudioshollywood.com
 research.23andme.com
 research.gs.com
 reservations.all-inclusive.marriott.com
-reservations.rezserver.com
 reservations.wynnvacations.com
 resources.krisp.ai
 restaurant-api.wolt.com
@@ -7424,7 +7448,6 @@ secure.chaturbate.com
 secure.netflix.com
 secure.newegg.ca
 secure.plaid.com
-secure.rezserver.com
 secure.tumblr.com
 secureui.starbucks.com
 securite.monespacesante.fr
@@ -7480,6 +7503,7 @@ shopify-admin.truelayer.com
 shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
+sign.dropbox.com
 signature-insights.api.cx.metamask.io
 signin.auth.welt.de
 signup.myconnect.com.au
