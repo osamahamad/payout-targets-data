@@ -3,7 +3,6 @@
  *.sip.*.twilio.com
  *.test.*.lfscnp.com
  203.13.125.32/27
- Finicity Connect
  Fortress.HongKong.IOS
  MS Office Add-In
  Mobile Apps
@@ -1864,10 +1863,6 @@ FindX6Pro
 FindX7
 FindX7Ultra
 Fing desktop
-Finicity - OBB (Open Banking Business Service) 
-Finicity Decisioning
-Finicity- Data Services
-Finicity- Open Banking Payment History application
 FireTV
 Firmware
 Firmware: Mali Command Stream Frontend (CSF) Firmware
@@ -2208,7 +2203,6 @@ Presentation Remotes
 Primary Assets
 Product Delivery
 Protocol of the Swiss Post Voting System
-Public Others Target
 Python Driver
 React Native SDK
 Recon Data
@@ -2257,7 +2251,6 @@ SAP SuccessFactors
 SHA1-CD
 SOPHOS/Secureworks : Redcloak
 SOPHOS/Secureworks : Taegis
-SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope
 SSL/TLS
 SSO_Saml_connector
 Sandboxes
@@ -4582,7 +4575,6 @@ https://console.delltechnologies.com/nav/invoice
 https://console.neon.tech/
 https://console.neon.tech/api/v2/
 https://consumer-sustainability.underarmour.com/en
-https://consumer.finicityreports.com
 https://content-server.ibotta.com/graphql
 https://content.agora.beta.gouv.fr
 https://content.usaa.com
@@ -4626,7 +4618,6 @@ https://dealflow.prosus.com
 https://dealflowapi.prosus.com
 https://demo.adstruc.com
 https://demo.myopenpass.com
-https://demo.priceless.com/
 https://design.glassdoor.com/*
 https://design.staples.com
 https://desk-api-{region}.sendbird.com
@@ -4635,7 +4626,6 @@ https://desktop.water-link.be/
 https://dev.tutoring.classdojo.com
 https://devedge.t-mobile.com
 https://developer.ifood.com.br
-https://developer.mastercard.com
 https://developer.newrelic.com/
 https://developer.paddle.com
 https://developer.withings.com/dashboard/
@@ -4675,7 +4665,6 @@ https://docs.sophos.com/central/customer/help/en-us/ManageYourProducts/ThreatAna
 https://docs.tempus-ex.com
 https://docs.world.org/world-chain/reference/address-book
 https://docsite.vistarmedia.com
-https://donate.mastercard.com
 https://download.krisp.ai/mac
 https://download.krisp.ai/win
 https://download.opera.com
@@ -5711,12 +5700,10 @@ https://pci.kindredgroup.com
 https://pentest-app.onetrust.com/
 https://peopleview.naspers.com
 https://performance.neogov.com
-https://performancemarketing.mastercard.com/portal/
 https://pg.paymaya.com
 https://phoenix-catalog.pnimedia.com/
 https://pinepg.in/
 https://pinepgconsole.in:9099
-https://pioneer.truata.com/
 https://pit.water-link.be/
 https://pixabay.com/
 https://platform.infiniteathlete.ai
@@ -5896,7 +5883,6 @@ https://portalapi.eu.clearpay.co.uk
 https://portalapi.us.afterpay.com
 https://powerdms.com/
 https://pprd.cybermalveillance.gouv.fr
-https://priceless.com/golf/
 https://privateinternetaccess.com/api/client/v5
 https://pro.onedoc.ch
 https://prod.euid.eu
@@ -6040,8 +6026,6 @@ https://splus-static-site.pnimedia.com/
 https://splus-storage.pnimedia.com/
 https://sprint.com
 https://square.online
-https://src.mastercard.com/*
-https://src.mastercard.com/profile/enroll
 https://staff.monash
 https://staging-login.vistarmedia.com
 https://staging-prime.navan.com
@@ -6321,7 +6305,6 @@ https://www.eu.lululemon.com/
 https://www.exantediet.com/
 https://www.eyeko.com/
 https://www.financeiro.quintoandar.com.br/*
-https://www.finicity.com
 https://www.fishbowlapp.com/*
 https://www.flipkart.com
 https://www.foreignaffairs.com/
@@ -6401,11 +6384,6 @@ https://www.marionnaud.ro/blog/
 https://www.marionnaud.ro/m-life/
 https://www.marionnaud.sk/blog/
 https://www.marionnaud.sk/m-life/
-https://www.mastercard.ch/de-ch.html
-https://www.mastercard.ch/fr-ch.html
-https://www.mastercard.com.au/en-au.html
-https://www.mastercard.nl/nl-nl.html
-https://www.mastercard.us/en-us.html
 https://www.mgmmacau.com
 https://www.microsoft.com/en-us/p/keeperchat/9pdqtcpn4kxn#activetab=pivot:overviewtab
 https://www.minhaconta.zoop.com.br
