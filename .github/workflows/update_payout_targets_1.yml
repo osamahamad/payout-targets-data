@@ -88,24 +88,40 @@ jobs:
           PREV_SCAN_FILE=".previous_assets"
           PREV_WILDCARD_FILE=".previous_wildcards"
 
-          # assets
+          # old logic assets
+          # if [ -f "$PREV_SCAN_FILE" ]; then
+          #   grep -Fxvf "$PREV_SCAN_FILE" "assets.out" > "$NEW_ASSETS_FILE" || :
+          #   cp "assets.out" "$PREV_SCAN_FILE"
+          # else
+          #   cp "assets.out" "$PREV_SCAN_FILE"
+          #   : > "$NEW_ASSETS_FILE"
+          # fi
+          # Logic now
           if [ -f "$PREV_SCAN_FILE" ]; then
             grep -Fxvf "$PREV_SCAN_FILE" "assets.out" > "$NEW_ASSETS_FILE" || :
-            cp "assets.out" "$PREV_SCAN_FILE"
+            cat "assets.out" >> "$PREV_SCAN_FILE"
+            sort -u $PREV_SCAN_FILE -o $PREV_SCAN_FILE
           else
             cp "assets.out" "$PREV_SCAN_FILE"
             : > "$NEW_ASSETS_FILE"
           fi
-
-          # wildcards
+          # old logic wildcards
+          # if [ -f "$PREV_WILDCARD_FILE" ]; then
+          #   grep -Fxvf "$PREV_WILDCARD_FILE" "wildcards.out" > "$NEW_WILDCARD_FILE" || :
+          #   cp "wildcards.out" "$PREV_WILDCARD_FILE"
+          # else
+          #   cp "wildcards.out" "$PREV_WILDCARD_FILE"
+          #   : > "$NEW_WILDCARD_FILE"
+          # fi
+          # New logic wildcards
           if [ -f "$PREV_WILDCARD_FILE" ]; then
             grep -Fxvf "$PREV_WILDCARD_FILE" "wildcards.out" > "$NEW_WILDCARD_FILE" || :
-            cp "wildcards.out" "$PREV_WILDCARD_FILE"
+            cat "wildcards.out" >> "$PREV_WILDCARD_FILE"
+            sort -u $PREV_WILDCARD_FILE -o $PREV_WILDCARD_FILE
           else
             cp "wildcards.out" "$PREV_WILDCARD_FILE"
             : > "$NEW_WILDCARD_FILE"
           fi
-
       - name: Notify via Telegram (assets only — matches your script)
         if: env.TELEGRAM_BOT_TOKEN != '' && env.TELEGRAM_CHAT_ID != ''
         run: |
