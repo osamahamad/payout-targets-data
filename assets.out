@@ -9,7 +9,6 @@
  Mobile Apps
  Twilio CDNs (static*.twilio.com)
  Watsons.TaiWan.Android
- aweb.suivo.com
  com.citymapper.app.release
  https://github.com/0xPolygon/proof-generation-api
  idp-contact.nexuzhealth.be
@@ -251,6 +250,7 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
+*.datacamp.com
 *.de.jbl.com
 *.deliciousbrains.com
 *.dell.com/*
@@ -345,6 +345,8 @@
 *.fromspotify.com
 *.fuze.com
 *.fuze.site
+*.gamma.be/*
+*.gamma.nl/*
 *.genoapay.co.nz
 *.genoapay.com
 *.germany.politico.eu
@@ -459,6 +461,9 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
+*.intergamma-test.nl
+*.intergamma.cloud
+*.intergamma.nl/*
 *.itcapital.io
 *.jbl.com
 *.jbl.com.br
@@ -470,6 +475,8 @@
 *.jora.com
 *.jora.xyz
 *.justfall.lol,*.justplay.lol,*.1v1.lol
+*.karwei.nl/*
+*.karweioutletstore.nl
 *.kayak.com
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
@@ -629,8 +636,10 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
+*.ninjakiwi.me
 *.nitropack.io
 *.niumba.com
+*.nkstatic.com
 *.nmfn.com
 *.nml.com
 *.nnip.com
@@ -749,6 +758,7 @@
 *.redecor.com
 *.rentalcars.com
 *.reposify.com
+*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -835,6 +845,7 @@
 *.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
+*.souparea.com
 *.spiketrap.io
 *.spinaway.com
 *.sportbild.de
@@ -1007,6 +1018,9 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
 *.wf.com
 *.wholesalexl.com
 *.wimpmusic.com
@@ -1167,6 +1181,7 @@
 1532153219
 1541949985
 1552455423
+1558129454
 1570215232
 1579372261
 1579530451
@@ -1483,6 +1498,9 @@
 943905271
 944011620
 947984433
+949829216
+950680989
+950693949
 955837609
 960335206
 961114489414094898
@@ -2626,6 +2644,7 @@ airtable.js SDK (https://www.npmjs.com/package/airtable)
 akismet.com
 alert.logitech.com
 alertmanager.fr.cloud.gov
+alerts.ninjakiwi.com
 alexa.amazon.com
 alexaanswers.amazon.com
 alfred.syfe.com
@@ -2642,6 +2661,7 @@ amd.digitalocean.com
 amp.reddit.com
 analytics-*.8x8.com
 analytics.krisp.ai
+analytics.ninjakiwi.com
 analytics.pinelabs.com
 anext.com.sg
 antbank.hk
@@ -2692,6 +2712,8 @@ api.dashlane.com
 api.data.gov
 api.deezer.com
 api.deriv.com
+api.digital.delen.be 
+api.digital.delen.lu 
 api.digitalocean.com
 api.direct.playstation.com
 api.doppler.com
@@ -2766,6 +2788,7 @@ api.monespacesante.fr
 api.moonpay.com
 api.mtls.truelayer[-sandbox].com
 api.netlify.com
+api.ninjakiwi.com
 api.omise.co
 api.ort-one-pingone.com
 api.ovh.com
@@ -2843,6 +2866,12 @@ app.avtoelon.uz
 app.blueskytravelvietnam.com
 app.circle.com
 app.dashlane.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
+app.delen.be 
+app.delen.ch 
+app.delen.lu 
 app.deriv.com
 app.drogas.lt
 app.drogas.lv
@@ -2932,12 +2961,14 @@ as2.portofantwerp.com
 as2.portofantwerpbruges.com
 ask.khealth.com
 asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com 
+assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.spotify.com
 assets.tumblr.com
 astra.datastax.com
-asupport.suivo.com
 auroratechaward.com
 aus5.mozilla.org
 auth-identity-dev.nba.com
@@ -2945,6 +2976,8 @@ auth-identity-qa.nba.com
 auth-identity-uat.nba.com
 auth-identity.nba.com
 auth.23andme.com
+auth.digital.delen.be 
+auth.digital.delen.lu 
 auth.magic.link
 auth.monespacesante.fr
 auth.moonpay.com
@@ -2989,11 +3022,14 @@ bankaccountdata.gocardless.com
 basecamp.rivian.com
 basecamp3.exe
 basicattentiontoken.org
+battles.tv
 bb.visa.com
 bcny.com
 bd.visa.com
 be.bpost.mobilecard
 be.bpost.mybpost
+be.delen.digital
+be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -3046,6 +3082,7 @@ booking.beachbound.com
 booking.cheapcaribbean.com
 booking.com
 bookingholdings-coe.com
+boomer2.ninjakiwi.com
 boost.vinci.com
 booth.pm
 bpost Parcel Lockers
@@ -3083,6 +3120,7 @@ caldav.larksuite.com
 calendar.infomaniak.com
 callbacks.airbnb.com
 cam.notebleue.pro
+campus.datacamp.com
 cancellation.prod.ps.welt.de
 candle-src.etoro.com
 candle.etoro.com
@@ -3282,6 +3320,7 @@ com.creditkarma.mobile
 com.creditkarma.mobile.international
 com.dashlane
 com.dashlane.dashlanephonefinal
+com.datacamp
 com.defi.wallet
 com.deribit
 com.dolap.android
@@ -3616,6 +3655,7 @@ cs.money
 csp-pci.prod.codebig2.net
 css-tricks.com
 ct.deriv.com
+ct.ninjakiwi.com
 ctf.hacker101.com
 custody.coinbase.com
 customer-academy.databricks.com
@@ -3650,6 +3690,7 @@ dashboard.privy.io
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
 data.mail.yahoo.com
+data.ninjakiwi.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 datapod-1-100-druid-ingest.testing.forescoutcloud.net
@@ -3672,6 +3713,7 @@ decision.swiftfinancial.com
 deeplinks.geneva-staging.chat
 deeplinks.geneva-staging.com
 defi.ripio.com
+delen/id1064839588
 delta.app
 demo.arkoselabs.com
 demo.cloud.databricks.com
@@ -3932,6 +3974,7 @@ grammarly.ai
 graphql.sandbox.topperpay.com/graphql
 gravatar.com
 grok.com
+guts.ninjakiwi.com
 gw.api.dh.comcast.com
 h1-your-domain.zendesk.com
 hack1.mtrx.ovh
@@ -4301,6 +4344,7 @@ https://apps.apple.com/app/thefork-manager-neo/id1295795281
 https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
@@ -5145,6 +5189,7 @@ https://just-eat.com
 https://just-eat.dk
 https://just-eat.es
 https://just-eat.io/
+https://justonweb.be/fines/
 https://keepersecurity.com
 https://keepersecurity.com/console
 https://keepersecurity.com/vault
@@ -6689,6 +6734,9 @@ k8s.gcr.io
 k8s.io
 kaccount.khealth.com
 kartaview.org
+kassa.gamma.be/*
+kassa.gamma.nl/*
+kassa.karwei.nl/*
 kayak.ai
 kb.databricks.com
 kidswebservices.com
@@ -6764,9 +6812,13 @@ login-ia.tvg.com
 login-pabets.tvg.com
 login.arkane.network
 login.cm.com
+login.delen.be 
+login.delen.ch 
+login.delen.lu 
 login.fr.cloud.gov
 login.infomaniak.com
 login.lansweeper.com
+login.oyens.com
 login.pabets.tvg.com
 login.playcanvas.com
 login.rei.com
@@ -6915,6 +6967,9 @@ mgmtpod-1.production.forescoutcloud.net
 mgs.marriott.com
 microsite.porsche.com
 middle-force.khealth.io
+mijn.gamma.be/*
+mijn.gamma.nl/*
+mijn.karwei.nl/*
 mijnacc.uzleuven.be
 mipartnerprivileges.marriott.com
 mirc.uzleuven.be
@@ -6979,6 +7034,8 @@ myhistory.porsche.com
 mynexuz.be
 mynexuz.be/myUZ/
 mynexuzhealth/id1459856321
+mynk-dash.ninjakiwi.com
+mynk.ninjakiwi.com
 myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
 mystics-dev.wnba.com
@@ -7072,6 +7129,11 @@ nextcloud/workflow_script
 nft.coinbase.com
 nft.io
 niantic.kidswebservices.com
+ninja.kiwi
+ninjakiwi.com
+nl.gamma.app.android
+nl.gamma.verf
+nl.karwei.app.android
 nmtracking.netflix.com
 no.kolonial.tienda
 notula-accpt.portofantwerpbruges.com
@@ -7278,6 +7340,7 @@ portland-dev.wnba.com
 portland-qa.wnba.com
 portland.wnba.com
 portswigger.net
+practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -7320,6 +7383,7 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profiler.firefox.com
+projects.datacamp.com
 projects.nextcloud.com
 prometheus.fr.cloud.gov
 promos.tvg.com
@@ -7355,6 +7419,7 @@ questionsexualite.fr
 quickstamp-gb.bpost.be
 qwantjunior.com
 r.etoro.com
+rancher.ninjakiwi.me
 random.uzleuven.be/random/
 rankings.etoro.com
 raptor*.bykea.net
@@ -7598,6 +7663,7 @@ stats.nba.com
 stats.nextcloud.com
 stats.vinci.com
 stats.wnba.com
+status.delen.be 
 status.larksuite.com
 status.uphold.com
 steamcommunity.com
@@ -7624,6 +7690,7 @@ streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streams.etoro.com
+sts.delen.be 
 sts.etoro.com
 sts.uzleuven.be
 studio-api.swapcard.com
@@ -7941,6 +8008,8 @@ www.bookingholdings.com
 www.bpost.be
 www.bpost2.be
 www.bumble.com
+www.cadelam.be 
+www.cadelux.lu/en 
 www.cardinalcommerce.com
 www.carrentals.com
 www.cart.starbucks.co.jp/
@@ -7963,9 +8032,13 @@ www.currencycloud.com
 www.cybersource.com
 www.dashlane.com
 www.data.gov
+www.datacamp.com
+www.datacamp.com/datalab
 www.datastax.com
 www.ddfcontent.com
 www.deezer.com
+www.delen.bank
+www.delen.be/en 
 www.demorgen.be
 www.demorgen.be/abonnementen
 www.digitalocean.com
@@ -8040,6 +8113,8 @@ www.fortress.com.hk
 www.fraedom.com
 www.funjet.com
 www.fuzemeeting.com
+www.gamma.be/*
+www.gamma.nl/*
 www.geneva-staging.chat
 www.geneva-staging.com
 www.getaroom.com
@@ -8068,6 +8143,7 @@ www.infomaniak.com
 www.instacart.com
 www.intigriti.com
 www.jaybirdsport.com
+www.karwei.nl/*
 www.kayak.com
 www.kiwi.com
 www.koho.ca
