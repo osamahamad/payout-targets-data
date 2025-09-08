@@ -2288,6 +2288,8 @@ SOPHOS/Secureworks : Taegis
 SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope
 SSL/TLS
 SSO_Saml_connector
+Saily - Android
+Saily - iOS
 Sandboxes
 Scanwatch
 Scanwatch 2
@@ -3638,6 +3640,7 @@ corp-dev.nba.com
 corp.badoo.com
 corp.polymoon.it
 corporate.wolt.com
+couriers.indrive.com
 cover-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 cpanel.hostinger.com
@@ -4812,6 +4815,12 @@ https://github.com/18f/federalist-proxy
 https://github.com/18f/identity-idp
 https://github.com/18f/identity-saml-rails
 https://github.com/18f/identity-saml-sinatra
+https://github.com/AikidoSec/firewall-node#Detection Bypass
+https://github.com/AikidoSec/firewall-node#False Positive
+https://github.com/AikidoSec/firewall-node#Vulnerability
+https://github.com/AikidoSec/firewall-python#Detection Bypass
+https://github.com/AikidoSec/firewall-python#False Positive
+https://github.com/AikidoSec/firewall-python#Vulnerability
 https://github.com/Aiven
 https://github.com/Aiven-Open
 https://github.com/Chia-Network/chia-blockchain
