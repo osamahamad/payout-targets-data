@@ -593,6 +593,7 @@
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
+*.mobile-messenger.intercom.com
 *.mobilevikings.be
 *.mobilitygraph.hereapi.com
 *.mofos.com
@@ -4090,6 +4091,7 @@ http://itunes.apple.com/us/app/ibotta/id559887125
 http://logstash-props.devicecloud.production.forescoutcloud.net/api/v1/properties
 http://market.android.com/details?id=com.ibotta.android
 http://marlo.ext.tripadvisor.com
+http://mcp.intercom.com
 http://media.itsfogo.com/media/upload/mobile/android/apk/partycasino_com.apk
 http://member-qa.chime.com/enroll
 http://mgmtpod-1.production.forescoutcloud.net/oauth/token
@@ -4199,6 +4201,7 @@ https://api-a.usaa.com
 https://api-app.datadome.co/
 https://api-businessportal.origin.com.au
 https://api-ch-gva-2.exoscale.com/v2
+https://api-iam.intercom.io
 https://api-js.datadome.co
 https://api-payments-secure-prod.skippayments.com
 https://api-portal.originzero.com.au

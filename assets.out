@@ -592,12 +592,14 @@
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
+*.mobile-messenger.intercom.com
 *.mobilevikings.be
 *.mobilitygraph.hereapi.com
 *.mofos.com
 *.mona.co
 *.moneyback.com.hk
 *.monopoly-poker.com
+*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -721,6 +723,7 @@
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -1095,6 +1098,7 @@
 1023499075
 103.83.120.0/22
 1032480595
+1052238659
 1057338687
 107.167.96.0/19
 1076840480
@@ -3202,6 +3206,7 @@ cms.nba.com
 co.mona.android
 co.tide
 co.tide.tideplatform.in
+co.uk.getmondo
 coalition.nba.com
 coban.pixiv.net
 coda.grammarly.com
@@ -4084,6 +4089,7 @@ http://itunes.apple.com/us/app/ibotta/id559887125
 http://logstash-props.devicecloud.production.forescoutcloud.net/api/v1/properties
 http://market.android.com/details?id=com.ibotta.android
 http://marlo.ext.tripadvisor.com
+http://mcp.intercom.com
 http://media.itsfogo.com/media/upload/mobile/android/apk/partycasino_com.apk
 http://member-qa.chime.com/enroll
 http://mgmtpod-1.production.forescoutcloud.net/oauth/token
@@ -4193,6 +4199,7 @@ https://api-a.usaa.com
 https://api-app.datadome.co/
 https://api-businessportal.origin.com.au
 https://api-ch-gva-2.exoscale.com/v2
+https://api-iam.intercom.io
 https://api-js.datadome.co
 https://api-payments-secure-prod.skippayments.com
 https://api-portal.originzero.com.au
@@ -6992,6 +6999,7 @@ moneybird.com
 moneybirdstorage.com
 mongodb.live/*
 monitor.mozilla.org
+monzo.com
 moonpay.com
 mozilla-pontoon-staging.herokuapp.com
 mpa.ekyc.backoffice.m-pesa.com
@@ -8198,6 +8206,7 @@ www.mini.de
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
+www.monzo.com
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
