@@ -313,7 +313,6 @@
 *.epicgames.com
 *.epicgames.dev
 *.etsy.com
-*.eu.floqast.app
 *.europolitan.se
 *.exodus.com
 *.exodus.io
@@ -328,8 +327,6 @@
 *.fitbook.de
 *.flickr.com
 *.flipkey.com
-*.floqast.app
-*.floqast.engineering
 *.flowsecurity.app
 *.flugladen.de
 *.folioclient.com
@@ -2697,7 +2694,6 @@ api*.netflix.com
 api-*.soundcloud.com
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
-api-eu.floqast.app
 api-frontend.pab.porsche.com
 api-gateway.polygon.technology
 api-js.datadome.co
