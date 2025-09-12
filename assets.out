@@ -251,6 +251,7 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
+*.datacamp.com
 *.de.jbl.com
 *.deliciousbrains.com
 *.dell.com/*
@@ -644,10 +645,8 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
-*.ninjakiwi.me
 *.nitropack.io
 *.niumba.com
-*.nkstatic.com
 *.nmfn.com
 *.nml.com
 *.nnip.com
@@ -853,7 +852,6 @@
 *.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
-*.souparea.com
 *.spiketrap.io
 *.spinaway.com
 *.sportbild.de
@@ -2665,7 +2663,6 @@ airtable.js SDK (https://www.npmjs.com/package/airtable)
 akismet.com
 alert.logitech.com
 alertmanager.fr.cloud.gov
-alerts.ninjakiwi.com
 alexa.amazon.com
 alexaanswers.amazon.com
 alfred.syfe.com
@@ -2682,7 +2679,6 @@ amd.digitalocean.com
 amp.reddit.com
 analytics-*.8x8.com
 analytics.krisp.ai
-analytics.ninjakiwi.com
 analytics.pinelabs.com
 anext.com.sg
 antbank.hk
@@ -2808,7 +2804,6 @@ api.monespacesante.fr
 api.moonpay.com
 api.mtls.truelayer[-sandbox].com
 api.netlify.com
-api.ninjakiwi.com
 api.omise.co
 api.ort-one-pingone.com
 api.ovh.com
@@ -2886,6 +2881,9 @@ app.avtoelon.uz
 app.blueskytravelvietnam.com
 app.circle.com
 app.dashlane.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -2980,6 +2978,9 @@ as2.portofantwerp.com
 as2.portofantwerpbruges.com
 ask.khealth.com
 asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com 
+assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.spotify.com
@@ -3042,7 +3043,6 @@ bankaccountdata.gocardless.com
 basecamp.rivian.com
 basecamp3.exe
 basicattentiontoken.org
-battles.tv
 bb.visa.com
 bcny.com
 bd.visa.com
@@ -3104,7 +3104,6 @@ booking.cheapcaribbean.com
 booking.com
 booking.mjrtheatres.com
 bookingholdings-coe.com
-boomer2.ninjakiwi.com
 boost.vinci.com
 booth.pm
 bpost Parcel Lockers
@@ -3145,6 +3144,7 @@ caldav.larksuite.com
 calendar.infomaniak.com
 callbacks.airbnb.com
 cam.notebleue.pro
+campus.datacamp.com
 cancellation.prod.ps.welt.de
 candle-src.etoro.com
 candle.etoro.com
@@ -3352,6 +3352,7 @@ com.creditkarma.mobile
 com.creditkarma.mobile.international
 com.dashlane
 com.dashlane.dashlanephonefinal
+com.datacamp
 com.defi.wallet
 com.deribit
 com.dolap.android
@@ -3689,7 +3690,6 @@ cs.money
 csp-pci.prod.codebig2.net
 css-tricks.com
 ct.deriv.com
-ct.ninjakiwi.com
 ctf.hacker101.com
 custody.coinbase.com
 customer-academy.databricks.com
@@ -3724,7 +3724,6 @@ dashboard.privy.io
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
 data.mail.yahoo.com
-data.ninjakiwi.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 datapod-1-100-druid-ingest.testing.forescoutcloud.net
@@ -4022,7 +4021,6 @@ gravatar.com
 grok.com
 gt-cf.*.aws.indriverapp.com
 gt-gw-cf.*.aws.indriverapp.com
-guts.ninjakiwi.com
 gvt-cf.*.aws.indriverapp.com
 gw.api.dh.comcast.com
 h1-your-domain.zendesk.com
@@ -4396,6 +4394,7 @@ https://apps.apple.com/app/thefork-manager-neo/id1295795281
 https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
@@ -7117,8 +7116,6 @@ myhistory.porsche.com
 mynexuz.be
 mynexuz.be/myUZ/
 mynexuzhealth/id1459856321
-mynk-dash.ninjakiwi.com
-mynk.ninjakiwi.com
 myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
 mystics-dev.wnba.com
@@ -7214,8 +7211,6 @@ nft.io
 nha-cf.*.aws.indriverapp.com
 nha-gw-cf.*.aws.indriverapp.com
 niantic.kidswebservices.com
-ninja.kiwi
-ninjakiwi.com
 nl.gamma.app.android
 nl.gamma.verf
 nl.karwei.app.android
@@ -7438,6 +7433,7 @@ portswigger.net
 pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
 pr-gw-cf.*.aws.indriverapp.com
+practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -7480,6 +7476,7 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profiler.firefox.com
+projects.datacamp.com
 projects.nextcloud.com
 prometheus.fr.cloud.gov
 promos.tvg.com
@@ -7517,7 +7514,6 @@ qwantjunior.com
 r.etoro.com
 ra-cf.*.aws.indriverapp.com
 ra-gw-cf.*.aws.indriverapp.com
-rancher.ninjakiwi.me
 random.uzleuven.be/random/
 rankings.etoro.com
 raptor*.bykea.net
@@ -8157,6 +8153,8 @@ www.currencycloud.com
 www.cybersource.com
 www.dashlane.com
 www.data.gov
+www.datacamp.com
+www.datacamp.com/datalab
 www.datastax.com
 www.ddfcontent.com
 www.deezer.com
