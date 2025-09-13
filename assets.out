@@ -768,7 +768,10 @@
 *.rentalcars.com
 *.reposify.com
 *.restintergamma.nl
+*.rhinternal.net
 *.ripe.net
+*.robinhood.com
+*.robinhood.net
 *.roblox.com
 *.rocketleague.com
 *.rockstargames.com
@@ -1198,6 +1201,7 @@
 1592204907
 1604650263
 1632202810
+1634080733
 1641486558
 1659883691
 167.187.0.0/16
@@ -1465,6 +1469,7 @@
 6450553960
 6452192521
 645949180
+6462308655
 6464473474
 6467634418
 6471528064
@@ -1501,6 +1506,7 @@
 926252661
 930441707
 936983378
+938003185
 94.107.237.192/26
 943905271
 944011620
@@ -3502,6 +3508,9 @@ com.ringapp
 com.ripio.android
 com.ripio.ios
 com.rivian.android.consumer
+com.robinhood.android
+com.robinhood.gateway
+com.robinhood.money
 com.romwe
 com.scopely.monopolygo
 com.scopely.startrek
