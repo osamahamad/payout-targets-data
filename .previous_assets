@@ -1163,12 +1163,21 @@
 1454725763
 1456293789
 146.109.1.0/24
+146.109.140.0/24
+146.109.141.0/24
+146.109.142.0/24
+146.109.143.0/24
+146.109.148.0/24
+146.109.149.0/24
+146.109.150.0/24
 146.109.2.0/24
 146.109.3.0/24
 146.109.4.0/24
 146.109.64.0/24
 146.109.65.0/24
 146.109.66.0/24
+146.109.67.0/24
+146.109.68.0/24
 146.109.8.0/21
 146.109.8.0/22
 1474700 (Steam app id)
@@ -2892,6 +2901,7 @@ apis.mail.yahoo.com
 apis.onecloud.harman.com
 apix.vodafone.om
 app*.hubspot.com
+app-*.easy4ipcloud.com
 app.Reclaim.ai
 app.aikido.dev
 app.alasco.de
@@ -4377,6 +4387,7 @@ https://app.bitrise.io/app/5bec038cb1e318cd/build/0e56ea84-4683-4ef6-8d3e-60eb0a
 https://app.bitrise.io/app/5bec038cb1e318cd/build/e071d2ed-1b34-41d7-88ac-78d683fce9c7/artifact/4edf32abe1b497ea/p/2f6cacc3a3ca02df5fc194248bfb15b7
 https://app.chime.com
 https://app.datadome.co
+https://app.easy4ipcloud.com
 https://app.ecwid.com/api/v3/	
 https://app.getflywheel.com
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
@@ -5196,6 +5207,7 @@ https://gitlab.com/gitlab-org/gitlab-shell
 https://gitlab.com/gitlab-org/gitlab-vscode-extension
 https://gitlab.com/gitlab-org/opstrace/opstrace
 https://global-payments-web.payments.pmt-1.eu-west-1.production.jet-external.com
+https://glow.imoulife.com
 https://go.elementor.com/
 https://gomastercard.com.au
 https://google-reserve-api.thefork.io
@@ -5220,6 +5232,7 @@ https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows
 https://help.okta.com/en/prod/Content/Topics/Settings/download-browser-plugin.htm
 https://help.supplier.viator.com/en
 https://help.twilio.com
+https://hg.easy4ipcloud.com
 https://hipaa.staging.gearset.com/
 https://home.classdojo.com
 https://home.xfinity.com
@@ -5234,6 +5247,7 @@ https://i18n.api.just-eat.io
 https://icu.eu-west-2.outscale.com
 https://id.atlassian.com/login
 https://id.unity.com
+https://identite-sandbox.proconnect.gouv.fr
 https://identity.bugcrowd.com/
 https://identity.majidalfuttaim.com
 https://identity.monash.edu
@@ -5817,6 +5831,7 @@ https://partner-feeds.20min.ch
 https://partner.apps.monash.edu
 https://partner.myopenpass.com
 https://partner.thetradedesk.com
+https://partnerapi.imoulife.com
 https://partnerapi.tapayments.com
 https://partnerapi1.tapayments.com
 https://partnerapi2.tapayments.com
@@ -6436,6 +6451,7 @@ https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&t
 https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
 https://www.decathlon.(be|ch|es|fr|hu|pl|pt|ro|cz|com.tr)/
 https://www.decathlon.(co.uk|it|nl|de)/
+https://www.decathlon.(co.uk|it|nl|de|pt|es)/
 https://www.demarches-simplifiees.fr
 https://www.demarches-simplifiees.fr/api/v2/graphql
 https://www.demarches-simplifiees.fr/graphql
@@ -6475,6 +6491,7 @@ https://www.iciparisxl.lu/blog/
 https://www.iciparisxl.nl/blog/
 https://www.ifood.com.br
 https://www.illamasqua.com/
+https://www.imou.com
 https://www.intercom.com/
 https://www.irobot.at/
 https://www.irobot.be/

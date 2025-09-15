@@ -74,12 +74,13 @@ Applications/Extensions under https://www.cyberghostvpn.com/download
 https://pprd.cybermalveillance.gouv.fr
 Core Product
 https://www.decathlon.(be|ch|es|fr|hu|pl|pt|ro|cz|com.tr)/
-https://www.decathlon.(co.uk|it|nl|de)/
+https://www.decathlon.(co.uk|it|nl|de|pt|es)/
 https://www.demarches-simplifiees.fr
 https://www.demarches-simplifiees.fr/graphql
 https://www.demarches-simplifiees.fr/api/v2/graphql
 https://static.demarches-simplifiees.fr
 DS proxy (see https://github.com/demarches-simplifiees/ds_proxy)
+https://identite-sandbox.proconnect.gouv.fr
 https://www.tchap.gouv.fr
 https://matrix.agent.tchap.gouv.fr
 https://github.com/tchapgouv
@@ -248,6 +249,11 @@ https://apps.apple.com/fr/app/jbl-one/id1610239857
 https://play.google.com/store/apps/details?id=com.jbl.oneapp&hl=fr&gl=US
 https://tms.onecloud.harman.com
 https://quantum-events.onecloud.harman.com
+https://app.easy4ipcloud.com
+https://partnerapi.imoulife.com
+https://www.imou.com
+https://glow.imoulife.com
+https://hg.easy4ipcloud.com
 ksuite.infomaniak.com
 api.infomaniak.com
 login.infomaniak.com

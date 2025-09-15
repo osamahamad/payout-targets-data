@@ -586,6 +586,7 @@
 *.mona.co
 *.moneyback.com.hk
 *.monopoly-poker.com
+*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -707,6 +708,7 @@
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -1066,6 +1068,7 @@ api*.hubspot.com
 api*.netflix.com
 api-*.soundcloud.com
 app*.hubspot.com
+app-*.easy4ipcloud.com
 as-cf.*.aws.indriverapp.com
 as-gw-cf.*.aws.indriverapp.com
 ath-cf.*.aws.indriverapp.com

@@ -608,6 +608,7 @@
 *.mona.co
 *.moneyback.com.hk
 *.monopoly-poker.com
+*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -729,6 +730,7 @@
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -1094,7 +1096,6 @@
 0x7c31560552170ce96c4a7b018e93cddc19dc61b6
 0xfbfa258b9028c7d4fc52ce28031469214d10daeb
 1.1.1.1 Resolver
-10.0.0.0/8
 1005070636
 1013961111
 1018340690
@@ -1102,6 +1103,7 @@
 1023499075
 103.83.120.0/22
 1032480595
+1052238659
 1057338687
 107.167.96.0/19
 1076840480
@@ -1112,6 +1114,8 @@
 1091010942
 10x.redoxengine.com
 1101145849
+1114799709
+1114800186
 1116488672
 1118448159
 1127881507
@@ -1151,12 +1155,21 @@
 1454725763
 1456293789
 146.109.1.0/24
+146.109.140.0/24
+146.109.141.0/24
+146.109.142.0/24
+146.109.143.0/24
+146.109.148.0/24
+146.109.149.0/24
+146.109.150.0/24
 146.109.2.0/24
 146.109.3.0/24
 146.109.4.0/24
 146.109.64.0/24
 146.109.65.0/24
 146.109.66.0/24
+146.109.67.0/24
+146.109.68.0/24
 146.109.8.0/21
 146.109.8.0/22
 1474700 (Steam app id)
@@ -1782,7 +1795,6 @@ CoinMarketCap iOS app
 Coinbase WaaS (Wallet as a Service)
 ColdFusion
 ColorOS
-CometBFT
 Community Management & Communications
 Compass
 Content Authorization Targets
@@ -1794,8 +1806,6 @@ Copilot for Business
 Core Assets
 Core Product
 Corporate Assets
-CosmWasm
-Cosmos SDK
 CounterAct 8.4
 CrowdStrike public infrastructure
 Crowdsignal
@@ -2000,14 +2010,11 @@ Harmony Remote Software
 Harmony Remotes
 HelloFax.com
 HelloSign.com
-Hermes Relayer
-Horcrux
 HubSpot Android Mobile App
 HubSpot Sales Office 365 add-in
 HubSpot iOS Mobile App
 Hyperdrive
 HyprUnlock.exe
-IBC Go Relayer
 ICIParisXL.App.Android
 ICIParisXL.App.IOS
 IT Infrastructure
@@ -2233,7 +2240,6 @@ PIA VPN servers
 PNS.HongKong.Android
 PNS.HongKong.iOS
 PTaaS Reference
-Packet Forward Middleware
 Passkey Wallet
 Password Sync for macOS
 PayPal SDK
@@ -2342,7 +2348,6 @@ Software
 Software Supply Chain
 Software: Mali GPU Kernel Driver
 Solarbank 2 E1600 Pro
-Solidity IBC Eureka
 Sonantic
 Sophos Firewall (XG/XGS, SFOS) - Pre-auth RCE
 Sophos IT Infrastructure (all other Sophos domains)
@@ -2833,6 +2838,7 @@ api.slack.com
 api.smtp2go.com
 api.sokos.fi
 api.sorare.com
+api.soundtrackyourbrand.com
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -2874,6 +2880,7 @@ apis.mail.yahoo.com
 apis.onecloud.harman.com
 apix.vodafone.om
 app*.hubspot.com
+app-*.easy4ipcloud.com
 app.Reclaim.ai
 app.aikido.dev
 app.alasco.de
@@ -3063,6 +3070,7 @@ bgpview.io
 bigcommerce-adapter.judge.me
 bild.de
 billing-pci.etoro.com
+billing.api.soundtrackyourbrand.com
 billing.etoro.com
 billingsupport.chaturbate.com
 bioid-management.app
@@ -3118,6 +3126,7 @@ bugcrowd-pam-###.pam.oktapreview.com
 bugzilla.mozilla.org
 builder.hostinger.com
 building-blocks.com
+builds.soundtrackyourbrand.com
 bullsheet.me
 business-resources.truecaller.com
 business.kayak.com
@@ -3127,6 +3136,7 @@ business.kinepolis.nl
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
+business.soundtrackyourbrand.com
 business.tiktok.com
 business.truecaller.com
 businesshelp.snapchat.com
@@ -3229,6 +3239,7 @@ co-in-gw-cf.*.aws.indriverapp.com
 co.mona.android
 co.tide
 co.tide.tideplatform.in
+co.uk.getmondo
 coaching.supernovas.indrive.com
 coalition.nba.com
 coban.pixiv.net
@@ -3517,6 +3528,7 @@ com.skypicker.Skypicker
 com.skypicker.main
 com.slack.slackmdm
 com.snapchat.android
+com.soundtrackyourbrand.soundtrack.player
 com.spotify.client
 com.spotify.kids
 com.spotify.lite
@@ -4347,6 +4359,7 @@ https://app.bitrise.io/app/5bec038cb1e318cd/build/0e56ea84-4683-4ef6-8d3e-60eb0a
 https://app.bitrise.io/app/5bec038cb1e318cd/build/e071d2ed-1b34-41d7-88ac-78d683fce9c7/artifact/4edf32abe1b497ea/p/2f6cacc3a3ca02df5fc194248bfb15b7
 https://app.chime.com
 https://app.datadome.co
+https://app.easy4ipcloud.com
 https://app.ecwid.com/api/v3/	
 https://app.getflywheel.com
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
@@ -4535,6 +4548,7 @@ https://audience-builder.vistarmedia.com
 https://audio.20min.ch/
 https://aus.api.just-eat.io/
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
+https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.immutable.com
@@ -4606,6 +4620,7 @@ https://bugcrowd.hotdoc.com.au
 https://bugcrowd.hotdoc.com.au/api
 https://bugcrowd.hotdoc.com.au/dashboard
 https://bugs.opera.com/
+https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
@@ -4930,10 +4945,6 @@ https://github.com/cmdotcom
 https://github.com/coinbase/cb-mpc
 https://github.com/contentauth/c2pa-js
 https://github.com/contentauth/c2pa-rs
-https://github.com/cosmos/gaia
-https://github.com/cosmos/iavl
-https://github.com/cosmos/ics23
-https://github.com/cosmos/ledger-cosmos
 https://github.com/curl/curl
 https://github.com/digitalocean/do-agent
 https://github.com/digitalocean/do-markdownit
@@ -4981,9 +4992,6 @@ https://github.com/hyperledger/fabric-sdk-node
 https://github.com/hyperledger/fabric-sdk-py
 https://github.com/immutable/ts-immutable-sdk/tree/main/packages/passport/
 https://github.com/innocraft/
-https://github.com/iqlusioninc/crates/tree/main/signatory
-https://github.com/iqlusioninc/tmkms
-https://github.com/iqlusioninc/yubihsm.rs
 https://github.com/jitsi
 https://github.com/justeattakeaway
 https://github.com/kiwicom/*
@@ -5136,7 +5144,6 @@ https://github.com/ruby
 https://github.com/ruby/ruby
 https://github.com/rubygems/rubygems
 https://github.com/rust-lang/rust
-https://github.com/skip-mev/go-fast-contracts
 https://github.com/slackhq/nebula
 https://github.com/smartcontractkit/chainlink
 https://github.com/smartcontractkit/chainlink-evm/tree/develop/contracts
@@ -5163,6 +5170,7 @@ https://gitlab.com/gitlab-org/gitlab-shell
 https://gitlab.com/gitlab-org/gitlab-vscode-extension
 https://gitlab.com/gitlab-org/opstrace/opstrace
 https://global-payments-web.payments.pmt-1.eu-west-1.production.jet-external.com
+https://glow.imoulife.com
 https://go.elementor.com/
 https://gomastercard.com.au
 https://google-reserve-api.thefork.io
@@ -5187,6 +5195,7 @@ https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows
 https://help.okta.com/en/prod/Content/Topics/Settings/download-browser-plugin.htm
 https://help.supplier.viator.com/en
 https://help.twilio.com
+https://hg.easy4ipcloud.com
 https://hipaa.staging.gearset.com/
 https://home.classdojo.com
 https://home.xfinity.com
@@ -5201,6 +5210,7 @@ https://i18n.api.just-eat.io
 https://icu.eu-west-2.outscale.com
 https://id.atlassian.com/login
 https://id.unity.com
+https://identite-sandbox.proconnect.gouv.fr
 https://identity.bugcrowd.com/
 https://identity.majidalfuttaim.com
 https://identity.monash.edu
@@ -5784,6 +5794,7 @@ https://partner-feeds.20min.ch
 https://partner.apps.monash.edu
 https://partner.myopenpass.com
 https://partner.thetradedesk.com
+https://partnerapi.imoulife.com
 https://partnerapi.tapayments.com
 https://partnerapi1.tapayments.com
 https://partnerapi2.tapayments.com
@@ -6011,6 +6022,7 @@ https://prozentoomat.toom.de
 https://pt-runner.app.ridewithvia.com
 https://pyszne.pl
 https://quantum-events.onecloud.harman.com
+https://radio.api.soundtrackyourbrand.com/
 https://rc.fstr.rocks
 https://rec.net/
 https://rec.net/download
@@ -6401,7 +6413,7 @@ https://www.cyberghostvpn.com/en_US/apps/windows-vpn
 https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&target=launcher_macosx
 https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
 https://www.decathlon.(be|ch|es|fr|hu|pl|pt|ro|cz|com.tr)/
-https://www.decathlon.(co.uk|it|nl|de)/
+https://www.decathlon.(co.uk|it|nl|de|pt|es)/
 https://www.demarches-simplifiees.fr
 https://www.demarches-simplifiees.fr/api/v2/graphql
 https://www.demarches-simplifiees.fr/graphql
@@ -6440,6 +6452,7 @@ https://www.iciparisxl.lu/blog/
 https://www.iciparisxl.nl/blog/
 https://www.ifood.com.br
 https://www.illamasqua.com/
+https://www.imou.com
 https://www.intercom.com/
 https://www.irobot.at/
 https://www.irobot.be/
@@ -6585,6 +6598,7 @@ https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
 https://www.sophos.com/en-us/products/mobile-control/free-trial
 https://www.sophos.com/en-us/products/next-gen-firewall
+https://www.soundtrackyourbrand.com
 https://www.sourcetreeapp.com/
 https://www.staples.com/services/printing
 https://www.staples.com/services/printing/oms/basket
@@ -6684,7 +6698,6 @@ iRobot Romoba™ 705
 ia.tvg.com
 iam.atg.se
 iat.it.xvservice.net
-ibc-go
 ichnaea.netflix.com
 icl-cf.*.aws.indriverapp.com
 id.avtoelon.uz
@@ -6920,6 +6933,7 @@ m.kolesa.kz
 m.krisha.kz
 m.reddit.com
 m.trendyol.com
+macOS app
 magento.com
 magiceden.io
 magisto.com,www.magisto.com
@@ -7054,6 +7068,7 @@ moneybird.com
 moneybirdstorage.com
 mongodb.live/*
 monitor.mozilla.org
+monzo.com
 moonpay.com
 movie.indrive.com
 movieapi.kinepolis.megatix.be
@@ -8315,6 +8330,7 @@ www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
+www.monzo.com
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
