@@ -357,6 +357,7 @@
 *.gitlap.com
 *.glassdoor.com/*
 *.global-liquidity.gs.com
+*.go-pay.co.id
 *.gocardless-cicd.io
 *.gocardless-lab.io
 *.gocardless-staging.io
@@ -2761,6 +2762,7 @@ api.fr.cloud.gov
 api.gamma.redoxstage.com
 api.geneva-staging.com
 api.github.com
+api.gojek.co.id
 api.grabpay.com
 api.greenhouse.io
 api.grofers.com
@@ -3988,6 +3990,7 @@ go.geneva-staging.com
 go.welt.de
 goldmansachsindices.com
 googleplace*.bykea.net
+gopaymerchant.midtrans.com
 gql.reddit.com
 grab.careers
 grae.nba.com
@@ -7024,6 +7027,7 @@ mobileapi.lystit.com
 mobileapp.hyatt.com
 mobilevikings.be
 mod.reddit.com
+mokapos.com
 moments.marriottbonvoy.com
 moneybird.com
 moneybirdstorage.com
