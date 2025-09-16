@@ -960,6 +960,7 @@ Any public (Internet-facing) infrastructure owned and operated by Palantir.
 Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
 .NET Driver
 All Evergreen Assets (Excluding staging)
+BI Connector
 C Driver
 C# Driver
 C++ Driver
@@ -969,7 +970,6 @@ Enterprise Edition Products and Tools
 GO Driver
 Java Driver
 Kafka Connector
-MongoDB BI Connector
 MongoDB Community Server Local Instance
 MongoDB Owned GitHub Repositories
 MongoDB Realm SDKs
