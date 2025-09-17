@@ -73,6 +73,8 @@
 *.airbnbcitizen.com
 *.alasco.de
 *.alasco.rocks
+*.algolia.net
+*.algolianet.com
 *.alipayplus.com
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
@@ -3746,6 +3748,7 @@ dash.ai
 dash.cloudflare.com
 dash.dropbox.com
 dashboard-beta.fr.cloud.gov
+dashboard.algolia.com
 dashboard.doppler.com
 dashboard.fr.cloud.gov
 dashboard.gamma.redoxstage.com
@@ -8157,6 +8160,7 @@ www.abritel.fr
 www.ad.nl
 www.ad.nl/abonnementen
 www.airbnb.com
+www.algolia.com
 www.am.monespacesante.fr
 www.amazon.*
 www.amazon.com/photos/*
