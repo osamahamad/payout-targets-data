@@ -87,6 +87,10 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.dev.*.lfscnp.com
 *.sandbox.*.lfscnp.com
 *.-np.*.lfscnp.com
+*.linktree-extensions.com
+*.plannthat.com
+*.linktree-extensions.com
+*.plannthat.com
 *.lululemon.com
 bugcrowd-*your-own-instance*.cloud.mattermost.com/
 *.gp.monash.edu
@@ -123,7 +127,6 @@ prod-*.nu.com.co
 *.api.originenergy.com.au
 *.download.originenergy.com.au
 *.pinterest.com Web Apps
-*.pinterest.com Web Apps
 *.points.com
 *.quizlet.com
 *.rapyd.net
@@ -153,10 +156,6 @@ prod-*.nu.com.co
 *.certsynonprod.com
 *.skyscanner.net
 3rd party services hosted at *.sophos.com
-*.soundcloud.org
-*.s-cloud.net
-*.services.repostnetwork.com
-api-*.soundcloud.com
 *.square.com
 *.squareup.com
 *.statuspage.io

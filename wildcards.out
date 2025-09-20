@@ -496,6 +496,7 @@
 *.line.naver.jp
 *.linecorp.com
 *.link.co
+*.linktree-extensions.com
 *.livestream.com
 *.localwp.com
 *.logi.com
@@ -692,6 +693,7 @@
 *.piaservers.com
 *.piaservers.net
 *.pinterest.com Web Apps
+*.plannthat.com
 *.platformservices.io
 *.playstation.net
 *.playticorp.com
@@ -757,7 +759,6 @@
 *.romwe.com
 *.router.hereapi.com
 *.runnr.in
-*.s-cloud.net
 *.saltlabs.com
 *.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
@@ -794,7 +795,6 @@
 *.seriously.com
 *.services-prod.nsvcs.net
 *.services.netlify.com
-*.services.repostnetwork.com
 *.shein.com
 *.sheingsp.com
 *.shopify.com
@@ -832,7 +832,6 @@
 *.sol-data.com
 *.solarcity.com
 *.sonyentertainmentnetwork.com
-*.soundcloud.org
 *.souparea.com
 *.spiketrap.io
 *.spinaway.com
@@ -1068,7 +1067,6 @@ analytics-*.8x8.com
 api*.hubapi.com
 api*.hubspot.com
 api*.netflix.com
-api-*.soundcloud.com
 app*.hubspot.com
 app-*.easy4ipcloud.com
 as-cf.*.aws.indriverapp.com
