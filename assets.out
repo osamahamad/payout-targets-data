@@ -1972,11 +1972,6 @@ GitLab for Jira Cloud
 Github findings
 GlotPress
 Google Cloud Plateform Instances
-Grafana Loki
-Grafana Mimir
-Grafana OSS
-Grafana Pyroscope
-Grafana Tempo
 Grammarly AI Assistant
 Grammarly Auth Services
 Grammarly Business Features
@@ -2172,7 +2167,6 @@ Nintendo Switch applications for which Nintendo is the publisher worldwide
 Node.js Driver
 Non Altera Products
 Non-Core Assets
-Non-Core Grafana Plugins
 NordPass - Linux Executable
 NordPass - MacOS Executable
 NordPass - Windows Executable
@@ -4238,7 +4232,6 @@ https://api-user.e2ro.com/*
 https://api-{app-id}.calls.sendbird.com
 https://api-{app-id}.notifications.sendbird.com
 https://api-{app-id}.sendbird.com
-https://api.20min.ch/
 https://api.aiven.io/login
 https://api.anytask.com/
 https://api.anytask.thesecurityteam.rocks
@@ -4522,7 +4515,6 @@ https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://atlantis-ext.myopenpass.com
 https://atlassian.thetradedesk.com
 https://audience-builder.vistarmedia.com
-https://audio.20min.ch/
 https://aus.api.just-eat.io/
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
@@ -4671,7 +4663,6 @@ https://content-server.ibotta.com/graphql
 https://content.agora.beta.gouv.fr
 https://content.usaa.com
 https://contentcredentials.org/
-https://coral.20min.ch/
 https://core-prod.uidapi.com
 https://cp.expressapisv2.net
 https://create.gx.games
@@ -4930,7 +4921,6 @@ https://github.com/expressvpn/lightway-core
 https://github.com/freedomofpress/securedrop
 https://github.com/freedomofpress/securedrop-client
 https://github.com/freedomofpress/securedrop-workstation
-https://github.com/grafana/*
 https://github.com/gsa/data.gov
 https://github.com/gsa/datagov-deploy
 https://github.com/hyperledger/besu
@@ -5759,7 +5749,6 @@ https://pab.donneesquebec.ca/
 https://packages.cortexpowered.com
 https://paddle.net
 https://parcelhubeurope.com
-https://partner-feeds.20min.ch
 https://partner.apps.monash.edu
 https://partner.myopenpass.com
 https://partner.thetradedesk.com
@@ -6026,7 +6015,6 @@ https://sandbox.directly.com/dashboard/index
 https://sandbox.open-xchange.com
 https://scalews.withings.com
 https://scoober.com
-https://screenplayer.20min.ch
 https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secure-iphone-xml.booking.com/json/
 https://secure-signals-jssdk-integ.uidapi.com
@@ -6278,7 +6266,6 @@ https://vfseu.mioot.com/
 https://vfsforms.mioot.com/forms/IFAL/
 https://viatorapi.viator.com/service/directory
 https://vidaxlforwarding.com
-https://videoplayer.20min.ch
 https://vlagg.usaa.com
 https://vlapi.usaa.com
 https://vpe-us.underarmour.com/
@@ -6314,7 +6301,6 @@ https://ws.usaa.com
 https://wsloja.ifood.com.br
 https://wsmbr.usaa.com/
 https://www.*mongodb.com/*
-https://www.20min.ch
 https://www.32red.com/
 https://www.adsrvr.org
 https://www.allsaints.me/
@@ -6365,6 +6351,7 @@ https://www.chipotle.co.uk
 https://www.chipotle.com
 https://www.classdojo.com
 https://www.cloudvector.com/
+https://www.coindesk.com/
 https://www.coinspot.com.au/v2/api
 https://www.contadigital.ifoodpago.com.br/
 https://www.coral.co.uk
