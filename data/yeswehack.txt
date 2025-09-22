@@ -73,8 +73,10 @@ https://www.cyberghostvpn.com/en_US/apps/macos-vpn
 Applications/Extensions under https://www.cyberghostvpn.com/download
 https://pprd.cybermalveillance.gouv.fr
 Core Product
-https://www.decathlon.(be|ch|es|fr|hu|pl|pt|ro|cz|com.tr)/
-https://www.decathlon.(co.uk|it|nl|de|pt|es)/
+https://www.decathlon.(ch|fr|hu|pl|ro|cz|com.tr)/
+https://www.decathlon.(co.uk|it|nl|de|pt|es|be)/
+https://login.decathlon.net/*
+https://account.decathlon.com/*
 https://www.demarches-simplifiees.fr
 https://www.demarches-simplifiees.fr/graphql
 https://www.demarches-simplifiees.fr/api/v2/graphql
