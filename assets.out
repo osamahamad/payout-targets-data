@@ -1649,6 +1649,7 @@ Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure o
 Any public cloud resource or infrastructure operated and managed by REI.
 Any publicly accessible Tripadvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
 Any related DPG media domain
+Any related Torfs domain
 Any resource created or accessed with the Outscale Cloud on eu-west-2 region -  created by the Hunter
 Any subdomain application issue
 Any subdomain infrastructure issue
@@ -1693,6 +1694,7 @@ Audition
 BBPress Core
 BI Connector
 Backend endpoint: bug-bounty-be.glean.com
+Backend/Non-Game
 Backstage source code
 Basecamp.app
 Beats
@@ -1871,6 +1873,7 @@ Elastic Maps Server
 Elastic Package Registry
 Elastic Synthetics Monitoring
 Elasticsearch
+Elvenar
 Engadget
 Enjin - Ethereum ERC-1155 Contract
 Enjin Blockchain
@@ -1921,6 +1924,7 @@ Firmware: Mali Command Stream Frontend (CSF) Firmware
 Fleet Server
 Flex - Xfinity hardware and services
 Forge Platform
+Forge of Empires
 FortniteClient-Android-Shipping-arm64-es2.apk
 FortniteClient-Win64-Shipping.exe
 FortniteLauncher-Win64-Shipping.exe
@@ -1982,6 +1986,7 @@ Grammarly Desktop for Windows
 Grammarly Desktop for macOS
 Grammarly for Microsoft Word
 GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)
+Grepolis
 Gutenberg
 H5G
 HEY.app
@@ -2440,6 +2445,7 @@ Trello Desktop Client
 Trello Mobile App for Android
 Trello Mobile App for iOS
 Trello Third Party Powerups
+Tribal Wars
 TrueLayer for Magento (Magento plugin)
 TrueLayer for WooCommerce (WordPress plugin)
 TrustedVPN 100,000 Bonus Award (See Program Policy for Info)
@@ -8061,6 +8067,7 @@ winecellar.zomato.com
 wings-dev.wnba.com
 wings-qa.wnba.com
 wings.wnba.com
+winkels.torfs.be
 winter.tomorrowland.com
 winterpackages.tomorrowland.com
 wlr-cf.*.aws.indriverapp.com
@@ -8360,8 +8367,11 @@ www.rockstargames.com
 www.s-kaupat.fi
 www.s-pankki.fi
 www.sa.dyson.com
+www.samenfittorfs.be
 www.sbb.ch
 www.sbbcargo.com
+www.schoenentorfs.be
+www.schoenentorfs.nl 
 www.sheer.com
 www.six-group.com
 www.socialdeal.nl
@@ -8391,6 +8401,8 @@ www.theperfumeshop.com
 www.tink.com
 www.tomorrowland.com
 www.topperpay.com
+www.torfs.be
+www.torfs.nl
 www.trajeoh.com
 www.transsicura.ch
 www.travelocity.ca
