@@ -1,5 +1,7 @@
  *.rivian.com
+ *.sip.*.twilio.com
  *.test.*.lfscnp.com
+ Twilio CDNs (static*.twilio.com)
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *-api-*.acronis.com
 *-cvr-aws-*.sys.comcast.net
