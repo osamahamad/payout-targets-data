@@ -3,8 +3,6 @@
 *.central.arubanetworks.com
 *.app.asana.com
 *.asana.biz
-*.app.asana.com
-*.asana.biz
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 *.atlastunnel.com
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
@@ -61,6 +59,7 @@ casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 *.emakina.at
 open redirect at *.epam.com
 Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
+*.etsy.com
 *.certinia.com
 *.kiln.it
 *.movilepay.com
@@ -153,6 +152,14 @@ prod-*.nu.com.co
 *.aips-internal.com
 *.certsy.com
 *.certsynonprod.com
+*.prd.cam.simplisafe.com (HSP Endpoints)
+*.prd.platform.simplisafe.com (HSP Endpoints)
+*.prd.services.simplisafe.com (HSP Endpoints)
+*.prd.aser.simplisafe.com
+*.prd.webapps.simplisafe.com
+*.prd.services.simplisafe.com (App Endpoints)
+*.prd.platform.simplisafe.com (App Endpoints)
+*.prd.cam.simplisafe.com (App Endpoints)
 *.skyscanner.net
 3rd party services hosted at *.sophos.com
 *.soundcloud.org

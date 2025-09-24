@@ -736,8 +736,16 @@
 *.portofantwerpbruges.com
 *.ppbdev.com
 *.prd-pub.mobilevikings.be
+*.prd.aser.simplisafe.com
+*.prd.cam.simplisafe.com (App Endpoints)
+*.prd.cam.simplisafe.com (HSP Endpoints)
 *.prd.fndlsb.net
 *.prd.mobilevikings.be
+*.prd.platform.simplisafe.com (App Endpoints)
+*.prd.platform.simplisafe.com (HSP Endpoints)
+*.prd.services.simplisafe.com (App Endpoints)
+*.prd.services.simplisafe.com (HSP Endpoints)
+*.prd.webapps.simplisafe.com
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
@@ -2851,6 +2859,7 @@ api.portal.enterprise.uphold.com
 api.portofantwerp.com
 api.portofantwerpbruges.com
 api.ppa.porsche.com
+api.prd.commerce.simplisafe.com
 api.preprod.monespacesante.fr
 api.privateinternetaccess.com
 api.prod.whoop.com
@@ -2863,6 +2872,10 @@ api.reddit.com
 api.remitly.io
 api.s-kaupat.fi
 api.sandbox.topperpay.com
+api.services.simplisafe.com (App Endpoints)
+api.services.simplisafe.com (HSP Endpoints)
+api.simplisafe.com (App Endpoints)
+api.simplisafe.com (HSP Endpoints)
 api.slack.com
 api.smtp2go.com
 api.sokos.fi
@@ -4547,6 +4560,7 @@ https://apps.apple.com/us/app/quip-docs-chat-sheets/id647922896
 https://apps.apple.com/us/app/roomba-home/id6504274697
 https://apps.apple.com/us/app/salt-work-and-get-rewarded/id1668462142
 https://apps.apple.com/us/app/share-rewards/id1465450657
+https://apps.apple.com/us/app/simplisafe-home-security-app/id555798051
 https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
 https://apps.apple.com/us/app/syncup-drive/id1576574297
@@ -4611,6 +4625,8 @@ https://baby.zola.com/
 https://backblaze.com
 https://backend.ibotta.com/
 https://base.org
+https://bb1.simplisafe.com
+https://bb2.simplisafe.com
 https://beta.arlo.com
 https://billing.ring.com/*
 https://billingonline.post.ch/OnlinePayment/Web/v1/BOI
@@ -4677,6 +4693,7 @@ https://casino.bwin.com
 https://casino.partycasino.com
 https://casino.sportingbet.com
 https://catering.chipotle.com
+https://cb.simplisafe.com
 https://cdn-app.welcomesoftware.com/
 https://cdn-pci.optimizely.com/
 https://cdn-store.opera-api.com
@@ -6029,6 +6046,7 @@ https://play.google.com/store/search?q=Schweizer+Finanzmuseum&c=apps
 https://play.google.com/store/search?q=chipotle+mexican+grill&c=apps
 https://play.google.com/store/search?q=mattermost&c=apps
 https://play.google.com/store/search?q=plann&c=apps
+https://play.google.com/store/search?q=simplisafe&c=apps
 https://play.immutable.com
 https://playlist.link
 https://plmcixt.pinelabs.com/
@@ -6150,6 +6168,8 @@ https://sign.originzero.com.au
 https://signin-hackerone.hbstaging.website/
 https://signup.sendgrid.com/
 https://simnext.bullish-test.com
+https://simplisafe.co.uk
+https://simplisafe.com
 https://skippayments.com
 https://skipthedishes.com
 https://sks-ch-gva-2.exo.io
@@ -6381,6 +6401,8 @@ https://web-retailer-portal.ultramobile.com
 https://web.bitpanda.com
 https://web.teamviewer.com
 https://web3.sdx.com
+https://webapp.simplisafe.co.uk
+https://webapp.simplisafe.com
 https://webmail.optusnet.com.au/
 https://webmail.usaa.com
 https://webrtc.8x8.com/
@@ -7057,6 +7079,7 @@ media.marionnaud.fr
 media.marionnaud.it
 media.nexuzhealth.be/patient/ 
 media.remitly.io
+media.simplisafe.com
 media.superdrug.com
 media.theperfumeshop.com
 mediacenter.23andme.com
@@ -7100,6 +7123,7 @@ metamask.io
 metasearch-api.booking.com
 metrics.int.remitly.com
 meu1.badoo.com
+mfa.simplisafe.com
 mgm.mobilevikings.be
 mgmt-sensors.iris.acceptance.forescoutcloud.net
 mgmt-sensors.iris.production.forescoutcloud.net
