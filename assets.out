@@ -14,7 +14,6 @@
  https://github.com/0xPolygon/proof-generation-api
  idp-contact.nexuzhealth.be
  login-test.portofantwerpbruges.com/
- mix.monash.edu 
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 (se|fi|uk).bingo.com
 * hln.be/inloggen
@@ -377,7 +376,6 @@
 *.gopayapi.com
 *.gotinder.com
 *.governorofpoker.com
-*.gp.monash.edu
 *.grab-sure.com
 *.grab.co
 *.grab.com
@@ -3839,7 +3837,6 @@ e-Commerce
 eIDAS Bridge  (see program description for github link)
 eaccounting.stage.vismaonline.com
 eaccountingprinting.stage.vismaonline.com
-eassessment.monash.edu
 ebctest.cybersource.com
 ebsext.oft.hyatt.com
 ecc.porsche.com
@@ -4088,7 +4085,6 @@ http://api.lightspark.com
 http://app-qa.chime.com/users/sign_in
 http://app.lightspark.com
 http://app.scaleft.com/
-http://apps.connect.monash.edu/
 http://artists.soundcloud.com/
 http://auth.khealth.com/cedars/sign-up
 http://auth.khealth.com/khealth/sign-up
@@ -4147,7 +4143,6 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://nav.naspers.com/
 http://ourhouse.underarmour.com/
 http://partners.deriv.com
-http://pay.monashcollege.edu.au/
 http://play.google.com/store/apps/details?id=fr.doctolib.www
 http://poe.com
 http://portfolio.metamask.io
@@ -4201,7 +4196,6 @@ https://Fr.mydirtyhobby.com
 https://Mlife.mo
 https://[it | fr | us | sg | …].louisvuitton.com
 https://a.simplemdm.com/
-https://account-registration.monash.edu/
 https://account.bitpanda.com
 https://account.decathlon.com/*
 https://account.post.ch
@@ -4226,7 +4220,6 @@ https://admin3.pentest.clicsante.ca/
 https://admintool.lime.bike
 https://aemdam.usaa360.com/
 https://afterpay.com
-https://agent.apps.monash.edu/
 https://airflow-prod.coda.io/*
 https://airflow-prod.ops.coda.io/*
 https://aiven.io/
@@ -4234,7 +4227,6 @@ https://aiven.io/clickhouse
 https://aiven.io/docs/products/metrics/concepts/metrics-overview
 https://ajax.staging.luno.com/
 https://album.link
-https://alumni-friends.monash.edu
 https://analytics-admin.prosus.com
 https://analytics.neogov.com
 https://analytics.welcomesoftware.com/
@@ -4398,7 +4390,6 @@ https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
 https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
-https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
 https://apps.apple.com/au/app/realestate-com-au-property/id404667893
@@ -4489,7 +4480,6 @@ https://apps.apple.com/us/app/loom-screen-recorder/id1474480829
 https://apps.apple.com/us/app/lululemon/id920098546
 https://apps.apple.com/us/app/mattermost/id1257222717
 https://apps.apple.com/us/app/mint-mobile/id1295303441
-https://apps.apple.com/us/app/monash-study/id1462126829
 https://apps.apple.com/us/app/moovit-all-transit-options/id498477945
 https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718
 https://apps.apple.com/us/app/northwestern-mutual/id1132579006
@@ -4661,18 +4651,14 @@ https://clients3.pentest.clicsante.ca/
 https://cloud.oppo.com/
 https://cloud.unity.com
 https://cloudinary.com/console
-https://cms.mobile.monash/ 
 https://cockpit-eu-west-2.outscale.com/
 https://coda.io/*
 https://coda.io/signup/email
-https://collections.monash.edu/
 https://community.arlo.com
 https://community.cloud.databricks.com/
 https://community.etsy.com
 https://community.personio.com
-https://compulsoryunits.monash.edu/
 https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
-https://connect.monash.edu
 https://connect.paymaya.com/
 https://connect.soundcloud.com
 https://consensus2024.sandbox.events.coindesk.com/
@@ -4807,13 +4793,11 @@ https://etherscan.io/address/0x0000a26b00c1F0DF003000390027140000fAa719
 https://etherscan.io/token/0xfe18ae03741a5b84e39c295ac9c856ed7991c38e
 https://etsypayments.com
 https://events.1password.com/api/
-https://evigilation.monash.edu
 https://example-jssdk-integ.uidapi.com
 https://example-srvonly-integ.uidapi.com
 https://externalconnect.usaa.com/
 https://fcu.eu-west-2.outscale.com
 https://features.opera-api.com
-https://fileshare.ze.monash.edu
 https://finance.quintoandar.com.br/*
 https://financeiro.hostgator.com.br
 https://financialforce.com
@@ -4823,8 +4807,6 @@ https://flo.uri.sh
 https://flourish.studio/
 https://flow.opera.com
 https://form.asana.com
-https://formative.eassessment.monash.edu/
-https://forms.apps.monash.edu/
 https://forum.newrelic.com
 https://fw.ring.com/*
 https://gaadmin.vfsglobal.com/AustraliaApptAdmin/
@@ -5207,17 +5189,13 @@ https://id.unity.com
 https://identite-sandbox.proconnect.gouv.fr
 https://identity.bugcrowd.com/
 https://identity.majidalfuttaim.com
-https://identity.monash.edu
-https://identity.monash.edu/
 https://images.latitudepayapps.com/
-https://ims.monash.edu
 https://indeed.com
 https://indonesiavoa.vfsevisa.id/
 https://infiniteathlete.ai
 https://infra.coda.io/*
 https://interestfree.com.au
 https://internal.exoscale.ch
-https://interviews.monash.edu/
 https://investor.bullish.com/
 https://investor.irobot.com
 https://iphone-xml.booking.com/json/
@@ -5675,12 +5653,9 @@ https://mg.n0c.com/
 https://mgm.mo
 https://mguest.usaa.com/
 https://microsoftedge.microsoft.com/addons/detail/pinterest-save-button/bkgoflemacdadndiohhdnphcmdhacabg
-https://mids.monash.edu/
 https://mintmobile.com
-https://mlivetickets.monash.edu
 https://mmp.otto.de
 https://mobile-production.content-square.net/
-https://mobile.monash/ 
 https://mobile.ooredoo.qa
 https://mobile.pornhub.com/
 https://mobile.usaa.com
@@ -5690,10 +5665,7 @@ https://mobileapi.nutaku.com
 https://mobileapi.staging.luno.com/
 https://mobileapp.opsgenie.com
 https://mobileapps.usaa.com/
-https://monash.app.nutrip.com
-https://monashcollege.edu.au
 https://monster-customizer.classdojo.com/cf6dfa68-1a81-4c6d-bc0b-38f3666b37d6/index.html
-https://move.monash.edu/
 https://movieclub-int.kinepolis.com
 https://movienow-int.kinepolis.be/admin
 https://mstatic.usaa.com
@@ -5714,7 +5686,6 @@ https://my.wpengine.com
 https://my.wyze.com
 https://myaccount-staging.getmoneytree.com
 https://myapi.arlo.com
-https://myapp.monash.edu/
 https://mydesktop.usaa.com
 https://mylink.page
 https://myopenpass.com
@@ -5755,7 +5726,6 @@ https://offer.tidal.com/download
 https://ogws.optusnet.com.au/
 https://onboard.neogov.com
 https://one.newrelic.com
-https://online.monash.edu/
 https://online.mustaqel.qa/qat/en/login
 https://online.srilankaevisa.lk/lka/en/login
 https://onlinena.vfsglobal.dz/AppointmentAdmin/
@@ -5789,7 +5759,6 @@ https://packages.cortexpowered.com
 https://paddle.net
 https://parcelhubeurope.com
 https://partner-feeds.20min.ch
-https://partner.apps.monash.edu
 https://partner.myopenpass.com
 https://partner.thetradedesk.com
 https://partnerapi.imoulife.com
@@ -5915,7 +5884,6 @@ https://play.google.com/store/apps/details?id=com.porsche.one
 https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&hl=en
 https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid
 https://play.google.com/store/apps/details?id=com.saltlabs.app
-https://play.google.com/store/apps/details?id=com.scu.bsafe
 https://play.google.com/store/apps/details?id=com.siilo.android&hl=en
 https://play.google.com/store/apps/details?id=com.sixgroup.debixplus
 https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1
@@ -5948,7 +5916,6 @@ https://play.google.com/store/apps/details?id=com.xfinity.digitalhome&hl=en_US&g
 https://play.google.com/store/apps/details?id=de.cellular.ottohybrid&hl=de
 https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost
 https://play.google.com/store/apps/details?id=deezer.android.app
-https://play.google.com/store/apps/details?id=edu.monash.monashmobile
 https://play.google.com/store/apps/details?id=ee.mtakso.client
 https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta
 https://play.google.com/store/apps/details?id=fr.gouv.tchap.a&hl=fr
@@ -6029,8 +5996,6 @@ https://regatta.aiven.io/
 https://rentals.tripadvisor.com
 https://reptox.cnesst.gouv.qc.ca/
 https://res.cloudinary.com
-https://research.monash.edu/
-https://researchmgt.monash.edu/
 https://rest.api.eu-central-1.production.jet-external.com
 https://resume.com
 https://retail-api.otto.de
@@ -6088,7 +6053,6 @@ https://shiny.ops.coda.io/*
 https://shop-acc.kinepolis.be/
 https://shop.ifood.com.br
 https://shop.lululemon.com
-https://shop.monash.edu/
 https://shop.post.ch/shop
 https://sign.originzero.com.au
 https://signin-hackerone.hbstaging.website/
@@ -6149,7 +6113,6 @@ https://sprint.com
 https://square.online
 https://src.mastercard.com/*
 https://src.mastercard.com/profile/enroll
-https://staff.monash
 https://staging-login.vistarmedia.com
 https://staging-prime.navan.com
 https://staging-trafficking.vistarmedia.com
@@ -6161,7 +6124,6 @@ https://static-images.ifood.com.br
 https://static.demarches-simplifiees.fr
 https://static.mgm.mo
 https://static.usaa.com
-https://status.mobile.monash/
 https://storage.googleapis.com/kubernetes-release/
 https://store.epicgames.com/en-US/p/seekers-of-tokane-a5986d
 https://store.playstation.com/en-us/product/UP2662-CUSA08481_00-RECROOM000000001
@@ -6171,8 +6133,6 @@ https://store.steampowered.com/app/471710/Rec_Room/
 https://store.unity.com
 https://storybook.vistarmedia.com
 https://student.classdojo.com
-https://student.monash
-https://studentplacements.monash.edu
 https://studiopress.blog
 https://suggestions.opera-api.com
 https://superbet.pl
@@ -6269,7 +6229,6 @@ https://umiloans.com.au
 https://underarmour.co.kr
 https://underarmournext.com/
 https://unified.neogov.com
-https://unihub.monash.edu/
 https://unity3d.com/get-unity/download
 https://unity3d.com/get-unity/download/archive
 https://updates.arlo.com
@@ -6518,8 +6477,6 @@ https://www.mgmmacau.com
 https://www.microsoft.com/en-us/p/keeperchat/9pdqtcpn4kxn#activetab=pivot:overviewtab
 https://www.minhaconta.zoop.com.br
 https://www.mioskincare.com/
-https://www.monash.edu
-https://www.monashprofessional.edu.au/
 https://www.mybag.com/
 https://www.mydirtyhobby.com/app/download
 https://www.myntra.com
@@ -7047,8 +7004,6 @@ mijn.karwei.nl/*
 mijnacc.uzleuven.be
 mipartnerprivileges.marriott.com
 mirc.uzleuven.be
-mix-dev.monash.edu/*
-mix-qat.monash.edu/*
 mobile-prod.tvg.com
 mobile.nexuzhealth.be
 mobile.s-pankki.fi
