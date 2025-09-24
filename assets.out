@@ -1,13 +1,11 @@
 	 speedtest-eastburwood.optusnet.com.au
  *.rivian.com
- *.sip.*.twilio.com
  *.test.*.lfscnp.com
  203.13.125.32/27
  Finicity Connect
  Fortress.HongKong.IOS
  MS Office Add-In
  Mobile Apps
- Twilio CDNs (static*.twilio.com)
  Watsons.TaiWan.Android
  aweb.suivo.com
  com.citymapper.app.release
@@ -1638,7 +1636,6 @@ Any Other Sophos Product or Service
 Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
-Any host/web property verified to be owned by Twilio et al.
 Any host/web property/mobile app verified to be owned by Indeed
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 Any other Epic games owned asset not listed in the out of scope section
@@ -2453,7 +2450,6 @@ Trustwallet Android App
 Trustwallet Chrome Extension
 Trustwallet iOS App
 Turnstile
-Twilio APIs
 UCRM
 UEFN
 UFiber
@@ -4312,8 +4308,6 @@ https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
 https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql
 https://api.rx.originenergy.com.au/v1/lpg/graphql
 https://api.sandbox.agora.incubateur.net  (source code available on GitHub, see description)
-https://api.segment.io/
-https://api.sendgrid.com
 https://api.shop.ua.com/graphql
 https://api.simnext.bullish-test.com
 https://api.staging.luno.com/
@@ -4326,7 +4320,6 @@ https://api.thetradedesk.com
 https://api.thousandeyes.com/
 https://api.toom.de
 https://api.tripadvisor.com
-https://api.twilio.com
 https://api.unity.com
 https://api.us1.fga.dev/
 https://api.usaa.com/
@@ -4370,8 +4363,6 @@ https://app.ring.com/*
 https://app.ripio.com
 https://app.saltlabs.com/
 https://app.sandbox.agora.incubateur.net
-https://app.segment.com/
-https://app.sendgrid.com/
 https://app.staging.luno.com/
 https://app.staging.saltlabs.com/
 https://app.thousandeyes.com/
@@ -4557,7 +4548,6 @@ https://auth.thetradedesk.com
 https://auth.wyze.com
 https://auth2.pdq.tools/ 
 https://authn.usaa.com/
-https://authy.com/download/
 https://autoupdate.geo.opera.com
 https://b2bapi-a.usaa.com
 https://b2bapi.usaa.com
@@ -5189,7 +5179,6 @@ https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
 https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows.htm
 https://help.okta.com/en/prod/Content/Topics/Settings/download-browser-plugin.htm
 https://help.supplier.viator.com/en
-https://help.twilio.com
 https://hg.easy4ipcloud.com
 https://hipaa.staging.gearset.com/
 https://home.classdojo.com
@@ -5661,7 +5650,6 @@ https://matrix.agent.tchap.gouv.fr
 https://matrix.e.tchap.gouv.fr
 https://matrix.i.tchap.gouv.fr
 https://mattermost.com/apps/
-https://mc.sendgrid.com/
 https://mcp-server.zomato.com/mcp
 https://mcs.arlo.com
 https://media.irobot.com
@@ -6070,13 +6058,11 @@ https://securemail.usaa.com
 https://securesignin.neogov.com
 https://securesignin.powerdms.com/
 https://seekcdn.com
-https://segment.com/docs/sources/
 https://selector.viator.com
 https://selfcare.ooredoo.qa
 https://send2.co/
 https://sendbird.com
 https://sendbird.com/docs
-https://sendgrid.com
 https://service.platform.tripadvisor.com
 https://service.post.ch/ekp-web/
 https://service.post.ch/ele-klp/ele/
@@ -6093,7 +6079,6 @@ https://shop.monash.edu/
 https://shop.post.ch/shop
 https://sign.originzero.com.au
 https://signin-hackerone.hbstaging.website/
-https://signup.sendgrid.com/
 https://simnext.bullish-test.com
 https://skippayments.com
 https://skipthedishes.com
@@ -6257,8 +6242,6 @@ https://trello.com/power-ups/5e3886cd2ae34410748d0d5b/jira-align-
 https://trello.com/power-ups/6048e897c73d032a983e2a7c/dashcards
 https://trello.com/power-ups/6052d130068a8c0de7b022b4
 https://trm.pinelabs.ae
-https://tsock.us1.twilio.com
-https://twilio.com/blog
 https://u.oppomobile.com/
 https://uae.voxcinemas.com/
 https://ui.com/distributors/
@@ -6619,11 +6602,6 @@ https://www.toursgds.com/
 https://www.toursgds.com/SupplierService?wsdl
 https://www.toursgds.com/ToursGdsService?wsdl
 https://www.tripadvisor.com
-https://www.twilio.com/blog/get-started-webrtc
-https://www.twilio.com/console
-https://www.twilio.com/docs/authy/api
-https://www.twilio.com/docs/libraries
-https://www.twilio.com/docs/verify/api 
 https://www.underarmour.cn
 https://www.underarmour.co.uk
 https://www.underarmour.com
@@ -7703,7 +7681,6 @@ slingshot.finance
 smartinet.xfinity.com
 smarttrader.deriv.com
 sms.infomaniak.com
-smtp.sendgrid.net
 smtp2go.com
 sn-api-cf.*.aws.indriverapp.com
 sn-api-gw-cf.*.aws.indriverapp.com
