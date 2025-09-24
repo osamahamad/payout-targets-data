@@ -116,7 +116,6 @@
 *.api.originenergy.com.au
 *.api.playstation.com
 *.api.ua.com/
-*.app.asana.com
 *.app.personio-dev.com
 *.app.personio.com
 *.app.spacelift.dev
@@ -125,7 +124,6 @@
 *.arloxcld.com
 *.artstation.com
 *.as-nmt.de
-*.asana.biz
 *.atairbnb.com
 *.atg.se
 *.atlastunnel.com
@@ -2398,7 +2396,6 @@ Stripe Terminal
 Stripe Treasury
 Stripe for Visual Studio Code
 Subdomain Takeover (SDTO)
-Subdomain takeover at *asana.biz
 Substance 3D
 Superdrug.App.Android
 Superdrug.App.IOS
@@ -4347,7 +4344,6 @@ https://apigw.prod.quintoandar.com.br/sales-flow-api/*
 https://apis.indeed.com/graphql
 https://app-staging.getmoneytree.com
 https://app.agency360.com
-https://app.asana.com
 https://app.aurory.io
 https://app.bitgo-test.com
 https://app.bitgo.com
@@ -4456,7 +4452,6 @@ https://apps.apple.com/us/app/%E5%B1%A5%E6%AD%B4%E6%9B%B8%E4%BD%9C%E6%88%90-%E3%
 https://apps.apple.com/us/app/3cx/id992045982
 https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
 https://apps.apple.com/us/app/anytask-com/id6741158899
-https://apps.apple.com/us/app/asana-mobile/id489969512
 https://apps.apple.com/us/app/auth0-guardian/id1093447833
 https://apps.apple.com/us/app/backblaze/id628638330
 https://apps.apple.com/us/app/bforbank-banque-en-ligne/id1607839793
@@ -4531,9 +4526,6 @@ https://apps.yeswehack.com
 https://arlo-device.messaging.netgear.com
 https://armourhouse.underarmour.com
 https://artist.link
-https://asana.com
-https://asana.com/apps?category=made-by-asana
-https://asana.com/download
 https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/entitlements/{entitlement_id}
 https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/robots/{robot_id}/entitlements
 https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/users/{user_id}/entitlements
@@ -4823,7 +4815,6 @@ https://flags.expeng.optimizely.com
 https://flo.uri.sh
 https://flourish.studio/
 https://flow.opera.com
-https://form.asana.com
 https://formative.eassessment.monash.edu/
 https://forms.apps.monash.edu/
 https://forum.newrelic.com
@@ -5841,7 +5832,6 @@ https://play.google.com/store/apps/details?id=com.acorns.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.afterpaymobile.uk
 https://play.google.com/store/apps/details?id=com.afterpaymobile.us&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.anytask.mobile&hl=en_US
-https://play.google.com/store/apps/details?id=com.asana.app&hl=en
 https://play.google.com/store/apps/details?id=com.aswat.carrefouruae
 https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.core&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&hl=en_US&gl=US
