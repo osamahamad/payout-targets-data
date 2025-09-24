@@ -1,6 +1,8 @@
 *.arlo.com
 *.arloxcld.com
 *.central.arubanetworks.com
+*.app.asana.com
+*.asana.biz
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 *.atlastunnel.com
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
@@ -57,7 +59,6 @@ casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 *.emakina.at
 open redirect at *.epam.com
 Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
-*.etsy.com
 *.etsy.com
 *.certinia.com
 *.kiln.it
