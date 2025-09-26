@@ -635,7 +635,6 @@
 *.napoleongames.be
 *.napoleonsports.be
 *.ncs.co
-*.ncs.com.cn
 *.ncsimpact.co
 *.neat.com.hk
 *.neat.hk
@@ -1630,7 +1629,6 @@ All Other In-Scope Assets
 All other Assets
 All other SBB owned IT assets
 All other Web and mobile APPs owned by SBB 
-All other games not listed in other target tables
 All the Blockchain Infrastructure
 Amazon Subsidiaries (Please only actively test explicitly stated scope)
 AmpliFi
@@ -1693,7 +1691,6 @@ Arlo Ultra 2
 Arlo Wire-Free Outdoor Siren (Home Security System)
 Arlo Wired Floodlight
 Arlo Wireless Video Doorbell
-Artifact
 Aruba AirWave AMP
 Aruba InstantOn Switches
 Aruba User Experience Insight Sensors
@@ -1751,7 +1748,6 @@ C103149579
 C2PA Tool
 CDNJS
 CHP Cloud Portal
-CS2
 Canva (Android)
 Canva (Chrome Extension)
 Canva (iOS)
@@ -1860,8 +1856,6 @@ Dia
 Dimension
 Direct Contracts
 Discovered Leaked Credentials
-Dota 2
-Dota Underlords
 Dovecot IMAP Server and Pigeonhole SIEVE (see "Software packages" and "Source code")
 Dreamweaver
 Drogas.Latvia.Android
@@ -2017,7 +2011,6 @@ HPE Aruba Networking Wireless – AOS-10.7 and later
 HPE Aruba Networking Wireless – AOS-8 and AOS-8 Instant
 HPE Networking Instant On APs and supporting backend infrastructure
 HYPR Workforce Access.app
-Half-Life: Alyx
 Hardware
 Hardware found on https://www.ezviz.com/category/security-wifi-cameras
 Hardware found on https://www.ezviz.com/category/smart-home
@@ -2083,8 +2076,6 @@ Leaked Credentials and Secrets (Canva Employee/Contractor)
 Leaked Credentials and Secrets (Canva User)
 Leaked/compromised employee accounts *.here.com
 Leaked/Сompromised Employee accounts
-Left 4 Dead
-Left 4 Dead 2
 Lens Studio
 Lightroom Classic
 Livestream software (Producer, Studio)
@@ -2436,7 +2427,6 @@ TW eCommerce: Used Car
 Tablets
 Tap to Pay (Android)
 Tap to Pay (iOS)
-Team Fortress 2
 Tesla Energy hardware you own
 Tesla vehicle hardware that you own
 Texts
@@ -4893,12 +4883,6 @@ https://github.com/18f/federalist-proxy
 https://github.com/18f/identity-idp
 https://github.com/18f/identity-saml-rails
 https://github.com/18f/identity-saml-sinatra
-https://github.com/AikidoSec/firewall-node#Detection Bypass
-https://github.com/AikidoSec/firewall-node#False Positive
-https://github.com/AikidoSec/firewall-node#Vulnerability
-https://github.com/AikidoSec/firewall-python#Detection Bypass
-https://github.com/AikidoSec/firewall-python#False Positive
-https://github.com/AikidoSec/firewall-python#Vulnerability
 https://github.com/Aiven
 https://github.com/Aiven-Open
 https://github.com/Chia-Network/chia-blockchain
@@ -5343,7 +5327,6 @@ https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|c
 https://m.csqtrk.net
 https://m.thefork.com
 https://maf-holding-prod.apigee.net
-https://makeitreal-beta.eufymake.com/
 https://makeshift.film
 https://manage.cic-bug-bounty.auth0app.com/
 https://manage.statuspage.io
@@ -8613,6 +8596,10 @@ zerobounce.net
 ziekenhuisschool.be
 zooplus.net
 zopim.com
+███
+██████
+████████
+███████████
 ████████████
 █████████████
 ███████████████
@@ -8632,6 +8619,7 @@ zopim.com
 ███████████████████████████████████
 ██████████████████████████████████████████████
 ████████████████████████████████████████████████
+█████████████████████████████████████████████████
 ██████████████████████████████████████████████████████████
 █████████████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████████████████████████████████████████████
