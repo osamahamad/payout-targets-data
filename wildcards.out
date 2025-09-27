@@ -4,6 +4,7 @@
  Twilio CDNs (static*.twilio.com)
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *-api-*.acronis.com
+*-cvr-aws-*.sys.comcast.net
 *. advancedcustomfields.com
 *. bettersearchreplace.com
 *. vfsevisa.id
@@ -247,6 +248,7 @@
 *.dev.mobilevikings.be
 *.dev.remitly.com
 *.devicelock.com
+*.dh-commerce.com 
 *.dialog.com.au
 *.dibz.co.uk
 *.digitalocean.com
@@ -859,6 +861,7 @@
 *.square.com
 *.squareup.com
 *.srvcs.tumblr.com
+*.ssr.ccp.xcal.tv 
 *.stag.tomorrowland.com
 *.stag.weareone.world
 *.staging-airtableblocks.com
@@ -1043,6 +1046,8 @@
 *.x.com
 *.xcal.tv
 *.xfinity.com	
+*.xfinityhome.com
+*.xfiplatform.com
 *.xiaomi.com
 *.xiaomiyoupin.com
 *.xoom.com
@@ -1168,3 +1173,5 @@ vm-gw-cf.*.aws.indriverapp.com
 was-gw-cf.*.aws.indriverapp.com
 wlr-cf.*.aws.indriverapp.com
 www.paypal-*.com
+xhomeapi-*.cloud.comcast.net
+xhomeapi-*.codebig2.net
