@@ -137,6 +137,7 @@
 *.avecspotify.com
 *.ayco.com
 *.backblazeb2.com
+*.backend-capital.com
 *.base.org
 *.berush.com
 *.betfair.com
@@ -191,6 +192,7 @@
 *.canva.cn
 *.canva.com
 *.canva.tech
+*.capital.com
 *.capitalone.ca
 *.capitalone.com
 *.capitalonegslbex.com
@@ -465,6 +467,7 @@
 *.intergamma-test.nl
 *.intergamma.cloud
 *.intergamma.nl/*
+*.itcapital.io
 *.jbl.com
 *.jbl.com.br
 *.jbl.nl
@@ -788,6 +791,8 @@
 *.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
 *.savers.co.uk
+*.say.rocks
+*.saytechnologies.com
 *.sbb.ch
 *.sbgcdn.com
 *.sbgcore.com
@@ -2644,6 +2649,7 @@ advisories.gitlab.com
 advocates.databricks.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
 aed.arubanetworks.com
+aff.capital.com
 affiliate-id.tokopedia.com
 agents.tasheer.com
 aggregator.etoro.com
@@ -3154,6 +3160,7 @@ cancellation.prod.ps.welt.de
 candle-src.etoro.com
 candle.etoro.com
 capi.grammarly.com
+capital.com/*
 capitalmarketsday.porsche.com
 capturingreality.com
 cardpayments.remitly.io
@@ -3336,6 +3343,7 @@ com.bumble.app
 com.bumblebff.app
 com.bykea.pk
 com.bykea.pk.partner
+com.capital.trading
 com.cheaptickets
 com.clay.ios
 com.cm.cashregister
@@ -3616,6 +3624,7 @@ community.logitech.com
 community.silabs.com
 community.ui.com
 company.thebrowser.arc
+compare.porsche.com
 compass.fareharbor.com
 competitive.fortnite.com
 components.stag.tomorrowland.com
@@ -4008,6 +4017,7 @@ global-api.citymapper.com
 globaljourney.tomorrowland.com
 gnip.com
 gnocchi-www.buffalo-ggn.net
+go.capital.com
 go.geneva-staging.com
 go.welt.de
 goldmansachsindices.com
@@ -7260,6 +7270,7 @@ onepush.query.yahoo.com
 oneview.malwarebytes.com
 online.s-pankki.fi
 open redirect at *.epam.com
+open-api.capital.com
 open.airbnb.com
 open.larksuite.com
 openapi.m-pesa.com
@@ -7314,6 +7325,7 @@ pay.{business_critical_assets} *see business assets for more information
 paybridge.booking.com
 paydirect.truelayer[-sandbox].com
 payer-details-sandbox.gocardless.com
+payment.backend-capital.com
 payment.bingo.com
 payment.casinohuone.com
 payment.deezer.com
@@ -7538,6 +7550,7 @@ redditforbusiness.com
 register-accpt.portofantwerp.com
 register-accpt.portofantwerpbruges.com
 register.bpost.be
+register.capital.com
 registre.notebleue.pro
 registry.gitlab.com
 rei.com
