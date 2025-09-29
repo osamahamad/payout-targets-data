@@ -781,7 +781,10 @@
 *.rentalcars.com
 *.reposify.com
 *.restintergamma.nl
+*.rhinternal.net
 *.ripe.net
+*.robinhood.com
+*.robinhood.net
 *.roblox.com
 *.rocketleague.com
 *.rockstargames.com
@@ -1223,6 +1226,7 @@
 1592204907
 1604650263
 1632202810
+1634080733
 1641486558
 1659883691
 167.187.0.0/16
@@ -1489,6 +1493,7 @@
 6450553960
 6452192521
 645949180
+6462308655
 6464473474
 6467634418
 6471528064
@@ -1525,6 +1530,7 @@
 926252661
 930441707
 936983378
+938003185
 94.107.237.192/26
 943905271
 944011620
@@ -1651,6 +1657,7 @@ Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure o
 Any public cloud resource or infrastructure operated and managed by REI.
 Any publicly accessible Tripadvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
 Any related DPG media domain
+Any related Torfs domain
 Any resource created or accessed with the Outscale Cloud on eu-west-2 region -  created by the Hunter
 Any subdomain application issue
 Any subdomain infrastructure issue
@@ -3522,6 +3529,9 @@ com.ringapp
 com.ripio.android
 com.ripio.ios
 com.rivian.android.consumer
+com.robinhood.android
+com.robinhood.gateway
+com.robinhood.money
 com.romwe
 com.scopely.monopolygo
 com.scopely.startrek
@@ -8102,6 +8112,7 @@ winecellar.zomato.com
 wings-dev.wnba.com
 wings-qa.wnba.com
 wings.wnba.com
+winkels.torfs.be
 winter.tomorrowland.com
 winterpackages.tomorrowland.com
 wlr-cf.*.aws.indriverapp.com
@@ -8401,8 +8412,11 @@ www.rockstargames.com
 www.s-kaupat.fi
 www.s-pankki.fi
 www.sa.dyson.com
+www.samenfittorfs.be
 www.sbb.ch
 www.sbbcargo.com
+www.schoenentorfs.be
+www.schoenentorfs.nl 
 www.sheer.com
 www.six-group.com
 www.socialdeal.nl
@@ -8432,6 +8446,8 @@ www.theperfumeshop.com
 www.tink.com
 www.tomorrowland.com
 www.topperpay.com
+www.torfs.be
+www.torfs.nl
 www.trajeoh.com
 www.transsicura.ch
 www.travelocity.ca
