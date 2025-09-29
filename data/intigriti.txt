@@ -2,6 +2,12 @@ Hardware
 Firmware
 Software
 app.aikido.dev
+https://github.com/AikidoSec/firewall-node#Vulnerability
+https://github.com/AikidoSec/firewall-python#Vulnerability
+https://github.com/AikidoSec/firewall-node#Detection Bypass
+https://github.com/AikidoSec/firewall-python#Detection Bypass
+https://github.com/AikidoSec/firewall-node#False Positive
+https://github.com/AikidoSec/firewall-python#False Positive
 myaccount.ad.nl
 webwinkel.ad.nl
 www.ad.nl
@@ -289,6 +295,10 @@ mgm.mobilevikings.be
 vikingco.be
 vikingdeals.be
 vikinglab.be
+1052238659
+co.uk.getmondo
+www.monzo.com
+monzo.com
 134.58.179.82
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
