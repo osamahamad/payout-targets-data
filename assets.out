@@ -230,7 +230,6 @@
 *.cm.com
 *.cmtelecom.com
 *.coda.io/*
-*.code.gov
 *.cognitiveperformer.com
 *.coinbase.com
 *.coindcx.com
@@ -525,7 +524,6 @@
 *.localwp.com
 *.logi.com
 *.logicool.co.jp
-*.login.gov
 *.logitech-channel-marketing.com
 *.logitech.com
 *.logitech.io
@@ -612,6 +610,7 @@
 *.mona.co
 *.moneyback.com.hk
 *.monopoly-poker.com
+*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -743,6 +742,7 @@
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -809,7 +809,6 @@
 *.scopely.com
 *.scopely.io
 *.seancody.com
-*.search.gov
 *.sec-tunnel.com
 *.securecircle.com
 *.securegatewayaccess.com
@@ -1115,6 +1114,7 @@
 1023499075
 103.83.120.0/22
 1032480595
+1052238659
 1057338687
 107.167.96.0/19
 1076840480
@@ -2611,7 +2611,6 @@ account.adobe.com
 account.booking.com
 account.brave.com
 account.deezer.com
-account.fr.cloud.gov
 account.krisp.ai
 account.magento.com
 account.ui.com
@@ -2637,10 +2636,8 @@ activities.marriott.com
 adb.nba.com
 addons.allizom.org
 adm.cloud.com
-admin-catalog-bsp.data.gov
 admin.8x8.com
 admin.booking.com
-admin.fr.cloud.gov
 admin.instacart.com
 admin.shopify.com
 admin.stage.vismaonline.com
@@ -2679,7 +2676,6 @@ airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 akismet.com
 alert.logitech.com
-alertmanager.fr.cloud.gov
 alerts.ninjakiwi.com
 alexa.amazon.com
 alexaanswers.amazon.com
@@ -2744,7 +2740,6 @@ api.coinmarketcap.com
 api.creditkarma.com
 api.custody.coinbase.com
 api.dashlane.com
-api.data.gov
 api.deezer.com
 api.deriv.com
 api.digital.delen.be 
@@ -2781,7 +2776,6 @@ api.fi.dyson.com
 api.figma.com
 api.foliofn.com
 api.fortress.com.hk
-api.fr.cloud.gov
 api.gamma.redoxstage.com
 api.geneva-staging.com
 api.github.com
@@ -3193,7 +3187,6 @@ cashier.deriv.com
 cashier.etoro.com
 casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 castor.vinci.com
-catalog.data.gov
 ccardseu1.badoo.com
 ccardsus1.badoo.com
 ccloud.yoti.com
@@ -3223,7 +3216,6 @@ chk.infomaniak.com
 christmas-silence.porsche.com
 cht-cf.*.aws.indriverapp.com
 cht-gw-cf.*.aws.indriverapp.com
-ci.fr.cloud.gov
 circle.logi.com
 circolocorecords.com/
 cl.nba.com
@@ -3236,7 +3228,6 @@ cloud.coinbase.com
 cloud.digitalocean.com
 cloud.elastic.co
 cloud.forescout.com
-cloud.gov
 cloud.malwarebytes.com
 cloud8.8x8.com
 cloudflareworkers.com
@@ -3253,6 +3244,7 @@ co-in-gw-cf.*.aws.indriverapp.com
 co.mona.android
 co.tide
 co.tide.tideplatform.in
+co.uk.getmondo
 coaching.supernovas.indrive.com
 coalition.nba.com
 coban.pixiv.net
@@ -3730,10 +3722,8 @@ daita/files_fulltextsearch_tesseract
 dash.ai
 dash.cloudflare.com
 dash.dropbox.com
-dashboard-beta.fr.cloud.gov
 dashboard.algolia.com
 dashboard.doppler.com
-dashboard.fr.cloud.gov
 dashboard.gamma.redoxstage.com
 dashboard.magic.link
 dashboard.mergify.com
@@ -3804,7 +3794,6 @@ developers.reddit.com
 developers.tiktok.com
 devhub.arubanetworks.com
 dh-gw-cf.*.aws.indriverapp.com
-diagrams.fr.cloud.gov
 dic.pixiv.net
 digili.s-cloud.fi
 digital.welt.de
@@ -3942,10 +3931,6 @@ faucet.polygon.technology
 fch-cf.*.aws.indriverapp.com
 fe-cf.*.aws.indriverapp.com
 fe-gw-cf.*.aws.indriverapp.com
-federalist-docs.18f.gov
-federalist-proxy.app.cloud.gov
-federalist.18f.gov
-federation.data.gov
 feedback.logitech.com
 fetlife.com
 fetlifemail.com
@@ -4037,7 +4022,6 @@ gopaymerchant.midtrans.com
 gql.reddit.com
 grab.careers
 grae.nba.com
-grafana.fr.cloud.gov
 grammarly.ai
 graphql.sandbox.topperpay.com/graphql
 gravatar.com
@@ -4874,14 +4858,6 @@ https://github.com/0xPolygon/chain-indexer-framework
 https://github.com/0xPolygon/heimdall-v2
 https://github.com/0xPolygon/lxly.js
 https://github.com/0xPolygon/static
-https://github.com/18f/docker-ruby-ubuntu
-https://github.com/18f/federalist
-https://github.com/18f/federalist-builder
-https://github.com/18f/federalist-docker-build
-https://github.com/18f/federalist-proxy
-https://github.com/18f/identity-idp
-https://github.com/18f/identity-saml-rails
-https://github.com/18f/identity-saml-sinatra
 https://github.com/AikidoSec/firewall-node#Detection Bypass
 https://github.com/AikidoSec/firewall-node#False Positive
 https://github.com/AikidoSec/firewall-node#Vulnerability
@@ -4981,8 +4957,6 @@ https://github.com/freedomofpress/securedrop
 https://github.com/freedomofpress/securedrop-client
 https://github.com/freedomofpress/securedrop-workstation
 https://github.com/grafana/*
-https://github.com/gsa/data.gov
-https://github.com/gsa/datagov-deploy
 https://github.com/hyperledger/besu
 https://github.com/hyperledger/besu-errorprone-checks
 https://github.com/hyperledger/besu-native
@@ -6756,7 +6730,6 @@ identityserver-acc.landmarkcinemas.com
 identityserver.landmarkcinemas.com
 idp-cf.*.aws.indriverapp.com
 idp-mobile.nexuzhealth.be
-idp.fr.cloud.gov
 iframe.arkoselabs.com
 ifttt-adaptor.pub.kube.dm.gg
 img.swapcard.com
@@ -6787,7 +6760,6 @@ internal-docs.netlify.com
 internal.netlify.com
 international.coinbase.com
 interseller.io
-inventory.data.gov
 investorrelations.porsche.de
 investors.semrush.com
 invitation.infomaniak.com
@@ -6867,7 +6839,6 @@ kyc.etoro.com
 kz.kolesa
 kz.krisha
 l75pvbdyjo.infomaniak.site
-labs.data.gov
 labs.databricks.com
 lando.services.mozilla.com
 langflow.datastax.com
@@ -6918,7 +6889,6 @@ login.cm.com
 login.delen.be 
 login.delen.ch 
 login.delen.lu 
-login.fr.cloud.gov
 login.infomaniak.com
 login.lansweeper.com
 login.oyens.com
@@ -6935,9 +6905,7 @@ logistica.redelcom.cl
 logitech.zendesk.com
 logitechg.com.cn
 logitechgchallenge.com
-logs-platform.fr.cloud.gov
 logs.dashlane.com
-logs.fr.cloud.gov
 logs.nextcloud.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
@@ -6984,7 +6952,6 @@ mark8.syfe.com
 marketing.fareharbor.com
 marketplace.databricks.com
 marketplace.digitalocean.com
-marketplace.fedramp.gov
 marketplace.gamemaker.io
 marketplace.magento.com
 marquee.gs.com
@@ -7097,6 +7064,7 @@ moneybird.com
 moneybirdstorage.com
 mongodb.live/*
 monitor.mozilla.org
+monzo.com
 moonpay.com
 movie.indrive.com
 movieapi.kinepolis.megatix.be
@@ -7159,7 +7127,6 @@ nbafedsvc-dev.nba.com
 nbafedsvc-qa.nba.com
 nbafedsvc.nba.com
 neoket.net
-nessus.fr.cloud.gov
 net.s2stagehance.com
 net.supertreat.solitaire
 net.wooga.junes_journey_hidden_object_mystery_game
@@ -7296,7 +7263,6 @@ oprc.portofantwerpbruges.com
 ops.lime.bike
 ops.silabs.com
 ops.wolt.com
-opslogin.fr.cloud.gov
 orc-xfi.com
 org.malwarebytes.antimalware
 org.piwik.mobile2
@@ -7512,7 +7478,6 @@ profile-photos.hackerone-user-content.com
 profiler.firefox.com
 projects.datacamp.com
 projects.nextcloud.com
-prometheus.fr.cloud.gov
 promos.tvg.com
 prow.k8s.io
 proxy-production.lime.bike
@@ -7640,7 +7605,6 @@ scan.snapchat.com
 scapegoat.hyatt.com
 screenshot-proxy.netlify.app
 scrutiny.swiftfinancial.com
-sdg.data.gov
 se.mathem.mathem
 search.brave.com
 secure-dfadmin.deriv.com
@@ -7779,7 +7743,6 @@ sporza.be
 sq
 sqop
 sqv
-ssh.fr.cloud.gov
 sso-sprint.dynatracelabs.com
 sso.8x8.com
 sso.8x8pilot.com
@@ -7938,7 +7901,6 @@ timepeacesconfigurator.porsche-design.com
 tlbe.prod.tomorrowland.com
 tlbr.prod.tomorrowland.com
 tlfr.prod.tomorrowland.com
-tock.18f.gov
 todo.notebleue.pro
 toolsforhumanity.com
 tr-cf.*.aws.indriverapp.com
@@ -8190,7 +8152,6 @@ www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
 www.dashlane.com
-www.data.gov
 www.datacamp.com
 www.datacamp.com/datalab
 www.datastax.com
@@ -8258,7 +8219,6 @@ www.expedia.com
 www.expediagroup.com
 www.expediataap.com
 www.fareharbor.com
-www.fedramp.gov
 www.fewo-direkt.de
 www.fi.dyson.com
 www.figma.com
@@ -8365,6 +8325,7 @@ www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
+www.monzo.com
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
@@ -8465,7 +8426,6 @@ www.uphold.com
 www.upwork.com/api 
 www.urbanclap.com
 www.urbancompany.com
-www.usa.gov
 www.uzleuven.be
 www.valvesoftware.com
 www.vfsvisaonline.com
