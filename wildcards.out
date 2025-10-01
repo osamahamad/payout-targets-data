@@ -97,7 +97,6 @@
 *.app.asana.com
 *.app.personio-dev.com
 *.app.personio.com
-*.app.spacelift.dev
 *.appmiral.com
 *.arlo.com
 *.arloxcld.com
@@ -114,6 +113,7 @@
 *.autobild.de
 *.avecspotify.com
 *.ayco.com
+*.backblazeb2.com
 *.backend-capital.com
 *.base.org
 *.berush.com
@@ -462,7 +462,6 @@
 *.khealth.com
 *.khealth.io/
 *.khealth.us/
-*.kiln.it
 *.kinepolis.be
 *.kinepolis.ch
 *.kinepolis.com
