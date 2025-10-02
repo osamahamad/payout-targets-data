@@ -484,7 +484,6 @@
 *.khealth.com
 *.khealth.io/
 *.khealth.us/
-*.kiln.it
 *.kinepolis.be
 *.kinepolis.ch
 *.kinepolis.com
@@ -2708,12 +2707,15 @@ api-sandbox.uphold.com
 api-sandbox.uphold.com/graphql
 api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
+api-wallet-sandbox.venly.io
+api-wallet.venly.io
 api.23andme.com
 api.8x8.com
 api.adm.cloud.com
 api.airbnb.com
 api.alasco.de
 api.amazonalexa.com/*
+api.arkane.network
 api.atg.se
 api.au.frontegg.com
 api.avtoelon.uz
@@ -3629,10 +3631,12 @@ confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect-store.porsche.com
 connect.8x8.com
+connect.arkane.network 
 connect.arubanetworks.com
 connect.deezer.com
 connect.identity.stagaws.visma.com
 connect.secure.wellsfargo.com
+connect.venly.io
 console-backend.truelayer[-sandbox].com
 console.circle.com
 console.dashlane.com
@@ -3942,8 +3946,6 @@ firefly.adobe.com
 firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 flights.booking.com
-flourish-user-preview.com
-flourish-user-templates.com
 flyiin.com
 fm.anchor.android
 fonts.adobe.com
@@ -4811,8 +4813,6 @@ https://financeiro.hostgator.com.br
 https://financialforce.com
 https://fivetran.com/login
 https://flags.expeng.optimizely.com
-https://flo.uri.sh
-https://flourish.studio/
 https://flow.opera.com
 https://form.asana.com
 https://formative.eassessment.monash.edu/
@@ -6650,7 +6650,6 @@ https://wwws-staging.moneytree.jp/link/mobile/#/signup?client_id=38d99a6e8e9fc87
 https://xnxx.nutaku.net
 https://xv-cp.apis-staging.xvtest.net/
 https://xvideos.nutaku.net
-https://xyzbmojn.net/
 https://yeswehack.com
 https://yeswehack.staging.komoju.com
 https://youcouldbe.com
@@ -6868,6 +6867,7 @@ login-accpt.portofantwerpbruges.com
 login-api.truelayer[-sandbox].com
 login-ia.tvg.com
 login-pabets.tvg.com
+login.arkane.network
 login.cm.com
 login.delen.be 
 login.delen.ch 
@@ -6882,6 +6882,7 @@ login.starbucks.co.jp
 login.swapcard.com
 login.truelayer[-sandbox].com
 login.tvg.com
+login.venly.io
 login.www.vaxvacationaccess.com
 logistica.redelcom.cl
 logitech.zendesk.com
@@ -7998,6 +7999,7 @@ waf.cumulusfire.net
 wallet-sandbox.uphold.com
 wallet.etoro.com
 wallet.tg
+wallet.venly.io
 walletbot.me
 wallets.api.playstation.com
 was-gw-cf.*.aws.indriverapp.com
