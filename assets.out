@@ -135,7 +135,6 @@
 *.autobild.de
 *.avecspotify.com
 *.ayco.com
-*.backblazeb2.com
 *.backend-capital.com
 *.base.org
 *.berush.com
@@ -1962,7 +1961,6 @@ Gecko SDK
 Gemini
 GenAI Apps under *.amazon.*
 Geneva 
-Git Repositories (b2-sdk-java & B2 Command Line Tool)
 GitHub CLI
 GitHub CSP
 GitHub Desktop
@@ -2101,8 +2099,6 @@ MFA Integrations
 MIUI OS for Xiaomi Phone
 Mac OS Executable
 Mac OS Executable: Download here https://www.larksuite.com/download
-Mac Personal Backup Clients
-Mac Restore Downloaders
 Magic Eden Wallet (Chrome Extension)
 Magic Firewall
 Magic Transit
@@ -2544,8 +2540,6 @@ Wickr Pro/Wickr Me (all related technical components) (up to)
 Windows Executable
 Windows OS Executable
 Windows OS Executable: Download here https://www.larksuite.com/download
-Windows Personal Backup Clients
-Windows Restore Downloaders
 Wireless Microcontrollers (MCUs)
 WooCommerce
 WordPress Core
@@ -2708,15 +2702,12 @@ api-sandbox.uphold.com
 api-sandbox.uphold.com/graphql
 api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
-api-wallet-sandbox.venly.io
-api-wallet.venly.io
 api.23andme.com
 api.8x8.com
 api.adm.cloud.com
 api.airbnb.com
 api.alasco.de
 api.amazonalexa.com/*
-api.arkane.network
 api.atg.se
 api.au.frontegg.com
 api.avtoelon.uz
@@ -3632,12 +3623,10 @@ confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect-store.porsche.com
 connect.8x8.com
-connect.arkane.network 
 connect.arubanetworks.com
 connect.deezer.com
 connect.identity.stagaws.visma.com
 connect.secure.wellsfargo.com
-connect.venly.io
 console-backend.truelayer[-sandbox].com
 console.circle.com
 console.dashlane.com
@@ -4449,7 +4438,6 @@ https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
 https://apps.apple.com/us/app/anytask-com/id6741158899
 https://apps.apple.com/us/app/asana-mobile/id489969512
 https://apps.apple.com/us/app/auth0-guardian/id1093447833
-https://apps.apple.com/us/app/backblaze/id628638330
 https://apps.apple.com/us/app/bforbank-banque-en-ligne/id1607839793
 https://apps.apple.com/us/app/bitso-alpha-crypto-trade-pro/id1539469172
 https://apps.apple.com/us/app/bitso-buy-bitcoin-easily/id1292836438
@@ -4557,7 +4545,6 @@ https://b2bapi.usaa.com
 https://b2blsapi-a.usaa.com
 https://b2blsapi.usaa.com
 https://baby.zola.com/
-https://backblaze.com
 https://backend.ibotta.com/
 https://base.org
 https://bb1.simplisafe.com
@@ -5838,7 +5825,6 @@ https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&hl
 https://play.google.com/store/apps/details?id=com.atlassian.confluence.server
 https://play.google.com/store/apps/details?id=com.atlassian.jira.server&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.auth0.guardian&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.backblaze.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.belongi.moe
 https://play.google.com/store/apps/details?id=com.bforbank.android
 https://play.google.com/store/apps/details?id=com.bitmex.app.android.testnet
@@ -6873,7 +6859,6 @@ login-accpt.portofantwerpbruges.com
 login-api.truelayer[-sandbox].com
 login-ia.tvg.com
 login-pabets.tvg.com
-login.arkane.network
 login.cm.com
 login.delen.be 
 login.delen.ch 
@@ -6888,7 +6873,6 @@ login.starbucks.co.jp
 login.swapcard.com
 login.truelayer[-sandbox].com
 login.tvg.com
-login.venly.io
 login.www.vaxvacationaccess.com
 logistica.redelcom.cl
 logitech.zendesk.com
@@ -8005,7 +7989,6 @@ waf.cumulusfire.net
 wallet-sandbox.uphold.com
 wallet.etoro.com
 wallet.tg
-wallet.venly.io
 walletbot.me
 wallets.api.playstation.com
 was-gw-cf.*.aws.indriverapp.com
