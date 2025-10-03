@@ -124,7 +124,6 @@
 *.arlo.com
 *.arloxcld.com
 *.artstation.com
-*.as-nmt.de
 *.asana.biz
 *.atairbnb.com
 *.atg.se
@@ -132,8 +131,6 @@
 *.atspotify.com
 *.audible.(TLD)
 *.audicagame.com
-*.auth.bild.de
-*.autobild.de
 *.avecspotify.com
 *.ayco.com
 *.backblazeb2.com
@@ -147,8 +144,6 @@
 *.betfair.se
 *.betsharedservices.io
 *.betviewapi.com
-*.bild.de
-*.bild.tv
 *.binary.com
 *.bingoblitz.com
 *.bionic.ai
@@ -184,7 +179,6 @@
 *.bybit.tr
 *.bykea.net
 *.byspotify.com
-*.bz-berlin.de
 *.caesarsgames.com
 *.call-control.ie
 *.canva-apps.cn
@@ -234,7 +228,6 @@
 *.coinbase.com
 *.coindcx.com
 *.comcast.com
-*.computerbild.de
 *.consumer.worldcoin.org
 *.contactallerg(y|ie).uzleuven.be
 *.contentsquare.com
@@ -296,7 +289,6 @@
 *.earlywarning.com
 *.easy.ac
 *.edition.in
-*.ein-herz-fuer-kinder.de
 *.elastic.co
 *.elasticnet.co
 *.elstc.co
@@ -326,7 +318,6 @@
 *.fareharbor.engineering
 *.feednews.com
 *.fetlife.com
-*.fitbook.de
 *.flickr.com
 *.flipkey.com
 *.flowsecurity.app
@@ -345,11 +336,8 @@
 *.fromspotify.com
 *.fuze.com
 *.fuze.site
-*.gamma.be/*
-*.gamma.nl/*
 *.genoapay.co.nz
 *.genoapay.com
-*.germany.politico.eu
 *.gethypr.com
 *.getmeetio.com
 *.github.net
@@ -410,7 +398,6 @@
 *.helloworks.com
 *.here.com
 *.hereapi.com
-*.hey.bild.de
 *.hey.com
 *.highwebmedia.com
 *.hilton.com
@@ -462,9 +449,6 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
-*.intergamma-test.nl
-*.intergamma.cloud
-*.intergamma.nl/*
 *.itcapital.io
 *.jbl.com
 *.jbl.com.br
@@ -476,8 +460,6 @@
 *.jora.com
 *.jora.xyz
 *.justfall.lol,*.justplay.lol,*.1v1.lol
-*.karwei.nl/*
-*.karweioutletstore.nl
 *.kayak.com
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
@@ -622,7 +604,6 @@
 *.mworld.com
 *.myfitnesspal.com
 *.myharmony.com
-*.myhomebook.de
 *.myinsights.io
 *.mysqueezebox.com
 *.myteksi.com
@@ -709,8 +690,6 @@
 *.personio.de
 *.personio.tools
 *.personiowhistleblowing.com
-*.petbook-magazine.com/
-*.petbook.de
 *.piaservers.com
 *.piaservers.net
 *.pinterest.com Web Apps
@@ -777,7 +756,6 @@
 *.redecor.com
 *.rentalcars.com
 *.reposify.com
-*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -865,12 +843,9 @@
 *.souparea.com
 *.spiketrap.io
 *.spinaway.com
-*.sportbild.de
 *.sportinglife.com
 *.spotify.com
 *.spotify.net
-*.spring-media.de
-*.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sqills.com
@@ -891,7 +866,6 @@
 *.streamlabscharity.com
 *.stripe.com
 *.studiopress.com
-*.stylebook.de
 *.subp-router.hereapi.com
 *.superbet.com
 *.superbet.pl
@@ -905,7 +879,6 @@
 *.sys.comcast.net
 *.tdl.sh
 *.teams.cloudflare.com
-*.techbook.de
 *.telenor.se
 *.tesla.cn
 *.tesla.com
@@ -937,7 +910,6 @@
 *.trafficjunky.com
 *.trainpal.com,*.mytrainpal.com
 *.transferwise.com
-*.travelbook.de
 *.travelocity.ca
 *.travelocity.com
 *.travix.com
@@ -1034,15 +1006,10 @@
 *.weareone.world
 *.wellsfargo.com
 *.wellsfargoadvisors.com
-*.welt.de
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
 *.wf.com
 *.wholesalexl.com
 *.wimpmusic.com
 *.wise.com
-*.wissen-sie-mehr.de
 *.withairbnb.com
 *.withbuddies.com
 *.withspotify.com
@@ -1213,7 +1180,6 @@
 1532153219
 1541949985
 1552455423
-1558129454
 1570215232
 1579372261
 1579530451
@@ -1233,7 +1199,6 @@
 172.26.2.133
 172.26.39.9
 174.44.253.152/29
-18.184.198.198, 18.185.214.59, 18.194.109.179, 3.121.117.72, 3.121.138.10, 3.121.138.128, 3.121.138.134, 3.121.138.170, 3.121.138.33, 3.121.138.43, 3.124.248.208, 35.156.137.39
 185.210.32.0/22
 185.26.180.0/22
 188.118.8.0/25
@@ -1536,9 +1501,6 @@
 943905271
 944011620
 947984433
-949829216
-950680989
-950693949
 955837609
 960335206
 961114489414094898
@@ -3059,7 +3021,6 @@ bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
 be.delen.digital
-be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -3071,7 +3032,6 @@ beta-cloud.acronis.com
 bettrfinancing.com
 bgpview.io
 bigcommerce-adapter.judge.me
-bild.de
 billing-pci.etoro.com
 billing.etoro.com
 billingsupport.chaturbate.com
@@ -3150,7 +3110,6 @@ caldav.larksuite.com
 calendar.infomaniak.com
 callbacks.airbnb.com
 cam.notebleue.pro
-cancellation.prod.ps.welt.de
 candle-src.etoro.com
 candle.etoro.com
 capi.grammarly.com
@@ -3736,7 +3695,6 @@ dcfgateway*.marriott.com
 de.bmw.connected.mobile20.row
 de.forescout.cloud
 dealer.porsche.com
-dealer.prod.ps.axelspringer.de/purchases/*
 debug.8x8.com
 debug.clairvoyance.indrive.tech
 decision.swiftfinancial.com
@@ -3782,7 +3740,6 @@ devhub.arubanetworks.com
 dh-gw-cf.*.aws.indriverapp.com
 dic.pixiv.net
 digili.s-cloud.fi
-digital.welt.de
 digitaloceanmirrors.com
 digitaloceanpartners.com
 digitaloceanstatus.com
@@ -3842,7 +3799,6 @@ edgeapis.onecloud.harman.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
 editeurs.monespacesante.fr
-editorial.one
 education.23andme.com
 education.github.com
 eero (2nd Generation)
@@ -3866,7 +3822,6 @@ embed.vhx.tv
 en.casinohuone.com
 en.kolikkopelit.com
 en.ottokasino.com
-epaper.welt.de
 epptool-ctld.verisign-grs.com (EPP service; DNS related)
 erpx.unit4cloud.com/u4erx_pab_acp1
 erpx.unit4cloud.com/u4erx_pab_prev
@@ -3977,7 +3932,6 @@ gehmmocbbkpblljhkekmfhjpfbkclbph
 geminiadvisory.io
 geneva-staging.chat
 geofilters.snapchat.com
-germany.politico.eu
 getworldcoin.com
 gh-mail.expressvpn.com
 gift.starbucks.co.jp
@@ -4001,7 +3955,6 @@ gnip.com
 gnocchi-www.buffalo-ggn.net
 go.capital.com
 go.geneva-staging.com
-go.welt.de
 goldmansachsindices.com
 googleplace*.bykea.net
 gopaymerchant.midtrans.com
@@ -6771,9 +6724,6 @@ k8s.gcr.io
 k8s.io
 kaccount.khealth.com
 kartaview.org
-kassa.gamma.be/*
-kassa.gamma.nl/*
-kassa.karwei.nl/*
 kayak.ai
 kb.databricks.com
 kidswebservices.com
@@ -6887,7 +6837,6 @@ m.4njbets.tvg.com
 m.airbnb.com
 m.avtoelon.uz
 m.badoo.com
-m.bild.de
 m.chaturbate.com
 m.kolesa.kz
 m.krisha.kz
@@ -6973,7 +6922,6 @@ medical.23andme.com
 meechum.netflix.com
 meetings.hyatt.com
 meetiobook.com
-meinkonto.bild.de
 meliplay.com.ar
 meliplay.com.pe
 meliplay.com.uy
@@ -7008,9 +6956,6 @@ mgmtpod-1.production.forescoutcloud.net
 mgs.marriott.com
 microsite.porsche.com
 middle-force.khealth.io
-mijn.gamma.be/*
-mijn.gamma.nl/*
-mijn.karwei.nl/*
 mijnacc.uzleuven.be
 mipartnerprivileges.marriott.com
 mirc.uzleuven.be
@@ -7178,9 +7123,6 @@ nha-gw-cf.*.aws.indriverapp.com
 niantic.kidswebservices.com
 ninja.kiwi
 ninjakiwi.com
-nl.gamma.app.android
-nl.gamma.verf
-nl.karwei.app.android
 nmtracking.netflix.com
 no-cf.*.aws.indriverapp.com
 no-gw-cf.*.aws.indriverapp.com
@@ -7637,7 +7579,6 @@ shopifyinbox.com
 shoppers.instacart.com
 sign.dropbox.com
 signature-insights.api.cx.metamask.io
-signin.auth.welt.de
 signup.myconnect.com.au
 signup.porsche.com
 simperium.com
@@ -8014,7 +7955,6 @@ webwinkel.volkskrant.nl
 welcome.infomaniak.com
 wellbeing.deezer.com
 wellbeing.dzcdn.net
-welt.de
 wga.volans.tech
 widget.rentalcars.com
 wiki-accpt.portofantwerp.com
@@ -8191,8 +8131,6 @@ www.fortress.com.hk
 www.fraedom.com
 www.funjet.com
 www.fuzemeeting.com
-www.gamma.be/*
-www.gamma.nl/*
 www.geneva-staging.chat
 www.geneva-staging.com
 www.getaroom.com
@@ -8221,7 +8159,6 @@ www.infomaniak.com
 www.instacart.com
 www.intigriti.com
 www.jaybirdsport.com
-www.karwei.nl/*
 www.kayak.com
 www.kinepolis.be 
 www.kinepolis.biz
