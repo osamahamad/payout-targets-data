@@ -314,6 +314,8 @@
 *.fromspotify.com
 *.fuze.com
 *.fuze.site
+*.gamma.be/*
+*.gamma.nl/*
 *.genoapay.co.nz
 *.genoapay.com
 *.gethypr.com
@@ -427,6 +429,9 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
+*.intergamma-test.nl
+*.intergamma.cloud
+*.intergamma.nl/*
 *.itcapital.io
 *.jbl.com
 *.jbl.com.br
@@ -438,6 +443,8 @@
 *.jora.com
 *.jora.xyz
 *.justfall.lol,*.justplay.lol,*.1v1.lol
+*.karwei.nl/*
+*.karweioutletstore.nl
 *.kayak.com
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
@@ -734,6 +741,7 @@
 *.redecor.com
 *.rentalcars.com
 *.reposify.com
+*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -748,6 +756,8 @@
 *.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
 *.savers.co.uk
+*.say.rocks
+*.saytechnologies.com
 *.sbb.ch
 *.sbgcdn.com
 *.sbgcore.com
@@ -982,6 +992,9 @@
 *.weareone.world
 *.wellsfargo.com
 *.wellsfargoadvisors.com
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
 *.wf.com
 *.wholesalexl.com
 *.wimpmusic.com
