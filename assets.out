@@ -254,7 +254,6 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
-*.datacamp.com
 *.de.jbl.com
 *.deliciousbrains.com
 *.dell.com/*
@@ -788,6 +787,7 @@
 *.robinhood.net
 *.roblox.com
 *.rocketleague.com
+*.rockstargames.com
 *.romwe.com
 *.router.hereapi.com
 *.runnr.in
@@ -2295,6 +2295,7 @@ Ring Smart Lighting Bridge
 Roblox Client
 Roblox Engine
 Roblox Studio
+Rockstar Games Launcher
 Ruby Driver
 Rust Driver
 Rust SDK
@@ -2896,15 +2897,11 @@ apix.vodafone.om
 app*.hubspot.com
 app-*.easy4ipcloud.com
 app.Reclaim.ai
-app.aikido.dev
 app.alasco.de
 app.avtoelon.uz
 app.blueskytravelvietnam.com
 app.circle.com
 app.dashlane.com
-app.datacamp.com/certification
-app.datacamp.com/groups
-app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -2999,9 +2996,6 @@ as2.portofantwerp.com
 as2.portofantwerpbruges.com
 ask.khealth.com
 asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com 
-assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.spotify.com
@@ -3162,7 +3156,6 @@ caldav.larksuite.com
 calendar.infomaniak.com
 callbacks.airbnb.com
 cam.notebleue.pro
-campus.datacamp.com
 cancellation.prod.ps.welt.de
 candle-src.etoro.com
 candle.etoro.com
@@ -3222,6 +3215,7 @@ christmas-silence.porsche.com
 cht-cf.*.aws.indriverapp.com
 cht-gw-cf.*.aws.indriverapp.com
 circle.logi.com
+circolocorecords.com/
 cl.nba.com
 classroom.github.com
 clay.earth
@@ -3365,7 +3359,6 @@ com.creditkarma.mobile
 com.creditkarma.mobile.international
 com.dashlane
 com.dashlane.dashlanephonefinal
-com.datacamp
 com.defi.wallet
 com.deribit
 com.dolap.android
@@ -4386,7 +4379,6 @@ https://apps.apple.com/app/thefork-manager-neo/id1295795281
 https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
-https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
@@ -7412,7 +7404,6 @@ portswigger.net
 pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
 pr-gw-cf.*.aws.indriverapp.com
-practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -7446,6 +7437,7 @@ prod-*.nu.com.co
 prod-*.nu.com.mx
 prod-*.nubank.com.br
 prod.porsche-design.com
+prod.ros.rockstargames.com
 proddata.xobni.yahoo.com
 production.plaid.com
 professionnels.vaccination-info-service.fr
@@ -7454,7 +7446,6 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profiler.firefox.com
-projects.datacamp.com
 projects.nextcloud.com
 promos.tvg.com
 prow.k8s.io
@@ -7550,6 +7541,7 @@ rivian.com
 rma.ui.com
 ro.superbet.games
 ro.superbet.sport
+rockstarnorth.com
 roominglist.hyatt.com
 router.geneva-staging.com
 rp-cf.*.aws.indriverapp.com
@@ -7689,6 +7681,7 @@ social-trading.exness.com
 social.geneva-staging.chat
 social.geneva-staging.com
 social.playstation.com
+socialclub.rockstargames.com
 socialimpact.nba.com
 sockets.geneva-staging.chat
 sockets.geneva-staging.com
@@ -7752,6 +7745,7 @@ storage*.infomaniak.com
 store.23andme.com
 store.playcanvas.com
 store.playstation.com
+store.rockstargames.com
 store.snapchat.com
 store.steampowered.com
 store.tomorrowland.com
@@ -7799,6 +7793,7 @@ support.metamask.io
 support.monespacesante.fr
 support.mozilla.org
 support.nextcloud.com
+support.rockstargames.com
 support.steampowered.com
 supportal.netlify.app
 sur-cf.*.aws.indriverapp.com
@@ -8126,8 +8121,6 @@ www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
 www.dashlane.com
-www.datacamp.com
-www.datacamp.com/datalab
 www.datastax.com
 www.ddfcontent.com
 www.deezer.com
@@ -8336,6 +8329,7 @@ www.qwant.com
 www.recordedfuture.com
 www.redoxengine.com
 www.ritzcarlton.com/
+www.rockstargames.com
 www.s-kaupat.fi
 www.s-pankki.fi
 www.sa.dyson.com
