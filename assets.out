@@ -294,9 +294,11 @@
 *.dropmix.com
 *.dropxl.com
 *.dsanalytics.com
+*.e2ro.com
 *.earlywarning.com
 *.easy.ac
 *.edition.in
+*.eero.com
 *.ein-herz-fuer-kinder.de
 *.elastic.co
 *.elasticnet.co
@@ -3854,14 +3856,7 @@ editeurs.monespacesante.fr
 editorial.one
 education.23andme.com
 education.github.com
-eero (2nd Generation)
-eero 6 (3rd Generation)
-eero 6 Extender (3rd Generation)
-eero 6 Pro
-eero 6+ (4th Gen)
-eero 6E Pro (4th Gen)
-eero Beacon (2nd Generation)
-eero Pro (2nd Generation)
+eero Devices
 eets-sftp-listener.gamma.redoxstage.com
 eets.gamma.redoxstage.com
 effecthouse.tiktok.com
@@ -4247,7 +4242,6 @@ https://api-portal.originzero.com.au
 https://api-prod.retailsso.com
 https://api-prod.thatconceptstore.com/
 https://api-skipthedishes.skipthedishes.com
-https://api-user.e2ro.com/*
 https://api.20min.ch/
 https://api.aiven.io/login
 https://api.anytask.com/
@@ -5716,7 +5710,6 @@ https://net.geo.opera.com
 https://newrelic.com/
 https://newrelic.com/blog
 https://nice.wfmusaa.com
-https://node.e2ro.com/*
 https://nominatim.bykea.net
 https://northwesternmutual.com
 https://nubank.com.br/
