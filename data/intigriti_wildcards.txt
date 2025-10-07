@@ -52,6 +52,9 @@
 *.reclaim.ai
 *.helloworks.com
 *.hellosign.com
+sos-*.exo.io
+sks-*.exo.io
+*.internal.exoscale.ch
 *.account.api.here.com
 *.account.here.com
 *.mobilitygraph.hereapi.com

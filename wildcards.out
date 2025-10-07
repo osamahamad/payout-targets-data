@@ -446,6 +446,7 @@
 *.intergamma-test.nl
 *.intergamma.cloud
 *.intergamma.nl/*
+*.internal.exoscale.ch
 *.itcapital.io
 *.jbl.com
 *.jbl.com.br
@@ -1154,8 +1155,10 @@ rsm-cf.*.aws.indriverapp.com
 sc-cf.*.aws.indriverapp.com
 sfc-cf.*.aws.indriverapp.com
 sfc-gw-cf.*.aws.indriverapp.com
+sks-*.exo.io
 sn-api-cf.*.aws.indriverapp.com
 sn-api-gw-cf.*.aws.indriverapp.com
+sos-*.exo.io
 storage*.infomaniak.com
 support*.earlywarning.com
 sur-cf.*.aws.indriverapp.com

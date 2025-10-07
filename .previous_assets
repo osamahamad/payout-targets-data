@@ -11,6 +11,7 @@
  Watsons.TaiWan.Android
  aweb.suivo.com
  com.citymapper.app.release
+ https://api-*exoscale.com/v2
  https://github.com/0xPolygon/proof-generation-api
  idp-contact.nexuzhealth.be
  login-test.portofantwerpbruges.com/
@@ -474,6 +475,7 @@
 *.intergamma-test.nl
 *.intergamma.cloud
 *.intergamma.nl/*
+*.internal.exoscale.ch
 *.itcapital.io
 *.jbl.com
 *.jbl.com.br
@@ -4753,6 +4755,7 @@ https://collections.monash.edu/
 https://community.arlo.com
 https://community.cloud.databricks.com/
 https://community.etsy.com
+https://community.exoscale.com/
 https://community.personio.com
 https://compulsoryunits.monash.edu/
 https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
@@ -6538,6 +6541,7 @@ https://www.etsy.com/developers/documentation/getting_started/api_basics
 https://www.etsy.com/mobile
 https://www.eu.lululemon.com/
 https://www.exantediet.com/
+https://www.exoscale.com/
 https://www.eyeko.com/
 https://www.financeiro.quintoandar.com.br/*
 https://www.finicity.com
@@ -7810,6 +7814,7 @@ site.rewire.com
 sites.fareharbor.com
 sketch.pixiv.net
 skills-store.amazon.com
+sks-*.exo.io
 sky-dev.wnba.com
 sky-qa.wnba.com
 sky.wnba.com
@@ -7845,6 +7850,7 @@ sockets.geneva-staging.chat
 sockets.geneva-staging.com
 solutions-environnement.vinci.com
 sorare.com
+sos-*.exo.io
 sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com
 spaces.pm
 spark.fareharbor.com
