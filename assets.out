@@ -125,6 +125,7 @@
 *.arloxcld.com
 *.artstation.com
 *.as-nmt.de
+*.asadcdn.com
 *.asana.biz
 *.atairbnb.com
 *.atg.se
@@ -2653,6 +2654,7 @@ adobeid-na1.services.adobe.com
 ads.reddit.com
 ads.snapchat.com
 ads.tiktok.com
+adtechnology.axelspringer.com
 advisories.gitlab.com
 advocates.databricks.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
@@ -4843,6 +4845,12 @@ https://github.com/0xPolygon/chain-indexer-framework
 https://github.com/0xPolygon/heimdall-v2
 https://github.com/0xPolygon/lxly.js
 https://github.com/0xPolygon/static
+https://github.com/AikidoSec/firewall-node#Detection Bypass
+https://github.com/AikidoSec/firewall-node#False Positive
+https://github.com/AikidoSec/firewall-node#Vulnerability
+https://github.com/AikidoSec/firewall-python#Detection Bypass
+https://github.com/AikidoSec/firewall-python#False Positive
+https://github.com/AikidoSec/firewall-python#Vulnerability
 https://github.com/Aiven
 https://github.com/Aiven-Open
 https://github.com/Chia-Network/chia-blockchain
@@ -4924,6 +4932,8 @@ https://github.com/digitalocean/do-markdownit
 https://github.com/digitalocean/doctl
 https://github.com/digitalocean/droplet-agent
 https://github.com/digitalocean/go-nbd
+https://github.com/digitalocean/godo
+https://github.com/digitalocean/pydo
 https://github.com/digitalocean/terraform-provider-digitalocean
 https://github.com/discourse/discourse
 https://github.com/django
