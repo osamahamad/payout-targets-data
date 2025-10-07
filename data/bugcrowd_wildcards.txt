@@ -153,6 +153,9 @@ prod-*.nu.com.co
 *.aips-internal.com
 *.certsy.com
 *.certsynonprod.com
+*.jobsdb.com
+*.jobstreet.com
+*.seekasia.com
 *.prd.cam.simplisafe.com (HSP Endpoints)
 *.prd.platform.simplisafe.com (HSP Endpoints)
 *.prd.services.simplisafe.com (HSP Endpoints)
