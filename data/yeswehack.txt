@@ -24,11 +24,6 @@ Log4j API for Kotlin
 Log4j API for Scala
 Log4cxx
 Log4net
-Agora for Android (see dowload link for APK file and mobile app GitHub repository in description)
-Agora for iOS (see dowload link for IPA file and mobile app GitHub repository in description)
-https://app.sandbox.agora.incubateur.net
-https://api.sandbox.agora.incubateur.net  (source code available on GitHub, see description)
-https://content.agora.beta.gouv.fr
 https://play.google.com/store/apps/details?id=com.bitoasis&hl=en
 https://apps.apple.com/ae/app/bitoasis-buy-bitcoin-crypto/id1521661794
 https://play.google.com/store/apps/details?id=com.bforbank.android
@@ -79,6 +74,10 @@ https://www.decathlon.(ch|fr|hu|pl|ro|cz|com.tr)/
 https://www.decathlon.(co.uk|it|nl|de|pt|es|be)/
 https://login.decathlon.net/*
 https://account.decathlon.com/*
+Agora for Android (see dowload link for APK file and mobile app GitHub repository in description)
+Agora for iOS (see dowload link for IPA file and mobile app GitHub repository in description)
+https://app.sandbox.agora.incubateur.net
+https://api.sandbox.agora.incubateur.net  (source code available on GitHub, see description)
 https://www.demarches-simplifiees.fr
 https://www.demarches-simplifiees.fr/graphql
 https://www.demarches-simplifiees.fr/api/v2/graphql
@@ -304,6 +303,9 @@ https://payoutapi.maya.ph/
 https://op.paymaya.com/
 https://connect.paymaya.com/
 https://paymayabiller-prod.paymaya.com/
+https://bug-bounty-dfm.mementoblockchain.com/
+https://api.dextf.com/dd/
+https://api.dextf.com/dcd/
 www.monespacesante.fr
 admincms.monespacesante.fr
 adminstore.monespacesante.fr
