@@ -509,6 +509,7 @@
 *.kwsdose.be
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
+*.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
 *.latitudefinancial.co.nz
@@ -1668,6 +1669,7 @@ Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure o
 Any public cloud resource or infrastructure operated and managed by REI.
 Any publicly accessible Tripadvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
 Any related DPG media domain
+Any related Torfs domain
 Any resource created or accessed with the Outscale Cloud on eu-west-2 region -  created by the Hunter
 Any subdomain application issue
 Any subdomain infrastructure issue
@@ -2166,6 +2168,7 @@ Mi/Redmi Phone
 Microsites
 Mobile Applications
 Mobile Apps
+Modernized Discovery
 MoneyBack.HongKong.Android
 MoneyBack.HongKong.iOS
 MongoDB Community Server Local Instance
@@ -2810,6 +2813,7 @@ api.khealth.io
 api.kolesa.kz
 api.krisha.kz
 api.krisp.ai
+api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
@@ -2937,6 +2941,8 @@ app.krisha.kz
 app.krisp.ai
 app.kruidvat.be
 app.kruidvat.nl
+app.lansweeper.com
+app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
 app.localizestaging.com
@@ -3042,12 +3048,14 @@ authz.workbox.dk
 autocomplete.booking.com
 autodiscover.uzleuven.be
 autointerface.stag.visma.net
+autoupdateapi.lansweeper.com
 avtoelon.uz
 aw.visa.com
 ax-stage.maventa.com
 b2b.porsche-design.com
 b2b.tvgnetwork.com
 b5s.hackerone-ext-content.com
+backoffice.lansweeper.com
 backstage.io
 badoo.com
 badoocdn.com
@@ -3814,6 +3822,7 @@ docs.api.enterprise.uphold.com
 docs.databricks.com
 docs.datastax.com
 docs.gitlab.com
+docs.lansweeper.com
 docs.launchdarkly.com
 docs.nextcloud.com
 docs.optimuscards.com
@@ -3847,6 +3856,7 @@ ebctest.cybersource.com
 ebsext.oft.hyatt.com
 ecc.porsche.com
 ecrf.uzleuven.be
+edge.lansweeper.com
 edgeapi.slack.com
 edgeapis.onecloud.harman.com
 editeur.am.monespacesante.fr
@@ -5291,6 +5301,7 @@ https://login.salt.ch
 https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
+https://lsagentrelay.lansweeper.com/
 https://luna.amazon.com/*
 https://m-api.lafourchette.com
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
@@ -6888,6 +6899,7 @@ login.delen.be
 login.delen.ch 
 login.delen.lu 
 login.infomaniak.com
+login.lansweeper.com
 login.oyens.com
 login.pabets.tvg.com
 login.playcanvas.com
@@ -7235,6 +7247,7 @@ octopus
 odoo14.notebleue.pro
 offsite.omise.co
 om.vodafone.mva
+on-premises software
 on-ramp.metaswap-dev.codefi.network
 onboarding-*.cloud.com
 onboarding-api.truelayer.com
@@ -8067,6 +8080,7 @@ winecellar.zomato.com
 wings-dev.wnba.com
 wings-qa.wnba.com
 wings.wnba.com
+winkels.torfs.be
 winter.tomorrowland.com
 winterpackages.tomorrowland.com
 wlr-cf.*.aws.indriverapp.com
@@ -8279,6 +8293,7 @@ www.kruidvat.nl
 www.lab-recherche-environnement.org
 www.lafabriquedelacite.com
 www.landmarkcinemas.com
+www.lansweeper.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.leather.io
@@ -8363,8 +8378,11 @@ www.rockstargames.com
 www.s-kaupat.fi
 www.s-pankki.fi
 www.sa.dyson.com
+www.samenfittorfs.be
 www.sbb.ch
 www.sbbcargo.com
+www.schoenentorfs.be
+www.schoenentorfs.nl 
 www.sheer.com
 www.six-group.com
 www.socialdeal.nl
@@ -8394,6 +8412,8 @@ www.theperfumeshop.com
 www.tink.com
 www.tomorrowland.com
 www.topperpay.com
+www.torfs.be
+www.torfs.nl
 www.trajeoh.com
 www.transsicura.ch
 www.travelocity.ca
