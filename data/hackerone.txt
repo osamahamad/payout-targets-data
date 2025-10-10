@@ -2768,7 +2768,6 @@ BrowserGuard (Firefox/Chrome/Safari browser extension)
 Malwarebytes Anti-Exploit
 Malwarebytes Device Control
 Malwarebytes Endpoint Detection and Response (EDR)
-Malwarebytes Endpoint Protection
 Malwarebytes Incident Response
 Malwarebytes Privacy (VPN)
 Malwarebytes Remediation for CrowdStrike
@@ -2778,6 +2777,7 @@ Malwarebytes Windows Firewall Control
 Malwarebytes for Mac
 Malwarebytes for Teams
 Malwarebytes for Windows
+ThreatDown Endpoint Protection
 USB Flash Drive Control
 Vulnerability & Patch Management
 blog.malwarebytes.com

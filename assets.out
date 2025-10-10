@@ -2126,7 +2126,6 @@ Malicious or compromised gem
 Malwarebytes Anti-Exploit
 Malwarebytes Device Control
 Malwarebytes Endpoint Detection and Response (EDR)
-Malwarebytes Endpoint Protection
 Malwarebytes Incident Response
 Malwarebytes Privacy (VPN)
 Malwarebytes Remediation for CrowdStrike
@@ -2451,6 +2450,7 @@ Third Party Snaps
 Third Party Targets
 ThousandEyes Endpoint Agent 
 ThousandEyes Enterprise Agent
+ThreatDown Endpoint Protection
 Tidal Client for Android
 Tidal Client for iOS
 Tidal Official Clients (e.g. Sonos integration, Tesla integration, etc.)
