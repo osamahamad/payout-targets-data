@@ -509,7 +509,6 @@
 *.kwsdose.be
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
-*.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
 *.latitudefinancial.co.nz
@@ -1992,11 +1991,6 @@ GitLab for Jira Cloud
 Github findings
 GlotPress
 Google Cloud Plateform Instances
-Grafana Loki
-Grafana Mimir
-Grafana OSS
-Grafana Pyroscope
-Grafana Tempo
 Grammarly AI Assistant
 Grammarly Auth Services
 Grammarly Business Features
@@ -2159,7 +2153,6 @@ Mi/Redmi Phone
 Microsites
 Mobile Applications
 Mobile Apps
-Modernized Discovery
 MoneyBack.HongKong.Android
 MoneyBack.HongKong.iOS
 MongoDB Community Server Local Instance
@@ -2191,7 +2184,6 @@ Nintendo Switch applications for which Nintendo is the publisher worldwide
 Node.js Driver
 Non Altera Products
 Non-Core Assets
-Non-Core Grafana Plugins
 NordPass - Linux Executable
 NordPass - MacOS Executable
 NordPass - Windows Executable
@@ -2806,7 +2798,6 @@ api.khealth.io
 api.kolesa.kz
 api.krisha.kz
 api.krisp.ai
-api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
@@ -2935,8 +2926,6 @@ app.krisha.kz
 app.krisp.ai
 app.kruidvat.be
 app.kruidvat.nl
-app.lansweeper.com
-app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
 app.localizestaging.com
@@ -3043,14 +3032,12 @@ authz.workbox.dk
 autocomplete.booking.com
 autodiscover.uzleuven.be
 autointerface.stag.visma.net
-autoupdateapi.lansweeper.com
 avtoelon.uz
 aw.visa.com
 ax-stage.maventa.com
 b2b.porsche-design.com
 b2b.tvgnetwork.com
 b5s.hackerone-ext-content.com
-backoffice.lansweeper.com
 backstage.io
 badoo.com
 badoocdn.com
@@ -3816,7 +3803,6 @@ docs.api.enterprise.uphold.com
 docs.databricks.com
 docs.datastax.com
 docs.gitlab.com
-docs.lansweeper.com
 docs.launchdarkly.com
 docs.nextcloud.com
 docs.optimuscards.com
@@ -3850,7 +3836,6 @@ ebctest.cybersource.com
 ebsext.oft.hyatt.com
 ecc.porsche.com
 ecrf.uzleuven.be
-edge.lansweeper.com
 edgeapi.slack.com
 edgeapis.onecloud.harman.com
 editeur.am.monespacesante.fr
@@ -4948,7 +4933,6 @@ https://github.com/expressvpn/lightway-core
 https://github.com/freedomofpress/securedrop
 https://github.com/freedomofpress/securedrop-client
 https://github.com/freedomofpress/securedrop-workstation
-https://github.com/grafana/*
 https://github.com/hyperledger/besu
 https://github.com/hyperledger/besu-errorprone-checks
 https://github.com/hyperledger/besu-native
@@ -5296,7 +5280,6 @@ https://login.salt.ch
 https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
-https://lsagentrelay.lansweeper.com/
 https://luna.amazon.com/*
 https://m-api.lafourchette.com
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
@@ -6895,7 +6878,6 @@ login.delen.be
 login.delen.ch 
 login.delen.lu 
 login.infomaniak.com
-login.lansweeper.com
 login.oyens.com
 login.pabets.tvg.com
 login.playcanvas.com
@@ -7241,7 +7223,6 @@ octopus
 odoo14.notebleue.pro
 offsite.omise.co
 om.vodafone.mva
-on-premises software
 on-ramp.metaswap-dev.codefi.network
 onboarding-*.cloud.com
 onboarding-api.truelayer.com
@@ -8287,7 +8268,6 @@ www.kruidvat.nl
 www.lab-recherche-environnement.org
 www.lafabriquedelacite.com
 www.landmarkcinemas.com
-www.lansweeper.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.leather.io
