@@ -491,7 +491,6 @@
 *.kdrive.infomaniak.com
 *.khealth.com
 *.khealth.io/
-*.khealth.us/
 *.kiln.it
 *.kinepolis.be
 *.kinepolis.ch
@@ -2801,7 +2800,6 @@ api.iciparisxl.nl
 api.infomaniak.com
 api.instacart.com
 api.khealth.com
-api.khealth.io
 api.kolesa.kz
 api.krisha.kz
 api.krisp.ai
@@ -7046,7 +7044,6 @@ mgmtpod-1-dashboard.production.forescoutcloud.net
 mgmtpod-1.production.forescoutcloud.net
 mgs.marriott.com
 microsite.porsche.com
-middle-force.khealth.io
 mijn.gamma.be/*
 mijn.gamma.nl/*
 mijn.karwei.nl/*
