@@ -78,6 +78,9 @@
 *.algolia.net
 *.algolianet.com
 *.alipayplus.com
+*.allegro.cz.allegrosandbox.pl
+*.allegro.pl.allegrosandbox.pl
+*.allegro.sk.allegrosandbox.pl
 *.amazon.ae
 *.amazon.ca
 *.amazon.cl
@@ -614,6 +617,7 @@
 *.mona.co
 *.moneyback.com.hk
 *.monopoly-poker.com
+*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -745,6 +749,7 @@
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -1013,6 +1018,7 @@
 *.visamiddleeast.com
 *.vliegwinkel.nl
 *.vod2.infomaniak.com
+*.voiscooters.com
 *.volkskrant.nl
 *.volkswagen.de
 *.vpn.hackerone.net
@@ -1112,6 +1118,7 @@
 1023499075
 103.83.120.0/22
 1032480595
+1052238659
 1057338687
 107.167.96.0/19
 1076840480
@@ -1148,6 +1155,7 @@
 134.58.179.82
 1343620481
 1351179184
+1395921017
 140.95.0.0/16
 141.0.8.0/21
 1413287364
@@ -1984,6 +1992,11 @@ GitLab for Jira Cloud
 Github findings
 GlotPress
 Google Cloud Plateform Instances
+Grafana Loki
+Grafana Mimir
+Grafana OSS
+Grafana Pyroscope
+Grafana Tempo
 Grammarly AI Assistant
 Grammarly Auth Services
 Grammarly Business Features
@@ -2178,6 +2191,7 @@ Nintendo Switch applications for which Nintendo is the publisher worldwide
 Node.js Driver
 Non Altera Products
 Non-Core Assets
+Non-Core Grafana Plugins
 NordPass - Linux Executable
 NordPass - MacOS Executable
 NordPass - Windows Executable
@@ -3236,6 +3250,7 @@ co-in-gw-cf.*.aws.indriverapp.com
 co.mona.android
 co.tide
 co.tide.tideplatform.in
+co.uk.getmondo
 coaching.supernovas.indrive.com
 coalition.nba.com
 coban.pixiv.net
@@ -4302,6 +4317,7 @@ https://api.us1.fga.dev/
 https://api.usaa.com/
 https://api.vistarmedia.com
 https://api.vistarmedia.eu
+https://api.voiapp.io/
 https://api.welcomesoftware.com/
 https://api.wyzecam.com
 https://api.x.immutable.com/
@@ -4931,6 +4947,7 @@ https://github.com/expressvpn/lightway-core
 https://github.com/freedomofpress/securedrop
 https://github.com/freedomofpress/securedrop-client
 https://github.com/freedomofpress/securedrop-workstation
+https://github.com/grafana/*
 https://github.com/hyperledger/besu
 https://github.com/hyperledger/besu-errorprone-checks
 https://github.com/hyperledger/besu-native
@@ -6758,6 +6775,7 @@ io.getdelta.android
 io.getdelta.ios
 io.metamask
 io.metamask.Metamask
+io.voiapp.voi
 ir.bookingholdings.com
 ir.remitly.com
 ir.ui.com
@@ -6964,6 +6982,7 @@ mcdalerts-perf.nba.com
 mcdalerts-qa.nba.com
 mcdalerts-uat.nba.com
 mcdalerts.nba.com
+mds.voiapp.io
 media.drogas.lt
 media.drogas.lv
 media.iciparisxl.be
@@ -7050,6 +7069,7 @@ moneybird.com
 moneybirdstorage.com
 mongodb.live/*
 monitor.mozilla.org
+monzo.com
 moonpay.com
 movie.indrive.com
 movieapi.kinepolis.megatix.be
@@ -7527,6 +7547,7 @@ remitly.com
 replay.dropbox.com
 repo.magento.com
 report-html-sight.stg.inspectorio.com
+report.voi.com
 res.blueskytours.globalbookingsolutions.com
 res.funjet.com
 res.hyattinclusivecollection.com
@@ -7988,6 +8009,7 @@ visa.com.ua
 vm-gw-cf.*.aws.indriverapp.com
 voapi.8x8.com
 vod.infomaniak.com
+voi.com
 volans.tech
 vote.nba.com
 vpn.mobilevikings.be
@@ -8312,6 +8334,7 @@ www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
+www.monzo.com
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
@@ -8455,6 +8478,7 @@ www.visamiddleeast.com
 www.vivre-avec-la-chaleur.fr
 www.vladcazino.ro
 www.vodafone.om
+www.voiscooters.com
 www.volkskrant.nl
 www.volkskrant.nl/abonnementen
 www.vrbo.com

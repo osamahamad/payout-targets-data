@@ -1,4 +1,7 @@
 *.ad.nl
+*.allegro.cz.allegrosandbox.pl
+*.allegro.pl.allegrosandbox.pl
+*.allegro.sk.allegrosandbox.pl
 *.asadcdn.com
 *.hey.bild.de
 *.auth.bild.de
@@ -97,6 +100,8 @@ Leaked/compromised employee accounts *.here.com
 *.acc.mobilevikings.be
 *.dev-pub.mobilevikings.be
 *.dev.mobilevikings.be
+*.monzo.com
+*.prod-ffs.io
 *.ninjakiwi.me
 *.nkstatic.com
 *.souparea.com
@@ -142,6 +147,7 @@ Leaked/compromised employee accounts *.here.com
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
+*.voiscooters.com
 *. advancedcustomfields.com
 *. bettersearchreplace.com
 *.deliciousbrains.com
