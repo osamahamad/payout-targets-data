@@ -363,7 +363,6 @@
 *.gitlab.net
 *.gitlab.org
 *.gitlap.com
-*.glassdoor.com/*
 *.global-liquidity.gs.com
 *.go-pay.co.id
 *.gocardless-cicd.io
@@ -1113,7 +1112,6 @@
 0x7c31560552170ce96c4a7b018e93cddc19dc61b6
 0xfbfa258b9028c7d4fc52ce28031469214d10daeb
 1.1.1.1 Resolver
-1005070636
 1013961111
 1018340690
 102.23.96.0/22
@@ -1479,7 +1477,6 @@
 564141518
 566635048
 586634331
-589698942
 594802437
 597940518
 599664106
@@ -1939,6 +1936,7 @@ Finicity- Open Banking Payment History application
 FireTV
 Firmware
 Firmware: Mali Command Stream Frontend (CSF) Firmware
+Fishbowl
 Fleet Server
 Flex - Xfinity hardware and services
 Forge Platform
@@ -1991,7 +1989,13 @@ GitHub repositories
 GitLab and GitHub repos listed on this page
 GitLab for Jira Cloud
 Github findings
-Glassdoor Community
+Glassdoor APIs
+Glassdoor Android
+Glassdoor Authentication
+Glassdoor Heritage
+Glassdoor Infrastructure & Misc
+Glassdoor Jobs
+Glassdoor iOS
 GlotPress
 Google Cloud Plateform Instances
 Grafana Loki
@@ -3404,7 +3408,6 @@ com.freshworks.freshcaller
 com.frontapp.mobile
 com.getmeetio.*
 com.getmeetio.Meetio-Enterprise
-com.glassdoor.app
 com.goodrx
 com.goodrx.iphone
 com.grab.merchant
@@ -4268,7 +4271,6 @@ https://api.electroneum.com/
 https://api.enc.kape.com
 https://api.expressvpn.com
 https://api.fstr.rocks
-https://api.glassdoor.com/*
 https://api.ibops.net
 https://api.ibops.net/ad-management
 https://api.ibotta.com
@@ -4727,7 +4729,6 @@ https://dealflowapi.prosus.com
 https://demo.adstruc.com
 https://demo.myopenpass.com
 https://demo.priceless.com/
-https://design.glassdoor.com/*
 https://design.staples.com
 https://desk.thetradedesk.com
 https://desktop.water-link.be/
@@ -5175,7 +5176,6 @@ https://hackme.matrixreq.com
 https://head.coda.io/*
 https://healthmate.withings.com
 https://help.etsy.com
-https://help.glassdoor.com/*
 https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
 https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows.htm
 https://help.okta.com/en/prod/Content/Topics/Settings/download-browser-plugin.htm
@@ -6437,7 +6437,6 @@ https://www.flipkart.com
 https://www.galabingo.com
 https://www.galacasino.com
 https://www.gamemaker.io
-https://www.glassdoor.com/*
 https://www.glossybox.com/
 https://www.gohenry.com/
 https://www.governmentjobs.com
