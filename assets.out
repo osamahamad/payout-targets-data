@@ -615,7 +615,6 @@
 *.mona.co
 *.moneyback.com.hk
 *.monopoly-poker.com
-*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -747,7 +746,6 @@
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
-*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -1118,7 +1116,6 @@
 1023499075
 103.83.120.0/22
 1032480595
-1052238659
 1057338687
 107.167.96.0/19
 1076840480
@@ -1665,6 +1662,7 @@ Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure o
 Any public cloud resource or infrastructure operated and managed by REI.
 Any publicly accessible Tripadvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
 Any related DPG media domain
+Any related Torfs domain
 Any resource created or accessed with the Outscale Cloud on eu-west-2 region -  created by the Hunter
 Any subdomain application issue
 Any subdomain infrastructure issue
@@ -2729,15 +2727,12 @@ api-sandbox.uphold.com
 api-sandbox.uphold.com/graphql
 api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
-api-wallet-sandbox.venly.io
-api-wallet.venly.io
 api.23andme.com
 api.8x8.com
 api.adm.cloud.com
 api.airbnb.com
 api.alasco.de
 api.amazonalexa.com/*
-api.arkane.network
 api.atg.se
 api.au.frontegg.com
 api.avtoelon.uz
@@ -2906,6 +2901,7 @@ apix.vodafone.om
 app*.hubspot.com
 app-*.easy4ipcloud.com
 app.Reclaim.ai
+app.aikido.dev
 app.alasco.de
 app.avtoelon.uz
 app.blueskytravelvietnam.com
@@ -3256,7 +3252,6 @@ co-in-gw-cf.*.aws.indriverapp.com
 co.mona.android
 co.tide
 co.tide.tideplatform.in
-co.uk.getmondo
 coaching.supernovas.indrive.com
 coalition.nba.com
 coban.pixiv.net
@@ -3648,12 +3643,10 @@ confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect-store.porsche.com
 connect.8x8.com
-connect.arkane.network 
 connect.arubanetworks.com
 connect.deezer.com
 connect.identity.stagaws.visma.com
 connect.secure.wellsfargo.com
-connect.venly.io
 console-backend.truelayer[-sandbox].com
 console.circle.com
 console.dashlane.com
@@ -6889,7 +6882,6 @@ login-accpt.portofantwerpbruges.com
 login-api.truelayer[-sandbox].com
 login-ia.tvg.com
 login-pabets.tvg.com
-login.arkane.network
 login.cm.com
 login.delen.be 
 login.delen.ch 
@@ -6904,7 +6896,6 @@ login.starbucks.co.jp
 login.swapcard.com
 login.truelayer[-sandbox].com
 login.tvg.com
-login.venly.io
 login.www.vaxvacationaccess.com
 logistica.redelcom.cl
 logitech.zendesk.com
@@ -7068,7 +7059,6 @@ moneybird.com
 moneybirdstorage.com
 mongodb.live/*
 monitor.mozilla.org
-monzo.com
 moonpay.com
 movie.indrive.com
 movieapi.kinepolis.megatix.be
@@ -8028,7 +8018,6 @@ waf.cumulusfire.net
 wallet-sandbox.uphold.com
 wallet.etoro.com
 wallet.tg
-wallet.venly.io
 walletbot.me
 wallets.api.playstation.com
 was-gw-cf.*.aws.indriverapp.com
@@ -8077,6 +8066,7 @@ winecellar.zomato.com
 wings-dev.wnba.com
 wings-qa.wnba.com
 wings.wnba.com
+winkels.torfs.be
 winter.tomorrowland.com
 winterpackages.tomorrowland.com
 wlr-cf.*.aws.indriverapp.com
@@ -8333,7 +8323,6 @@ www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
-www.monzo.com
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
@@ -8374,8 +8363,11 @@ www.rockstargames.com
 www.s-kaupat.fi
 www.s-pankki.fi
 www.sa.dyson.com
+www.samenfittorfs.be
 www.sbb.ch
 www.sbbcargo.com
+www.schoenentorfs.be
+www.schoenentorfs.nl 
 www.sheer.com
 www.six-group.com
 www.socialdeal.nl
@@ -8405,6 +8397,8 @@ www.theperfumeshop.com
 www.tink.com
 www.tomorrowland.com
 www.topperpay.com
+www.torfs.be
+www.torfs.nl
 www.trajeoh.com
 www.transsicura.ch
 www.travelocity.ca
