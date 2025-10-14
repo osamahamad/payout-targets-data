@@ -2908,6 +2908,7 @@ Spotify SDKs
 Spotify desktop application (Windows and Mac)
 VPN
 Web Playback SDK
+Wrapped
 api-partner.spotify.com
 api.spotify.com
 assets.spotify.com
@@ -3022,7 +3023,6 @@ tequila.kiwi.com
 www.kiwi.com
 https://github.com/discourse/discourse
 try.discourse.org
-Helium Hotspot
 Enjin - Ethereum ERC-1155 Contract
 Enjin Blockchain
 Enjin Coin - Ethereum ERC-20 Contract
@@ -3566,6 +3566,7 @@ com.adobe.scan.ios
 com.adobe.workfront
 com.frame.FrameIO
 com.iphone.workfront
+commercemarketplace.adobe.com
 contributor.stock.adobe.com
 firefly.adobe.com
 fonts.adobe.com
@@ -3576,7 +3577,6 @@ https://github.com/contentauth/c2pa-js
 https://github.com/contentauth/c2pa-rs
 learningmanagerstage4.adobe.com
 magento.com
-marketplace.magento.com
 net.s2stagehance.com
 new.express.adobe.com
 photos.adobe.io
