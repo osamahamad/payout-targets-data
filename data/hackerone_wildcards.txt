@@ -154,6 +154,7 @@ wlr-cf.*.aws.indriverapp.com
 *.metamask.io
 *.account.mongodb.com/*
 *.cloud.mongodb.com/*
+*.mongodb.com/*
 *.corp.mongodb.com*
 *.deribit.com
 *.hilton.com
