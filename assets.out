@@ -371,6 +371,7 @@
 *.gocardless.com
 *.gocardless.dev
 *.gocardless.io,*.gocardless-banking.io
+*.gofood.co.id
 *.gojekapi.com
 *.goldman.com
 *.goldmanpfm.com
@@ -2826,6 +2827,7 @@ api.marionnaud.it
 api.mercadolibre.com
 api.mercadopago.com
 api.mergify.com
+api.midtrans.com
 api.monespacesante.fr
 api.moonpay.com
 api.mtls.truelayer[-sandbox].com
@@ -2954,6 +2956,7 @@ app.marionnaud.hu
 app.marionnaud.it
 app.marionnaud.ro
 app.marionnaud.sk
+app.midtrans.com
 app.moderntreasury.com
 app.mona.co
 app.moonpay.com
@@ -4012,6 +4015,7 @@ gnocchi-www.buffalo-ggn.net
 go.capital.com
 go.geneva-staging.com
 go.welt.de
+gofood.co.id
 goldmansachsindices.com
 googleplace*.bykea.net
 gopaymerchant.midtrans.com
@@ -8335,6 +8339,7 @@ www.mercadolibre.com.py
 www.mercadolibre.com.sv
 www.mercadolivre.com
 www.mercadopago.com.ec
+www.midtrans.com
 www.mini.de
 www.mjrtheatres.com
 www.momondo.com
