@@ -2,6 +2,12 @@ Hardware
 Firmware
 Software
 app.aikido.dev
+https://github.com/AikidoSec/firewall-node#Vulnerability
+https://github.com/AikidoSec/firewall-python#Vulnerability
+https://github.com/AikidoSec/firewall-node#Detection Bypass
+https://github.com/AikidoSec/firewall-python#Detection Bypass
+https://github.com/AikidoSec/firewall-node#False Positive
+https://github.com/AikidoSec/firewall-python#False Positive
 myaccount.ad.nl
 webwinkel.ad.nl
 www.ad.nl
@@ -288,6 +294,9 @@ login.lansweeper.com
 on-premises software
 www.lansweeper.com
 www.libelle.nl
+Liferay DXP 2025.Q3
+Liferay DXP 2025.Q1
+Liferay DXP 2024.Q1
 mobilevikings.be
 api.unleashed.be
 jimmobile.be
@@ -462,13 +471,6 @@ store.tomorrowland.com
 brasil-store.tomorrowland.com
 components.stag.tomorrowland.com
 components.tomorrowland.com
-winkels.torfs.be
-www.schoenentorfs.be
-www.schoenentorfs.nl 
-www.torfs.be
-www.torfs.nl
-www.samenfittorfs.be
-Any related Torfs domain
 myaccount.trouw.nl
 shop.trouw.nl
 webwinkel.trouw.nl
