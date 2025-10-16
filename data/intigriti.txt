@@ -2,6 +2,12 @@ Hardware
 Firmware
 Software
 app.aikido.dev
+https://github.com/AikidoSec/firewall-node#Vulnerability
+https://github.com/AikidoSec/firewall-python#Vulnerability
+https://github.com/AikidoSec/firewall-node#Detection Bypass
+https://github.com/AikidoSec/firewall-python#Detection Bypass
+https://github.com/AikidoSec/firewall-node#False Positive
+https://github.com/AikidoSec/firewall-python#False Positive
 myaccount.ad.nl
 webwinkel.ad.nl
 www.ad.nl
@@ -433,6 +439,10 @@ www.sbbcargo.com
 www.transsicura.ch
 All other Web and mobile APPs owned by SBB 
 All other SBB owned IT assets
+SimScale API
+SimScale Platform
+SimScale Forum
+SimScale Website
 1632202810
 cz.skodaauto.myskoda
 910898851
