@@ -764,22 +764,18 @@
 *.rentalcars.com
 *.reposify.com
 *.restintergamma.nl
-*.rhinternal.net
 *.ripe.net
-*.robinhood.com
-*.robinhood.net
 *.roblox.com
 *.rocketleague.com
 *.rockstargames.com
 *.romwe.com
 *.router.hereapi.com
 *.runnr.in
+*.s-cloud.net
 *.saltlabs.com
 *.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
 *.savers.co.uk
-*.say.rocks
-*.saytechnologies.com
 *.sbb.ch
 *.sbgcdn.com
 *.sbgcore.com
@@ -810,6 +806,7 @@
 *.seriously.com
 *.services-prod.nsvcs.net
 *.services.netlify.com
+*.services.repostnetwork.com
 *.shein.com
 *.sheingsp.com
 *.shopify.com
@@ -848,6 +845,7 @@
 *.sol-data.com
 *.solarcity.com
 *.sonyentertainmentnetwork.com
+*.soundcloud.org
 *.souparea.com
 *.soyoustart.com
 *.spiketrap.io
@@ -1082,6 +1080,7 @@ analytics-*.8x8.com
 api*.hubapi.com
 api*.hubspot.com
 api*.netflix.com
+api-*.soundcloud.com
 app*.hubspot.com
 app-*.easy4ipcloud.com
 as-cf.*.aws.indriverapp.com

@@ -166,6 +166,10 @@ prod-*.nu.com.co
 *.prd.cam.simplisafe.com (App Endpoints)
 *.skyscanner.net
 3rd party services hosted at *.sophos.com
+*.soundcloud.org
+*.s-cloud.net
+*.services.repostnetwork.com
+api-*.soundcloud.com
 *.statuspage.io
 *.uscc.net
 *.uscc.com
