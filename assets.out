@@ -24,7 +24,6 @@
 * humo.be/registreren
 *-api-*.acronis.com
 *-asia-south1.truecaller.com
-*-cvr-aws-*.sys.comcast.net
 *-eu.truecaller.com
 *-noneu.truecaller.com
 *-vpn.8x8.com
@@ -271,7 +270,6 @@
 *.dev.mobilevikings.be
 *.dev.remitly.com
 *.devicelock.com
-*.dh-commerce.com 
 *.dialog.com.au
 *.dibz.co.uk
 *.digitalocean.com
@@ -350,6 +348,8 @@
 *.fromspotify.com
 *.fuze.com
 *.fuze.site
+*.gamma.be/*
+*.gamma.nl/*
 *.genoapay.co.nz
 *.genoapay.com
 *.germany.politico.eu
@@ -465,6 +465,9 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
+*.intergamma-test.nl
+*.intergamma.cloud
+*.intergamma.nl/*
 *.internal.exoscale.ch
 *.itcapital.io
 *.jbl.com
@@ -479,6 +482,8 @@
 *.jora.com
 *.jora.xyz
 *.justfall.lol,*.justplay.lol,*.1v1.lol
+*.karwei.nl/*
+*.karweioutletstore.nl
 *.kayak.com
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
@@ -779,6 +784,7 @@
 *.redecor.com
 *.rentalcars.com
 *.reposify.com
+*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -881,7 +887,6 @@
 *.sqills.com
 *.sqills.team
 *.srvcs.tumblr.com
-*.ssr.ccp.xcal.tv 
 *.stag.tomorrowland.com
 *.stag.weareone.world
 *.staging-airtableblocks.com
@@ -1038,6 +1043,9 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
 *.wf.com
 *.wholesalexl.com
 *.wimpmusic.com
@@ -1063,8 +1071,6 @@
 *.x.com
 *.xcal.tv
 *.xfinity.com	
-*.xfinityhome.com
-*.xfiplatform.com
 *.xiaomi.com
 *.xiaomiyoupin.com
 *.xoom.com
@@ -1090,7 +1096,6 @@
 *racing.fanduel.com
 *ripio.com
 *ripiotrade.co
-*signalservice.comcast.net
 *stag*.uzleuven.be
 *test*.bykea.net
 *tidalhi.fi
@@ -1212,6 +1217,7 @@
 1532153219
 1541949985
 1552455423
+1558129454
 1570215232
 1579372261
 1579530451
@@ -1535,6 +1541,9 @@
 943905271
 944011620
 947984433
+949829216
+950680989
+950693949
 955837609
 960335206
 961114489414094898
@@ -2048,7 +2057,6 @@ Insight Managed Smart Cloud Wireless Access Point
 Insight iOS App
 Intellectual Property on Public Domains
 Internal Server via Internet Network
-Internet.xfinity.com
 Interoperability Issue in OpenPGP.js
 Java Driver
 Java SDK
@@ -2572,10 +2580,6 @@ Workstation MFA (WMFA)
 Wrapped
 Wyze Cam V3
 XD
-Xfinity Android mobile app
-Xfinity Home Hardware (items listed below in brief)
-Xfinity Home cameras
-Xfinity iOS mobile app
 Yahoo Calendar
 Yahoo Finance
 Yahoo HK News
@@ -2674,7 +2678,6 @@ ai.portswigger.net
 ai.x.GrokApp
 ai.x.grok
 aiassistant.stage.vismaonline.com
-aiq-prod.codebig2.net
 air.com.bitrhymes.bingo
 air.com.buffalo_studios.newflashbingo
 air.com.playtika.cvs
@@ -3076,6 +3079,7 @@ bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
 be.delen.digital
+be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -3700,7 +3704,6 @@ crm.nextcloud.com
 cruises.booking.com
 cruises.priceline.com
 cs.money
-csp-pci.prod.codebig2.net
 css-tricks.com
 ct.deriv.com
 ct.ninjakiwi.com
@@ -4024,7 +4027,6 @@ gt-cf.*.aws.indriverapp.com
 gt-gw-cf.*.aws.indriverapp.com
 guts.ninjakiwi.com
 gvt-cf.*.aws.indriverapp.com
-gw.api.dh.comcast.com
 h1-your-domain.zendesk.com
 hack1.mtrx.ovh
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -4515,7 +4517,6 @@ https://apps.apple.com/us/app/usaa-mobile/id312325565
 https://apps.apple.com/us/app/verily-me/id6448808133
 https://apps.apple.com/us/app/viator-tours-activities/id434832826
 https://apps.apple.com/us/app/wise-ex-transferwise/id612261027
-https://apps.apple.com/us/app/xfinity/id1178765645
 https://apps.apple.com/us/app/zola-baby-registry/id6446598574
 https://apps.apple.com/us/developer/10bis-co-il-ltd/id434368194
 https://apps.apple.com/us/developer/skipthedishes/id969229980
@@ -4703,7 +4704,6 @@ https://crypto.com/exchange
 https://crypto.com/nft
 https://crypto.com/price
 https://cryptowallet.opera-api.com
-https://csp-prod.codebig2.net
 https://cstg-integ.uidapi.com
 https://customer-api.datadome.co
 https://customer-portal.paddle.com
@@ -5197,7 +5197,6 @@ https://hk.employer.seek.com
 https://hk.employer.staging.seek.com
 https://hk.staging.jobsdb.com
 https://home.classdojo.com
-https://home.xfinity.com
 https://houston-staging.pdq.tools
 https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
 https://hr.neogov.com
@@ -5952,7 +5951,6 @@ https://play.google.com/store/apps/details?id=com.verily.me
 https://play.google.com/store/apps/details?id=com.viator.mobile.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.vuitton.android&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.worldcoin
-https://play.google.com/store/apps/details?id=com.xfinity.digitalhome&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=de.cellular.ottohybrid&hl=de
 https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost
 https://play.google.com/store/apps/details?id=deezer.android.app
@@ -6821,6 +6819,9 @@ k8s.gcr.io
 k8s.io
 kaccount.khealth.com
 kartaview.org
+kassa.gamma.be/*
+kassa.gamma.nl/*
+kassa.karwei.nl/*
 kayak.ai
 kb.databricks.com
 kidswebservices.com
@@ -7055,6 +7056,9 @@ mgmtpod-1-dashboard.production.forescoutcloud.net
 mgmtpod-1.production.forescoutcloud.net
 mgs.marriott.com
 microsite.porsche.com
+mijn.gamma.be/*
+mijn.gamma.nl/*
+mijn.karwei.nl/*
 mijnacc.uzleuven.be
 mipartnerprivileges.marriott.com
 mirc.uzleuven.be
@@ -7221,6 +7225,9 @@ nha-gw-cf.*.aws.indriverapp.com
 niantic.kidswebservices.com
 ninja.kiwi
 ninjakiwi.com
+nl.gamma.app.android
+nl.gamma.verf
+nl.karwei.app.android
 nmtracking.netflix.com
 no-cf.*.aws.indriverapp.com
 no-gw-cf.*.aws.indriverapp.com
@@ -7270,7 +7277,6 @@ oprc.portofantwerpbruges.com
 ops.lime.bike
 ops.silabs.com
 ops.wolt.com
-orc-xfi.com
 org.hartfordhealthcare.hhc247
 org.malwarebytes.antimalware
 org.piwik.mobile2
@@ -7686,7 +7692,6 @@ signup.myconnect.com.au
 signup.porsche.com
 simperium.com
 simplenote.com
-siorc.xfinity.com
 site.rewire.com
 sites.fareharbor.com
 sketch.pixiv.net
@@ -7706,7 +7711,6 @@ slackatwork.com
 slackb.com
 slingshot.app
 slingshot.finance
-smartinet.xfinity.com
 smarttrader.deriv.com
 sms.infomaniak.com
 smtp.sendgrid.net
@@ -7746,7 +7750,6 @@ speedtest-perth.optusnet.com.au
 speedtest-rockingham.optusnet.com.au
 speedtest-sydney.optusnet.com.au
 speedtest-townsville.optusnet.com.au
-speedtest.xfinity.com
 sportsbook.fanduel.com
 sporza.be
 sq
@@ -8244,6 +8247,8 @@ www.fortress.com.hk
 www.fraedom.com
 www.funjet.com
 www.fuzemeeting.com
+www.gamma.be/*
+www.gamma.nl/*
 www.geneva-staging.chat
 www.geneva-staging.com
 www.getaroom.com
@@ -8272,6 +8277,7 @@ www.infomaniak.com
 www.instacart.com
 www.intigriti.com
 www.jaybirdsport.com
+www.karwei.nl/*
 www.kayak.com
 www.kinepolis.be 
 www.kinepolis.biz
@@ -8515,11 +8521,7 @@ www10.watsons.vn
 www20.watsons.co.th
 x.com
 x.razorpay.com
-xFi Gateways (e.g., XB3, XB6, XB7)
-xFi Pods
 xadsacademy.com
-xhomeapi-*.cloud.comcast.net
-xhomeapi-*.codebig2.net
 xn--porsche-alttting-wwb.de
 xn--porsche-gppingen-uwb.de
 xn--porsche-gttingen-uwb.de
