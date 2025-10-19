@@ -2919,6 +2919,7 @@ api.razorpay.com
 api.recordedfuture.com
 api.reddit.com
 api.remitly.io
+api.robinhood.com
 api.s-kaupat.fi
 api.sandbox.topperpay.com
 api.services.simplisafe.com (App Endpoints)
@@ -3274,6 +3275,7 @@ cas.tomorrowland.com
 cashier-src.etoro.com
 cashier.deriv.com
 cashier.etoro.com
+cashier.robinhood.com
 casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 castor.vinci.com
 catalog.data.gov
@@ -6904,6 +6906,7 @@ id1541153375
 id1621328561
 id1635029057
 id6472513080
+identi.robinhood.com
 identity-dev.nba.com
 identity-ng.nba.com
 identity-qa.nba.com
@@ -7247,6 +7250,7 @@ mijn.gamma.be/*
 mijn.gamma.nl/*
 mijn.karwei.nl/*
 mijnacc.uzleuven.be
+minerva.robinhood.com
 mipartnerprivileges.marriott.com
 mirc.uzleuven.be
 mix-dev.monash.edu/*
@@ -7428,6 +7432,7 @@ npmjs.com
 npmjs.org
 ns1.optusnet.com.au
 ns2.optusnet.com.au
+nummus.robinhood.com
 nz.co.vista.android.movie.mjrtheatres
 oauth-sandbox.gocardless.com
 oauth.deriv.com
