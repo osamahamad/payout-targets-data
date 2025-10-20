@@ -283,7 +283,6 @@ cdn-bal.nba.com
 cdn.nba.com
 cl.nba.com
 cms.nba.com
-coalition.nba.com
 com.nbaimd.gametime.nba2011
 com.nbaimd.gametime.universal
 content-api-dev.nba.com
@@ -761,6 +760,7 @@ stage.taskcluster.nonprod.cloudops.mozgcp.net
 support.mozilla.org
 sync.services.mozilla.com
 vpn.mozilla.org
+www.firefox.com
 www.mozilla.org
 10x.redoxengine.com
 docs.redoxengine.com
