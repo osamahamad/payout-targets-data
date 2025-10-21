@@ -113,6 +113,7 @@
 *.api.cx.metamask.io
 *.api.dailymotion.com
 *.api.id.realestate.com.au
+*.api.konghq.com
 *.api.louisvuitton.com
 *.api.originenergy.com.au
 *.api.playstation.com
@@ -1980,6 +1981,7 @@ Gemini
 GenAI Apps under *.amazon.*
 Geneva 
 Git Repositories (b2-sdk-java & B2 Command Line Tool)
+GitHub Actions in our Public Repositories 
 GitHub CLI
 GitHub CSP
 GitHub Desktop
@@ -2059,6 +2061,8 @@ Indoor Cam
 Insight Android App
 Insight Managed Smart Cloud Wireless Access Point
 Insight iOS App
+Insomnia CLI (inso)
+Insomnia Desktop Client
 Intellectual Property on Public Domains
 Internal Server via Internet Network
 Internet.xfinity.com
@@ -2078,6 +2082,10 @@ Kindle E-Reader
 Klarna Android App (com.myklarnamobile)
 Klarna iOS App (com.klarna.app)
 Kohl’s entire public digital footprint that is not Out-Of-Scope(See list below)
+Kong Gateway Enterprise
+Kong Gateway OSS
+Kong Gateway Plugins (Kong-Supported Only)
+Kong Mesh
 Kruidvat.Belgium.Android
 Kruidvat.Belgium.iOS
 Kruidvat.Netherlands.Android
@@ -2431,6 +2439,7 @@ Stripe Terminal
 Stripe Treasury
 Stripe for Visual Studio Code
 Subdomain Takeover (SDTO)
+Subdomain Takeover - konghq.com
 Subdomain takeover at *asana.biz
 Substance 3D
 Superdrug.App.Android
@@ -3809,6 +3818,7 @@ developer.cybersource.com
 developer.dailymotion.com
 developer.gs.com
 developer.infomaniak.com
+developer.konghq.com
 developer.metamask.io
 developer.mozilla.org
 developer.playcanvas.com
@@ -4119,6 +4129,7 @@ http://auth.ripio.com
 http://backend-api.devicecloud.production.forescoutcloud.net/api/v1/settings
 http://bumba.global
 http://clinical-quality.khealth.com/api/v1
+http://cloud.konghq.com
 http://coinbase.com
 http://collaboration.rei.com
 http://data-api.coindesk.com/
@@ -4380,6 +4391,7 @@ https://app.ecwid.com/api/v3/
 https://app.getflywheel.com
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.ibotta.com/sign-in 
+https://app.insomnia.rest/
 https://app.intercom.com
 https://app.intercom.io/
 https://app.latitudepayapps.com/
@@ -6314,6 +6326,7 @@ https://us.eufy.com/products/e8213181
 https://us.eufy.com/products/t8410121
 https://us.eufy.com/products/t88511d1
 https://us.eufy.com/products/t88711w1
+https://us.identity.konghq.com/*
 https://usdstandard.com/
 https://user-profile-prod.coda.io/*
 https://user-profile-test.coda.io/*
@@ -6864,6 +6877,7 @@ knowledge.nextcloud.com
 knox.beta.blendlabs.com
 kolesa.kz
 konfigurator.bmw-motorrad.de
+konghq.com
 kpaste.infomaniak.com
 krisha.kz
 krisp.ai
