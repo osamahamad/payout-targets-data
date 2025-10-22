@@ -27,11 +27,6 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.canva.tech
 *.canva.cn
 *.canva-apps.cn
-*.canva.com
-*.canva-apps.com
-*.canva.tech
-*.canva.cn
-*.canva-apps.cn
 *.cashstaging.app
 *.chimepayments.com
 *.chime.com
@@ -76,6 +71,9 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.testnet.immutable.com
 *.imperva.com
 *.incapsula.com
+*.indeedflex.com
+*.indeed.tech
+*.indeed.net
 *.intercomassets.com / *.intercomcdn.com
 *.mobile-messenger.intercom.com
 *.jora.com
