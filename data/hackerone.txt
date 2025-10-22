@@ -452,6 +452,7 @@ https://github.com/circlefin/noble-fiattokenfactory
 https://github.com/circlefin/solana-cctp-contracts
 https://github.com/circlefin/stablecoin-aptos
 https://github.com/circlefin/stablecoin-evm
+https://github.com/circlefin/stablecoin-starknet
 https://github.com/circlefin/stablecoin-sui
 https://github.com/circlefin/sui-cctp
 Klarna Android App (com.myklarnamobile)
@@ -2609,6 +2610,7 @@ https://github.com/iqlusioninc/tmkms
 https://github.com/iqlusioninc/yubihsm.rs
 https://github.com/skip-mev/go-fast-contracts
 ibc-go
+www.github.com/cosmos/evm
 com.affirm.central.audit
 com.affirm.internal.hackerone
 sandbox.affirm.com
