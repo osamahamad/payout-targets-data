@@ -190,11 +190,6 @@
 *.bz-berlin.de
 *.caesarsgames.com
 *.call-control.ie
-*.canva-apps.cn
-*.canva-apps.com
-*.canva.cn
-*.canva.com
-*.canva.tech
 *.capital.com
 *.capitalone.ca
 *.capitalone.com
@@ -1436,7 +1431,6 @@
 3CX SBC
 3d.cs.money
 3rd party services hosted at *.sophos.com
-3rd-Party Provider Vulnerability
 3rdparty-apis.coinmarketcap.com
 403546234
 403684733
@@ -1679,7 +1673,6 @@ Anything that Clearly Affects Northwestern Mutual But is Not Own by Northwestern
 AppActions
 Applications/Extensions under https://www.cyberghostvpn.com/download
 Applications/Extensions under https://www.privateinternetaccess.com/download
-Apps SDK Sandboxing
 Arc on Mac
 Arc on Windows
 Arduino Nano
@@ -1761,10 +1754,6 @@ C103149579
 C2PA Tool
 CDNJS
 CHP Cloud Portal
-Canva (Android)
-Canva (Chrome Extension)
-Canva (iOS)
-Canva Desktop (macOS / Windows)
 Capital One Shopping Browser Extension
 Capture the Flag
 Career Scout
@@ -2101,8 +2090,6 @@ LINE Messenger - VOOM
 LINE Messenger - VoIP
 LaunchDarkly Open Source SDKs
 Leaked Credentials
-Leaked Credentials and Secrets (Canva Employee/Contractor)
-Leaked Credentials and Secrets (Canva User)
 Leaked/compromised employee accounts *.here.com
 Leaked/Сompromised Employee accounts
 Lens Studio
@@ -4293,7 +4280,6 @@ https://api.blts.kape.com
 https://api.bookbeat.com
 https://api.bugcrowd.com
 https://api.bykea.net
-https://api.canva.com
 https://api.classdojo.com
 https://api.clearpay.com
 https://api.cloudinary.com
@@ -4378,8 +4364,8 @@ https://app.aurory.io
 https://app.bitgo-test.com
 https://app.bitgo.com
 https://app.bitrise.io/app/51a95edaab331ec5/installable-artifacts/e5213e1a814bf0ba/public-install-page/bed0d33f048271d6828c5a4a979ecc96
-https://app.bitrise.io/app/5bec038cb1e318cd/build/0e56ea84-4683-4ef6-8d3e-60eb0a012c25/artifact/cf0e6abc6528df88/p/85802412acd014f154decf14e4bb8c57
-https://app.bitrise.io/app/5bec038cb1e318cd/build/e071d2ed-1b34-41d7-88ac-78d683fce9c7/artifact/4edf32abe1b497ea/p/2f6cacc3a3ca02df5fc194248bfb15b7
+https://app.bitrise.io/app/5bec038cb1e318cd/installable-artifacts/9ad837caadc77d33/public-install-page/ef39a3be131d116b6da3f9d05c70d757
+https://app.bitrise.io/app/5bec038cb1e318cd/installable-artifacts/d2424d9760af75d5/public-install-page/4883ab94cee43b34c597ad1df833911f
 https://app.chime.com
 https://app.datadome.co
 https://app.easy4ipcloud.com
@@ -6435,10 +6421,6 @@ https://www.blockchain.com/
 https://www.bluehost.com/
 https://www.bookbeat.com
 https://www.bwin.com
-https://www.canva.com
-https://www.canva.com/developers/
-https://www.canva.com/en_au/help/chatgpt-templates/
-https://www.canva.com/integrations/slack/
 https://www.carrefouruae.com/
 https://www.cb2.ae/en
 https://www.cfr.org/
