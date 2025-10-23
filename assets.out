@@ -239,7 +239,6 @@
 *.consumer.worldcoin.org
 *.contactallerg(y|ie).uzleuven.be
 *.contentsquare.com
-*.corp.mongodb.com*
 *.cp.dyson.com
 *.creditkarma.ca
 *.creditkarma.co.uk
@@ -2100,9 +2099,6 @@ Leaked Credentials and Secrets (Canva User)
 Leaked/compromised employee accounts *.here.com
 Leaked/Сompromised Employee accounts
 Lens Studio
-Liferay DXP 2024.Q1
-Liferay DXP 2025.Q1
-Liferay DXP 2025.Q3
 Lightroom Classic
 Livestream software (Producer, Studio)
 Load Balancing
