@@ -1165,7 +1165,6 @@
 141.0.8.0/21
 1413287364
 1413721906
-1431768824
 1438744533
 1442121355
 1448884851
@@ -1478,7 +1477,6 @@
 545599256
 547702041
 549057844
-563291345
 564141518
 566635048
 586634331
@@ -1554,7 +1552,6 @@
 955837609
 960335206
 961114489414094898
-965180355
 97.105.243.96/28
 975035622
 978342143
@@ -2762,7 +2759,6 @@ api.amazonalexa.com/*
 api.arkane.network
 api.atg.se
 api.au.frontegg.com
-api.avtoelon.uz
 api.binance.com
 api.blockchain.info
 api.chainabuse-staging.com
@@ -2832,8 +2828,6 @@ api.infomaniak.com
 api.instacart.com
 api.khealth.com
 api.klarna.com
-api.kolesa.kz
-api.krisha.kz
 api.krisp.ai
 api.lansweeper.com
 api.larksuite.com
@@ -2932,7 +2926,6 @@ app-*.easy4ipcloud.com
 app.Reclaim.ai
 app.aikido.dev
 app.alasco.de
-app.avtoelon.uz
 app.blueskytravelvietnam.com
 app.circle.com
 app.dashlane.com
@@ -2961,8 +2954,6 @@ app.interseller.io
 app.khealth.com
 app.klarna.com
 app.koho.ca
-app.kolesa.kz
-app.krisha.kz
 app.krisp.ai
 app.kruidvat.be
 app.kruidvat.nl
@@ -3076,7 +3067,6 @@ autocomplete.booking.com
 autodiscover.uzleuven.be
 autointerface.stag.visma.net
 autoupdateapi.lansweeper.com
-avtoelon.uz
 aw.visa.com
 ax-stage.maventa.com
 b2b.porsche-design.com
@@ -6754,9 +6744,7 @@ iat.it.xvservice.net
 ibc-go
 ichnaea.netflix.com
 icl-cf.*.aws.indriverapp.com
-id.avtoelon.uz
 id.heytap.com
-id.kolesa.kz
 id.logi.com
 id.nba.com
 id.oppo.com
@@ -6875,11 +6863,9 @@ kmeet.infomaniak.com
 knowage.monespacesante.fr
 knowledge.nextcloud.com
 knox.beta.blendlabs.com
-kolesa.kz
 konfigurator.bmw-motorrad.de
 konghq.com
 kpaste.infomaniak.com
-krisha.kz
 krisp.ai
 kronor.io
 kronos*.bykea.net
@@ -6890,8 +6876,6 @@ kumulus.uzleuven.be
 kyc-onboarding.booking.com
 kyc-src.etoro.com
 kyc.etoro.com
-kz.kolesa
-kz.krisha
 l75pvbdyjo.infomaniak.site
 labs.databricks.com
 lando.services.mozilla.com
@@ -6974,12 +6958,9 @@ lynx.wnba.com
 m-pesa.africa
 m.4njbets.tvg.com
 m.airbnb.com
-m.avtoelon.uz
 m.badoo.com
 m.bild.de
 m.chaturbate.com
-m.kolesa.kz
-m.krisha.kz
 m.reddit.com
 m.trendyol.com
 magento.com
@@ -8030,7 +8011,6 @@ userprofile-acc.landmarkcinemas.com
 userprofile-ui.landmarkcinemas.com
 users-api.truelayer.com
 uwa.mobilevikings.be
-uz.avtoelon
 v1. kidswebservices.com
 v1staging.kidswebservices.com 
 vacations.travelimpressions.com
