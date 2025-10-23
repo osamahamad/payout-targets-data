@@ -982,6 +982,10 @@ Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure o
 All Evergreen Assets (Excluding staging)
 App Services/Realm
 Artifactory
+Atlas Charts
+Atlas Data Federation
+Atlas IAM
+Atlas Payments/Billing
 Cluster-To-Cluster sync
 Compass
 Database Tools
