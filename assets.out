@@ -1107,7 +1107,6 @@
 *uat.marriott.com
 *ubereats.com
 *vc.logitech.com
-.NET Driver
 /blog/ endpoints on our sites
 0x0d8775f648430679a709e98d2b0cb6250d2887ef
 0x44fcfabfbe32024a01b778c025d70498382cced0
@@ -1705,7 +1704,6 @@ Assets labeled as in-scope
 Assets owned by RIPE NCC
 Audition
 BBPress Core
-BI Connector
 Backend endpoint: bug-bounty-be.glean.com
 Backend/Non-Game
 Backstage source code
@@ -1745,10 +1743,7 @@ Burp Collaborator
 Burp Suite DAST
 Burp Suite Extension (BApps)
 Burp Suite Pro/Community
-C Driver
-C# Driver
 C# SDK
-C++ Driver
 C100447517
 C103149579
 C2PA Tool
@@ -1864,6 +1859,7 @@ Direct Contracts
 Discovered Leaked Credentials
 Dovecot IMAP Server and Pigeonhole SIEVE (see "Software packages" and "Source code")
 Dreamweaver
+Drivers
 Drogas.Latvia.Android
 Drogas.Latvia.iOS
 Drogas.Lietuva.Android
@@ -1962,7 +1958,6 @@ Functions dealing with vehicle access and immobilizer
 G Hub
 GHE
 GLib
-GO Driver
 GS Select iOS app
 GameMaker Studio 2
 Games Tier 1
@@ -2063,7 +2058,6 @@ Intellectual Property on Public Domains
 Internal Server via Internet Network
 Internet.xfinity.com
 Interoperability Issue in OpenPGP.js
-Java Driver
 Java SDK
 Jetpack
 Jira
@@ -2072,7 +2066,6 @@ K105G
 K9
 K9Pro
 K9s
-Kafka Connector
 Kibana
 Kindle E-Reader
 Klarna Android App (com.myklarnamobile)
@@ -2175,7 +2168,9 @@ Mobile Apps
 Modernized Discovery
 MoneyBack.HongKong.Android
 MoneyBack.HongKong.iOS
-MongoDB Community Server Local Instance
+MongoDB Atlas
+MongoDB Community Server
+MongoDB Connectors
 MongoDB Owned GitHub Repositories
 MongoDB Realm SDKs
 MongoDB Shell
@@ -2205,7 +2200,6 @@ Nintendo Switch 2 System Processes allowing piracy
 Nintendo Switch 2 applications for which Nintendo is the publisher worldwide
 Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
-Node.js Driver
 Non Altera Products
 Non-Core Assets
 Non-Core Grafana Plugins
@@ -2266,7 +2260,6 @@ Other Spotify websites
 Other assets
 Other assets owned by Personio
 Other non-production infrastructure
-PHP Driver
 PHP SDK
 PIA VPN servers
 PNS.HongKong.Android
@@ -2292,7 +2285,6 @@ Primary Assets
 Product Delivery
 Protocol of the Swiss Post Voting System
 Public Others Target
-Python Driver
 React Native SDK
 Recon Data
 Relational Migrator
@@ -2314,8 +2306,6 @@ Roblox Client
 Roblox Engine
 Roblox Studio
 Rockstar Games Launcher
-Ruby Driver
-Rust Driver
 Rust SDK
 SAP Business Network for Asset Collaboration
 SAP Business Network for Logistics	
@@ -2388,7 +2378,6 @@ Sophos Firewall (XG/XGS, SFOS) - Pre-auth RCE
 Sophos IT Infrastructure (all other Sophos domains)
 Source Code
 SpaceX and Starlink assets (target information and rewards detailed above on the brief)
-Spark Connector
 Special scenarios (see description)
 Specific scenarios (see program description)
 Spectrum
@@ -3380,6 +3369,7 @@ com.creditkarma.mobile.international
 com.dashlane
 com.dashlane.dashlanephonefinal
 com.datacamp
+com.dd.doordash
 com.defi.wallet
 com.deribit
 com.dolap.android
@@ -3845,6 +3835,7 @@ docs.uphold.com
 docsend.com
 docuflow.stg.inspectorio.com
 donations.livestream.com
+doordash.DoorDashConsumer
 doppler
 doppler.team
 download.krisp.ai
@@ -8205,6 +8196,7 @@ www.demorgen.be/abonnementen
 www.digitalocean.com
 www.doctolib.(fr|de|it)
 www.dolap.com
+www.doordash.com
 www.dota2.com
 www.drogas.lt
 www.drogas.lv

@@ -1,3 +1,6 @@
+com.dd.doordash
+doordash.DoorDashConsumer
+www.doordash.com
 1634080733
 6462308655
 938003185
@@ -976,29 +979,18 @@ signature-insights.api.cx.metamask.io
 snaps.metamask.io
 Any public (Internet-facing) infrastructure owned and operated by Palantir.
 Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
-.NET Driver
 All Evergreen Assets (Excluding staging)
-BI Connector
-C Driver
-C# Driver
-C++ Driver
 Cluster-To-Cluster sync
 Compass
+Drivers
 Enterprise Edition Products and Tools
-GO Driver
-Java Driver
-Kafka Connector
-MongoDB Community Server Local Instance
+MongoDB Atlas
+MongoDB Community Server
+MongoDB Connectors
 MongoDB Owned GitHub Repositories
 MongoDB Realm SDKs
 MongoDB Shell
-Node.js Driver
-PHP Driver
-Python Driver
 Relational Migrator
-Ruby Driver
-Rust Driver
-Spark Connector
 VS Code Plugin
 *ripio.com
 *ripiotrade.co
