@@ -1668,6 +1668,7 @@ Any subdomain application issue
 Any subdomain infrastructure issue
 Anything Owned by Northwestern Mutual on the Public Internet Not Listed as Out of Scope
 Anything that Clearly Affects Northwestern Mutual But is Not Own by Northwestern Mutual
+App Services/Realm
 AppActions
 Applications/Extensions under https://www.cyberghostvpn.com/download
 Applications/Extensions under https://www.privateinternetaccess.com/download
@@ -1696,6 +1697,7 @@ Arlo Ultra 2
 Arlo Wire-Free Outdoor Siren (Home Security System)
 Arlo Wired Floodlight
 Arlo Wireless Video Doorbell
+Artifactory
 Aruba AirWave AMP
 Aruba InstantOn Switches
 Aruba User Experience Insight Sensors
@@ -1833,6 +1835,7 @@ DS proxy (see https://github.com/demarches-simplifiees/ds_proxy)
 DSE, Opscenter
 Data Loss Prevention (DLP)
 Data.lime.bike 
+Database Tools
 Dependabot
 Desktop Client
 Desktop MFA for Windows
@@ -2061,6 +2064,7 @@ Interoperability Issue in OpenPGP.js
 Java SDK
 Jetpack
 Jira
+Jira Projects
 K10
 K105G
 K9
@@ -2168,12 +2172,16 @@ Mobile Apps
 Modernized Discovery
 MoneyBack.HongKong.Android
 MoneyBack.HongKong.iOS
+MongoDB Assistant
 MongoDB Atlas
 MongoDB Community Server
 MongoDB Connectors
+MongoDB IntelliJ Plugin
+MongoDB MCP Server
 MongoDB Owned GitHub Repositories
-MongoDB Realm SDKs
+MongoDB Partner Integrations
 MongoDB Shell
+MongoDB Toolchain
 Mozilla Ad Routing Service
 Mozilla VPN Clients
 NARZO 80 Lite 4G
@@ -2501,6 +2509,7 @@ UniFi Protect
 UniFi Switches
 UniFi Talk
 UniFi Wireless Access Points
+University Platform
 UnrealEditorFortnite-Win64-Shipping.exe
 Upwork - Android Application
 Upwork - Marketplace Portal
