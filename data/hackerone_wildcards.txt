@@ -160,8 +160,6 @@ wlr-cf.*.aws.indriverapp.com
 *.m-pesa.com
 *.api.cx.metamask.io
 *.metamask.io
-*.account.mongodb.com/*
-*.cloud.mongodb.com/*
 *.mongodb.com/*
 *.corp.mongodb.com*
 *.deribit.com

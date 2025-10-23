@@ -32,7 +32,6 @@
 *.acceptance.cloud.8x8.com
 *.account.api.here.com
 *.account.here.com
-*.account.mongodb.com/*
 *.accounts.realestate.com.au
 *.acrobat.adobe.com
 *.acronis.com
@@ -202,7 +201,6 @@
 *.classdojo.co.uk
 *.classdojo.com
 *.cloud.malwarebytes.com
-*.cloud.mongodb.com/*
 *.cloud.vimeo.com
 *.cloudflare.com
 *.cloudflarepartners.com

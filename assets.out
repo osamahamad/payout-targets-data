@@ -55,7 +55,6 @@
 *.acceptance.cloud.8x8.com
 *.account.api.here.com
 *.account.here.com
-*.account.mongodb.com/*
 *.accounts.realestate.com.au
 *.acrobat.adobe.com
 *.acronis.com
@@ -225,7 +224,6 @@
 *.classdojo.co.uk
 *.classdojo.com
 *.cloud.malwarebytes.com
-*.cloud.mongodb.com/*
 *.cloud.vimeo.com
 *.cloudflare.com
 *.cloudflarepartners.com
@@ -3014,7 +3012,6 @@ aquiris.studio
 aquiristech.com
 arc.net
 arrive-server.shopifycloud.com
-artifactory.corp.mongodb.com/
 as-cf.*.aws.indriverapp.com
 as-gw-cf.*.aws.indriverapp.com
 as2-accpt.portofantwerp.com
@@ -7093,7 +7090,6 @@ mokapos.com
 moments.marriottbonvoy.com
 moneybird.com
 moneybirdstorage.com
-mongodb.live/*
 monitor.mozilla.org
 monzo.com
 moonpay.com
