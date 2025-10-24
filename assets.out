@@ -257,8 +257,6 @@
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
-*.dell.com/*
-*.delltechnologies.com/* 
 *.demorgen.be
 *.deribit.com
 *.deriv.cloud
@@ -594,6 +592,7 @@
 *.metamask.io
 *.mevo.com
 *.mgmt.fndlsb.net
+*.mgs.marriott.com
 *.mi.com
 *.mir.uzleuven.be
 *.miui.com
@@ -1589,6 +1588,8 @@ Acronis Cyber Protect
 Acronis DeviceLock DLP
 Acronis Snap Deploy
 Acronis True Image (formerly Acronis Cyber Protect Home Office)
+Actively Supported, Bounty Eligible Dell Products
+Actively Supported, Non-Reward Eligible Dell Products
 Additional Loyalty scope included under resources tab
 Adobe Acrobat Reader DC
 Adobe Commerce, Commerce B2B and Commerce Open Source
@@ -1634,7 +1635,6 @@ Any Applications under https://www.expressvpn.com/latest
 Any FIS asset is in scope
 Any Other Applications found here: https://mysrc.group/project_detail?id=11
 Any Other Sophos Product or Service
-Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Any host/web property verified to be owned by Twilio et al.
@@ -3866,8 +3866,10 @@ editorial.one
 education.23andme.com
 education.github.com
 eero Devices
+efast.marriott.com
 effecthouse.tiktok.com
 egaming.kinepolis.es
+eidhelp.marriott.com
 elastic.co credentials
 eligibility.khealth.com
 elm.nba.com
@@ -4685,9 +4687,6 @@ https://consensus2024.sandbox.events.coindesk.com/
 https://consensys.io/
 https://console-stage.neon.build/
 https://console.aiven.io/login
-https://console.delltechnologies.com/nav/administration
-https://console.delltechnologies.com/nav/billing
-https://console.delltechnologies.com/nav/invoice
 https://console.neon.tech/
 https://console.neon.tech/api/v2/
 https://consumer-sustainability.underarmour.com/en
