@@ -130,7 +130,6 @@
 *.asana.biz
 *.atairbnb.com
 *.atg.se
-*.atlastunnel.com
 *.atspotify.com
 *.audible.(TLD)
 *.audicagame.com
@@ -1647,11 +1646,9 @@ Any FIS asset is in scope
 Any Other Applications found here: https://mysrc.group/project_detail?id=11
 Any Other Sophos Product or Service
 Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
-Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Any host/web property verified to be owned by Twilio et al.
 Any host/web property/mobile app verified to be owned by Indeed
-Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 Any other Epic games owned asset not listed in the out of scope section
 Any other Malwarebytes asset
 Any other domain reasonably attributable to Silicon Labs
@@ -1938,7 +1935,6 @@ Firmware
 Firmware: Mali Command Stream Frontend (CSF) Firmware
 Fleet Server
 Flex - Xfinity hardware and services
-Forge Platform
 Forge of Empires
 FortniteClient-Android-Shipping-arm64-es2.apk
 FortniteClient-Win64-Shipping.exe
@@ -2009,7 +2005,6 @@ Grammarly Business Features
 Grammarly Desktop for Windows
 Grammarly Desktop for macOS
 Grammarly for Microsoft Word
-GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)
 Grepolis
 Gutenberg
 H5G
@@ -2250,7 +2245,6 @@ Orbi Android App
 Orbi iOS App 
 Other
 Other (Misc)
-Other - (all other Atlassian targets)
 Other APK Assets
 Other Acronis Domains
 Other Acronis executables
@@ -4227,8 +4221,6 @@ https://addons.mozilla.org/en-US/firefox/addon/pinterest/
 https://adhoc-bugcrowd-studio.cdn-code.org
 https://adhoc-bugcrowd.cdn-code.org
 https://admin-roundups.moneyboxapp.org/
-https://admin.atlassian.com/
-https://admin.atlassian.com/atlassian-guard
 https://admin.lastpass.com
 https://admin.moneyboxapp.org/
 https://admin.ring.com/*
@@ -4480,22 +4472,17 @@ https://apps.apple.com/us/app/chipotle-fresh-food/id327228455
 https://apps.apple.com/us/app/classdojo/id552602056
 https://apps.apple.com/us/app/coindesk-crypto-bitcoin-news/id6502816903
 https://apps.apple.com/us/app/compass-real-estate-homes/id692766504
-https://apps.apple.com/us/app/confluence-cloud/id1006971684
-https://apps.apple.com/us/app/confluence-server/id1288365159
 https://apps.apple.com/us/app/ecwid-ecommerce/id626731456
 https://apps.apple.com/us/app/electroneum/id1270774992
 https://apps.apple.com/us/app/hhc-24-7/id6741442288
 https://apps.apple.com/us/app/id583009522
 https://apps.apple.com/us/app/indeed-connect-for-employers/id6443822731
 https://apps.apple.com/us/app/indeed-job-search/id309735670
-https://apps.apple.com/us/app/jira-cloud-by-atlassian/id1006972087
-https://apps.apple.com/us/app/jira-server/id1405353949
 https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665	
 https://apps.apple.com/us/app/keeperchat/id1273303729?mt=12
 https://apps.apple.com/us/app/kucoin-buy-bitcoin-crypto/id1378956601?mt=8
 https://apps.apple.com/us/app/lastpass-authenticator/id1079110004
 https://apps.apple.com/us/app/lastpass-password-manager/id324613447
-https://apps.apple.com/us/app/loom-screen-recorder/id1474480829
 https://apps.apple.com/us/app/lululemon/id920098546
 https://apps.apple.com/us/app/mattermost/id1257222717
 https://apps.apple.com/us/app/mint-mobile/id1295303441
@@ -4588,7 +4575,6 @@ https://billingserver.pinelabs.com/
 https://binance.tr
 https://biocorellc.com
 https://bistro.sk
-https://bitbucket.org
 https://bitgo.ae/
 https://bitso.com
 https://blablacardaily.com
@@ -4667,7 +4653,6 @@ https://chrome.google.com/webstore/detail/ibotta-browser-extension/mfaedmjlefifh
 https://chrome.google.com/webstore/detail/pinterest-save-button/gpdjojdkbbmdfjfahjcgigfpmkopogic?hl=en
 https://chrome.google.com/webstore/detail/xverse-wallet/idnnbdplmphpflfnlkomgpfbpcgelopg
 https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcmnfgpnmkkhmkllnlflef
-https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb?hl=en-US&pli=1
 https://cicforms.mioot.com/forms/PS/
 https://clearpay.co.uk
 https://clearpay.com
@@ -4688,7 +4673,6 @@ https://community.etsy.com
 https://community.exoscale.com/
 https://community.personio.com
 https://compulsoryunits.monash.edu/
-https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://connect.monash.edu
 https://connect.paymaya.com/
 https://connect.soundcloud.com
@@ -5222,7 +5206,6 @@ https://hub.immutable.com/
 https://hug.personio.com
 https://i18n.api.just-eat.io
 https://icu.eu-west-2.outscale.com
-https://id.atlassian.com/login
 https://id.employer.seek.com
 https://id.employer.staging.seek.com
 https://id.unity.com
@@ -5336,7 +5319,6 @@ https://maps.bykea.net
 https://maps.vistarmedia.com
 https://market.android.com/details?id=com.myfitnesspal.android&rdid=com.myfitnesspal.android
 https://market.immutable.com/
-https://marketplace.atlassian.com
 https://marketplace.atlassian.com/apps/1210722/confluence-source-editor?hosting=server
 https://marketplace.atlassian.com/apps/1210725/data-generator-for-jira?hosting=server
 https://marketplace.atlassian.com/apps/1210766/teamcity-integration-for-jira?hosting=cloud
@@ -5866,10 +5848,6 @@ https://play.google.com/store/apps/details?id=com.afterpaymobile.us&hl=en_US&gl=
 https://play.google.com/store/apps/details?id=com.anytask.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.asana.app&hl=en
 https://play.google.com/store/apps/details?id=com.aswat.carrefouruae
-https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.core&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.atlassian.confluence.server
-https://play.google.com/store/apps/details?id=com.atlassian.jira.server&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.auth0.guardian&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.backblaze.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.belongi.moe
@@ -5914,7 +5892,6 @@ https://play.google.com/store/apps/details?id=com.lastpass.authenticator&hl=en_U
 https://play.google.com/store/apps/details?id=com.lastpass.lpandroid
 https://play.google.com/store/apps/details?id=com.lime.supply&hl=en_US
 https://play.google.com/store/apps/details?id=com.limebike
-https://play.google.com/store/apps/details?id=com.loom.android&hl=en_US&pli=1
 https://play.google.com/store/apps/details?id=com.maf.share&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.maf.thatandroid
 https://play.google.com/store/apps/details?id=com.moneyboxapp
@@ -6185,7 +6162,6 @@ https://staging-trafficking.vistarmedia.com
 https://staging.coda.io/*
 https://staging.gearset.com/
 https://staging.luno.com/
-https://start.atlassian.com
 https://static-images.ifood.com.br
 https://static.demarches-simplifiees.fr
 https://static.mgm.mo
@@ -6385,23 +6361,6 @@ https://www.amazonpay.in/*
 https://www.anytask.com/
 https://www.arlo.com
 https://www.assurancewireless.com
-https://www.atlassian.com/enterprise/data-center/bitbucket
-https://www.atlassian.com/enterprise/data-center/confluence
-https://www.atlassian.com/enterprise/data-center/crowd
-https://www.atlassian.com/enterprise/data-center/jira
-https://www.atlassian.com/enterprise/data-center/jira/service-management
-https://www.atlassian.com/software/atlas
-https://www.atlassian.com/software/bamboo
-https://www.atlassian.com/software/compass
-https://www.atlassian.com/software/confluence
-https://www.atlassian.com/software/confluence/premium
-https://www.atlassian.com/software/crucible
-https://www.atlassian.com/software/fisheye
-https://www.atlassian.com/software/jira
-https://www.atlassian.com/software/jira/product-discovery
-https://www.atlassian.com/software/jira/service-management
-https://www.atlassian.com/software/jira/work-management
-https://www.atlassian.com/software/rovo
 https://www.beautyexpert.com/
 https://www.beta.tchap.gouv.fr
 https://www.binance.com/
@@ -6516,8 +6475,6 @@ https://www.lastpass.com
 https://www.letspaylater.ph/
 https://www.li.me/
 https://www.logitech.com/blog
-https://www.loom.com/
-https://www.loom.com/download
 https://www.lululemon.co.jp/
 https://www.lululemon.co.nz/
 https://www.lululemon.co.uk/
@@ -6562,7 +6519,6 @@ https://www.namejet.com/
 https://www.networksolutions.com
 https://www.nintendo.com/us/store/products/rec-room-switch/
 https://www.npmjs.com/package/@8x8/pui-partner-comm
-https://www.npmjs.com/package/@forge/cli	
 https://www.npmjs.com/package/@privy-io/react-auth
 https://www.nuinvest.com.br/
 https://www.nutaku.com
@@ -6631,7 +6587,6 @@ https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
 https://www.sophos.com/en-us/products/mobile-control/free-trial
 https://www.sophos.com/en-us/products/next-gen-firewall
-https://www.sourcetreeapp.com/
 https://www.staging.jobstreet.co.id
 https://www.staging.jobstreet.com.my
 https://www.staging.jobstreet.com.ph
