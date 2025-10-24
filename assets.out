@@ -1424,6 +1424,7 @@
 3d.cs.money
 3rd party services hosted at *.sophos.com
 3rd-Party Provider Vulnerability
+3rdparty-apis.coinmarketcap.com
 403546234
 403684733
 406056744
@@ -1710,6 +1711,10 @@ Beats - Metricbeat
 Beats - Packetbeat
 Beats - Winlogbeat
 Beeper
+Binance Desktop Application
+Binance Mobile Application for Android
+Binance Mobile Application for iOS
+Binance macOS Application
 Bitdefender Antimalware Engines
 Bitdefender BOX v2
 Bitdefender Total Security
@@ -1787,6 +1792,8 @@ Cloudflare Zero Trust/Cloudflare One
 Cloudkey
 Cluster-To-Cluster sync
 Coda Chrome Extension
+CoinMarketCap Android app
+CoinMarketCap iOS app
 Coinbase WaaS (Wallet as a Service)
 ColdFusion
 ColorOS
@@ -2470,6 +2477,9 @@ Tribal Wars
 TrueLayer for Magento (Magento plugin)
 TrueLayer for WooCommerce (WordPress plugin)
 TrustedVPN 100,000 Bonus Award (See Program Policy for Info)
+Trustwallet Android App
+Trustwallet Chrome Extension
+Trustwallet iOS App
 Turnstile
 Twilio APIs
 UCRM
@@ -2734,6 +2744,7 @@ api.amazonalexa.com/*
 api.arkane.network
 api.atg.se
 api.au.frontegg.com
+api.binance.com
 api.blockchain.info
 api.chainabuse-staging.com
 api.circle.com
@@ -2743,6 +2754,7 @@ api.cm.com
 api.cmtelecom.com
 api.coinbase.com
 api.coindcx.com
+api.coinmarketcap.com
 api.creditkarma.com
 api.custody.coinbase.com
 api.dashlane.com
@@ -3250,6 +3262,7 @@ codahosted.io
 code.playcanvas.com
 codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
 coinbase.com
+coinmarketcap.com
 com.3mosquitos.MercadoLibre
 com.Hyatt
 com.Seriously.BestFiends
@@ -4567,6 +4580,7 @@ https://beta.arlo.com
 https://billing.ring.com/*
 https://billingonline.post.ch/OnlinePayment/Web/v1/BOI
 https://billingserver.pinelabs.com/
+https://binance.tr
 https://biocorellc.com
 https://bistro.sk
 https://bitbucket.org
@@ -5146,6 +5160,7 @@ https://github.com/tchapgouv
 https://github.com/tempus-ex
 https://github.com/transferwise/*
 https://github.com/tronprotocol/java-tron
+https://github.com/trustwallet/wallet-core/
 https://github.com/valvesoftware
 https://github.com/worldcoin
 https://gitlab.com/gitlab-org/gitaly
@@ -6377,6 +6392,8 @@ https://www.atlassian.com/software/jira/work-management
 https://www.atlassian.com/software/rovo
 https://www.beautyexpert.com/
 https://www.beta.tchap.gouv.fr
+https://www.binance.com/
+https://www.binance.us/
 https://www.bitdefender.com/business/smb-products/business-security.html?cid=ppc|b|google|smb&s_kwcid=AL!6076!3!514235572261!p!!g!!bitdefender%20business&utm_term=bitdefender%20business&utm_campaign=USA+SMB+Branded+30&utm_source=adwords&utm_medium=ppc&hsa_acc=8155205354&hsa_cam=7848657822&hsa_grp=124745713150&hsa_ad=514235572261&hsa_src=g&hsa_tgt=kwd-308396066873&hsa_kw=bitdefender%20business&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwqIiFBhAHEiwANg9szk-Rr3iSn4mrwsvAUOn-pzrO12ufWDmyCLopWigaLQW0t_xtlBE65RoCr6kQAvD_BwE
 https://www.bitgo.com
 https://www.bitpanda.com/
@@ -7395,6 +7412,7 @@ porschezentrum-muenchen-sued.de
 porschezentrumbremen.de
 porshe-design.com
 porshedesign.com
+portal-api.coinmarketcap.com
 portal.arkoselabs.com
 portal.au.frontegg.com
 portal.enterprise.uphold.com
@@ -7441,7 +7459,9 @@ pricerunner.com
 prime.coinbase.com
 primevideo.com/*
 priority.eu-east-1.indriverapp.com
+pro-api.coinmarketcap.com
 pro.coinbase.com
+pro.coinmarketcap.com
 pro.doctolib.(fr|de|it) (see "Free features for healthcare professionals"))
 procuration.bpost.be
 prod-*.nu.com.co
