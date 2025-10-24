@@ -609,6 +609,7 @@
 *.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
+*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -741,6 +742,7 @@
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -1108,6 +1110,7 @@
 1023499075
 103.83.120.0/22
 1032480595
+1052238659
 1057338687
 107.167.96.0/19
 1076840480
@@ -3247,6 +3250,7 @@ co-in-gw-cf.*.aws.indriverapp.com
 co.mona.android
 co.tide
 co.tide.tideplatform.in
+co.uk.getmondo
 coaching.supernovas.indrive.com
 coban.pixiv.net
 coda.grammarly.com
@@ -4350,7 +4354,6 @@ https://app.bitrise.io/app/5bec038cb1e318cd/installable-artifacts/d2424d9760af75
 https://app.chime.com
 https://app.datadome.co
 https://app.easy4ipcloud.com
-https://app.ecwid.com/api/v3/	
 https://app.getflywheel.com
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.ibotta.com/sign-in 
@@ -4468,7 +4471,6 @@ https://apps.apple.com/us/app/coindesk-crypto-bitcoin-news/id6502816903
 https://apps.apple.com/us/app/compass-real-estate-homes/id692766504
 https://apps.apple.com/us/app/confluence-cloud/id1006971684
 https://apps.apple.com/us/app/confluence-server/id1288365159
-https://apps.apple.com/us/app/ecwid-ecommerce/id626731456
 https://apps.apple.com/us/app/electroneum/id1270774992
 https://apps.apple.com/us/app/hhc-24-7/id6741442288
 https://apps.apple.com/us/app/id583009522
@@ -4750,7 +4752,6 @@ https://developers.afterpay.com
 https://developers.elementor.com/
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
-https://developers.vendhq.com/
 https://devportal.rec.net/
 https://devstaging.pcapcloud.com/*
 https://digits.t-mobile.com
@@ -5804,7 +5805,6 @@ https://passport.immutable.com/
 https://pay.payzippy.com
 https://pay.unity.com
 https://paymayabiller-prod.paymaya.com/
-https://payment-connectors.vendhq.com/
 https://payment.lafourchette.com
 https://payments.myntra.com
 https://payments.wpengine.com
@@ -5872,7 +5872,6 @@ https://play.google.com/store/apps/details?id=com.coindesk.mobile
 https://play.google.com/store/apps/details?id=com.comuto&hl=en
 https://play.google.com/store/apps/details?id=com.dailymotion.dailymotion&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.deezer.zen
-https://play.google.com/store/apps/details?id=com.ecwid.android&pli=1
 https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr
 https://play.google.com/store/apps/details?id=com.gojek.app
@@ -6071,7 +6070,6 @@ https://secure.cuehit.net
 https://secure.neogov.com
 https://secure.newegg.com
 https://secure.thefork.com
-https://secure.vendhq.com
 https://securemail.usaa.com
 https://securesignin.neogov.com
 https://securesignin.powerdms.com/
@@ -6174,7 +6172,6 @@ https://storage.googleapis.com/kubernetes-release/
 https://store.epicgames.com/en-US/p/seekers-of-tokane-a5986d
 https://store.playstation.com/en-us/product/UP2662-CUSA08481_00-RECROOM000000001
 https://store.playstation.com/en-us/product/UP2662-PPSA05532_00-6681199027107223
-https://store.retail.lightspeed.app
 https://store.steampowered.com/app/471710/Rec_Room/
 https://store.unity.com
 https://storybook.vistarmedia.com
@@ -6650,7 +6647,6 @@ https://www.upwork.com
 https://www.usaa.com
 https://www.usaainsurance.com/
 https://www.user.quintoandar.com.br/admin/*
-https://www.vendhq.com/
 https://www.verisign.com
 https://www.vfsglobalservices-germany.com/Global-Appointment/
 https://www.vfsvisaservice.com/
@@ -7060,6 +7056,7 @@ moments.marriottbonvoy.com
 moneybird.com
 moneybirdstorage.com
 monitor.mozilla.org
+monzo.com
 moonpay.com
 movie.indrive.com
 movieapi.kinepolis.megatix.be
@@ -8335,6 +8332,7 @@ www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
+www.monzo.com
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
