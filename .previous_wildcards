@@ -95,6 +95,8 @@
 *.api.originenergy.com.au
 *.api.playstation.com
 *.api.ua.com/
+*.apigatewayc.marriott.com
+*.apigwc.marriott.com
 *.app.asana.com
 *.app.personio-dev.com
 *.app.personio.com
@@ -335,6 +337,7 @@
 *.fuze.site
 *.gamma.be/*
 *.gamma.nl/*
+*.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
 *.germany.politico.eu
