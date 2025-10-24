@@ -468,7 +468,6 @@
 *.instacart.com
 *.instacart.tools
 *.int.remitly.com
-*.intercomassets.com / *.intercomcdn.com
 *.internal.exoscale.ch
 *.itcapital.io
 *.jbl.com
@@ -607,7 +606,6 @@
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
-*.mobile-messenger.intercom.com
 *.mobilevikings.be
 *.mobilitygraph.hereapi.com
 *.mofos.com
@@ -4139,7 +4137,6 @@ http://itunes.apple.com/us/app/ibotta/id559887125
 http://logstash-props.devicecloud.production.forescoutcloud.net/api/v1/properties
 http://market.android.com/details?id=com.ibotta.android
 http://marlo.ext.tripadvisor.com
-http://mcp.intercom.com
 http://media.itsfogo.com/media/upload/mobile/android/apk/partycasino_com.apk
 http://member-qa.chime.com/enroll
 http://mgmtpod-1.production.forescoutcloud.net/oauth/token
@@ -4249,7 +4246,6 @@ https://api-a.usaa.com
 https://api-app.datadome.co/
 https://api-businessportal.origin.com.au
 https://api-docs.vaix.ai/swagger.json
-https://api-iam.intercom.io
 https://api-js.datadome.co
 https://api-payments-secure-prod.skippayments.com
 https://api-portal.originzero.com.au
@@ -4289,7 +4285,6 @@ https://api.ibotta.com
 https://api.immutable.com
 https://api.int.ibops.net
 https://api.int.ibops.net/customer-loyalty-service
-https://api.intercom.com
 https://api.justeat-int.com
 https://api.jwks.kape.com
 https://api.lafourchette.com
@@ -4364,8 +4359,6 @@ https://app.getflywheel.com
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.ibotta.com/sign-in 
 https://app.insomnia.rest/
-https://app.intercom.com
-https://app.intercom.io/
 https://app.latitudepayapps.com/
 https://app.opsgenie.com
 https://app.optimizely.com/
@@ -4757,8 +4750,6 @@ https://developer.zendesk.com/documentation/zendesk-sdks/#android
 https://developer.zendesk.com/documentation/zendesk-sdks/#ios
 https://developers.afterpay.com
 https://developers.elementor.com/
-https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
-https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
 https://developers.vendhq.com/
 https://devportal.rec.net/
 https://devstaging.pcapcloud.com/*
@@ -6469,7 +6460,6 @@ https://www.iciparisxl.nl/blog/
 https://www.ifood.com.br
 https://www.illamasqua.com/
 https://www.imou.com
-https://www.intercom.com/
 https://www.irobot.at/
 https://www.irobot.be/
 https://www.irobot.ca/en_CA
