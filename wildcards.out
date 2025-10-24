@@ -107,6 +107,7 @@
 *.asana.biz
 *.atairbnb.com
 *.atg.se
+*.atlastunnel.com
 *.atspotify.com
 *.audible.(TLD)
 *.audicagame.com
@@ -324,8 +325,6 @@
 *.fromspotify.com
 *.fuze.com
 *.fuze.site
-*.gamma.be/*
-*.gamma.nl/*
 *.genoapay.co.nz
 *.genoapay.com
 *.germany.politico.eu
@@ -442,9 +441,6 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
-*.intergamma-test.nl
-*.intergamma.cloud
-*.intergamma.nl/*
 *.internal.exoscale.ch
 *.itcapital.io
 *.jbl.com
@@ -459,8 +455,6 @@
 *.jora.com
 *.jora.xyz
 *.justfall.lol,*.justplay.lol,*.1v1.lol
-*.karwei.nl/*
-*.karweioutletstore.nl
 *.kayak.com
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
@@ -759,7 +753,6 @@
 *.redecor.com
 *.rentalcars.com
 *.reposify.com
-*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -1019,9 +1012,6 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
 *.wf.com
 *.wholesalexl.com
 *.wimpmusic.com
@@ -1071,6 +1061,8 @@
 *stag*.uzleuven.be
 *test*.bykea.net
 3rd party services hosted at *.sophos.com
+Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
+Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 GenAI Apps under *.amazon.*
 Leaked/compromised employee accounts *.here.com
 Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
