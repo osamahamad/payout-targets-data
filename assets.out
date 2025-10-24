@@ -468,6 +468,7 @@
 *.instacart.com
 *.instacart.tools
 *.int.remitly.com
+*.intercomassets.com / *.intercomcdn.com
 *.internal.exoscale.ch
 *.itcapital.io
 *.jbl.com
@@ -606,6 +607,7 @@
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
+*.mobile-messenger.intercom.com
 *.mobilevikings.be
 *.mobilitygraph.hereapi.com
 *.mofos.com
@@ -1422,7 +1424,6 @@
 3d.cs.money
 3rd party services hosted at *.sophos.com
 3rd-Party Provider Vulnerability
-3rdparty-apis.coinmarketcap.com
 403546234
 403684733
 406056744
@@ -1709,10 +1710,6 @@ Beats - Metricbeat
 Beats - Packetbeat
 Beats - Winlogbeat
 Beeper
-Binance Desktop Application
-Binance Mobile Application for Android
-Binance Mobile Application for iOS
-Binance macOS Application
 Bitdefender Antimalware Engines
 Bitdefender BOX v2
 Bitdefender Total Security
@@ -1790,8 +1787,6 @@ Cloudflare Zero Trust/Cloudflare One
 Cloudkey
 Cluster-To-Cluster sync
 Coda Chrome Extension
-CoinMarketCap Android app
-CoinMarketCap iOS app
 Coinbase WaaS (Wallet as a Service)
 ColdFusion
 ColorOS
@@ -2475,9 +2470,6 @@ Tribal Wars
 TrueLayer for Magento (Magento plugin)
 TrueLayer for WooCommerce (WordPress plugin)
 TrustedVPN 100,000 Bonus Award (See Program Policy for Info)
-Trustwallet Android App
-Trustwallet Chrome Extension
-Trustwallet iOS App
 Turnstile
 Twilio APIs
 UCRM
@@ -2742,7 +2734,6 @@ api.amazonalexa.com/*
 api.arkane.network
 api.atg.se
 api.au.frontegg.com
-api.binance.com
 api.blockchain.info
 api.chainabuse-staging.com
 api.circle.com
@@ -2752,7 +2743,6 @@ api.cm.com
 api.cmtelecom.com
 api.coinbase.com
 api.coindcx.com
-api.coinmarketcap.com
 api.creditkarma.com
 api.custody.coinbase.com
 api.dashlane.com
@@ -3260,7 +3250,6 @@ codahosted.io
 code.playcanvas.com
 codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
 coinbase.com
-coinmarketcap.com
 com.3mosquitos.MercadoLibre
 com.Hyatt
 com.Seriously.BestFiends
@@ -4137,6 +4126,7 @@ http://itunes.apple.com/us/app/ibotta/id559887125
 http://logstash-props.devicecloud.production.forescoutcloud.net/api/v1/properties
 http://market.android.com/details?id=com.ibotta.android
 http://marlo.ext.tripadvisor.com
+http://mcp.intercom.com
 http://media.itsfogo.com/media/upload/mobile/android/apk/partycasino_com.apk
 http://member-qa.chime.com/enroll
 http://mgmtpod-1.production.forescoutcloud.net/oauth/token
@@ -4246,6 +4236,7 @@ https://api-a.usaa.com
 https://api-app.datadome.co/
 https://api-businessportal.origin.com.au
 https://api-docs.vaix.ai/swagger.json
+https://api-iam.intercom.io
 https://api-js.datadome.co
 https://api-payments-secure-prod.skippayments.com
 https://api-portal.originzero.com.au
@@ -4285,6 +4276,7 @@ https://api.ibotta.com
 https://api.immutable.com
 https://api.int.ibops.net
 https://api.int.ibops.net/customer-loyalty-service
+https://api.intercom.com
 https://api.justeat-int.com
 https://api.jwks.kape.com
 https://api.lafourchette.com
@@ -4359,6 +4351,8 @@ https://app.getflywheel.com
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.ibotta.com/sign-in 
 https://app.insomnia.rest/
+https://app.intercom.com
+https://app.intercom.io/
 https://app.latitudepayapps.com/
 https://app.opsgenie.com
 https://app.optimizely.com/
@@ -4573,7 +4567,6 @@ https://beta.arlo.com
 https://billing.ring.com/*
 https://billingonline.post.ch/OnlinePayment/Web/v1/BOI
 https://billingserver.pinelabs.com/
-https://binance.tr
 https://biocorellc.com
 https://bistro.sk
 https://bitbucket.org
@@ -4750,6 +4743,8 @@ https://developer.zendesk.com/documentation/zendesk-sdks/#android
 https://developer.zendesk.com/documentation/zendesk-sdks/#ios
 https://developers.afterpay.com
 https://developers.elementor.com/
+https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
+https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
 https://developers.vendhq.com/
 https://devportal.rec.net/
 https://devstaging.pcapcloud.com/*
@@ -5151,7 +5146,6 @@ https://github.com/tchapgouv
 https://github.com/tempus-ex
 https://github.com/transferwise/*
 https://github.com/tronprotocol/java-tron
-https://github.com/trustwallet/wallet-core/
 https://github.com/valvesoftware
 https://github.com/worldcoin
 https://gitlab.com/gitlab-org/gitaly
@@ -6383,8 +6377,6 @@ https://www.atlassian.com/software/jira/work-management
 https://www.atlassian.com/software/rovo
 https://www.beautyexpert.com/
 https://www.beta.tchap.gouv.fr
-https://www.binance.com/
-https://www.binance.us/
 https://www.bitdefender.com/business/smb-products/business-security.html?cid=ppc|b|google|smb&s_kwcid=AL!6076!3!514235572261!p!!g!!bitdefender%20business&utm_term=bitdefender%20business&utm_campaign=USA+SMB+Branded+30&utm_source=adwords&utm_medium=ppc&hsa_acc=8155205354&hsa_cam=7848657822&hsa_grp=124745713150&hsa_ad=514235572261&hsa_src=g&hsa_tgt=kwd-308396066873&hsa_kw=bitdefender%20business&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwqIiFBhAHEiwANg9szk-Rr3iSn4mrwsvAUOn-pzrO12ufWDmyCLopWigaLQW0t_xtlBE65RoCr6kQAvD_BwE
 https://www.bitgo.com
 https://www.bitpanda.com/
@@ -6460,6 +6452,7 @@ https://www.iciparisxl.nl/blog/
 https://www.ifood.com.br
 https://www.illamasqua.com/
 https://www.imou.com
+https://www.intercom.com/
 https://www.irobot.at/
 https://www.irobot.be/
 https://www.irobot.ca/en_CA
@@ -7402,7 +7395,6 @@ porschezentrum-muenchen-sued.de
 porschezentrumbremen.de
 porshe-design.com
 porshedesign.com
-portal-api.coinmarketcap.com
 portal.arkoselabs.com
 portal.au.frontegg.com
 portal.enterprise.uphold.com
@@ -7449,9 +7441,7 @@ pricerunner.com
 prime.coinbase.com
 primevideo.com/*
 priority.eu-east-1.indriverapp.com
-pro-api.coinmarketcap.com
 pro.coinbase.com
-pro.coinmarketcap.com
 pro.doctolib.(fr|de|it) (see "Free features for healthcare professionals"))
 procuration.bpost.be
 prod-*.nu.com.co
