@@ -100,7 +100,6 @@
 *.app.personio-dev.com
 *.app.personio.com
 *.app.spacelift.dev
-*.appmiral.com
 *.arlo.com
 *.arloxcld.com
 *.artifactory.marriott.com
@@ -208,8 +207,6 @@
 *.cloudflare.com
 *.cloudflarepartners.com
 *.cloudways.com
-*.cm.com
-*.cmtelecom.com
 *.coda.io/*
 *.cognitiveperformer.com
 *.coinbase.com
@@ -217,6 +214,7 @@
 *.comcast.com
 *.computerbild.de
 *.consumer.worldcoin.org
+*.contactallerg(y|ie).uzleuven.be
 *.contentsquare.com
 *.cp.dyson.com
 *.creditkarma.ca
@@ -257,7 +255,6 @@
 *.district.in
 *.dm.gg
 *.dmcdn.net
-*.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
@@ -267,10 +264,6 @@
 *.dpgmedia.nl
 *.drogas.lt
 *.drogas.lv
-*.dropbox.com
-*.dropboxer.net
-*.dropboxforum.com
-*.dropboxpartners.com
 *.dropmix.com
 *.dropxl.com
 *.dsanalytics.com
@@ -388,9 +381,6 @@
 *.harmankardon.com
 *.harmonixmusic.com
 *.harmonyremote.com
-*.hellofax.com
-*.hellosign.com
-*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.bild.de
@@ -478,6 +468,7 @@
 *.krisp.ai
 *.kruidvat.be
 *.kruidvat.nl
+*.kwsdose.be
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
 *.lansweeper.com
@@ -575,6 +566,7 @@
 *.mgmt.fndlsb.net
 *.mgs.marriott.com
 *.mi.com
+*.mir.uzleuven.be
 *.miui.com
 *.miwifi.com
 *.mjrtheatres.com
@@ -699,6 +691,7 @@
 *.playstation.net
 *.playticorp.com
 *.playtika.com
+*.playuzleuven.be
 *.playwsop.com
 *.pns.hk
 *.points.com
@@ -746,7 +739,6 @@
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
-*.reclaim.ai
 *.reddit.com
 *.redditblog.com
 *.reddithelp.com
@@ -897,7 +889,6 @@
 *.thinkingphones.com
 *.thinkingphones.net
 *.threatdown.com
-*.ticketing.cm.com
 *.ticketnew.com
 *.tidalhifi.com
 *.tide.co
@@ -961,6 +952,7 @@
 *.uscc.com
 *.uscc.net
 *.uscellular.com
+*.uzleuven.*
 *.vacationhomerentals.com
 *.varonis.com
 *.varonis.io
@@ -1057,7 +1049,9 @@
 *.zomans.com
 *.zomato.com
 *ensemble*.yahoo.com
+*idp*.uzleuven.be
 *omega*.yahoo.com
+*stag*.uzleuven.be
 *test*.bykea.net
 3rd party services hosted at *.sophos.com
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance

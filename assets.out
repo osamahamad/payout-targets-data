@@ -123,7 +123,6 @@
 *.app.personio-dev.com
 *.app.personio.com
 *.app.spacelift.dev
-*.appmiral.com
 *.arlo.com
 *.arloxcld.com
 *.artifactory.marriott.com
@@ -231,8 +230,6 @@
 *.cloudflare.com
 *.cloudflarepartners.com
 *.cloudways.com
-*.cm.com
-*.cmtelecom.com
 *.coda.io/*
 *.cognitiveperformer.com
 *.coinbase.com
@@ -240,6 +237,7 @@
 *.comcast.com
 *.computerbild.de
 *.consumer.worldcoin.org
+*.contactallerg(y|ie).uzleuven.be
 *.contentsquare.com
 *.cp.dyson.com
 *.creditkarma.ca
@@ -280,7 +278,6 @@
 *.district.in
 *.dm.gg
 *.dmcdn.net
-*.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
@@ -290,10 +287,6 @@
 *.dpgmedia.nl
 *.drogas.lt
 *.drogas.lv
-*.dropbox.com
-*.dropboxer.net
-*.dropboxforum.com
-*.dropboxpartners.com
 *.dropmix.com
 *.dropxl.com
 *.dsanalytics.com
@@ -411,9 +404,6 @@
 *.harmankardon.com
 *.harmonixmusic.com
 *.harmonyremote.com
-*.hellofax.com
-*.hellosign.com
-*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.bild.de
@@ -501,6 +491,7 @@
 *.krisp.ai
 *.kruidvat.be
 *.kruidvat.nl
+*.kwsdose.be
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
 *.lansweeper.com
@@ -598,6 +589,7 @@
 *.mgmt.fndlsb.net
 *.mgs.marriott.com
 *.mi.com
+*.mir.uzleuven.be
 *.miui.com
 *.miwifi.com
 *.mjrtheatres.com
@@ -722,6 +714,7 @@
 *.playstation.net
 *.playticorp.com
 *.playtika.com
+*.playuzleuven.be
 *.playwsop.com
 *.pns.hk
 *.points.com
@@ -769,7 +762,6 @@
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
-*.reclaim.ai
 *.reddit.com
 *.redditblog.com
 *.reddithelp.com
@@ -920,7 +912,6 @@
 *.thinkingphones.com
 *.thinkingphones.net
 *.threatdown.com
-*.ticketing.cm.com
 *.ticketnew.com
 *.tidalhifi.com
 *.tide.co
@@ -984,6 +975,7 @@
 *.uscc.com
 *.uscc.net
 *.uscellular.com
+*.uzleuven.*
 *.vacationhomerentals.com
 *.varonis.com
 *.varonis.io
@@ -1079,15 +1071,18 @@
 *.zellepay.com
 *.zomans.com
 *.zomato.com
+*dev.uzleuven.be
 *developer.cloud.com
 *ensemble*.yahoo.com
 *gateway-apc.marriott.com
+*idp*.uzleuven.be
 *inf.fndlsb.net
 *omega*.yahoo.com
 *racing.fanduel.com
 *ripio.com
 *ripiotrade.co
 *signalservice.comcast.net
+*stag*.uzleuven.be
 *test*.bykea.net
 *tidalhi.fi
 *uat.marriott.com
@@ -1110,7 +1105,6 @@
 107.167.96.0/19
 1076840480
 1079537578
-1080074001
 1080248000
 1089294040
 1091010942
@@ -1124,7 +1118,6 @@
 1174276185
 1180400838
 1192506963
-1199521324
 1200391796
 121.200.237.36/29
 1215220850
@@ -1206,7 +1199,6 @@
 1552455423
 1570215232
 1579372261
-1579530451
 1589023233
 1589071345
 1591003012
@@ -1235,6 +1227,7 @@
 193.109.229.0/24
 193.110.154.0/24
 193.5.66.0/23
+193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111
 193.8.251.0/24
 194.209.121.0/24
 194.35.79.0/24
@@ -1394,7 +1387,6 @@
 3.basecamp.com
 302584613
 319881193
-327630330
 328407587
 335187483
 336381998
@@ -1479,7 +1471,6 @@
 6444040977
 6444868926
 6449737830
-6450553960
 6452192521
 645949180
 6462308655
@@ -1851,8 +1842,6 @@ Drogas.Latvia.Android
 Drogas.Latvia.iOS
 Drogas.Lietuva.Android
 Drogas.Lietuva.iOS
-Dropbox Desktop Application
-Dropbox.com
 Dynatrace ActiveGate
 Dynatrace MobileAgent
 Dynatrace OneAgent
@@ -2015,8 +2004,6 @@ Hardware found on https://www.ezviz.com/category/smart-home
 Harmony Remote Software
 Harmony Remotes
 Helium Hotspot
-HelloFax.com
-HelloSign.com
 Hermes Relayer
 Horcrux
 HubSpot Android Mobile App
@@ -2514,8 +2501,6 @@ Video Conferencing Products
 Video Doorbell
 Virtual Office Desktop
 Voice - Hardware and service
-Vox Cinemas Android
-Vox Cinemas iOS
 Vulnerability & Patch Management
 WARP Mobile Apps
 WARP desktop client
@@ -2741,8 +2726,6 @@ api.chainabuse-staging.com
 api.circle.com
 api.cloudflare.com
 api.cloudways.com
-api.cm.com
-api.cmtelecom.com
 api.coinbase.com
 api.coindcx.com
 api.coinmarketcap.com
@@ -2756,7 +2739,6 @@ api.direct.playstation.com
 api.doppler.com
 api.drogas.lt
 api.drogas.lv
-api.dropbox.com
 api.dyson.at
 api.dyson.be
 api.dyson.ch
@@ -2897,7 +2879,6 @@ apis.onecloud.harman.com
 apix.vodafone.om
 app*.hubspot.com
 app-*.easy4ipcloud.com
-app.Reclaim.ai
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
@@ -2968,7 +2949,6 @@ app.whoop.com
 app.workbox.dk
 app3.rewire.to
 applause1.magisto.com
-appmiral.com
 apps-accpt.portofantwerp.com
 apps-accpt.portofantwerpbruges.com
 apps.8x8.com
@@ -3031,6 +3011,7 @@ auth0.net
 authentication.wolt.com
 authz.workbox.dk
 autocomplete.booking.com
+autodiscover.uzleuven.be
 autointerface.stag.visma.net
 autoupdateapi.lansweeper.com
 aw.visa.com
@@ -3124,7 +3105,6 @@ bugcrowd-pam-###.oktapreview.com
 bugcrowd-pam-###.pam.oktapreview.com
 bugzilla.mozilla.org
 builder.hostinger.com
-building-blocks.com
 bullsheet.me
 business-resources.truecaller.com
 business.kayak.com
@@ -3157,6 +3137,8 @@ capitalmarketsday.porsche.com
 capturingreality.com
 cardpayments.remitly.io
 cards.remitly.io
+cardsonline.azdiest.be
+cardsonlinetst.azdiest.be
 career.bpost.be
 careers.booking.com
 careers.capital.com
@@ -3220,11 +3202,7 @@ cloud.forescout.com
 cloud.malwarebytes.com
 cloud8.8x8.com
 cloudflareworkers.com
-cm.com/[locale]/app/*
-cm.com/[locale]/register
-cm.com/app/messagingtrial/
 cm.staging.pcom.weu.porsche.com
-cmcom.atlassian.net
 cms.monespacesante.fr
 cms.nba.com
 co-cf.*.aws.indriverapp.com
@@ -3332,7 +3310,6 @@ com.bykea.pk.partner
 com.capital.trading
 com.cheaptickets
 com.clay.ios
-com.cm.cashregister
 com.coinbase.android
 com.coinbase.ios
 com.coinbase.wallite
@@ -3353,8 +3330,6 @@ com.dd.doordash
 com.defi.wallet
 com.deribit
 com.dolap.android
-com.dropbox.android
-com.dropbox.dash
 com.dyson.mobile.android
 com.ebookers
 com.eero.android
@@ -3534,7 +3509,6 @@ com.streamlabs
 com.streamlabs.slobsrc
 com.stripe.android.dashboard
 com.syfe
-com.ticketflow.ticketscanner
 com.tideplatform.banking
 com.tiktok.tv
 com.tiktokshop.seller
@@ -3705,9 +3679,7 @@ cyberghost.app
 cyberghost.com
 cz.skodaauto.myskoda
 daita/files_fulltextsearch_tesseract
-dash.ai
 dash.cloudflare.com
-dash.dropbox.com
 dashboard.algolia.com
 dashboard.doppler.com
 dashboard.magic.link
@@ -3747,7 +3719,6 @@ demo.arkoselabs.com
 demo.cloud.databricks.com
 demo.dynamic.xyz
 demo.fareharbor.com
-demo.globalticket.com/*
 demo.plaid.com
 deriv.partners
 derivws.com
@@ -3811,7 +3782,6 @@ docs.redoxengine.com
 docs.silabs.com
 docs.topperpay.com
 docs.uphold.com
-docsend.com
 docuflow.stg.inspectorio.com
 donations.livestream.com
 doordash.DoorDashConsumer
@@ -3826,7 +3796,6 @@ dream-qa.wnba.com
 dream.wnba.com
 drive.porsche.com
 drive.wolt.com
-dropbox.com/paper
 dx-demo.deriv.com
 dx.deriv.com
 e-Commerce
@@ -3837,6 +3806,7 @@ eassessment.monash.edu
 ebctest.cybersource.com
 ebsext.oft.hyatt.com
 ecc.porsche.com
+ecrf.uzleuven.be
 edge.lansweeper.com
 edgeapi.slack.com
 edgeapis.onecloud.harman.com
@@ -3896,7 +3866,9 @@ expressvpn.jobs
 external-api.lime.bike
 external.indrive.dev
 external.logitech.com
+extranet-asa.uzleuven.be
 extranet.s-pankki.fi
+extranet.uzleuven.be
 extras-acc.landmarkcinemas.com
 extras.landmarkcinemas.com
 fab.com
@@ -3924,6 +3896,7 @@ fi.unibet.com
 file-storage-front.eu-east-1.indriverapp.com
 file.larksuite.com
 files-stg.inspectorio.com
+files.uzleuven.be
 finder.porsche.com
 fire-dev.wnba.com
 fire-qa.wnba.com
@@ -4909,7 +4882,6 @@ https://github.com/circlefin/stablecoin-evm
 https://github.com/circlefin/stablecoin-sui
 https://github.com/circlefin/sui-cctp
 https://github.com/cloudflare/workerd
-https://github.com/cmdotcom
 https://github.com/coinbase/cb-mpc
 https://github.com/contentauth/c2pa-js
 https://github.com/contentauth/c2pa-rs
@@ -6253,7 +6225,6 @@ https://trm.pinelabs.ae
 https://tsock.us1.twilio.com
 https://twilio.com/blog
 https://u.oppomobile.com/
-https://uae.voxcinemas.com/
 https://ui.com/distributors/
 https://ui.com/training/partners/
 https://uiscoop.payzippy.com
@@ -6489,7 +6460,6 @@ https://www.lululemon.de/
 https://www.lululemon.es/ 
 https://www.lululemon.fr/
 https://www.lululemon.me
-https://www.magicplanetmena.com/
 https://www.malloftheemirates.com
 https://www.mankind.co.uk/
 https://www.mapbox.com/mapbox-gl-js/
@@ -6582,7 +6552,6 @@ https://www.sdx.com/
 https://www.sharerewards.com/
 https://www.shffls.com
 https://www.shiseido.me/
-https://www.skidxb.com/
 https://www.skroutz.gr
 https://www.sncf-connect.com
 https://www.sncf-connect.com/bff
@@ -6822,6 +6791,7 @@ kronos*.bykea.net
 ksuite.infomaniak.com
 kubernetes-csi.github.io
 kubernetes.io
+kumulus.uzleuven.be
 kyc-onboarding.booking.com
 kyc-src.etoro.com
 kyc.etoro.com
@@ -6852,6 +6822,8 @@ lightsparkdev/swift-wallet-sdk
 linkpop.com
 links.geneva-staging.chat
 links.geneva-staging.com
+liquidfiles.uzleuven.be
+liquidfilestest.uzleuven.be
 lirportal.ripe.net
 list-v2--netlify-plugins.netlify.app
 lists.nextcloud.com
@@ -6870,7 +6842,6 @@ login-api.truelayer[-sandbox].com
 login-ia.tvg.com
 login-pabets.tvg.com
 login.arkane.network
-login.cm.com
 login.infomaniak.com
 login.lansweeper.com
 login.pabets.tvg.com
@@ -7019,8 +6990,10 @@ mgmtpod-1-dashboard.production.forescoutcloud.net
 mgmtpod-1.production.forescoutcloud.net
 mgs.marriott.com
 microsite.porsche.com
+mijnacc.uzleuven.be
 minerva.robinhood.com
 mipartnerprivileges.marriott.com
+mirc.uzleuven.be
 mix-dev.monash.edu/*
 mix-qat.monash.edu/*
 mobile-prod.tvg.com
@@ -7048,6 +7021,8 @@ mspshowcase.arubanetworks.com
 mta-sts.wearehackerone.com
 munin-*.wordpress.org
 mus1.badoo.com
+mx1.uzleuven.be
+mx2.uzleuven.be
 my-accpt.portofantwerp.com
 my-accpt.portofantwerpbruges.com
 my.account.sony.com
@@ -7296,6 +7271,7 @@ payroll.razorpay.com
 pb.deribit.com
 pc-cf.*.aws.indriverapp.com
 pc-gw-cf.*.aws.indriverapp.com
+pcrstudioruzb.uzleuven.be
 pd-api.polkadoc.com
 personal.trexcloud.com
 phabricator.allizom.org
@@ -7398,6 +7374,8 @@ pr-gw-cf.*.aws.indriverapp.com
 practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
+prddnighting01.uzleuven.be
+prddsplunkhf.uzleuven.be
 preprod.am.monespacesante.fr
 preprod.api.monespacesante.fr
 preprod.auth.monespacesante.fr
@@ -7475,6 +7453,7 @@ r.etoro.com
 ra-cf.*.aws.indriverapp.com
 ra-gw-cf.*.aws.indriverapp.com
 rancher.ninjakiwi.me
+random.uzleuven.be/random/
 rankings.etoro.com
 raptor*.bykea.net
 ras1.optus.com.au 
@@ -7511,7 +7490,6 @@ rei.com
 relay.firefox.com
 relay.playcanvas.com
 remitly.com
-replay.dropbox.com
 repo.magento.com
 report-html-sight.stg.inspectorio.com
 report.voi.com
@@ -7645,7 +7623,6 @@ shopify-admin.truelayer.com
 shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
-sign.dropbox.com
 signature-insights.api.cx.metamask.io
 signin.auth.welt.de
 signup.myconnect.com.au
@@ -7768,6 +7745,7 @@ streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streams.etoro.com
 sts.etoro.com
+sts.uzleuven.be
 studio-api.swapcard.com
 studio-fa-porsche.at
 studio-fa-porsche.com
@@ -7862,6 +7840,7 @@ testapp.redoxengine.com
 testing.maventa.com
 testnet.bitmex.com
 testnet.immutable.com
+teststs.uzleuven.be
 thebrowser.company
 therapeutics.23andme.com
 therecord.media
@@ -7987,6 +7966,8 @@ vth.nba.com
 vtm.be/vtmgo
 vtmgo.be
 vœux.vinci.com
+w1.uzleuven.be
+w1.uzleuven.be/random
 waf.cumulusfire.net
 wallet-sandbox.uphold.com
 wallet.etoro.com
@@ -8056,6 +8037,7 @@ world.hey.com
 world.hyatt.com
 world.org
 worldcoin.org
+wp5-truststroke.uzleuven.be
 ws.blockchain.info
 ws.sorare.com
 ws1.dashlane.com
@@ -8109,7 +8091,6 @@ www.cheapflights.com
 www.cheaptickets.com
 www.checkfelix.com
 www.cloudways.com
-www.cm.com
 www.coinhako.com
 www.coinspot.com.au
 www.compass.com
@@ -8387,6 +8368,7 @@ www.uphold.com
 www.upwork.com/api 
 www.urbanclap.com
 www.urbancompany.com
+www.uzleuven.be
 www.valvesoftware.com
 www.vfsvisaonline.com
 www.vfsvisaservicesrussia.com
@@ -8514,6 +8496,7 @@ zellepay.force.com
 zelleservice.my.site.com
 zen.deezer.com
 zerobounce.net
+ziekenhuisschool.be
 zooplus.net
 zopim.com
 ████████████
