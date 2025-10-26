@@ -240,7 +240,6 @@
 *.comcast.com
 *.computerbild.de
 *.consumer.worldcoin.org
-*.contactallerg(y|ie).uzleuven.be
 *.contentsquare.com
 *.cp.dyson.com
 *.creditkarma.ca
@@ -502,7 +501,6 @@
 *.krisp.ai
 *.kruidvat.be
 *.kruidvat.nl
-*.kwsdose.be
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
 *.lansweeper.com
@@ -600,7 +598,6 @@
 *.mgmt.fndlsb.net
 *.mgs.marriott.com
 *.mi.com
-*.mir.uzleuven.be
 *.miui.com
 *.miwifi.com
 *.mjrtheatres.com
@@ -725,7 +722,6 @@
 *.playstation.net
 *.playticorp.com
 *.playtika.com
-*.playuzleuven.be
 *.playwsop.com
 *.pns.hk
 *.points.com
@@ -988,7 +984,6 @@
 *.uscc.com
 *.uscc.net
 *.uscellular.com
-*.uzleuven.*
 *.vacationhomerentals.com
 *.varonis.com
 *.varonis.io
@@ -1084,18 +1079,15 @@
 *.zellepay.com
 *.zomans.com
 *.zomato.com
-*dev.uzleuven.be
 *developer.cloud.com
 *ensemble*.yahoo.com
 *gateway-apc.marriott.com
-*idp*.uzleuven.be
 *inf.fndlsb.net
 *omega*.yahoo.com
 *racing.fanduel.com
 *ripio.com
 *ripiotrade.co
 *signalservice.comcast.net
-*stag*.uzleuven.be
 *test*.bykea.net
 *tidalhi.fi
 *uat.marriott.com
@@ -1243,7 +1235,6 @@
 193.109.229.0/24
 193.110.154.0/24
 193.5.66.0/23
-193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111
 193.8.251.0/24
 194.209.121.0/24
 194.35.79.0/24
@@ -3040,7 +3031,6 @@ auth0.net
 authentication.wolt.com
 authz.workbox.dk
 autocomplete.booking.com
-autodiscover.uzleuven.be
 autointerface.stag.visma.net
 autoupdateapi.lansweeper.com
 aw.visa.com
@@ -3167,8 +3157,6 @@ capitalmarketsday.porsche.com
 capturingreality.com
 cardpayments.remitly.io
 cards.remitly.io
-cardsonline.azdiest.be
-cardsonlinetst.azdiest.be
 career.bpost.be
 careers.booking.com
 careers.capital.com
@@ -3849,7 +3837,6 @@ eassessment.monash.edu
 ebctest.cybersource.com
 ebsext.oft.hyatt.com
 ecc.porsche.com
-ecrf.uzleuven.be
 edge.lansweeper.com
 edgeapi.slack.com
 edgeapis.onecloud.harman.com
@@ -3909,9 +3896,7 @@ expressvpn.jobs
 external-api.lime.bike
 external.indrive.dev
 external.logitech.com
-extranet-asa.uzleuven.be
 extranet.s-pankki.fi
-extranet.uzleuven.be
 extras-acc.landmarkcinemas.com
 extras.landmarkcinemas.com
 fab.com
@@ -3939,7 +3924,6 @@ fi.unibet.com
 file-storage-front.eu-east-1.indriverapp.com
 file.larksuite.com
 files-stg.inspectorio.com
-files.uzleuven.be
 finder.porsche.com
 fire-dev.wnba.com
 fire-qa.wnba.com
@@ -6838,7 +6822,6 @@ kronos*.bykea.net
 ksuite.infomaniak.com
 kubernetes-csi.github.io
 kubernetes.io
-kumulus.uzleuven.be
 kyc-onboarding.booking.com
 kyc-src.etoro.com
 kyc.etoro.com
@@ -6869,8 +6852,6 @@ lightsparkdev/swift-wallet-sdk
 linkpop.com
 links.geneva-staging.chat
 links.geneva-staging.com
-liquidfiles.uzleuven.be
-liquidfilestest.uzleuven.be
 lirportal.ripe.net
 list-v2--netlify-plugins.netlify.app
 lists.nextcloud.com
@@ -7038,10 +7019,8 @@ mgmtpod-1-dashboard.production.forescoutcloud.net
 mgmtpod-1.production.forescoutcloud.net
 mgs.marriott.com
 microsite.porsche.com
-mijnacc.uzleuven.be
 minerva.robinhood.com
 mipartnerprivileges.marriott.com
-mirc.uzleuven.be
 mix-dev.monash.edu/*
 mix-qat.monash.edu/*
 mobile-prod.tvg.com
@@ -7069,8 +7048,6 @@ mspshowcase.arubanetworks.com
 mta-sts.wearehackerone.com
 munin-*.wordpress.org
 mus1.badoo.com
-mx1.uzleuven.be
-mx2.uzleuven.be
 my-accpt.portofantwerp.com
 my-accpt.portofantwerpbruges.com
 my.account.sony.com
@@ -7319,7 +7296,6 @@ payroll.razorpay.com
 pb.deribit.com
 pc-cf.*.aws.indriverapp.com
 pc-gw-cf.*.aws.indriverapp.com
-pcrstudioruzb.uzleuven.be
 pd-api.polkadoc.com
 personal.trexcloud.com
 phabricator.allizom.org
@@ -7422,8 +7398,6 @@ pr-gw-cf.*.aws.indriverapp.com
 practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
-prddnighting01.uzleuven.be
-prddsplunkhf.uzleuven.be
 preprod.am.monespacesante.fr
 preprod.api.monespacesante.fr
 preprod.auth.monespacesante.fr
@@ -7501,7 +7475,6 @@ r.etoro.com
 ra-cf.*.aws.indriverapp.com
 ra-gw-cf.*.aws.indriverapp.com
 rancher.ninjakiwi.me
-random.uzleuven.be/random/
 rankings.etoro.com
 raptor*.bykea.net
 ras1.optus.com.au 
@@ -7795,7 +7768,6 @@ streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streams.etoro.com
 sts.etoro.com
-sts.uzleuven.be
 studio-api.swapcard.com
 studio-fa-porsche.at
 studio-fa-porsche.com
@@ -7890,7 +7862,6 @@ testapp.redoxengine.com
 testing.maventa.com
 testnet.bitmex.com
 testnet.immutable.com
-teststs.uzleuven.be
 thebrowser.company
 therapeutics.23andme.com
 therecord.media
@@ -8016,8 +7987,6 @@ vth.nba.com
 vtm.be/vtmgo
 vtmgo.be
 vœux.vinci.com
-w1.uzleuven.be
-w1.uzleuven.be/random
 waf.cumulusfire.net
 wallet-sandbox.uphold.com
 wallet.etoro.com
@@ -8087,7 +8056,6 @@ world.hey.com
 world.hyatt.com
 world.org
 worldcoin.org
-wp5-truststroke.uzleuven.be
 ws.blockchain.info
 ws.sorare.com
 ws1.dashlane.com
@@ -8419,7 +8387,6 @@ www.uphold.com
 www.upwork.com/api 
 www.urbanclap.com
 www.urbancompany.com
-www.uzleuven.be
 www.valvesoftware.com
 www.vfsvisaonline.com
 www.vfsvisaservicesrussia.com
@@ -8547,7 +8514,6 @@ zellepay.force.com
 zelleservice.my.site.com
 zen.deezer.com
 zerobounce.net
-ziekenhuisschool.be
 zooplus.net
 zopim.com
 ████████████
