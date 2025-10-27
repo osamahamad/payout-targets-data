@@ -123,6 +123,7 @@
 *.app.personio-dev.com
 *.app.personio.com
 *.app.spacelift.dev
+*.appmiral.com
 *.arlo.com
 *.arloxcld.com
 *.artifactory.marriott.com
@@ -228,6 +229,8 @@
 *.cloudflare.com
 *.cloudflarepartners.com
 *.cloudways.com
+*.cm.com
+*.cmtelecom.com
 *.coda.io/*
 *.cognitiveperformer.com
 *.coinbase.com
@@ -911,6 +914,7 @@
 *.thinkingphones.com
 *.thinkingphones.net
 *.threatdown.com
+*.ticketing.cm.com
 *.ticketnew.com
 *.tidalhifi.com
 *.tide.co
@@ -1118,6 +1122,7 @@
 1174276185
 1180400838
 1192506963
+1199521324
 1200391796
 121.200.237.36/29
 1215220850
@@ -1199,6 +1204,7 @@
 1552455423
 1570215232
 1579372261
+1579530451
 1589023233
 1589071345
 1591003012
@@ -2727,6 +2733,8 @@ api.chainabuse-staging.com
 api.circle.com
 api.cloudflare.com
 api.cloudways.com
+api.cm.com
+api.cmtelecom.com
 api.coinbase.com
 api.coindcx.com
 api.coinmarketcap.com
@@ -2735,6 +2743,8 @@ api.custody.coinbase.com
 api.dashlane.com
 api.deezer.com
 api.deriv.com
+api.digital.delen.be 
+api.digital.delen.lu 
 api.digitalocean.com
 api.direct.playstation.com
 api.doppler.com
@@ -2887,6 +2897,9 @@ app.dashlane.com
 app.datacamp.com/certification
 app.datacamp.com/groups
 app.datacamp.com/learn
+app.delen.be 
+app.delen.ch 
+app.delen.lu 
 app.deriv.com
 app.drogas.lt
 app.drogas.lv
@@ -2950,6 +2963,7 @@ app.whoop.com
 app.workbox.dk
 app3.rewire.to
 applause1.magisto.com
+appmiral.com
 apps-accpt.portofantwerp.com
 apps-accpt.portofantwerpbruges.com
 apps.8x8.com
@@ -2992,6 +3006,8 @@ auth-identity-qa.nba.com
 auth-identity-uat.nba.com
 auth-identity.nba.com
 auth.23andme.com
+auth.digital.delen.be 
+auth.digital.delen.lu 
 auth.hhc247.org
 auth.magic.link
 auth.monespacesante.fr
@@ -3043,6 +3059,7 @@ bd.visa.com
 bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
+be.delen.digital
 beacon.netflix.com
 belgium.tomorrowland.com
 benefit.porsche-design.com
@@ -3106,6 +3123,7 @@ bugcrowd-pam-###.oktapreview.com
 bugcrowd-pam-###.pam.oktapreview.com
 bugzilla.mozilla.org
 builder.hostinger.com
+building-blocks.com
 bullsheet.me
 business-resources.truecaller.com
 business.kayak.com
@@ -3201,7 +3219,11 @@ cloud.forescout.com
 cloud.malwarebytes.com
 cloud8.8x8.com
 cloudflareworkers.com
+cm.com/[locale]/app/*
+cm.com/[locale]/register
+cm.com/app/messagingtrial/
 cm.staging.pcom.weu.porsche.com
+cmcom.atlassian.net
 cms.monespacesante.fr
 cms.nba.com
 co-cf.*.aws.indriverapp.com
@@ -3309,6 +3331,7 @@ com.bykea.pk
 com.bykea.pk.partner
 com.cheaptickets
 com.clay.ios
+com.cm.cashregister
 com.coinbase.android
 com.coinbase.ios
 com.coinbase.wallite
@@ -3508,6 +3531,7 @@ com.streamlabs
 com.streamlabs.slobsrc
 com.stripe.android.dashboard
 com.syfe
+com.ticketflow.ticketscanner
 com.tideplatform.banking
 com.tiktok.tv
 com.tiktokshop.seller
@@ -3713,11 +3737,13 @@ decision.swiftfinancial.com
 deeplinks.geneva-staging.chat
 deeplinks.geneva-staging.com
 defi.ripio.com
+delen/id1064839588
 delta.app
 demo.arkoselabs.com
 demo.cloud.databricks.com
 demo.dynamic.xyz
 demo.fareharbor.com
+demo.globalticket.com/*
 demo.plaid.com
 deriv.partners
 derivws.com
@@ -4880,6 +4906,7 @@ https://github.com/circlefin/stablecoin-evm
 https://github.com/circlefin/stablecoin-sui
 https://github.com/circlefin/sui-cctp
 https://github.com/cloudflare/workerd
+https://github.com/cmdotcom
 https://github.com/coinbase/cb-mpc
 https://github.com/contentauth/c2pa-js
 https://github.com/contentauth/c2pa-rs
@@ -6843,8 +6870,13 @@ login-api.truelayer[-sandbox].com
 login-ia.tvg.com
 login-pabets.tvg.com
 login.arkane.network
+login.cm.com
+login.delen.be 
+login.delen.ch 
+login.delen.lu 
 login.infomaniak.com
 login.lansweeper.com
+login.oyens.com
 login.pabets.tvg.com
 login.playcanvas.com
 login.rei.com
@@ -7717,6 +7749,7 @@ stats.nba.com
 stats.nextcloud.com
 stats.vinci.com
 stats.wnba.com
+status.delen.be 
 status.larksuite.com
 status.uphold.com
 steamcommunity.com
@@ -7743,6 +7776,7 @@ streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streams.etoro.com
+sts.delen.be 
 sts.etoro.com
 sts.uzleuven.be
 studio-api.swapcard.com
@@ -8080,6 +8114,8 @@ www.bookingholdings.com
 www.bpost.be
 www.bpost2.be
 www.bumble.com
+www.cadelam.be 
+www.cadelux.lu/en 
 www.cardinalcommerce.com
 www.carrentals.com
 www.cart.starbucks.co.jp/
@@ -8090,6 +8126,7 @@ www.cheapflights.com
 www.cheaptickets.com
 www.checkfelix.com
 www.cloudways.com
+www.cm.com
 www.coinhako.com
 www.coinspot.com.au
 www.compass.com
@@ -8105,6 +8142,8 @@ www.datacamp.com/datalab
 www.datastax.com
 www.ddfcontent.com
 www.deezer.com
+www.delen.bank
+www.delen.be/en 
 www.demorgen.be
 www.demorgen.be/abonnementen
 www.digitalocean.com
