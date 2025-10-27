@@ -3014,6 +3014,7 @@ apis.onecloud.harman.com
 apix.vodafone.om
 app*.hubspot.com
 app-*.easy4ipcloud.com
+app-insiders.marriott.com
 app.Reclaim.ai
 app.aikido.dev
 app.alasco.de
@@ -3356,6 +3357,7 @@ chk.infomaniak.com
 christmas-silence.porsche.com
 cht-cf.*.aws.indriverapp.com
 cht-gw-cf.*.aws.indriverapp.com
+ci-propertyconversionportal.marriott.com
 ci.fr.cloud.gov
 circle.logi.com
 circolocorecords.com/
@@ -3811,6 +3813,8 @@ content-api-sandbox.nba.com
 content-api-uat.nba.com
 content-service-live-testing.bfda.live.use1a.on.epicgames.com
 content-service.bfda.live.use1a.on.epicgames.com
+contentportal.marriott.com
+contentportalauth.marriott.com
 contributor.stock.adobe.com
 converse.8x8.com
 core-api-dev.nba.com
@@ -4175,6 +4179,7 @@ gleague-qa.nba.com
 gleague.nba.com
 glib-networking
 global-api.citymapper.com
+globaldesign.marriott.com
 globaljourney.tomorrowland.com
 gnip.com
 gnocchi-www.buffalo-ggn.net
@@ -7049,7 +7054,9 @@ jobs.marriott.com
 jobs.porsche-design.com
 jobs.porsche.com
 jobs.vinci.com
+join.marriott.com
 join.whoop.com
+joinrewards.marriott.com
 jp.naver.line.android
 js.crypto.com
 js.datadome.co
@@ -7244,6 +7251,7 @@ mcdalerts-perf.nba.com
 mcdalerts-qa.nba.com
 mcdalerts-uat.nba.com
 mcdalerts.nba.com
+mds.marriott.com
 mds.voiapp.io
 media.drogas.lt
 media.drogas.lv
@@ -7499,12 +7507,14 @@ ns1.optusnet.com.au
 ns2.optusnet.com.au
 nummus.robinhood.com
 nz.co.vista.android.movie.mjrtheatres
+oasisprod.marriott.com
 oauth-sandbox.gocardless.com
 oauth.deriv.com
 oauth.developers.stagaws.visma.com
 ob.gocardless.com
 obs-sensors.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
+ocijlbex1prd.marriott.com
 octopus
 odoo14.notebleue.pro
 offsite.omise.co
@@ -7550,6 +7560,7 @@ ota.onecloud.harman.com
 outage.logitech.com
 outagehistory.logitech.com
 ovo.id
+owa.marriott.com
 oymyakon.indriver.io
 p.grabtaxi.com
 pa-cf.*.aws.indriverapp.com
