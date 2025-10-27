@@ -444,6 +444,7 @@ support*.earlywarning.com
 *.dcfgateway.marriott.com
 *.gateway.marriott.com
 *.mgs.marriott.com
+*.sba.marriott.com
 dcfgateway*.marriott.com
 gateway*.marriott.com
 *-api-*.acronis.com

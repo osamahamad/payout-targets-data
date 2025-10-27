@@ -1,4 +1,10 @@
-*.web3factory.consensys.net
-auth-apc.marriott.com
-bpa2.marriott.com
-device.marriott.com
+*.sba.marriott.com
+bsp.marriott.com
+cache.marriott.com
+channel-portal.homes-and-villas.marriott.com
+moments.marriott.com
+smetrics.marriott.com
+splunk-phantom-nlb.marriott.com
+vacation.marriott.com
+www.giving.marriott.com
+www.members.marriott.com
