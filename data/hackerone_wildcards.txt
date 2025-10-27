@@ -160,6 +160,9 @@ wlr-cf.*.aws.indriverapp.com
 *.m-pesa.com
 *.api.cx.metamask.io
 *.metamask.io
+*.eu.floqast.app
+*.floqast.app
+*.floqast.engineering
 *.mongodb.com/*
 *.deribit.com
 *.hilton.com
