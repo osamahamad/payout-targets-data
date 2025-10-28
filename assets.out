@@ -131,6 +131,7 @@
 *.as-nmt.de
 *.asadcdn.com
 *.asana.biz
+*.assurancewireless.com
 *.atairbnb.com
 *.atg.se
 *.atlastunnel.com
@@ -2933,7 +2934,6 @@ app*.hubspot.com
 app-*.easy4ipcloud.com
 app-insiders.marriott.com
 app.Reclaim.ai
-app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
@@ -4408,6 +4408,7 @@ https://app.intercom.io/
 https://app.latitudepayapps.com/
 https://app.opsgenie.com
 https://app.optimizely.com/
+https://app.pdq.com/
 https://app.ring.com/*
 https://app.ripio.com
 https://app.saltlabs.com/
@@ -4601,7 +4602,7 @@ https://auth.pentest.clicsante.ca/
 https://auth.seek.com
 https://auth.thetradedesk.com
 https://auth.wyze.com
-https://auth2.pdq.tools/ 
+https://auth2.pdq.com/
 https://authn.usaa.com/
 https://authy.com/download/
 https://autoupdate.geo.opera.com
@@ -5273,7 +5274,6 @@ https://hk.employer.staging.seek.com
 https://hk.staging.jobsdb.com
 https://home.classdojo.com
 https://home.xfinity.com
-https://houston-staging.pdq.tools
 https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
 https://hr.neogov.com
 https://hr.prosus.com/
@@ -5355,8 +5355,8 @@ https://learn.neogov.com
 https://learn.newrelic.com/
 https://legacy-blockexplorer.electroneum.com
 https://lensstudio.snapchat.com/api/
-https://library-staging.pdq.tools/ 
 https://library.elementor.com/
+https://library.pdq.com/
 https://lieferando.de
 https://link.uma.me
 https://link.x.immutable.com/
@@ -6068,7 +6068,6 @@ https://poc-op-ywh.it.authentification.si.gouv.qc.ca/
 https://pods.link
 https://pornhub.mainhub.com
 https://portal-api.anz.kinergysolutions.com
-https://portal-staging.pdq.tools/ 
 https://portal.3cx.com
 https://portal.afterpay.com
 https://portal.anz.kinergysolutions.com
@@ -6078,6 +6077,7 @@ https://portal.exoscale.com/
 https://portal.iFoodpago.com.br
 https://portal.lrs.t-mobile.com
 https://portal.originzero.com.au
+https://portal.pdq.com/
 https://portal.pnimedia.com/
 https://portal.pnimedia.com/Account/Login
 https://portal.unifiedid.com
