@@ -2902,12 +2902,12 @@ AppActions
 Browser Extensions
 Capture the Flag
 Grammarly AI Assistant
-Grammarly Agent Runtime
 Grammarly Auth Services
 Grammarly Business Features
 Grammarly Desktop for Windows
 Grammarly Desktop for macOS
 Grammarly for Microsoft Word
+Superhuman Go
 app.grammarly.com
 capi.grammarly.com
 com.grammarly.android.keyboard
@@ -2991,13 +2991,6 @@ web.geneva-staging.com
 www.bumble.com
 www.geneva-staging.chat
 www.geneva-staging.com
-api.omise.co
-dashboard.omise.co
-github.com
-offsite.omise.co
-vault.omise.co
-www.omise.co
-www.opn.ooo
 Anchor
 Android SDK
 Backstage source code
