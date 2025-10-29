@@ -73,6 +73,7 @@
 *.airbnb.org
 *.airbnbcitizen.com
 *.airbnbpayments.com
+*.akhwien.at
 *.alasco.de
 *.alasco.rocks
 *.algolia.net
@@ -366,6 +367,7 @@
 *.genoapay.co.nz
 *.genoapay.com
 *.germany.politico.eu
+*.gesundheitsverbund.at
 *.gethypr.com
 *.getmeetio.com
 *.github.net
@@ -567,6 +569,7 @@
 *.magiceden.io
 *.magiceden.workers.dev
 *.magisto.com
+*.magwien.gv.at
 *.malwarebytes.com
 *.marcus.co.uk
 *.marcus.com
@@ -913,6 +916,7 @@
 *.squareup.com
 *.srvcs.tumblr.com
 *.ssr.ccp.xcal.tv 
+*.stadtwien.onmicrosoft.com
 *.stag.tomorrowland.com
 *.stag.weareone.world
 *.staging-airtableblocks.com
@@ -1076,6 +1080,9 @@
 *.werkenbijkarwei.nl
 *.wf.com
 *.wholesalexl.com
+*.wien.at
+*.wien.gv.at
+*.wienkav.at
 *.wimpmusic.com
 *.wise.com
 *.wissen-sie-mehr.de
@@ -1617,7 +1624,12 @@ AOL Search
 API Shield
 API calls going to disco-api from https://www.tagesanzeiger.ch 
 API's
+AS16314
 AS41690
+AS6720 1/2
+AS6720 2/2
+AS6720 IPv6 1/2
+AS6720 IPv6 2/2
 ASN: AS10976
 ASN: AS133144
 ASN: AS13896
@@ -4592,6 +4604,7 @@ https://apps.apple.com/app/infomaniak-kdrive/id1482778676
 https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693
 https://apps.apple.com/app/thefork-manager-neo/id1295795281
 https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
+https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
 https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
@@ -5932,6 +5945,8 @@ https://mcp.opensea.io
 https://mcs.arlo.com
 https://media.irobot.com
 https://mediaflows.cloudinary.com/
+https://mein.wien.gv.at/
+https://mein.wien.gv.at/broker/api/*
 https://menulog.com.au
 https://meraki.cisco.com
 https://metamask-sdk-socket.metafi.codefi.network/
@@ -6243,6 +6258,7 @@ https://play.google.com/store/apps/developer?id=10bis.co.il+ltd.
 https://play.google.com/store/apps/developer?id=Just-Eat+Holding+Limited
 https://play.google.com/store/apps/developer?id=Skip+Canada
 https://play.google.com/store/apps/developer?id=Sky+Betting+and+Gaming+Apps&gl=uk
+https://play.google.com/store/apps/developer?id=Stadt+Wien&hl=de_AT
 https://play.google.com/store/apps/developer?id=Takeaway.com
 https://play.google.com/store/search?q=Schweizer+Finanzmuseum&c=apps
 https://play.google.com/store/search?q=chipotle+mexican+grill&c=apps
@@ -6331,10 +6347,12 @@ https://sandbox-vendors.paddle.com
 https://sandbox.directly.com/dashboard/index
 https://sandbox.open-xchange.com
 https://scalews.withings.com
+https://schulenwien.onmicrosoft.com
 https://scoober.com
 https://screenplayer.20min.ch
 https://search-api.bookbeat.com
 https://sec-test-<intigriti handle>-<nn>.personio.de
+https://secumails.gesundheitsverbund.at
 https://secure-iphone-xml.booking.com/json/
 https://secure-signals-jssdk-integ.uidapi.com
 https://secure-signals-srvonly-integ.uidapi.com
@@ -6432,6 +6450,7 @@ https://square.online
 https://squareup.com/
 https://src.mastercard.com/*
 https://src.mastercard.com/profile/enroll
+https://stadtwien-my.sharepoint.com/
 https://staff.monash
 https://staging-login.vistarmedia.com
 https://staging-prime.navan.com
@@ -6453,6 +6472,7 @@ https://store.retail.lightspeed.app
 https://store.steampowered.com/app/471710/Rec_Room/
 https://store.unity.com
 https://storybook.vistarmedia.com
+https://stp.wien.gv.at
 https://student.classdojo.com
 https://student.monash
 https://studentplacements.monash.edu
@@ -6619,7 +6639,9 @@ https://webmail.usaa.com
 https://webrtc.8x8.com/
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
 https://wgr-industries.com
+https://wibi.wien.gv.at/
 https://widget.thefork.com
+https://wien.at
 https://wiki.xenproject.org/wiki/Xen_Project_Repositories
 https://wise.com
 https://world.planethoster.net
@@ -6635,6 +6657,7 @@ https://www.*mongodb.com/*
 https://www.20min.ch
 https://www.32red.com/
 https://www.adsrvr.org
+https://www.akhwien.at
 https://www.allsaints.me/
 https://www.amazon.com/luna/*
 https://www.amazonpay.in/*
@@ -6730,6 +6753,7 @@ https://www.foreignaffairs.com/
 https://www.galabingo.com
 https://www.galacasino.com
 https://www.gamemaker.io
+https://www.gesundheitsverbund.at
 https://www.glassdoor.com/*
 https://www.glossybox.com/
 https://www.gohenry.com/
@@ -6970,6 +6994,7 @@ https://www.water-link-jaarverslag.be
 https://www.water-link.be
 https://www.waterstoring.be/
 https://www.weebly.com/
+https://www.wien.gv.at
 https://www.winconnect.com.au/get-connected/
 https://www.winconnect.com.au/moving-out/
 https://www.xbox.com/en-us/games/store/rec-room/9pgpqk0xthrz
