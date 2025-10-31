@@ -674,6 +674,7 @@
 *.nutakupublishing.com
 *.ociadmin.cloud.8x8.com
 *.octopus.com
+*.oda.com
 *.odcdn.com.au
 *.oklink.com
 *.okx.com
@@ -758,6 +759,7 @@
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
 *.prod.ftl.netflix.com
+*.prod.nube.tech
 *.projectbaseline.com/
 *.prowly.com
 *.psynet.gg
@@ -991,6 +993,8 @@
 *.uk.harmanaudio.com
 *.uk.jbl.com
 *.ultimateearsuniversity.com
+*.unreal-agents.com
+*.unreal-agents.jitsi.net
 *.unrealengine.com
 *.unrealtournament.com
 *.uphodl.com
@@ -1133,6 +1137,8 @@
 1032480595
 1057338687
 107.167.96.0/19
+1076840480
+1079537578
 1080074001
 1080248000
 1089294040
@@ -5741,6 +5747,7 @@ https://marketplace.auth0.com
 https://marketplace.ifood.com.br
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
 https://master.servicecentre.digitalservicing-np.lfscnp.com/
+https://mathem.se
 https://matrix.agent.tchap.gouv.fr
 https://matrix.e.tchap.gouv.fr
 https://matrix.i.tchap.gouv.fr
@@ -5836,6 +5843,7 @@ https://oauth.ring.com/*
 https://ob-sandbox.gocardless.io
 https://octopus.com
 https://octopus.com/downloads
+https://oda.com
 https://odesli.co
 https://odesli.com
 https://oes.optusnet.com.au/
@@ -7341,6 +7349,7 @@ nl.karwei.app.android
 nmtracking.netflix.com
 no-cf.*.aws.indriverapp.com
 no-gw-cf.*.aws.indriverapp.com
+no.kolonial.tienda
 notula-accpt.portofantwerpbruges.com
 novel.pixiv.net
 npm CLI
@@ -7747,6 +7756,7 @@ scan.snapchat.com
 scapegoat.hyatt.com
 screenshot-proxy.netlify.app
 scrutiny.swiftfinancial.com
+se.mathem.mathem
 search.brave.com
 secure-dfadmin.deriv.com
 secure-supply-xml.booking.com
@@ -8089,6 +8099,7 @@ uk.forescout.cloud
 unifi.ui.com
 unified.cloudways.com
 university.marriott.com
+unreal-agents.8x8pilot.com
 updates.forescout.com
 updates.nextcloud.com
 upld.krisp.ai
