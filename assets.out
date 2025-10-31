@@ -1857,7 +1857,6 @@ Customer Connected Domain
 Customer Portal
 CyberGhost VPN servers
 DS proxy (see https://github.com/demarches-simplifiees/ds_proxy)
-DSE, Opscenter
 Data Loss Prevention (DLP)
 Data.lime.bike 
 Database Tools
@@ -2942,7 +2941,6 @@ app*.hubspot.com
 app-*.easy4ipcloud.com
 app-insiders.marriott.com
 app.Reclaim.ai
-app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
@@ -3048,7 +3046,6 @@ assets.airbnb.com
 assets.hyatt.com
 assets.spotify.com
 assets.tumblr.com
-astra.datastax.com
 asupport.suivo.com
 ath-cf.*.aws.indriverapp.com
 ath-gw-cf.*.aws.indriverapp.com
@@ -3872,7 +3869,6 @@ do.co
 doaction.org
 docs.api.enterprise.uphold.com
 docs.databricks.com
-docs.datastax.com
 docs.gitlab.com
 docs.lansweeper.com
 docs.launchdarkly.com
@@ -3890,7 +3886,6 @@ doppler
 doppler.team
 download.krisp.ai
 download.nextcloud.com
-downloads.datastax.com
 dr-cf.*.aws.indriverapp.com
 dream-dev.wnba.com
 dream-qa.wnba.com
@@ -6991,8 +6986,6 @@ kyc.etoro.com
 l75pvbdyjo.infomaniak.site
 labs.databricks.com
 lando.services.mozilla.com
-langflow.datastax.com
-langflow.org
 lark-frontier.byteoversea.com
 larksuite.com
 launch.playcanvas.com
@@ -8324,7 +8317,6 @@ www.cybersource.com
 www.dashlane.com
 www.datacamp.com
 www.datacamp.com/datalab
-www.datastax.com
 www.ddfcontent.com
 www.deezer.com
 www.delen.bank
