@@ -1,3 +1,5 @@
+*.arlo.com
+*.arloxcld.com
 *.central.arubanetworks.com
 *.app.asana.com
 *.asana.biz
@@ -11,7 +13,6 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.realitykings.com
 *.seancody.com
 *.tube8.com
-*.nutakupublishing.com
 *.nutakupublishing.com
 *.trafficjunky.com
 *.adultforce.com
