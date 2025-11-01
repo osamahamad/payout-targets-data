@@ -125,8 +125,6 @@
 *.app.personio.com
 *.app.spacelift.dev
 *.appmiral.com
-*.arlo.com
-*.arloxcld.com
 *.artifactory.marriott.com
 *.artstation.com
 *.as-nmt.de
@@ -671,6 +669,7 @@
 *.nordvpn.com
 *.nr-data.net
 *.nr-ops.net
+*.nutakupublishing.com
 *.ociadmin.cloud.8x8.com
 *.octopus.com
 *.oda.com
@@ -1696,26 +1695,6 @@ Arc on Mac
 Arc on Windows
 Arduino Nano
 Area 1
-Arlo All-In-One Sensor (Home Security System)
-Arlo Base Station
-Arlo Cellular & Battery Backup (Home Security System)
-Arlo Chime 2
-Arlo Essential
-Arlo Essential 2 (indoor & outdoor camera, doorbell)
-Arlo Go v2
-Arlo Home Security System
-Arlo Pro 3 Floodlight
-Arlo Pro 5S
-Arlo Pro SmartHub
-Arlo Safe Android App
-Arlo Safe Button
-Arlo Safe iOS App
-Arlo Secure Android App
-Arlo Secure iOS App
-Arlo Ultra 2
-Arlo Wire-Free Outdoor Siren (Home Security System)
-Arlo Wired Floodlight
-Arlo Wireless Video Doorbell
 Artifactory
 Aruba AirWave AMP
 Aruba InstantOn Switches
@@ -4239,7 +4218,6 @@ http://www.shopmarriott.com
 http://www.underarmour.com.sg
 http://www.whynot.com/
 https//monidentifiant.sncf
-https://*-prod.arlo.com
 https://0-2744452194.s3.nbg01.de.dracoon.io
 https://10bis.co.il
 https://195.60.68.241
@@ -4590,7 +4568,6 @@ https://apps.facebook.com/pokerheat
 https://apps.facebook.com/vegas_downtown_slots
 https://apps.microsoft.com/detail/3cx/9NW77489NGJ0
 https://apps.yeswehack.com
-https://arlo-device.messaging.netgear.com
 https://armourhouse.underarmour.com
 https://artist.link
 https://asana.com
@@ -4632,7 +4609,6 @@ https://backend.ibotta.com/
 https://base.org
 https://bb1.simplisafe.com
 https://bb2.simplisafe.com
-https://beta.arlo.com
 https://billing.ring.com/*
 https://billingonline.post.ch/OnlinePayment/Web/v1/BOI
 https://billingserver.pinelabs.com/
@@ -4854,7 +4830,6 @@ https://donate.mastercard.com
 https://download.krisp.ai/mac
 https://download.krisp.ai/win
 https://download.opera.com
-https://downloads.arlo.com
 https://drp.myoppo.com/
 https://dxc.episerver.net/ 
 https://e.oppo.com/
@@ -4936,6 +4911,7 @@ https://gaadmin.vfsglobal.com/Global-Admin/
 https://gaadmin.vfsglobal.com/GlobalAdmin/
 https://gap.citizenportal-test.bugbounty.akinox.dev/
 https://gate.sendbird.com
+https://gateway-api.nutaku.net
 https://gateway.optus.com.au/api/ai-search/search/v1
 https://gatewaydsapdev2.marriott.com/
 https://gatewaydsaptst1.marriott.com/
@@ -5758,7 +5734,6 @@ https://mattermost.com/apps/
 https://mc.sendgrid.com/
 https://mcp-server.zomato.com/mcp
 https://mcp.opensea.io
-https://mcs.arlo.com
 https://media.irobot.com
 https://mediaflows.cloudinary.com/
 https://mein.wien.gv.at/
@@ -5783,6 +5758,7 @@ https://mobile.pornhub.com/
 https://mobile.usaa.com
 https://mobileapi.afterpay.com
 https://mobileapi.clearpay.com
+https://mobileapi.nutaku.com
 https://mobileapi.staging.luno.com/
 https://mobileapp.opsgenie.com
 https://mobileapps.usaa.com/
@@ -5795,7 +5771,6 @@ https://movieclub-int.kinepolis.com
 https://movienow-int.kinepolis.be/admin
 https://mstatic.usaa.com
 https://multipay-staging.test.komoju.com
-https://my.arlo.com
 https://my.electroneum.com/
 https://my.elementor.com/
 https://my.employer.seek.com
@@ -5812,7 +5787,6 @@ https://my.ultramobile.com
 https://my.wpengine.com
 https://my.wyze.com
 https://myaccount-staging.getmoneytree.com
-https://myapi.arlo.com
 https://myapp.monash.edu/
 https://mydesktop.usaa.com
 https://mylink.page
@@ -5878,6 +5852,7 @@ https://orders.pniws.com/
 https://ort-admin.pingone.com/*
 https://ort-authenticator.pingone.com/*
 https://ort-desktop.pingone.com/*
+https://osapi.nutaku.com
 https://osu.eu-west-2.outscale.com
 https://owncloud.org/install/#install-clients
 https://paasportal.episerver.net/
@@ -6383,7 +6358,6 @@ https://underarmournext.com/
 https://unified.neogov.com
 https://unihub.monash.edu/
 https://unity3d.com/get-unity/download/archive
-https://updates.arlo.com
 https://us.eufy.com/products/e8213181
 https://us.eufy.com/products/t8410121
 https://us.eufy.com/products/t88511d1
@@ -6466,7 +6440,6 @@ https://www.allsaints.me/
 https://www.amazon.com/luna/*
 https://www.amazonpay.in/*
 https://www.anytask.com/
-https://www.arlo.com
 https://www.assurancewireless.com
 https://www.atlassian.com/enterprise/data-center/bitbucket
 https://www.atlassian.com/enterprise/data-center/confluence
@@ -6650,6 +6623,8 @@ https://www.npmjs.com/package/@8x8/pui-partner-comm
 https://www.npmjs.com/package/@forge/cli	
 https://www.npmjs.com/package/@privy-io/react-auth
 https://www.nuinvest.com.br/
+https://www.nutaku.com
+https://www.nutaku.net
 https://www.oculus.com/experiences/quest/2173678582678296
 https://www.oculus.com/experiences/rift/1257029974329451
 https://www.okta.com/fastpass/
@@ -6803,7 +6778,9 @@ https://www.zoop.ws
 https://wwws-staging.moneytree.jp/link/
 https://wwws-staging.moneytree.jp/link/mobile/
 https://wwws-staging.moneytree.jp/link/mobile/#/signup?client_id=38d99a6e8e9fc87c866f5aa82bdc2569c464b2323a55e0b28f658efa678e9623&redirect_uri=https://wwws-staging.moneytree.jp/link/mobile/callback&response_type=token&scope=guest_read+accounts_read+transactions_read+request_refresh
+https://xnxx.nutaku.net
 https://xv-cp.apis-staging.xvtest.net/
+https://xvideos.nutaku.net
 https://xyzbmojn.net/
 https://yeswehack.com
 https://yeswehack.staging.komoju.com

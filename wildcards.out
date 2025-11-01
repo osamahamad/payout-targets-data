@@ -102,8 +102,6 @@
 *.app.personio.com
 *.app.spacelift.dev
 *.appmiral.com
-*.arlo.com
-*.arloxcld.com
 *.artifactory.marriott.com
 *.artstation.com
 *.as-nmt.de
@@ -648,6 +646,7 @@
 *.nordvpn.com
 *.nr-data.net
 *.nr-ops.net
+*.nutakupublishing.com
 *.ociadmin.cloud.8x8.com
 *.octopus.com
 *.oda.com
