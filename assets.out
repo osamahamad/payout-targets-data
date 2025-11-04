@@ -1680,6 +1680,7 @@ Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure o
 Any public cloud resource or infrastructure operated and managed by REI.
 Any publicly accessible Tripadvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
 Any related DPG media domain
+Any related Torfs domain
 Any resource created or accessed with the Outscale Cloud on eu-west-2 region -  created by the Hunter
 Any subdomain application issue
 Any subdomain infrastructure issue
@@ -2361,6 +2362,7 @@ SOPHOS/Secureworks : Redcloak
 SOPHOS/Secureworks : Taegis
 SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope
 SSL/TLS
+SSO_Saml_connector
 Saily - Android
 Saily - iOS
 Sandboxes
@@ -2414,6 +2416,7 @@ Spotify desktop application (Windows and Mac)
 Square Register
 Square Terminal
 Staging, QA, Dev, and Test Environments
+Standalone Chrome extension
 Starbucks China Android
 Starbucks China iOS
 Starbucks Japan Android
@@ -2785,6 +2788,7 @@ api.coindcx.com
 api.coinmarketcap.com
 api.creditkarma.com
 api.custody.coinbase.com
+api.dashlane.com
 api.deezer.com
 api.deriv.com
 api.digital.delen.be 
@@ -2937,6 +2941,7 @@ app.Reclaim.ai
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
+app.dashlane.com
 app.datacamp.com/certification
 app.datacamp.com/groups
 app.datacamp.com/learn
@@ -3397,6 +3402,8 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
+com.dashlane
+com.dashlane.dashlanephonefinal
 com.datacamp
 com.dd.doordash
 com.defi.wallet
@@ -3682,6 +3689,7 @@ connect.secure.wellsfargo.com
 connect.venly.io
 console-backend.truelayer[-sandbox].com
 console.circle.com
+console.dashlane.com
 console.ort-one-pingone.com
 console.tink.com
 console.truelayer[-sandbox].com
@@ -4018,6 +4026,7 @@ gateway.geneva-staging.com
 gateway.reddit.com
 gateway.skyscanner.net/*
 gc4x-api-sandbox.gocardless.com
+gehmmocbbkpblljhkekmfhjpfbkclbph
 geminiadvisory.io
 geneva-staging.chat
 geofilters.snapchat.com
@@ -6504,6 +6513,8 @@ https://www.cyber.gouv.qc.ca/
 https://www.cyberghostvpn.com/en_US/apps/linux-vpn
 https://www.cyberghostvpn.com/en_US/apps/macos-vpn
 https://www.cyberghostvpn.com/en_US/apps/windows-vpn
+https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&target=launcher_macosx
+https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
 https://www.decathlon.(ch|fr|hu|pl|ro|cz|com.tr)/
 https://www.decathlon.(co.uk|it|nl|de|pt|es|be)/
 https://www.demarches-simplifiees.fr
@@ -7022,6 +7033,7 @@ logistica.redelcom.cl
 logitech.zendesk.com
 logitechg.com.cn
 logitechgchallenge.com
+logs.dashlane.com
 logs.nextcloud.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
@@ -8202,6 +8214,7 @@ winecellar.zomato.com
 wings-dev.wnba.com
 wings-qa.wnba.com
 wings.wnba.com
+winkels.torfs.be
 winter.tomorrowland.com
 winterpackages.tomorrowland.com
 wlr-cf.*.aws.indriverapp.com
@@ -8221,6 +8234,7 @@ worldcoin.org
 wp5-truststroke.uzleuven.be
 ws.blockchain.info
 ws.sorare.com
+ws1.dashlane.com
 wss://socket.bitpanda.com
 www-dev.nba.com
 www-dev.wnba.com
@@ -8283,6 +8297,7 @@ www.crowdstrike.com
 www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
+www.dashlane.com
 www.datacamp.com
 www.datacamp.com/datalab
 www.ddfcontent.com
@@ -8499,8 +8514,11 @@ www.rockstargames.com
 www.s-kaupat.fi
 www.s-pankki.fi
 www.sa.dyson.com
+www.samenfittorfs.be
 www.sbb.ch
 www.sbbcargo.com
+www.schoenentorfs.be
+www.schoenentorfs.nl 
 www.sheer.com
 www.six-group.com
 www.socialdeal.nl
@@ -8530,6 +8548,8 @@ www.theperfumeshop.com
 www.tink.com
 www.tomorrowland.com
 www.topperpay.com
+www.torfs.be
+www.torfs.nl
 www.trajeoh.com
 www.transsicura.ch
 www.travel-brilliantly.marriott.com
