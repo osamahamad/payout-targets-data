@@ -56,27 +56,26 @@ Arlo All-In-One Sensor (Home Security System)
 Arlo Base Station
 Arlo Cellular & Battery Backup (Home Security System)
 Arlo Chime 2
-Arlo Essential
-Arlo Essential 2 (indoor & outdoor camera, doorbell)
-Arlo Pro 3 Floodlight
+Arlo Essential 2 & 3 (indoor & outdoor camera, doorbell)
 Arlo Wired Floodlight
 Arlo Go v2
 Arlo Home Security System
+Arlo Pro 3 Floodlight
 Arlo Pro SmartHub
 Arlo Pro 5S
+Arlo Pro 6
 Arlo Safe Button
 Arlo Ultra 2
 Arlo Wireless Video Doorbell
 Arlo Wire-Free Outdoor Siren (Home Security System)
 https://*-prod.arlo.com
-https://arlo-device.messaging.netgear.com
 https://beta.arlo.com
-https://downloads.arlo.com
 https://mcs.arlo.com
 https://my.arlo.com
 https://myapi.arlo.com
 https://www.arlo.com
 https://updates.arlo.com
+https://partnerapi.arlo.com
 HPE Aruba Networking Wireless – AOS-10.7 and later
 HPE Aruba Networking Central - New UI (see Scope Details)
 ArubaOS-CX Switches
@@ -451,6 +450,10 @@ https://play.google.com/store/apps/details?id=com.auth0.guardian&hl=en_US&gl=US
 https://apps.apple.com/us/app/auth0-guardian/id1093447833
 https://marketplace.auth0.com
 MFA Integrations	
+https://dashboard.fga.dev/
+https://api.us1.fga.dev/
+https://customers.us1.fga.dev/
+https://play.fga.dev/
 https://github.com/auth0/auth0.js
 https://github.com/auth0/lock
 https://github.com/auth0/auth0-spa-js
@@ -459,10 +462,6 @@ https://github.com/auth0/nextjs-auth0
 https://github.com/auth0/auth0-java
 https://github.com/auth0/react-native-auth0
 https://github.com/auth0/auth0-php
-https://dashboard.fga.dev/
-https://api.us1.fga.dev/
-https://customers.us1.fga.dev/
-https://play.fga.dev/
 auth0.com	
 samltool.io	
 webauthn.me	
@@ -1969,12 +1968,11 @@ https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
 https://play.google.com/store/apps/details?id=com.tmobile.tuesdays&hl=en_US&gl=US
 https://www.tagesanzeiger.ch
 API calls going to disco-api from https://www.tagesanzeiger.ch 
-https://biocorellc.com
 https://tempus-ex.com
-https://infiniteathlete.ai
-https://platform.infiniteathlete.ai
 https://docs.tempus-ex.com
 https://github.com/tempus-ex
+https://infiniteathlete.ai
+https://platform.infiniteathlete.ai
 https://apps.apple.com/us/app/tesla/id582007913
 Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US

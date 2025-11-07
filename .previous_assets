@@ -127,6 +127,7 @@
 *.app.spacelift.dev
 *.appmiral.com
 *.arlo.com
+*.arlo.com (subdomains impacting customer-facing services)
 *.arloxcld.com
 *.artifactory.marriott.com
 *.artstation.com
@@ -312,6 +313,7 @@
 *.eero.com
 *.ein-herz-fuer-kinder.de
 *.elastic.co
+*.elastic.dev
 *.elasticnet.co
 *.elstc.co
 *.emakina.at
@@ -1744,11 +1746,13 @@ Arlo Base Station
 Arlo Cellular & Battery Backup (Home Security System)
 Arlo Chime 2
 Arlo Essential
+Arlo Essential 2 & 3 (indoor & outdoor camera, doorbell)
 Arlo Essential 2 (indoor & outdoor camera, doorbell)
 Arlo Go v2
 Arlo Home Security System
 Arlo Pro 3 Floodlight
 Arlo Pro 5S
+Arlo Pro 6
 Arlo Pro SmartHub
 Arlo Safe Android App
 Arlo Safe Button
@@ -1784,6 +1788,7 @@ Beats - Auditbeat
 Beats - Filebeat
 Beats - Heartbeat
 Beats - Metricbeat
+Beats - Osquerybeat
 Beats - Packetbeat
 Beats - Winlogbeat
 Beeper
@@ -1958,6 +1963,7 @@ Elastic Clients
 Elastic Cloud Enterprise (ECE)
 Elastic Cloud on Kubernetes (ECK)
 Elastic Defend
+Elastic Distributions of OpenTelemetry (EDOT)
 Elastic Enterprise Search
 Elastic Maps Server
 Elastic Package Registry
@@ -4039,6 +4045,7 @@ edgeapis.onecloud.harman.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
 editeurs.monespacesante.fr
+editionhotels.com
 editorial.one
 education.23andme.com
 education.github.com
@@ -4384,6 +4391,9 @@ http://vimeo.com/ondemand
 http://wallet.opensea.io/
 http://wellsfargo.com
 http://wf.com
+http://www.bybit.com/en/alpha/overview/
+http://www.bybit.com/trade/tradfi/
+http://www.byreal.io
 http://www.kiwi.com/stories
 http://www.lululemon.co.kr/
 http://www.mydirtyhobby.com/
@@ -6091,6 +6101,7 @@ https://partner-feeds.20min.ch
 https://partner.apps.monash.edu
 https://partner.myopenpass.com
 https://partner.thetradedesk.com
+https://partnerapi.arlo.com
 https://partnerapi.imoulife.com
 https://partnerapi.tapayments.com
 https://partnerapi1.tapayments.com

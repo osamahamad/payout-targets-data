@@ -102,7 +102,7 @@
 *.app.personio.com
 *.app.spacelift.dev
 *.appmiral.com
-*.arlo.com
+*.arlo.com (subdomains impacting customer-facing services)
 *.arloxcld.com
 *.artifactory.marriott.com
 *.artstation.com
@@ -283,6 +283,7 @@
 *.eero.com
 *.ein-herz-fuer-kinder.de
 *.elastic.co
+*.elastic.dev
 *.elasticnet.co
 *.elstc.co
 *.emakina.at
@@ -467,7 +468,6 @@
 *.jobstreet.com
 *.jora.com
 *.jora.xyz
-*.justfall.lol,*.justplay.lol,*.1v1.lol
 *.karwei.nl/*
 *.karweioutletstore.nl
 *.kayak.com

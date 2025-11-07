@@ -1,4 +1,4 @@
-*.arlo.com
+*.arlo.com (subdomains impacting customer-facing services)
 *.arloxcld.com
 *.central.arubanetworks.com
 *.app.asana.com

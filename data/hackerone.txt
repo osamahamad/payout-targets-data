@@ -556,6 +556,9 @@ lightsparkdev/lightspark-crypto-uniffi
 lightsparkdev/swift-wallet-sdk
 lrc20.lightspark.com
 http://testnet.bybit.eu
+http://www.bybit.com/en/alpha/overview/
+http://www.bybit.com/trade/tradfi/
+http://www.byreal.io
 https://apps.apple.com/us/app/bybit-app/id1488296980
 https://play.google.com/store/apps/details?id=com.bybit.app&hl=en
 <locale>.trip.com
@@ -696,8 +699,6 @@ id.worldcoin.org
 toolsforhumanity.com
 world.org
 worldcoin.org
-https://github.com/ProvableHQ/snarkOS
-https://github.com/ProvableHQ/snarkVM
 1013961111
 1218902777
 926252661
@@ -1007,7 +1008,6 @@ Any public (Internet-facing) infrastructure owned and operated by Palantir.
 Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
 All Evergreen Assets (Excluding staging)
 App Services/Realm
-Artifactory
 Atlas Charts
 Atlas Data Federation
 Atlas IAM
@@ -1215,7 +1215,6 @@ smtp2go.com
 1474700 (Steam app id)
 1508620125
 1510325826
-1v1.lol
 447553564
 480523695
 529996768
@@ -1907,7 +1906,6 @@ ob.gocardless.com
 pay-sandbox.gocardless.com
 payer-details-sandbox.gocardless.com
 www.gocardless.com
-xero-sandbox.gocardless.com
 194.90.151.192/28
 194.90.25.80/29
 194.90.89.165/32
@@ -2433,6 +2431,7 @@ contentportal.marriott.com
 contentportalauth.marriott.com
 cpp.marriott.com
 device.marriott.com
+editionhotels.com
 efast.marriott.com
 eidhelp.marriott.com
 esupplier.marriott.com
@@ -2743,14 +2742,15 @@ Beats - Auditbeat
 Beats - Filebeat
 Beats - Heartbeat
 Beats - Metricbeat
+Beats - Osquerybeat
 Beats - Packetbeat
 Beats - Winlogbeat
 Elastic Agent
-Elastic Behavior Detections
 Elastic Clients
 Elastic Cloud Enterprise (ECE)
 Elastic Cloud on Kubernetes (ECK)
 Elastic Defend
+Elastic Distributions of OpenTelemetry (EDOT)
 Elastic Enterprise Search
 Elastic Maps Server
 Elastic Package Registry

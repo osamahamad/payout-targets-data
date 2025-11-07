@@ -125,7 +125,7 @@
 *.app.personio.com
 *.app.spacelift.dev
 *.appmiral.com
-*.arlo.com
+*.arlo.com (subdomains impacting customer-facing services)
 *.arloxcld.com
 *.artifactory.marriott.com
 *.artstation.com
@@ -306,6 +306,7 @@
 *.eero.com
 *.ein-herz-fuer-kinder.de
 *.elastic.co
+*.elastic.dev
 *.elasticnet.co
 *.elstc.co
 *.emakina.at
@@ -490,7 +491,6 @@
 *.jobstreet.com
 *.jora.com
 *.jora.xyz
-*.justfall.lol,*.justplay.lol,*.1v1.lol
 *.karwei.nl/*
 *.karweioutletstore.nl
 *.kayak.com
@@ -1321,7 +1321,6 @@
 198.142.65.253
 199.66.248.0/22
 1pw-scim.prd.iat.it.xvservice.net
-1v1.lol
 202.139.138.208/28
 203.13.127.0/24
 203.13.128.0/27
@@ -1701,12 +1700,12 @@ Arlo All-In-One Sensor (Home Security System)
 Arlo Base Station
 Arlo Cellular & Battery Backup (Home Security System)
 Arlo Chime 2
-Arlo Essential
-Arlo Essential 2 (indoor & outdoor camera, doorbell)
+Arlo Essential 2 & 3 (indoor & outdoor camera, doorbell)
 Arlo Go v2
 Arlo Home Security System
 Arlo Pro 3 Floodlight
 Arlo Pro 5S
+Arlo Pro 6
 Arlo Pro SmartHub
 Arlo Safe Android App
 Arlo Safe Button
@@ -1717,7 +1716,6 @@ Arlo Ultra 2
 Arlo Wire-Free Outdoor Siren (Home Security System)
 Arlo Wired Floodlight
 Arlo Wireless Video Doorbell
-Artifactory
 Aruba AirWave AMP
 Aruba InstantOn Switches
 Aruba User Experience Insight Sensors
@@ -1740,6 +1738,7 @@ Beats - Auditbeat
 Beats - Filebeat
 Beats - Heartbeat
 Beats - Metricbeat
+Beats - Osquerybeat
 Beats - Packetbeat
 Beats - Winlogbeat
 Beeper
@@ -1901,11 +1900,11 @@ EOS C# SDK
 Echo Family Devices
 EdgeMAX
 Elastic Agent
-Elastic Behavior Detections
 Elastic Clients
 Elastic Cloud Enterprise (ECE)
 Elastic Cloud on Kubernetes (ECK)
 Elastic Defend
+Elastic Distributions of OpenTelemetry (EDOT)
 Elastic Enterprise Search
 Elastic Maps Server
 Elastic Package Registry
@@ -2793,6 +2792,8 @@ api.custody.coinbase.com
 api.dashlane.com
 api.deezer.com
 api.deriv.com
+api.digital.delen.be 
+api.digital.delen.lu 
 api.digitalocean.com
 api.direct.playstation.com
 api.doppler.com
@@ -2938,6 +2939,7 @@ app*.hubspot.com
 app-*.easy4ipcloud.com
 app-insiders.marriott.com
 app.Reclaim.ai
+app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
@@ -2945,6 +2947,9 @@ app.dashlane.com
 app.datacamp.com/certification
 app.datacamp.com/groups
 app.datacamp.com/learn
+app.delen.be 
+app.delen.ch 
+app.delen.lu 
 app.deriv.com
 app.drogas.lt
 app.drogas.lv
@@ -3051,6 +3056,8 @@ auth-identity-qa.nba.com
 auth-identity-uat.nba.com
 auth-identity.nba.com
 auth.23andme.com
+auth.digital.delen.be 
+auth.digital.delen.lu 
 auth.hhc247.org
 auth.magic.link
 auth.monespacesante.fr
@@ -3102,6 +3109,7 @@ bd.visa.com
 bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
+be.delen.digital
 be.gamma.app.android
 beacon.netflix.com
 belgium.tomorrowland.com
@@ -3791,6 +3799,7 @@ decision.swiftfinancial.com
 deeplinks.geneva-staging.chat
 deeplinks.geneva-staging.com
 defi.ripio.com
+delen/id1064839588
 delta.app
 demo.arkoselabs.com
 demo.cloud.databricks.com
@@ -3894,6 +3903,7 @@ edgeapis.onecloud.harman.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
 editeurs.monespacesante.fr
+editionhotels.com
 editorial.one
 education.23andme.com
 education.github.com
@@ -4214,6 +4224,9 @@ http://vimeo.com/ondemand
 http://wallet.opensea.io/
 http://wellsfargo.com
 http://wf.com
+http://www.bybit.com/en/alpha/overview/
+http://www.bybit.com/trade/tradfi/
+http://www.byreal.io
 http://www.kiwi.com/stories
 http://www.lululemon.co.kr/
 http://www.mydirtyhobby.com/
@@ -4575,7 +4588,6 @@ https://apps.facebook.com/pokerheat
 https://apps.facebook.com/vegas_downtown_slots
 https://apps.microsoft.com/detail/3cx/9NW77489NGJ0
 https://apps.yeswehack.com
-https://arlo-device.messaging.netgear.com
 https://armourhouse.underarmour.com
 https://artist.link
 https://asana.com
@@ -4621,7 +4633,6 @@ https://billing.ring.com/*
 https://billingonline.post.ch/OnlinePayment/Web/v1/BOI
 https://billingserver.pinelabs.com/
 https://binance.tr
-https://biocorellc.com
 https://bistro.sk
 https://bitbucket.org
 https://bitgo.ae/
@@ -4837,7 +4848,6 @@ https://donate.mastercard.com
 https://download.krisp.ai/mac
 https://download.krisp.ai/win
 https://download.opera.com
-https://downloads.arlo.com
 https://drp.myoppo.com/
 https://dxc.episerver.net/ 
 https://e.oppo.com/
@@ -4961,8 +4971,6 @@ https://github.com/Infomaniak/desktop-kDrive
 https://github.com/Nginx
 https://github.com/OctopusDeploy
 https://github.com/ProjectOpenSea/seaport#deployments
-https://github.com/ProvableHQ/snarkOS
-https://github.com/ProvableHQ/snarkVM
 https://github.com/RIPE-NCC/rpki-commons
 https://github.com/RIPE-NCC/rpki-core
 https://github.com/RIPE-NCC/rpki-monitoring
@@ -5881,6 +5889,7 @@ https://partner-feeds.20min.ch
 https://partner.apps.monash.edu
 https://partner.myopenpass.com
 https://partner.thetradedesk.com
+https://partnerapi.arlo.com
 https://partnerapi.imoulife.com
 https://partnerapi.tapayments.com
 https://partnerapi1.tapayments.com
@@ -7012,8 +7021,12 @@ login-ia.tvg.com
 login-pabets.tvg.com
 login.arkane.network
 login.cm.com
+login.delen.be 
+login.delen.ch 
+login.delen.lu 
 login.infomaniak.com
 login.lansweeper.com
+login.oyens.com
 login.pabets.tvg.com
 login.playcanvas.com
 login.rei.com
@@ -7903,6 +7916,7 @@ stats.nba.com
 stats.nextcloud.com
 stats.vinci.com
 stats.wnba.com
+status.delen.be 
 status.larksuite.com
 status.uphold.com
 steamcommunity.com
@@ -7929,6 +7943,7 @@ streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streams.etoro.com
+sts.delen.be 
 sts.etoro.com
 sts.uzleuven.be
 studio-api.swapcard.com
@@ -8267,6 +8282,8 @@ www.bookingholdings.com
 www.bpost.be
 www.bpost2.be
 www.bumble.com
+www.cadelam.be 
+www.cadelux.lu/en 
 www.cardinalcommerce.com
 www.carrentals.com
 www.cart.starbucks.co.jp/
@@ -8292,6 +8309,8 @@ www.datacamp.com
 www.datacamp.com/datalab
 www.ddfcontent.com
 www.deezer.com
+www.delen.bank
+www.delen.be/en 
 www.demorgen.be
 www.demorgen.be/abonnementen
 www.digitalocean.com
@@ -8649,7 +8668,6 @@ x.razorpay.com
 xFi Gateways (e.g., XB3, XB6, XB7)
 xFi Pods
 xadsacademy.com
-xero-sandbox.gocardless.com
 xhomeapi-*.cloud.comcast.net
 xhomeapi-*.codebig2.net
 xn--porsche-alttting-wwb.de
