@@ -221,11 +221,14 @@
 *.chalet.8x8.com/ws/v1
 *.cheaptickets.com
 *.cheaptickets.nl
+*.chile.transunion.com
 *.chime.com
 *.chimebank.com	
 *.chimecard.com
 *.chimepayments.com
 *.chmfin.com
+*.cibil.com
+*.cibilcreditreport.in
 *.cic-bug-bounty.auth0app.com
 *.citrixworkspacesapi.net
 *.claritymoney.com
@@ -254,6 +257,7 @@
 *.creditkarma.ca
 *.creditkarma.co.uk
 *.creditkarma.com
+*.crivo.com.br
 *.crossclip.com
 *.crowdstrike.com
 *.crypto.com
@@ -490,6 +494,7 @@
 *.intergamma.cloud
 *.intergamma.nl/*
 *.internal.exoscale.ch
+*.iovation.com
 *.itcapital.io
 *.jbl.com
 *.jbl.com.br
@@ -672,6 +677,9 @@
 *.neatcommerce.com
 *.neattest.com
 *.network-auth.com
+*.neustar
+*.neustar.biz
+*.neustarcare.com
 *.new.livestream.com
 *.newegg.ca
 *.newegg.com
@@ -688,6 +696,7 @@
 *.nml.com
 *.nnip.com
 *.nordvpn.com
+*.npac.com
 *.nr-data.net
 *.nr-ops.net
 *.nutakupublishing.com
@@ -899,6 +908,7 @@
 *.snooguts.net
 *.sol-data.com
 *.solarcity.com
+*.sontiq.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
 *.souparea.com
@@ -980,6 +990,22 @@
 *.trafficjunky.com
 *.trainpal.com,*.mytrainpal.com
 *.transferwise.com
+*.transunion.ca
+*.transunion.co.br
+*.transunion.co.uk
+*.transunion.co.za
+*.transunion.com
+*.transunion.com.br
+*.transunion.com.do
+*.transunion.do
+*.transunion.hk
+*.transunion.mx
+*.transunion.ph
+*.transunionafrica.com
+*.transunioncentralamerica.com
+*.transunioncibil.com
+*.transuniondecisioncentre.co.in
+*.transunionsolutions.co.in
 *.travelbook.de
 *.travelocity.ca
 *.travelocity.com
@@ -994,9 +1020,11 @@
 *.truelayer.cloud
 *.truelayer.com
 *.truelayer.io
+*.truoptik.com
 *.tstaging.com
 *.tstaging.tools
 *.tube8.com
+*.tui.transunion.com
 *.tumblr.com
 *.tweakblogs.net
 *.tweakers.net
@@ -1129,6 +1157,7 @@
 *.zdev.net
 *.zelle.com
 *.zellepay.com
+*.zipcode.com.br
 *.zomans.com
 *.zomato.com
 *dev.uzleuven.be
@@ -1243,6 +1272,8 @@
 1481198245
 1485539253
 1486322860
+149.255.184.0/23
+149.255.185.0/23
 1491791513
 1494755014
 1498197033
@@ -1307,6 +1338,7 @@
 194.90.25.80/29
 194.90.89.165/32
 195.189.143.0/24
+195.59.101.192/26
 198.142.152.100
 198.142.152.101
 198.142.152.108
@@ -1445,6 +1477,7 @@
 212.95.227.64/26
 213.139.133.32/28
 216.20.176.0/20
+217.68.20.116
 281796108
 284803487
 284910350
@@ -2776,8 +2809,10 @@ admin.8x8.com
 admin.booking.com
 admin.fr.cloud.gov
 admin.instacart.com
+admin.prd-idfapi.aws3.ezshield.ws
 admin.shopify.com
 admin.stage.vismaonline.com
+admin.stg-idfapi.aws3.ezshield.ws
 admin.wickr.com
 admin2.infomaniak.com
 admincms.monespacesante.fr
@@ -2814,6 +2849,7 @@ airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 akismet.com
 alert.logitech.com
+alertinfo.link
 alertmanager.fr.cloud.gov
 alerts.ninjakiwi.com
 alexa.amazon.com
@@ -2829,6 +2865,7 @@ amazon.com/hz/mycd/*
 amazon.speech.sim
 amazonpayinsurance.in
 amd.digitalocean.com
+amfamprotect.com
 amp.reddit.com
 analytics-*.8x8.com
 analytics.krisp.ai
@@ -3194,6 +3231,7 @@ autointerface.stag.visma.net
 autoupdateapi.lansweeper.com
 avtoelon.uz
 aw.visa.com
+aws3.ezshield.ws
 ax-stage.maventa.com
 b2b.porsche-design.com
 b2b.tvgnetwork.com
@@ -3287,6 +3325,11 @@ br.nba.com
 brasil-store.tomorrowland.com
 brasil.tomorrowland.com
 brave.com
+breachresponse.ca
+breachresponse.com
+breachresponse.nl
+breachresponseeu.eu
+breachresponseuk.co.uk
 bsp.marriott.com
 buckingfuggy.com
 buffered-reader
@@ -3365,6 +3408,7 @@ cdn.nba.com
 cdn.plaid.com
 cdna.lystit.com
 cds.vrt.radio
+celinainsurance-idtheft.com
 chain.link
 chainabuse-staging.com
 chameleon
@@ -3410,6 +3454,12 @@ cm.staging.pcom.weu.porsche.com
 cmcom.atlassian.net
 cms.monespacesante.fr
 cms.nba.com
+cmsdev.transunion.do
+cmsdev.transunion.mx
+cmspvw.transunion.do
+cmsstage.transunion.do
+cmsstage.transunion.mx
+cmsstage.transunioncentralamerica.com
 co-cf.*.aws.indriverapp.com
 co-gw-cf.*.aws.indriverapp.com
 co-in-gw-cf.*.aws.indriverapp.com
@@ -3896,6 +3946,12 @@ cweb-ott-uc.nba.com
 cweb-ott.nba.com
 cyberghost.app
 cyberghost.com
+cyberscout-idprotection.com
+cyberscout-idtheft.com
+cyberscout.ca
+cyberscout.com
+cyberscoutclaims.com
+cyberscouthq.com
 cz.skodaauto.myskoda
 daita/files_fulltextsearch_tesseract
 dash.ai
@@ -4073,6 +4129,7 @@ embed.vhx.tv
 en.casinohuone.com
 en.kolikkopelit.com
 en.ottokasino.com
+enrollment.monitormyidentity.com
 epaper.welt.de
 epptool-ctld.verisign-grs.com (EPP service; DNS related)
 erpx.unit4cloud.com/u4erx_pab_acp1
@@ -4116,8 +4173,18 @@ extranet.s-pankki.fi
 extranet.uzleuven.be
 extras-acc.landmarkcinemas.com
 extras.landmarkcinemas.com
+ezshield.biz
+ezshield.com
+ezshield.net
+ezshield.org
+ezshield.tv
+ezshield.us
+ezshieldcheckfraudprotection.com
+ezshieldvault.com
+ezstest.com
 fab.com
 falcon-sandbox.com
+familysecuritytoday.com
 fanduel.com
 fareharborsites.com
 fashion4less.me
@@ -4167,6 +4234,8 @@ forum.portswigger.net
 forum.sketchfab.com
 forums.malwarebytes.com
 fp-sg.tiktokv.com
+fraudarmorservice.com
+fraudscout.com
 friends.porsche-design.com
 funding-webhooks.remitly.io
 furycloud.io
@@ -4222,6 +4291,7 @@ go.capital.com
 go.geneva-staging.com
 go.stripchat.com
 go.welt.de
+goezshield.com
 gofood.co.id
 goldmansachsindices.com
 googleplace*.bykea.net
@@ -4231,6 +4301,7 @@ grab.careers
 grae.nba.com
 grafana.fr.cloud.gov
 grammarly.ai
+grangeidentitytheft.com
 graphql.sandbox.topperpay.com/graphql
 gravatar.com
 grok.com
@@ -4356,6 +4427,8 @@ http://marlo.ext.tripadvisor.com
 http://mcp.intercom.com
 http://media.itsfogo.com/media/upload/mobile/android/apk/partycasino_com.apk
 http://member-qa.chime.com/enroll
+http://members.transunion.com/login
+http://members.transunion.com/unifiedlogin
 http://mgmtpod-1.production.forescoutcloud.net/oauth/token
 http://mgpg.probiller.com/
 http://mgpg2.probiller.com/
@@ -5977,6 +6050,7 @@ https://media.irobot.com
 https://mediaflows.cloudinary.com/
 https://mein.wien.gv.at/
 https://mein.wien.gv.at/broker/api/*
+https://members.transunion.com/oneclicksignup
 https://menulog.com.au
 https://meraki.cisco.com
 https://metamask-sdk-socket.metafi.codefi.network/
@@ -7105,11 +7179,17 @@ identity.nba.com
 identity.porsche.com
 identity.stage.vismaonline.com
 identity.yoti.com
+identityforce.com
+identityforcevault.com
+identityprotection.eset.com
 identityserver-acc.landmarkcinemas.com
 identityserver.landmarkcinemas.com
+idmemberbenefits.com
 idp-cf.*.aws.indriverapp.com
 idp-mobile.nexuzhealth.be
 idp.fr.cloud.gov
+idprotection.avast.com
+idprotection.avg.com
 ifast.marriott.com
 iframe.arkoselabs.com
 ifttt-adaptor.pub.kube.dm.gg
@@ -7125,6 +7205,7 @@ inc-gw-cf.*.aws.indriverapp.com
 indicative-pricing.taxi.booking.com
 indrive.com
 infinite.visa.fr
+infodefender.ca
 infomaniak.events
 ingest.clairvoyance.indrive.tech
 innersloth.kidswebservices.com
@@ -7468,6 +7549,7 @@ moneybird.com
 moneybirdstorage.com
 mongodb.live/*
 monitor.mozilla.org
+monitormyidentity.com
 monzo.com
 moonpay.com
 movie.indrive.com
@@ -7489,6 +7571,7 @@ my-accpt.portofantwerp.com
 my-accpt.portofantwerpbruges.com
 my.account.sony.com
 my.bpost.be
+my.cyberidlock.com
 my.exness.com
 my.loanbuilder.com
 my.malwarebytes.com
@@ -7514,8 +7597,13 @@ myaccount.payoneer.com
 myaccount.trouw.nl
 myaccount.volkskrant.nl
 myaccount.vtm.be
+myadtdigitalsecurity.com
 myconnect.com.au
+mycybercentre.com
 myhistory.porsche.com
+myideducation.com
+myidmanager.ca
+myidmanager.com
 mynexuz.be
 mynexuz.be/myUZ/
 mynexuzhealth/id1459856321
@@ -7549,6 +7637,7 @@ new.www.vaxvacationaccess.com
 news.remitly.com
 newsletter.nextcloud.com
 newsroom.images.hyatt.com
+newsroom.transunioncentralamerica.com
 newton.xyz
 next.airbnb.com
 nextcloud.com
@@ -7899,6 +7988,7 @@ projects.datacamp.com
 projects.nextcloud.com
 prometheus.fr.cloud.gov
 promos.tvg.com
+protectionfraudeparcheques.com
 prow.k8s.io
 proxy-production.lime.bike
 ps5.np.playstation.net
@@ -8183,6 +8273,7 @@ sporza.be
 sq
 sqop
 sqv
+srp-idtheft.com
 ssh.fr.cloud.gov
 ssm-marriottms.saviyntcloud.com
 sso-sprint.dynatracelabs.com
@@ -8424,6 +8515,7 @@ validationlist.bpost.be
 valkyries-dev.wnba.com
 valkyries-qa.wnba.com
 valkyries.wnba.com
+valueyouridentity.com
 vap.8x8.com
 vault.omise.co
 vault2.faraday.ai
@@ -9001,6 +9093,7 @@ yimg.com
 you.23andme.com
 your-assigned-subdomain.files.com
 your-store.myshopify.com
+yourbenefit-idtheft.com
 yourcompany.udemy.com
 yourdomain.freshcaller.com
 yourdomain.freshchat.com
