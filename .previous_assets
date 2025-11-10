@@ -4232,6 +4232,8 @@ grammarly.ai
 graphql.sandbox.topperpay.com/graphql
 gravatar.com
 grok.com
+gs://faraday-secret
+gs://fdy-production-sdk-uploads
 gt-cf.*.aws.indriverapp.com
 gt-gw-cf.*.aws.indriverapp.com
 guts.ninjakiwi.com
@@ -8417,6 +8419,7 @@ valkyries-qa.wnba.com
 valkyries.wnba.com
 vap.8x8.com
 vault.omise.co
+vault2.faraday.ai
 vcc-*.8x8.com
 vcc-ce.8x8.com
 vector.prd.iat.it.xvservice.net

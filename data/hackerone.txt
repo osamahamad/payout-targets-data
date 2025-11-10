@@ -1768,8 +1768,11 @@ com.romwe
 com.zzkko
 api.faraday.ai
 app.faraday.ai
+gs://faraday-secret
+gs://fdy-production-sdk-uploads
 s3://faraday-secret
 s3://faraday-uploads
+vault2.faraday.ai
 Android Playstation App
 PlayStation 4
 PlayStation 5

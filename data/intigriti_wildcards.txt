@@ -45,15 +45,6 @@
 *.volkskrant.nl
 *.digitalocean.com
 *.snapshooter.com
-*.dropbox.com
-*.dropboxer.net
-*.dropboxforum.com
-*.dropboxpartners.com
-*.hellofax.com
-*.docsend.com
-*.reclaim.ai
-*.helloworks.com
-*.hellosign.com
 sos-*.exo.io
 sks-*.exo.io
 *.internal.exoscale.ch
@@ -100,9 +91,6 @@ Leaked/compromised employee accounts *.here.com
 *.acc.mobilevikings.be
 *.dev-pub.mobilevikings.be
 *.dev.mobilevikings.be
-*.ninjakiwi.me
-*.nkstatic.com
-*.souparea.com
 *.oda.com
 *.prod.nube.tech
 *.app.personio-dev.com
