@@ -312,6 +312,8 @@
 *.fareharbor.engineering
 *.feednews.com
 *.fetlife.com
+*.findaya.co.id
+*.findaya.com
 *.fitbook.de
 *.flickr.com
 *.flipkey.com
@@ -333,6 +335,7 @@
 *.fromspotify.com
 *.fuze.com
 *.fuze.site
+*.gaming.gopayapi.com
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
@@ -347,12 +350,14 @@
 *.gitlap.com
 *.global-liquidity.gs.com
 *.go-pay.co.id
+*.gobiz.co.id
 *.gocardless-cicd.io
 *.gocardless-lab.io
 *.gocardless-staging.io
 *.gocardless.com
 *.gocardless.dev
 *.gocardless.io,*.gocardless-banking.io
+*.gofin.io
 *.gofood.co.id
 *.gojekapi.com
 *.goldman.com

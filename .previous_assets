@@ -347,6 +347,8 @@
 *.fareharbor.engineering
 *.feednews.com
 *.fetlife.com
+*.findaya.co.id
+*.findaya.com
 *.fitbook.de
 *.flickr.com
 *.flipkey.com
@@ -368,6 +370,7 @@
 *.fromspotify.com
 *.fuze.com
 *.fuze.site
+*.gaming.gopayapi.com
 *.gamma.be/*
 *.gamma.nl/*
 *.gateway.marriott.com
@@ -386,12 +389,14 @@
 *.glassdoor.com/*
 *.global-liquidity.gs.com
 *.go-pay.co.id
+*.gobiz.co.id
 *.gocardless-cicd.io
 *.gocardless-lab.io
 *.gocardless-staging.io
 *.gocardless.com
 *.gocardless.dev
 *.gocardless.io,*.gocardless-banking.io
+*.gofin.io
 *.gofood.co.id
 *.gojekapi.com
 *.goldman.com
@@ -2960,6 +2965,7 @@ api.fr.cloud.gov
 api.gamma.redoxstage.com
 api.geneva-staging.com
 api.github.com
+api.gobiz.co.id
 api.gojek.co.id
 api.grabpay.com
 api.greenhouse.io
