@@ -2247,6 +2247,11 @@ NordVPN - Linux Executable
 NordVPN - MacOS Executable
 NordVPN - Windows Executable
 NordVPN Browser Extension
+Notion AI
+Notion Authentication
+Notion Desktop App
+Notion Frontend
+Notion Integrations
 OIDC-based API keys
 OKX Android APK
 OKX Wallet Chrome Extension
@@ -2320,8 +2325,11 @@ Premiere Pro
 Premiere Rush
 Presentation Remotes
 Primary Assets
+Privilege Escalation
+Product API
 Product Delivery
 Protocol of the Swiss Post Voting System
+Public API
 Public Others Target
 React Native SDK
 Recon Data
@@ -3199,6 +3207,7 @@ cache.judge.me
 cache.marriott.com
 caldav.larksuite.com
 calendar.infomaniak.com
+calendar.notion.so
 callbacks.airbnb.com
 cam.notebleue.pro
 campus.datacamp.com
@@ -7062,6 +7071,7 @@ magiceden.io
 magisto.com,www.magisto.com
 mail.hostinger.com/v2
 mail.infomaniak.com
+mail.notion.so
 mailpoet.com
 maintenance.logitech.com
 manage-dev.nba.com
@@ -7342,6 +7352,7 @@ nmtracking.netflix.com
 no-cf.*.aws.indriverapp.com
 no-gw-cf.*.aws.indriverapp.com
 no.kolonial.tienda
+notion.id
 notula-accpt.portofantwerpbruges.com
 novel.pixiv.net
 npm CLI
