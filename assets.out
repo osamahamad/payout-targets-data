@@ -259,7 +259,6 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
-*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
@@ -1155,6 +1154,8 @@
 1091010942
 10x.redoxengine.com
 1101145849
+1114799709
+1114800186
 1116488672
 1118448159
 1127881507
@@ -2026,6 +2027,11 @@ Glassdoor Jobs
 Glassdoor iOS
 GlotPress
 Google Cloud Plateform Instances
+Grafana Loki
+Grafana Mimir
+Grafana OSS
+Grafana Pyroscope
+Grafana Tempo
 Grammarly AI Assistant
 Grammarly Auth Services
 Grammarly Business Features
@@ -2234,6 +2240,7 @@ Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
 Non Altera Products
 Non-Core Assets
+Non-Core Grafana Plugins
 NordPass - Linux Executable
 NordPass - MacOS Executable
 NordPass - Windows Executable
@@ -2365,7 +2372,6 @@ SOPHOS/Secureworks : Redcloak
 SOPHOS/Secureworks : Taegis
 SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope
 SSL/TLS
-SSO_Saml_connector
 Saily - Android
 Saily - iOS
 Sandboxes
@@ -2419,7 +2425,6 @@ Spotify desktop application (Windows and Mac)
 Square Register
 Square Terminal
 Staging, QA, Dev, and Test Environments
-Standalone Chrome extension
 Starbucks China Android
 Starbucks China iOS
 Starbucks Japan Android
@@ -2789,7 +2794,6 @@ api.coindcx.com
 api.coinmarketcap.com
 api.creditkarma.com
 api.custody.coinbase.com
-api.dashlane.com
 api.deezer.com
 api.deriv.com
 api.digital.delen.be 
@@ -2899,6 +2903,7 @@ api.slack.com
 api.smtp2go.com
 api.sokos.fi
 api.sorare.com
+api.soundtrackyourbrand.com
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -2940,14 +2945,9 @@ app*.hubspot.com
 app-*.easy4ipcloud.com
 app-insiders.marriott.com
 app.Reclaim.ai
-app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
-app.dashlane.com
-app.datacamp.com/certification
-app.datacamp.com/groups
-app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -3039,9 +3039,6 @@ as2.portofantwerp.com
 as2.portofantwerpbruges.com
 ask.khealth.com
 asp-stg-develop.eks-stg-use1.getaws.arubanetworks.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com 
-assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.spotify.com
@@ -3121,6 +3118,7 @@ bgpview.io
 bigcommerce-adapter.judge.me
 bild.de
 billing-pci.etoro.com
+billing.api.soundtrackyourbrand.com
 billing.etoro.com
 billingsupport.chaturbate.com
 bilt.marriott.com
@@ -3178,6 +3176,7 @@ bugcrowd-pam-###.pam.oktapreview.com
 bugzilla.mozilla.org
 builder.hostinger.com
 building-blocks.com
+builds.soundtrackyourbrand.com
 bullsheet.me
 business-resources.truecaller.com
 business.kayak.com
@@ -3187,6 +3186,7 @@ business.kinepolis.nl
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
+business.soundtrackyourbrand.com
 business.tiktok.com
 business.truecaller.com
 businesshelp.snapchat.com
@@ -3201,7 +3201,6 @@ caldav.larksuite.com
 calendar.infomaniak.com
 callbacks.airbnb.com
 cam.notebleue.pro
-campus.datacamp.com
 cancellation.prod.ps.welt.de
 candle-src.etoro.com
 candle.etoro.com
@@ -3405,9 +3404,6 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
-com.dashlane
-com.dashlane.dashlanephonefinal
-com.datacamp
 com.dd.doordash
 com.defi.wallet
 com.deribit
@@ -3577,6 +3573,7 @@ com.skypicker.Skypicker
 com.skypicker.main
 com.slack.slackmdm
 com.snapchat.android
+com.soundtrackyourbrand.soundtrack.player
 com.spotify.client
 com.spotify.kids
 com.spotify.lite
@@ -3691,7 +3688,6 @@ connect.secure.wellsfargo.com
 connect.venly.io
 console-backend.truelayer[-sandbox].com
 console.circle.com
-console.dashlane.com
 console.ort-one-pingone.com
 console.tink.com
 console.truelayer[-sandbox].com
@@ -4028,7 +4024,6 @@ gateway.geneva-staging.com
 gateway.reddit.com
 gateway.skyscanner.net/*
 gc4x-api-sandbox.gocardless.com
-gehmmocbbkpblljhkekmfhjpfbkclbph
 geminiadvisory.io
 geneva-staging.chat
 geofilters.snapchat.com
@@ -4453,7 +4448,6 @@ https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
-https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
@@ -4604,6 +4598,7 @@ https://audience-builder.vistarmedia.com
 https://audio.20min.ch/
 https://aus.api.just-eat.io/
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
+https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.immutable.com
@@ -4677,6 +4672,7 @@ https://bugcrowd.hotdoc.com.au
 https://bugcrowd.hotdoc.com.au/api
 https://bugcrowd.hotdoc.com.au/dashboard
 https://bugs.opera.com/
+https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
@@ -5049,6 +5045,7 @@ https://github.com/expressvpn/lightway-core
 https://github.com/freedomofpress/securedrop
 https://github.com/freedomofpress/securedrop-client
 https://github.com/freedomofpress/securedrop-workstation
+https://github.com/grafana/*
 https://github.com/hyperledger/besu
 https://github.com/hyperledger/besu-errorprone-checks
 https://github.com/hyperledger/besu-native
@@ -6123,6 +6120,7 @@ https://prozentoomat.toom.de
 https://pt-runner.app.ridewithvia.com
 https://pyszne.pl
 https://quantum-events.onecloud.harman.com
+https://radio.api.soundtrackyourbrand.com/
 https://rc.fstr.rocks
 https://rec.net/
 https://rec.net/download
@@ -6522,8 +6520,6 @@ https://www.cyber.gouv.qc.ca/
 https://www.cyberghostvpn.com/en_US/apps/linux-vpn
 https://www.cyberghostvpn.com/en_US/apps/macos-vpn
 https://www.cyberghostvpn.com/en_US/apps/windows-vpn
-https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&target=launcher_macosx
-https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
 https://www.decathlon.(ch|fr|hu|pl|ro|cz|com.tr)/
 https://www.decathlon.(co.uk|it|nl|de|pt|es|be)/
 https://www.demarches-simplifiees.fr
@@ -6715,6 +6711,7 @@ https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
 https://www.sophos.com/en-us/products/mobile-control/free-trial
 https://www.sophos.com/en-us/products/next-gen-firewall
+https://www.soundtrackyourbrand.com
 https://www.sourcetreeapp.com/
 https://www.staging.jobstreet.co.id
 https://www.staging.jobstreet.com.my
@@ -6830,11 +6827,11 @@ iOS App
 iOS Playstation App
 iOS SDK
 iRobot API Endpoint
-iRobot Romoba™ 105
-iRobot Romoba™ 205
-iRobot Romoba™ 405
-iRobot Romoba™ 505
-iRobot Romoba™ 705
+iRobot Roomba™ 105
+iRobot Roomba™ 205
+iRobot Roomba™ 405
+iRobot Roomba™ 505
+iRobot Roomba™ 705
 ia.tvg.com
 iam.atg.se
 iat.it.xvservice.net
@@ -7042,7 +7039,6 @@ logistica.redelcom.cl
 logitech.zendesk.com
 logitechg.com.cn
 logitechgchallenge.com
-logs.dashlane.com
 logs.nextcloud.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
@@ -7062,6 +7058,7 @@ m.bild.de
 m.chaturbate.com
 m.reddit.com
 m.trendyol.com
+macOS app
 magento.com
 magiceden.io
 magisto.com,www.magisto.com
@@ -7564,7 +7561,6 @@ portswigger.net
 pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
 pr-gw-cf.*.aws.indriverapp.com
-practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -7609,7 +7605,6 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profiler.firefox.com
-projects.datacamp.com
 projects.nextcloud.com
 promos.tvg.com
 prow.k8s.io
@@ -8242,7 +8237,6 @@ worldcoin.org
 wp5-truststroke.uzleuven.be
 ws.blockchain.info
 ws.sorare.com
-ws1.dashlane.com
 wss://socket.bitpanda.com
 www-dev.nba.com
 www-dev.wnba.com
@@ -8305,9 +8299,6 @@ www.crowdstrike.com
 www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
-www.dashlane.com
-www.datacamp.com
-www.datacamp.com/datalab
 www.ddfcontent.com
 www.deezer.com
 www.delen.bank

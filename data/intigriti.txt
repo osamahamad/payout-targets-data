@@ -1,7 +1,6 @@
 Hardware
 Firmware
 Software
-app.aikido.dev
 https://github.com/AikidoSec/firewall-node#Vulnerability
 https://github.com/AikidoSec/firewall-php#Vulnerability
 https://github.com/AikidoSec/firewall-python#Vulnerability
@@ -97,19 +96,6 @@ www.cloudways.com
 css-tricks.com
 https://justonweb.be/fines/
 Any related DPG media domain
-app.datacamp.com/certification
-app.datacamp.com/groups
-app.datacamp.com/learn
-assessment-api.datacamp.com
-assessment-v2.datacamp.com 
-assessment.datacamp.com
-campus.datacamp.com
-com.datacamp
-https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
-practice.datacamp.com
-projects.datacamp.com
-www.datacamp.com
-www.datacamp.com/datalab
 myaccount.demorgen.be
 shop.demorgen.be
 www.demorgen.be
@@ -189,6 +175,13 @@ service.fing.com
 app.fing.com
 Fing desktop
 www.fing.com*
+Grafana Loki
+Grafana Mimir
+Grafana OSS
+Grafana Pyroscope
+Grafana Tempo
+https://github.com/grafana/*
+Non-Core Grafana Plugins
 955837609
 com.here.app.maps
 https://jaguar.here.com
@@ -436,6 +429,18 @@ http://socialdeal.nl/inspirations/bluemonday/
 http://www.whynot.com/
 https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/
 www.socialdeal.nl
+1114799709
+1114800186
+api.soundtrackyourbrand.com
+billing.api.soundtrackyourbrand.com
+builds.soundtrackyourbrand.com
+business.soundtrackyourbrand.com
+com.soundtrackyourbrand.soundtrack.player
+https://auth.api.soundtrackyourbrand.com/
+https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
+https://radio.api.soundtrackyourbrand.com/
+https://www.soundtrackyourbrand.com
+macOS app
  aweb.suivo.com
 asupport.suivo.com
 cas.tomorrowland.com
