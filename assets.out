@@ -143,6 +143,7 @@
 *.autobild.de
 *.avecspotify.com
 *.ayco.com
+*.backblazeb2.com
 *.backend-capital.com
 *.base.org
 *.berush.com
@@ -2002,6 +2003,7 @@ Gecko SDK
 Gemini
 GenAI Apps under *.amazon.*
 Geneva 
+Git Repositories (b2-sdk-java & B2 Command Line Tool)
 GitHub Actions in our Public Repositories 
 GitHub CLI
 GitHub CSP
@@ -2149,6 +2151,8 @@ MFA Integrations
 MIUI OS for Xiaomi Phone
 Mac OS Executable
 Mac OS Executable: Download here https://www.larksuite.com/download
+Mac Personal Backup Clients
+Mac Restore Downloaders
 Magic Eden Wallet (Chrome Extension)
 Magic Firewall
 Magic Transit
@@ -2606,6 +2610,8 @@ Wickr Pro/Wickr Me (all related technical components) (up to)
 Windows Executable
 Windows OS Executable
 Windows OS Executable: Download here https://www.larksuite.com/download
+Windows Personal Backup Clients
+Windows Restore Downloaders
 Wireless Microcontrollers (MCUs)
 WooCommerce
 WordPress Core
@@ -4304,9 +4310,6 @@ https://api-portal.originzero.com.au
 https://api-prod.retailsso.com
 https://api-prod.thatconceptstore.com/
 https://api-skipthedishes.skipthedishes.com
-https://api-{app-id}.calls.sendbird.com
-https://api-{app-id}.notifications.sendbird.com
-https://api-{app-id}.sendbird.com
 https://api.20min.ch/
 https://api.aiven.io/login
 https://api.anytask.com/
@@ -4512,6 +4515,7 @@ https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
 https://apps.apple.com/us/app/anytask-com/id6741158899
 https://apps.apple.com/us/app/asana-mobile/id489969512
 https://apps.apple.com/us/app/auth0-guardian/id1093447833
+https://apps.apple.com/us/app/backblaze/id628638330
 https://apps.apple.com/us/app/bforbank-banque-en-ligne/id1607839793
 https://apps.apple.com/us/app/bitso-alpha-crypto-trade-pro/id1539469172
 https://apps.apple.com/us/app/bitso-buy-bitcoin-easily/id1292836438
@@ -4621,6 +4625,7 @@ https://b2bapi.usaa.com
 https://b2blsapi-a.usaa.com
 https://b2blsapi.usaa.com
 https://baby.zola.com/
+https://backblaze.com
 https://backend.ibotta.com/
 https://base.org
 https://bb1.simplisafe.com
@@ -4776,7 +4781,6 @@ https://dashboard-101.moengage.com
 https://dashboard.fga.dev/
 https://dashboard.pantheon.io
 https://dashboard.rapyd.net/
-https://dashboard.sendbird.com/
 https://data.coda.io/*
 https://data.limeinternal.com
 https://data.prosus.com/
@@ -4791,7 +4795,6 @@ https://demo.adstruc.com
 https://demo.myopenpass.com
 https://demo.priceless.com/
 https://design.staples.com
-https://desk-api-{region}.sendbird.com
 https://desk.thetradedesk.com
 https://desktop.water-link.be/
 https://dev.tutoring.classdojo.com
@@ -4924,7 +4927,6 @@ https://gaadmin.vfsglobal.com/GAR1Ph1ApptAdmin/
 https://gaadmin.vfsglobal.com/Global-Admin/
 https://gaadmin.vfsglobal.com/GlobalAdmin/
 https://gap.citizenportal-test.bugbounty.akinox.dev/
-https://gate.sendbird.com
 https://gateway-api.nutaku.net
 https://gateway.optus.com.au/api/ai-search/search/v1
 https://gatewaydsapdev2.marriott.com/
@@ -5945,6 +5947,7 @@ https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&hl
 https://play.google.com/store/apps/details?id=com.atlassian.confluence.server
 https://play.google.com/store/apps/details?id=com.atlassian.jira.server&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.auth0.guardian&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.backblaze.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.belongi.moe
 https://play.google.com/store/apps/details?id=com.bforbank.android
 https://play.google.com/store/apps/details?id=com.bitmex.app.android.testnet
@@ -6177,8 +6180,6 @@ https://segment.com/docs/sources/
 https://selector.viator.com
 https://selfcare.ooredoo.qa
 https://send2.co/
-https://sendbird.com
-https://sendbird.com/docs
 https://sendgrid.com
 https://service.platform.tripadvisor.com
 https://service.post.ch/ekp-web/
@@ -6450,8 +6451,6 @@ https://wise.com
 https://world.planethoster.net
 https://wowjobs.ca
 https://wpengine.com
-https://ws-{app-id}.calls.sendbird.com
-https://ws-{app-id}.sendbird.com
 https://ws.multiplayer.classdojo.com/
 https://ws.usaa.com
 https://wsloja.ifood.com.br
