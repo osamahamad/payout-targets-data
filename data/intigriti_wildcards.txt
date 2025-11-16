@@ -34,9 +34,6 @@
 *.appmiral.com
 *.cm.com
 *.cmtelecom.com
-*.backend-capital.com
-*.capital.com
-*.itcapital.io
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
@@ -60,17 +57,6 @@ Leaked/compromised employee accounts *.here.com
 *.hln.be
 *.parool.nl
 *.humo.be
-*.gamma.be/*
-*.gamma.nl/*
-*.intergamma.cloud
-*.intergamma.nl/*
-*.karwei.nl/*
-*.restintergamma.nl
-*.intergamma-test.nl
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
-*.karweioutletstore.nl
 *.klubcinema.fr
 *.megatix.be  
 *.kinepolis.be
