@@ -9,7 +9,6 @@
  Mobile Apps
  Twilio CDNs (static*.twilio.com)
  Watsons.TaiWan.Android
- aweb.suivo.com
  com.citymapper.app.release
  https://api-*exoscale.com/v2
  https://github.com/0xPolygon/proof-generation-api
@@ -3030,7 +3029,6 @@ assets.airbnb.com
 assets.hyatt.com
 assets.spotify.com
 assets.tumblr.com
-asupport.suivo.com
 ath-cf.*.aws.indriverapp.com
 ath-gw-cf.*.aws.indriverapp.com
 auroratechaward.com
@@ -4998,6 +4996,9 @@ https://github.com/electroneum/electroneum-sc/
 https://github.com/electroneum/electroneum/
 https://github.com/expressvpn/lightway
 https://github.com/expressvpn/lightway-core
+https://github.com/freedomofpress/securedrop
+https://github.com/freedomofpress/securedrop-client
+https://github.com/freedomofpress/securedrop-workstation
 https://github.com/grafana/*
 https://github.com/hyperledger/besu
 https://github.com/hyperledger/besu-errorprone-checks
