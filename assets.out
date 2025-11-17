@@ -143,6 +143,7 @@
 *.avecspotify.com
 *.ayco.com
 *.backblazeb2.com
+*.backend-capital.com
 *.base.org
 *.berush.com
 *.betfair.com
@@ -198,6 +199,7 @@
 *.canva.cn
 *.canva.com
 *.canva.tech
+*.capital.com
 *.capitalone.ca
 *.capitalone.com
 *.capitalonegslbex.com
@@ -280,6 +282,7 @@
 *.district.in
 *.dm.gg
 *.dmcdn.net
+*.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
@@ -289,6 +292,10 @@
 *.dpgmedia.nl
 *.drogas.lt
 *.drogas.lv
+*.dropbox.com
+*.dropboxer.net
+*.dropboxforum.com
+*.dropboxpartners.com
 *.dropmix.com
 *.dropxl.com
 *.e2ro.com
@@ -416,6 +423,9 @@
 *.harmankardon.com
 *.harmonixmusic.com
 *.harmonyremote.com
+*.hellofax.com
+*.hellosign.com
+*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.bild.de
@@ -470,6 +480,7 @@
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
 *.internal.exoscale.ch
+*.itcapital.io
 *.jbl.com
 *.jbl.com.br
 *.jbl.nl
@@ -769,6 +780,7 @@
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
+*.reclaim.ai
 *.reddit.com
 *.redditblog.com
 *.reddithelp.com
@@ -1124,6 +1136,7 @@
 107.167.96.0/19
 1076840480
 1079537578
+1080074001
 1080248000
 1089294040
 1091010942
@@ -1405,6 +1418,7 @@
 3.basecamp.com
 302584613
 319881193
+327630330
 328407587
 335187483
 336381998
@@ -1487,6 +1501,7 @@
 6444040977
 6444868926
 6449737830
+6450553960
 6452192521
 645949180
 6462308655
@@ -1862,6 +1877,8 @@ Drogas.Latvia.Android
 Drogas.Latvia.iOS
 Drogas.Lietuva.Android
 Drogas.Lietuva.iOS
+Dropbox Desktop Application
+Dropbox.com
 Dynatrace ActiveGate
 Dynatrace MobileAgent
 Dynatrace OneAgent
@@ -2023,6 +2040,8 @@ Hardware found on https://www.ezviz.com/category/smart-home
 Harmony Remote Software
 Harmony Remotes
 Helium Hotspot
+HelloFax.com
+HelloSign.com
 Hermes Relayer
 Horcrux
 HubSpot Android Mobile App
@@ -2675,6 +2694,7 @@ ads.tiktok.com
 adtechnology.axelspringer.com
 advisories.gitlab.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
+aff.capital.com
 affiliate-id.tokopedia.com
 agents.tasheer.com
 aggregator.etoro.com
@@ -2768,6 +2788,7 @@ api.direct.playstation.com
 api.doppler.com
 api.drogas.lt
 api.drogas.lv
+api.dropbox.com
 api.dyson.at
 api.dyson.be
 api.dyson.ch
@@ -2907,6 +2928,7 @@ apis.onecloud.harman.com
 app*.hubspot.com
 app-*.easy4ipcloud.com
 app-insiders.marriott.com
+app.Reclaim.ai
 app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
@@ -3169,6 +3191,7 @@ cancellation.prod.ps.welt.de
 candle-src.etoro.com
 candle.etoro.com
 capi.grammarly.com
+capital.com/*
 capitalmarketsday.porsche.com
 capturingreality.com
 cardpayments.remitly.io
@@ -3177,6 +3200,7 @@ cardsonline.azdiest.be
 cardsonlinetst.azdiest.be
 career.bpost.be
 careers.booking.com
+careers.capital.com
 careers.indrive.com
 careers.marriott.com
 careers.remitly.com
@@ -3348,6 +3372,7 @@ com.bumble.app
 com.bumblebff.app
 com.bykea.pk
 com.bykea.pk.partner
+com.capital.trading
 com.cheaptickets
 com.clay.ios
 com.cm.cashregister
@@ -3369,6 +3394,8 @@ com.dd.doordash
 com.defi.wallet
 com.deribit
 com.dolap.android
+com.dropbox.android
+com.dropbox.dash
 com.dyson.mobile.android
 com.ebookers
 com.eero.android
@@ -3713,7 +3740,9 @@ cyberghost.app
 cyberghost.com
 cz.skodaauto.myskoda
 daita/files_fulltextsearch_tesseract
+dash.ai
 dash.cloudflare.com
+dash.dropbox.com
 dashboard.algolia.com
 dashboard.doppler.com
 dashboard.magic.link
@@ -3815,6 +3844,7 @@ docs.redoxengine.com
 docs.silabs.com
 docs.topperpay.com
 docs.uphold.com
+docsend.com
 docuflow.stg.inspectorio.com
 donations.livestream.com
 doordash.DoorDashConsumer
@@ -3828,6 +3858,7 @@ dream-qa.wnba.com
 dream.wnba.com
 drive.porsche.com
 drive.wolt.com
+dropbox.com/paper
 dx-demo.deriv.com
 dx.deriv.com
 e-Commerce
@@ -3997,6 +4028,7 @@ globaldesign.marriott.com
 globaljourney.tomorrowland.com
 gnip.com
 gnocchi-www.buffalo-ggn.net
+go.capital.com
 go.geneva-staging.com
 go.stripchat.com
 go.welt.de
@@ -7294,6 +7326,7 @@ online.s-pankki.fi
 onum-labs.com
 onum.com
 open redirect at *.epam.com
+open-api.capital.com
 open.airbnb.com
 open.larksuite.com
 openapi.m-pesa.com
@@ -7349,6 +7382,7 @@ pay.{business_critical_assets} *see business assets for more information
 paybridge.booking.com
 paydirect.truelayer[-sandbox].com
 payer-details-sandbox.gocardless.com
+payment.backend-capital.com
 payment.bingo.com
 payment.casinohuone.com
 payment.deezer.com
@@ -7589,12 +7623,14 @@ redditforbusiness.com
 register-accpt.portofantwerp.com
 register-accpt.portofantwerpbruges.com
 register.bpost.be
+register.capital.com
 registre.notebleue.pro
 registry.gitlab.com
 rei.com
 relay.firefox.com
 relay.playcanvas.com
 remitly.com
+replay.dropbox.com
 repo.magento.com
 report-html-sight.stg.inspectorio.com
 report.voi.com
@@ -7727,6 +7763,7 @@ shopify-admin.truelayer.com
 shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
+sign.dropbox.com
 signature-insights.api.cx.metamask.io
 signin.auth.welt.de
 signup.myconnect.com.au
