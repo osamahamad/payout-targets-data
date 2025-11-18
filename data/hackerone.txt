@@ -43,6 +43,11 @@ docs.silabs.com
 https://github.com/SiliconLabsSoftware/matter_extension
 https://github.com/SiliconLabsSoftware/matter_sdk
 ops.silabs.com
+	 https://github.com/cfengine/core
+CFEngine Enterprise
+https://github.com/mendersoftware/mender
+https://github.com/mendersoftware/mender-server
+staging.hosted.mender.io
 WHOOP 4.0 STRAP
 WHOOP 5.0/MG STRAP
 api.prod.whoop.com
@@ -1044,6 +1049,7 @@ University Platform
 VS Code Plugin
 *ripio.com
 *ripiotrade.co
+b2b-api.ripio.com
 com.ripio.android
 com.ripio.ios
 defi.ripio.com
@@ -1300,6 +1306,7 @@ http://portfolio.metamask.io
 http://staking.consensys.io
 https://consensys.io/
 https://docs.metamask.io/developer-tools/faucet
+https://etherscan.io/address/0xaca92e438df0b2401ff60da7e4337b687a2435da
 support.metamask.io
 tickets.metamask.io
 HYPR Workforce Access.app
@@ -3445,8 +3452,6 @@ Glassdoor iOS
 com.tinder
 fetlife.com
 fetlifemail.com
-dashboard.algolia.com
-www.algolia.com
 1142114207
 1257641454
 1343620481

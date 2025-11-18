@@ -52,8 +52,6 @@
 *.akhwien.at
 *.alasco.de
 *.alasco.rocks
-*.algolia.net
-*.algolianet.com
 *.alipayplus.com
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
@@ -999,6 +997,7 @@
 *.venmo.com
 *.vennhypotheken.nl
 *.verily.com/
+*.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
 *.vfsai.com
 *.vfsevisa.com

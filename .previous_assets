@@ -1,3 +1,4 @@
+	 https://github.com/cfengine/core
 	 speedtest-eastburwood.optusnet.com.au
  *.rivian.com
  *.sip.*.twilio.com
@@ -1074,6 +1075,7 @@
 *.venmo.com
 *.vennhypotheken.nl
 *.verily.com/
+*.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
 *.vfsai.com
 *.vfsevisa.com
@@ -1862,6 +1864,7 @@ Burp Collaborator
 Burp Suite DAST
 Burp Suite Extension (BApps)
 Burp Suite Pro/Community
+Business Network for Asset Collaboration
 C Driver
 C# Driver
 C# SDK
@@ -1870,6 +1873,7 @@ C100447517
 C103149579
 C2PA Tool
 CDNJS
+CFEngine Enterprise
 CHP Cloud Portal
 CS2
 Canva (Android)
@@ -3252,6 +3256,7 @@ avtoelon.uz
 aw.visa.com
 aws3.ezshield.ws
 ax-stage.maventa.com
+b2b-api.ripio.com
 b2b.porsche-design.com
 b2b.tvgnetwork.com
 b5s.hackerone-ext-content.com
@@ -5182,6 +5187,7 @@ https://esp-jssdk-integ.uidapi.com
 https://esp-srvonly-integ.uidapi.com
 https://etherscan.io/address/0x00005EA00Ac477B1030CE78506496e8C2dE24bf5
 https://etherscan.io/address/0x0000a26b00c1F0DF003000390027140000fAa719
+https://etherscan.io/address/0xaca92e438df0b2401ff60da7e4337b687a2435da
 https://etherscan.io/token/0xfe18ae03741a5b84e39c295ac9c856ed7991c38e
 https://etsypayments.com
 https://events.1password.com/api/
@@ -5467,6 +5473,7 @@ https://github.com/matomo-org/matomo
 https://github.com/mattermost/mattermost-plugin-ai
 https://github.com/mattermost/mattermost-plugin-boards
 https://github.com/mattermost/mattermost-plugin-calls
+https://github.com/mattermost/mattermost-plugin-confluence
 https://github.com/mattermost/mattermost-plugin-github
 https://github.com/mattermost/mattermost-plugin-gitlab
 https://github.com/mattermost/mattermost-plugin-jira 
@@ -5474,6 +5481,8 @@ https://github.com/mattermost/mattermost-plugin-mscalendar
 https://github.com/mattermost/mattermost-plugin-msteams-meetings
 https://github.com/mattermost/mattermost-plugin-playbooks
 https://github.com/mattermost/mattermost-plugin-zoom
+https://github.com/mendersoftware/mender
+https://github.com/mendersoftware/mender-server
 https://github.com/moonpay
 https://github.com/nextcloud/collectives
 https://github.com/nextcloud/files_confidential
@@ -7458,6 +7467,7 @@ map.snapchat.com
 mapi.moneyback.com.hk
 mark8.syfe.com
 marketing.fareharbor.com
+marketing.nitropack.io
 marketplace.databricks.com
 marketplace.digitalocean.com
 marketplace.fedramp.gov
@@ -8317,6 +8327,7 @@ stage.landmarkcinemas.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 staging-app.bany.dev
 staging.airtable.com
+staging.hosted.mender.io
 staging.kidswebservices.com
 staging.magisto.com
 staking-api.polygon.technology

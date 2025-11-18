@@ -1,7 +1,15 @@
 Hardware
 Firmware
 Software
-app.aikido.dev
+https://github.com/AikidoSec/firewall-node#Vulnerability
+https://github.com/AikidoSec/firewall-php#Vulnerability
+https://github.com/AikidoSec/firewall-python#Vulnerability
+https://github.com/AikidoSec/firewall-node#Detection Bypass
+https://github.com/AikidoSec/firewall-php#Detection Bypass
+https://github.com/AikidoSec/firewall-python#Detection Bypass
+https://github.com/AikidoSec/firewall-node#False Positive
+https://github.com/AikidoSec/firewall-php#False Positive
+https://github.com/AikidoSec/firewall-python#False Positive
 myaccount.ad.nl
 webwinkel.ad.nl
 www.ad.nl
@@ -593,6 +601,7 @@ https://makeshift.film
 https://studiopress.blog
 https://torquemag.io
 https://velocitize.com
+marketing.nitropack.io
 https://desktop.water-link.be/
 https://pit.water-link.be/
 https://www.water-link-jaarverslag.be
