@@ -75,6 +75,8 @@
 *.akhwien.at
 *.alasco.de
 *.alasco.rocks
+*.algolia.net
+*.algolianet.com
 *.alipayplus.com
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
@@ -3766,6 +3768,7 @@ daita/files_fulltextsearch_tesseract
 dash.ai
 dash.cloudflare.com
 dash.dropbox.com
+dashboard.algolia.com
 dashboard.doppler.com
 dashboard.magic.link
 dashboard.mergify.com
@@ -8249,6 +8252,7 @@ www.abritel.fr
 www.ad.nl
 www.ad.nl/abonnementen
 www.airbnb.com
+www.algolia.com
 www.am.monespacesante.fr
 www.amazon.*
 www.amazon.com/photos/*
