@@ -2954,7 +2954,6 @@ app*.hubspot.com
 app-*.easy4ipcloud.com
 app-insiders.marriott.com
 app.Reclaim.ai
-app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
@@ -4264,6 +4263,7 @@ https://account.withings.com
 https://accounts.cmp.optimizely.com/
 https://accounts.lastpass.com
 https://accounts.opera.com
+https://accounts.webmd.com
 https://accounts.welcomesoftware.com/
 https://acorns.com/
 https://addons.mozilla.org/en-US/firefox/addon/pinterest/
@@ -4901,6 +4901,8 @@ https://events.1password.com/api/
 https://evigilation.monash.edu
 https://example-jssdk-integ.uidapi.com
 https://example-srvonly-integ.uidapi.com
+https://exchange.pulsepoint.com
+https://exchange.pulsepoint.com/AdminPortal/AdminDashBoard.aspx
 https://externalconnect.usaa.com/
 https://fcu.eu-west-2.outscale.com
 https://features.opera-api.com
@@ -5297,6 +5299,7 @@ https://hr.prosus.com/
 https://hub.immutable.com/
 https://hug.personio.com
 https://i18n.api.just-eat.io
+https://ibconnect.internetbrands.com
 https://icu.eu-west-2.outscale.com
 https://id.atlassian.com/login
 https://id.employer.seek.com
@@ -5375,6 +5378,10 @@ https://lensstudio.snapchat.com/api/
 https://library.elementor.com/
 https://library.pdq.com/
 https://lieferando.de
+https://life.pulsepoint.com/Buyer/#/campaign
+https://life.pulsepoint.com/EngagementAudience/#/dashboard
+https://life.pulsepoint.com/MediaPlanner/#/dashboard/targetview
+https://lifeapi.pulsepoint.com
 https://link.uma.me
 https://link.x.immutable.com/
 https://linktr.ee
@@ -5388,6 +5395,7 @@ https://liveassist22.usaa.com/
 https://liveassist23.usaa.com
 https://liveassist24.usaa.com
 https://login.aufbaubank.de
+https://login.medscape.com
 https://login.neogov.com
 https://login.paddle.com
 https://login.salt.ch
@@ -5763,6 +5771,7 @@ https://media.irobot.com
 https://mediaflows.cloudinary.com/
 https://mein.wien.gv.at/
 https://mein.wien.gv.at/broker/api/*
+https://member.webmd.com
 https://menulog.com.au
 https://meraki.cisco.com
 https://metamask.github.io/phishing-warning/<vX.Y.Z>
@@ -5773,7 +5782,6 @@ https://mgm.mo
 https://mguest.usaa.com/
 https://microsoftedge.microsoft.com/addons/detail/pinterest-save-button/bkgoflemacdadndiohhdnphcmdhacabg
 https://mids.monash.edu/
-https://mintmobile.com
 https://mlivetickets.monash.edu
 https://mmp.otto.de
 https://mobile-production.content-square.net/
@@ -5862,6 +5870,8 @@ https://onlinena.vfsglobal.dz/AppointmentAdmin/
 https://op.paymaya.com/
 https://openai.com/
 https://openam-bug-bounty-stag.forgeblocks.com/*
+https://openapi.pulsepoint.com
+https://openapitest.pulsepoint.com
 https://opendata-demo.test-socrata.com
 https://opendata.test-socrata.com
 https://opendata.test-socrata.com/admin/gateway
@@ -5918,6 +5928,7 @@ https://pentest-app.onetrust.com/
 https://peopleview.naspers.com
 https://performance.neogov.com
 https://performancemarketing.mastercard.com/portal/
+https://pets.webmd.com
 https://pg.paymaya.com
 https://ph.employer.seek.com
 https://ph.employer.staging.seek.com
@@ -6103,7 +6114,9 @@ https://portal.unifiedid.com
 https://portal3.pentest.clicsante.ca/
 https://portalapi.eu.clearpay.co.uk
 https://portalapi.us.afterpay.com
+https://portalv2.lh360.com
 https://powerdms.com/
+https://powerpak.com
 https://pprd.cybermalveillance.gouv.fr
 https://priceless.com/golf/
 https://privateinternetaccess.com/api/client/v5
@@ -6116,6 +6129,7 @@ https://production-dynam-creative.vistarmedia.com
 https://production.maf.auth0.com
 https://production.maf.auth0.com/api/v2/
 https://profile.pentest.clicsante.ca/
+https://profreg.medscape.com
 https://projects.epam.com
 https://property.com.au
 https://proprietario.quintoandar.com.br
@@ -6197,6 +6211,8 @@ https://shop.lululemon.com
 https://shop.monash.edu/
 https://shop.post.ch/shop
 https://sign.originzero.com.au
+https://signal.pulsepoint.com/hcp365/#/dashboard/advertiser/6603/overview
+https://signal.pulsepoint.com/hcpexplorer/#/dashboard/eventsExplorer
 https://signin-hackerone.hbstaging.website/
 https://signup.sendgrid.com/
 https://simnext.bullish-test.com
@@ -6377,7 +6393,6 @@ https://ui.com/distributors/
 https://ui.com/training/partners/
 https://uiscoop.payzippy.com
 https://uk.api.just-eat.io
-https://ultramobile.com
 https://umiloans.com.au
 https://underarmour.co.kr
 https://underarmournext.com/
@@ -6504,6 +6519,7 @@ https://www.canva.com/developers/
 https://www.canva.com/en_au/help/chatgpt-templates/
 https://www.canva.com/integrations/slack/
 https://www.carrefouruae.com/
+https://www.carsdirect.com
 https://www.cb2.ae/en
 https://www.cfr.org/
 https://www.chime.com
@@ -6527,6 +6543,7 @@ https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&t
 https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
 https://www.decathlon.(ch|fr|hu|pl|ro|cz|com.tr)/
 https://www.decathlon.(co.uk|it|nl|de|pt|es|be)/
+https://www.demandforced3.com/
 https://www.demarches-simplifiees.fr
 https://www.demarches-simplifiees.fr/api/v2/graphql
 https://www.demarches-simplifiees.fr/graphql
@@ -6552,6 +6569,7 @@ https://www.galabingo.com
 https://www.galacasino.com
 https://www.gamemaker.io
 https://www.gesundheitsverbund.at
+https://www.globalacademycme.com
 https://www.glossybox.com/
 https://www.gohenry.com/
 https://www.governmentjobs.com
@@ -6567,6 +6585,7 @@ https://www.ifood.com.br
 https://www.illamasqua.com/
 https://www.imou.com
 https://www.intercom.com/
+https://www.internetbrands.com
 https://www.irobot.at/
 https://www.irobot.be/
 https://www.irobot.ca/en_CA
@@ -6634,6 +6653,7 @@ https://www.mastercard.ch/fr-ch.html
 https://www.mastercard.com.au/en-au.html
 https://www.mastercard.nl/nl-nl.html
 https://www.mastercard.us/en-us.html
+https://www.mdedge.com
 https://www.mgmmacau.com
 https://www.microsoft.com/en-us/p/keeperchat/9pdqtcpn4kxn#activetab=pivot:overviewtab
 https://www.minhaconta.zoop.com.br
@@ -6788,6 +6808,7 @@ https://www.vwfs.sk
 https://www.water-link-jaarverslag.be
 https://www.water-link.be
 https://www.waterstoring.be/
+https://www.webmd.com
 https://www.weebly.com/
 https://www.wien.gv.at
 https://www.winconnect.com.au/get-connected/
