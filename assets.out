@@ -6,7 +6,6 @@
  203.13.125.32/27
  Finicity Connect
  Fortress.HongKong.IOS
- MS Office Add-In
  Mobile Apps
  Twilio CDNs (static*.twilio.com)
  Watsons.TaiWan.Android
@@ -1696,7 +1695,6 @@ Any subdomain infrastructure issue
 Anything Owned by Northwestern Mutual on the Public Internet Not Listed as Out of Scope
 Anything that Clearly Affects Northwestern Mutual But is Not Own by Northwestern Mutual
 App Services/Realm
-AppActions
 Applications/Extensions under https://www.cyberghostvpn.com/download
 Applications/Extensions under https://www.privateinternetaccess.com/download
 Apps SDK Sandboxing
@@ -1769,7 +1767,6 @@ Braintree SDK
 Brand Sites
 Bridge
 Broken Link
-Browser Extensions
 Browser Isolation
 BrowserGuard (Firefox/Chrome/Safari browser extension)
 BuddyPress Core
@@ -2035,12 +2032,9 @@ Grafana Mimir
 Grafana OSS
 Grafana Pyroscope
 Grafana Tempo
-Grammarly AI Assistant
-Grammarly Auth Services
-Grammarly Business Features
+Grammarly Browser Extensions
 Grammarly Desktop for Windows
 Grammarly Desktop for macOS
-Grammarly for Microsoft Word
 GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)
 Grepolis
 Gutenberg
@@ -3078,6 +3072,7 @@ auth-identity.nba.com
 auth.23andme.com
 auth.digital.delen.be 
 auth.digital.delen.lu 
+auth.grammarly.com
 auth.hhc247.org
 auth.magic.link
 auth.monespacesante.fr
@@ -3840,6 +3835,7 @@ developer.crypto.com
 developer.currencycloud.com
 developer.cybersource.com
 developer.dailymotion.com
+developer.grammarly.com
 developer.gs.com
 developer.infomaniak.com
 developer.konghq.com
@@ -4076,6 +4072,7 @@ go.geneva-staging.com
 go.stripchat.com
 go.welt.de
 gofood.co.id
+goldengate.grammarly.com
 goldmansachsindices.com
 googleplace*.bykea.net
 gopaymerchant.midtrans.com
@@ -4180,6 +4177,7 @@ http://datapod-1-druid-query.production.forescoutcloud.net/v3/matrixoverview
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/overlappingzones
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
 http://digitalplayground.com/
+http://es.mydirtyhobby.com/
 http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
 http://federatedid-na1.services.adobe.com
 http://flightdeck.staples.com/#/login
@@ -4188,6 +4186,7 @@ http://github.com/cloudflare
 http://greenchannel.payoneer.com.cn/gcportal
 http://ibotta.com
 http://ims-na1.adobelogin.com
+http://it.mydirtyhobby.com/
 http://itunes.apple.com/us/app/ibotta/id559887125
 http://logstash-props.devicecloud.production.forescoutcloud.net/api/v1/properties
 http://market.android.com/details?id=com.ibotta.android
@@ -4239,6 +4238,8 @@ http://www.bybit.com/trade/tradfi/
 http://www.byreal.io
 http://www.kiwi.com/stories
 http://www.lululemon.co.kr/
+http://www.mydirtyhobby.com/
+http://www.mydirtyhobby.de/
 http://www.myvisacardportal.com/welcome/enbd/product/#
 http://www.rei.com/learn/expert-advice
 http://www.shopmarriott.com
@@ -4260,6 +4261,7 @@ https://195.60.68.249
 https://195.60.68.250
 https://28degreescard.com.au
 https://8x8.vc/xmpp-websocket
+https://Fr.mydirtyhobby.com
 https://Mlife.mo
 https://[it | fr | us | sg | …].louisvuitton.com
 https://a.simplemdm.com/
@@ -6676,6 +6678,7 @@ https://www.minhaconta.zoop.com.br
 https://www.mioskincare.com/
 https://www.monash.edu
 https://www.monashprofessional.edu.au/
+https://www.mydirtyhobby.com/app/download
 https://www.myntra.com
 https://www.myvitamins.com/
 https://www.namejet.com/
@@ -7957,6 +7960,7 @@ stats.nba.com
 stats.nextcloud.com
 stats.vinci.com
 stats.wnba.com
+status.coda.io
 status.delen.be 
 status.larksuite.com
 status.uphold.com
@@ -8094,6 +8098,7 @@ tlbe.prod.tomorrowland.com
 tlbr.prod.tomorrowland.com
 tlfr.prod.tomorrowland.com
 todo.notebleue.pro
+tokens.grammarly.com
 toolsforhumanity.com
 tr-cf.*.aws.indriverapp.com
 tr-gw-cf.*.aws.indriverapp.com

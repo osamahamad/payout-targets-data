@@ -2888,26 +2888,41 @@ oneview.threatdown.com
 org.malwarebytes.antimalware
 support.malwarebytes.com
 www.malwarebytes.com
- MS Office Add-In
-AppActions
-Browser Extensions
 Capture the Flag
-Grammarly AI Assistant
-Grammarly Auth Services
-Grammarly Business Features
+Coda Chrome Extension
+Grammarly Browser Extensions
 Grammarly Desktop for Windows
 Grammarly Desktop for macOS
-Grammarly for Microsoft Word
 Superhuman Go
 app.grammarly.com
+auth.grammarly.com
 capi.grammarly.com
+codacontent.io
+codahosted.io
 com.grammarly.android.keyboard
 com.grammarly.keyboard
+developer.grammarly.com
 gateway.superhuman.com
+goldengate.grammarly.com
 grammarly.ai
+https://airflow-prod.coda.io/*
+https://airflow-prod.ops.coda.io/*
+https://coda.io/*
+https://coda.io/signup/email
+https://data.coda.io/*
+https://head.coda.io/*
+https://infra.coda.io/*
+https://shiny.ops.coda.io/*
+https://staging.coda.io/*
+https://user-profile-prod.coda.io/*
+https://user-profile-test.coda.io/*
 id.superhuman.com
+io.coda
+io.coda.codaapp
 settings.superhuman.com
+status.coda.io
 superhuman.com
+tokens.grammarly.com
 https://github.com/hyperledger/besu
 https://github.com/hyperledger/besu-errorprone-checks
 https://github.com/hyperledger/besu-native
