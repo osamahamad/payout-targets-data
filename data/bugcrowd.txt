@@ -76,10 +76,14 @@ https://myapi.arlo.com
 https://www.arlo.com
 https://updates.arlo.com
 https://partnerapi.arlo.com
-HPE Aruba Networking Wireless – AOS-10.7 and later
+HPE Aruba Networking Wireless - AOS-10.7 and above Gateways (GW)
+HPE Aruba Networking Wireless - AOS-10.7 and above Access Points (AP)
 HPE Aruba Networking Central - New UI (see Scope Details)
 ArubaOS-CX Switches
-HPE Aruba Networking Wireless – AOS-8 and AOS-8 Instant
+HPE Aruba Networking Wireless - AOS-8 Controllers
+HPE Aruba Networking Wireless - AOS-8 Instant AP (IAP)
+HPE Aruba Networking Wireless - AOS-10.4 Gateways (GW)
+HPE Aruba Networking Wireless - AOS-10.4 Access Points (AP)
 HPE Aruba Networking ClearPass Policy Manager
 HPE Aruba Networking EdgeConnect SD-WAN Orchestrator
 HPE Networking Instant On APs and supporting backend infrastructure
