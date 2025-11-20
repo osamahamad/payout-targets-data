@@ -45,6 +45,15 @@
 *.volkskrant.nl
 *.digitalocean.com
 *.snapshooter.com
+*.dropbox.com
+*.dropboxer.net
+*.dropboxforum.com
+*.dropboxpartners.com
+*.hellofax.com
+*.docsend.com
+*.reclaim.ai
+*.helloworks.com
+*.hellosign.com
 sos-*.exo.io
 sks-*.exo.io
 *.internal.exoscale.ch
@@ -108,6 +117,8 @@ Leaked/compromised employee accounts *.here.com
  *.rivian.com
 *.swisspass.ch
 *.sbb.ch
+*.sqills.com
+*.sqills.team
 *.weareone.world
 *.stag.tomorrowland.com
 *.stag.weareone.world
