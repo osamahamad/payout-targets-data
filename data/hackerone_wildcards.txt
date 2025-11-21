@@ -353,7 +353,7 @@ GenAI Apps under *.amazon.*
 *.miwifi.com
 *.xiaomi.com
 *.xiaomiyoupin.com
-*.coda.io/*
+*.coda.io
 *.memorable.io
 *.reddit.com
 *.redditblog.com
@@ -599,11 +599,11 @@ www.paypal-*.com
 *.mwb-threatintel.com
 *.mwbsys.com
 *.threatdown.com
+*.coda.io
 *.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
 *.superhuman.com
-*.coda.io/*
 *.atspotify.com
 *.avecspotify.com
 *.byspotify.com

@@ -236,7 +236,7 @@
 *.cloudways.com
 *.cm.com
 *.cmtelecom.com
-*.coda.io/*
+*.coda.io
 *.cognitiveperformer.com
 *.coinbase.com
 *.coindcx.com
@@ -3072,7 +3072,6 @@ auth-identity.nba.com
 auth.23andme.com
 auth.digital.delen.be 
 auth.digital.delen.lu 
-auth.grammarly.com
 auth.hhc247.org
 auth.magic.link
 auth.monespacesante.fr
@@ -3219,7 +3218,6 @@ campus.datacamp.com
 cancellation.prod.ps.welt.de
 candle-src.etoro.com
 candle.etoro.com
-capi.grammarly.com
 capital.com/*
 capitalmarketsday.porsche.com
 capturingreality.com
@@ -3307,6 +3305,7 @@ co.tide.tideplatform.in
 coaching.supernovas.indrive.com
 coban.pixiv.net
 coda.grammarly.com
+coda.io
 codacontent.io
 codahosted.io
 code.playcanvas.com
@@ -3831,7 +3830,6 @@ developer.crypto.com
 developer.currencycloud.com
 developer.cybersource.com
 developer.dailymotion.com
-developer.grammarly.com
 developer.gs.com
 developer.infomaniak.com
 developer.konghq.com
@@ -4033,7 +4031,6 @@ gateway.geneva-staging.chat
 gateway.geneva-staging.com
 gateway.reddit.com
 gateway.skyscanner.net/*
-gateway.superhuman.com
 gc4x-api-sandbox.gocardless.com
 gehmmocbbkpblljhkekmfhjpfbkclbph
 geminiadvisory.io
@@ -4068,14 +4065,12 @@ go.geneva-staging.com
 go.stripchat.com
 go.welt.de
 gofood.co.id
-goldengate.grammarly.com
 goldmansachsindices.com
 googleplace*.bykea.net
 gopaymerchant.midtrans.com
 gql.reddit.com
 grab.careers
 grae.nba.com
-grammarly.ai
 graphql.sandbox.topperpay.com/graphql
 gravatar.com
 grok.com
@@ -4287,8 +4282,6 @@ https://admintool.lime.bike
 https://aemdam.usaa360.com/
 https://afterpay.com
 https://agent.apps.monash.edu/
-https://airflow-prod.coda.io/*
-https://airflow-prod.ops.coda.io/*
 https://aiven.io/
 https://aiven.io/clickhouse
 https://aiven.io/docs/products/metrics/concepts/metrics-overview
@@ -4732,8 +4725,6 @@ https://cloud.unity.com
 https://cloudinary.com/console
 https://cms.mobile.monash/ 
 https://cockpit-eu-west-2.outscale.com/
-https://coda.io/*
-https://coda.io/signup/email
 https://collections.monash.edu/
 https://community.etsy.com
 https://community.exoscale.com/
@@ -4786,7 +4777,6 @@ https://dashboard.fga.dev/
 https://dashboard.pantheon.io
 https://dashboard.rapyd.net/
 https://dashboard.sendbird.com/
-https://data.coda.io/*
 https://data.limeinternal.com
 https://data.prosus.com/
 https://datadome.co
@@ -5286,7 +5276,6 @@ https://gwapi2.tripadvisor.com
 https://gx.games
 https://gx.opera-api.com
 https://hackme.matrixreq.com
-https://head.coda.io/*
 https://healthmate.withings.com
 https://help.etsy.com
 https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
@@ -5323,7 +5312,6 @@ https://ims.monash.edu
 https://indeed.com
 https://indonesiavoa.vfsevisa.id/
 https://infiniteathlete.ai
-https://infra.coda.io/*
 https://interestfree.com.au
 https://interviews.monash.edu/
 https://investor.bullish.com/
@@ -6217,7 +6205,6 @@ https://service.post.ch/zopa/app/
 https://services.chipotle.com
 https://sfleet.cortexpowered.com
 https://sflower.cortexpowered.com
-https://shiny.ops.coda.io/*
 https://shop-acc.kinepolis.be/
 https://shop.ifood.com.br
 https://shop.lululemon.com
@@ -6291,7 +6278,6 @@ https://staff.monash
 https://staging-login.vistarmedia.com
 https://staging-prime.navan.com
 https://staging-trafficking.vistarmedia.com
-https://staging.coda.io/*
 https://staging.gearset.com/
 https://staging.luno.com/
 https://start.atlassian.com
@@ -6420,8 +6406,6 @@ https://us.eufy.com/products/t88511d1
 https://us.eufy.com/products/t88711w1
 https://us.identity.konghq.com/*
 https://usdstandard.com/
-https://user-profile-prod.coda.io/*
-https://user-profile-test.coda.io/*
 https://user-storage.api.cx.metamask.io
 https://usvdc1-fakepuller.pnimedia.com/
 https://usvdc1-fulfillmentdash.pnimedia.com/
@@ -6883,7 +6867,6 @@ id.nba.com
 id.oppo.com
 id.recordedfuture.com
 id.stg.inspectorio.com
-id.superhuman.com
 id.worldcoin.org
 id1427744264
 id1520720139
@@ -7952,7 +7935,6 @@ stats.nba.com
 stats.nextcloud.com
 stats.vinci.com
 stats.wnba.com
-status.coda.io
 status.delen.be 
 status.larksuite.com
 status.uphold.com
@@ -8090,7 +8072,6 @@ tlbe.prod.tomorrowland.com
 tlbr.prod.tomorrowland.com
 tlfr.prod.tomorrowland.com
 todo.notebleue.pro
-tokens.grammarly.com
 toolsforhumanity.com
 tr-cf.*.aws.indriverapp.com
 tr-gw-cf.*.aws.indriverapp.com
