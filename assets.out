@@ -4980,8 +4980,6 @@ https://github.com/RIPE-NCC/whois
 https://github.com/Shopify/*
 https://github.com/SiliconLabsSoftware/matter_extension
 https://github.com/SiliconLabsSoftware/matter_sdk
-https://github.com/afterpay/sdk-android
-https://github.com/afterpay/sdk-ios
 https://github.com/apache/airflow
 https://github.com/apache/httpd
 https://github.com/apache/tomcat
@@ -5005,10 +5003,6 @@ https://github.com/brave/brave-core
 https://github.com/brave/vault-updater
 https://github.com/buildonspark/lrc20
 https://github.com/buildonspark/spark
-https://github.com/cashapp/cash-app-pay-android-sdk
-https://github.com/cashapp/cash-app-pay-ios-sdk
-https://github.com/cashapp/hermit
-https://github.com/cashapp/misk
 https://github.com/circlefin/buidl-wallet-contracts
 https://github.com/circlefin/evm-cctp-contracts
 https://github.com/circlefin/evm-gateway-contracts
@@ -5241,9 +5235,6 @@ https://github.com/smartcontractkit/external-adapters-js/
 https://github.com/smartcontractkit/staking-v0.1/tree/master/contracts
 https://github.com/spiffe/spiffe
 https://github.com/spiffe/spire
-https://github.com/square/okhttp
-https://github.com/square/okio
-https://github.com/square/wire
 https://github.com/tchapgouv
 https://github.com/tempus-ex
 https://github.com/transferwise/*
