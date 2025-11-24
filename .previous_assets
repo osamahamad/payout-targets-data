@@ -5356,15 +5356,20 @@ https://github.com/cashapp/cash-app-pay-android-sdk
 https://github.com/cashapp/cash-app-pay-ios-sdk
 https://github.com/cashapp/hermit
 https://github.com/cashapp/misk
+https://github.com/circlefin/aptos-cctp
 https://github.com/circlefin/buidl-wallet-contracts
 https://github.com/circlefin/evm-cctp-contracts
+https://github.com/circlefin/evm-cpn-contracts
 https://github.com/circlefin/evm-gateway-contracts
+https://github.com/circlefin/evm-xreserve-contracts
 https://github.com/circlefin/noble-fiattokenfactory
 https://github.com/circlefin/solana-cctp-contracts
 https://github.com/circlefin/stablecoin-aptos
 https://github.com/circlefin/stablecoin-evm
+https://github.com/circlefin/stablecoin-near
 https://github.com/circlefin/stablecoin-starknet
 https://github.com/circlefin/stablecoin-sui
+https://github.com/circlefin/starknet-cctp
 https://github.com/circlefin/sui-cctp
 https://github.com/cloudflare/workerd
 https://github.com/cmdotcom
@@ -7525,6 +7530,7 @@ m.kolesa.kz
 m.krisha.kz
 m.reddit.com
 m.trendyol.com
+mUSD Stablecoin
 macOS app
 magento.com
 magic.veriff.me

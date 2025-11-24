@@ -453,15 +453,20 @@ api.circle.com
 app.circle.com
 console.circle.com
 http://github.com/circlefin/noble-cctp
+https://github.com/circlefin/aptos-cctp
 https://github.com/circlefin/buidl-wallet-contracts
 https://github.com/circlefin/evm-cctp-contracts
+https://github.com/circlefin/evm-cpn-contracts
 https://github.com/circlefin/evm-gateway-contracts
+https://github.com/circlefin/evm-xreserve-contracts
 https://github.com/circlefin/noble-fiattokenfactory
 https://github.com/circlefin/solana-cctp-contracts
 https://github.com/circlefin/stablecoin-aptos
 https://github.com/circlefin/stablecoin-evm
+https://github.com/circlefin/stablecoin-near
 https://github.com/circlefin/stablecoin-starknet
 https://github.com/circlefin/stablecoin-sui
+https://github.com/circlefin/starknet-cctp
 https://github.com/circlefin/sui-cctp
 Klarna Android App (com.myklarnamobile)
 Klarna iOS App (com.klarna.app)
@@ -1015,6 +1020,7 @@ https://metamask.github.io/phishing-warning/<vX.Y.Z>
 https://user-storage.api.cx.metamask.io
 io.metamask
 io.metamask.Metamask
+mUSD Stablecoin
 metamask.io
 portfolio.metamask.io
 signature-insights.api.cx.metamask.io
