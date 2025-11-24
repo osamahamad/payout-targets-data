@@ -1576,6 +1576,7 @@
 978342143
 978516833
 982922982
+983980808
 987675995
 988788863
 993135524
@@ -2660,6 +2661,7 @@ Yahoo Sports: Mobile
 Yahoo Video
 Yahoo Weather
 Yahoo! (Misc)
+Yoti Password Manager browser extension
 Your Own GitLab Instance
 a.root-servers.net (DNS service; DNS related)
 a360f0bcc63ca11ea92550aeac091f3d-1101372245.us-east-1.elb.amazonaws.com
@@ -2955,6 +2957,7 @@ api.watsons.vn
 api.wisdomtreeprimeapp.com
 api.wordpress.org
 api.workbox.dk
+api.yoti.com
 api2.frontapp.com
 api2.grofers.com
 apigw.foliofn.com
@@ -3258,6 +3261,7 @@ casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 castor.vinci.com
 ccardseu1.badoo.com
 ccardsus1.badoo.com
+ccloud.yoti.com
 cdn-bal.nba.com
 cdn.arkoselabs.com
 cdn.localizestaging.com
@@ -3320,6 +3324,7 @@ coda.io
 codacontent.io
 codahosted.io
 code.playcanvas.com
+code.yoti.com
 codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
 coinbase.com
 coinmarketcap.com
@@ -3675,6 +3680,7 @@ com.xoom.app
 com.yahoo.mobile.client.android.flickr
 com.yelp.android
 com.yelp.android.biz
+com.yoti.mobile.android.live
 com.youdagames.monopolypoker
 com.yourcompany.PPClient
 com.zhiliao.musically.livewallpaper
@@ -3739,6 +3745,7 @@ core-api-uat-uc.nba.com
 core-api-uat.nba.com
 core-api-uc.nba.com
 core-api.nba.com
+core.yoti.com
 corp-dev.nba.com
 corp.badoo.com
 corp.polymoon.it
@@ -6868,6 +6875,7 @@ hub.vroid.com
 hub.vznkul.be/* 
 hub.vznkul.be/services/interhub/InterHubService
 hub.vznkul.be/services/intrahub/IntraHubService
+hub.yoti.com
 hubacc.vznkul.be/*
 hubacc.vznkul.be/services/acceptance/interhub/InterHubService
 hubacc.vznkul.be/services/acceptance/intrahub/IntraHubService
@@ -6911,6 +6919,7 @@ identity-uat.nba.com
 identity.nba.com
 identity.porsche.com
 identity.stage.vismaonline.com
+identity.yoti.com
 identityserver-acc.landmarkcinemas.com
 identityserver.landmarkcinemas.com
 idp-cf.*.aws.indriverapp.com
@@ -8701,6 +8710,7 @@ www.xvideos.com
 www.xvideos.red
 www.yellowpepper.com
 www.ynab.com
+www.yotisign.com
 www.zooplus.co.uk
 www.zooplus.com
 www.zooplus.de
