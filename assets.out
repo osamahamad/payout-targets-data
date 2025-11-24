@@ -656,6 +656,7 @@
 *.newegg.ca
 *.newegg.com
 *.nextcapital.com
+*.nexuzhealth.*
 *.nflxext.com
 *.nflximg.net
 *.nflxso.net
@@ -3107,6 +3108,9 @@ be.bpost.mobilecard
 be.bpost.mybpost
 be.delen.digital
 be.gamma.app.android
+be.nexuzhealth.mobile.cpv
+be.nexuzhealth.mobile.kws
+be.nexuzhealth.mobile.mynexuz
 beacon.netflix.com
 belgium.tomorrowland.com
 benefit.porsche-design.com
@@ -6987,6 +6991,7 @@ ksuite.infomaniak.com
 kubernetes-csi.github.io
 kubernetes.io
 kumulus.uzleuven.be
+kws-companion/id1342124012
 kyc-onboarding.booking.com
 kyc-src.etoro.com
 kyc.etoro.com
@@ -7014,6 +7019,7 @@ lightsparkdev/swift-wallet-sdk
 linkpop.com
 links.geneva-staging.chat
 links.geneva-staging.com
+liquidfiles.nexuzhealth.com
 liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
 lirportal.ripe.net
@@ -7253,6 +7259,8 @@ myaccount.volkskrant.nl
 myaccount.vtm.be
 myconnect.com.au
 myhistory.porsche.com
+mynexuz.be
+mynexuzhealth/id1459856321
 mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
 myservices-api.stage.vismaonline.com
