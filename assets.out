@@ -2012,6 +2012,11 @@ Glassdoor Jobs
 Glassdoor iOS
 GlotPress
 Google Cloud Plateform Instances
+Grafana Loki
+Grafana Mimir
+Grafana OSS
+Grafana Pyroscope
+Grafana Tempo
 Grammarly Browser Extensions
 Grammarly Desktop for Windows
 Grammarly Desktop for macOS
@@ -2225,6 +2230,7 @@ Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
 Non Altera Products
 Non-Core Assets
+Non-Core Grafana Plugins
 NordPass - Linux Executable
 NordPass - MacOS Executable
 NordPass - Windows Executable
@@ -5016,6 +5022,7 @@ https://github.com/expressvpn/lightway-core
 https://github.com/freedomofpress/securedrop
 https://github.com/freedomofpress/securedrop-client
 https://github.com/freedomofpress/securedrop-workstation
+https://github.com/grafana/*
 https://github.com/hyperledger/besu
 https://github.com/hyperledger/besu-errorprone-checks
 https://github.com/hyperledger/besu-native
@@ -6803,6 +6810,12 @@ https:/pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-acces-info/
 hub-api-sandbox.remitly.io
 hub.myconnect.com.au
 hub.vroid.com
+hub.vznkul.be/* 
+hub.vznkul.be/services/interhub/InterHubService
+hub.vznkul.be/services/intrahub/IntraHubService
+hubacc.vznkul.be/*
+hubacc.vznkul.be/services/acceptance/interhub/InterHubService
+hubacc.vznkul.be/services/acceptance/intrahub/IntraHubService
 hungrygowhere.com
 hyatt.com
 hybrid-analysis.com
