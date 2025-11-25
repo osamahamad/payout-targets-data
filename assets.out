@@ -2712,6 +2712,7 @@ accounts.reddit.com
 accounts.shopify.com
 accounts.snapchat.com
 accounts.stage.evernote.com
+accounts.superhuman.com
 accountsettings.connect.identity.stagaws.visma.com
 aces-dev.wnba.com
 aces-qa.wnba.com
@@ -4056,6 +4057,7 @@ gateway.geneva-staging.chat
 gateway.geneva-staging.com
 gateway.reddit.com
 gateway.skyscanner.net/*
+gateway.superhuman.com
 gc4x-api-sandbox.gocardless.com
 gehmmocbbkpblljhkekmfhjpfbkclbph
 geminiadvisory.io
@@ -4969,15 +4971,6 @@ https://github.com/0xPolygon/chain-indexer-framework
 https://github.com/0xPolygon/heimdall-v2
 https://github.com/0xPolygon/lxly.js
 https://github.com/0xPolygon/static
-https://github.com/AikidoSec/firewall-node#Detection Bypass
-https://github.com/AikidoSec/firewall-node#False Positive
-https://github.com/AikidoSec/firewall-node#Vulnerability
-https://github.com/AikidoSec/firewall-php#Detection Bypass
-https://github.com/AikidoSec/firewall-php#False Positive
-https://github.com/AikidoSec/firewall-php#Vulnerability
-https://github.com/AikidoSec/firewall-python#Detection Bypass
-https://github.com/AikidoSec/firewall-python#False Positive
-https://github.com/AikidoSec/firewall-python#Vulnerability
 https://github.com/Aiven
 https://github.com/Aiven-Open
 https://github.com/Chia-Network/chia-blockchain
@@ -6906,6 +6899,7 @@ id.nba.com
 id.oppo.com
 id.recordedfuture.com
 id.stg.inspectorio.com
+id.superhuman.com
 id.worldcoin.org
 id1427744264
 id1520720139
