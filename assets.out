@@ -331,6 +331,11 @@
 *.exodus.io
 *.expediapartnercentral.com
 *.expressvpn.com
+*.eziot.com
+*.ezviz.com
+*.ezviz7.com
+*.ezvizlife.com
+*.ezvizru.com
 *.fallguys.com
 *.fanbox.cc
 *.fanduel.com
@@ -434,7 +439,9 @@
 *.hereapi.com
 *.hey.bild.de
 *.hey.com
+*.hicloudcam.com,
 *.highwebmedia.com
+*.hikops.com,
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
@@ -1115,6 +1122,7 @@
 *.yelp.com
 *.yelpwifi.com
 *.yoyogames.com
+*.ys7.com
 *.yuga.com
 *.yugalabs.io
 *.zdev.net
@@ -2848,6 +2856,7 @@ api.emea.gravity.porsche.com
 api.etoro.com
 api.evernote.com
 api.excalls.mobi
+api.ezvizlife.com
 api.faraday.ai
 api.fi.dyson.com
 api.figma.com
@@ -7437,6 +7446,7 @@ open redirect at *.epam.com
 open-api.capital.com
 open.airbnb.com
 open.larksuite.com
+open.ys7.com
 openapi.m-pesa.com
 openapi.starbucks.com
 openapiportal.m-pesa.com
@@ -8422,6 +8432,7 @@ www.expedia-aarp.com
 www.expedia.com
 www.expediagroup.com
 www.expediataap.com
+www.ezviz.com
 www.fareharbor.com
 www.fewo-direkt.de
 www.fi.dyson.com
