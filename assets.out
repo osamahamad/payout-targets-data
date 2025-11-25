@@ -316,6 +316,7 @@
 *.emakina.group
 *.emakina.nl 
 *.emakina.us
+*.employer.seek.com
 *.enjinusercontent.com
 *.enspotify.com
 *.eops.nl
@@ -495,7 +496,10 @@
 *.jitsi.net
 *.jobapi.net
 *.jobsdb.com
+*.jobstreet.co.id
 *.jobstreet.com
+*.jobstreet.com.my
+*.jobstreet.com.sg
 *.jora.com
 *.jora.xyz
 *.karwei.nl/*
@@ -5319,7 +5323,6 @@ https://help.supplier.viator.com/en
 https://help.twilio.com
 https://hg.easy4ipcloud.com
 https://hipaa.staging.gearset.com/
-https://hk.employer.seek.com
 https://hk.employer.staging.seek.com
 https://hk.staging.jobsdb.com
 https://home.classdojo.com
@@ -5333,7 +5336,6 @@ https://i18n.api.just-eat.io
 https://ibconnect.internetbrands.com
 https://icu.eu-west-2.outscale.com
 https://id.atlassian.com/login
-https://id.employer.seek.com
 https://id.employer.staging.seek.com
 https://id.unity.com
 https://identite-sandbox.proconnect.gouv.fr
@@ -5838,7 +5840,6 @@ https://multipay-staging.test.komoju.com
 https://my.arlo.com
 https://my.electroneum.com/
 https://my.elementor.com/
-https://my.employer.seek.com
 https://my.employer.staging.seek.com
 https://my.exness.com/pa/pim/manager
 https://my.exness.com/pa/socialtrading
@@ -5961,7 +5962,6 @@ https://performance.neogov.com
 https://performancemarketing.mastercard.com/portal/
 https://pets.webmd.com
 https://pg.paymaya.com
-https://ph.employer.seek.com
 https://ph.employer.staging.seek.com
 https://phoenix-catalog.pnimedia.com/
 https://pinepg.in/
@@ -6366,7 +6366,6 @@ https://testflight.apple.com/join/Y4cHu289
 https://testflight.apple.com/join/vwFxXX7t
 https://testnet-blockexplorer.electroneum.com
 https://tfb.t-mobile.com
-https://th.employer.seek.com
 https://th.employer.staging.seek.com
 https://th.staging.jobsdb.com
 https://thatconceptstore.com
@@ -6630,10 +6629,6 @@ https://www.irobot.fr/
 https://www.irobot.ie/
 https://www.irobot.nl/
 https://www.irobot.pt/
-https://www.jobstreet.co.id
-https://www.jobstreet.com.my
-https://www.jobstreet.com.ph
-https://www.jobstreet.com.sg
 https://www.just-eat.co.uk
 https://www.justeattakeaway.com
 https://www.kaleido.ai
