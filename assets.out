@@ -2948,6 +2948,7 @@ api.steampowered.com
 api.stg.inspectorio.com
 api.stripe.com
 api.superdrug.com
+api.swapcard.com
 api.swiftfinancial.com
 api.syfe.com
 api.taxjar.com
@@ -3049,6 +3050,7 @@ app.snapchat.com
 app.starbucks.com
 app.stg.inspectorio.com
 app.superdrug.com
+app.swapcard.com
 app.taxjar.com
 app.theperfumeshop.com
 app.truelayer[-sandbox].com
@@ -3294,6 +3296,7 @@ chameleon
 channel-portal.homes-and-villas.marriott.com
 channelstore.roku.com/details/48061/vhx
 charts.etoro.com
+chat-api.swapcard.com/graphql
 chat.booking.com
 chatdate.app
 chatspot.ai
@@ -3872,6 +3875,7 @@ developer.konghq.com
 developer.metamask.io
 developer.mozilla.org
 developer.playcanvas.com
+developer.swapcard.com/event-admin/graphql
 developer.valvesoftware.com
 developer.visa.com
 developer.worldcoin.org
@@ -4517,6 +4521,7 @@ https://apps.apple.com/fr/app/infomaniak-mail/id1622596573
 https://apps.apple.com/fr/app/jbl-one/id1610239857
 https://apps.apple.com/fr/app/louis-vuitton-city-guide/id1014618396
 https://apps.apple.com/fr/app/louis-vuitton/id709101942
+https://apps.apple.com/fr/app/swapcard/id879488719
 https://apps.apple.com/fr/app/tchap/id1446253779
 https://apps.apple.com/gb/app/bwin-poker-and-casino-games/id410242773
 https://apps.apple.com/gb/app/bwin-sports-betting/id393760245
@@ -6099,6 +6104,7 @@ https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1
 https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.squareup.cash
+https://play.google.com/store/apps/details?id=com.swapcard.apps.android&hl=fr
 https://play.google.com/store/apps/details?id=com.syftapp.android
 https://play.google.com/store/apps/details?id=com.tcx.sipphone14
 https://play.google.com/store/apps/details?id=com.teamviewer.host.market&hl=en&gl=US
@@ -6948,6 +6954,7 @@ idp-cf.*.aws.indriverapp.com
 ifast.marriott.com
 iframe.arkoselabs.com
 ifttt-adaptor.pub.kube.dm.gg
+img.swapcard.com
 imove.bpost.cloud
 imx.community
 in-cf.*.aws.indriverapp.com
@@ -7113,6 +7120,7 @@ login.pabets.tvg.com
 login.playcanvas.com
 login.rei.com
 login.starbucks.co.jp
+login.swapcard.com
 login.truelayer[-sandbox].com
 login.tvg.com
 login.venly.io
@@ -8036,10 +8044,12 @@ streams.etoro.com
 sts.delen.be 
 sts.etoro.com
 sts.uzleuven.be
+studio-api.swapcard.com
 studio-fa-porsche.at
 studio-fa-porsche.com
 studio-fa-porsche.de
 studio-fa-porsche.net
+studio.swapcard.com
 studiofaporsche.at
 studiofaporsche.com
 studiofaporsche.de
@@ -8098,6 +8108,7 @@ systemd-timesyncd
 systemd-udev
 systemd-veritysetup
 t.co
+t.swapcard.com
 t.umblr.com
 tableau.fareharbor.engineering
 talk.brave.com
@@ -8107,6 +8118,7 @@ tax.audible.com
 tax.crypto.com
 taxi.booking.com
 taxis.booking.com
+team.swapcard.com
 teamdirectory.nba.com
 teammate.indriver.io
 teamportal.nba.com
