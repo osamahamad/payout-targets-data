@@ -109,6 +109,7 @@
 *.amazon.sg
 *.amplitude-game.com
 *.antom.com
+*.apex-football.com
 *.api.cx.metamask.io
 *.api.dailymotion.com
 *.api.id.realestate.com.au
@@ -255,6 +256,7 @@
 *.cyberghost.com
 *.cyberghostvpn.com
 *.cyrus-security.com
+*.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
 *.datacamp.com
@@ -339,6 +341,7 @@
 *.fanduel.com
 *.fareharbor.com
 *.fareharbor.engineering
+*.feednews.com
 *.fetlife.com
 *.findaya.co.id
 *.findaya.com
@@ -694,6 +697,13 @@
 *.onevasco.com
 *.openai.com
 *.openai.org
+*.opera-mini.net
+*.opera.com
+*.opera.news
+*.opera.software
+*.opera.technology
+*.operafootball.com
+*.operanewsapp.com
 *.operationstechnology.io
 *.ops.netlify.com
 *.opsgenie.com
@@ -701,6 +711,7 @@
 *.optus.com.au
 *.origindigital-pac.com.au
 *.oslo.io
+*.osp.opera.software
 *.otherside.xyz
 *.outfra.xyz
 *.ovo.id
@@ -824,6 +835,7 @@
 *.scopely.com
 *.scopely.io
 *.seancody.com
+*.sec-tunnel.com
 *.securecircle.com
 *.securegatewayaccess.com
 *.securityservices.io
@@ -1101,6 +1113,7 @@
 *.yelp-support.com
 *.yelp.com
 *.yelpwifi.com
+*.yoyogames.com
 *.ys7.com
 *.yuga.com
 *.yugalabs.io
@@ -1134,10 +1147,13 @@
 1.1.1.1 Resolver
 1013961111
 1018340690
+102.23.96.0/22
 1023499075
+103.83.120.0/22
 1032480595
 1052238659
 1057338687
+107.167.96.0/19
 1076840480
 1079537578
 1080074001
@@ -1172,6 +1188,7 @@
 1351179184
 1395921017
 140.95.0.0/16
+141.0.8.0/21
 1413287364
 1413721906
 1438744533
@@ -1253,6 +1270,7 @@
 174.44.253.152/29
 18.184.198.198, 18.185.214.59, 18.194.109.179, 3.121.117.72, 3.121.138.10, 3.121.138.128, 3.121.138.134, 3.121.138.170, 3.121.138.33, 3.121.138.43, 3.124.248.208, 35.156.137.39
 185.210.32.0/22
+185.26.180.0/22
 188.118.8.0/25
 192.251.123.0/24
 192.251.124.0/24
@@ -1269,6 +1287,7 @@
 194.90.151.192/28
 194.90.25.80/29
 194.90.89.165/32
+195.189.143.0/24
 198.142.152.100
 198.142.152.101
 198.142.152.108
@@ -1355,6 +1374,7 @@
 203.17.138.82
 203.17.138.9
 203.79.37.2/29
+203.89.100.0/22
 204.29.196.0/23
 206.166.248.0/23
 211.28.90.133
@@ -1430,6 +1450,7 @@
 351331194
 351727428
 358861688
+37.228.104.0/21
 374254473
 379693831
 38.140.238.56/29
@@ -1523,7 +1544,9 @@
 719525810
 737216887
 740514933
+77.111.244.0/22
 794141485
+82.145.208.0/20
 82.196.42.196/28
 831287358355275877
 835599320
@@ -1535,6 +1558,7 @@
 8x8-work
 8x8.my.site.com
 905953485
+91.203.96.0/22
 910898851
 926252661
 930441707
@@ -1971,6 +1995,7 @@ G Hub
 GHE
 GLib
 GS Select iOS app
+GameMaker Studio 2
 Games Tier 1
 Games Tier 2
 Games Tier 3
@@ -2128,6 +2153,7 @@ Logstash
 Look at Me PH (subdomains)
 Lookatme.Philippines.Android
 Lookatme.Philippines.IOS
+Loomi.tv
 Low Cost Access
 Low impact, individually exposed Google Docs with no common root cause (see “Publicly accessible Google Document or Drive Links” in the “Corporate Targets” section)
 Luna
@@ -2837,6 +2863,11 @@ api.gojek.co.id
 api.grabpay.com
 api.greenhouse.io
 api.grofers.com
+api.gx.games/dc
+api.gx.games/dev 
+api.gx.games/gxc
+api.gx.games/profile
+api.gx.games/session
 api.hackerone.com
 api.iciparisxl.be
 api.iciparisxl.lu
@@ -3133,6 +3164,7 @@ biolivre.com.br
 biometservices.com
 bistro-api.blinkit.com
 blinkit.com
+blocklist.opera-api.com
 blog.23andme.com
 blog.creditkarma.com
 blog.cs.money
@@ -3943,6 +3975,7 @@ euria.infomaniak.com
 events.launchdarkly.com
 events.onecloud.harman.com
 ews-fusion.my.site.com
+exchange.opera.com
 exness.com
 exnessaffiliates.com
 exodus-movement.exodus
@@ -4255,6 +4288,7 @@ https://account.teamviewer.com
 https://account.withings.com
 https://accounts.cmp.optimizely.com/
 https://accounts.lastpass.com
+https://accounts.opera.com
 https://accounts.webmd.com
 https://accounts.welcomesoftware.com/
 https://acorns.com/
@@ -4597,6 +4631,7 @@ https://auth.datadome.co
 https://auth.immutable.com
 https://auth.lastpass.com
 https://auth.myopenpass.com
+https://auth.opera.com
 https://auth.pentest.clicsante.ca/
 https://auth.seek.com
 https://auth.thetradedesk.com
@@ -4604,6 +4639,7 @@ https://auth.wyze.com
 https://auth2.pdq.com/
 https://authn.usaa.com/
 https://authy.com/download/
+https://autoupdate.geo.opera.com
 https://b2bapi-a.usaa.com
 https://b2bapi.usaa.com
 https://b2blsapi-a.usaa.com
@@ -4648,6 +4684,7 @@ https://bounty-server.dracoon.app/oauth
 https://bounty-server.dracoon.app/reporting/api
 https://bounty-server.dracoon.app/webdav
 https://bounty.cryptobox.com
+https://browser-notifications.opera.com
 https://bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com/
 https://bug-bounty-dashboard.k8s.tools-001.d-use-1.braze-dev.com/
 https://bug-bounty-dfm.mementoblockchain.com/
@@ -4661,6 +4698,7 @@ https://bugcrowd.com/programs
 https://bugcrowd.hotdoc.com.au
 https://bugcrowd.hotdoc.com.au/api
 https://bugcrowd.hotdoc.com.au/dashboard
+https://bugs.opera.com/
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
@@ -4672,6 +4710,7 @@ https://carecredit.com.au
 https://careers.etsy.com
 https://cas-cf.euce1.indriverapp.com/api/passkey
 https://cash.app
+https://cashback.opera.com/
 https://casino.bwin.com
 https://casino.partycasino.com
 https://casino.sportingbet.com
@@ -4679,6 +4718,7 @@ https://catering.chipotle.com
 https://cb.simplisafe.com
 https://cdn-app.welcomesoftware.com/
 https://cdn-pci.optimizely.com/
+https://cdn-store.opera-api.com
 https://cdn.myopenpass.com
 https://cdn.neogov.com
 https://cdn.optimizely.com/
@@ -4736,12 +4776,14 @@ https://contentcredentials.org/
 https://coral.20min.ch/
 https://core-prod.uidapi.com
 https://cp.expressapisv2.net
+https://create.gx.games
 https://creatives.vistarmedia.com
 https://credit.pinelabs.com
 https://crosskey.io/stores/s-pankki/apis
 https://crypto.com/exchange
 https://crypto.com/nft
 https://crypto.com/price
+https://cryptowallet.opera-api.com
 https://csp-prod.codebig2.net
 https://cstg-integ.uidapi.com
 https://customer-api.datadome.co
@@ -4819,6 +4861,7 @@ https://docsite.vistarmedia.com
 https://donate.mastercard.com
 https://download.krisp.ai/mac
 https://download.krisp.ai/win
+https://download.opera.com
 https://drp.myoppo.com/
 https://dxc.episerver.net/ 
 https://e.oppo.com/
@@ -4881,6 +4924,7 @@ https://exchange.pulsepoint.com
 https://exchange.pulsepoint.com/AdminPortal/AdminDashBoard.aspx
 https://externalconnect.usaa.com/
 https://fcu.eu-west-2.outscale.com
+https://features.opera-api.com
 https://fileshare.ze.monash.edu
 https://finance.quintoandar.com.br/*
 https://financeiro.hostgator.com.br
@@ -4889,6 +4933,7 @@ https://fivetran.com/login
 https://flags.expeng.optimizely.com
 https://flo.uri.sh
 https://flourish.studio/
+https://flow.opera.com
 https://form.asana.com
 https://formative.eassessment.monash.edu/
 https://forms.apps.monash.edu/
@@ -4912,6 +4957,7 @@ https://gemfinance.co.nz
 https://gemvisa.com.au
 https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
+https://get.geo.opera.com
 https://getflywheel.com
 https://git.libssh.org/
 https://github.com/0xPolygon/auto-claim-service
@@ -5295,6 +5341,8 @@ https://guest.usaa.com/
 https://gwapi.tripadvisor.com
 https://gwapi1.tripadvisor.com
 https://gwapi2.tripadvisor.com
+https://gx.games
+https://gx.opera-api.com
 https://hackme.matrixreq.com
 https://healthmate.withings.com
 https://help.etsy.com
@@ -5849,6 +5897,7 @@ https://napoleondice.be
 https://napoleongames.be
 https://napoleonsports.be
 https://nbs.pinelabs.com/
+https://net.geo.opera.com
 https://newrelic.com/
 https://newrelic.com/blog
 https://nice.wfmusaa.com
@@ -6020,6 +6069,11 @@ https://play.google.com/store/apps/details?id=com.nth.swisspost&hl=de_CH&gl=US
 https://play.google.com/store/apps/details?id=com.nu.production&hl=pt_BR&gl=US&pli=1
 https://play.google.com/store/apps/details?id=com.okta.android.auth&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.onedebit.chime
+https://play.google.com/store/apps/details?id=com.opera.app.news
+https://play.google.com/store/apps/details?id=com.opera.app.sports
+https://play.google.com/store/apps/details?id=com.opera.browser
+https://play.google.com/store/apps/details?id=com.opera.gx
+https://play.google.com/store/apps/details?id=com.opera.mini.native
 https://play.google.com/store/apps/details?id=com.owncloud.android
 https://play.google.com/store/apps/details?id=com.paymaya
 https://play.google.com/store/apps/details?id=com.pinelabs.emicatalogue.pinelabs&hl=uz
@@ -6231,6 +6285,7 @@ https://sora.chatgpt.com
 https://soundcloud.com
 https://soundcloud.org
 https://spacelift.dev/
+https://speeddials.opera.com
 https://sprint.com
 https://square.online
 https://squareup.com/
@@ -6261,6 +6316,7 @@ https://student.classdojo.com
 https://student.monash
 https://studentplacements.monash.edu
 https://studiopress.blog
+https://suggestions.opera-api.com
 https://superbet.pl
 https://superbet.ro
 https://superbet.rs
@@ -6513,6 +6569,7 @@ https://www.finicity.com
 https://www.flipkart.com
 https://www.galabingo.com
 https://www.galacasino.com
+https://www.gamemaker.io
 https://www.gesundheitsverbund.at
 https://www.globalacademycme.com
 https://www.glossybox.com/
@@ -6619,6 +6676,9 @@ https://www.okta.com/fastpass/
 https://www.okta.com/products/advanced-server-access/
 https://www.onedoc.ch
 https://www.ooredoo.qa
+https://www.opera.com/
+https://www.opera.com/computer/thanks?ni=eapgx&os=windows
+https://www.opera.com/computer/thanks?ni=stable&os=windows
 https://www.oppo.com/id/store
 https://www.oppo.com/in/store
 https://www.oppo.com/my/store
@@ -7046,6 +7106,7 @@ mapi.moneyback.com.hk
 mark8.syfe.com
 marketing.fareharbor.com
 marketplace.digitalocean.com
+marketplace.gamemaker.io
 marquee.gs.com
 marriottfranchisetransactions.marriott.com
 marrtool.com
@@ -7113,6 +7174,7 @@ mercadoplay.com.uy
 mercadoplay.pe
 mercadoplay.uy
 mercantile.wordpress.org
+merchandise.opera-api.com
 merchant.crypto.com
 merchant.wolt.com
 mercury-dev.wnba.com
@@ -7585,6 +7647,7 @@ push-lightstreamer.cloud.etoro.com
 push-n-hap.cloud.etoro.com
 push-notifications.nextcloud.com
 push-real-hk-lightstreamer.cloud.etoro.com
+push.opera.com
 push.services.mozilla.com
 pushfeed.nextcloud.com
 pwapi.ex2b.com
@@ -8137,6 +8200,7 @@ wallets.api.playstation.com
 was-gw-cf.*.aws.indriverapp.com
 watchdocs.indriverapp.com
 watchlistapi.etoro.com
+weather.opera-api.com
 web-message-high.lime.bike
 web-message.lime.bike
 web-production.lime.bike
