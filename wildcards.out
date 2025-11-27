@@ -1,5 +1,6 @@
  *.rivian.com
  *.sip.*.twilio.com
+ *.test.*.lfscnp.com
  Twilio CDNs (static*.twilio.com)
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *-api-*.acronis.com
@@ -7,6 +8,7 @@
 *. advancedcustomfields.com
 *. bettersearchreplace.com
 *. vfsevisa.id
+*.-np.*.lfscnp.com
 *.1debit.com
 *.3lateral.com
 *.5nine.com
@@ -246,6 +248,7 @@
 *.deriv.com
 *.derivws.com
 *.dev-pub.mobilevikings.be
+*.dev.*.lfscnp.com
 *.dev.grindr.io
 *.dev.mobilevikings.be
 *.dev.remitly.com
@@ -341,9 +344,9 @@
 *.fuze.com
 *.fuze.site
 *.gaming.gopayapi.com
-*.gamma.be/*
-*.gamma.nl/*
 *.gateway.marriott.com
+*.genoapay.co.nz
+*.genoapay.com
 *.germany.politico.eu
 *.gesundheitsverbund.at
 *.gethypr.com
@@ -462,9 +465,6 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
-*.intergamma-test.nl
-*.intergamma.cloud
-*.intergamma.nl/*
 *.internal.exoscale.ch
 *.itcapital.io
 *.jbl.com
@@ -481,8 +481,6 @@
 *.jobstreet.com.sg
 *.jora.com
 *.jora.xyz
-*.karwei.nl/*
-*.karweioutletstore.nl
 *.kayak.com
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
@@ -508,6 +506,11 @@
 *.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
+*.latitudefinancial.co.nz
+*.latitudefinancial.com
+*.latitudefinancial.com.au
+*.latitudepay.com
+*.latitudepay.com.au
 *.lemonsqueezy.com
 *.libelle.nl
 *.lightroom.adobe.com
@@ -778,7 +781,6 @@
 *.redecor.com
 *.rentalcars.com
 *.reposify.com
-*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -791,6 +793,7 @@
 *.runnr.in
 *.s-cloud.net
 *.saltlabs.com
+*.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
 *.savers.co.uk
 *.say.rocks
@@ -1049,9 +1052,6 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
 *.wf.com
 *.wholesalexl.com
 *.wien.at

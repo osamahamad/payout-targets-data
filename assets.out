@@ -2,6 +2,7 @@
 	 speedtest-eastburwood.optusnet.com.au
  *.rivian.com
  *.sip.*.twilio.com
+ *.test.*.lfscnp.com
  203.13.125.32/27
  Finicity Connect
  Fortress.HongKong.IOS
@@ -30,6 +31,7 @@
 *. advancedcustomfields.com
 *. bettersearchreplace.com
 *. vfsevisa.id
+*.-np.*.lfscnp.com
 *.1debit.com
 *.3lateral.com
 *.5nine.com
@@ -269,6 +271,7 @@
 *.deriv.com
 *.derivws.com
 *.dev-pub.mobilevikings.be
+*.dev.*.lfscnp.com
 *.dev.grindr.io
 *.dev.mobilevikings.be
 *.dev.remitly.com
@@ -364,9 +367,9 @@
 *.fuze.com
 *.fuze.site
 *.gaming.gopayapi.com
-*.gamma.be/*
-*.gamma.nl/*
 *.gateway.marriott.com
+*.genoapay.co.nz
+*.genoapay.com
 *.germany.politico.eu
 *.gesundheitsverbund.at
 *.gethypr.com
@@ -485,9 +488,6 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
-*.intergamma-test.nl
-*.intergamma.cloud
-*.intergamma.nl/*
 *.internal.exoscale.ch
 *.itcapital.io
 *.jbl.com
@@ -504,8 +504,6 @@
 *.jobstreet.com.sg
 *.jora.com
 *.jora.xyz
-*.karwei.nl/*
-*.karweioutletstore.nl
 *.kayak.com
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
@@ -531,6 +529,11 @@
 *.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
+*.latitudefinancial.co.nz
+*.latitudefinancial.com
+*.latitudefinancial.com.au
+*.latitudepay.com
+*.latitudepay.com.au
 *.lemonsqueezy.com
 *.libelle.nl
 *.lightroom.adobe.com
@@ -801,7 +804,6 @@
 *.redecor.com
 *.rentalcars.com
 *.reposify.com
-*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -814,6 +816,7 @@
 *.runnr.in
 *.s-cloud.net
 *.saltlabs.com
+*.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
 *.savers.co.uk
 *.say.rocks
@@ -1072,9 +1075,6 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
 *.wf.com
 *.wholesalexl.com
 *.wien.at
@@ -1250,7 +1250,6 @@
 1532153219
 1541949985
 1552455423
-1558129454
 1570215232
 1579372261
 1579530451
@@ -1569,9 +1568,6 @@
 943905271
 944011620
 947984433
-949829216
-950680989
-950693949
 955837609
 960335206
 961114489414094898
@@ -3144,7 +3140,6 @@ bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
 be.delen.digital
-be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -4054,8 +4049,6 @@ g2-gw-cf.*.aws.indriverapp.com
 gamenotes.nba.com
 gaming.logicool.co.jp
 gamma.grab.co
-gammacademy.be
-gammalokaal.nl
 gasstation.polygon.technology/
 gatekeeper.prd.iat.it.xvservice.net
 gateway*.marriott.com
@@ -4281,6 +4274,7 @@ https://195.60.68.247
 https://195.60.68.248
 https://195.60.68.249
 https://195.60.68.250
+https://28degreescard.com.au
 https://8x8.vc/xmpp-websocket
 https://Fr.mydirtyhobby.com
 https://Mlife.mo
@@ -4400,6 +4394,7 @@ https://api.shop.ua.com/graphql
 https://api.simnext.bullish-test.com
 https://api.staging.luno.com/
 https://api.t-mobile.com
+https://api.test.latitudefinancial.com
 https://api.thefork.com
 https://api.thefork.io
 https://api.thesecurityteam.rocks
@@ -4443,6 +4438,7 @@ https://app.ibotta.com/sign-in 
 https://app.insomnia.rest/
 https://app.intercom.com
 https://app.intercom.io/
+https://app.latitudepayapps.com/
 https://app.opsgenie.com
 https://app.optimizely.com/
 https://app.pdq.com/
@@ -4709,6 +4705,8 @@ https://business.comcast.com/account
 https://business.rivian.com/api
 https://businessportal.origin.com.au
 https://butlerfortrello.com/
+https://buyersedge.co.nz
+https://carecredit.com.au
 https://careers.etsy.com
 https://cas-cf.euce1.indriverapp.com/api/passkey
 https://cash.app
@@ -4954,6 +4952,9 @@ https://gatewaydsapdev2.marriott.com/
 https://gatewaydsaptst1.marriott.com/
 https://gatewaydsaptst2.marriott.com/
 https://gcsm.oppoit.com/
+https://gemcreditline.co.nz
+https://gemfinance.co.nz
+https://gemvisa.com.au
 https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
@@ -5328,6 +5329,7 @@ https://gitlab.isc.org/isc-projects/bind9
 https://global-payments-web.payments.pmt-1.eu-west-1.production.jet-external.com
 https://glow.imoulife.com
 https://go.elementor.com/
+https://gomastercard.com.au
 https://google-reserve-api.thefork.io
 https://gov.bugcrowd.net
 https://gpt.lime.bike
@@ -5370,10 +5372,12 @@ https://identity.bugcrowd.com/
 https://identity.majidalfuttaim.com
 https://identity.monash.edu
 https://identity.monash.edu/
+https://images.latitudepayapps.com/
 https://ims.monash.edu
 https://indeed.com
 https://indonesiavoa.vfsevisa.id/
 https://infiniteathlete.ai
+https://interestfree.com.au
 https://interviews.monash.edu/
 https://investor.bullish.com/
 https://investor.irobot.com
@@ -5424,6 +5428,7 @@ https://laptop-updates.brave.com/latest/winia32
 https://laptop-updates.brave.com/latest/winx64
 https://lastpass.com
 https://lastpass.com/misc_download2.php
+https://latitudeinfinity.com.au
 https://launchdarkly.com/docs
 https://lbu.eu-west-2.outscale.com
 https://leaflet-map.bykea.net
@@ -5811,6 +5816,8 @@ https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosti
 https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
 https://marketplace.auth0.com
 https://marketplace.ifood.com.br
+https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
+https://master.servicecentre.digitalservicing-np.lfscnp.com/
 https://mathem.se
 https://matrix.agent.tchap.gouv.fr
 https://matrix.e.tchap.gouv.fr
@@ -6402,6 +6409,7 @@ https://ui.com/training/partners/
 https://uiscoop.payzippy.com
 https://uk.api.just-eat.io
 https://ultramobile.com
+https://umiloans.com.au
 https://underarmour.co.kr
 https://underarmournext.com/
 https://unified.neogov.com
@@ -6924,7 +6932,6 @@ ir.remitly.com
 ir.ui.com
 irclogs.wordpress.org
 iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
-irmg.nl
 isa-cf.*.aws.indriverapp.com
 ispdesign.ui.com
 it.niedermann.owncloud.notes
@@ -6960,10 +6967,6 @@ k8s.gcr.io
 k8s.io
 kaccount.khealth.com
 kartaview.org
-karwei-promotiepunt.nl
-kassa.gamma.be/*
-kassa.gamma.nl/*
-kassa.karwei.nl/*
 kayak.ai
 kidswebservices.com
 kinepolis-studio.be
@@ -7193,9 +7196,6 @@ mgmtpod-1-dashboard.production.forescoutcloud.net
 mgmtpod-1.production.forescoutcloud.net
 mgs.marriott.com
 microsite.porsche.com
-mijn.gamma.be/*
-mijn.gamma.nl/*
-mijn.karwei.nl/*
 mijnacc.uzleuven.be
 minerva.robinhood.com
 mipartnerprivileges.marriott.com
@@ -7359,9 +7359,6 @@ nha-gw-cf.*.aws.indriverapp.com
 niantic.kidswebservices.com
 ninja.kiwi
 ninjakiwi.com
-nl.gamma.app.android
-nl.gamma.verf
-nl.karwei.app.android
 nmtracking.netflix.com
 no-cf.*.aws.indriverapp.com
 no-gw-cf.*.aws.indriverapp.com
@@ -8411,8 +8408,6 @@ www.fortress.com.hk
 www.fraedom.com
 www.funjet.com
 www.fuzemeeting.com
-www.gamma.be/*
-www.gamma.nl/*
 www.geneva-staging.chat
 www.geneva-staging.com
 www.getaroom.com
@@ -8443,7 +8438,6 @@ www.infomaniak.com
 www.instacart.com
 www.intigriti.com
 www.jaybirdsport.com
-www.karwei.nl/*
 www.kayak.com
 www.kinepolis.be 
 www.kinepolis.biz
