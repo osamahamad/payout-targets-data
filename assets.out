@@ -2,7 +2,6 @@
 	 speedtest-eastburwood.optusnet.com.au
  *.rivian.com
  *.sip.*.twilio.com
- *.test.*.lfscnp.com
  203.13.125.32/27
  Finicity Connect
  Fortress.HongKong.IOS
@@ -31,7 +30,6 @@
 *. advancedcustomfields.com
 *. bettersearchreplace.com
 *. vfsevisa.id
-*.-np.*.lfscnp.com
 *.1debit.com
 *.3lateral.com
 *.5nine.com
@@ -259,6 +257,7 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
+*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
@@ -270,7 +269,6 @@
 *.deriv.com
 *.derivws.com
 *.dev-pub.mobilevikings.be
-*.dev.*.lfscnp.com
 *.dev.grindr.io
 *.dev.mobilevikings.be
 *.dev.remitly.com
@@ -367,8 +365,6 @@
 *.fuze.site
 *.gaming.gopayapi.com
 *.gateway.marriott.com
-*.genoapay.co.nz
-*.genoapay.com
 *.germany.politico.eu
 *.gesundheitsverbund.at
 *.gethypr.com
@@ -528,11 +524,6 @@
 *.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
-*.latitudefinancial.co.nz
-*.latitudefinancial.com
-*.latitudefinancial.com.au
-*.latitudepay.com
-*.latitudepay.com.au
 *.lemonsqueezy.com
 *.libelle.nl
 *.lightroom.adobe.com
@@ -815,7 +806,6 @@
 *.runnr.in
 *.s-cloud.net
 *.saltlabs.com
-*.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
 *.savers.co.uk
 *.say.rocks
@@ -2976,6 +2966,9 @@ app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
 app.dashlane.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -3066,6 +3059,9 @@ as2-accpt.portofantwerpbruges.com
 as2.portofantwerp.com
 as2.portofantwerpbruges.com
 ask.khealth.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com 
+assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.spotify.com
@@ -3226,6 +3222,7 @@ calendar.infomaniak.com
 calendar.notion.so
 callbacks.airbnb.com
 cam.notebleue.pro
+campus.datacamp.com
 cancellation.prod.ps.welt.de
 candle-src.etoro.com
 candle.etoro.com
@@ -3433,6 +3430,7 @@ com.creditkarma.mobile
 com.creditkarma.mobile.international
 com.dashlane
 com.dashlane.dashlanephonefinal
+com.datacamp
 com.dd.doordash
 com.defi.wallet
 com.deribit
@@ -4265,7 +4263,6 @@ https://195.60.68.247
 https://195.60.68.248
 https://195.60.68.249
 https://195.60.68.250
-https://28degreescard.com.au
 https://8x8.vc/xmpp-websocket
 https://Fr.mydirtyhobby.com
 https://Mlife.mo
@@ -4385,7 +4382,6 @@ https://api.shop.ua.com/graphql
 https://api.simnext.bullish-test.com
 https://api.staging.luno.com/
 https://api.t-mobile.com
-https://api.test.latitudefinancial.com
 https://api.thefork.com
 https://api.thefork.io
 https://api.thesecurityteam.rocks
@@ -4429,7 +4425,6 @@ https://app.ibotta.com/sign-in 
 https://app.insomnia.rest/
 https://app.intercom.com
 https://app.intercom.io/
-https://app.latitudepayapps.com/
 https://app.opsgenie.com
 https://app.optimizely.com/
 https://app.pdq.com/
@@ -4466,6 +4461,7 @@ https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
@@ -4695,8 +4691,6 @@ https://business.comcast.com/account
 https://business.rivian.com/api
 https://businessportal.origin.com.au
 https://butlerfortrello.com/
-https://buyersedge.co.nz
-https://carecredit.com.au
 https://careers.etsy.com
 https://cas-cf.euce1.indriverapp.com/api/passkey
 https://cash.app
@@ -4942,9 +4936,6 @@ https://gatewaydsapdev2.marriott.com/
 https://gatewaydsaptst1.marriott.com/
 https://gatewaydsaptst2.marriott.com/
 https://gcsm.oppoit.com/
-https://gemcreditline.co.nz
-https://gemfinance.co.nz
-https://gemvisa.com.au
 https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
@@ -5319,7 +5310,6 @@ https://gitlab.isc.org/isc-projects/bind9
 https://global-payments-web.payments.pmt-1.eu-west-1.production.jet-external.com
 https://glow.imoulife.com
 https://go.elementor.com/
-https://gomastercard.com.au
 https://google-reserve-api.thefork.io
 https://gov.bugcrowd.net
 https://gpt.lime.bike
@@ -5362,12 +5352,10 @@ https://identity.bugcrowd.com/
 https://identity.majidalfuttaim.com
 https://identity.monash.edu
 https://identity.monash.edu/
-https://images.latitudepayapps.com/
 https://ims.monash.edu
 https://indeed.com
 https://indonesiavoa.vfsevisa.id/
 https://infiniteathlete.ai
-https://interestfree.com.au
 https://interviews.monash.edu/
 https://investor.bullish.com/
 https://investor.irobot.com
@@ -5418,7 +5406,6 @@ https://laptop-updates.brave.com/latest/winia32
 https://laptop-updates.brave.com/latest/winx64
 https://lastpass.com
 https://lastpass.com/misc_download2.php
-https://latitudeinfinity.com.au
 https://launchdarkly.com/docs
 https://lbu.eu-west-2.outscale.com
 https://leaflet-map.bykea.net
@@ -5806,8 +5793,6 @@ https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosti
 https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
 https://marketplace.auth0.com
 https://marketplace.ifood.com.br
-https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
-https://master.servicecentre.digitalservicing-np.lfscnp.com/
 https://mathem.se
 https://matrix.agent.tchap.gouv.fr
 https://matrix.e.tchap.gouv.fr
@@ -6399,7 +6384,6 @@ https://ui.com/training/partners/
 https://uiscoop.payzippy.com
 https://uk.api.just-eat.io
 https://ultramobile.com
-https://umiloans.com.au
 https://underarmour.co.kr
 https://underarmournext.com/
 https://unified.neogov.com
@@ -7572,6 +7556,7 @@ portswigger.net
 pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
 pr-gw-cf.*.aws.indriverapp.com
+practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -7616,6 +7601,7 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profiler.firefox.com
+projects.datacamp.com
 projects.nextcloud.com
 promos.tvg.com
 prow.k8s.io
@@ -8314,6 +8300,8 @@ www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
 www.dashlane.com
+www.datacamp.com
+www.datacamp.com/datalab
 www.ddfcontent.com
 www.deezer.com
 www.delen.bank
