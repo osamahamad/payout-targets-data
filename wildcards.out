@@ -1,5 +1,6 @@
  *.rivian.com
  *.sip.*.twilio.com
+ *.test.*.lfscnp.com
  Twilio CDNs (static*.twilio.com)
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *-api-*.acronis.com
@@ -7,6 +8,7 @@
 *. advancedcustomfields.com
 *. bettersearchreplace.com
 *. vfsevisa.id
+*.-np.*.lfscnp.com
 *.1debit.com
 *.3lateral.com
 *.5nine.com
@@ -155,7 +157,6 @@
 *.braintree.tools
 *.braintreegateway.com
 *.braintreepayments.com
-*.brazzers.com
 *.bredbandsbolaget.se
 *.bridge.xyz
 *.buddypress.org,bbpress.org,profiles.wordpress.org
@@ -246,6 +247,7 @@
 *.deriv.com
 *.derivws.com
 *.dev-pub.mobilevikings.be
+*.dev.*.lfscnp.com
 *.dev.grindr.io
 *.dev.mobilevikings.be
 *.dev.remitly.com
@@ -342,6 +344,8 @@
 *.fuze.site
 *.gaming.gopayapi.com
 *.gateway.marriott.com
+*.genoapay.co.nz
+*.genoapay.com
 *.germany.politico.eu
 *.gesundheitsverbund.at
 *.gethypr.com
@@ -501,6 +505,11 @@
 *.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
+*.latitudefinancial.co.nz
+*.latitudefinancial.com
+*.latitudefinancial.com.au
+*.latitudepay.com
+*.latitudepay.com.au
 *.lemonsqueezy.com
 *.libelle.nl
 *.lightroom.adobe.com
@@ -599,7 +608,6 @@
 *.mobile-messenger.intercom.com
 *.mobilevikings.be
 *.mobilitygraph.hereapi.com
-*.mofos.com
 *.mona.co
 *.moneyback.com.hk
 *.mongodb.com/*
@@ -757,7 +765,6 @@
 *.rapyd.org
 *.rbx.com
 *.realestate.com.au
-*.realitykings.com
 *.rec.net/*
 *.recko.io
 *.reckoproduction.com
@@ -783,6 +790,7 @@
 *.runnr.in
 *.s-cloud.net
 *.saltlabs.com
+*.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
 *.savers.co.uk
 *.say.rocks
@@ -800,7 +808,6 @@
 *.scbe.api.here.com
 *.scopely.com
 *.scopely.io
-*.seancody.com
 *.sec-tunnel.com
 *.securecircle.com
 *.securegatewayaccess.com
@@ -961,7 +968,6 @@
 *.tweakimg.net
 *.twimg.com
 *.twinmotion.com
-*.twistys.com
 *.twitter.biz
 *.twitter.com
 *.tyo-masters.co.jp
