@@ -180,6 +180,7 @@
 *.braintree.tools
 *.braintreegateway.com
 *.braintreepayments.com
+*.brazzers.com
 *.bredbandsbolaget.se
 *.bridge.xyz
 *.buddypress.org,bbpress.org,profiles.wordpress.org
@@ -631,6 +632,7 @@
 *.mobile-messenger.intercom.com
 *.mobilevikings.be
 *.mobilitygraph.hereapi.com
+*.mofos.com
 *.mona.co
 *.moneyback.com.hk
 *.mongodb.com/*
@@ -788,6 +790,7 @@
 *.rapyd.org
 *.rbx.com
 *.realestate.com.au
+*.realitykings.com
 *.rec.net/*
 *.recko.io
 *.reckoproduction.com
@@ -831,6 +834,7 @@
 *.scbe.api.here.com
 *.scopely.com
 *.scopely.io
+*.seancody.com
 *.sec-tunnel.com
 *.securecircle.com
 *.securegatewayaccess.com
@@ -991,6 +995,7 @@
 *.tweakimg.net
 *.twimg.com
 *.twinmotion.com
+*.twistys.com
 *.twitter.biz
 *.twitter.com
 *.tyo-masters.co.jp
@@ -4188,6 +4193,7 @@ http://datapod-1-druid-query.production.forescoutcloud.net/v2/services
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/matrixoverview
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/overlappingzones
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
+http://digitalplayground.com/
 http://es.mydirtyhobby.com/
 http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
 http://federatedid-na1.services.adobe.com
@@ -4220,12 +4226,20 @@ http://pay.monashcollege.edu.au/
 http://play.google.com/store/apps/details?id=fr.doctolib.www
 http://poe.com
 http://portfolio.metamask.io
+http://probiller.brazzers.com/
+http://probiller.digitalplayground.com/
+http://probiller.mofos.com/
+http://probiller.realitykings.com/
+http://probiller.seancody.com/
+http://probiller.transangels.com/
+http://probiller.twistys.com/
 http://recruit.linepluscorp.com
 http://secure-iphone-xml.booking.com/json/
 http://socialdeal.nl/inspirations/bluemonday/
 http://staging-api.ynab.com
 http://staking.consensys.io
 http://testnet.bybit.eu
+http://transangels.com/
 http://urc-auth-uefn.live.ucs.on.epicgames.com/
 http://urc-uefn.live.ucs.on.epicgames.com
 http://vimeo.com/api
