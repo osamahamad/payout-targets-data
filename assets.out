@@ -4317,6 +4317,7 @@ https://alumni-friends.monash.edu
 https://analytics-admin.prosus.com
 https://analytics.neogov.com
 https://analytics.welcomesoftware.com/
+https://answers.irobot.com
 https://anytask.thesecurityteam.rocks
 https://api-a.usaa.com
 https://api-app.datadome.co/
@@ -4578,6 +4579,7 @@ https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
 https://apps.apple.com/us/app/quip-docs-chat-sheets/id647922896
+https://apps.apple.com/us/app/roomba-home/id6504274697
 https://apps.apple.com/us/app/salt-work-and-get-rewarded/id1668462142
 https://apps.apple.com/us/app/save-to-pinterest/id6473649042
 https://apps.apple.com/us/app/share-rewards/id1465450657
@@ -4613,6 +4615,9 @@ https://artist.link
 https://asana.com
 https://asana.com/apps?category=made-by-asana
 https://asana.com/download
+https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/entitlements/{entitlement_id}
+https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/robots/{robot_id}/entitlements
+https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/users/{user_id}/entitlements
 https://assets-cdn.vistarmedia.com
 https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://atlantis-ext.myopenpass.com
@@ -5375,6 +5380,7 @@ https://infiniteathlete.ai
 https://interestfree.com.au
 https://interviews.monash.edu/
 https://investor.bullish.com/
+https://investor.irobot.com
 https://iphone-xml.booking.com/json/
 https://itunes.apple.com/app/carrefour-uae/id626805470
 https://itunes.apple.com/ch/app/postcard-creator/id820354055?mt=8
@@ -5821,6 +5827,7 @@ https://mc.sendgrid.com/
 https://mcp-server.zomato.com/mcp
 https://mcp.opensea.io
 https://mcs.arlo.com
+https://media.irobot.com
 https://mediaflows.cloudinary.com/
 https://mein.wien.gv.at/
 https://mein.wien.gv.at/broker/api/*
@@ -6040,6 +6047,7 @@ https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
 https://play.google.com/store/apps/details?id=com.indeed.resume
 https://play.google.com/store/apps/details?id=com.infomaniak.drive
 https://play.google.com/store/apps/details?id=com.infomaniak.mail&hl=en_US
+https://play.google.com/store/apps/details?id=com.irobot.home.prime
 https://play.google.com/store/apps/details?id=com.jbl.oneapp&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US	
 https://play.google.com/store/apps/details?id=com.keepersecurity.chat&hl=en_US&gl=US
@@ -6568,6 +6576,7 @@ https://www.glossybox.com/
 https://www.gohenry.com/
 https://www.governmentjobs.com
 https://www.growgorgeous.com/
+https://www.homesupport.irobot.com
 https://www.hostgator.com.br/
 https://www.hostgator.com/
 https://www.hqhair.com/
@@ -6579,6 +6588,18 @@ https://www.illamasqua.com/
 https://www.imou.com
 https://www.intercom.com/
 https://www.internetbrands.com
+https://www.irobot.at/
+https://www.irobot.be/
+https://www.irobot.ca/en_CA
+https://www.irobot.ca/fr_CA/home
+https://www.irobot.co.uk/
+https://www.irobot.com
+https://www.irobot.de/
+https://www.irobot.es/
+https://www.irobot.fr/
+https://www.irobot.ie/
+https://www.irobot.nl/
+https://www.irobot.pt/
 https://www.just-eat.co.uk
 https://www.justeattakeaway.com
 https://www.kaleido.ai
@@ -6807,6 +6828,7 @@ https://yeswehack.com
 https://yeswehack.staging.komoju.com
 https://youcouldbe.com
 https://yourdelivery.de
+https://zuora-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/notifications/raas
 https:/pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-acces-info/
 hub-api-sandbox.remitly.io
 hub.myconnect.com.au
@@ -6825,6 +6847,12 @@ hypermint.com
 iOS App
 iOS Playstation App
 iOS SDK
+iRobot API Endpoint
+iRobot Roomba™ 105
+iRobot Roomba™ 205
+iRobot Roomba™ 405
+iRobot Roomba™ 505
+iRobot Roomba™ 705
 ia.tvg.com
 iam.atg.se
 iat.it.xvservice.net
