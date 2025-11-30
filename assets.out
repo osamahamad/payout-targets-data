@@ -144,7 +144,6 @@
 *.avecspotify.com
 *.ayco.com
 *.backblazeb2.com
-*.backend-capital.com
 *.base.org
 *.berush.com
 *.betfair.com
@@ -200,7 +199,6 @@
 *.canva.cn
 *.canva.com
 *.canva.tech
-*.capital.com
 *.capitalone.ca
 *.capitalone.com
 *.capitalonegslbex.com
@@ -493,7 +491,6 @@
 *.intergamma.cloud
 *.intergamma.nl/*
 *.internal.exoscale.ch
-*.itcapital.io
 *.jbl.com
 *.jbl.com.br
 *.jbl.nl
@@ -643,7 +640,6 @@
 *.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
-*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -774,7 +770,6 @@
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
-*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -1160,7 +1155,6 @@
 1023499075
 103.83.120.0/22
 1032480595
-1052238659
 1057338687
 107.167.96.0/19
 1076840480
@@ -1751,7 +1745,6 @@ Atlas Payments/Billing
 Audition
 BBPress Core
 Backend endpoint: bug-bounty-be.glean.com
-Backend/Non-Game
 Backstage source code
 Basecamp.app
 Beats
@@ -1932,7 +1925,6 @@ Elastic Maps Server
 Elastic Package Registry
 Elastic Synthetics Monitoring
 Elasticsearch
-Elvenar
 Engadget
 Enjin - Ethereum ERC-1155 Contract
 Enjin Blockchain
@@ -1983,7 +1975,6 @@ Firmware: Mali Command Stream Frontend (CSF) Firmware
 Fleet Server
 Flex - Xfinity hardware and services
 Forge Platform
-Forge of Empires
 FortniteClient-Android-Shipping-arm64-es2.apk
 FortniteClient-Win64-Shipping.exe
 FortniteLauncher-Win64-Shipping.exe
@@ -2051,7 +2042,6 @@ Grammarly Browser Extensions
 Grammarly Desktop for Windows
 Grammarly Desktop for macOS
 GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)
-Grepolis
 Gutenberg
 H5G
 HEY.app
@@ -2547,7 +2537,6 @@ Trello Desktop Client
 Trello Mobile App for Android
 Trello Mobile App for iOS
 Trello Third Party Powerups
-Tribal Wars
 TrueLayer for Magento (Magento plugin)
 TrueLayer for WooCommerce (WordPress plugin)
 TrustedVPN 100,000 Bonus Award (See Program Policy for Info)
@@ -2745,7 +2734,6 @@ ads.tiktok.com
 adtechnology.axelspringer.com
 advisories.gitlab.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
-aff.capital.com
 affiliate-id.tokopedia.com
 agents.tasheer.com
 aggregator.etoro.com
@@ -2833,6 +2821,8 @@ api.custody.coinbase.com
 api.dashlane.com
 api.deezer.com
 api.deriv.com
+api.digital.delen.be 
+api.digital.delen.lu 
 api.digitalocean.com
 api.direct.playstation.com
 api.doppler.com
@@ -2985,6 +2975,9 @@ app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
 app.dashlane.com
+app.delen.be 
+app.delen.ch 
+app.delen.lu 
 app.deriv.com
 app.drogas.lt
 app.drogas.lv
@@ -3087,6 +3080,8 @@ auth-identity-qa.nba.com
 auth-identity-uat.nba.com
 auth-identity.nba.com
 auth.23andme.com
+auth.digital.delen.be 
+auth.digital.delen.lu 
 auth.hhc247.org
 auth.monespacesante.fr
 auth.moonpay.com
@@ -3136,6 +3131,7 @@ bd.visa.com
 bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
+be.delen.digital
 be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
@@ -3233,7 +3229,6 @@ cam.notebleue.pro
 cancellation.prod.ps.welt.de
 candle-src.etoro.com
 candle.etoro.com
-capital.com/*
 capitalmarketsday.porsche.com
 capturingreality.com
 cardpayments.remitly.io
@@ -3242,7 +3237,6 @@ cardsonline.azdiest.be
 cardsonlinetst.azdiest.be
 career.bpost.be
 careers.booking.com
-careers.capital.com
 careers.indrive.com
 careers.marriott.com
 careers.remitly.com
@@ -3319,7 +3313,6 @@ co-in-gw-cf.*.aws.indriverapp.com
 co.mona.android
 co.tide
 co.tide.tideplatform.in
-co.uk.getmondo
 coaching.supernovas.indrive.com
 coban.pixiv.net
 coda.grammarly.com
@@ -3418,7 +3411,6 @@ com.bumble.app
 com.bumblebff.app
 com.bykea.pk
 com.bykea.pk.partner
-com.capital.trading
 com.cheaptickets
 com.clay.ios
 com.cm.cashregister
@@ -3825,6 +3817,7 @@ decision.swiftfinancial.com
 deeplinks.geneva-staging.chat
 deeplinks.geneva-staging.com
 defi.ripio.com
+delen/id1064839588
 delta.app
 demo.arkoselabs.com
 demo.dynamic.xyz
@@ -4079,7 +4072,6 @@ globaldesign.marriott.com
 globaljourney.tomorrowland.com
 gnip.com
 gnocchi-www.buffalo-ggn.net
-go.capital.com
 go.geneva-staging.com
 go.stripchat.com
 go.welt.de
@@ -6285,7 +6277,6 @@ https://src.mastercard.com/profile/enroll
 https://stadtwien-my.sharepoint.com/
 https://staff.monash
 https://staging-login.vistarmedia.com
-https://staging-prime.navan.com
 https://staging-trafficking.vistarmedia.com
 https://staging.gearset.com/
 https://staging.luno.com/
@@ -7035,8 +7026,12 @@ login-ia.tvg.com
 login-pabets.tvg.com
 login.arkane.network
 login.cm.com
+login.delen.be 
+login.delen.ch 
+login.delen.lu 
 login.infomaniak.com
 login.lansweeper.com
+login.oyens.com
 login.pabets.tvg.com
 login.playcanvas.com
 login.rei.com
@@ -7207,7 +7202,6 @@ moments.marriottbonvoy.com
 moneybird.com
 moneybirdstorage.com
 monitor.mozilla.org
-monzo.com
 moonpay.com
 movie.indrive.com
 movieapi.kinepolis.megatix.be
@@ -7393,7 +7387,6 @@ online.s-pankki.fi
 onum-labs.com
 onum.com
 open redirect at *.epam.com
-open-api.capital.com
 open.airbnb.com
 open.larksuite.com
 open.ys7.com
@@ -7450,7 +7443,6 @@ pay.{business_critical_assets} *see business assets for more information
 paybridge.booking.com
 paydirect.truelayer[-sandbox].com
 payer-details-sandbox.gocardless.com
-payment.backend-capital.com
 payment.bingo.com
 payment.casinohuone.com
 payment.deezer.com
@@ -7690,7 +7682,6 @@ redditforbusiness.com
 register-accpt.portofantwerp.com
 register-accpt.portofantwerpbruges.com
 register.bpost.be
-register.capital.com
 registre.notebleue.pro
 registry.gitlab.com
 rei.com
@@ -7931,6 +7922,7 @@ stats.nba.com
 stats.nextcloud.com
 stats.vinci.com
 stats.wnba.com
+status.delen.be 
 status.larksuite.com
 status.uphold.com
 steamcommunity.com
@@ -7957,6 +7949,7 @@ streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 streams.etoro.com
+sts.delen.be 
 sts.etoro.com
 sts.uzleuven.be
 studio-api.swapcard.com
@@ -8294,6 +8287,8 @@ www.bookingholdings.com
 www.bpost.be
 www.bpost2.be
 www.bumble.com
+www.cadelam.be 
+www.cadelux.lu/en 
 www.cardinalcommerce.com
 www.carrentals.com
 www.cart.starbucks.co.jp/
@@ -8317,6 +8312,8 @@ www.cybersource.com
 www.dashlane.com
 www.ddfcontent.com
 www.deezer.com
+www.delen.bank
+www.delen.be/en 
 www.demorgen.be
 www.demorgen.be/abonnementen
 www.digitalocean.com
@@ -8490,7 +8487,6 @@ www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
-www.monzo.com
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
