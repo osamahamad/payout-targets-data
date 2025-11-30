@@ -143,7 +143,6 @@
 *.autobild.de
 *.avecspotify.com
 *.ayco.com
-*.backblazeb2.com
 *.base.org
 *.berush.com
 *.betfair.com
@@ -2007,7 +2006,6 @@ Gecko SDK
 Gemini
 GenAI Apps under *.amazon.*
 Geneva 
-Git Repositories (b2-sdk-java & B2 Command Line Tool)
 GitHub Actions in our Public Repositories 
 GitHub CLI
 GitHub CSP
@@ -2167,8 +2165,6 @@ MFA Integrations
 MIUI OS for Xiaomi Phone
 Mac OS Executable
 Mac OS Executable: Download here https://www.larksuite.com/download
-Mac Personal Backup Clients
-Mac Restore Downloaders
 Magic Eden Wallet (Chrome Extension)
 Magic Firewall
 Magic Transit
@@ -2630,8 +2626,6 @@ Wickr Pro/Wickr Me (all related technical components) (up to)
 Windows Executable
 Windows OS Executable
 Windows OS Executable: Download here https://www.larksuite.com/download
-Windows Personal Backup Clients
-Windows Restore Downloaders
 Wireless Microcontrollers (MCUs)
 WooCommerce
 WordPress Core
@@ -4518,7 +4512,6 @@ https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
 https://apps.apple.com/us/app/anytask-com/id6741158899
 https://apps.apple.com/us/app/asana-mobile/id489969512
 https://apps.apple.com/us/app/auth0-guardian/id1093447833
-https://apps.apple.com/us/app/backblaze/id628638330
 https://apps.apple.com/us/app/bforbank-banque-en-ligne/id1607839793
 https://apps.apple.com/us/app/bitgo-verify/id1608937235
 https://apps.apple.com/us/app/bitso-alpha-crypto-trade-pro/id1539469172
@@ -4628,7 +4621,6 @@ https://b2bapi.usaa.com
 https://b2blsapi-a.usaa.com
 https://b2blsapi.usaa.com
 https://baby.zola.com/
-https://backblaze.com
 https://backend.ibotta.com/
 https://base.org
 https://bb1.simplisafe.com
@@ -5998,7 +5990,6 @@ https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&hl
 https://play.google.com/store/apps/details?id=com.atlassian.confluence.server
 https://play.google.com/store/apps/details?id=com.atlassian.jira.server&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.auth0.guardian&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.backblaze.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.belongi.moe
 https://play.google.com/store/apps/details?id=com.bforbank.android
 https://play.google.com/store/apps/details?id=com.bitgo.verify&hl=en_US
@@ -6277,6 +6268,7 @@ https://src.mastercard.com/profile/enroll
 https://stadtwien-my.sharepoint.com/
 https://staff.monash
 https://staging-login.vistarmedia.com
+https://staging-prime.navan.com
 https://staging-trafficking.vistarmedia.com
 https://staging.gearset.com/
 https://staging.luno.com/
