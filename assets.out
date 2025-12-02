@@ -941,6 +941,7 @@
 *.swiftype.com
 *.swisspass.ch
 *.sys.comcast.net
+*.tdl.sh
 *.teams.cloudflare.com
 *.techbook.de
 *.telenor.se
@@ -957,6 +958,7 @@
 *.threatdown.com
 *.ticketing.cm.com
 *.ticketnew.com
+*.tidalhifi.com
 *.tide.co
 *.tiktok.com
 *.tiktokcdn.com
@@ -1086,6 +1088,7 @@
 *.wien.at
 *.wien.gv.at
 *.wienkav.at
+*.wimpmusic.com
 *.wise.com
 *.wissen-sie-mehr.de
 *.withairbnb.com
@@ -1139,6 +1142,7 @@
 *signalservice.comcast.net
 *stag*.uzleuven.be
 *test*.bykea.net
+*tidalhi.fi
 *uat.marriott.com
 *ubereats.com
 *vc.logitech.com
@@ -2517,6 +2521,9 @@ ThousandEyes Endpoint Agent
 ThousandEyes Enterprise Agent
 ThreatDown Endpoint Detection & Response (EDR)
 ThreatDown Endpoint Protection
+Tidal Client for Android
+Tidal Client for iOS
+Tidal Official Clients (e.g. Sonos integration, Tesla integration, etc.)
 Tier 1
 Tier 1 Assets
 Tier 1 Studios
@@ -2935,6 +2942,7 @@ api.swiftfinancial.com
 api.syfe.com
 api.taxjar.com
 api.theperfumeshop.com
+api.tidal.com
 api.tideplatform.in
 api.trello.com
 api.truelayer[-sandbox].com
@@ -5889,6 +5897,7 @@ https://oda.com
 https://odesli.co
 https://odesli.com
 https://oes.optusnet.com.au/
+https://offer.tidal.com/download
 https://ogws.optusnet.com.au/
 https://onboard.neogov.com
 https://one.newrelic.com
@@ -6326,6 +6335,7 @@ https://thatconceptstore.com
 https://thinkglobalhealth.org
 https://thueringer-foerderportal.eu
 https://ticket.multiplayer.classdojo.com
+https://tidal.com/
 https://tms.onecloud.harman.com
 https://tools-api.cryptocompare.com/
 https://toom.de
