@@ -1033,6 +1033,7 @@
 *.vayama.com
 *.venmo.com
 *.vennhypotheken.nl
+*.veriff.com
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
@@ -1224,6 +1225,7 @@
 146.109.68.0/24
 146.109.8.0/21
 146.109.8.0/22
+1467907532
 1474700 (Steam app id)
 1475021574
 1476615877
@@ -1749,6 +1751,7 @@ Atlas Payments/Billing
 Audition
 BBPress Core
 Backend endpoint: bug-bounty-be.glean.com
+Backend/Non-Game
 Backstage source code
 Basecamp.app
 Beats
@@ -1926,6 +1929,7 @@ Elastic Maps Server
 Elastic Package Registry
 Elastic Synthetics Monitoring
 Elasticsearch
+Elvenar
 Engadget
 Enjin - Ethereum ERC-1155 Contract
 Enjin Blockchain
@@ -1976,6 +1980,7 @@ Firmware: Mali Command Stream Frontend (CSF) Firmware
 Fleet Server
 Flex - Xfinity hardware and services
 Forge Platform
+Forge of Empires
 FortniteClient-Android-Shipping-arm64-es2.apk
 FortniteClient-Win64-Shipping.exe
 FortniteLauncher-Win64-Shipping.exe
@@ -2043,6 +2048,7 @@ Grammarly Browser Extensions
 Grammarly Desktop for Windows
 Grammarly Desktop for macOS
 GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)
+Grepolis
 Gutenberg
 H5G
 HEY.app
@@ -2533,6 +2539,7 @@ Trello Desktop Client
 Trello Mobile App for Android
 Trello Mobile App for iOS
 Trello Third Party Powerups
+Tribal Wars
 TrueLayer for Magento (Magento plugin)
 TrueLayer for WooCommerce (WordPress plugin)
 TrustedVPN 100,000 Bonus Award (See Program Policy for Info)
@@ -2750,6 +2757,7 @@ airFiber
 airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 akismet.com
+alchemy.veriff.com
 alert.logitech.com
 alexa.amazon.com
 alexaanswers.amazon.com
@@ -2849,6 +2857,7 @@ api.ezvizlife.com
 api.faraday.ai
 api.fi.dyson.com
 api.figma.com
+api.flamingo-eu.veriff.com
 api.foliofn.com
 api.fortress.com.hk
 api.geneva-staging.com
@@ -2940,7 +2949,9 @@ api.truelayer[-sandbox].com
 api.tumblr.com
 api.unleashed.be
 api.upwork.com/graphql
+api.us.veriff.me
 api.vault.chiatest.net
+api.veriff.me
 api.vhx.tv
 api.vimeo.com
 api.watsons.co.id
@@ -3643,6 +3654,7 @@ com.urbanclap.provider
 com.urbanclap.urbanclap
 com.valvesoftware.Steam
 com.venmo
+com.veriff.demo
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
 com.visma.blue
@@ -3856,6 +3868,7 @@ developer.worldcoin.org
 developers.cloudways.com
 developers.reddit.com
 developers.tiktok.com
+developers.veriff.me
 device.marriott.com
 dh-gw-cf.*.aws.indriverapp.com
 diabrowser.com
@@ -3982,7 +3995,6 @@ extras.landmarkcinemas.com
 fab.com
 falcon-sandbox.com
 fareharborsites.com
-fashion4less.me
 faucet-api.polygon.technology/
 faucet.polygon.technology
 fch-cf.*.aws.indriverapp.com
@@ -4310,7 +4322,6 @@ https://api-js.datadome.co
 https://api-payments-secure-prod.skippayments.com
 https://api-portal.originzero.com.au
 https://api-prod.retailsso.com
-https://api-prod.thatconceptstore.com/
 https://api-skipthedishes.skipthedishes.com
 https://api-{app-id}.calls.sendbird.com
 https://api-{app-id}.notifications.sendbird.com
@@ -4450,7 +4461,6 @@ https://apps.apple.com/app/chia-signer/id6504493785
 https://apps.apple.com/app/id1216446440
 https://apps.apple.com/app/id1359583808
 https://apps.apple.com/app/id1450306065
-https://apps.apple.com/app/id1503045795
 https://apps.apple.com/app/id1635031432
 https://apps.apple.com/app/infomaniak-kdrive/id1482778676
 https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693
@@ -4819,6 +4829,7 @@ https://directlink.eu-west-2.outscale.com
 https://doc.komoju.com/docs/fields-overview
 https://docker-staging.adstruc.com
 https://docs.bugcrowd.com/
+https://docs.eazybi.com/
 https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1208823298#gid=1208823298
 https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1281087877#gid=1281087877
 https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1767553194#gid=1767553194
@@ -5391,7 +5402,6 @@ https://kyc.ripio.com/
 https://l.usaa.com/
 https://lab.epam.com
 https://landrover.here.com
-https://lapi.yellowblocks.me
 https://laptop-updates.brave.com/latest/dev/debian64
 https://laptop-updates.brave.com/latest/dev/ubuntu64
 https://laptop-updates.brave.com/latest/fedora64
@@ -5468,6 +5478,9 @@ https://marketplace.atlassian.com/apps/1210991/atlassian-plugin-sdk-rpm?hosting=
 https://marketplace.atlassian.com/apps/1210992/atlassian-plugin-sdk-deb?hosting=cloud
 https://marketplace.atlassian.com/apps/1210992/atlassian-plugin-sdk-deb?hosting=server
 https://marketplace.atlassian.com/apps/1210993/atlassian-plugin-sdk-tgz?hosting=server
+https://marketplace.atlassian.com/apps/1211051/eazybi-reports-and-charts-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1211051/eazybi-reports-and-charts-for-jira?hosting=datacenter
+https://marketplace.atlassian.com/apps/1211051/eazybi-reports-and-charts-for-jira?hosting=server
 https://marketplace.atlassian.com/apps/1211087/ssl-for-jira?hosting=server
 https://marketplace.atlassian.com/apps/1211094/archive-plugin-for-bitbucket-server?hosting=server
 https://marketplace.atlassian.com/apps/1211203/bitbucket-server-protect-unmerged-hook?hosting=datacenter
@@ -5616,6 +5629,9 @@ https://marketplace.atlassian.com/apps/1219476/comment-custom-fields-for-jira?ho
 https://marketplace.atlassian.com/apps/1219498/confluence-cloud-for-slack?hosting=cloud
 https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?hosting=datacenter
 https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?hosting=server
+https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence?hosting=datacenter
+https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence?hosting=server
 https://marketplace.atlassian.com/apps/1219514/merge-agent-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1219516/microsoft-teams-for-confluence-cloud?hosting=cloud
 https://marketplace.atlassian.com/apps/1219518/confluence-cloud-for-slack-official?hosting=cloud
@@ -6029,7 +6045,6 @@ https://play.google.com/store/apps/details?id=com.lime.supply&hl=en_US
 https://play.google.com/store/apps/details?id=com.limebike
 https://play.google.com/store/apps/details?id=com.loom.android&hl=en_US&pli=1
 https://play.google.com/store/apps/details?id=com.maf.share&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.maf.thatandroid
 https://play.google.com/store/apps/details?id=com.moneyboxapp
 https://play.google.com/store/apps/details?id=com.moonpay
 https://play.google.com/store/apps/details?id=com.newrelic.rpm
@@ -6321,7 +6336,6 @@ https://testnet-blockexplorer.electroneum.com
 https://tfb.t-mobile.com
 https://th.employer.staging.seek.com
 https://th.staging.jobsdb.com
-https://thatconceptstore.com
 https://thinkglobalhealth.org
 https://thueringer-foerderportal.eu
 https://ticket.multiplayer.classdojo.com
@@ -6450,7 +6464,6 @@ https://www.20min.ch
 https://www.32red.com/
 https://www.adsrvr.org
 https://www.akhwien.at
-https://www.allsaints.me/
 https://www.amazon.com/luna/*
 https://www.amazonpay.in/*
 https://www.anytask.com/
@@ -6492,7 +6505,6 @@ https://www.canva.com/en_au/help/chatgpt-templates/
 https://www.canva.com/integrations/slack/
 https://www.carrefouruae.com/
 https://www.carsdirect.com
-https://www.cb2.ae/en
 https://www.cfr.org/
 https://www.chime.com
 https://www.chipotle.co.uk
@@ -6503,7 +6515,6 @@ https://www.coindesk.com/
 https://www.coinspot.com.au/v2/api
 https://www.coral.co.uk
 https://www.coral.co.uk/en/games
-https://www.crateandbarrel.me
 https://www.creditkarma.com/reviews/
 https://www.creditkarma.com/savings
 https://www.cultbeauty.co.uk/
@@ -6598,7 +6609,6 @@ https://www.lululemon.com.hk/
 https://www.lululemon.de/
 https://www.lululemon.es/ 
 https://www.lululemon.fr/
-https://www.lululemon.me
 https://www.magicplanetmena.com/
 https://www.malloftheemirates.com
 https://www.mankind.co.uk/
@@ -6692,7 +6702,6 @@ https://www.restaurant-information.com
 https://www.sdx.com/
 https://www.sharerewards.com/
 https://www.shffls.com
-https://www.shiseido.me/
 https://www.skidxb.com/
 https://www.skroutz.gr
 https://www.sncf-connect.com
@@ -6976,7 +6985,6 @@ launch.playcanvas.com
 launchpad.37signals.com
 lawmanager.marriott.com
 learningmanagerstage4.adobe.com
-lego.me
 lemonaidhealth.com
 leonard.vinci.com
 liberty-dev.wnba.com
@@ -7039,6 +7047,7 @@ logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
 lookatme.com.ph
 lookup.nextcloud.com
+louvre.veriff.me
 lrc20.lightspark.com
 luxfilmfestfilms.megatix.be
 luxfilmfestproducts.megatix.be
@@ -7056,6 +7065,7 @@ m.reddit.com
 m.trendyol.com
 mUSD Stablecoin
 magento.com
+magic.veriff.me
 magiceden.io
 magisto.com,www.magisto.com
 mail.hostinger.com/v2
@@ -7610,7 +7620,6 @@ prow.k8s.io
 proxy-production.lime.bike
 ps5.np.playstation.net
 psp.marriott.com
-psychobunny.me
 public.hyatt.com
 publicsafety.ring.com
 push-d-gw.cloud.etoro.com
@@ -7905,6 +7914,8 @@ staking-api.polygon.technology
 staking.polygon.technology
 start.khealth.com
 static.apps.nextcloud.com
+station.veriff.com
+stationapi.veriff.com
 stats-trafficcop-prod.nba.com
 stats.gleague.nba.com
 stats.nba.com
@@ -8579,6 +8590,7 @@ www.urbanclap.com
 www.urbancompany.com
 www.uzleuven.be
 www.valvesoftware.com
+www.veriff.com
 www.vfsvisaonline.com
 www.vfsvisaservicesrussia.com
 www.vimeo.com
