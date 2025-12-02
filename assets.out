@@ -1033,7 +1033,6 @@
 *.vayama.com
 *.venmo.com
 *.vennhypotheken.nl
-*.veriff.com
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
@@ -1225,7 +1224,6 @@
 146.109.68.0/24
 146.109.8.0/21
 146.109.8.0/22
-1467907532
 1474700 (Steam app id)
 1475021574
 1476615877
@@ -2752,7 +2750,6 @@ airFiber
 airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 akismet.com
-alchemy.veriff.com
 alert.logitech.com
 alexa.amazon.com
 alexaanswers.amazon.com
@@ -2852,7 +2849,6 @@ api.ezvizlife.com
 api.faraday.ai
 api.fi.dyson.com
 api.figma.com
-api.flamingo-eu.veriff.com
 api.foliofn.com
 api.fortress.com.hk
 api.geneva-staging.com
@@ -2944,9 +2940,7 @@ api.truelayer[-sandbox].com
 api.tumblr.com
 api.unleashed.be
 api.upwork.com/graphql
-api.us.veriff.me
 api.vault.chiatest.net
-api.veriff.me
 api.vhx.tv
 api.vimeo.com
 api.watsons.co.id
@@ -3649,7 +3643,6 @@ com.urbanclap.provider
 com.urbanclap.urbanclap
 com.valvesoftware.Steam
 com.venmo
-com.veriff.demo
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
 com.visma.blue
@@ -3863,7 +3856,6 @@ developer.worldcoin.org
 developers.cloudways.com
 developers.reddit.com
 developers.tiktok.com
-developers.veriff.me
 device.marriott.com
 dh-gw-cf.*.aws.indriverapp.com
 diabrowser.com
@@ -4827,7 +4819,6 @@ https://directlink.eu-west-2.outscale.com
 https://doc.komoju.com/docs/fields-overview
 https://docker-staging.adstruc.com
 https://docs.bugcrowd.com/
-https://docs.eazybi.com/
 https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1208823298#gid=1208823298
 https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1281087877#gid=1281087877
 https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1767553194#gid=1767553194
@@ -5477,9 +5468,6 @@ https://marketplace.atlassian.com/apps/1210991/atlassian-plugin-sdk-rpm?hosting=
 https://marketplace.atlassian.com/apps/1210992/atlassian-plugin-sdk-deb?hosting=cloud
 https://marketplace.atlassian.com/apps/1210992/atlassian-plugin-sdk-deb?hosting=server
 https://marketplace.atlassian.com/apps/1210993/atlassian-plugin-sdk-tgz?hosting=server
-https://marketplace.atlassian.com/apps/1211051/eazybi-reports-and-charts-for-jira?hosting=cloud
-https://marketplace.atlassian.com/apps/1211051/eazybi-reports-and-charts-for-jira?hosting=datacenter
-https://marketplace.atlassian.com/apps/1211051/eazybi-reports-and-charts-for-jira?hosting=server
 https://marketplace.atlassian.com/apps/1211087/ssl-for-jira?hosting=server
 https://marketplace.atlassian.com/apps/1211094/archive-plugin-for-bitbucket-server?hosting=server
 https://marketplace.atlassian.com/apps/1211203/bitbucket-server-protect-unmerged-hook?hosting=datacenter
@@ -5628,9 +5616,6 @@ https://marketplace.atlassian.com/apps/1219476/comment-custom-fields-for-jira?ho
 https://marketplace.atlassian.com/apps/1219498/confluence-cloud-for-slack?hosting=cloud
 https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?hosting=datacenter
 https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?hosting=server
-https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence?hosting=cloud
-https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence?hosting=datacenter
-https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence?hosting=server
 https://marketplace.atlassian.com/apps/1219514/merge-agent-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1219516/microsoft-teams-for-confluence-cloud?hosting=cloud
 https://marketplace.atlassian.com/apps/1219518/confluence-cloud-for-slack-official?hosting=cloud
@@ -7054,7 +7039,6 @@ logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
 lookatme.com.ph
 lookup.nextcloud.com
-louvre.veriff.me
 lrc20.lightspark.com
 luxfilmfestfilms.megatix.be
 luxfilmfestproducts.megatix.be
@@ -7072,7 +7056,6 @@ m.reddit.com
 m.trendyol.com
 mUSD Stablecoin
 magento.com
-magic.veriff.me
 magiceden.io
 magisto.com,www.magisto.com
 mail.hostinger.com/v2
@@ -7922,8 +7905,6 @@ staking-api.polygon.technology
 staking.polygon.technology
 start.khealth.com
 static.apps.nextcloud.com
-station.veriff.com
-stationapi.veriff.com
 stats-trafficcop-prod.nba.com
 stats.gleague.nba.com
 stats.nba.com
@@ -8598,7 +8579,6 @@ www.urbanclap.com
 www.urbancompany.com
 www.uzleuven.be
 www.valvesoftware.com
-www.veriff.com
 www.vfsvisaonline.com
 www.vfsvisaservicesrussia.com
 www.vimeo.com
