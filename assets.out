@@ -639,6 +639,7 @@
 *.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
+*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -675,8 +676,10 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
+*.ninjakiwi.me
 *.nitropack.io
 *.niumba.com
+*.nkstatic.com
 *.nmfn.com
 *.nml.com
 *.nnip.com
@@ -766,6 +769,7 @@
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -890,6 +894,7 @@
 *.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
+*.souparea.com
 *.soyoustart.com
 *.spiketrap.io
 *.spinaway.com
@@ -1151,6 +1156,7 @@
 1023499075
 103.83.120.0/22
 1032480595
+1052238659
 1057338687
 107.167.96.0/19
 1076840480
@@ -1836,6 +1842,7 @@ CoinMarketCap iOS app
 Coinbase WaaS (Wallet as a Service)
 ColdFusion
 ColorOS
+CometBFT
 Community Management & Communications
 Compass
 Content Authorization Targets
@@ -1849,6 +1856,8 @@ Copilot for Business
 Core Assets
 Core Product
 Corporate Assets
+CosmWasm
+Cosmos SDK
 CounterAct 8.4
 CrowdStrike public infrastructure
 Crowdsignal
@@ -2063,11 +2072,14 @@ Harmony Remotes
 Helium Hotspot
 HelloFax.com
 HelloSign.com
+Hermes Relayer
+Horcrux
 HubSpot Android Mobile App
 HubSpot Sales Office 365 add-in
 HubSpot iOS Mobile App
 Hyperdrive
 HyprUnlock.exe
+IBC Go Relayer
 ICIParisXL.App.Android
 ICIParisXL.App.IOS
 IT Infrastructure
@@ -2309,6 +2321,7 @@ PIA VPN servers
 PNS.HongKong.Android
 PNS.HongKong.iOS
 PTaaS Reference
+Packet Forward Middleware
 Passkey Wallet
 Password Sync for macOS
 PayPal SDK
@@ -2420,6 +2433,7 @@ Software
 Software Supply Chain
 Software: Mali GPU Kernel Driver
 Solarbank 2 E1600 Pro
+Solidity IBC Eureka
 Sonantic
 Sophos Firewall (XG/XGS, SFOS) - Pre-auth RCE
 Sophos IT Infrastructure (all other Sophos domains)
@@ -2739,6 +2753,7 @@ airtable.js SDK (https://www.npmjs.com/package/airtable)
 akismet.com
 alchemy.veriff.com
 alert.logitech.com
+alerts.ninjakiwi.com
 alexa.amazon.com
 alexaanswers.amazon.com
 alfred.syfe.com
@@ -2755,6 +2770,7 @@ amd.digitalocean.com
 amp.reddit.com
 analytics-*.8x8.com
 analytics.krisp.ai
+analytics.ninjakiwi.com
 analytics.pinelabs.com
 anext.com.sg
 antbank.hk
@@ -2879,6 +2895,7 @@ api.monespacesante.fr
 api.moonpay.com
 api.mtls.truelayer[-sandbox].com
 api.netlify.com
+api.ninjakiwi.com
 api.ort-one-pingone.com
 api.ovh.com
 api.pab.porsche.com
@@ -3115,6 +3132,7 @@ bankaccountdata.gocardless.com
 basecamp.rivian.com
 basecamp3.exe
 basicattentiontoken.org
+battles.tv
 bb.visa.com
 bcny.com
 bd.visa.com
@@ -3173,6 +3191,7 @@ booking.cheapcaribbean.com
 booking.com
 booking.mjrtheatres.com
 bookingholdings-coe.com
+boomer2.ninjakiwi.com
 boost.vinci.com
 booth.pm
 bpa2.marriott.com
@@ -3305,6 +3324,7 @@ co-in-gw-cf.*.aws.indriverapp.com
 co.mona.android
 co.tide
 co.tide.tideplatform.in
+co.uk.getmondo
 coaching.supernovas.indrive.com
 coban.pixiv.net
 coda.grammarly.com
@@ -3758,6 +3778,7 @@ cs.money
 csp-pci.prod.codebig2.net
 css-tricks.com
 ct.deriv.com
+ct.ninjakiwi.com
 ctf.hacker101.com
 custody.coinbase.com
 customer-sessions.arkoselabs.com
@@ -3787,6 +3808,7 @@ dashboard.privy.io
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
 data.mail.yahoo.com
+data.ninjakiwi.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 datapod-1-100-druid-ingest.testing.forescoutcloud.net
@@ -4084,6 +4106,7 @@ gs://faraday-secret
 gs://fdy-production-sdk-uploads
 gt-cf.*.aws.indriverapp.com
 gt-gw-cf.*.aws.indriverapp.com
+guts.ninjakiwi.com
 gvt-cf.*.aws.indriverapp.com
 gw.api.dh.comcast.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -5026,6 +5049,10 @@ https://github.com/cmdotcom
 https://github.com/coinbase/cb-mpc
 https://github.com/contentauth/c2pa-js
 https://github.com/contentauth/c2pa-rs
+https://github.com/cosmos/gaia
+https://github.com/cosmos/iavl
+https://github.com/cosmos/ics23
+https://github.com/cosmos/ledger-cosmos
 https://github.com/curl/curl
 https://github.com/digitalocean/do-agent
 https://github.com/digitalocean/do-markdownit
@@ -5073,6 +5100,9 @@ https://github.com/hyperledger/fabric-sdk-node
 https://github.com/hyperledger/fabric-sdk-py
 https://github.com/immutable/ts-immutable-sdk/tree/main/packages/passport/
 https://github.com/innocraft/
+https://github.com/iqlusioninc/crates/tree/main/signatory
+https://github.com/iqlusioninc/tmkms
+https://github.com/iqlusioninc/yubihsm.rs
 https://github.com/jenkinsci/credentials-binding-plugin
 https://github.com/jenkinsci/credentials-plugin
 https://github.com/jenkinsci/jelly
@@ -5261,6 +5291,7 @@ https://github.com/ruby
 https://github.com/ruby/ruby
 https://github.com/rubygems/rubygems
 https://github.com/rust-lang/rust
+https://github.com/skip-mev/go-fast-contracts
 https://github.com/slackhq/nebula
 https://github.com/smartcontractkit/chainlink
 https://github.com/smartcontractkit/chainlink-evm/tree/develop/contracts
@@ -6813,6 +6844,7 @@ iRobot Roomba™ 705
 ia.tvg.com
 iam.atg.se
 iat.it.xvservice.net
+ibc-go
 ichnaea.netflix.com
 icl-cf.*.aws.indriverapp.com
 id.heytap.com
@@ -7178,6 +7210,7 @@ moments.marriottbonvoy.com
 moneybird.com
 moneybirdstorage.com
 monitor.mozilla.org
+monzo.com
 moonpay.com
 movie.indrive.com
 movieapi.kinepolis.megatix.be
@@ -7225,6 +7258,8 @@ myconnect.com.au
 myhistory.porsche.com
 mynexuz.be
 mynexuzhealth/id1459856321
+mynk-dash.ninjakiwi.com
+mynk.ninjakiwi.com
 myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
 mystics-dev.wnba.com
@@ -7318,6 +7353,8 @@ nft.io
 nha-cf.*.aws.indriverapp.com
 nha-gw-cf.*.aws.indriverapp.com
 niantic.kidswebservices.com
+ninja.kiwi
+ninjakiwi.com
 nl.gamma.app.android
 nl.gamma.verf
 nl.karwei.app.android
@@ -7627,6 +7664,7 @@ qwantjunior.com
 r.etoro.com
 ra-cf.*.aws.indriverapp.com
 ra-gw-cf.*.aws.indriverapp.com
+rancher.ninjakiwi.me
 random.uzleuven.be/random/
 rankings.etoro.com
 raptor*.bykea.net
@@ -8375,6 +8413,7 @@ www.gamma.nl/*
 www.geneva-staging.chat
 www.geneva-staging.com
 www.getaroom.com
+www.github.com/cosmos/evm
 www.giving.marriott.com
 www.gocardless.com
 www.goodrx.com
@@ -8466,6 +8505,7 @@ www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
+www.monzo.com
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
