@@ -1,4 +1,3 @@
-	 https://github.com/cfengine/core
 	 speedtest-eastburwood.optusnet.com.au
  *.rivian.com
  *.sip.*.twilio.com
@@ -1788,7 +1787,6 @@ C100447517
 C103149579
 C2PA Tool
 CDNJS
-CFEngine Enterprise
 CHP Cloud Portal
 Canva (Android)
 Canva (Chrome Extension)
@@ -5207,8 +5205,6 @@ https://github.com/mattermost/mattermost-plugin-mscalendar
 https://github.com/mattermost/mattermost-plugin-msteams-meetings
 https://github.com/mattermost/mattermost-plugin-playbooks
 https://github.com/mattermost/mattermost-plugin-zoom
-https://github.com/mendersoftware/mender
-https://github.com/mendersoftware/mender-server
 https://github.com/moonpay
 https://github.com/nextcloud/activity
 https://github.com/nextcloud/android
@@ -7925,7 +7921,6 @@ stage.landmarkcinemas.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 staging-app.bany.dev
 staging.airtable.com
-staging.hosted.mender.io
 staging.kidswebservices.com
 staging.magisto.com
 staking-api.polygon.technology
