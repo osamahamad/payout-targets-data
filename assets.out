@@ -543,11 +543,6 @@
 *.lemonsqueezy.com
 *.libelle.nl
 *.lightroom.adobe.com
-*.line-apps.com
-*.line.biz
-*.line.me
-*.line.naver.jp
-*.linecorp.com
 *.link.co
 *.linktree-extensions.com
 *.livestream.com
@@ -1473,7 +1468,6 @@
 427916203
 429704844
 434613896
-443904275
 447553564
 448142450
 455004730
@@ -1496,7 +1490,6 @@
 524362642
 529996768
 531549799
-539883307
 54.175.255.192/27
 54.83.32.16
 542767785
@@ -1588,7 +1581,6 @@
 988788863
 993135524
 9nqwjwnqjj5n
-9wzdncrfj2g6
 9wzdncrfj3mb
 <Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
 <Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
@@ -1802,7 +1794,6 @@ Cellular Network Auth Bypass via Web/Mobile App
 Character Animator
 Chime
 China Network
-Chrome Extension
 Circle Cameras
 Cisco Campus Gateways
 Cisco Catalyst 9200L Series Switches (Cloud-Managed)
@@ -2121,12 +2112,6 @@ Kruidvat.Belgium.Android
 Kruidvat.Belgium.iOS
 Kruidvat.Netherlands.Android
 Kruidvat.Netherlands.iOS
-LINE Messenger - Chat
-LINE Messenger - Keep
-LINE Messenger - News
-LINE Messenger - OpenChat
-LINE Messenger - VOOM
-LINE Messenger - VoIP
 LaunchDarkly Open Source SDKs
 Leaked Credentials
 Leaked Credentials and Secrets (Canva Employee/Contractor)
@@ -2625,7 +2610,6 @@ Wickr Pro OS X
 Wickr Pro Windows
 Wickr Pro iOS
 Wickr Pro/Wickr Me (all related technical components) (up to)
-Windows Executable
 Windows OS Executable
 Windows OS Executable: Download here https://www.larksuite.com/download
 Windows Personal Backup Clients
@@ -3511,7 +3495,6 @@ com.kayak.travel
 com.kitkagames.fallbuddies
 com.konylabs.capitalone
 com.larksuite.suite
-com.linecorp.linelite
 com.linkedin.android
 com.livestream.livestream
 com.localqueen
@@ -4218,7 +4201,6 @@ http://probiller.realitykings.com/
 http://probiller.seancody.com/
 http://probiller.transangels.com/
 http://probiller.twistys.com/
-http://recruit.linepluscorp.com
 http://secure-iphone-xml.booking.com/json/
 http://socialdeal.nl/inspirations/bluemonday/
 http://staking.consensys.io
@@ -6918,7 +6900,6 @@ join.marriott.com
 join.whoop.com
 joinmarriottbonvoy.com
 joinrewards.marriott.com
-jp.naver.line.android
 js.crypto.com
 js.datadome.co
 js.klarna.com
