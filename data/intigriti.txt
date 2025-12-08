@@ -1,6 +1,15 @@
 Hardware
 Firmware
 Software
+https://github.com/AikidoSec/firewall-node#Vulnerability
+https://github.com/AikidoSec/firewall-php#Vulnerability
+https://github.com/AikidoSec/firewall-python#Vulnerability
+https://github.com/AikidoSec/firewall-node#Detection Bypass
+https://github.com/AikidoSec/firewall-php#Detection Bypass
+https://github.com/AikidoSec/firewall-python#Detection Bypass
+https://github.com/AikidoSec/firewall-node#False Positive
+https://github.com/AikidoSec/firewall-php#False Positive
+https://github.com/AikidoSec/firewall-python#False Positive
 myaccount.ad.nl
 webwinkel.ad.nl
 www.ad.nl
@@ -160,6 +169,13 @@ service.fing.com
 app.fing.com
 Fing desktop
 www.fing.com*
+Grafana Loki
+Grafana Mimir
+Grafana OSS
+Grafana Pyroscope
+Grafana Tempo
+https://github.com/grafana/*
+Non-Core Grafana Plugins
 955837609
 com.here.app.maps
 https://jaguar.here.com
@@ -557,6 +573,16 @@ mds.voiapp.io
 report.voi.com
 voi.com
 www.voiscooters.com
+https://app.getflywheel.com
+https://getflywheel.com
+https://my.wpengine.com
+https://payments.wpengine.com
+https://wpengine.com
+WP Engine-developed WordPress Plugins and Themes
+https://makeshift.film
+https://studiopress.blog
+https://torquemag.io
+https://velocitize.com
 https://desktop.water-link.be/
 https://pit.water-link.be/
 https://www.water-link-jaarverslag.be

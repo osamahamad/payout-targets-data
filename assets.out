@@ -27,6 +27,8 @@
 *-eu.truecaller.com
 *-noneu.truecaller.com
 *-vpn.8x8.com
+*. advancedcustomfields.com
+*. bettersearchreplace.com
 *. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
@@ -259,6 +261,7 @@
 *.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
+*.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demorgen.be
@@ -537,6 +540,7 @@
 *.link.co
 *.linktree-extensions.com
 *.livestream.com
+*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.logitech-channel-marketing.com
@@ -666,6 +670,7 @@
 *.nflxso.net
 *.nflxvideo.net
 *.ninjakiwi.me
+*.nitropack.io
 *.niumba.com
 *.nkstatic.com
 *.nmfn.com
@@ -911,6 +916,7 @@
 *.streamlabscharity.com
 *.stripchat.com
 *.stripe.com
+*.studiopress.com
 *.stylebook.de
 *.subp-router.hereapi.com
 *.superbet.com
@@ -1085,6 +1091,8 @@
 *.worldcoin.org
 *.worldfirst.com
 *.wotif.com
+*.wpengine.io
+*.wpesvc.net
 *.x.ai
 *.x.com
 *.xcal.tv
@@ -2009,6 +2017,11 @@ Glassdoor Jobs
 Glassdoor iOS
 GlotPress
 Google Cloud Plateform Instances
+Grafana Loki
+Grafana Mimir
+Grafana OSS
+Grafana Pyroscope
+Grafana Tempo
 Grammarly Browser Extensions
 Grammarly Desktop for Windows
 Grammarly Desktop for macOS
@@ -2221,6 +2234,7 @@ Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
 Non Altera Products
 Non-Core Assets
+Non-Core Grafana Plugins
 NordPass - Linux Executable
 NordPass - MacOS Executable
 NordPass - Windows Executable
@@ -2561,6 +2575,7 @@ WARP desktop client
 WGP Slot Games
 WHOOP 4.0 STRAP
 WHOOP 5.0/MG STRAP
+WP Engine-developed WordPress Plugins and Themes
 WP-CLI
 Waiting Room
 Watsons.HongKong.Android
@@ -4383,6 +4398,7 @@ https://app.chime.com
 https://app.datadome.co
 https://app.easy4ipcloud.com
 https://app.ecwid.com/api/v3/	
+https://app.getflywheel.com
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.ibotta.com/sign-in 
 https://app.insomnia.rest/
@@ -4905,6 +4921,7 @@ https://gemvisa.com.au
 https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
+https://getflywheel.com
 https://git.ffmpeg.org/gitweb/ffmpeg.git
 https://git.libssh.org/
 https://github.com/0xPolygon/auto-claim-service
@@ -4912,6 +4929,15 @@ https://github.com/0xPolygon/chain-indexer-framework
 https://github.com/0xPolygon/heimdall-v2
 https://github.com/0xPolygon/lxly.js
 https://github.com/0xPolygon/static
+https://github.com/AikidoSec/firewall-node#Detection Bypass
+https://github.com/AikidoSec/firewall-node#False Positive
+https://github.com/AikidoSec/firewall-node#Vulnerability
+https://github.com/AikidoSec/firewall-php#Detection Bypass
+https://github.com/AikidoSec/firewall-php#False Positive
+https://github.com/AikidoSec/firewall-php#Vulnerability
+https://github.com/AikidoSec/firewall-python#Detection Bypass
+https://github.com/AikidoSec/firewall-python#False Positive
+https://github.com/AikidoSec/firewall-python#Vulnerability
 https://github.com/Aiven
 https://github.com/Aiven-Open
 https://github.com/Chia-Network/chia-blockchain
@@ -5018,6 +5044,7 @@ https://github.com/expressvpn/lightway-core
 https://github.com/freedomofpress/securedrop
 https://github.com/freedomofpress/securedrop-client
 https://github.com/freedomofpress/securedrop-workstation
+https://github.com/grafana/*
 https://github.com/hyperledger/besu
 https://github.com/hyperledger/besu-errorprone-checks
 https://github.com/hyperledger/besu-native
@@ -5406,6 +5433,7 @@ https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|c
 https://m.csqtrk.net
 https://m.thefork.com
 https://maf-holding-prod.apigee.net
+https://makeshift.film
 https://manage.cic-bug-bounty.auth0app.com/
 https://manage.statuspage.io
 https://manager.thefork.com
@@ -5814,6 +5842,7 @@ https://my.salt.ch
 https://my.sogexia.com
 https://my.thesecurityteam.rocks
 https://my.ultramobile.com
+https://my.wpengine.com
 https://my.wyze.com
 https://myaccount-staging.getmoneytree.com
 https://myapi.arlo.com
@@ -5911,6 +5940,7 @@ https://paymayabiller-prod.paymaya.com/
 https://payment-connectors.vendhq.com/
 https://payment.lafourchette.com
 https://payments.myntra.com
+https://payments.wpengine.com
 https://payoutapi.maya.ph/
 https://pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-revision/
 https://pbgq-pes.deontologie-policiere.gouv.qc.ca/reponses-questions/
@@ -6296,6 +6326,7 @@ https://stp.wien.gv.at
 https://student.classdojo.com
 https://student.monash
 https://studentplacements.monash.edu
+https://studiopress.blog
 https://suggestions.opera-api.com
 https://superbet.pl
 https://superbet.ro
@@ -6339,6 +6370,7 @@ https://tidal.com/
 https://tms.onecloud.harman.com
 https://tools-api.cryptocompare.com/
 https://toom.de
+https://torquemag.io
 https://tr.ee
 https://tracker.bugcrowd.com
 https://tracker.naspers.com/
@@ -6419,6 +6451,7 @@ https://v.utv.usaa.com
 https://vault-staging.getmoneytree.com
 https://vault.chiatest.net/
 https://vc.tasheer.com/
+https://velocitize.com
 https://vendors.paddle.com
 https://vendorss.usaa.com
 https://vfs-ai-tiff-image-api-hchkdabjdsdya6ea.switzerlandnorth-01.azurewebsites.net/
@@ -6459,6 +6492,7 @@ https://wiki.xenproject.org/wiki/Xen_Project_Repositories
 https://wise.com
 https://world.planethoster.net
 https://wowjobs.ca
+https://wpengine.com
 https://ws-{app-id}.calls.sendbird.com
 https://ws-{app-id}.sendbird.com
 https://ws.multiplayer.classdojo.com/
