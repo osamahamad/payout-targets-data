@@ -502,6 +502,7 @@
 *.indriver.io
 *.indriverapp.com
 *.infra-prod.nsvcs.net
+*.inpli.se
 *.insider.in
 *.instacart.com
 *.instacart.tools
@@ -982,6 +983,7 @@
 *.teams.cloudflare.com
 *.techbook.de
 *.telenor.se
+*.telenorinpli.se
 *.tesla.cn
 *.tesla.com
 *.tesla.services
@@ -5289,6 +5291,7 @@ https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
 https://getflywheel.com
+https://git.ffmpeg.org/gitweb/ffmpeg.git
 https://git.libssh.org/
 https://github.com/0xPolygon/auto-claim-service
 https://github.com/0xPolygon/chain-indexer-framework 
