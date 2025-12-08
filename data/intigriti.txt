@@ -493,6 +493,10 @@ iOS SDK
 React Native SDK
 Web SDK
 Rust SDK
+TrustedFirmware-A (TF-A)
+TrustedFirmware-M (TF-M)
+OP-TEE
+Mbed TLS & TF-PSA-Crypto
 autodiscover.uzleuven.be
 ecrf.uzleuven.be
 extranet-asa.uzleuven.be
