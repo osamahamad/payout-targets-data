@@ -514,10 +514,6 @@ iOS SDK
 React Native SDK
 Web SDK
 Rust SDK
-OP-TEE
-Mbed TLS & TF-PSA-Crypto
-TrustedFirmware-A (TF-A)
-TrustedFirmware-M (TF-M)
 autodiscover.uzleuven.be
 ecrf.uzleuven.be
 extranet-asa.uzleuven.be
@@ -590,18 +586,6 @@ login.arkane.network
 login.venly.io
 wallet.venly.io
 api-wallet-sandbox.venly.io
-1467907532
-alchemy.veriff.com
-api.flamingo-eu.veriff.com
-api.us.veriff.me
-api.veriff.me
-com.veriff.demo
-louvre.veriff.me
-magic.veriff.me
-station.veriff.com
-stationapi.veriff.com
-developers.veriff.me
-www.veriff.com
 564141518
 accountsettings.connect.identity.stagaws.visma.com
 admin.stage.vismaonline.com
