@@ -237,7 +237,6 @@
 *.dailymotion.com
 *.dancecentral.com
 *.dcfgateway.marriott.com
-*.de.jbl.com
 *.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
@@ -259,7 +258,6 @@
 *.district.in
 *.dm.gg
 *.dmcdn.net
-*.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
@@ -269,10 +267,6 @@
 *.dpgmedia.nl
 *.drogas.lt
 *.drogas.lv
-*.dropbox.com
-*.dropboxer.net
-*.dropboxforum.com
-*.dropboxpartners.com
 *.dropmix.com
 *.dropxl.com
 *.e2ro.com
@@ -404,13 +398,8 @@
 *.hackerone-ext-content.com
 *.hackerone-user-content.com/
 *.happening.dev
-*.harmanaudio.com
-*.harmankardon.com
 *.harmonixmusic.com
 *.harmonyremote.com
-*.hellofax.com
-*.hellosign.com
-*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.bild.de
@@ -450,7 +439,6 @@
 *.immutable.com
 *.imperva.com
 *.imtbl.com
-*.in.jbl.com
 *.in2tel.ie
 *.incapsula.com
 *.indeed.net
@@ -471,11 +459,8 @@
 *.intergamma.cloud
 *.intergamma.nl/*
 *.internal.exoscale.ch
+*.intigriti.me
 *.itcapital.io
-*.jbl.com
-*.jbl.com.br
-*.jbl.nl
-*.jbl.ru
 *.jit.si
 *.jitsi.net
 *.jobapi.net
@@ -773,7 +758,6 @@
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
-*.reclaim.ai
 *.reddit.com
 *.redditblog.com
 *.reddithelp.com
@@ -910,7 +894,6 @@
 *.superbet.rs
 *.superdrug.com
 *.superhuman.com
-*.support.jbl.com
 *.support.originenergy.com.au
 *.swiftype.com
 *.swisspass.ch
@@ -987,8 +970,6 @@
 *.ui.com/distributors/
 *.ui.com/training/partners/
 *.uisp.com
-*.uk.harmanaudio.com
-*.uk.jbl.com
 *.ultimateearsuniversity.com
 *.unreal-agents.com
 *.unreal-agents.jitsi.net
@@ -1030,7 +1011,6 @@
 *.visamiddleeast.com
 *.vliegwinkel.nl
 *.vod2.infomaniak.com
-*.voiscooters.com
 *.volkskrant.nl
 *.volkswagen.de
 *.vpn.hackerone.net
