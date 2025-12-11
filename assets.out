@@ -877,6 +877,7 @@
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
 *.souparea.com
+*.soyoustart.com
 *.spiketrap.io
 *.spinaway.com
 *.sportbild.de
@@ -2864,6 +2865,7 @@ api.mtls.truelayer[-sandbox].com
 api.netlify.com
 api.ninjakiwi.com
 api.ort-one-pingone.com
+api.ovh.com
 api.pab.porsche.com
 api.personio-dev.com
 api.personio.com
@@ -4304,7 +4306,6 @@ https://api.int.ibops.net/customer-loyalty-service
 https://api.intercom.com
 https://api.justeat-int.com
 https://api.jwks.kape.com
-https://api.lafourchette.com
 https://api.mafshoppingmalls.com/
 https://api.moneyboxapp.com/
 https://api.myntra.com
@@ -5259,7 +5260,6 @@ https://global-payments-web.payments.pmt-1.eu-west-1.production.jet-external.com
 https://glow.imoulife.com
 https://go.elementor.com/
 https://gomastercard.com.au
-https://google-reserve-api.thefork.io
 https://gov.bugcrowd.net
 https://gpt.lime.bike
 https://graphql.acorns.com
@@ -5395,7 +5395,6 @@ https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
 https://lsagentrelay.lansweeper.com/
 https://luna.amazon.com/*
-https://m-api.lafourchette.com
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
 https://m.csqtrk.net
 https://m.thefork.com
@@ -6139,7 +6138,6 @@ https://researchmgt.monash.edu/
 https://rest.api.eu-central-1.production.jet-external.com
 https://resume.com
 https://retail-api.otto.de
-https://review-api.lafourchette.com
 https://ring.com/*
 https://rivian.com/api/gql/content/graphql
 https://rivian.com/api/gql/gateway/graphql
@@ -8440,6 +8438,7 @@ www.orbitz.com
 www.ottocasino.se
 www.ottokasino.com
 www.oursustainableport.com
+www.ovh.com
 www.pangleglobal.com
 www.parool.nl
 www.parool.nl/abonnementen
