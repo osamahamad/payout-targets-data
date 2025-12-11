@@ -847,7 +847,6 @@
 *.sidefx.com
 *.signalpath.com/
 *.siilo.com
-*.silabs.com
 *.simpletax.ca
 *.singspacegame.com
 *.sketchfab.com
@@ -1665,7 +1664,6 @@ Any host/web property/mobile app verified to be owned by Indeed
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 Any other Epic games owned asset not listed in the out of scope section
 Any other Malwarebytes asset
-Any other domain reasonably attributable to Silicon Labs
 Any public (Internet-facing) infrastructure owned and operated by Palantir.
 Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
 Any public cloud resource or infrastructure operated and managed by REI.
@@ -1683,7 +1681,6 @@ Applications/Extensions under https://www.privateinternetaccess.com/download
 Apps SDK Sandboxing
 Arc on Mac
 Arc on Windows
-Arduino Nano
 Area 1
 Arlo All-In-One Sensor (Home Security System)
 Arlo Base Station
@@ -1976,7 +1973,6 @@ Games Tier 1
 Games Tier 2
 Games Tier 3
 Gateway
-Gecko SDK
 Gemini
 GenAI Apps under *.amazon.*
 Geneva 
@@ -2385,12 +2381,10 @@ Shopify Developed Apps
 Shopify Mobile Applications
 Shopify Third Party Apps
 Shopify Third Party Store
-SiW917
 SimScale API
 SimScale Forum
 SimScale Platform
 SimScale Website
-Simplicity Studio Development Platform
 Skyscanner Android App
 Skyscanner Android app
 Skyscanner iOS App
@@ -2603,7 +2597,6 @@ Windows OS Executable
 Windows OS Executable: Download here https://www.larksuite.com/download
 Windows Personal Backup Clients
 Windows Restore Downloaders
-Wireless Microcontrollers (MCUs)
 WooCommerce
 WordPress Core
 WordPress Plugins & Themes
@@ -3652,7 +3645,6 @@ community-tc.services.mozilla.com
 community.8x8.com
 community.forescout.com
 community.logitech.com
-community.silabs.com
 community.ui.com
 company.thebrowser.arc
 compare.porsche.com
@@ -3713,7 +3705,6 @@ couriers.indrive.com
 cover-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 cpanel.hostinger.com
-cpms.silabs.com
 cpp.marriott.com
 crash-reports.allizom.org
 crash-stats.allizom.org
@@ -3844,7 +3835,6 @@ docs.launchdarkly.com
 docs.nextcloud.com
 docs.optimuscards.com
 docs.redoxengine.com
-docs.silabs.com
 docs.topperpay.com
 docs.uphold.com
 docuflow.stg.inspectorio.com
@@ -4936,8 +4926,6 @@ https://github.com/RIPE-NCC/rpki-ta-0
 https://github.com/RIPE-NCC/rsyncit
 https://github.com/RIPE-NCC/whois
 https://github.com/Shopify/*
-https://github.com/SiliconLabsSoftware/matter_extension
-https://github.com/SiliconLabsSoftware/matter_sdk
 https://github.com/afterpay/sdk-android
 https://github.com/afterpay/sdk-ios
 https://github.com/apache/airflow
@@ -7351,7 +7339,6 @@ openidconnect.net
 opposhop.cn
 oprc.portofantwerpbruges.com
 ops.lime.bike
-ops.silabs.com
 ops.wolt.com
 orc-xfi.com
 org.hartfordhealthcare.hhc247
