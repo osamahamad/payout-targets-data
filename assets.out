@@ -260,6 +260,7 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
+*.datacamp.com
 *.dcfgateway.marriott.com
 *.deliciousbrains.com
 *.dell.com/*
@@ -1714,7 +1715,6 @@ Atlas Payments/Billing
 Audition
 BBPress Core
 Backend endpoint: bug-bounty-be.glean.com
-Backend/Non-Game
 Backstage source code
 Basecamp.app
 Beats
@@ -1893,7 +1893,6 @@ Elastic Maps Server
 Elastic Package Registry
 Elastic Synthetics Monitoring
 Elasticsearch
-Elvenar
 Engadget
 Enjin - Ethereum ERC-1155 Contract
 Enjin Blockchain
@@ -1944,7 +1943,6 @@ Firmware: Mali Command Stream Frontend (CSF) Firmware
 Fleet Server
 Flex - Xfinity hardware and services
 Forge Platform
-Forge of Empires
 FortniteClient-Android-Shipping-arm64-es2.apk
 FortniteClient-Win64-Shipping.exe
 FortniteLauncher-Win64-Shipping.exe
@@ -2011,7 +2009,6 @@ Grammarly Browser Extensions
 Grammarly Desktop for Windows
 Grammarly Desktop for macOS
 GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)
-Grepolis
 Gutenberg
 H5G
 HEY.app
@@ -2498,7 +2495,6 @@ Trello Desktop Client
 Trello Mobile App for Android
 Trello Mobile App for iOS
 Trello Third Party Powerups
-Tribal Wars
 TrueLayer for Magento (Magento plugin)
 TrueLayer for WooCommerce (WordPress plugin)
 TrustedFirmware-A (TF-A)
@@ -2942,6 +2938,9 @@ app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
 app.dashlane.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -3033,6 +3032,9 @@ as2-accpt.portofantwerpbruges.com
 as2.portofantwerp.com
 as2.portofantwerpbruges.com
 ask.khealth.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com 
+assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.spotify.com
@@ -3193,6 +3195,7 @@ calendar.infomaniak.com
 calendar.notion.so
 callbacks.airbnb.com
 cam.notebleue.pro
+campus.datacamp.com
 cancellation.prod.ps.welt.de
 candle-src.etoro.com
 candle.etoro.com
@@ -3399,6 +3402,7 @@ com.creditkarma.mobile
 com.creditkarma.mobile.international
 com.dashlane
 com.dashlane.dashlanephonefinal
+com.datacamp
 com.dd.doordash
 com.defi.wallet
 com.deribit
@@ -4420,6 +4424,7 @@ https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
@@ -7513,6 +7518,7 @@ portswigger.net
 pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
 pr-gw-cf.*.aws.indriverapp.com
+practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -7557,6 +7563,7 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profiler.firefox.com
+projects.datacamp.com
 projects.nextcloud.com
 promos.tvg.com
 prow.k8s.io
@@ -8249,6 +8256,8 @@ www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
 www.dashlane.com
+www.datacamp.com
+www.datacamp.com/datalab
 www.ddfcontent.com
 www.deezer.com
 www.delen.bank
