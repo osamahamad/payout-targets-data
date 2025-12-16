@@ -384,7 +384,10 @@
 *.gocardless.io,*.gocardless-banking.io
 *.gofin.io
 *.gofood.co.id
+*.gofoodmerchant.co.id
+*.gojek.com
 *.gojekapi.com
+*.golabs.io
 *.goldman.com
 *.goldmanpfm.com
 *.goldmansachs.com
@@ -416,6 +419,7 @@
 *.gsam.com
 *.gspublishing.com
 *.gsselect.com
+*.gtflabs.io
 *.gtld-servers.net (DNS service; DNS related)
 *.guilded.gg
 *.hackerone-ext-content.com

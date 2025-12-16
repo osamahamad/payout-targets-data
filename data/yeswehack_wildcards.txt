@@ -33,6 +33,9 @@ matrix.agent.*.tchap.gouv.fr
 *.gojekapi.com
 *.gofood.co.id
 *.gobiz.co.id
+*.gojek.com
+*.golabs.io
+*.gofoodmerchant.co.id
 *.grwtrading.com
 *.dropxl.com
 *.wholesalexl.com
@@ -42,6 +45,7 @@ matrix.agent.*.tchap.gouv.fr
 *.gofin.io
 *.findaya.com
 *.findaya.co.id
+*.gtflabs.io
 app-*.easy4ipcloud.com
 *.kdrive.infomaniak.com
 *.kchat.infomaniak.com

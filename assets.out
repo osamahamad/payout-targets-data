@@ -367,8 +367,6 @@
 *.fuze.com
 *.fuze.site
 *.gaming.gopayapi.com
-*.gamma.be/*
-*.gamma.nl/*
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
@@ -392,7 +390,10 @@
 *.gocardless.io,*.gocardless-banking.io
 *.gofin.io
 *.gofood.co.id
+*.gofoodmerchant.co.id
+*.gojek.com
 *.gojekapi.com
+*.golabs.io
 *.goldman.com
 *.goldmanpfm.com
 *.goldmansachs.com
@@ -424,6 +425,7 @@
 *.gsam.com
 *.gspublishing.com
 *.gsselect.com
+*.gtflabs.io
 *.gtld-servers.net (DNS service; DNS related)
 *.hackerone-ext-content.com
 *.hackerone-user-content.com/
@@ -488,9 +490,6 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
-*.intergamma-test.nl
-*.intergamma.cloud
-*.intergamma.nl/*
 *.internal.exoscale.ch
 *.intigriti.me
 *.itcapital.io
@@ -504,8 +503,6 @@
 *.jobstreet.com.sg
 *.jora.com
 *.jora.xyz
-*.karwei.nl/*
-*.karweioutletstore.nl
 *.kayak.com
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
@@ -634,6 +631,7 @@
 *.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
+*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -763,6 +761,7 @@
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -798,7 +797,6 @@
 *.redecor.com
 *.rentalcars.com
 *.reposify.com
-*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -1044,7 +1042,6 @@
 *.vod2.infomaniak.com
 *.voiscooters.com
 *.volkskrant.nl
-*.volkswagen.de
 *.vpn.hackerone.net
 *.vrbo.com
 *.vtm.be
@@ -1066,9 +1063,6 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
 *.wf.com
 *.wholesalexl.com
 *.wien.at
@@ -1145,6 +1139,7 @@
 1023499075
 103.83.120.0/22
 1032480595
+1052238659
 1057338687
 107.167.96.0/19
 1076840480
@@ -1242,7 +1237,6 @@
 1532153219
 1541949985
 1552455423
-1558129454
 1570215232
 1579372261
 1579530451
@@ -1559,9 +1553,6 @@
 943905271
 944011620
 947984433
-949829216
-950680989
-950693949
 955837609
 960335206
 961114489414094898
@@ -2562,7 +2553,6 @@ VHX Branded Customer iOS Apps
 VPN
 VS Code Plugin
 Vectorize
-Vercel Platform Protection
 Video Conferencing Products
 Video Doorbell
 Virtual Office Desktop
@@ -3122,7 +3112,6 @@ bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
 be.delen.digital
-be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -3305,6 +3294,7 @@ co-in-gw-cf.*.aws.indriverapp.com
 co.mona.android
 co.tide
 co.tide.tideplatform.in
+co.uk.getmondo
 coaching.supernovas.indrive.com
 coban.pixiv.net
 coda.grammarly.com
@@ -4025,8 +4015,6 @@ g2-gw-cf.*.aws.indriverapp.com
 gamenotes.nba.com
 gaming.logicool.co.jp
 gamma.grab.co
-gammacademy.be
-gammalokaal.nl
 gasstation.polygon.technology/
 gatekeeper.prd.iat.it.xvservice.net
 gateway*.marriott.com
@@ -4233,6 +4221,8 @@ http://www.underarmour.com.sg
 http://www.whynot.com/
 https//monidentifiant.sncf
 https://*-prod.arlo.com
+https://*eua.cms.gov
+https://*eua.cms.gov/efi
 https://*nsa-idr.cms.gov
 https://*qpp.cms.gov/
 https://0-2744452194.s3.nbg01.de.dracoon.io
@@ -4295,6 +4285,7 @@ https://api-app.datadome.co/
 https://api-businessportal.origin.com.au
 https://api-iam.intercom.io
 https://api-js.datadome.co
+https://api-next.flatmates.com.au
 https://api-payments-secure-prod.skippayments.com
 https://api-portal.originzero.com.au
 https://api-prod.retailsso.com
@@ -5040,32 +5031,6 @@ https://github.com/freedomofpress/securedrop
 https://github.com/freedomofpress/securedrop-client
 https://github.com/freedomofpress/securedrop-workstation
 https://github.com/grafana/*
-https://github.com/hyperledger/besu
-https://github.com/hyperledger/besu-errorprone-checks
-https://github.com/hyperledger/besu-native
-https://github.com/hyperledger/besu-verkle-trie
-https://github.com/hyperledger/fabric
-https://github.com/hyperledger/fabric-admin-sdk
-https://github.com/hyperledger/fabric-amcl
-https://github.com/hyperledger/fabric-ca
-https://github.com/hyperledger/fabric-chaincode-go
-https://github.com/hyperledger/fabric-chaincode-java
-https://github.com/hyperledger/fabric-chaincode-node
-https://github.com/hyperledger/fabric-cli
-https://github.com/hyperledger/fabric-config
-https://github.com/hyperledger/fabric-contract-api-go
-https://github.com/hyperledger/fabric-gateway
-https://github.com/hyperledger/fabric-gateway-java
-https://github.com/hyperledger/fabric-lib-go
-https://github.com/hyperledger/fabric-private-chaincode
-https://github.com/hyperledger/fabric-protos
-https://github.com/hyperledger/fabric-protos-go
-https://github.com/hyperledger/fabric-protos-go-apiv2
-https://github.com/hyperledger/fabric-samples
-https://github.com/hyperledger/fabric-sdk-go
-https://github.com/hyperledger/fabric-sdk-java
-https://github.com/hyperledger/fabric-sdk-node
-https://github.com/hyperledger/fabric-sdk-py
 https://github.com/immutable/ts-immutable-sdk/tree/main/packages/passport/
 https://github.com/innocraft/
 https://github.com/iqlusioninc/crates/tree/main/signatory
@@ -5854,6 +5819,7 @@ https://nbs.pinelabs.com/
 https://net.geo.opera.com
 https://newrelic.com/
 https://newrelic.com/blog
+https://next.flatmates.com.au
 https://nice.wfmusaa.com
 https://nominatim.bykea.net
 https://northwesternmutual.com
@@ -6892,7 +6858,6 @@ ir.remitly.com
 ir.ui.com
 irclogs.wordpress.org
 iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
-irmg.nl
 isa-cf.*.aws.indriverapp.com
 ispdesign.ui.com
 it.niedermann.owncloud.notes
@@ -6927,10 +6892,6 @@ k8s.gcr.io
 k8s.io
 kaccount.khealth.com
 kartaview.org
-karwei-promotiepunt.nl
-kassa.gamma.be/*
-kassa.gamma.nl/*
-kassa.karwei.nl/*
 kayak.ai
 kidswebservices.com
 kinepolis-studio.be
@@ -7158,9 +7119,6 @@ mgmtpod-1-dashboard.production.forescoutcloud.net
 mgmtpod-1.production.forescoutcloud.net
 mgs.marriott.com
 microsite.porsche.com
-mijn.gamma.be/*
-mijn.gamma.nl/*
-mijn.karwei.nl/*
 mijnacc.uzleuven.be
 minerva.robinhood.com
 mipartnerprivileges.marriott.com
@@ -7179,6 +7137,7 @@ moments.marriottbonvoy.com
 moneybird.com
 moneybirdstorage.com
 monitor.mozilla.org
+monzo.com
 moonpay.com
 movie.indrive.com
 movieapi.kinepolis.megatix.be
@@ -7323,9 +7282,6 @@ nha-gw-cf.*.aws.indriverapp.com
 niantic.kidswebservices.com
 ninja.kiwi
 ninjakiwi.com
-nl.gamma.app.android
-nl.gamma.verf
-nl.karwei.app.android
 nmtracking.netflix.com
 no-cf.*.aws.indriverapp.com
 no-gw-cf.*.aws.indriverapp.com
@@ -7532,6 +7488,7 @@ portal-api.coinmarketcap.com
 portal.arkoselabs.com
 portal.au.frontegg.com
 portal.enterprise.uphold.com
+portal.gofoodmerchant.co.id
 portal.myconnect.com.au
 portal.myconnect.com.au/new-connection
 portal.nextcloud.com
@@ -8369,8 +8326,6 @@ www.fortress.com.hk
 www.fraedom.com
 www.funjet.com
 www.fuzemeeting.com
-www.gamma.be/*
-www.gamma.nl/*
 www.geneva-staging.chat
 www.geneva-staging.com
 www.getaroom.com
@@ -8401,7 +8356,6 @@ www.infomaniak.com
 www.instacart.com
 www.intigriti.com
 www.jaybirdsport.com
-www.karwei.nl/*
 www.kayak.com
 www.kinepolis.be 
 www.kinepolis.biz
@@ -8464,6 +8418,7 @@ www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
+www.monzo.com
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br

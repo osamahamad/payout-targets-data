@@ -69,17 +69,6 @@ Leaked/compromised employee accounts *.here.com
 *.hln.be
 *.parool.nl
 *.humo.be
-*.gamma.be/*
-*.gamma.nl/*
-*.intergamma.cloud
-*.intergamma.nl/*
-*.karwei.nl/*
-*.restintergamma.nl
-*.intergamma-test.nl
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
-*.karweioutletstore.nl
 *.klubcinema.fr
 *.megatix.be  
 *.kinepolis.be
@@ -100,6 +89,8 @@ Leaked/compromised employee accounts *.here.com
 *.acc.mobilevikings.be
 *.dev-pub.mobilevikings.be
 *.dev.mobilevikings.be
+*.monzo.com
+*.prod-ffs.io
 *.nexuzhealth.*
 *.ninjakiwi.me
 *.nkstatic.com

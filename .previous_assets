@@ -409,7 +409,10 @@
 *.gocardless.io,*.gocardless-banking.io
 *.gofin.io
 *.gofood.co.id
+*.gofoodmerchant.co.id
+*.gojek.com
 *.gojekapi.com
+*.golabs.io
 *.goldman.com
 *.goldmanpfm.com
 *.goldmansachs.com
@@ -441,6 +444,7 @@
 *.gsam.com
 *.gspublishing.com
 *.gsselect.com
+*.gtflabs.io
 *.gtld-servers.net (DNS service; DNS related)
 *.guilded.gg
 *.hackerone-ext-content.com
@@ -4643,6 +4647,7 @@ https://api-ch-gva-2.exoscale.com/v2
 https://api-docs.vaix.ai/swagger.json
 https://api-iam.intercom.io
 https://api-js.datadome.co
+https://api-next.flatmates.com.au
 https://api-payments-secure-prod.skippayments.com
 https://api-portal.originzero.com.au
 https://api-prod.retailsso.com
@@ -6289,6 +6294,7 @@ https://nbs.pinelabs.com/
 https://net.geo.opera.com
 https://newrelic.com/
 https://newrelic.com/blog
+https://next.flatmates.com.au
 https://nice.wfmusaa.com
 https://node.e2ro.com/*
 https://nominatim.bykea.net
@@ -8151,6 +8157,7 @@ portal-api.coinmarketcap.com
 portal.arkoselabs.com
 portal.au.frontegg.com
 portal.enterprise.uphold.com
+portal.gofoodmerchant.co.id
 portal.myconnect.com.au
 portal.myconnect.com.au/new-connection
 portal.nextcloud.com

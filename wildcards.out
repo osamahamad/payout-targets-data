@@ -344,8 +344,6 @@
 *.fuze.com
 *.fuze.site
 *.gaming.gopayapi.com
-*.gamma.be/*
-*.gamma.nl/*
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
@@ -369,7 +367,10 @@
 *.gocardless.io,*.gocardless-banking.io
 *.gofin.io
 *.gofood.co.id
+*.gofoodmerchant.co.id
+*.gojek.com
 *.gojekapi.com
+*.golabs.io
 *.goldman.com
 *.goldmanpfm.com
 *.goldmansachs.com
@@ -401,6 +402,7 @@
 *.gsam.com
 *.gspublishing.com
 *.gsselect.com
+*.gtflabs.io
 *.gtld-servers.net (DNS service; DNS related)
 *.hackerone-ext-content.com
 *.hackerone-user-content.com/
@@ -465,9 +467,6 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
-*.intergamma-test.nl
-*.intergamma.cloud
-*.intergamma.nl/*
 *.internal.exoscale.ch
 *.intigriti.me
 *.itcapital.io
@@ -481,8 +480,6 @@
 *.jobstreet.com.sg
 *.jora.com
 *.jora.xyz
-*.karwei.nl/*
-*.karweioutletstore.nl
 *.kayak.com
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
@@ -611,6 +608,7 @@
 *.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
+*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -740,6 +738,7 @@
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -775,7 +774,6 @@
 *.redecor.com
 *.rentalcars.com
 *.reposify.com
-*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -1021,7 +1019,6 @@
 *.vod2.infomaniak.com
 *.voiscooters.com
 *.volkskrant.nl
-*.volkswagen.de
 *.vpn.hackerone.net
 *.vrbo.com
 *.vtm.be
@@ -1043,9 +1040,6 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
 *.wf.com
 *.wholesalexl.com
 *.wien.at
