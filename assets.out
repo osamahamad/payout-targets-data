@@ -1,8 +1,6 @@
-	 speedtest-eastburwood.optusnet.com.au
  *.rivian.com
  *.sip.*.twilio.com
  *.test.*.lfscnp.com
- 203.13.125.32/27
  Finicity Connect
  Fortress.HongKong.IOS
  Mobile Apps
@@ -700,7 +698,6 @@
 *.ops.netlify.com
 *.opsgenie.com
 *.optimuscards.com
-*.optus.com.au
 *.origindigital-pac.com.au
 *.oslo.io
 *.osp.opera.software
@@ -1252,9 +1249,6 @@
 167.187.0.0/16
 1671793296
 169.254.169.254
-172.24.250.128
-172.26.2.133
-172.26.39.9
 174.44.253.152/29
 18.184.198.198, 18.185.214.59, 18.194.109.179, 3.121.117.72, 3.121.138.10, 3.121.138.128, 3.121.138.134, 3.121.138.170, 3.121.138.33, 3.121.138.43, 3.124.248.208, 35.156.137.39
 185.210.32.0/22
@@ -1276,139 +1270,12 @@
 194.90.25.80/29
 194.90.89.165/32
 195.189.143.0/24
-198.142.152.100
-198.142.152.101
-198.142.152.108
-198.142.152.109
-198.142.152.116
-198.142.152.124
-198.142.152.125
-198.142.152.132
-198.142.152.133
-198.142.152.140
-198.142.152.141
-198.142.152.172
-198.142.152.180
-198.142.152.188
-198.142.152.19
-198.142.152.196
-198.142.152.20
-198.142.152.21
-198.142.152.22
-198.142.152.3
-198.142.152.35
-198.142.152.36
-198.142.152.4
-198.142.152.43
-198.142.152.44
-198.142.152.5
-198.142.152.51
-198.142.152.52
-198.142.152.6
-198.142.152.60
-198.142.152.61
-198.142.152.67
-198.142.152.68
-198.142.152.92
-198.142.152.93
-198.142.205.244
-198.142.205.245
-198.142.205.252
-198.142.205.253
-198.142.205.254
-198.142.231.36
-198.142.231.37
-198.142.231.44
-198.142.231.45
-198.142.235.18
-198.142.65.253
 199.66.248.0/22
 1pw-scim.prd.iat.it.xvservice.net
-202.139.138.208/28
-203.13.127.0/24
-203.13.128.0/27
-203.13.128.128/27
-203.13.128.160/27
-203.13.128.192/26
-203.13.128.64/27
-203.13.129.0/24
-203.13.98.0/26
-203.13.98.144/28
-203.13.98.253/32
-203.13.98.254/32
-203.16.75.0/24
-203.16.76.0/27
-203.16.76.30
-203.16.76.32/27
-203.16.76.64/27
-203.16.76.96/27
-203.16.78.30
-203.17.138.13
-203.17.138.14
-203.17.138.15
-203.17.138.16
-203.17.138.17
-203.17.138.18
-203.17.138.7
-203.17.138.74
-203.17.138.75
-203.17.138.76
-203.17.138.77
-203.17.138.78
-203.17.138.79
-203.17.138.8
-203.17.138.80
-203.17.138.81
-203.17.138.82
-203.17.138.9
 203.79.37.2/29
 203.89.100.0/22
 204.29.196.0/23
 206.166.248.0/23
-211.28.90.133
-211.28.90.134
-211.28.90.148
-211.28.90.164
-211.28.90.196
-211.29.132.101
-211.29.132.223
-211.29.132.27
-211.29.132.28
-211.29.132.82
-211.29.133.115
-211.29.133.128
-211.29.133.161
-211.29.133.163
-211.29.133.185
-211.29.133.244
-211.29.133.32
-211.29.133.33
-211.29.133.94
-211.29.152.114
-211.29.152.120
-211.29.152.202
-211.29.152.243
-211.29.152.97
-211.29.93.5
-211.29.93.6
-211.29.93.8
-211.29.93.9
-211.31.132.104
-211.31.132.107
-211.31.132.13
-211.31.132.14
-211.31.132.148
-211.31.132.149
-211.31.132.15
-211.31.132.150
-211.31.132.151
-211.31.132.152
-211.31.132.89
-211.31.132.90
-211.31.132.91
-211.31.132.96
-211.31.132.97
-211.31.132.98
 212.143.112.81/29
 212.95.227.64/26
 213.139.133.32/28
@@ -1493,10 +1360,6 @@
 599664106
 5k8vrbdyje.infomaniak.site
 603097018
-61.88.222.56
-61.88.222.57
-61.88.222.58
-61.88.222.59
 62.192.20.16/29
 62.216.152.46/29
 621574163
@@ -2205,7 +2068,6 @@ Mozilla VPN Clients
 NARZO 80 Lite 4G
 NARZO 80 Pro 5G
 NARZO 80x 5G
-Naasapi.optus.com.au
 Narzo 80 lite 5G
 Native K8S workers and operator
 NetScaler AAA
@@ -3855,8 +3717,6 @@ distribution-xml.booking.com
 dmm.bpost.be
 dmxleo.com
 dns.watch
-dns0.optus.net.au
-dns1.optus.net.au
 do.co
 doaction.org
 docs.api.enterprise.uphold.com
@@ -4442,7 +4302,6 @@ https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
-https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
 https://apps.apple.com/au/app/realestate-com-au-property/id404667893
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
@@ -4769,7 +4628,6 @@ https://datadome.co
 https://dataportal.originenergy.com.au
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
 https://dcfgatewaytst1.marriott.com/
-https://ddosportal.optus.com.au
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
 https://demo.adstruc.com
@@ -4909,7 +4767,6 @@ https://gaadmin.vfsglobal.com/GlobalAdmin/
 https://gap.citizenportal-test.bugbounty.akinox.dev/
 https://gate.sendbird.com
 https://gateway-api.nutaku.net
-https://gateway.optus.com.au/api/ai-search/search/v1
 https://gatewaydsapdev2.marriott.com/
 https://gatewaydsaptst1.marriott.com/
 https://gatewaydsaptst2.marriott.com/
@@ -5839,9 +5696,7 @@ https://octopus.com/downloads
 https://oda.com
 https://odesli.co
 https://odesli.com
-https://oes.optusnet.com.au/
 https://offer.tidal.com/download
-https://ogws.optusnet.com.au/
 https://onboard.neogov.com
 https://one.newrelic.com
 https://oneview.threatdownstage.com
@@ -5863,7 +5718,6 @@ https://ops-sso.adsrvr.org/
 https://optimizely-edge.com
 https://optout-prod.uidapi.com
 https://optout.prod.euid.eu
-https://optus.my.site.com/MyHub/s/
 https://orbidder.otto.de
 https://orchard.limeinternal.com
 https://ort-admin.pingone.com/*
@@ -5920,7 +5774,6 @@ https://platform.infiniteathlete.ai
 https://platform.openai.com/playground
 https://play.fga.dev/
 https://play.google.com/store/apps/details?hl=en&id=co.bitx.android.wallet
-https://play.google.com/store/apps/details?id=au.com.optus.selfservice&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=au.com.realestate.app
 https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR
@@ -6386,7 +6239,6 @@ https://web.teamviewer.com
 https://web3.sdx.com
 https://webapp.simplisafe.co.uk
 https://webapp.simplisafe.com
-https://webmail.optusnet.com.au/
 https://webmail.usaa.com
 https://webrtc.8x8.com/
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
@@ -6612,12 +6464,9 @@ https://www.oppo.com/th
 https://www.oppo.com/th/store
 https://www.opposhop.cn/
 https://www.opposhop.cn/m/
-https://www.optus.com.au/osp-ecare
 https://www.originenergy.com.au/
 https://www.otto.de
 https://www.otto.de/jobs
-https://www.outsourcing.optus.net.au/eFRAMS3/
-https://www.outsourcing2.optus.net.au/eFRAMS3/
 https://www.paddle.com
 https://www.partycasino.com
 https://www.partypoker.com
@@ -7296,8 +7145,6 @@ novel.pixiv.net
 npm CLI
 npmjs.com
 npmjs.org
-ns1.optusnet.com.au
-ns2.optusnet.com.au
 nummus.robinhood.com
 nz.co.vista.android.movie.mjrtheatres
 oasisprod.marriott.com
@@ -7594,7 +7441,6 @@ rancher.ninjakiwi.me
 random.uzleuven.be/random/
 rankings.etoro.com
 raptor*.bykea.net
-ras1.optus.com.au 
 rates.rewire.com
 rc-gw-cf.*.aws.indriverapp.com
 rea-group.com
@@ -7819,18 +7665,6 @@ sparks-dev.wnba.com
 sparks-qa.wnba.com
 sparks.wnba.com
 spectacles.com
-speedtest-blacktown.optusnet.com.au
-speedtest-brisbane.optusnet.com.au
-speedtest-broome.optusnet.com.au
-speedtest-geelong.optusnet.com.au
-speedtest-goldcoast.optusnet.com.au
-speedtest-hobart.optusnet.com.au
-speedtest-melbourne.optusnet.com.au
-speedtest-newcastle.optusnet.com.au
-speedtest-perth.optusnet.com.au
-speedtest-rockingham.optusnet.com.au
-speedtest-sydney.optusnet.com.au
-speedtest-townsville.optusnet.com.au
 speedtest.xfinity.com
 splunk-phantom-nlb.marriott.com
 sporza.be
@@ -8102,7 +7936,6 @@ volans.tech
 vote.nba.com
 vpn.mobilevikings.be
 vpn.mozilla.org
-vpn01.syd.optusnet.com.au
 vroid.com
 vrt.be/vrtmax
 vrt.be/vrtnws
@@ -8650,9 +8483,13 @@ zen.deezer.com
 zerobounce.net
 ziekenhuisschool.be
 zooplus.net
+█████████
 ███████████
+████████████
+█████████████
 ██████████████
 ███████████████
+████████████████
 █████████████████
 ██████████████████
 ███████████████████
@@ -8664,8 +8501,11 @@ zooplus.net
 ██████████████████████████
 ███████████████████████████
 ████████████████████████████
+█████████████████████████████
 ██████████████████████████████
+███████████████████████████████
 ████████████████████████████████
+█████████████████████████████████
 ██████████████████████████████████
 ███████████████████████████████████
 ████████████████████████████████████
