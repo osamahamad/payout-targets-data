@@ -379,12 +379,6 @@
 *.global-liquidity.gs.com
 *.go-pay.co.id
 *.gobiz.co.id
-*.gocardless-cicd.io
-*.gocardless-lab.io
-*.gocardless-staging.io
-*.gocardless.com
-*.gocardless.dev
-*.gocardless.io,*.gocardless-banking.io
 *.gofin.io
 *.gofood.co.id
 *.gofoodmerchant.co.id
@@ -665,8 +659,10 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
+*.ninjakiwi.me
 *.nitropack.io
 *.niumba.com
+*.nkstatic.com
 *.nmfn.com
 *.nml.com
 *.nnip.com
@@ -878,6 +874,7 @@
 *.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
+*.souparea.com
 *.soyoustart.com
 *.spiketrap.io
 *.spinaway.com
@@ -986,7 +983,6 @@
 *.tyo-masters.co.jp
 *.uberinternal.com
 *.ubnt.com
-*.ucverse.com
 *.uesmartradio.com
 *.ui.com
 *.ui.com/distributors/
@@ -2588,6 +2584,7 @@ airtable.js SDK (https://www.npmjs.com/package/airtable)
 akismet.com
 alchemy.veriff.com
 alert.logitech.com
+alerts.ninjakiwi.com
 alexa.amazon.com
 alexaanswers.amazon.com
 alfred-uat-31.nonprod.syfe.com
@@ -2605,6 +2602,7 @@ amd.digitalocean.com
 amp.reddit.com
 analytics-*.8x8.com
 analytics.krisp.ai
+analytics.ninjakiwi.com
 analytics.pinelabs.com
 anext.com.sg
 antbank.hk
@@ -2622,7 +2620,6 @@ api-gateway.polygon.technology
 api-js.datadome.co
 api-partner.spotify.com
 api-polygon-tokens.polygon.technology/
-api-sandbox.gocardless.com
 api-sandbox.uphold.com
 api-sandbox.uphold.com/graphql
 api-staging.airtable.com
@@ -2729,6 +2726,7 @@ api.monespacesante.fr
 api.moonpay.com
 api.mtls.truelayer[-sandbox].com
 api.netlify.com
+api.ninjakiwi.com
 api.ort-one-pingone.com
 api.ovh.com
 api.pab.porsche.com
@@ -2932,7 +2930,6 @@ auth.services.adobe.com
 auth.skypicker.com
 auth.truelayer[-sandbox].com
 auth0.com	
-auth0.gocardless.com
 auth0.net
 authentication.wolt.com
 authz.workbox.dk
@@ -2956,10 +2953,10 @@ bal.nba.com
 balance-api.polygon.technology/
 ballistic.com
 ballistic.com.br
-bankaccountdata.gocardless.com
 basecamp.rivian.com
 basecamp3.exe
 basicattentiontoken.org
+battles.tv
 bb.visa.com
 bcny.com
 bd.visa.com
@@ -3017,6 +3014,7 @@ booking.cheapcaribbean.com
 booking.com
 booking.mjrtheatres.com
 bookingholdings-coe.com
+boomer2.ninjakiwi.com
 boost.vinci.com
 booth.pm
 bpa2.marriott.com
@@ -3535,7 +3533,6 @@ configurator.porsche.com
 configure.bmw.de
 configure.mini.de
 confluence.hyattdev.com
-connect-sandbox.gocardless.com
 connect-store.porsche.com
 connect.8x8.com
 connect.arkane.network 
@@ -3597,6 +3594,7 @@ cs.money
 csp-pci.prod.codebig2.net
 css-tricks.com
 ct.deriv.com
+ct.ninjakiwi.com
 ctf.hacker101.com
 custody.coinbase.com
 customer-sessions.arkoselabs.com
@@ -3626,6 +3624,7 @@ dashboard.privy.io
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
 data.mail.yahoo.com
+data.ninjakiwi.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 datapod-1-100-druid-ingest.testing.forescoutcloud.net
@@ -3917,6 +3916,7 @@ gs://faraday-secret
 gs://fdy-production-sdk-uploads
 gt-cf.*.aws.indriverapp.com
 gt-gw-cf.*.aws.indriverapp.com
+guts.ninjakiwi.com
 gvt-cf.*.aws.indriverapp.com
 gw.api.dh.comcast.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -5675,7 +5675,6 @@ https://nvio.mx/
 https://nvoice.usaa.com/
 https://nw.ring.com/*
 https://oauth.ring.com/*
-https://ob-sandbox.gocardless.io
 https://octopus.com
 https://octopus.com/downloads
 https://oda.com
@@ -6852,7 +6851,6 @@ mail.notion.so
 mailpoet.com
 maintenance.logitech.com
 manage-dev.nba.com
-manage-sandbox.gocardless.com
 manage-teams-dev.nba.com
 manage-teams-qa.nba.com
 manage-teams-uat.nba.com
@@ -7023,6 +7021,8 @@ myconnect.com.au
 myhistory.porsche.com
 mynexuz.be
 mynexuzhealth/id1459856321
+mynk-dash.ninjakiwi.com
+mynk.ninjakiwi.com
 myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
 mystics-dev.wnba.com
@@ -7116,6 +7116,8 @@ nft.io
 nha-cf.*.aws.indriverapp.com
 nha-gw-cf.*.aws.indriverapp.com
 niantic.kidswebservices.com
+ninja.kiwi
+ninjakiwi.com
 nmtracking.netflix.com
 no-cf.*.aws.indriverapp.com
 no-gw-cf.*.aws.indriverapp.com
@@ -7129,10 +7131,8 @@ npmjs.org
 nummus.robinhood.com
 nz.co.vista.android.movie.mjrtheatres
 oasisprod.marriott.com
-oauth-sandbox.gocardless.com
 oauth.deriv.com
 oauth.developers.stagaws.visma.com
-ob.gocardless.com
 obs-sensors.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 ocijlbex1prd.marriott.com
@@ -7199,7 +7199,6 @@ passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
 pay-api.truelayer[-sandbox].com
-pay-sandbox.gocardless.com
 pay.8x8.com
 pay.ibex.exchange
 pay.tokopediax.com
@@ -7208,7 +7207,6 @@ pay.wallet.tg
 pay.{business_critical_assets} *see business assets for more information
 paybridge.booking.com
 paydirect.truelayer[-sandbox].com
-payer-details-sandbox.gocardless.com
 payment.backend-capital.com
 payment.bingo.com
 payment.casinohuone.com
@@ -7418,6 +7416,7 @@ qwantjunior.com
 r.etoro.com
 ra-cf.*.aws.indriverapp.com
 ra-gw-cf.*.aws.indriverapp.com
+rancher.ninjakiwi.me
 random.uzleuven.be/random/
 rankings.etoro.com
 raptor*.bykea.net
@@ -8146,7 +8145,6 @@ www.geneva-staging.com
 www.getaroom.com
 www.github.com/cosmos/evm
 www.giving.marriott.com
-www.gocardless.com
 www.goodrx.com
 www.gr.dyson.com
 www.greenhouse.io
