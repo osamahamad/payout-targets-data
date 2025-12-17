@@ -280,7 +280,6 @@
 *.district.in
 *.dm.gg
 *.dmcdn.net
-*.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
@@ -290,10 +289,6 @@
 *.dpgmedia.nl
 *.drogas.lt
 *.drogas.lv
-*.dropbox.com
-*.dropboxer.net
-*.dropboxforum.com
-*.dropboxpartners.com
 *.dropmix.com
 *.dropxl.com
 *.e2ro.com
@@ -429,9 +424,6 @@
 *.happening.dev
 *.harmonixmusic.com
 *.harmonyremote.com
-*.hellofax.com
-*.hellosign.com
-*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.bild.de
@@ -784,7 +776,6 @@
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
-*.reclaim.ai
 *.reddit.com
 *.redditblog.com
 *.reddithelp.com
@@ -1141,7 +1132,6 @@
 107.167.96.0/19
 1076840480
 1079537578
-1080074001
 1080248000
 1089294040
 1091010942
@@ -1294,7 +1284,6 @@
 3.basecamp.com
 302584613
 319881193
-327630330
 328407587
 335187483
 336381998
@@ -1371,7 +1360,6 @@
 6444040977
 6444868926
 6449737830
-6450553960
 6452192521
 645949180
 6462308655
@@ -1744,8 +1732,6 @@ Drogas.Latvia.Android
 Drogas.Latvia.iOS
 Drogas.Lietuva.Android
 Drogas.Lietuva.iOS
-Dropbox Desktop Application
-Dropbox.com
 Dynatrace ActiveGate
 Dynatrace MobileAgent
 Dynatrace OneAgent
@@ -1908,8 +1894,6 @@ Hardware found on https://www.ezviz.com/category/smart-home
 Harmony Remote Software
 Harmony Remotes
 Helium Hotspot
-HelloFax.com
-HelloSign.com
 Hermes Relayer
 Horcrux
 HubSpot Android Mobile App
@@ -2011,7 +1995,6 @@ Magic WAN
 Malicious or compromised gem
 Malwarebytes Anti-Exploit
 Malwarebytes Device Control
-Malwarebytes Incident Response
 Malwarebytes Privacy (VPN)
 Malwarebytes Remediation for CrowdStrike
 Malwarebytes Support Tool (MBST)
@@ -2670,7 +2653,6 @@ api.direct.playstation.com
 api.doppler.com
 api.drogas.lt
 api.drogas.lv
-api.dropbox.com
 api.dyson.at
 api.dyson.be
 api.dyson.ch
@@ -2814,7 +2796,6 @@ apis.onecloud.harman.com
 app*.hubspot.com
 app-*.easy4ipcloud.com
 app-insiders.marriott.com
-app.Reclaim.ai
 app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
@@ -3282,8 +3263,6 @@ com.dd.doordash
 com.defi.wallet
 com.deribit
 com.dolap.android
-com.dropbox.android
-com.dropbox.dash
 com.dyson.mobile.android
 com.ebookers
 com.eero.android
@@ -3628,9 +3607,7 @@ cyberghost.app
 cyberghost.com
 cz.skodaauto.myskoda
 daita/files_fulltextsearch_tesseract
-dash.ai
 dash.cloudflare.com
-dash.dropbox.com
 dashboard.algolia.com
 dashboard.doppler.com
 dashboard.mergify.com
@@ -3729,7 +3706,6 @@ docs.optimuscards.com
 docs.redoxengine.com
 docs.topperpay.com
 docs.uphold.com
-docsend.com
 docuflow.stg.inspectorio.com
 donations.livestream.com
 doordash.DoorDashConsumer
@@ -3744,7 +3720,6 @@ dream-qa.wnba.com
 dream.wnba.com
 drive.porsche.com
 drive.wolt.com
-dropbox.com/paper
 dx-demo.deriv.com
 dx.deriv.com
 e-Commerce
@@ -7475,7 +7450,6 @@ rei.com
 relay.firefox.com
 relay.playcanvas.com
 remitly.com
-replay.dropbox.com
 repo.magento.com
 report-html-sight.stg.inspectorio.com
 report.voi.com
@@ -7609,7 +7583,6 @@ shopify-admin.truelayer.com
 shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
-sign.dropbox.com
 sign.zivver.com
 signature-insights.api.cx.metamask.io
 signin.auth.welt.de
