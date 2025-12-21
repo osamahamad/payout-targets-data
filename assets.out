@@ -16,9 +16,6 @@
  mix.monash.edu 
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 (se|fi|uk).bingo.com
-* hln.be/inloggen
-* hln.be/login
-* hln.be/registreren
 * humo.be/registreren
 *-api-*.acronis.com
 *-asia-south1.truecaller.com
@@ -440,7 +437,6 @@
 *.hilton.io
 *.hiltonbusinessonline.com
 *.hiltonlocalbiz.com
-*.hln.be
 *.hmxservices.com
 *.hmxwebservices.com
 *.holidaylettings.com
@@ -3937,7 +3933,6 @@ hilton.com
 hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
-hln.be
 hmxservices.com
 homeloans.wellsfargo.com
 homes-and-villas.marriott.com
@@ -6988,7 +6983,6 @@ myaccount-cn.payoneer.com
 myaccount-hardening.dynatracelabs.com
 myaccount.ad.nl
 myaccount.demorgen.be
-myaccount.hln.be
 myaccount.humo.be
 myaccount.parool.nl
 myaccount.payoneer.com
@@ -8127,7 +8121,6 @@ www.gr.dyson.com
 www.greenhouse.io
 www.habileoh.com
 www.hackerone.com
-www.hln.be
 www.hostinger.com
 www.hotels.com
 www.hotelscombined.com
