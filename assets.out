@@ -966,9 +966,6 @@
 *.trip.com
 *.triplinkintl.com
 *.trouw.nl
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tube8.com
@@ -1621,7 +1618,6 @@ Burp Collaborator
 Burp Suite DAST
 Burp Suite Extension (BApps)
 Burp Suite Pro/Community
-C# SDK
 C100447517
 C103149579
 C2PA Tool
@@ -1936,7 +1932,6 @@ Intellectual Property on Public Domains
 Internal Server via Internet Network
 Internet.xfinity.com
 Interoperability Issue in OpenPGP.js
-Java SDK
 JavaScript Client Adapter
 Jetpack
 Jira
@@ -2152,7 +2147,6 @@ Other Spotify websites
 Other assets
 Other assets owned by Personio
 Other non-production infrastructure
-PHP SDK
 PIA VPN servers
 PNS.HongKong.Android
 PNS.HongKong.iOS
@@ -2180,7 +2174,6 @@ Product Delivery
 Protocol of the Swiss Post Voting System
 Public API
 Public Others Target
-React Native SDK
 Recon Data
 Relational Migrator
 Remaining functions
@@ -2201,7 +2194,6 @@ Roblox Client
 Roblox Engine
 Roblox Studio
 Rockstar Games Launcher
-Rust SDK
 SAP Business Network for Asset Collaboration
 SAP Business Network for Logistics	
 SAP BusinessObjects Business Intelligence platform
@@ -2368,8 +2360,6 @@ Trello Mobile App for Android
 Trello Mobile App for iOS
 Trello Third Party Powerups
 Tribal Wars
-TrueLayer for Magento (Magento plugin)
-TrueLayer for WooCommerce (WordPress plugin)
 TrustedFirmware-A (TF-A)
 TrustedFirmware-M (TF-M)
 TrustedVPN 100,000 Bonus Award (See Program Policy for Info)
@@ -2446,7 +2436,6 @@ Watsons.Thailand.IOS
 Watsons.Turkey.Android
 Watsons.Turkey.iOS
 Web Playback SDK
-Web SDK
 Web of Trust Specification
 Web3 Smart Contracts
 Wickr Me Android
@@ -2723,7 +2712,6 @@ api.mergify.com
 api.midtrans.com
 api.monespacesante.fr
 api.moonpay.com
-api.mtls.truelayer[-sandbox].com
 api.netlify.com
 api.ninjakiwi.com
 api.ort-one-pingone.com
@@ -2772,7 +2760,6 @@ api.theperfumeshop.com
 api.tidal.com
 api.tideplatform.in
 api.trello.com
-api.truelayer[-sandbox].com
 api.tumblr.com
 api.unleashed.be
 api.upwork.com/graphql
@@ -2866,7 +2853,6 @@ app.superdrug.com
 app.swapcard.com
 app.taxjar.com
 app.theperfumeshop.com
-app.truelayer[-sandbox].com
 app.uma.money
 app.watsons.com.tr
 app.whoop.com
@@ -2920,7 +2906,6 @@ auth.digital.delen.lu
 auth.hhc247.org
 auth.monespacesante.fr
 auth.moonpay.com
-auth.mtls.truelayer[-sandbox].com
 auth.nextcloud.com
 auth.ort-one-pingone.com
 auth.pab.porsche.com
@@ -2929,7 +2914,6 @@ auth.privy.io
 auth.remitly.com
 auth.services.adobe.com
 auth.skypicker.com
-auth.truelayer[-sandbox].com
 auth0.com	
 auth0.net
 authentication.wolt.com
@@ -3538,12 +3522,10 @@ connect.arkane.network
 connect.deezer.com
 connect.secure.wellsfargo.com
 connect.venly.io
-console-backend.truelayer[-sandbox].com
 console.circle.com
 console.dashlane.com
 console.ort-one-pingone.com
 console.tink.com
-console.truelayer[-sandbox].com
 contacts.infomaniak.com
 content-api-dev.nba.com
 content-api-nextgen-dev.nba.com
@@ -3802,6 +3784,7 @@ extras.landmarkcinemas.com
 fab.com
 falcon-sandbox.com
 fareharborsites.com
+fashion4less.me
 faucet-api.polygon.technology/
 faucet.polygon.technology
 fch-cf.*.aws.indriverapp.com
@@ -4131,6 +4114,7 @@ https://api-next.flatmates.com.au
 https://api-payments-secure-prod.skippayments.com
 https://api-portal.originzero.com.au
 https://api-prod.retailsso.com
+https://api-prod.thatconceptstore.com/
 https://api-skipthedishes.skipthedishes.com
 https://api-{app-id}.calls.sendbird.com
 https://api-{app-id}.notifications.sendbird.com
@@ -4267,6 +4251,7 @@ https://apps.apple.com/app/chia-signer/id6504493785
 https://apps.apple.com/app/id1216446440
 https://apps.apple.com/app/id1359583808
 https://apps.apple.com/app/id1450306065
+https://apps.apple.com/app/id1503045795
 https://apps.apple.com/app/id1635031432
 https://apps.apple.com/app/infomaniak-kdrive/id1482778676
 https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693
@@ -5172,6 +5157,7 @@ https://kyc.ripio.com/
 https://l.usaa.com/
 https://lab.epam.com
 https://landrover.here.com
+https://lapi.yellowblocks.me
 https://laptop-updates.brave.com/latest/dev/debian64
 https://laptop-updates.brave.com/latest/dev/ubuntu64
 https://laptop-updates.brave.com/latest/fedora64
@@ -5810,6 +5796,7 @@ https://play.google.com/store/apps/details?id=com.lime.supply&hl=en_US
 https://play.google.com/store/apps/details?id=com.limebike
 https://play.google.com/store/apps/details?id=com.loom.android&hl=en_US&pli=1
 https://play.google.com/store/apps/details?id=com.maf.share&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.maf.thatandroid
 https://play.google.com/store/apps/details?id=com.moneyboxapp
 https://play.google.com/store/apps/details?id=com.moonpay
 https://play.google.com/store/apps/details?id=com.newrelic.rpm
@@ -6105,6 +6092,7 @@ https://testnet-blockexplorer.electroneum.com
 https://tfb.t-mobile.com
 https://th.employer.staging.seek.com
 https://th.staging.jobsdb.com
+https://thatconceptstore.com
 https://thinkglobalhealth.org
 https://thueringer-foerderportal.eu
 https://ticket.multiplayer.classdojo.com
@@ -6232,6 +6220,7 @@ https://www.20min.ch
 https://www.32red.com/
 https://www.adsrvr.org
 https://www.akhwien.at
+https://www.allsaints.me/
 https://www.amazon.com/luna/*
 https://www.amazonpay.in/*
 https://www.anytask.com/
@@ -6273,6 +6262,7 @@ https://www.canva.com/en_au/help/chatgpt-templates/
 https://www.canva.com/integrations/slack/
 https://www.carrefouruae.com/
 https://www.carsdirect.com
+https://www.cb2.ae/en
 https://www.cfr.org/
 https://www.chime.com
 https://www.chipotle.co.uk
@@ -6283,6 +6273,7 @@ https://www.coindesk.com/
 https://www.coinspot.com.au/v2/api
 https://www.coral.co.uk
 https://www.coral.co.uk/en/games
+https://www.crateandbarrel.me
 https://www.creditkarma.com/reviews/
 https://www.creditkarma.com/savings
 https://www.cultbeauty.co.uk/
@@ -6372,6 +6363,7 @@ https://www.lululemon.com.hk/
 https://www.lululemon.de/
 https://www.lululemon.es/ 
 https://www.lululemon.fr/
+https://www.lululemon.me
 https://www.magicplanetmena.com/
 https://www.malloftheemirates.com
 https://www.mankind.co.uk/
@@ -6462,6 +6454,7 @@ https://www.restaurant-information.com
 https://www.sdx.com/
 https://www.sharerewards.com/
 https://www.shffls.com
+https://www.shiseido.me/
 https://www.skidxb.com/
 https://www.skroutz.gr
 https://www.sncf-connect.com
@@ -6746,6 +6739,7 @@ launch.playcanvas.com
 launchpad.37signals.com
 lawmanager.marriott.com
 learningmanagerstage4.adobe.com
+lego.me
 leonard.vinci.com
 liberty-dev.wnba.com
 liberty-qa.wnba.com
@@ -6777,7 +6771,6 @@ logilife.logitech.com
 login-4ngbets.us.betfair.com
 login-4njbets.us.betfair.com
 login-accpt.portofantwerpbruges.com
-login-api.truelayer[-sandbox].com
 login-ia.tvg.com
 login-pabets.tvg.com
 login.arkane.network
@@ -6794,7 +6787,6 @@ login.prod.nube.tech
 login.rei.com
 login.starbucks.co.jp
 login.swapcard.com
-login.truelayer[-sandbox].com
 login.tvg.com
 login.venly.io
 login.www.vaxvacationaccess.com
@@ -7123,7 +7115,6 @@ octopus
 odoo14.notebleue.pro
 on-premises software
 onboarding-*.cloud.com
-onboarding-api.truelayer.com
 onboarding.cloud.com
 onboarding.greenhouse.io
 one-world-radio-tomorrowland/id1485778856
@@ -7181,15 +7172,12 @@ partners.shopify.com
 passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
-pay-api.truelayer[-sandbox].com
 pay.8x8.com
 pay.ibex.exchange
 pay.tokopediax.com
-pay.truelayer[-sandbox].com
 pay.wallet.tg
 pay.{business_critical_assets} *see business assets for more information
 paybridge.booking.com
-paydirect.truelayer[-sandbox].com
 payment.backend-capital.com
 payment.bingo.com
 payment.casinohuone.com
@@ -7201,11 +7189,9 @@ payment.ottokasino.com
 payment.pixiv.net
 payment.storspelare.se
 payment.storspiller.com
-payment.truelayer[-sandbox].com
 payment.unibet.(com­|it|se|co.uk|be|nl|dk|ro|ee|ie|com.au|mt)
 payment.vladcazino.ro
 paymentcomponent.booking.com
-payments-experience-api.truelayer[-sandbox].com
 payments.geneva-staging.chat
 payments.geneva-staging.com
 payments.hostinger.com
@@ -7370,6 +7356,7 @@ prow.k8s.io
 proxy-production.lime.bike
 ps5.np.playstation.net
 psp.marriott.com
+psychobunny.me
 public.hyatt.com
 publicsafety.ring.com
 push-d-gw.cloud.etoro.com
@@ -7543,7 +7530,6 @@ servicedesk.portofantwerpbruges.com
 settings.superhuman.com
 sfc-cf.*.aws.indriverapp.com
 sfc-gw-cf.*.aws.indriverapp.com
-sftp.reports.truelayer.com
 sh.reddit.com
 share-accpt.portofantwerp.com
 share-accpt.portofantwerpbruges.com
@@ -7553,7 +7539,6 @@ share.portofantwerpbruges.com
 share.portswigger.net
 shipit.rubygems.org
 shop-id.tokopedia.com
-shop-pay-app-api.truelayer.com
 shop.app
 shop.demorgen.be
 shop.dyson.co.za
@@ -7568,7 +7553,6 @@ shop.trouw.nl
 shop.volkskrant.nl
 shop.whoop.com
 shop.wyndhamvacationownership.trisept.travel
-shopify-admin.truelayer.com
 shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
@@ -7811,7 +7795,6 @@ trendyol.com
 tria.ge
 trm.pinepaymentsolutions.com
 truck-api.eu-east-1.indriverapp.com
-truelayer-signing
 try.discourse.org
 tucarro.com
 tucarro.com.co
@@ -7845,14 +7828,12 @@ us.forescout.cloud
 us.tvg.com
 us1.badoo.com
 usa.visa.com
-user-authentication-api.truelayer[-sandbox].com
 user-profile-staging.8x8.com
 user-profile.8x8.com
 usercontent.apps.nextcloud.com
 usercontent.koho.ca
 userprofile-acc.landmarkcinemas.com
 userprofile-ui.landmarkcinemas.com
-users-api.truelayer.com
 uwa.mobilevikings.be
 v1. kidswebservices.com
 v1staging.kidswebservices.com 
@@ -7935,7 +7916,6 @@ webapps.portofantwerpbruges.com
 webauthn.me	
 webgateway.koho.ca
 webhooks.booking.com
-webhooks.truelayer[-sandbox].com
 webtoolbox.notebleue.pro
 webwinkel.ad.nl
 webwinkel.parool.nl
