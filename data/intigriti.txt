@@ -2,19 +2,15 @@ Hardware
 Firmware
 Software
 app.aikido.dev
-https://github.com/AikidoSec/firewall-node#Vulnerability
-https://github.com/AikidoSec/firewall-php#Vulnerability
-https://github.com/AikidoSec/firewall-python#Vulnerability
-https://github.com/AikidoSec/firewall-node#Detection Bypass
-https://github.com/AikidoSec/firewall-php#Detection Bypass
-https://github.com/AikidoSec/firewall-python#Detection Bypass
-https://github.com/AikidoSec/firewall-node#False Positive
-https://github.com/AikidoSec/firewall-php#False Positive
-https://github.com/AikidoSec/firewall-python#False Positive
 myaccount.ad.nl
 webwinkel.ad.nl
 www.ad.nl
 www.ad.nl/abonnementen
+Firmware
+Hardware
+FPGA Solution Development Tools and Utilities
+Software
+Non Altera Products
 Firmware: Mali Command Stream Frontend (CSF) Firmware
 Software: Mali GPU Kernel Driver
 politico.eu
@@ -195,6 +191,12 @@ Non-Core Grafana Plugins
 com.here.app.maps
 https://jaguar.here.com
 https://landrover.here.com
+* hln.be/inloggen
+* hln.be/login
+* hln.be/registreren
+hln.be
+myaccount.hln.be
+www.hln.be
 myaccount.parool.nl
 shop.parool.nl
 webwinkel.parool.nl
@@ -538,6 +540,18 @@ login.arkane.network
 login.venly.io
 wallet.venly.io
 api-wallet-sandbox.venly.io
+1467907532
+alchemy.veriff.com
+api.flamingo-eu.veriff.com
+api.us.veriff.me
+api.veriff.me
+com.veriff.demo
+louvre.veriff.me
+magic.veriff.me
+station.veriff.com
+stationapi.veriff.com
+developers.veriff.me
+www.veriff.com
 1395921017
 https://api.voiapp.io/
 io.voiapp.voi

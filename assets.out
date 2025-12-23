@@ -16,6 +16,9 @@
  mix.monash.edu 
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 (se|fi|uk).bingo.com
+* hln.be/inloggen
+* hln.be/login
+* hln.be/registreren
 * humo.be/registreren
 *-api-*.acronis.com
 *-asia-south1.truecaller.com
@@ -435,6 +438,7 @@
 *.hilton.io
 *.hiltonbusinessonline.com
 *.hiltonlocalbiz.com
+*.hln.be
 *.hmxservices.com
 *.hmxwebservices.com
 *.holidaylettings.com
@@ -1005,6 +1009,7 @@
 *.vayama.com
 *.venmo.com
 *.vennhypotheken.nl
+*.veriff.com
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
@@ -1195,6 +1200,7 @@
 146.109.68.0/24
 146.109.8.0/21
 146.109.8.0/22
+1467907532
 1474700 (Steam app id)
 1475021574
 1476615877
@@ -1778,6 +1784,7 @@ ExpressVPN VPN servers
 External service data leakage 
 F 21 Pro
 FIles.com REST API
+FPGA Solution Development Tools and Utilities
 Faucets
 Figma Atlassian App
 Figma Desktop App
@@ -2079,6 +2086,7 @@ Nintendo Switch 2 System Processes allowing piracy
 Nintendo Switch 2 applications for which Nintendo is the publisher worldwide
 Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
+Non Altera Products
 Non-Core Assets
 Non-Core Grafana Plugins
 NordPass - Linux Executable
@@ -2570,6 +2578,7 @@ airFiber
 airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 akismet.com
+alchemy.veriff.com
 alert.logitech.com
 alexa.amazon.com
 alexaanswers.amazon.com
@@ -2669,6 +2678,7 @@ api.ezvizlife.com
 api.faraday.ai
 api.fi.dyson.com
 api.figma.com
+api.flamingo-eu.veriff.com
 api.foliofn.com
 api.fortress.com.hk
 api.geneva-staging.com
@@ -2758,7 +2768,9 @@ api.trello.com
 api.tumblr.com
 api.unleashed.be
 api.upwork.com/graphql
+api.us.veriff.me
 api.vault.chiatest.net
+api.veriff.me
 api.vhx.tv
 api.vimeo.com
 api.watsons.co.id
@@ -3451,6 +3463,7 @@ com.urbanclap.provider
 com.urbanclap.urbanclap
 com.valvesoftware.Steam
 com.venmo
+com.veriff.demo
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
 com.vodafone.mpesa.drc
@@ -3655,6 +3668,7 @@ developer.worldcoin.org
 developers.cloudways.com
 developers.reddit.com
 developers.tiktok.com
+developers.veriff.me
 device.marriott.com
 dh-gw-cf.*.aws.indriverapp.com
 diabrowser.com
@@ -3920,6 +3934,7 @@ hilton.com
 hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
+hln.be
 hmxservices.com
 homeloans.wellsfargo.com
 homes-and-villas.marriott.com
@@ -4731,15 +4746,6 @@ https://github.com/0xPolygon/chain-indexer-framework
 https://github.com/0xPolygon/heimdall-v2
 https://github.com/0xPolygon/lxly.js
 https://github.com/0xPolygon/static
-https://github.com/AikidoSec/firewall-node#Detection Bypass
-https://github.com/AikidoSec/firewall-node#False Positive
-https://github.com/AikidoSec/firewall-node#Vulnerability
-https://github.com/AikidoSec/firewall-php#Detection Bypass
-https://github.com/AikidoSec/firewall-php#False Positive
-https://github.com/AikidoSec/firewall-php#Vulnerability
-https://github.com/AikidoSec/firewall-python#Detection Bypass
-https://github.com/AikidoSec/firewall-python#False Positive
-https://github.com/AikidoSec/firewall-python#Vulnerability
 https://github.com/Aiven
 https://github.com/Aiven-Open
 https://github.com/Chia-Network/chia-blockchain
@@ -6791,6 +6797,7 @@ logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
 lookatme.com.ph
 lookup.nextcloud.com
+louvre.veriff.me
 lrc20.lightspark.com
 luxfilmfestfilms.megatix.be
 luxfilmfestproducts.megatix.be
@@ -6808,6 +6815,7 @@ m.reddit.com
 m.trendyol.com
 mUSD Stablecoin
 magento.com
+magic.veriff.me
 magiceden.io
 magisto.com,www.magisto.com
 mail.hostinger.com/v2
@@ -6978,6 +6986,7 @@ myaccount-cn.payoneer.com
 myaccount-hardening.dynatracelabs.com
 myaccount.ad.nl
 myaccount.demorgen.be
+myaccount.hln.be
 myaccount.humo.be
 myaccount.parool.nl
 myaccount.payoneer.com
@@ -7624,6 +7633,8 @@ staking-api.polygon.technology
 staking.polygon.technology
 start.khealth.com
 static.apps.nextcloud.com
+station.veriff.com
+stationapi.veriff.com
 stats-trafficcop-prod.nba.com
 stats.gleague.nba.com
 stats.nba.com
@@ -8102,6 +8113,7 @@ www.gr.dyson.com
 www.greenhouse.io
 www.habileoh.com
 www.hackerone.com
+www.hln.be
 www.hostinger.com
 www.hotels.com
 www.hotelscombined.com
@@ -8286,6 +8298,7 @@ www.urbanclap.com
 www.urbancompany.com
 www.uzleuven.be
 www.valvesoftware.com
+www.veriff.com
 www.vfsvisaonline.com
 www.vfsvisaservicesrussia.com
 www.vimeo.com
