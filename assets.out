@@ -7,7 +7,6 @@
  Twilio CDNs (static*.twilio.com)
  UniFi OS Server
  Watsons.TaiWan.Android
- aweb.suivo.com
  com.citymapper.app.release
  https://api-*exoscale.com/v2
  https://github.com/0xPolygon/proof-generation-api
@@ -285,8 +284,6 @@
 *.doj.io
 *.dojo.me
 *.download.originenergy.com.au
-*.dpgmedia.be
-*.dpgmedia.nl
 *.drogas.lt
 *.drogas.lv
 *.dropbox.com
@@ -1538,7 +1535,6 @@ Any public (Internet-facing) infrastructure owned and operated by Palantir.
 Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
 Any public cloud resource or infrastructure operated and managed by REI.
 Any publicly accessible Tripadvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
-Any related DPG media domain
 Any related Torfs domain
 Any resource created or accessed with the Outscale Cloud on eu-west-2 region -  created by the Hunter
 Any subdomain application issue
@@ -2897,7 +2893,6 @@ assets.airbnb.com
 assets.hyatt.com
 assets.spotify.com
 assets.tumblr.com
-asupport.suivo.com
 ath-cf.*.aws.indriverapp.com
 ath-gw-cf.*.aws.indriverapp.com
 auroratechaward.com
@@ -3363,8 +3358,6 @@ com.miui.cloudbackup
 com.miui.cloudservice
 com.miui.micloudsync
 com.monaco.mobile
-com.moneybird.Moneybird
-com.moneybird.android
 com.moveit.app.customer
 com.nbaimd.gametime.nba2011
 com.nbaimd.gametime.universal
@@ -4746,6 +4739,15 @@ https://github.com/0xPolygon/chain-indexer-framework
 https://github.com/0xPolygon/heimdall-v2
 https://github.com/0xPolygon/lxly.js
 https://github.com/0xPolygon/static
+https://github.com/AikidoSec/firewall-node#Detection Bypass
+https://github.com/AikidoSec/firewall-node#False Positive
+https://github.com/AikidoSec/firewall-node#Vulnerability
+https://github.com/AikidoSec/firewall-php#Detection Bypass
+https://github.com/AikidoSec/firewall-php#False Positive
+https://github.com/AikidoSec/firewall-php#Vulnerability
+https://github.com/AikidoSec/firewall-python#Detection Bypass
+https://github.com/AikidoSec/firewall-python#False Positive
+https://github.com/AikidoSec/firewall-python#Vulnerability
 https://github.com/Aiven
 https://github.com/Aiven-Open
 https://github.com/Chia-Network/chia-blockchain
@@ -6946,8 +6948,6 @@ mod.reddit.com
 mokapos.com
 moments.marriott.com
 moments.marriottbonvoy.com
-moneybird.com
-moneybirdstorage.com
 monitor.mozilla.org
 monzo.com
 moonpay.com
@@ -7346,6 +7346,7 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profiler.firefox.com
+profiles-api.datacamp.com
 projects.datacamp.com
 projects.nextcloud.com
 promos.tvg.com
