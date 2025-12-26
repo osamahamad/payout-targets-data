@@ -283,6 +283,8 @@
 *.doj.io
 *.dojo.me
 *.download.originenergy.com.au
+*.dpgmedia.be
+*.dpgmedia.nl
 *.drogas.lt
 *.drogas.lv
 *.dropmix.com
@@ -1524,6 +1526,7 @@ Any public (Internet-facing) infrastructure owned and operated by Palantir.
 Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
 Any public cloud resource or infrastructure operated and managed by REI.
 Any publicly accessible Tripadvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
+Any related DPG media domain
 Any related Torfs domain
 Any resource created or accessed with the Outscale Cloud on eu-west-2 region -  created by the Hunter
 Any subdomain application issue
@@ -1796,6 +1799,7 @@ Finicity- Data Services
 Finicity- Open Banking Payment History application
 FireTV
 Firmware
+Firmware: Mali Command Stream Frontend (CSF) Firmware
 Fleet Server
 Flex - Xfinity hardware and services
 Forge Platform
@@ -1856,6 +1860,11 @@ Glassdoor Jobs
 Glassdoor iOS
 GlotPress
 Google Cloud Plateform Instances
+Grafana Loki
+Grafana Mimir
+Grafana OSS
+Grafana Pyroscope
+Grafana Tempo
 Grammarly Browser Extensions
 Grammarly Desktop for Windows
 Grammarly Desktop for macOS
@@ -2062,6 +2071,7 @@ Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
 Non Altera Products
 Non-Core Assets
+Non-Core Grafana Plugins
 NordPass - Linux Executable
 NordPass - MacOS Executable
 NordPass - Windows Executable
@@ -2240,6 +2250,7 @@ Snaps Development Packages
 Social Media Accounts
 Software
 Software Supply Chain
+Software: Mali GPU Kernel Driver
 Solarbank 2 E1600 Pro
 Solidity IBC Eureka
 Sonantic
@@ -2767,7 +2778,6 @@ apis.onecloud.harman.com
 app*.hubspot.com
 app-*.easy4ipcloud.com
 app-insiders.marriott.com
-app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
@@ -4826,6 +4836,7 @@ https://github.com/expressvpn/lightway-core
 https://github.com/freedomofpress/securedrop
 https://github.com/freedomofpress/securedrop-client
 https://github.com/freedomofpress/securedrop-workstation
+https://github.com/grafana/*
 https://github.com/immutable/ts-immutable-sdk/tree/main/packages/passport/
 https://github.com/innocraft/
 https://github.com/iqlusioninc/crates/tree/main/signatory
@@ -5528,7 +5539,6 @@ https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosti
 https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
 https://marketplace.auth0.com
 https://marketplace.ifood.com.br
-https://marketplace.visualstudio.com/items?itemName=AikidoSecurity.aikido
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
 https://master.servicecentre.digitalservicing-np.lfscnp.com/
 https://mathem.se
