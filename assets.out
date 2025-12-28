@@ -472,7 +472,6 @@
 *.instacart.com
 *.instacart.tools
 *.int.remitly.com
-*.intercomassets.com / *.intercomcdn.com
 *.intergamma-test.nl
 *.intergamma.cloud
 *.intergamma.nl/*
@@ -611,7 +610,6 @@
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
-*.mobile-messenger.intercom.com
 *.mobilevikings.be
 *.mobilitygraph.hereapi.com
 *.mofos.com
@@ -783,7 +781,6 @@
 *.reposify.com
 *.restintergamma.nl
 *.rhinternal.net
-*.ripe.net
 *.robinhood.com
 *.robinhood.net
 *.roblox.com
@@ -1246,7 +1243,6 @@
 192.251.124.0/24
 192.251.125.0/24
 192.251.126.0/24
-193.0.0.0/19 and 2001:67c:2e8::/48
 193.109.229.0/24
 193.110.154.0/24
 193.5.66.0/23
@@ -1564,7 +1560,6 @@ Aruba InstantOn Switches
 Aruba User Experience Insight Sensors
 ArubaOS-CX Switches
 Assets labeled as in-scope
-Assets owned by RIPE NCC
 Atlas
 Atlas Charts
 Atlas Data Federation
@@ -2485,7 +2480,6 @@ academy.deriv.com
 academy.infomaniak.com
 access-sandbox.remitly.com
 access.remitly.com
-access.ripe.net
 accommodations.booking.com
 account-sprint.dynatracelabs.com
 account.acronis.com
@@ -3962,7 +3956,6 @@ http://itunes.apple.com/us/app/ibotta/id559887125
 http://logstash-props.devicecloud.production.forescoutcloud.net/api/v1/properties
 http://market.android.com/details?id=com.ibotta.android
 http://marlo.ext.tripadvisor.com
-http://mcp.intercom.com
 http://media.itsfogo.com/media/upload/mobile/android/apk/partycasino_com.apk
 http://member-qa.chime.com/enroll
 http://mgmtpod-1.production.forescoutcloud.net/oauth/token
@@ -4076,7 +4069,6 @@ https://anytask.thesecurityteam.rocks
 https://api-a.usaa.com
 https://api-app.datadome.co/
 https://api-businessportal.origin.com.au
-https://api-iam.intercom.io
 https://api-js.datadome.co
 https://api-next.flatmates.com.au
 https://api-payments-secure-prod.skippayments.com
@@ -4116,7 +4108,6 @@ https://api.ibotta.com
 https://api.immutable.com
 https://api.int.ibops.net
 https://api.int.ibops.net/customer-loyalty-service
-https://api.intercom.com
 https://api.justeat-int.com
 https://api.jwks.kape.com
 https://api.mafshoppingmalls.com/
@@ -4190,8 +4181,6 @@ https://app.getflywheel.com
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.ibotta.com/sign-in 
 https://app.insomnia.rest/
-https://app.intercom.com
-https://app.intercom.io/
 https://app.latitudepayapps.com/
 https://app.opsgenie.com
 https://app.optimizely.com/
@@ -4568,8 +4557,6 @@ https://developer.paddle.com
 https://developer.withings.com/dashboard/
 https://developers.afterpay.com
 https://developers.elementor.com/
-https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
-https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
 https://developers.vendhq.com/
 https://devportal.rec.net/
 https://devstaging.pcapcloud.com/*
@@ -4725,13 +4712,6 @@ https://github.com/Infomaniak/desktop-kDrive
 https://github.com/Nginx
 https://github.com/OctopusDeploy
 https://github.com/ProjectOpenSea/seaport#deployments
-https://github.com/RIPE-NCC/rpki-commons
-https://github.com/RIPE-NCC/rpki-core
-https://github.com/RIPE-NCC/rpki-monitoring
-https://github.com/RIPE-NCC/rpki-publication-server
-https://github.com/RIPE-NCC/rpki-ta-0
-https://github.com/RIPE-NCC/rsyncit
-https://github.com/RIPE-NCC/whois
 https://github.com/Shopify/*
 https://github.com/afterpay/sdk-android
 https://github.com/afterpay/sdk-ios
@@ -6276,7 +6256,6 @@ https://www.iciparisxl.nl/blog/
 https://www.ifood.com.br
 https://www.illamasqua.com/
 https://www.imou.com
-https://www.intercom.com/
 https://www.internetbrands.com
 https://www.irobot.at/
 https://www.irobot.be/
@@ -6715,7 +6694,6 @@ links.portswigger.net
 liquidfiles.nexuzhealth.com
 liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
-lirportal.ripe.net
 list-v2--netlify-plugins.netlify.app
 lists.nextcloud.com
 lists.wordpress.org

@@ -452,7 +452,6 @@
 *.instacart.com
 *.instacart.tools
 *.int.remitly.com
-*.intercomassets.com / *.intercomcdn.com
 *.intergamma-test.nl
 *.intergamma.cloud
 *.intergamma.nl/*
@@ -591,7 +590,6 @@
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
-*.mobile-messenger.intercom.com
 *.mobilevikings.be
 *.mobilitygraph.hereapi.com
 *.mofos.com
@@ -763,7 +761,6 @@
 *.reposify.com
 *.restintergamma.nl
 *.rhinternal.net
-*.ripe.net
 *.robinhood.com
 *.robinhood.net
 *.roblox.com
