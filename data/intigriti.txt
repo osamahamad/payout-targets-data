@@ -110,6 +110,25 @@ shop.volkskrant.nl
 webwinkel.volkskrant.nl
 www.volkskrant.nl
 www.volkskrant.nl/abonnementen
+api.digital.delen.be 
+api.digital.delen.lu 
+app.delen.be 
+app.delen.ch 
+app.delen.lu 
+auth.digital.delen.be 
+auth.digital.delen.lu 
+be.delen.digital
+delen/id1064839588
+login.delen.be 
+login.delen.ch 
+login.delen.lu 
+login.oyens.com
+status.delen.be 
+sts.delen.be 
+www.cadelam.be 
+www.cadelux.lu/en 
+www.delen.bank
+www.delen.be/en 
 169.254.169.254
 api.digitalocean.com
 cloud.digitalocean.com
@@ -416,37 +435,6 @@ shop.trouw.nl
 webwinkel.trouw.nl
 www.trouw.nl
 www.trouw.nl/abonnementen
-api.truelayer[-sandbox].com
-api.mtls.truelayer[-sandbox].com
-auth.truelayer[-sandbox].com
-auth.mtls.truelayer[-sandbox].com
-app.truelayer[-sandbox].com
-login-api.truelayer[-sandbox].com
-login.truelayer[-sandbox].com
-onboarding-api.truelayer.com
-pay-api.truelayer[-sandbox].com
-pay.truelayer[-sandbox].com
-paydirect.truelayer[-sandbox].com
-payment.truelayer[-sandbox].com
-payments-experience-api.truelayer[-sandbox].com
-user-authentication-api.truelayer[-sandbox].com
-users-api.truelayer.com
-C# SDK
-console-backend.truelayer[-sandbox].com
-console.truelayer[-sandbox].com
-sftp.reports.truelayer.com
-Java SDK
-PHP SDK
-TrueLayer for Magento (Magento plugin)
-TrueLayer for WooCommerce (WordPress plugin)
-shopify-admin.truelayer.com
-shop-pay-app-api.truelayer.com
-truelayer-signing
-webhooks.truelayer[-sandbox].com
-iOS SDK
-React Native SDK
-Web SDK
-Rust SDK
 OP-TEE
 Mbed TLS & TF-PSA-Crypto
 TrustedFirmware-A (TF-A)
