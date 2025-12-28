@@ -953,6 +953,7 @@
 *.travix.com
 *.travix.io
 *.trekpleister.nl
+*.trello.services
 *.trip.biz
 *.trip.com
 *.triplinkintl.com
@@ -2331,6 +2332,10 @@ Tier A - Core Assets
 Tier B - Non Core (Bitmoji, Playcanvas)
 Tor
 Tor Browser
+Trello Desktop Client
+Trello Mobile App for Android
+Trello Mobile App for iOS
+Trello Third Party Powerups
 Tribal Wars
 TrustedFirmware-A (TF-A)
 TrustedFirmware-M (TF-M)
@@ -2728,6 +2733,7 @@ api.taxjar.com
 api.theperfumeshop.com
 api.tidal.com
 api.tideplatform.in
+api.trello.com
 api.tumblr.com
 api.unleashed.be
 api.upwork.com/graphql
@@ -4442,6 +4448,7 @@ https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
 https://business.rivian.com/api
 https://businessportal.origin.com.au
+https://butlerfortrello.com/
 https://buyersedge.co.nz
 https://carecredit.com.au
 https://careers.etsy.com
@@ -6060,6 +6067,9 @@ https://trello.com/power-ups/55a5d917446f51777421000a/slack
 https://trello.com/power-ups/55a5d917446f51777421000b/twitter
 https://trello.com/power-ups/55a5d917446f51777421000c/mailchimp
 https://trello.com/power-ups/55a5d917446f51777421000d/package-tracker
+https://trello.com/power-ups/55a5d917446f517774210011/calendar-power-up
+https://trello.com/power-ups/55a5d917446f517774210012/card-aging
+https://trello.com/power-ups/55a5d917446f517774210013/voting
 https://trello.com/power-ups/568c1415eeaeb62f5a43aa01/giphy
 https://trello.com/power-ups/568c143d95adcd7308cbc3fb/surveymonkey
 https://trello.com/power-ups/56940ede94fd60cf95f7ce6a/zendesk
@@ -6071,8 +6081,10 @@ https://trello.com/power-ups/588a331cc86ffbe08f5d2c67/bitbucket-cloud
 https://trello.com/power-ups/58dd18bdccfca7af8311792e/card-snooze
 https://trello.com/power-ups/5940440775fbe327abd3329f/onedrive
 https://trello.com/power-ups/5a2de0c41ae4a1537bb0055d/read-me
+https://trello.com/power-ups/5c2462c384ab8949b1724a20/list-limits
 https://trello.com/power-ups/5e3886cd2ae34410748d0d5b/jira-align-
 https://trello.com/power-ups/6048e897c73d032a983e2a7c/dashcards
+https://trello.com/power-ups/6052d130068a8c0de7b022b4
 https://trm.pinelabs.ae
 https://tsock.us1.twilio.com
 https://twilio.com/blog
@@ -7721,6 +7733,7 @@ translate.badoo.com
 travelagents.marriott.com/
 traveler.marriott.com
 treatments.khealth.com
+trello.com
 trendyol.com
 tria.ge
 trm.pinepaymentsolutions.com
