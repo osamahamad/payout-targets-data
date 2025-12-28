@@ -278,7 +278,6 @@
 *.district.in
 *.dm.gg
 *.dmcdn.net
-*.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
@@ -288,10 +287,6 @@
 *.dpgmedia.nl
 *.drogas.lt
 *.drogas.lv
-*.dropbox.com
-*.dropboxer.net
-*.dropboxforum.com
-*.dropboxpartners.com
 *.dropmix.com
 *.dropxl.com
 *.e2ro.com
@@ -423,9 +418,6 @@
 *.happening.dev
 *.harmonixmusic.com
 *.harmonyremote.com
-*.hellofax.com
-*.hellosign.com
-*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.bild.de
@@ -781,7 +773,6 @@
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
-*.reclaim.ai
 *.reddit.com
 *.redditblog.com
 *.reddithelp.com
@@ -1141,7 +1132,6 @@
 107.167.96.0/19
 1076840480
 1079537578
-1080074001
 1080248000
 1089294040
 1091010942
@@ -1295,7 +1285,6 @@
 3.basecamp.com
 302584613
 319881193
-327630330
 328407587
 335187483
 336381998
@@ -1316,6 +1305,7 @@
 3d.cs.money
 3rd party services hosted at *.sophos.com
 3rd-Party Provider Vulnerability
+3rdparty-apis.coinmarketcap.com
 403546234
 403684733
 406056744
@@ -1370,7 +1360,6 @@
 6444040977
 6444868926
 6449737830
-6450553960
 6452192521
 645949180
 6462308655
@@ -1599,6 +1588,10 @@ Beats - Osquerybeat
 Beats - Packetbeat
 Beats - Winlogbeat
 Beeper
+Binance Desktop Application
+Binance Mobile Application for Android
+Binance Mobile Application for iOS
+Binance macOS Application
 Bitdefender Antimalware Engines
 Bitdefender BOX v2
 Bitdefender Total Security
@@ -1674,6 +1667,8 @@ Cloudflare Zero Trust/Cloudflare One
 Cloudkey
 Cluster-To-Cluster sync
 Coda Chrome Extension
+CoinMarketCap Android app
+CoinMarketCap iOS app
 Coinbase WaaS (Wallet as a Service)
 ColdFusion
 ColorOS
@@ -1741,8 +1736,6 @@ Drogas.Latvia.Android
 Drogas.Latvia.iOS
 Drogas.Lietuva.Android
 Drogas.Lietuva.iOS
-Dropbox Desktop Application
-Dropbox.com
 Dynatrace ActiveGate
 Dynatrace MobileAgent
 Dynatrace OneAgent
@@ -1899,8 +1892,6 @@ Hardware found on https://www.ezviz.com/category/smart-home
 Harmony Remote Software
 Harmony Remotes
 Helium Hotspot
-HelloFax.com
-HelloSign.com
 Hermes Relayer
 Horcrux
 HubSpot Android Mobile App
@@ -2362,6 +2353,9 @@ TrueLayer for WooCommerce (WordPress plugin)
 TrustedFirmware-A (TF-A)
 TrustedFirmware-M (TF-M)
 TrustedVPN 100,000 Bonus Award (See Program Policy for Info)
+Trustwallet Android App
+Trustwallet Chrome Extension
+Trustwallet iOS App
 Turnstile
 Twilio APIs
 UCRM
@@ -2620,6 +2614,7 @@ api.amazonalexa.com/*
 api.arkane.network
 api.atg.se
 api.au.frontegg.com
+api.binance.com
 api.blockchain.info
 api.chainabuse-staging.com
 api.circle.com
@@ -2629,6 +2624,7 @@ api.cm.com
 api.cmtelecom.com
 api.coinbase.com
 api.coindcx.com
+api.coinmarketcap.com
 api.creditkarma.com
 api.custody.coinbase.com
 api.dashlane.com
@@ -2639,7 +2635,6 @@ api.direct.playstation.com
 api.doppler.com
 api.drogas.lt
 api.drogas.lv
-api.dropbox.com
 api.dyson.at
 api.dyson.be
 api.dyson.ch
@@ -2781,7 +2776,6 @@ apis.onecloud.harman.com
 app*.hubspot.com
 app-*.easy4ipcloud.com
 app-insiders.marriott.com
-app.Reclaim.ai
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
@@ -3129,6 +3123,7 @@ code.playcanvas.com
 code.yoti.com
 codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
 coinbase.com
+coinmarketcap.com
 collections.portswigger.net
 collector.zivver.com
 com.3mosquitos.MercadoLibre
@@ -3242,8 +3237,6 @@ com.dd.doordash
 com.defi.wallet
 com.deribit
 com.dolap.android
-com.dropbox.android
-com.dropbox.dash
 com.dyson.mobile.android
 com.ebookers
 com.eero.android
@@ -3581,9 +3574,7 @@ cyberghost.app
 cyberghost.com
 cz.skodaauto.myskoda
 daita/files_fulltextsearch_tesseract
-dash.ai
 dash.cloudflare.com
-dash.dropbox.com
 dashboard.doppler.com
 dashboard.mergify.com
 dashboard.plaid.com
@@ -3679,7 +3670,6 @@ docs.optimuscards.com
 docs.redoxengine.com
 docs.topperpay.com
 docs.uphold.com
-docsend.com
 docuflow.stg.inspectorio.com
 donations.livestream.com
 doordash.DoorDashConsumer
@@ -3694,7 +3684,6 @@ dream-qa.wnba.com
 dream.wnba.com
 drive.porsche.com
 drive.wolt.com
-dropbox.com/paper
 dx-demo.deriv.com
 dx.deriv.com
 e-Commerce
@@ -4426,6 +4415,7 @@ https://beta.arlo.com
 https://billing.ring.com/*
 https://billingonline.post.ch/OnlinePayment/Web/v1/BOI
 https://billingserver.pinelabs.com/
+https://binance.tr
 https://bistro.sk
 https://bitbucket.org
 https://bitgo.ae/
@@ -5033,6 +5023,7 @@ https://github.com/tchapgouv
 https://github.com/tempus-ex
 https://github.com/transferwise/*
 https://github.com/tronprotocol/java-tron
+https://github.com/trustwallet/wallet-core/
 https://github.com/valvesoftware
 https://github.com/worldcoin
 https://gitlab.com/gitlab-org/gitaly
@@ -6220,6 +6211,8 @@ https://www.atlassian.com/software/jira/work-management
 https://www.atlassian.com/software/rovo
 https://www.atlassian.com/software/rovo-dev
 https://www.beta.tchap.gouv.fr
+https://www.binance.com/
+https://www.binance.us/
 https://www.bitdefender.com/business/smb-products/business-security.html?cid=ppc|b|google|smb&s_kwcid=AL!6076!3!514235572261!p!!g!!bitdefender%20business&utm_term=bitdefender%20business&utm_campaign=USA+SMB+Branded+30&utm_source=adwords&utm_medium=ppc&hsa_acc=8155205354&hsa_cam=7848657822&hsa_grp=124745713150&hsa_ad=514235572261&hsa_src=g&hsa_tgt=kwd-308396066873&hsa_kw=bitdefender%20business&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwqIiFBhAHEiwANg9szk-Rr3iSn4mrwsvAUOn-pzrO12ufWDmyCLopWigaLQW0t_xtlBE65RoCr6kQAvD_BwE
 https://www.bitpanda.com/
 https://www.bitpanda.com/academy/en/
@@ -7257,6 +7250,7 @@ porschezentrum-muenchen-sued.de
 porschezentrumbremen.de
 porshe-design.com
 porshedesign.com
+portal-api.coinmarketcap.com
 portal.arkoselabs.com
 portal.au.frontegg.com
 portal.enterprise.uphold.com
@@ -7304,7 +7298,9 @@ pricerunner.com
 prime.coinbase.com
 primevideo.com/*
 priority.eu-east-1.indriverapp.com
+pro-api.coinmarketcap.com
 pro.coinbase.com
+pro.coinmarketcap.com
 pro.doctolib.(fr|de|it) (see "Free features for healthcare professionals"))
 procuration.bpost.be
 prod-*.nu.com.co
@@ -7396,7 +7392,6 @@ rei.com
 relay.firefox.com
 relay.playcanvas.com
 remitly.com
-replay.dropbox.com
 repo.magento.com
 report-html-sight.stg.inspectorio.com
 report.voi.com
@@ -7531,7 +7526,6 @@ shopify-admin.truelayer.com
 shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
-sign.dropbox.com
 sign.zivver.com
 signature-insights.api.cx.metamask.io
 signin.auth.welt.de
