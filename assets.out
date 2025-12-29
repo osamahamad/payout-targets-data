@@ -794,6 +794,7 @@
 *.reposify.com
 *.restintergamma.nl
 *.rhinternal.net
+*.ripe.net
 *.robinhood.com
 *.robinhood.net
 *.roblox.com
@@ -1263,6 +1264,7 @@
 192.251.124.0/24
 192.251.125.0/24
 192.251.126.0/24
+193.0.0.0/19 and 2001:67c:2e8::/48
 193.109.229.0/24
 193.110.154.0/24
 193.5.66.0/23
@@ -1582,6 +1584,7 @@ Aruba InstantOn Switches
 Aruba User Experience Insight Sensors
 ArubaOS-CX Switches
 Assets labeled as in-scope
+Assets owned by RIPE NCC
 Atlas
 Atlas Charts
 Atlas Data Federation
@@ -2520,6 +2523,7 @@ academy.deriv.com
 academy.infomaniak.com
 access-sandbox.remitly.com
 access.remitly.com
+access.ripe.net
 accommodations.booking.com
 account-sprint.dynatracelabs.com
 account.acronis.com
@@ -4798,6 +4802,13 @@ https://github.com/Infomaniak/desktop-kDrive
 https://github.com/Nginx
 https://github.com/OctopusDeploy
 https://github.com/ProjectOpenSea/seaport#deployments
+https://github.com/RIPE-NCC/rpki-commons
+https://github.com/RIPE-NCC/rpki-core
+https://github.com/RIPE-NCC/rpki-monitoring
+https://github.com/RIPE-NCC/rpki-publication-server
+https://github.com/RIPE-NCC/rpki-ta-0
+https://github.com/RIPE-NCC/rsyncit
+https://github.com/RIPE-NCC/whois
 https://github.com/Shopify/*
 https://github.com/afterpay/sdk-android
 https://github.com/afterpay/sdk-ios
@@ -6784,6 +6795,7 @@ links.portswigger.net
 liquidfiles.nexuzhealth.com
 liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
+lirportal.ripe.net
 list-v2--netlify-plugins.netlify.app
 lists.nextcloud.com
 lists.wordpress.org
