@@ -56,7 +56,6 @@
 *.acrobat.adobe.com
 *.acronis.com
 *.acronis.work
-*.ad.nl
 *.adaptive-shield.com
 *.adminml.com
 *.adsrvr.org
@@ -973,7 +972,6 @@
 *.truelayer.io
 *.tstaging.com
 *.tstaging.tools
-*.tube8.com
 *.tumblr.com
 *.tweakblogs.net
 *.tweakers.net
@@ -4175,7 +4173,6 @@ https://api.pinterest.com
 https://api.planethoster.net
 https://api.pluralonline.com
 https://api.pluralpay.in
-https://api.pornhub.com/
 https://api.production.cde.tamg.cloud
 https://api.rec.net
 https://api.ring.com/*
@@ -5590,7 +5587,6 @@ https://mmp.otto.de
 https://mobile-production.content-square.net/
 https://mobile.monash/ 
 https://mobile.ooredoo.qa
-https://mobile.pornhub.com/
 https://mobile.usaa.com
 https://mobileapi.afterpay.com
 https://mobileapi.clearpay.com
@@ -5892,7 +5888,6 @@ https://plugins.matomo.org/developer/matomo-org
 https://pluralcheckout.pinepg.in
 https://poc-op-ywh.it.authentification.si.gouv.qc.ca/
 https://pods.link
-https://pornhub.mainhub.com
 https://portal-api.anz.kinergysolutions.com
 https://portal.3cx.com
 https://portal.afterpay.com
@@ -6439,8 +6434,6 @@ https://www.pinelabs.my/
 https://www.pinelabs.us/
 https://www.pixpay.fr/
 https://www.planethoster.com
-https://www.pornhub.com/
-https://www.pornhubpremium.com/
 https://www.premogiftcards.com
 https://www.priceline.com/pwd/v0/pcln-graphql/
 https://www.privateinternetaccess.com/download/linux-vpn
@@ -6449,8 +6442,6 @@ https://www.privateinternetaccess.com/download/windows-vpn
 https://www.probiller.com
 https://www.quintoandar.com.br/*
 https://www.realcommercial.com.au/
-https://www.redtube.com/
-https://www.redtubepremium.com/
 https://www.remove.bg
 https://www.restaurant-information.com
 https://www.sdx.com/
@@ -6485,7 +6476,6 @@ https://www.theperfumeshop.com/blog/
 https://www.theperfumeshop.com/ie/blog/
 https://www.thetradedesk.com
 https://www.thuisbezorgd.nl/
-https://www.thumbzilla.com/
 https://www.tickets.mgm.mo/
 https://www.toursgds.com/
 https://www.toursgds.com/SupplierService?wsdl
@@ -6548,8 +6538,6 @@ https://www.xfinity.com/apps
 https://www.xvideos.net/app/
 https://www.yeswehack.com
 https://www.ynab.com/
-https://www.youporn.com/
-https://www.youpornpremium.com/
 https://www.zabbix.com/download_sources
 https://www.zoop.com.br
 https://www.zoop.ws
@@ -6991,7 +6979,6 @@ my.tomorrowland.com
 my.visa.fr
 myaccount-cn.payoneer.com
 myaccount-hardening.dynatracelabs.com
-myaccount.ad.nl
 myaccount.demorgen.be
 myaccount.hln.be
 myaccount.humo.be
@@ -7936,7 +7923,6 @@ webgateway.koho.ca
 webhooks.booking.com
 webhooks.truelayer[-sandbox].com
 webtoolbox.notebleue.pro
-webwinkel.ad.nl
 webwinkel.parool.nl
 webwinkel.trouw.nl
 webwinkel.volkskrant.nl
@@ -7991,8 +7977,6 @@ www-uat.nba.com
 www.1000-premiers-jours.fr
 www.4njbets.com
 www.abritel.fr
-www.ad.nl
-www.ad.nl/abonnementen
 www.airbnb.com
 www.am.monespacesante.fr
 www.amazon.*
