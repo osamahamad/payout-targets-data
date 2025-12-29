@@ -1686,7 +1686,6 @@ CoinMarketCap iOS app
 Coinbase WaaS (Wallet as a Service)
 ColdFusion
 ColorOS
-CometBFT
 Community Management & Communications
 Compass
 Content Authorization Targets
@@ -1700,8 +1699,6 @@ Copilot for Business
 Core Assets
 Core Product
 Corporate Assets
-CosmWasm
-Cosmos SDK
 CounterAct 8.4
 CrowdStrike public infrastructure
 Crowdsignal
@@ -1910,14 +1907,11 @@ Harmony Remotes
 Helium Hotspot
 HelloFax.com
 HelloSign.com
-Hermes Relayer
-Horcrux
 HubSpot Android Mobile App
 HubSpot Sales Office 365 add-in
 HubSpot iOS Mobile App
 Hyperdrive
 HyprUnlock.exe
-IBC Go Relayer
 ICIParisXL.App.Android
 ICIParisXL.App.IOS
 IT Infrastructure
@@ -2155,7 +2149,6 @@ PIA VPN servers
 PNS.HongKong.Android
 PNS.HongKong.iOS
 PTaaS Reference
-Packet Forward Middleware
 Passkey Wallet
 Password Sync for macOS
 PayPal SDK
@@ -2266,7 +2259,6 @@ Software
 Software Supply Chain
 Software: Mali GPU Kernel Driver
 Solarbank 2 E1600 Pro
-Solidity IBC Eureka
 Sonantic
 Sophos Firewall (XG/XGS, SFOS) - Pre-auth RCE
 Sophos IT Infrastructure (all other Sophos domains)
@@ -4849,10 +4841,6 @@ https://github.com/cmdotcom
 https://github.com/coinbase/cb-mpc
 https://github.com/contentauth/c2pa-js
 https://github.com/contentauth/c2pa-rs
-https://github.com/cosmos/gaia
-https://github.com/cosmos/iavl
-https://github.com/cosmos/ics23
-https://github.com/cosmos/ledger-cosmos
 https://github.com/curl/curl
 https://github.com/digitalocean/do-agent
 https://github.com/digitalocean/do-markdownit
@@ -4873,9 +4861,6 @@ https://github.com/freedomofpress/securedrop-client
 https://github.com/freedomofpress/securedrop-workstation
 https://github.com/immutable/ts-immutable-sdk/tree/main/packages/passport/
 https://github.com/innocraft/
-https://github.com/iqlusioninc/crates/tree/main/signatory
-https://github.com/iqlusioninc/tmkms
-https://github.com/iqlusioninc/yubihsm.rs
 https://github.com/jenkinsci/credentials-binding-plugin
 https://github.com/jenkinsci/credentials-plugin
 https://github.com/jenkinsci/jelly
@@ -5058,7 +5043,6 @@ https://github.com/ruby
 https://github.com/ruby/ruby
 https://github.com/rubygems/rubygems
 https://github.com/rust-lang/rust
-https://github.com/skip-mev/go-fast-contracts
 https://github.com/slackhq/nebula
 https://github.com/smartcontractkit/chainlink
 https://github.com/smartcontractkit/chainlink-evm/tree/develop/contracts
@@ -5305,6 +5289,7 @@ https://marketplace.atlassian.com/apps/1214713/sbt-task-plugin-for-bamboo?hostin
 https://marketplace.atlassian.com/apps/1214757/hackathon-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1214899/thready-give-tomcat-threads-a-name?hosting=server
 https://marketplace.atlassian.com/apps/1214912/better-code-macro-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1214971/handy-macros-for-confluence-status-dropdown-formatting?hosting=datacenter
 https://marketplace.atlassian.com/apps/1214971/handy-macros-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1214988/icons-for-jira?hosting=server
 https://marketplace.atlassian.com/apps/1215055/slack-for-confluence?hosting=cloud
@@ -6607,7 +6592,6 @@ iRobot Roomba™ 705
 ia.tvg.com
 iam.atg.se
 iat.it.xvservice.net
-ibc-go
 ichnaea.netflix.com
 icl-cf.*.aws.indriverapp.com
 id.heytap.com
@@ -8143,7 +8127,6 @@ www.gamma.nl/*
 www.geneva-staging.chat
 www.geneva-staging.com
 www.getaroom.com
-www.github.com/cosmos/evm
 www.giving.marriott.com
 www.goodrx.com
 www.gr.dyson.com
