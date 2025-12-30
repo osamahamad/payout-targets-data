@@ -202,6 +202,7 @@
 *.capitaloneshopping.com
 *.captcha-delivery.com
 *.carrentals.com
+*.cashstaging.app
 *.cb.dev
 *.cbhq.net
 *.cceng.8x8.com
@@ -4196,7 +4197,6 @@ https://api.thetradedesk.com
 https://api.toom.de
 https://api.tripadvisor.com
 https://api.twilio.com
-https://api.unity.com
 https://api.us1.fga.dev/
 https://api.usaa.com/
 https://api.vistarmedia.com
@@ -4500,6 +4500,7 @@ https://buyersedge.co.nz
 https://carecredit.com.au
 https://careers.etsy.com
 https://cas-cf.euce1.indriverapp.com/api/passkey
+https://cash.app
 https://cashback.opera.com/
 https://casino.bwin.com
 https://casino.partycasino.com
@@ -4531,7 +4532,6 @@ https://clients.adstruc.com
 https://clients.multiplayer.classdojo.com/launcher/prod/latest
 https://clients3.pentest.clicsante.ca/
 https://cloud.oppo.com/
-https://cloud.unity.com
 https://cloudinary.com/console
 https://cms.mobile.monash/ 
 https://cockpit-eu-west-2.outscale.com/
@@ -5107,7 +5107,6 @@ https://ibconnect.internetbrands.com
 https://icu.eu-west-2.outscale.com
 https://id.atlassian.com/login
 https://id.employer.staging.seek.com
-https://id.unity.com
 https://identite-sandbox.proconnect.gouv.fr
 https://identity.bugcrowd.com/
 https://identity.majidalfuttaim.com
@@ -5128,6 +5127,7 @@ https://itunes.apple.com/app/carrefour-uae/id626805470
 https://itunes.apple.com/ch/app/postcard-creator/id820354055?mt=8
 https://itunes.apple.com/gb/app/unibet-casino-slots-games/id905382680
 https://itunes.apple.com/gb/app/unibet-live-sports-betting/id463335337
+https://itunes.apple.com/us/app/cash-app/id711923939?mt=8
 https://itunes.apple.com/us/app/quizlet-flashcards/id546473125
 https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045663228?mt=8
 https://jaguar.here.com
@@ -5706,7 +5706,6 @@ https://partners.usaa.com
 https://partners.viator.com
 https://passport.immutable.com/
 https://pay.payzippy.com
-https://pay.unity.com
 https://paymayabiller-prod.paymaya.com/
 https://payment-connectors.vendhq.com/
 https://payment.lafourchette.com
@@ -5826,6 +5825,7 @@ https://play.google.com/store/apps/details?id=com.sixgroup.debixplus
 https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1
 https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.squareup.cash
 https://play.google.com/store/apps/details?id=com.swapcard.apps.android&hl=fr
 https://play.google.com/store/apps/details?id=com.syftapp.android
 https://play.google.com/store/apps/details?id=com.tcx.sipphone14
@@ -6049,7 +6049,6 @@ https://store.playstation.com/en-us/product/UP2662-CUSA08481_00-RECROOM000000001
 https://store.playstation.com/en-us/product/UP2662-PPSA05532_00-6681199027107223
 https://store.retail.lightspeed.app
 https://store.steampowered.com/app/471710/Rec_Room/
-https://store.unity.com
 https://storybook.vistarmedia.com
 https://stp.wien.gv.at
 https://student.classdojo.com
@@ -6155,7 +6154,6 @@ https://underarmour.co.kr
 https://underarmournext.com/
 https://unified.neogov.com
 https://unihub.monash.edu/
-https://unity3d.com/get-unity/download/archive
 https://updates.arlo.com
 https://us.eufy.com/products/e8213181
 https://us.eufy.com/products/t8410121
@@ -7232,7 +7230,6 @@ play.google.com/store/apps/details?id=fr.assurancemaladie.monespacesante&showAll
 playartifact.com
 playcanv.as
 playcanvas.com
-player-login.unity.com
 player-radio.infomaniak.com
 player.vimeo.com
 player.vrt.be
