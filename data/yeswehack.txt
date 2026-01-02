@@ -107,6 +107,12 @@ ifttt-adaptor.pub.kube.dm.gg
 AS41690
 dmxleo.com
 Google Cloud Plateform Instances
+https://n8n-staging.k8s.dm.gg/*
+https://n8n.pub.k8s.dm.gg/*
+https://airflow-mcp.data.dailymotion.com/*
+https://bigquery-mcp.data.dailymotion.com/
+https://mcp.datadoghq.eu/api/unstable/mcp-server/mcp/*
+https://mcp.datadoghq.eu/*
 https://bounty-nodejs.datashield.co
 https://bounty-fastly.datashield.co
 https://bounty-nginx.datashield.co

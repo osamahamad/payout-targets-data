@@ -4079,6 +4079,7 @@ https://admintool.lime.bike
 https://aemdam.usaa360.com/
 https://afterpay.com
 https://agent.apps.monash.edu/
+https://airflow-mcp.data.dailymotion.com/*
 https://aiven.io/
 https://aiven.io/clickhouse
 https://aiven.io/docs/products/metrics/concepts/metrics-overview
@@ -4421,6 +4422,7 @@ https://base.org
 https://bb1.simplisafe.com
 https://bb2.simplisafe.com
 https://beta.arlo.com
+https://bigquery-mcp.data.dailymotion.com/
 https://billing.ring.com/*
 https://billingonline.post.ch/OnlinePayment/Web/v1/BOI
 https://billingserver.pinelabs.com/
@@ -5534,6 +5536,8 @@ https://matrix.i.tchap.gouv.fr
 https://mattermost.com/apps/
 https://mc.sendgrid.com/
 https://mcp-server.zomato.com/mcp
+https://mcp.datadoghq.eu/*
+https://mcp.datadoghq.eu/api/unstable/mcp-server/mcp/*
 https://mcp.opensea.io
 https://mcs.arlo.com
 https://media.irobot.com
@@ -5597,6 +5601,8 @@ https://mylink.page
 https://myopenpass.com
 https://myplutus.pinelabs.my/
 https://myvpn.usaa.com
+https://n8n-staging.k8s.dm.gg/*
+https://n8n.pub.k8s.dm.gg/*
 https://namestudio.com
 https://namestudioforsocial.com/
 https://napoleoncasino.be
