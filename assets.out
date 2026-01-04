@@ -254,8 +254,6 @@
 *.dancecentral.com
 *.dcfgateway.marriott.com
 *.deliciousbrains.com
-*.dell.com/*
-*.delltechnologies.com/* 
 *.demorgen.be
 *.deribit.com
 *.deriv.cloud
@@ -1505,7 +1503,6 @@ Any Applications under https://www.expressvpn.com/latest
 Any FIS asset is in scope
 Any Other Applications found here: https://mysrc.group/project_detail?id=11
 Any Other Sophos Product or Service
-Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Any host/web property verified to be owned by Twilio et al.
@@ -4479,9 +4476,6 @@ https://consensus2024.sandbox.events.coindesk.com/
 https://consensys.io/
 https://console-stage.neon.build/
 https://console.aiven.io/login
-https://console.delltechnologies.com/nav/administration
-https://console.delltechnologies.com/nav/billing
-https://console.delltechnologies.com/nav/invoice
 https://console.neon.tech/
 https://console.neon.tech/api/v2/
 https://console.ort-one-pingone.com/?env=361b34ef-2725-4fd9-af1b-a2b189df3d05
