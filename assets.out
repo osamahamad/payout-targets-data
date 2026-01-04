@@ -885,7 +885,6 @@
 *.staging.airtable.com
 *.staging.cloud.8x8.com
 *.staging.travix.com
-*.statuspage.io
 *.stbpost.be
 *.steamstatic.com
 *.streamlabs.com
@@ -4475,6 +4474,7 @@ https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://connect.monash.edu
 https://connect.paymaya.com/
 https://connect.soundcloud.com
+https://consensus2024.sandbox.events.coindesk.com/
 https://consensys.io/
 https://console-stage.neon.build/
 https://console.aiven.io/login
@@ -5129,7 +5129,6 @@ https://m.thefork.com
 https://maf-holding-prod.apigee.net
 https://makeshift.film
 https://manage.cic-bug-bounty.auth0app.com/
-https://manage.statuspage.io
 https://manager.thefork.com
 https://manager.trial.lsk.lightspeed.app/	
 https://mapi-a.usaa.com
