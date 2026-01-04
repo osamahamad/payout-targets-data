@@ -56,6 +56,7 @@
 *.acrobat.adobe.com
 *.acronis.com
 *.acronis.work
+*.ad.nl
 *.adaptive-shield.com
 *.adminml.com
 *.adsrvr.org
@@ -669,6 +670,7 @@
 *.nr-ops.net
 *.nutakupublishing.com
 *.ociadmin.cloud.8x8.com
+*.octopus.com
 *.oda.com
 *.odcdn.com.au
 *.oklink.com
@@ -2012,6 +2014,7 @@ Marionnaud.Romania.Android
 Marionnaud.Romania.iOS
 Marionnaud.Switzerland.Android
 Marionnaud.Switzerland.iOS
+Mbed TLS & TF-PSA-Crypto
 Media Encoder
 Megaphone
 Membership
@@ -2090,6 +2093,7 @@ OKX Wallet Edge Add-ons
 OKX Wallet Safari Extension
 OKX iOS APP
 ONCE: Campfire
+OP-TEE
 Observability - APM Agents
 Observability - APM Server
 Official WordPress plugins
@@ -2349,6 +2353,8 @@ Trello Third Party Powerups
 Tribal Wars
 TrueLayer for Magento (Magento plugin)
 TrueLayer for WooCommerce (WordPress plugin)
+TrustedFirmware-A (TF-A)
+TrustedFirmware-M (TF-M)
 TrustedServer 100,000 Bonus Award (See Program Policy for Info)
 Trustwallet Android App
 Trustwallet Chrome Extension
@@ -4740,6 +4746,7 @@ https://github.com/Hacker0x01/react-datepicker
 https://github.com/ImageMagick/ImageMagick
 https://github.com/Infomaniak/desktop-kDrive
 https://github.com/Nginx
+https://github.com/OctopusDeploy
 https://github.com/ProjectOpenSea/seaport#deployments
 https://github.com/RIPE-NCC/rpki-commons
 https://github.com/RIPE-NCC/rpki-core
@@ -5620,6 +5627,7 @@ https://nvio.mx/
 https://nvoice.usaa.com/
 https://nw.ring.com/*
 https://oauth.ring.com/*
+https://octopus.com
 https://octopus.com/downloads
 https://oda.com
 https://odesli.co
@@ -6953,6 +6961,7 @@ my.swiftfinancial.com
 my.visa.fr
 myaccount-cn.payoneer.com
 myaccount-hardening.dynatracelabs.com
+myaccount.ad.nl
 myaccount.demorgen.be
 myaccount.hln.be
 myaccount.humo.be
@@ -7888,6 +7897,7 @@ webgateway.koho.ca
 webhooks.booking.com
 webhooks.truelayer[-sandbox].com
 webtoolbox.notebleue.pro
+webwinkel.ad.nl
 webwinkel.parool.nl
 webwinkel.trouw.nl
 webwinkel.volkskrant.nl
@@ -7940,6 +7950,8 @@ www-uat.nba.com
 www.1000-premiers-jours.fr
 www.4njbets.com
 www.abritel.fr
+www.ad.nl
+www.ad.nl/abonnementen
 www.airbnb.com
 www.am.monespacesante.fr
 www.amazon.*
