@@ -23,8 +23,6 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.bitstamp.net - Bitstamp Supporting Services
 *.gov.bugcrowd.net
 *.bugcrowd.com/auth/*
-*.gov.bugcrowd.net
-*.bugcrowd.com/auth/*
 *.canva.com
 *.canva-apps.com
 *.canva.tech
@@ -183,6 +181,7 @@ prod-*.nu.com.co
 *.s-cloud.net
 *.services.repostnetwork.com
 api-*.soundcloud.com
+*.statuspage.io
 *.statuspage.io
 *.uscc.net
 *.uscc.com
