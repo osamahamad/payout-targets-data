@@ -76,6 +76,15 @@ com.cm.cashregister
 com.ticketflow.ticketscanner
 demo.globalticket.com/*
 https://github.com/cmdotcom
+payment.backend-capital.com
+capital.com/*
+com.capital.trading
+com.capital.trading
+open-api.capital.com
+aff.capital.com
+go.capital.com
+register.capital.com
+careers.capital.com
 api.cloudways.com
 developers.cloudways.com
 platform.cloudways.com
@@ -487,10 +496,6 @@ iOS SDK
 React Native SDK
 Web SDK
 Rust SDK
-OP-TEE
-Mbed TLS & TF-PSA-Crypto
-TrustedFirmware-A (TF-A)
-TrustedFirmware-M (TF-M)
 autodiscover.uzleuven.be
 ecrf.uzleuven.be
 extranet-asa.uzleuven.be

@@ -139,6 +139,7 @@
 *.avecspotify.com
 *.ayco.com
 *.backblazeb2.com
+*.backend-capital.com
 *.base.org
 *.berush.com
 *.betfair.com
@@ -194,6 +195,7 @@
 *.canva.cn
 *.canva.com
 *.canva.tech
+*.capital.com
 *.capitalone.ca
 *.capitalone.com
 *.capitalonegslbex.com
@@ -483,6 +485,7 @@
 *.intergamma.nl/*
 *.internal.exoscale.ch
 *.intigriti.me
+*.itcapital.io
 *.jit.si
 *.jitsi.net
 *.jobapi.net
@@ -2019,7 +2022,6 @@ Marionnaud.Romania.Android
 Marionnaud.Romania.iOS
 Marionnaud.Switzerland.Android
 Marionnaud.Switzerland.iOS
-Mbed TLS & TF-PSA-Crypto
 Media Encoder
 Megaphone
 Membership
@@ -2099,7 +2101,6 @@ OKX Wallet Edge Add-ons
 OKX Wallet Safari Extension
 OKX iOS APP
 ONCE: Campfire
-OP-TEE
 Observability - APM Agents
 Observability - APM Server
 Official WordPress plugins
@@ -2359,8 +2360,6 @@ Trello Third Party Powerups
 Tribal Wars
 TrueLayer for Magento (Magento plugin)
 TrueLayer for WooCommerce (WordPress plugin)
-TrustedFirmware-A (TF-A)
-TrustedFirmware-M (TF-M)
 TrustedServer 100,000 Bonus Award (See Program Policy for Info)
 Trustwallet Android App
 Trustwallet Chrome Extension
@@ -2556,6 +2555,7 @@ ads.tiktok.com
 adtechnology.axelspringer.com
 advisories.gitlab.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
+aff.capital.com
 affiliate-id.tokopedia.com
 agents.tasheer.com
 aggregator.etoro.com
@@ -3046,6 +3046,7 @@ campus.datacamp.com
 cancellation.prod.ps.welt.de
 candle-src.etoro.com
 candle.etoro.com
+capital.com/*
 capitalmarketsday.porsche.com
 capturingreality.com
 cardpayments.remitly.io
@@ -3054,6 +3055,7 @@ cardsonline.azdiest.be
 cardsonlinetst.azdiest.be
 career.bpost.be
 careers.booking.com
+careers.capital.com
 careers.indrive.com
 careers.marriott.com
 careers.remitly.com
@@ -3231,6 +3233,7 @@ com.bumble.app
 com.bumblebff.app
 com.bykea.pk
 com.bykea.pk.partner
+com.capital.trading
 com.cheaptickets
 com.clay.ios
 com.cm.cashregister
@@ -3881,6 +3884,7 @@ globaldesign.marriott.com
 globaljourney.tomorrowland.com
 gnip.com
 gnocchi-www.buffalo-ggn.net
+go.capital.com
 go.geneva-staging.com
 go.stripchat.com
 go.welt.de
@@ -7123,6 +7127,7 @@ online.s-pankki.fi
 onum-labs.com
 onum.com
 open redirect at *.epam.com
+open-api.capital.com
 open.airbnb.com
 open.larksuite.com
 open.ys7.com
@@ -7177,6 +7182,7 @@ pay.wallet.tg
 pay.{business_critical_assets} *see business assets for more information
 paybridge.booking.com
 paydirect.truelayer[-sandbox].com
+payment.backend-capital.com
 payment.bingo.com
 payment.casinohuone.com
 payment.deezer.com
@@ -7416,6 +7422,7 @@ redditforbusiness.com
 register-accpt.portofantwerp.com
 register-accpt.portofantwerpbruges.com
 register.bpost.be
+register.capital.com
 registre.notebleue.pro
 registry.gitlab.com
 rei.com
