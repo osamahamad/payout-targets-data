@@ -4402,7 +4402,6 @@ https://aspen-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/users/{user_id}/
 https://assets-cdn.vistarmedia.com
 https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://atlantis-ext.myopenpass.com
-https://atlassian.thetradedesk.com
 https://audience-builder.vistarmedia.com
 https://audio.20min.ch/
 https://aus.api.just-eat.io/
@@ -4485,6 +4484,7 @@ https://butlerfortrello.com/
 https://buyersedge.co.nz
 https://carecredit.com.au
 https://careers.etsy.com
+https://careers.thetradedesk.com
 https://cas-cf.euce1.indriverapp.com/api/passkey
 https://cash.app
 https://cashback.opera.com/
@@ -4582,7 +4582,6 @@ https://dcfgatewaytst1.marriott.com/
 https://dealflow.prosus.com
 https://dealflowapi.prosus.com
 https://demo.adstruc.com
-https://demo.myopenpass.com
 https://demo.priceless.com/
 https://desk-api-{region}.sendbird.com
 https://desk.thetradedesk.com
@@ -4671,6 +4670,7 @@ https://ebctest.cybersource.com/ums
 https://ebctest.cybersource.com/vdm
 https://ebctest.cybersource.com/vts
 https://ecohesion.aufbaubank.de
+https://edgeacademy.thetradedesk.com
 https://education.cfr.org/
 https://eforms.neogov.com
 https://eim.eu-west-2.outscale.com
@@ -5614,6 +5614,7 @@ https://myapp.monash.edu/
 https://mydesktop.usaa.com
 https://mylink.page
 https://myopenpass.com
+https://myopenpassdemo.com/
 https://myplutus.pinelabs.my/
 https://myvpn.usaa.com
 https://n8n-staging.k8s.dm.gg/*
@@ -5657,6 +5658,7 @@ https://online.mustaqel.qa/qat/en/login
 https://online.srilankaevisa.lk/lka/en/login
 https://onlinena.vfsglobal.dz/AppointmentAdmin/
 https://op.paymaya.com/
+https://open.sincera.io
 https://openai.com/
 https://openam-bug-bounty-stag.forgeblocks.com/*
 https://openapi.pulsepoint.com
@@ -5962,7 +5964,9 @@ https://search-api.bookbeat.com
 https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secumails.gesundheitsverbund.at
 https://secure-iphone-xml.booking.com/json/
+https://secure-signals-client-side-integ.uidapi.com/
 https://secure-signals-jssdk-integ.uidapi.com
+https://secure-signals-react-integ.uidapi.com
 https://secure-signals-srvonly-integ.uidapi.com
 https://secure-test.six-swiss-exchange.com/
 https://secure.cuehit.net
@@ -6402,6 +6406,7 @@ https://www.okta.com/fastpass/
 https://www.okta.com/products/advanced-server-access/
 https://www.onedoc.ch
 https://www.ooredoo.qa
+https://www.opensincera.com
 https://www.opera.com/
 https://www.opera.com/computer/thanks?ni=eapgx&os=windows
 https://www.opera.com/computer/thanks?ni=stable&os=windows
@@ -6493,6 +6498,7 @@ https://www.usaa.com
 https://www.usaainsurance.com/
 https://www.user.quintoandar.com.br/admin/*
 https://www.vendhq.com/
+https://www.venturatvos.com
 https://www.verisign.com
 https://www.vfsglobalservices-germany.com/Global-Appointment/
 https://www.vfsvisaservice.com/
