@@ -276,6 +276,7 @@
 *.district.in
 *.dm.gg
 *.dmcdn.net
+*.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
@@ -285,6 +286,10 @@
 *.dpgmedia.nl
 *.drogas.lt
 *.drogas.lv
+*.dropbox.com
+*.dropboxer.net
+*.dropboxforum.com
+*.dropboxpartners.com
 *.dropmix.com
 *.dropxl.com
 *.e2ro.com
@@ -305,7 +310,6 @@
 *.emakina.nl 
 *.emakina.us
 *.employer.seek.com
-*.enjinusercontent.com
 *.enspotify.com
 *.eops.nl
 *.epam.com
@@ -416,6 +420,9 @@
 *.happening.dev
 *.harmonixmusic.com
 *.harmonyremote.com
+*.hellofax.com
+*.hellosign.com
+*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.bild.de
@@ -770,6 +777,7 @@
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
+*.reclaim.ai
 *.reddit.com
 *.redditblog.com
 *.reddithelp.com
@@ -882,6 +890,8 @@
 *.srvcs.tumblr.com
 *.ssr.ccp.xcal.tv 
 *.stadtwien.onmicrosoft.com
+*.stag.tomorrowland.com
+*.stag.weareone.world
 *.staging-airtableblocks.com
 *.staging.airtable.com
 *.staging.cloud.8x8.com
@@ -934,6 +944,7 @@
 *.tinderops.net
 *.tinderwebstaging.com
 *.tktnew.com
+*.tomorrowland.com
 *.tools.thefork.tech
 *.toolsforhumanity.com
 *.topperpay.com
@@ -996,7 +1007,6 @@
 *.vayama.com
 *.venmo.com
 *.vennhypotheken.nl
-*.veriff.com
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
@@ -1037,6 +1047,7 @@
 *.watsons.vn
 *.wavecell.com
 *.wealthsimple.com
+*.weareone.world
 *.web3factory.consensys.net
 *.wellsfargo.com
 *.wellsfargoadvisors.com
@@ -1125,6 +1136,7 @@
 107.167.96.0/19
 1076840480
 1079537578
+1080074001
 1080248000
 1089294040
 1091010942
@@ -1185,7 +1197,6 @@
 146.109.68.0/24
 146.109.8.0/21
 146.109.8.0/22
-1467907532
 1474700 (Steam app id)
 1475021574
 1476615877
@@ -1226,6 +1237,7 @@
 1591003012
 1592204907
 1604650263
+1632202810
 1634080733
 1641486558
 1659883691
@@ -1277,6 +1289,7 @@
 3.basecamp.com
 302584613
 319881193
+327630330
 328407587
 335187483
 336381998
@@ -1352,6 +1365,7 @@
 6444040977
 6444868926
 6449737830
+6450553960
 6452192521
 645949180
 6462308655
@@ -1730,6 +1744,8 @@ Drogas.Latvia.Android
 Drogas.Latvia.iOS
 Drogas.Lietuva.Android
 Drogas.Lietuva.iOS
+Dropbox Desktop Application
+Dropbox.com
 Dynatrace ActiveGate
 Dynatrace MobileAgent
 Dynatrace OneAgent
@@ -1750,9 +1766,6 @@ Elastic Synthetics Monitoring
 Elasticsearch
 Elvenar
 Engadget
-Enjin - Ethereum ERC-1155 Contract
-Enjin Blockchain
-Enjin Coin - Ethereum ERC-20 Contract
 Eno® Browser Extension
 Enterprise Edition Products and Tools
 EpicGamesLauncher.exe    
@@ -1885,6 +1898,8 @@ Hardware found on https://www.ezviz.com/category/smart-home
 Harmony Remote Software
 Harmony Remotes
 Helium Hotspot
+HelloFax.com
+HelloSign.com
 HubSpot Android Mobile App
 HubSpot Sales Office 365 add-in
 HubSpot iOS Mobile App
@@ -2552,7 +2567,6 @@ airFiber
 airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 akismet.com
-alchemy.veriff.com
 alert.logitech.com
 alexa.amazon.com
 alexaanswers.amazon.com
@@ -2626,6 +2640,7 @@ api.direct.playstation.com
 api.doppler.com
 api.drogas.lt
 api.drogas.lv
+api.dropbox.com
 api.dyson.at
 api.dyson.be
 api.dyson.ch
@@ -2651,7 +2666,6 @@ api.ezvizlife.com
 api.faraday.ai
 api.fi.dyson.com
 api.figma.com
-api.flamingo-eu.veriff.com
 api.foliofn.com
 api.fortress.com.hk
 api.geneva-staging.com
@@ -2743,9 +2757,7 @@ api.truelayer[-sandbox].com
 api.tumblr.com
 api.unleashed.be
 api.upwork.com/graphql
-api.us.veriff.me
 api.vault.chiatest.net
-api.veriff.me
 api.vhx.tv
 api.vimeo.com
 api.watsons.co.id
@@ -2767,6 +2779,8 @@ apis.onecloud.harman.com
 app*.hubspot.com
 app-*.easy4ipcloud.com
 app-insiders.marriott.com
+app.Reclaim.ai
+app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
@@ -2933,6 +2947,7 @@ be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
 beacon.netflix.com
+belgium.tomorrowland.com
 benefit.porsche-design.com
 bestfiends.com
 beta-cloud.acronis.com
@@ -2985,6 +3000,8 @@ bpa2.marriott.com
 bpost Parcel Lockers
 bq.visa.com
 br.nba.com
+brasil-store.tomorrowland.com
+brasil.tomorrowland.com
 brave.com
 bsp.marriott.com
 buckingfuggy.com
@@ -3041,6 +3058,7 @@ cargo.indrive.com
 cars.booking.com
 cart.starbucks.co.jp
 cas-cf.*.aws.indriverapp.com
+cas.tomorrowland.com
 cashier-src.etoro.com
 cashier.deriv.com
 cashier.etoro.com
@@ -3230,11 +3248,12 @@ com.dd.doordash
 com.defi.wallet
 com.deribit
 com.dolap.android
+com.dropbox.android
+com.dropbox.dash
 com.dyson.mobile.android
 com.ebookers
 com.eero.android
 com.einnovation.temu
-com.enjin.mobile.wallet
 com.etoro.openbook
 com.etoro.wallet
 com.eufylife.EufyHome
@@ -3409,6 +3428,7 @@ com.tiktok.tv
 com.tiktokshop.seller
 com.tinder
 com.tinyspeck.chatlyio
+com.tomorrowland.oneworldradio
 com.toyopagroup.picaboo
 com.travelocity.android
 com.trendyol.go
@@ -3429,7 +3449,6 @@ com.urbanclap.provider
 com.urbanclap.urbanclap
 com.valvesoftware.Steam
 com.venmo
-com.veriff.demo
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
 com.vodafone.mpesa.drc
@@ -3482,6 +3501,8 @@ company.thebrowser.arc
 compare.porsche.com
 compass.fareharbor.com
 competitive.fortnite.com
+components.stag.tomorrowland.com
+components.tomorrowland.com
 config.cic-bug-bounty.auth0app.com
 configurator.porsche.com
 configure.bmw.de
@@ -3562,8 +3583,11 @@ cweb-ott-uc.nba.com
 cweb-ott.nba.com
 cyberghost.app
 cyberghost.com
+cz.skodaauto.myskoda
 daita/files_fulltextsearch_tesseract
+dash.ai
 dash.cloudflare.com
+dash.dropbox.com
 dashboard.doppler.com
 dashboard.mergify.com
 dashboard.plaid.com
@@ -3631,7 +3655,6 @@ developer.worldcoin.org
 developers.cloudways.com
 developers.reddit.com
 developers.tiktok.com
-developers.veriff.me
 device.marriott.com
 dh-gw-cf.*.aws.indriverapp.com
 diabrowser.com
@@ -3660,6 +3683,7 @@ docs.optimuscards.com
 docs.redoxengine.com
 docs.topperpay.com
 docs.uphold.com
+docsend.com
 docuflow.stg.inspectorio.com
 donations.livestream.com
 doordash.DoorDashConsumer
@@ -3674,6 +3698,7 @@ dream-qa.wnba.com
 dream.wnba.com
 drive.porsche.com
 drive.wolt.com
+dropbox.com/paper
 dx-demo.deriv.com
 dx.deriv.com
 e-Commerce
@@ -3845,6 +3870,7 @@ gleague.nba.com
 glib-networking
 global-api.citymapper.com
 globaldesign.marriott.com
+globaljourney.tomorrowland.com
 gnip.com
 gnocchi-www.buffalo-ggn.net
 go.geneva-staging.com
@@ -4707,6 +4733,15 @@ https://github.com/0xPolygon/chain-indexer-framework
 https://github.com/0xPolygon/heimdall-v2
 https://github.com/0xPolygon/lxly.js
 https://github.com/0xPolygon/static
+https://github.com/AikidoSec/firewall-node#Detection Bypass
+https://github.com/AikidoSec/firewall-node#False Positive
+https://github.com/AikidoSec/firewall-node#Vulnerability
+https://github.com/AikidoSec/firewall-php#Detection Bypass
+https://github.com/AikidoSec/firewall-php#False Positive
+https://github.com/AikidoSec/firewall-php#Vulnerability
+https://github.com/AikidoSec/firewall-python#Detection Bypass
+https://github.com/AikidoSec/firewall-python#False Positive
+https://github.com/AikidoSec/firewall-python#Vulnerability
 https://github.com/Aiven
 https://github.com/Aiven-Open
 https://github.com/Chia-Network/chia-blockchain
@@ -5504,6 +5539,7 @@ https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosti
 https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
 https://marketplace.auth0.com
 https://marketplace.ifood.com.br
+https://marketplace.visualstudio.com/items?itemName=AikidoSecurity.aikido
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
 https://master.servicecentre.digitalservicing-np.lfscnp.com/
 https://mathem.se
@@ -6754,7 +6790,6 @@ logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
 lookatme.com.ph
 lookup.nextcloud.com
-louvre.veriff.me
 lrc20.lightspark.com
 luxfilmfestfilms.megatix.be
 luxfilmfestproducts.megatix.be
@@ -6772,7 +6807,6 @@ m.reddit.com
 m.trendyol.com
 mUSD Stablecoin
 magento.com
-magic.veriff.me
 magiceden.io
 magisto.com,www.magisto.com
 mail.hostinger.com/v2
@@ -6935,6 +6969,7 @@ my.pressable.com
 my.sheer.com
 my.snapchat.com
 my.swiftfinancial.com
+my.tomorrowland.com
 my.visa.fr
 myaccount-cn.payoneer.com
 myaccount-hardening.dynatracelabs.com
@@ -7039,7 +7074,6 @@ nextcloud/user_saml
 nextcloud/viewer
 nextcloud/workflow_script
 nft.coinbase.com
-nft.io
 nha-cf.*.aws.indriverapp.com
 nha-gw-cf.*.aws.indriverapp.com
 niantic.kidswebservices.com
@@ -7070,6 +7104,7 @@ onboarding-*.cloud.com
 onboarding-api.truelayer.com
 onboarding.cloud.com
 onboarding.greenhouse.io
+one-world-radio-tomorrowland/id1485778856
 one.airbnb.com
 one.dash.cloudflare.com
 onepush.query.yahoo.com
@@ -7172,7 +7207,6 @@ plannerrequest.hyatt.com
 platform.8x8.com
 platform.8x8pilot.com
 platform.cloudways.com
-platform.enjin.io
 platform.remix.com
 play.google.com/store/apps/details?id=com.crowdstrike.falconmobile
 play.google.com/store/apps/details?id=fr.assurancemaladie.monespacesante&showAllReviews=true (Android)
@@ -7378,6 +7412,7 @@ rei.com
 relay.firefox.com
 relay.playcanvas.com
 remitly.com
+replay.dropbox.com
 repo.magento.com
 report-html-sight.stg.inspectorio.com
 report.voi.com
@@ -7512,6 +7547,7 @@ shopify-admin.truelayer.com
 shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
+sign.dropbox.com
 sign.zivver.com
 signature-insights.api.cx.metamask.io
 signin.auth.welt.de
@@ -7561,6 +7597,7 @@ sockets.geneva-staging.com
 solutions-environnement.vinci.com
 sorare.com
 sos-*.exo.io
+sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com
 spaces.pm
 spark.fareharbor.com
 sparks-dev.wnba.com
@@ -7591,8 +7628,6 @@ staking-api.polygon.technology
 staking.polygon.technology
 start.khealth.com
 static.apps.nextcloud.com
-station.veriff.com
-stationapi.veriff.com
 stats-trafficcop-prod.nba.com
 stats.gleague.nba.com
 stats.nba.com
@@ -7612,6 +7647,7 @@ store.playstation.com
 store.rockstargames.com
 store.snapchat.com
 store.steampowered.com
+store.tomorrowland.com
 store.ui.com
 storefront.steampowered.com
 storm-dev.wnba.com
@@ -7732,6 +7768,9 @@ tickets.kinepolis.lu
 tickets.kinepolis.nl
 tiktok.com
 timepeacesconfigurator.porsche-design.com
+tlbe.prod.tomorrowland.com
+tlbr.prod.tomorrowland.com
+tlfr.prod.tomorrowland.com
 todo.notebleue.pro
 toolsforhumanity.com
 tr-cf.*.aws.indriverapp.com
@@ -7899,6 +7938,8 @@ wings-dev.wnba.com
 wings-qa.wnba.com
 wings.wnba.com
 winkels.torfs.be
+winter.tomorrowland.com
+winterpackages.tomorrowland.com
 wlr-cf.*.aws.indriverapp.com
 wolt.com
 wonderboxapi.com
@@ -8223,6 +8264,7 @@ www.temu.com
 www.tgoyemek.com
 www.theperfumeshop.com
 www.tink.com
+www.tomorrowland.com
 www.topperpay.com
 www.torfs.be
 www.torfs.nl
@@ -8255,7 +8297,6 @@ www.urbanclap.com
 www.urbancompany.com
 www.uzleuven.be
 www.valvesoftware.com
-www.veriff.com
 www.vfsvisaonline.com
 www.vfsvisaservicesrussia.com
 www.vimeo.com
