@@ -254,7 +254,6 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
-*.datacamp.com
 *.dcfgateway.marriott.com
 *.deliciousbrains.com
 *.dell.com/*
@@ -377,6 +376,12 @@
 *.global-liquidity.gs.com
 *.go-pay.co.id
 *.gobiz.co.id
+*.gocardless-cicd.io
+*.gocardless-lab.io
+*.gocardless-staging.io
+*.gocardless.com
+*.gocardless.dev
+*.gocardless.io,*.gocardless-banking.io
 *.gofin.io
 *.gofood.co.id
 *.gofoodmerchant.co.id
@@ -1238,7 +1243,6 @@
 1589023233
 1591003012
 1592204907
-1604650263
 1632202810
 1634080733
 1641486558
@@ -2606,6 +2610,7 @@ api-gateway.polygon.technology
 api-js.datadome.co
 api-partner.spotify.com
 api-polygon-tokens.polygon.technology/
+api-sandbox.gocardless.com
 api-sandbox.uphold.com
 api-sandbox.uphold.com/graphql
 api-staging.airtable.com
@@ -2789,9 +2794,6 @@ app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
 app.dashlane.com
-app.datacamp.com/certification
-app.datacamp.com/groups
-app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -2883,9 +2885,6 @@ as2-accpt.portofantwerpbruges.com
 as2.portofantwerp.com
 as2.portofantwerpbruges.com
 ask.khealth.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com 
-assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.spotify.com
@@ -2916,6 +2915,7 @@ auth.services.adobe.com
 auth.skypicker.com
 auth.truelayer[-sandbox].com
 auth0.com	
+auth0.gocardless.com
 auth0.net
 authentication.wolt.com
 autocomplete.booking.com
@@ -2937,6 +2937,7 @@ bal.nba.com
 balance-api.polygon.technology/
 ballistic.com
 ballistic.com.br
+bankaccountdata.gocardless.com
 basecamp.rivian.com
 basecamp3.exe
 basicattentiontoken.org
@@ -3041,7 +3042,6 @@ calendar.infomaniak.com
 calendar.notion.so
 callbacks.airbnb.com
 cam.notebleue.pro
-campus.datacamp.com
 cancellation.prod.ps.welt.de
 candle-src.etoro.com
 candle.etoro.com
@@ -3211,7 +3211,6 @@ com.application.zomatomerchant
 com.aqupepgames.projectpepe
 com.atebits.Tweetie2
 com.audible.application
-com.badoo.hotornot
 com.badoo.mobile
 com.badoo.twa
 com.basecamp.bc3
@@ -3251,7 +3250,6 @@ com.creditkarma.mobile
 com.creditkarma.mobile.international
 com.dashlane
 com.dashlane.dashlanephonefinal
-com.datacamp
 com.dd.doordash
 com.defi.wallet
 com.deribit
@@ -3519,6 +3517,7 @@ configurator.porsche.com
 configure.bmw.de
 configure.mini.de
 confluence.hyattdev.com
+connect-sandbox.gocardless.com
 connect-store.porsche.com
 connect.8x8.com
 connect.arkane.network 
@@ -4263,7 +4262,6 @@ https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
-https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
 https://apps.apple.com/au/app/realestate-com-au-property/id404667893
@@ -5651,6 +5649,7 @@ https://nvio.mx/
 https://nvoice.usaa.com/
 https://nw.ring.com/*
 https://oauth.ring.com/*
+https://ob-sandbox.gocardless.io
 https://octopus.com
 https://octopus.com/downloads
 https://oda.com
@@ -6825,6 +6824,7 @@ mail.notion.so
 mailpoet.com
 maintenance.logitech.com
 manage-dev.nba.com
+manage-sandbox.gocardless.com
 manage-teams-dev.nba.com
 manage-teams-qa.nba.com
 manage-teams-uat.nba.com
@@ -7105,7 +7105,9 @@ npmjs.org
 nummus.robinhood.com
 nz.co.vista.android.movie.mjrtheatres
 oasisprod.marriott.com
+oauth-sandbox.gocardless.com
 oauth.deriv.com
+ob.gocardless.com
 obs-sensors.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 ocijlbex1prd.marriott.com
@@ -7173,6 +7175,7 @@ passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
 pay-api.truelayer[-sandbox].com
+pay-sandbox.gocardless.com
 pay.8x8.com
 pay.ibex.exchange
 pay.tokopediax.com
@@ -7181,6 +7184,7 @@ pay.wallet.tg
 pay.{business_critical_assets} *see business assets for more information
 paybridge.booking.com
 paydirect.truelayer[-sandbox].com
+payer-details-sandbox.gocardless.com
 payment.backend-capital.com
 payment.bingo.com
 payment.casinohuone.com
@@ -7308,7 +7312,6 @@ portswigger.net
 pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
 pr-gw-cf.*.aws.indriverapp.com
-practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -7353,8 +7356,6 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profiler.firefox.com
-profiles-api.datacamp.com
-projects.datacamp.com
 projects.nextcloud.com
 promos.tvg.com
 prow.k8s.io
@@ -8035,8 +8036,6 @@ www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
 www.dashlane.com
-www.datacamp.com
-www.datacamp.com/datalab
 www.ddfcontent.com
 www.deezer.com
 www.delen.bank
@@ -8123,6 +8122,7 @@ www.geneva-staging.chat
 www.geneva-staging.com
 www.getaroom.com
 www.giving.marriott.com
+www.gocardless.com
 www.goodrx.com
 www.gr.dyson.com
 www.greenhouse.io

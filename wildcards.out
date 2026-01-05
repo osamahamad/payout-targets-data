@@ -234,7 +234,6 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
-*.datacamp.com
 *.dcfgateway.marriott.com
 *.deliciousbrains.com
 *.dell.com/*
@@ -357,6 +356,12 @@
 *.global-liquidity.gs.com
 *.go-pay.co.id
 *.gobiz.co.id
+*.gocardless-cicd.io
+*.gocardless-lab.io
+*.gocardless-staging.io
+*.gocardless.com
+*.gocardless.dev
+*.gocardless.io,*.gocardless-banking.io
 *.gofin.io
 *.gofood.co.id
 *.gofoodmerchant.co.id

@@ -1918,6 +1918,17 @@ prow.k8s.io
 com.coinspot.app
 https://www.coinspot.com.au/v2/api
 www.coinspot.com.au
+api-sandbox.gocardless.com
+auth0.gocardless.com
+bankaccountdata.gocardless.com
+connect-sandbox.gocardless.com
+https://ob-sandbox.gocardless.io
+manage-sandbox.gocardless.com
+oauth-sandbox.gocardless.com
+ob.gocardless.com
+pay-sandbox.gocardless.com
+payer-details-sandbox.gocardless.com
+www.gocardless.com
 194.90.151.192/28
 194.90.25.80/29
 194.90.89.165/32
@@ -2852,7 +2863,6 @@ io.coda
 io.coda.codaapp
 settings.superhuman.com
 superhuman.com
-1604650263
 351331194
 403684733
 6444040977
@@ -2867,7 +2877,6 @@ bma.bumble.com
 ccardseu1.badoo.com
 ccardsus1.badoo.com
 chatdate.app
-com.badoo.hotornot
 com.badoo.mobile
 com.badoo.twa
 com.bumble.app
