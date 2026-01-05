@@ -3285,6 +3285,7 @@ com.freshservice.helpdesk
 com.freshservice.helpdesk.intune
 com.freshworks.freshcaller
 com.frontapp.mobile
+com.genevachat.staging
 com.goodrx
 com.goodrx.iphone
 com.grab.merchant
@@ -4241,7 +4242,6 @@ https://app.staging.luno.com/
 https://app.staging.saltlabs.com/
 https://app.welcomesoftware.com/
 https://app.withings.com
-https://appdistribution.firebase.google.com/pub/i/505927432f64f04a
 https://appgallery.huawei.com/#/app/C102099703?locale=zh_CN&source=appshare&subsource=C102099703
 https://appgallery.huawei.com/app/C101186357
 https://apphouse.underarmour.com/

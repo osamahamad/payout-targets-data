@@ -2872,6 +2872,7 @@ com.badoo.mobile
 com.badoo.twa
 com.bumble.app
 com.bumblebff.app
+com.genevachat.staging
 com.hotornot.app
 corp.badoo.com
 deeplinks.geneva-staging.chat
@@ -2882,7 +2883,6 @@ gateway.geneva-staging.com
 geneva-staging.chat
 go.geneva-staging.com
 hotornot.com
-https://appdistribution.firebase.google.com/pub/i/505927432f64f04a
 https://testflight.apple.com/join/Y4cHu289
 links.geneva-staging.chat
 links.geneva-staging.com
