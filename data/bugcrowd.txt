@@ -1665,7 +1665,6 @@ https://api-portal.originzero.com.au
 https://sign.originzero.com.au
 https://businessportal.origin.com.au
 https://api-businessportal.origin.com.au
-https://dashboard.pantheon.io
 https://devstaging.pcapcloud.com/*
 https://www.pexels.com/
 https://api.pinterest.com
@@ -2062,6 +2061,13 @@ https://edgeacademy.thetradedesk.com
 █████████████████████████████
 █████████████████████████████
 ████████████████████████████
+https://tidal.com/
+api.tidal.com
+*tidalhi.fi
+Tidal Client for iOS
+Tidal Client for Android
+https://offer.tidal.com/download
+Tidal Official Clients (e.g. Sonos integration, Tesla integration, etc.)
 https://tidal.com/
 api.tidal.com
 *tidalhi.fi
