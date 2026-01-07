@@ -182,6 +182,13 @@ service.fing.com
 app.fing.com
 Fing desktop
 www.fing.com*
+Grafana Loki
+Grafana Mimir
+Grafana OSS
+Grafana Pyroscope
+Grafana Tempo
+https://github.com/grafana/*
+Non-Core Grafana Plugins
 955837609
 com.here.app.maps
 https://jaguar.here.com
