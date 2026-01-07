@@ -182,13 +182,6 @@ service.fing.com
 app.fing.com
 Fing desktop
 www.fing.com*
-Grafana Loki
-Grafana Mimir
-Grafana OSS
-Grafana Pyroscope
-Grafana Tempo
-https://github.com/grafana/*
-Non-Core Grafana Plugins
 955837609
 com.here.app.maps
 https://jaguar.here.com
@@ -568,6 +561,18 @@ login.arkane.network
 login.venly.io
 wallet.venly.io
 api-wallet-sandbox.venly.io
+1467907532
+alchemy.veriff.com
+api.flamingo-eu.veriff.com
+api.us.veriff.me
+api.veriff.me
+com.veriff.demo
+louvre.veriff.me
+magic.veriff.me
+station.veriff.com
+stationapi.veriff.com
+developers.veriff.me
+www.veriff.com
 1395921017
 https://api.voiapp.io/
 io.voiapp.voi
