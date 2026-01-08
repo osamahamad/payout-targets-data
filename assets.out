@@ -1005,7 +1005,6 @@
 *.vayama.com
 *.venmo.com
 *.vennhypotheken.nl
-*.veriff.com
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
@@ -1197,7 +1196,6 @@
 146.109.68.0/24
 146.109.8.0/21
 146.109.8.0/22
-1467907532
 1474700 (Steam app id)
 1475021574
 1476615877
@@ -1815,6 +1813,7 @@ CoinMarketCap iOS app
 Coinbase WaaS (Wallet as a Service)
 ColdFusion
 ColorOS
+CometBFT
 Community Management & Communications
 Compass
 Content Authorization Targets
@@ -1828,6 +1827,8 @@ Copilot for Business
 Core Assets
 Core Product
 Corporate Assets
+CosmWasm
+Cosmos SDK
 CounterAct 8.4
 CrowdStrike public infrastructure
 Crowdsignal
@@ -2037,11 +2038,14 @@ Harmony Remotes
 Helium Hotspot
 HelloFax.com
 HelloSign.com
+Hermes Relayer
+Horcrux
 HubSpot Android Mobile App
 HubSpot Sales Office 365 add-in
 HubSpot iOS Mobile App
 Hyperdrive
 HyprUnlock.exe
+IBC Go Relayer
 ICIParisXL.App.Android
 ICIParisXL.App.IOS
 IT Infrastructure
@@ -2088,6 +2092,7 @@ Kruidvat.Belgium.Android
 Kruidvat.Belgium.iOS
 Kruidvat.Netherlands.Android
 Kruidvat.Netherlands.iOS
+Lansweeper Discovery
 LaunchDarkly Open Source SDKs
 Leaked Credentials
 Leaked Credentials and Secrets (Canva Employee/Contractor)
@@ -2171,7 +2176,6 @@ Mi/Redmi Phone
 Microsites
 Mobile Applications
 Mobile Apps
-Modernized Discovery
 MoneyBack.HongKong.Android
 MoneyBack.HongKong.iOS
 MongoDB Assistant
@@ -2282,6 +2286,7 @@ PIA VPN servers
 PNS.HongKong.Android
 PNS.HongKong.iOS
 PTaaS Reference
+Packet Forward Middleware
 Passkey Wallet
 Password Sync for macOS
 PayPal SDK
@@ -2392,6 +2397,7 @@ Software
 Software Supply Chain
 Software: Mali GPU Kernel Driver
 Solarbank 2 E1600 Pro
+Solidity IBC Eureka
 Sonantic
 Sophos Firewall (XG/XGS, SFOS) - Pre-auth RCE
 Sophos IT Infrastructure (all other Sophos domains)
@@ -2714,7 +2720,6 @@ airFiber
 airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 akismet.com
-alchemy.veriff.com
 alert.logitech.com
 alexa.amazon.com
 alexaanswers.amazon.com
@@ -2814,7 +2819,6 @@ api.ezvizlife.com
 api.faraday.ai
 api.fi.dyson.com
 api.figma.com
-api.flamingo-eu.veriff.com
 api.foliofn.com
 api.fortress.com.hk
 api.geneva-staging.com
@@ -2904,9 +2908,7 @@ api.truelayer[-sandbox].com
 api.tumblr.com
 api.unleashed.be
 api.upwork.com/graphql
-api.us.veriff.me
 api.vault.chiatest.net
-api.veriff.me
 api.vhx.tv
 api.vimeo.com
 api.watsons.co.id
@@ -3599,7 +3601,6 @@ com.urbanclap.provider
 com.urbanclap.urbanclap
 com.valvesoftware.Steam
 com.venmo
-com.veriff.demo
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
 com.vodafone.mpesa.drc
@@ -3803,7 +3804,6 @@ developer.worldcoin.org
 developers.cloudways.com
 developers.reddit.com
 developers.tiktok.com
-developers.veriff.me
 device.marriott.com
 dh-gw-cf.*.aws.indriverapp.com
 diabrowser.com
@@ -3932,6 +3932,7 @@ fareharborsites.com
 fashion4less.me
 faucet-api.polygon.technology/
 faucet.polygon.technology
+fb.lansweeper.com
 fch-cf.*.aws.indriverapp.com
 fe-cf.*.aws.indriverapp.com
 fe-gw-cf.*.aws.indriverapp.com
@@ -4973,6 +4974,10 @@ https://github.com/cmdotcom
 https://github.com/coinbase/cb-mpc
 https://github.com/contentauth/c2pa-js
 https://github.com/contentauth/c2pa-rs
+https://github.com/cosmos/gaia
+https://github.com/cosmos/iavl
+https://github.com/cosmos/ics23
+https://github.com/cosmos/ledger-cosmos
 https://github.com/curl/curl
 https://github.com/digitalocean/do-agent
 https://github.com/digitalocean/do-markdownit
@@ -4993,6 +4998,9 @@ https://github.com/freedomofpress/securedrop-workstation
 https://github.com/grafana/*
 https://github.com/immutable/ts-immutable-sdk/tree/main/packages/passport/
 https://github.com/innocraft/
+https://github.com/iqlusioninc/crates/tree/main/signatory
+https://github.com/iqlusioninc/tmkms
+https://github.com/iqlusioninc/yubihsm.rs
 https://github.com/jenkinsci/credentials-binding-plugin
 https://github.com/jenkinsci/credentials-plugin
 https://github.com/jenkinsci/jelly
@@ -5175,6 +5183,7 @@ https://github.com/ruby
 https://github.com/ruby/ruby
 https://github.com/rubygems/rubygems
 https://github.com/rust-lang/rust
+https://github.com/skip-mev/go-fast-contracts
 https://github.com/slackhq/nebula
 https://github.com/smartcontractkit/chainlink
 https://github.com/smartcontractkit/chainlink-evm/tree/develop/contracts
@@ -6794,6 +6803,7 @@ iRobot Roomba™ 705
 ia.tvg.com
 iam.atg.se
 iat.it.xvservice.net
+ibc-go
 ichnaea.netflix.com
 icl-cf.*.aws.indriverapp.com
 id.heytap.com
@@ -7004,7 +7014,6 @@ logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
 lookatme.com.ph
 lookup.nextcloud.com
-louvre.veriff.me
 lrc20.lightspark.com
 luxfilmfestfilms.megatix.be
 luxfilmfestproducts.megatix.be
@@ -7022,7 +7031,6 @@ m.reddit.com
 m.trendyol.com
 mUSD Stablecoin
 magento.com
-magic.veriff.me
 magiceden.io
 magisto.com,www.magisto.com
 mail.hostinger.com/v2
@@ -7807,8 +7815,6 @@ staking-api.polygon.technology
 staking.polygon.technology
 start.khealth.com
 static.apps.nextcloud.com
-station.veriff.com
-stationapi.veriff.com
 stats-trafficcop-prod.nba.com
 stats.gleague.nba.com
 stats.nba.com
@@ -8277,6 +8283,7 @@ www.gamma.nl/*
 www.geneva-staging.chat
 www.geneva-staging.com
 www.getaroom.com
+www.github.com/cosmos/evm
 www.giving.marriott.com
 www.gocardless.com
 www.goodrx.com
@@ -8469,7 +8476,6 @@ www.urbanclap.com
 www.urbancompany.com
 www.uzleuven.be
 www.valvesoftware.com
-www.veriff.com
 www.vfsvisaonline.com
 www.vfsvisaservicesrussia.com
 www.vimeo.com
