@@ -1096,6 +1096,7 @@ api*.hubapi.com
 api*.hubspot.com
 api*.netflix.com
 api-*.soundcloud.com
+api-gw-cf.*.aws.indriverapp.com
 app*.hubspot.com
 app-*.easy4ipcloud.com
 as-cf.*.aws.indriverapp.com
@@ -1104,6 +1105,7 @@ ath-cf.*.aws.indriverapp.com
 ath-gw-cf.*.aws.indriverapp.com
 baf-cf.*.aws.indriverapp.com
 bdu-cf.*.aws.indriverapp.com
+bid.*.aws.indriverapp.com
 bugcrowd-*your-own-instance*.cloud.mattermost.com/
 cas-cf.*.aws.indriverapp.com
 casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
@@ -1129,6 +1131,7 @@ googleplace*.bykea.net
 gt-cf.*.aws.indriverapp.com
 gt-gw-cf.*.aws.indriverapp.com
 gvt-cf.*.aws.indriverapp.com
+ic3.*.indriverapp.com
 icl-cf.*.aws.indriverapp.com
 idp-cf.*.aws.indriverapp.com
 in-cf.*.aws.indriverapp.com
@@ -1140,6 +1143,7 @@ isa-cf.*.aws.indriverapp.com
 kronos*.bykea.net
 loadboard*.bykea.net/
 matrix.agent.*.tchap.gouv.fr
+mch*.indriverapp.com
 msg-cf.*.aws.indriverapp.com
 msg-gw-cf.*.aws.indriverapp.com
 munin-*.wordpress.org
@@ -1151,12 +1155,14 @@ onboarding-*.cloud.com
 open redirect at *.epam.com
 pa-cf.*.aws.indriverapp.com
 pa-gw-cf.*.aws.indriverapp.com
+pay*.indriverapp.com
 pc-cf.*.aws.indriverapp.com
 pc-gw-cf.*.aws.indriverapp.com
 pm-cf.*.aws.indriverapp.com
 pm-gw-cf.*.aws.indriverapp.com
 pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
+pr*.indriverapp.com
 pr-gw-cf.*.aws.indriverapp.com
 prod-*.nu.com.co
 prod-*.nu.com.mx
@@ -1177,7 +1183,9 @@ sks-*.exo.io
 sn-api-cf.*.aws.indriverapp.com
 sn-api-gw-cf.*.aws.indriverapp.com
 sos-*.exo.io
+st*.indriverapp.com
 storage*.infomaniak.com
+sub*.aws.indriverapp.com
 support*.earlywarning.com
 sur-cf.*.aws.indriverapp.com
 swiss-backup*.infomaniak.com
@@ -1188,6 +1196,7 @@ txm-cf.*.aws.indriverapp.com
 vcc-*.8x8.com
 vm-gw-cf.*.aws.indriverapp.com
 was-gw-cf.*.aws.indriverapp.com
+wd2*.indriverapp.com
 wlr-cf.*.aws.indriverapp.com
 www.paypal-*.com
 xhomeapi-*.cloud.comcast.net

@@ -2159,6 +2159,7 @@ Marionnaud.Romania.Android
 Marionnaud.Romania.iOS
 Marionnaud.Switzerland.Android
 Marionnaud.Switzerland.iOS
+Mbed TLS & TF-PSA-Crypto
 Media Encoder
 Megaphone
 Membership
@@ -2239,6 +2240,7 @@ OKX Wallet Edge Add-ons
 OKX Wallet Safari Extension
 OKX iOS APP
 ONCE: Campfire
+OP-TEE
 Observability - APM Agents
 Observability - APM Server
 Official WordPress plugins
@@ -2500,6 +2502,8 @@ Trello Third Party Powerups
 Tribal Wars
 TrueLayer for Magento (Magento plugin)
 TrueLayer for WooCommerce (WordPress plugin)
+TrustedFirmware-A (TF-A)
+TrustedFirmware-M (TF-M)
 TrustedServer 100,000 Bonus Award (See Program Policy for Info)
 Trustwallet Android App
 Trustwallet Chrome Extension
@@ -2751,6 +2755,7 @@ api-accpt.portofantwerpbruges.com
 api-dashboard.search.brave.com
 api-eu.floqast.app
 api-gateway.polygon.technology
+api-gw-cf.*.aws.indriverapp.com
 api-js.datadome.co
 api-partner.spotify.com
 api-polygon-tokens.polygon.technology/
@@ -3104,6 +3109,7 @@ bestfiends.com
 beta-cloud.acronis.com
 bettrfinancing.com
 bgpview.io
+bid.*.aws.indriverapp.com
 bigcommerce-adapter.judge.me
 bild.de
 billing-pci.etoro.com
@@ -3123,6 +3129,7 @@ blocklist.opera-api.com
 blog.23andme.com
 blog.creditkarma.com
 blog.cs.money
+blog.indrive.com
 blog.malwarebytes.com
 blog.playcanvas.com
 blog.remitly.com
@@ -3772,6 +3779,7 @@ deeplinks.geneva-staging.chat
 deeplinks.geneva-staging.com
 defi.ripio.com
 delen/id1064839588
+delivery-webview.indrive.com
 delta.app
 demo.arkoselabs.com
 demo.dynamic.xyz
@@ -4889,15 +4897,6 @@ https://github.com/0xPolygon/chain-indexer-framework
 https://github.com/0xPolygon/heimdall-v2
 https://github.com/0xPolygon/lxly.js
 https://github.com/0xPolygon/static
-https://github.com/AikidoSec/firewall-node#Detection Bypass
-https://github.com/AikidoSec/firewall-node#False Positive
-https://github.com/AikidoSec/firewall-node#Vulnerability
-https://github.com/AikidoSec/firewall-php#Detection Bypass
-https://github.com/AikidoSec/firewall-php#False Positive
-https://github.com/AikidoSec/firewall-php#Vulnerability
-https://github.com/AikidoSec/firewall-python#Detection Bypass
-https://github.com/AikidoSec/firewall-python#False Positive
-https://github.com/AikidoSec/firewall-python#Vulnerability
 https://github.com/Aiven
 https://github.com/Aiven-Open
 https://github.com/Chia-Network/chia-blockchain
@@ -6812,6 +6811,7 @@ ia.tvg.com
 iam.atg.se
 iat.it.xvservice.net
 ibc-go
+ic3.*.indriverapp.com
 ichnaea.netflix.com
 icl-cf.*.aws.indriverapp.com
 id.heytap.com
@@ -6873,6 +6873,7 @@ internal.netlify.com
 international.coinbase.com
 interseller.io
 investors.semrush.com
+invisionu.education
 invitation.infomaniak.com
 invoices.razorpay.com
 io.coda
@@ -7087,6 +7088,7 @@ mcdalerts-perf.nba.com
 mcdalerts-qa.nba.com
 mcdalerts-uat.nba.com
 mcdalerts.nba.com
+mch*.indriverapp.com
 mds.marriott.com
 mds.voiapp.io
 media.drogas.lt
@@ -7395,6 +7397,7 @@ partners.shopify.com
 passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
+pay*.indriverapp.com
 pay-api.truelayer[-sandbox].com
 pay-sandbox.gocardless.com
 pay.8x8.com
@@ -7485,6 +7488,7 @@ portland.wnba.com
 portswigger.net
 pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
+pr*.indriverapp.com
 pr-gw-cf.*.aws.indriverapp.com
 practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
@@ -7814,6 +7818,7 @@ sso.mangerbouger.fr
 sso.marriott.com
 sso.oft.hyatt.com
 ssu.myconnect.com.au/signup/get-connected 
+st*.indriverapp.com
 stage.landmarkcinemas.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 staging-app.bany.dev
@@ -7863,6 +7868,7 @@ sts.etoro.com
 sts.uzleuven.be
 studio-api.swapcard.com
 studio.swapcard.com
+sub*.aws.indriverapp.com
 sun-dev.wnba.com
 sun-qa.wnba.com
 sun.wnba.com
@@ -8081,6 +8087,7 @@ wallets.api.playstation.com
 was-gw-cf.*.aws.indriverapp.com
 watchdocs.indriverapp.com
 watchlistapi.etoro.com
+wd2*.indriverapp.com
 weather.opera-api.com
 web-message-high.lime.bike
 web-message.lime.bike

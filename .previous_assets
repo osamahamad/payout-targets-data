@@ -2982,6 +2982,7 @@ api-dashboard.search.brave.com
 api-eu.floqast.app
 api-frontend.pab.porsche.com
 api-gateway.polygon.technology
+api-gw-cf.*.aws.indriverapp.com
 api-js.datadome.co
 api-partner.spotify.com
 api-polygon-tokens.polygon.technology/
@@ -3378,6 +3379,7 @@ bestfiends.com
 beta-cloud.acronis.com
 bettrfinancing.com
 bgpview.io
+bid.*.aws.indriverapp.com
 bigcommerce-adapter.judge.me
 bild.de
 billing-pci.etoro.com
@@ -3399,6 +3401,7 @@ blocklist.opera-api.com
 blog.23andme.com
 blog.creditkarma.com
 blog.cs.money
+blog.indrive.com
 blog.malwarebytes.com
 blog.playcanvas.com
 blog.remitly.com
@@ -4110,6 +4113,7 @@ deeplinks.geneva-staging.chat
 deeplinks.geneva-staging.com
 defi.ripio.com
 delen/id1064839588
+delivery-webview.indrive.com
 delta.app
 demo.arkoselabs.com
 demo.cloud.databricks.com
@@ -7428,6 +7432,7 @@ ia.tvg.com
 iam.atg.se
 iat.it.xvservice.net
 ibc-go
+ic3.*.indriverapp.com
 ichnaea.netflix.com
 icl-cf.*.aws.indriverapp.com
 id.avtoelon.uz
@@ -7505,6 +7510,7 @@ interseller.io
 inventory.data.gov
 investorrelations.porsche.de
 investors.semrush.com
+invisionu.education
 invitation.infomaniak.com
 invoices.razorpay.com
 io.coda
@@ -7747,6 +7753,7 @@ mcdalerts-perf.nba.com
 mcdalerts-qa.nba.com
 mcdalerts-uat.nba.com
 mcdalerts.nba.com
+mch*.indriverapp.com
 mds.marriott.com
 mds.voiapp.io
 media.drogas.lt
@@ -8092,6 +8099,7 @@ partners.shopify.com
 passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
+pay*.indriverapp.com
 pay-api.truelayer[-sandbox].com
 pay-sandbox.gocardless.com
 pay.8x8.com
@@ -8235,6 +8243,7 @@ portland.wnba.com
 portswigger.net
 pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
+pr*.indriverapp.com
 pr-gw-cf.*.aws.indriverapp.com
 practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
@@ -8586,6 +8595,7 @@ sso.mangerbouger.fr
 sso.marriott.com
 sso.oft.hyatt.com
 ssu.myconnect.com.au/signup/get-connected 
+st*.indriverapp.com
 stage.landmarkcinemas.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 staging-app.bany.dev
@@ -8648,6 +8658,7 @@ studiofaporsche.at
 studiofaporsche.com
 studiofaporsche.de
 studiofaporsche.net
+sub*.aws.indriverapp.com
 sun-dev.wnba.com
 sun-qa.wnba.com
 sun.wnba.com
@@ -8884,6 +8895,7 @@ wallets.api.playstation.com
 was-gw-cf.*.aws.indriverapp.com
 watchdocs.indriverapp.com
 watchlistapi.etoro.com
+wd2*.indriverapp.com
 weather.opera-api.com
 web-message-high.lime.bike
 web-message.lime.bike
