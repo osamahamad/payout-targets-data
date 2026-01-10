@@ -256,6 +256,7 @@
 *.dailymotion.com
 *.dancecentral.com
 *.dcfgateway.marriott.com
+*.de.jbl.com
 *.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
@@ -425,6 +426,8 @@
 *.hackerone-ext-content.com
 *.hackerone-user-content.com/
 *.happening.dev
+*.harmanaudio.com
+*.harmankardon.com
 *.harmonixmusic.com
 *.harmonyremote.com
 *.hellofax.com
@@ -469,6 +472,7 @@
 *.immutable.com
 *.imperva.com
 *.imtbl.com
+*.in.jbl.com
 *.in2tel.ie
 *.incapsula.com
 *.indeed.net
@@ -491,6 +495,10 @@
 *.internal.exoscale.ch
 *.intigriti.me
 *.itcapital.io
+*.jbl.com
+*.jbl.com.br
+*.jbl.nl
+*.jbl.ru
 *.jit.si
 *.jitsi.net
 *.jobapi.net
@@ -912,6 +920,7 @@
 *.superbet.rs
 *.superdrug.com
 *.superhuman.com
+*.support.jbl.com
 *.support.originenergy.com.au
 *.swiftype.com
 *.swisspass.ch
@@ -988,6 +997,8 @@
 *.ui.com/distributors/
 *.ui.com/training/partners/
 *.uisp.com
+*.uk.harmanaudio.com
+*.uk.jbl.com
 *.ultimateearsuniversity.com
 *.unreal-agents.com
 *.unreal-agents.jitsi.net
@@ -1143,8 +1154,6 @@
 1091010942
 10x.redoxengine.com
 1101145849
-1114799709
-1114800186
 1116488672
 1118448159
 1127881507
@@ -2885,7 +2894,6 @@ api.slack.com
 api.smtp2go.com
 api.sokos.fi
 api.sorare.com
-api.soundtrackyourbrand.com
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -3099,7 +3107,6 @@ bid.*.aws.indriverapp.com
 bigcommerce-adapter.judge.me
 bild.de
 billing-pci.etoro.com
-billing.api.soundtrackyourbrand.com
 billing.etoro.com
 billingsupport.chaturbate.com
 bilt.marriott.com
@@ -3158,7 +3165,6 @@ bugcrowd-pam-###.pam.oktapreview.com
 bugzilla.mozilla.org
 builder.hostinger.com
 building-blocks.com
-builds.soundtrackyourbrand.com
 bullsheet.me
 business-resources.truecaller.com
 business.kayak.com
@@ -3168,7 +3174,6 @@ business.kinepolis.nl
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
-business.soundtrackyourbrand.com
 business.tiktok.com
 business.truecaller.com
 businesshelp.snapchat.com
@@ -3556,7 +3561,6 @@ com.skypicker.Skypicker
 com.skypicker.main
 com.slack.slackmdm
 com.snapchat.android
-com.soundtrackyourbrand.soundtrack.player
 com.spotify.client
 com.spotify.kids
 com.spotify.music
@@ -4549,7 +4553,6 @@ https://audience-builder.vistarmedia.com
 https://audio.20min.ch/
 https://aus.api.just-eat.io/
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
-https://auth.api.soundtrackyourbrand.com/
 https://auth.datadome.co
 https://auth.immutable.com
 https://auth.lastpass.com
@@ -4619,7 +4622,6 @@ https://bugcrowd-pam-###.oktapreview.com
 https://bugcrowd-pam-###.workflows.oktapreview.com
 https://bugcrowd.com/programs
 https://bugs.opera.com/
-https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
@@ -6076,7 +6078,6 @@ https://prozentoomat.toom.de
 https://pt-runner.app.ridewithvia.com
 https://pyszne.pl
 https://quantum-events.onecloud.harman.com
-https://radio.api.soundtrackyourbrand.com/
 https://rc.fstr.rocks
 https://rec.net/
 https://rec.net/download
@@ -6454,6 +6455,8 @@ https://www.bitpanda.com/academy/en/
 https://www.blockchain.com/
 https://www.bluehost.com/
 https://www.bookbeat.com
+https://www.bostonacoustics.com
+https://www.bowerswilkins.com
 https://www.bwin.com
 https://www.canva.com
 https://www.canva.com/developers/
@@ -6467,6 +6470,7 @@ https://www.chime.com
 https://www.chipotle.co.uk
 https://www.chipotle.com
 https://www.classdojo.com
+https://www.classeaudio.com
 https://www.cloudvector.com/
 https://www.coindesk.com/
 https://www.coinspot.com.au/v2/api
@@ -6484,10 +6488,12 @@ https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&t
 https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
 https://www.decathlon.(ch|fr|hu|pl|ro|cz|com.tr)/
 https://www.decathlon.(co.uk|it|nl|de|pt|es|be)/
+https://www.definitivetechnology.com
 https://www.demandforced3.com/
 https://www.demarches-simplifiees.fr
 https://www.demarches-simplifiees.fr/api/v2/graphql
 https://www.demarches-simplifiees.fr/graphql
+https://www.denon.com
 https://www.designify.com
 https://www.drogas.lt/blog
 https://www.drogas.lv/blog/
@@ -6567,6 +6573,7 @@ https://www.magicplanetmena.com/
 https://www.malloftheemirates.com
 https://www.mankind.co.uk/
 https://www.mapbox.com/mapbox-gl-js/
+https://www.marantz.com
 https://www.marionnaud.at/blog/
 https://www.marionnaud.at/m-life/
 https://www.marionnaud.ch/blog/
@@ -6640,6 +6647,7 @@ https://www.pinelabs.my/
 https://www.pinelabs.us/
 https://www.pixpay.fr/
 https://www.planethoster.com
+https://www.polkaudio.com
 https://www.pornhub.com/
 https://www.pornhubpremium.com/
 https://www.premogiftcards.com
@@ -6669,7 +6677,6 @@ https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
 https://www.sophos.com/en-us/products/mobile-control/free-trial
 https://www.sophos.com/en-us/products/next-gen-firewall
-https://www.soundtrackyourbrand.com
 https://www.sourcetreeapp.com/
 https://www.staging.jobstreet.co.id
 https://www.staging.jobstreet.com.my
@@ -7024,7 +7031,6 @@ m.chaturbate.com
 m.reddit.com
 m.trendyol.com
 mUSD Stablecoin
-macOS app
 magento.com
 magiceden.io
 magisto.com,www.magisto.com
