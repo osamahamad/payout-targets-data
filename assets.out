@@ -219,7 +219,6 @@
 *.chimecard.com
 *.chimepayments.com
 *.chmfin.com
-*.cic-bug-bounty.auth0app.com
 *.citrixworkspacesapi.net
 *.claritymoney.com
 *.classdojo.co.uk
@@ -2009,6 +2008,11 @@ Glassdoor Jobs
 Glassdoor iOS
 GlotPress
 Google Cloud Plateform Instances
+Grafana Loki
+Grafana Mimir
+Grafana OSS
+Grafana Pyroscope
+Grafana Tempo
 Grammarly Browser Extensions
 Grammarly Desktop for Windows
 Grammarly Desktop for macOS
@@ -2126,7 +2130,6 @@ Low Cost Access
 Low impact, individually exposed Google Docs with no common root cause (see “Publicly accessible Google Document or Drive Links” in the “Corporate Targets” section)
 Luna
 MFA
-MFA Integrations	
 MIUI OS for Xiaomi Phone
 Mac OS Executable
 Mac OS Executable: Download here https://www.larksuite.com/download
@@ -2216,6 +2219,7 @@ Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
 Non Altera Products
 Non-Core Assets
+Non-Core Grafana Plugins
 NordPass - Linux Executable
 NordPass - MacOS Executable
 NordPass - Windows Executable
@@ -3058,9 +3062,7 @@ auth.remitly.com
 auth.services.adobe.com
 auth.skypicker.com
 auth.truelayer[-sandbox].com
-auth0.com	
 auth0.gocardless.com
-auth0.net
 authentication.wolt.com
 autocomplete.booking.com
 autodiscover.bitstamp.net
@@ -3654,7 +3656,6 @@ compass.fareharbor.com
 competitive.fortnite.com
 components.stag.tomorrowland.com
 components.tomorrowland.com
-config.cic-bug-bounty.auth0app.com
 configure.bmw.de
 configure.mini.de
 confluence.hyattdev.com
@@ -4334,7 +4335,6 @@ https://api.toom.de
 https://api.tripadvisor.com
 https://api.twilio.com
 https://api.unity.com
-https://api.us1.fga.dev/
 https://api.usaa.com/
 https://api.vistarmedia.com
 https://api.vistarmedia.eu
@@ -4462,7 +4462,6 @@ https://apps.apple.com/us/app/3cx/id992045982
 https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
 https://apps.apple.com/us/app/anytask-com/id6741158899
 https://apps.apple.com/us/app/asana-mobile/id489969512
-https://apps.apple.com/us/app/auth0-guardian/id1093447833
 https://apps.apple.com/us/app/backblaze/id628638330
 https://apps.apple.com/us/app/bforbank-banque-en-ligne/id1607839793
 https://apps.apple.com/us/app/bitgo-verify/id1608937235
@@ -4710,13 +4709,11 @@ https://cstg-integ.uidapi.com
 https://customer-api.datadome.co
 https://customer-portal.paddle.com
 https://customerportal.winconnect.com.au/login
-https://customers.us1.fga.dev/
 https://cw-api.takeaway.com
 https://d1.utv.usaa.com
 https://d2.utv.usaa.com
 https://dash.zoop.com.br/
 https://dashboard-101.moengage.com
-https://dashboard.fga.dev/
 https://dashboard.pantheon.io
 https://dashboard.rapyd.net/
 https://dashboard.sendbird.com/
@@ -4927,14 +4924,6 @@ https://github.com/apache/airflow
 https://github.com/apache/httpd
 https://github.com/apache/tomcat
 https://github.com/argoproj/argoproj
-https://github.com/auth0/Auth0.Net
-https://github.com/auth0/auth0-java
-https://github.com/auth0/auth0-php
-https://github.com/auth0/auth0-spa-js
-https://github.com/auth0/auth0.js
-https://github.com/auth0/lock
-https://github.com/auth0/nextjs-auth0
-https://github.com/auth0/react-native-auth0
 https://github.com/bigbluebutton/bbb-playback
 https://github.com/bigbluebutton/bbb-presentation-video
 https://github.com/bigbluebutton/bbb-webrtc-recorder
@@ -4994,6 +4983,7 @@ https://github.com/expressvpn/lightway
 https://github.com/freedomofpress/securedrop
 https://github.com/freedomofpress/securedrop-client
 https://github.com/freedomofpress/securedrop-workstation
+https://github.com/grafana/*
 https://github.com/immutable/ts-immutable-sdk/tree/main/packages/passport/
 https://github.com/innocraft/
 https://github.com/jenkinsci/credentials-binding-plugin
@@ -5345,7 +5335,6 @@ https://m.csqtrk.net
 https://m.thefork.com
 https://maf-holding-prod.apigee.net
 https://makeshift.film
-https://manage.cic-bug-bounty.auth0app.com/
 https://manage.statuspage.io
 https://manager.thefork.com
 https://manager.trial.lsk.lightspeed.app/	
@@ -5690,7 +5679,6 @@ https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosti
 https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=server
 https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
-https://marketplace.auth0.com
 https://marketplace.ifood.com.br
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
 https://master.servicecentre.digitalservicing-np.lfscnp.com/
@@ -5881,7 +5869,6 @@ https://pit.water-link.be/
 https://pixabay.com/
 https://platform.infiniteathlete.ai
 https://platform.openai.com/playground
-https://play.fga.dev/
 https://play.google.com/store/apps/details?hl=en&id=co.bitx.android.wallet
 https://play.google.com/store/apps/details?id=au.com.optus.selfservice&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=au.com.realestate.app
@@ -5900,7 +5887,6 @@ https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.c
 https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.atlassian.confluence.server
 https://play.google.com/store/apps/details?id=com.atlassian.jira.server&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.auth0.guardian&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.backblaze.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.belongi.moe
 https://play.google.com/store/apps/details?id=com.bforbank.android
@@ -6906,7 +6892,6 @@ js.stripe.com
 jss.greenhouse.io
 judge.me
 juicer.lime.bike
-jwt.io
 k8s.gcr.io
 k8s.io
 kaccount.khealth.com
@@ -7351,7 +7336,6 @@ open.ys7.com
 openapi.m-pesa.com
 openapi.starbucks.com
 openapiportal.m-pesa.com
-openidconnect.net	
 opposhop.cn
 oprc.portofantwerpbruges.com
 ops.lime.bike
@@ -7651,7 +7635,6 @@ s3://faraday-uploads
 safe.tumblr.com
 salesforce.khealth.com
 salesportal.hyatt.com
-samltool.io	
 sandbox-b2b.ripio.com
 sandbox-royal.securegateway.com
 sandbox.affirm.com
@@ -8097,7 +8080,6 @@ webapps-accpt.portofantwerpbruges.com
 webapps-test.portofantwerpbruges.com/xui
 webapps.portofantwerp.com
 webapps.portofantwerpbruges.com
-webauthn.me	
 webgateway.koho.ca
 webhooks.booking.com
 webhooks.truelayer[-sandbox].com

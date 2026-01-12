@@ -3,10 +3,11 @@
 *.central.arubanetworks.com
 *.app.asana.com
 *.asana.biz
+*.app.asana.com
+*.asana.biz
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
 *.atlastunnel.com
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
-*.cic-bug-bounty.auth0app.com
 *.twistys.com
 *.brazzers.com
 *.mofos.com
