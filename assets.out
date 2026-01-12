@@ -1650,7 +1650,6 @@ All In Scope Targets
 All Mobile Assets
 All Motorola Devices running Android 13 and above. 
 All Other BitMEX Assets
-All internet facing Sky DACH assets
 All internet facing Sky Italy assets 
 All internet facing Sky UK/ROI assets
 All other Assets
@@ -4978,6 +4977,7 @@ https://github.com/coinbase/cb-mpc
 https://github.com/contentauth/c2pa-js
 https://github.com/contentauth/c2pa-rs
 https://github.com/curl/curl
+https://github.com/digitalocean/action-doctl
 https://github.com/digitalocean/do-agent
 https://github.com/digitalocean/do-markdownit
 https://github.com/digitalocean/doctl
