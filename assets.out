@@ -55,6 +55,7 @@
 *.account.api.here.com
 *.account.here.com
 *.accounts.realestate.com.au
+*.acesso.io
 *.acrobat.adobe.com
 *.acronis.com
 *.acronis.work
@@ -188,6 +189,7 @@
 *.bykea.net
 *.byspotify.com
 *.bz-berlin.de
+*.cadastro.uat.unico.app
 *.caesarsgames.com
 *.call-control.ie
 *.canva-apps.cn
@@ -313,7 +315,6 @@
 *.emakina.nl 
 *.emakina.us
 *.employer.seek.com
-*.enjinusercontent.com
 *.enspotify.com
 *.eops.nl
 *.epam.com
@@ -1002,6 +1003,7 @@
 *.uk.harmanaudio.com
 *.uk.jbl.com
 *.ultimateearsuniversity.com
+*.unico.io
 *.unreal-agents.com
 *.unreal-agents.jitsi.net
 *.unrealengine.com
@@ -1917,10 +1919,6 @@ Elastic Synthetics Monitoring
 Elasticsearch
 Elvenar
 Engadget
-Enjin - Ethereum ERC-1155 Contract
-Enjin Blockchain
-Enjin Coin - Ethereum ERC-20 Contract
-Enjin Indexer
 Eno® Browser Extension
 Enterprise Edition Products and Tools
 EpicGamesLauncher.exe    
@@ -2660,6 +2658,7 @@ Zendesk Suite
 Zivver Chrome Extension
 Zivver OWA add-in
 Zivver Outlook Plugin
+[Unico] Liveness Bypass
 _16928ca3f53f40a48a751be40fa24e4c.bitstamp.net
 _domainconnect.bitstamp.net
 a.root-servers.net (DNS service; DNS related)
@@ -2867,6 +2866,7 @@ api.hackerone.com
 api.iciparisxl.be
 api.iciparisxl.lu
 api.iciparisxl.nl
+api.id.unico.app
 api.infomaniak.com
 api.instacart.com
 api.khealth.com
@@ -3106,6 +3106,7 @@ autoupdateapi.lansweeper.com
 aw.visa.com
 ax-stage.maventa.com
 b5s.hackerone-ext-content.com
+backend-sdk.prod.private.unico.run
 backoffice.lansweeper.com
 backstage.io
 badoo.com
@@ -3444,7 +3445,6 @@ com.dyson.mobile.android
 com.ebookers
 com.eero.android
 com.einnovation.temu
-com.enjin.mobile.wallet
 com.etoro.openbook
 com.etoro.wallet
 com.eufylife.EufyHome
@@ -6870,12 +6870,14 @@ identity-dev.nba.com
 identity-ng.nba.com
 identity-qa.nba.com
 identity-uat.nba.com
+identity.acesso.io
 identity.nba.com
 identity.stage.vismaonline.com
 identity.yoti.com
 identityserver-acc.landmarkcinemas.com
 identityserver.landmarkcinemas.com
 idp-cf.*.aws.indriverapp.com
+idpay.unico.io
 ifast.marriott.com
 iframe.arkoselabs.com
 ifttt-adaptor.pub.kube.dm.gg
@@ -7350,7 +7352,6 @@ nextcloud/user_saml
 nextcloud/viewer
 nextcloud/workflow_script
 nft.coinbase.com
-nft.io
 nha-cf.*.aws.indriverapp.com
 nha-gw-cf.*.aws.indriverapp.com
 niantic.kidswebservices.com
@@ -7496,7 +7497,6 @@ plannerrequest.hyatt.com
 platform.8x8.com
 platform.8x8pilot.com
 platform.cloudways.com
-platform.enjin.io
 platform.remix.com
 play.google.com/store/apps/details?id=com.crowdstrike.falconmobile
 play.google.com/store/apps/details?id=fr.assurancemaladie.monespacesante&showAllReviews=true (Android)
@@ -8019,6 +8019,7 @@ tr-gw-cf.*.aws.indriverapp.com
 trade.ripio.com
 training.ui.com
 transact.playstation.com
+transactions.transactional.unico.app
 translate.badoo.com
 travelagents.marriott.com/
 traveler.marriott.com
@@ -8615,7 +8616,10 @@ www10.watsons.com.ph
 www10.watsons.com.sg
 www10.watsons.com.tw
 www10.watsons.vn
+www2.acesso.io
 www20.watsons.co.th
+www3.acesso.io
+www4.acesso.io
 x.com
 x.razorpay.com
 xFi Gateways (e.g., XB3, XB6, XB7)

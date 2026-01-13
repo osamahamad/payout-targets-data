@@ -372,6 +372,15 @@ klarnacdn.net
 portal.openbanking.playground.klarna.com
 pricerunner.com
 xs2a.banking.playground.klarna.com
+[Unico] Liveness Bypass
+api.id.unico.app
+backend-sdk.prod.private.unico.run
+identity.acesso.io
+idpay.unico.io
+transactions.transactional.unico.app
+www2.acesso.io
+www3.acesso.io
+www4.acesso.io
 Crypto infrastructure for cold and hot wallets
 pay.wallet.tg
 wallet.tg
@@ -2941,14 +2950,6 @@ www.kiwi.com
 https://github.com/discourse/discourse
 try.discourse.org
 Helium Hotspot
-Enjin - Ethereum ERC-1155 Contract
-Enjin Blockchain
-Enjin Coin - Ethereum ERC-20 Contract
-Enjin Indexer
-com.enjin.mobile.wallet
-com.enjin.mobile.wallet
-nft.io
-platform.enjin.io
 Nintendo Switch 2 Kernel / ARM® TrustZone®
 Nintendo Switch 2 Security controller known as PSC or Platform Security Controller (any component) / Security controller known as TSEC (bootROM only)
 Nintendo Switch 2 System Processes

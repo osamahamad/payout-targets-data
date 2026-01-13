@@ -59,6 +59,7 @@
 *.account.here.com
 *.account.mongodb.com/*
 *.accounts.realestate.com.au
+*.acesso.io
 *.acrobat.adobe.com
 *.acronis.com
 *.acronis.work
@@ -197,6 +198,7 @@
 *.bykea.net
 *.byspotify.com
 *.bz-berlin.de
+*.cadastro.uat.unico.app
 *.caesarsgames.com
 *.call-control.ie
 *.canva-apps.cn
@@ -1080,6 +1082,7 @@
 *.uk.harmanaudio.com
 *.uk.jbl.com
 *.ultimateearsuniversity.com
+*.unico.io
 *.unreal-agents.com
 *.unreal-agents.jitsi.net
 *.unrealengine.com
@@ -2848,6 +2851,7 @@ Zendesk Suite
 Zivver Chrome Extension
 Zivver OWA add-in
 Zivver Outlook Plugin
+[Unico] Liveness Bypass
 _16928ca3f53f40a48a751be40fa24e4c.bitstamp.net
 _domainconnect.bitstamp.net
 a.root-servers.net (DNS service; DNS related)
@@ -3075,6 +3079,7 @@ api.hackerone.com
 api.iciparisxl.be
 api.iciparisxl.lu
 api.iciparisxl.nl
+api.id.unico.app
 api.infomaniak.com
 api.instacart.com
 api.khealth.com
@@ -3345,6 +3350,7 @@ b2b-api.ripio.com
 b2b.porsche-design.com
 b2b.tvgnetwork.com
 b5s.hackerone-ext-content.com
+backend-sdk.prod.private.unico.run
 backoffice.lansweeper.com
 backstage.io
 badoo.com
@@ -7464,6 +7470,7 @@ identity-dev.nba.com
 identity-ng.nba.com
 identity-qa.nba.com
 identity-uat.nba.com
+identity.acesso.io
 identity.nba.com
 identity.porsche.com
 identity.stage.vismaonline.com
@@ -7477,6 +7484,7 @@ idmemberbenefits.com
 idp-cf.*.aws.indriverapp.com
 idp-mobile.nexuzhealth.be
 idp.fr.cloud.gov
+idpay.unico.io
 idprotection.avast.com
 idprotection.avg.com
 ifast.marriott.com
@@ -8777,6 +8785,7 @@ tr-gw-cf.*.aws.indriverapp.com
 trade.ripio.com
 training.ui.com
 transact.playstation.com
+transactions.transactional.unico.app
 translate.badoo.com
 travelagents.marriott.com/
 traveler.marriott.com
@@ -9403,7 +9412,10 @@ www10.watsons.com.ph
 www10.watsons.com.sg
 www10.watsons.com.tw
 www10.watsons.vn
+www2.acesso.io
 www20.watsons.co.th
+www3.acesso.io
+www4.acesso.io
 x.com
 x.razorpay.com
 xFi Gateways (e.g., XB3, XB6, XB7)
