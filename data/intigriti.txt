@@ -1,6 +1,8 @@
 Hardware
 Firmware
 Software
+https://marketplace.visualstudio.com/items?itemName=AikidoSecurity.aikido
+app.aikido.dev
 myaccount.ad.nl
 webwinkel.ad.nl
 www.ad.nl
@@ -517,6 +519,10 @@ iOS SDK
 React Native SDK
 Web SDK
 Rust SDK
+OP-TEE
+Mbed TLS & TF-PSA-Crypto
+TrustedFirmware-A (TF-A)
+TrustedFirmware-M (TF-M)
 autodiscover.uzleuven.be
 ecrf.uzleuven.be
 extranet-asa.uzleuven.be
