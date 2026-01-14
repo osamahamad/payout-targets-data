@@ -192,6 +192,13 @@ service.fing.com
 app.fing.com
 Fing desktop
 www.fing.com*
+Grafana Loki
+Grafana Mimir
+Grafana OSS
+Grafana Pyroscope
+Grafana Tempo
+https://github.com/grafana/*
+Non-Core Grafana Plugins
 955837609
 com.here.app.maps
 https://jaguar.here.com
@@ -509,6 +516,10 @@ iOS SDK
 React Native SDK
 Web SDK
 Rust SDK
+OP-TEE
+Mbed TLS & TF-PSA-Crypto
+TrustedFirmware-A (TF-A)
+TrustedFirmware-M (TF-M)
 autodiscover.uzleuven.be
 ecrf.uzleuven.be
 extranet-asa.uzleuven.be
