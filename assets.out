@@ -967,6 +967,7 @@
 *.twitter.biz
 *.twitter.com
 *.tyo-masters.co.jp
+*.uat.unico.app
 *.uberinternal.com
 *.ubnt.com
 *.ucverse.com
@@ -2619,6 +2620,7 @@ accounts.shopify.com
 accounts.snapchat.com
 accounts.stage.evernote.com
 accountsettings.connect.identity.stagaws.visma.com
+accountshomolog.acesso.io
 aces-dev.wnba.com
 aces-qa.wnba.com
 aces.wnba.com
@@ -2781,7 +2783,6 @@ api.gx.games/gxc
 api.gx.games/profile
 api.gx.games/session
 api.hackerone.com
-api.id.unico.app
 api.infomaniak.com
 api.instacart.com
 api.khealth.com
@@ -2989,6 +2990,7 @@ autoupdateapi.lansweeper.com
 aw.visa.com
 ax-stage.maventa.com
 b5s.hackerone-ext-content.com
+backend-sdk.uat.private.unico.run
 backoffice.lansweeper.com
 backstage.io
 badoo.com
@@ -3636,6 +3638,7 @@ create.snapchat.com
 creator.amazon.com
 creatormarketplace.tiktok.com
 creators.basicattentiontoken.org
+crediariohomolog.acesso.io
 crm.nextcloud.com
 cruises.priceline.com
 cs.money
@@ -6731,6 +6734,7 @@ identity-uat.nba.com
 identity.nba.com
 identity.stage.vismaonline.com
 identity.yoti.com
+identityhomolog.acesso.io
 identityserver-acc.landmarkcinemas.com
 identityserver.landmarkcinemas.com
 idp-cf.*.aws.indriverapp.com
@@ -7617,6 +7621,7 @@ shoppers.instacart.com
 sign.dropbox.com
 sign.zivver.com
 signature-insights.api.cx.metamask.io
+signhom.acesso.io
 signin.auth.welt.de
 signup.myconnect.com.au
 simperium.com
@@ -7852,7 +7857,6 @@ tr-gw-cf.*.aws.indriverapp.com
 trade.ripio.com
 training.ui.com
 transact.playstation.com
-transactions.transactional.unico.app
 translate.badoo.com
 travelagents.marriott.com/
 traveler.marriott.com

@@ -1071,6 +1071,7 @@
 *.twitter.biz
 *.twitter.com
 *.tyo-masters.co.jp
+*.uat.unico.app
 *.uberinternal.com
 *.ubnt.com
 *.ucverse.com
@@ -2896,6 +2897,7 @@ accounts.snapchat.com
 accounts.stage.evernote.com
 accounts.superhuman.com
 accountsettings.connect.identity.stagaws.visma.com
+accountshomolog.acesso.io
 aces-dev.wnba.com
 aces-qa.wnba.com
 aces.wnba.com
@@ -3351,6 +3353,7 @@ b2b.porsche-design.com
 b2b.tvgnetwork.com
 b5s.hackerone-ext-content.com
 backend-sdk.prod.private.unico.run
+backend-sdk.uat.private.unico.run
 backoffice.lansweeper.com
 backstage.io
 badoo.com
@@ -4048,6 +4051,7 @@ create.snapchat.com
 creator.amazon.com
 creatormarketplace.tiktok.com
 creators.basicattentiontoken.org
+crediariohomolog.acesso.io
 crm.nextcloud.com
 cruises.booking.com
 cruises.priceline.com
@@ -7478,6 +7482,7 @@ identity.stage.vismaonline.com
 identity.yoti.com
 identityforce.com
 identityforcevault.com
+identityhomolog.acesso.io
 identityprotection.eset.com
 identityserver-acc.landmarkcinemas.com
 identityserver.landmarkcinemas.com
@@ -8529,6 +8534,7 @@ shoppers.instacart.com
 sign.dropbox.com
 sign.zivver.com
 signature-insights.api.cx.metamask.io
+signhom.acesso.io
 signin.auth.welt.de
 signup.myconnect.com.au
 signup.porsche.com

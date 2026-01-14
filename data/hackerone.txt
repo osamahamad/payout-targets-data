@@ -374,8 +374,11 @@ portal.openbanking.playground.klarna.com
 pricerunner.com
 xs2a.banking.playground.klarna.com
 [Unico] Liveness Bypass
-api.id.unico.app
-transactions.transactional.unico.app
+accountshomolog.acesso.io
+backend-sdk.uat.private.unico.run
+crediariohomolog.acesso.io
+identityhomolog.acesso.io
+signhom.acesso.io
 Crypto infrastructure for cold and hot wallets
 pay.wallet.tg
 wallet.tg
