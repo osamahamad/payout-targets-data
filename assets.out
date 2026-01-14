@@ -4,11 +4,9 @@
  *.test.*.lfscnp.com
  203.13.125.32/27
  Finicity Connect
- Fortress.HongKong.IOS
  Mobile Apps
  Twilio CDNs (static*.twilio.com)
  UniFi OS Server
- Watsons.TaiWan.Android
  com.citymapper.app.release
  https://api-*exoscale.com/v2
  https://github.com/0xPolygon/proof-generation-api
@@ -289,8 +287,6 @@
 *.download.originenergy.com.au
 *.dpgmedia.be
 *.dpgmedia.nl
-*.drogas.lt
-*.drogas.lv
 *.dropbox.com
 *.dropboxer.net
 *.dropboxforum.com
@@ -358,7 +354,6 @@
 *.folioinvesting.com
 *.forspotify.com
 *.fortnite.com
-*.fortress.com.hk
 *.found.io
 *.fromspotify.com
 *.fuze.com
@@ -466,9 +461,6 @@
 *.hyperpure.com
 *.hyperwallet.com
 *.hypr.com
-*.iciparisxl.be
-*.iciparisxl.lu
-*.iciparisxl.nl
 *.id.realestate.com.au
 *.ikarem.io
 *.immedia-semi.com/*
@@ -531,8 +523,6 @@
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
-*.kruidvat.be
-*.kruidvat.nl
 *.kwsdose.be
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
@@ -577,14 +567,6 @@
 *.malwarebytes.com
 *.marcus.co.uk
 *.marcus.com
-*.marionnaud.at
-*.marionnaud.ch
-*.marionnaud.cz
-*.marionnaud.fr
-*.marionnaud.hu
-*.marionnaud.it
-*.marionnaud.ro
-*.marionnaud.sk
 *.mas.mobilevikings.be
 *.mb-cosmos.com
 *.mbamupdates.com
@@ -626,7 +608,6 @@
 *.mobilitygraph.hereapi.com
 *.mofos.com
 *.mona.co
-*.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
 *.monzo.com
@@ -666,8 +647,10 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
+*.ninjakiwi.me
 *.nitropack.io
 *.niumba.com
+*.nkstatic.com
 *.nmfn.com
 *.nml.com
 *.nnip.com
@@ -712,7 +695,6 @@
 *.paddypartners.com
 *.paddypower.com
 *.paddypower.it
-*.parknshop.com
 *.parool.nl
 *.paydiant.com
 *.paylution.com
@@ -738,7 +720,6 @@
 *.playtika.com
 *.playuzleuven.be
 *.playwsop.com
-*.pns.hk
 *.points.com
 *.polymoon.it
 *.portofantwerp.com
@@ -809,7 +790,6 @@
 *.saltlabs.com
 *.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
-*.savers.co.uk
 *.say.rocks
 *.saytechnologies.com
 *.sba.marriott.com
@@ -882,6 +862,7 @@
 *.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
+*.souparea.com
 *.soyoustart.com
 *.spiketrap.io
 *.spinaway.com
@@ -918,7 +899,6 @@
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
-*.superdrug.com
 *.superhuman.com
 *.support.jbl.com
 *.support.originenergy.com.au
@@ -936,7 +916,6 @@
 *.teslainsuranceservices.com
 *.teslamotors.com
 *.testnet.immutable.com
-*.theperfumeshop.com
 *.thetradedesk.com
 *.thinkingphones.com
 *.thinkingphones.net
@@ -967,7 +946,6 @@
 *.travelocity.com
 *.travix.com
 *.travix.io
-*.trekpleister.nl
 *.trello.services
 *.trip.biz
 *.trip.com
@@ -1049,15 +1027,6 @@
 *.vtm.be
 *.vtmgo.be
 *.water-link.be/
-*.watsons.co.id
-*.watsons.co.th
-*.watsons.com.hk
-*.watsons.com.my
-*.watsons.com.ph
-*.watsons.com.sg
-*.watsons.com.tr
-*.watsons.com.tw
-*.watsons.vn
 *.wavecell.com
 *.wealthsimple.com
 *.weareone.world
@@ -1887,10 +1856,6 @@ Discovered Leaked Credentials
 Dovecot IMAP Server and Pigeonhole SIEVE (see "Software packages" and "Source code")
 Dreamweaver
 Drivers
-Drogas.Latvia.Android
-Drogas.Latvia.iOS
-Drogas.Lietuva.Android
-Drogas.Lietuva.iOS
 Dropbox Desktop Application
 Dropbox.com
 Dynatrace ActiveGate
@@ -1966,7 +1931,6 @@ FortniteLauncher-Win64-Shipping.exe
 FortniteLauncher-Win64-Shipping_BE.exe
 FortniteLauncher-Win64-Shipping_EAC.exe
 FortniteLauncher.exe
-Fortress.HongKong.Android
 Framemaker
 FranceConnect (see program description for github link)
 FranceConnect+ (see program description for github link)
@@ -2061,8 +2025,6 @@ HubSpot iOS Mobile App
 Hyperdrive
 HyprUnlock.exe
 IBC Go Relayer
-ICIParisXL.App.Android
-ICIParisXL.App.IOS
 IT Infrastructure
 Ibotta App Data & Memory
 Id1406825640
@@ -2103,10 +2065,6 @@ Kong Gateway Enterprise
 Kong Gateway OSS
 Kong Gateway Plugins (Kong-Supported Only)
 Kong Mesh
-Kruidvat.Belgium.Android
-Kruidvat.Belgium.iOS
-Kruidvat.Netherlands.Android
-Kruidvat.Netherlands.iOS
 Lansweeper Discovery
 LaunchDarkly Open Source SDKs
 Leaked Credentials
@@ -2132,9 +2090,6 @@ Logitech Mice & Keyboards
 Logitech Options PC/MAC
 Logitech Sync
 Logstash
-Look at Me PH (subdomains)
-Lookatme.Philippines.Android
-Lookatme.Philippines.IOS
 Loomi.tv
 Low Cost Access
 Low impact, individually exposed Google Docs with no common root cause (see “Publicly accessible Google Document or Drive Links” in the “Corporate Targets” section)
@@ -2161,16 +2116,7 @@ Malwarebytes Windows Firewall Control
 Malwarebytes for Mac
 Malwarebytes for Teams
 Malwarebytes for Windows
-Marionnaud.Austria.Android
-Marionnaud.Austria.iOS
-Marionnaud.France.Android
-Marionnaud.France.iOS
-Marionnaud.Italy.Android
-Marionnaud.Italy.iOS
-Marionnaud.Romania.Android
-Marionnaud.Romania.iOS
-Marionnaud.Switzerland.Android
-Marionnaud.Switzerland.iOS
+Mbed TLS & TF-PSA-Crypto
 Media Encoder
 Megaphone
 Membership
@@ -2190,8 +2136,6 @@ Mi/Redmi Phone
 Microsites
 Mobile Applications
 Mobile Apps
-MoneyBack.HongKong.Android
-MoneyBack.HongKong.iOS
 MongoDB Assistant
 MongoDB Atlas
 MongoDB Community Server
@@ -2251,6 +2195,7 @@ OKX Wallet Edge Add-ons
 OKX Wallet Safari Extension
 OKX iOS APP
 ONCE: Campfire
+OP-TEE
 Observability - APM Agents
 Observability - APM Server
 Official WordPress plugins
@@ -2296,8 +2241,6 @@ Other assets owned by Personio
 Other non-production infrastructure
 PHP SDK
 PIA VPN servers
-PNS.HongKong.Android
-PNS.HongKong.iOS
 PTaaS Reference
 Packet Forward Middleware
 Passkey Wallet
@@ -2464,9 +2407,6 @@ Subdomain Takeover (SDTO)
 Subdomain Takeover - konghq.com
 Subdomain takeover at *asana.biz
 Substance 3D
-Superdrug.App.Android
-Superdrug.App.IOS
-Superdrug.Healthera.App.Android
 Superhuman Go
 System Specification
 T&P Servers
@@ -2483,8 +2423,6 @@ Tap to Pay (iOS)
 Tesla Energy hardware you own
 Tesla vehicle hardware that you own
 Texts
-ThePerfumeShop.App.Android
-ThePerfumeShop.App.iOS
 Third Party Application
 Third Party Marketplace Apps
 Third Party Snaps
@@ -2512,6 +2450,8 @@ Trello Third Party Powerups
 Tribal Wars
 TrueLayer for Magento (Magento plugin)
 TrueLayer for WooCommerce (WordPress plugin)
+TrustedFirmware-A (TF-A)
+TrustedFirmware-M (TF-M)
 TrustedServer 100,000 Bonus Award (See Program Policy for Info)
 Trustwallet Android App
 Trustwallet Chrome Extension
@@ -2570,21 +2510,6 @@ WHOOP 5.0/MG STRAP
 WP Engine-developed WordPress Plugins and Themes
 WP-CLI
 Waiting Room
-Watsons.HongKong.Android
-Watsons.HongKong.IOS
-Watsons.Indonesia.Android
-Watsons.Indonesia.IOS
-Watsons.Malaysia.Android
-Watsons.Malaysia.IOS
-Watsons.Philippines.Android
-Watsons.Philippines.IOS
-Watsons.Singapore.Android
-Watsons.Singapore.IOS
-Watsons.TaiWan.IOS
-Watsons.Thailand.Android
-Watsons.Thailand.IOS
-Watsons.Turkey.Android
-Watsons.Turkey.iOS
 Web Playback SDK
 Web SDK
 Web of Trust Specification
@@ -2737,6 +2662,7 @@ airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 akismet.com
 alert.logitech.com
+alerts.ninjakiwi.com
 alexa.amazon.com
 alexaanswers.amazon.com
 alfred-uat-31.nonprod.syfe.com
@@ -2754,6 +2680,7 @@ amd.digitalocean.com
 amp.reddit.com
 analytics-*.8x8.com
 analytics.krisp.ai
+analytics.ninjakiwi.com
 analytics.pinelabs.com
 anext.com.sg
 antbank.hk
@@ -2809,8 +2736,6 @@ api.digital.delen.lu
 api.digitalocean.com
 api.direct.playstation.com
 api.doppler.com
-api.drogas.lt
-api.drogas.lv
 api.dropbox.com
 api.dyson.at
 api.dyson.be
@@ -2837,7 +2762,6 @@ api.faraday.ai
 api.fi.dyson.com
 api.figma.com
 api.foliofn.com
-api.fortress.com.hk
 api.geneva-staging.com
 api.github.com
 api.gobiz.co.id
@@ -2851,9 +2775,6 @@ api.gx.games/gxc
 api.gx.games/profile
 api.gx.games/session
 api.hackerone.com
-api.iciparisxl.be
-api.iciparisxl.lu
-api.iciparisxl.nl
 api.id.unico.app
 api.infomaniak.com
 api.instacart.com
@@ -2866,10 +2787,6 @@ api.linkedin.com
 api.loanbuilder.com
 api.localizestaging.com
 api.mapbox.com
-api.marionnaud.at
-api.marionnaud.ch
-api.marionnaud.fr
-api.marionnaud.it
 api.mercadolibre.com
 api.mercadopago.com
 api.mergify.com
@@ -2878,11 +2795,11 @@ api.monespacesante.fr
 api.moonpay.com
 api.mtls.truelayer[-sandbox].com
 api.netlify.com
+api.ninjakiwi.com
 api.ort-one-pingone.com
 api.ovh.com
 api.personio-dev.com
 api.personio.com
-api.pns.hk
 api.portal.enterprise.uphold.com 
 api.portofantwerp.com
 api.portofantwerpbruges.com
@@ -2912,12 +2829,10 @@ api.stage.evernote.com
 api.steampowered.com
 api.stg.inspectorio.com
 api.stripe.com
-api.superdrug.com
 api.swapcard.com
 api.swiftfinancial.com
 api.syfe.com
 api.taxjar.com
-api.theperfumeshop.com
 api.tidal.com
 api.tideplatform.in
 api.trello.com
@@ -2928,14 +2843,6 @@ api.upwork.com/graphql
 api.vault.chiatest.net
 api.vhx.tv
 api.vimeo.com
-api.watsons.co.id
-api.watsons.co.th
-api.watsons.com.hk
-api.watsons.com.my
-api.watsons.com.ph
-api.watsons.com.sg
-api.watsons.com.tw
-api.watsons.vn
 api.wisdomtreeprimeapp.com
 api.wordpress.org
 api.workbox.dk
@@ -2961,8 +2868,6 @@ app.delen.be
 app.delen.ch 
 app.delen.lu 
 app.deriv.com
-app.drogas.lt
-app.drogas.lv
 app.dynamic-preprod.xyz
 app.dynamic.xyz
 app.faraday.ai
@@ -2973,29 +2878,16 @@ app.geneva-staging.chat
 app.geneva-staging.com
 app.grammarly.com
 app.greenhouse.io
-app.iciparisxl.be
-app.iciparisxl.lu
-app.iciparisxl.nl
 app.interseller.io
 app.khealth.com
 app.klarna.com
 app.koho.ca
 app.krisp.ai
-app.kruidvat.be
-app.kruidvat.nl
 app.lansweeper.com
 app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
 app.localizestaging.com
-app.marionnaud.at
-app.marionnaud.ch
-app.marionnaud.cz
-app.marionnaud.fr
-app.marionnaud.hu
-app.marionnaud.it
-app.marionnaud.ro
-app.marionnaud.sk
 app.midtrans.com
 app.moderntreasury.com
 app.mona.co
@@ -3012,13 +2904,10 @@ app.smtp2go.com
 app.snapchat.com
 app.starbucks.com
 app.stg.inspectorio.com
-app.superdrug.com
 app.swapcard.com
 app.taxjar.com
-app.theperfumeshop.com
 app.truelayer[-sandbox].com
 app.uma.money
-app.watsons.com.tr
 app.whoop.com
 app.workbox.dk
 app.zivver.com
@@ -3108,6 +2997,7 @@ bankaccountdata.gocardless.com
 basecamp.rivian.com
 basecamp3.exe
 basicattentiontoken.org
+battles.tv
 bb.visa.com
 bcny.com
 bd.visa.com
@@ -3148,7 +3038,6 @@ blog.malwarebytes.com
 blog.playcanvas.com
 blog.remitly.com
 blog.ui.com
-blog.watsons.com.tr
 blox.link
 blueprints.amazon.com
 blueskytours.globalbookingsolutions.com
@@ -3166,6 +3055,7 @@ booking.cheapcaribbean.com
 booking.com
 booking.mjrtheatres.com
 bookingholdings-coe.com
+boomer2.ninjakiwi.com
 boost.vinci.com
 booth.pm
 bounces.bitstamp.net
@@ -3742,6 +3632,7 @@ cs.money
 csp-pci.prod.codebig2.net
 css-tricks.com
 ct.deriv.com
+ct.ninjakiwi.com
 ctf.hacker101.com
 custody.coinbase.com
 customer-sessions.arkoselabs.com
@@ -3770,6 +3661,7 @@ dashboard.privy.io
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
 data.mail.yahoo.com
+data.ninjakiwi.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 datapod-1-100-druid-ingest.testing.forescoutcloud.net
@@ -4063,6 +3955,7 @@ gs://faraday-secret
 gs://fdy-production-sdk-uploads
 gt-cf.*.aws.indriverapp.com
 gt-gw-cf.*.aws.indriverapp.com
+guts.ninjakiwi.com
 gvt-cf.*.aws.indriverapp.com
 gw.api.dh.comcast.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -6512,10 +6405,6 @@ https://www.demarches-simplifiees.fr/api/v2/graphql
 https://www.demarches-simplifiees.fr/graphql
 https://www.denon.com
 https://www.designify.com
-https://www.drogas.lt/blog
-https://www.drogas.lv/blog/
-https://www.drogas.lv/lv/blog
-https://www.drogas.lv/ru/blog
 https://www.enjoyselfish.com
 https://www.epam.com/
 https://www.etsy.com
@@ -6536,9 +6425,6 @@ https://www.governmentjobs.com
 https://www.homesupport.irobot.com
 https://www.hostgator.com.br/
 https://www.hostgator.com/
-https://www.iciparisxl.be/blog/
-https://www.iciparisxl.lu/blog/
-https://www.iciparisxl.nl/blog/
 https://www.ifood.com.br
 https://www.illamasqua.com/
 https://www.imou.com
@@ -6562,10 +6448,6 @@ https://www.kaleido.ai
 https://www.keepersecurity.com/download.html
 https://www.kohls.com
 https://www.kohls.com/feature/app.jsp
-https://www.kruidvat.be/blog/
-https://www.kruidvat.nl/blog/
-https://www.kruidvat.nl/fotoservice
-https://www.kruidvat.nl/persoonlijk
 https://www.kuleuven.be/sapredir/huisvesting
 https://www.ladbrokes.com
 https://www.ladbrokes.com/en/games
@@ -6591,19 +6473,6 @@ https://www.malloftheemirates.com
 https://www.mankind.co.uk/
 https://www.mapbox.com/mapbox-gl-js/
 https://www.marantz.com
-https://www.marionnaud.at/blog/
-https://www.marionnaud.at/m-life/
-https://www.marionnaud.ch/blog/
-https://www.marionnaud.ch/m-life/
-https://www.marionnaud.cz/blog/
-https://www.marionnaud.cz/m-life/
-https://www.marionnaud.hu/blog/
-https://www.marionnaud.hu/m-life/
-https://www.marionnaud.it/m-life/
-https://www.marionnaud.ro/blog/
-https://www.marionnaud.ro/m-life/
-https://www.marionnaud.sk/blog/
-https://www.marionnaud.sk/m-life/
 https://www.mastercard.ch/de-ch.html
 https://www.mastercard.ch/fr-ch.html
 https://www.mastercard.com.au/en-au.html
@@ -6701,15 +6570,12 @@ https://www.staging.jobstreet.com.ph
 https://www.staging.jobstreet.com.sg
 https://www.staples.com/services/printing
 https://www.staples.com/services/printing/oms/basket
-https://www.superdrug.com/blog/
 https://www.tagesanzeiger.ch
 https://www.tchap.gouv.fr
 https://www.teamviewer.com/en/products/teamviewer/
 https://www.thecurrent.com
 https://www.thefork.com
 https://www.theforkmanager.com
-https://www.theperfumeshop.com/blog/
-https://www.theperfumeshop.com/ie/blog/
 https://www.thetradedesk.com
 https://www.thuisbezorgd.nl/
 https://www.thumbzilla.com/
@@ -6871,6 +6737,7 @@ insight2.tradepmr.com
 insights.deribit.com
 institutional.coinbase.com
 int.32red.com
+int2cruises.udaanindia.com
 intensedebate.com
 intercity-*.eu-east-1.indriverapp.com
 intercity.indrive.com
@@ -7026,7 +6893,6 @@ logs.dashlane.com
 logs.nextcloud.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
-lookatme.com.ph
 lookup.nextcloud.com
 lrc20.lightspark.com
 luxfilmfestfilms.megatix.be
@@ -7063,7 +6929,6 @@ manage.nba.com
 manager.infomaniak.com/v3/*
 mangerbouger.fr
 map.snapchat.com
-mapi.moneyback.com.hk
 mark8.syfe.com
 marketing.fareharbor.com
 marketplace.digitalocean.com
@@ -7094,32 +6959,11 @@ mcdalerts.nba.com
 mch*.indriverapp.com
 mds.marriott.com
 mds.voiapp.io
-media.drogas.lt
-media.drogas.lv
-media.iciparisxl.be
-media.iciparisxl.lu
-media.iciparisxl.nl
 media.indrive.com
-media.marionnaud.at
-media.marionnaud.ch
-media.marionnaud.fr
-media.marionnaud.it
 media.nexuzhealth.be/patient/ 
 media.remitly.io
 media.simplisafe.com
-media.superdrug.com
-media.theperfumeshop.com
 mediacenter.23andme.com
-medias.fortress.com.hk
-medias.pns.hk
-medias.watsons.co.id
-medias.watsons.co.th
-medias.watsons.com.hk
-medias.watsons.com.my
-medias.watsons.com.ph
-medias.watsons.com.sg
-medias.watsons.com.tw
-medias.watsons.vn
 medical.23andme.com
 meechum.netflix.com
 meetings.hyatt.com
@@ -7223,6 +7067,8 @@ myaccount.vtm.be
 myconnect.com.au
 mynexuz.be
 mynexuzhealth/id1459856321
+mynk-dash.ninjakiwi.com
+mynk.ninjakiwi.com
 myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
 mystics-dev.wnba.com
@@ -7316,6 +7162,8 @@ nft.coinbase.com
 nha-cf.*.aws.indriverapp.com
 nha-gw-cf.*.aws.indriverapp.com
 niantic.kidswebservices.com
+ninja.kiwi
+ninjakiwi.com
 nl.gamma.app.android
 nl.gamma.verf
 nl.karwei.app.android
@@ -7443,6 +7291,8 @@ pc-gw-cf.*.aws.indriverapp.com
 pcrstudioruzb.uzleuven.be
 personal.trexcloud.com
 phabricator.allizom.org
+phlonline.vfsevisa.cn
+phlportal.vfsevisa.cn
 phone-validation.taxi.booking.com
 photos.adobe.io
 photoservice.stage.vismaonline.com
@@ -7570,6 +7420,7 @@ r.etoro.com
 ra-cf.*.aws.indriverapp.com
 ra-gw-cf.*.aws.indriverapp.com
 rafflee.co.uk
+rancher.ninjakiwi.me
 random.uzleuven.be/random/
 rankings.etoro.com
 raptor*.bykea.net
@@ -8227,8 +8078,6 @@ www.doctolib.(fr|de|it)
 www.dolap.com
 www.doordash.com
 www.dota2.com
-www.drogas.lt
-www.drogas.lv
 www.dvpc.net
 www.dyson.ae
 www.dyson.at
@@ -8292,7 +8141,6 @@ www.fitvermogen.nl
 www.flights.com
 www.fondation-vinci.com
 www.forescout.com
-www.fortress.com.hk
 www.fraedom.com
 www.funjet.com
 www.fuzemeeting.com
@@ -8321,9 +8169,6 @@ www.humo.be/abonnementen
 www.hyatt.com
 www.hyattconnect.com
 www.hyattinclusivecollection.com
-www.iciparisxl.be
-www.iciparisxl.lu
-www.iciparisxl.nl
 www.infomaniak.com
 www.instacart.com
 www.intigriti.com
@@ -8342,8 +8187,6 @@ www.kiwi.com
 www.koho.ca
 www.kolikkopelit.com
 www.kpharmacyllc.com
-www.kruidvat.be
-www.kruidvat.nl
 www.lab-recherche-environnement.org
 www.landmarkcinemas.com
 www.lansweeper.com
@@ -8363,14 +8206,6 @@ www.logitechstore.com.br
 www.malwarebytes.com
 www.mapbox.com
 www.mariacasino.(com|se|ee|dk)
-www.marionnaud.at
-www.marionnaud.ch
-www.marionnaud.cz
-www.marionnaud.fr
-www.marionnaud.hu
-www.marionnaud.it
-www.marionnaud.ro
-www.marionnaud.sk
 www.marriott.com
 www.members.marriott.com
 www.mercadolibre.co.cr
@@ -8390,7 +8225,6 @@ www.mini.de
 www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
-www.moneyback.com.hk
 www.monzo.com
 www.mozilla.org
 www.mrjet.se
@@ -8409,7 +8243,6 @@ www.parool.nl
 www.parool.nl/abonnementen
 www.paypal-*.com
 www.pixiv.net
-www.pns.hk
 www.pornbox.com
 www.pornworld.com
 www.portofantwerpbruges.com
@@ -8447,7 +8280,6 @@ www.stayz.com.au
 www.storspelare.se
 www.storspiller.com
 www.stripe.partners
-www.superdrug.com
 www.supernovas.indrive.com
 www.swiftcapital.com
 www.swiftfinancial.com
@@ -8458,7 +8290,6 @@ www.tabac-info-service.fr
 www.teamfortress.com
 www.temu.com
 www.tgoyemek.com
-www.theperfumeshop.com
 www.tink.com
 www.tomorrowland.com
 www.topperpay.com
@@ -8470,7 +8301,6 @@ www.transsicura.ch
 www.travel-brilliantly.marriott.com
 www.travelocity.ca
 www.travelocity.com
-www.trekpleister.nl
 www.trendyol-milla.com
 www.trendyol.com
 www.triseptapi.com
@@ -8536,15 +8366,6 @@ www.voiscooters.com
 www.volkskrant.nl
 www.volkskrant.nl/abonnementen
 www.vrbo.com
-www.watsons.co.id
-www.watsons.co.th
-www.watsons.com.hk
-www.watsons.com.my
-www.watsons.com.ph
-www.watsons.com.sg
-www.watsons.com.tr
-www.watsons.com.tw
-www.watsons.vn
 www.wearehackerone.com
 www.wickr.com
 www.wnba.com
@@ -8559,17 +8380,6 @@ www.yotisign.com
 www.zooplus.co.uk
 www.zooplus.com
 www.zooplus.de
-www10.fortress.com.hk
-www10.pns.hk
-www10.watsons.co.id
-www10.watsons.co.th
-www10.watsons.com.hk
-www10.watsons.com.my
-www10.watsons.com.ph
-www10.watsons.com.sg
-www10.watsons.com.tw
-www10.watsons.vn
-www20.watsons.co.th
 x.com
 x.razorpay.com
 xFi Gateways (e.g., XB3, XB6, XB7)
