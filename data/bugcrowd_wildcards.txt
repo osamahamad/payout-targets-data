@@ -1,6 +1,5 @@
 *.arlo.com (subdomains impacting customer-facing services)
 *.arloxcld.com
-*.central.arubanetworks.com
 *.app.asana.com
 *.asana.biz
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
@@ -70,6 +69,7 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.etsy.com
 *.certinia.com
 *.kiln.it
+*.central.arubanetworks.com
 *.movilepay.com
 *.movilepay.com.br
 *.immutable.com
