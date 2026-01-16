@@ -374,9 +374,16 @@ xs2a.banking.playground.klarna.com
 [Unico] Liveness Bypass
 accountshomolog.acesso.io
 backend-sdk.uat.private.unico.run
-crediariohomolog.acesso.io
+blog.unico.io
+devcenter.unico.io
+https://sdk-h1.unico.io/createprocess
+idcash-uat.unico.io
 identityhomolog.acesso.io
-signhom.acesso.io
+idpay-uat.unico.io
+issuer.idpay-uat.unico.io
+openfinance.unico.io
+secure.unico.io
+unico.io
 Crypto infrastructure for cold and hot wallets
 pay.wallet.tg
 wallet.tg
