@@ -3,6 +3,15 @@ Firmware
 Software
 https://marketplace.visualstudio.com/items?itemName=AikidoSecurity.aikido
 app.aikido.dev
+https://github.com/AikidoSec/firewall-node#Vulnerability
+https://github.com/AikidoSec/firewall-php#Vulnerability
+https://github.com/AikidoSec/firewall-python#Vulnerability
+https://github.com/AikidoSec/firewall-node#Detection Bypass
+https://github.com/AikidoSec/firewall-php#Detection Bypass
+https://github.com/AikidoSec/firewall-python#Detection Bypass
+https://github.com/AikidoSec/firewall-node#False Positive
+https://github.com/AikidoSec/firewall-php#False Positive
+https://github.com/AikidoSec/firewall-python#False Positive
 myaccount.ad.nl
 webwinkel.ad.nl
 www.ad.nl
@@ -85,6 +94,7 @@ platform.cloudways.com
 unified.cloudways.com
 www.cloudways.com
 css-tricks.com
+https://justonweb.be/fines/
 Any related DPG media domain
 profiles-api.datacamp.com
 app.datacamp.com/certification
@@ -109,6 +119,25 @@ shop.volkskrant.nl
 webwinkel.volkskrant.nl
 www.volkskrant.nl
 www.volkskrant.nl/abonnementen
+api.digital.delen.be 
+api.digital.delen.lu 
+app.delen.be 
+app.delen.ch 
+app.delen.lu 
+auth.digital.delen.be 
+auth.digital.delen.lu 
+be.delen.digital
+delen/id1064839588
+login.delen.be 
+login.delen.ch 
+login.delen.lu 
+login.oyens.com
+status.delen.be 
+sts.delen.be 
+www.cadelam.be 
+www.cadelux.lu/en 
+www.delen.bank
+www.delen.be/en 
 169.254.169.254
 api.digitalocean.com
 cloud.digitalocean.com
@@ -291,6 +320,19 @@ mynexuzhealth/id1459856321
 liquidfiles.nexuzhealth.com
  idp-contact.nexuzhealth.be
 media.nexuzhealth.be/patient/ 
+analytics.ninjakiwi.com
+api.ninjakiwi.com
+guts.ninjakiwi.com
+battles.tv
+data.ninjakiwi.com
+ninja.kiwi
+ninjakiwi.com
+alerts.ninjakiwi.com
+boomer2.ninjakiwi.com
+ct.ninjakiwi.com
+mynk-dash.ninjakiwi.com
+mynk.ninjakiwi.com
+rancher.ninjakiwi.me
 login.prod.nube.tech
 1076840480
 1079537578
