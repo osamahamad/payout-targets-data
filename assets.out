@@ -2862,6 +2862,7 @@ app*.hubspot.com
 app-*.easy4ipcloud.com
 app-insiders.marriott.com
 app.Reclaim.ai
+app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
@@ -4178,6 +4179,7 @@ https://api.aiven.io/login
 https://api.anytask.com/
 https://api.anytask.thesecurityteam.rocks
 https://api.bitpanda.com
+https://api.blablalines.com
 https://api.blts.kape.com
 https://api.bookbeat.com
 https://api.bugcrowd.com
@@ -4334,6 +4336,7 @@ https://apps.apple.com/de/app/teamviewer-quicksupport/id661649585
 https://apps.apple.com/de/app/teamviewer-remote-control/id692035811
 https://apps.apple.com/ee/app/bolt-fast-affordable-rides/id675033630
 https://apps.apple.com/ee/app/bolt-food/id1451492388
+https://apps.apple.com/fr/app/blablalines-covoiturage/id1225543288
 https://apps.apple.com/fr/app/cryptobox/id972602802
 https://apps.apple.com/fr/app/dailymotion/id336978041
 https://apps.apple.com/fr/app/deezer-musique-podcast/id292738169
@@ -4465,6 +4468,7 @@ https://audience-builder.vistarmedia.com
 https://audio.20min.ch/
 https://aus.api.just-eat.io/
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
+https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.immutable.com
 https://auth.lastpass.com
@@ -4498,6 +4502,7 @@ https://bistro.sk
 https://bitbucket.org
 https://bitgo.ae/
 https://bitso.com
+https://blablacardaily.com
 https://blockexplorer.electroneum.com
 https://blog.bitpanda.com/en
 https://blog.etsy.com
@@ -4626,6 +4631,7 @@ https://customers.us1.fga.dev/
 https://cw-api.takeaway.com
 https://d1.utv.usaa.com
 https://d2.utv.usaa.com
+https://daily.blablacar.fr
 https://dash.zoop.com.br/
 https://dashboard-101.moengage.com
 https://dashboard.fga.dev/
@@ -4732,6 +4738,7 @@ https://ebctest.cybersource.com/ums
 https://ebctest.cybersource.com/vdm
 https://ebctest.cybersource.com/vts
 https://ecohesion.aufbaubank.de
+https://edge.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua))
 https://edgeacademy.thetradedesk.com
 https://education.cfr.org/
 https://eforms.neogov.com
@@ -5168,6 +5175,7 @@ https://investor.irobot.com
 https://iphone-xml.booking.com/json/
 https://itunes.apple.com/app/carrefour-uae/id626805470
 https://itunes.apple.com/ch/app/postcard-creator/id820354055?mt=8
+https://itunes.apple.com/fr/app/blablacar-trusted-carpooling/id341329033?l=en&mt=8
 https://itunes.apple.com/gb/app/unibet-casino-slots-games/id905382680
 https://itunes.apple.com/gb/app/unibet-live-sports-betting/id463335337
 https://itunes.apple.com/us/app/cash-app/id711923939?mt=8
@@ -5248,6 +5256,7 @@ https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
 https://lsagentrelay.lansweeper.com/
 https://luna.amazon.com/*
+https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://m.csqtrk.net
 https://m.thefork.com
 https://maf-holding-prod.apigee.net
@@ -5599,6 +5608,7 @@ https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosti
 https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
 https://marketplace.auth0.com
 https://marketplace.ifood.com.br
+https://marketplace.visualstudio.com/items?itemName=AikidoSecurity.aikido
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
 https://master.servicecentre.digitalservicing-np.lfscnp.com/
 https://mathem.se
@@ -5818,6 +5828,7 @@ https://play.google.com/store/apps/details?id=com.bitoasis&hl=en
 https://play.google.com/store/apps/details?id=com.bitpanda.bitpanda
 https://play.google.com/store/apps/details?id=com.bitso.alpha
 https://play.google.com/store/apps/details?id=com.bitso.wallet&pcampaignid=web_share
+https://play.google.com/store/apps/details?id=com.blablalines
 https://play.google.com/store/apps/details?id=com.bolt.deliveryclient
 https://play.google.com/store/apps/details?id=com.booking&hl=en
 https://play.google.com/store/apps/details?id=com.booking.hotelmanager&hl=en
@@ -5828,6 +5839,7 @@ https://play.google.com/store/apps/details?id=com.classdojo.android
 https://play.google.com/store/apps/details?id=com.coindcx.btc
 https://play.google.com/store/apps/details?id=com.coindcx.okto
 https://play.google.com/store/apps/details?id=com.coindesk.mobile
+https://play.google.com/store/apps/details?id=com.comuto&hl=en
 https://play.google.com/store/apps/details?id=com.dailymotion.dailymotion&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.deezer.zen
 https://play.google.com/store/apps/details?id=com.ecwid.android&pli=1
@@ -6360,6 +6372,7 @@ https://www.binance.us/
 https://www.bitdefender.com/business/smb-products/business-security.html?cid=ppc|b|google|smb&s_kwcid=AL!6076!3!514235572261!p!!g!!bitdefender%20business&utm_term=bitdefender%20business&utm_campaign=USA+SMB+Branded+30&utm_source=adwords&utm_medium=ppc&hsa_acc=8155205354&hsa_cam=7848657822&hsa_grp=124745713150&hsa_ad=514235572261&hsa_src=g&hsa_tgt=kwd-308396066873&hsa_kw=bitdefender%20business&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwqIiFBhAHEiwANg9szk-Rr3iSn4mrwsvAUOn-pzrO12ufWDmyCLopWigaLQW0t_xtlBE65RoCr6kQAvD_BwE
 https://www.bitpanda.com/
 https://www.bitpanda.com/academy/en/
+https://www.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://www.blockchain.com/
 https://www.bluehost.com/
 https://www.bookbeat.com
