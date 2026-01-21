@@ -5,6 +5,11 @@ myaccount.ad.nl
 webwinkel.ad.nl
 www.ad.nl
 www.ad.nl/abonnementen
+Firmware
+Hardware
+FPGA Solution Development Tools and Utilities
+Software
+Non Altera Products
 politico.eu
 adtechnology.axelspringer.com
 bild.de
@@ -155,6 +160,13 @@ service.fing.com
 app.fing.com
 Fing desktop
 www.fing.com*
+Grafana Loki
+Grafana Mimir
+Grafana OSS
+Grafana Pyroscope
+Grafana Tempo
+https://github.com/grafana/*
+Non-Core Grafana Plugins
 955837609
 com.here.app.maps
 https://jaguar.here.com
