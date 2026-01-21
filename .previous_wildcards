@@ -899,6 +899,7 @@
 *.silabs.com
 *.simpletax.ca
 *.singspacegame.com
+*.sip.*.twilio.com
 *.sketchfab.com
 *.skinfra.xyz
 *.skybet.co.uk
@@ -1288,6 +1289,7 @@ sn-api-cf.*.aws.indriverapp.com
 sn-api-gw-cf.*.aws.indriverapp.com
 sos-*.exo.io
 st*.indriverapp.com
+static*.twilio.com
 storage*.infomaniak.com
 sub*.aws.indriverapp.com
 support*.earlywarning.com

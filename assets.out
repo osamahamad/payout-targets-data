@@ -1,11 +1,9 @@
 	 speedtest-eastburwood.optusnet.com.au
  *.rivian.com
- *.sip.*.twilio.com
  *.test.*.lfscnp.com
  203.13.125.32/27
  Finicity Connect
  Mobile Apps
- Twilio CDNs (static*.twilio.com)
  UniFi OS Server
  com.citymapper.app.release
  https://api-*exoscale.com/v2
@@ -846,6 +844,7 @@
 *.siilo.com
 *.simpletax.ca
 *.singspacegame.com
+*.sip.*.twilio.com
 *.sketchfab.com
 *.skinfra.xyz
 *.skybet.co.uk
@@ -1938,6 +1937,7 @@ Finicity- Data Services
 Finicity- Open Banking Payment History application
 FireTV
 Firmware
+Firmware: Mali Command Stream Frontend (CSF) Firmware
 Fleet Server
 Flex - Xfinity hardware and services
 Forge Platform
@@ -2133,6 +2133,7 @@ Malwarebytes Windows Firewall Control
 Malwarebytes for Mac
 Malwarebytes for Teams
 Malwarebytes for Windows
+Mbed TLS & TF-PSA-Crypto
 Media Encoder
 Megaphone
 Membership
@@ -2211,6 +2212,7 @@ OKX Wallet Edge Add-ons
 OKX Wallet Safari Extension
 OKX iOS APP
 ONCE: Campfire
+OP-TEE
 Observability - APM Agents
 Observability - APM Server
 Official WordPress plugins
@@ -2366,6 +2368,7 @@ Snaps Development Packages
 Social Media Accounts
 Software
 Software Supply Chain
+Software: Mali GPU Kernel Driver
 Solarbank 2 E1600 Pro
 Solidity IBC Eureka
 Sonantic
@@ -2466,6 +2469,8 @@ Trello Third Party Powerups
 Tribal Wars
 TrueLayer for Magento (Magento plugin)
 TrueLayer for WooCommerce (WordPress plugin)
+TrustedFirmware-A (TF-A)
+TrustedFirmware-M (TF-M)
 TrustedServer 100,000 Bonus Award (See Program Policy for Info)
 Trustwallet Android App
 Trustwallet Chrome Extension
@@ -2828,6 +2833,8 @@ api.remitly.io
 api.robinhood.com
 api.s-kaupat.fi
 api.sandbox.topperpay.com
+api.segment.io
+api.sendgrid.com
 api.services.simplisafe.com (App Endpoints)
 api.services.simplisafe.com (HSP Endpoints)
 api.simplisafe.com (App Endpoints)
@@ -2851,6 +2858,7 @@ api.tideplatform.in
 api.trello.com
 api.truelayer[-sandbox].com
 api.tumblr.com
+api.twilio.com
 api.unleashed.be
 api.upwork.com/graphql
 api.us.veriff.me
@@ -2911,6 +2919,8 @@ app.pullrequest.com
 app.rewire.to
 app.sandbox.directly.com
 app.sandbox.topperpay.com
+app.segment.com
+app.sendgrid.com
 app.slack.com
 app.smtp2go.com
 app.snapchat.com
@@ -4052,6 +4062,7 @@ http://flightdeck.staples.com/#/login
 http://github.com/circlefin/noble-cctp
 http://github.com/cloudflare
 http://greenchannel.payoneer.com.cn/gcportal
+http://help.twilio.com
 http://ibotta.com
 http://ims-na1.adobelogin.com
 http://it.mydirtyhobby.com/
@@ -4089,6 +4100,8 @@ http://socialdeal.nl/inspirations/bluemonday/
 http://staking.consensys.io
 http://testnet.bybit.eu
 http://transangels.com/
+http://tsock.us1.twilio.com
+http://twilio.com/blog
 http://urc-auth-uefn.live.ucs.on.epicgames.com/
 http://urc-uefn.live.ucs.on.epicgames.com
 http://vimeo.com/api
@@ -4236,8 +4249,6 @@ https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
 https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql
 https://api.rx.originenergy.com.au/v1/lpg/graphql
 https://api.sandbox.agora.incubateur.net  (source code available on GitHub, see description)
-https://api.segment.io/
-https://api.sendgrid.com
 https://api.shop.ua.com/graphql
 https://api.simnext.bullish-test.com
 https://api.staging.luno.com/
@@ -4250,7 +4261,6 @@ https://api.thetradedesk.com
 https://api.thousandeyes.com/
 https://api.toom.de
 https://api.tripadvisor.com
-https://api.twilio.com
 https://api.unity.com
 https://api.us1.fga.dev/
 https://api.usaa.com/
@@ -4295,8 +4305,6 @@ https://app.ring.com/*
 https://app.ripio.com
 https://app.saltlabs.com/
 https://app.sandbox.agora.incubateur.net
-https://app.segment.com/
-https://app.sendgrid.com/
 https://app.staging.luno.com/
 https://app.staging.saltlabs.com/
 https://app.thousandeyes.com/
@@ -4486,7 +4494,6 @@ https://auth.thetradedesk.com
 https://auth.wyze.com
 https://auth2.pdq.com/
 https://authn.usaa.com/
-https://authy.com/download/
 https://autoupdate.geo.opera.com
 https://b2bapi-a.usaa.com
 https://b2bapi.usaa.com
@@ -5143,7 +5150,6 @@ https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
 https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows.htm
 https://help.okta.com/en/prod/Content/Topics/Settings/download-browser-plugin.htm
 https://help.supplier.viator.com/en
-https://help.twilio.com
 https://hg.easy4ipcloud.com
 https://hipaa.staging.gearset.com/
 https://hk.employer.staging.seek.com
@@ -5619,7 +5625,6 @@ https://matrix.agent.tchap.gouv.fr
 https://matrix.e.tchap.gouv.fr
 https://matrix.i.tchap.gouv.fr
 https://mattermost.com/apps/
-https://mc.sendgrid.com/
 https://mcp-server.zomato.com/mcp
 https://mcp.atlassian.com
 https://mcp.datadoghq.eu/*
@@ -6058,13 +6063,12 @@ https://securemail.usaa.com
 https://securesignin.neogov.com
 https://securesignin.powerdms.com/
 https://seekcdn.com
-https://segment.com/docs/sources/
+https://segment.com/docs/connections/sources/
 https://selector.viator.com
 https://selfcare.ooredoo.qa
 https://send2.co/
 https://sendbird.com
 https://sendbird.com/docs
-https://sendgrid.com
 https://service.platform.tripadvisor.com
 https://service.post.ch/ekp-web/
 https://service.post.ch/ele-klp/ele/
@@ -6080,7 +6084,6 @@ https://shop.post.ch/shop
 https://sign.originzero.com.au
 https://signal.pulsepoint.com/hcp365/#/dashboard/advertiser/6603/overview
 https://signal.pulsepoint.com/hcpexplorer/#/dashboard/eventsExplorer
-https://signup.sendgrid.com/
 https://simnext.bullish-test.com
 https://simplisafe.co.uk
 https://simplisafe.com
@@ -6252,8 +6255,6 @@ https://trello.com/power-ups/5e3886cd2ae34410748d0d5b/jira-align-
 https://trello.com/power-ups/6048e897c73d032a983e2a7c/dashcards
 https://trello.com/power-ups/6052d130068a8c0de7b022b4
 https://trm.pinelabs.ae
-https://tsock.us1.twilio.com
-https://twilio.com/blog
 https://u.oppomobile.com/
 https://uae.voxcinemas.com/
 https://ui.com/distributors/
@@ -6368,6 +6369,7 @@ https://www.atlassian.com/software/jira/service-management
 https://www.atlassian.com/software/jira/work-management
 https://www.atlassian.com/software/rovo
 https://www.atlassian.com/software/rovo-dev
+https://www.authy.com/download/
 https://www.beta.tchap.gouv.fr
 https://www.binance.com/
 https://www.binance.us/
@@ -6599,11 +6601,11 @@ https://www.toursgds.com/
 https://www.toursgds.com/SupplierService?wsdl
 https://www.toursgds.com/ToursGdsService?wsdl
 https://www.tripadvisor.com
-https://www.twilio.com/blog/get-started-webrtc
-https://www.twilio.com/console
 https://www.twilio.com/docs/authy/api
 https://www.twilio.com/docs/libraries
-https://www.twilio.com/docs/verify/api 
+https://www.twilio.com/docs/verify/api
+https://www.twilio.com/en-us/blog/get-started-webrtc
+https://www.twilio.com/login?g=%2fconsole%3f&t=2b1c98334b25c1a785ef15b6556396290e3c704a9b57fc40687cbccd79c46a8c
 https://www.underarmour.cn
 https://www.underarmour.co.uk
 https://www.underarmour.com
@@ -6958,6 +6960,7 @@ maximo-accpt.portofantwerpbruges.com
 maximo.portofantwerp.com
 maximo.portofantwerpbruges.com
 maxiresponse.bpost.be
+mc.sendgrid.com
 mcd-dev.nba.com
 mcd-devint.nba.com
 mcd-perf.nba.com
@@ -7550,6 +7553,7 @@ sell.moonpay.com
 seller-id.tokopedia.com
 seller.temu.com
 sellerportal.newegg.com
+sendgrid.com
 sensei.pixiv.net
 sequoia-autocrypt
 sequoia-cert-store
@@ -7601,6 +7605,7 @@ sign.zivver.com
 signature-insights.api.cx.metamask.io
 signin.auth.welt.de
 signup.myconnect.com.au
+signup.sendgrid.com
 simperium.com
 simplenote.com
 siorc.xfinity.com
@@ -7687,6 +7692,7 @@ staging.magisto.com
 staking-api.polygon.technology
 staking.polygon.technology
 start.khealth.com
+static*.twilio.com
 static.apps.nextcloud.com
 station.veriff.com
 stationapi.veriff.com
@@ -8414,8 +8420,11 @@ zerobounce.net
 ziekenhuisschool.be
 zooplus.net
 ███████████
+████████████
+█████████████
 ██████████████
 ███████████████
+████████████████
 █████████████████
 ██████████████████
 ███████████████████
@@ -8427,6 +8436,7 @@ zooplus.net
 ███████████████████████████
 ████████████████████████████
 ██████████████████████████████
+█████████████████████████████████
 ██████████████████████████████████
 ███████████████████████████████████
 ██████████████████████████████████████
@@ -8435,6 +8445,7 @@ zooplus.net
 ██████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████
 █████████████████████████████████████████████████████████████████
+███████████████████████████████████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████████████████████████████████████████████
 ████████████████████████████████████████████████████████████████████████████████████████████████████
 ██████████████████████████████████████████████████████████████████████████████████████████████████████

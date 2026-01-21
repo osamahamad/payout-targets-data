@@ -924,6 +924,7 @@
 *.silabs.com
 *.simpletax.ca
 *.singspacegame.com
+*.sip.*.twilio.com
 *.sketchfab.com
 *.skinfra.xyz
 *.skybet.co.uk
@@ -3144,6 +3145,8 @@ api.remitly.io
 api.robinhood.com
 api.s-kaupat.fi
 api.sandbox.topperpay.com
+api.segment.io
+api.sendgrid.com
 api.services.simplisafe.com (App Endpoints)
 api.services.simplisafe.com (HSP Endpoints)
 api.simplisafe.com (App Endpoints)
@@ -3169,6 +3172,7 @@ api.tideplatform.in
 api.trello.com
 api.truelayer[-sandbox].com
 api.tumblr.com
+api.twilio.com
 api.unleashed.be
 api.upwork.com/graphql
 api.us.veriff.me
@@ -3262,6 +3266,8 @@ app.recordedfuture.com
 app.rewire.to
 app.sandbox.directly.com
 app.sandbox.topperpay.com
+app.segment.com
+app.sendgrid.com
 app.slack.com
 app.smtp2go.com
 app.snapchat.com
@@ -4572,6 +4578,7 @@ http://github.com/cloudflare
 http://greenchannel.payoneer.com.cn/gcportal
 http://h1-your-domain.zendesk.com/qa/
 http://h1-your-domain.zendesk.com/wfm/
+http://help.twilio.com
 http://ibotta.com
 http://ims-na1.adobelogin.com
 http://it.mydirtyhobby.com/
@@ -4615,6 +4622,8 @@ http://staging-api.ynab.com
 http://staking.consensys.io
 http://testnet.bybit.eu
 http://transangels.com/
+http://tsock.us1.twilio.com
+http://twilio.com/blog
 http://urc-auth-uefn.live.ucs.on.epicgames.com/
 http://urc-uefn.live.ucs.on.epicgames.com
 http://vimeo.com/api
@@ -6743,6 +6752,7 @@ https://securesignin.neogov.com
 https://securesignin.powerdms.com/
 https://security-testing-preprod-org.iam-pp.cfapps.eu10-004.hana.ondemand.com/cp.portal/site#Shell-home
 https://seekcdn.com
+https://segment.com/docs/connections/sources/
 https://segment.com/docs/sources/
 https://selector.viator.com
 https://selfcare.ooredoo.qa
@@ -7066,6 +7076,7 @@ https://www.atlassian.com/software/jira/service-management
 https://www.atlassian.com/software/jira/work-management
 https://www.atlassian.com/software/rovo
 https://www.atlassian.com/software/rovo-dev
+https://www.authy.com/download/
 https://www.beautyexpert.com/
 https://www.beta.tchap.gouv.fr
 https://www.binance.com/
@@ -7355,7 +7366,10 @@ https://www.twilio.com/blog/get-started-webrtc
 https://www.twilio.com/console
 https://www.twilio.com/docs/authy/api
 https://www.twilio.com/docs/libraries
+https://www.twilio.com/docs/verify/api
 https://www.twilio.com/docs/verify/api 
+https://www.twilio.com/en-us/blog/get-started-webrtc
+https://www.twilio.com/login?g=%2fconsole%3f&t=2b1c98334b25c1a785ef15b6556396290e3c704a9b57fc40687cbccd79c46a8c
 https://www.underarmour.cn
 https://www.underarmour.co.uk
 https://www.underarmour.com
@@ -7777,6 +7791,7 @@ maximo-accpt.portofantwerpbruges.com
 maximo.portofantwerp.com
 maximo.portofantwerpbruges.com
 maxiresponse.bpost.be
+mc.sendgrid.com
 mcd-dev.nba.com
 mcd-devint.nba.com
 mcd-perf.nba.com
@@ -8498,6 +8513,7 @@ sell.moonpay.com
 seller-id.tokopedia.com
 seller.temu.com
 sellerportal.newegg.com
+sendgrid.com
 sensei.pixiv.net
 sequoia-autocrypt
 sequoia-cert-store
@@ -8555,6 +8571,7 @@ signhom.acesso.io
 signin.auth.welt.de
 signup.myconnect.com.au
 signup.porsche.com
+signup.sendgrid.com
 simperium.com
 simplenote.com
 siorc.xfinity.com
@@ -8647,6 +8664,7 @@ staging.magisto.com
 staking-api.polygon.technology
 staking.polygon.technology
 start.khealth.com
+static*.twilio.com
 static.apps.nextcloud.com
 station.veriff.com
 stationapi.veriff.com
@@ -9551,6 +9569,7 @@ zopim.com
 █████████████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████████████
 █████████████████████████████████████████████████████████████████████
+███████████████████████████████████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████████████████████████████████████████████
 ████████████████████████████████████████████████████████████████████████████████████████████████████
 ██████████████████████████████████████████████████████████████████████████████████████████████████████

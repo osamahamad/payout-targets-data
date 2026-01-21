@@ -1,7 +1,5 @@
  *.rivian.com
- *.sip.*.twilio.com
  *.test.*.lfscnp.com
- Twilio CDNs (static*.twilio.com)
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *-api-*.acronis.com
 *-cvr-aws-*.sys.comcast.net
@@ -826,6 +824,7 @@
 *.siilo.com
 *.simpletax.ca
 *.singspacegame.com
+*.sip.*.twilio.com
 *.sketchfab.com
 *.skinfra.xyz
 *.skybet.co.uk
@@ -1180,6 +1179,7 @@ sn-api-cf.*.aws.indriverapp.com
 sn-api-gw-cf.*.aws.indriverapp.com
 sos-*.exo.io
 st*.indriverapp.com
+static*.twilio.com
 storage*.infomaniak.com
 sub*.aws.indriverapp.com
 support*.earlywarning.com

@@ -206,8 +206,6 @@ api-*.soundcloud.com
 *.housetrip.com
 *.bokundemo.com
 *.bokuntest.com
- *.sip.*.twilio.com
- Twilio CDNs (static*.twilio.com)
 *.api.ua.com/
 *.gtld-servers.net (DNS service; DNS related)
 *.verisign-grs.com (DNS service; DNS related)
