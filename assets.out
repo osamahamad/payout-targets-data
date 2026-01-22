@@ -617,6 +617,7 @@
 *.mona.co
 *.mongodb.com/*
 *.monopoly-poker.com
+*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -745,6 +746,7 @@
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -960,7 +962,6 @@
 *.truelayer.io
 *.tstaging.com
 *.tstaging.tools
-*.tube8.com
 *.tumblr.com
 *.tvg.com
 *.tweakblogs.net
@@ -1118,6 +1119,7 @@
 1023499075
 103.83.120.0/22
 1032480595
+1052238659
 1057338687
 107.167.96.0/19
 1076840480
@@ -3189,6 +3191,7 @@ co-in-gw-cf.*.aws.indriverapp.com
 co.mona.android
 co.tide
 co.tide.tideplatform.in
+co.uk.getmondo
 coaching.supernovas.indrive.com
 coban.pixiv.net
 coda.grammarly.com
@@ -4227,7 +4230,6 @@ https://api.pinterest.com
 https://api.planethoster.net
 https://api.pluralonline.com
 https://api.pluralpay.in
-https://api.pornhub.com/
 https://api.production.cde.tamg.cloud
 https://api.rec.net
 https://api.ring.com/*
@@ -5637,7 +5639,6 @@ https://mmp.otto.de
 https://mobile-production.content-square.net/
 https://mobile.monash/ 
 https://mobile.ooredoo.qa
-https://mobile.pornhub.com/
 https://mobile.usaa.com
 https://mobileapi.afterpay.com
 https://mobileapi.clearpay.com
@@ -5950,7 +5951,6 @@ https://plugins.matomo.org/developer/matomo-org
 https://pluralcheckout.pinepg.in
 https://poc-op-ywh.it.authentification.si.gouv.qc.ca/
 https://pods.link
-https://pornhub.mainhub.com
 https://portal-api.anz.kinergysolutions.com
 https://portal.3cx.com
 https://portal.afterpay.com
@@ -6535,8 +6535,6 @@ https://www.pinelabs.us/
 https://www.pixpay.fr/
 https://www.planethoster.com
 https://www.polkaudio.com
-https://www.pornhub.com/
-https://www.pornhubpremium.com/
 https://www.premogiftcards.com
 https://www.priceline.com/pwd/v0/pcln-graphql/
 https://www.privateinternetaccess.com/download/linux-vpn
@@ -6545,8 +6543,6 @@ https://www.privateinternetaccess.com/download/windows-vpn
 https://www.probiller.com
 https://www.quintoandar.com.br/*
 https://www.realcommercial.com.au/
-https://www.redtube.com/
-https://www.redtubepremium.com/
 https://www.remove.bg
 https://www.restaurant-information.com
 https://www.sdx.com/
@@ -6581,7 +6577,6 @@ https://www.theforkmanager.com
 https://www.thetradedesk.com
 https://www.thousandeyes.com/
 https://www.thuisbezorgd.nl/
-https://www.thumbzilla.com/
 https://www.tickets.mgm.mo/
 https://www.toursgds.com/
 https://www.toursgds.com/SupplierService?wsdl
@@ -6645,8 +6640,6 @@ https://www.xfinity.com/apps
 https://www.xvideos.net/app/
 https://www.yeswehack.com
 https://www.ynab.com/
-https://www.youporn.com/
-https://www.youpornpremium.com/
 https://www.zabbix.com/download_sources
 https://www.zoop.com.br
 https://www.zoop.ws
@@ -6840,6 +6833,7 @@ launchpad.37signals.com
 lawmanager.marriott.com
 learningmanagerstage4.adobe.com
 lego.me
+lemon8-api.tiktokv.us
 leonard.vinci.com
 liberty-dev.wnba.com
 liberty-qa.wnba.com
@@ -7022,6 +7016,7 @@ moments.marriottbonvoy.com
 moneybird.com
 moneybirdstorage.com
 monitor.mozilla.org
+monzo.com
 moonpay.com
 movie.indrive.com
 movieapi.kinepolis.megatix.be
@@ -7237,6 +7232,7 @@ p.grabtaxi.com
 pa-cf.*.aws.indriverapp.com
 pa-gw-cf.*.aws.indriverapp.com
 pangea.cloud
+pangle-mediation-ttp.tiktokpangle.us
 paperspace.com
 partner-webhook.remitly.io
 partner.logitech.com
@@ -7308,6 +7304,7 @@ platform.8x8pilot.com
 platform.cloudways.com
 platform.enjin.io
 platform.remix.com
+platform.tiktokpangle.us
 play.google.com/store/apps/details?id=com.crowdstrike.falconmobile
 play.google.com/store/apps/details?id=fr.assurancemaladie.monespacesante&showAllReviews=true (Android)
 playartifact.com
@@ -7674,6 +7671,7 @@ staging.kidswebservices.com
 staging.magisto.com
 staking-api.polygon.technology
 staking.polygon.technology
+starling-ttp.lemon8-app.us
 start.khealth.com
 static*.twilio.com
 static.apps.nextcloud.com
@@ -7805,6 +7803,7 @@ tickets.kinepolis.fr
 tickets.kinepolis.lu
 tickets.kinepolis.nl
 tiktok.com
+tiktokdata-us-open.tiktokw.us
 tlbe.prod.tomorrowland.com
 tlbr.prod.tomorrowland.com
 tlfr.prod.tomorrowland.com
@@ -8204,6 +8203,7 @@ www.mini.de
 www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
+www.monzo.com
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
@@ -8247,6 +8247,7 @@ www.sheer.com
 www.six-group.com
 www.socialdeal.nl
 www.sokos.fi
+www.soundonw.us
 www.starbucks.ca
 www.starbucks.co.jp
 www.starbucks.com
