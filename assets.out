@@ -618,7 +618,6 @@
 *.mona.co
 *.mongodb.com/*
 *.monopoly-poker.com
-*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -747,7 +746,6 @@
 *.preempt.com
 *.preemptsecurity.com
 *.privateinternetaccess.com
-*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -1007,7 +1005,6 @@
 *.vayama.com
 *.venmo.com
 *.vennhypotheken.nl
-*.veriff.com
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
@@ -1124,7 +1121,6 @@
 1023499075
 103.83.120.0/22
 1032480595
-1052238659
 1057338687
 107.167.96.0/19
 1076840480
@@ -1192,7 +1188,6 @@
 146.109.68.0/24
 146.109.8.0/21
 146.109.8.0/22
-1467907532
 1474700 (Steam app id)
 1475021574
 1476615877
@@ -2681,7 +2676,6 @@ airFiber
 airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 akismet.com
-alchemy.veriff.com
 alert.logitech.com
 alerts.ninjakiwi.com
 alexa.amazon.com
@@ -2779,7 +2773,6 @@ api.ezvizlife.com
 api.faraday.ai
 api.fi.dyson.com
 api.figma.com
-api.flamingo-eu.veriff.com
 api.foliofn.com
 api.geneva-staging.com
 api.github.com
@@ -2804,6 +2797,7 @@ api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
 api.localizestaging.com
+api.magic.link
 api.mapbox.com
 api.mercadolibre.com
 api.mercadopago.com
@@ -2862,9 +2856,7 @@ api.tumblr.com
 api.twilio.com
 api.unleashed.be
 api.upwork.com/graphql
-api.us.veriff.me
 api.vault.chiatest.net
-api.veriff.me
 api.vhx.tv
 api.vimeo.com
 api.wisdomtreeprimeapp.com
@@ -2978,6 +2970,7 @@ auth-identity-uat.nba.com
 auth-identity.nba.com
 auth.23andme.com
 auth.hhc247.org
+auth.magic.link
 auth.monespacesante.fr
 auth.moonpay.com
 auth.mtls.truelayer[-sandbox].com
@@ -3202,7 +3195,6 @@ co-in-gw-cf.*.aws.indriverapp.com
 co.mona.android
 co.tide
 co.tide.tideplatform.in
-co.uk.getmondo
 coaching.supernovas.indrive.com
 coban.pixiv.net
 coda.grammarly.com
@@ -3527,7 +3519,6 @@ com.urbanclap.provider
 com.urbanclap.urbanclap
 com.valvesoftware.Steam
 com.venmo
-com.veriff.demo
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
 com.visma.blue
@@ -3671,6 +3662,7 @@ dash.cloudflare.com
 dash.dropbox.com
 dashboard.algolia.com
 dashboard.doppler.com
+dashboard.magic.link
 dashboard.mergify.com
 dashboard.plaid.com
 dashboard.pluralonline.com
@@ -3737,7 +3729,6 @@ developer.worldcoin.org
 developers.cloudways.com
 developers.reddit.com
 developers.tiktok.com
-developers.veriff.me
 device.marriott.com
 dh-gw-cf.*.aws.indriverapp.com
 diabrowser.com
@@ -6850,11 +6841,13 @@ l75pvbdyjo.infomaniak.site
 lando.services.mozilla.com
 lark-frontier.byteoversea.com
 larksuite.com
+larksuite.us
 launch.playcanvas.com
 launchpad.37signals.com
 lawmanager.marriott.com
 learningmanagerstage4.adobe.com
 lego.me
+lemon8-api.tiktokv.us
 leonard.vinci.com
 liberty-dev.wnba.com
 liberty-qa.wnba.com
@@ -6908,7 +6901,6 @@ logs.nextcloud.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
 lookup.nextcloud.com
-louvre.veriff.me
 lrc20.lightspark.com
 luxfilmfestfilms.megatix.be
 luxfilmfestproducts.megatix.be
@@ -6926,7 +6918,6 @@ m.trendyol.com
 mUSD Stablecoin
 macOS app
 magento.com
-magic.veriff.me
 magiceden.io
 magisto.com,www.magisto.com
 mail.hostinger.com/v2
@@ -7039,7 +7030,6 @@ moments.marriottbonvoy.com
 moneybird.com
 moneybirdstorage.com
 monitor.mozilla.org
-monzo.com
 moonpay.com
 movie.indrive.com
 movieapi.kinepolis.megatix.be
@@ -7255,6 +7245,7 @@ p.grabtaxi.com
 pa-cf.*.aws.indriverapp.com
 pa-gw-cf.*.aws.indriverapp.com
 pangea.cloud
+pangle-mediation-ttp.tiktokpangle.us
 paperspace.com
 partner-webhook.remitly.io
 partner.logitech.com
@@ -7326,6 +7317,7 @@ platform.8x8pilot.com
 platform.cloudways.com
 platform.enjin.io
 platform.remix.com
+platform.tiktokpangle.us
 play.google.com/store/apps/details?id=com.crowdstrike.falconmobile
 play.google.com/store/apps/details?id=fr.assurancemaladie.monespacesante&showAllReviews=true (Android)
 playartifact.com
@@ -7692,11 +7684,10 @@ staging.kidswebservices.com
 staging.magisto.com
 staking-api.polygon.technology
 staking.polygon.technology
+starling-ttp.lemon8-app.us
 start.khealth.com
 static*.twilio.com
 static.apps.nextcloud.com
-station.veriff.com
-stationapi.veriff.com
 stats-trafficcop-prod.nba.com
 stats.gleague.nba.com
 stats.nba.com
@@ -7825,6 +7816,7 @@ tickets.kinepolis.fr
 tickets.kinepolis.lu
 tickets.kinepolis.nl
 tiktok.com
+tiktokdata-us-open.tiktokw.us
 tlbe.prod.tomorrowland.com
 tlbr.prod.tomorrowland.com
 tlfr.prod.tomorrowland.com
@@ -8227,7 +8219,6 @@ www.mini.de
 www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
-www.monzo.com
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
@@ -8273,6 +8264,7 @@ www.sheer.com
 www.six-group.com
 www.socialdeal.nl
 www.sokos.fi
+www.soundonw.us
 www.starbucks.ca
 www.starbucks.co.jp
 www.starbucks.com
@@ -8324,7 +8316,6 @@ www.urbanclap.com
 www.urbancompany.com
 www.uzleuven.be
 www.valvesoftware.com
-www.veriff.com
 www.vfsvisaonline.com
 www.vfsvisaservicesrussia.com
 www.vimeo.com
