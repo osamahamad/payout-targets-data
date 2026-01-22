@@ -2898,6 +2898,7 @@ accounts.cloud.databricks.com
 accounts.creditkarma.com
 accounts.evernote.com
 accounts.firefox.com
+accounts.insightly.com
 accounts.khealth.com
 accounts.logi.com
 accounts.pixiv.net
@@ -3280,6 +3281,7 @@ app.taxjar.com
 app.theperfumeshop.com
 app.truelayer[-sandbox].com
 app.uma.money
+app.unbounce.com
 app.watsons.com.tr
 app.whoop.com
 app.workbox.dk
@@ -4068,6 +4070,7 @@ creator.amazon.com
 creatormarketplace.tiktok.com
 creators.basicattentiontoken.org
 crediariohomolog.acesso.io
+crm.na1.insightly.com
 crm.nextcloud.com
 cruises.booking.com
 cruises.priceline.com
@@ -4534,9 +4537,11 @@ http1mustdie.com
 http://--your-own-1password-account--.1password.com
 http://activitylog.io/
 http://analytics.prosus.com
+http://api.insightly.com/v3.1/
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
 http://api.lightspark.com
+http://api.na1.insightly.com/v3.1/
 http://app-qa.chime.com/users/sign_in
 http://app.lightspark.com
 http://app.scaleft.com/
@@ -7708,6 +7713,7 @@ login.delen.ch
 login.delen.lu 
 login.fr.cloud.gov
 login.infomaniak.com
+login.insightly.com
 login.lansweeper.com
 login.oyens.com
 login.pabets.tvg.com
@@ -7777,6 +7783,7 @@ map.snapchat.com
 mapi.moneyback.com.hk
 mark8.syfe.com
 marketing.fareharbor.com
+marketing.na1.insightly.com
 marketing.nitropack.io
 marketplace.databricks.com
 marketplace.digitalocean.com
@@ -7888,7 +7895,9 @@ mix-qat.monash.edu/*
 mobile-prod.tvg.com
 mobile.nexuzhealth.be
 mobile.s-pankki.fi
+mobileapi.insightly.com
 mobileapi.lystit.com
+mobileapi.na1.insightly.com
 mobileapp.hyatt.com
 mobilevikings.be
 mod.reddit.com
@@ -8128,6 +8137,7 @@ org.vom8x8.sipua
 ota.onecloud.harman.com
 outage.logitech.com
 outagehistory.logitech.com
+outlook.insightly.com
 ovo.id
 owa-v6.zivver.com
 owa.marriott.com

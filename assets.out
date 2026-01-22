@@ -3,6 +3,7 @@
  *.test.*.lfscnp.com
  203.13.125.32/27
  Finicity Connect
+ Mobile Apps
  UniFi OS Server
  com.citymapper.app.release
  https://api-*exoscale.com/v2
@@ -800,6 +801,7 @@
 *.say.rocks
 *.saytechnologies.com
 *.sba.marriott.com
+*.sbb.ch
 *.sbgcdn.com
 *.sbgcore.com
 *.sbgorigin.com
@@ -910,6 +912,7 @@
 *.support.jbl.com
 *.support.originenergy.com.au
 *.swiftype.com
+*.swisspass.ch
 *.sys.comcast.net
 *.tdl.sh
 *.teams.cloudflare.com
@@ -962,6 +965,7 @@
 *.truelayer.io
 *.tstaging.com
 *.tstaging.tools
+*.tube8.com
 *.tumblr.com
 *.tvg.com
 *.tweakblogs.net
@@ -1631,6 +1635,8 @@ All internet facing Sky DACH assets
 All internet facing Sky Italy assets 
 All internet facing Sky UK/ROI assets
 All other Assets
+All other SBB owned IT assets
+All other Web and mobile APPs owned by SBB 
 All the Blockchain Infrastructure
 Amazon Subsidiaries (Please only actively test explicitly stated scope)
 AmpliFi
@@ -1902,7 +1908,6 @@ ExpressVPN VPN servers
 External service data leakage 
 F 21 Pro
 FIles.com REST API
-FPGA Solution Development Tools and Utilities
 Faucets
 Figma Atlassian App
 Figma Desktop App
@@ -2145,6 +2150,7 @@ Mi TV Box
 Mi/Redmi Phone
 Microsites
 Mobile Applications
+Mobile Apps
 MongoDB Assistant
 MongoDB Atlas
 MongoDB Community Server
@@ -2181,7 +2187,6 @@ Nintendo Switch 2 System Processes allowing piracy
 Nintendo Switch 2 applications for which Nintendo is the publisher worldwide
 Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
-Non Altera Products
 Non-Core Assets
 Non-Core Grafana Plugins
 NordPass - Linux Executable
@@ -2618,6 +2623,7 @@ accounts.cloud.databricks.com
 accounts.creditkarma.com
 accounts.evernote.com
 accounts.firefox.com
+accounts.insightly.com
 accounts.khealth.com
 accounts.logi.com
 accounts.pixiv.net
@@ -2919,6 +2925,7 @@ app.swapcard.com
 app.taxjar.com
 app.truelayer[-sandbox].com
 app.uma.money
+app.unbounce.com
 app.whoop.com
 app.workbox.dk
 app.zivver.com
@@ -3630,6 +3637,7 @@ create.snapchat.com
 creator.amazon.com
 creatormarketplace.tiktok.com
 creators.basicattentiontoken.org
+crm.na1.insightly.com
 crm.nextcloud.com
 cruises.priceline.com
 cs.money
@@ -4008,9 +4016,11 @@ http1mustdie.com
 http://--your-own-1password-account--.1password.com
 http://activitylog.io/
 http://analytics.prosus.com
+http://api.insightly.com/v3.1/
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
 http://api.lightspark.com
+http://api.na1.insightly.com/v3.1/
 http://app-qa.chime.com/users/sign_in
 http://app.lightspark.com
 http://app.scaleft.com/
@@ -4230,6 +4240,7 @@ https://api.pinterest.com
 https://api.planethoster.net
 https://api.pluralonline.com
 https://api.pluralpay.in
+https://api.pornhub.com/
 https://api.production.cde.tamg.cloud
 https://api.rec.net
 https://api.ring.com/*
@@ -5639,6 +5650,7 @@ https://mmp.otto.de
 https://mobile-production.content-square.net/
 https://mobile.monash/ 
 https://mobile.ooredoo.qa
+https://mobile.pornhub.com/
 https://mobile.usaa.com
 https://mobileapi.afterpay.com
 https://mobileapi.clearpay.com
@@ -5951,6 +5963,7 @@ https://plugins.matomo.org/developer/matomo-org
 https://pluralcheckout.pinepg.in
 https://poc-op-ywh.it.authentification.si.gouv.qc.ca/
 https://pods.link
+https://pornhub.mainhub.com
 https://portal-api.anz.kinergysolutions.com
 https://portal.3cx.com
 https://portal.afterpay.com
@@ -6535,6 +6548,8 @@ https://www.pinelabs.us/
 https://www.pixpay.fr/
 https://www.planethoster.com
 https://www.polkaudio.com
+https://www.pornhub.com/
+https://www.pornhubpremium.com/
 https://www.premogiftcards.com
 https://www.priceline.com/pwd/v0/pcln-graphql/
 https://www.privateinternetaccess.com/download/linux-vpn
@@ -6543,6 +6558,8 @@ https://www.privateinternetaccess.com/download/windows-vpn
 https://www.probiller.com
 https://www.quintoandar.com.br/*
 https://www.realcommercial.com.au/
+https://www.redtube.com/
+https://www.redtubepremium.com/
 https://www.remove.bg
 https://www.restaurant-information.com
 https://www.sdx.com/
@@ -6577,6 +6594,7 @@ https://www.theforkmanager.com
 https://www.thetradedesk.com
 https://www.thousandeyes.com/
 https://www.thuisbezorgd.nl/
+https://www.thumbzilla.com/
 https://www.tickets.mgm.mo/
 https://www.toursgds.com/
 https://www.toursgds.com/SupplierService?wsdl
@@ -6640,6 +6658,8 @@ https://www.xfinity.com/apps
 https://www.xvideos.net/app/
 https://www.yeswehack.com
 https://www.ynab.com/
+https://www.youporn.com/
+https://www.youpornpremium.com/
 https://www.zabbix.com/download_sources
 https://www.zoop.com.br
 https://www.zoop.ws
@@ -6869,6 +6889,7 @@ login-api.truelayer[-sandbox].com
 login.arkane.network
 login.cm.com
 login.infomaniak.com
+login.insightly.com
 login.lansweeper.com
 login.playcanvas.com
 login.prod.nube.tech
@@ -6925,6 +6946,7 @@ mangerbouger.fr
 map.snapchat.com
 mark8.syfe.com
 marketing.fareharbor.com
+marketing.na1.insightly.com
 marketplace.digitalocean.com
 marketplace.gamemaker.io
 marquee.gs.com
@@ -7006,7 +7028,9 @@ mirc.uzleuven.be
 mix-dev.monash.edu/*
 mix-qat.monash.edu/*
 mobile.s-pankki.fi
+mobileapi.insightly.com
 mobileapi.lystit.com
+mobileapi.na1.insightly.com
 mobileapp.hyatt.com
 mobilevikings.be
 mod.reddit.com
@@ -7224,6 +7248,7 @@ org.vom8x8.sipua
 ota.onecloud.harman.com
 outage.logitech.com
 outagehistory.logitech.com
+outlook.insightly.com
 ovo.id
 owa-v6.zivver.com
 owa.marriott.com
@@ -8102,6 +8127,7 @@ www.ebookers.fi
 www.editeur.am.monespacesante.fr
 www.editeur.api.monespacesante.fr
 www.elastic.co
+www.elvetino.ch
 www.evernote.com
 www.expedia-aarp.com
 www.expedia.com
@@ -8241,6 +8267,8 @@ www.s-kaupat.fi
 www.s-pankki.fi
 www.sa.dyson.com
 www.samenfittorfs.be
+www.sbb.ch
+www.sbbcargo.com
 www.schoenentorfs.be
 www.schoenentorfs.nl 
 www.sheer.com
@@ -8274,6 +8302,7 @@ www.torfs.be
 www.torfs.nl
 www.tradepmr.com
 www.trajeoh.com
+www.transsicura.ch
 www.travel-brilliantly.marriott.com
 www.travelocity.ca
 www.travelocity.com
