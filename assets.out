@@ -3,7 +3,6 @@
  *.test.*.lfscnp.com
  203.13.125.32/27
  Finicity Connect
- Mobile Apps
  UniFi OS Server
  com.citymapper.app.release
  https://api-*exoscale.com/v2
@@ -799,7 +798,6 @@
 *.say.rocks
 *.saytechnologies.com
 *.sba.marriott.com
-*.sbb.ch
 *.sbgcdn.com
 *.sbgcore.com
 *.sbgorigin.com
@@ -910,7 +908,6 @@
 *.support.jbl.com
 *.support.originenergy.com.au
 *.swiftype.com
-*.swisspass.ch
 *.sys.comcast.net
 *.tdl.sh
 *.teams.cloudflare.com
@@ -1632,8 +1629,6 @@ All internet facing Sky DACH assets
 All internet facing Sky Italy assets 
 All internet facing Sky UK/ROI assets
 All other Assets
-All other SBB owned IT assets
-All other Web and mobile APPs owned by SBB 
 All the Blockchain Infrastructure
 Amazon Subsidiaries (Please only actively test explicitly stated scope)
 AmpliFi
@@ -2148,7 +2143,6 @@ Mi TV Box
 Mi/Redmi Phone
 Microsites
 Mobile Applications
-Mobile Apps
 MongoDB Assistant
 MongoDB Atlas
 MongoDB Community Server
@@ -6749,7 +6743,6 @@ insight2.tradepmr.com
 insights.deribit.com
 institutional.coinbase.com
 int.32red.com
-int2cruises.udaanindia.com
 intensedebate.com
 intercity-*.eu-east-1.indriverapp.com
 intercity.indrive.com
@@ -6847,7 +6840,6 @@ launchpad.37signals.com
 lawmanager.marriott.com
 learningmanagerstage4.adobe.com
 lego.me
-lemon8-api.tiktokv.us
 leonard.vinci.com
 liberty-dev.wnba.com
 liberty-qa.wnba.com
@@ -7245,7 +7237,6 @@ p.grabtaxi.com
 pa-cf.*.aws.indriverapp.com
 pa-gw-cf.*.aws.indriverapp.com
 pangea.cloud
-pangle-mediation-ttp.tiktokpangle.us
 paperspace.com
 partner-webhook.remitly.io
 partner.logitech.com
@@ -7317,7 +7308,6 @@ platform.8x8pilot.com
 platform.cloudways.com
 platform.enjin.io
 platform.remix.com
-platform.tiktokpangle.us
 play.google.com/store/apps/details?id=com.crowdstrike.falconmobile
 play.google.com/store/apps/details?id=fr.assurancemaladie.monespacesante&showAllReviews=true (Android)
 playartifact.com
@@ -7684,7 +7674,6 @@ staging.kidswebservices.com
 staging.magisto.com
 staking-api.polygon.technology
 staking.polygon.technology
-starling-ttp.lemon8-app.us
 start.khealth.com
 static*.twilio.com
 static.apps.nextcloud.com
@@ -7816,7 +7805,6 @@ tickets.kinepolis.fr
 tickets.kinepolis.lu
 tickets.kinepolis.nl
 tiktok.com
-tiktokdata-us-open.tiktokw.us
 tlbe.prod.tomorrowland.com
 tlbr.prod.tomorrowland.com
 tlfr.prod.tomorrowland.com
@@ -7848,8 +7836,6 @@ uatcms.optimuscards.com
 uber.com
 uber.marriott.com
 uc.8x8pilot.com
-udaanindia.com
-udaanindia.in
 uisp.com
 uk.forescout.cloud
 unico.io
@@ -8117,7 +8103,6 @@ www.ebookers.fi
 www.editeur.am.monespacesante.fr
 www.editeur.api.monespacesante.fr
 www.elastic.co
-www.elvetino.ch
 www.evernote.com
 www.expedia-aarp.com
 www.expedia.com
@@ -8256,15 +8241,12 @@ www.s-kaupat.fi
 www.s-pankki.fi
 www.sa.dyson.com
 www.samenfittorfs.be
-www.sbb.ch
-www.sbbcargo.com
 www.schoenentorfs.be
 www.schoenentorfs.nl 
 www.sheer.com
 www.six-group.com
 www.socialdeal.nl
 www.sokos.fi
-www.soundonw.us
 www.starbucks.ca
 www.starbucks.co.jp
 www.starbucks.com
@@ -8291,7 +8273,6 @@ www.torfs.be
 www.torfs.nl
 www.tradepmr.com
 www.trajeoh.com
-www.transsicura.ch
 www.travel-brilliantly.marriott.com
 www.travelocity.ca
 www.travelocity.com
