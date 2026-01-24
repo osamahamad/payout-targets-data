@@ -289,18 +289,10 @@
 *.elastic.dev
 *.elasticnet.co
 *.elstc.co
-*.emakina.at
-*.emakina.ch
-*.emakina.com
-*.emakina.fr
-*.emakina.group
-*.emakina.nl 
-*.emakina.us
 *.employer.seek.com
 *.enjinusercontent.com
 *.enspotify.com
 *.eops.nl
-*.epam.com
 *.epicgames.com
 *.epicgames.dev
 *.eternal.com
@@ -1009,6 +1001,7 @@
 *.vod2.infomaniak.com
 *.voiscooters.com
 *.volkskrant.nl
+*.volkswagen.de
 *.vpn.hackerone.net
 *.vrbo.com
 *.vtm.be
@@ -1080,7 +1073,6 @@ Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DI
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 GenAI Apps under *.amazon.*
 Leaked/compromised employee accounts *.here.com
-Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 ab-api-cf.*.aws.indriverapp.com
 analytics-*.8x8.com
 api*.hubapi.com
@@ -1143,7 +1135,6 @@ nha-gw-cf.*.aws.indriverapp.com
 no-cf.*.aws.indriverapp.com
 no-gw-cf.*.aws.indriverapp.com
 onboarding-*.cloud.com
-open redirect at *.epam.com
 pa-cf.*.aws.indriverapp.com
 pa-gw-cf.*.aws.indriverapp.com
 pay*.indriverapp.com
