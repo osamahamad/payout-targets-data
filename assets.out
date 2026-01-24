@@ -309,10 +309,18 @@
 *.elastic.dev
 *.elasticnet.co
 *.elstc.co
+*.emakina.at
+*.emakina.ch
+*.emakina.com
+*.emakina.fr
+*.emakina.group
+*.emakina.nl 
+*.emakina.us
 *.employer.seek.com
 *.enjinusercontent.com
 *.enspotify.com
 *.eops.nl
+*.epam.com
 *.epicgames.com
 *.epicgames.dev
 *.eternal.com
@@ -1021,7 +1029,6 @@
 *.vod2.infomaniak.com
 *.voiscooters.com
 *.volkskrant.nl
-*.volkswagen.de
 *.vpn.hackerone.net
 *.vrbo.com
 *.vtm.be
@@ -2025,6 +2032,7 @@ Ibotta App Data & Memory
 Id1406825640
 Illustrator
 Images
+In Scope - Points only
 In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)
 InCopy
 InDesign
@@ -2110,6 +2118,7 @@ Malwarebytes Windows Firewall Control
 Malwarebytes for Mac
 Malwarebytes for Teams
 Malwarebytes for Windows
+Mbed TLS & TF-PSA-Crypto
 Media Encoder
 Megaphone
 Membership
@@ -2187,6 +2196,7 @@ OKX Wallet Edge Add-ons
 OKX Wallet Safari Extension
 OKX iOS APP
 ONCE: Campfire
+OP-TEE
 Observability - APM Agents
 Observability - APM Server
 Official WordPress plugins
@@ -2199,6 +2209,7 @@ Open Source - Consoleme
 Open Source - Spectator
 Open Source - Weep
 Open Source - Zuul
+Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 Open source tools from Cloudflare
 OpenAI API Keys
 OpenPGP Cert Directory Specification
@@ -2440,6 +2451,8 @@ Trello Third Party Powerups
 Tribal Wars
 TrueLayer for Magento (Magento plugin)
 TrueLayer for WooCommerce (WordPress plugin)
+TrustedFirmware-A (TF-A)
+TrustedFirmware-M (TF-M)
 TrustedServer 100,000 Bonus Award (See Program Policy for Info)
 Trustwallet Android App
 Trustwallet Chrome Extension
@@ -5165,6 +5178,7 @@ https://kucoin.com
 https://kw-bugcrowd-pub.bounty.kiteworks.dev/
 https://kyc.ripio.com/
 https://l.usaa.com/
+https://lab.epam.com
 https://landrover.here.com
 https://lapi.yellowblocks.me
 https://laptop-updates.brave.com/latest/dev/debian64
@@ -5693,6 +5707,7 @@ https://opendata-demo.test-socrata.com
 https://opendata.test-socrata.com
 https://opendata.test-socrata.com/admin/gateway
 https://opensea.io/
+https://opensource.epam.com
 https://ops-sso.adsrvr.org/
 https://optimizely-edge.com
 https://optout-prod.uidapi.com
@@ -5944,6 +5959,7 @@ https://production.maf.auth0.com
 https://production.maf.auth0.com/api/v2/
 https://profile.pentest.clicsante.ca/
 https://profreg.medscape.com
+https://projects.epam.com
 https://property.com.au
 https://proprietario.quintoandar.com.br
 https://prozentoomat.toom.de
@@ -6366,6 +6382,7 @@ https://www.demarches-simplifiees.fr/graphql
 https://www.denon.com
 https://www.designify.com
 https://www.enjoyselfish.com
+https://www.epam.com/
 https://www.etsy.com
 https://www.etsy.com/developers/documentation/getting_started/api_basics
 https://www.etsy.com/mobile
@@ -7165,6 +7182,7 @@ oneview.threatdown.com
 online.s-pankki.fi
 onum-labs.com
 onum.com
+open redirect at *.epam.com
 open-api.capital.com
 open.airbnb.com
 open.larksuite.com
