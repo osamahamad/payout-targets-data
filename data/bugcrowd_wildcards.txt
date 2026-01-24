@@ -56,16 +56,6 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.delltechnologies.com/* 
 *.sandbox.directly.com/
 casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
-*.epam.com
-*.emakina.nl 
-*.emakina.group
-*.emakina.com
-*.emakina.ch
-*.emakina.fr
-*.emakina.us
-*.emakina.at
-open redirect at *.epam.com
-Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.etsy.com
 *.certinia.com
 *.kiln.it
@@ -211,6 +201,7 @@ api-*.soundcloud.com
 *.verisign-grs.com (DNS service; DNS related)
 *.viatorinc.com
 *.viator.com
+*.volkswagen.de
 *.volkswagen.de
 *.transferwise.com
 *.wise.com
