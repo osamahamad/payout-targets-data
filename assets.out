@@ -61,6 +61,7 @@
 *.adultforce.com
 *.advisor-connection.com
 *.advisorsolutions.gs.com
+*.aips-internal.com
 *.airbnb-aws.com
 *.airbnb.com
 *.airbnb.org
@@ -212,6 +213,8 @@
 *.cceng.8x8.com
 *.central.arubanetworks.com
 *.certinia.com
+*.certsy.com
+*.certsynonprod.com
 *.chalet.8x8.com
 *.chalet.8x8.com/ws/v1
 *.cheaptickets.com
@@ -501,6 +504,7 @@
 *.jbl.ru
 *.jit.si
 *.jitsi.net
+*.jobapi.net
 *.jobsdb.com
 *.jobstreet.co.id
 *.jobstreet.com
@@ -530,6 +534,7 @@
 *.kwsdose.be
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
+*.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
 *.latitudefinancial.co.nz
@@ -688,6 +693,7 @@
 *.oslo.io
 *.osp.opera.software
 *.otherside.xyz
+*.outfra.xyz
 *.ovo.id
 *.ovofinansial.com
 *.ownit.se
@@ -812,7 +818,10 @@
 *.securecircle.com
 *.securegatewayaccess.com
 *.securityservices.io
+*.seek.com.au
 *.seekasia.com
+*.seekpass-staging.com
+*.seekpass.co
 *.sellzone.com
 *.semrush.com
 *.semrush.net
@@ -837,6 +846,7 @@
 *.singspacegame.com
 *.sip.*.twilio.com
 *.sketchfab.com
+*.skinfra.xyz
 *.skybet.co.uk
 *.skybet.com
 *.skybet.net
@@ -857,6 +867,7 @@
 *.smartcontract.com
 *.snapshooter.com
 *.snooguts.net
+*.sol-data.com
 *.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
@@ -2060,6 +2071,7 @@ Kong Gateway Enterprise
 Kong Gateway OSS
 Kong Gateway Plugins (Kong-Supported Only)
 Kong Mesh
+Lansweeper Discovery
 LaunchDarkly Open Source SDKs
 Leaked Credentials
 Leaked Credentials and Secrets (Canva Employee/Contractor)
@@ -2771,6 +2783,7 @@ api.instacart.com
 api.khealth.com
 api.klarna.com
 api.krisp.ai
+api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
@@ -2873,6 +2886,8 @@ app.khealth.com
 app.klarna.com
 app.koho.ca
 app.krisp.ai
+app.lansweeper.com
+app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
 app.localizestaging.com
@@ -2966,10 +2981,12 @@ autocomplete.booking.com
 autodiscover.bitstamp.net
 autodiscover.uzleuven.be
 autointerface.stag.visma.net
+autoupdateapi.lansweeper.com
 aw.visa.com
 ax-stage.maventa.com
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
+backoffice.lansweeper.com
 backstage.io
 badoo.com
 badoocdn.com
@@ -3723,6 +3740,7 @@ do.co
 doaction.org
 docs.api.enterprise.uphold.com
 docs.gitlab.com
+docs.lansweeper.com
 docs.launchdarkly.com
 docs.nextcloud.com
 docs.optimuscards.com
@@ -3754,6 +3772,7 @@ eassessment.monash.edu
 ebctest.cybersource.com
 ebsext.oft.hyatt.com
 ecrf.uzleuven.be
+edge.lansweeper.com
 edgeapi.slack.com
 edgeapis.onecloud.harman.com
 editeur.am.monespacesante.fr
@@ -3825,6 +3844,7 @@ fareharborsites.com
 fashion4less.me
 faucet-api.polygon.technology/
 faucet.polygon.technology
+fb.lansweeper.com
 fch-cf.*.aws.indriverapp.com
 fe-cf.*.aws.indriverapp.com
 fe-gw-cf.*.aws.indriverapp.com
@@ -4292,11 +4312,13 @@ https://apps.apple.com/app/thefork-manager-neo/id1295795281
 https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
+https://apps.apple.com/au/app/certsy/id1617796159
 https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
 https://apps.apple.com/au/app/realestate-com-au-property/id404667893
+https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://apps.apple.com/be/app/zen-by-deezer-m%C3%A9ditation/id1597326355
 https://apps.apple.com/be/app/zivver/id1179528663
 https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
@@ -4448,6 +4470,7 @@ https://auth.lastpass.com
 https://auth.myopenpass.com
 https://auth.opera.com
 https://auth.pentest.clicsante.ca/
+https://auth.seek.com
 https://auth.thetradedesk.com
 https://auth.wyze.com
 https://auth2.pdq.com/
@@ -5086,6 +5109,7 @@ https://gomastercard.com.au
 https://gov.bugcrowd.net
 https://gpt.lime.bike
 https://graphql.acorns.com
+https://graphql.seek.com
 https://guest.usaa.com/
 https://gwapi.tripadvisor.com
 https://gwapi1.tripadvisor.com
@@ -5211,6 +5235,7 @@ https://login.salt.ch
 https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
+https://lsagentrelay.lansweeper.com/
 https://luna.amazon.com/*
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://m.csqtrk.net
@@ -5758,6 +5783,7 @@ https://play.fga.dev/
 https://play.google.com/store/apps/details?hl=en&id=co.bitx.android.wallet
 https://play.google.com/store/apps/details?id=au.com.optus.selfservice&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=au.com.realestate.app
+https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR
 https://play.google.com/store/apps/details?id=br.com.movilepay.banking.application&hl=pt_BR
 https://play.google.com/store/apps/details?id=ch.post.it.pcc&hl=en
@@ -5787,6 +5813,7 @@ https://play.google.com/store/apps/details?id=com.booking&hl=en
 https://play.google.com/store/apps/details?id=com.booking.hotelmanager&hl=en
 https://play.google.com/store/apps/details?id=com.bybit.app&hl=en
 https://play.google.com/store/apps/details?id=com.callpod.android_apps.keeper&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.certsy.app
 https://play.google.com/store/apps/details?id=com.classdojo.android
 https://play.google.com/store/apps/details?id=com.coindcx.btc
 https://play.google.com/store/apps/details?id=com.coindcx.okto
@@ -6006,6 +6033,7 @@ https://secure.vendhq.com
 https://securemail.usaa.com
 https://securesignin.neogov.com
 https://securesignin.powerdms.com/
+https://seekcdn.com
 https://segment.com/docs/connections/sources/
 https://selector.viator.com
 https://selfcare.ooredoo.qa
@@ -6832,6 +6860,7 @@ login.arkane.network
 login.cm.com
 login.infomaniak.com
 login.insightly.com
+login.lansweeper.com
 login.playcanvas.com
 login.prod.nube.tech
 login.rei.com
@@ -7151,6 +7180,7 @@ obs-sensors.iris.production.forescoutcloud.net
 ocijlbex1prd.marriott.com
 octopus
 odoo14.notebleue.pro
+on-premises software
 onboarding-*.cloud.com
 onboarding-api.truelayer.com
 onboarding.cloud.com
@@ -8129,6 +8159,7 @@ www.kolikkopelit.com
 www.kpharmacyllc.com
 www.lab-recherche-environnement.org
 www.landmarkcinemas.com
+www.lansweeper.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.libelle.nl
