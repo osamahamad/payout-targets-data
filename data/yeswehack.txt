@@ -319,6 +319,14 @@ https://github.com/jenkinsci/script-security-plugin
 https://github.com/jenkinsci/credentials-plugin
 https://github.com/jenkinsci/credentials-binding-plugin
 https://github.com/jenkinsci/workflow-cps-plugin
+https://github.com/jenkinsci/ldap-plugin
+https://github.com/jenkinsci/ssh-credentials-plugin
+https://github.com/jenkinsci/plain-credentials-plugin
+https://github.com/jenkinsci/matrix-auth-plugin
+https://github.com/jenkinsci/ssh-agents-plugin
+https://github.com/jenkinsci/git-plugin
+https://github.com/jenkinsci/git-client-plugin
+https://github.com/jenkinsci/workflow-scm-step-plugin
 https://yeswehack.staging.komoju.com
 https://multipay-staging.test.komoju.com
 https://doc.komoju.com/docs/fields-overview
