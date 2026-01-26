@@ -534,6 +534,7 @@
 *.kwsdose.be
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
+*.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
 *.latitudefinancial.co.nz
@@ -2070,6 +2071,7 @@ Kong Gateway Enterprise
 Kong Gateway OSS
 Kong Gateway Plugins (Kong-Supported Only)
 Kong Mesh
+Lansweeper Discovery
 LaunchDarkly Open Source SDKs
 Leaked Credentials
 Leaked Credentials and Secrets (Canva Employee/Contractor)
@@ -2777,6 +2779,7 @@ api.instacart.com
 api.khealth.com
 api.klarna.com
 api.krisp.ai
+api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
@@ -2879,6 +2882,8 @@ app.khealth.com
 app.klarna.com
 app.koho.ca
 app.krisp.ai
+app.lansweeper.com
+app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
 app.localizestaging.com
@@ -2972,10 +2977,12 @@ autocomplete.booking.com
 autodiscover.bitstamp.net
 autodiscover.uzleuven.be
 autointerface.stag.visma.net
+autoupdateapi.lansweeper.com
 aw.visa.com
 ax-stage.maventa.com
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
+backoffice.lansweeper.com
 backstage.io
 badoo.com
 badoocdn.com
@@ -3729,6 +3736,7 @@ do.co
 doaction.org
 docs.api.enterprise.uphold.com
 docs.gitlab.com
+docs.lansweeper.com
 docs.launchdarkly.com
 docs.nextcloud.com
 docs.optimuscards.com
@@ -3760,6 +3768,7 @@ eassessment.monash.edu
 ebctest.cybersource.com
 ebsext.oft.hyatt.com
 ecrf.uzleuven.be
+edge.lansweeper.com
 edgeapi.slack.com
 edgeapis.onecloud.harman.com
 editeur.am.monespacesante.fr
@@ -3831,6 +3840,7 @@ fareharborsites.com
 fashion4less.me
 faucet-api.polygon.technology/
 faucet.polygon.technology
+fb.lansweeper.com
 fch-cf.*.aws.indriverapp.com
 fe-cf.*.aws.indriverapp.com
 fe-gw-cf.*.aws.indriverapp.com
@@ -5221,6 +5231,7 @@ https://login.salt.ch
 https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
+https://lsagentrelay.lansweeper.com/
 https://luna.amazon.com/*
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://m.csqtrk.net
@@ -6845,6 +6856,7 @@ login.arkane.network
 login.cm.com
 login.infomaniak.com
 login.insightly.com
+login.lansweeper.com
 login.playcanvas.com
 login.prod.nube.tech
 login.rei.com
@@ -7164,6 +7176,7 @@ obs-sensors.iris.production.forescoutcloud.net
 ocijlbex1prd.marriott.com
 octopus
 odoo14.notebleue.pro
+on-premises software
 onboarding-*.cloud.com
 onboarding-api.truelayer.com
 onboarding.cloud.com
@@ -8142,6 +8155,7 @@ www.kolikkopelit.com
 www.kpharmacyllc.com
 www.lab-recherche-environnement.org
 www.landmarkcinemas.com
+www.lansweeper.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.libelle.nl
