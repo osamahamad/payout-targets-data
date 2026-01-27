@@ -1555,6 +1555,7 @@
 <Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
 <Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
 <locale>.trip.com
+@privy-io controlled namespace dependencies
 A16k
 A76
 A96
@@ -2810,6 +2811,7 @@ api.portofantwerpbruges.com
 api.prd.commerce.simplisafe.com
 api.preprod.monespacesante.fr
 api.privateinternetaccess.com
+api.privy.io
 api.prod.whoop.com
 api.profiler.firefox.com
 api.qwant.com
@@ -3985,6 +3987,7 @@ hiltonbusinessonline.com
 hiltonlocalbiz.com
 hln.be
 hmxservices.com
+home.privy.io
 homeloans.wellsfargo.com
 homes-and-villas.marriott.com
 horizonchase.com
@@ -4801,6 +4804,15 @@ https://github.com/0xPolygon/auto-claim-service
 https://github.com/0xPolygon/chain-indexer-framework 
 https://github.com/0xPolygon/lxly.js
 https://github.com/0xPolygon/static
+https://github.com/AikidoSec/firewall-node#Detection Bypass
+https://github.com/AikidoSec/firewall-node#False Positive
+https://github.com/AikidoSec/firewall-node#Vulnerability
+https://github.com/AikidoSec/firewall-php#Detection Bypass
+https://github.com/AikidoSec/firewall-php#False Positive
+https://github.com/AikidoSec/firewall-php#Vulnerability
+https://github.com/AikidoSec/firewall-python#Detection Bypass
+https://github.com/AikidoSec/firewall-python#False Positive
+https://github.com/AikidoSec/firewall-python#Vulnerability
 https://github.com/Aiven
 https://github.com/Aiven-Open
 https://github.com/Chia-Network/chia-blockchain
@@ -6489,7 +6501,12 @@ https://www.networksolutions.com
 https://www.nintendo.com/us/store/products/rec-room-switch/
 https://www.npmjs.com/package/@8x8/pui-partner-comm
 https://www.npmjs.com/package/@forge/cli	
+https://www.npmjs.com/package/@privy-io/cross-app-connect
+https://www.npmjs.com/package/@privy-io/cross-app-provider
+https://www.npmjs.com/package/@privy-io/expo
+https://www.npmjs.com/package/@privy-io/js-sdk-core
 https://www.npmjs.com/package/@privy-io/react-auth
+https://www.npmjs.com/package/@privy-io/wagmi
 https://www.nuinvest.com.br/
 https://www.nutaku.com
 https://www.nutaku.net
@@ -7438,6 +7455,7 @@ realme P3 Lite 5G
 realme P4 5G
 realme P4 Pro 5G
 reastatic.net
+recovery.privy.io
 redditforbusiness.com
 register-accpt.portofantwerp.com
 register-accpt.portofantwerpbruges.com

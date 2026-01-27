@@ -427,9 +427,18 @@ https://apps.apple.com/us/app/3cx/id992045982
 https://apps.microsoft.com/detail/3cx/9NW77489NGJ0
 https://play.google.com/store/apps/details?id=com.tcx.sipphone14
 https://portal.3cx.com
+@privy-io controlled namespace dependencies
+api.privy.io
 auth.privy.io
 dashboard.privy.io
+home.privy.io
+https://www.npmjs.com/package/@privy-io/cross-app-connect
+https://www.npmjs.com/package/@privy-io/cross-app-provider
+https://www.npmjs.com/package/@privy-io/expo
+https://www.npmjs.com/package/@privy-io/js-sdk-core
 https://www.npmjs.com/package/@privy-io/react-auth
+https://www.npmjs.com/package/@privy-io/wagmi
+recovery.privy.io
 Affiliates or entities such as recently acquired companies
 Content Authorization Targets
 Content authorization vulnerabilities affecting only the in-browser player
