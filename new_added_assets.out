@@ -1,9 +1,0 @@
-@privy-io controlled namespace dependencies
-api.privy.io
-home.privy.io
-https://www.npmjs.com/package/@privy-io/cross-app-connect
-https://www.npmjs.com/package/@privy-io/cross-app-provider
-https://www.npmjs.com/package/@privy-io/expo
-https://www.npmjs.com/package/@privy-io/js-sdk-core
-https://www.npmjs.com/package/@privy-io/wagmi
-recovery.privy.io
