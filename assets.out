@@ -1439,7 +1439,6 @@
 407558537
 425194759
 427916203
-429704844
 434613896
 447553564
 448142450
@@ -1599,7 +1598,6 @@ AWS infrastructure and services in use by Wise (eg: S3 buckets)
 Acrobat Reader
 Acronis Agent
 Acronis Cloud Manager
-Acronis Cyber Files
 Acronis Cyber Infrastructure
 Acronis Cyber Protect
 Acronis DeviceLock DLP
@@ -1665,7 +1663,6 @@ Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure o
 Any public cloud resource or infrastructure operated and managed by REI.
 Any publicly accessible Tripadvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
 Any related DPG media domain
-Any related Torfs domain
 Any resource created or accessed with the Outscale Cloud on eu-west-2 region -  created by the Hunter
 Any subdomain application issue
 Any subdomain infrastructure issue
@@ -2744,6 +2741,8 @@ api.custody.coinbase.com
 api.dashlane.com
 api.deezer.com
 api.deriv.com
+api.digital.delen.be 
+api.digital.delen.lu 
 api.digitalocean.com
 api.direct.playstation.com
 api.doppler.com
@@ -2881,6 +2880,9 @@ app.dashlane.com
 app.datacamp.com/certification
 app.datacamp.com/groups
 app.datacamp.com/learn
+app.delen.be 
+app.delen.ch 
+app.delen.lu 
 app.deriv.com
 app.dynamic-preprod.xyz
 app.dynamic.xyz
@@ -2970,6 +2972,8 @@ auth-identity-qa.nba.com
 auth-identity-uat.nba.com
 auth-identity.nba.com
 auth.23andme.com
+auth.digital.delen.be 
+auth.digital.delen.lu 
 auth.hhc247.org
 auth.magic.link
 auth.monespacesante.fr
@@ -3020,6 +3024,7 @@ bd.visa.com
 bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
+be.delen.digital
 be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
@@ -3692,6 +3697,7 @@ decision.swiftfinancial.com
 deeplinks.geneva-staging.chat
 deeplinks.geneva-staging.com
 defi.ripio.com
+delen/id1064839588
 delivery-webview.indrive.com
 demo.arkoselabs.com
 demo.dynamic.xyz
@@ -4814,15 +4820,6 @@ https://github.com/0xPolygon/auto-claim-service
 https://github.com/0xPolygon/chain-indexer-framework 
 https://github.com/0xPolygon/lxly.js
 https://github.com/0xPolygon/static
-https://github.com/AikidoSec/firewall-node#Detection Bypass
-https://github.com/AikidoSec/firewall-node#False Positive
-https://github.com/AikidoSec/firewall-node#Vulnerability
-https://github.com/AikidoSec/firewall-php#Detection Bypass
-https://github.com/AikidoSec/firewall-php#False Positive
-https://github.com/AikidoSec/firewall-php#Vulnerability
-https://github.com/AikidoSec/firewall-python#Detection Bypass
-https://github.com/AikidoSec/firewall-python#False Positive
-https://github.com/AikidoSec/firewall-python#Vulnerability
 https://github.com/Aiven
 https://github.com/Aiven-Open
 https://github.com/Chia-Network/chia-blockchain
@@ -6894,9 +6891,13 @@ login-accpt.portofantwerpbruges.com
 login-api.truelayer[-sandbox].com
 login.arkane.network
 login.cm.com
+login.delen.be 
+login.delen.ch 
+login.delen.lu 
 login.infomaniak.com
 login.insightly.com
 login.lansweeper.com
+login.oyens.com
 login.playcanvas.com
 login.prod.nube.tech
 login.rei.com
@@ -7715,6 +7716,7 @@ stats.nextcloud.com
 stats.vinci.com
 stats.wnba.com
 status.bitstamp.net
+status.delen.be 
 status.larksuite.com
 status.uphold.com
 steamcommunity.com
@@ -7740,6 +7742,7 @@ streaming-api.iris.production.forescoutcloud.net
 streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
+sts.delen.be 
 sts.uzleuven.be
 studio-api.swapcard.com
 studio.swapcard.com
@@ -8000,7 +8003,6 @@ winecellar.zomato.com
 wings-dev.wnba.com
 wings-qa.wnba.com
 wings.wnba.com
-winkels.torfs.be
 winter.tomorrowland.com
 winterpackages.tomorrowland.com
 wlr-cf.*.aws.indriverapp.com
@@ -8060,6 +8062,8 @@ www.bookingholdings.com
 www.bpost.be
 www.bpost2.be
 www.bumble.com
+www.cadelam.be 
+www.cadelux.lu/en 
 www.cardinalcommerce.com
 www.carrentals.com
 www.cart.starbucks.co.jp/
@@ -8085,6 +8089,8 @@ www.datacamp.com
 www.datacamp.com/datalab
 www.ddfcontent.com
 www.deezer.com
+www.delen.bank
+www.delen.be/en 
 www.demorgen.be
 www.demorgen.be/abonnementen
 www.digitalocean.com
@@ -8274,11 +8280,8 @@ www.rockstargames.com
 www.s-kaupat.fi
 www.s-pankki.fi
 www.sa.dyson.com
-www.samenfittorfs.be
 www.sbb.ch
 www.sbbcargo.com
-www.schoenentorfs.be
-www.schoenentorfs.nl 
 www.sheer.com
 www.six-group.com
 www.socialdeal.nl
@@ -8306,8 +8309,6 @@ www.tgoyemek.com
 www.tink.com
 www.tomorrowland.com
 www.topperpay.com
-www.torfs.be
-www.torfs.nl
 www.tradepmr.com
 www.trajeoh.com
 www.transsicura.ch
