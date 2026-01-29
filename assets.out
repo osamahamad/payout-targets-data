@@ -491,6 +491,7 @@
 *.instacart.com
 *.instacart.tools
 *.int.remitly.com
+*.intercomassets.com / *.intercomcdn.com
 *.intergamma-test.nl
 *.intergamma.cloud
 *.intergamma.nl/*
@@ -610,6 +611,7 @@
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
+*.mobile-messenger.intercom.com
 *.mobilevikings.be
 *.mobilitygraph.hereapi.com
 *.mofos.com
@@ -866,7 +868,6 @@
 *.snapshooter.com
 *.snooguts.net
 *.sol-data.com
-*.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
 *.souparea.com
@@ -917,11 +918,6 @@
 *.techbook.de
 *.telenor.se
 *.telenorinpli.se
-*.tesla.cn
-*.tesla.com
-*.tesla.services
-*.teslainsuranceservices.com
-*.teslamotors.com
 *.testnet.immutable.com
 *.thetradedesk.com
 *.thinkingphones.com
@@ -1650,7 +1646,6 @@ Any Other Applications found here: https://mysrc.group/project_detail?id=11
 Any Other Sophos Product or Service
 Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
-Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Any host/web property verified to be owned by Twilio et al.
 Any host/web property/mobile app verified to be owned by Indeed
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
@@ -2424,8 +2419,6 @@ TW eCommerce: Used Car
 Tablets
 Tap to Pay (Android)
 Tap to Pay (iOS)
-Tesla Energy hardware you own
-Tesla vehicle hardware that you own
 Texts
 Third Party Application
 Third Party Marketplace Apps
@@ -4071,6 +4064,7 @@ http://itunes.apple.com/us/app/ibotta/id559887125
 http://logstash-props.devicecloud.production.forescoutcloud.net/api/v1/properties
 http://market.android.com/details?id=com.ibotta.android
 http://marlo.ext.tripadvisor.com
+http://mcp.intercom.com
 http://media.itsfogo.com/media/upload/mobile/android/apk/partycasino_com.apk
 http://member-qa.chime.com/enroll
 http://mgmtpod-1.production.forescoutcloud.net/oauth/token
@@ -4182,6 +4176,7 @@ https://anytask.thesecurityteam.rocks
 https://api-a.usaa.com
 https://api-app.datadome.co/
 https://api-businessportal.origin.com.au
+https://api-iam.intercom.io
 https://api-js.datadome.co
 https://api-next.flatmates.com.au
 https://api-payments-secure-prod.skippayments.com
@@ -4222,6 +4217,7 @@ https://api.ibotta.com
 https://api.immutable.com
 https://api.int.ibops.net
 https://api.int.ibops.net/customer-loyalty-service
+https://api.intercom.com
 https://api.justeat-int.com
 https://api.jwks.kape.com
 https://api.mafshoppingmalls.com/
@@ -4293,6 +4289,8 @@ https://app.getflywheel.com
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.ibotta.com/sign-in 
 https://app.insomnia.rest/
+https://app.intercom.com
+https://app.intercom.io/
 https://app.latitudepayapps.com/
 https://app.opsgenie.com
 https://app.optimizely.com/
@@ -4445,7 +4443,6 @@ https://apps.apple.com/us/app/syncup-kids/id1503394062
 https://apps.apple.com/us/app/syncup-tracker/id1526380335
 https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
 https://apps.apple.com/us/app/t-mobile/id561625752
-https://apps.apple.com/us/app/tesla/id582007913
 https://apps.apple.com/us/app/tripadvisor-plan-book-trips/id284876795
 https://apps.apple.com/us/app/under-armour/id1092704571
 https://apps.apple.com/us/app/usaa-mobile/id312325565
@@ -4670,6 +4667,8 @@ https://developer.paddle.com
 https://developer.withings.com/dashboard/
 https://developers.afterpay.com
 https://developers.elementor.com/
+https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
+https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
 https://developers.vendhq.com/
 https://devportal.rec.net/
 https://devstaging.pcapcloud.com/*
@@ -5908,7 +5907,6 @@ https://play.google.com/store/apps/details?id=com.tcx.sipphone14
 https://play.google.com/store/apps/details?id=com.teamviewer.host.market&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile&hl=en&gl=US
-https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.tmobile.drive
 https://play.google.com/store/apps/details?id=com.tmobile.kids
 https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
@@ -6442,6 +6440,7 @@ https://www.hostgator.com/
 https://www.ifood.com.br
 https://www.illamasqua.com/
 https://www.imou.com
+https://www.intercom.com/
 https://www.internetbrands.com
 https://www.irobot.at/
 https://www.irobot.be/
