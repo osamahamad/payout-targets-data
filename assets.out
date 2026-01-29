@@ -1007,6 +1007,7 @@
 *.vayama.com
 *.venmo.com
 *.vennhypotheken.nl
+*.veriff.com
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
@@ -1188,6 +1189,7 @@
 146.109.68.0/24
 146.109.8.0/21
 146.109.8.0/22
+1467907532
 1474700 (Steam app id)
 1475021574
 1476615877
@@ -2667,6 +2669,7 @@ airFiber
 airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 akismet.com
+alchemy.veriff.com
 alert.logitech.com
 alerts.ninjakiwi.com
 alexa.amazon.com
@@ -2765,6 +2768,7 @@ api.ezvizlife.com
 api.faraday.ai
 api.fi.dyson.com
 api.figma.com
+api.flamingo-eu.veriff.com
 api.foliofn.com
 api.geneva-staging.com
 api.github.com
@@ -2849,7 +2853,9 @@ api.tumblr.com
 api.twilio.com
 api.unleashed.be
 api.upwork.com/graphql
+api.us.veriff.me
 api.vault.chiatest.net
+api.veriff.me
 api.vhx.tv
 api.vimeo.com
 api.wisdomtreeprimeapp.com
@@ -3511,6 +3517,7 @@ com.urbanclap.provider
 com.urbanclap.urbanclap
 com.valvesoftware.Steam
 com.venmo
+com.veriff.demo
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
 com.visma.blue
@@ -3722,6 +3729,7 @@ developer.worldcoin.org
 developers.cloudways.com
 developers.reddit.com
 developers.tiktok.com
+developers.veriff.me
 device.marriott.com
 dh-gw-cf.*.aws.indriverapp.com
 diabrowser.com
@@ -6907,6 +6915,7 @@ logs.nextcloud.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
 lookup.nextcloud.com
+louvre.veriff.me
 lrc20.lightspark.com
 luxfilmfestfilms.megatix.be
 luxfilmfestproducts.megatix.be
@@ -6923,6 +6932,7 @@ m.reddit.com
 m.trendyol.com
 mUSD Stablecoin
 magento.com
+magic.veriff.me
 magiceden.io
 magisto.com,www.magisto.com
 mail.hostinger.com/v2
@@ -7699,6 +7709,8 @@ starling-ttp.lemon8-app.us
 start.khealth.com
 static*.twilio.com
 static.apps.nextcloud.com
+station.veriff.com
+stationapi.veriff.com
 stats-trafficcop-prod.nba.com
 stats.gleague.nba.com
 stats.nba.com
@@ -8332,6 +8344,7 @@ www.urbanclap.com
 www.urbancompany.com
 www.uzleuven.be
 www.valvesoftware.com
+www.veriff.com
 www.vfsvisaonline.com
 www.vfsvisaservicesrussia.com
 www.vimeo.com
