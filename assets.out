@@ -868,6 +868,7 @@
 *.snapshooter.com
 *.snooguts.net
 *.sol-data.com
+*.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
 *.souparea.com
@@ -918,6 +919,11 @@
 *.techbook.de
 *.telenor.se
 *.telenorinpli.se
+*.tesla.cn
+*.tesla.com
+*.tesla.services
+*.teslainsuranceservices.com
+*.teslamotors.com
 *.testnet.immutable.com
 *.thetradedesk.com
 *.thinkingphones.com
@@ -1646,6 +1652,7 @@ Any Other Applications found here: https://mysrc.group/project_detail?id=11
 Any Other Sophos Product or Service
 Any Verified Dell-Controlled Endpoint (domains/IP space/etc.)	
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
+Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 Any host/web property verified to be owned by Twilio et al.
 Any host/web property/mobile app verified to be owned by Indeed
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
@@ -2315,7 +2322,6 @@ SOPHOS/Secureworks : Redcloak
 SOPHOS/Secureworks : Taegis
 SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope
 SSL/TLS
-SSO_Saml_connector
 Saily - Android
 Saily - iOS
 Sandboxes
@@ -2366,7 +2372,6 @@ Spotify desktop application (Windows and Mac)
 Square Register
 Square Terminal
 Staging, QA, Dev, and Test Environments
-Standalone Chrome extension
 Starbucks China Android
 Starbucks China iOS
 Starbucks Japan Android
@@ -2419,6 +2424,8 @@ TW eCommerce: Used Car
 Tablets
 Tap to Pay (Android)
 Tap to Pay (iOS)
+Tesla Energy hardware you own
+Tesla vehicle hardware that you own
 Texts
 Third Party Application
 Third Party Marketplace Apps
@@ -2730,7 +2737,6 @@ api.coindcx.com
 api.coinmarketcap.com
 api.creditkarma.com
 api.custody.coinbase.com
-api.dashlane.com
 api.deezer.com
 api.deriv.com
 api.digital.delen.be 
@@ -2868,7 +2874,6 @@ app.Reclaim.ai
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
-app.dashlane.com
 app.datacamp.com/certification
 app.datacamp.com/groups
 app.datacamp.com/learn
@@ -3307,8 +3312,6 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
-com.dashlane
-com.dashlane.dashlanephonefinal
 com.datacamp
 com.dd.doordash
 com.defi.wallet
@@ -3582,7 +3585,6 @@ connect.secure.wellsfargo.com
 connect.venly.io
 console-backend.truelayer[-sandbox].com
 console.circle.com
-console.dashlane.com
 console.ort-one-pingone.com
 console.tink.com
 console.truelayer[-sandbox].com
@@ -3916,7 +3918,6 @@ gateway.geneva-staging.com
 gateway.reddit.com
 gateway.skyscanner.net/*
 gateway.superhuman.com
-gehmmocbbkpblljhkekmfhjpfbkclbph
 geneva-staging.chat
 geofilters.snapchat.com
 getworldcoin.com
@@ -4443,6 +4444,7 @@ https://apps.apple.com/us/app/syncup-kids/id1503394062
 https://apps.apple.com/us/app/syncup-tracker/id1526380335
 https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
 https://apps.apple.com/us/app/t-mobile/id561625752
+https://apps.apple.com/us/app/tesla/id582007913
 https://apps.apple.com/us/app/tripadvisor-plan-book-trips/id284876795
 https://apps.apple.com/us/app/under-armour/id1092704571
 https://apps.apple.com/us/app/usaa-mobile/id312325565
@@ -5907,6 +5909,7 @@ https://play.google.com/store/apps/details?id=com.tcx.sipphone14
 https://play.google.com/store/apps/details?id=com.teamviewer.host.market&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teamviewer.quicksupport.market&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.teamviewer.teamviewer.market.mobile&hl=en&gl=US
+https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.tmobile.drive
 https://play.google.com/store/apps/details?id=com.tmobile.kids
 https://play.google.com/store/apps/details?id=com.tmobile.pr.mytmobile
@@ -6406,8 +6409,6 @@ https://www.cyber.gouv.qc.ca/
 https://www.cyberghostvpn.com/en_US/apps/linux-vpn
 https://www.cyberghostvpn.com/en_US/apps/macos-vpn
 https://www.cyberghostvpn.com/en_US/apps/windows-vpn
-https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&target=launcher_macosx
-https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
 https://www.decathlon.(ch|fr|hu|pl|ro|cz|com.tr)/
 https://www.decathlon.(co.uk|it|nl|de|pt|es|be)/
 https://www.definitivetechnology.com
@@ -6910,7 +6911,6 @@ logistica.redelcom.cl
 logitech.zendesk.com
 logitechg.com.cn
 logitechgchallenge.com
-logs.dashlane.com
 logs.nextcloud.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
@@ -8028,7 +8028,6 @@ wp5-truststroke.uzleuven.be
 ws.blockchain.info
 ws.deezer.com
 ws.sorare.com
-ws1.dashlane.com
 wss://socket.bitpanda.com
 www-dev.nba.com
 www-dev.wnba.com
@@ -8089,7 +8088,6 @@ www.crowdstrike.com
 www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
-www.dashlane.com
 www.datacamp.com
 www.datacamp.com/datalab
 www.ddfcontent.com
