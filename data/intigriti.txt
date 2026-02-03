@@ -3,15 +3,6 @@ Firmware
 Software
 https://marketplace.visualstudio.com/items?itemName=AikidoSecurity.aikido
 app.aikido.dev
-https://github.com/AikidoSec/firewall-node#Vulnerability
-https://github.com/AikidoSec/firewall-php#Vulnerability
-https://github.com/AikidoSec/firewall-python#Vulnerability
-https://github.com/AikidoSec/firewall-node#Detection Bypass
-https://github.com/AikidoSec/firewall-php#Detection Bypass
-https://github.com/AikidoSec/firewall-python#Detection Bypass
-https://github.com/AikidoSec/firewall-node#False Positive
-https://github.com/AikidoSec/firewall-php#False Positive
-https://github.com/AikidoSec/firewall-python#False Positive
 myaccount.ad.nl
 webwinkel.ad.nl
 www.ad.nl
@@ -220,6 +211,39 @@ myaccount.humo.be
 shop.humo.be
 www.humo.be
 www.humo.be/abonnementen
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+ICI Paris XL Android
+ICI Paris XL iOS
+app.iciparisxl.be
+app.iciparisxl.lu
+app.iciparisxl.nl
+media.iciparisxl.lu
+media.iciparisxl.nl
+media.iciparisxl.be
+api.iciparisxl.lu
+api.iciparisxl.nl
+api.iciparisxl.be
+www.iciparisxl.com
+xlence.iciparisxl.nl
+newsletter.iciparisxl.nl
+newsletter-feedback.iciparisxl.nl
+beauty-and-you.iciparisxl.nl
+folder.iciparisxl.nl
+folders.iciparisxl.nl
+edition.iciparisxl.nl
+servicefr.iciparisxl.be
+wifi-in-store.iciparisxl.nl
+wifi-in-store.iciparisxl.lu
+wifi-in-store.iciparisxl.be
+service.iciparisxl.nl
+servicefr.iciparisxl.lu
+campagne.iciparisxl.nl
+campagne.iciparisxl.lu
+campagne.iciparisxl.be
+servicenl.iciparisxl.be
+www.pourvous.nl
 Backend/Non-Game
 Elvenar
 Forge of Empires
@@ -292,6 +316,50 @@ userprofile-acc.landmarkcinemas.com
 www.kinepolis.biz
 522089287
 egaming.kinepolis.es
+www.kruidvat.nl
+www.kruidvat.be
+Kruidvat BE iOS
+Kruidvat NL iOS
+Kruidvat BE Android
+Kruidvat NL Android
+www.kruidvatkids.nl
+speelgoedfolder.kruidvat.nl
+depliantdejouets.kruidvat.be
+folder.kruidvat.be
+folder.kruidvat.nl
+speelgoedfolder.kruidvat.be
+ecom-static.kruidvat.be
+ecom-static.kruidvat.nl
+ecom-data.kruidvat.be
+magazine.kruidvat.be
+ecom-data.kruidvat.nl
+campaign.kruidvat.nl
+campaign.kruidvat.be
+campaign-uat.kruidvat.nl
+campaign-uat.kruidvat.be
+cewe.kruidvat.nl
+cewe.kruidvat.be
+cewetest.kruidvat.nl
+cewetest.kruidvat.be
+digital.kruidvat.be
+digital.kruidvat.nl
+foto.kruidvat.be
+foto.kruidvat.nl
+fotoservice.kruidvat.nl
+fotoservice.kruidvat.be
+photo.kruidvat.be
+service.kruidvat.be
+service.kruidvat.nl
+servicefr.kruidvat.be
+www.cewe.kruidvat.be
+www.cewe.kruidvat.nl
+www.trekpleister.nl
+campaign.trekpleister.nl
+campaign-uat.trekpleister.nl
+ecom-data.trekpleister.nl
+service.trekpleister.nl
+folder.trekpleister.nl
+www.prijsmepper.nl
 Lansweeper Discovery
 app.lansweeper.com
 fb.lansweeper.com
@@ -306,6 +374,68 @@ login.lansweeper.com
 on-premises software
 www.lansweeper.com
 www.libelle.nl
+www.marionnaud.fr
+Marionnaud France Android
+Marionnaud France iOS
+app.marionnaud.fr
+media.marionnaud.fr
+api.marionnaud.fr
+ecom-data.marionnaud.fr
+bdes-api.marionnaud.fr
+bdese.marionnaud.fr
+www.marionnaud.at
+Marionnaud Austria iOS
+Marionnaud Austria Android
+app.marionnaud.at
+api.marionnaud.at
+media.marionnaud.at
+campaign.marionnaud.at
+ecom-data.marionnaud.at
+www.marionnaud.ch
+Marionnaud Switzerland iOS
+Marionnaud Switzerland Android
+app.marionnaud.ch
+api.marionnaud.ch
+media.marionnaud.ch
+campaign.marionnaud.ch
+ecom-data.marionnaud.ch
+extranet.marionnaud.ch
+www.marionnaud.it
+Marionnaud Italy iOS
+Marionnaud Italy Android
+app.marionnaud.it
+api.marionnaud.it
+media.marionnaud.it
+campaign.marionnaud.it
+ecom-data.marionnaud.it
+www.marionnaud.hu
+Marionnaud Hungary iOS
+Marionnaud Hungary Android
+media.marionnaud.hu
+api.marionnaud.hu
+app.marionnaud.hu
+ecom-data.marionnaud.hu
+campaign.marionnaud.hu
+www.marionnaud.cz
+Marionnaud Czech Republic iOS
+Marionnaud Czech Republic Android
+media.marionnaud.cz
+api.marionnaud.cz
+app.marionnaud.cz
+campaign.marionnaud.cz
+ecom-data.marionnaud.cz
+www.marionnaud.ro
+Marionnaud Romania Android
+Marionnaud Romania iOS
+api.marionnaud.ro
+app.marionnaud.ro
+media.marionnaud.ro
+www.marionnaud.sk
+Marionnaud Slovakia iOS
+Marionnaud Slovakia Android
+media.marionnaud.sk
+app.marionnaud.sk
+api.marionnaud.sk
 mobilevikings.be
 api.unleashed.be
 jimmobile.be
@@ -455,6 +585,41 @@ http://socialdeal.nl/inspirations/bluemonday/
 http://www.whynot.com/
 https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/
 www.socialdeal.nl
+www.superdrug.com
+Superdrug iOS
+Superdrug Android
+api.superdrug.com
+media.superdrug.com
+app.superdrug.com
+campaign.superdrug.com
+community.superdrug.com
+ecom-data.superdrug.com
+videogp-api.superdrug.com
+healthclinics.superdrug.com
+innovation.superdrug.com
+onlinedoctor.superdrug.com
+onlinepharmacy.superdrug.com
+videogp.superdrug.com
+app.pharmacy.superdrug.com
+appt.healthclinics.superdrug.com
+www.savers.co.uk
+Savers iOS
+Savers Android
+api.savers.co.uk
+media.savers.co.uk
+app.savers.co.uk
+www.superdrugmobile.com
+campaign.savers.co.uk
+ecom-data.savers.co.uk
+www.theperfumeshop.com
+app.theperfumeshop.com
+api.theperfumeshop.com
+media.theperfumeshop.com
+The Perfume Shop Android
+The Perfume Shop iOS
+campaign.theperfumeshop.com
+campaigns.theperfumeshop.com
+ecom-data.theperfumeshop.com
 cas.tomorrowland.com
 belgium.tomorrowland.com
 brasil.tomorrowland.com
@@ -473,13 +638,6 @@ store.tomorrowland.com
 brasil-store.tomorrowland.com
 components.stag.tomorrowland.com
 components.tomorrowland.com
-winkels.torfs.be
-www.schoenentorfs.be
-www.schoenentorfs.nl 
-www.torfs.be
-www.torfs.nl
-www.samenfittorfs.be
-Any related Torfs domain
 myaccount.trouw.nl
 shop.trouw.nl
 webwinkel.trouw.nl
@@ -646,6 +804,112 @@ https://pit.water-link.be/
 https://www.water-link-jaarverslag.be
 https://www.water-link.be
 https://www.waterstoring.be/
+www.watsons.com.hk
+www10.watsons.com.hk
+Watsons Hong Kong Android
+Watsons Hong Kong iOS
+api.watsons.com.hk
+medias.watsons.com.hk
+www.watsons.co.th
+www10.watsons.co.th
+www20.watsons.co.th
+Watsons Thailand iOS
+Watsons Thailand Android
+api.watsons.co.th
+community.watsons.co.th
+medias.watsons.co.th
+www.watsons.com.tw
+www10.watsons.com.tw
+Watsons Taiwan Android
+Watsons Taiwan iOS
+api.watsons.com.tw
+member.watsons.com.tw
+medias.watsons.com.tw
+www.watsons.com.sg
+www10.watsons.com.sg
+Watsons Singapore iOS
+Watsons Singapore Android
+api.watsons.com.sg
+medias.watsons.com.sg
+www.watsons.com.ph
+Watsons Philippines iOS
+Watsons Philippines Android
+api.watsons.com.ph
+www10.watsons.com.ph
+community.watsons.com.ph
+medias.watsons.com.ph
+www.lookatme.com.ph
+LookAtMe Philippines Android
+LookAtMe Philippines iOS
+api.lookatme.com.ph
+medias.lookatme.com.ph
+www.watsons.com.my
+www10.watsons.com.my
+Watsons Malaysia Android
+Watsons Malaysia iOS
+api.watsons.com.my
+community.watsons.com.my
+medias.watsons.com.my
+www.watsons.co.id
+www10.watsons.co.id
+Watsons Indonesia Android
+Watsons Indonesia iOS
+api.watsons.co.id
+medias.watsons.co.id
+www.watsons.vn
+www10.watsons.vn
+Watsons Vietnam iOS
+Watsons Vietnam Android
+api.watsons.vn
+medias.watsons.vn
+www.pns.hk
+www10.pns.hk
+api.pns.hk
+PNS iOS
+PNS Android
+medias.pns.hk
+www.fortress.com.hk
+www10.fortress.com.hk
+Fortress Hong Kong Android
+Fortress Hong Kong iOS
+api.fortress.com.hk
+medias.fortress.com.hk
+www.moneyback.com.hk
+Moneyback Android
+Moneyback iOS
+mapi.moneyback.com.hk
+www.watsons.com.tr
+Watsons Turkey Android
+Watsons Turkey iOS
+app.watsons.com.tr
+api.watsons.com.tr
+blog.watsons.com.tr
+campaign.watsons.com.tr
+adayevrak.watsons.com.tr
+katalog.watsons.com.tr
+www.watsonsbeautystudio.com
+ik.watsons.com.tr
+gc.watsons.com.tr
+odul.watsons.com.tr
+wasapi.watsons.com.tr
+media.watsons.com.tr
+scp.watsons.com.tr
+scpapi.watsons.com.tr
+bulten.watsons.com.tr
+www.drogas.lt
+www.drogas.lv
+Drogas Latvia Android
+Drogas Latvia iOS
+Drogas Lithuania Android
+Drogas Lithuania iOS
+app.drogas.lt
+api.drogas.lv
+media.drogas.lt
+app.drogas.lv
+api.drogas.lt
+media.drogas.lv
+campaign.drogas.lt
+campaign.drogas.lv
 authentication.wolt.com
 corporate.wolt.com
 drive.wolt.com

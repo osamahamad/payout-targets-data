@@ -568,6 +568,7 @@
 *.krisp.ai
 *.kruidvat.be
 *.kruidvat.nl
+*.kruidvatkids.nl
 *.kucoin.com
 *.kwsdose.be
 *.landmarkcinemas.com
@@ -601,6 +602,7 @@
 *.logitechauthorization.com
 *.logitechg.com*
 *.logitechmusic.com
+*.lookatme.com.ph
 *.luckydays.ca
 *.luckydays.com
 *.lucra.live
@@ -621,10 +623,14 @@
 *.marcus.com
 *.marionnaud.at
 *.marionnaud.ch
+*.marionnaud.com
 *.marionnaud.cz
+*.marionnaud.de
+*.marionnaud.es
 *.marionnaud.fr
 *.marionnaud.hu
 *.marionnaud.it
+*.marionnaud.paris
 *.marionnaud.ro
 *.marionnaud.sk
 *.mas.mobilevikings.be
@@ -809,6 +815,7 @@
 *.polymoon.it
 *.portofantwerp.com
 *.portofantwerpbruges.com
+*.pourvous.nl
 *.ppbdev.com
 *.prd-pub.mobilevikings.be
 *.prd.aser.simplisafe.com
@@ -823,6 +830,7 @@
 *.prd.webapps.simplisafe.com
 *.preempt.com
 *.preemptsecurity.com
+*.prijsmepper.nl
 *.privateinternetaccess.com
 *.prod-ffs.io
 *.prod.cloud.8x8.com
@@ -2039,6 +2047,10 @@ Dota Underlords
 Dovecot IMAP Server and Pigeonhole SIEVE (see "Software packages" and "Source code")
 Dreamweaver
 Drivers
+Drogas Latvia Android
+Drogas Latvia iOS
+Drogas Lithuania Android
+Drogas Lithuania iOS
 Drogas.Latvia.Android
 Drogas.Latvia.iOS
 Drogas.Lietuva.Android
@@ -2124,6 +2136,8 @@ FortniteLauncher-Win64-Shipping.exe
 FortniteLauncher-Win64-Shipping_BE.exe
 FortniteLauncher-Win64-Shipping_EAC.exe
 FortniteLauncher.exe
+Fortress Hong Kong Android
+Fortress Hong Kong iOS
 Fortress.HongKong.Android
 Framemaker
 FranceConnect (see program description for github link)
@@ -2233,6 +2247,8 @@ HubSpot iOS Mobile App
 Hyperdrive
 HyprUnlock.exe
 IBC Go Relayer
+ICI Paris XL Android
+ICI Paris XL iOS
 ICIParisXL.App.Android
 ICIParisXL.App.IOS
 IT Infrastructure
@@ -2277,6 +2293,10 @@ Kong Gateway Enterprise
 Kong Gateway OSS
 Kong Gateway Plugins (Kong-Supported Only)
 Kong Mesh
+Kruidvat BE Android
+Kruidvat BE iOS
+Kruidvat NL Android
+Kruidvat NL iOS
 Kruidvat.Belgium.Android
 Kruidvat.Belgium.iOS
 Kruidvat.Netherlands.Android
@@ -2319,6 +2339,8 @@ Logitech Options PC/MAC
 Logitech Sync
 Logstash
 Look at Me PH (subdomains)
+LookAtMe Philippines Android
+LookAtMe Philippines iOS
 Lookatme.Philippines.Android
 Lookatme.Philippines.IOS
 Loomi.tv
@@ -2350,6 +2372,22 @@ Malwarebytes Windows Firewall Control
 Malwarebytes for Mac
 Malwarebytes for Teams
 Malwarebytes for Windows
+Marionnaud Austria Android
+Marionnaud Austria iOS
+Marionnaud Czech Republic Android
+Marionnaud Czech Republic iOS
+Marionnaud France Android
+Marionnaud France iOS
+Marionnaud Hungary Android
+Marionnaud Hungary iOS
+Marionnaud Italy Android
+Marionnaud Italy iOS
+Marionnaud Romania Android
+Marionnaud Romania iOS
+Marionnaud Slovakia Android
+Marionnaud Slovakia iOS
+Marionnaud Switzerland Android
+Marionnaud Switzerland iOS
 Marionnaud.Austria.Android
 Marionnaud.Austria.iOS
 Marionnaud.France.Android
@@ -2383,6 +2421,8 @@ Mobile Apps
 Modernized Discovery
 MoneyBack.HongKong.Android
 MoneyBack.HongKong.iOS
+Moneyback Android
+Moneyback iOS
 MongoDB Assistant
 MongoDB Atlas
 MongoDB BI Connector
@@ -2495,6 +2535,8 @@ Other non-production infrastructure
 PHP Driver
 PHP SDK
 PIA VPN servers
+PNS Android
+PNS iOS
 PNS.HongKong.Android
 PNS.HongKong.iOS
 PTaaS Reference
@@ -2579,6 +2621,8 @@ SSO_Saml_connector
 Saily - Android
 Saily - iOS
 Sandboxes
+Savers Android
+Savers iOS
 Scanwatch
 Scanwatch 2
 Scanwatch Light
@@ -2670,6 +2714,8 @@ Subdomain Takeover (SDTO)
 Subdomain Takeover - konghq.com
 Subdomain takeover at *asana.biz
 Substance 3D
+Superdrug Android
+Superdrug iOS
 Superdrug.App.Android
 Superdrug.App.IOS
 Superdrug.Healthera.App.Android
@@ -2690,6 +2736,8 @@ Team Fortress 2
 Tesla Energy hardware you own
 Tesla vehicle hardware that you own
 Texts
+The Perfume Shop Android
+The Perfume Shop iOS
 ThePerfumeShop.App.Android
 ThePerfumeShop.App.iOS
 Third Party Application
@@ -2785,6 +2833,24 @@ WHOOP 5.0/MG STRAP
 WP Engine-developed WordPress Plugins and Themes
 WP-CLI
 Waiting Room
+Watsons Hong Kong Android
+Watsons Hong Kong iOS
+Watsons Indonesia Android
+Watsons Indonesia iOS
+Watsons Malaysia Android
+Watsons Malaysia iOS
+Watsons Philippines Android
+Watsons Philippines iOS
+Watsons Singapore Android
+Watsons Singapore iOS
+Watsons Taiwan Android
+Watsons Taiwan iOS
+Watsons Thailand Android
+Watsons Thailand iOS
+Watsons Turkey Android
+Watsons Turkey iOS
+Watsons Vietnam Android
+Watsons Vietnam iOS
 Watsons.HongKong.Android
 Watsons.HongKong.IOS
 Watsons.Indonesia.Android
@@ -2918,6 +2984,7 @@ aces-qa.wnba.com
 aces.wnba.com
 actionnaires.vinci.com
 activities.marriott.com
+adayevrak.watsons.com.tr
 adb.nba.com
 addons.allizom.org
 adm.cloud.com
@@ -3110,12 +3177,17 @@ api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
 api.localizestaging.com
+api.lookatme.com.ph
 api.magic.link
 api.mapbox.com
 api.marionnaud.at
 api.marionnaud.ch
+api.marionnaud.cz
 api.marionnaud.fr
+api.marionnaud.hu
 api.marionnaud.it
+api.marionnaud.ro
+api.marionnaud.sk
 api.mercadolibre.com
 api.mercadopago.com
 api.mergify.com
@@ -3153,6 +3225,7 @@ api.robinhood.com
 api.ryadom.kz
 api.s-kaupat.fi
 api.sandbox.topperpay.com
+api.savers.co.uk
 api.segment.io
 api.sendgrid.com
 api.services.simplisafe.com (App Endpoints)
@@ -3194,6 +3267,7 @@ api.watsons.com.hk
 api.watsons.com.my
 api.watsons.com.ph
 api.watsons.com.sg
+api.watsons.com.tr
 api.watsons.com.tw
 api.watsons.vn
 api.wisdomtreeprimeapp.com
@@ -3269,11 +3343,13 @@ app.moonpay.com
 app.netlify.com
 app.nl.socialdeal
 app.nordpass.com
+app.pharmacy.superdrug.com
 app.pullrequest.com
 app.recordedfuture.com
 app.rewire.to
 app.sandbox.directly.com
 app.sandbox.topperpay.com
+app.savers.co.uk
 app.segment.com
 app.sendgrid.com
 app.slack.com
@@ -3305,6 +3381,7 @@ apps.nextcloud.com
 apps.ort-one-pingone.com
 apps.portofantwerp.com
 apps.portofantwerpbruges.com
+appt.healthclinics.superdrug.com
 aqtooling.com
 aquiris.com.br
 aquiris.studio
@@ -3397,6 +3474,8 @@ battles.tv
 bb.visa.com
 bcny.com
 bd.visa.com
+bdes-api.marionnaud.fr
+bdese.marionnaud.fr
 bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
@@ -3406,6 +3485,7 @@ be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
 beacon.netflix.com
+beauty-and-you.iciparisxl.nl
 belgium.tomorrowland.com
 benefit.porsche-design.com
 bestfiends.com
@@ -3486,6 +3566,7 @@ builder.hostinger.com
 building-blocks.com
 builds.soundtrackyourbrand.com
 bullsheet.me
+bulten.watsons.com.tr
 business-resources.truecaller.com
 business.kayak.com
 business.kinepolis.be
@@ -3510,6 +3591,27 @@ calendar.infomaniak.com
 calendar.notion.so
 callbacks.airbnb.com
 cam.notebleue.pro
+campagne.iciparisxl.be
+campagne.iciparisxl.lu
+campagne.iciparisxl.nl
+campaign-uat.kruidvat.be
+campaign-uat.kruidvat.nl
+campaign-uat.trekpleister.nl
+campaign.drogas.lt
+campaign.drogas.lv
+campaign.kruidvat.be
+campaign.kruidvat.nl
+campaign.marionnaud.at
+campaign.marionnaud.ch
+campaign.marionnaud.cz
+campaign.marionnaud.hu
+campaign.marionnaud.it
+campaign.savers.co.uk
+campaign.superdrug.com
+campaign.theperfumeshop.com
+campaign.trekpleister.nl
+campaign.watsons.com.tr
+campaigns.theperfumeshop.com
 campus.datacamp.com
 cancellation.prod.ps.welt.de
 candle-src.etoro.com
@@ -3555,6 +3657,10 @@ cdn.plaid.com
 cdna.lystit.com
 cds.vrt.radio
 celinainsurance-idtheft.com
+cewe.kruidvat.be
+cewe.kruidvat.nl
+cewetest.kruidvat.be
+cewetest.kruidvat.nl
 chain.link
 chainabuse-staging.com
 chameleon
@@ -4004,7 +4110,11 @@ community.databricks.com
 community.forescout.com
 community.logitech.com
 community.silabs.com
+community.superdrug.com
 community.ui.com
+community.watsons.co.th
+community.watsons.com.my
+community.watsons.com.ph
 company.thebrowser.arc
 compare.porsche.com
 compass.fareharbor.com
@@ -4158,6 +4268,7 @@ demo.dynamic.xyz
 demo.fareharbor.com
 demo.globalticket.com/*
 demo.plaid.com
+depliantdejouets.kruidvat.be
 deriv.partners
 derivws.com
 design.gitlab.com
@@ -4200,6 +4311,8 @@ diagrams.fr.cloud.gov
 dic.pixiv.net
 dif.tech.plata
 digili.s-cloud.fi
+digital.kruidvat.be
+digital.kruidvat.nl
 digital.welt.de
 digitaloceanmirrors.com
 digitaloceanpartners.com
@@ -4255,6 +4368,20 @@ eassessment.monash.edu
 ebctest.cybersource.com
 ebsext.oft.hyatt.com
 ecc.porsche.com
+ecom-data.kruidvat.be
+ecom-data.kruidvat.nl
+ecom-data.marionnaud.at
+ecom-data.marionnaud.ch
+ecom-data.marionnaud.cz
+ecom-data.marionnaud.fr
+ecom-data.marionnaud.hu
+ecom-data.marionnaud.it
+ecom-data.savers.co.uk
+ecom-data.superdrug.com
+ecom-data.theperfumeshop.com
+ecom-data.trekpleister.nl
+ecom-static.kruidvat.be
+ecom-static.kruidvat.nl
 ecrf.uzleuven.be
 edge.lansweeper.com
 edgeapi.slack.com
@@ -4262,6 +4389,7 @@ edgeapis.onecloud.harman.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
 editeurs.monespacesante.fr
+edition.iciparisxl.nl
 editionhotels.com
 editorial.one
 education.23andme.com
@@ -4335,6 +4463,7 @@ external-api.lime.bike
 external.indrive.dev
 external.logitech.com
 extranet-asa.uzleuven.be
+extranet.marionnaud.ch
 extranet.s-pankki.fi
 extranet.uzleuven.be
 extras-acc.landmarkcinemas.com
@@ -4393,6 +4522,11 @@ flourish-user-preview.com
 flourish-user-templates.com
 flyiin.com
 fm.anchor.android
+folder.iciparisxl.nl
+folder.kruidvat.be
+folder.kruidvat.nl
+folder.trekpleister.nl
+folders.iciparisxl.nl
 fonts.adobe.com
 forms.mobilevikings.be
 forms.nexuzhealth.be
@@ -4401,6 +4535,10 @@ forum.playcanvas.com
 forum.portswigger.net
 forum.sketchfab.com
 forums.malwarebytes.com
+foto.kruidvat.be
+foto.kruidvat.nl
+fotoservice.kruidvat.be
+fotoservice.kruidvat.nl
 fp-sg.tiktokv.com
 fraudarmorservice.com
 fraudscout.com
@@ -4428,6 +4566,7 @@ gateway.geneva-staging.com
 gateway.reddit.com
 gateway.skyscanner.net/*
 gateway.superhuman.com
+gc.watsons.com.tr
 gc4x-api-sandbox.gocardless.com
 gehmmocbbkpblljhkekmfhjpfbkclbph
 geminiadvisory.io
@@ -4500,6 +4639,7 @@ hatching.io
 hc2services.com
 hc2tooling.com
 healthaid.lemonaidhealth.com
+healthclinics.superdrug.com
 help-jp.krisp.ai
 help.coinhako.com
 help.databricks.com
@@ -4953,6 +5093,7 @@ https://apps.apple.com/pl/app/mediamarkt-polska/id6470200706
 https://apps.apple.com/qa/app/ooredoo-qatar/id619828745
 https://apps.apple.com/se/app/atg-live/id1608156355
 https://apps.apple.com/se/app/atg/id1434660322
+https://apps.apple.com/se/app/bookbeat-audiobooks-e-books/id1056652614?l=en-GB
 https://apps.apple.com/sg/app/syfe-stay-invested/id1497156434
 https://apps.apple.com/tr/app/mediamarkt-t%C3%BCrkiye/id908956795
 https://apps.apple.com/us/app/%E5%B1%A5%E6%AD%B4%E6%9B%B8%E4%BD%9C%E6%88%90-%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%89/id1484451230
@@ -6552,6 +6693,7 @@ https://play.google.com/store/apps/details?id=com.bitso.alpha
 https://play.google.com/store/apps/details?id=com.bitso.wallet&pcampaignid=web_share
 https://play.google.com/store/apps/details?id=com.blablalines
 https://play.google.com/store/apps/details?id=com.bolt.deliveryclient
+https://play.google.com/store/apps/details?id=com.bookbeat.android&hl=en&pli=1
 https://play.google.com/store/apps/details?id=com.booking&hl=en
 https://play.google.com/store/apps/details?id=com.booking.hotelmanager&hl=en
 https://play.google.com/store/apps/details?id=com.bybit.app&hl=en
@@ -7581,6 +7723,7 @@ idprotection.avg.com
 ifast.marriott.com
 iframe.arkoselabs.com
 ifttt-adaptor.pub.kube.dm.gg
+ik.watsons.com.tr
 img.swapcard.com
 img.zivver.com
 imove.bpost.cloud
@@ -7598,6 +7741,7 @@ infodefender.ca
 infomaniak.events
 ingest.clairvoyance.indrive.tech
 innersloth.kidswebservices.com
+innovation.superdrug.com
 insight2.tradepmr.com
 insights.deribit.com
 institutional.coinbase.com
@@ -7674,6 +7818,7 @@ karwei-promotiepunt.nl
 kassa.gamma.be/*
 kassa.gamma.nl/*
 kassa.karwei.nl/*
+katalog.watsons.com.tr
 kayak.ai
 kb.databricks.com
 kidswebservices.com
@@ -7812,6 +7957,7 @@ m.reddit.com
 m.trendyol.com
 mUSD Stablecoin
 macOS app
+magazine.kruidvat.be
 magento.com
 magic.veriff.me
 magiceden.io
@@ -7878,15 +8024,22 @@ media.iciparisxl.nl
 media.indrive.com
 media.marionnaud.at
 media.marionnaud.ch
+media.marionnaud.cz
 media.marionnaud.fr
+media.marionnaud.hu
 media.marionnaud.it
+media.marionnaud.ro
+media.marionnaud.sk
 media.nexuzhealth.be/patient/ 
 media.remitly.io
+media.savers.co.uk
 media.simplisafe.com
 media.superdrug.com
 media.theperfumeshop.com
+media.watsons.com.tr
 mediacenter.23andme.com
 medias.fortress.com.hk
+medias.lookatme.com.ph
 medias.pns.hk
 medias.watsons.co.id
 medias.watsons.co.th
@@ -7905,6 +8058,7 @@ meinkonto.bild.de
 meliplay.com.ar
 meliplay.com.pe
 meliplay.com.uy
+member.watsons.com.tw
 mercadolibreexperience.cl
 mercadolivreexperience.com.br/
 mercadoplay.co
@@ -8048,6 +8202,8 @@ new.express.adobe.com
 new.reddit.com
 new.www.vaxvacationaccess.com
 news.remitly.com
+newsletter-feedback.iciparisxl.nl
+newsletter.iciparisxl.nl
 newsletter.nextcloud.com
 newsroom.images.hyatt.com
 newsroom.transunioncentralamerica.com
@@ -8147,6 +8303,7 @@ obs-sensors.iris.production.forescoutcloud.net
 ocijlbex1prd.marriott.com
 octopus
 odoo14.notebleue.pro
+odul.watsons.com.tr
 offsite.omise.co
 om.vodafone.mva
 on-premises software
@@ -8162,6 +8319,8 @@ onepush.query.yahoo.com
 oneview.malwarebytes.com
 oneview.threatdown.com
 online.s-pankki.fi
+onlinedoctor.superdrug.com
+onlinepharmacy.superdrug.com
 onum-labs.com
 onum.com
 open redirect at *.epam.com
@@ -8265,6 +8424,7 @@ phabricator.allizom.org
 phlonline.vfsevisa.cn
 phlportal.vfsevisa.cn
 phone-validation.taxi.booking.com
+photo.kruidvat.be
 photos.adobe.io
 photoservice.stage.vismaonline.com
 photoshop.adobe.com
@@ -8561,6 +8721,8 @@ sc-cf.*.aws.indriverapp.com
 scan.nextcloud.com
 scan.snapchat.com
 scapegoat.hyatt.com
+scp.watsons.com.tr
+scpapi.watsons.com.tr
 screenshot-proxy.netlify.app
 scrutiny.swiftfinancial.com
 sdg.data.gov
@@ -8595,12 +8757,20 @@ sequoia-policy-config
 sequoia-wot
 serveur12.notebleue.com
 service.fing.com
+service.iciparisxl.nl
+service.kruidvat.be
+service.kruidvat.nl
 service.racing.fanduel.com
+service.trekpleister.nl
 service.tvg.com
 servicedesk-accpt.portofantwerp.com
 servicedesk-accpt.portofantwerpbruges.com
 servicedesk.portofantwerp.com
 servicedesk.portofantwerpbruges.com
+servicefr.iciparisxl.be
+servicefr.iciparisxl.lu
+servicefr.kruidvat.be
+servicenl.iciparisxl.be
 settings.superhuman.com
 sfc-cf.*.aws.indriverapp.com
 sfc-gw-cf.*.aws.indriverapp.com
@@ -8707,6 +8877,8 @@ speedtest-rockingham.optusnet.com.au
 speedtest-sydney.optusnet.com.au
 speedtest-townsville.optusnet.com.au
 speedtest.xfinity.com
+speelgoedfolder.kruidvat.be
+speelgoedfolder.kruidvat.nl
 splunk-phantom-nlb.marriott.com
 sportsbook.fanduel.com
 sporza.be
@@ -8989,6 +9161,8 @@ vfo03.vodafone.om
 vhx.tv
 via.rider
 video-agent.8x8.com
+videogp-api.superdrug.com
+videogp.superdrug.com
 vikingco.be
 vikingdeals.be
 vikinglab.be
@@ -9029,6 +9203,7 @@ wallet.venly.io
 walletbot.me
 wallets.api.playstation.com
 was-gw-cf.*.aws.indriverapp.com
+wasapi.watsons.com.tr
 watchdocs.indriverapp.com
 watchlistapi.etoro.com
 wd2*.indriverapp.com
@@ -9066,6 +9241,9 @@ wellbeing.dzcdn.net
 welt.de
 wga.volans.tech
 widget.rentalcars.com
+wifi-in-store.iciparisxl.be
+wifi-in-store.iciparisxl.lu
+wifi-in-store.iciparisxl.nl
 wiki-accpt.portofantwerp.com
 wiki-accpt.portofantwerpbruges.com
 wiki.cs.money
@@ -9147,6 +9325,8 @@ www.cardinalcommerce.com
 www.carrentals.com
 www.cart.starbucks.co.jp/
 www.casinohuone.com
+www.cewe.kruidvat.be
+www.cewe.kruidvat.nl
 www.chaire-arpenter.fr
 www.cheapcaribbean.com
 www.cheapflights.com
@@ -9275,6 +9455,7 @@ www.hyatt.com
 www.hyattconnect.com
 www.hyattinclusivecollection.com
 www.iciparisxl.be
+www.iciparisxl.com
 www.iciparisxl.lu
 www.iciparisxl.nl
 www.infomaniak.com
@@ -9297,6 +9478,7 @@ www.kolikkopelit.com
 www.kpharmacyllc.com
 www.kruidvat.be
 www.kruidvat.nl
+www.kruidvatkids.nl
 www.lab-recherche-environnement.org
 www.lafabriquedelacite.com
 www.landmarkcinemas.com
@@ -9315,6 +9497,7 @@ www.logitech.com.cn
 www.logitechclub.com
 www.logitechg.com
 www.logitechstore.com.br
+www.lookatme.com.ph
 www.malwarebytes.com
 www.mapbox.com
 www.mariacasino.(com|se|ee|dk)
@@ -9370,6 +9553,7 @@ www.pns.hk
 www.pornbox.com
 www.pornworld.com
 www.portofantwerpbruges.com
+www.pourvous.nl
 www.practicalbusinessskills.org
 www.practicalmoneyskills.com
 www.practicalmoneyskills.org
@@ -9377,6 +9561,7 @@ www.preprod.monespacesante.fr
 www.preprod1.monespacesante.fr
 www.preprod2.monespacesante.fr
 www.priceline.com
+www.prijsmepper.nl
 www.prisma.fi
 www.quip.com
 www.qwant.com
@@ -9388,6 +9573,7 @@ www.s-kaupat.fi
 www.s-pankki.fi
 www.sa.dyson.com
 www.samenfittorfs.be
+www.savers.co.uk
 www.sbb.ch
 www.sbbcargo.com
 www.schoenentorfs.be
@@ -9407,6 +9593,7 @@ www.storspelare.se
 www.storspiller.com
 www.stripe.partners
 www.superdrug.com
+www.superdrugmobile.com
 www.supernovas.indrive.com
 www.sustainability.booking.com
 www.swiftcapital.com
@@ -9510,6 +9697,7 @@ www.watsons.com.sg
 www.watsons.com.tr
 www.watsons.com.tw
 www.watsons.vn
+www.watsonsbeautystudio.com
 www.wearehackerone.com
 www.wickr.com
 www.wnba.com
@@ -9548,6 +9736,7 @@ xadsacademy.com
 xero-sandbox.gocardless.com
 xhomeapi-*.cloud.comcast.net
 xhomeapi-*.codebig2.net
+xlence.iciparisxl.nl
 xn--porsche-alttting-wwb.de
 xn--porsche-gppingen-uwb.de
 xn--porsche-gttingen-uwb.de
