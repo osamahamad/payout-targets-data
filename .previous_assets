@@ -2665,6 +2665,7 @@ Sophos Firewall (XG/XGS, SFOS) - Pre-auth RCE
 Sophos IT Infrastructure (all other Sophos domains)
 Source Code
 SpaceX and Starlink assets (target information and rewards detailed above on the brief)
+Spacelift Intent
 Spark Connector
 Special scenarios (see description)
 Specific scenarios (see program description)
@@ -5873,7 +5874,9 @@ https://github.com/nextcloud/twofactor_totp
 https://github.com/nextcloud/updater
 https://github.com/nextcloud/user_saml
 https://github.com/nextcloud/viewer
+https://github.com/nitrojs/nitro
 https://github.com/nodejs/node
+https://github.com/nuxt/nuxt
 https://github.com/openssl/openssl
 https://github.com/opf/openproject
 https://github.com/owncloud/activity
@@ -5939,12 +5942,24 @@ https://github.com/spiffe/spire
 https://github.com/square/okhttp
 https://github.com/square/okio
 https://github.com/square/wire
+https://github.com/sveltejs/svelte
 https://github.com/tchapgouv
 https://github.com/tempus-ex
 https://github.com/transferwise/*
 https://github.com/tronprotocol/java-tron
 https://github.com/trustwallet/wallet-core/
 https://github.com/valvesoftware
+https://github.com/vercel-labs/agent-skills
+https://github.com/vercel-labs/skills
+https://github.com/vercel/ai
+https://github.com/vercel/async-sema
+https://github.com/vercel/flags
+https://github.com/vercel/ms
+https://github.com/vercel/next.js
+https://github.com/vercel/swr
+https://github.com/vercel/turborepo
+https://github.com/vercel/vercel
+https://github.com/vercel/workflow
 https://github.com/worldcoin
 https://gitlab.com/gitlab-org/gitaly
 https://gitlab.com/gitlab-org/gitlab
