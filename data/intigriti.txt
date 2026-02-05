@@ -3,6 +3,15 @@ Firmware
 Software
 https://marketplace.visualstudio.com/items?itemName=AikidoSecurity.aikido
 app.aikido.dev
+https://github.com/AikidoSec/firewall-node#Vulnerability
+https://github.com/AikidoSec/firewall-php#Vulnerability
+https://github.com/AikidoSec/firewall-python#Vulnerability
+https://github.com/AikidoSec/firewall-node#Detection Bypass
+https://github.com/AikidoSec/firewall-php#Detection Bypass
+https://github.com/AikidoSec/firewall-python#Detection Bypass
+https://github.com/AikidoSec/firewall-node#False Positive
+https://github.com/AikidoSec/firewall-php#False Positive
+https://github.com/AikidoSec/firewall-python#False Positive
 myaccount.ad.nl
 webwinkel.ad.nl
 www.ad.nl
@@ -374,9 +383,6 @@ login.lansweeper.com
 on-premises software
 www.lansweeper.com
 www.libelle.nl
-Liferay DXP 2025.Q4
-Liferay DXP 2025.Q1
-Liferay DXP 2024.Q1
 www.marionnaud.fr
 Marionnaud France Android
 Marionnaud France iOS
