@@ -2409,7 +2409,6 @@ SOPHOS/Secureworks : Redcloak
 SOPHOS/Secureworks : Taegis
 SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope
 SSL/TLS
-SSO_Saml_connector
 Saily - Android
 Saily - iOS
 Sandboxes
@@ -2464,7 +2463,6 @@ Spotify desktop application (Windows and Mac)
 Square Register
 Square Terminal
 Staging, QA, Dev, and Test Environments
-Standalone Chrome extension
 Starbucks China Android
 Starbucks China iOS
 Starbucks Japan Android
@@ -2853,7 +2851,6 @@ api.coindcx.com
 api.coinmarketcap.com
 api.creditkarma.com
 api.custody.coinbase.com
-api.dashlane.com
 api.deezer.com
 api.deriv.com
 api.digital.delen.be 
@@ -3021,7 +3018,6 @@ app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
-app.dashlane.com
 app.datacamp.com/certification
 app.datacamp.com/groups
 app.datacamp.com/learn
@@ -3510,8 +3506,6 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
-com.dashlane
-com.dashlane.dashlanephonefinal
 com.datacamp
 com.dd.doordash
 com.defi.wallet
@@ -3788,7 +3782,6 @@ connect.secure.wellsfargo.com
 connect.venly.io
 console-backend.truelayer[-sandbox].com
 console.circle.com
-console.dashlane.com
 console.ort-one-pingone.com
 console.tink.com
 console.truelayer[-sandbox].com
@@ -4150,7 +4143,6 @@ gateway.reddit.com
 gateway.skyscanner.net/*
 gateway.superhuman.com
 gc.watsons.com.tr
-gehmmocbbkpblljhkekmfhjpfbkclbph
 geneva-staging.chat
 geofilters.snapchat.com
 getworldcoin.com
@@ -6630,8 +6622,6 @@ https://www.cyber.gouv.qc.ca/
 https://www.cyberghostvpn.com/en_US/apps/linux-vpn
 https://www.cyberghostvpn.com/en_US/apps/macos-vpn
 https://www.cyberghostvpn.com/en_US/apps/windows-vpn
-https://www.dashlane.com/fr/directdownload-v2?os=OS_X_10_12_6&platform=website&target=launcher_macosx
-https://www.dashlane.com/fr/directdownload-v2?os=none&platform=website&target=archive_win
 https://www.decathlon.(ch|fr|hu|pl|ro|cz|com.tr)/
 https://www.decathlon.(co.uk|it|nl|de|pt|es|be)/
 https://www.definitivetechnology.com
@@ -7147,7 +7137,6 @@ logistica.redelcom.cl
 logitech.zendesk.com
 logitechg.com.cn
 logitechgchallenge.com
-logs.dashlane.com
 logs.nextcloud.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
@@ -8327,7 +8316,6 @@ wp5-truststroke.uzleuven.be
 ws.blockchain.info
 ws.deezer.com
 ws.sorare.com
-ws1.dashlane.com
 wss://socket.bitpanda.com
 www-dev.nba.com
 www-dev.wnba.com
@@ -8390,7 +8378,6 @@ www.crowdstrike.com
 www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
-www.dashlane.com
 www.datacamp.com
 www.datacamp.com/datalab
 www.ddfcontent.com
