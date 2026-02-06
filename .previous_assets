@@ -8246,6 +8246,7 @@ nextcloud/files_accesscontrol
 nextcloud/files_antivirus
 nextcloud/files_automatedtagging
 nextcloud/files_fulltextsearch
+nextcloud/files_fulltextsearch_tesseract
 nextcloud/files_lock
 nextcloud/files_pdfviewer
 nextcloud/files_retention

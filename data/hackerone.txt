@@ -2943,7 +2943,6 @@ com.nextcloud.talk2
 com.peterandlinda.iOCNotes
 crm.nextcloud.com
 customerupdates.nextcloud.com
-daita/files_fulltextsearch_tesseract
 docs.nextcloud.com
 download.nextcloud.com
 help.nextcloud.com
@@ -2975,6 +2974,7 @@ nextcloud/files_accesscontrol
 nextcloud/files_antivirus
 nextcloud/files_automatedtagging
 nextcloud/files_fulltextsearch
+nextcloud/files_fulltextsearch_tesseract
 nextcloud/files_lock
 nextcloud/files_pdfviewer
 nextcloud/files_retention
