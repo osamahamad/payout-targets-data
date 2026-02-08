@@ -472,9 +472,6 @@
 *.hyperpure.com
 *.hyperwallet.com
 *.hypr.com
-*.iciparisxl.be
-*.iciparisxl.lu
-*.iciparisxl.nl
 *.id.realestate.com.au
 *.ikarem.io
 *.immedia-semi.com/*
@@ -641,6 +638,7 @@
 *.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
+*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -754,7 +752,6 @@
 *.polymoon.it
 *.portofantwerp.com
 *.portofantwerpbruges.com
-*.pourvous.nl
 *.ppbdev.com
 *.prd-pub.mobilevikings.be
 *.prd.aser.simplisafe.com
@@ -771,6 +768,7 @@
 *.preemptsecurity.com
 *.prijsmepper.nl
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -1154,6 +1152,7 @@
 1023499075
 103.83.120.0/22
 1032480595
+1052238659
 1057338687
 107.167.96.0/19
 1076840480
@@ -2075,8 +2074,6 @@ HubSpot iOS Mobile App
 Hyperdrive
 HyprUnlock.exe
 IBC Go Relayer
-ICI Paris XL Android
-ICI Paris XL iOS
 IT Infrastructure
 Ibotta App Data & Memory
 Id1406825640
@@ -2874,9 +2871,6 @@ api.gx.games/gxc
 api.gx.games/profile
 api.gx.games/session
 api.hackerone.com
-api.iciparisxl.be
-api.iciparisxl.lu
-api.iciparisxl.nl
 api.infomaniak.com
 api.instacart.com
 api.khealth.com
@@ -3004,9 +2998,6 @@ app.geneva-staging.chat
 app.geneva-staging.com
 app.grammarly.com
 app.greenhouse.io
-app.iciparisxl.be
-app.iciparisxl.lu
-app.iciparisxl.nl
 app.interseller.io
 app.khealth.com
 app.klarna.com
@@ -3153,7 +3144,6 @@ be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
 beacon.netflix.com
-beauty-and-you.iciparisxl.nl
 belgium.tomorrowland.com
 bestfiends.com
 beta-cloud.acronis.com
@@ -3242,9 +3232,6 @@ calendar.infomaniak.com
 calendar.notion.so
 callbacks.airbnb.com
 cam.notebleue.pro
-campagne.iciparisxl.be
-campagne.iciparisxl.lu
-campagne.iciparisxl.nl
 campaign-uat.kruidvat.be
 campaign-uat.kruidvat.nl
 campaign-uat.trekpleister.nl
@@ -3343,6 +3330,7 @@ co-cf.*.aws.indriverapp.com
 co-gw-cf.*.aws.indriverapp.com
 co-in-gw-cf.*.aws.indriverapp.com
 co.mona.android
+co.uk.getmondo
 coaching.supernovas.indrive.com
 coban.pixiv.net
 coda.grammarly.com
@@ -3948,7 +3936,6 @@ edgeapis.onecloud.harman.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
 editeurs.monespacesante.fr
-edition.iciparisxl.nl
 editionhotels.com
 editorial.one
 education.23andme.com
@@ -4048,11 +4035,9 @@ flourish-user-preview.com
 flourish-user-templates.com
 flyiin.com
 fm.anchor.android
-folder.iciparisxl.nl
 folder.kruidvat.be
 folder.kruidvat.nl
 folder.trekpleister.nl
-folders.iciparisxl.nl
 fonts.adobe.com
 forms.mobilevikings.be
 fortnite.com
@@ -7139,9 +7124,6 @@ mds.marriott.com
 mds.voiapp.io
 media.drogas.lt
 media.drogas.lv
-media.iciparisxl.be
-media.iciparisxl.lu
-media.iciparisxl.nl
 media.indrive.com
 media.marionnaud.at
 media.marionnaud.ch
@@ -7228,6 +7210,7 @@ moments.marriottbonvoy.com
 moneybird.com
 moneybirdstorage.com
 monitor.mozilla.org
+monzo.com
 moonpay.com
 movie.indrive.com
 movieapi.kinepolis.megatix.be
@@ -7299,8 +7282,6 @@ new.express.adobe.com
 new.reddit.com
 new.www.vaxvacationaccess.com
 news.remitly.com
-newsletter-feedback.iciparisxl.nl
-newsletter.iciparisxl.nl
 newsletter.nextcloud.com
 newsroom.images.hyatt.com
 next.airbnb.com
@@ -7762,7 +7743,6 @@ sequoia-policy-config
 sequoia-wot
 serveur12.notebleue.com
 service.fing.com
-service.iciparisxl.nl
 service.kruidvat.be
 service.kruidvat.nl
 service.trekpleister.nl
@@ -7770,10 +7750,7 @@ servicedesk-accpt.portofantwerp.com
 servicedesk-accpt.portofantwerpbruges.com
 servicedesk.portofantwerp.com
 servicedesk.portofantwerpbruges.com
-servicefr.iciparisxl.be
-servicefr.iciparisxl.lu
 servicefr.kruidvat.be
-servicenl.iciparisxl.be
 settings.superhuman.com
 sfc-cf.*.aws.indriverapp.com
 sfc-gw-cf.*.aws.indriverapp.com
@@ -8191,9 +8168,6 @@ wellbeing.dzcdn.net
 welt.de
 wga.volans.tech
 widget.rentalcars.com
-wifi-in-store.iciparisxl.be
-wifi-in-store.iciparisxl.lu
-wifi-in-store.iciparisxl.nl
 wiki-accpt.portofantwerp.com
 wiki-accpt.portofantwerpbruges.com
 wiki.cs.money
@@ -8394,10 +8368,6 @@ www.humo.be/abonnementen
 www.hyatt.com
 www.hyattconnect.com
 www.hyattinclusivecollection.com
-www.iciparisxl.be
-www.iciparisxl.com
-www.iciparisxl.lu
-www.iciparisxl.nl
 www.infomaniak.com
 www.instacart.com
 www.intigriti.com
@@ -8467,6 +8437,7 @@ www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
+www.monzo.com
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
@@ -8488,7 +8459,6 @@ www.pns.hk
 www.pornbox.com
 www.pornworld.com
 www.portofantwerpbruges.com
-www.pourvous.nl
 www.practicalbusinessskills.org
 www.practicalmoneyskills.com
 www.practicalmoneyskills.org
@@ -8651,7 +8621,6 @@ xFi Pods
 xadsacademy.com
 xhomeapi-*.cloud.comcast.net
 xhomeapi-*.codebig2.net
-xlence.iciparisxl.nl
 xs2a.banking.playground.klarna.com
 xtramile.grabpay.com
 yelptop100.com

@@ -69,10 +69,6 @@ Leaked/compromised employee accounts *.here.com
 *.hln.be
 *.parool.nl
 *.humo.be
-*.iciparisxl.lu
-*.iciparisxl.nl
-*.iciparisxl.be
-*.pourvous.nl
 *.gamma.be/*
 *.gamma.nl/*
 *.intergamma.cloud
@@ -121,6 +117,8 @@ Leaked/compromised employee accounts *.here.com
 *.acc.mobilevikings.be
 *.dev-pub.mobilevikings.be
 *.dev.mobilevikings.be
+*.monzo.com
+*.prod-ffs.io
 *.nexuzhealth.*
 *.oda.com
 *.prod.nube.tech

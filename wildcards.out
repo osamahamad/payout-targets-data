@@ -452,9 +452,6 @@
 *.hyperpure.com
 *.hyperwallet.com
 *.hypr.com
-*.iciparisxl.be
-*.iciparisxl.lu
-*.iciparisxl.nl
 *.id.realestate.com.au
 *.ikarem.io
 *.immedia-semi.com/*
@@ -621,6 +618,7 @@
 *.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
+*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -734,7 +732,6 @@
 *.polymoon.it
 *.portofantwerp.com
 *.portofantwerpbruges.com
-*.pourvous.nl
 *.ppbdev.com
 *.prd-pub.mobilevikings.be
 *.prd.aser.simplisafe.com
@@ -751,6 +748,7 @@
 *.preemptsecurity.com
 *.prijsmepper.nl
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
