@@ -3,15 +3,6 @@ Firmware
 Software
 https://marketplace.visualstudio.com/items?itemName=AikidoSecurity.aikido
 app.aikido.dev
-https://github.com/AikidoSec/firewall-node#Vulnerability
-https://github.com/AikidoSec/firewall-php#Vulnerability
-https://github.com/AikidoSec/firewall-python#Vulnerability
-https://github.com/AikidoSec/firewall-node#Detection Bypass
-https://github.com/AikidoSec/firewall-php#Detection Bypass
-https://github.com/AikidoSec/firewall-python#Detection Bypass
-https://github.com/AikidoSec/firewall-node#False Positive
-https://github.com/AikidoSec/firewall-php#False Positive
-https://github.com/AikidoSec/firewall-python#False Positive
 myaccount.ad.nl
 webwinkel.ad.nl
 www.ad.nl
@@ -220,6 +211,39 @@ myaccount.humo.be
 shop.humo.be
 www.humo.be
 www.humo.be/abonnementen
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+ICI Paris XL Android
+ICI Paris XL iOS
+app.iciparisxl.be
+app.iciparisxl.lu
+app.iciparisxl.nl
+media.iciparisxl.lu
+media.iciparisxl.nl
+media.iciparisxl.be
+api.iciparisxl.lu
+api.iciparisxl.nl
+api.iciparisxl.be
+www.iciparisxl.com
+xlence.iciparisxl.nl
+newsletter.iciparisxl.nl
+newsletter-feedback.iciparisxl.nl
+beauty-and-you.iciparisxl.nl
+folder.iciparisxl.nl
+folders.iciparisxl.nl
+edition.iciparisxl.nl
+servicefr.iciparisxl.be
+wifi-in-store.iciparisxl.nl
+wifi-in-store.iciparisxl.lu
+wifi-in-store.iciparisxl.be
+service.iciparisxl.nl
+servicefr.iciparisxl.lu
+campagne.iciparisxl.nl
+campagne.iciparisxl.lu
+campagne.iciparisxl.be
+servicenl.iciparisxl.be
+www.pourvous.nl
 Backend/Non-Game
 Elvenar
 Forge of Empires
@@ -548,6 +572,32 @@ http://socialdeal.nl/inspirations/bluemonday/
 http://www.whynot.com/
 https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/
 www.socialdeal.nl
+www.superdrug.com
+Superdrug iOS
+Superdrug Android
+api.superdrug.com
+media.superdrug.com
+app.superdrug.com
+campaign.superdrug.com
+community.superdrug.com
+ecom-data.superdrug.com
+videogp-api.superdrug.com
+healthclinics.superdrug.com
+innovation.superdrug.com
+onlinedoctor.superdrug.com
+onlinepharmacy.superdrug.com
+videogp.superdrug.com
+app.pharmacy.superdrug.com
+appt.healthclinics.superdrug.com
+www.savers.co.uk
+Savers iOS
+Savers Android
+api.savers.co.uk
+media.savers.co.uk
+app.savers.co.uk
+www.superdrugmobile.com
+campaign.savers.co.uk
+ecom-data.savers.co.uk
 www.theperfumeshop.com
 app.theperfumeshop.com
 api.theperfumeshop.com
