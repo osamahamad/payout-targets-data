@@ -825,6 +825,7 @@
 *.saltlabs.com
 *.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
+*.savers.co.uk
 *.say.rocks
 *.saytechnologies.com
 *.sba.marriott.com
@@ -935,6 +936,7 @@
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
+*.superdrug.com
 *.superhuman.com
 *.support.jbl.com
 *.support.originenergy.com.au
@@ -2404,6 +2406,8 @@ SSL/TLS
 Saily - Android
 Saily - iOS
 Sandboxes
+Savers Android
+Savers iOS
 Scanwatch
 Scanwatch 2
 Scanwatch Light
@@ -2492,6 +2496,8 @@ Subdomain Takeover (SDTO)
 Subdomain Takeover - konghq.com
 Subdomain takeover at *asana.biz
 Substance 3D
+Superdrug Android
+Superdrug iOS
 Superhuman Go
 System Specification
 T&P Servers
@@ -2941,6 +2947,7 @@ api.robinhood.com
 api.ryadom.kz
 api.s-kaupat.fi
 api.sandbox.topperpay.com
+api.savers.co.uk
 api.segment.io
 api.sendgrid.com
 api.services.simplisafe.com (App Endpoints)
@@ -2956,6 +2963,7 @@ api.stage.evernote.com
 api.steampowered.com
 api.stg.inspectorio.com
 api.stripe.com
+api.superdrug.com
 api.swapcard.com
 api.swiftfinancial.com
 api.syfe.com
@@ -3044,10 +3052,12 @@ app.moonpay.com
 app.netlify.com
 app.nl.socialdeal
 app.nordpass.com
+app.pharmacy.superdrug.com
 app.pullrequest.com
 app.rewire.to
 app.sandbox.directly.com
 app.sandbox.topperpay.com
+app.savers.co.uk
 app.segment.com
 app.sendgrid.com
 app.slack.com
@@ -3055,6 +3065,7 @@ app.smtp2go.com
 app.snapchat.com
 app.starbucks.com
 app.stg.inspectorio.com
+app.superdrug.com
 app.swapcard.com
 app.taxjar.com
 app.theperfumeshop.com
@@ -3077,6 +3088,7 @@ apps.nextcloud.com
 apps.ort-one-pingone.com
 apps.portofantwerp.com
 apps.portofantwerpbruges.com
+appt.healthclinics.superdrug.com
 aqtooling.com
 aquiris.com.br
 aquiris.studio
@@ -3272,6 +3284,8 @@ campaign.marionnaud.ch
 campaign.marionnaud.cz
 campaign.marionnaud.hu
 campaign.marionnaud.it
+campaign.savers.co.uk
+campaign.superdrug.com
 campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
@@ -3725,6 +3739,7 @@ community-tc.services.mozilla.com
 community.8x8.com
 community.forescout.com
 community.logitech.com
+community.superdrug.com
 community.ui.com
 community.watsons.co.th
 community.watsons.com.my
@@ -3955,6 +3970,8 @@ ecom-data.marionnaud.cz
 ecom-data.marionnaud.fr
 ecom-data.marionnaud.hu
 ecom-data.marionnaud.it
+ecom-data.savers.co.uk
+ecom-data.superdrug.com
 ecom-data.theperfumeshop.com
 ecom-data.trekpleister.nl
 ecom-static.kruidvat.be
@@ -4164,6 +4181,7 @@ hacktoberfest.com
 harmonixmusic.com
 hc2services.com
 hc2tooling.com
+healthclinics.superdrug.com
 help-jp.krisp.ai
 help.coinhako.com
 help.krisp.ai
@@ -4439,7 +4457,6 @@ https://api.thefork.io
 https://api.thesecurityteam.rocks
 https://api.thetradedesk.com
 https://api.thousandeyes.com/
-https://api.toom.de
 https://api.tripadvisor.com
 https://api.unity.com
 https://api.us1.fga.dev/
@@ -6391,7 +6408,6 @@ https://ticket.multiplayer.classdojo.com
 https://tidal.com/
 https://tms.onecloud.harman.com
 https://tools-api.cryptocompare.com/
-https://toom.de
 https://torquemag.io
 https://tr.ee
 https://tracker.bugcrowd.com
@@ -6933,6 +6949,7 @@ infinite.visa.fr
 infomaniak.events
 ingest.clairvoyance.indrive.tech
 innersloth.kidswebservices.com
+innovation.superdrug.com
 insight2.tradepmr.com
 insights.deribit.com
 institutional.coinbase.com
@@ -7178,7 +7195,9 @@ media.marionnaud.ro
 media.marionnaud.sk
 media.nexuzhealth.be/patient/ 
 media.remitly.io
+media.savers.co.uk
 media.simplisafe.com
+media.superdrug.com
 media.theperfumeshop.com
 media.watsons.com.tr
 mediacenter.23andme.com
@@ -7441,6 +7460,8 @@ one.dash.cloudflare.com
 onepush.query.yahoo.com
 oneview.threatdown.com
 online.s-pankki.fi
+onlinedoctor.superdrug.com
+onlinepharmacy.superdrug.com
 onum-labs.com
 onum.com
 open redirect at *.epam.com
@@ -8145,6 +8166,8 @@ vfo03.vodafone.om
 vhx.tv
 via.rider
 video-agent.8x8.com
+videogp-api.superdrug.com
+videogp.superdrug.com
 vikingco.be
 vikingdeals.be
 vikinglab.be
@@ -8538,6 +8561,7 @@ www.rockstargames.com
 www.s-kaupat.fi
 www.s-pankki.fi
 www.sa.dyson.com
+www.savers.co.uk
 www.sbb.ch
 www.sbbcargo.com
 www.sheer.com
@@ -8554,6 +8578,8 @@ www.stayz.com.au
 www.storspelare.se
 www.storspiller.com
 www.stripe.partners
+www.superdrug.com
+www.superdrugmobile.com
 www.supernovas.indrive.com
 www.swiftcapital.com
 www.swiftfinancial.com
