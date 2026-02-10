@@ -796,7 +796,6 @@
 *.rbx.com
 *.realestate.com.au
 *.realitykings.com
-*.rec.net/*
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
@@ -4430,7 +4429,6 @@ https://api.pluralonline.com
 https://api.pluralpay.in
 https://api.pornhub.com/
 https://api.production.cde.tamg.cloud
-https://api.rec.net
 https://api.ring.com/*
 https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
 https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql
@@ -4507,7 +4505,6 @@ https://apps.apple.com/app/bitx-wallet/id927362479
 https://apps.apple.com/app/chia-signer/id6504493785 
 https://apps.apple.com/app/id1216446440
 https://apps.apple.com/app/id1359583808
-https://apps.apple.com/app/id1450306065
 https://apps.apple.com/app/id1503045795
 https://apps.apple.com/app/id1635031432
 https://apps.apple.com/app/infomaniak-kdrive/id1482778676
@@ -4874,7 +4871,6 @@ https://developers.elementor.com/
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
 https://developers.vendhq.com/
-https://devportal.rec.net/
 https://devstaging.pcapcloud.com/*
 https://digits.t-mobile.com
 https://digits.t-mobile.com/
@@ -6030,7 +6026,6 @@ https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR
 https://play.google.com/store/apps/details?id=br.com.movilepay.banking.application&hl=pt_BR
 https://play.google.com/store/apps/details?id=ch.mediamarkt
 https://play.google.com/store/apps/details?id=ch.post.it.pcc&hl=en
-https://play.google.com/store/apps/details?id=com.AgainstGravity.RecRoom
 https://play.google.com/store/apps/details?id=com.acorns.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.afterpaymobile.uk
 https://play.google.com/store/apps/details?id=com.afterpaymobile.us&hl=en_US&gl=US
@@ -6224,9 +6219,6 @@ https://pt-runner.app.ridewithvia.com
 https://pyszne.pl
 https://quantum-events.onecloud.harman.com
 https://rc.fstr.rocks
-https://rec.net/
-https://rec.net/download
-https://recroom.com/studio
 https://redash-staging.getmoneytree.com/
 https://regatta.aiven.io/
 https://rentals.tripadvisor.com
@@ -6340,10 +6332,7 @@ https://static.usaa.com
 https://status.mobile.monash/
 https://storage.googleapis.com/kubernetes-release/
 https://store.epicgames.com/en-US/p/amiko-legends-a5986d
-https://store.playstation.com/en-us/product/UP2662-CUSA08481_00-RECROOM000000001
-https://store.playstation.com/en-us/product/UP2662-PPSA05532_00-6681199027107223
 https://store.retail.lightspeed.app
-https://store.steampowered.com/app/471710/Rec_Room/
 https://store.unity.com
 https://storybook.vistarmedia.com
 https://stp.wien.gv.at
@@ -6685,7 +6674,6 @@ https://www.myprotein.com/
 https://www.myvitamins.com/
 https://www.namejet.com/
 https://www.networksolutions.com
-https://www.nintendo.com/us/store/products/rec-room-switch/
 https://www.npmjs.com/package/@8x8/pui-partner-comm
 https://www.npmjs.com/package/@forge/cli	
 https://www.npmjs.com/package/@privy-io/cross-app-connect
@@ -6697,8 +6685,6 @@ https://www.npmjs.com/package/@privy-io/wagmi
 https://www.nuinvest.com.br/
 https://www.nutaku.com
 https://www.nutaku.net
-https://www.oculus.com/experiences/quest/2173678582678296
-https://www.oculus.com/experiences/rift/1257029974329451
 https://www.okta.com/fastpass/
 https://www.okta.com/products/advanced-server-access/
 https://www.onedoc.ch
@@ -6836,7 +6822,6 @@ https://www.whosampled.com/
 https://www.wien.gv.at
 https://www.winconnect.com.au/get-connected/
 https://www.winconnect.com.au/moving-out/
-https://www.xbox.com/en-us/games/store/rec-room/9pgpqk0xthrz
 https://www.xfinity.com/apps
 https://www.xvideos.net/app/
 https://www.yeswehack.com
@@ -8728,9 +8713,14 @@ zen.deezer.com
 zerobounce.net
 ziekenhuisschool.be
 zooplus.net
+███
+████
+███████
 ███████████
+█████████████
 ██████████████
 ███████████████
+████████████████
 █████████████████
 ██████████████████
 ███████████████████
