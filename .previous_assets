@@ -1304,6 +1304,7 @@
 1452166623
 1454725763
 1456293789
+1457958492
 146.109.1.0/24
 146.109.140.0/24
 146.109.141.0/24
@@ -2999,6 +3000,7 @@ admin.8x8.com
 admin.booking.com
 admin.fr.cloud.gov
 admin.instacart.com
+admin.meeshosupply.com
 admin.prd-idfapi.aws3.ezshield.ws
 admin.shopify.com
 admin.stage.vismaonline.com
@@ -3020,6 +3022,7 @@ aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
 aed.arubanetworks.com
 aff.capital.com
 affiliate-id.tokopedia.com
+affiliate.meesho.com
 agents.tasheer.com
 aggregator.etoro.com
 ai-testing.maventa.com
@@ -3950,6 +3953,7 @@ com.marcus.android
 com.marcus.android.uk
 com.marcus.ios-uk
 com.marcus.ios-us
+com.meesho.supply
 com.mercadoenvios.crowdsourcing
 com.mercadoenvios.driver
 com.mercadoenvios.logistics
@@ -4062,6 +4066,7 @@ com.uphold.labs.uphodl.android
 com.uphold.wallet
 com.urbanclap.provider
 com.urbanclap.urbanclap
+com.valmo.valmo
 com.valvesoftware.Steam
 com.venmo
 com.veriff.demo
@@ -8594,6 +8599,7 @@ prod-*.nu.com.co
 prod-*.nu.com.mx
 prod-*.nubank.com.br
 prod-mipaasiaasservices.marriott.com
+prod.meeshoapi.com
 prod.porsche-design.com
 prod.ros.rockstargames.com
 proddata.xobni.yahoo.com
@@ -9000,7 +9006,9 @@ sun.wnba.com
 super6.skysports.com
 superbet.bet.br
 superhuman.com
+superstoreapp.meesho.com
 supplier.auth.toag.booking.com
+supplier.meesho.com
 supply-xml.booking.com
 support*.earlywarning.com
 support-api.airbnb.com
@@ -9544,6 +9552,7 @@ www.marionnaud.it
 www.marionnaud.ro
 www.marionnaud.sk
 www.marriott.com
+www.meesho.com
 www.members.marriott.com
 www.mercadolibre.co.cr
 www.mercadolibre.com.bo
@@ -9675,6 +9684,7 @@ www.urbanclap.com
 www.urbancompany.com
 www.usa.gov
 www.uzleuven.be
+www.valmo.in
 www.valvesoftware.com
 www.veriff.com
 www.vfsvisaonline.com

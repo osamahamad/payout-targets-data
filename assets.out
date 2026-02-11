@@ -286,6 +286,7 @@
 *.district.in
 *.dm.gg
 *.dmcdn.net
+*.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
@@ -295,6 +296,10 @@
 *.dpgmedia.nl
 *.drogas.lt
 *.drogas.lv
+*.dropbox.com
+*.dropboxer.net
+*.dropboxforum.com
+*.dropboxpartners.com
 *.dropmix.com
 *.dropxl.com
 *.e2ro.com
@@ -435,6 +440,9 @@
 *.harmankardon.com
 *.harmonixmusic.com
 *.harmonyremote.com
+*.hellofax.com
+*.hellosign.com
+*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.bild.de
@@ -791,6 +799,7 @@
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
+*.reclaim.ai
 *.reddit.com
 *.redditblog.com
 *.reddithelp.com
@@ -1154,6 +1163,7 @@
 107.167.96.0/19
 1076840480
 1079537578
+1080074001
 1080248000
 1089294040
 1091010942
@@ -1194,6 +1204,7 @@
 1452166623
 1454725763
 1456293789
+1457958492
 146.109.1.0/24
 146.109.140.0/24
 146.109.141.0/24
@@ -1436,6 +1447,7 @@
 3.basecamp.com
 302584613
 319881193
+327630330
 328407587
 335187483
 336381998
@@ -1514,6 +1526,7 @@
 6444040977
 6444868926
 6449737830
+6450553960
 6452192521
 645949180
 6462308655
@@ -1893,6 +1906,8 @@ Drogas Latvia Android
 Drogas Latvia iOS
 Drogas Lithuania Android
 Drogas Lithuania iOS
+Dropbox Desktop Application
+Dropbox.com
 Dynatrace ActiveGate
 Dynatrace MobileAgent
 Dynatrace OneAgent
@@ -2058,6 +2073,8 @@ Hardware found on https://www.ezviz.com/category/smart-home
 Harmony Remote Software
 Harmony Remotes
 Helium Hotspot
+HelloFax.com
+HelloSign.com
 Hermes Relayer
 Horcrux
 HubSpot Android Mobile App
@@ -2722,6 +2739,7 @@ adm.cloud.com
 admin.8x8.com
 admin.booking.com
 admin.instacart.com
+admin.meeshosupply.com
 admin.shopify.com
 admin.stage.vismaonline.com
 admin.wickr.com
@@ -2739,6 +2757,7 @@ advisories.gitlab.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
 aff.capital.com
 affiliate-id.tokopedia.com
+affiliate.meesho.com
 agents.tasheer.com
 ai-testing.maventa.com
 ai-tools.infomaniak.com
@@ -2830,6 +2849,7 @@ api.direct.playstation.com
 api.doppler.com
 api.drogas.lt
 api.drogas.lv
+api.dropbox.com
 api.dyson.at
 api.dyson.be
 api.dyson.ch
@@ -2976,6 +2996,7 @@ apix.vodafone.om
 app*.hubspot.com
 app-*.easy4ipcloud.com
 app-insiders.marriott.com
+app.Reclaim.ai
 app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
@@ -3466,6 +3487,8 @@ com.dd.doordash
 com.defi.wallet
 com.deribit
 com.dolap.android
+com.dropbox.android
+com.dropbox.dash
 com.dyson.mobile.android
 com.ebookers
 com.eero.android
@@ -3554,6 +3577,7 @@ com.marcus.android
 com.marcus.android.uk
 com.marcus.ios-uk
 com.marcus.ios-us
+com.meesho.supply
 com.mercadoenvios.crowdsourcing
 com.mercadoenvios.driver
 com.mercadoenvios.logistics
@@ -3659,6 +3683,7 @@ com.uphold.labs.uphodl.android
 com.uphold.wallet
 com.urbanclap.provider
 com.urbanclap.urbanclap
+com.valmo.valmo
 com.valvesoftware.Steam
 com.venmo
 com.vilcsak.bitcoin2
@@ -3802,7 +3827,9 @@ cweb-ott.nba.com
 cyberghost.app
 cyberghost.com
 cz.skodaauto.myskoda
+dash.ai
 dash.cloudflare.com
+dash.dropbox.com
 dashboard.algolia.com
 dashboard.doppler.com
 dashboard.magic.link
@@ -3905,6 +3932,7 @@ docs.optimuscards.com
 docs.redoxengine.com
 docs.topperpay.com
 docs.uphold.com
+docsend.com
 docuflow.stg.inspectorio.com
 donations.livestream.com
 doordash.DoorDashConsumer
@@ -3918,6 +3946,7 @@ dream-dev.wnba.com
 dream-qa.wnba.com
 dream.wnba.com
 drive.wolt.com
+dropbox.com/paper
 dx-demo.deriv.com
 dx.deriv.com
 e-Commerce
@@ -7587,6 +7616,7 @@ prod-*.nu.com.co
 prod-*.nu.com.mx
 prod-*.nubank.com.br
 prod-mipaasiaasservices.marriott.com
+prod.meeshoapi.com
 prod.ros.rockstargames.com
 proddata.xobni.yahoo.com
 production.plaid.com
@@ -7656,6 +7686,7 @@ rei.com
 relay.firefox.com
 relay.playcanvas.com
 remitly.com
+replay.dropbox.com
 repo.magento.com
 report-html-sight.stg.inspectorio.com
 report.voi.com
@@ -7799,6 +7830,7 @@ shopify-admin.truelayer.com
 shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
+sign.dropbox.com
 sign.zivver.com
 signature-insights.api.cx.metamask.io
 signin.auth.welt.de
@@ -7938,7 +7970,9 @@ sun.wnba.com
 super6.skysports.com
 superbet.bet.br
 superhuman.com
+superstoreapp.meesho.com
 supplier.auth.toag.booking.com
+supplier.meesho.com
 supply-xml.booking.com
 support*.earlywarning.com
 support-api.airbnb.com
@@ -8443,6 +8477,7 @@ www.marionnaud.it
 www.marionnaud.ro
 www.marionnaud.sk
 www.marriott.com
+www.meesho.com
 www.members.marriott.com
 www.mercadolibre.co.cr
 www.mercadolibre.com.bo
@@ -8567,6 +8602,7 @@ www.upwork.com/api
 www.urbanclap.com
 www.urbancompany.com
 www.uzleuven.be
+www.valmo.in
 www.valvesoftware.com
 www.vfsvisaonline.com
 www.vfsvisaservicesrussia.com
