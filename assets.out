@@ -267,6 +267,7 @@
 *.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
+*.demorgen.be
 *.deribit.com
 *.deriv.cloud
 *.deriv.com
@@ -816,6 +817,11 @@
 *.rocketleague.com
 *.rockstargames.com
 *.romwe.com
+*.roondrops.com
+*.roonessentials.com
+*.roonessentials.net
+*.roonlabs.com
+*.roonlabs.net
 *.router.hereapi.com
 *.runnr.in
 *.s-cloud.net
@@ -1168,8 +1174,6 @@
 1091010942
 10x.redoxengine.com
 1101145849
-1114799709
-1114800186
 1116488672
 1118448159
 1127881507
@@ -1700,7 +1704,6 @@ Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure o
 Any public cloud resource or infrastructure operated and managed by REI.
 Any publicly accessible Tripadvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
 Any related DPG media domain
-Any related Torfs domain
 Any resource created or accessed with the Outscale Cloud on eu-west-2 region -  created by the Hunter
 Any subdomain application issue
 Any subdomain infrastructure issue
@@ -2199,7 +2202,6 @@ Marionnaud Slovakia Android
 Marionnaud Slovakia iOS
 Marionnaud Switzerland Android
 Marionnaud Switzerland iOS
-Mbed TLS & TF-PSA-Crypto
 Media Encoder
 Megaphone
 Membership
@@ -2280,7 +2282,6 @@ OKX Wallet Edge Add-ons
 OKX Wallet Safari Extension
 OKX iOS APP
 ONCE: Campfire
-OP-TEE
 Observability - APM Agents
 Observability - APM Server
 Official WordPress plugins
@@ -2547,8 +2548,6 @@ Trello Third Party Powerups
 Tribal Wars
 TrueLayer for Magento (Magento plugin)
 TrueLayer for WooCommerce (WordPress plugin)
-TrustedFirmware-A (TF-A)
-TrustedFirmware-M (TF-M)
 TrustedServer 100,000 Bonus Award (See Program Policy for Info)
 Trustwallet Android App
 Trustwallet Chrome Extension
@@ -2958,7 +2957,6 @@ api.slack.com
 api.smtp2go.com
 api.sokos.fi
 api.sorare.com
-api.soundtrackyourbrand.com
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -3188,7 +3186,6 @@ bettrfinancing.com
 bid.*.aws.indriverapp.com
 bigcommerce-adapter.judge.me
 bild.de
-billing.api.soundtrackyourbrand.com
 billingsupport.chaturbate.com
 bilt.marriott.com
 biolibre.ar
@@ -3246,7 +3243,6 @@ bugcrowd-pam-###.pam.oktapreview.com
 bugzilla.mozilla.org
 builder.hostinger.com
 building-blocks.com
-builds.soundtrackyourbrand.com
 bulten.watsons.com.tr
 business-resources.truecaller.com
 business.kayak.com
@@ -3256,7 +3252,6 @@ business.kinepolis.nl
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
-business.soundtrackyourbrand.com
 business.tiktok.com
 business.truecaller.com
 businesshelp.snapchat.com
@@ -3656,7 +3651,6 @@ com.skypicker.Skypicker
 com.skypicker.main
 com.slack.slackmdm
 com.snapchat.android
-com.soundtrackyourbrand.soundtrack.player
 com.spotify.client
 com.spotify.kids
 com.spotify.music
@@ -4690,7 +4684,6 @@ https://audience-builder.vistarmedia.com
 https://audio.20min.ch/
 https://aus.api.just-eat.io/
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
-https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.easyship.com
@@ -4761,7 +4754,6 @@ https://bugcrowd-pam-###.oktapreview.com
 https://bugcrowd-pam-###.workflows.oktapreview.com
 https://bugcrowd.com/programs
 https://bugs.opera.com/
-https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
@@ -6236,7 +6228,6 @@ https://proprietario.quintoandar.com.br
 https://pt-runner.app.ridewithvia.com
 https://pyszne.pl
 https://quantum-events.onecloud.harman.com
-https://radio.api.soundtrackyourbrand.com/
 https://rc.fstr.rocks
 https://redash-staging.getmoneytree.com/
 https://regatta.aiven.io/
@@ -6768,7 +6759,6 @@ https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
 https://www.sophos.com/en-us/products/mobile-control/free-trial
 https://www.sophos.com/en-us/products/next-gen-firewall
-https://www.soundtrackyourbrand.com
 https://www.sourcetreeapp.com/
 https://www.staging.jobstreet.co.id
 https://www.staging.jobstreet.com.my
@@ -7117,7 +7107,6 @@ m.chaturbate.com
 m.reddit.com
 m.trendyol.com
 mUSD Stablecoin
-macOS app
 magazine.kruidvat.be
 magento.com
 magiceden.io
@@ -7300,6 +7289,7 @@ my.visa.fr
 myaccount-cn.payoneer.com
 myaccount-hardening.dynatracelabs.com
 myaccount.ad.nl
+myaccount.demorgen.be
 myaccount.hln.be
 myaccount.humo.be
 myaccount.parool.nl
@@ -7829,6 +7819,7 @@ shipit.rubygems.org
 shop-id.tokopedia.com
 shop-pay-app-api.truelayer.com
 shop.app
+shop.demorgen.be
 shop.dyson.co.za
 shop.dyson.tw
 shop.humo.be
@@ -8249,7 +8240,6 @@ winecellar.zomato.com
 wings-dev.wnba.com
 wings-qa.wnba.com
 wings.wnba.com
-winkels.torfs.be
 winter.tomorrowland.com
 winterpackages.tomorrowland.com
 wlr-cf.*.aws.indriverapp.com
@@ -8338,6 +8328,8 @@ www.ddfcontent.com
 www.deezer.com
 www.delen.bank
 www.delen.be/en 
+www.demorgen.be
+www.demorgen.be/abonnementen
 www.digitalocean.com
 www.doctolib.(fr|de|it)
 www.dolap.com
@@ -8549,12 +8541,9 @@ www.rockstargames.com
 www.s-kaupat.fi
 www.s-pankki.fi
 www.sa.dyson.com
-www.samenfittorfs.be
 www.savers.co.uk
 www.sbb.ch
 www.sbbcargo.com
-www.schoenentorfs.be
-www.schoenentorfs.nl 
 www.sheer.com
 www.six-group.com
 www.socialdeal.nl
@@ -8585,8 +8574,6 @@ www.theperfumeshop.com
 www.tink.com
 www.tomorrowland.com
 www.topperpay.com
-www.torfs.be
-www.torfs.nl
 www.tradepmr.com
 www.trajeoh.com
 www.transsicura.ch
