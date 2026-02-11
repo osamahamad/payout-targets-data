@@ -103,10 +103,6 @@ practice.datacamp.com
 projects.datacamp.com
 www.datacamp.com
 www.datacamp.com/datalab
-myaccount.demorgen.be
-shop.demorgen.be
-www.demorgen.be
-www.demorgen.be/abonnementen
 myaccount.volkskrant.nl
 shop.volkskrant.nl
 webwinkel.volkskrant.nl
@@ -680,6 +676,10 @@ iOS SDK
 React Native SDK
 Web SDK
 Rust SDK
+OP-TEE
+Mbed TLS & TF-PSA-Crypto
+TrustedFirmware-A (TF-A)
+TrustedFirmware-M (TF-M)
 autodiscover.uzleuven.be
 ecrf.uzleuven.be
 extranet-asa.uzleuven.be
