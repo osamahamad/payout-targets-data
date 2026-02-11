@@ -3,6 +3,18 @@ Firmware
 Software
 https://marketplace.visualstudio.com/items?itemName=AikidoSecurity.aikido
 app.aikido.dev
+https://github.com/AikidoSec/firewall-node#Vulnerability
+https://github.com/AikidoSec/firewall-ruby#Vulnerability
+https://github.com/AikidoSec/firewall-php#Vulnerability
+https://github.com/AikidoSec/firewall-python#Vulnerability
+https://github.com/AikidoSec/firewall-node#Detection Bypass
+https://github.com/AikidoSec/firewall-ruby#Detection Bypass
+https://github.com/AikidoSec/firewall-php#Detection Bypass
+https://github.com/AikidoSec/firewall-python#Detection Bypass
+https://github.com/AikidoSec/firewall-node#False Positive
+https://github.com/AikidoSec/firewall-ruby#False Positive
+https://github.com/AikidoSec/firewall-php#False Positive
+https://github.com/AikidoSec/firewall-python#False Positive
 myaccount.ad.nl
 webwinkel.ad.nl
 www.ad.nl
@@ -254,22 +266,22 @@ Firmware
 Software
 Services
 IT Infrastructure
-949829216
-950680989
-950693949
-be.gamma.app.android
-kassa.gamma.be/*
-kassa.gamma.nl/*
-kassa.karwei.nl/*
-mijn.gamma.be/*
-mijn.gamma.nl/*
-mijn.karwei.nl/*
-nl.gamma.app.android
-nl.karwei.app.android
-www.gamma.be/*
 www.gamma.nl/*
+www.gamma.be/*
 www.karwei.nl/*
+kassa.gamma.nl/*
+kassa.gamma.be/*
+kassa.karwei.nl/*
+mijn.gamma.nl/*
+mijn.gamma.be/*
+mijn.karwei.nl/*
+949829216
+950693949
+950680989
 1558129454
+nl.gamma.app.android
+be.gamma.app.android
+nl.karwei.app.android
 irmg.nl
 gammacademy.be
 karwei-promotiepunt.nl
