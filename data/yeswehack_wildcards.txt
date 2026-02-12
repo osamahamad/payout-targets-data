@@ -73,6 +73,8 @@ storage*.infomaniak.com
 *.piaservers.com
 *.piaservers.net
 *.app.spacelift.dev
+*.superbank.id
+*.super-id.net
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *.telenor.se
 *.bredbandsbolaget.se
