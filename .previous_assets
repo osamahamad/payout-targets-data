@@ -3084,6 +3084,7 @@ api-*.soundcloud.com
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
 api-dashboard.search.brave.com
+api-dashboard.web3auth.io
 api-eu.floqast.app
 api-frontend.pab.porsche.com
 api-gateway.polygon.technology
@@ -3098,6 +3099,7 @@ api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
 api-wallet-sandbox.venly.io
 api-wallet.venly.io
+api-wallet.web3auth.io
 api.23andme.com
 api.8x8.com
 api.adm.cloud.com
@@ -4256,6 +4258,7 @@ dashboard.pluralonline.com
 dashboard.privy.io
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
+dashboard.web3auth.io
 data.mail.yahoo.com
 data.ninjakiwi.com
 databricks.com
@@ -5643,6 +5646,7 @@ https://github.com/Shopify/*
 https://github.com/SiliconLabsSoftware/matter_extension
 https://github.com/SiliconLabsSoftware/matter_sdk
 https://github.com/SiliconLabsSoftware/simplicity-device-manager
+https://github.com/Web3Auth/web3auth-web
 https://github.com/afterpay/sdk-android
 https://github.com/afterpay/sdk-ios
 https://github.com/apache/airflow
@@ -9256,6 +9260,7 @@ wallet-sandbox.uphold.com
 wallet.etoro.com
 wallet.tg
 wallet.venly.io
+wallet.web3auth.io
 walletbot.me
 wallets.api.playstation.com
 wallettg.com

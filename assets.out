@@ -2199,7 +2199,6 @@ Marionnaud Slovakia Android
 Marionnaud Slovakia iOS
 Marionnaud Switzerland Android
 Marionnaud Switzerland iOS
-Mbed TLS & TF-PSA-Crypto
 Media Encoder
 Megaphone
 Membership
@@ -2280,7 +2279,6 @@ OKX Wallet Edge Add-ons
 OKX Wallet Safari Extension
 OKX iOS APP
 ONCE: Campfire
-OP-TEE
 Observability - APM Agents
 Observability - APM Server
 Official WordPress plugins
@@ -2547,8 +2545,6 @@ Trello Third Party Powerups
 Tribal Wars
 TrueLayer for Magento (Magento plugin)
 TrueLayer for WooCommerce (WordPress plugin)
-TrustedFirmware-A (TF-A)
-TrustedFirmware-M (TF-M)
 TrustedServer 100,000 Bonus Award (See Program Policy for Info)
 Trustwallet Android App
 Trustwallet Chrome Extension
@@ -2811,6 +2807,7 @@ api-*.soundcloud.com
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
 api-dashboard.search.brave.com
+api-dashboard.web3auth.io
 api-eu.floqast.app
 api-gateway.polygon.technology
 api-gw-cf.*.aws.indriverapp.com
@@ -2824,6 +2821,7 @@ api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
 api-wallet-sandbox.venly.io
 api-wallet.venly.io
+api-wallet.web3auth.io
 api.23andme.com
 api.8x8.com
 api.adm.cloud.com
@@ -3849,6 +3847,7 @@ dashboard.pluralonline.com
 dashboard.privy.io
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
+dashboard.web3auth.io
 data.mail.yahoo.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
@@ -5054,6 +5053,7 @@ https://github.com/RIPE-NCC/rpki-ta-0
 https://github.com/RIPE-NCC/rsyncit
 https://github.com/RIPE-NCC/whois
 https://github.com/Shopify/*
+https://github.com/Web3Auth/web3auth-web
 https://github.com/afterpay/sdk-android
 https://github.com/afterpay/sdk-ios
 https://github.com/apache/airflow
@@ -8199,6 +8199,7 @@ waf.cumulusfire.net
 wallet-sandbox.uphold.com
 wallet.tg
 wallet.venly.io
+wallet.web3auth.io
 walletbot.me
 wallets.api.playstation.com
 wallettg.com

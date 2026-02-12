@@ -984,7 +984,11 @@ MetaMask SDK
 Snaps
 Snaps Development Packages
 Third Party Snaps
+api-dashboard.web3auth.io
+api-wallet.web3auth.io
+dashboard.web3auth.io
 developer.metamask.io
+https://github.com/Web3Auth/web3auth-web
 https://metamask.github.io/phishing-warning/<vX.Y.Z>
 https://user-storage.api.cx.metamask.io
 io.metamask
@@ -994,6 +998,7 @@ metamask.io
 portfolio.metamask.io
 signature-insights.api.cx.metamask.io
 snaps.metamask.io
+wallet.web3auth.io
 api-eu.floqast.app
 Any public (Internet-facing) infrastructure owned and operated by Palantir.
 Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
