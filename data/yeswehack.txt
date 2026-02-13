@@ -228,7 +228,7 @@ eIDAS Bridge  (see program description for github link)
 User Dashboard  (see program description for github link)
 GLib
 glib-networking
-libsoup
+SoupSession (libsoup client)
 api.gojek.co.id
 https://play.google.com/store/apps/details?id=com.gojek.app
 https://apps.apple.com/id/app/gojek/id944875099
