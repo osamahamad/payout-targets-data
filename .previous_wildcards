@@ -33,6 +33,7 @@
 *.account.api.here.com
 *.account.here.com
 *.account.mongodb.com/*
+*.account.roon.app
 *.accounts.realestate.com.au
 *.acesso.io
 *.acrobat.adobe.com
@@ -403,6 +404,8 @@
 *.goldmansachs.com
 *.gop3.nl
 *.gopayapi.com
+*.gotdrops.cloud
+*.gotdrops.com
 *.gotinder.com
 *.gov.bugcrowd.net
 *.governorofpoker.com
@@ -853,6 +856,7 @@
 *.rocketleague.com
 *.rockstargames.com
 *.romwe.com
+*.roon.app
 *.roondrops.com
 *.roonessentials.com
 *.roonessentials.net
