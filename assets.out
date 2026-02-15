@@ -762,6 +762,7 @@
 *.qaglobal-liquidity.gs.com
 *.quip.com
 *.quixel.com
+*.quizlet.com
 *.quora.com
 *.ra.roblox.com
 *.rapyd.com
@@ -1408,6 +1409,7 @@
 284971959
 288429040
 297606951
+3.0 API
 3.133.230.28
 3.19.172.158
 3.223.149.182
@@ -4340,9 +4342,6 @@ https://api-portal.originzero.com.au
 https://api-prod.retailsso.com
 https://api-prod.thatconceptstore.com/
 https://api-skipthedishes.skipthedishes.com
-https://api-{app-id}.calls.sendbird.com
-https://api-{app-id}.notifications.sendbird.com
-https://api-{app-id}.sendbird.com
 https://api.20min.ch/
 https://api.aiven.io/login
 https://api.anytask.com/
@@ -4806,7 +4805,6 @@ https://dashboard-101.moengage.com
 https://dashboard.fga.dev/
 https://dashboard.pantheon.io
 https://dashboard.rapyd.net/
-https://dashboard.sendbird.com/
 https://data.limeinternal.com
 https://data.prosus.com/
 https://datadome.co
@@ -4818,7 +4816,6 @@ https://dealflow.prosus.com
 https://dealflowapi.prosus.com
 https://demo.adstruc.com
 https://demo.priceless.com/
-https://desk-api-{region}.sendbird.com
 https://desk.thetradedesk.com
 https://desktop.water-link.be/
 https://dev.tutoring.classdojo.com
@@ -4955,7 +4952,6 @@ https://gaadmin.vfsglobal.com/GAR1Ph1ApptAdmin/
 https://gaadmin.vfsglobal.com/Global-Admin/
 https://gaadmin.vfsglobal.com/GlobalAdmin/
 https://gap.citizenportal-test.bugbounty.akinox.dev/
-https://gate.sendbird.com
 https://gateway-api.nutaku.net
 https://gateway.optus.com.au/api/ai-search/search/v1
 https://gatewaydsapdev2.marriott.com/
@@ -5354,6 +5350,7 @@ https://itunes.apple.com/fr/app/blablacar-trusted-carpooling/id341329033?l=en&mt
 https://itunes.apple.com/gb/app/unibet-casino-slots-games/id905382680
 https://itunes.apple.com/gb/app/unibet-live-sports-betting/id463335337
 https://itunes.apple.com/us/app/cash-app/id711923939?mt=8
+https://itunes.apple.com/us/app/quizlet-flashcards/id546473125
 https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045663228?mt=8
 https://jaguar.here.com
 https://jet-external.com
@@ -6048,6 +6045,7 @@ https://play.google.com/store/apps/details?id=com.pinterest&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.pinterest.shuffles
 https://play.google.com/store/apps/details?id=com.pinterest.twa&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&hl=en
+https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid
 https://play.google.com/store/apps/details?id=com.saltlabs.app
 https://play.google.com/store/apps/details?id=com.scu.bsafe
 https://play.google.com/store/apps/details?id=com.siilo.android&hl=en
@@ -6219,8 +6217,6 @@ https://segment.com/docs/connections/sources/
 https://selector.viator.com
 https://selfcare.ooredoo.qa
 https://send2.co/
-https://sendbird.com
-https://sendbird.com/docs
 https://service.platform.tripadvisor.com
 https://service.post.ch/ekp-web/
 https://service.post.ch/ele-klp/ele/
@@ -6432,8 +6428,6 @@ https://wise.com
 https://world.planethoster.net
 https://wowjobs.ca
 https://wpengine.com
-https://ws-{app-id}.calls.sendbird.com
-https://ws-{app-id}.sendbird.com
 https://ws.multiplayer.classdojo.com/
 https://ws.usaa.com
 https://wsloja.ifood.com.br
