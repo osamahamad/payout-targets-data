@@ -762,7 +762,6 @@
 *.qaglobal-liquidity.gs.com
 *.quip.com
 *.quixel.com
-*.quizlet.com
 *.quora.com
 *.ra.roblox.com
 *.rapyd.com
@@ -1121,11 +1120,6 @@
 *ubereats.com
 *vc.logitech.com
 /blog/ (or translated equivalent) endpoints on our sites
-0x0d8775f648430679a709e98d2b0cb6250d2887ef
-0x44fcfabfbe32024a01b778c025d70498382cced0
-0x67fa2c06c9c6d4332f330e14a66bdf1873ef3d2b
-0x7c31560552170ce96c4a7b018e93cddc19dc61b6
-0xfbfa258b9028c7d4fc52ce28031469214d10daeb
 1.1.1.1 Resolver
 1013961111
 1018340690
@@ -1414,7 +1408,6 @@
 284971959
 288429040
 297606951
-3.0 API
 3.133.230.28
 3.19.172.158
 3.223.149.182
@@ -1747,6 +1740,7 @@ Body Scan scale
 Bot Management
 Braintree SDK
 Brand Sites
+Brave Browser Desktop
 Bridge
 Broken Link
 Browser Isolation
@@ -3429,7 +3423,6 @@ com.boozt.app
 com.boozt.booztlet
 com.booztlet
 com.brave.browser
-com.brave.browser_beta
 com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
@@ -5028,15 +5021,7 @@ https://github.com/bigbluebutton/bbb-webrtc-sfu
 https://github.com/bigbluebutton/bigbluebutton
 https://github.com/bigbluebutton/greenlight
 https://github.com/blindsidenetworks/scalelite
-https://github.com/brave-intl/bat-balance
-https://github.com/brave-intl/bat-client
-https://github.com/brave-intl/bat-go
-https://github.com/brave-intl/bat-ledger
-https://github.com/brave-intl/bat-publisher
-https://github.com/brave-intl/publishers
 https://github.com/brave/*, https://github.com/brave-intl/*
-https://github.com/brave/brave-core
-https://github.com/brave/vault-updater
 https://github.com/buildonspark/spark
 https://github.com/cashapp/cash-app-pay-android-sdk
 https://github.com/cashapp/cash-app-pay-ios-sdk
@@ -5369,7 +5354,6 @@ https://itunes.apple.com/fr/app/blablacar-trusted-carpooling/id341329033?l=en&mt
 https://itunes.apple.com/gb/app/unibet-casino-slots-games/id905382680
 https://itunes.apple.com/gb/app/unibet-live-sports-betting/id463335337
 https://itunes.apple.com/us/app/cash-app/id711923939?mt=8
-https://itunes.apple.com/us/app/quizlet-flashcards/id546473125
 https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045663228?mt=8
 https://jaguar.here.com
 https://jet-external.com
@@ -5384,7 +5368,6 @@ https://just-eat.com
 https://just-eat.dk
 https://just-eat.es
 https://just-eat.io/
-https://justonweb.be/fines/
 https://keepersecurity.com
 https://keepersecurity.com/console
 https://keepersecurity.com/password-manager-free-trial.html
@@ -5398,15 +5381,6 @@ https://l.usaa.com/
 https://lab.epam.com
 https://landrover.here.com
 https://lapi.yellowblocks.me
-https://laptop-updates.brave.com/latest/dev/debian64
-https://laptop-updates.brave.com/latest/dev/ubuntu64
-https://laptop-updates.brave.com/latest/fedora64
-https://laptop-updates.brave.com/latest/linux64
-https://laptop-updates.brave.com/latest/mint64
-https://laptop-updates.brave.com/latest/openSUSE64
-https://laptop-updates.brave.com/latest/osx
-https://laptop-updates.brave.com/latest/winia32
-https://laptop-updates.brave.com/latest/winx64
 https://lastpass.com
 https://lastpass.com/misc_download2.php
 https://latitudeinfinity.com.au
@@ -6074,7 +6048,6 @@ https://play.google.com/store/apps/details?id=com.pinterest&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.pinterest.shuffles
 https://play.google.com/store/apps/details?id=com.pinterest.twa&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&hl=en
-https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid
 https://play.google.com/store/apps/details?id=com.saltlabs.app
 https://play.google.com/store/apps/details?id=com.scu.bsafe
 https://play.google.com/store/apps/details?id=com.siilo.android&hl=en
