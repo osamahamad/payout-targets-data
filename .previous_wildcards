@@ -113,6 +113,7 @@
 *.appmiral.com
 *.arlo.com
 *.arlo.com (subdomains impacting customer-facing services)
+*.arlocloud.com
 *.arloxcld.com
 *.artifactory.marriott.com
 *.artstation.com

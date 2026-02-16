@@ -1,5 +1,6 @@
 *.arlo.com (subdomains impacting customer-facing services)
 *.arloxcld.com
+*.arlocloud.com
 *.app.asana.com
 *.asana.biz
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance
