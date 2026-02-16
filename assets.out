@@ -129,6 +129,8 @@
 *.arloxcld.com
 *.artifactory.marriott.com
 *.artstation.com
+*.as-nmt.de
+*.asadcdn.com
 *.asana.biz
 *.assurancewireless.com
 *.atairbnb.com
@@ -137,6 +139,8 @@
 *.atspotify.com
 *.audible.(TLD)
 *.audicagame.com
+*.auth.bild.de
+*.autobild.de
 *.avecspotify.com
 *.ayco.com
 *.backblazeb2.com
@@ -150,6 +154,9 @@
 *.betfair.se
 *.betsharedservices.io
 *.betviewapi.com
+*.bild.de
+*.bild.design
+*.bild.tv
 *.bingoblitz.com
 *.bionic.ai
 *.bitdefender.com
@@ -183,6 +190,7 @@
 *.bybit.tr
 *.bykea.net
 *.byspotify.com
+*.bz-berlin.de
 *.cadastro.uat.unico.app
 *.caesarsgames.com
 *.call-control.ie
@@ -233,6 +241,7 @@
 *.coinbase.com
 *.coindcx.com
 *.comcast.com
+*.computerbild.de
 *.consumer.worldcoin.org
 *.contactallerg(y|ie).uzleuven.be
 *.contentsquare.com
@@ -296,6 +305,7 @@
 *.easy.ac
 *.edition.in
 *.eero.com
+*.ein-herz-fuer-kinder.de
 *.elastic.co
 *.elastic.dev
 *.elasticnet.co
@@ -336,6 +346,7 @@
 *.fetlife.com
 *.findaya.co.id
 *.findaya.com
+*.fitbook.de
 *.flickr.com
 *.flipkey.com
 *.floqast.app
@@ -362,6 +373,7 @@
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
+*.germany.politico.eu
 *.gesundheitsverbund.at
 *.gethypr.com
 *.github.net
@@ -433,6 +445,7 @@
 *.helloworks.com
 *.here.com
 *.hereapi.com
+*.hey.bild.de
 *.hey.com
 *.hicloudcam.com,
 *.highwebmedia.com
@@ -632,6 +645,7 @@
 *.mworld.com
 *.myfitnesspal.com
 *.myharmony.com
+*.myhomebook.de
 *.myinsights.io
 *.mysqueezebox.com
 *.myteksi.com
@@ -712,6 +726,8 @@
 *.personio.de
 *.personio.tools
 *.personiowhistleblowing.com
+*.petbook-magazine.com/
+*.petbook.de
 *.piaservers.com
 *.piaservers.net
 *.pinterest.com Web Apps
@@ -879,9 +895,12 @@
 *.soyoustart.com
 *.spiketrap.io
 *.spinaway.com
+*.sportbild.de
 *.sportinglife.com
 *.spotify.com
 *.spotify.net
+*.spring-media.de
+*.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sqills.com
@@ -903,6 +922,7 @@
 *.stripchat.com
 *.stripe.com
 *.studiopress.com
+*.stylebook.de
 *.subp-router.hereapi.com
 *.super-id.net
 *.superbank.id
@@ -919,6 +939,7 @@
 *.sys.comcast.net
 *.tdl.sh
 *.teams.cloudflare.com
+*.techbook.de
 *.telenor.se
 *.telenorinpli.se
 *.tesla.cn
@@ -952,6 +973,7 @@
 *.trafficjunky.com
 *.trainpal.com,*.mytrainpal.com
 *.transferwise.com
+*.travelbook.de
 *.travelocity.ca
 *.travelocity.com
 *.travix.com
@@ -1055,6 +1077,7 @@
 *.web3factory.consensys.net
 *.wellsfargo.com
 *.wellsfargoadvisors.com
+*.welt.de
 *.werkenbijgamma.be
 *.werkenbijgamma.nl
 *.werkenbijkarwei.nl
@@ -1064,6 +1087,7 @@
 *.wienkav.at
 *.wimpmusic.com
 *.wise.com
+*.wissen-sie-mehr.de
 *.withairbnb.com
 *.withbuddies.com
 *.withspotify.com
@@ -1244,6 +1268,7 @@
 172.26.2.133
 172.26.39.9
 174.44.253.152/29
+18.184.198.198, 18.185.214.59, 18.194.109.179, 3.121.117.72, 3.121.138.10, 3.121.138.128, 3.121.138.134, 3.121.138.170, 3.121.138.33, 3.121.138.43, 3.124.248.208, 35.156.137.39
 185.210.32.0/22
 185.26.180.0/22
 188.118.8.0/25
@@ -2710,6 +2735,7 @@ adobeid-na1.services.adobe.com
 ads.reddit.com
 ads.snapchat.com
 ads.tiktok.com
+adtechnology.axelspringer.com
 advisories.gitlab.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
 aff.capital.com
@@ -3144,6 +3170,7 @@ beta-cloud.acronis.com
 bettrfinancing.com
 bid.*.aws.indriverapp.com
 bigcommerce-adapter.judge.me
+bild.de
 billingsupport.chaturbate.com
 bilt.marriott.com
 biolibre.ar
@@ -3243,6 +3270,7 @@ campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
 campus.datacamp.com
+cancellation.prod.ps.welt.de
 capital.com/*
 capturingreality.com
 cardpayments.remitly.io
@@ -3811,6 +3839,7 @@ datapod-2-query.acceptance.forescoutcloud.net
 dcfgateway*.marriott.com
 de.bmw.connected.mobile20.row
 de.forescout.cloud
+dealer.prod.ps.axelspringer.de/purchases/*
 debug.8x8.com
 debug.clairvoyance.indrive.tech
 decision.swiftfinancial.com
@@ -3865,6 +3894,7 @@ dif.tech.plata
 digili.s-cloud.fi
 digital.kruidvat.be
 digital.kruidvat.nl
+digital.welt.de
 digitaloceanmirrors.com
 digitaloceanpartners.com
 digitaloceanstatus.com
@@ -3935,6 +3965,7 @@ editeur.api.monespacesante.fr
 editeurs.monespacesante.fr
 edition.iciparisxl.nl
 editionhotels.com
+editorial.one
 education.23andme.com
 education.github.com
 eero Devices
@@ -3955,6 +3986,7 @@ en.kolikkopelit.com
 en.ottokasino.com
 enterpriseenrollment.bitstamp.net
 enterpriseregistration.bitstamp.net
+epaper.welt.de
 epptool-ctld.verisign-grs.com (EPP service; DNS related)
 erpx.unit4cloud.com/u4erx_pab_acp1
 erpx.unit4cloud.com/u4erx_pab_prev
@@ -4095,6 +4127,7 @@ gnocchi-www.buffalo-ggn.net
 go.capital.com
 go.geneva-staging.com
 go.stripchat.com
+go.welt.de
 gofood.co.id
 goldmansachsindices.com
 googleplace*.bykea.net
@@ -7017,6 +7050,7 @@ lynx.wnba.com
 m-pesa.africa
 m.airbnb.com
 m.badoo.com
+m.bild.de
 m.chaturbate.com
 m.reddit.com
 m.trendyol.com
@@ -7113,6 +7147,7 @@ medical.23andme.com
 meechum.netflix.com
 meetings.hyatt.com
 meetmarriottbonvoy.marriott.com
+meinkonto.bild.de
 meliplay.com.ar
 meliplay.com.pe
 meliplay.com.uy
@@ -7475,6 +7510,7 @@ playwonderbox.com.br
 pm-cf.*.aws.indriverapp.com
 pm-gw-cf.*.aws.indriverapp.com
 pmtcards.newegg.com
+politico.eu
 pontoon.allizom.org
 portal-api.coinmarketcap.com
 portal.arkoselabs.com
@@ -7749,6 +7785,7 @@ shoppers.instacart.com
 sign.dropbox.com
 sign.zivver.com
 signature-insights.api.cx.metamask.io
+signin.auth.welt.de
 signup.myconnect.com.au
 signup.sendgrid.com
 simperium.com
@@ -7948,6 +7985,8 @@ teamdirectory.nba.com
 teammate.indriver.io
 teamportal.nba.com
 teams.krisp.ai
+technik.autobild.de
+technik.beta.autobild.de
 teleport.fareharbor.engineering
 template.uat.foodstorm.com
 tempo-dev.wnba.com
@@ -8124,6 +8163,7 @@ wechat.api.marriott.com
 welcome.infomaniak.com
 wellbeing.deezer.com
 wellbeing.dzcdn.net
+welt.de
 wga.volans.tech
 widget.rentalcars.com
 wifi-in-store.iciparisxl.be
