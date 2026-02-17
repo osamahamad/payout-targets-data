@@ -128,8 +128,6 @@
 *.arloxcld.com
 *.artifactory.marriott.com
 *.artstation.com
-*.as-nmt.de
-*.asadcdn.com
 *.asana.biz
 *.assurancewireless.com
 *.atairbnb.com
@@ -138,8 +136,6 @@
 *.atspotify.com
 *.audible.(TLD)
 *.audicagame.com
-*.auth.bild.de
-*.autobild.de
 *.avecspotify.com
 *.ayco.com
 *.backblazeb2.com
@@ -153,9 +149,6 @@
 *.betfair.se
 *.betsharedservices.io
 *.betviewapi.com
-*.bild.de
-*.bild.design
-*.bild.tv
 *.bingoblitz.com
 *.bionic.ai
 *.bitdefender.com
@@ -189,7 +182,6 @@
 *.bybit.tr
 *.bykea.net
 *.byspotify.com
-*.bz-berlin.de
 *.cadastro.uat.unico.app
 *.caesarsgames.com
 *.call-control.ie
@@ -240,7 +232,6 @@
 *.coinbase.com
 *.coindcx.com
 *.comcast.com
-*.computerbild.de
 *.consumer.worldcoin.org
 *.contactallerg(y|ie).uzleuven.be
 *.contentsquare.com
@@ -303,7 +294,6 @@
 *.easy.ac
 *.edition.in
 *.eero.com
-*.ein-herz-fuer-kinder.de
 *.elastic.co
 *.elastic.dev
 *.elasticnet.co
@@ -344,7 +334,6 @@
 *.fetlife.com
 *.findaya.co.id
 *.findaya.com
-*.fitbook.de
 *.flickr.com
 *.flipkey.com
 *.floqast.app
@@ -371,7 +360,6 @@
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
-*.germany.politico.eu
 *.gesundheitsverbund.at
 *.gethypr.com
 *.github.net
@@ -439,7 +427,6 @@
 *.helloworks.com
 *.here.com
 *.hereapi.com
-*.hey.bild.de
 *.hey.com
 *.hicloudcam.com,
 *.highwebmedia.com
@@ -644,7 +631,6 @@
 *.mworld.com
 *.myfitnesspal.com
 *.myharmony.com
-*.myhomebook.de
 *.myinsights.io
 *.mysqueezebox.com
 *.myteksi.com
@@ -725,8 +711,6 @@
 *.personio.de
 *.personio.tools
 *.personiowhistleblowing.com
-*.petbook-magazine.com/
-*.petbook.de
 *.piaservers.com
 *.piaservers.net
 *.pinterest.com Web Apps
@@ -888,12 +872,9 @@
 *.soyoustart.com
 *.spiketrap.io
 *.spinaway.com
-*.sportbild.de
 *.sportinglife.com
 *.spotify.com
 *.spotify.net
-*.spring-media.de
-*.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.sqills.com
@@ -915,7 +896,6 @@
 *.stripchat.com
 *.stripe.com
 *.studiopress.com
-*.stylebook.de
 *.subp-router.hereapi.com
 *.super-id.net
 *.superbank.id
@@ -931,7 +911,6 @@
 *.sys.comcast.net
 *.tdl.sh
 *.teams.cloudflare.com
-*.techbook.de
 *.telenor.se
 *.telenorinpli.se
 *.tesla.cn
@@ -965,7 +944,6 @@
 *.trafficjunky.com
 *.trainpal.com,*.mytrainpal.com
 *.transferwise.com
-*.travelbook.de
 *.travelocity.ca
 *.travelocity.com
 *.travix.com
@@ -1041,6 +1019,10 @@
 *.vimla.se
 *.vimla.work
 *.vine.co
+*.vinted.com
+*.vinted.fr
+*.vinted.net
+*.vintedgo.com
 *.visamiddleeast.com
 *.vliegwinkel.nl
 *.vod2.infomaniak.com
@@ -1067,7 +1049,6 @@
 *.web3factory.consensys.net
 *.wellsfargo.com
 *.wellsfargoadvisors.com
-*.welt.de
 *.werkenbijgamma.be
 *.werkenbijgamma.nl
 *.werkenbijkarwei.nl
@@ -1077,7 +1058,6 @@
 *.wienkav.at
 *.wimpmusic.com
 *.wise.com
-*.wissen-sie-mehr.de
 *.withairbnb.com
 *.withbuddies.com
 *.withspotify.com
@@ -1115,18 +1095,26 @@
 *.zellepay.com
 *.zomans.com
 *.zomato.com
+*badger.it.vinted.com
+*careers.vinted.com
+*company.vinted.com
 *dev.uzleuven.be
 *developer.cloud.com
 *ensemble*.yahoo.com
 *gateway-apc.marriott.com
 *idp*.uzleuven.be
 *inf.fndlsb.net
+*news.vinted.com
+*old.vinted.com
 *omega*.yahoo.com
 *ripio.com
 *ripiotrade.co
+*sandbox*.vinted.com
+*sandbox*.vintedgo.com
 *signalservice.comcast.net
 *stag*.uzleuven.be
 *test*.bykea.net
+*test-escalations.vintedgo.com
 *tidalhi.fi
 *uat.marriott.com
 *ubereats.com
@@ -1150,8 +1138,6 @@
 1091010942
 10x.redoxengine.com
 1101145849
-1114799709
-1114800186
 1116488672
 1118448159
 1127881507
@@ -1260,7 +1246,6 @@
 172.26.2.133
 172.26.39.9
 174.44.253.152/29
-18.184.198.198, 18.185.214.59, 18.194.109.179, 3.121.117.72, 3.121.138.10, 3.121.138.128, 3.121.138.134, 3.121.138.170, 3.121.138.33, 3.121.138.43, 3.124.248.208, 35.156.137.39
 185.210.32.0/22
 185.26.180.0/22
 188.118.8.0/25
@@ -1502,6 +1487,7 @@
 62.192.20.16/29
 62.216.152.46/29
 621574163
+632064380
 632344648
 64.47.18.80/29
 64.84.60.0/24
@@ -2368,6 +2354,7 @@ Saily - iOS
 Sandboxes
 Savers Android
 Savers iOS
+Scam
 Scanwatch
 Scanwatch 2
 Scanwatch Light
@@ -2715,7 +2702,6 @@ adobeid-na1.services.adobe.com
 ads.reddit.com
 ads.snapchat.com
 ads.tiktok.com
-adtechnology.axelspringer.com
 advisories.gitlab.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
 aff.capital.com
@@ -2920,7 +2906,6 @@ api.slack.com
 api.smtp2go.com
 api.sokos.fi
 api.sorare.com
-api.soundtrackyourbrand.com
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -3149,8 +3134,6 @@ beta-cloud.acronis.com
 bettrfinancing.com
 bid.*.aws.indriverapp.com
 bigcommerce-adapter.judge.me
-bild.de
-billing.api.soundtrackyourbrand.com
 billingsupport.chaturbate.com
 bilt.marriott.com
 biolibre.ar
@@ -3208,7 +3191,6 @@ bugcrowd-pam-###.pam.oktapreview.com
 bugzilla.mozilla.org
 builder.hostinger.com
 building-blocks.com
-builds.soundtrackyourbrand.com
 bulten.watsons.com.tr
 business-resources.truecaller.com
 business.kayak.com
@@ -3218,7 +3200,6 @@ business.kinepolis.nl
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
-business.soundtrackyourbrand.com
 business.tiktok.com
 business.truecaller.com
 businesshelp.snapchat.com
@@ -3256,7 +3237,6 @@ campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
 campus.datacamp.com
-cancellation.prod.ps.welt.de
 capital.com/*
 capturingreality.com
 cardpayments.remitly.io
@@ -3617,7 +3597,6 @@ com.skypicker.Skypicker
 com.skypicker.main
 com.slack.slackmdm
 com.snapchat.android
-com.soundtrackyourbrand.soundtrack.player
 com.spotify.client
 com.spotify.kids
 com.spotify.music
@@ -3827,7 +3806,6 @@ datapod-2-query.acceptance.forescoutcloud.net
 dcfgateway*.marriott.com
 de.bmw.connected.mobile20.row
 de.forescout.cloud
-dealer.prod.ps.axelspringer.de/purchases/*
 debug.8x8.com
 debug.clairvoyance.indrive.tech
 decision.swiftfinancial.com
@@ -3882,7 +3860,6 @@ dif.tech.plata
 digili.s-cloud.fi
 digital.kruidvat.be
 digital.kruidvat.nl
-digital.welt.de
 digitaloceanmirrors.com
 digitaloceanpartners.com
 digitaloceanstatus.com
@@ -3952,7 +3929,6 @@ editeur.api.monespacesante.fr
 editeurs.monespacesante.fr
 edition.iciparisxl.nl
 editionhotels.com
-editorial.one
 education.23andme.com
 education.github.com
 eero Devices
@@ -3974,7 +3950,6 @@ en.kolikkopelit.com
 en.ottokasino.com
 enterpriseenrollment.bitstamp.net
 enterpriseregistration.bitstamp.net
-epaper.welt.de
 epptool-ctld.verisign-grs.com (EPP service; DNS related)
 erpx.unit4cloud.com/u4erx_pab_acp1
 erpx.unit4cloud.com/u4erx_pab_prev
@@ -4065,6 +4040,7 @@ foto.kruidvat.nl
 fotoservice.kruidvat.be
 fotoservice.kruidvat.nl
 fp-sg.tiktokv.com
+fr.vinted
 funding-webhooks.remitly.io
 furycloud.io
 furydocs.io
@@ -4116,7 +4092,6 @@ gnocchi-www.buffalo-ggn.net
 go.capital.com
 go.geneva-staging.com
 go.stripchat.com
-go.welt.de
 gofood.co.id
 goldmansachsindices.com
 googleplace*.bykea.net
@@ -4651,7 +4626,6 @@ https://audience-builder.vistarmedia.com
 https://audio.20min.ch/
 https://aus.api.just-eat.io/
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
-https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.immutable.com
@@ -4721,7 +4695,6 @@ https://bugcrowd-pam-###.oktapreview.com
 https://bugcrowd-pam-###.workflows.oktapreview.com
 https://bugcrowd.com/programs
 https://bugs.opera.com/
-https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
@@ -6186,7 +6159,6 @@ https://property.com.au
 https://proprietario.quintoandar.com.br
 https://pt-runner.app.ridewithvia.com
 https://pyszne.pl
-https://radio.api.soundtrackyourbrand.com/
 https://rc.fstr.rocks
 https://redash-staging.getmoneytree.com/
 https://regatta.aiven.io/
@@ -6707,7 +6679,6 @@ https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
 https://www.sophos.com/en-us/products/mobile-control/free-trial
 https://www.sophos.com/en-us/products/next-gen-firewall
-https://www.soundtrackyourbrand.com
 https://www.sourcetreeapp.com/
 https://www.staging.jobstreet.co.id
 https://www.staging.jobstreet.com.my
@@ -7053,12 +7024,10 @@ lynx.wnba.com
 m-pesa.africa
 m.airbnb.com
 m.badoo.com
-m.bild.de
 m.chaturbate.com
 m.reddit.com
 m.trendyol.com
 mUSD Stablecoin
-macOS app
 magazine.kruidvat.be
 magento.com
 magic.veriff.me
@@ -7151,7 +7120,6 @@ medical.23andme.com
 meechum.netflix.com
 meetings.hyatt.com
 meetmarriottbonvoy.marriott.com
-meinkonto.bild.de
 meliplay.com.ar
 meliplay.com.pe
 meliplay.com.uy
@@ -7515,7 +7483,6 @@ playwonderbox.com.br
 pm-cf.*.aws.indriverapp.com
 pm-gw-cf.*.aws.indriverapp.com
 pmtcards.newegg.com
-politico.eu
 pontoon.allizom.org
 portal-api.coinmarketcap.com
 portal.arkoselabs.com
@@ -7790,7 +7757,6 @@ shoppers.instacart.com
 sign.dropbox.com
 sign.zivver.com
 signature-insights.api.cx.metamask.io
-signin.auth.welt.de
 signup.myconnect.com.au
 signup.sendgrid.com
 simperium.com
@@ -7991,8 +7957,6 @@ teamdirectory.nba.com
 teammate.indriver.io
 teamportal.nba.com
 teams.krisp.ai
-technik.autobild.de
-technik.beta.autobild.de
 teleport.fareharbor.engineering
 template.uat.foodstorm.com
 tempo-dev.wnba.com
@@ -8177,7 +8141,6 @@ wechat.api.marriott.com
 welcome.infomaniak.com
 wellbeing.deezer.com
 wellbeing.dzcdn.net
-welt.de
 wga.volans.tech
 widget.rentalcars.com
 wifi-in-store.iciparisxl.be
