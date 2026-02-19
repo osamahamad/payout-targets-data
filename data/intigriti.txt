@@ -3,18 +3,6 @@ Firmware
 Software
 https://marketplace.visualstudio.com/items?itemName=AikidoSecurity.aikido
 app.aikido.dev
-https://github.com/AikidoSec/firewall-node#Vulnerability
-https://github.com/AikidoSec/firewall-ruby#Vulnerability
-https://github.com/AikidoSec/firewall-php#Vulnerability
-https://github.com/AikidoSec/firewall-python#Vulnerability
-https://github.com/AikidoSec/firewall-node#Detection Bypass
-https://github.com/AikidoSec/firewall-ruby#Detection Bypass
-https://github.com/AikidoSec/firewall-php#Detection Bypass
-https://github.com/AikidoSec/firewall-python#Detection Bypass
-https://github.com/AikidoSec/firewall-node#False Positive
-https://github.com/AikidoSec/firewall-ruby#False Positive
-https://github.com/AikidoSec/firewall-php#False Positive
-https://github.com/AikidoSec/firewall-python#False Positive
 myaccount.ad.nl
 webwinkel.ad.nl
 www.ad.nl
@@ -464,19 +452,6 @@ mynexuzhealth/id1459856321
 liquidfiles.nexuzhealth.com
  idp-contact.nexuzhealth.be
 media.nexuzhealth.be/patient/ 
-analytics.ninjakiwi.com
-api.ninjakiwi.com
-guts.ninjakiwi.com
-battles.tv
-data.ninjakiwi.com
-ninja.kiwi
-ninjakiwi.com
-alerts.ninjakiwi.com
-boomer2.ninjakiwi.com
-ct.ninjakiwi.com
-mynk-dash.ninjakiwi.com
-mynk.ninjakiwi.com
-rancher.ninjakiwi.me
 login.prod.nube.tech
 1076840480
 1079537578
@@ -655,13 +630,6 @@ store.tomorrowland.com
 brasil-store.tomorrowland.com
 components.stag.tomorrowland.com
 components.tomorrowland.com
-winkels.torfs.be
-www.schoenentorfs.be
-www.schoenentorfs.nl 
-www.torfs.be
-www.torfs.nl
-www.samenfittorfs.be
-Any related Torfs domain
 myaccount.trouw.nl
 shop.trouw.nl
 webwinkel.trouw.nl
@@ -811,6 +779,14 @@ myservices.stage.vismaonline.com
 oauth.developers.stagaws.visma.com
 photoservice.stage.vismaonline.com
 testing.maventa.com
+1395921017
+https://api.voiapp.io/
+io.voiapp.voi
+fm.voiapp.io
+mds.voiapp.io
+https://repair.voiweb.net
+report.voi.com
+voi.com
 https://app.getflywheel.com
 https://getflywheel.com
 https://my.wpengine.com

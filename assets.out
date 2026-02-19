@@ -668,10 +668,8 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
-*.ninjakiwi.me
 *.nitropack.io
 *.niumba.com
-*.nkstatic.com
 *.nmfn.com
 *.nml.com
 *.nnip.com
@@ -887,7 +885,6 @@
 *.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
-*.souparea.com
 *.soyoustart.com
 *.spiketrap.io
 *.spinaway.com
@@ -1049,6 +1046,8 @@
 *.visamiddleeast.com
 *.vliegwinkel.nl
 *.vod2.infomaniak.com
+*.voi.com
+*.voiscooters.com
 *.volkskrant.nl
 *.volkswagen.de
 *.vpn.hackerone.net
@@ -1187,6 +1186,7 @@
 1324809509
 1343620481
 1351179184
+1395921017
 140.95.0.0/16
 141.0.8.0/21
 1413287364
@@ -1690,7 +1690,6 @@ Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure o
 Any public cloud resource or infrastructure operated and managed by REI.
 Any publicly accessible Tripadvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
 Any related DPG media domain
-Any related Torfs domain
 Any resource created or accessed with the Outscale Cloud on eu-west-2 region -  created by the Hunter
 Any subdomain application issue
 Any subdomain infrastructure issue
@@ -2750,7 +2749,6 @@ airtable.js SDK (https://www.npmjs.com/package/airtable)
 akismet.com
 alchemy.veriff.com
 alert.logitech.com
-alerts.ninjakiwi.com
 alexa.amazon.com
 alexaanswers.amazon.com
 alfred-uat-31.nonprod.syfe.com
@@ -2768,7 +2766,6 @@ amd.digitalocean.com
 amp.reddit.com
 analytics-*.8x8.com
 analytics.krisp.ai
-analytics.ninjakiwi.com
 analytics.pinelabs.com
 anext.com.sg
 antbank.hk
@@ -2898,7 +2895,6 @@ api.monespacesante.fr
 api.moonpay.com
 api.mtls.truelayer[-sandbox].com
 api.netlify.com
-api.ninjakiwi.com
 api.ort-one-pingone.com
 api.ovh.com
 api.personio-dev.com
@@ -3141,7 +3137,6 @@ bankaccountdata.gocardless.com
 basecamp.rivian.com
 basecamp3.exe
 basicattentiontoken.org
-battles.tv
 bb.visa.com
 bcny.com
 bd.visa.com
@@ -3203,7 +3198,6 @@ booking.cheapcaribbean.com
 booking.com
 booking.mjrtheatres.com
 bookingholdings-coe.com
-boomer2.ninjakiwi.com
 boost.vinci.com
 booth.pm
 bounces.bitstamp.net
@@ -3797,7 +3791,6 @@ cs.money
 csp-pci.prod.codebig2.net
 css-tricks.com
 ct.deriv.com
-ct.ninjakiwi.com
 ctf.hacker101.com
 custody.coinbase.com
 customer-sessions.arkoselabs.com
@@ -3827,7 +3820,6 @@ dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
 dashboard.web3auth.io
 data.mail.yahoo.com
-data.ninjakiwi.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 datapod-1-100-druid-ingest.testing.forescoutcloud.net
@@ -4064,6 +4056,7 @@ flourish-user-preview.com
 flourish-user-templates.com
 flyiin.com
 fm.anchor.android
+fm.voiapp.io
 folder.iciparisxl.nl
 folder.kruidvat.be
 folder.kruidvat.nl
@@ -4146,7 +4139,6 @@ gs://faraday-secret
 gs://fdy-production-sdk-uploads
 gt-cf.*.aws.indriverapp.com
 gt-gw-cf.*.aws.indriverapp.com
-guts.ninjakiwi.com
 gvt-cf.*.aws.indriverapp.com
 gw.api.dh.comcast.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -4443,6 +4435,7 @@ https://api.us1.fga.dev/
 https://api.usaa.com/
 https://api.vistarmedia.com
 https://api.vistarmedia.eu
+https://api.voiapp.io/
 https://api.welcomesoftware.com/
 https://api.wyzecam.com
 https://api.x.immutable.com/
@@ -4997,18 +4990,6 @@ https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
 https://getflywheel.com
 https://git.libssh.org/
-https://github.com/AikidoSec/firewall-node#Detection Bypass
-https://github.com/AikidoSec/firewall-node#False Positive
-https://github.com/AikidoSec/firewall-node#Vulnerability
-https://github.com/AikidoSec/firewall-php#Detection Bypass
-https://github.com/AikidoSec/firewall-php#False Positive
-https://github.com/AikidoSec/firewall-php#Vulnerability
-https://github.com/AikidoSec/firewall-python#Detection Bypass
-https://github.com/AikidoSec/firewall-python#False Positive
-https://github.com/AikidoSec/firewall-python#Vulnerability
-https://github.com/AikidoSec/firewall-ruby#Detection Bypass
-https://github.com/AikidoSec/firewall-ruby#False Positive
-https://github.com/AikidoSec/firewall-ruby#Vulnerability
 https://github.com/Aiven
 https://github.com/Aiven-Open
 https://github.com/Chia-Network/chia-blockchain
@@ -5490,6 +5471,9 @@ https://marketplace.atlassian.com/apps/1211051/eazybi-reports-and-charts-for-jir
 https://marketplace.atlassian.com/apps/1211051/eazybi-reports-and-charts-for-jira?hosting=server
 https://marketplace.atlassian.com/apps/1211087/ssl-for-jira?hosting=server
 https://marketplace.atlassian.com/apps/1211094/archive-plugin-for-bitbucket-server?hosting=server
+https://marketplace.atlassian.com/apps/1211159/advanced-codeblocks-for-confluence/version-history
+https://marketplace.atlassian.com/apps/1211159/advanced-codeblocks-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1211159/advanced-codeblocks-for-confluence?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1211203/bitbucket-server-protect-unmerged-hook?hosting=datacenter
 https://marketplace.atlassian.com/apps/1211203/bitbucket-server-protect-unmerged-hook?hosting=server
 https://marketplace.atlassian.com/apps/1211246/autolink-plugin-for-jira?hosting=datacenter
@@ -5512,6 +5496,7 @@ https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=
 https://marketplace.atlassian.com/apps/1211715/inbox-hook-for-bitbucket-server?hosting=server
 https://marketplace.atlassian.com/apps/1211738/file-tagging-plugin-for-crucible?hosting=server
 https://marketplace.atlassian.com/apps/1211836/automation-for-jira-server-lite?hosting=server
+https://marketplace.atlassian.com/apps/1212096/customfield-editor-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1212100/repository-quickadd-for-fisheye-crucible?hosting=server
 https://marketplace.atlassian.com/apps/1212136/advanced-roadmaps-formerly-portfolio?hosting=datacenter
 https://marketplace.atlassian.com/apps/1212136/advanced-roadmaps-formerly-portfolio?hosting=server
@@ -5576,6 +5561,7 @@ https://marketplace.atlassian.com/apps/1216136/after-deployment-trigger-for-bamb
 https://marketplace.atlassian.com/apps/1216177/agent-notifications-for-bamboo?hosting=server
 https://marketplace.atlassian.com/apps/1216287/queue-priority-plugin-for-bamboo?hosting=server
 https://marketplace.atlassian.com/apps/1216357/atlassian-team-playbook-blueprints?hosting=server
+https://marketplace.atlassian.com/apps/1216387/approvals-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1216623/confluence-trello-power-up?hosting=cloud
 https://marketplace.atlassian.com/apps/1216625/jira-trello-power-up?hosting=cloud
 https://marketplace.atlassian.com/apps/1216850/jira-cloud-power-up-for-trello?hosting=cloud
@@ -5584,6 +5570,7 @@ https://marketplace.atlassian.com/apps/1217037/scroll-exporter-extensions?hostin
 https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=datacenter
 https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=server
+https://marketplace.atlassian.com/apps/1217194/optimizer-for-jira-cleaner-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1217230/jira-service-management-widget?hosting=cloud
 https://marketplace.atlassian.com/apps/1217289/announcement-plugin-for-bamboo?hosting=server
 https://marketplace.atlassian.com/apps/1217608/scroll-documents-for-confluence?hosting=cloud
@@ -5612,6 +5599,7 @@ https://marketplace.atlassian.com/apps/1218211/secure-google-calendar-for-conflu
 https://marketplace.atlassian.com/apps/1218250/mobile-plugin-for-confluence-data-center-and-server?hosting=datacenter
 https://marketplace.atlassian.com/apps/1218250/mobile-plugin-for-confluence-data-center-and-server?hosting=server
 https://marketplace.atlassian.com/apps/1218271/code-coverage-for-bitbucket-server?hosting=server
+https://marketplace.atlassian.com/apps/1218474/compliance-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1218630/delegated-directory-pruning-for-crowd?hosting=server
 https://marketplace.atlassian.com/apps/1218652/deep-clone-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1218757/insight-aws-integration?hosting=datacenter
@@ -5696,6 +5684,7 @@ https://marketplace.atlassian.com/apps/1222102/webhook-manager-for-confluence-cl
 https://marketplace.atlassian.com/apps/1222124/sticker-printer-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1222132/jenkins-integration-for-bitbucket-server?hosting=server
 https://marketplace.atlassian.com/apps/1222147/opsgenie?hosting=cloud
+https://marketplace.atlassian.com/apps/1222276/workflows-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1222714/scio-search-crawler-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1222715/scio-search-crawler-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1222978/dynamic-fields-for-jira?hosting=cloud
@@ -5774,6 +5763,7 @@ https://marketplace.atlassian.com/apps/1235122/event-sign-up-for-confluence?host
 https://marketplace.atlassian.com/apps/1235488/confluence-widget-for-figma-beta?hosting=cloud
 https://marketplace.atlassian.com/apps/1235496/jira-board-buddy?hosting=cloud
 https://marketplace.atlassian.com/apps/1237512/latex-math-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1237517/captionizer-ai-image-analyzer
 https://marketplace.atlassian.com/apps/1237729/checklist-for-jira-cloud-smart-todo-lists?hosting=cloud
 https://marketplace.atlassian.com/apps/14896/review-creator-for-fisheye?hosting=server
 https://marketplace.atlassian.com/apps/212/copy-space-for-confluence?hosting=server
@@ -6202,6 +6192,7 @@ https://rc.fstr.rocks
 https://redash-staging.getmoneytree.com/
 https://regatta.aiven.io/
 https://rentals.tripadvisor.com
+https://repair.voiweb.net
 https://reptox.cnesst.gouv.qc.ca/
 https://res.cloudinary.com
 https://research.monash.edu/
@@ -6914,6 +6905,7 @@ io.coda
 io.coda.codaapp
 io.metamask
 io.metamask.Metamask
+io.voiapp.voi
 ir.bookingholdings.com
 ir.remitly.com
 ir.ui.com
@@ -7122,6 +7114,7 @@ mcdalerts-uat.nba.com
 mcdalerts.nba.com
 mch*.indriverapp.com
 mds.marriott.com
+mds.voiapp.io
 media.drogas.lt
 media.drogas.lv
 media.iciparisxl.be
@@ -7261,8 +7254,6 @@ myaccount.vtm.be
 myconnect.com.au
 mynexuz.be
 mynexuzhealth/id1459856321
-mynk-dash.ninjakiwi.com
-mynk.ninjakiwi.com
 myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
 mystics-dev.wnba.com
@@ -7360,8 +7351,6 @@ nft.io
 nha-cf.*.aws.indriverapp.com
 nha-gw-cf.*.aws.indriverapp.com
 niantic.kidswebservices.com
-ninja.kiwi
-ninjakiwi.com
 nl.gamma.app.android
 nl.gamma.verf
 nl.karwei.app.android
@@ -7618,7 +7607,6 @@ qwantjunior.com
 ra-cf.*.aws.indriverapp.com
 ra-gw-cf.*.aws.indriverapp.com
 rafflee.co.uk
-rancher.ninjakiwi.me
 random.uzleuven.be/random/
 raptor*.bykea.net
 ras1.optus.com.au 
@@ -7659,6 +7647,7 @@ remitly.com
 replay.dropbox.com
 repo.magento.com
 report-html-sight.stg.inspectorio.com
+report.voi.com
 res.blueskytours.globalbookingsolutions.com
 res.funjet.com
 res.hyattinclusivecollection.com
@@ -8131,6 +8120,7 @@ visa.com.ua
 vm-gw-cf.*.aws.indriverapp.com
 voapi.8x8.com
 vod.infomaniak.com
+voi.com
 volans.tech
 vote.nba.com
 vpn.mobilevikings.be
@@ -8206,7 +8196,6 @@ winecellar.zomato.com
 wings-dev.wnba.com
 wings-qa.wnba.com
 wings.wnba.com
-winkels.torfs.be
 winter.tomorrowland.com
 winterpackages.tomorrowland.com
 wlr-cf.*.aws.indriverapp.com
@@ -8509,12 +8498,9 @@ www.rockstargames.com
 www.s-kaupat.fi
 www.s-pankki.fi
 www.sa.dyson.com
-www.samenfittorfs.be
 www.savers.co.uk
 www.sbb.ch
 www.sbbcargo.com
-www.schoenentorfs.be
-www.schoenentorfs.nl 
 www.sheer.com
 www.six-group.com
 www.socialdeal.nl
@@ -8545,8 +8531,6 @@ www.theperfumeshop.com
 www.tink.com
 www.tomorrowland.com
 www.topperpay.com
-www.torfs.be
-www.torfs.nl
 www.tradepmr.com
 www.trajeoh.com
 www.transsicura.ch
