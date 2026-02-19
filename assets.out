@@ -668,8 +668,10 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
+*.ninjakiwi.me
 *.nitropack.io
 *.niumba.com
+*.nkstatic.com
 *.nmfn.com
 *.nml.com
 *.nnip.com
@@ -885,6 +887,7 @@
 *.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
+*.souparea.com
 *.soyoustart.com
 *.spiketrap.io
 *.spinaway.com
@@ -1160,8 +1163,6 @@
 1089294040
 1091010942
 10x.redoxengine.com
-1114799709
-1114800186
 1116488672
 1118448159
 1127881507
@@ -2012,6 +2013,11 @@ Glassdoor Jobs
 Glassdoor iOS
 GlotPress
 Google Cloud Plateform Instances
+Grafana Loki
+Grafana Mimir
+Grafana OSS
+Grafana Pyroscope
+Grafana Tempo
 Grammarly Browser Extensions
 Grammarly Desktop for Windows
 Grammarly Desktop for macOS
@@ -2042,6 +2048,7 @@ Hardware found on https://www.ezviz.com/category/security-wifi-cameras
 Hardware found on https://www.ezviz.com/category/smart-home
 Harmony Remote Software
 Harmony Remotes
+Helium Hotspot
 HelloFax.com
 HelloSign.com
 Hermes Relayer
@@ -2226,6 +2233,7 @@ Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
 Non Altera Products
 Non-Core Assets
+Non-Core Grafana Plugins
 NordPass - Linux Executable
 NordPass - MacOS Executable
 NordPass - Windows Executable
@@ -2749,6 +2757,7 @@ airtable.js SDK (https://www.npmjs.com/package/airtable)
 akismet.com
 alchemy.veriff.com
 alert.logitech.com
+alerts.ninjakiwi.com
 alexa.amazon.com
 alexaanswers.amazon.com
 alfred-uat-31.nonprod.syfe.com
@@ -2766,6 +2775,7 @@ amd.digitalocean.com
 amp.reddit.com
 analytics-*.8x8.com
 analytics.krisp.ai
+analytics.ninjakiwi.com
 analytics.pinelabs.com
 anext.com.sg
 antbank.hk
@@ -2817,8 +2827,6 @@ api.creditkarma.com
 api.custody.coinbase.com
 api.deezer.com
 api.deriv.com
-api.digital.delen.be 
-api.digital.delen.lu 
 api.digitalocean.com
 api.direct.playstation.com
 api.doppler.com
@@ -2895,6 +2903,7 @@ api.monespacesante.fr
 api.moonpay.com
 api.mtls.truelayer[-sandbox].com
 api.netlify.com
+api.ninjakiwi.com
 api.ort-one-pingone.com
 api.ovh.com
 api.personio-dev.com
@@ -2929,7 +2938,6 @@ api.slack.com
 api.smtp2go.com
 api.sokos.fi
 api.sorare.com
-api.soundtrackyourbrand.com
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -2982,9 +2990,6 @@ app.circle.com
 app.datacamp.com/certification
 app.datacamp.com/groups
 app.datacamp.com/learn
-app.delen.be 
-app.delen.ch 
-app.delen.lu 
 app.deriv.com
 app.drogas.lt
 app.drogas.lv
@@ -3093,8 +3098,6 @@ auth-identity-qa.nba.com
 auth-identity-uat.nba.com
 auth-identity.nba.com
 auth.23andme.com
-auth.digital.delen.be 
-auth.digital.delen.lu 
 auth.hhc247.org
 auth.magic.link
 auth.monespacesante.fr
@@ -3137,6 +3140,7 @@ bankaccountdata.gocardless.com
 basecamp.rivian.com
 basecamp3.exe
 basicattentiontoken.org
+battles.tv
 bb.visa.com
 bcny.com
 bd.visa.com
@@ -3145,7 +3149,6 @@ bdese.marionnaud.fr
 bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
-be.delen.digital
 be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
@@ -3159,7 +3162,6 @@ bettrfinancing.com
 bid.*.aws.indriverapp.com
 bigcommerce-adapter.judge.me
 bild.de
-billing.api.soundtrackyourbrand.com
 billingsupport.chaturbate.com
 bilt.marriott.com
 biolibre.ar
@@ -3198,6 +3200,7 @@ booking.cheapcaribbean.com
 booking.com
 booking.mjrtheatres.com
 bookingholdings-coe.com
+boomer2.ninjakiwi.com
 boost.vinci.com
 booth.pm
 bounces.bitstamp.net
@@ -3217,7 +3220,6 @@ bugcrowd-pam-###.pam.oktapreview.com
 bugzilla.mozilla.org
 builder.hostinger.com
 building-blocks.com
-builds.soundtrackyourbrand.com
 bulten.watsons.com.tr
 business-resources.truecaller.com
 business.kayak.com
@@ -3227,7 +3229,6 @@ business.kinepolis.nl
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
-business.soundtrackyourbrand.com
 business.tiktok.com
 business.truecaller.com
 businesshelp.snapchat.com
@@ -3626,7 +3627,6 @@ com.skypicker.Skypicker
 com.skypicker.main
 com.slack.slackmdm
 com.snapchat.android
-com.soundtrackyourbrand.soundtrack.player
 com.spotify.client
 com.spotify.kids
 com.spotify.music
@@ -3791,6 +3791,7 @@ cs.money
 csp-pci.prod.codebig2.net
 css-tricks.com
 ct.deriv.com
+ct.ninjakiwi.com
 ctf.hacker101.com
 custody.coinbase.com
 customer-sessions.arkoselabs.com
@@ -3820,6 +3821,7 @@ dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
 dashboard.web3auth.io
 data.mail.yahoo.com
+data.ninjakiwi.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 datapod-1-100-druid-ingest.testing.forescoutcloud.net
@@ -3841,7 +3843,6 @@ decision.swiftfinancial.com
 deeplinks.geneva-staging.chat
 deeplinks.geneva-staging.com
 defi.ripio.com
-delen/id1064839588
 delivery-webview.indrive.com
 demo.arkoselabs.com
 demo.dynamic.xyz
@@ -4139,6 +4140,7 @@ gs://faraday-secret
 gs://fdy-production-sdk-uploads
 gt-cf.*.aws.indriverapp.com
 gt-gw-cf.*.aws.indriverapp.com
+guts.ninjakiwi.com
 gvt-cf.*.aws.indriverapp.com
 gw.api.dh.comcast.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -4658,7 +4660,6 @@ https://audience-builder.vistarmedia.com
 https://audio.20min.ch/
 https://aus.api.just-eat.io/
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
-https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.immutable.com
@@ -4728,7 +4729,6 @@ https://bugcrowd-pam-###.oktapreview.com
 https://bugcrowd-pam-###.workflows.oktapreview.com
 https://bugcrowd.com/programs
 https://bugs.opera.com/
-https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
@@ -5086,6 +5086,7 @@ https://github.com/expressvpn/lightway
 https://github.com/freedomofpress/securedrop
 https://github.com/freedomofpress/securedrop-client
 https://github.com/freedomofpress/securedrop-workstation
+https://github.com/grafana/*
 https://github.com/immutable/ts-immutable-sdk/tree/main/packages/passport/
 https://github.com/innocraft/
 https://github.com/iqlusioninc/crates/tree/main/signatory
@@ -6187,7 +6188,6 @@ https://property.com.au
 https://proprietario.quintoandar.com.br
 https://pt-runner.app.ridewithvia.com
 https://pyszne.pl
-https://radio.api.soundtrackyourbrand.com/
 https://rc.fstr.rocks
 https://redash-staging.getmoneytree.com/
 https://regatta.aiven.io/
@@ -6709,7 +6709,6 @@ https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
 https://www.sophos.com/en-us/products/mobile-control/free-trial
 https://www.sophos.com/en-us/products/next-gen-firewall
-https://www.soundtrackyourbrand.com
 https://www.sourcetreeapp.com/
 https://www.staging.jobstreet.co.id
 https://www.staging.jobstreet.com.my
@@ -7020,13 +7019,9 @@ login-accpt.portofantwerpbruges.com
 login-api.truelayer[-sandbox].com
 login.arkane.network
 login.cm.com
-login.delen.be 
-login.delen.ch 
-login.delen.lu 
 login.infomaniak.com
 login.insightly.com
 login.lansweeper.com
-login.oyens.com
 login.playcanvas.com
 login.prod.nube.tech
 login.rei.com
@@ -7059,7 +7054,6 @@ m.chaturbate.com
 m.reddit.com
 m.trendyol.com
 mUSD Stablecoin
-macOS app
 magazine.kruidvat.be
 magento.com
 magic.veriff.me
@@ -7254,6 +7248,8 @@ myaccount.vtm.be
 myconnect.com.au
 mynexuz.be
 mynexuzhealth/id1459856321
+mynk-dash.ninjakiwi.com
+mynk.ninjakiwi.com
 myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
 mystics-dev.wnba.com
@@ -7351,6 +7347,8 @@ nft.io
 nha-cf.*.aws.indriverapp.com
 nha-gw-cf.*.aws.indriverapp.com
 niantic.kidswebservices.com
+ninja.kiwi
+ninjakiwi.com
 nl.gamma.app.android
 nl.gamma.verf
 nl.karwei.app.android
@@ -7607,6 +7605,7 @@ qwantjunior.com
 ra-cf.*.aws.indriverapp.com
 ra-gw-cf.*.aws.indriverapp.com
 rafflee.co.uk
+rancher.ninjakiwi.me
 random.uzleuven.be/random/
 raptor*.bykea.net
 ras1.optus.com.au 
@@ -7893,7 +7892,6 @@ stats.nextcloud.com
 stats.vinci.com
 stats.wnba.com
 status.bitstamp.net
-status.delen.be 
 status.larksuite.com
 status.uphold.com
 steamcommunity.com
@@ -7919,7 +7917,6 @@ streaming-api.iris.production.forescoutcloud.net
 streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
-sts.delen.be 
 sts.uzleuven.be
 studio-api.swapcard.com
 studio.swapcard.com
@@ -8254,8 +8251,6 @@ www.bookingholdings.com
 www.bpost.be
 www.bpost2.be
 www.bumble.com
-www.cadelam.be 
-www.cadelux.lu/en 
 www.cardinalcommerce.com
 www.carrentals.com
 www.cart.starbucks.co.jp/
@@ -8282,8 +8277,6 @@ www.datacamp.com
 www.datacamp.com/datalab
 www.ddfcontent.com
 www.deezer.com
-www.delen.bank
-www.delen.be/en 
 www.demorgen.be
 www.demorgen.be/abonnementen
 www.digitalocean.com
