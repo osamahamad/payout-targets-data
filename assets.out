@@ -304,6 +304,7 @@
 *.edition.in
 *.eero.com
 *.ein-herz-fuer-kinder.de
+*.ela.st
 *.elastic.co
 *.elastic.dev
 *.elasticnet.co
@@ -1691,6 +1692,7 @@ Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure o
 Any public cloud resource or infrastructure operated and managed by REI.
 Any publicly accessible Tripadvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
 Any related DPG media domain
+Any related Torfs domain
 Any resource created or accessed with the Outscale Cloud on eu-west-2 region -  created by the Hunter
 Any subdomain application issue
 Any subdomain infrastructure issue
@@ -2013,11 +2015,6 @@ Glassdoor Jobs
 Glassdoor iOS
 GlotPress
 Google Cloud Plateform Instances
-Grafana Loki
-Grafana Mimir
-Grafana OSS
-Grafana Pyroscope
-Grafana Tempo
 Grammarly Browser Extensions
 Grammarly Desktop for Windows
 Grammarly Desktop for macOS
@@ -2174,6 +2171,7 @@ Marionnaud Slovakia Android
 Marionnaud Slovakia iOS
 Marionnaud Switzerland Android
 Marionnaud Switzerland iOS
+Mbed TLS & TF-PSA-Crypto
 Media Encoder
 Megaphone
 Membership
@@ -2233,7 +2231,6 @@ Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
 Non Altera Products
 Non-Core Assets
-Non-Core Grafana Plugins
 NordPass - Linux Executable
 NordPass - MacOS Executable
 NordPass - Windows Executable
@@ -2254,6 +2251,7 @@ OKX Wallet Edge Add-ons
 OKX Wallet Safari Extension
 OKX iOS APP
 ONCE: Campfire
+OP-TEE
 Observability - APM Agents
 Observability - APM Server
 Official WordPress plugins
@@ -2520,6 +2518,8 @@ Trello Third Party Powerups
 Tribal Wars
 TrueLayer for Magento (Magento plugin)
 TrueLayer for WooCommerce (WordPress plugin)
+TrustedFirmware-A (TF-A)
+TrustedFirmware-M (TF-M)
 TrustedServer 100,000 Bonus Award (See Program Policy for Info)
 Trustwallet Android App
 Trustwallet Chrome Extension
@@ -2827,6 +2827,8 @@ api.creditkarma.com
 api.custody.coinbase.com
 api.deezer.com
 api.deriv.com
+api.digital.delen.be 
+api.digital.delen.lu 
 api.digitalocean.com
 api.direct.playstation.com
 api.doppler.com
@@ -2990,6 +2992,9 @@ app.circle.com
 app.datacamp.com/certification
 app.datacamp.com/groups
 app.datacamp.com/learn
+app.delen.be 
+app.delen.ch 
+app.delen.lu 
 app.deriv.com
 app.drogas.lt
 app.drogas.lv
@@ -3098,6 +3103,8 @@ auth-identity-qa.nba.com
 auth-identity-uat.nba.com
 auth-identity.nba.com
 auth.23andme.com
+auth.digital.delen.be 
+auth.digital.delen.lu 
 auth.hhc247.org
 auth.magic.link
 auth.monespacesante.fr
@@ -3149,6 +3156,7 @@ bdese.marionnaud.fr
 bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
+be.delen.digital
 be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
@@ -3843,6 +3851,7 @@ decision.swiftfinancial.com
 deeplinks.geneva-staging.chat
 deeplinks.geneva-staging.com
 defi.ripio.com
+delen/id1064839588
 delivery-webview.indrive.com
 demo.arkoselabs.com
 demo.dynamic.xyz
@@ -5086,7 +5095,6 @@ https://github.com/expressvpn/lightway
 https://github.com/freedomofpress/securedrop
 https://github.com/freedomofpress/securedrop-client
 https://github.com/freedomofpress/securedrop-workstation
-https://github.com/grafana/*
 https://github.com/immutable/ts-immutable-sdk/tree/main/packages/passport/
 https://github.com/innocraft/
 https://github.com/iqlusioninc/crates/tree/main/signatory
@@ -7019,9 +7027,13 @@ login-accpt.portofantwerpbruges.com
 login-api.truelayer[-sandbox].com
 login.arkane.network
 login.cm.com
+login.delen.be 
+login.delen.ch 
+login.delen.lu 
 login.infomaniak.com
 login.insightly.com
 login.lansweeper.com
+login.oyens.com
 login.playcanvas.com
 login.prod.nube.tech
 login.rei.com
@@ -7892,6 +7904,7 @@ stats.nextcloud.com
 stats.vinci.com
 stats.wnba.com
 status.bitstamp.net
+status.delen.be 
 status.larksuite.com
 status.uphold.com
 steamcommunity.com
@@ -7917,6 +7930,7 @@ streaming-api.iris.production.forescoutcloud.net
 streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
+sts.delen.be 
 sts.uzleuven.be
 studio-api.swapcard.com
 studio.swapcard.com
@@ -8193,6 +8207,7 @@ winecellar.zomato.com
 wings-dev.wnba.com
 wings-qa.wnba.com
 wings.wnba.com
+winkels.torfs.be
 winter.tomorrowland.com
 winterpackages.tomorrowland.com
 wlr-cf.*.aws.indriverapp.com
@@ -8251,6 +8266,8 @@ www.bookingholdings.com
 www.bpost.be
 www.bpost2.be
 www.bumble.com
+www.cadelam.be 
+www.cadelux.lu/en 
 www.cardinalcommerce.com
 www.carrentals.com
 www.cart.starbucks.co.jp/
@@ -8277,6 +8294,8 @@ www.datacamp.com
 www.datacamp.com/datalab
 www.ddfcontent.com
 www.deezer.com
+www.delen.bank
+www.delen.be/en 
 www.demorgen.be
 www.demorgen.be/abonnementen
 www.digitalocean.com
@@ -8329,7 +8348,6 @@ www.ebookers.com
 www.ebookers.fi
 www.editeur.am.monespacesante.fr
 www.editeur.api.monespacesante.fr
-www.elastic.co
 www.elvetino.ch
 www.evernote.com
 www.expedia-aarp.com
@@ -8491,9 +8509,12 @@ www.rockstargames.com
 www.s-kaupat.fi
 www.s-pankki.fi
 www.sa.dyson.com
+www.samenfittorfs.be
 www.savers.co.uk
 www.sbb.ch
 www.sbbcargo.com
+www.schoenentorfs.be
+www.schoenentorfs.nl 
 www.sheer.com
 www.six-group.com
 www.socialdeal.nl
@@ -8524,6 +8545,8 @@ www.theperfumeshop.com
 www.tink.com
 www.tomorrowland.com
 www.topperpay.com
+www.torfs.be
+www.torfs.nl
 www.tradepmr.com
 www.trajeoh.com
 www.transsicura.ch
