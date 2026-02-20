@@ -317,7 +317,6 @@
 *.emakina.nl 
 *.emakina.us
 *.employer.seek.com
-*.enjinusercontent.com
 *.enspotify.com
 *.eops.nl
 *.epam.com
@@ -1039,10 +1038,6 @@
 *.vimla.se
 *.vimla.work
 *.vine.co
-*.vinted.com
-*.vinted.fr
-*.vinted.net
-*.vintedgo.com
 *.visamiddleeast.com
 *.vliegwinkel.nl
 *.vod2.infomaniak.com
@@ -1118,26 +1113,18 @@
 *.zellepay.com
 *.zomans.com
 *.zomato.com
-*badger.it.vinted.com
-*careers.vinted.com
-*company.vinted.com
 *dev.uzleuven.be
 *developer.cloud.com
 *ensemble*.yahoo.com
 *gateway-apc.marriott.com
 *idp*.uzleuven.be
 *inf.fndlsb.net
-*news.vinted.com
-*old.vinted.com
 *omega*.yahoo.com
 *ripio.com
 *ripiotrade.co
-*sandbox*.vinted.com
-*sandbox*.vintedgo.com
 *signalservice.comcast.net
 *stag*.uzleuven.be
 *test*.bykea.net
-*test-escalations.vintedgo.com
 *tidalhi.fi
 *uat.marriott.com
 *ubereats.com
@@ -1901,10 +1888,6 @@ Elastic Synthetics Monitoring
 Elasticsearch
 Elvenar
 Engadget
-Enjin - Ethereum ERC-1155 Contract
-Enjin Blockchain
-Enjin Coin - Ethereum ERC-20 Contract
-Enjin Indexer
 Eno® Browser Extension
 Enterprise Edition Products and Tools
 EpicGamesLauncher.exe    
@@ -2373,7 +2356,6 @@ Saily - iOS
 Sandboxes
 Savers Android
 Savers iOS
-Scam
 Scanwatch
 Scanwatch 2
 Scanwatch Light
@@ -2563,7 +2545,6 @@ VS Code Plugin
 Vectorize
 Video Conferencing Products
 Video Doorbell
-Vinted: Shop & sell pre-loved
 Virtual Office Desktop
 Voice - Hardware and service
 Vox Cinemas Android
@@ -3467,7 +3448,6 @@ com.dyson.mobile.android
 com.ebookers
 com.eero.android
 com.einnovation.temu
-com.enjin.mobile.wallet
 com.eufylife.EufyHome
 com.evernote
 com.exness.android.pa
@@ -7334,7 +7314,6 @@ nextcloud/user_saml
 nextcloud/viewer
 nextcloud/workflow_script
 nft.coinbase.com
-nft.io
 nha-cf.*.aws.indriverapp.com
 nha-gw-cf.*.aws.indriverapp.com
 niantic.kidswebservices.com
@@ -7486,7 +7465,6 @@ plannerrequest.hyatt.com
 platform.8x8.com
 platform.8x8pilot.com
 platform.cloudways.com
-platform.enjin.io
 platform.remix.com
 platform.tiktokpangle.us
 play.google.com/store/apps/details?id=com.crowdstrike.falconmobile
