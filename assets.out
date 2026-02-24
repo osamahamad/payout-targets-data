@@ -57,7 +57,6 @@
 *.adaptive-shield.com
 *.adminml.com
 *.adsrvr.org
-*.adultforce.com
 *.advisor-connection.com
 *.advisorsolutions.gs.com
 *.aips-internal.com
@@ -170,7 +169,6 @@
 *.braintree.tools
 *.braintreegateway.com
 *.braintreepayments.com
-*.brazzers.com
 *.bredbandsbolaget.se
 *.bridge.xyz
 *.buddypress.org,bbpress.org,profiles.wordpress.org
@@ -249,7 +247,6 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
-*.datacamp.com
 *.dcfgateway.marriott.com
 *.deliciousbrains.com
 *.dell.com/*
@@ -297,7 +294,24 @@
 *.ela.st
 *.elastic.co
 *.elastic.dev
+*.elastic.wtf
+*.elasticacademy.com
+*.elasticaccelerationzone.co
+*.elasticapm.co
+*.elasticbeats.wtf
+*.elasticcloud.wtf
+*.elasticgov.com
+*.elasticloud.wtf
 *.elasticnet.co
+*.elasticon.co
+*.elasticon.com
+*.elasticpartneracademy.com
+*.elasticps.co
+*.elasticsearch.com
+*.elasticsearch.fr
+*.elasticsearch.jp
+*.elasticsearch.org
+*.elasticsearch.wtf
 *.elstc.co
 *.emakina.at
 *.emakina.ch
@@ -312,6 +326,8 @@
 *.epam.com
 *.epicgames.com
 *.epicgames.dev
+*.es.io
+*.estccdn.com
 *.eternal.com
 *.etsy.com
 *.eu.floqast.app
@@ -475,6 +491,7 @@
 *.infra-prod.nsvcs.net
 *.inpli.se
 *.insider.in
+*.insight.io
 *.instacart.com
 *.instacart.tools
 *.int.remitly.com
@@ -502,6 +519,7 @@
 *.kdrive.infomaniak.com
 *.khealth.com
 *.khealth.io/
+*.kibana.wtf
 *.kiln.it
 *.kinepolis.be
 *.kinepolis.ch
@@ -543,6 +561,8 @@
 *.logitechauthorization.com
 *.logitechg.com*
 *.logitechmusic.com
+*.logstash.net
+*.logstash.wtf
 *.lookatme.com.ph
 *.luckydays.ca
 *.luckydays.com
@@ -613,11 +633,11 @@
 *.mobile-messenger.intercom.com
 *.mobilevikings.be
 *.mobilitygraph.hereapi.com
-*.mofos.com
 *.mona.co
 *.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
+*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -663,7 +683,6 @@
 *.nordvpn.com
 *.nr-data.net
 *.nr-ops.net
-*.nutakupublishing.com
 *.ociadmin.cloud.8x8.com
 *.octopus.com
 *.oda.com
@@ -744,8 +763,10 @@
 *.prd.webapps.simplisafe.com
 *.preempt.com
 *.preemptsecurity.com
+*.prelert.com
 *.prijsmepper.nl
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -767,7 +788,6 @@
 *.rapyd.org
 *.rbx.com
 *.realestate.com.au
-*.realitykings.com
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
@@ -811,7 +831,6 @@
 *.scbe.api.here.com
 *.scopely.com
 *.scopely.io
-*.seancody.com
 *.sec-tunnel.com
 *.securecircle.com
 *.securegatewayaccess.com
@@ -918,6 +937,7 @@
 *.teslainsuranceservices.com
 *.teslamotors.com
 *.testnet.immutable.com
+*.theelasticast.com
 *.theperfumeshop.com
 *.thetradedesk.com
 *.thinkingphones.com
@@ -940,7 +960,6 @@
 *.topperpay.com
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
-*.trafficjunky.com
 *.trainpal.com,*.mytrainpal.com
 *.transferwise.com
 *.travelocity.ca
@@ -958,7 +977,6 @@
 *.truelayer.io
 *.tstaging.com
 *.tstaging.tools
-*.tube8.com
 *.tumblr.com
 *.tvg.com
 *.tweakblogs.net
@@ -966,7 +984,6 @@
 *.tweakimg.net
 *.twimg.com
 *.twinmotion.com
-*.twistys.com
 *.twitter.biz
 *.twitter.com
 *.tyo-masters.co.jp
@@ -1124,6 +1141,7 @@
 1023499075
 103.83.120.0/22
 1032480595
+1052238659
 1057338687
 107.167.96.0/19
 1076840480
@@ -1657,6 +1675,7 @@ Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure o
 Any public cloud resource or infrastructure operated and managed by REI.
 Any publicly accessible Tripadvisor web asset or host (domains, ip space, etc) - except for assets listed as Out-of-Scope below. 
 Any related DPG media domain
+Any related Torfs domain
 Any resource created or accessed with the Outscale Cloud on eu-west-2 region -  created by the Hunter
 Any subdomain application issue
 Any subdomain infrastructure issue
@@ -2946,9 +2965,6 @@ app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
-app.datacamp.com/certification
-app.datacamp.com/groups
-app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -3043,9 +3059,6 @@ as2-accpt.portofantwerpbruges.com
 as2.portofantwerp.com
 as2.portofantwerpbruges.com
 ask.khealth.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com 
-assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.spotify.com
@@ -3229,7 +3242,6 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
-campus.datacamp.com
 capital.com/*
 capturingreality.com
 cardpayments.remitly.io
@@ -3310,6 +3322,7 @@ co-cf.*.aws.indriverapp.com
 co-gw-cf.*.aws.indriverapp.com
 co-in-gw-cf.*.aws.indriverapp.com
 co.mona.android
+co.uk.getmondo
 coaching.supernovas.indrive.com
 coban.pixiv.net
 coda.grammarly.com
@@ -3424,7 +3437,6 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
-com.datacamp
 com.dd.doordash
 com.defi.wallet
 com.deribit
@@ -4184,8 +4196,6 @@ http://datapod-1-druid-query.production.forescoutcloud.net/v2/services
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/matrixoverview
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/overlappingzones
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
-http://digitalplayground.com/
-http://es.mydirtyhobby.com/
 http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
 http://federatedid-na1.services.adobe.com
 http://github.com/circlefin/noble-cctp
@@ -4194,7 +4204,6 @@ http://greenchannel.payoneer.com.cn/gcportal
 http://help.twilio.com
 http://ibotta.com
 http://ims-na1.adobelogin.com
-http://it.mydirtyhobby.com/
 http://itunes.apple.com/us/app/ibotta/id559887125
 http://logstash-props.devicecloud.production.forescoutcloud.net/api/v1/properties
 http://market.android.com/details?id=com.ibotta.android
@@ -4203,8 +4212,6 @@ http://mcp.intercom.com
 http://media.itsfogo.com/media/upload/mobile/android/apk/partycasino_com.apk
 http://member-qa.chime.com/enroll
 http://mgmtpod-1.production.forescoutcloud.net/oauth/token
-http://mgpg.probiller.com/
-http://mgpg2.probiller.com/
 http://mobileapp-gaming.mgm.mo
 http://mobileapp-non-gaming.mgm.mo/
 http://my.mintmobile.com/
@@ -4216,18 +4223,10 @@ http://ourhouse.underarmour.com/
 http://pay.monashcollege.edu.au/
 http://play.google.com/store/apps/details?id=fr.doctolib.www
 http://poe.com
-http://probiller.brazzers.com/
-http://probiller.digitalplayground.com/
-http://probiller.mofos.com/
-http://probiller.realitykings.com/
-http://probiller.seancody.com/
-http://probiller.transangels.com/
-http://probiller.twistys.com/
 http://secure-iphone-xml.booking.com/json/
 http://socialdeal.nl/inspirations/bluemonday/
 http://staking.consensys.io
 http://testnet.bybit.eu
-http://transangels.com/
 http://tsock.us1.twilio.com
 http://twilio.com/blog
 http://urc-auth-uefn.live.ucs.on.epicgames.com/
@@ -4243,8 +4242,6 @@ http://www.bybit.com/trade/tradfi/
 http://www.byreal.io
 http://www.kiwi.com/stories
 http://www.lululemon.co.kr/
-http://www.mydirtyhobby.com/
-http://www.mydirtyhobby.de/
 http://www.myvisacardportal.com/welcome/enbd/product/#
 http://www.rei.com/learn/expert-advice
 http://www.shopmarriott.com
@@ -4266,7 +4263,6 @@ https://195.60.68.249
 https://195.60.68.250
 https://28degreescard.com.au
 https://8x8.vc/xmpp-websocket
-https://Fr.mydirtyhobby.com
 https://Mlife.mo
 https://[it | fr | us | sg | …].louisvuitton.com
 https://a.simplemdm.com/
@@ -4369,7 +4365,6 @@ https://api.pinterest.com
 https://api.planethoster.net
 https://api.pluralonline.com
 https://api.pluralpay.in
-https://api.pornhub.com/
 https://api.production.cde.tamg.cloud
 https://api.ring.com/*
 https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
@@ -4456,7 +4451,6 @@ https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
-https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
@@ -4930,7 +4924,6 @@ https://gaadmin.vfsglobal.com/Global-Admin/
 https://gaadmin.vfsglobal.com/GlobalAdmin/
 https://gap.citizenportal-test.bugbounty.akinox.dev/
 https://gate.sendbird.com
-https://gateway-api.nutaku.net
 https://gateway.optus.com.au/api/ai-search/search/v1
 https://gatewaydsapdev2.marriott.com/
 https://gatewaydsaptst1.marriott.com/
@@ -5791,11 +5784,9 @@ https://mmp.otto.de
 https://mobile-production.content-square.net/
 https://mobile.monash/ 
 https://mobile.ooredoo.qa
-https://mobile.pornhub.com/
 https://mobile.usaa.com
 https://mobileapi.afterpay.com
 https://mobileapi.clearpay.com
-https://mobileapi.nutaku.com
 https://mobileapi.staging.luno.com/
 https://mobileapp.opsgenie.com
 https://mobileapps.usaa.com/
@@ -5895,7 +5886,6 @@ https://orchard.limeinternal.com
 https://ort-admin.pingone.com/*
 https://ort-authenticator.pingone.com/*
 https://ort-desktop.pingone.com/*
-https://osapi.nutaku.com
 https://osu.eu-west-2.outscale.com
 https://owncloud.org/install/#install-clients
 https://paasportal.episerver.net/
@@ -6110,7 +6100,6 @@ https://plugins.matomo.org/developer/matomo-org
 https://pluralcheckout.pinepg.in
 https://poc-op-ywh.it.authentification.si.gouv.qc.ca/
 https://pods.link
-https://pornhub.mainhub.com
 https://portal-api.anz.kinergysolutions.com
 https://portal.3cx.com
 https://portal.afterpay.com
@@ -6585,7 +6574,6 @@ https://www.microsoft.com/en-us/p/keeperchat/9pdqtcpn4kxn#activetab=pivot:overvi
 https://www.minhaconta.zoop.com.br
 https://www.monash.edu
 https://www.monashprofessional.edu.au/
-https://www.mydirtyhobby.com/app/download
 https://www.myntra.com
 https://www.myprotein.com/
 https://www.myvitamins.com/
@@ -6600,8 +6588,6 @@ https://www.npmjs.com/package/@privy-io/js-sdk-core
 https://www.npmjs.com/package/@privy-io/react-auth
 https://www.npmjs.com/package/@privy-io/wagmi
 https://www.nuinvest.com.br/
-https://www.nutaku.com
-https://www.nutaku.net
 https://www.okta.com/fastpass/
 https://www.okta.com/products/advanced-server-access/
 https://www.onedoc.ch
@@ -6635,18 +6621,13 @@ https://www.pinelabs.my/
 https://www.pinelabs.us/
 https://www.pixpay.fr/
 https://www.planethoster.com
-https://www.pornhub.com/
-https://www.pornhubpremium.com/
 https://www.premogiftcards.com
 https://www.priceline.com/pwd/v0/pcln-graphql/
 https://www.privateinternetaccess.com/download/linux-vpn
 https://www.privateinternetaccess.com/download/mac-vpn
 https://www.privateinternetaccess.com/download/windows-vpn
-https://www.probiller.com
 https://www.quintoandar.com.br/*
 https://www.realcommercial.com.au/
-https://www.redtube.com/
-https://www.redtubepremium.com/
 https://www.remove.bg
 https://www.restaurant-information.com
 https://www.saturn.de
@@ -6679,7 +6660,6 @@ https://www.theforkmanager.com
 https://www.thetradedesk.com
 https://www.thousandeyes.com/
 https://www.thuisbezorgd.nl/
-https://www.thumbzilla.com/
 https://www.tickets.mgm.mo/
 https://www.toursgds.com/
 https://www.toursgds.com/SupplierService?wsdl
@@ -6742,17 +6722,13 @@ https://www.xfinity.com/apps
 https://www.xvideos.net/app/
 https://www.yeswehack.com
 https://www.ynab.com/
-https://www.youporn.com/
-https://www.youpornpremium.com/
 https://www.zabbix.com/download_sources
 https://www.zoop.com.br
 https://www.zoop.ws
 https://wwws-staging.moneytree.jp/link/
 https://wwws-staging.moneytree.jp/link/mobile/
 https://wwws-staging.moneytree.jp/link/mobile/#/signup?client_id=38d99a6e8e9fc87c866f5aa82bdc2569c464b2323a55e0b28f658efa678e9623&redirect_uri=https://wwws-staging.moneytree.jp/link/mobile/callback&response_type=token&scope=guest_read+accounts_read+transactions_read+request_refresh
-https://xnxx.nutaku.net
 https://xv-cp.apis-staging.xvtest.net/
-https://xvideos.nutaku.net
 https://xyzbmojn.net/
 https://yeswehack.com
 https://yeswehack.staging.komoju.com
@@ -7156,6 +7132,7 @@ moments.marriottbonvoy.com
 moneybird.com
 moneybirdstorage.com
 monitor.mozilla.org
+monzo.com
 moonpay.com
 movie.indrive.com
 movieapi.kinepolis.megatix.be
@@ -7489,7 +7466,6 @@ pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
 pr*.indriverapp.com
 pr-gw-cf.*.aws.indriverapp.com
-practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -7532,8 +7508,6 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profiler.firefox.com
-profiles-api.datacamp.com
-projects.datacamp.com
 projects.nextcloud.com
 prow.k8s.io
 proxy-production.lime.bike
@@ -8138,6 +8112,7 @@ winecellar.zomato.com
 wings-dev.wnba.com
 wings-qa.wnba.com
 wings.wnba.com
+winkels.torfs.be
 winter.tomorrowland.com
 winterpackages.tomorrowland.com
 wlr-cf.*.aws.indriverapp.com
@@ -8220,8 +8195,6 @@ www.crowdstrike.com
 www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
-www.datacamp.com
-www.datacamp.com/datalab
 www.ddfcontent.com
 www.deezer.com
 www.delen.bank
@@ -8399,6 +8372,7 @@ www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
+www.monzo.com
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
@@ -8438,9 +8412,12 @@ www.rockstargames.com
 www.s-kaupat.fi
 www.s-pankki.fi
 www.sa.dyson.com
+www.samenfittorfs.be
 www.savers.co.uk
 www.sbb.ch
 www.sbbcargo.com
+www.schoenentorfs.be
+www.schoenentorfs.nl 
 www.sheer.com
 www.six-group.com
 www.socialdeal.nl
@@ -8471,6 +8448,8 @@ www.theperfumeshop.com
 www.tink.com
 www.tomorrowland.com
 www.topperpay.com
+www.torfs.be
+www.torfs.nl
 www.tradepmr.com
 www.trajeoh.com
 www.transsicura.ch

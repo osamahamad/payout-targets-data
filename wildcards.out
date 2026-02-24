@@ -38,7 +38,6 @@
 *.adaptive-shield.com
 *.adminml.com
 *.adsrvr.org
-*.adultforce.com
 *.advisor-connection.com
 *.advisorsolutions.gs.com
 *.aips-internal.com
@@ -151,7 +150,6 @@
 *.braintree.tools
 *.braintreegateway.com
 *.braintreepayments.com
-*.brazzers.com
 *.bredbandsbolaget.se
 *.bridge.xyz
 *.buddypress.org,bbpress.org,profiles.wordpress.org
@@ -230,7 +228,6 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
-*.datacamp.com
 *.dcfgateway.marriott.com
 *.deliciousbrains.com
 *.dell.com/*
@@ -278,7 +275,24 @@
 *.ela.st
 *.elastic.co
 *.elastic.dev
+*.elastic.wtf
+*.elasticacademy.com
+*.elasticaccelerationzone.co
+*.elasticapm.co
+*.elasticbeats.wtf
+*.elasticcloud.wtf
+*.elasticgov.com
+*.elasticloud.wtf
 *.elasticnet.co
+*.elasticon.co
+*.elasticon.com
+*.elasticpartneracademy.com
+*.elasticps.co
+*.elasticsearch.com
+*.elasticsearch.fr
+*.elasticsearch.jp
+*.elasticsearch.org
+*.elasticsearch.wtf
 *.elstc.co
 *.emakina.at
 *.emakina.ch
@@ -293,6 +307,8 @@
 *.epam.com
 *.epicgames.com
 *.epicgames.dev
+*.es.io
+*.estccdn.com
 *.eternal.com
 *.etsy.com
 *.eu.floqast.app
@@ -456,6 +472,7 @@
 *.infra-prod.nsvcs.net
 *.inpli.se
 *.insider.in
+*.insight.io
 *.instacart.com
 *.instacart.tools
 *.int.remitly.com
@@ -483,6 +500,7 @@
 *.kdrive.infomaniak.com
 *.khealth.com
 *.khealth.io/
+*.kibana.wtf
 *.kiln.it
 *.kinepolis.be
 *.kinepolis.ch
@@ -524,6 +542,8 @@
 *.logitechauthorization.com
 *.logitechg.com*
 *.logitechmusic.com
+*.logstash.net
+*.logstash.wtf
 *.lookatme.com.ph
 *.luckydays.ca
 *.luckydays.com
@@ -594,11 +614,11 @@
 *.mobile-messenger.intercom.com
 *.mobilevikings.be
 *.mobilitygraph.hereapi.com
-*.mofos.com
 *.mona.co
 *.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
+*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -644,7 +664,6 @@
 *.nordvpn.com
 *.nr-data.net
 *.nr-ops.net
-*.nutakupublishing.com
 *.ociadmin.cloud.8x8.com
 *.octopus.com
 *.oda.com
@@ -725,8 +744,10 @@
 *.prd.webapps.simplisafe.com
 *.preempt.com
 *.preemptsecurity.com
+*.prelert.com
 *.prijsmepper.nl
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -748,7 +769,6 @@
 *.rapyd.org
 *.rbx.com
 *.realestate.com.au
-*.realitykings.com
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
@@ -792,7 +812,6 @@
 *.scbe.api.here.com
 *.scopely.com
 *.scopely.io
-*.seancody.com
 *.sec-tunnel.com
 *.securecircle.com
 *.securegatewayaccess.com
@@ -899,6 +918,7 @@
 *.teslainsuranceservices.com
 *.teslamotors.com
 *.testnet.immutable.com
+*.theelasticast.com
 *.theperfumeshop.com
 *.thetradedesk.com
 *.thinkingphones.com
@@ -921,7 +941,6 @@
 *.topperpay.com
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
-*.trafficjunky.com
 *.trainpal.com,*.mytrainpal.com
 *.transferwise.com
 *.travelocity.ca
@@ -939,7 +958,6 @@
 *.truelayer.io
 *.tstaging.com
 *.tstaging.tools
-*.tube8.com
 *.tumblr.com
 *.tvg.com
 *.tweakblogs.net
@@ -947,7 +965,6 @@
 *.tweakimg.net
 *.twimg.com
 *.twinmotion.com
-*.twistys.com
 *.twitter.biz
 *.twitter.com
 *.tyo-masters.co.jp

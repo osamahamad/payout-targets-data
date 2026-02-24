@@ -310,7 +310,24 @@
 *.ela.st
 *.elastic.co
 *.elastic.dev
+*.elastic.wtf
+*.elasticacademy.com
+*.elasticaccelerationzone.co
+*.elasticapm.co
+*.elasticbeats.wtf
+*.elasticcloud.wtf
+*.elasticgov.com
+*.elasticloud.wtf
 *.elasticnet.co
+*.elasticon.co
+*.elasticon.com
+*.elasticpartneracademy.com
+*.elasticps.co
+*.elasticsearch.com
+*.elasticsearch.fr
+*.elasticsearch.jp
+*.elasticsearch.org
+*.elasticsearch.wtf
 *.elstc.co
 *.emakina.at
 *.emakina.ch
@@ -326,6 +343,8 @@
 *.epam.com
 *.epicgames.com
 *.epicgames.dev
+*.es.io
+*.estccdn.com
 *.eternal.com
 *.etsy.com
 *.eu.floqast.app
@@ -501,6 +520,7 @@
 *.infra-prod.nsvcs.net
 *.inpli.se
 *.insider.in
+*.insight.io
 *.instacart.com
 *.instacart.tools
 *.int.remitly.com
@@ -535,6 +555,7 @@
 *.khealth.com
 *.khealth.io/
 *.khealth.us/
+*.kibana.wtf
 *.kiln.it
 *.kinepolis.be
 *.kinepolis.ch
@@ -583,6 +604,8 @@
 *.logitechauthorization.com
 *.logitechg.com*
 *.logitechmusic.com
+*.logstash.net
+*.logstash.wtf
 *.lookatme.com.ph
 *.luckydays.ca
 *.luckydays.com
@@ -811,6 +834,7 @@
 *.prd.webapps.simplisafe.com
 *.preempt.com
 *.preemptsecurity.com
+*.prelert.com
 *.prijsmepper.nl
 *.privateinternetaccess.com
 *.prod-ffs.io
@@ -1006,6 +1030,7 @@
 *.teslainsuranceservices.com
 *.teslamotors.com
 *.testnet.immutable.com
+*.theelasticast.com
 *.theperfumeshop.com
 *.thetradedesk.com
 *.thinkingphones.com
