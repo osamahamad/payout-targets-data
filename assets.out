@@ -897,8 +897,6 @@
 *.spotify.net
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
-*.sqills.com
-*.sqills.team
 *.srvcs.tumblr.com
 *.ssr.ccp.xcal.tv 
 *.stadtwien.onmicrosoft.com
@@ -2668,7 +2666,6 @@ account.acronis.com
 account.adobe.com
 account.booking.com
 account.brave.com
-account.deezer.com
 account.krisp.ai
 account.magento.com
 account.ui.com
@@ -2804,7 +2801,6 @@ api.coindcx.com
 api.coinmarketcap.com
 api.creditkarma.com
 api.custody.coinbase.com
-api.deezer.com
 api.deriv.com
 api.digital.delen.be 
 api.digital.delen.lu 
@@ -3704,7 +3700,6 @@ confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
 connect.arkane.network 
-connect.deezer.com
 connect.identity.stagaws.visma.com
 connect.secure.wellsfargo.com
 connect.venly.io
@@ -4457,7 +4452,6 @@ https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
 https://apps.apple.com/au/app/realestate-com-au-property/id404667893
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://apps.apple.com/be/app/mediamarkt-belgi%C3%AB/id958993034
-https://apps.apple.com/be/app/zen-by-deezer-m%C3%A9ditation/id1597326355
 https://apps.apple.com/be/app/zivver/id1179528663
 https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
 https://apps.apple.com/br/app/nubank-conta-e-cart%C3%A3o/id814456780
@@ -4477,7 +4471,6 @@ https://apps.apple.com/es/app/mediamarkt-comprar-online/id1438532508
 https://apps.apple.com/fr/app/blablalines-covoiturage/id1225543288
 https://apps.apple.com/fr/app/cryptobox/id972602802
 https://apps.apple.com/fr/app/dailymotion/id336978041
-https://apps.apple.com/fr/app/deezer-musique-podcast/id292738169
 https://apps.apple.com/fr/app/doctolib/id925339063
 https://apps.apple.com/fr/app/infomaniak-mail/id1622596573
 https://apps.apple.com/fr/app/louis-vuitton-city-guide/id1014618396
@@ -5978,7 +5971,6 @@ https://play.google.com/store/apps/details?id=com.coindcx.okto
 https://play.google.com/store/apps/details?id=com.coindesk.mobile
 https://play.google.com/store/apps/details?id=com.comuto&hl=en
 https://play.google.com/store/apps/details?id=com.dailymotion.dailymotion&hl=fr&gl=US
-https://play.google.com/store/apps/details?id=com.deezer.zen
 https://play.google.com/store/apps/details?id=com.ecwid.android&pli=1
 https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr
@@ -6059,7 +6051,6 @@ https://play.google.com/store/apps/details?id=com.xfinity.digitalhome&hl=en_US&g
 https://play.google.com/store/apps/details?id=com.zivver.app
 https://play.google.com/store/apps/details?id=de.cellular.ottohybrid&hl=de
 https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost
-https://play.google.com/store/apps/details?id=deezer.android.app
 https://play.google.com/store/apps/details?id=edu.monash.monashmobile
 https://play.google.com/store/apps/details?id=ee.mtakso.client
 https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta
@@ -7384,7 +7375,6 @@ payer-details-sandbox.gocardless.com
 payment.backend-capital.com
 payment.bingo.com
 payment.casinohuone.com
-payment.deezer.com
 payment.kolikkopelit.com
 payment.mariacasino.(com|se|ee|dk)
 payment.ottocasino.se
@@ -7419,7 +7409,6 @@ photos.adobe.io
 photoservice.stage.vismaonline.com
 photoshop.adobe.com
 pigeon.swiftfinancial.com
-pipe.deezer.com
 plaid.com
 planet.wordpress.org
 plannerrequest.hyatt.com
@@ -8093,8 +8082,6 @@ webwinkel.trouw.nl
 webwinkel.volkskrant.nl
 wechat.api.marriott.com
 welcome.infomaniak.com
-wellbeing.deezer.com
-wellbeing.dzcdn.net
 wga.volans.tech
 widget.rentalcars.com
 wifi-in-store.iciparisxl.be
@@ -8132,7 +8119,6 @@ worldcoin.org
 wp5-truststroke.uzleuven.be
 wpscan.com
 ws.blockchain.info
-ws.deezer.com
 ws.sorare.com
 wss://socket.bitpanda.com
 www-dev.nba.com
@@ -8196,7 +8182,6 @@ www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
 www.ddfcontent.com
-www.deezer.com
 www.delen.bank
 www.delen.be/en 
 www.demorgen.be
@@ -8592,7 +8577,6 @@ ywh.static.zecible.fr
 ywh.update.zecible.fr
 zellepay.force.com
 zelleservice.my.site.com
-zen.deezer.com
 zerobounce.net
 ziekenhuisschool.be
 zooplus.net
