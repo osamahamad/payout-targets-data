@@ -1937,7 +1937,6 @@ Front for Windows
 Functions dealing with vehicle access and immobilizer
 G Hub
 GHE
-GLib
 GS Select iOS app
 GameMaker Studio 2
 Games Tier 1
@@ -2379,7 +2378,6 @@ Solidity IBC Eureka
 Sonantic
 Sophos Firewall (XG/XGS, SFOS) - Pre-auth RCE
 Sophos IT Infrastructure (all other Sophos domains)
-SoupSession (libsoup client)
 Source Code
 SpaceX and Starlink assets (target information and rewards detailed above on the brief)
 Spacelift Intent
@@ -4072,7 +4070,6 @@ gitlab.com
 gleague-dev.nba.com
 gleague-qa.nba.com
 gleague.nba.com
-glib-networking
 global-api.citymapper.com
 globaldesign.marriott.com
 globaljourney.tomorrowland.com
