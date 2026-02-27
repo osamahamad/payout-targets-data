@@ -97,18 +97,6 @@ https://www.beta.tchap.gouv.fr
 https://matrix.i.tchap.gouv.fr
 https://matrix.e.tchap.gouv.fr
 Specific scenarios (see program description)
-https://bounty-cloud.dracoon.app/api
-https://bounty-cloud.dracoon.app/oauth
-https://0-2744452194.s3.nbg01.de.dracoon.io
-https://bounty-cloud.dracoon.app/mediaserver
-https://bounty-cloud.dracoon.app/reporting/api
-https://bounty-cloud.dracoon.app/webdav
-https://bounty-cloud.dracoon.app/
-https://bounty-server.dracoon.app/api
-https://bounty-server.dracoon.app/oauth
-https://bounty-server.dracoon.app/reporting/api
-https://bounty-server.dracoon.app/webdav
-https://bounty-server.dracoon.app/
 developer.dailymotion.com
 https://play.google.com/store/apps/details?id=com.dailymotion.dailymotion&hl=fr&gl=US
 https://apps.apple.com/fr/app/dailymotion/id336978041
@@ -273,6 +261,7 @@ https://github.com/jenkinsci/script-security-plugin
 https://github.com/jenkinsci/credentials-plugin
 https://github.com/jenkinsci/credentials-binding-plugin
 https://github.com/jenkinsci/workflow-cps-plugin
+https://github.com/jenkinsci/remoting
 https://github.com/jenkinsci/ldap-plugin
 https://github.com/jenkinsci/ssh-credentials-plugin
 https://github.com/jenkinsci/plain-credentials-plugin
@@ -281,6 +270,14 @@ https://github.com/jenkinsci/ssh-agents-plugin
 https://github.com/jenkinsci/git-plugin
 https://github.com/jenkinsci/git-client-plugin
 https://github.com/jenkinsci/workflow-scm-step-plugin
+https://github.com/jenkinsci/workflow-multibranch-plugin
+https://github.com/jenkinsci/github-plugin
+https://github.com/jenkinsci/github-branch-source-plugin
+https://github.com/jenkinsci/workflow-support-plugin
+https://github.com/jenkinsci/pipeline-stage-step-plugin
+https://github.com/jenkinsci/pipeline-input-step-plugin
+https://github.com/jenkinsci/pipeline-build-step-plugin
+https://github.com/jenkinsci/pipeline-groovy-lib-plugin
 https://yeswehack.staging.komoju.com
 https://multipay-staging.test.komoju.com
 https://doc.komoju.com/docs/fields-overview
@@ -429,7 +426,6 @@ https://apps.apple.com/qa/app/ooredoo-qatar/id619828745
 Security Vulnerability in OpenPGP.js's high-level API
 Security Vulnerability in the OpenPGP Standard
 Interoperability Issue in OpenPGP.js
-https://github.com/opf/openproject
 https://vendors.paddle.com
 https://sandbox-vendors.paddle.com
 https://api.paddle.com
@@ -668,42 +664,9 @@ svn.notebleue.pro
 todo.notebleue.pro
 webtoolbox.notebleue.pro
 cam.notebleue.pro
-app.zivver.com
-owa-v6.zivver.com
-collector.zivver.com
-downloads.zivver.com
-img.zivver.com
-sign.zivver.com
-https://play.google.com/store/apps/details?id=com.zivver.app
-https://apps.apple.com/be/app/zivver/id1179528663
-Zivver Outlook Plugin
-Zivver OWA add-in
-Zivver Chrome Extension
 https://github.com/pendulum-project/ntpd-rs
 https://github.com/pendulum-project/timestamped-socket
 https://github.com/pendulum-project/clock-steering
-https://owncloud.org/install/#install-clients
-https://play.google.com/store/apps/details?id=com.owncloud.android
-https://apps.apple.com/app/id1359583808
-https://github.com/owncloud/customgroups
-https://github.com/owncloud/guests
-https://github.com/owncloud/richdocuments
-https://github.com/owncloud/notifications
-https://github.com/owncloud/client
-https://github.com/owncloud/core
-https://github.com/owncloud/gallery
-https://github.com/owncloud/ocis
-https://github.com/owncloud/web
-https://github.com/owncloud/web-extensions
-https://github.com/owncloud/user_ldap
-https://github.com/owncloud/oauth2
-https://github.com/owncloud/openidconnect
-https://github.com/owncloud/activity
-https://github.com/owncloud/impersonate
-https://github.com/owncloud/updater
-https://github.com/owncloud/core/tree/master/apps/files
-https://github.com/owncloud/android
-https://github.com/owncloud/ios-app
 systemd (the manager itself)
 systemd-boot
 systemd-stub

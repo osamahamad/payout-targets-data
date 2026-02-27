@@ -108,6 +108,8 @@
 *.arloxcld.com
 *.artifactory.marriott.com
 *.artstation.com
+*.as-nmt.de
+*.asadcdn.com
 *.asana.biz
 *.assurancewireless.com
 *.atairbnb.com
@@ -116,6 +118,8 @@
 *.atspotify.com
 *.audible.(TLD)
 *.audicagame.com
+*.auth.bild.de
+*.autobild.de
 *.avecspotify.com
 *.ayco.com
 *.backblazeb2.com
@@ -129,6 +133,9 @@
 *.betfair.se
 *.betsharedservices.io
 *.betviewapi.com
+*.bild.de
+*.bild.design
+*.bild.tv
 *.bingoblitz.com
 *.bionic.ai
 *.bitdefender.com
@@ -140,7 +147,6 @@
 *.boardkingsgame.com
 *.bokundemo.com
 *.bokuntest.com
-*.bonne-terre-data-layer.com
 *.booking.com
 *.boozt.com
 *.booztlet.com
@@ -161,6 +167,7 @@
 *.bybit.tr
 *.bykea.net
 *.byspotify.com
+*.bz-berlin.de
 *.cadastro.uat.unico.app
 *.caesarsgames.com
 *.call-control.ie
@@ -211,6 +218,7 @@
 *.coinbase.com
 *.coindcx.com
 *.comcast.com
+*.computerbild.de
 *.consumer.worldcoin.org
 *.contactallerg(y|ie).uzleuven.be
 *.contentsquare.com
@@ -228,6 +236,7 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
+*.datacamp.com
 *.dcfgateway.marriott.com
 *.deliciousbrains.com
 *.dell.com/*
@@ -272,6 +281,7 @@
 *.easy.ac
 *.edition.in
 *.eero.com
+*.ein-herz-fuer-kinder.de
 *.ela.st
 *.elastic.co
 *.elastic.dev
@@ -331,6 +341,7 @@
 *.fetlife.com
 *.findaya.co.id
 *.findaya.com
+*.fitbook.de
 *.flickr.com
 *.flipkey.com
 *.floqast.app
@@ -357,6 +368,7 @@
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
+*.germany.politico.eu
 *.gesundheitsverbund.at
 *.gethypr.com
 *.github.net
@@ -424,6 +436,7 @@
 *.helloworks.com
 *.here.com
 *.hereapi.com
+*.hey.bild.de
 *.hey.com
 *.hicloudcam.com,
 *.highwebmedia.com
@@ -631,6 +644,7 @@
 *.mworld.com
 *.myfitnesspal.com
 *.myharmony.com
+*.myhomebook.de
 *.myinsights.io
 *.mysqueezebox.com
 *.myteksi.com
@@ -712,6 +726,8 @@
 *.personio.de
 *.personio.tools
 *.personiowhistleblowing.com
+*.petbook-magazine.com/
+*.petbook.de
 *.piaservers.com
 *.piaservers.net
 *.pinterest.com Web Apps
@@ -873,9 +889,12 @@
 *.soyoustart.com
 *.spiketrap.io
 *.spinaway.com
+*.sportbild.de
 *.sportinglife.com
 *.spotify.com
 *.spotify.net
+*.spring-media.de
+*.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.srvcs.tumblr.com
@@ -895,6 +914,7 @@
 *.stripchat.com
 *.stripe.com
 *.studiopress.com
+*.stylebook.de
 *.subp-router.hereapi.com
 *.superbet.com
 *.superbet.pl
@@ -908,6 +928,7 @@
 *.sys.comcast.net
 *.tdl.sh
 *.teams.cloudflare.com
+*.techbook.de
 *.telenor.se
 *.telenorinpli.se
 *.tesla.cn
@@ -941,6 +962,7 @@
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trainpal.com,*.mytrainpal.com
 *.transferwise.com
+*.travelbook.de
 *.travelocity.ca
 *.travelocity.com
 *.travix.com
@@ -1020,6 +1042,8 @@
 *.visamiddleeast.com
 *.vliegwinkel.nl
 *.vod2.infomaniak.com
+*.voi.com
+*.voiscooters.com
 *.volkskrant.nl
 *.volkswagen.de
 *.vpn.hackerone.net
@@ -1042,6 +1066,7 @@
 *.web3factory.consensys.net
 *.wellsfargo.com
 *.wellsfargoadvisors.com
+*.welt.de
 *.werkenbijgamma.be
 *.werkenbijgamma.nl
 *.werkenbijkarwei.nl
@@ -1051,6 +1076,7 @@
 *.wienkav.at
 *.wimpmusic.com
 *.wise.com
+*.wissen-sie-mehr.de
 *.withairbnb.com
 *.withbuddies.com
 *.withspotify.com

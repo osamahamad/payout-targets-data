@@ -2648,6 +2648,7 @@ Rockstar Games Launcher
 Ruby Driver
 Rust Driver
 Rust SDK
+SAP AI Core
 SAP Business Network for Asset Collaboration
 SAP Business Network for Logistics	
 SAP BusinessObjects Business Intelligence platform
@@ -3662,6 +3663,8 @@ caldav.larksuite.com
 calendar.infomaniak.com
 calendar.notion.so
 callbacks.airbnb.com
+callroute.com
+callroute.io
 cam.notebleue.pro
 campagne.iciparisxl.be
 campagne.iciparisxl.lu
@@ -4741,6 +4744,9 @@ hilton.io
 hiltonbusinessonline.com
 hiltonlocalbiz.com
 hln.be
+hln.be/inloggen
+hln.be/login
+hln.be/registreren
 hmxservices.com
 holidays-au.fijiairways.com
 holidays-fj.fijiairways.com
@@ -5435,6 +5441,7 @@ https://console.delltechnologies.com/nav/invoice
 https://console.neon.tech/
 https://console.neon.tech/api/v2/
 https://console.ort-one-pingone.com/?env=361b34ef-2725-4fd9-af1b-a2b189df3d05
+https://console.ort-one-pingone.com/?env=7f327541-54e0-4ba4-8335-65eac2a25b5e
 https://consumer-sustainability.underarmour.com/en
 https://consumer.finicityreports.com
 https://contadigital.ifoodpago.com.br/
@@ -5717,6 +5724,7 @@ https://github.com/auth0/auth0-spa-js
 https://github.com/auth0/auth0.js
 https://github.com/auth0/lock
 https://github.com/auth0/nextjs-auth0
+https://github.com/auth0/passport-wsfed-saml2
 https://github.com/auth0/react-native-auth0
 https://github.com/backstage/backstage
 https://github.com/basecamp/fizzy
@@ -5748,6 +5756,7 @@ https://github.com/circlefin/evm-cctp-contracts
 https://github.com/circlefin/evm-cpn-contracts
 https://github.com/circlefin/evm-gateway-contracts
 https://github.com/circlefin/evm-xreserve-contracts
+https://github.com/circlefin/malachite
 https://github.com/circlefin/noble-fiattokenfactory
 https://github.com/circlefin/solana-cctp-contracts
 https://github.com/circlefin/solana-gateway-contracts
@@ -5826,18 +5835,27 @@ https://github.com/jenkinsci/credentials-binding-plugin
 https://github.com/jenkinsci/credentials-plugin
 https://github.com/jenkinsci/git-client-plugin
 https://github.com/jenkinsci/git-plugin
+https://github.com/jenkinsci/github-branch-source-plugin
+https://github.com/jenkinsci/github-plugin
 https://github.com/jenkinsci/jelly
 https://github.com/jenkinsci/jenkins
 https://github.com/jenkinsci/ldap-plugin
 https://github.com/jenkinsci/matrix-auth-plugin
+https://github.com/jenkinsci/pipeline-build-step-plugin
+https://github.com/jenkinsci/pipeline-groovy-lib-plugin
+https://github.com/jenkinsci/pipeline-input-step-plugin
+https://github.com/jenkinsci/pipeline-stage-step-plugin
 https://github.com/jenkinsci/plain-credentials-plugin
+https://github.com/jenkinsci/remoting
 https://github.com/jenkinsci/script-security-plugin
 https://github.com/jenkinsci/ssh-agents-plugin
 https://github.com/jenkinsci/ssh-credentials-plugin
 https://github.com/jenkinsci/stapler
 https://github.com/jenkinsci/winstone
 https://github.com/jenkinsci/workflow-cps-plugin
+https://github.com/jenkinsci/workflow-multibranch-plugin
 https://github.com/jenkinsci/workflow-scm-step-plugin
+https://github.com/jenkinsci/workflow-support-plugin
 https://github.com/jitsi
 https://github.com/justeattakeaway
 https://github.com/kiwicom/*
@@ -7775,6 +7793,7 @@ hub.yoti.com
 hubacc.vznkul.be/*
 hubacc.vznkul.be/services/acceptance/interhub/InterHubService
 hubacc.vznkul.be/services/acceptance/intrahub/IntraHubService
+humo.be/registreren
 hungrygowhere.com
 hyatt.com
 hybrid-analysis.com
@@ -8233,6 +8252,7 @@ mobileapi.na1.insightly.com
 mobileapp.hyatt.com
 mobilevikings.be
 mod.reddit.com
+modefestival.com
 mokapos.com
 moments.marriott.com
 moments.marriottbonvoy.com
@@ -8944,6 +8964,7 @@ signup.sendgrid.com
 simperium.com
 simplenote.com
 siorc.xfinity.com
+sipsynergy.co.uk
 site.rewire.com
 sites.fareharbor.com
 sketch.pixiv.net
@@ -9836,6 +9857,7 @@ www.watsons.com.tw
 www.watsons.vn
 www.watsonsbeautystudio.com
 www.wearehackerone.com
+www.whatismode.com
 www.wickr.com
 www.wnba.com
 www.wotif.com

@@ -440,6 +440,7 @@ https://github.com/auth0/nextjs-auth0
 https://github.com/auth0/auth0-java
 https://github.com/auth0/react-native-auth0
 https://github.com/auth0/auth0-php
+https://github.com/auth0/passport-wsfed-saml2
 auth0.com	
 samltool.io	
 webauthn.me	
@@ -614,8 +615,6 @@ Cisco Meraki MS Switches
 Cisco Meraki MR Access Points
 Cisco Meraki MV Security Cameras
 Cisco Meraki Z Series (Z1,Z3(C))
-https://meraki.cisco.com
-apps.meraki.io
 https://www.wien.gv.at
 https://www.gesundheitsverbund.at
 https://www.akhwien.at
@@ -1797,6 +1796,7 @@ SAP Watch List Screening
 SAP Concur TMC Clarity
 SAP HANA Cloud
 SAP BusinessObjects Business Intelligence platform
+SAP AI Core
 https://seekcdn.com
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US
