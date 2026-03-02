@@ -593,6 +593,7 @@ https://ebctest.cybersource.com/reporting
 https://ebctest.cybersource.com/riskui
 https://ebctest.cybersource.com/saconfig
 https://ebctest.cybersource.com/sms
+https://ebctest.cybersource.com/tech-partner-integration
 https://ebctest.cybersource.com/tms
 https://ebctest.cybersource.com/tss
 https://ebctest.cybersource.com/ums
@@ -3528,6 +3529,7 @@ api.cloudflare.com
 cloudflareworkers.com
 dash.cloudflare.com
 http://github.com/cloudflare
+https://github.com/cloudflare/vinext
 https://github.com/cloudflare/workerd
 one.dash.cloudflare.com
 waf.cumulusfire.net
