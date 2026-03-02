@@ -268,6 +268,8 @@
 *.download.originenergy.com.au
 *.dpgmedia.be
 *.dpgmedia.nl
+*.drogas.lt
+*.drogas.lv
 *.dropbox.com
 *.dropboxer.net
 *.dropboxforum.com
@@ -354,6 +356,7 @@
 *.folioinvesting.com
 *.forspotify.com
 *.fortnite.com
+*.fortress.com.hk
 *.found.io
 *.fromspotify.com
 *.fuze.com
@@ -515,6 +518,9 @@
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
+*.kruidvat.be
+*.kruidvat.nl
+*.kruidvatkids.nl
 *.kwsdose.be
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
@@ -543,6 +549,7 @@
 *.logitechmusic.com
 *.logstash.net
 *.logstash.wtf
+*.lookatme.com.ph
 *.luckydays.ca
 *.luckydays.com
 *.lucra.live
@@ -613,8 +620,10 @@
 *.mobilevikings.be
 *.mobilitygraph.hereapi.com
 *.mona.co
+*.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
+*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -651,10 +660,8 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
-*.ninjakiwi.me
 *.nitropack.io
 *.niumba.com
-*.nkstatic.com
 *.nmfn.com
 *.nml.com
 *.nnip.com
@@ -663,7 +670,6 @@
 *.nr-ops.net
 *.ociadmin.cloud.8x8.com
 *.octopus.com
-*.oda.com
 *.odcdn.com.au
 *.oklink.com
 *.okx.com
@@ -697,6 +703,7 @@
 *.paddypartners.com
 *.paddypower.com
 *.paddypower.it
+*.parknshop.com
 *.parool.nl
 *.paydiant.com
 *.paylution.com
@@ -722,6 +729,7 @@
 *.playtika.com
 *.playuzleuven.be
 *.playwsop.com
+*.pns.hk
 *.points.com
 *.polymoon.it
 *.portofantwerp.com
@@ -742,12 +750,13 @@
 *.preempt.com
 *.preemptsecurity.com
 *.prelert.com
+*.prijsmepper.nl
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
 *.prod.ftl.netflix.com
-*.prod.nube.tech
 *.projectbaseline.com/
 *.prowly.com
 *.psynet.gg
@@ -863,7 +872,6 @@
 *.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
-*.souparea.com
 *.soyoustart.com
 *.spiketrap.io
 *.spinaway.com
@@ -945,6 +953,7 @@
 *.travelocity.com
 *.travix.com
 *.travix.io
+*.trekpleister.nl
 *.trello.services
 *.trip.biz
 *.trip.com
@@ -993,6 +1002,7 @@
 *.vayama.com
 *.venmo.com
 *.vennhypotheken.nl
+*.veriff.com
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
@@ -1026,6 +1036,15 @@
 *.vtm.be
 *.vtmgo.be
 *.water-link.be/
+*.watsons.co.id
+*.watsons.co.th
+*.watsons.com.hk
+*.watsons.com.my
+*.watsons.com.ph
+*.watsons.com.sg
+*.watsons.com.tr
+*.watsons.com.tw
+*.watsons.vn
 *.wavecell.com
 *.wealthsimple.com
 *.weareone.world

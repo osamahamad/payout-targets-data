@@ -3510,6 +3510,7 @@ auth.ys7.com
 auth0.com	
 auth0.gocardless.com
 auth0.net
+authentication.clearme.com
 authentication.wolt.com
 authz.workbox.dk
 autocomplete.booking.com
@@ -3764,6 +3765,8 @@ circolocorecords.com/
 cl.nba.com
 classroom.github.com
 clay.earth
+clearme.atlassian.net
+clearme.com
 client-api.arkoselabs.com
 clientcert.gamma.redoxstage.com
 clinic.lemonaidhealth.com
@@ -3899,6 +3902,8 @@ com.bykea.pk.partner
 com.capital.trading
 com.cheaptickets
 com.clay.ios
+com.clearme.Clear
+com.clearme.clearapp
 com.cm.cashregister
 com.coinbase.android
 com.coinbase.ios
@@ -4200,6 +4205,7 @@ compass.fareharbor.com
 competitive.fortnite.com
 components.stag.tomorrowland.com
 components.tomorrowland.com
+concierge.clearme.com
 config.cic-bug-bounty.auth0app.com
 configurator.porsche.com
 configure.bmw.de
@@ -4501,6 +4507,7 @@ embed.vhx.tv
 en.casinohuone.com
 en.kolikkopelit.com
 en.ottokasino.com
+enroll.clearme.com
 enrollment.monitormyidentity.com
 enterpriseenrollment.bitstamp.net
 enterpriseregistration.bitstamp.net
@@ -4866,6 +4873,7 @@ http://tsock.us1.twilio.com
 http://twilio.com/blog
 http://urc-auth-uefn.live.ucs.on.epicgames.com/
 http://urc-uefn.live.ucs.on.epicgames.com
+http://verified.clearme.com/dashboard
 http://vimeo.com/api
 http://vimeo.com/create
 http://vimeo.com/ondemand
@@ -7847,6 +7855,7 @@ identity-ng.nba.com
 identity-qa.nba.com
 identity-uat.nba.com
 identity.acesso.io
+identity.clearme.com
 identity.nba.com
 identity.porsche.com
 identity.stage.vismaonline.com
@@ -7916,6 +7925,7 @@ io.metamask
 io.metamask.Metamask
 io.voiapp.voi
 ir.bookingholdings.com
+ir.clearme.com
 ir.remitly.com
 ir.ui.com
 irclogs.wordpress.org
@@ -8246,6 +8256,7 @@ mirc.uzleuven.be
 mix-dev.monash.edu/*
 mix-qat.monash.edu/*
 mobile-prod.tvg.com
+mobile.clearme.com
 mobile.nexuzhealth.be
 mobile.s-pankki.fi
 mobileapi.insightly.com
@@ -8284,6 +8295,7 @@ my-accpt.portofantwerp.com
 my-accpt.portofantwerpbruges.com
 my.account.sony.com
 my.bpost.be
+my.clearme.com
 my.cyberidlock.com
 my.exness.com
 my.loanbuilder.com
@@ -8869,6 +8881,7 @@ sandbox.secure.checkout.visa.com
 sandbox.securegateway.com
 sapi-live.lh.us-west-2.prd.23andme.us
 sc-cf.*.aws.indriverapp.com
+scan.clearme.com
 scan.nextcloud.com
 scan.snapchat.com
 scapegoat.hyatt.com
@@ -9307,6 +9320,8 @@ vault2.faraday.ai
 vcc-*.8x8.com
 vcc-ce.8x8.com
 vector.prd.iat.it.xvservice.net
+verified.clearme.com
+verified.clearme.com/v1/verification_sessions
 verify.arkoselabs.com
 verify.rapyd.net
 vfo01.vodafone.om
@@ -9365,6 +9380,7 @@ watchdocs.indriverapp.com
 watchlistapi.etoro.com
 wd2*.indriverapp.com
 weather.opera-api.com
+web-edge.clearme.com
 web-message-high.lime.bike
 web-message.lime.bike
 web-production.lime.bike
@@ -9490,6 +9506,7 @@ www.cheapcaribbean.com
 www.cheapflights.com
 www.cheaptickets.com
 www.checkfelix.com
+www.clearme.com
 www.cloudways.com
 www.cm.com
 www.coinhako.com
