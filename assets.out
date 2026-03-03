@@ -377,6 +377,8 @@
 *.fuze.com
 *.fuze.site
 *.gaming.gopayapi.com
+*.gamma.be/*
+*.gamma.nl/*
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
@@ -502,6 +504,9 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
+*.intergamma-test.nl
+*.intergamma.cloud
+*.intergamma.nl/*
 *.internal.exoscale.ch
 *.intigriti.me
 *.itcapital.io
@@ -515,6 +520,8 @@
 *.jobstreet.com.sg
 *.jora.com
 *.jora.xyz
+*.karwei.nl/*
+*.karweioutletstore.nl
 *.kayak.com
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
@@ -800,6 +807,7 @@
 *.redecor.com
 *.rentalcars.com
 *.reposify.com
+*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -1067,6 +1075,9 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
 *.wf.com
 *.wien.at
 *.wien.gv.at
@@ -1151,8 +1162,6 @@
 1089294040
 1091010942
 10x.redoxengine.com
-1114799709
-1114800186
 1116488672
 1118448159
 1127881507
@@ -1241,6 +1250,7 @@
 1532153219
 1541949985
 1552455423
+1558129454
 1570215232
 1579372261
 1579530451
@@ -1554,6 +1564,9 @@
 943905271
 944011620
 947984433
+949829216
+950680989
+950693949
 955837609
 960335206
 97.105.243.96/28
@@ -1901,6 +1914,7 @@ External service data leakage
 Extremely high properties
 F 21 Pro
 FIles.com REST API
+FPGA Solution Development Tools and Utilities
 Faucets
 Figma Atlassian App
 Figma Desktop App
@@ -2106,7 +2120,6 @@ Logitech Sync
 Logstash
 LookAtMe Philippines Android
 LookAtMe Philippines iOS
-Loomi.tv
 Low Cost Access
 Low impact, individually exposed Google Docs with no common root cause (see “Publicly accessible Google Document or Drive Links” in the “Corporate Targets” section)
 Luna
@@ -2206,6 +2219,7 @@ Nintendo Switch 2 System Processes allowing piracy
 Nintendo Switch 2 applications for which Nintendo is the publisher worldwide
 Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
+Non Altera Products
 Non-Core Assets
 Non-Core Grafana Plugins
 NordPass - Linux Executable
@@ -2636,6 +2650,9 @@ Zendesk Marketplace Apps created by Zendesk
 Zendesk Mobile Applications
 Zendesk Public Repositories
 Zendesk Suite
+Zivver Chrome Extension
+Zivver OWA add-in
+Zivver Outlook Plugin
 [Unico] Liveness Bypass
 _16928ca3f53f40a48a751be40fa24e4c.bitstamp.net
 _domainconnect.bitstamp.net
@@ -2908,7 +2925,6 @@ api.slack.com
 api.smtp2go.com
 api.sokos.fi
 api.sorare.com
-api.soundtrackyourbrand.com
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -3026,6 +3042,7 @@ app.uma.money
 app.watsons.com.tr
 app.whoop.com
 app.workbox.dk
+app.zivver.com
 app3.rewire.to
 applause1.magisto.com
 appmiral.com
@@ -3123,6 +3140,7 @@ bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
 be.delen.digital
+be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -3135,7 +3153,6 @@ bettrfinancing.com
 bid.*.aws.indriverapp.com
 bigcommerce-adapter.judge.me
 bild.de
-billing.api.soundtrackyourbrand.com
 billingsupport.chaturbate.com
 bilt.marriott.com
 biolibre.ar
@@ -3193,7 +3210,6 @@ bugcrowd-pam-###.pam.oktapreview.com
 bugzilla.mozilla.org
 builder.hostinger.com
 building-blocks.com
-builds.soundtrackyourbrand.com
 bulten.watsons.com.tr
 business-resources.truecaller.com
 business.kayak.com
@@ -3203,7 +3219,6 @@ business.kinepolis.nl
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
-business.soundtrackyourbrand.com
 business.tiktok.com
 business.truecaller.com
 businesshelp.snapchat.com
@@ -3339,6 +3354,7 @@ codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
 coinbase.com
 coinmarketcap.com
 collections.portswigger.net
+collector.zivver.com
 com.3mosquitos.MercadoLibre
 com.Hyatt
 com.Seriously.BestFiends
@@ -3606,7 +3622,6 @@ com.skypicker.Skypicker
 com.skypicker.main
 com.slack.slackmdm
 com.snapchat.android
-com.soundtrackyourbrand.soundtrack.player
 com.spotify.client
 com.spotify.kids
 com.spotify.music
@@ -3901,6 +3916,7 @@ doppler
 doppler.team
 download.krisp.ai
 download.nextcloud.com
+downloads.zivver.com
 dr-cf.*.aws.indriverapp.com
 dream-dev.wnba.com
 dream-qa.wnba.com
@@ -4065,6 +4081,8 @@ g2-gw-cf.*.aws.indriverapp.com
 gamenotes.nba.com
 gaming.logicool.co.jp
 gamma.grab.co
+gammacademy.be
+gammalokaal.nl
 gasstation.polygon.technology/
 gatekeeper.prd.iat.it.xvservice.net
 gateway*.marriott.com
@@ -4262,6 +4280,7 @@ http://www.underarmour.com.sg
 http://www.whynot.com/
 https//monidentifiant.sncf
 https://*-prod.arlo.com
+https://0-2744452194.s3.nbg01.de.dracoon.io
 https://10bis.co.il
 https://195.60.68.241
 https://195.60.68.242
@@ -4453,6 +4472,7 @@ https://apps.apple.com/app/bitpanda-buy-bitcoin-crypto/id1449018960
 https://apps.apple.com/app/bitx-wallet/id927362479
 https://apps.apple.com/app/chia-signer/id6504493785 
 https://apps.apple.com/app/id1216446440
+https://apps.apple.com/app/id1359583808
 https://apps.apple.com/app/id1503045795
 https://apps.apple.com/app/id1635031432
 https://apps.apple.com/app/infomaniak-kdrive/id1482778676
@@ -4470,6 +4490,7 @@ https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
 https://apps.apple.com/au/app/realestate-com-au-property/id404667893
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://apps.apple.com/be/app/mediamarkt-belgi%C3%AB/id958993034
+https://apps.apple.com/be/app/zivver/id1179528663
 https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
 https://apps.apple.com/br/app/nubank-conta-e-cart%C3%A3o/id814456780
 https://apps.apple.com/ca/app/lime-ridegreen/id1199780189
@@ -4618,7 +4639,6 @@ https://audience-builder.vistarmedia.com
 https://audio.20min.ch/
 https://aus.api.just-eat.io/
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
-https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.immutable.com
@@ -4661,9 +4681,20 @@ https://blog.verisign.com
 https://board.pinelabs.com/
 https://bolt.eu/
 https://booking.mgm.mo/
+https://bounty-cloud.dracoon.app/
+https://bounty-cloud.dracoon.app/api
+https://bounty-cloud.dracoon.app/mediaserver
+https://bounty-cloud.dracoon.app/oauth
+https://bounty-cloud.dracoon.app/reporting/api
+https://bounty-cloud.dracoon.app/webdav
 https://bounty-fastly.datashield.co
 https://bounty-nginx.datashield.co
 https://bounty-nodejs.datashield.co
+https://bounty-server.dracoon.app/
+https://bounty-server.dracoon.app/api
+https://bounty-server.dracoon.app/oauth
+https://bounty-server.dracoon.app/reporting/api
+https://bounty-server.dracoon.app/webdav
 https://bounty.cryptobox.com
 https://browser-notifications.opera.com
 https://bug-bounty-api.k8s.tools-001.d-use-1.braze-dev.com/
@@ -4677,7 +4708,6 @@ https://bugcrowd-pam-###.oktapreview.com
 https://bugcrowd-pam-###.workflows.oktapreview.com
 https://bugcrowd.com/programs
 https://bugs.opera.com/
-https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
@@ -5200,6 +5230,25 @@ https://github.com/nodejs/node
 https://github.com/nuxt/nuxt
 https://github.com/openai/codex/
 https://github.com/openssl/openssl
+https://github.com/owncloud/activity
+https://github.com/owncloud/android
+https://github.com/owncloud/client
+https://github.com/owncloud/core
+https://github.com/owncloud/core/tree/master/apps/files
+https://github.com/owncloud/customgroups
+https://github.com/owncloud/gallery
+https://github.com/owncloud/guests
+https://github.com/owncloud/impersonate
+https://github.com/owncloud/ios-app
+https://github.com/owncloud/notifications
+https://github.com/owncloud/oauth2
+https://github.com/owncloud/ocis
+https://github.com/owncloud/openidconnect
+https://github.com/owncloud/richdocuments
+https://github.com/owncloud/updater
+https://github.com/owncloud/user_ldap
+https://github.com/owncloud/web
+https://github.com/owncloud/web-extensions
 https://github.com/pendulum-project/clock-steering
 https://github.com/pendulum-project/ntpd-rs
 https://github.com/pendulum-project/timestamped-socket
@@ -5219,7 +5268,6 @@ https://github.com/ruby
 https://github.com/ruby/ruby
 https://github.com/rubygems/rubygems
 https://github.com/rust-lang/rust
-https://github.com/skip-mev/go-fast-contracts
 https://github.com/slackhq/nebula
 https://github.com/smartcontractkit/chainlink
 https://github.com/smartcontractkit/chainlink-evm/tree/develop/contracts
@@ -5878,6 +5926,7 @@ https://ort-admin.pingone.com/*
 https://ort-authenticator.pingone.com/*
 https://ort-desktop.pingone.com/*
 https://osu.eu-west-2.outscale.com
+https://owncloud.org/install/#install-clients
 https://paasportal.episerver.net/
 https://paasportal.episerver.net/api/v1.0/
 https://packages.cortexpowered.com
@@ -6006,6 +6055,7 @@ https://play.google.com/store/apps/details?id=com.opera.app.sports
 https://play.google.com/store/apps/details?id=com.opera.browser
 https://play.google.com/store/apps/details?id=com.opera.gx
 https://play.google.com/store/apps/details?id=com.opera.mini.native
+https://play.google.com/store/apps/details?id=com.owncloud.android
 https://play.google.com/store/apps/details?id=com.paymaya
 https://play.google.com/store/apps/details?id=com.pinelabs.emicatalogue.pinelabs&hl=uz
 https://play.google.com/store/apps/details?id=com.pinterest&hl=en_US&gl=US
@@ -6044,6 +6094,7 @@ https://play.google.com/store/apps/details?id=com.viator.mobile.android&hl=en_US
 https://play.google.com/store/apps/details?id=com.vuitton.android&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.worldcoin
 https://play.google.com/store/apps/details?id=com.xfinity.digitalhome&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.zivver.app
 https://play.google.com/store/apps/details?id=de.cellular.ottohybrid&hl=de
 https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost
 https://play.google.com/store/apps/details?id=edu.monash.monashmobile
@@ -6120,7 +6171,6 @@ https://property.com.au
 https://proprietario.quintoandar.com.br
 https://pt-runner.app.ridewithvia.com
 https://pyszne.pl
-https://radio.api.soundtrackyourbrand.com/
 https://rc.fstr.rocks
 https://redash-staging.getmoneytree.com/
 https://regatta.aiven.io/
@@ -6634,7 +6684,6 @@ https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
 https://www.sophos.com/en-us/products/mobile-control/free-trial
 https://www.sophos.com/en-us/products/next-gen-firewall
-https://www.soundtrackyourbrand.com
 https://www.sourcetreeapp.com/
 https://www.staging.jobstreet.co.id
 https://www.staging.jobstreet.com.my
@@ -6789,6 +6838,7 @@ iframe.arkoselabs.com
 ifttt-adaptor.pub.kube.dm.gg
 ik.watsons.com.tr
 img.swapcard.com
+img.zivver.com
 imove.bpost.cloud
 imx.community
 in-cf.*.aws.indriverapp.com
@@ -6832,6 +6882,7 @@ ir.remitly.com
 ir.ui.com
 irclogs.wordpress.org
 iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
+irmg.nl
 isa-cf.*.aws.indriverapp.com
 ispdesign.ui.com
 issuer.idpay-uat.unico.io
@@ -6866,6 +6917,10 @@ k8s.gcr.io
 k8s.io
 kaccount.khealth.com
 kartaview.org
+karwei-promotiepunt.nl
+kassa.gamma.be/*
+kassa.gamma.nl/*
+kassa.karwei.nl/*
 katalog.watsons.com.tr
 kayak.ai
 kidswebservices.com
@@ -6974,7 +7029,6 @@ m.chaturbate.com
 m.reddit.com
 m.trendyol.com
 mUSD Stablecoin
-macOS app
 magazine.kruidvat.be
 magento.com
 magic.veriff.me
@@ -7100,6 +7154,9 @@ mgmt-sensors.iris.production.forescoutcloud.net
 mgmtpod-1-dashboard.production.forescoutcloud.net
 mgmtpod-1.production.forescoutcloud.net
 mgs.marriott.com
+mijn.gamma.be/*
+mijn.gamma.nl/*
+mijn.karwei.nl/*
 mijnacc.uzleuven.be
 minerva.robinhood.com
 mipartnerprivileges.marriott.com
@@ -7264,6 +7321,9 @@ nft.coinbase.com
 nha-cf.*.aws.indriverapp.com
 nha-gw-cf.*.aws.indriverapp.com
 niantic.kidswebservices.com
+nl.gamma.app.android
+nl.gamma.verf
+nl.karwei.app.android
 nmtracking.netflix.com
 no-cf.*.aws.indriverapp.com
 no-gw-cf.*.aws.indriverapp.com
@@ -7330,6 +7390,7 @@ outage.logitech.com
 outagehistory.logitech.com
 outlook.insightly.com
 ovo.id
+owa-v6.zivver.com
 owa.marriott.com
 oymyakon.indriver.io
 p.grabtaxi.com
@@ -7693,6 +7754,7 @@ shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
 sign.dropbox.com
+sign.zivver.com
 signature-insights.api.cx.metamask.io
 signin.auth.welt.de
 signup.myconnect.com.au
@@ -7914,7 +7976,6 @@ testnet.bitmex.com
 testnet.immutable.com
 teststs.uzleuven.be
 thebrowser.company
-therapeutics.23andme.com
 tickets.kinepolis.be
 tickets.kinepolis.ch
 tickets.kinepolis.es
@@ -8128,6 +8189,7 @@ www-qa.nba.com
 www-qa.wnba.com
 www-uat.nba.com
 www.1000-premiers-jours.fr
+www.23andme.com
 www.4njbets.com
 www.abritel.fr
 www.ad.nl
@@ -8261,6 +8323,8 @@ www.fortress.com.hk
 www.fraedom.com
 www.funjet.com
 www.fuzemeeting.com
+www.gamma.be/*
+www.gamma.nl/*
 www.geneva-staging.chat
 www.geneva-staging.com
 www.getaroom.com
@@ -8292,6 +8356,7 @@ www.infomaniak.com
 www.instacart.com
 www.intigriti.com
 www.jaybirdsport.com
+www.karwei.nl/*
 www.kayak.com
 www.kinepolis.be 
 www.kinepolis.biz
