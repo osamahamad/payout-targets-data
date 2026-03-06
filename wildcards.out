@@ -3,6 +3,8 @@
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *-api-*.acronis.com
 *-cvr-aws-*.sys.comcast.net
+*. advancedcustomfields.com
+*. bettersearchreplace.com
 *. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
@@ -235,6 +237,7 @@
 *.dailymotion.com
 *.dancecentral.com
 *.dcfgateway.marriott.com
+*.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demorgen.be
@@ -256,7 +259,6 @@
 *.district.in
 *.dm.gg
 *.dmcdn.net
-*.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
@@ -264,12 +266,6 @@
 *.download.originenergy.com.au
 *.dpgmedia.be
 *.dpgmedia.nl
-*.drogas.lt
-*.drogas.lv
-*.dropbox.com
-*.dropboxer.net
-*.dropboxforum.com
-*.dropboxpartners.com
 *.dropmix.com
 *.dropxl.com
 *.e2ro.com
@@ -308,6 +304,7 @@
 *.emakina.nl 
 *.emakina.us
 *.employer.seek.com
+*.enjinusercontent.com
 *.enspotify.com
 *.eops.nl
 *.epam.com
@@ -352,7 +349,6 @@
 *.folioinvesting.com
 *.forspotify.com
 *.fortnite.com
-*.fortress.com.hk
 *.found.io
 *.fromspotify.com
 *.fuze.com
@@ -424,9 +420,6 @@
 *.happening.dev
 *.harmonixmusic.com
 *.harmonyremote.com
-*.hellofax.com
-*.hellosign.com
-*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.bild.de
@@ -534,6 +527,7 @@
 *.link.co
 *.linktree-extensions.com
 *.livestream.com
+*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.logitech-channel-marketing.com
@@ -544,7 +538,6 @@
 *.logitechmusic.com
 *.logstash.net
 *.logstash.wtf
-*.lookatme.com.ph
 *.luckydays.ca
 *.luckydays.com
 *.lucra.live
@@ -615,7 +608,6 @@
 *.mobilevikings.be
 *.mobilitygraph.hereapi.com
 *.mona.co
-*.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
 *.moonpay.com
@@ -654,6 +646,7 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
+*.nitropack.io
 *.niumba.com
 *.nmfn.com
 *.nml.com
@@ -696,7 +689,6 @@
 *.paddypartners.com
 *.paddypower.com
 *.paddypower.it
-*.parknshop.com
 *.parool.nl
 *.paydiant.com
 *.paylution.com
@@ -722,7 +714,6 @@
 *.playtika.com
 *.playuzleuven.be
 *.playwsop.com
-*.pns.hk
 *.points.com
 *.polymoon.it
 *.portofantwerp.com
@@ -768,7 +759,6 @@
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
-*.reclaim.ai
 *.reddit.com
 *.redditblog.com
 *.reddithelp.com
@@ -891,6 +881,7 @@
 *.streamlabscharity.com
 *.stripchat.com
 *.stripe.com
+*.studiopress.com
 *.stylebook.de
 *.subp-router.hereapi.com
 *.superbet.com
@@ -1026,15 +1017,6 @@
 *.vtm.be
 *.vtmgo.be
 *.water-link.be/
-*.watsons.co.id
-*.watsons.co.th
-*.watsons.com.hk
-*.watsons.com.my
-*.watsons.com.ph
-*.watsons.com.sg
-*.watsons.com.tr
-*.watsons.com.tw
-*.watsons.vn
 *.wavecell.com
 *.wealthsimple.com
 *.weareone.world
@@ -1063,6 +1045,8 @@
 *.worldcoin.org
 *.worldfirst.com
 *.wotif.com
+*.wpengine.io
+*.wpesvc.net
 *.x.ai
 *.x.com
 *.xcal.tv
