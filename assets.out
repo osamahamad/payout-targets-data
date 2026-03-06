@@ -18,6 +18,8 @@
 *-eu.truecaller.com
 *-noneu.truecaller.com
 *-vpn.8x8.com
+*. advancedcustomfields.com
+*. bettersearchreplace.com
 *. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
@@ -250,6 +252,7 @@
 *.dailymotion.com
 *.dancecentral.com
 *.dcfgateway.marriott.com
+*.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demorgen.be
@@ -542,6 +545,7 @@
 *.link.co
 *.linktree-extensions.com
 *.livestream.com
+*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.logitech-channel-marketing.com
@@ -662,6 +666,7 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
+*.nitropack.io
 *.niumba.com
 *.nmfn.com
 *.nml.com
@@ -898,6 +903,7 @@
 *.streamlabscharity.com
 *.stripchat.com
 *.stripe.com
+*.studiopress.com
 *.stylebook.de
 *.subp-router.hereapi.com
 *.superbet.com
@@ -1070,6 +1076,8 @@
 *.worldcoin.org
 *.worldfirst.com
 *.wotif.com
+*.wpengine.io
+*.wpesvc.net
 *.x.ai
 *.x.com
 *.xcal.tv
@@ -2027,7 +2035,6 @@ Internal Server via Internet Network
 Internet.xfinity.com
 Interoperability Issue in OpenPGP.js
 Java SDK
-JavaScript Client Adapter
 Jetpack
 Jira
 Jira Projects
@@ -2036,8 +2043,6 @@ K105G
 K9
 K9Pro
 K9s
-Keycloak Operator
-Keycloak Server
 Kibana
 Kindle E-Reader
 Klarna Android App (com.myklarnamobile)
@@ -2124,7 +2129,6 @@ Media Encoder
 Megaphone
 Membership
 Merchant Portal
-Message signing snap
 MetaMask Browser Extension
 MetaMask SDK
 Meural
@@ -2357,7 +2361,6 @@ Skyscanner iOS app
 Slack Desktop Application
 Smokescreen Open Source Project
 Snaps
-Snaps Development Packages
 Social Media Accounts
 Software
 Software Supply Chain
@@ -2527,6 +2530,7 @@ WARP desktop client
 WGP Slot Games
 WHOOP 4.0 STRAP
 WHOOP 5.0/MG STRAP
+WP Engine-developed WordPress Plugins and Themes
 WP-CLI
 Waiting Room
 Watsons Hong Kong Android
@@ -2730,7 +2734,6 @@ api-*.soundcloud.com
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
 api-dashboard.search.brave.com
-api-dashboard.web3auth.io
 api-eu.floqast.app
 api-gateway.polygon.technology
 api-gw-cf.*.aws.indriverapp.com
@@ -3749,7 +3752,6 @@ dashboard.pluralonline.com
 dashboard.privy.io
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
-dashboard.web3auth.io
 data.mail.yahoo.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
@@ -3801,7 +3803,6 @@ developer.dailymotion.com
 developer.gs.com
 developer.infomaniak.com
 developer.konghq.com
-developer.metamask.io
 developer.mozilla.org
 developer.playcanvas.com
 developer.swapcard.com/event-admin/graphql
@@ -4375,6 +4376,7 @@ https://app.chime.com
 https://app.datadome.co
 https://app.easy4ipcloud.com
 https://app.ecwid.com/api/v3/	
+https://app.getflywheel.com
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.ibotta.com/sign-in 
 https://app.insomnia.rest/
@@ -4900,6 +4902,7 @@ https://gemvisa.com.au
 https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
+https://getflywheel.com
 https://git.libssh.org/
 https://github.com/Aiven
 https://github.com/Aiven-Open
@@ -4943,13 +4946,6 @@ https://github.com/auth0/nextjs-auth0
 https://github.com/auth0/passport-wsfed-saml2
 https://github.com/auth0/react-native-auth0
 https://github.com/backstage/backstage
-https://github.com/bigbluebutton/bbb-playback
-https://github.com/bigbluebutton/bbb-presentation-video
-https://github.com/bigbluebutton/bbb-webrtc-recorder
-https://github.com/bigbluebutton/bbb-webrtc-sfu
-https://github.com/bigbluebutton/bigbluebutton
-https://github.com/bigbluebutton/greenlight
-https://github.com/blindsidenetworks/scalelite
 https://github.com/brave/*, https://github.com/brave-intl/*
 https://github.com/buildonspark/spark
 https://github.com/cashapp/cash-app-pay-android-sdk
@@ -5008,31 +5004,6 @@ https://github.com/innocraft/
 https://github.com/iqlusioninc/crates/tree/main/signatory
 https://github.com/iqlusioninc/tmkms
 https://github.com/iqlusioninc/yubihsm.rs
-https://github.com/jenkinsci/credentials-binding-plugin
-https://github.com/jenkinsci/credentials-plugin
-https://github.com/jenkinsci/git-client-plugin
-https://github.com/jenkinsci/git-plugin
-https://github.com/jenkinsci/github-branch-source-plugin
-https://github.com/jenkinsci/github-plugin
-https://github.com/jenkinsci/jelly
-https://github.com/jenkinsci/jenkins
-https://github.com/jenkinsci/ldap-plugin
-https://github.com/jenkinsci/matrix-auth-plugin
-https://github.com/jenkinsci/pipeline-build-step-plugin
-https://github.com/jenkinsci/pipeline-groovy-lib-plugin
-https://github.com/jenkinsci/pipeline-input-step-plugin
-https://github.com/jenkinsci/pipeline-stage-step-plugin
-https://github.com/jenkinsci/plain-credentials-plugin
-https://github.com/jenkinsci/remoting
-https://github.com/jenkinsci/script-security-plugin
-https://github.com/jenkinsci/ssh-agents-plugin
-https://github.com/jenkinsci/ssh-credentials-plugin
-https://github.com/jenkinsci/stapler
-https://github.com/jenkinsci/winstone
-https://github.com/jenkinsci/workflow-cps-plugin
-https://github.com/jenkinsci/workflow-multibranch-plugin
-https://github.com/jenkinsci/workflow-scm-step-plugin
-https://github.com/jenkinsci/workflow-support-plugin
 https://github.com/jitsi
 https://github.com/justeattakeaway
 https://github.com/kiwicom/*
@@ -5367,6 +5338,7 @@ https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|
 https://m.csqtrk.net
 https://m.thefork.com
 https://maf-holding-prod.apigee.net
+https://makeshift.film
 https://manage.cic-bug-bounty.auth0app.com/
 https://manage.statuspage.io
 https://manager.thefork.com
@@ -5782,6 +5754,7 @@ https://my.salt.ch
 https://my.sogexia.com
 https://my.thesecurityteam.rocks
 https://my.ultramobile.com
+https://my.wpengine.com
 https://my.wyze.com
 https://myaccount-staging.getmoneytree.com
 https://myapi.arlo.com
@@ -5880,6 +5853,7 @@ https://paymayabiller-prod.paymaya.com/
 https://payment-connectors.vendhq.com/
 https://payment.lafourchette.com
 https://payments.myntra.com
+https://payments.wpengine.com
 https://payoutapi.maya.ph/
 https://pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-revision/
 https://pbgq-pes.deontologie-policiere.gouv.qc.ca/reponses-questions/
@@ -6219,6 +6193,7 @@ https://stp.wien.gv.at
 https://student.classdojo.com
 https://student.monash
 https://studentplacements.monash.edu
+https://studiopress.blog
 https://suggestions.opera-api.com
 https://superbet.pl
 https://superbet.ro
@@ -6262,6 +6237,7 @@ https://ticket.multiplayer.classdojo.com
 https://tidal.com/
 https://tools-api.cryptocompare.com/
 https://toom.de
+https://torquemag.io
 https://tr.ee
 https://tracker.bugcrowd.com
 https://tracker.naspers.com/
@@ -6322,12 +6298,12 @@ https://us.eufy.com/products/t88511d1
 https://us.eufy.com/products/t88711w1
 https://us.identity.konghq.com/*
 https://usdstandard.com/
-https://user-storage.api.cx.metamask.io
 https://utv.usaa.com
 https://v.utv.usaa.com
 https://vault-staging.getmoneytree.com
 https://vault.chiatest.net/
 https://vc.tasheer.com/
+https://velocitize.com
 https://vendors.paddle.com
 https://vendorss.usaa.com
 https://vfs-ai-tiff-image-api-hchkdabjdsdya6ea.switzerlandnorth-01.azurewebsites.net/
@@ -6367,6 +6343,7 @@ https://wiki.xenproject.org/wiki/Xen_Project_Repositories
 https://wise.com
 https://world.planethoster.net
 https://wowjobs.ca
+https://wpengine.com
 https://ws-{app-id}.calls.sendbird.com
 https://ws-{app-id}.sendbird.com
 https://ws.multiplayer.classdojo.com/
@@ -7408,7 +7385,6 @@ portal.taxi.booking.com
 portalinmobiliario.cl
 portalinmobiliario.com
 portfolio.ccpsx.com
-portfolio.metamask.io
 portland-dev.wnba.com
 portland-qa.wnba.com
 portland.wnba.com
