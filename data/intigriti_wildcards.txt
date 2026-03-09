@@ -101,6 +101,8 @@ Leaked/compromised employee accounts *.here.com
 *.acc.mobilevikings.be
 *.dev-pub.mobilevikings.be
 *.dev.mobilevikings.be
+*.monzo.com
+*.prod-ffs.io
 *.nexuzhealth.*
 *.app.personio-dev.com
 *.app.personio.com
@@ -117,14 +119,7 @@ Leaked/compromised employee accounts *.here.com
 *.superdrug.com
 *.savers.co.uk
 *.theperfumeshop.com
-*.weareone.world
-*.stag.tomorrowland.com
-*.stag.weareone.world
-*.tomorrowland.com
 *.trouw.nl
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
@@ -147,14 +142,8 @@ Leaked/compromised employee accounts *.here.com
 *.vintedgo.com
 *sandbox*.vintedgo.com
 *sandbox*.vinted.com
-*. advancedcustomfields.com
-*. bettersearchreplace.com
-*.deliciousbrains.com
-*.localwp.com
-*.nitropack.io
-*.studiopress.com
-*.wpengine.io
-*.wpesvc.net
+*.voi.com
+*.voiscooters.com
 *.water-link.be/
 *.watsons.com.hk
 *.watsons.co.th
