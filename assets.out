@@ -282,8 +282,6 @@
 *.download.originenergy.com.au
 *.dpgmedia.be
 *.dpgmedia.nl
-*.drogas.lt
-*.drogas.lv
 *.dropmix.com
 *.dropxl.com
 *.e2ro.com
@@ -367,7 +365,6 @@
 *.folioinvesting.com
 *.forspotify.com
 *.fortnite.com
-*.fortress.com.hk
 *.found.io
 *.fromspotify.com
 *.fuze.com
@@ -564,7 +561,6 @@
 *.logitechmusic.com
 *.logstash.net
 *.logstash.wtf
-*.lookatme.com.ph
 *.luckydays.ca
 *.luckydays.com
 *.lucra.live
@@ -635,7 +631,6 @@
 *.mobilevikings.be
 *.mobilitygraph.hereapi.com
 *.mona.co
-*.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
 *.monzo.com
@@ -713,7 +708,6 @@
 *.paddypartners.com
 *.paddypower.com
 *.paddypower.it
-*.parknshop.com
 *.parool.nl
 *.paydiant.com
 *.paylution.com
@@ -739,7 +733,6 @@
 *.playtika.com
 *.playuzleuven.be
 *.playwsop.com
-*.pns.hk
 *.points.com
 *.polymoon.it
 *.portofantwerp.com
@@ -1047,15 +1040,6 @@
 *.vtm.be
 *.vtmgo.be
 *.water-link.be/
-*.watsons.co.id
-*.watsons.co.th
-*.watsons.com.hk
-*.watsons.com.my
-*.watsons.com.ph
-*.watsons.com.sg
-*.watsons.com.tr
-*.watsons.com.tw
-*.watsons.vn
 *.wavecell.com
 *.wealthsimple.com
 *.weareone.world
@@ -1857,10 +1841,6 @@ Discovered Leaked Credentials
 Dovecot IMAP Server and Pigeonhole SIEVE (see "Software packages" and "Source code")
 Dreamweaver
 Drivers
-Drogas Latvia Android
-Drogas Latvia iOS
-Drogas Lithuania Android
-Drogas Lithuania iOS
 Dynatrace ActiveGate
 Dynatrace MobileAgent
 Dynatrace OneAgent
@@ -1936,8 +1916,6 @@ FortniteLauncher-Win64-Shipping.exe
 FortniteLauncher-Win64-Shipping_BE.exe
 FortniteLauncher-Win64-Shipping_EAC.exe
 FortniteLauncher.exe
-Fortress Hong Kong Android
-Fortress Hong Kong iOS
 Framemaker
 FranceConnect (see program description for github link)
 FranceConnect+ (see program description for github link)
@@ -2097,8 +2075,6 @@ Logitech Mice & Keyboards
 Logitech Options PC/MAC
 Logitech Sync
 Logstash
-LookAtMe Philippines Android
-LookAtMe Philippines iOS
 Low Cost Access
 Low impact, individually exposed Google Docs with no common root cause (see “Publicly accessible Google Document or Drive Links” in the “Corporate Targets” section)
 Luna
@@ -2160,8 +2136,6 @@ Microsites
 Mobile Applications
 Mobile Apps
 Moderate Level Properties
-Moneyback Android
-Moneyback iOS
 MongoDB Assistant
 MongoDB Atlas
 MongoDB Community Server
@@ -2265,8 +2239,6 @@ Other non-production infrastructure
 Other related e-commerce services
 PHP SDK
 PIA VPN servers
-PNS Android
-PNS iOS
 PTaaS Reference
 Packet Forward Middleware
 Passkey Wallet
@@ -2549,24 +2521,6 @@ WHOOP 5.0/MG STRAP
 WP Engine-developed WordPress Plugins and Themes
 WP-CLI
 Waiting Room
-Watsons Hong Kong Android
-Watsons Hong Kong iOS
-Watsons Indonesia Android
-Watsons Indonesia iOS
-Watsons Malaysia Android
-Watsons Malaysia iOS
-Watsons Philippines Android
-Watsons Philippines iOS
-Watsons Singapore Android
-Watsons Singapore iOS
-Watsons Taiwan Android
-Watsons Taiwan iOS
-Watsons Thailand Android
-Watsons Thailand iOS
-Watsons Turkey Android
-Watsons Turkey iOS
-Watsons Vietnam Android
-Watsons Vietnam iOS
 Web Playback SDK
 Web SDK
 Web of Trust Specification
@@ -2677,7 +2631,6 @@ aces-qa.wnba.com
 aces.wnba.com
 actionnaires.vinci.com
 activities.marriott.com
-adayevrak.watsons.com.tr
 adb.nba.com
 addons.allizom.org
 adm.cloud.com
@@ -2793,8 +2746,6 @@ api.digital.delen.lu
 api.digitalocean.com
 api.direct.playstation.com
 api.doppler.com
-api.drogas.lt
-api.drogas.lv
 api.dyson.at
 api.dyson.be
 api.dyson.ch
@@ -2819,7 +2770,6 @@ api.faraday.ai
 api.fi.dyson.com
 api.figma.com
 api.foliofn.com
-api.fortress.com.hk
 api.geneva-staging.com
 api.github.com
 api.gobiz.co.id
@@ -2845,7 +2795,6 @@ api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
-api.lookatme.com.ph
 api.magic.link
 api.mapbox.com
 api.marionnaud.at
@@ -2868,7 +2817,6 @@ api.ort-one-pingone.com
 api.ovh.com
 api.personio-dev.com
 api.personio.com
-api.pns.hk
 api.portal.enterprise.uphold.com 
 api.portofantwerp.com
 api.portofantwerpbruges.com
@@ -2919,15 +2867,6 @@ api.upwork.com/graphql
 api.vault.chiatest.net
 api.vhx.tv
 api.vimeo.com
-api.watsons.co.id
-api.watsons.co.th
-api.watsons.com.hk
-api.watsons.com.my
-api.watsons.com.ph
-api.watsons.com.sg
-api.watsons.com.tr
-api.watsons.com.tw
-api.watsons.vn
 api.wisdomtreeprimeapp.com
 api.wordpress.org
 api.workbox.dk
@@ -2951,8 +2890,6 @@ app.delen.be
 app.delen.ch 
 app.delen.lu 
 app.deriv.com
-app.drogas.lt
-app.drogas.lv
 app.dynamic-preprod.xyz
 app.dynamic.xyz
 app.expressmailguard.com
@@ -3010,7 +2947,6 @@ app.taxjar.com
 app.theperfumeshop.com
 app.truelayer[-sandbox].com
 app.uma.money
-app.watsons.com.tr
 app.whoop.com
 app.workbox.dk
 app.zivver.com
@@ -3144,7 +3080,6 @@ blog.playcanvas.com
 blog.remitly.com
 blog.ui.com
 blog.unico.io
-blog.watsons.com.tr
 blox.link
 blueprints.amazon.com
 blueskytours.globalbookingsolutions.com
@@ -3181,7 +3116,6 @@ bugcrowd-pam-###.pam.oktapreview.com
 bugzilla.mozilla.org
 builder.hostinger.com
 building-blocks.com
-bulten.watsons.com.tr
 business-resources.truecaller.com
 business.kayak.com
 business.kinepolis.be
@@ -3213,8 +3147,6 @@ campagne.iciparisxl.nl
 campaign-uat.kruidvat.be
 campaign-uat.kruidvat.nl
 campaign-uat.trekpleister.nl
-campaign.drogas.lt
-campaign.drogas.lv
 campaign.kruidvat.be
 campaign.kruidvat.nl
 campaign.marionnaud.at
@@ -3226,7 +3158,6 @@ campaign.savers.co.uk
 campaign.superdrug.com
 campaign.theperfumeshop.com
 campaign.trekpleister.nl
-campaign.watsons.com.tr
 campaigns.theperfumeshop.com
 campus.datacamp.com
 cancellation.prod.ps.welt.de
@@ -3682,9 +3613,6 @@ community.forescout.com
 community.logitech.com
 community.superdrug.com
 community.ui.com
-community.watsons.co.th
-community.watsons.com.my
-community.watsons.com.ph
 company.thebrowser.arc
 compass.fareharbor.com
 competitive.fortnite.com
@@ -4055,7 +3983,6 @@ gateway.geneva-staging.com
 gateway.reddit.com
 gateway.skyscanner.net/*
 gateway.superhuman.com
-gc.watsons.com.tr
 geneva-staging.chat
 geofilters.snapchat.com
 getworldcoin.com
@@ -6770,7 +6697,6 @@ idpay-uat.unico.io
 ifast.marriott.com
 iframe.arkoselabs.com
 ifttt-adaptor.pub.kube.dm.gg
-ik.watsons.com.tr
 img.swapcard.com
 img.zivver.com
 imove.bpost.cloud
@@ -6855,7 +6781,6 @@ karwei-promotiepunt.nl
 kassa.gamma.be/*
 kassa.gamma.nl/*
 kassa.karwei.nl/*
-katalog.watsons.com.tr
 kayak.ai
 kidswebservices.com
 kinepolis-studio.be
@@ -6983,7 +6908,6 @@ manage.nba.com
 manager.infomaniak.com/v3/*
 mangerbouger.fr
 map.snapchat.com
-mapi.moneyback.com.hk
 mark8.syfe.com
 marketing.fareharbor.com
 marketing.na1.insightly.com
@@ -7015,8 +6939,6 @@ mcdalerts-uat.nba.com
 mcdalerts.nba.com
 mch*.indriverapp.com
 mds.marriott.com
-media.drogas.lt
-media.drogas.lv
 media.iciparisxl.be
 media.iciparisxl.lu
 media.iciparisxl.nl
@@ -7035,19 +6957,7 @@ media.savers.co.uk
 media.simplisafe.com
 media.superdrug.com
 media.theperfumeshop.com
-media.watsons.com.tr
 mediacenter.23andme.com
-medias.fortress.com.hk
-medias.lookatme.com.ph
-medias.pns.hk
-medias.watsons.co.id
-medias.watsons.co.th
-medias.watsons.com.hk
-medias.watsons.com.my
-medias.watsons.com.ph
-medias.watsons.com.sg
-medias.watsons.com.tw
-medias.watsons.vn
 medical.23andme.com
 meechum.netflix.com
 meetings.hyatt.com
@@ -7056,7 +6966,6 @@ meinkonto.bild.de
 meliplay.com.ar
 meliplay.com.pe
 meliplay.com.uy
-member.watsons.com.tw
 mercadolibreexperience.cl
 mercadolivreexperience.com.br/
 mercadoplay.co
@@ -7280,7 +7189,6 @@ obs-sensors.iris.production.forescoutcloud.net
 ocijlbex1prd.marriott.com
 octopus
 odoo14.notebleue.pro
-odul.watsons.com.tr
 og.com
 om.vodafone.mva
 on-premises software
@@ -7607,8 +7515,6 @@ scan.clearme.com
 scan.nextcloud.com
 scan.snapchat.com
 scapegoat.hyatt.com
-scp.watsons.com.tr
-scpapi.watsons.com.tr
 screenshot-proxy.netlify.app
 scrutiny.swiftfinancial.com
 search.brave.com
@@ -8038,7 +7944,6 @@ wallets.api.playstation.com
 wallettg.com
 wallettg.net
 was-gw-cf.*.aws.indriverapp.com
-wasapi.watsons.com.tr
 watchdocs.indriverapp.com
 wd2*.indriverapp.com
 weather.opera-api.com
@@ -8183,8 +8088,6 @@ www.doctolib.(fr|de|it)
 www.dolap.com
 www.doordash.com
 www.dota2.com
-www.drogas.lt
-www.drogas.lv
 www.dvpc.net
 www.dyson.ae
 www.dyson.at
@@ -8246,7 +8149,6 @@ www.fitvermogen.nl
 www.flights.com
 www.fondation-vinci.com
 www.forescout.com
-www.fortress.com.hk
 www.fraedom.com
 www.funjet.com
 www.fuzemeeting.com
@@ -8316,7 +8218,6 @@ www.logitech.com.cn
 www.logitechclub.com
 www.logitechg.com
 www.logitechstore.com.br
-www.lookatme.com.ph
 www.malwarebytes.com
 www.mapbox.com
 www.mariacasino.(com|se|ee|dk)
@@ -8348,7 +8249,6 @@ www.mini.de
 www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
-www.moneyback.com.hk
 www.monzo.com
 www.mozilla.org
 www.mrjet.se
@@ -8367,7 +8267,6 @@ www.parool.nl
 www.parool.nl/abonnementen
 www.paypal-*.com
 www.pixiv.net
-www.pns.hk
 www.pornbox.com
 www.pornworld.com
 www.portofantwerpbruges.com
@@ -8495,16 +8394,6 @@ www.vodafone.om
 www.volkskrant.nl
 www.volkskrant.nl/abonnementen
 www.vrbo.com
-www.watsons.co.id
-www.watsons.co.th
-www.watsons.com.hk
-www.watsons.com.my
-www.watsons.com.ph
-www.watsons.com.sg
-www.watsons.com.tr
-www.watsons.com.tw
-www.watsons.vn
-www.watsonsbeautystudio.com
 www.wearehackerone.com
 www.whatismode.com
 www.wickr.com
@@ -8520,17 +8409,6 @@ www.yotisign.com
 www.zooplus.co.uk
 www.zooplus.com
 www.zooplus.de
-www10.fortress.com.hk
-www10.pns.hk
-www10.watsons.co.id
-www10.watsons.co.th
-www10.watsons.com.hk
-www10.watsons.com.my
-www10.watsons.com.ph
-www10.watsons.com.sg
-www10.watsons.com.tw
-www10.watsons.vn
-www20.watsons.co.th
 x.com
 x.razorpay.com
 xFi Gateways (e.g., XB3, XB6, XB7)
