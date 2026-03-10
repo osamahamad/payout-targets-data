@@ -3,6 +3,8 @@
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *-api-*.acronis.com
 *-cvr-aws-*.sys.comcast.net
+*. advancedcustomfields.com
+*. bettersearchreplace.com
 *. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
@@ -234,7 +236,9 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
+*.datacamp.com
 *.dcfgateway.marriott.com
+*.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demorgen.be
@@ -527,6 +531,7 @@
 *.link.co
 *.linktree-extensions.com
 *.livestream.com
+*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.logitech-channel-marketing.com
@@ -633,11 +638,6 @@
 *.napoleondice.be
 *.napoleongames.be
 *.napoleonsports.be
-*.neat.com.hk
-*.neat.hk
-*.neat.wtf
-*.neatcommerce.com
-*.neattest.com
 *.network-auth.com
 *.new.livestream.com
 *.newegg.ca
@@ -648,6 +648,7 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
+*.nitropack.io
 *.niumba.com
 *.nmfn.com
 *.nml.com
@@ -869,9 +870,13 @@
 *.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
+*.sqills.com
+*.sqills.team
 *.srvcs.tumblr.com
 *.ssr.ccp.xcal.tv 
 *.stadtwien.onmicrosoft.com
+*.stag.tomorrowland.com
+*.stag.weareone.world
 *.staging-airtableblocks.com
 *.staging.airtable.com
 *.staging.cloud.8x8.com
@@ -883,6 +888,7 @@
 *.streamlabscharity.com
 *.stripchat.com
 *.stripe.com
+*.studiopress.com
 *.stylebook.de
 *.subp-router.hereapi.com
 *.superbet.com
@@ -923,6 +929,7 @@
 *.tinderops.net
 *.tinderwebstaging.com
 *.tktnew.com
+*.tomorrowland.com
 *.tools.thefork.tech
 *.toolsforhumanity.com
 *.topperpay.com
@@ -941,6 +948,9 @@
 *.trip.com
 *.triplinkintl.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tumblr.com
@@ -1007,8 +1017,6 @@
 *.visamiddleeast.com
 *.vliegwinkel.nl
 *.vod2.infomaniak.com
-*.voi.com
-*.voiscooters.com
 *.volkskrant.nl
 *.volkswagen.de
 *.vpn.hackerone.net
@@ -1027,6 +1035,7 @@
 *.watsons.vn
 *.wavecell.com
 *.wealthsimple.com
+*.weareone.world
 *.web3factory.consensys.net
 *.wellsfargo.com
 *.wellsfargoadvisors.com
@@ -1052,6 +1061,8 @@
 *.worldcoin.org
 *.worldfirst.com
 *.wotif.com
+*.wpengine.io
+*.wpesvc.net
 *.x.ai
 *.x.com
 *.xcal.tv

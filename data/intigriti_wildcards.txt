@@ -41,6 +41,7 @@
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -116,10 +117,19 @@ Leaked/compromised employee accounts *.here.com
  *.rivian.com
 *.swisspass.ch
 *.sbb.ch
+*.sqills.com
+*.sqills.team
 *.superdrug.com
 *.savers.co.uk
 *.theperfumeshop.com
+*.weareone.world
+*.stag.tomorrowland.com
+*.stag.weareone.world
+*.tomorrowland.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
@@ -142,8 +152,14 @@ Leaked/compromised employee accounts *.here.com
 *.vintedgo.com
 *sandbox*.vintedgo.com
 *sandbox*.vinted.com
-*.voi.com
-*.voiscooters.com
+*. advancedcustomfields.com
+*. bettersearchreplace.com
+*.deliciousbrains.com
+*.localwp.com
+*.nitropack.io
+*.studiopress.com
+*.wpengine.io
+*.wpesvc.net
 *.water-link.be/
 *.watsons.com.hk
 *.watsons.co.th
