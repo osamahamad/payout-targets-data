@@ -275,7 +275,6 @@
 *.district.in
 *.dm.gg
 *.dmcdn.net
-*.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
@@ -285,10 +284,6 @@
 *.dpgmedia.nl
 *.drogas.lt
 *.drogas.lv
-*.dropbox.com
-*.dropboxer.net
-*.dropboxforum.com
-*.dropboxpartners.com
 *.dropmix.com
 *.dropxl.com
 *.e2ro.com
@@ -446,9 +441,6 @@
 *.happening.dev
 *.harmonixmusic.com
 *.harmonyremote.com
-*.hellofax.com
-*.hellosign.com
-*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.bild.de
@@ -577,7 +569,6 @@
 *.luckydays.com
 *.lucra.live
 *.lukwerks.com
-*.lululemon.com
 *.luxuryretreats.com
 *.lyst.co
 *.lyst.com
@@ -794,7 +785,6 @@
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
-*.reclaim.ai
 *.reddit.com
 *.redditblog.com
 *.reddithelp.com
@@ -901,8 +891,6 @@
 *.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
-*.sqills.com
-*.sqills.team
 *.srvcs.tumblr.com
 *.ssr.ccp.xcal.tv 
 *.stadtwien.onmicrosoft.com
@@ -1152,7 +1140,6 @@
 1052238659
 1057338687
 107.167.96.0/19
-1080074001
 1080248000
 1089294040
 1091010942
@@ -1432,7 +1419,6 @@
 3.basecamp.com
 302584613
 319881193
-327630330
 328407587
 335187483
 336381998
@@ -1509,7 +1495,6 @@
 6444040977
 6444868926
 6449737830
-6450553960
 6452192521
 645949180
 6462308655
@@ -1868,8 +1853,6 @@ Drogas Latvia Android
 Drogas Latvia iOS
 Drogas Lithuania Android
 Drogas Lithuania iOS
-Dropbox Desktop Application
-Dropbox.com
 Dynatrace ActiveGate
 Dynatrace MobileAgent
 Dynatrace OneAgent
@@ -2028,8 +2011,6 @@ Hardware found on https://www.ezviz.com/category/security-wifi-cameras
 Hardware found on https://www.ezviz.com/category/smart-home
 Harmony Remote Software
 Harmony Remotes
-HelloFax.com
-HelloSign.com
 Hermes Relayer
 High Level Properties
 Horcrux
@@ -2799,7 +2780,6 @@ api.direct.playstation.com
 api.doppler.com
 api.drogas.lt
 api.drogas.lv
-api.dropbox.com
 api.dyson.at
 api.dyson.be
 api.dyson.ch
@@ -2943,7 +2923,6 @@ apix.vodafone.om
 app*.hubspot.com
 app-*.easy4ipcloud.com
 app-insiders.marriott.com
-app.Reclaim.ai
 app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
@@ -3431,8 +3410,6 @@ com.dd.doordash
 com.defi.wallet
 com.deribit
 com.dolap.android
-com.dropbox.android
-com.dropbox.dash
 com.dyson.mobile.android
 com.ebookers
 com.eero.android
@@ -3769,9 +3746,7 @@ cweb-ott.nba.com
 cyberghost.app
 cyberghost.com
 cz.skodaauto.myskoda
-dash.ai
 dash.cloudflare.com
-dash.dropbox.com
 dashboard.doppler.com
 dashboard.magic.link
 dashboard.mergify.com
@@ -3873,7 +3848,6 @@ docs.optimuscards.com
 docs.redoxengine.com
 docs.topperpay.com
 docs.uphold.com
-docsend.com
 docuflow.stg.inspectorio.com
 donations.livestream.com
 doordash.DoorDashConsumer
@@ -3887,7 +3861,6 @@ dream-dev.wnba.com
 dream-qa.wnba.com
 dream.wnba.com
 drive.wolt.com
-dropbox.com/paper
 dx-demo.deriv.com
 dx.deriv.com
 e-Commerce
@@ -4230,7 +4203,6 @@ http://www.bybit.com/en/alpha/overview/
 http://www.bybit.com/trade/tradfi/
 http://www.byreal.io
 http://www.kiwi.com/stories
-http://www.lululemon.co.kr/
 http://www.myvisacardportal.com/welcome/enbd/product/#
 http://www.rei.com/learn/expert-advice
 http://www.shopmarriott.com
@@ -4543,7 +4515,6 @@ https://apps.apple.com/us/app/kucoin-buy-bitcoin-crypto/id1378956601?mt=8
 https://apps.apple.com/us/app/lastpass-authenticator/id1079110004
 https://apps.apple.com/us/app/lastpass-password-manager/id324613447
 https://apps.apple.com/us/app/loom-screen-recorder/id1474480829
-https://apps.apple.com/us/app/lululemon/id920098546
 https://apps.apple.com/us/app/mattermost/id1257222717
 https://apps.apple.com/us/app/mint-mobile/id1295303441
 https://apps.apple.com/us/app/monash-study/id1462126829
@@ -6170,7 +6141,6 @@ https://sfleet.cortexpowered.com
 https://sflower.cortexpowered.com
 https://shop-acc.kinepolis.be/
 https://shop.ifood.com.br
-https://shop.lululemon.com
 https://shop.monash.edu/
 https://shop.post.ch/shop
 https://sign.originzero.com.au
@@ -6456,7 +6426,6 @@ https://www.epam.com/
 https://www.etsy.com
 https://www.etsy.com/developers/documentation/getting_started/api_basics
 https://www.etsy.com/mobile
-https://www.eu.lululemon.com/
 https://www.exoscale.com/
 https://www.financeiro.quintoandar.com.br/*
 https://www.finicity.com
@@ -6505,14 +6474,6 @@ https://www.logitech.com/blog
 https://www.lookfantastic.com/
 https://www.loom.com/
 https://www.loom.com/download
-https://www.lululemon.co.jp/
-https://www.lululemon.co.nz/
-https://www.lululemon.co.uk/
-https://www.lululemon.com.au/  
-https://www.lululemon.com.hk/
-https://www.lululemon.de/
-https://www.lululemon.es/ 
-https://www.lululemon.fr/
 https://www.lululemon.me
 https://www.magicplanetmena.com/
 https://www.malloftheemirates.com
@@ -6711,6 +6672,7 @@ hub.yoti.com
 hubacc.vznkul.be/*
 hubacc.vznkul.be/services/acceptance/interhub/InterHubService
 hubacc.vznkul.be/services/acceptance/intrahub/IntraHubService
+hubspot.net
 humo.be/registreren
 hungrygowhere.com
 hyatt.com
@@ -7529,7 +7491,6 @@ rei.com
 relay.firefox.com
 relay.playcanvas.com
 remitly.com
-replay.dropbox.com
 repo.magento.com
 report-html-sight.stg.inspectorio.com
 res.blueskytours.globalbookingsolutions.com
@@ -7672,7 +7633,6 @@ shopify-admin.truelayer.com
 shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
-sign.dropbox.com
 sign.zivver.com
 signature-insights.api.cx.metamask.io
 signin.auth.welt.de
