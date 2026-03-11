@@ -363,6 +363,8 @@
 *.fuze.com
 *.fuze.site
 *.gaming.gopayapi.com
+*.gamma.be/*
+*.gamma.nl/*
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
@@ -488,6 +490,9 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
+*.intergamma-test.nl
+*.intergamma.cloud
+*.intergamma.nl/*
 *.internal.exoscale.ch
 *.intigriti.me
 *.itcapital.io
@@ -501,6 +506,8 @@
 *.jobstreet.com.sg
 *.jora.com
 *.jora.xyz
+*.karwei.nl/*
+*.karweioutletstore.nl
 *.kayak.com
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
@@ -781,6 +788,7 @@
 *.redecor.com
 *.rentalcars.com
 *.reposify.com
+*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -795,7 +803,6 @@
 *.saltlabs.com
 *.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
-*.savers.co.uk
 *.say.rocks
 *.saytechnologies.com
 *.sba.marriott.com
@@ -904,7 +911,6 @@
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
-*.superdrug.com
 *.superhuman.com
 *.support.originenergy.com.au
 *.swiftype.com
@@ -1049,6 +1055,9 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
 *.wf.com
 *.wien.at
 *.wien.gv.at
