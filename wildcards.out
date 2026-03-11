@@ -267,6 +267,8 @@
 *.download.originenergy.com.au
 *.dpgmedia.be
 *.dpgmedia.nl
+*.drogas.lt
+*.drogas.lv
 *.dropmix.com
 *.dropxl.com
 *.e2ro.com
@@ -350,13 +352,12 @@
 *.folioinvesting.com
 *.forspotify.com
 *.fortnite.com
+*.fortress.com.hk
 *.found.io
 *.fromspotify.com
 *.fuze.com
 *.fuze.site
 *.gaming.gopayapi.com
-*.gamma.be/*
-*.gamma.nl/*
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
@@ -479,9 +480,6 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
-*.intergamma-test.nl
-*.intergamma.cloud
-*.intergamma.nl/*
 *.internal.exoscale.ch
 *.intigriti.me
 *.itcapital.io
@@ -495,8 +493,6 @@
 *.jobstreet.com.sg
 *.jora.com
 *.jora.xyz
-*.karwei.nl/*
-*.karweioutletstore.nl
 *.kayak.com
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
@@ -546,6 +542,7 @@
 *.logitechmusic.com
 *.logstash.net
 *.logstash.wtf
+*.lookatme.com.ph
 *.luckydays.ca
 *.luckydays.com
 *.lucra.live
@@ -616,6 +613,7 @@
 *.mobilevikings.be
 *.mobilitygraph.hereapi.com
 *.mona.co
+*.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
 *.monzo.com
@@ -693,6 +691,7 @@
 *.paddypartners.com
 *.paddypower.com
 *.paddypower.it
+*.parknshop.com
 *.parool.nl
 *.paydiant.com
 *.paylution.com
@@ -718,6 +717,7 @@
 *.playtika.com
 *.playuzleuven.be
 *.playwsop.com
+*.pns.hk
 *.points.com
 *.polymoon.it
 *.portofantwerp.com
@@ -772,7 +772,6 @@
 *.redecor.com
 *.rentalcars.com
 *.reposify.com
-*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -1025,6 +1024,15 @@
 *.vtm.be
 *.vtmgo.be
 *.water-link.be/
+*.watsons.co.id
+*.watsons.co.th
+*.watsons.com.hk
+*.watsons.com.my
+*.watsons.com.ph
+*.watsons.com.sg
+*.watsons.com.tr
+*.watsons.com.tw
+*.watsons.vn
 *.wavecell.com
 *.wealthsimple.com
 *.weareone.world
@@ -1032,9 +1040,6 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
 *.wf.com
 *.wien.at
 *.wien.gv.at
