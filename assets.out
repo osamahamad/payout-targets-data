@@ -251,6 +251,7 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
+*.datacamp.com
 *.dcfgateway.marriott.com
 *.deliciousbrains.com
 *.dell.com/*
@@ -1124,6 +1125,7 @@
 102.23.96.0/22
 1023499075
 103.83.120.0/22
+1032480595
 1057338687
 107.167.96.0/19
 1080248000
@@ -1530,6 +1532,7 @@
 975035622
 978342143
 978516833
+982922982
 983980808
 987675995
 988788863
@@ -2916,6 +2919,9 @@ app-insiders.marriott.com
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -3009,6 +3015,9 @@ as2-accpt.portofantwerpbruges.com
 as2.portofantwerp.com
 as2.portofantwerpbruges.com
 ask.khealth.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com 
+assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.spotify.com
@@ -3191,6 +3200,7 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
+campus.datacamp.com
 cancellation.prod.ps.welt.de
 capital.com/*
 capturingreality.com
@@ -3391,6 +3401,7 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
+com.datacamp
 com.dd.doordash
 com.defi.wallet
 com.deribit
@@ -3586,6 +3597,8 @@ com.ubnt.discovery.app
 com.ubnt.easyunifi
 com.ubnt.ucrm
 com.ubnt.umobile
+com.urbanclap.provider
+com.urbanclap.urbanclap
 com.valmo.valmo
 com.valvesoftware.Steam
 com.venmo
@@ -4402,6 +4415,7 @@ https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
@@ -7389,6 +7403,7 @@ pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
 pr*.indriverapp.com
 pr-gw-cf.*.aws.indriverapp.com
+practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -7431,6 +7446,8 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profiler.firefox.com
+profiles-api.datacamp.com
+projects.datacamp.com
 projects.nextcloud.com
 prow.k8s.io
 proxy-production.lime.bike
@@ -8116,6 +8133,8 @@ www.crowdstrike.com
 www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
+www.datacamp.com
+www.datacamp.com/datalab
 www.ddfcontent.com
 www.delen.bank
 www.delen.be/en 
@@ -8185,7 +8204,6 @@ www.figma.com
 www.files.com
 www.fing.com*
 www.firefox.com
-www.fitvermogen.nl
 www.flights.com
 www.fondation-vinci.com
 www.forescout.com
@@ -8385,6 +8403,8 @@ www.universalorlandovacations.com
 www.uphodl.com
 www.uphold.com
 www.upwork.com/api 
+www.urbanclap.com
+www.urbancompany.com
 www.uzleuven.be
 www.valmo.in
 www.valvesoftware.com
