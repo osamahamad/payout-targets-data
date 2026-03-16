@@ -30,6 +30,7 @@
 *.acceptance.cloud.8x8.com
 *.account.api.here.com
 *.account.here.com
+*.account.roon.app
 *.accounts.realestate.com.au
 *.acrobat.adobe.com
 *.acronis.com
@@ -50,6 +51,9 @@
 *.alasco.de
 *.alasco.rocks
 *.alipayplus.com
+*.allegro.cz.allegrosandbox.pl
+*.allegro.pl.allegrosandbox.pl
+*.allegro.sk.allegrosandbox.pl
 *.amazon.ae
 *.amazon.ca
 *.amazon.cl
@@ -234,6 +238,7 @@
 *.dailymotion.com
 *.dancecentral.com
 *.dcfgateway.marriott.com
+*.de.jbl.com
 *.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
@@ -254,8 +259,10 @@
 *.digitalocean.com
 *.directverify.in
 *.district.in
+*.dm-event.net
 *.dm.gg
 *.dmcdn.net
+*.dmxleo.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
@@ -386,6 +393,8 @@
 *.goldmansachs.com
 *.gop3.nl
 *.gopayapi.com
+*.gotdrops.cloud
+*.gotdrops.com
 *.gotinder.com
 *.gov.bugcrowd.net
 *.governorofpoker.com
@@ -418,6 +427,8 @@
 *.hackerone-ext-content.com
 *.hackerone-user-content.com/
 *.happening.dev
+*.harmanaudio.com
+*.harmankardon.com
 *.harmonixmusic.com
 *.harmonyremote.com
 *.here.com
@@ -450,12 +461,16 @@
 *.hyperpure.com
 *.hyperwallet.com
 *.hypr.com
+*.iciparisxl.be
+*.iciparisxl.lu
+*.iciparisxl.nl
 *.id.realestate.com.au
 *.ikarem.io
 *.immedia-semi.com/*
 *.immutable.com
 *.imperva.com
 *.imtbl.com
+*.in.jbl.com
 *.in2tel.ie
 *.incapsula.com
 *.indeed.net
@@ -476,6 +491,10 @@
 *.internal.exoscale.ch
 *.intigriti.me
 *.itcapital.io
+*.jbl.com
+*.jbl.com.br
+*.jbl.nl
+*.jbl.ru
 *.jit.si
 *.jitsi.net
 *.jobapi.net
@@ -493,20 +512,17 @@
 *.khealth.io/
 *.kibana.wtf
 *.kiln.it
-*.kinepolis.be
-*.kinepolis.ch
-*.kinepolis.com
-*.kinepolis.fr
-*.kinepolis.lu
-*.kinepolis.nl
 *.kiwi.com
-*.klubcinema.fr
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
+*.kruidvat.be
+*.kruidvat.nl
+*.kruidvatkids.nl
+*.kube.dm.gg
 *.kwsdose.be
-*.landmarkcinemas.com
 *.landmarkglobal-group.com
+*.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
 *.latitudefinancial.co.nz
@@ -565,7 +581,6 @@
 *.mb-cosmos.com
 *.mbamupdates.com
 *.mediatonic.co.uk
-*.megatix.be  
 *.melonapp.com
 *.memorable.io
 *.meraki.com
@@ -586,6 +601,7 @@
 *.mercadopago.com.pe
 *.mercadopago.com.uy
 *.metamask.io
+*.metronome.com
 *.mevo.com
 *.mgmt.fndlsb.net
 *.mgs.marriott.com
@@ -593,7 +609,6 @@
 *.mir.uzleuven.be
 *.miui.com
 *.miwifi.com
-*.mjrtheatres.com
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
@@ -663,6 +678,7 @@
 *.operationstechnology.io
 *.ops.netlify.com
 *.opsgenie.com
+*.optimuscards.com
 *.optus.com.au
 *.origindigital-pac.com.au
 *.oslo.io
@@ -708,6 +724,7 @@
 *.polymoon.it
 *.portofantwerp.com
 *.portofantwerpbruges.com
+*.pourvous.nl
 *.ppbdev.com
 *.prd-pub.mobilevikings.be
 *.prd.aser.simplisafe.com
@@ -723,6 +740,7 @@
 *.preempt.com
 *.preemptsecurity.com
 *.prelert.com
+*.prijsmepper.nl
 *.privateinternetaccess.com
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
@@ -763,12 +781,19 @@
 *.rocketleague.com
 *.rockstargames.com
 *.romwe.com
+*.roon.app
+*.roondrops.com
+*.roonessentials.com
+*.roonessentials.net
+*.roonlabs.com
+*.roonlabs.net
 *.router.hereapi.com
 *.runnr.in
 *.s-cloud.net
 *.saltlabs.com
 *.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
+*.savers.co.uk
 *.say.rocks
 *.saytechnologies.com
 *.sba.marriott.com
@@ -875,7 +900,9 @@
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
+*.superdrug.com
 *.superhuman.com
+*.support.jbl.com
 *.support.originenergy.com.au
 *.swiftype.com
 *.swisspass.ch
@@ -892,6 +919,7 @@
 *.teslamotors.com
 *.testnet.immutable.com
 *.theelasticast.com
+*.theperfumeshop.com
 *.thetradedesk.com
 *.thinkingphones.com
 *.thinkingphones.net
@@ -910,6 +938,7 @@
 *.tomorrowland.com
 *.tools.thefork.tech
 *.toolsforhumanity.com
+*.topperpay.com
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trainpal.com,*.mytrainpal.com
@@ -919,6 +948,7 @@
 *.travelocity.com
 *.travix.com
 *.travix.io
+*.trekpleister.nl
 *.trello.services
 *.trip.biz
 *.trip.com
@@ -948,11 +978,15 @@
 *.ui.com/distributors/
 *.ui.com/training/partners/
 *.uisp.com
+*.uk.harmanaudio.com
+*.uk.jbl.com
 *.ultimateearsuniversity.com
 *.unreal-agents.com
 *.unreal-agents.jitsi.net
 *.unrealengine.com
 *.unrealtournament.com
+*.uphodl.com
+*.uphold.com
 *.uscc.com
 *.uscc.net
 *.uscellular.com

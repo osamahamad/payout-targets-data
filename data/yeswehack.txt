@@ -102,19 +102,17 @@ https://bounty-server.dracoon.app/oauth
 https://bounty-server.dracoon.app/reporting/api
 https://bounty-server.dracoon.app/webdav
 https://bounty-server.dracoon.app/
-developer.dailymotion.com
-https://play.google.com/store/apps/details?id=com.dailymotion.dailymotion&hl=fr&gl=US
-https://apps.apple.com/fr/app/dailymotion/id336978041
-ifttt-adaptor.pub.kube.dm.gg
 AS41690
-dmxleo.com
-Google Cloud Plateform Instances
-https://n8n-staging.k8s.dm.gg/*
-https://n8n.pub.k8s.dm.gg/*
-https://airflow-mcp.data.dailymotion.com/*
+https://n8n-staging.k8s.dm.gg/
+https://n8n.pub.k8s.dm.gg/
+https://airflow-mcp.data.dailymotion.com/
 https://bigquery-mcp.data.dailymotion.com/
-https://mcp.datadoghq.eu/api/unstable/mcp-server/mcp/*
-https://mcp.datadoghq.eu/*
+https://dailymotion.webflow.io/
+https://business.dailymotion.com/
+https://pro.dailymotion.com/
+https://ray.dailymotion.com/
+https://apps.apple.com/fr/app/dailymotion/id336978041
+https://play.google.com/store/apps/details?id=com.dailymotion.dailymotion&hl=fr&gl=US
 https://bounty-nodejs.datashield.co
 https://bounty-fastly.datashield.co
 https://bounty-nginx.datashield.co
@@ -218,6 +216,38 @@ mokapos.com
 api.midtrans.com
 app.midtrans.com
 www.midtrans.com
+https://www.bowerswilkins.com
+https://www.denon.com
+https://www.marantz.com
+https://www.polkaudio.com
+https://www.definitivetechnology.com
+https://www.classeaudio.com
+https://www.bostonacoustics.com
+Device: JBL Bar 500MK2
+Device: JBL Bar 700MK2
+Device: JBL Bar 800MK2
+https://events.onecloud.harman.com
+https://ota.onecloud.harman.com
+https://apis.onecloud.harman.com
+https://edgeapis.onecloud.harman.com
+Device: JBL PartyBox Encore 2
+Device: JBL Live Beam 3
+Device: JBL Flip 7
+Device: JBL Tour One M3
+Device: JBL Charge 5
+Device: JBL Bar 300MK2
+Device: JBL Bar 1000MK2
+Device: JBL Bar 1300MK2
+Device: JBL Authentics 200
+Device: JBL Authentics 300
+Device: JBL Authentics 500
+Device: JBL Boombox 3 Wi-Fi
+Device: JBL Charge 5 Wi-Fi
+https://apps.apple.com/fr/app/jbl-one/id1610239857
+https://play.google.com/store/apps/details?id=com.jbl.oneapp&hl=fr&gl=US
+https://tms.onecloud.harman.com
+https://quantum-events.onecloud.harman.com
+https://bluetooth-events.onecloud.harman.com
 https://app.easy4ipcloud.com
 https://partnerapi.imoulife.com
 https://www.imou.com

@@ -1,3 +1,18 @@
+Hardware
+Firmware
+Software
+https://github.com/AikidoSec/firewall-node#Vulnerability
+https://github.com/AikidoSec/firewall-ruby#Vulnerability
+https://github.com/AikidoSec/firewall-php#Vulnerability
+https://github.com/AikidoSec/firewall-python#Vulnerability
+https://github.com/AikidoSec/firewall-node#Detection Bypass
+https://github.com/AikidoSec/firewall-ruby#Detection Bypass
+https://github.com/AikidoSec/firewall-php#Detection Bypass
+https://github.com/AikidoSec/firewall-python#Detection Bypass
+https://github.com/AikidoSec/firewall-node#False Positive
+https://github.com/AikidoSec/firewall-ruby#False Positive
+https://github.com/AikidoSec/firewall-php#False Positive
+https://github.com/AikidoSec/firewall-python#False Positive
 myaccount.ad.nl
 webwinkel.ad.nl
 www.ad.nl
@@ -169,52 +184,101 @@ myaccount.humo.be
 shop.humo.be
 www.humo.be
 www.humo.be/abonnementen
+www.iciparisxl.nl
+www.iciparisxl.be
+www.iciparisxl.lu
+ICI Paris XL Android
+ICI Paris XL iOS
+app.iciparisxl.be
+app.iciparisxl.lu
+app.iciparisxl.nl
+media.iciparisxl.lu
+media.iciparisxl.nl
+media.iciparisxl.be
+api.iciparisxl.lu
+api.iciparisxl.nl
+api.iciparisxl.be
+www.iciparisxl.com
+xlence.iciparisxl.nl
+newsletter.iciparisxl.nl
+newsletter-feedback.iciparisxl.nl
+beauty-and-you.iciparisxl.nl
+folder.iciparisxl.nl
+folders.iciparisxl.nl
+edition.iciparisxl.nl
+servicefr.iciparisxl.be
+wifi-in-store.iciparisxl.nl
+wifi-in-store.iciparisxl.lu
+wifi-in-store.iciparisxl.be
+service.iciparisxl.nl
+servicefr.iciparisxl.lu
+campagne.iciparisxl.nl
+campagne.iciparisxl.lu
+campagne.iciparisxl.be
+servicenl.iciparisxl.be
+www.pourvous.nl
 Hardware
 Firmware
 Software
 Services
 IT Infrastructure
-booking.mjrtheatres.com
-extras.landmarkcinemas.com
-identityserver.landmarkcinemas.com
-kinepolis.megatix.be
-luxfilmfestfilms.megatix.be
-luxfilmfestproducts.megatix.be
-luxfilmfesttickets.megatix.be
-movieapi.kinepolis.megatix.be
-tickets.kinepolis.be
-tickets.kinepolis.ch
-tickets.kinepolis.es
-tickets.kinepolis.fr
-tickets.kinepolis.lu
-tickets.kinepolis.nl
-userprofile-ui.landmarkcinemas.com
-www.kinepolis.be 
-www.kinepolis.ch 
-www.kinepolis.com 
-www.kinepolis.es 
-www.kinepolis.fr 
-www.kinepolis.lu 
-www.kinepolis.nl 
-www.landmarkcinemas.com
-www.mjrtheatres.com
-business.kinepolis.be
-business.kinepolis.lu
-business.kinepolis.nl
-com.inthepocket.kinepolis
-extras-acc.landmarkcinemas.com
-https://movieclub-int.kinepolis.com
-https://movienow-int.kinepolis.be/admin
-https://shop-acc.kinepolis.be/
-identityserver-acc.landmarkcinemas.com
-kinepolis-studio.be
-kinepolis/id368204284
-nz.co.vista.android.movie.mjrtheatres
-stage.landmarkcinemas.com
-userprofile-acc.landmarkcinemas.com
-www.kinepolis.biz
-522089287
-egaming.kinepolis.es
+www.kruidvat.nl
+www.kruidvat.be
+Kruidvat BE iOS
+Kruidvat NL iOS
+Kruidvat BE Android
+Kruidvat NL Android
+www.kruidvatkids.nl
+speelgoedfolder.kruidvat.nl
+depliantdejouets.kruidvat.be
+folder.kruidvat.be
+folder.kruidvat.nl
+speelgoedfolder.kruidvat.be
+ecom-static.kruidvat.be
+ecom-static.kruidvat.nl
+ecom-data.kruidvat.be
+magazine.kruidvat.be
+ecom-data.kruidvat.nl
+campaign.kruidvat.nl
+campaign.kruidvat.be
+campaign-uat.kruidvat.nl
+campaign-uat.kruidvat.be
+cewe.kruidvat.nl
+cewe.kruidvat.be
+cewetest.kruidvat.nl
+cewetest.kruidvat.be
+digital.kruidvat.be
+digital.kruidvat.nl
+foto.kruidvat.be
+foto.kruidvat.nl
+fotoservice.kruidvat.nl
+fotoservice.kruidvat.be
+photo.kruidvat.be
+service.kruidvat.be
+service.kruidvat.nl
+servicefr.kruidvat.be
+www.cewe.kruidvat.be
+www.cewe.kruidvat.nl
+www.trekpleister.nl
+campaign.trekpleister.nl
+campaign-uat.trekpleister.nl
+ecom-data.trekpleister.nl
+service.trekpleister.nl
+folder.trekpleister.nl
+www.prijsmepper.nl
+Lansweeper Discovery
+app.lansweeper.com
+fb.lansweeper.com
+edge.lansweeper.com
+api.lansweeper.com
+backoffice.lansweeper.com
+https://lsagentrelay.lansweeper.com/
+app.lansweeper.com/trial
+autoupdateapi.lansweeper.com
+docs.lansweeper.com
+login.lansweeper.com
+on-premises software
+www.lansweeper.com
 www.libelle.nl
 www.marionnaud.fr
 Marionnaud France Android
@@ -401,6 +465,41 @@ http://socialdeal.nl/inspirations/bluemonday/
 http://www.whynot.com/
 https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/
 www.socialdeal.nl
+www.superdrug.com
+Superdrug iOS
+Superdrug Android
+api.superdrug.com
+media.superdrug.com
+app.superdrug.com
+campaign.superdrug.com
+community.superdrug.com
+ecom-data.superdrug.com
+videogp-api.superdrug.com
+healthclinics.superdrug.com
+innovation.superdrug.com
+onlinedoctor.superdrug.com
+onlinepharmacy.superdrug.com
+videogp.superdrug.com
+app.pharmacy.superdrug.com
+appt.healthclinics.superdrug.com
+www.savers.co.uk
+Savers iOS
+Savers Android
+api.savers.co.uk
+media.savers.co.uk
+app.savers.co.uk
+www.superdrugmobile.com
+campaign.savers.co.uk
+ecom-data.savers.co.uk
+www.theperfumeshop.com
+app.theperfumeshop.com
+api.theperfumeshop.com
+media.theperfumeshop.com
+The Perfume Shop Android
+The Perfume Shop iOS
+campaign.theperfumeshop.com
+campaigns.theperfumeshop.com
+ecom-data.theperfumeshop.com
 cas.tomorrowland.com
 belgium.tomorrowland.com
 brasil.tomorrowland.com
@@ -486,6 +585,31 @@ mirc.uzleuven.be
 prddnighting01.uzleuven.be
 w1.uzleuven.be/random
 ziekenhuisschool.be
+Uphold: Buy BTC, ETH and 360+
+UpHODL
+api-sandbox.uphold.com
+api-sandbox.uphold.com/graphql
+api.portal.enterprise.uphold.com 
+UpHODL
+Uphold: Buy BTC, ETH and 300+
+portal.enterprise.uphold.com
+wallet-sandbox.uphold.com
+api.sandbox.topperpay.com
+app.sandbox.topperpay.com
+graphql.sandbox.topperpay.com/graphql
+uatcms.optimuscards.com
+docs.api.enterprise.uphold.com
+docs.optimuscards.com
+docs.topperpay.com
+docs.uphold.com
+github.com/uphold/*
+status.uphold.com
+support-sandbox.uphold.com
+support-staging.topperpay.com
+www.optimuscards.com
+www.topperpay.com
+www.uphodl.com
+www.uphold.com
 API's
 cds.vrt.radio
 Mobile Applications
