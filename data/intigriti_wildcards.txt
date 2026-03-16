@@ -101,6 +101,8 @@ Leaked/compromised employee accounts *.here.com
 *.acc.mobilevikings.be
 *.dev-pub.mobilevikings.be
 *.dev.mobilevikings.be
+*.monzo.com
+*.prod-ffs.io
 *.nexuzhealth.*
 *.app.personio-dev.com
 *.app.personio.com
@@ -138,7 +140,6 @@ Leaked/compromised employee accounts *.here.com
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
-*.veriff.com
 *.vinted.net
 *.vinted.com
 *.vinted.fr
