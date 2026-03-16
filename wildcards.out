@@ -50,9 +50,6 @@
 *.alasco.de
 *.alasco.rocks
 *.alipayplus.com
-*.allegro.cz.allegrosandbox.pl
-*.allegro.pl.allegrosandbox.pl
-*.allegro.sk.allegrosandbox.pl
 *.amazon.ae
 *.amazon.ca
 *.amazon.cl
@@ -236,7 +233,6 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
-*.datacamp.com
 *.dcfgateway.marriott.com
 *.deliciousbrains.com
 *.dell.com/*
@@ -358,8 +354,6 @@
 *.fuze.com
 *.fuze.site
 *.gaming.gopayapi.com
-*.gamma.be/*
-*.gamma.nl/*
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
@@ -456,9 +450,6 @@
 *.hyperpure.com
 *.hyperwallet.com
 *.hypr.com
-*.iciparisxl.be
-*.iciparisxl.lu
-*.iciparisxl.nl
 *.id.realestate.com.au
 *.ikarem.io
 *.immedia-semi.com/*
@@ -482,9 +473,6 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
-*.intergamma-test.nl
-*.intergamma.cloud
-*.intergamma.nl/*
 *.internal.exoscale.ch
 *.intigriti.me
 *.itcapital.io
@@ -498,8 +486,6 @@
 *.jobstreet.com.sg
 *.jora.com
 *.jora.xyz
-*.karwei.nl/*
-*.karweioutletstore.nl
 *.kayak.com
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
@@ -518,13 +504,9 @@
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
-*.kruidvat.be
-*.kruidvat.nl
-*.kruidvatkids.nl
 *.kwsdose.be
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
-*.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
 *.latitudefinancial.co.nz
@@ -681,7 +663,6 @@
 *.operationstechnology.io
 *.ops.netlify.com
 *.opsgenie.com
-*.optimuscards.com
 *.optus.com.au
 *.origindigital-pac.com.au
 *.oslo.io
@@ -727,7 +708,6 @@
 *.polymoon.it
 *.portofantwerp.com
 *.portofantwerpbruges.com
-*.pourvous.nl
 *.ppbdev.com
 *.prd-pub.mobilevikings.be
 *.prd.aser.simplisafe.com
@@ -743,7 +723,6 @@
 *.preempt.com
 *.preemptsecurity.com
 *.prelert.com
-*.prijsmepper.nl
 *.privateinternetaccess.com
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
@@ -776,7 +755,6 @@
 *.redecor.com
 *.rentalcars.com
 *.reposify.com
-*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -791,7 +769,6 @@
 *.saltlabs.com
 *.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
-*.savers.co.uk
 *.say.rocks
 *.saytechnologies.com
 *.sba.marriott.com
@@ -898,7 +875,6 @@
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
-*.superdrug.com
 *.superhuman.com
 *.support.originenergy.com.au
 *.swiftype.com
@@ -916,7 +892,6 @@
 *.teslamotors.com
 *.testnet.immutable.com
 *.theelasticast.com
-*.theperfumeshop.com
 *.thetradedesk.com
 *.thinkingphones.com
 *.thinkingphones.net
@@ -935,7 +910,6 @@
 *.tomorrowland.com
 *.tools.thefork.tech
 *.toolsforhumanity.com
-*.topperpay.com
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trainpal.com,*.mytrainpal.com
@@ -945,7 +919,6 @@
 *.travelocity.com
 *.travix.com
 *.travix.io
-*.trekpleister.nl
 *.trello.services
 *.trip.biz
 *.trip.com
@@ -980,8 +953,6 @@
 *.unreal-agents.jitsi.net
 *.unrealengine.com
 *.unrealtournament.com
-*.uphodl.com
-*.uphold.com
 *.uscc.com
 *.uscc.net
 *.uscellular.com
@@ -1043,9 +1014,6 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
 *.wf.com
 *.wien.at
 *.wien.gv.at

@@ -65,9 +65,6 @@
 *.alasco.de
 *.alasco.rocks
 *.alipayplus.com
-*.allegro.cz.allegrosandbox.pl
-*.allegro.pl.allegrosandbox.pl
-*.allegro.sk.allegrosandbox.pl
 *.amazon.ae
 *.amazon.ca
 *.amazon.cl
@@ -251,7 +248,6 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
-*.datacamp.com
 *.dcfgateway.marriott.com
 *.deliciousbrains.com
 *.dell.com/*
@@ -373,8 +369,6 @@
 *.fuze.com
 *.fuze.site
 *.gaming.gopayapi.com
-*.gamma.be/*
-*.gamma.nl/*
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
@@ -471,9 +465,6 @@
 *.hyperpure.com
 *.hyperwallet.com
 *.hypr.com
-*.iciparisxl.be
-*.iciparisxl.lu
-*.iciparisxl.nl
 *.id.realestate.com.au
 *.ikarem.io
 *.immedia-semi.com/*
@@ -497,9 +488,6 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
-*.intergamma-test.nl
-*.intergamma.cloud
-*.intergamma.nl/*
 *.internal.exoscale.ch
 *.intigriti.me
 *.itcapital.io
@@ -513,8 +501,6 @@
 *.jobstreet.com.sg
 *.jora.com
 *.jora.xyz
-*.karwei.nl/*
-*.karweioutletstore.nl
 *.kayak.com
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
@@ -533,13 +519,9 @@
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
-*.kruidvat.be
-*.kruidvat.nl
-*.kruidvatkids.nl
 *.kwsdose.be
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
-*.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
 *.latitudefinancial.co.nz
@@ -696,7 +678,6 @@
 *.operationstechnology.io
 *.ops.netlify.com
 *.opsgenie.com
-*.optimuscards.com
 *.optus.com.au
 *.origindigital-pac.com.au
 *.oslo.io
@@ -742,7 +723,6 @@
 *.polymoon.it
 *.portofantwerp.com
 *.portofantwerpbruges.com
-*.pourvous.nl
 *.ppbdev.com
 *.prd-pub.mobilevikings.be
 *.prd.aser.simplisafe.com
@@ -758,7 +738,6 @@
 *.preempt.com
 *.preemptsecurity.com
 *.prelert.com
-*.prijsmepper.nl
 *.privateinternetaccess.com
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
@@ -791,7 +770,6 @@
 *.redecor.com
 *.rentalcars.com
 *.reposify.com
-*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -806,7 +784,6 @@
 *.saltlabs.com
 *.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
-*.savers.co.uk
 *.say.rocks
 *.saytechnologies.com
 *.sba.marriott.com
@@ -913,7 +890,6 @@
 *.superbet.pl
 *.superbet.ro
 *.superbet.rs
-*.superdrug.com
 *.superhuman.com
 *.support.originenergy.com.au
 *.swiftype.com
@@ -931,7 +907,6 @@
 *.teslamotors.com
 *.testnet.immutable.com
 *.theelasticast.com
-*.theperfumeshop.com
 *.thetradedesk.com
 *.thinkingphones.com
 *.thinkingphones.net
@@ -950,7 +925,6 @@
 *.tomorrowland.com
 *.tools.thefork.tech
 *.toolsforhumanity.com
-*.topperpay.com
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trainpal.com,*.mytrainpal.com
@@ -960,7 +934,6 @@
 *.travelocity.com
 *.travix.com
 *.travix.io
-*.trekpleister.nl
 *.trello.services
 *.trip.biz
 *.trip.com
@@ -995,8 +968,6 @@
 *.unreal-agents.jitsi.net
 *.unrealengine.com
 *.unrealtournament.com
-*.uphodl.com
-*.uphold.com
 *.uscc.com
 *.uscc.net
 *.uscellular.com
@@ -1058,9 +1029,6 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
 *.wf.com
 *.wien.at
 *.wien.gv.at
@@ -1230,7 +1198,6 @@
 1532153219
 1541949985
 1552455423
-1558129454
 1570215232
 1579372261
 1579530451
@@ -1538,9 +1505,6 @@
 943905271
 944011620
 947984433
-949829216
-950680989
-950693949
 955837609
 960335206
 97.105.243.96/28
@@ -2020,8 +1984,6 @@ HubSpot iOS Mobile App
 Hyperdrive
 HyprUnlock.exe
 IBC Go Relayer
-ICI Paris XL Android
-ICI Paris XL iOS
 IT Infrastructure
 Ibotta App Data & Memory
 Id1406825640
@@ -2059,11 +2021,6 @@ Kong Gateway Enterprise
 Kong Gateway OSS
 Kong Gateway Plugins (Kong-Supported Only)
 Kong Mesh
-Kruidvat BE Android
-Kruidvat BE iOS
-Kruidvat NL Android
-Kruidvat NL iOS
-Lansweeper Discovery
 LaunchDarkly Open Source SDKs
 Leaked Credentials
 Leaked Credentials and Secrets (Canva Employee/Contractor)
@@ -2340,8 +2297,6 @@ SSL/TLS
 Saily - Android
 Saily - iOS
 Sandboxes
-Savers Android
-Savers iOS
 Scam
 Scanwatch
 Scanwatch 2
@@ -2430,8 +2385,6 @@ Subdomain Takeover (SDTO)
 Subdomain Takeover - konghq.com
 Subdomain takeover at *asana.biz
 Substance 3D
-Superdrug Android
-Superdrug iOS
 Superhuman Go
 System Specification
 T&P Servers
@@ -2448,8 +2401,6 @@ Tap to Pay (iOS)
 Tesla Energy hardware you own
 Tesla vehicle hardware that you own
 Texts
-The Perfume Shop Android
-The Perfume Shop iOS
 Third Party Application
 Third Party Marketplace Apps
 Third Party Snaps
@@ -2509,9 +2460,6 @@ UniFi Talk
 UniFi Wireless Access Points
 University Platform
 UnrealEditorFortnite-Win64-Shipping.exe
-UpHODL
-Uphold: Buy BTC, ETH and 300+
-Uphold: Buy BTC, ETH and 360+
 Upwork - Android Application
 Upwork - Marketplace Portal
 Upwork - Messages
@@ -2749,8 +2697,6 @@ api-js.datadome.co
 api-partner.spotify.com
 api-polygon-tokens.polygon.technology/
 api-sandbox.gocardless.com
-api-sandbox.uphold.com
-api-sandbox.uphold.com/graphql
 api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
 api-wallet-sandbox.venly.io
@@ -2824,15 +2770,11 @@ api.gx.games/gxc
 api.gx.games/profile
 api.gx.games/session
 api.hackerone.com
-api.iciparisxl.be
-api.iciparisxl.lu
-api.iciparisxl.nl
 api.infomaniak.com
 api.instacart.com
 api.khealth.com
 api.klarna.com
 api.krisp.ai
-api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
@@ -2860,7 +2802,6 @@ api.ovh.com
 api.personio-dev.com
 api.personio.com
 api.pns.hk
-api.portal.enterprise.uphold.com 
 api.portofantwerp.com
 api.portofantwerpbruges.com
 api.prd.commerce.simplisafe.com
@@ -2877,8 +2818,6 @@ api.remitly.io
 api.robinhood.com
 api.ryadom.kz
 api.s-kaupat.fi
-api.sandbox.topperpay.com
-api.savers.co.uk
 api.segment.io
 api.sendgrid.com
 api.services.simplisafe.com (App Endpoints)
@@ -2894,12 +2833,10 @@ api.stage.evernote.com
 api.steampowered.com
 api.stg.inspectorio.com
 api.stripe.com
-api.superdrug.com
 api.swapcard.com
 api.swiftfinancial.com
 api.syfe.com
 api.taxjar.com
-api.theperfumeshop.com
 api.tidal.com
 api.trello.com
 api.truelayer[-sandbox].com
@@ -2934,9 +2871,6 @@ app-insiders.marriott.com
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
-app.datacamp.com/certification
-app.datacamp.com/groups
-app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -2954,16 +2888,11 @@ app.geneva-staging.chat
 app.geneva-staging.com
 app.grammarly.com
 app.greenhouse.io
-app.iciparisxl.be
-app.iciparisxl.lu
-app.iciparisxl.nl
 app.interseller.io
 app.khealth.com
 app.klarna.com
 app.koho.ca
 app.krisp.ai
-app.lansweeper.com
-app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
 app.marionnaud.at
@@ -2981,12 +2910,9 @@ app.moonpay.com
 app.netlify.com
 app.nl.socialdeal
 app.nordpass.com
-app.pharmacy.superdrug.com
 app.pullrequest.com
 app.rewire.to
 app.sandbox.directly.com
-app.sandbox.topperpay.com
-app.savers.co.uk
 app.segment.com
 app.sendgrid.com
 app.slack.com
@@ -2994,10 +2920,8 @@ app.smtp2go.com
 app.snapchat.com
 app.starbucks.com
 app.stg.inspectorio.com
-app.superdrug.com
 app.swapcard.com
 app.taxjar.com
-app.theperfumeshop.com
 app.truelayer[-sandbox].com
 app.uma.money
 app.watsons.com.tr
@@ -3016,7 +2940,6 @@ apps.nextcloud.com
 apps.ort-one-pingone.com
 apps.portofantwerp.com
 apps.portofantwerpbruges.com
-appt.healthclinics.superdrug.com
 aqtooling.com
 aquiris.com.br
 aquiris.studio
@@ -3030,9 +2953,6 @@ as2-accpt.portofantwerpbruges.com
 as2.portofantwerp.com
 as2.portofantwerpbruges.com
 ask.khealth.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com 
-assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.spotify.com
@@ -3071,12 +2991,10 @@ authz.workbox.dk
 autocomplete.booking.com
 autodiscover.uzleuven.be
 autointerface.stag.visma.net
-autoupdateapi.lansweeper.com
 aw.visa.com
 ax-stage.maventa.com
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
-backoffice.lansweeper.com
 backstage.io
 badoo.com
 badoocdn.com
@@ -3100,12 +3018,10 @@ bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
 be.delen.digital
-be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
 beacon.netflix.com
-beauty-and-you.iciparisxl.nl
 belgium.tomorrowland.com
 bestfiends.com
 beta-cloud.acronis.com
@@ -3195,28 +3111,14 @@ callbacks.airbnb.com
 callroute.com
 callroute.io
 cam.notebleue.pro
-campagne.iciparisxl.be
-campagne.iciparisxl.lu
-campagne.iciparisxl.nl
-campaign-uat.kruidvat.be
-campaign-uat.kruidvat.nl
-campaign-uat.trekpleister.nl
 campaign.drogas.lt
 campaign.drogas.lv
-campaign.kruidvat.be
-campaign.kruidvat.nl
 campaign.marionnaud.at
 campaign.marionnaud.ch
 campaign.marionnaud.cz
 campaign.marionnaud.hu
 campaign.marionnaud.it
-campaign.savers.co.uk
-campaign.superdrug.com
-campaign.theperfumeshop.com
-campaign.trekpleister.nl
 campaign.watsons.com.tr
-campaigns.theperfumeshop.com
-campus.datacamp.com
 cancellation.prod.ps.welt.de
 capital.com/*
 capturingreality.com
@@ -3252,10 +3154,6 @@ cdn.nba.com
 cdn.plaid.com
 cdna.lystit.com
 cds.vrt.radio
-cewe.kruidvat.be
-cewe.kruidvat.nl
-cewetest.kruidvat.be
-cewetest.kruidvat.nl
 chain.link
 chainabuse-staging.com
 chameleon
@@ -3417,7 +3315,6 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
-com.datacamp
 com.dd.doordash
 com.defi.wallet
 com.deribit
@@ -3667,7 +3564,6 @@ community-tc.services.mozilla.com
 community.8x8.com
 community.forescout.com
 community.logitech.com
-community.superdrug.com
 community.ui.com
 community.watsons.co.th
 community.watsons.com.my
@@ -3758,7 +3654,6 @@ cweb-ott-uc.nba.com
 cweb-ott.nba.com
 cyberghost.app
 cyberghost.com
-cz.skodaauto.myskoda
 dash.cloudflare.com
 dashboard.doppler.com
 dashboard.magic.link
@@ -3797,7 +3692,6 @@ demo.dynamic.xyz
 demo.fareharbor.com
 demo.globalticket.com/*
 demo.plaid.com
-depliantdejouets.kruidvat.be
 deriv.partners
 derivws.com
 design.gitlab.com
@@ -3835,8 +3729,6 @@ dic.pixiv.net
 dicey.com
 dif.tech.plata
 digili.s-cloud.fi
-digital.kruidvat.be
-digital.kruidvat.nl
 digital.welt.de
 digitaloceanmirrors.com
 digitaloceanpartners.com
@@ -3852,15 +3744,10 @@ dns0.optus.net.au
 dns1.optus.net.au
 do.co
 doaction.org
-docs.api.enterprise.uphold.com
 docs.gitlab.com
-docs.lansweeper.com
 docs.launchdarkly.com
 docs.nextcloud.com
-docs.optimuscards.com
 docs.redoxengine.com
-docs.topperpay.com
-docs.uphold.com
 docuflow.stg.inspectorio.com
 donations.livestream.com
 doordash.DoorDashConsumer
@@ -3883,27 +3770,17 @@ eaccountingprinting.stage.vismaonline.com
 eassessment.monash.edu
 ebctest.cybersource.com
 ebsext.oft.hyatt.com
-ecom-data.kruidvat.be
-ecom-data.kruidvat.nl
 ecom-data.marionnaud.at
 ecom-data.marionnaud.ch
 ecom-data.marionnaud.cz
 ecom-data.marionnaud.fr
 ecom-data.marionnaud.hu
 ecom-data.marionnaud.it
-ecom-data.savers.co.uk
-ecom-data.superdrug.com
-ecom-data.theperfumeshop.com
-ecom-data.trekpleister.nl
-ecom-static.kruidvat.be
-ecom-static.kruidvat.nl
 ecrf.uzleuven.be
-edge.lansweeper.com
 edgeapi.slack.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
 editeurs.monespacesante.fr
-edition.iciparisxl.nl
 editionhotels.com
 editorial.one
 education.23andme.com
@@ -3967,7 +3844,6 @@ fareharborsites.com
 fashion4less.me
 faucet-api.polygon.technology/
 faucet.polygon.technology
-fb.lansweeper.com
 fch-cf.*.aws.indriverapp.com
 fe-cf.*.aws.indriverapp.com
 fe-gw-cf.*.aws.indriverapp.com
@@ -3999,21 +3875,12 @@ flourish-user-preview.com
 flourish-user-templates.com
 flyiin.com
 fm.anchor.android
-folder.iciparisxl.nl
-folder.kruidvat.be
-folder.kruidvat.nl
-folder.trekpleister.nl
-folders.iciparisxl.nl
 fonts.adobe.com
 forms.mobilevikings.be
 fortnite.com
 forum.playcanvas.com
 forum.sketchfab.com
 forums.malwarebytes.com
-foto.kruidvat.be
-foto.kruidvat.nl
-fotoservice.kruidvat.be
-fotoservice.kruidvat.nl
 fp-sg.tiktokv.com
 funding-webhooks.remitly.io
 furycloud.io
@@ -4027,8 +3894,6 @@ g2-gw-cf.*.aws.indriverapp.com
 gamenotes.nba.com
 gaming.logicool.co.jp
 gamma.grab.co
-gammacademy.be
-gammalokaal.nl
 gasstation.polygon.technology/
 gatekeeper.prd.iat.it.xvservice.net
 gateway*.marriott.com
@@ -4052,7 +3917,6 @@ github.com/binary-com
 github.com/deriv-com
 github.com/kubernetes-csi
 github.com/kubernetes-retired
-github.com/uphold/*
 gitlab.com
 gleague-dev.nba.com
 gleague-qa.nba.com
@@ -4073,7 +3937,6 @@ gopaymerchant.midtrans.com
 gql.reddit.com
 grab.careers
 grae.nba.com
-graphql.sandbox.topperpay.com/graphql
 gravatar.com
 grok.com
 grokipedia.com
@@ -4096,7 +3959,6 @@ hacktoberfest.com
 harmonixmusic.com
 hc2services.com
 hc2tooling.com
-healthclinics.superdrug.com
 help-jp.krisp.ai
 help.coinhako.com
 help.krisp.ai
@@ -4433,7 +4295,6 @@ https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
-https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
@@ -4448,7 +4309,6 @@ https://apps.apple.com/ca/app/lime-supply/id1620058457
 https://apps.apple.com/ch/app/debix/id1581440132?l=en-GB
 https://apps.apple.com/ch/app/die-post/id378676700
 https://apps.apple.com/ch/app/media-markt-schweiz/id1169043480
-https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810
 https://apps.apple.com/de/app/mediamarkt-deutschland/id386304604
 https://apps.apple.com/de/app/otto-shopping-m%C3%B6bel/id404844644
 https://apps.apple.com/de/app/saturn-deutschland/id557562682
@@ -5345,7 +5205,6 @@ https://login.salt.ch
 https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
-https://lsagentrelay.lansweeper.com/
 https://luna.amazon.com/*
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://m.csqtrk.net
@@ -6780,7 +6639,6 @@ infinite.visa.fr
 infomaniak.events
 ingest.clairvoyance.indrive.tech
 innersloth.kidswebservices.com
-innovation.superdrug.com
 insight2.tradepmr.com
 insights.deribit.com
 institutional.coinbase.com
@@ -6809,7 +6667,6 @@ ir.remitly.com
 ir.ui.com
 irclogs.wordpress.org
 iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
-irmg.nl
 isa-cf.*.aws.indriverapp.com
 ispdesign.ui.com
 issuer.idpay-uat.unico.io
@@ -6844,10 +6701,6 @@ k8s.gcr.io
 k8s.io
 kaccount.khealth.com
 kartaview.org
-karwei-promotiepunt.nl
-kassa.gamma.be/*
-kassa.gamma.nl/*
-kassa.karwei.nl/*
 katalog.watsons.com.tr
 kayak.ai
 kidswebservices.com
@@ -6923,7 +6776,6 @@ login.delen.ch
 login.delen.lu 
 login.infomaniak.com
 login.insightly.com
-login.lansweeper.com
 login.oyens.com
 login.playcanvas.com
 login.rei.com
@@ -6955,7 +6807,6 @@ m.chaturbate.com
 m.reddit.com
 m.trendyol.com
 mUSD Stablecoin
-magazine.kruidvat.be
 magento.com
 magiceden.io
 magisto.com,www.magisto.com
@@ -7010,9 +6861,6 @@ mch*.indriverapp.com
 mds.marriott.com
 media.drogas.lt
 media.drogas.lv
-media.iciparisxl.be
-media.iciparisxl.lu
-media.iciparisxl.nl
 media.indrive.com
 media.marionnaud.at
 media.marionnaud.ch
@@ -7024,10 +6872,7 @@ media.marionnaud.ro
 media.marionnaud.sk
 media.nexuzhealth.be/patient/ 
 media.remitly.io
-media.savers.co.uk
 media.simplisafe.com
-media.superdrug.com
-media.theperfumeshop.com
 media.watsons.com.tr
 mediacenter.23andme.com
 medias.fortress.com.hk
@@ -7079,9 +6924,6 @@ mgmt-sensors.iris.production.forescoutcloud.net
 mgmtpod-1-dashboard.production.forescoutcloud.net
 mgmtpod-1.production.forescoutcloud.net
 mgs.marriott.com
-mijn.gamma.be/*
-mijn.gamma.nl/*
-mijn.karwei.nl/*
 mijnacc.uzleuven.be
 minerva.robinhood.com
 mipartnerprivileges.marriott.com
@@ -7176,8 +7018,6 @@ new.express.adobe.com
 new.reddit.com
 new.www.vaxvacationaccess.com
 news.remitly.com
-newsletter-feedback.iciparisxl.nl
-newsletter.iciparisxl.nl
 newsletter.nextcloud.com
 newsroom.images.hyatt.com
 next.airbnb.com
@@ -7247,9 +7087,6 @@ nft.io
 nha-cf.*.aws.indriverapp.com
 nha-gw-cf.*.aws.indriverapp.com
 niantic.kidswebservices.com
-nl.gamma.app.android
-nl.gamma.verf
-nl.karwei.app.android
 nmtracking.netflix.com
 no-cf.*.aws.indriverapp.com
 no-gw-cf.*.aws.indriverapp.com
@@ -7276,7 +7113,6 @@ odoo14.notebleue.pro
 odul.watsons.com.tr
 og.com
 om.vodafone.mva
-on-premises software
 onboarding-*.cloud.com
 onboarding-api.truelayer.com
 onboarding.cloud.com
@@ -7287,8 +7123,6 @@ one.dash.cloudflare.com
 onepush.query.yahoo.com
 oneview.threatdown.com
 online.s-pankki.fi
-onlinedoctor.superdrug.com
-onlinepharmacy.superdrug.com
 onum-labs.com
 onum.com
 open redirect at *.epam.com
@@ -7381,7 +7215,6 @@ phabricator.allizom.org
 phlonline.vfsevisa.cn
 phlportal.vfsevisa.cn
 phone-validation.taxi.booking.com
-photo.kruidvat.be
 photos.adobe.io
 photoservice.stage.vismaonline.com
 photoshop.adobe.com
@@ -7413,7 +7246,6 @@ pontoon.allizom.org
 portal-api.coinmarketcap.com
 portal.arkoselabs.com
 portal.au.frontegg.com
-portal.enterprise.uphold.com
 portal.gofoodmerchant.co.id
 portal.myconnect.com.au
 portal.myconnect.com.au/new-connection
@@ -7432,7 +7264,6 @@ pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
 pr*.indriverapp.com
 pr-gw-cf.*.aws.indriverapp.com
-practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -7475,8 +7306,6 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profiler.firefox.com
-profiles-api.datacamp.com
-projects.datacamp.com
 projects.nextcloud.com
 prow.k8s.io
 proxy-production.lime.bike
@@ -7633,18 +7462,10 @@ sequoia-policy-config
 sequoia-wot
 serveur12.notebleue.com
 service.fing.com
-service.iciparisxl.nl
-service.kruidvat.be
-service.kruidvat.nl
-service.trekpleister.nl
 servicedesk-accpt.portofantwerp.com
 servicedesk-accpt.portofantwerpbruges.com
 servicedesk.portofantwerp.com
 servicedesk.portofantwerpbruges.com
-servicefr.iciparisxl.be
-servicefr.iciparisxl.lu
-servicefr.kruidvat.be
-servicenl.iciparisxl.be
 settings.superhuman.com
 sfc-cf.*.aws.indriverapp.com
 sfc-gw-cf.*.aws.indriverapp.com
@@ -7743,8 +7564,6 @@ speedtest-rockingham.optusnet.com.au
 speedtest-sydney.optusnet.com.au
 speedtest-townsville.optusnet.com.au
 speedtest.xfinity.com
-speelgoedfolder.kruidvat.be
-speelgoedfolder.kruidvat.nl
 splunk-phantom-nlb.marriott.com
 sporza.be
 sq
@@ -7780,7 +7599,6 @@ stats.vinci.com
 stats.wnba.com
 status.delen.be 
 status.larksuite.com
-status.uphold.com
 steamcommunity.com
 stock.adobe.com
 storage*.infomaniak.com
@@ -7822,8 +7640,6 @@ supply-xml.booking.com
 support*.earlywarning.com
 support-api.airbnb.com
 support-portal.8x8.com
-support-sandbox.uphold.com
-support-staging.topperpay.com
 support.creditkarma.ca
 support.cs.money
 support.greenhouse.io
@@ -7931,7 +7747,6 @@ tunnistus.s-ryhma.fi
 twinmotion.unrealengine.com
 txm-cf.*.aws.indriverapp.com
 uat-bugbounty.nonprod.syfe.com
-uatcms.optimuscards.com
 uber.com
 uber.marriott.com
 uc.8x8pilot.com
@@ -7986,8 +7801,6 @@ vfo03.vodafone.om
 vhx.tv
 via.rider
 video-agent.8x8.com
-videogp-api.superdrug.com
-videogp.superdrug.com
 vikingco.be
 vikingdeals.be
 vikinglab.be
@@ -8020,7 +7833,6 @@ vœux.vinci.com
 w1.uzleuven.be
 w1.uzleuven.be/random
 waf.cumulusfire.net
-wallet-sandbox.uphold.com
 wallet.tg
 wallet.venly.io
 wallet.web3auth.io
@@ -8064,9 +7876,6 @@ welcome.infomaniak.com
 welt.de
 wga.volans.tech
 widget.rentalcars.com
-wifi-in-store.iciparisxl.be
-wifi-in-store.iciparisxl.lu
-wifi-in-store.iciparisxl.nl
 wiki-accpt.portofantwerp.com
 wiki-accpt.portofantwerpbruges.com
 wiki.cs.money
@@ -8143,8 +7952,6 @@ www.cardinalcommerce.com
 www.carrentals.com
 www.cart.starbucks.co.jp/
 www.casinohuone.com
-www.cewe.kruidvat.be
-www.cewe.kruidvat.nl
 www.chaire-arpenter.fr
 www.cheapcaribbean.com
 www.cheapflights.com
@@ -8162,8 +7969,6 @@ www.crowdstrike.com
 www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
-www.datacamp.com
-www.datacamp.com/datalab
 www.ddfcontent.com
 www.delen.bank
 www.delen.be/en 
@@ -8240,8 +8045,6 @@ www.fortress.com.hk
 www.fraedom.com
 www.funjet.com
 www.fuzemeeting.com
-www.gamma.be/*
-www.gamma.nl/*
 www.geneva-staging.chat
 www.geneva-staging.com
 www.getaroom.com
@@ -8265,15 +8068,10 @@ www.humo.be/abonnementen
 www.hyatt.com
 www.hyattconnect.com
 www.hyattinclusivecollection.com
-www.iciparisxl.be
-www.iciparisxl.com
-www.iciparisxl.lu
-www.iciparisxl.nl
 www.infomaniak.com
 www.instacart.com
 www.intigriti.com
 www.jaybirdsport.com
-www.karwei.nl/*
 www.kayak.com
 www.kinepolis.be 
 www.kinepolis.biz
@@ -8287,12 +8085,8 @@ www.kiwi.com
 www.koho.ca
 www.kolikkopelit.com
 www.kpharmacyllc.com
-www.kruidvat.be
-www.kruidvat.nl
-www.kruidvatkids.nl
 www.lab-recherche-environnement.org
 www.landmarkcinemas.com
-www.lansweeper.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.libelle.nl
@@ -8345,7 +8139,6 @@ www.mundi.com.br
 www.nba.com
 www.netflix.com
 www.onsexprime.fr
-www.optimuscards.com
 www.orbitz.com
 www.ottocasino.se
 www.ottokasino.com
@@ -8360,7 +8153,6 @@ www.pns.hk
 www.pornbox.com
 www.pornworld.com
 www.portofantwerpbruges.com
-www.pourvous.nl
 www.practicalbusinessskills.org
 www.practicalmoneyskills.com
 www.practicalmoneyskills.org
@@ -8368,7 +8160,6 @@ www.preprod.monespacesante.fr
 www.preprod1.monespacesante.fr
 www.preprod2.monespacesante.fr
 www.priceline.com
-www.prijsmepper.nl
 www.prisma.fi
 www.quip.com
 www.qwant.com
@@ -8378,7 +8169,6 @@ www.rockstargames.com
 www.s-kaupat.fi
 www.s-pankki.fi
 www.sa.dyson.com
-www.savers.co.uk
 www.sbb.ch
 www.sbbcargo.com
 www.sheer.com
@@ -8395,8 +8185,6 @@ www.stayz.com.au
 www.storspelare.se
 www.storspiller.com
 www.stripe.partners
-www.superdrug.com
-www.superdrugmobile.com
 www.supernovas.indrive.com
 www.swiftcapital.com
 www.swiftfinancial.com
@@ -8407,17 +8195,14 @@ www.tabac-info-service.fr
 www.teamfortress.com
 www.temu.com
 www.tgoyemek.com
-www.theperfumeshop.com
 www.tink.com
 www.tomorrowland.com
-www.topperpay.com
 www.tradepmr.com
 www.trajeoh.com
 www.transsicura.ch
 www.travel-brilliantly.marriott.com
 www.travelocity.ca
 www.travelocity.com
-www.trekpleister.nl
 www.trendyol-milla.com
 www.trendyol.com
 www.triseptapi.com
@@ -8432,8 +8217,6 @@ www.ultimateears.com
 www.unibet.(com­|it|se|co.uk|be|nl|dk|ro|ee|ie|com.au|mt)
 www.unibet.fr
 www.universalorlandovacations.com
-www.uphodl.com
-www.uphold.com
 www.upwork.com/api 
 www.urbanclap.com
 www.urbancompany.com
@@ -8527,7 +8310,6 @@ xFi Pods
 xadsacademy.com
 xhomeapi-*.cloud.comcast.net
 xhomeapi-*.codebig2.net
-xlence.iciparisxl.nl
 xs2a.banking.playground.klarna.com
 xtramile.grabpay.com
 yelptop100.com
