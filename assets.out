@@ -545,7 +545,6 @@
 *.kwsdose.be
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
-*.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
 *.latitudefinancial.co.nz
@@ -1906,6 +1905,7 @@ External service data leakage
 Extremely high properties
 F 21 Pro
 FIles.com REST API
+FPGA Solution Development Tools and Utilities
 Faucets
 Figma Atlassian App
 Figma Desktop App
@@ -1948,12 +1948,6 @@ Fortress Hong Kong iOS
 Framemaker
 FranceConnect (see program description for github link)
 FranceConnect+ (see program description for github link)
-Freshcaller-iOS-App
-Freshchat-iOS-App
-Freshdesk-iOS-App
-Freshservice Discovery Agent and Probe
-Freshservice-Intune-iOS-App
-Freshservice-iOS-App
 Front for Mac
 Front for Windows
 Functions dealing with vehicle access and immobilizer
@@ -2076,7 +2070,6 @@ Kruidvat BE Android
 Kruidvat BE iOS
 Kruidvat NL Android
 Kruidvat NL iOS
-Lansweeper Discovery
 LaunchDarkly Open Source SDKs
 Leaked Credentials
 Leaked Credentials and Secrets (Canva Employee/Contractor)
@@ -2203,6 +2196,7 @@ Nintendo Switch 2 System Processes allowing piracy
 Nintendo Switch 2 applications for which Nintendo is the publisher worldwide
 Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
+Non Altera Products
 Non-Core Assets
 Non-Core Grafana Plugins
 NordPass - Linux Executable
@@ -2224,7 +2218,6 @@ OKX Wallet Core Open Source
 OKX Wallet Edge Add-ons
 OKX Wallet Safari Extension
 OKX iOS APP
-ONCE: Campfire
 OP-TEE
 Observability - APM Agents
 Observability - APM Server
@@ -2837,7 +2830,6 @@ api.instacart.com
 api.khealth.com
 api.klarna.com
 api.krisp.ai
-api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
@@ -2962,8 +2954,6 @@ app.khealth.com
 app.klarna.com
 app.koho.ca
 app.krisp.ai
-app.lansweeper.com
-app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
 app.marionnaud.at
@@ -3065,12 +3055,10 @@ authz.workbox.dk
 autocomplete.booking.com
 autodiscover.uzleuven.be
 autointerface.stag.visma.net
-autoupdateapi.lansweeper.com
 aw.visa.com
 ax-stage.maventa.com
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
-backoffice.lansweeper.com
 backstage.io
 badoo.com
 badoocdn.com
@@ -3432,11 +3420,6 @@ com.finshell.finance
 com.finshell.wallet
 com.foxnextgames.m3
 com.frame.FrameIO
-com.freshchat.agent.android
-com.freshdesk.helpdesk
-com.freshservice.helpdesk
-com.freshservice.helpdesk.intune
-com.freshworks.freshcaller
 com.frontapp.mobile
 com.genevachat.staging
 com.goodrx
@@ -3838,7 +3821,6 @@ do.co
 doaction.org
 docs.api.enterprise.uphold.com
 docs.gitlab.com
-docs.lansweeper.com
 docs.launchdarkly.com
 docs.nextcloud.com
 docs.optimuscards.com
@@ -3882,7 +3864,6 @@ ecom-data.trekpleister.nl
 ecom-static.kruidvat.be
 ecom-static.kruidvat.nl
 ecrf.uzleuven.be
-edge.lansweeper.com
 edgeapi.slack.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
@@ -3951,7 +3932,6 @@ fareharborsites.com
 fashion4less.me
 faucet-api.polygon.technology/
 faucet.polygon.technology
-fb.lansweeper.com
 fch-cf.*.aws.indriverapp.com
 fe-cf.*.aws.indriverapp.com
 fe-gw-cf.*.aws.indriverapp.com
@@ -4943,6 +4923,8 @@ https://github.com/auth0/nextjs-auth0
 https://github.com/auth0/passport-wsfed-saml2
 https://github.com/auth0/react-native-auth0
 https://github.com/backstage/backstage
+https://github.com/basecamp/once-campfire
+https://github.com/basecamp/writebook
 https://github.com/brave/*, https://github.com/brave-intl/*
 https://github.com/buildonspark/spark
 https://github.com/cashapp/cash-app-pay-android-sdk
@@ -5324,7 +5306,6 @@ https://login.salt.ch
 https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
-https://lsagentrelay.lansweeper.com/
 https://luna.amazon.com/*
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://m.csqtrk.net
@@ -6726,7 +6707,6 @@ id.nba.com
 id.oppo.com
 id.stg.inspectorio.com
 id.superhuman.com
-id.worldcoin.org
 id1427744264
 id1520720139
 id1534920947
@@ -6905,7 +6885,6 @@ login.delen.ch
 login.delen.lu 
 login.infomaniak.com
 login.insightly.com
-login.lansweeper.com
 login.oyens.com
 login.playcanvas.com
 login.rei.com
@@ -7252,7 +7231,6 @@ odoo14.notebleue.pro
 odul.watsons.com.tr
 og.com
 om.vodafone.mva
-on-premises software
 onboarding-*.cloud.com
 onboarding.cloud.com
 onboarding.greenhouse.io
@@ -8246,7 +8224,6 @@ www.kruidvat.nl
 www.kruidvatkids.nl
 www.lab-recherche-environnement.org
 www.landmarkcinemas.com
-www.lansweeper.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.libelle.nl
@@ -8491,12 +8468,6 @@ you.23andme.com
 your-assigned-subdomain.files.com
 your-store.myshopify.com
 yourcompany.udemy.com
-yourdomain.freshcaller.com
-yourdomain.freshchat.com
-yourdomain.freshdesk.com
-yourdomain.freshrelease.com
-yourdomain.freshservice.com
-yourdomain.myfreshworks.com
 ywh.admin.zecible.fr
 ywh.api.zecible.fr
 ywh.comptage.zecible.fr
@@ -8515,7 +8486,6 @@ zooplus.net
 ████
 ███████
 ████████
-███████████
 ████████████
 █████████████
 ██████████████
