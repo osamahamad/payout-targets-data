@@ -250,6 +250,7 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
+*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.dell.com/*
@@ -1024,6 +1025,7 @@
 *.vayama.com
 *.venmo.com
 *.vennhypotheken.nl
+*.veriff.com
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
@@ -1213,6 +1215,7 @@
 146.109.68.0/24
 146.109.8.0/21
 146.109.8.0/22
+1467907532
 1474700 (Steam app id)
 1475021574
 1476615877
@@ -2719,6 +2722,7 @@ airFiber
 airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 akismet.com
+alchemy.veriff.com
 alert.logitech.com
 alexa.amazon.com
 alexaanswers.amazon.com
@@ -2815,6 +2819,7 @@ api.ezvizlife.com
 api.faraday.ai
 api.fi.dyson.com
 api.figma.com
+api.flamingo-eu.veriff.com
 api.foliofn.com
 api.fortress.com.hk
 api.geneva-staging.com
@@ -2910,7 +2915,9 @@ api.tumblr.com
 api.twilio.com
 api.unleashed.be
 api.upwork.com/graphql
+api.us.veriff.me
 api.vault.chiatest.net
+api.veriff.me
 api.vhx.tv
 api.vimeo.com
 api.watsons.co.id
@@ -2939,6 +2946,9 @@ app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -3029,6 +3039,9 @@ as2-accpt.portofantwerpbruges.com
 as2.portofantwerp.com
 as2.portofantwerpbruges.com
 ask.khealth.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com 
+assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.spotify.com
@@ -3207,6 +3220,7 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
+campus.datacamp.com
 cancellation.prod.ps.welt.de
 capital.com/*
 capturingreality.com
@@ -3408,6 +3422,7 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
+com.datacamp
 com.dd.doordash
 com.defi.wallet
 com.deribit
@@ -3603,6 +3618,7 @@ com.urbanclap.urbanclap
 com.valmo.valmo
 com.valvesoftware.Steam
 com.venmo
+com.veriff.demo
 com.vilcsak.bitcoin2
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
@@ -3809,6 +3825,7 @@ developer.worldcoin.org
 developers.cloudways.com
 developers.reddit.com
 developers.tiktok.com
+developers.veriff.me
 device.marriott.com
 dh-gw-cf.*.aws.indriverapp.com
 diabrowser.com
@@ -4405,6 +4422,7 @@ https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
@@ -4972,15 +4990,6 @@ https://github.com/cosmos/iavl
 https://github.com/cosmos/ics23
 https://github.com/cosmos/ledger-cosmos
 https://github.com/curl/curl
-https://github.com/digitalocean/action-doctl
-https://github.com/digitalocean/do-agent
-https://github.com/digitalocean/do-markdownit
-https://github.com/digitalocean/doctl
-https://github.com/digitalocean/droplet-agent
-https://github.com/digitalocean/go-nbd
-https://github.com/digitalocean/godo
-https://github.com/digitalocean/pydo
-https://github.com/digitalocean/terraform-provider-digitalocean
 https://github.com/discourse/discourse
 https://github.com/django
 https://github.com/electroneum/electroneum-sc/
@@ -6914,6 +6923,7 @@ logs.nextcloud.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
 lookup.nextcloud.com
+louvre.veriff.me
 luxfilmfestfilms.megatix.be
 luxfilmfestproducts.megatix.be
 luxfilmfesttickets.megatix.be
@@ -6930,6 +6940,7 @@ m.trendyol.com
 mUSD Stablecoin
 magazine.kruidvat.be
 magento.com
+magic.veriff.me
 magiceden.io
 magisto.com,www.magisto.com
 mail.hostinger.com/v2
@@ -7400,6 +7411,7 @@ pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
 pr*.indriverapp.com
 pr-gw-cf.*.aws.indriverapp.com
+practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -7442,6 +7454,8 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profiler.firefox.com
+profiles-api.datacamp.com
+projects.datacamp.com
 projects.nextcloud.com
 prow.k8s.io
 proxy-production.lime.bike
@@ -7733,6 +7747,8 @@ starling-ttp.lemon8-app.us
 start.khealth.com
 static*.twilio.com
 static.apps.nextcloud.com
+station.veriff.com
+stationapi.veriff.com
 stats-trafficcop-prod.nba.com
 stats.gleague.nba.com
 stats.nba.com
@@ -8118,6 +8134,8 @@ www.crowdstrike.com
 www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
+www.datacamp.com
+www.datacamp.com/datalab
 www.ddfcontent.com
 www.delen.bank
 www.delen.be/en 
@@ -8394,6 +8412,7 @@ www.urbancompany.com
 www.uzleuven.be
 www.valmo.in
 www.valvesoftware.com
+www.veriff.com
 www.vfsvisaonline.com
 www.vfsvisaservicesrussia.com
 www.vimeo.com
