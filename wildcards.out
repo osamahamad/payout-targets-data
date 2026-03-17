@@ -3,8 +3,6 @@
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *-api-*.acronis.com
 *-cvr-aws-*.sys.comcast.net
-*. advancedcustomfields.com
-*. bettersearchreplace.com
 *. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
@@ -239,7 +237,6 @@
 *.dancecentral.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
-*.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demorgen.be
@@ -543,7 +540,6 @@
 *.link.co
 *.linktree-extensions.com
 *.livestream.com
-*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.logitech-channel-marketing.com
@@ -660,7 +656,6 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
-*.nitropack.io
 *.niumba.com
 *.nmfn.com
 *.nml.com
@@ -904,7 +899,6 @@
 *.streamlabscharity.com
 *.stripchat.com
 *.stripe.com
-*.studiopress.com
 *.stylebook.de
 *.subp-router.hereapi.com
 *.superbet.com
@@ -1057,6 +1051,7 @@
 *.wellsfargoadvisors.com
 *.welt.de
 *.wf.com
+*.whatnot.com
 *.wien.at
 *.wien.gv.at
 *.wienkav.at
@@ -1077,8 +1072,6 @@
 *.worldcoin.org
 *.worldfirst.com
 *.wotif.com
-*.wpengine.io
-*.wpesvc.net
 *.x.ai
 *.x.com
 *.xcal.tv

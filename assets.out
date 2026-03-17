@@ -18,8 +18,6 @@
 *-eu.truecaller.com
 *-noneu.truecaller.com
 *-vpn.8x8.com
-*. advancedcustomfields.com
-*. bettersearchreplace.com
 *. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
@@ -254,7 +252,6 @@
 *.dancecentral.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
-*.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demorgen.be
@@ -558,7 +555,6 @@
 *.link.co
 *.linktree-extensions.com
 *.livestream.com
-*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.logitech-channel-marketing.com
@@ -675,7 +671,6 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
-*.nitropack.io
 *.niumba.com
 *.nmfn.com
 *.nml.com
@@ -919,7 +914,6 @@
 *.streamlabscharity.com
 *.stripchat.com
 *.stripe.com
-*.studiopress.com
 *.stylebook.de
 *.subp-router.hereapi.com
 *.superbet.com
@@ -1072,6 +1066,7 @@
 *.wellsfargoadvisors.com
 *.welt.de
 *.wf.com
+*.whatnot.com
 *.wien.at
 *.wien.gv.at
 *.wienkav.at
@@ -1092,8 +1087,6 @@
 *.worldcoin.org
 *.worldfirst.com
 *.wotif.com
-*.wpengine.io
-*.wpesvc.net
 *.x.ai
 *.x.com
 *.xcal.tv
@@ -2541,7 +2534,6 @@ WARP desktop client
 WGP Slot Games
 WHOOP 4.0 STRAP
 WHOOP 5.0/MG STRAP
-WP Engine-developed WordPress Plugins and Themes
 WP-CLI
 Waiting Room
 Watsons Hong Kong Android
@@ -2565,6 +2557,7 @@ Watsons Vietnam iOS
 Web Playback SDK
 Web of Trust Specification
 Web3 Smart Contracts
+Whatnot: Shop, Sell, Connect
 Wickr Me Android
 Wickr Me Linux
 Wickr Me OS X
@@ -2914,6 +2907,7 @@ api.watsons.com.sg
 api.watsons.com.tr
 api.watsons.com.tw
 api.watsons.vn
+api.whatnot.com
 api.wisdomtreeprimeapp.com
 api.wordpress.org
 api.workbox.dk
@@ -3025,6 +3019,7 @@ assets.spotify.com
 assets.tumblr.com
 ath-cf.*.aws.indriverapp.com
 ath-gw-cf.*.aws.indriverapp.com
+auction-service.whatnot.com
 auroratechaward.com
 aus5.mozilla.org
 auth-apc.marriott.com
@@ -3605,6 +3600,7 @@ com.wellsfargo.ceomobile
 com.wf.ceomobile
 com.wf.mobilebanking
 com.wf.wellsfargomobile
+com.whatnot_mobile
 com.whoop.android
 com.whoop.iphone
 com.wikibuy.prod.main
@@ -4348,7 +4344,6 @@ https://app.datadome.co
 https://app.easy4ipcloud.com
 https://app.ecwid.com/api/v3/	
 https://app.fin.ai/
-https://app.getflywheel.com
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.ibotta.com/sign-in 
 https://app.insomnia.rest/
@@ -4881,7 +4876,6 @@ https://gemvisa.com.au
 https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
-https://getflywheel.com
 https://git.libssh.org/
 https://github.com/Chia-Network/chia-blockchain
 https://github.com/Chia-Network/chia-blockchain-gui
@@ -5311,7 +5305,6 @@ https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|
 https://m.csqtrk.net
 https://m.thefork.com
 https://maf-holding-prod.apigee.net
-https://makeshift.film
 https://manage.cic-bug-bounty.auth0app.com/
 https://manage.statuspage.io
 https://manager.thefork.com
@@ -5750,7 +5743,6 @@ https://my.salt.ch
 https://my.sogexia.com
 https://my.thesecurityteam.rocks
 https://my.ultramobile.com
-https://my.wpengine.com
 https://my.wyze.com
 https://myaccount-staging.getmoneytree.com
 https://myapi.arlo.com
@@ -5850,7 +5842,6 @@ https://paymayabiller-prod.paymaya.com/
 https://payment-connectors.vendhq.com/
 https://payment.lafourchette.com
 https://payments.myntra.com
-https://payments.wpengine.com
 https://payoutapi.maya.ph/
 https://pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-revision/
 https://pbgq-pes.deontologie-policiere.gouv.qc.ca/reponses-questions/
@@ -6191,7 +6182,6 @@ https://stp.wien.gv.at
 https://student.classdojo.com
 https://student.monash
 https://studentplacements.monash.edu
-https://studiopress.blog
 https://suggestions.opera-api.com
 https://superbet.pl
 https://superbet.ro
@@ -6236,7 +6226,6 @@ https://tidal.com/
 https://tms.onecloud.harman.com
 https://tools-api.cryptocompare.com/
 https://toom.de
-https://torquemag.io
 https://tr.ee
 https://tracker.bugcrowd.com
 https://tracker.naspers.com/
@@ -6302,7 +6291,6 @@ https://v.utv.usaa.com
 https://vault-staging.getmoneytree.com
 https://vault.chiatest.net/
 https://vc.tasheer.com/
-https://velocitize.com
 https://vendors.paddle.com
 https://vendorss.usaa.com
 https://vfs-ai-tiff-image-api-hchkdabjdsdya6ea.switzerlandnorth-01.azurewebsites.net/
@@ -6342,7 +6330,6 @@ https://wiki.xenproject.org/wiki/Xen_Project_Repositories
 https://wise.com
 https://world.planethoster.net
 https://wowjobs.ca
-https://wpengine.com
 https://ws-{app-id}.calls.sendbird.com
 https://ws-{app-id}.sendbird.com
 https://ws.multiplayer.classdojo.com/
@@ -6871,6 +6858,7 @@ list-v2--netlify-plugins.netlify.app
 lists.nextcloud.com
 lists.wordpress.org
 live-backstage.tiktok.com
+live-service.whatnot.com
 loadboard*.bykea.net/
 loanbuilder.com
 lockervision.nba.com
@@ -8428,6 +8416,7 @@ www.watsons.vn
 www.watsonsbeautystudio.com
 www.wearehackerone.com
 www.whatismode.com
+www.whatnot.com
 www.wickr.com
 www.wnba.com
 www.wotif.com
