@@ -64,9 +64,6 @@
 *.alasco.de
 *.alasco.rocks
 *.alipayplus.com
-*.allegro.cz.allegrosandbox.pl
-*.allegro.pl.allegrosandbox.pl
-*.allegro.sk.allegrosandbox.pl
 *.amazon.ae
 *.amazon.ca
 *.amazon.cl
@@ -551,6 +548,7 @@
 *.kwsdose.be
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
+*.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
 *.latitudefinancial.co.nz
@@ -1607,6 +1605,10 @@ ASN: AS62306
 ASN: AS62876
 AWS Infrastructure
 AWS infrastructure and services in use by Wise (eg: S3 buckets)
+Acrobat AI Assistant
+Acrobat Create Podcast
+Acrobat Create Presentations
+Acrobat PDF Spaces
 Acrobat Reader
 Acronis Agent
 Acronis Cloud Manager
@@ -1915,6 +1917,7 @@ Exness Investor
 Exness Social Trading
 Exness Trade: Online Trading
 Exodus Desktop Wallet
+Express AI Assistant
 ExpressVPN APIs
 ExpressVPN Router
 ExpressVPN VPN servers
@@ -1948,6 +1951,8 @@ Finicity Decisioning
 Finicity- Data Services
 Finicity- Open Banking Payment History application
 FireTV
+Firefly Image Models
+Firefly Video Model
 Firmware
 Firmware: Mali Command Stream Frontend (CSF) Firmware
 Fleet Server
@@ -2088,6 +2093,7 @@ Kruidvat BE Android
 Kruidvat BE iOS
 Kruidvat NL Android
 Kruidvat NL iOS
+Lansweeper Discovery
 LaunchDarkly Open Source SDKs
 Leaked Credentials
 Leaked Credentials and Secrets (Canva Employee/Contractor)
@@ -2095,6 +2101,8 @@ Leaked Credentials and Secrets (Canva User)
 Leaked/compromised employee accounts *.here.com
 Leaked/Сompromised Employee accounts
 Lens Studio
+Lightroom "Edit suggestions" Tech Preview
+Lightroom AI Edits
 Lightroom Classic
 Livestream software (Producer, Studio)
 Load Balancing
@@ -2291,6 +2299,7 @@ PayPal SDK
 Peephole Cam
 Penny
 Photoshop
+Photoshop AI Assistant
 PlayStation 4
 PlayStation 5
 Podsights
@@ -2846,6 +2855,7 @@ api.instacart.com
 api.khealth.com
 api.klarna.com
 api.krisp.ai
+api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
@@ -2944,6 +2954,7 @@ app*.hubspot.com
 app-*.easy4ipcloud.com
 app-insiders.marriott.com
 app.Reclaim.ai
+app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
@@ -2972,6 +2983,8 @@ app.khealth.com
 app.klarna.com
 app.koho.ca
 app.krisp.ai
+app.lansweeper.com
+app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
 app.marionnaud.at
@@ -3075,10 +3088,12 @@ authz.workbox.dk
 autocomplete.booking.com
 autodiscover.uzleuven.be
 autointerface.stag.visma.net
+autoupdateapi.lansweeper.com
 aw.visa.com
 ax-stage.maventa.com
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
+backoffice.lansweeper.com
 backstage.io
 badoo.com
 badoocdn.com
@@ -3847,6 +3862,7 @@ do.co
 doaction.org
 docs.api.enterprise.uphold.com
 docs.gitlab.com
+docs.lansweeper.com
 docs.launchdarkly.com
 docs.nextcloud.com
 docs.optimuscards.com
@@ -3892,6 +3908,7 @@ ecom-data.trekpleister.nl
 ecom-static.kruidvat.be
 ecom-static.kruidvat.nl
 ecrf.uzleuven.be
+edge.lansweeper.com
 edgeapi.slack.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
@@ -3960,6 +3977,7 @@ fareharborsites.com
 fashion4less.me
 faucet-api.polygon.technology/
 faucet.polygon.technology
+fb.lansweeper.com
 fch-cf.*.aws.indriverapp.com
 fe-cf.*.aws.indriverapp.com
 fe-gw-cf.*.aws.indriverapp.com
@@ -5400,6 +5418,7 @@ https://login.salt.ch
 https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
+https://lsagentrelay.lansweeper.com/
 https://luna.amazon.com/*
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://m.blismedia.com
@@ -5787,6 +5806,7 @@ https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosti
 https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
 https://marketplace.auth0.com
 https://marketplace.ifood.com.br
+https://marketplace.visualstudio.com/items?itemName=AikidoSecurity.aikido
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
 https://master.servicecentre.digitalservicing-np.lfscnp.com/
 https://matrix.agent.tchap.gouv.fr
@@ -7005,6 +7025,7 @@ login.arkane.network
 login.cm.com
 login.infomaniak.com
 login.insightly.com
+login.lansweeper.com
 login.playcanvas.com
 login.rei.com
 login.starbucks.co.jp
@@ -7351,6 +7372,7 @@ odoo14.notebleue.pro
 odul.watsons.com.tr
 og.com
 om.vodafone.mva
+on-premises software
 onboarding-*.cloud.com
 onboarding.cloud.com
 onboarding.greenhouse.io
@@ -8345,6 +8367,7 @@ www.kruidvat.nl
 www.kruidvatkids.nl
 www.lab-recherche-environnement.org
 www.landmarkcinemas.com
+www.lansweeper.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.libelle.nl
