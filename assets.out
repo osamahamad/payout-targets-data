@@ -1640,6 +1640,15 @@ Affiliates or entities such as recently acquired companies
 After Effects
 Agora for Android (see dowload link for APK file and mobile app GitHub repository in description)
 Agora for iOS (see dowload link for IPA file and mobile app GitHub repository in description)
+Aiven for Apache Flink
+Aiven for Apache Kafka
+Aiven for Caching
+Aiven for Dragonfly
+Aiven for Grafana
+Aiven for MySQL
+Aiven for OpenSearch
+Aiven for PostgreSQL
+Aiven for Valkey
 All Assets (other than Blinkit)
 All Chime Assets
 All Evergreen Assets (Excluding staging)
@@ -4172,6 +4181,7 @@ http://datapod-1-druid-query.production.forescoutcloud.net/v2/services
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/matrixoverview
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/overlappingzones
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
+http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
 http://federatedid-na1.services.adobe.com
 http://github.com/circlefin/noble-cctp
 http://github.com/cloudflare
@@ -4268,6 +4278,9 @@ https://aemdam.usaa360.com/
 https://afterpay.com
 https://agent.apps.monash.edu/
 https://airflow-mcp.data.dailymotion.com/
+https://aiven.io/
+https://aiven.io/clickhouse
+https://aiven.io/docs/products/metrics/concepts/metrics-overview
 https://album.link
 https://alumni-friends.monash.edu
 https://amazon-tacticalplanner.com
@@ -4291,6 +4304,7 @@ https://api-{app-id}.calls.sendbird.com
 https://api-{app-id}.notifications.sendbird.com
 https://api-{app-id}.sendbird.com
 https://api.20min.ch/
+https://api.aiven.io/login
 https://api.anytask.com/
 https://api.anytask.thesecurityteam.rocks
 https://api.bitpanda.com
@@ -4725,6 +4739,7 @@ https://connect.soundcloud.com
 https://consensus2024.sandbox.events.coindesk.com/
 https://consensys.io/
 https://console-stage.neon.build/
+https://console.aiven.io/login
 https://console.delltechnologies.com/nav/administration
 https://console.delltechnologies.com/nav/billing
 https://console.delltechnologies.com/nav/invoice
@@ -4944,6 +4959,8 @@ https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
 https://git.libssh.org/
+https://github.com/Aiven
+https://github.com/Aiven-Open
 https://github.com/Chia-Network/chia-blockchain
 https://github.com/Chia-Network/chia-blockchain-gui
 https://github.com/Chia-Network/chia_rs
@@ -6186,6 +6203,7 @@ https://rc.telekom.blis.com
 https://rc.tpmaudience.com
 https://rc.wmaudience.com
 https://redash-staging.getmoneytree.com/
+https://regatta.aiven.io/
 https://register.blis.com
 https://rentals.tripadvisor.com
 https://reptox.cnesst.gouv.qc.ca/
@@ -8620,8 +8638,6 @@ zooplus.net
 ███
 ████
 ███████
-████████
-████████████
 █████████████
 ██████████████
 ███████████████
@@ -8660,7 +8676,6 @@ zooplus.net
 ███████████████████████████████████████████████████
 ████████████████████████████████████████████████████
 █████████████████████████████████████████████████████
-███████████████████████████████████████████████████████
 ██████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████████
