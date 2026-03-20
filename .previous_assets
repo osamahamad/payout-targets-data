@@ -2012,9 +2012,12 @@ Circle Cameras
 Cisco Campus Gateways
 Cisco Catalyst 9200L Series Switches (Cloud-Managed)
 Cisco Meraki Dashboard Mobile Application (iOS and Android)
+Cisco Meraki MG Fixed Wireless Access Devices
 Cisco Meraki MR Access Points
 Cisco Meraki MS Switches
 Cisco Meraki MV Security Cameras
+Cisco Meraki MV Smart Cameras
+Cisco Meraki MX & Z Series Security Appliances (Including vMX)
 Cisco Meraki MX Security Appliances
 Cisco Meraki Systems Manager
 Cisco Meraki Virtual Security Appliances
@@ -5064,6 +5067,7 @@ https://api.pluralpay.in
 https://api.pornhub.com/
 https://api.production.cde.tamg.cloud
 https://api.rec.net
+https://api.recordedfuture.com
 https://api.ring.com/*
 https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
 https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql
@@ -5129,6 +5133,7 @@ https://app.latitudepayapps.com/
 https://app.opsgenie.com
 https://app.optimizely.com/
 https://app.pdq.com/
+https://app.recordedfuture.com
 https://app.ring.com/*
 https://app.ripio.com
 https://app.saltlabs.com/
@@ -5287,6 +5292,7 @@ https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
 https://apps.apple.com/us/app/quip-docs-chat-sheets/id647922896
+https://apps.apple.com/us/app/recorded-future/id1435597894
 https://apps.apple.com/us/app/roomba-home/id6504274697
 https://apps.apple.com/us/app/salt-work-and-get-rewarded/id1668462142
 https://apps.apple.com/us/app/save-to-pinterest/id6473649042
@@ -5370,6 +5376,7 @@ https://base.org
 https://bb1.simplisafe.com
 https://bb2.simplisafe.com
 https://beta.arlo.com
+https://bgpview.io
 https://bigquery-mcp.data.dailymotion.com/
 https://billing.ring.com/*
 https://billingonline.post.ch/OnlinePayment/Web/v1/BOI
@@ -5728,6 +5735,7 @@ https://gatewaydsaptst2.marriott.com/
 https://gcsm.oppoit.com/
 https://gemcreditline.co.nz
 https://gemfinance.co.nz
+https://geminiadvisory.io
 https://gemvisa.com.au
 https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
@@ -6183,6 +6191,7 @@ https://gwapi2.tripadvisor.com
 https://gx.games
 https://gx.opera-api.com
 https://hackme.matrixreq.com
+https://hatching.io
 https://head.coda.io/*
 https://healthmate.withings.com
 https://help.etsy.com
@@ -6212,6 +6221,7 @@ https://icu.eu-west-2.outscale.com
 https://id.atlassian.com/login
 https://id.employer.seek.com
 https://id.employer.staging.seek.com
+https://id.recordedfuture.com
 https://id.unity.com
 https://identite-sandbox.proconnect.gouv.fr
 https://identity.bugcrowd.com/
@@ -7052,6 +7062,7 @@ https://play.google.com/store/apps/details?id=com.pinterest.twa&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.porsche.one
 https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&hl=en
 https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid
+https://play.google.com/store/apps/details?id=com.recordedfuture.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.saltlabs.app
 https://play.google.com/store/apps/details?id=com.scu.bsafe
 https://play.google.com/store/apps/details?id=com.siilo.android&hl=en
@@ -7459,6 +7470,7 @@ https://trello.com/power-ups/5c2462c384ab8949b1724a20/list-limits
 https://trello.com/power-ups/5e3886cd2ae34410748d0d5b/jira-align-
 https://trello.com/power-ups/6048e897c73d032a983e2a7c/dashcards
 https://trello.com/power-ups/6052d130068a8c0de7b022b4
+https://tria.ge
 https://trm.pinelabs.ae
 https://tsock.us1.twilio.com
 https://twilio.com/blog
@@ -7844,6 +7856,7 @@ https://www.privateinternetaccess.com/download/windows-vpn
 https://www.probiller.com
 https://www.quintoandar.com.br/*
 https://www.realcommercial.com.au/
+https://www.recordedfuture.com
 https://www.redtube.com/
 https://www.redtubepremium.com/
 https://www.remove.bg

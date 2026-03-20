@@ -1,4 +1,7 @@
 *.ad.nl
+*.allegro.cz.allegrosandbox.pl
+*.allegro.pl.allegrosandbox.pl
+*.allegro.sk.allegrosandbox.pl
 *.asadcdn.com
 *.hey.bild.de
 *.auth.bild.de
@@ -71,6 +74,17 @@ Leaked/compromised employee accounts *.here.com
 *.iciparisxl.nl
 *.iciparisxl.be
 *.pourvous.nl
+*.gamma.nl/*
+*.gamma.be/*
+*.karwei.nl/*
+*.intergamma.cloud
+*.intergamma.nl/*
+*.restintergamma.nl
+*.intergamma-test.nl
+*.werkenbijgamma.nl
+*.werkenbijgamma.be
+*.werkenbijkarwei.nl
+*.karweioutletstore.nl
 *.klubcinema.fr
 *.megatix.be  
 *.kinepolis.be

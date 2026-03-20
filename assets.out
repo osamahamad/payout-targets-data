@@ -64,6 +64,9 @@
 *.alasco.de
 *.alasco.rocks
 *.alipayplus.com
+*.allegro.cz.allegrosandbox.pl
+*.allegro.pl.allegrosandbox.pl
+*.allegro.sk.allegrosandbox.pl
 *.amazon.ae
 *.amazon.ca
 *.amazon.cl
@@ -112,7 +115,6 @@
 *.app.asana.com
 *.app.personio-dev.com
 *.app.personio.com
-*.app.spacelift.dev
 *.appmiral.com
 *.arlo.com (subdomains impacting customer-facing services)
 *.arlocloud.com
@@ -376,6 +378,8 @@
 *.fuze.com
 *.fuze.site
 *.gaming.gopayapi.com
+*.gamma.be/*
+*.gamma.nl/*
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
@@ -506,6 +510,9 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
+*.intergamma-test.nl
+*.intergamma.cloud
+*.intergamma.nl/*
 *.internal.exoscale.ch
 *.intigriti.me
 *.itcapital.io
@@ -523,6 +530,8 @@
 *.jobstreet.com.sg
 *.jora.com
 *.jora.xyz
+*.karwei.nl/*
+*.karweioutletstore.nl
 *.kayak.com
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
@@ -802,6 +811,7 @@
 *.redecor.com
 *.rentalcars.com
 *.reposify.com
+*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -1073,6 +1083,9 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
 *.wf.com
 *.whatnot.com
 *.wien.at
@@ -1243,6 +1256,7 @@
 1532153219
 1541949985
 1552455423
+1558129454
 1570215232
 1579372261
 1579530451
@@ -1552,6 +1566,9 @@
 943905271
 944011620
 947984433
+949829216
+950680989
+950693949
 955837609
 960335206
 97.105.243.96/28
@@ -1723,6 +1740,7 @@ Atlas Payments/Billing
 Audition
 BBPress Core
 Backend endpoint: bug-bounty-be.glean.com
+Backend/Non-Game
 Basecamp.app
 Beats
 Beats - Auditbeat
@@ -1781,13 +1799,12 @@ Circle Cameras
 Cisco Campus Gateways
 Cisco Catalyst 9200L Series Switches (Cloud-Managed)
 Cisco Meraki Dashboard Mobile Application (iOS and Android)
+Cisco Meraki MG Fixed Wireless Access Devices
 Cisco Meraki MR Access Points
 Cisco Meraki MS Switches
-Cisco Meraki MV Security Cameras
-Cisco Meraki MX Security Appliances
+Cisco Meraki MV Smart Cameras
+Cisco Meraki MX & Z Series Security Appliances (Including vMX)
 Cisco Meraki Systems Manager
-Cisco Meraki Virtual Security Appliances
-Cisco Meraki Z Series (Z1,Z3(C))
 Citrix End Point Analysis (EPA) client for Linux
 Citrix End Point Analysis (EPA) client for Windows
 Citrix Secure Access client for Android
@@ -1904,6 +1921,7 @@ Elastic Maps Server
 Elastic Package Registry
 Elastic Synthetics Monitoring
 Elasticsearch
+Elvenar
 Engadget
 Enjin - Ethereum ERC-1155 Contract
 Enjin Blockchain
@@ -1958,6 +1976,7 @@ Firmware: Mali Command Stream Frontend (CSF) Firmware
 Fleet Server
 Flex - Xfinity hardware and services
 Forge Platform
+Forge of Empires
 FortniteClient-Android-Shipping-arm64-es2.apk
 FortniteClient-Win64-Shipping.exe
 FortniteLauncher-Win64-Shipping.exe
@@ -2015,6 +2034,7 @@ Grammarly Browser Extensions
 Grammarly Desktop for Windows
 Grammarly Desktop for macOS
 GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)
+Grepolis
 Gutenberg
 H5G
 HEY.app
@@ -2125,7 +2145,6 @@ LookAtMe Philippines iOS
 Low Cost Access
 Low impact, individually exposed Google Docs with no common root cause (see “Publicly accessible Google Document or Drive Links” in the “Corporate Targets” section)
 Luna
-MFA
 MFA Integrations	
 MIUI OS for Xiaomi Phone
 Mac OS Executable
@@ -2203,7 +2222,6 @@ NARZO 80 Pro 5G
 NARZO 80x 5G
 Naasapi.optus.com.au
 Narzo 80 lite 5G
-Native K8S workers and operator
 NetScaler AAA
 NetScaler ADC
 NetScaler Gateway
@@ -2236,7 +2254,6 @@ Notion Authentication
 Notion Desktop App
 Notion Frontend
 Notion Integrations
-OIDC-based API keys
 OKX Android APK
 OKX Wallet Chrome Extension
 OKX Wallet Core Open Source
@@ -2411,7 +2428,6 @@ Sophos Firewall (XG/XGS, SFOS) - Pre-auth RCE
 Sophos IT Infrastructure (all other Sophos domains)
 Source Code
 SpaceX and Starlink assets (target information and rewards detailed above on the brief)
-Spacelift Intent
 Special scenarios (see description)
 Specific scenarios (see program description)
 Spectrum
@@ -2506,6 +2522,7 @@ Trello Desktop Client
 Trello Mobile App for Android
 Trello Mobile App for iOS
 Trello Third Party Powerups
+Tribal Wars
 TrustedFirmware-A (TF-A)
 TrustedFirmware-M (TF-M)
 TrustedServer 100,000 Bonus Award (See Program Policy for Info)
@@ -2803,6 +2820,8 @@ api.coinmarketcap.com
 api.creditkarma.com
 api.custody.coinbase.com
 api.deriv.com
+api.digital.delen.be 
+api.digital.delen.lu 
 api.digitalocean.com
 api.direct.playstation.com
 api.doppler.com
@@ -2954,13 +2973,15 @@ app*.hubspot.com
 app-*.easy4ipcloud.com
 app-insiders.marriott.com
 app.Reclaim.ai
-app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
 app.datacamp.com/certification
 app.datacamp.com/groups
 app.datacamp.com/learn
+app.delen.be 
+app.delen.ch 
+app.delen.lu 
 app.deriv.com
 app.drogas.lt
 app.drogas.lv
@@ -3068,6 +3089,8 @@ auth-identity-qa.nba.com
 auth-identity-uat.nba.com
 auth-identity.nba.com
 auth.23andme.com
+auth.digital.delen.be 
+auth.digital.delen.lu 
 auth.hhc247.org
 auth.magic.link
 auth.monespacesante.fr
@@ -3115,6 +3138,8 @@ bdese.marionnaud.fr
 bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
+be.delen.digital
+be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -3801,6 +3826,7 @@ decision.swiftfinancial.com
 deeplinks.geneva-staging.chat
 deeplinks.geneva-staging.com
 defi.ripio.com
+delen/id1064839588
 delivery-webview.indrive.com
 demo.arkoselabs.com
 demo.dynamic.xyz
@@ -4037,6 +4063,8 @@ g2-gw-cf.*.aws.indriverapp.com
 gamenotes.nba.com
 gaming.logicool.co.jp
 gamma.grab.co
+gammacademy.be
+gammalokaal.nl
 gasstation.polygon.technology/
 gatekeeper.prd.iat.it.xvservice.net
 gateway*.marriott.com
@@ -4352,6 +4380,7 @@ https://api.planethoster.net
 https://api.pluralonline.com
 https://api.pluralpay.in
 https://api.production.cde.tamg.cloud
+https://api.recordedfuture.com
 https://api.ring.com/*
 https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
 https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql
@@ -4409,6 +4438,7 @@ https://app.latitudepayapps.com/
 https://app.opsgenie.com
 https://app.optimizely.com/
 https://app.pdq.com/
+https://app.recordedfuture.com
 https://app.ring.com/*
 https://app.ripio.com
 https://app.saltlabs.com/
@@ -4554,6 +4584,7 @@ https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
 https://apps.apple.com/us/app/quip-docs-chat-sheets/id647922896
+https://apps.apple.com/us/app/recorded-future/id1435597894
 https://apps.apple.com/us/app/roomba-home/id6504274697
 https://apps.apple.com/us/app/salt-work-and-get-rewarded/id1668462142
 https://apps.apple.com/us/app/save-to-pinterest/id6473649042
@@ -4628,6 +4659,7 @@ https://base.org
 https://bb1.simplisafe.com
 https://bb2.simplisafe.com
 https://beta.arlo.com
+https://bgpview.io
 https://bigquery-mcp.data.dailymotion.com/
 https://billing.ring.com/*
 https://billingonline.post.ch/OnlinePayment/Web/v1/BOI
@@ -4954,6 +4986,7 @@ https://gatewaydsaptst2.marriott.com/
 https://gcsm.oppoit.com/
 https://gemcreditline.co.nz
 https://gemfinance.co.nz
+https://geminiadvisory.io
 https://gemvisa.com.au
 https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
@@ -5267,6 +5300,7 @@ https://gwapi1.tripadvisor.com
 https://gwapi2.tripadvisor.com
 https://gx.games
 https://gx.opera-api.com
+https://hatching.io
 https://healthmate.withings.com
 https://help.etsy.com
 https://help.okta.com/asa/en-us/Content/Topics/Adv_Server_Access/docs/client.htm
@@ -5289,6 +5323,7 @@ https://ibconnect.internetbrands.com
 https://icu.eu-west-2.outscale.com
 https://id.atlassian.com/login
 https://id.employer.staging.seek.com
+https://id.recordedfuture.com
 https://id.unity.com
 https://identite-sandbox.proconnect.gouv.fr
 https://identity.bugcrowd.com/
@@ -5806,7 +5841,6 @@ https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosti
 https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
 https://marketplace.auth0.com
 https://marketplace.ifood.com.br
-https://marketplace.visualstudio.com/items?itemName=AikidoSecurity.aikido
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
 https://master.servicecentre.digitalservicing-np.lfscnp.com/
 https://matrix.agent.tchap.gouv.fr
@@ -6082,6 +6116,7 @@ https://play.google.com/store/apps/details?id=com.pinterest.shuffles
 https://play.google.com/store/apps/details?id=com.pinterest.twa&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&hl=en
 https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid
+https://play.google.com/store/apps/details?id=com.recordedfuture.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.saltlabs.app
 https://play.google.com/store/apps/details?id=com.scu.bsafe
 https://play.google.com/store/apps/details?id=com.siilo.android&hl=en
@@ -6297,7 +6332,6 @@ https://songlink.io
 https://sora.chatgpt.com
 https://soundcloud.com
 https://soundcloud.org
-https://spacelift.dev/
 https://speeddials.opera.com
 https://sprint.com
 https://square.online
@@ -6413,6 +6447,7 @@ https://trello.com/power-ups/5c2462c384ab8949b1724a20/list-limits
 https://trello.com/power-ups/5e3886cd2ae34410748d0d5b/jira-align-
 https://trello.com/power-ups/6048e897c73d032a983e2a7c/dashcards
 https://trello.com/power-ups/6052d130068a8c0de7b022b4
+https://tria.ge
 https://trm.pinelabs.ae
 https://u.oppomobile.com/
 https://uae.voxcinemas.com/
@@ -6705,6 +6740,7 @@ https://www.privateinternetaccess.com/download/mac-vpn
 https://www.privateinternetaccess.com/download/windows-vpn
 https://www.quintoandar.com.br/*
 https://www.realcommercial.com.au/
+https://www.recordedfuture.com
 https://www.remove.bg
 https://www.restaurant-information.com
 https://www.saturn.de
@@ -6919,6 +6955,7 @@ ir.remitly.com
 ir.ui.com
 irclogs.wordpress.org
 iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
+irmg.nl
 isa-cf.*.aws.indriverapp.com
 ispdesign.ui.com
 issuer.idpay-uat.unico.io
@@ -6953,6 +6990,10 @@ k8s.gcr.io
 k8s.io
 kaccount.khealth.com
 kartaview.org
+karwei-promotiepunt.nl
+kassa.gamma.be/*
+kassa.gamma.nl/*
+kassa.karwei.nl/*
 katalog.watsons.com.tr
 kayak.ai
 kidswebservices.com
@@ -7023,9 +7064,13 @@ login-4njbets.us.betfair.com
 login-accpt.portofantwerpbruges.com
 login.arkane.network
 login.cm.com
+login.delen.be 
+login.delen.ch 
+login.delen.lu 
 login.infomaniak.com
 login.insightly.com
 login.lansweeper.com
+login.oyens.com
 login.playcanvas.com
 login.rei.com
 login.starbucks.co.jp
@@ -7180,6 +7225,9 @@ mgmt-sensors.iris.production.forescoutcloud.net
 mgmtpod-1-dashboard.production.forescoutcloud.net
 mgmtpod-1.production.forescoutcloud.net
 mgs.marriott.com
+mijn.gamma.be/*
+mijn.gamma.nl/*
+mijn.karwei.nl/*
 mijnacc.uzleuven.be
 minerva.robinhood.com
 mipartnerprivileges.marriott.com
@@ -7346,6 +7394,9 @@ nft.io
 nha-cf.*.aws.indriverapp.com
 nha-gw-cf.*.aws.indriverapp.com
 niantic.kidswebservices.com
+nl.gamma.app.android
+nl.gamma.verf
+nl.karwei.app.android
 nmtracking.netflix.com
 no-cf.*.aws.indriverapp.com
 no-gw-cf.*.aws.indriverapp.com
@@ -7867,6 +7918,7 @@ stats.nba.com
 stats.nextcloud.com
 stats.vinci.com
 stats.wnba.com
+status.delen.be 
 status.larksuite.com
 status.uphold.com
 steamcommunity.com
@@ -7892,6 +7944,7 @@ streaming-api.iris.production.forescoutcloud.net
 streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
+sts.delen.be 
 sts.uzleuven.be
 studio-api.swapcard.com
 studio.swapcard.com
@@ -8219,6 +8272,8 @@ www.bookingholdings.com
 www.bpost.be
 www.bpost2.be
 www.bumble.com
+www.cadelam.be 
+www.cadelux.lu/en 
 www.cardinalcommerce.com
 www.carrentals.com
 www.cart.starbucks.co.jp/
@@ -8245,6 +8300,8 @@ www.cybersource.com
 www.datacamp.com
 www.datacamp.com/datalab
 www.ddfcontent.com
+www.delen.bank
+www.delen.be/en 
 www.demorgen.be
 www.demorgen.be/abonnementen
 www.digitalocean.com
@@ -8318,6 +8375,8 @@ www.fortress.com.hk
 www.fraedom.com
 www.funjet.com
 www.fuzemeeting.com
+www.gamma.be/*
+www.gamma.nl/*
 www.geneva-staging.chat
 www.geneva-staging.com
 www.getaroom.com
@@ -8349,6 +8408,7 @@ www.infomaniak.com
 www.instacart.com
 www.intigriti.com
 www.jaybirdsport.com
+www.karwei.nl/*
 www.kayak.com
 www.kinepolis.be 
 www.kinepolis.biz
