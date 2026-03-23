@@ -41,7 +41,6 @@
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -74,17 +73,6 @@ Leaked/compromised employee accounts *.here.com
 *.iciparisxl.nl
 *.iciparisxl.be
 *.pourvous.nl
-*.gamma.nl/*
-*.gamma.be/*
-*.karwei.nl/*
-*.intergamma.cloud
-*.intergamma.nl/*
-*.restintergamma.nl
-*.intergamma-test.nl
-*.werkenbijgamma.nl
-*.werkenbijgamma.be
-*.werkenbijkarwei.nl
-*.karweioutletstore.nl
 *.klubcinema.fr
 *.megatix.be  
 *.kinepolis.be
@@ -122,8 +110,6 @@ Leaked/compromised employee accounts *.here.com
 *.acc.mobilevikings.be
 *.dev-pub.mobilevikings.be
 *.dev.mobilevikings.be
-*.monzo.com
-*.prod-ffs.io
 *.nexuzhealth.*
 *.app.personio-dev.com
 *.app.personio.com
@@ -131,8 +117,6 @@ Leaked/compromised employee accounts *.here.com
 *.personio.tools
 *.personio.de
 *.personiowhistleblowing.com
-*.portofantwerp.com
-*.portofantwerpbruges.com
 *.ripe.net
  *.rivian.com
 *.swisspass.ch
