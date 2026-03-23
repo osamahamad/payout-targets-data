@@ -234,6 +234,7 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
+*.das.eu
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.dell.com/*
@@ -259,6 +260,7 @@
 *.dm.gg
 *.dmcdn.net
 *.dmxleo.com
+*.dns.eu
 *.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
@@ -321,6 +323,7 @@
 *.eternal.com
 *.etsy.com
 *.eu.floqast.app
+*.eurid.eu
 *.europolitan.se
 *.exodus.com
 *.exodus.io
@@ -362,6 +365,8 @@
 *.fuze.com
 *.fuze.site
 *.gaming.gopayapi.com
+*.gamma.be/*
+*.gamma.nl/*
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
@@ -492,6 +497,9 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
+*.intergamma-test.nl
+*.intergamma.cloud
+*.intergamma.nl/*
 *.internal.exoscale.ch
 *.intigriti.me
 *.itcapital.io
@@ -509,6 +517,8 @@
 *.jobstreet.com.sg
 *.jora.com
 *.jora.xyz
+*.karwei.nl/*
+*.karweioutletstore.nl
 *.kayak.com
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
@@ -663,6 +673,7 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
+*.nic.eu
 *.niumba.com
 *.nmfn.com
 *.nml.com
@@ -734,6 +745,8 @@
 *.pns.hk
 *.points.com
 *.polymoon.it
+*.portofantwerp.com
+*.portofantwerpbruges.com
 *.pourvous.nl
 *.ppbdev.com
 *.prd-pub.mobilevikings.be
@@ -782,8 +795,10 @@
 *.redditinc.com
 *.redditmedia.com
 *.redecor.com
+*.registry.eu
 *.rentalcars.com
 *.reposify.com
+*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -1055,8 +1070,12 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
 *.wf.com
 *.whatnot.com
+*.whois.eu
 *.wien.at
 *.wien.gv.at
 *.wienkav.at
@@ -1088,6 +1107,7 @@
 *.xoom.com
 *.xvservice.net
 *.xvtest.net
+*.yadifa.eu
 *.yelp-support.com
 *.yelp.com
 *.yelpwifi.com

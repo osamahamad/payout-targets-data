@@ -7,7 +7,7 @@
  UniFi OS Server
  com.citymapper.app.release
  https://api-*exoscale.com/v2
- idp-contact.nexuzhealth.be
+ login-test.portofantwerpbruges.com/
  mix.monash.edu 
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 (se|fi|uk).bingo.com
@@ -248,6 +248,7 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
+*.das.eu
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.dell.com/*
@@ -273,6 +274,7 @@
 *.dm.gg
 *.dmcdn.net
 *.dmxleo.com
+*.dns.eu
 *.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
@@ -335,6 +337,7 @@
 *.eternal.com
 *.etsy.com
 *.eu.floqast.app
+*.eurid.eu
 *.europolitan.se
 *.exodus.com
 *.exodus.io
@@ -376,6 +379,8 @@
 *.fuze.com
 *.fuze.site
 *.gaming.gopayapi.com
+*.gamma.be/*
+*.gamma.nl/*
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
@@ -506,6 +511,9 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
+*.intergamma-test.nl
+*.intergamma.cloud
+*.intergamma.nl/*
 *.internal.exoscale.ch
 *.intigriti.me
 *.itcapital.io
@@ -523,6 +531,8 @@
 *.jobstreet.com.sg
 *.jora.com
 *.jora.xyz
+*.karwei.nl/*
+*.karweioutletstore.nl
 *.kayak.com
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
@@ -677,6 +687,7 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
+*.nic.eu
 *.niumba.com
 *.nmfn.com
 *.nml.com
@@ -748,6 +759,8 @@
 *.pns.hk
 *.points.com
 *.polymoon.it
+*.portofantwerp.com
+*.portofantwerpbruges.com
 *.pourvous.nl
 *.ppbdev.com
 *.prd-pub.mobilevikings.be
@@ -796,8 +809,10 @@
 *.redditinc.com
 *.redditmedia.com
 *.redecor.com
+*.registry.eu
 *.rentalcars.com
 *.reposify.com
+*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -1069,8 +1084,12 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
 *.wf.com
 *.whatnot.com
+*.whois.eu
 *.wien.at
 *.wien.gv.at
 *.wienkav.at
@@ -1102,6 +1121,7 @@
 *.xoom.com
 *.xvservice.net
 *.xvtest.net
+*.yadifa.eu
 *.yelp-support.com
 *.yelp.com
 *.yelpwifi.com
@@ -1238,6 +1258,7 @@
 1532153219
 1541949985
 1552455423
+1558129454
 1570215232
 1579372261
 1579530451
@@ -1257,6 +1278,7 @@
 18.184.198.198, 18.185.214.59, 18.194.109.179, 3.121.117.72, 3.121.138.10, 3.121.138.128, 3.121.138.134, 3.121.138.170, 3.121.138.33, 3.121.138.43, 3.124.248.208, 35.156.137.39
 185.210.32.0/22
 185.26.180.0/22
+188.118.8.0/25
 192.251.123.0/24
 192.251.124.0/24
 192.251.125.0/24
@@ -1542,9 +1564,13 @@
 930441707
 936983378
 938003185
+94.107.237.192/26
 943905271
 944011620
 947984433
+949829216
+950680989
+950693949
 955837609
 960335206
 97.105.243.96/28
@@ -2093,9 +2119,6 @@ Leaked Credentials and Secrets (Canva User)
 Leaked/compromised employee accounts *.here.com
 Leaked/Сompromised Employee accounts
 Lens Studio
-Liferay DXP 2024.Q1
-Liferay DXP 2025.Q1
-Liferay DXP 2026.Q1
 Lightroom "Edit suggestions" Tech Preview
 Lightroom AI Edits
 Lightroom Classic
@@ -2613,6 +2636,7 @@ Xfinity Android mobile app
 Xfinity Home Hardware (items listed below in brief)
 Xfinity Home cameras
 Xfinity iOS mobile app
+YADIFA authoritative name server
 Yahoo Calendar
 Yahoo Finance
 Yahoo HK News
@@ -2756,6 +2780,8 @@ api*.hubapi.com
 api*.hubspot.com
 api*.netflix.com
 api-*.soundcloud.com
+api-accpt.portofantwerp.com
+api-accpt.portofantwerpbruges.com
 api-eu.floqast.app
 api-gateway.polygon.technology
 api-gw-cf.*.aws.indriverapp.com
@@ -2790,6 +2816,8 @@ api.coinmarketcap.com
 api.creditkarma.com
 api.custody.coinbase.com
 api.deriv.com
+api.digital.delen.be 
+api.digital.delen.lu 
 api.digitalocean.com
 api.direct.playstation.com
 api.doppler.com
@@ -2870,6 +2898,8 @@ api.personio-dev.com
 api.personio.com
 api.pns.hk
 api.portal.enterprise.uphold.com 
+api.portofantwerp.com
+api.portofantwerpbruges.com
 api.prd.commerce.simplisafe.com
 api.preprod.monespacesante.fr
 api.privateinternetaccess.com
@@ -2942,6 +2972,9 @@ app.Reclaim.ai
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
+app.delen.be 
+app.delen.ch 
+app.delen.lu 
 app.deriv.com
 app.drogas.lt
 app.drogas.lv
@@ -3008,11 +3041,15 @@ app.zivver.com
 app3.rewire.to
 applause1.magisto.com
 appmiral.com
+apps-accpt.portofantwerp.com
+apps-accpt.portofantwerpbruges.com
 apps.8x8.com
 apps.apple.com/fr/app/mon-espace-sant%C3%A9/id1589255019 (iOS)
 apps.apple.com/us/app/crowdstrike-falcon/id1458815656
 apps.nextcloud.com
 apps.ort-one-pingone.com
+apps.portofantwerp.com
+apps.portofantwerpbruges.com
 appt.healthclinics.superdrug.com
 aqtooling.com
 aquiris.com.br
@@ -3022,6 +3059,10 @@ arc.net
 arrive-server.shopifycloud.com
 as-cf.*.aws.indriverapp.com
 as-gw-cf.*.aws.indriverapp.com
+as2-accpt.portofantwerp.com
+as2-accpt.portofantwerpbruges.com
+as2.portofantwerp.com
+as2.portofantwerpbruges.com
 ask.khealth.com
 assets.airbnb.com
 assets.hyatt.com
@@ -3038,6 +3079,8 @@ auth-identity-qa.nba.com
 auth-identity-uat.nba.com
 auth-identity.nba.com
 auth.23andme.com
+auth.digital.delen.be 
+auth.digital.delen.lu 
 auth.hhc247.org
 auth.magic.link
 auth.monespacesante.fr
@@ -3085,6 +3128,8 @@ bdese.marionnaud.fr
 bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
+be.delen.digital
+be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -3766,6 +3811,7 @@ decision.swiftfinancial.com
 deeplinks.geneva-staging.chat
 deeplinks.geneva-staging.com
 defi.ripio.com
+delen/id1064839588
 delivery-webview.indrive.com
 demo.arkoselabs.com
 demo.dynamic.xyz
@@ -3816,6 +3862,7 @@ digitaloceanmirrors.com
 digitaloceanpartners.com
 digitaloceanstatus.com
 digitaloceantest.com
+digitalspecs.portofantwerpbruges.com
 direct-demo.currencycloud.com
 direct.playstation.com
 distribution-xml.booking.com
@@ -3899,6 +3946,9 @@ en.ottokasino.com
 enroll.clearme.com
 epaper.welt.de
 epptool-ctld.verisign-grs.com (EPP service; DNS related)
+erpx.unit4cloud.com/u4erx_pab_acp1
+erpx.unit4cloud.com/u4erx_pab_prev
+erpx.unit4cloud.com/u4erx_pab_prod
 errors.hackerone.net
 es-cf.*.aws.indriverapp.com
 es-gw-cf.*.aws.indriverapp.com
@@ -3998,6 +4048,8 @@ g2-gw-cf.*.aws.indriverapp.com
 gamenotes.nba.com
 gaming.logicool.co.jp
 gamma.grab.co
+gammacademy.be
+gammalokaal.nl
 gasstation.polygon.technology/
 gatekeeper.prd.iat.it.xvservice.net
 gateway*.marriott.com
@@ -5356,7 +5408,6 @@ https://marketplace.atlassian.com
 https://marketplace.atlassian.com/apps/1210722/confluence-source-editor?hosting=server
 https://marketplace.atlassian.com/apps/1210725/data-generator-for-jira?hosting=server
 https://marketplace.atlassian.com/apps/1210766/teamcity-integration-for-jira?hosting=cloud
-https://marketplace.atlassian.com/apps/1210818/scroll-versions-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/1210934/awesome-graphs-for-bitbucket?hosting=cloud
 https://marketplace.atlassian.com/apps/1210934/awesome-graphs-for-bitbucket?hosting=datacenter
 https://marketplace.atlassian.com/apps/1210950/atlassian-plugin-sdk-windows?hosting=server
@@ -5385,10 +5436,7 @@ https://marketplace.atlassian.com/apps/1211504/issue-edit-notifications-for-jira
 https://marketplace.atlassian.com/apps/1211539/web-post-hooks-for-bitbucket-server?hosting=server
 https://marketplace.atlassian.com/apps/1211542/atlassian-rest-api-browser?hosting=server
 https://marketplace.atlassian.com/apps/1211596/whos-looking-for-jira-cloud?hosting=cloud
-https://marketplace.atlassian.com/apps/1211616/scroll-translations-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/1211619/reviewer-suggester-for-bitbucket-server?hosting=server
-https://marketplace.atlassian.com/apps/1211636/scroll-viewport-for-confluence?hosting=cloud
-https://marketplace.atlassian.com/apps/1211636/scroll-viewport-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=server
@@ -5434,8 +5482,6 @@ https://marketplace.atlassian.com/apps/1215175/change-management-for-jsm?hosting
 https://marketplace.atlassian.com/apps/1215175/change-management-workflow-for-jira-service-management?hosting=datacenter
 https://marketplace.atlassian.com/apps/1215175/change-management-workflow-for-jira-service-management?hosting=server
 https://marketplace.atlassian.com/apps/1215192/image-paste-for-fisheye-crucible?hosting=server
-https://marketplace.atlassian.com/apps/1215199/backbone-issue-sync-for-jira?hosting=cloud
-https://marketplace.atlassian.com/apps/1215199/backbone-issue-sync-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1215235/fail-build-trigger-for-bamboo?hosting=server
 https://marketplace.atlassian.com/apps/1215460/automation-for-jira-data-center-and-server?hosting=datacenter
 https://marketplace.atlassian.com/apps/1215460/automation-for-jira-data-center-and-server?hosting=server
@@ -5466,15 +5512,12 @@ https://marketplace.atlassian.com/apps/1216623/confluence-trello-power-up?hostin
 https://marketplace.atlassian.com/apps/1216625/jira-trello-power-up?hosting=cloud
 https://marketplace.atlassian.com/apps/1216850/jira-cloud-power-up-for-trello?hosting=cloud
 https://marketplace.atlassian.com/apps/1216863/jira-cloud-for-slack-official?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1217037/scroll-exporter-extensions?hosting=cloud
 https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=datacenter
 https://marketplace.atlassian.com/apps/1217110/training-for-jira?hosting=server
 https://marketplace.atlassian.com/apps/1217194/optimizer-for-jira-cleaner-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1217230/jira-service-management-widget?hosting=cloud
 https://marketplace.atlassian.com/apps/1217289/announcement-plugin-for-bamboo?hosting=server
-https://marketplace.atlassian.com/apps/1217608/scroll-documents-for-confluence?hosting=cloud
-https://marketplace.atlassian.com/apps/1217608/scroll-documents-for-confluence?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1217661/jira-cloud-for-crm-official?hosting=cloud
 https://marketplace.atlassian.com/apps/1217696/troubleshooting-and-support-jira?hosting=datacenter
 https://marketplace.atlassian.com/apps/1217696/troubleshooting-and-support-jira?hosting=server
@@ -5614,7 +5657,6 @@ https://marketplace.atlassian.com/apps/1224537/?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1224728/crucible-build-status?hosting=server
 https://marketplace.atlassian.com/apps/1224729/bamboo-build-status-notifier?hosting=server
 https://marketplace.atlassian.com/apps/1224758/confluence-recent-edits-overview?hosting=cloud
-https://marketplace.atlassian.com/apps/1224799/scroll-content-quality-for-confluence
 https://marketplace.atlassian.com/apps/1225264/?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hosting=datacenter
 https://marketplace.atlassian.com/apps/1225406/reconcile-unknown-attachments?hosting=server
@@ -5622,8 +5664,6 @@ https://marketplace.atlassian.com/apps/1225664/form-macro-builder-for-confluence
 https://marketplace.atlassian.com/apps/1225689/admin-kit-for-jira-cloud?hosting=cloud
 https://marketplace.atlassian.com/apps/1225691/admin-kit-for-confluence-cloud?hosting=cloud
 https://marketplace.atlassian.com/apps/1226127/confluence-cloud-for-microsoft-teams?hosting=cloudhttps://marketplace.atlassian.com/apps/1226127/confluence-cloud-for-microsoft-teams?hosting=cloud
-https://marketplace.atlassian.com/apps/1226295/variants-for-scroll-documents?hosting=cloud
-https://marketplace.atlassian.com/apps/1226295/variants-for-scroll-documents?hosting=datacenter
 https://marketplace.atlassian.com/apps/1226380/decisions-helper-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1226478/jira-cloud-for-microsoft-teams?hosting=cloud
 https://marketplace.atlassian.com/apps/1226610/bitbucket-cloud-migration-assistant?hosting=datacenter
@@ -5632,8 +5672,6 @@ https://marketplace.atlassian.com/apps/1226627/prime-custom-fields-for-jira?host
 https://marketplace.atlassian.com/apps/1226668/dynamic-status-labels-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1226741/?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1227226/?tab=overview&hosting=cloud
-https://marketplace.atlassian.com/apps/1227238/translations-for-scroll-documents?hosting=cloud
-https://marketplace.atlassian.com/apps/1227238/translations-for-scroll-documents?hosting=datacenter
 https://marketplace.atlassian.com/apps/1227744/jira-enterprise-scale-assessment-tool?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1227744/jira-enterprise-scale-assessment-tool?hosting=server
 https://marketplace.atlassian.com/apps/1227791/jenkins-for-jira-official?hosting=cloud
@@ -5693,10 +5731,6 @@ https://marketplace.atlassian.com/apps/14896/review-creator-for-fisheye?hosting=
 https://marketplace.atlassian.com/apps/212/copy-space-for-confluence?hosting=server
 https://marketplace.atlassian.com/apps/23915/atlassian-universal-plugin-manager?hosting=datacenter
 https://marketplace.atlassian.com/apps/23915/atlassian-universal-plugin-manager?hosting=server
-https://marketplace.atlassian.com/apps/24982/scroll-word-exporter-for-confluence?hosting=cloud
-https://marketplace.atlassian.com/apps/24982/scroll-word-exporter-for-confluence?hosting=datacenter
-https://marketplace.atlassian.com/apps/253/scroll-imagemap-for-confluence?hosting=cloud
-https://marketplace.atlassian.com/apps/253/scroll-imagemap-for-confluence?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/256/balsamiq-wireframes-for-confluence?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=datacenter
@@ -5704,8 +5738,6 @@ https://marketplace.atlassian.com/apps/288/jira-charting-plugin?hosting=server
 https://marketplace.atlassian.com/apps/293/jira-calendar-plugin?hosting=server
 https://marketplace.atlassian.com/apps/30318/directory-scanning-plugin?hosting=server
 https://marketplace.atlassian.com/apps/322837/mobile-connect-plugin-for-jira?hosting=server
-https://marketplace.atlassian.com/apps/420604/scroll-html-exporter-for-confluence?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/420604/scroll-html-exporter-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/4832/enterprise-mail-handler-for-jira-jemh?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/4832/enterprise-mail-handler-for-jira-jemh?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/5142/toolkit-plugin-for-jira?hosting=datacenter
@@ -5715,8 +5747,6 @@ https://marketplace.atlassian.com/apps/5581/pre-post-build-command-runner?hostin
 https://marketplace.atlassian.com/apps/5902/jmeter-aggregator-for-bamboo?hosting=server
 https://marketplace.atlassian.com/apps/602870/continuous-plugin-deployment-for-bamboo?hosting=server
 https://marketplace.atlassian.com/apps/678725/jira-to-jira-issue-copy?hosting=server
-https://marketplace.atlassian.com/apps/7019/scroll-pdf-exporter-for-confluence?hosting=cloud
-https://marketplace.atlassian.com/apps/7019/scroll-pdf-exporter-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosting=server
@@ -6819,6 +6849,7 @@ ir.remitly.com
 ir.ui.com
 irclogs.wordpress.org
 iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
+irmg.nl
 isa-cf.*.aws.indriverapp.com
 ispdesign.ui.com
 issuer.idpay-uat.unico.io
@@ -6853,6 +6884,10 @@ k8s.gcr.io
 k8s.io
 kaccount.khealth.com
 kartaview.org
+karwei-promotiepunt.nl
+kassa.gamma.be/*
+kassa.gamma.nl/*
+kassa.karwei.nl/*
 katalog.watsons.com.tr
 kayak.ai
 kidswebservices.com
@@ -6920,10 +6955,15 @@ lockervision.nba.com
 logilife.logitech.com
 login-4ngbets.us.betfair.com
 login-4njbets.us.betfair.com
+login-accpt.portofantwerpbruges.com
 login.cm.com
+login.delen.be 
+login.delen.ch 
+login.delen.lu 
 login.infomaniak.com
 login.insightly.com
 login.lansweeper.com
+login.oyens.com
 login.playcanvas.com
 login.rei.com
 login.starbucks.co.jp
@@ -6986,6 +7026,10 @@ marrtool.com
 matomo.cloud
 matrix.agent.*.tchap.gouv.fr
 matrix.redditspace.com
+maximo-accpt.portofantwerp.com
+maximo-accpt.portofantwerpbruges.com
+maximo.portofantwerp.com
+maximo.portofantwerpbruges.com
 maxiresponse.bpost.be
 mc.sendgrid.com
 mcd-dev.nba.com
@@ -7016,7 +7060,6 @@ media.marionnaud.hu
 media.marionnaud.it
 media.marionnaud.ro
 media.marionnaud.sk
-media.nexuzhealth.be/patient/ 
 media.remitly.io
 media.savers.co.uk
 media.simplisafe.com
@@ -7073,6 +7116,9 @@ mgmt-sensors.iris.production.forescoutcloud.net
 mgmtpod-1-dashboard.production.forescoutcloud.net
 mgmtpod-1.production.forescoutcloud.net
 mgs.marriott.com
+mijn.gamma.be/*
+mijn.gamma.nl/*
+mijn.karwei.nl/*
 mijnacc.uzleuven.be
 minerva.robinhood.com
 mipartnerprivileges.marriott.com
@@ -7109,14 +7155,19 @@ munin-*.wordpress.org
 mus1.badoo.com
 mx1.uzleuven.be
 mx2.uzleuven.be
+my-accpt.portofantwerp.com
+my-accpt.portofantwerpbruges.com
 my.account.sony.com
 my.bpost.be
 my.clearme.com
+my.eurid.eu
 my.exness.com
 my.loanbuilder.com
 my.malwarebytes.com
 my.plaid.com
 my.playstation.com
+my.portofantwerp.com
+my.portofantwerpbruges.com
 my.pressable.com
 my.sheer.com
 my.snapchat.com
@@ -7234,10 +7285,14 @@ nft.io
 nha-cf.*.aws.indriverapp.com
 nha-gw-cf.*.aws.indriverapp.com
 niantic.kidswebservices.com
+nl.gamma.app.android
+nl.gamma.verf
+nl.karwei.app.android
 nmtracking.netflix.com
 no-cf.*.aws.indriverapp.com
 no-gw-cf.*.aws.indriverapp.com
 notion.id
+notula-accpt.portofantwerpbruges.com
 novel.pixiv.net
 npm CLI
 npmjs.com
@@ -7284,6 +7339,7 @@ openapiportal.m-pesa.com
 openfinance.unico.io
 openidconnect.net	
 opposhop.cn
+oprc.portofantwerpbruges.com
 ops.lime.bike
 ops.wolt.com
 orc-xfi.com
@@ -7498,6 +7554,8 @@ realme P4 Pro 5G
 reastatic.net
 recovery.privy.io
 redditforbusiness.com
+register-accpt.portofantwerp.com
+register-accpt.portofantwerpbruges.com
 register.bpost.be
 register.capital.com
 registre.notebleue.pro
@@ -7609,6 +7667,10 @@ service.iciparisxl.nl
 service.kruidvat.be
 service.kruidvat.nl
 service.trekpleister.nl
+servicedesk-accpt.portofantwerp.com
+servicedesk-accpt.portofantwerpbruges.com
+servicedesk.portofantwerp.com
+servicedesk.portofantwerpbruges.com
 servicefr.iciparisxl.be
 servicefr.iciparisxl.lu
 servicefr.kruidvat.be
@@ -7617,7 +7679,11 @@ settings.superhuman.com
 sfc-cf.*.aws.indriverapp.com
 sfc-gw-cf.*.aws.indriverapp.com
 sh.reddit.com
+share-accpt.portofantwerp.com
+share-accpt.portofantwerpbruges.com
 share.doppler.com
+share.portofantwerp.com
+share.portofantwerpbruges.com
 share.portswigger.net
 shipit.rubygems.org
 shop-id.tokopedia.com
@@ -7740,6 +7806,7 @@ stats.nba.com
 stats.nextcloud.com
 stats.vinci.com
 stats.wnba.com
+status.delen.be 
 status.larksuite.com
 status.uphold.com
 steamcommunity.com
@@ -7765,6 +7832,7 @@ streaming-api.iris.production.forescoutcloud.net
 streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
+sts.delen.be 
 sts.uzleuven.be
 studio-api.swapcard.com
 studio.swapcard.com
@@ -8000,6 +8068,11 @@ web.ryadom.kz
 web.snapchat.com
 web.truecaller.com
 web3.moonpay.com
+webapps-accpt.portofantwerp.com
+webapps-accpt.portofantwerpbruges.com
+webapps-test.portofantwerpbruges.com/xui
+webapps.portofantwerp.com
+webapps.portofantwerpbruges.com
 webauthn.me	
 webgateway.koho.ca
 webhooks.booking.com
@@ -8016,8 +8089,12 @@ widget.rentalcars.com
 wifi-in-store.iciparisxl.be
 wifi-in-store.iciparisxl.lu
 wifi-in-store.iciparisxl.nl
+wiki-accpt.portofantwerp.com
+wiki-accpt.portofantwerpbruges.com
 wiki.cs.money
 wiki.grab.com
+wiki.portofantwerp.com
+wiki.portofantwerpbruges.com
 wiki.teamfortress.com
 wiki.ui.com
 winecellar.zomato.com
@@ -8082,6 +8159,8 @@ www.bookingholdings.com
 www.bpost.be
 www.bpost2.be
 www.bumble.com
+www.cadelam.be 
+www.cadelux.lu/en 
 www.cardinalcommerce.com
 www.carrentals.com
 www.cart.starbucks.co.jp/
@@ -8106,6 +8185,8 @@ www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
 www.ddfcontent.com
+www.delen.bank
+www.delen.be/en 
 www.demorgen.be
 www.demorgen.be/abonnementen
 www.digitalocean.com
@@ -8179,6 +8260,8 @@ www.fortress.com.hk
 www.fraedom.com
 www.funjet.com
 www.fuzemeeting.com
+www.gamma.be/*
+www.gamma.nl/*
 www.geneva-staging.chat
 www.geneva-staging.com
 www.getaroom.com
@@ -8210,6 +8293,7 @@ www.infomaniak.com
 www.instacart.com
 www.intigriti.com
 www.jaybirdsport.com
+www.karwei.nl/*
 www.kayak.com
 www.kinepolis.be 
 www.kinepolis.biz
@@ -8285,6 +8369,7 @@ www.optimuscards.com
 www.orbitz.com
 www.ottocasino.se
 www.ottokasino.com
+www.oursustainableport.com
 www.ovh.com
 www.pangleglobal.com
 www.parool.nl
@@ -8294,6 +8379,7 @@ www.pixiv.net
 www.pns.hk
 www.pornbox.com
 www.pornworld.com
+www.portofantwerpbruges.com
 www.pourvous.nl
 www.practicalbusinessskills.org
 www.practicalmoneyskills.com
