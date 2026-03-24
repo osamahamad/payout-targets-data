@@ -41,7 +41,6 @@
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -125,6 +124,8 @@ Leaked/compromised employee accounts *.here.com
 *.personio.tools
 *.personio.de
 *.personiowhistleblowing.com
+*.portofantwerp.com
+*.portofantwerpbruges.com
 *.ripe.net
  *.rivian.com
 *.swisspass.ch
