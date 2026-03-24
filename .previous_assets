@@ -2432,6 +2432,7 @@ Lookatme.Philippines.Android
 Lookatme.Philippines.IOS
 Loomi.tv
 Low Cost Access
+Low Level Properties and Test environment
 Low impact, individually exposed Google Docs with no common root cause (see “Publicly accessible Google Document or Drive Links” in the “Corporate Targets” section)
 Luna
 MFA
@@ -3987,8 +3988,10 @@ com.fanduel.casino
 com.fanduel.flywheelnativecontainer.picks
 com.fanduel.racing
 com.fanduel.sportsbook
+com.finshell.fin
 com.finshell.finance
 com.finshell.wallet
+com.fintech.life
 com.fishbowlmedia.fishbowl
 com.foxnextgames.m3
 com.frame.FrameIO
@@ -4025,16 +4028,32 @@ com.gsn.grandcasino
 com.hcom.android
 com.here.app.maps
 com.hey.app.ios
+com.heytap.book
 com.heytap.browser
 com.heytap.cloud
+com.heytap.databaseengine
 com.heytap.health.international
+com.heytap.health.quickapp
+com.heytap.heymelody
 com.heytap.mall
 com.heytap.market
+com.heytap.miniapp.sports
+com.heytap.music
+com.heytap.ocsp.client
 com.heytap.pictorial
+com.heytap.reader
 com.heytap.research
 com.heytap.store
+com.heytap.tas
 com.heytap.themestore
 com.heytap.wallet
+com.heytap.wearable.breeno
+com.heytap.wearable.browser
+com.heytap.wearable.elves
+com.heytap.wearable.healthassessment
+com.heytap.wearable.market
+com.heytap.wearable.research
+com.heytap.wearable.themestore
 com.hotornot.app
 com.hotwire.hotels
 com.hypr.one
@@ -4095,10 +4114,13 @@ com.nordvpn.android
 com.oceanwing.FDMPrint
 com.oceanwing.battery.cam
 com.oceanwing.care.cam
+com.oplus.accesscard
 com.oplus.account
 com.oplus.aimemory
+com.oplus.melody
 com.oplus.member
 com.oplus.play
+com.oplus.studycenter
 com.oplus.themestore
 com.oplus.vip
 com.oppo.market
@@ -4114,6 +4136,8 @@ com.pieyel.scrabble
 com.playtika.caesarscasino
 com.playtika.wsop.gp
 com.priceline.android.negotiator
+com.qpon.merchant
+com.qpon.platform
 com.quora.android
 com.quora.app.mobile
 com.realme.storecn
@@ -4136,6 +4160,7 @@ com.scopely.yux
 com.secretkeylabs.xverse
 com.security.BatteryCam
 com.security.care
+com.shopai.apps
 com.skypicker.Skypicker
 com.skypicker.main
 com.slack.slackmdm
@@ -5231,6 +5256,8 @@ https://apps.apple.com/id/app/superbank/id6444720285
 https://apps.apple.com/ie/app/doctolib-siilo/id1083002150
 https://apps.apple.com/ie/app/new-relic/id594038638
 https://apps.apple.com/in/app/coindcx-trade-bitcoin-crypto/id1517787269
+https://apps.apple.com/in/app/flipkart-online-shopping-app/id742044692
+https://apps.apple.com/in/app/myntra-fashion-shopping-app/id907394059
 https://apps.apple.com/in/app/okto-wallet/id6450688229
 https://apps.apple.com/it/app/mediaworld-app/id1076895831
 https://apps.apple.com/it/developer/takeaway-com-central-core-b-v/id329472762
@@ -7027,6 +7054,7 @@ https://play.google.com/store/apps/details?id=com.ecwid.android&pli=1
 https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr
 https://play.google.com/store/apps/details?id=com.exodus.grateful
+https://play.google.com/store/apps/details?id=com.flipkart.android
 https://play.google.com/store/apps/details?id=com.gojek.app
 https://play.google.com/store/apps/details?id=com.gojek.gopay&hl=id
 https://play.google.com/store/apps/details?id=com.google.android.apps.diabetes
@@ -7052,6 +7080,7 @@ https://play.google.com/store/apps/details?id=com.media.markt
 https://play.google.com/store/apps/details?id=com.media.saturn
 https://play.google.com/store/apps/details?id=com.moneyboxapp
 https://play.google.com/store/apps/details?id=com.moonpay
+https://play.google.com/store/apps/details?id=com.myntra.android
 https://play.google.com/store/apps/details?id=com.newrelic.rpm
 https://play.google.com/store/apps/details?id=com.nm.nm&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.nth.swisspost&hl=de_CH&gl=US
@@ -7271,6 +7300,7 @@ https://securemail.usaa.com
 https://securesignin.neogov.com
 https://securesignin.powerdms.com/
 https://security-testing-preprod-org.iam-pp.cfapps.eu10-004.hana.ondemand.com/cp.portal/site#Shell-home
+https://securitytrails.com
 https://seekcdn.com
 https://segment.com/docs/connections/sources/
 https://segment.com/docs/sources/
@@ -7647,6 +7677,7 @@ https://www.classeaudio.com
 https://www.cloudvector.com/
 https://www.coindesk.com/
 https://www.coinspot.com.au/v2/api
+https://www.coloros.com/
 https://www.contadigital.ifoodpago.com.br/
 https://www.coral.co.uk
 https://www.coral.co.uk/en/games
@@ -7996,6 +8027,8 @@ https://yeswehack.com
 https://yeswehack.staging.komoju.com
 https://youcouldbe.com
 https://yourdelivery.de
+https://zhongbao-ear.heytap.com/
+https://zhongbao.heytap.com/
 https://zuora-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/notifications/raas
 https:/pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-acces-info/
 hub-api-sandbox.remitly.io
@@ -8573,6 +8606,7 @@ new.www.vaxvacationaccess.com
 news.remitly.com
 newsletter-feedback.iciparisxl.nl
 newsletter.iciparisxl.nl
+newsletter.infomaniak.com
 newsletter.nextcloud.com
 newsroom.images.hyatt.com
 newsroom.transunioncentralamerica.com
@@ -9966,6 +10000,7 @@ www.sbb.ch
 www.sbbcargo.com
 www.schoenentorfs.be
 www.schoenentorfs.nl 
+www.sembcorp.com
 www.sheer.com
 www.six-group.com
 www.socialdeal.nl

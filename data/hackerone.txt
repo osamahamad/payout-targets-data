@@ -1,3 +1,4 @@
+www.sembcorp.com
 Any host/web property verified to be owned by Twilio et al.
 Twilio APIs
 api.segment.io
@@ -126,6 +127,7 @@ K105G
 K9
 K9Pro
 K9s
+Low Level Properties and Test environment
 Moderate Level Properties
 NARZO 80 Lite 4G
 NARZO 80 Pro 5G
@@ -148,35 +150,60 @@ com.coloros.browser
 com.coloros.findmyphone
 com.coloros.pictorial
 com.coloros.wallet
+com.finshell.fin
 com.finshell.finance
 com.finshell.wallet
+com.fintech.life
+com.heytap.book
 com.heytap.browser
 com.heytap.cloud
+com.heytap.databaseengine
 com.heytap.health.international
+com.heytap.health.quickapp
+com.heytap.heymelody
 com.heytap.mall
 com.heytap.market
+com.heytap.miniapp.sports
+com.heytap.music
+com.heytap.ocsp.client
 com.heytap.pictorial
+com.heytap.reader
 com.heytap.research
 com.heytap.store
+com.heytap.tas
 com.heytap.themestore
 com.heytap.wallet
+com.heytap.wearable.breeno
+com.heytap.wearable.browser
+com.heytap.wearable.elves
+com.heytap.wearable.healthassessment
+com.heytap.wearable.market
+com.heytap.wearable.research
+com.heytap.wearable.themestore
 com.nearme.gamecenter
 com.netease.my.nearme.gamecenter
+com.oplus.accesscard
 com.oplus.account
 com.oplus.aimemory
+com.oplus.melody
 com.oplus.play
+com.oplus.studycenter
 com.oplus.themestore
 com.oppo.market
 com.oppo.speechassist
 com.oppo.store
+com.qpon.merchant
+com.qpon.platform
 com.realme.storecn
 com.realmestore.app
+com.shopai.apps
 https://cloud.oppo.com/
 https://drp.myoppo.com/
 https://e.oppo.com/
 https://gcsm.oppoit.com/
 https://safe.heytap.com/
 https://u.oppomobile.com/
+https://www.coloros.com/
 https://www.oppo.com/id/store
 https://www.oppo.com/in/store
 https://www.oppo.com/my/store
@@ -184,6 +211,8 @@ https://www.oppo.com/th
 https://www.oppo.com/th/store
 https://www.opposhop.cn/
 https://www.opposhop.cn/m/
+https://zhongbao-ear.heytap.com/
+https://zhongbao.heytap.com/
 id.heytap.com
 id.oppo.com
 opposhop.cn
@@ -2250,8 +2279,12 @@ www.triseptsolutions.com
 www.universalorlandovacations.com
 www.wynnvacations.com
 https://api.myntra.com
+https://apps.apple.com/in/app/flipkart-online-shopping-app/id742044692
+https://apps.apple.com/in/app/myntra-fashion-shopping-app/id907394059
 https://pay.payzippy.com
 https://payments.myntra.com
+https://play.google.com/store/apps/details?id=com.flipkart.android
+https://play.google.com/store/apps/details?id=com.myntra.android
 https://uiscoop.payzippy.com
 https://www.flipkart.com
 https://www.myntra.com

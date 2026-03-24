@@ -2126,6 +2126,7 @@ Logstash
 LookAtMe Philippines Android
 LookAtMe Philippines iOS
 Low Cost Access
+Low Level Properties and Test environment
 Low impact, individually exposed Google Docs with no common root cause (see “Publicly accessible Google Document or Drive Links” in the “Corporate Targets” section)
 Luna
 MFA Integrations	
@@ -2777,6 +2778,8 @@ api-sandbox.uphold.com
 api-sandbox.uphold.com/graphql
 api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
+api-wallet-sandbox.venly.io
+api-wallet.venly.io
 api-wallet.web3auth.io
 api.23andme.com
 api.8x8.com
@@ -2784,6 +2787,7 @@ api.adm.cloud.com
 api.airbnb.com
 api.alasco.de
 api.amazonalexa.com/*
+api.arkane.network
 api.atg.se
 api.au.frontegg.com
 api.binance.com
@@ -3447,8 +3451,10 @@ com.fanduel.casino
 com.fanduel.flywheelnativecontainer.picks
 com.fanduel.racing
 com.fanduel.sportsbook
+com.finshell.fin
 com.finshell.finance
 com.finshell.wallet
+com.fintech.life
 com.foxnextgames.m3
 com.frame.FrameIO
 com.frontapp.mobile
@@ -3476,16 +3482,32 @@ com.gsn.grandcasino
 com.hcom.android
 com.here.app.maps
 com.hey.app.ios
+com.heytap.book
 com.heytap.browser
 com.heytap.cloud
+com.heytap.databaseengine
 com.heytap.health.international
+com.heytap.health.quickapp
+com.heytap.heymelody
 com.heytap.mall
 com.heytap.market
+com.heytap.miniapp.sports
+com.heytap.music
+com.heytap.ocsp.client
 com.heytap.pictorial
+com.heytap.reader
 com.heytap.research
 com.heytap.store
+com.heytap.tas
 com.heytap.themestore
 com.heytap.wallet
+com.heytap.wearable.breeno
+com.heytap.wearable.browser
+com.heytap.wearable.elves
+com.heytap.wearable.healthassessment
+com.heytap.wearable.market
+com.heytap.wearable.research
+com.heytap.wearable.themestore
 com.hotornot.app
 com.hotwire.hotels
 com.hypr.one
@@ -3544,9 +3566,12 @@ com.nordvpn.android
 com.oceanwing.FDMPrint
 com.oceanwing.battery.cam
 com.oceanwing.care.cam
+com.oplus.accesscard
 com.oplus.account
 com.oplus.aimemory
+com.oplus.melody
 com.oplus.play
+com.oplus.studycenter
 com.oplus.themestore
 com.oppo.market
 com.oppo.speechassist
@@ -3561,6 +3586,8 @@ com.pieyel.scrabble
 com.playtika.caesarscasino
 com.playtika.wsop.gp
 com.priceline.android.negotiator
+com.qpon.merchant
+com.qpon.platform
 com.quora.android
 com.quora.app.mobile
 com.realme.storecn
@@ -3581,6 +3608,7 @@ com.scopely.startrek
 com.scopely.yux
 com.security.BatteryCam
 com.security.care
+com.shopai.apps
 com.skypicker.Skypicker
 com.skypicker.main
 com.slack.slackmdm
@@ -3690,8 +3718,10 @@ configure.mini.de
 confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
+connect.arkane.network 
 connect.identity.stagaws.visma.com
 connect.secure.wellsfargo.com
+connect.venly.io
 console.circle.com
 console.ort-one-pingone.com
 console.tink.com
@@ -4476,6 +4506,8 @@ https://apps.apple.com/id/app/gopay-transfer-pulsa-bills/id6446321594
 https://apps.apple.com/ie/app/doctolib-siilo/id1083002150
 https://apps.apple.com/ie/app/new-relic/id594038638
 https://apps.apple.com/in/app/coindcx-trade-bitcoin-crypto/id1517787269
+https://apps.apple.com/in/app/flipkart-online-shopping-app/id742044692
+https://apps.apple.com/in/app/myntra-fashion-shopping-app/id907394059
 https://apps.apple.com/in/app/okto-wallet/id6450688229
 https://apps.apple.com/it/app/mediaworld-app/id1076895831
 https://apps.apple.com/it/developer/takeaway-com-central-core-b-v/id329472762
@@ -4617,7 +4649,6 @@ https://base.org
 https://bb1.simplisafe.com
 https://bb2.simplisafe.com
 https://beta.arlo.com
-https://bgpview.io
 https://bigquery-mcp.data.dailymotion.com/
 https://billing.ring.com/*
 https://billingonline.post.ch/OnlinePayment/Web/v1/BOI
@@ -5982,6 +6013,7 @@ https://play.google.com/store/apps/details?id=com.ecwid.android&pli=1
 https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr
 https://play.google.com/store/apps/details?id=com.exodus.grateful
+https://play.google.com/store/apps/details?id=com.flipkart.android
 https://play.google.com/store/apps/details?id=com.gojek.app
 https://play.google.com/store/apps/details?id=com.gojek.gopay&hl=id
 https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
@@ -6006,6 +6038,7 @@ https://play.google.com/store/apps/details?id=com.media.markt
 https://play.google.com/store/apps/details?id=com.media.saturn
 https://play.google.com/store/apps/details?id=com.moneyboxapp
 https://play.google.com/store/apps/details?id=com.moonpay
+https://play.google.com/store/apps/details?id=com.myntra.android
 https://play.google.com/store/apps/details?id=com.newrelic.rpm
 https://play.google.com/store/apps/details?id=com.nm.nm&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.nth.swisspost&hl=de_CH&gl=US
@@ -6193,6 +6226,7 @@ https://secure.vendhq.com
 https://securemail.usaa.com
 https://securesignin.neogov.com
 https://securesignin.powerdms.com/
+https://securitytrails.com
 https://seekcdn.com
 https://segment.com/docs/connections/sources/
 https://selector.viator.com
@@ -6477,6 +6511,7 @@ https://www.classeaudio.com
 https://www.cloudvector.com/
 https://www.coindesk.com/
 https://www.coinspot.com.au/v2/api
+https://www.coloros.com/
 https://www.coral.co.uk
 https://www.coral.co.uk/en/games
 https://www.crateandbarrel.me
@@ -6738,6 +6773,8 @@ https://yeswehack.com
 https://yeswehack.staging.komoju.com
 https://youcouldbe.com
 https://yourdelivery.de
+https://zhongbao-ear.heytap.com/
+https://zhongbao.heytap.com/
 https://zuora-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/notifications/raas
 https:/pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-acces-info/
 hub-api-sandbox.remitly.io
@@ -6948,6 +6985,7 @@ lockervision.nba.com
 logilife.logitech.com
 login-4ngbets.us.betfair.com
 login-4njbets.us.betfair.com
+login.arkane.network
 login.cm.com
 login.delen.be 
 login.delen.ch 
@@ -6960,6 +6998,7 @@ login.playcanvas.com
 login.rei.com
 login.starbucks.co.jp
 login.swapcard.com
+login.venly.io
 login.www.vaxvacationaccess.com
 logiq.logitech.io
 logistica.redelcom.cl
@@ -7197,6 +7236,7 @@ new.www.vaxvacationaccess.com
 news.remitly.com
 newsletter-feedback.iciparisxl.nl
 newsletter.iciparisxl.nl
+newsletter.infomaniak.com
 newsletter.nextcloud.com
 newsroom.images.hyatt.com
 next.airbnb.com
@@ -8015,6 +8055,7 @@ w1.uzleuven.be/random
 waf.cumulusfire.net
 wallet-sandbox.uphold.com
 wallet.tg
+wallet.venly.io
 wallet.web3auth.io
 walletbot.me
 wallets.api.playstation.com
@@ -8358,6 +8399,7 @@ www.sa.dyson.com
 www.savers.co.uk
 www.sbb.ch
 www.sbbcargo.com
+www.sembcorp.com
 www.sheer.com
 www.six-group.com
 www.socialdeal.nl
