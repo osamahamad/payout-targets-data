@@ -221,6 +221,7 @@
 *.coinbase-corp.com
 *.coinbase.com
 *.coindcx.com
+*.comcast.com
 *.computerbild.de
 *.consumer.worldcoin.org
 *.contactallerg(y|ie).uzleuven.be
@@ -972,7 +973,6 @@
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trainpal.com,*.mytrainpal.com
-*.transferwise.com
 *.travelbook.de
 *.travelocity.ca
 *.travelocity.com
@@ -1085,7 +1085,6 @@
 *.wien.gv.at
 *.wienkav.at
 *.wimpmusic.com
-*.wise.com
 *.wissen-sie-mehr.de
 *.withairbnb.com
 *.withbuddies.com
@@ -1103,6 +1102,8 @@
 *.wotif.com
 *.x.ai
 *.x.com
+*.xcal.tv
+*.xfinity.com	
 *.xfinityhome.com
 *.xfiplatform.com
 *.xiangkankeji.cn
