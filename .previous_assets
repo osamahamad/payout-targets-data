@@ -77,9 +77,14 @@
 *.airbnb.org
 *.airbnbcitizen.com
 *.airbnbpayments.com
+*.airstar-finance.com
+*.airstar.com
+*.airstarfinance.net
 *.akhwien.at
 *.alasco.de
 *.alasco.rocks
+*.aleenote.cn
+*.aleenote.com
 *.algolia.net
 *.algolianet.com
 *.alipayplus.com
@@ -158,6 +163,7 @@
 *.ayco.com
 *.backblazeb2.com
 *.backend-capital.com
+*.baoliyun.com
 *.base.org
 *.berush.com
 *.betfair.com
@@ -331,6 +337,7 @@
 *.dropmix.com
 *.dropxl.com
 *.dsanalytics.com
+*.duokan.com
 *.e2ro.com
 *.earlywarning.com
 *.easy.ac
@@ -514,6 +521,7 @@
 *.hmxwebservices.com
 *.holidaylettings.com
 *.honestdollar.com
+*.hongyuanib.com
 *.hostgator.com.br/
 *.hoteltonight-test.com
 *.hoteltonight.com
@@ -711,8 +719,21 @@
 *.mevo.com
 *.mgmt.fndlsb.net
 *.mgs.marriott.com
+*.mi.cn
 *.mi.com
+*.mifile.cn
+*.migames.com
+*.miinsurtech.cn
+*.miinsurtech.com
+*.miinsurtech.net
+*.mijiayoupin.com
+*.mioffice.cn
+*.mios.cn
+*.miot-spec.org
+*.mipay.com
+*.mipay.net
 *.mir.uzleuven.be
+*.miui.cn
 *.miui.com
 *.miwifi.com
 *.mjrtheatres.com
@@ -789,6 +810,7 @@
 *.odcdn.com.au
 *.oklink.com
 *.okto.tech
+*.oktukids.com
 *.okx.com
 *.oncatapult.com
 *.onduo.com/
@@ -796,6 +818,7 @@
 *.onevasco.com
 *.openai.com
 *.openai.org
+*.openvela.com
 *.opera-mini.net
 *.opera.com
 *.opera.news
@@ -1204,6 +1227,7 @@
 *.vrbo.com
 *.vtm.be
 *.vtmgo.be
+*.wali.com
 *.water-link.be/
 *.watsons.co.id
 *.watsons.co.th
@@ -1256,15 +1280,27 @@
 *.xfinity.com	
 *.xfinityhome.com
 *.xfiplatform.com
+*.xiangkankeji.cn
+*.xiangkankeji.com
+*.xiangkannews.cn
 *.xiaomi.com
+*.xiaomi.net
+*.xiaomi.org
+*.xiaomiev.com
+*.xiaomimobile.com
+*.xiaomiprint.com
+*.xiaomiwear.com
 *.xiaomiyoupin.com
 *.xoom.com
+*.xunkid.com
+*.xunkids.com
 *.xvservice.net
 *.xvtest.net
 *.yadifa.eu
 *.yelp-support.com
 *.yelp.com
 *.yelpwifi.com
+*.youpin.cn
 *.yoyogames.com
 *.ys7.com
 *.yuga.com
@@ -1273,6 +1309,7 @@
 *.zelle.com
 *.zellepay.com
 *.zipcode.com.br
+*.zmifi.com
 *.zomans.com
 *.zomato.com
 *badger.it.vinted.com
@@ -1816,6 +1853,7 @@ ASN: AS62306
 ASN: AS62876
 AWS Infrastructure
 AWS infrastructure and services in use by Wise (eg: S3 buckets)
+AXIS OS
 Acrobat AI Assistant
 Acrobat Create Podcast
 Acrobat Create Presentations
@@ -2927,6 +2965,8 @@ Video Doorbell
 Vinted: Shop & sell pre-loved
 Virtual Office Desktop
 Virtualisation layer
+Voi – e-scooter & e-bike hire
+Voi – e-scooters & e-bikes
 Voice - Hardware and service
 Vox Cinemas Android
 Vox Cinemas iOS

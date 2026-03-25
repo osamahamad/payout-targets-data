@@ -60,9 +60,14 @@
 *.airbnb.org
 *.airbnbcitizen.com
 *.airbnbpayments.com
+*.airstar-finance.com
+*.airstar.com
+*.airstarfinance.net
 *.akhwien.at
 *.alasco.de
 *.alasco.rocks
+*.aleenote.cn
+*.aleenote.com
 *.alipayplus.com
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
@@ -136,6 +141,8 @@
 *.avecspotify.com
 *.ayco.com
 *.backblazeb2.com
+*.backend-capital.com
+*.baoliyun.com
 *.base.org
 *.berush.com
 *.betfair.com
@@ -188,6 +195,7 @@
 *.canva.cn
 *.canva.com
 *.canva.tech
+*.capital.com
 *.capitalone.ca
 *.capitalone.com
 *.capitalonegslbex.com
@@ -228,7 +236,6 @@
 *.coinbase-corp.com
 *.coinbase.com
 *.coindcx.com
-*.comcast.com
 *.computerbild.de
 *.consumer.worldcoin.org
 *.contactallerg(y|ie).uzleuven.be
@@ -291,6 +298,7 @@
 *.dropboxpartners.com
 *.dropmix.com
 *.dropxl.com
+*.duokan.com
 *.e2ro.com
 *.earlywarning.com
 *.easy.ac
@@ -468,6 +476,7 @@
 *.hmxwebservices.com
 *.holidaylettings.com
 *.honestdollar.com
+*.hongyuanib.com
 *.hoteltonight-test.com
 *.hoteltonight.com
 *.houseoffun.com
@@ -511,6 +520,7 @@
 *.intercomassets.com / *.intercomcdn.com
 *.internal.exoscale.ch
 *.intigriti.me
+*.itcapital.io
 *.jbl.com
 *.jbl.com.br
 *.jbl.nl
@@ -624,8 +634,21 @@
 *.mevo.com
 *.mgmt.fndlsb.net
 *.mgs.marriott.com
+*.mi.cn
 *.mi.com
+*.mifile.cn
+*.migames.com
+*.miinsurtech.cn
+*.miinsurtech.com
+*.miinsurtech.net
+*.mijiayoupin.com
+*.mioffice.cn
+*.mios.cn
+*.miot-spec.org
+*.mipay.com
+*.mipay.net
 *.mir.uzleuven.be
+*.miui.cn
 *.miui.com
 *.miwifi.com
 *.mlstatic.com
@@ -681,12 +704,14 @@
 *.octopus.com
 *.odcdn.com.au
 *.oklink.com
+*.oktukids.com
 *.okx.com
 *.oncatapult.com
 *.onegraph.com
 *.onevasco.com
 *.openai.com
 *.openai.org
+*.openvela.com
 *.opera-mini.net
 *.opera.com
 *.opera.news
@@ -1042,12 +1067,15 @@
 *.visamiddleeast.com
 *.vliegwinkel.nl
 *.vod2.infomaniak.com
+*.voi.com
+*.voiscooters.com
 *.volkskrant.nl
 *.volkswagen.de
 *.vpn.hackerone.net
 *.vrbo.com
 *.vtm.be
 *.vtmgo.be
+*.wali.com
 *.water-link.be/
 *.watsons.co.id
 *.watsons.co.th
@@ -1090,24 +1118,35 @@
 *.wotif.com
 *.x.ai
 *.x.com
-*.xcal.tv
-*.xfinity.com	
 *.xfinityhome.com
 *.xfiplatform.com
+*.xiangkankeji.cn
+*.xiangkankeji.com
+*.xiangkannews.cn
 *.xiaomi.com
+*.xiaomi.net
+*.xiaomi.org
+*.xiaomiev.com
+*.xiaomimobile.com
+*.xiaomiprint.com
+*.xiaomiwear.com
 *.xiaomiyoupin.com
 *.xoom.com
+*.xunkid.com
+*.xunkids.com
 *.xvservice.net
 *.xvtest.net
 *.yadifa.eu
 *.yelp-support.com
 *.yelp.com
 *.yelpwifi.com
+*.youpin.cn
 *.yoyogames.com
 *.ys7.com
 *.zdev.net
 *.zelle.com
 *.zellepay.com
+*.zmifi.com
 *.zomans.com
 *.zomato.com
 *badger.it.vinted.com
@@ -1597,6 +1636,7 @@ ASN: AS62306
 ASN: AS62876
 AWS Infrastructure
 AWS infrastructure and services in use by Wise (eg: S3 buckets)
+AXIS OS
 Acrobat AI Assistant
 Acrobat Create Podcast
 Acrobat Create Presentations
@@ -2412,7 +2452,6 @@ Spotify SDKs
 Spotify desktop application (Windows and Mac)
 Square Register
 Square Terminal
-Staging, QA, Dev, and Test Environments
 Starbucks China Android
 Starbucks China iOS
 Starbucks Japan Android
@@ -2552,6 +2591,8 @@ Video Conferencing Products
 Video Doorbell
 Vinted: Shop & sell pre-loved
 Virtual Office Desktop
+Voi – e-scooter & e-bike hire
+Voi – e-scooters & e-bikes
 Voice - Hardware and service
 Vox Cinemas Android
 Vox Cinemas iOS
@@ -2712,6 +2753,7 @@ ads.tiktok.com
 adtechnology.axelspringer.com
 advisories.gitlab.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
+aff.capital.com
 affiliate-id.tokopedia.com
 affiliate.meesho.com
 agents.tasheer.com
@@ -2797,6 +2839,8 @@ api.coinmarketcap.com
 api.creditkarma.com
 api.custody.coinbase.com
 api.deriv.com
+api.digital.delen.be 
+api.digital.delen.lu 
 api.digitalocean.com
 api.direct.playstation.com
 api.doppler.com
@@ -2951,6 +2995,9 @@ app.Reclaim.ai
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
+app.delen.be 
+app.delen.ch 
+app.delen.lu 
 app.deriv.com
 app.drogas.lt
 app.drogas.lv
@@ -3055,6 +3102,8 @@ auth-identity-qa.nba.com
 auth-identity-uat.nba.com
 auth-identity.nba.com
 auth.23andme.com
+auth.digital.delen.be 
+auth.digital.delen.lu 
 auth.hhc247.org
 auth.magic.link
 auth.monespacesante.fr
@@ -3102,6 +3151,7 @@ bdese.marionnaud.fr
 bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
+be.delen.digital
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -3213,6 +3263,7 @@ campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
 cancellation.prod.ps.welt.de
+capital.com/*
 capturingreality.com
 cardpayments.remitly.io
 cards.remitly.io
@@ -3220,6 +3271,7 @@ cardsonline.azdiest.be
 cardsonlinetst.azdiest.be
 career.bpost.be
 careers.booking.com
+careers.capital.com
 careers.indrive.com
 careers.marriott.com
 careers.remitly.com
@@ -3391,6 +3443,7 @@ com.bumble.app
 com.bumblebff.app
 com.bykea.pk
 com.bykea.pk.partner
+com.capital.trading
 com.cheaptickets
 com.clay.ios
 com.clearme.Clear
@@ -3799,6 +3852,7 @@ decision.swiftfinancial.com
 deeplinks.geneva-staging.chat
 deeplinks.geneva-staging.com
 defi.ripio.com
+delen/id1064839588
 delivery-webview.indrive.com
 demo.arkoselabs.com
 demo.dynamic.xyz
@@ -4004,6 +4058,7 @@ flourish-user-preview.com
 flourish-user-templates.com
 flyiin.com
 fm.anchor.android
+fm.voiapp.io
 folder.iciparisxl.nl
 folder.kruidvat.be
 folder.kruidvat.nl
@@ -4065,6 +4120,7 @@ globaldesign.marriott.com
 globaljourney.tomorrowland.com
 gnip.com
 gnocchi-www.buffalo-ggn.net
+go.capital.com
 go.geneva-staging.com
 go.stripchat.com
 go.welt.de
@@ -4230,16 +4286,6 @@ https//monidentifiant.sncf
 https://*-prod.arlo.com
 https://0-2744452194.s3.nbg01.de.dracoon.io
 https://10bis.co.il
-https://195.60.68.241
-https://195.60.68.242
-https://195.60.68.243
-https://195.60.68.244
-https://195.60.68.245
-https://195.60.68.246
-https://195.60.68.247
-https://195.60.68.248
-https://195.60.68.249
-https://195.60.68.250
 https://28degreescard.com.au
 https://8x8.vc/xmpp-websocket
 https://Mlife.mo
@@ -4368,6 +4414,7 @@ https://api.us1.fga.dev/
 https://api.usaa.com/
 https://api.vistarmedia.com
 https://api.vistarmedia.eu
+https://api.voiapp.io/
 https://api.welcomesoftware.com/
 https://api.wyzecam.com
 https://api.x.immutable.com/
@@ -5400,7 +5447,6 @@ https://marketplace.atlassian.com/apps/1210992/atlassian-plugin-sdk-deb?hosting=
 https://marketplace.atlassian.com/apps/1210993/atlassian-plugin-sdk-tgz?hosting=server
 https://marketplace.atlassian.com/apps/1211051/eazybi-reports-and-charts-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1211051/eazybi-reports-and-charts-for-jira?hosting=datacenter
-https://marketplace.atlassian.com/apps/1211051/eazybi-reports-and-charts-for-jira?hosting=server
 https://marketplace.atlassian.com/apps/1211087/ssl-for-jira?hosting=server
 https://marketplace.atlassian.com/apps/1211094/archive-plugin-for-bitbucket-server?hosting=server
 https://marketplace.atlassian.com/apps/1211159/advanced-codeblocks-for-confluence/version-history
@@ -5560,7 +5606,6 @@ https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?ho
 https://marketplace.atlassian.com/apps/1219499/proforma-lite-forms-checklists?hosting=server
 https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence?hosting=datacenter
-https://marketplace.atlassian.com/apps/1219504/eazybi-reports-and-charts-for-confluence?hosting=server
 https://marketplace.atlassian.com/apps/1219514/merge-agent-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1219516/microsoft-teams-for-confluence-cloud?hosting=cloud
 https://marketplace.atlassian.com/apps/1219518/confluence-cloud-for-slack-official?hosting=cloud
@@ -6149,6 +6194,7 @@ https://rc.wmaudience.com
 https://redash-staging.getmoneytree.com/
 https://regatta.aiven.io/
 https://rentals.tripadvisor.com
+https://repair.voiweb.net
 https://reptox.cnesst.gouv.qc.ca/
 https://res.cloudinary.com
 https://research.monash.edu/
@@ -6954,9 +7000,13 @@ login-4njbets.us.betfair.com
 login-accpt.portofantwerpbruges.com
 login.arkane.network
 login.cm.com
+login.delen.be 
+login.delen.ch 
+login.delen.lu 
 login.infomaniak.com
 login.insightly.com
 login.lansweeper.com
+login.oyens.com
 login.playcanvas.com
 login.rei.com
 login.starbucks.co.jp
@@ -7037,6 +7087,7 @@ mcdalerts-uat.nba.com
 mcdalerts.nba.com
 mch*.indriverapp.com
 mds.marriott.com
+mds.voiapp.io
 media.drogas.lt
 media.drogas.lv
 media.iciparisxl.be
@@ -7312,6 +7363,7 @@ onlinepharmacy.superdrug.com
 onum-labs.com
 onum.com
 open redirect at *.epam.com
+open-api.capital.com
 open.airbnb.com
 open.larksuite.com
 open.ys7.com
@@ -7366,6 +7418,7 @@ pay.wallet.tg
 pay.{business_critical_assets} *see business assets for more information
 paybridge.booking.com
 payer-details-sandbox.gocardless.com
+payment.backend-capital.com
 payment.bingo.com
 payment.casinohuone.com
 payment.kolikkopelit.com
@@ -7538,6 +7591,7 @@ redditforbusiness.com
 register-accpt.portofantwerp.com
 register-accpt.portofantwerpbruges.com
 register.bpost.be
+register.capital.com
 registre.notebleue.pro
 registry.gitlab.com
 rei.com
@@ -7547,6 +7601,7 @@ remitly.com
 replay.dropbox.com
 repo.magento.com
 report-html-sight.stg.inspectorio.com
+report.voi.com
 res.blueskytours.globalbookingsolutions.com
 res.funjet.com
 res.hyattinclusivecollection.com
@@ -7785,6 +7840,7 @@ stats.nba.com
 stats.nextcloud.com
 stats.vinci.com
 stats.wnba.com
+status.delen.be 
 status.larksuite.com
 status.uphold.com
 steamcommunity.com
@@ -7810,6 +7866,7 @@ streaming-api.iris.production.forescoutcloud.net
 streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
+sts.delen.be 
 sts.uzleuven.be
 studio-api.swapcard.com
 studio.swapcard.com
@@ -7998,6 +8055,7 @@ visa.com.ua
 vm-gw-cf.*.aws.indriverapp.com
 voapi.8x8.com
 vod.infomaniak.com
+voi.com
 volans.tech
 vote.nba.com
 vpn.mobilevikings.be
@@ -8129,6 +8187,8 @@ www.bookingholdings.com
 www.bpost.be
 www.bpost2.be
 www.bumble.com
+www.cadelam.be 
+www.cadelux.lu/en 
 www.cardinalcommerce.com
 www.carrentals.com
 www.cart.starbucks.co.jp/
@@ -8153,6 +8213,8 @@ www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
 www.ddfcontent.com
+www.delen.bank
+www.delen.be/en 
 www.demorgen.be
 www.demorgen.be/abonnementen
 www.digitalocean.com
