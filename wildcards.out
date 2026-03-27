@@ -3,6 +3,8 @@
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *-api-*.acronis.com
 *-cvr-aws-*.sys.comcast.net
+*. advancedcustomfields.com
+*. bettersearchreplace.com
 *. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
@@ -244,6 +246,7 @@
 *.dash.ai
 *.dcfgateway.marriott.com
 *.de.jbl.com
+*.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demorgen.be
@@ -535,7 +538,14 @@
 *.khealth.io/
 *.kibana.wtf
 *.kiln.it
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
 *.kiwi.com
+*.klubcinema.fr
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
@@ -544,6 +554,7 @@
 *.kruidvatkids.nl
 *.kube.dm.gg
 *.kwsdose.be
+*.landmarkcinemas.com
 *.landmarkglobal-group.com
 *.lansweeper.com
 *.lastminute.co.nz
@@ -559,6 +570,7 @@
 *.link.co
 *.linktree-extensions.com
 *.livestream.com
+*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.logitech-channel-marketing.com
@@ -603,6 +615,7 @@
 *.mb-cosmos.com
 *.mbamupdates.com
 *.mediatonic.co.uk
+*.megatix.be  
 *.melonapp.com
 *.memorable.io
 *.meraki.com
@@ -644,6 +657,7 @@
 *.miui.cn
 *.miui.com
 *.miwifi.com
+*.mjrtheatres.com
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
@@ -686,6 +700,7 @@
 *.nflxso.net
 *.nflxvideo.net
 *.nic.eu
+*.nitropack.io
 *.niumba.com
 *.nmfn.com
 *.nml.com
@@ -917,8 +932,6 @@
 *.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
-*.sqills.com
-*.sqills.team
 *.srvcs.tumblr.com
 *.ssr.ccp.xcal.tv 
 *.stadtwien.onmicrosoft.com
@@ -935,6 +948,7 @@
 *.streamlabscharity.com
 *.stripchat.com
 *.stripe.com
+*.studiopress.com
 *.stylebook.de
 *.subp-router.hereapi.com
 *.superbet.com
@@ -1116,6 +1130,8 @@
 *.worldcoin.org
 *.worldfirst.com
 *.wotif.com
+*.wpengine.io
+*.wpesvc.net
 *.x.ai
 *.x.com
 *.xcal.tv

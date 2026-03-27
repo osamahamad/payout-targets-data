@@ -18,6 +18,8 @@
 *-eu.truecaller.com
 *-noneu.truecaller.com
 *-vpn.8x8.com
+*. advancedcustomfields.com
+*. bettersearchreplace.com
 *. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
@@ -259,6 +261,7 @@
 *.dash.ai
 *.dcfgateway.marriott.com
 *.de.jbl.com
+*.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demorgen.be
@@ -550,7 +553,14 @@
 *.khealth.io/
 *.kibana.wtf
 *.kiln.it
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
 *.kiwi.com
+*.klubcinema.fr
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
@@ -559,6 +569,7 @@
 *.kruidvatkids.nl
 *.kube.dm.gg
 *.kwsdose.be
+*.landmarkcinemas.com
 *.landmarkglobal-group.com
 *.lansweeper.com
 *.lastminute.co.nz
@@ -574,6 +585,7 @@
 *.link.co
 *.linktree-extensions.com
 *.livestream.com
+*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.logitech-channel-marketing.com
@@ -618,6 +630,7 @@
 *.mb-cosmos.com
 *.mbamupdates.com
 *.mediatonic.co.uk
+*.megatix.be  
 *.melonapp.com
 *.memorable.io
 *.meraki.com
@@ -659,6 +672,7 @@
 *.miui.cn
 *.miui.com
 *.miwifi.com
+*.mjrtheatres.com
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
@@ -701,6 +715,7 @@
 *.nflxso.net
 *.nflxvideo.net
 *.nic.eu
+*.nitropack.io
 *.niumba.com
 *.nmfn.com
 *.nml.com
@@ -932,8 +947,6 @@
 *.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
-*.sqills.com
-*.sqills.team
 *.srvcs.tumblr.com
 *.ssr.ccp.xcal.tv 
 *.stadtwien.onmicrosoft.com
@@ -950,6 +963,7 @@
 *.streamlabscharity.com
 *.stripchat.com
 *.stripe.com
+*.studiopress.com
 *.stylebook.de
 *.subp-router.hereapi.com
 *.superbet.com
@@ -1131,6 +1145,8 @@
 *.worldcoin.org
 *.worldfirst.com
 *.wotif.com
+*.wpengine.io
+*.wpesvc.net
 *.x.ai
 *.x.com
 *.xcal.tv
@@ -1525,6 +1541,7 @@
 52.67.69.35
 52.76.174.107
 52.86.17.52
+522089287
 524362642
 529996768
 531549799
@@ -2630,6 +2647,7 @@ WARP desktop client
 WGP Slot Games
 WHOOP 4.0 STRAP
 WHOOP 5.0/MG STRAP
+WP Engine-developed WordPress Plugins and Themes
 WP-CLI
 Waiting Room
 Watsons Hong Kong Android
@@ -3235,6 +3253,7 @@ booking.applevacations.com
 booking.beachbound.com
 booking.cheapcaribbean.com
 booking.com
+booking.mjrtheatres.com
 bookingholdings-coe.com
 boost.vinci.com
 booth.pm
@@ -3256,6 +3275,9 @@ building-blocks.com
 bulten.watsons.com.tr
 business-resources.truecaller.com
 business.kayak.com
+business.kinepolis.be
+business.kinepolis.lu
+business.kinepolis.nl
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
@@ -3582,6 +3604,7 @@ com.hypr.one
 com.imdbtv.livingroom
 com.immediasemi.android.blink
 com.instacart.client
+com.inthepocket.kinepolis
 com.iphone.workfront
 com.jellybtn.boardkings
 com.jellybtn.cashkingmobile
@@ -4010,6 +4033,7 @@ education.github.com
 eero Devices
 efast.marriott.com
 effecthouse.tiktok.com
+egaming.kinepolis.es
 eidhelp.marriott.com
 elastic.co credentials
 eligibility.khealth.com
@@ -4057,6 +4081,8 @@ extranet-asa.uzleuven.be
 extranet.marionnaud.ch
 extranet.s-pankki.fi
 extranet.uzleuven.be
+extras-acc.landmarkcinemas.com
+extras.landmarkcinemas.com
 fab.com
 falcon-sandbox.com
 fareharborsites.com
@@ -4480,6 +4506,7 @@ https://app.datadome.co
 https://app.easy4ipcloud.com
 https://app.ecwid.com/api/v3/	
 https://app.fin.ai/
+https://app.getflywheel.com
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.ibotta.com/sign-in 
 https://app.insomnia.rest/
@@ -5042,6 +5069,7 @@ https://gemvisa.com.au
 https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
+https://getflywheel.com
 https://git.libssh.org/
 https://github.com/Aiven
 https://github.com/Aiven-Open
@@ -5484,6 +5512,7 @@ https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|
 https://m.csqtrk.net
 https://m.thefork.com
 https://maf-holding-prod.apigee.net
+https://makeshift.film
 https://manage.cic-bug-bounty.auth0app.com/
 https://manage.statuspage.io
 https://manager.thefork.com
@@ -5912,6 +5941,8 @@ https://monash.app.nutrip.com
 https://monashcollege.edu.au
 https://monster-customizer.classdojo.com/cf6dfa68-1a81-4c6d-bc0b-38f3666b37d6/index.html
 https://move.monash.edu/
+https://movieclub-int.kinepolis.com
+https://movienow-int.kinepolis.be/admin
 https://mstatic.usaa.com
 https://multipay-staging.test.komoju.com
 https://my.arlo.com
@@ -5927,6 +5958,7 @@ https://my.salt.ch
 https://my.sogexia.com
 https://my.thesecurityteam.rocks
 https://my.ultramobile.com
+https://my.wpengine.com
 https://my.wyze.com
 https://myaccount-staging.getmoneytree.com
 https://myapi.arlo.com
@@ -6027,6 +6059,7 @@ https://paymayabiller-prod.paymaya.com/
 https://payment-connectors.vendhq.com/
 https://payment.lafourchette.com
 https://payments.myntra.com
+https://payments.wpengine.com
 https://payoutapi.maya.ph/
 https://pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-revision/
 https://pbgq-pes.deontologie-policiere.gouv.qc.ca/reponses-questions/
@@ -6340,6 +6373,7 @@ https://service.post.ch/zopa/app/
 https://services.chipotle.com
 https://sfleet.cortexpowered.com
 https://sflower.cortexpowered.com
+https://shop-acc.kinepolis.be/
 https://shop.ifood.com.br
 https://shop.monash.edu/
 https://shop.post.ch/shop
@@ -6395,6 +6429,7 @@ https://sts.etoro.com
 https://student.classdojo.com
 https://student.monash
 https://studentplacements.monash.edu
+https://studiopress.blog
 https://suggestions.opera-api.com
 https://superbet.pl
 https://superbet.ro
@@ -6442,6 +6477,7 @@ https://tidal.com/
 https://tms.onecloud.harman.com
 https://tools-api.cryptocompare.com/
 https://toom.de
+https://torquemag.io
 https://tr.ee
 https://tracker.bugcrowd.com
 https://tracker.naspers.com/
@@ -6509,6 +6545,7 @@ https://v.utv.usaa.com
 https://vault-staging.getmoneytree.com
 https://vault.chiatest.net/
 https://vc.tasheer.com/
+https://velocitize.com
 https://vendors.paddle.com
 https://vendorss.usaa.com
 https://vfs-ai-tiff-image-api-hchkdabjdsdya6ea.switzerlandnorth-01.azurewebsites.net/
@@ -6552,6 +6589,7 @@ https://wise.com
 https://wmaudience.com
 https://world.planethoster.net
 https://wowjobs.ca
+https://wpengine.com
 https://ws-{app-id}.calls.sendbird.com
 https://ws-{app-id}.sendbird.com
 https://ws.multiplayer.classdojo.com/
@@ -6938,6 +6976,8 @@ identity.nba.com
 identity.stage.vismaonline.com
 identity.yoti.com
 identityhomolog.acesso.io
+identityserver-acc.landmarkcinemas.com
+identityserver.landmarkcinemas.com
 idp-cf.*.aws.indriverapp.com
 idpay-uat.unico.io
 ifast.marriott.com
@@ -7030,6 +7070,9 @@ kassa.karwei.nl/*
 katalog.watsons.com.tr
 kayak.ai
 kidswebservices.com
+kinepolis-studio.be
+kinepolis.megatix.be
+kinepolis/id368204284
 kit.snapchat.com
 klarna.com
 klarna.net
@@ -7118,6 +7161,9 @@ logs.nextcloud.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
 lookup.nextcloud.com
+luxfilmfestfilms.megatix.be
+luxfilmfestproducts.megatix.be
+luxfilmfesttickets.megatix.be
 lynx-dev.wnba.com
 lynx-qa.wnba.com
 lynx.wnba.com
@@ -7279,6 +7325,7 @@ money.x.com
 monitor.mozilla.org
 moonpay.com
 movie.indrive.com
+movieapi.kinepolis.megatix.be
 mpa.ekyc.backoffice.m-pesa.com
 mpa.ekyc.selfregister.m-pesa.com
 mpa.qr.web.m-pesa.com
@@ -7436,6 +7483,7 @@ npmjs.org
 ns1.optusnet.com.au
 ns2.optusnet.com.au
 nummus.robinhood.com
+nz.co.vista.android.movie.mjrtheatres
 oasisprod.marriott.com
 oauth-sandbox.gocardless.com
 oauth.deriv.com
@@ -7932,6 +7980,7 @@ sso.oft.hyatt.com
 sso.ryadom.kz
 ssu.myconnect.com.au/signup/get-connected 
 st*.indriverapp.com
+stage.landmarkcinemas.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 staging-app.bany.dev
 staging.airtable.com
@@ -8065,6 +8114,12 @@ testnet.bitmex.com
 testnet.immutable.com
 teststs.uzleuven.be
 thebrowser.company
+tickets.kinepolis.be
+tickets.kinepolis.ch
+tickets.kinepolis.es
+tickets.kinepolis.fr
+tickets.kinepolis.lu
+tickets.kinepolis.nl
 tiktok.com
 tiktokdata-us-open.tiktokw.us
 tlbe.prod.tomorrowland.com
@@ -8120,6 +8175,8 @@ user-profile-staging.8x8.com
 user-profile.8x8.com
 usercontent.apps.nextcloud.com
 usercontent.koho.ca
+userprofile-acc.landmarkcinemas.com
+userprofile-ui.landmarkcinemas.com
 users-api.truelayer.com
 uwa.mobilevikings.be
 v1. kidswebservices.com
@@ -8435,6 +8492,14 @@ www.intigriti.com
 www.jaybirdsport.com
 www.karwei.nl/*
 www.kayak.com
+www.kinepolis.be 
+www.kinepolis.biz
+www.kinepolis.ch 
+www.kinepolis.com 
+www.kinepolis.es 
+www.kinepolis.fr 
+www.kinepolis.lu 
+www.kinepolis.nl 
 www.kiwi.com
 www.koho.ca
 www.kolikkopelit.com
@@ -8443,6 +8508,7 @@ www.kruidvat.be
 www.kruidvat.nl
 www.kruidvatkids.nl
 www.lab-recherche-environnement.org
+www.landmarkcinemas.com
 www.lansweeper.com
 www.lastminute.co.nz
 www.lastminute.com.au
@@ -8486,6 +8552,7 @@ www.mercadolivre.com
 www.mercadopago.com.ec
 www.midtrans.com
 www.mini.de
+www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
