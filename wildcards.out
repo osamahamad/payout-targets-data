@@ -532,8 +532,6 @@
 *.karwei.nl/*
 *.karweioutletstore.nl
 *.kayak.com
-*.kchat.infomaniak.com
-*.kdrive.infomaniak.com
 *.khealth.com
 *.khealth.io/
 *.kibana.wtf
@@ -1079,7 +1077,6 @@
 *.vintedgo.com
 *.visamiddleeast.com
 *.vliegwinkel.nl
-*.vod2.infomaniak.com
 *.volkskrant.nl
 *.volkswagen.de
 *.vpn.hackerone.net
@@ -1275,11 +1272,9 @@ sn-api-gw-cf.*.aws.indriverapp.com
 sos-*.exo.io
 st*.indriverapp.com
 static*.twilio.com
-storage*.infomaniak.com
 sub*.aws.indriverapp.com
 support*.earlywarning.com
 sur-cf.*.aws.indriverapp.com
-swiss-backup*.infomaniak.com
 test*.redoxengine.com
 tr-cf.*.aws.indriverapp.com
 tr-gw-cf.*.aws.indriverapp.com
