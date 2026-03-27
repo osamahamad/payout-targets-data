@@ -1008,6 +1008,9 @@
 *.trip.com
 *.triplinkintl.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tumblr.com
@@ -1774,6 +1777,7 @@ Atlas Payments/Billing
 Audition
 BBPress Core
 Backend endpoint: bug-bounty-be.glean.com
+Backend/Non-Game
 Basecamp.app
 Beats
 Beats - Auditbeat
@@ -1812,6 +1816,7 @@ Burp Collaborator
 Burp Suite DAST
 Burp Suite Extension (BApps)
 Burp Suite Pro/Community
+C# SDK
 C100447517
 C103149579
 C2PA Tool
@@ -1954,6 +1959,7 @@ Elastic Maps Server
 Elastic Package Registry
 Elastic Synthetics Monitoring
 Elasticsearch
+Elvenar
 Engadget
 Enjin - Ethereum ERC-1155 Contract
 Enjin Blockchain
@@ -2008,6 +2014,7 @@ Firmware: Mali Command Stream Frontend (CSF) Firmware
 Fleet Server
 Flex - Xfinity hardware and services
 Forge Platform
+Forge of Empires
 FortniteClient-Android-Shipping-arm64-es2.apk
 FortniteClient-Win64-Shipping.exe
 FortniteLauncher-Win64-Shipping.exe
@@ -2065,6 +2072,7 @@ Grammarly Browser Extensions
 Grammarly Desktop for Windows
 Grammarly Desktop for macOS
 GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)
+Grepolis
 Gutenberg
 H5G
 HEY.app
@@ -2122,6 +2130,7 @@ Intellectual Property on Public Domains
 Internal Server via Internet Network
 Internet.xfinity.com
 Interoperability Issue in OpenPGP.js
+Java SDK
 Jetpack
 Jira
 Jira Projects
@@ -2337,6 +2346,7 @@ Other assets owned by Personio
 Other non-production infrastructure
 Other related e-commerce services
 Others
+PHP SDK
 PIA VPN servers
 PNS Android
 PNS iOS
@@ -2365,6 +2375,7 @@ Product Delivery
 Protocol of the Swiss Post Voting System
 Public API
 Public Others Target
+React Native SDK
 Recon Data
 Recruitment services
 Relational Migrator
@@ -2386,6 +2397,7 @@ Roblox Client
 Roblox Engine
 Roblox Studio
 Rockstar Games Launcher
+Rust SDK
 SAP AI Core
 SAP Business Network for Asset Collaboration
 SAP Business Network for Logistics	
@@ -2554,6 +2566,9 @@ Trello Desktop Client
 Trello Mobile App for Android
 Trello Mobile App for iOS
 Trello Third Party Powerups
+Tribal Wars
+TrueLayer for Magento (Magento plugin)
+TrueLayer for WooCommerce (WordPress plugin)
 TrustedFirmware-A (TF-A)
 TrustedFirmware-M (TF-M)
 TrustedServer 100,000 Bonus Award (See Program Policy for Info)
@@ -2638,6 +2653,7 @@ Watsons Turkey iOS
 Watsons Vietnam Android
 Watsons Vietnam iOS
 Web Playback SDK
+Web SDK
 Web of Trust Specification
 Web3 Smart Contracts
 Whatnot: Shop, Sell, Connect
@@ -2929,6 +2945,7 @@ api.mergify.com
 api.midtrans.com
 api.monespacesante.fr
 api.moonpay.com
+api.mtls.truelayer[-sandbox].com
 api.netlify.com
 api.ort-one-pingone.com
 api.ovh.com
@@ -2977,6 +2994,7 @@ api.taxjar.com
 api.theperfumeshop.com
 api.tidal.com
 api.trello.com
+api.truelayer[-sandbox].com
 api.tumblr.com
 api.twilio.com
 api.unleashed.be
@@ -3071,6 +3089,7 @@ app.superdrug.com
 app.swapcard.com
 app.taxjar.com
 app.theperfumeshop.com
+app.truelayer[-sandbox].com
 app.uma.money
 app.watsons.com.tr
 app.whoop.com
@@ -3123,6 +3142,7 @@ auth.hhc247.org
 auth.magic.link
 auth.monespacesante.fr
 auth.moonpay.com
+auth.mtls.truelayer[-sandbox].com
 auth.nextcloud.com
 auth.ort-one-pingone.com
 auth.preprod.monespacesante.fr
@@ -3130,6 +3150,7 @@ auth.privy.io
 auth.remitly.com
 auth.services.adobe.com
 auth.skypicker.com
+auth.truelayer[-sandbox].com
 auth0.com	
 auth0.gocardless.com
 auth0.net
@@ -3768,9 +3789,11 @@ connect.arkane.network
 connect.identity.stagaws.visma.com
 connect.secure.wellsfargo.com
 connect.venly.io
+console-backend.truelayer[-sandbox].com
 console.circle.com
 console.ort-one-pingone.com
 console.tink.com
+console.truelayer[-sandbox].com
 contacts.infomaniak.com
 content-api-dev.nba.com
 content-api-nextgen-dev.nba.com
@@ -4364,7 +4387,6 @@ https://api-{app-id}.notifications.sendbird.com
 https://api-{app-id}.sendbird.com
 https://api.20min.ch/
 https://api.aiven.io/login
-https://api.anytask.com/
 https://api.anytask.thesecurityteam.rocks
 https://api.bitpanda.com
 https://api.blablalines.com
@@ -4571,7 +4593,6 @@ https://apps.apple.com/tr/app/mediamarkt-t%C3%BCrkiye/id908956795
 https://apps.apple.com/us/app/%E5%B1%A5%E6%AD%B4%E6%9B%B8%E4%BD%9C%E6%88%90-%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%89/id1484451230
 https://apps.apple.com/us/app/3cx/id992045982
 https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
-https://apps.apple.com/us/app/anytask-com/id6741158899
 https://apps.apple.com/us/app/asana-mobile/id489969512
 https://apps.apple.com/us/app/auth0-guardian/id1093447833
 https://apps.apple.com/us/app/backblaze/id628638330
@@ -5817,7 +5838,7 @@ https://marketplace.atlassian.com/apps/1235463/?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1235488/confluence-widget-for-figma-beta?hosting=cloud
 https://marketplace.atlassian.com/apps/1235496/jira-board-buddy?hosting=cloud
 https://marketplace.atlassian.com/apps/1236260/?tab=overview&hosting=cloud
-https://marketplace.atlassian.com/apps/1236742/advanced-content-status-labels-for-confluence
+https://marketplace.atlassian.com/apps/1236742/advanced-content-status-labels-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1237512/latex-math-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1237517/captionizer-ai-image-analyzer
 https://marketplace.atlassian.com/apps/1237729/checklist-for-jira-cloud-smart-todo-lists?hosting=cloud
@@ -6050,7 +6071,6 @@ https://play.google.com/store/apps/details?id=ch.post.it.pcc&hl=en
 https://play.google.com/store/apps/details?id=com.acorns.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.afterpaymobile.uk
 https://play.google.com/store/apps/details?id=com.afterpaymobile.us&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.anytask.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.asana.app&hl=en
 https://play.google.com/store/apps/details?id=com.aswat.carrefouruae
 https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.core&hl=en_US&gl=US
@@ -6550,7 +6570,6 @@ https://www.akhwien.at
 https://www.allsaints.me/
 https://www.amazon.com/luna/*
 https://www.amazonpay.in/*
-https://www.anytask.com/
 https://www.arlo.com
 https://www.arrowfilms.com
 https://www.assurancewireless.com
@@ -7078,6 +7097,7 @@ logilife.logitech.com
 login-4ngbets.us.betfair.com
 login-4njbets.us.betfair.com
 login-accpt.portofantwerpbruges.com
+login-api.truelayer[-sandbox].com
 login.arkane.network
 login.cm.com
 login.delen.be 
@@ -7091,6 +7111,7 @@ login.playcanvas.com
 login.rei.com
 login.starbucks.co.jp
 login.swapcard.com
+login.truelayer[-sandbox].com
 login.venly.io
 login.www.vaxvacationaccess.com
 logiq.logitech.io
@@ -7436,6 +7457,7 @@ og.com
 om.vodafone.mva
 on-premises software
 onboarding-*.cloud.com
+onboarding-api.truelayer.com
 onboarding.cloud.com
 onboarding.greenhouse.io
 one-world-radio-tomorrowland/id1485778856
@@ -7496,13 +7518,16 @@ passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
 pay*.indriverapp.com
+pay-api.truelayer[-sandbox].com
 pay-sandbox.gocardless.com
 pay.8x8.com
 pay.ibex.exchange
 pay.tokopediax.com
+pay.truelayer[-sandbox].com
 pay.wallet.tg
 pay.{business_critical_assets} *see business assets for more information
 paybridge.booking.com
+paydirect.truelayer[-sandbox].com
 payer-details-sandbox.gocardless.com
 payment.backend-capital.com
 payment.bingo.com
@@ -7514,9 +7539,11 @@ payment.ottokasino.com
 payment.pixiv.net
 payment.storspelare.se
 payment.storspiller.com
+payment.truelayer[-sandbox].com
 payment.unibet.(com­|it|se|co.uk|be|nl|dk|ro|ee|ie|com.au|mt)
 payment.vladcazino.ro
 paymentcomponent.booking.com
+payments-experience-api.truelayer[-sandbox].com
 payments.geneva-staging.chat
 payments.geneva-staging.com
 payments.hostinger.com
@@ -7799,6 +7826,7 @@ servicenl.iciparisxl.be
 settings.superhuman.com
 sfc-cf.*.aws.indriverapp.com
 sfc-gw-cf.*.aws.indriverapp.com
+sftp.reports.truelayer.com
 sh.reddit.com
 share-accpt.portofantwerp.com
 share-accpt.portofantwerpbruges.com
@@ -7808,6 +7836,7 @@ share.portofantwerpbruges.com
 share.portswigger.net
 shipit.rubygems.org
 shop-id.tokopedia.com
+shop-pay-app-api.truelayer.com
 shop.app
 shop.demorgen.be
 shop.dyson.co.za
@@ -7821,6 +7850,7 @@ shop.trouw.nl
 shop.volkskrant.nl
 shop.whoop.com
 shop.wyndhamvacationownership.trisept.travel
+shopify-admin.truelayer.com
 shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
@@ -8063,6 +8093,7 @@ trello.com
 trendyol.com
 trm.pinepaymentsolutions.com
 truck-api.eu-east-1.indriverapp.com
+truelayer-signing
 try.discourse.org
 tucarro.com
 tucarro.com.co
@@ -8091,10 +8122,12 @@ us.cloud.com
 us.forescout.cloud
 us1.badoo.com
 usa.visa.com
+user-authentication-api.truelayer[-sandbox].com
 user-profile-staging.8x8.com
 user-profile.8x8.com
 usercontent.apps.nextcloud.com
 usercontent.koho.ca
+users-api.truelayer.com
 uwa.mobilevikings.be
 v1. kidswebservices.com
 v1staging.kidswebservices.com 
@@ -8190,6 +8223,7 @@ webapps.portofantwerpbruges.com
 webauthn.me	
 webgateway.koho.ca
 webhooks.booking.com
+webhooks.truelayer[-sandbox].com
 webtoolbox.notebleue.pro
 webwinkel.ad.nl
 webwinkel.parool.nl
