@@ -1141,7 +1141,6 @@
 *.xiaomi.net
 *.xiaomi.org
 *.xiaomiev.com
-*.xiaomimimo.com
 *.xiaomimobile.com
 *.xiaomiprint.com
 *.xiaomiwear.com
@@ -3008,7 +3007,6 @@ app*.hubspot.com
 app-*.easy4ipcloud.com
 app-insiders.marriott.com
 app.Reclaim.ai
-app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
@@ -4933,6 +4931,7 @@ https://ebctest.cybersource.com/epcapi
 https://ebctest.cybersource.com/identity
 https://ebctest.cybersource.com/invoicing
 https://ebctest.cybersource.com/jobs
+https://ebctest.cybersource.com/kms/
 https://ebctest.cybersource.com/listmanager
 https://ebctest.cybersource.com/merchant-mgmt/
 https://ebctest.cybersource.com/merchantvelocity
@@ -5409,6 +5408,7 @@ https://just-eat.com
 https://just-eat.dk
 https://just-eat.es
 https://just-eat.io/
+https://justonweb.be/fines/
 https://keepersecurity.com
 https://keepersecurity.com/console
 https://keepersecurity.com/password-manager-free-trial.html
@@ -5855,7 +5855,6 @@ https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosti
 https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
 https://marketplace.auth0.com
 https://marketplace.ifood.com.br
-https://marketplace.visualstudio.com/items?itemName=AikidoSecurity.aikido
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
 https://master.servicecentre.digitalservicing-np.lfscnp.com/
 https://matrix.agent.tchap.gouv.fr
