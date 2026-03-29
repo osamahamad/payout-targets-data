@@ -3,8 +3,6 @@
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *-api-*.acronis.com
 *-cvr-aws-*.sys.comcast.net
-*. advancedcustomfields.com
-*. bettersearchreplace.com
 *. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
@@ -242,11 +240,9 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
-*.das.eu
 *.dash.ai
 *.dcfgateway.marriott.com
 *.de.jbl.com
-*.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demorgen.be
@@ -270,7 +266,6 @@
 *.dm.gg
 *.dmcdn.net
 *.dmxleo.com
-*.dns.eu
 *.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
@@ -334,7 +329,6 @@
 *.eternal.com
 *.etsy.com
 *.eu.floqast.app
-*.eurid.eu
 *.europolitan.se
 *.exodus.com
 *.exodus.io
@@ -376,8 +370,6 @@
 *.fuze.com
 *.fuze.site
 *.gaming.gopayapi.com
-*.gamma.be/*
-*.gamma.nl/*
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
@@ -509,9 +501,6 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
-*.intergamma-test.nl
-*.intergamma.cloud
-*.intergamma.nl/*
 *.internal.exoscale.ch
 *.intigriti.me
 *.itcapital.io
@@ -529,21 +518,12 @@
 *.jobstreet.com.sg
 *.jora.com
 *.jora.xyz
-*.karwei.nl/*
-*.karweioutletstore.nl
 *.kayak.com
 *.khealth.com
 *.khealth.io/
 *.kibana.wtf
 *.kiln.it
-*.kinepolis.be
-*.kinepolis.ch
-*.kinepolis.com
-*.kinepolis.fr
-*.kinepolis.lu
-*.kinepolis.nl
 *.kiwi.com
-*.klubcinema.fr
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
@@ -552,9 +532,7 @@
 *.kruidvatkids.nl
 *.kube.dm.gg
 *.kwsdose.be
-*.landmarkcinemas.com
 *.landmarkglobal-group.com
-*.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
 *.latitudefinancial.co.nz
@@ -568,7 +546,6 @@
 *.link.co
 *.linktree-extensions.com
 *.livestream.com
-*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.logitech-channel-marketing.com
@@ -613,7 +590,6 @@
 *.mb-cosmos.com
 *.mbamupdates.com
 *.mediatonic.co.uk
-*.megatix.be  
 *.melonapp.com
 *.memorable.io
 *.meraki.com
@@ -655,7 +631,6 @@
 *.miui.cn
 *.miui.com
 *.miwifi.com
-*.mjrtheatres.com
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
@@ -697,8 +672,6 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
-*.nic.eu
-*.nitropack.io
 *.niumba.com
 *.nmfn.com
 *.nml.com
@@ -728,7 +701,6 @@
 *.operationstechnology.io
 *.ops.netlify.com
 *.opsgenie.com
-*.optimuscards.com
 *.optus.com.au
 *.origindigital-pac.com.au
 *.oslo.io
@@ -772,8 +744,6 @@
 *.pns.hk
 *.points.com
 *.polymoon.it
-*.portofantwerp.com
-*.portofantwerpbruges.com
 *.pourvous.nl
 *.ppbdev.com
 *.prd-pub.mobilevikings.be
@@ -822,10 +792,8 @@
 *.redditinc.com
 *.redditmedia.com
 *.redecor.com
-*.registry.eu
 *.rentalcars.com
 *.reposify.com
-*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -946,7 +914,6 @@
 *.streamlabscharity.com
 *.stripchat.com
 *.stripe.com
-*.studiopress.com
 *.stylebook.de
 *.subp-router.hereapi.com
 *.superbet.com
@@ -991,7 +958,6 @@
 *.tomorrowland.com
 *.tools.thefork.tech
 *.toolsforhumanity.com
-*.topperpay.com
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trainpal.com,*.mytrainpal.com
@@ -1007,9 +973,6 @@
 *.trip.com
 *.triplinkintl.com
 *.trouw.nl
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tumblr.com
@@ -1038,8 +1001,6 @@
 *.unreal-agents.jitsi.net
 *.unrealengine.com
 *.unrealtournament.com
-*.uphodl.com
-*.uphold.com
 *.uscc.com
 *.uscc.net
 *.uscellular.com
@@ -1101,12 +1062,8 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
 *.wf.com
 *.whatnot.com
-*.whois.eu
 *.wien.at
 *.wien.gv.at
 *.wienkav.at
@@ -1127,8 +1084,6 @@
 *.worldcoin.org
 *.worldfirst.com
 *.wotif.com
-*.wpengine.io
-*.wpesvc.net
 *.x.ai
 *.x.com
 *.xcal.tv
@@ -1151,7 +1106,6 @@
 *.xunkids.com
 *.xvservice.net
 *.xvtest.net
-*.yadifa.eu
 *.yelp-support.com
 *.yelp.com
 *.yelpwifi.com
