@@ -71,6 +71,7 @@
 *.adultforce.com
 *.advisor-connection.com
 *.advisorsolutions.gs.com
+*.adx.opera.com
 *.aips-internal.com
 *.airbnb-aws.com
 *.airbnb.com
@@ -126,6 +127,7 @@
 *.andurildev.com
 *.antom.com
 *.apex-football.com
+*.apexscores.io
 *.api.cx.metamask.io
 *.api.dailymotion.com
 *.api.id.realestate.com.au
@@ -827,11 +829,13 @@
 *.operafootball.com
 *.operanewsapp.com
 *.operationstechnology.io
+*.opr.news
 *.ops.netlify.com
 *.opsgenie.com
 *.optimuscards.com
 *.optus.com.au
 *.origindigital-pac.com.au
+*.osite99.com
 *.oslo.io
 *.osp.opera.software
 *.otherside.xyz
@@ -947,12 +951,14 @@
 *.roonlabs.com
 *.roonlabs.net
 *.router.hereapi.com
+*.rtbscale.com
 *.runnr.in
 *.s-cloud.net
 *.saltlabs.com
 *.sandbox.*.lfscnp.com
 *.sandbox.directly.com/
 *.savers.co.uk
+*.savi.xyz
 *.say.rocks
 *.saytechnologies.com
 *.sba.marriott.com
@@ -5316,6 +5322,7 @@ https://apps.apple.com/nl/app/mediamarkt-nederland/id573907448
 https://apps.apple.com/no/app/world-app-worldcoin-wallet/id1560859847
 https://apps.apple.com/nz/developer/just-eat-com/id383091095
 https://apps.apple.com/pl/app/mediamarkt-polska/id6470200706
+https://apps.apple.com/pl/app/opera-gx/id1559740799
 https://apps.apple.com/qa/app/ooredoo-qatar/id619828745
 https://apps.apple.com/se/app/atg-live/id1608156355
 https://apps.apple.com/se/app/atg/id1434660322
@@ -5372,6 +5379,7 @@ https://apps.apple.com/us/app/northwestern-mutual/id1132579006
 https://apps.apple.com/us/app/okta-verify/id490179405
 https://apps.apple.com/us/app/onduo/id1138490045
 https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
+https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974
 https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
 https://apps.apple.com/us/app/pulse-for-booking-com-partners/id992795726
@@ -5430,6 +5438,7 @@ https://audience-builder.vistarmedia.com
 https://audiencelogos.blis.com
 https://audio.20min.ch/
 https://aus.api.just-eat.io/
+https://auth-adx.op-mobile.opera.com
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
 https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua)
@@ -5577,6 +5586,7 @@ https://clients3.pentest.clicsante.ca/
 https://cloud.oppo.com/
 https://cloud.unity.com
 https://cloudinary.com/console
+https://cms.adx.opera.com
 https://cms.mobile.monash/ 
 https://cockpit-eu-west-2.outscale.com/
 https://coda.io/*
@@ -6992,7 +7002,9 @@ https://oda.com
 https://odesli.co
 https://odesli.com
 https://oes.optusnet.com.au/
+https://ofa.adx.opera.com
 https://offer.tidal.com/download
+https://ofp.adx.opera.com
 https://ogws.optusnet.com.au/
 https://onboard.neogov.com
 https://one.newrelic.com
@@ -7012,6 +7024,7 @@ https://opendata.test-socrata.com
 https://opendata.test-socrata.com/admin/gateway
 https://opensea.io/
 https://opensource.epam.com
+https://operaneon.com
 https://ops-sso.adsrvr.org/
 https://optimizely-edge.com
 https://optout-prod.uidapi.com

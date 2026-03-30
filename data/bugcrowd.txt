@@ -1430,11 +1430,13 @@ https://www.opera.com/
 https://www.opera.com/computer/thanks?ni=stable&os=windows
 https://www.opera.com/computer/thanks?ni=eapgx&os=windows
 https://get.geo.opera.com
-https://play.google.com/store/apps/details?id=com.opera.browser
 https://play.google.com/store/apps/details?id=com.opera.app.news
-https://play.google.com/store/apps/details?id=com.opera.gx
 https://play.google.com/store/apps/details?id=com.opera.mini.native
 https://play.google.com/store/apps/details?id=com.opera.app.sports
+https://play.google.com/store/apps/details?id=com.opera.browser
+https://play.google.com/store/apps/details?id=com.opera.gx
+https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974
+https://apps.apple.com/pl/app/opera-gx/id1559740799
 https://cryptowallet.opera-api.com
 https://suggestions.opera-api.com
 weather.opera-api.com
@@ -1468,6 +1470,11 @@ api.gx.games/dc
 api.gx.games/dev 
 api.gx.games/profile
 api.gx.games/session
+https://ofp.adx.opera.com
+https://ofa.adx.opera.com
+https://cms.adx.opera.com
+https://auth-adx.op-mobile.opera.com
+https://operaneon.com
 https://app.opsgenie.com
 https://mobileapp.opsgenie.com
 Opsgenie (IoS)
@@ -2205,7 +2212,6 @@ https://vtxapp9d.underarmour.com/
 https://vtxappd.underarmour.com/
 204.29.196.0/23
 3.223.149.182
-3.230.219.249
 34.237.130.2
 52.220.158.49
 52.76.174.107
@@ -2213,7 +2219,6 @@ https://vtxappd.underarmour.com/
 52.44.176.187
 52.86.17.52
 54.83.32.16
-13.58.121.166
 3.133.230.28
 3.19.172.158
 https://id.unity.com
