@@ -240,7 +240,9 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
+*.das.eu
 *.dash.ai
+*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.dell.com/*
@@ -266,6 +268,7 @@
 *.dm.gg
 *.dmcdn.net
 *.dmxleo.com
+*.dns.eu
 *.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
@@ -329,6 +332,7 @@
 *.eternal.com
 *.etsy.com
 *.eu.floqast.app
+*.eurid.eu
 *.europolitan.se
 *.exodus.com
 *.exodus.io
@@ -523,7 +527,14 @@
 *.khealth.io/
 *.kibana.wtf
 *.kiln.it
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
 *.kiwi.com
+*.klubcinema.fr
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
@@ -532,7 +543,9 @@
 *.kruidvatkids.nl
 *.kube.dm.gg
 *.kwsdose.be
+*.landmarkcinemas.com
 *.landmarkglobal-group.com
+*.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
 *.latitudefinancial.co.nz
@@ -590,6 +603,7 @@
 *.mb-cosmos.com
 *.mbamupdates.com
 *.mediatonic.co.uk
+*.megatix.be  
 *.melonapp.com
 *.memorable.io
 *.meraki.com
@@ -631,6 +645,7 @@
 *.miui.cn
 *.miui.com
 *.miwifi.com
+*.mjrtheatres.com
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
@@ -672,7 +687,10 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
+*.nic.eu
+*.ninjakiwi.me
 *.niumba.com
+*.nkstatic.com
 *.nmfn.com
 *.nml.com
 *.nnip.com
@@ -792,6 +810,7 @@
 *.redditinc.com
 *.redditmedia.com
 *.redecor.com
+*.registry.eu
 *.rentalcars.com
 *.reposify.com
 *.rhinternal.net
@@ -887,6 +906,7 @@
 *.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
+*.souparea.com
 *.soyoustart.com
 *.spiketrap.io
 *.spinaway.com
@@ -1064,6 +1084,7 @@
 *.welt.de
 *.wf.com
 *.whatnot.com
+*.whois.eu
 *.wien.at
 *.wien.gv.at
 *.wienkav.at
@@ -1106,6 +1127,7 @@
 *.xunkids.com
 *.xvservice.net
 *.xvtest.net
+*.yadifa.eu
 *.yelp-support.com
 *.yelp.com
 *.yelpwifi.com
