@@ -257,6 +257,7 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
+*.das.eu
 *.dash.ai
 *.datacamp.com
 *.dcfgateway.marriott.com
@@ -284,6 +285,7 @@
 *.dm.gg
 *.dmcdn.net
 *.dmxleo.com
+*.dns.eu
 *.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
@@ -347,6 +349,7 @@
 *.eternal.com
 *.etsy.com
 *.eu.floqast.app
+*.eurid.eu
 *.europolitan.se
 *.exodus.com
 *.exodus.io
@@ -709,9 +712,8 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
-*.ninjakiwi.me
+*.nic.eu
 *.niumba.com
-*.nkstatic.com
 *.nmfn.com
 *.nml.com
 *.nnip.com
@@ -836,6 +838,7 @@
 *.redditinc.com
 *.redditmedia.com
 *.redecor.com
+*.registry.eu
 *.rentalcars.com
 *.reposify.com
 *.restintergamma.nl
@@ -934,7 +937,6 @@
 *.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
-*.souparea.com
 *.soyoustart.com
 *.spiketrap.io
 *.spinaway.com
@@ -1115,6 +1117,7 @@
 *.werkenbijkarwei.nl
 *.wf.com
 *.whatnot.com
+*.whois.eu
 *.wien.at
 *.wien.gv.at
 *.wienkav.at
@@ -1157,6 +1160,7 @@
 *.xunkids.com
 *.xvservice.net
 *.xvtest.net
+*.yadifa.eu
 *.yelp-support.com
 *.yelp.com
 *.yelpwifi.com
@@ -1982,7 +1986,6 @@ External service data leakage
 Extremely high properties
 F 21 Pro
 FIles.com REST API
-FPGA Solution Development Tools and Utilities
 Faucets
 Figma Atlassian App
 Figma Desktop App
@@ -2279,7 +2282,6 @@ Nintendo Switch 2 System Processes allowing piracy
 Nintendo Switch 2 applications for which Nintendo is the publisher worldwide
 Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
-Non Altera Products
 Non-Core Assets
 Non-Core Grafana Plugins
 NordPass - Linux Executable
@@ -2332,7 +2334,6 @@ Other Amazon Retail Mobile Apps (Please only actively test explicitly stated sco
 Other Amazon Retail Sites (Please only actively test explicitly stated scope)
 Other Asset (Campaigns)
 Other Assets
-Other BMW Domains
 Other Dyson Assets
 Other Hardware Assets
 Other HubSpot-owned (sub)domains not listed as Out of Scope
@@ -2674,6 +2675,7 @@ Xfinity Android mobile app
 Xfinity Home Hardware (items listed below in brief)
 Xfinity Home cameras
 Xfinity iOS mobile app
+YADIFA authoritative name server
 Yahoo Calendar
 Yahoo Finance
 Yahoo HK News
@@ -2789,7 +2791,6 @@ airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 akismet.com
 alert.logitech.com
-alerts.ninjakiwi.com
 alexa.amazon.com
 alexaanswers.amazon.com
 alfred-uat-31.nonprod.syfe.com
@@ -2807,7 +2808,6 @@ amd.digitalocean.com
 amp.reddit.com
 analytics-*.8x8.com
 analytics.krisp.ai
-analytics.ninjakiwi.com
 analytics.pinelabs.com
 anext.com.sg
 antbank.hk
@@ -2929,7 +2929,6 @@ api.midtrans.com
 api.monespacesante.fr
 api.moonpay.com
 api.netlify.com
-api.ninjakiwi.com
 api.ort-one-pingone.com
 api.ovh.com
 api.personio-dev.com
@@ -3161,7 +3160,6 @@ ballistic.com.br
 bankaccountdata.gocardless.com
 basecamp.rivian.com
 basecamp3.exe
-battles.tv
 bb.visa.com
 bcny.com
 bd.visa.com
@@ -3222,7 +3220,6 @@ booking.cheapcaribbean.com
 booking.com
 booking.mjrtheatres.com
 bookingholdings-coe.com
-boomer2.ninjakiwi.com
 boost.vinci.com
 booth.pm
 bpa2.marriott.com
@@ -3770,8 +3767,6 @@ components.stag.tomorrowland.com
 components.tomorrowland.com
 concierge.clearme.com
 config.cic-bug-bounty.auth0app.com
-configure.bmw.de
-configure.mini.de
 confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
@@ -3830,7 +3825,6 @@ cs.money
 csp-pci.prod.codebig2.net
 css-tricks.com
 ct.deriv.com
-ct.ninjakiwi.com
 ctf.hacker101.com
 custody.coinbase.com
 customer-sessions.arkoselabs.com
@@ -3859,7 +3853,6 @@ dashboard.privy.io
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
 data.mail.yahoo.com
-data.ninjakiwi.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 datapod-1-100-druid-ingest.testing.forescoutcloud.net
@@ -4161,7 +4154,6 @@ gs://faraday-secret
 gs://fdy-production-sdk-uploads
 gt-cf.*.aws.indriverapp.com
 gt-gw-cf.*.aws.indriverapp.com
-guts.ninjakiwi.com
 gvt-cf.*.aws.indriverapp.com
 gw.api.dh.comcast.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -4531,6 +4523,7 @@ https://apps.apple.com/de/app/teamviewer-remote-control/id692035811
 https://apps.apple.com/ee/app/bolt-fast-affordable-rides/id675033630
 https://apps.apple.com/ee/app/bolt-food/id1451492388
 https://apps.apple.com/es/app/mediamarkt-comprar-online/id1438532508
+https://apps.apple.com/es/app/osl-buy-bitcoin-crypto/id6743699672
 https://apps.apple.com/fr/app/blablalines-covoiturage/id1225543288
 https://apps.apple.com/fr/app/cryptobox/id972602802
 https://apps.apple.com/fr/app/dailymotion/id336978041
@@ -6109,6 +6102,7 @@ https://play.google.com/store/apps/details?id=com.opera.app.sports
 https://play.google.com/store/apps/details?id=com.opera.browser
 https://play.google.com/store/apps/details?id=com.opera.gx
 https://play.google.com/store/apps/details?id=com.opera.mini.native
+https://play.google.com/store/apps/details?id=com.oslmobile.global
 https://play.google.com/store/apps/details?id=com.owncloud.android
 https://play.google.com/store/apps/details?id=com.paymaya
 https://play.google.com/store/apps/details?id=com.pinelabs.emicatalogue.pinelabs&hl=uz
@@ -6721,6 +6715,8 @@ https://www.opposhop.cn/
 https://www.opposhop.cn/m/
 https://www.optus.com.au/osp-ecare
 https://www.originenergy.com.au/
+https://www.osl.com/en
+https://www.osl.com/hk-en
 https://www.otto.de
 https://www.otto.de/jobs
 https://www.outsourcing.optus.net.au/eFRAMS3/
@@ -7011,7 +7007,6 @@ klarnacdn.net
 knowage.monespacesante.fr
 knowledge.nextcloud.com
 knox.beta.blendlabs.com
-konfigurator.bmw-motorrad.de
 konghq.com
 krisp.ai
 kronor.io
@@ -7264,6 +7259,7 @@ my-accpt.portofantwerpbruges.com
 my.account.sony.com
 my.bpost.be
 my.clearme.com
+my.eurid.eu
 my.exness.com
 my.loanbuilder.com
 my.malwarebytes.com
@@ -7291,8 +7287,6 @@ myaccount.vtm.be
 myconnect.com.au
 mynexuz.be
 mynexuzhealth/id1459856321
-mynk-dash.ninjakiwi.com
-mynk.ninjakiwi.com
 myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
 mystics-dev.wnba.com
@@ -7390,8 +7384,6 @@ nft.io
 nha-cf.*.aws.indriverapp.com
 nha-gw-cf.*.aws.indriverapp.com
 niantic.kidswebservices.com
-ninja.kiwi
-ninjakiwi.com
 nl.gamma.app.android
 nl.gamma.verf
 nl.karwei.app.android
@@ -7635,8 +7627,6 @@ qwantjunior.com
 ra-cf.*.aws.indriverapp.com
 ra-gw-cf.*.aws.indriverapp.com
 rafflee.co.uk
-rancher.ninjakiwi.com
-rancher.ninjakiwi.me
 random.uzleuven.be/random/
 raptor*.bykea.net
 ras1.optus.com.au 
@@ -8248,8 +8238,6 @@ www.bitmoji.com
 www.bitstamp.net
 www.bitstrips.com
 www.blueskytours.com
-www.bmw-motorrad.de
-www.bmw.de
 www.bolsasymercados.es
 www.bookabach.co.nz
 www.bookingholdings.com
@@ -8452,7 +8440,6 @@ www.mercadolibre.com.sv
 www.mercadolivre.com
 www.mercadopago.com.ec
 www.midtrans.com
-www.mini.de
 www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
