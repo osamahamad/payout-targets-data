@@ -257,7 +257,6 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
-*.das.eu
 *.dash.ai
 *.datacamp.com
 *.dcfgateway.marriott.com
@@ -285,7 +284,6 @@
 *.dm.gg
 *.dmcdn.net
 *.dmxleo.com
-*.dns.eu
 *.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
@@ -301,7 +299,6 @@
 *.dropboxforum.com
 *.dropboxpartners.com
 *.dropmix.com
-*.dropxl.com
 *.duokan.com
 *.e2ro.com
 *.earlywarning.com
@@ -349,7 +346,6 @@
 *.eternal.com
 *.etsy.com
 *.eu.floqast.app
-*.eurid.eu
 *.europolitan.se
 *.exodus.com
 *.exodus.io
@@ -446,7 +442,6 @@
 *.grofer.io
 *.grofers.com
 *.grok.com
-*.grwtrading.com
 *.gs-mosaic.gs.com
 *.gs-mosaic.qa.gs.com
 *.gs.com
@@ -712,7 +707,6 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
-*.nic.eu
 *.niumba.com
 *.nmfn.com
 *.nml.com
@@ -743,6 +737,7 @@
 *.opr.news
 *.ops.netlify.com
 *.opsgenie.com
+*.optimuscards.com
 *.optus.com.au
 *.origindigital-pac.com.au
 *.osite99.com
@@ -838,7 +833,6 @@
 *.redditinc.com
 *.redditmedia.com
 *.redecor.com
-*.registry.eu
 *.rentalcars.com
 *.reposify.com
 *.restintergamma.nl
@@ -1008,6 +1002,7 @@
 *.tomorrowland.com
 *.tools.thefork.tech
 *.toolsforhumanity.com
+*.topperpay.com
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trainpal.com,*.mytrainpal.com
@@ -1051,6 +1046,8 @@
 *.unreal-agents.jitsi.net
 *.unrealengine.com
 *.unrealtournament.com
+*.uphodl.com
+*.uphold.com
 *.uscc.com
 *.uscc.net
 *.uscellular.com
@@ -1117,7 +1114,6 @@
 *.werkenbijkarwei.nl
 *.wf.com
 *.whatnot.com
-*.whois.eu
 *.wien.at
 *.wien.gv.at
 *.wienkav.at
@@ -1160,7 +1156,6 @@
 *.xunkids.com
 *.xvservice.net
 *.xvtest.net
-*.yadifa.eu
 *.yelp-support.com
 *.yelp.com
 *.yelpwifi.com
@@ -2594,6 +2589,9 @@ UniFi Talk
 UniFi Wireless Access Points
 University Platform
 UnrealEditorFortnite-Win64-Shipping.exe
+UpHODL
+Uphold: Buy BTC, ETH and 300+
+Uphold: Buy BTC, ETH and 360+
 Upwork - Android Application
 Upwork - Marketplace Portal
 Upwork - Messages
@@ -2675,7 +2673,6 @@ Xfinity Android mobile app
 Xfinity Home Hardware (items listed below in brief)
 Xfinity Home cameras
 Xfinity iOS mobile app
-YADIFA authoritative name server
 Yahoo Calendar
 Yahoo Finance
 Yahoo HK News
@@ -2826,6 +2823,8 @@ api-js.datadome.co
 api-partner.spotify.com
 api-polygon-tokens.polygon.technology/
 api-sandbox.gocardless.com
+api-sandbox.uphold.com
+api-sandbox.uphold.com/graphql
 api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
 api-wallet-sandbox.venly.io
@@ -2934,6 +2933,7 @@ api.ovh.com
 api.personio-dev.com
 api.personio.com
 api.pns.hk
+api.portal.enterprise.uphold.com 
 api.portofantwerp.com
 api.portofantwerpbruges.com
 api.prd.commerce.simplisafe.com
@@ -2950,6 +2950,7 @@ api.remitly.io
 api.robinhood.com
 api.ryadom.kz
 api.s-kaupat.fi
+api.sandbox.topperpay.com
 api.savers.co.uk
 api.segment.io
 api.sendgrid.com
@@ -3058,6 +3059,7 @@ app.pharmacy.superdrug.com
 app.pullrequest.com
 app.rewire.to
 app.sandbox.directly.com
+app.sandbox.topperpay.com
 app.savers.co.uk
 app.segment.com
 app.sendgrid.com
@@ -3933,11 +3935,15 @@ dns0.optus.net.au
 dns1.optus.net.au
 do.co
 doaction.org
+docs.api.enterprise.uphold.com
 docs.gitlab.com
 docs.lansweeper.com
 docs.launchdarkly.com
 docs.nextcloud.com
+docs.optimuscards.com
 docs.redoxengine.com
+docs.topperpay.com
+docs.uphold.com
 docsend.com
 docuflow.stg.inspectorio.com
 donations.livestream.com
@@ -4127,6 +4133,7 @@ github.com/binary-com
 github.com/deriv-com
 github.com/kubernetes-csi
 github.com/kubernetes-retired
+github.com/uphold/*
 gitlab.com
 gleague-dev.nba.com
 gleague-qa.nba.com
@@ -4147,6 +4154,7 @@ gopaymerchant.midtrans.com
 gql.reddit.com
 grab.careers
 grae.nba.com
+graphql.sandbox.topperpay.com/graphql
 gravatar.com
 grok.com
 grokipedia.com
@@ -7259,7 +7267,6 @@ my-accpt.portofantwerpbruges.com
 my.account.sony.com
 my.bpost.be
 my.clearme.com
-my.eurid.eu
 my.exness.com
 my.loanbuilder.com
 my.malwarebytes.com
@@ -7544,6 +7551,7 @@ pontoon.allizom.org
 portal-api.coinmarketcap.com
 portal.arkoselabs.com
 portal.au.frontegg.com
+portal.enterprise.uphold.com
 portal.gofoodmerchant.co.id
 portal.myconnect.com.au
 portal.myconnect.com.au/new-connection
@@ -7904,6 +7912,7 @@ stats.vinci.com
 stats.wnba.com
 status.delen.be 
 status.larksuite.com
+status.uphold.com
 steamcommunity.com
 stock.adobe.com
 store.23andme.com
@@ -7944,6 +7953,8 @@ supply-xml.booking.com
 support*.earlywarning.com
 support-api.airbnb.com
 support-portal.8x8.com
+support-sandbox.uphold.com
+support-staging.topperpay.com
 support.creditkarma.ca
 support.cs.money
 support.greenhouse.io
@@ -8047,6 +8058,7 @@ tunnistus.s-ryhma.fi
 twinmotion.unrealengine.com
 txm-cf.*.aws.indriverapp.com
 uat-bugbounty.nonprod.syfe.com
+uatcms.optimuscards.com
 uber.com
 uber.marriott.com
 uc.8x8pilot.com
@@ -8132,6 +8144,7 @@ vœux.vinci.com
 w1.uzleuven.be
 w1.uzleuven.be/random
 waf.cumulusfire.net
+wallet-sandbox.uphold.com
 wallet.tg
 wallet.venly.io
 wallet.web3auth.io
@@ -8451,6 +8464,7 @@ www.mundi.com.br
 www.nba.com
 www.netflix.com
 www.onsexprime.fr
+www.optimuscards.com
 www.orbitz.com
 www.ottocasino.se
 www.ottokasino.com
@@ -8514,6 +8528,7 @@ www.tgoyemek.com
 www.theperfumeshop.com
 www.tink.com
 www.tomorrowland.com
+www.topperpay.com
 www.tradepmr.com
 www.trajeoh.com
 www.transsicura.ch
@@ -8534,6 +8549,8 @@ www.udemy.com
 www.ultimateears.com
 www.unibet.(com­|it|se|co.uk|be|nl|dk|ro|ee|ie|com.au|mt)
 www.universalorlandovacations.com
+www.uphodl.com
+www.uphold.com
 www.upwork.com/api 
 www.urbanclap.com
 www.urbancompany.com
