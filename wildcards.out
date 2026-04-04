@@ -3,6 +3,8 @@
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *-api-*.acronis.com
 *-cvr-aws-*.sys.comcast.net
+*. advancedcustomfields.com
+*. bettersearchreplace.com
 *. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
@@ -243,9 +245,9 @@
 *.dailymotion.com
 *.dancecentral.com
 *.dash.ai
-*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
+*.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demorgen.be
@@ -284,6 +286,7 @@
 *.dropboxforum.com
 *.dropboxpartners.com
 *.dropmix.com
+*.dropxl.com
 *.duokan.com
 *.e2ro.com
 *.earlywarning.com
@@ -372,8 +375,6 @@
 *.fuze.com
 *.fuze.site
 *.gaming.gopayapi.com
-*.gamma.be/*
-*.gamma.nl/*
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
@@ -427,6 +428,7 @@
 *.grofer.io
 *.grofers.com
 *.grok.com
+*.grwtrading.com
 *.gs-mosaic.gs.com
 *.gs-mosaic.qa.gs.com
 *.gs.com
@@ -504,10 +506,6 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
-*.intergamma-test.nl
-*.intergamma.cloud
-*.intergamma.nl/*
-*.internal.exoscale.ch
 *.intigriti.me
 *.itcapital.io
 *.jbl.com
@@ -524,21 +522,12 @@
 *.jobstreet.com.sg
 *.jora.com
 *.jora.xyz
-*.karwei.nl/*
-*.karweioutletstore.nl
 *.kayak.com
 *.khealth.com
 *.khealth.io/
 *.kibana.wtf
 *.kiln.it
-*.kinepolis.be
-*.kinepolis.ch
-*.kinepolis.com
-*.kinepolis.fr
-*.kinepolis.lu
-*.kinepolis.nl
 *.kiwi.com
-*.klubcinema.fr
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
@@ -547,7 +536,6 @@
 *.kruidvatkids.nl
 *.kube.dm.gg
 *.kwsdose.be
-*.landmarkcinemas.com
 *.landmarkglobal-group.com
 *.lansweeper.com
 *.lastminute.co.nz
@@ -563,6 +551,7 @@
 *.link.co
 *.linktree-extensions.com
 *.livestream.com
+*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.logitech-channel-marketing.com
@@ -607,7 +596,6 @@
 *.mb-cosmos.com
 *.mbamupdates.com
 *.mediatonic.co.uk
-*.megatix.be  
 *.melonapp.com
 *.memorable.io
 *.meraki.com
@@ -649,7 +637,6 @@
 *.miui.cn
 *.miui.com
 *.miwifi.com
-*.mjrtheatres.com
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
@@ -660,7 +647,6 @@
 *.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
-*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -692,6 +678,7 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
+*.nitropack.io
 *.niumba.com
 *.nmfn.com
 *.nml.com
@@ -722,7 +709,6 @@
 *.opr.news
 *.ops.netlify.com
 *.opsgenie.com
-*.optimuscards.com
 *.optus.com.au
 *.origindigital-pac.com.au
 *.osite99.com
@@ -787,7 +773,6 @@
 *.prelert.com
 *.prijsmepper.nl
 *.privateinternetaccess.com
-*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -820,7 +805,6 @@
 *.redecor.com
 *.rentalcars.com
 *.reposify.com
-*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -943,6 +927,7 @@
 *.streamlabscharity.com
 *.stripchat.com
 *.stripe.com
+*.studiopress.com
 *.stylebook.de
 *.subp-router.hereapi.com
 *.superbet.com
@@ -987,7 +972,6 @@
 *.tomorrowland.com
 *.tools.thefork.tech
 *.toolsforhumanity.com
-*.topperpay.com
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trainpal.com,*.mytrainpal.com
@@ -1031,8 +1015,6 @@
 *.unreal-agents.jitsi.net
 *.unrealengine.com
 *.unrealtournament.com
-*.uphodl.com
-*.uphold.com
 *.uscc.com
 *.uscc.net
 *.uscellular.com
@@ -1064,10 +1046,6 @@
 *.vimla.se
 *.vimla.work
 *.vine.co
-*.vinted.com
-*.vinted.fr
-*.vinted.net
-*.vintedgo.com
 *.visamiddleeast.com
 *.vliegwinkel.nl
 *.volkskrant.nl
@@ -1094,9 +1072,6 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
 *.wf.com
 *.whatnot.com
 *.wien.at
@@ -1119,6 +1094,8 @@
 *.worldcoin.org
 *.worldfirst.com
 *.wotif.com
+*.wpengine.io
+*.wpesvc.net
 *.x.ai
 *.x.com
 *.xcal.tv
@@ -1156,8 +1133,6 @@
 *ensemble*.yahoo.com
 *idp*.uzleuven.be
 *omega*.yahoo.com
-*sandbox*.vinted.com
-*sandbox*.vintedgo.com
 *stag*.uzleuven.be
 *test*.bykea.net
 3rd party services hosted at *.sophos.com
@@ -1255,10 +1230,8 @@ rsm-cf.*.aws.indriverapp.com
 sc-cf.*.aws.indriverapp.com
 sfc-cf.*.aws.indriverapp.com
 sfc-gw-cf.*.aws.indriverapp.com
-sks-*.exo.io
 sn-api-cf.*.aws.indriverapp.com
 sn-api-gw-cf.*.aws.indriverapp.com
-sos-*.exo.io
 st*.indriverapp.com
 static*.twilio.com
 sub*.aws.indriverapp.com

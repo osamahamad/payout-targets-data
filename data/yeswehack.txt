@@ -19,11 +19,6 @@ anext.com.sg
 alipayhk.com
 antbank.hk
 Any Other Applications found here: https://mysrc.group/project_detail?id=11
-Log4j 2.x
-Log4j API for Kotlin
-Log4j API for Scala
-Log4cxx
-Log4net
 https://gitlab.isc.org/isc-projects/bind9
 https://play.google.com/store/apps/details?id=com.bitoasis&hl=en
 https://apps.apple.com/ae/app/bitoasis-buy-bitcoin-crypto/id1521661794
@@ -386,9 +381,6 @@ https://mobile.ooredoo.qa
 https://selfcare.ooredoo.qa
 https://play.google.com/store/apps/details?id=qa.ooredoo.android&hl=en&gl=US
 https://apps.apple.com/qa/app/ooredoo-qatar/id619828745
-Security Vulnerability in OpenPGP.js's high-level API
-Security Vulnerability in the OpenPGP Standard
-Interoperability Issue in OpenPGP.js
 https://vendors.paddle.com
 https://sandbox-vendors.paddle.com
 https://api.paddle.com
@@ -401,29 +393,28 @@ https://login.paddle.com
 https://sandbox-login.paddle.com
 https://www.paddle.com
 https://developer.paddle.com
-https://billingserver.pinelabs.com/
+https://billingserver.pinelabs.com
 dashboard.pluralonline.com
 https://lounge.pinelabs.com/loungeui/login
 https://pinepgconsole.in:9099
 analytics.pinelabs.com
-https://myplutus.pinelabs.my/
+https://myplutus.pinelabs.my
 trm.pinepaymentsolutions.com
 https://trm.pinelabs.ae
-https://www.pinelabs.ae/
-https://www.letspaylater.ph/
+https://www.letspaylater.ph
 https://credit.pinelabs.com
-https://plmcixt.pinelabs.com/
+https://plmcixt.pinelabs.com
 https://play.google.com/store/apps/details?id=com.pinelabs.emicatalogue.pinelabs&hl=uz
-https://emistores.pinelabs.com/
-https://www.pinelabs.com/
-https://www.pinelabs.my/
-https://www.pinelabs.ae/
-https://www.pinelabs.us/
-https://board.pinelabs.com/
-https://nbs.pinelabs.com/
+https://emistores.pinelabs.com
+https://www.pinelabs.com
+https://www.pinelabs.my
+https://www.pinelabs.ae
+https://www.pinelabs.us
+https://board.pinelabs.com
+https://nbs.pinelabs.com
 https://api.pluralonline.com
 https://api.pluralpay.in
-https://pinepg.in/
+https://pinepg.in
 https://pluralcheckout.pinepg.in
 PowerDNS authoritative server, recursor and DNSdist (see "Software packages" and "Source-code")
 api.privateinternetaccess.com
@@ -471,28 +462,6 @@ vaccination-info-service.fr
 professionnels.vaccination-info-service.fr
 www.vivre-avec-la-chaleur.fr
 www.tabac-info-service.fr
-buffered-reader
-nettle-sys
-nettle-rs
-SHA1-CD
-sequoia-openpgp
-sequoia-autocrypt
-sequoia-ipc
-sequoia-net
-Shared OpenPGP Certificate Directory
-sequoia-cert-store
-sequoia-wot
-sequoia-policy-config
-rpm-sequoia
-sqv
-sq
-sqop
-octopus
-sequoia-git
-OpenPGP Cert Directory Specification
-Web of Trust Specification
-Sequoia git Specification
-chameleon
 https://my.sogexia.com
 https://play.google.com/store/apps/details?id=io.gonative.android.xjndrq&hl=fr
 itmss://apps.apple.com/us/app/id1510360750?ign-mscache=1
@@ -566,6 +535,7 @@ https://mohesr.vfsglobal.com/forms/CVUAE/admin/
 phlonline.vfsevisa.cn
 phlportal.vfsevisa.cn
 evisa.gov.mz
+https://vfsforms.mioot.com/forms/EIAT/
 www.vinci.com
 leonard.vinci.com
 castor.vinci.com
@@ -655,23 +625,6 @@ https://github.com/owncloud/updater
 https://github.com/owncloud/core/tree/master/apps/files
 https://github.com/owncloud/android
 https://github.com/owncloud/ios-app
-systemd (the manager itself)
-systemd-boot
-systemd-stub
-systemd-udev
-systemd-journald
-systemd-logind
-libsystemd
-systemd-timesyncd
-systemd-hostnamed
-systemd-resolved
-systemd-cryptenroll
-systemd-cryptsetup
-systemd-veritysetup
-systemd-fstab-generator
-systemd-gpt-auto-generator
-systemd-ask-password
-Others
 https://toom.de
 https://api.toom.de
 https://www.vidaxl.(at|be|bg|ch|co.uk.com|com.au|com.ua|com|cz|de|dk|ee|es|fi|fr|gr|ie|is|it|hr|hu|lt|lv|no|nl|pl|pt|ro|se|si|sk|uk|ae|ca|jp)
