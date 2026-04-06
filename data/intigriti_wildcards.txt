@@ -1,7 +1,4 @@
 *.ad.nl
-*.allegro.cz.allegrosandbox.pl
-*.allegro.pl.allegrosandbox.pl
-*.allegro.sk.allegrosandbox.pl
 *.asadcdn.com
 *.hey.bild.de
 *.auth.bild.de
@@ -128,6 +125,12 @@ Leaked/compromised employee accounts *.here.com
 *stag*.uzleuven.be
 *.vtm.be
 *.vtmgo.be
+*.vinted.net
+*.vinted.com
+*.vinted.fr
+*.vintedgo.com
+*sandbox*.vintedgo.com
+*sandbox*.vinted.com
 *. advancedcustomfields.com
 *. bettersearchreplace.com
 *.deliciousbrains.com

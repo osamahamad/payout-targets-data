@@ -57,9 +57,6 @@
 *.aleenote.cn
 *.aleenote.com
 *.alipayplus.com
-*.allegro.cz.allegrosandbox.pl
-*.allegro.pl.allegrosandbox.pl
-*.allegro.sk.allegrosandbox.pl
 *.amazon.ae
 *.amazon.ca
 *.amazon.cl
@@ -1043,6 +1040,10 @@
 *.vimla.se
 *.vimla.work
 *.vine.co
+*.vinted.com
+*.vinted.fr
+*.vinted.net
+*.vintedgo.com
 *.visamiddleeast.com
 *.vliegwinkel.nl
 *.volkskrant.nl
@@ -1130,6 +1131,8 @@
 *ensemble*.yahoo.com
 *idp*.uzleuven.be
 *omega*.yahoo.com
+*sandbox*.vinted.com
+*sandbox*.vintedgo.com
 *stag*.uzleuven.be
 *test*.bykea.net
 3rd party services hosted at *.sophos.com
