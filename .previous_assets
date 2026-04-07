@@ -5018,6 +5018,7 @@ http://www.shopmarriott.com
 http://www.underarmour.com.sg
 http://www.whynot.com/
 https//monidentifiant.sncf
+https://(navigate|engage|checkout|internal|cached-api|api).shoppingapp.decathlon.com/*
 https://*-prod.arlo.com
 https://*cssoperations.com
 https://*eua.cms.gov
@@ -5295,6 +5296,7 @@ https://apps.apple.com/es/app/osl-buy-bitcoin-crypto/id6743699672
 https://apps.apple.com/fr/app/blablalines-covoiturage/id1225543288
 https://apps.apple.com/fr/app/cryptobox/id972602802
 https://apps.apple.com/fr/app/dailymotion/id336978041
+https://apps.apple.com/fr/app/decathlon-shopping/id1168607403
 https://apps.apple.com/fr/app/deezer-musique-podcast/id292738169
 https://apps.apple.com/fr/app/doctolib/id925339063
 https://apps.apple.com/fr/app/infomaniak-mail/id1622596573
@@ -7156,6 +7158,7 @@ https://play.google.com/store/apps/details?id=com.coindcx.okto
 https://play.google.com/store/apps/details?id=com.coindesk.mobile
 https://play.google.com/store/apps/details?id=com.comuto&hl=en
 https://play.google.com/store/apps/details?id=com.dailymotion.dailymotion&hl=fr&gl=US
+https://play.google.com/store/apps/details?id=com.decathlon.app
 https://play.google.com/store/apps/details?id=com.deezer.zen
 https://play.google.com/store/apps/details?id=com.ecwid.android&pli=1
 https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
@@ -7826,6 +7829,8 @@ https://www.decathlon.(ch|fr|hu|pl|ro|cz|com.tr)/
 https://www.decathlon.(co.uk|it|nl|de)/
 https://www.decathlon.(co.uk|it|nl|de|pt|es)/
 https://www.decathlon.(co.uk|it|nl|de|pt|es|be)/
+https://www.decathlon.(fr|ch|co.uk|it|nl|de|pt|es|be)/
+https://www.decathlon.(hu|pl|ro|cz|com.tr)/
 https://www.definitivetechnology.com
 https://www.demandforced3.com/
 https://www.demarches-simplifiees.fr
