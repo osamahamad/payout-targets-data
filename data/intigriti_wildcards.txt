@@ -55,6 +55,9 @@
 *.helloworks.com
 *.hellosign.com
 *.dash.ai
+sos-*.exo.io
+sks-*.exo.io
+*.internal.exoscale.ch
 *.account.api.here.com
 *.account.here.com
 *.mobilitygraph.hereapi.com
