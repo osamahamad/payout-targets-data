@@ -5044,7 +5044,6 @@ https://github.com/cashapp/cash-app-pay-ios-sdk
 https://github.com/cashapp/hermit
 https://github.com/cashapp/misk
 https://github.com/circlefin/aptos-cctp
-https://github.com/circlefin/arc-node
 https://github.com/circlefin/buidl-wallet-contracts
 https://github.com/circlefin/evm-cctp-contracts
 https://github.com/circlefin/evm-cpn-contracts
@@ -7676,6 +7675,8 @@ roominglist.hyatt.com
 router.geneva-staging.com
 rp-cf.*.aws.indriverapp.com
 rp-gw-cf.*.aws.indriverapp.com
+rpc.drpc.testnet.arc.network
+rpc.quicknode.testnet.arc.network
 rs-cf.*.aws.indriverapp.com
 rsm-cf.*.aws.indriverapp.com
 rt.playcanvas.com
