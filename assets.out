@@ -2361,6 +2361,7 @@ SAP AI Core
 SAP Business Network for Asset Collaboration
 SAP Business Network for Logistics	
 SAP BusinessObjects Business Intelligence platform
+SAP BusinessOne
 SAP Cloud ALM
 SAP Concur TMC Clarity
 SAP Continuous Integration and Delivery
@@ -2954,7 +2955,6 @@ app*.hubspot.com
 app-*.easy4ipcloud.com
 app-insiders.marriott.com
 app.Reclaim.ai
-app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
@@ -5369,7 +5369,7 @@ https://makeshift.film
 https://manage.cic-bug-bounty.auth0app.com/
 https://manage.statuspage.io
 https://manager.thefork.com
-https://manager.trial.lsk.lightspeed.app/	
+https://manager.trial.lsk.lightspeed.app/
 https://mapi-a.usaa.com
 https://mapi.usaa.com/
 https://maps.bykea.net
@@ -5754,7 +5754,6 @@ https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosti
 https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
 https://marketplace.auth0.com
 https://marketplace.ifood.com.br
-https://marketplace.visualstudio.com/items?itemName=AikidoSecurity.aikido
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
 https://master.servicecentre.digitalservicing-np.lfscnp.com/
 https://matrix.agent.tchap.gouv.fr
