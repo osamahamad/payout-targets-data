@@ -6750,6 +6750,7 @@ https://marketplace.atlassian.com/apps/1221237/advanced-roadmaps-for-jira-in-con
 https://marketplace.atlassian.com/apps/1221251/opsgenie-incident-timeline?hosting=cloud
 https://marketplace.atlassian.com/apps/1221301/jira-cloud-for-excel-official?hosting=cloud
 https://marketplace.atlassian.com/apps/1221312/opsgenie-incident-timeline-eu?hosting=cloud
+https://marketplace.atlassian.com/apps/1221399/security-for-bitbucket-enhanced-secret-scanner-by-soteri?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1221430/troubleshooting-and-support-crowd?hosting=server
 https://marketplace.atlassian.com/apps/1221551/aws-service-catalog-for-jsm-cloud?hosting=cloud
 https://marketplace.atlassian.com/apps/1221602/jet-by-jira-align?hosting=cloud
@@ -6788,6 +6789,8 @@ https://marketplace.atlassian.com/apps/1223533/?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1223584/github-webhooks-for-fisheye?hosting=server
 https://marketplace.atlassian.com/apps/1224009/content-mirror-for-confluence?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1224025/ai-insights-for-jira-service-management?hosting=cloud
+https://marketplace.atlassian.com/apps/1224167/security-for-confluence-enhanced-secret-scanner-by-soteri?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1224167/security-for-confluence-enhanced-secret-scanner-by-soteri?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1224300/opsgenie-bamboo-plugin?hosting=server
 https://marketplace.atlassian.com/apps/1224394/?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1224537/?tab=overview&hosting=cloud
@@ -6806,6 +6809,7 @@ https://marketplace.atlassian.com/apps/1226127/confluence-cloud-for-microsoft-te
 https://marketplace.atlassian.com/apps/1226295/variants-for-scroll-documents?hosting=cloud
 https://marketplace.atlassian.com/apps/1226295/variants-for-scroll-documents?hosting=datacenter
 https://marketplace.atlassian.com/apps/1226380/decisions-helper-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1226453/secureflag-knowledge-base?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1226478/jira-cloud-for-microsoft-teams?hosting=cloud
 https://marketplace.atlassian.com/apps/1226610/bitbucket-cloud-migration-assistant?hosting=datacenter
 https://marketplace.atlassian.com/apps/1226610/bitbucket-cloud-migration-assistant?hosting=server
@@ -6829,6 +6833,8 @@ https://marketplace.atlassian.com/apps/1229003/glean-activity-plugin-for-jira-cl
 https://marketplace.atlassian.com/apps/1229183/add-watchers-at-issue-creation?hosting=cloud
 https://marketplace.atlassian.com/apps/1229317/?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1229343/developer-assistant-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1229376/security-for-jira-enhanced-secret-scanner-by-soteri?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1229376/security-for-jira-enhanced-secret-scanner-by-soteri?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1229446/developer-assistant-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1229704/cloud-migration-planner?hosting=cloud
 https://marketplace.atlassian.com/apps/1229906/confluence-mail-archiving-plugin?tab=overview&hosting=datacenter
@@ -6842,6 +6848,7 @@ https://marketplace.atlassian.com/apps/1231916/issue-status-helper?hosting=cloud
 https://marketplace.atlassian.com/apps/1231985/localised-date-macro-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1232254/bump-build-number?hosting=datacenter
 https://marketplace.atlassian.com/apps/1232285/jira-confluence-smart-chips-for-google-docs-slides-sheets?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/1232491?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1232506/jsm-assets-microsoft-entra-id-azure-ad-beta-integration?hosting=cloud
 https://marketplace.atlassian.com/apps/1232630/external-data-for-jira-fields-extension?hosting=cloud
 https://marketplace.atlassian.com/apps/1232793/azure-devops-for-jira-official?tab=overview&hosting=cloud
@@ -9255,8 +9262,10 @@ roominglist.hyatt.com
 router.geneva-staging.com
 rp-cf.*.aws.indriverapp.com
 rp-gw-cf.*.aws.indriverapp.com
+rpc.blockdaemon.testnet.arc.network
 rpc.drpc.testnet.arc.network
 rpc.quicknode.testnet.arc.network
+rpc.testnet.arc.network
 rpm-sequoia
 rs-cf.*.aws.indriverapp.com
 rsm-cf.*.aws.indriverapp.com
