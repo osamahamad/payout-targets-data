@@ -738,6 +738,7 @@
 *.opr.news
 *.ops.netlify.com
 *.opsgenie.com
+*.optimuscards.com
 *.optus.com.au
 *.origindigital-pac.com.au
 *.osite99.com
@@ -1004,6 +1005,7 @@
 *.tomorrowland.com
 *.tools.thefork.tech
 *.toolsforhumanity.com
+*.topperpay.com
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trainpal.com,*.mytrainpal.com
@@ -1047,6 +1049,8 @@
 *.unreal-agents.jitsi.net
 *.unrealengine.com
 *.unrealtournament.com
+*.uphodl.com
+*.uphold.com
 *.uscc.com
 *.uscc.net
 *.uscellular.com
@@ -2058,14 +2062,6 @@ GitHub for mobile
 GitLab for Jira Cloud
 Github Repositories or other public artifacts owned by makenotion
 Github findings
-Glassdoor APIs
-Glassdoor Android
-Glassdoor Authentication
-Glassdoor Employer Center
-Glassdoor Heritage
-Glassdoor Infrastructure & Misc
-Glassdoor Jobs
-Glassdoor iOS
 GlotPress
 Grafana Loki
 Grafana Mimir
@@ -2368,6 +2364,7 @@ Product Delivery
 Protocol of the Swiss Post Voting System
 Public API
 Public Others Target
+Public Preview feature toggles in Tier 1 products
 Recon Data
 Recruitment services
 Relational Migrator
@@ -2383,6 +2380,7 @@ Reno12Pro
 Reno8Pro5G
 Reno9Pro+5G
 Reno9Pro5G
+Reports utilising feature toggles
 Ring Alarm
 Ring Smart Lighting Bridge
 Roblox Client
@@ -2583,6 +2581,9 @@ UniFi Talk
 UniFi Wireless Access Points
 University Platform
 UnrealEditorFortnite-Win64-Shipping.exe
+UpHODL
+Uphold: Buy BTC, ETH and 300+
+Uphold: Buy BTC, ETH and 360+
 Upwork - Android Application
 Upwork - Marketplace Portal
 Upwork - Messages
@@ -2816,6 +2817,8 @@ api-js.datadome.co
 api-partner.spotify.com
 api-polygon-tokens.polygon.technology/
 api-sandbox.gocardless.com
+api-sandbox.uphold.com
+api-sandbox.uphold.com/graphql
 api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
 api-wallet-sandbox.venly.io
@@ -2844,6 +2847,7 @@ api.coinmarketcap.com
 api.creditkarma.com
 api.custody.coinbase.com
 api.deriv.com
+api.dicey.com
 api.digitalocean.com
 api.direct.playstation.com
 api.doppler.com
@@ -2922,6 +2926,7 @@ api.ovh.com
 api.personio-dev.com
 api.personio.com
 api.pns.hk
+api.portal.enterprise.uphold.com 
 api.portofantwerp.com
 api.portofantwerpbruges.com
 api.prd.commerce.simplisafe.com
@@ -2938,6 +2943,7 @@ api.remitly.io
 api.robinhood.com
 api.ryadom.kz
 api.s-kaupat.fi
+api.sandbox.topperpay.com
 api.savers.co.uk
 api.segment.io
 api.sendgrid.com
@@ -2992,6 +2998,7 @@ app*.hubspot.com
 app-*.easy4ipcloud.com
 app-insiders.marriott.com
 app.Reclaim.ai
+app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
@@ -3043,6 +3050,7 @@ app.pharmacy.superdrug.com
 app.pullrequest.com
 app.rewire.to
 app.sandbox.directly.com
+app.sandbox.topperpay.com
 app.savers.co.uk
 app.segment.com
 app.sendgrid.com
@@ -3483,7 +3491,6 @@ com.fanduel.casino
 com.fanduel.flywheelnativecontainer.picks
 com.fanduel.racing
 com.fanduel.sportsbook
-com.finshell.fin
 com.finshell.finance
 com.finshell.wallet
 com.fintech.life
@@ -3910,11 +3917,15 @@ dns0.optus.net.au
 dns1.optus.net.au
 do.co
 doaction.org
+docs.api.enterprise.uphold.com
 docs.gitlab.com
 docs.lansweeper.com
 docs.launchdarkly.com
 docs.nextcloud.com
+docs.optimuscards.com
 docs.redoxengine.com
+docs.topperpay.com
+docs.uphold.com
 docsend.com
 docuflow.stg.inspectorio.com
 donations.livestream.com
@@ -4101,6 +4112,7 @@ github.com/binary-com
 github.com/deriv-com
 github.com/kubernetes-csi
 github.com/kubernetes-retired
+github.com/uphold/*
 gitlab.com
 gleague-dev.nba.com
 gleague-qa.nba.com
@@ -4121,6 +4133,7 @@ gopaymerchant.midtrans.com
 gql.reddit.com
 grab.careers
 grae.nba.com
+graphql.sandbox.topperpay.com/graphql
 gravatar.com
 grok.com
 grokipedia.com
@@ -4868,6 +4881,10 @@ https://doc.komoju.com/docs/fields-overview
 https://docker-staging.adstruc.com
 https://docs.bugcrowd.com/
 https://docs.eazybi.com/
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1208823298#gid=1208823298
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1281087877#gid=1281087877
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1767553194#gid=1767553194
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1817816238#gid=1817816238
 https://docs.immutable.com/
 https://docs.keeper.io/en/keeperpam
 https://docs.keeper.io/en/keeperpam/commander-cli/overview
@@ -5819,6 +5836,7 @@ https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosti
 https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
 https://marketplace.auth0.com
 https://marketplace.ifood.com.br
+https://marketplace.visualstudio.com/items?itemName=AikidoSecurity.aikido
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
 https://master.servicecentre.digitalservicing-np.lfscnp.com/
 https://matrix.agent.tchap.gouv.fr
@@ -7520,6 +7538,7 @@ pontoon.allizom.org
 portal-api.coinmarketcap.com
 portal.arkoselabs.com
 portal.au.frontegg.com
+portal.enterprise.uphold.com
 portal.gofoodmerchant.co.id
 portal.myconnect.com.au
 portal.myconnect.com.au/new-connection
@@ -7870,6 +7889,7 @@ stats.nextcloud.com
 stats.vinci.com
 stats.wnba.com
 status.larksuite.com
+status.uphold.com
 steamcommunity.com
 stock.adobe.com
 store.23andme.com
@@ -7909,6 +7929,8 @@ supply-xml.booking.com
 support*.earlywarning.com
 support-api.airbnb.com
 support-portal.8x8.com
+support-sandbox.uphold.com
+support-staging.topperpay.com
 support.creditkarma.ca
 support.cs.money
 support.greenhouse.io
@@ -7991,6 +8013,7 @@ tunnistus.s-ryhma.fi
 twinmotion.unrealengine.com
 txm-cf.*.aws.indriverapp.com
 uat-bugbounty.nonprod.syfe.com
+uatcms.optimuscards.com
 uber.com
 uber.marriott.com
 uc.8x8pilot.com
@@ -8074,6 +8097,7 @@ vœux.vinci.com
 w1.uzleuven.be
 w1.uzleuven.be/random
 waf.cumulusfire.net
+wallet-sandbox.uphold.com
 wallet.tg
 wallet.venly.io
 wallet.web3auth.io
@@ -8380,6 +8404,7 @@ www.mundi.com.br
 www.nba.com
 www.netflix.com
 www.onsexprime.fr
+www.optimuscards.com
 www.orbitz.com
 www.ottocasino.se
 www.ottokasino.com
@@ -8443,6 +8468,7 @@ www.tgoyemek.com
 www.theperfumeshop.com
 www.tink.com
 www.tomorrowland.com
+www.topperpay.com
 www.tradepmr.com
 www.trajeoh.com
 www.transsicura.ch
@@ -8463,6 +8489,8 @@ www.udemy.com
 www.ultimateears.com
 www.unibet.(com­|it|se|co.uk|be|nl|dk|ro|ee|ie|com.au|mt)
 www.universalorlandovacations.com
+www.uphodl.com
+www.uphold.com
 www.upwork.com/api 
 www.urbanclap.com
 www.urbancompany.com
