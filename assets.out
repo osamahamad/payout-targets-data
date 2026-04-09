@@ -1272,7 +1272,6 @@
 1474700 (Steam app id)
 1475021574
 1476615877
-1477299281
 1478350915
 1481198245
 1485539253
@@ -1608,7 +1607,6 @@
 936983378
 938003185
 94.107.237.192/26
-943905271
 944011620
 947984433
 949829216
@@ -1991,6 +1989,7 @@ External service data leakage
 Extremely high properties
 F 21 Pro
 FIles.com REST API
+FPGA Solution Development Tools and Utilities
 Faucets
 Figma Atlassian App
 Figma Desktop App
@@ -2274,6 +2273,7 @@ Nintendo Switch 2 applications for which Nintendo is the publisher worldwide
 Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
 No Bounty
+Non Altera Products
 Non-Core Assets
 Non-Core Grafana Plugins
 NordPass - Linux Executable
@@ -2651,6 +2651,8 @@ Windows OS Executable
 Windows OS Executable: Download here https://www.larksuite.com/download
 Windows Personal Backup Clients
 Windows Restore Downloaders
+Wolt Courier Partner
+Wolt Delivery: Food and more
 WooCommerce
 WordPress Core
 WordPress Plugins & Themes
@@ -2685,7 +2687,6 @@ Yahoo Sports: Mobile
 Yahoo Video
 Yahoo Weather
 Yahoo! (Misc)
-Yoti Password Manager browser extension
 Your Own GitLab Instance
 Zendesk AI
 Zendesk Front End
@@ -3709,8 +3710,6 @@ com.whoop.iphone
 com.wikibuy.prod.main
 com.wisdomtree.wtprime
 com.withbuddies.dice.free
-com.wolt.android
-com.wolt.courierapp
 com.wooga.pearlsperil
 com.wotif.android
 com.xiaomi.account
