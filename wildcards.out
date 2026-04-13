@@ -504,6 +504,7 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
+*.internal.exoscale.ch
 *.intigriti.me
 *.itcapital.io
 *.jbl.com
@@ -1243,8 +1244,10 @@ rsm-cf.*.aws.indriverapp.com
 sc-cf.*.aws.indriverapp.com
 sfc-cf.*.aws.indriverapp.com
 sfc-gw-cf.*.aws.indriverapp.com
+sks-*.exo.io
 sn-api-cf.*.aws.indriverapp.com
 sn-api-gw-cf.*.aws.indriverapp.com
+sos-*.exo.io
 st*.indriverapp.com
 static*.twilio.com
 sub*.aws.indriverapp.com
