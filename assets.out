@@ -6,7 +6,6 @@
  Mobile Apps
  UniFi OS Server
  com.citymapper.app.release
- https://api-*exoscale.com/v2
  idp-contact.nexuzhealth.be
  login-test.portofantwerpbruges.com/
  mix.monash.edu 
@@ -519,7 +518,6 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
-*.internal.exoscale.ch
 *.intigriti.me
 *.itcapital.io
 *.jbl.com
@@ -4775,7 +4773,6 @@ https://com.etoro.openbook
 https://com.etoro.wallet
 https://communities.epicgames.com
 https://community.etsy.com
-https://community.exoscale.com/
 https://community.personio.com
 https://compulsoryunits.monash.edu/
 https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
@@ -6153,7 +6150,6 @@ https://portal.afterpay.com
 https://portal.anz.kinergysolutions.com
 https://portal.clearpay.co.uk
 https://portal.clearpay.com
-https://portal.exoscale.com/
 https://portal.iFoodpago.com.br
 https://portal.originzero.com.au
 https://portal.pdq.com/
@@ -6576,7 +6572,6 @@ https://www.etoro.com
 https://www.etsy.com
 https://www.etsy.com/developers/documentation/getting_started/api_basics
 https://www.etsy.com/mobile
-https://www.exoscale.com/
 https://www.financeiro.quintoandar.com.br/*
 https://www.finicity.com
 https://www.flipkart.com
@@ -7761,7 +7756,6 @@ site.rewire.com
 sites.fareharbor.com
 sketch.pixiv.net
 skills-store.amazon.com
-sks-*.exo.io
 sky-dev.wnba.com
 sky-qa.wnba.com
 sky.wnba.com
@@ -7793,7 +7787,6 @@ sockets.geneva-staging.chat
 sockets.geneva-staging.com
 solutions-environnement.vinci.com
 sorare.com
-sos-*.exo.io
 sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com
 spaces.pm
 spark.fareharbor.com
