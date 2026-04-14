@@ -1076,6 +1076,7 @@
 *.vayama.com
 *.venmo.com
 *.vennhypotheken.nl
+*.veriff.com
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
@@ -1285,6 +1286,7 @@
 146.109.68.0/24
 146.109.8.0/21
 146.109.8.0/22
+1467907532
 1474700 (Steam app id)
 1475021574
 1476615877
@@ -1618,7 +1620,6 @@
 8x8.my.site.com
 905953485
 91.203.96.0/22
-910898851
 926252661
 930441707
 936983378
@@ -2809,6 +2810,7 @@ airFiber
 airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 akismet.com
+alchemy.veriff.com
 alert.logitech.com
 alerts.ninjakiwi.com
 alexa.amazon.com
@@ -2909,6 +2911,7 @@ api.ezvizlife.com
 api.faraday.ai
 api.fi.dyson.com
 api.figma.com
+api.flamingo-eu.veriff.com
 api.foliofn.com
 api.fortress.com.hk
 api.geneva-staging.com
@@ -3008,7 +3011,9 @@ api.tumblr.com
 api.twilio.com
 api.unleashed.be
 api.upwork.com/graphql
+api.us.veriff.me
 api.vault.chiatest.net
+api.veriff.me
 api.vhx.tv
 api.vimeo.com
 api.watsons.co.id
@@ -3080,7 +3085,6 @@ app.moderntreasury.com
 app.mona.co
 app.moonpay.com
 app.netlify.com
-app.nl.socialdeal
 app.nordpass.com
 app.pharmacy.superdrug.com
 app.pullrequest.com
@@ -3737,6 +3741,7 @@ com.urbanclap.urbanclap
 com.valmo.valmo
 com.valvesoftware.Steam
 com.venmo
+com.veriff.demo
 com.vilcsak.bitcoin2
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
@@ -3945,6 +3950,7 @@ developer.worldcoin.org
 developers.cloudways.com
 developers.reddit.com
 developers.tiktok.com
+developers.veriff.me
 device.marriott.com
 dh-gw-cf.*.aws.indriverapp.com
 diabrowser.com
@@ -4318,7 +4324,6 @@ http://payments.hostinger.com
 http://play.google.com/store/apps/details?id=fr.doctolib.www
 http://poe.com
 http://secure-iphone-xml.booking.com/json/
-http://socialdeal.nl/inspirations/bluemonday/
 http://staking.consensys.io
 http://testnet.bybit.eu
 http://tsock.us1.twilio.com
@@ -4340,7 +4345,6 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 http://www.rei.com/learn/expert-advice
 http://www.shopmarriott.com
 http://www.underarmour.com.sg
-http://www.whynot.com/
 https//monidentifiant.sncf
 https://(navigate|engage|checkout|internal|cached-api|api).shoppingapp.decathlon.com/*
 https://*-prod.arlo.com
@@ -6800,7 +6804,6 @@ https://www.skidxb.com/
 https://www.skroutz.gr
 https://www.sncf-connect.com
 https://www.sncf-connect.com/bff
-https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/
 https://www.sophos.com/
 https://www.sophos.com/en-us/products
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial
@@ -7130,6 +7133,7 @@ logs.nextcloud.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
 lookup.nextcloud.com
+louvre.veriff.me
 luxfilmfestfilms.megatix.be
 luxfilmfestproducts.megatix.be
 luxfilmfesttickets.megatix.be
@@ -7147,6 +7151,7 @@ mUSD Stablecoin
 macOS app
 magazine.kruidvat.be
 magento.com
+magic.veriff.me
 magiceden.io
 magisto.com,www.magisto.com
 mail.hostinger.com/v2
@@ -7951,6 +7956,8 @@ starling-ttp.lemon8-app.us
 start.khealth.com
 static*.twilio.com
 static.apps.nextcloud.com
+station.veriff.com
+stationapi.veriff.com
 stats-trafficcop-prod.nba.com
 stats.gleague.nba.com
 stats.nba.com
@@ -8539,7 +8546,6 @@ www.sbb.ch
 www.sbbcargo.com
 www.sheer.com
 www.six-group.com
-www.socialdeal.nl
 www.sokos.fi
 www.soundonw.us
 www.starbucks.ca
@@ -8594,6 +8600,7 @@ www.urbancompany.com
 www.uzleuven.be
 www.valmo.in
 www.valvesoftware.com
+www.veriff.com
 www.vfsvisaonline.com
 www.vfsvisaservicesrussia.com
 www.vimeo.com
