@@ -52,6 +52,12 @@
 *.helloworks.com
 *.hellosign.com
 *.dash.ai
+*.das.eu
+*.dns.eu
+*.eurid.eu
+*.nic.eu
+*.registry.eu
+*.whois.eu
 sos-*.exo.io
 sks-*.exo.io
 *.internal.exoscale.ch
@@ -101,6 +107,9 @@ Leaked/compromised employee accounts *.here.com
 *.monzo.com
 *.prod-ffs.io
 *.nexuzhealth.*
+*.ninjakiwi.me
+*.nkstatic.com
+*.souparea.com
 *.app.personio-dev.com
 *.app.personio.com
 *.personio-internal.de
@@ -146,6 +155,8 @@ Leaked/compromised employee accounts *.here.com
 *.vintedgo.com
 *sandbox*.vintedgo.com
 *sandbox*.vinted.com
+*.voi.com
+*.voiscooters.com
 *. advancedcustomfields.com
 *. bettersearchreplace.com
 *.deliciousbrains.com
