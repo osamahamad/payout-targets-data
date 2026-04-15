@@ -257,7 +257,9 @@
 *.dailyadvent.com
 *.dailymotion.com
 *.dancecentral.com
+*.das.eu
 *.dash.ai
+*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
@@ -284,6 +286,7 @@
 *.dm.gg
 *.dmcdn.net
 *.dmxleo.com
+*.dns.eu
 *.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
@@ -347,6 +350,7 @@
 *.eternal.com
 *.etsy.com
 *.eu.floqast.app
+*.eurid.eu
 *.europolitan.se
 *.exodus.com
 *.exodus.io
@@ -703,6 +707,7 @@
 *.nflximg.net
 *.nflxso.net
 *.nflxvideo.net
+*.nic.eu
 *.ninjakiwi.me
 *.nitropack.io
 *.niumba.com
@@ -832,6 +837,7 @@
 *.redditinc.com
 *.redditmedia.com
 *.redecor.com
+*.registry.eu
 *.rentalcars.com
 *.reposify.com
 *.rhinternal.net
@@ -1117,6 +1123,7 @@
 *.welt.de
 *.wf.com
 *.whatnot.com
+*.whois.eu
 *.wien.at
 *.wien.gv.at
 *.wienkav.at
@@ -1906,7 +1913,6 @@ Crypto.com mobile app APIs that require an account
 Customer Connected Domain
 Customer Portal
 CyberGhost VPN servers
-DS proxy (see https://github.com/demarches-simplifiees/ds_proxy)
 Data Loss Prevention (DLP)
 Data Protection Program
 Data.lime.bike 
@@ -3017,6 +3023,9 @@ app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -3109,6 +3118,9 @@ as2-accpt.portofantwerpbruges.com
 as2.portofantwerp.com
 as2.portofantwerpbruges.com
 ask.khealth.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com 
+assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.spotify.com
@@ -3290,6 +3302,7 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
+campus.datacamp.com
 cancellation.prod.ps.welt.de
 capital.com/*
 capturingreality.com
@@ -3488,6 +3501,7 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
+com.datacamp
 com.dd.doordash
 com.defi.wallet
 com.deribit
@@ -4507,6 +4521,7 @@ https://apps.apple.com/am/app/maya-your-all-in-one-money-app/id991673877
 https://apps.apple.com/app/bitpanda-buy-bitcoin-crypto/id1449018960
 https://apps.apple.com/app/bitx-wallet/id927362479
 https://apps.apple.com/app/chia-signer/id6504493785 
+https://apps.apple.com/app/id1216446440
 https://apps.apple.com/app/id1503045795
 https://apps.apple.com/app/id1635031432
 https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693
@@ -4516,6 +4531,7 @@ https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
@@ -4613,6 +4629,7 @@ https://apps.apple.com/us/app/indeed-job-search/id309735670
 https://apps.apple.com/us/app/jira-cloud-by-atlassian/id1006972087
 https://apps.apple.com/us/app/jira-server/id1405353949
 https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665	
+https://apps.apple.com/us/app/keeperchat/id1273303729?mt=12
 https://apps.apple.com/us/app/kucoin-buy-bitcoin-crypto/id1378956601?mt=8
 https://apps.apple.com/us/app/lastpass-authenticator/id1079110004
 https://apps.apple.com/us/app/lastpass-password-manager/id324613447
@@ -4897,6 +4914,14 @@ https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j
 https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1767553194#gid=1767553194
 https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1817816238#gid=1817816238
 https://docs.immutable.com/
+https://docs.keeper.io/en/keeperpam
+https://docs.keeper.io/en/keeperpam/commander-cli/overview
+https://docs.keeper.io/en/keeperpam/privileged-access-manager/getting-started/gateways
+https://docs.keeper.io/en/keeperpam/secrets-manager/overview
+https://docs.keeper.io/kcm
+https://docs.keeper.io/keeper-bridge/
+https://docs.keeper.io/sso-connect-cloud/
+https://docs.keeper.io/sso-connect-guide/
 https://docs.mapbox.com/
 https://docs.mapbox.com/android/
 https://docs.mapbox.com/ios/maps/overview/
@@ -5350,6 +5375,10 @@ https://just-eat.com
 https://just-eat.dk
 https://just-eat.es
 https://just-eat.io/
+https://keepersecurity.com
+https://keepersecurity.com/console
+https://keepersecurity.com/password-manager-free-trial.html
+https://keepersecurity.com/vault
 https://kiwi.partner.viator.com
 https://knowledge.newrelic.com/
 https://kucoin.com
@@ -6023,6 +6052,7 @@ https://play.google.com/store/apps/details?id=com.bookbeat.android&hl=en&pli=1
 https://play.google.com/store/apps/details?id=com.booking&hl=en
 https://play.google.com/store/apps/details?id=com.booking.hotelmanager&hl=en
 https://play.google.com/store/apps/details?id=com.bybit.app&hl=en
+https://play.google.com/store/apps/details?id=com.callpod.android_apps.keeper&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.certsy.app
 https://play.google.com/store/apps/details?id=com.classdojo.android
 https://play.google.com/store/apps/details?id=com.coindcx.btc
@@ -6043,6 +6073,7 @@ https://play.google.com/store/apps/details?id=com.indeed.resume
 https://play.google.com/store/apps/details?id=com.irobot.home.prime
 https://play.google.com/store/apps/details?id=com.jbl.oneapp&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US	
+https://play.google.com/store/apps/details?id=com.keepersecurity.chat&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.kubi.kucoin
 https://play.google.com/store/apps/details?id=com.lafourchette.lafourchette
 https://play.google.com/store/apps/details?id=com.lafourchette.tfm3
@@ -6316,7 +6347,6 @@ https://staging.luno.com.ng
 https://staging.luno.com/
 https://start.atlassian.com
 https://static-images.ifood.com.br
-https://static.demarches-simplifiees.fr
 https://static.mgm.mo
 https://static.usaa.com
 https://status.mobile.monash/
@@ -6570,9 +6600,6 @@ https://www.decathlon.(fr|ch|co.uk|it|nl|de|pt|es|be)/
 https://www.decathlon.(hu|pl|ro|cz|com.tr)/
 https://www.definitivetechnology.com
 https://www.demandforced3.com/
-https://www.demarches-simplifiees.fr
-https://www.demarches-simplifiees.fr/api/v2/graphql
-https://www.demarches-simplifiees.fr/graphql
 https://www.denon.com
 https://www.designify.com
 https://www.enjoyselfish.com
@@ -6615,6 +6642,7 @@ https://www.irobot.pt/
 https://www.just-eat.co.uk
 https://www.justeattakeaway.com
 https://www.kaleido.ai
+https://www.keepersecurity.com/download.html
 https://www.kohls.com
 https://www.kohls.com/feature/app.jsp
 https://www.kuleuven.be/sapredir/huisvesting
@@ -6652,6 +6680,7 @@ https://www.mediamarkt.nl
 https://www.mediamarkt.pl
 https://www.mediaworld.it
 https://www.mgmmacau.com
+https://www.microsoft.com/en-us/p/keeperchat/9pdqtcpn4kxn#activetab=pivot:overviewtab
 https://www.minhaconta.zoop.com.br
 https://www.monash.edu
 https://www.monashprofessional.edu.au/
@@ -7229,6 +7258,7 @@ my-accpt.portofantwerpbruges.com
 my.account.sony.com
 my.bpost.be
 my.clearme.com
+my.eurid.eu
 my.exness.com
 my.loanbuilder.com
 my.malwarebytes.com
@@ -7534,6 +7564,7 @@ pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
 pr*.indriverapp.com
 pr-gw-cf.*.aws.indriverapp.com
+practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -7576,6 +7607,8 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profiler.firefox.com
+profiles-api.datacamp.com
+projects.datacamp.com
 projects.nextcloud.com
 prow.k8s.io
 proxy-production.lime.bike
@@ -8237,6 +8270,8 @@ www.crowdstrike.com
 www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
+www.datacamp.com
+www.datacamp.com/datalab
 www.ddfcontent.com
 www.delen.bank
 www.delen.be/en 
