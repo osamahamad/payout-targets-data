@@ -87,18 +87,6 @@ https://www.beta.tchap.gouv.fr
 https://matrix.i.tchap.gouv.fr
 https://matrix.e.tchap.gouv.fr
 Specific scenarios (see program description)
-https://bounty-cloud.dracoon.app/api
-https://bounty-cloud.dracoon.app/oauth
-https://0-2744452194.s3.nbg01.de.dracoon.io
-https://bounty-cloud.dracoon.app/mediaserver
-https://bounty-cloud.dracoon.app/reporting/api
-https://bounty-cloud.dracoon.app/webdav
-https://bounty-cloud.dracoon.app/
-https://bounty-server.dracoon.app/api
-https://bounty-server.dracoon.app/oauth
-https://bounty-server.dracoon.app/reporting/api
-https://bounty-server.dracoon.app/webdav
-https://bounty-server.dracoon.app/
 AS41690
 https://n8n-staging.k8s.dm.gg/
 https://n8n.pub.k8s.dm.gg/
@@ -570,39 +558,6 @@ svn.notebleue.pro
 todo.notebleue.pro
 webtoolbox.notebleue.pro
 cam.notebleue.pro
-app.zivver.com
-owa-v6.zivver.com
-collector.zivver.com
-downloads.zivver.com
-img.zivver.com
-sign.zivver.com
-https://play.google.com/store/apps/details?id=com.zivver.app
-https://apps.apple.com/be/app/zivver/id1179528663
-Zivver Outlook Plugin
-Zivver OWA add-in
-Zivver Chrome Extension
-https://owncloud.org/install/#install-clients
-https://play.google.com/store/apps/details?id=com.owncloud.android
-https://apps.apple.com/app/id1359583808
-https://github.com/owncloud/customgroups
-https://github.com/owncloud/guests
-https://github.com/owncloud/richdocuments
-https://github.com/owncloud/notifications
-https://github.com/owncloud/client
-https://github.com/owncloud/core
-https://github.com/owncloud/gallery
-https://github.com/owncloud/ocis
-https://github.com/owncloud/web
-https://github.com/owncloud/web-extensions
-https://github.com/owncloud/user_ldap
-https://github.com/owncloud/oauth2
-https://github.com/owncloud/openidconnect
-https://github.com/owncloud/activity
-https://github.com/owncloud/impersonate
-https://github.com/owncloud/updater
-https://github.com/owncloud/core/tree/master/apps/files
-https://github.com/owncloud/android
-https://github.com/owncloud/ios-app
 https://toom.de
 https://api.toom.de
 https://www.vidaxl.(at|be|bg|ch|co.uk.com|com.au|com.ua|com|cz|de|dk|ee|es|fi|fr|gr|ie|is|it|hr|hu|lt|lv|no|nl|pl|pt|ro|se|si|sk|uk|ae|ca|jp)
