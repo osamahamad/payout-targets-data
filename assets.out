@@ -562,6 +562,7 @@
 *.kwsdose.be
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
+*.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
 *.latitudefinancial.co.nz
@@ -1604,6 +1605,7 @@
 8x8.my.site.com
 905953485
 91.203.96.0/22
+910898851
 926252661
 930441707
 936983378
@@ -2148,6 +2150,7 @@ Kruidvat BE Android
 Kruidvat BE iOS
 Kruidvat NL Android
 Kruidvat NL iOS
+Lansweeper Discovery
 LaunchDarkly Open Source SDKs
 Leaked Credentials
 Leaked Credentials and Secrets (Canva Employee/Contractor)
@@ -2907,6 +2910,7 @@ api.instacart.com
 api.khealth.com
 api.klarna.com
 api.krisp.ai
+api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
@@ -3008,6 +3012,7 @@ app*.hubspot.com
 app-*.easy4ipcloud.com
 app-insiders.marriott.com
 app.Reclaim.ai
+app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
@@ -3036,6 +3041,8 @@ app.khealth.com
 app.klarna.com
 app.koho.ca
 app.krisp.ai
+app.lansweeper.com
+app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
 app.marionnaud.at
@@ -3051,6 +3058,7 @@ app.moderntreasury.com
 app.mona.co
 app.moonpay.com
 app.netlify.com
+app.nl.socialdeal
 app.nordpass.com
 app.pharmacy.superdrug.com
 app.pullrequest.com
@@ -3139,10 +3147,12 @@ authz.workbox.dk
 autocomplete.booking.com
 autodiscover.uzleuven.be
 autointerface.stag.visma.net
+autoupdateapi.lansweeper.com
 aw.visa.com
 ax-stage.maventa.com
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
+backoffice.lansweeper.com
 backstage.io
 badoo.com
 badoocdn.com
@@ -3932,6 +3942,7 @@ do.co
 doaction.org
 docs.api.enterprise.uphold.com
 docs.gitlab.com
+docs.lansweeper.com
 docs.launchdarkly.com
 docs.nextcloud.com
 docs.optimuscards.com
@@ -3975,6 +3986,7 @@ ecom-data.trekpleister.nl
 ecom-static.kruidvat.be
 ecom-static.kruidvat.nl
 ecrf.uzleuven.be
+edge.lansweeper.com
 edgeapi.slack.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
@@ -4041,6 +4053,7 @@ fareharborsites.com
 fashion4less.me
 faucet-api.polygon.technology/
 faucet.polygon.technology
+fb.lansweeper.com
 fch-cf.*.aws.indriverapp.com
 fe-cf.*.aws.indriverapp.com
 fe-gw-cf.*.aws.indriverapp.com
@@ -4275,6 +4288,7 @@ http://payments.hostinger.com
 http://play.google.com/store/apps/details?id=fr.doctolib.www
 http://poe.com
 http://secure-iphone-xml.booking.com/json/
+http://socialdeal.nl/inspirations/bluemonday/
 http://staking.consensys.io
 http://testnet.bybit.eu
 http://tsock.us1.twilio.com
@@ -4296,6 +4310,7 @@ http://www.myvisacardportal.com/welcome/enbd/product/#
 http://www.rei.com/learn/expert-advice
 http://www.shopmarriott.com
 http://www.underarmour.com.sg
+http://www.whynot.com/
 https//monidentifiant.sncf
 https://(navigate|engage|checkout|internal|cached-api|api).shoppingapp.decathlon.com/*
 https://*-prod.arlo.com
@@ -5381,6 +5396,7 @@ https://login.salt.ch
 https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
+https://lsagentrelay.lansweeper.com/
 https://luna.amazon.com/*
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://m.csqtrk.net
@@ -5486,6 +5502,9 @@ https://marketplace.atlassian.com/apps/1215192/image-paste-for-fisheye-crucible?
 https://marketplace.atlassian.com/apps/1215199/backbone-issue-sync-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1215199/backbone-issue-sync-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1215235/fail-build-trigger-for-bamboo?hosting=server
+https://marketplace.atlassian.com/apps/1215414/pivot-report?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1215414/pivot-report?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/1215414/pivot-report?hosting=server&tab=overview
 https://marketplace.atlassian.com/apps/1215460/automation-for-jira-data-center-and-server?hosting=datacenter
 https://marketplace.atlassian.com/apps/1215460/automation-for-jira-data-center-and-server?hosting=server
 https://marketplace.atlassian.com/apps/1215460/automation-for-jira-server?hosting=cloud
@@ -5513,6 +5532,9 @@ https://marketplace.atlassian.com/apps/1216177/agent-notifications-for-bamboo?ho
 https://marketplace.atlassian.com/apps/1216287/queue-priority-plugin-for-bamboo?hosting=server
 https://marketplace.atlassian.com/apps/1216357/atlassian-team-playbook-blueprints?hosting=server
 https://marketplace.atlassian.com/apps/1216387/approvals-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1216516/worklogs-report?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1216516/worklogs-report?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/1216516/worklogs-report?hosting=server&tab=overview
 https://marketplace.atlassian.com/apps/1216623/confluence-trello-power-up?hosting=cloud
 https://marketplace.atlassian.com/apps/1216625/jira-trello-power-up?hosting=cloud
 https://marketplace.atlassian.com/apps/1216850/jira-cloud-power-up-for-trello?hosting=cloud
@@ -5782,6 +5804,7 @@ https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosti
 https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
 https://marketplace.auth0.com
 https://marketplace.ifood.com.br
+https://marketplace.visualstudio.com/items?itemName=AikidoSecurity.aikido
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
 https://master.servicecentre.digitalservicing-np.lfscnp.com/
 https://matrix.agent.tchap.gouv.fr
@@ -6706,6 +6729,7 @@ https://www.skidxb.com/
 https://www.skroutz.gr
 https://www.sncf-connect.com
 https://www.sncf-connect.com/bff
+https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/
 https://www.sophos.com/
 https://www.sophos.com/en-us/products
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial
@@ -7011,6 +7035,7 @@ login.delen.be
 login.delen.ch 
 login.delen.lu 
 login.insightly.com
+login.lansweeper.com
 login.oyens.com
 login.playcanvas.com
 login.rei.com
@@ -7359,6 +7384,7 @@ odoo14.notebleue.pro
 odul.watsons.com.tr
 og.com
 om.vodafone.mva
+on-premises software
 onboarding-*.cloud.com
 onboarding-api.truelayer.com
 onboarding.cloud.com
@@ -8338,6 +8364,7 @@ www.kruidvat.nl
 www.kruidvatkids.nl
 www.lab-recherche-environnement.org
 www.landmarkcinemas.com
+www.lansweeper.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.libelle.nl
@@ -8428,6 +8455,7 @@ www.sbb.ch
 www.sbbcargo.com
 www.sheer.com
 www.six-group.com
+www.socialdeal.nl
 www.sokos.fi
 www.soundonw.us
 www.starbucks.ca
