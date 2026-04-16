@@ -32,10 +32,12 @@
 *.appmiral.com
 *.cm.com
 *.cmtelecom.com
+*.backend-capital.com
+*.capital.com
+*.itcapital.io
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -90,7 +92,6 @@ Leaked/compromised employee accounts *.here.com
 *.kruidvat.be
 *.trekpleister.nl
 *.prijsmepper.nl
-*.lansweeper.com
 *.libelle.nl
 *.marionnaud.fr
 *.marionnaud.es
