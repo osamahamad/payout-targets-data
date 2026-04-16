@@ -674,7 +674,6 @@
 *.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
-*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -805,7 +804,6 @@
 *.prelert.com
 *.prijsmepper.nl
 *.privateinternetaccess.com
-*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -1209,7 +1207,6 @@
 1023499075
 103.83.120.0/22
 1032480595
-1052238659
 1057338687
 107.167.96.0/19
 1080074001
@@ -3007,6 +3004,7 @@ app*.hubspot.com
 app-*.easy4ipcloud.com
 app-insiders.marriott.com
 app.Reclaim.ai
+app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
@@ -3363,7 +3361,6 @@ co-cf.*.aws.indriverapp.com
 co-gw-cf.*.aws.indriverapp.com
 co-in-gw-cf.*.aws.indriverapp.com
 co.mona.android
-co.uk.getmondo
 coaching.supernovas.indrive.com
 coban.pixiv.net
 coda.grammarly.com
@@ -5015,6 +5012,18 @@ https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
 https://getflywheel.com
+https://github.com/AikidoSec/firewall-node#Detection Bypass
+https://github.com/AikidoSec/firewall-node#False Positive
+https://github.com/AikidoSec/firewall-node#Vulnerability
+https://github.com/AikidoSec/firewall-php#Detection Bypass
+https://github.com/AikidoSec/firewall-php#False Positive
+https://github.com/AikidoSec/firewall-php#Vulnerability
+https://github.com/AikidoSec/firewall-python#Detection Bypass
+https://github.com/AikidoSec/firewall-python#False Positive
+https://github.com/AikidoSec/firewall-python#Vulnerability
+https://github.com/AikidoSec/firewall-ruby#Detection Bypass
+https://github.com/AikidoSec/firewall-ruby#False Positive
+https://github.com/AikidoSec/firewall-ruby#Vulnerability
 https://github.com/Aiven
 https://github.com/Aiven-Open
 https://github.com/Chia-Network/chia-blockchain
@@ -5795,6 +5804,7 @@ https://marketplace.atlassian.com/apps/72307/team-calendars-for-confluence?hosti
 https://marketplace.atlassian.com/apps/772972/release-report-for-fisheye?hosting=server
 https://marketplace.auth0.com
 https://marketplace.ifood.com.br
+https://marketplace.visualstudio.com/items?itemName=AikidoSecurity.aikido
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
 https://master.servicecentre.digitalservicing-np.lfscnp.com/
 https://matrix.agent.tchap.gouv.fr
@@ -7202,7 +7212,6 @@ money.x.com
 moneybird.com
 moneybirdstorage.com
 monitor.mozilla.org
-monzo.com
 moonpay.com
 movie.indrive.com
 movieapi.kinepolis.megatix.be
@@ -8395,7 +8404,6 @@ www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
-www.monzo.com
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
