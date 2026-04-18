@@ -653,7 +653,6 @@
 *.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
-*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -783,7 +782,6 @@
 *.prelert.com
 *.prijsmepper.nl
 *.privateinternetaccess.com
-*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -1064,10 +1062,6 @@
 *.vimla.se
 *.vimla.work
 *.vine.co
-*.vinted.com
-*.vinted.fr
-*.vinted.net
-*.vintedgo.com
 *.visamiddleeast.com
 *.vliegwinkel.nl
 *.voi.com
@@ -1157,8 +1151,6 @@
 *ensemble*.yahoo.com
 *idp*.uzleuven.be
 *omega*.yahoo.com
-*sandbox*.vinted.com
-*sandbox*.vintedgo.com
 *stag*.uzleuven.be
 *test*.bykea.net
 3rd party services hosted at *.sophos.com

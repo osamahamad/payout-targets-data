@@ -668,7 +668,6 @@
 *.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
-*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -798,7 +797,6 @@
 *.prelert.com
 *.prijsmepper.nl
 *.privateinternetaccess.com
-*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -1079,10 +1077,6 @@
 *.vimla.se
 *.vimla.work
 *.vine.co
-*.vinted.com
-*.vinted.fr
-*.vinted.net
-*.vintedgo.com
 *.visamiddleeast.com
 *.vliegwinkel.nl
 *.voi.com
@@ -1169,26 +1163,18 @@
 *.zmifi.com
 *.zomans.com
 *.zomato.com
-*badger.it.vinted.com
-*careers.vinted.com
-*company.vinted.com
 *dev.uzleuven.be
 *developer.cloud.com
 *ensemble*.yahoo.com
 *gateway-apc.marriott.com
 *idp*.uzleuven.be
 *inf.fndlsb.net
-*news.vinted.com
-*old.vinted.com
 *omega*.yahoo.com
 *ripio.com
 *ripiotrade.co
-*sandbox*.vinted.com
-*sandbox*.vintedgo.com
 *signalservice.comcast.net
 *stag*.uzleuven.be
 *test*.bykea.net
-*test-escalations.vintedgo.com
 *tidalhi.fi
 *uat.marriott.com
 *ubereats.com
@@ -1201,7 +1187,6 @@
 1023499075
 103.83.120.0/22
 1032480595
-1052238659
 1057338687
 107.167.96.0/19
 1080074001
@@ -2408,7 +2393,6 @@ Saily - iOS
 Sandboxes
 Savers Android
 Savers iOS
-Scam
 Scanwatch
 Scanwatch 2
 Scanwatch Light
@@ -2591,7 +2575,6 @@ VS Code Plugin
 Vectorize
 Video Conferencing Products
 Video Doorbell
-Vinted: Shop & sell pre-loved
 Virtual Office Desktop
 Voi – e-scooter & e-bike hire
 Voi – e-scooters & e-bikes
@@ -3351,7 +3334,6 @@ co-cf.*.aws.indriverapp.com
 co-gw-cf.*.aws.indriverapp.com
 co-in-gw-cf.*.aws.indriverapp.com
 co.mona.android
-co.uk.getmondo
 coaching.supernovas.indrive.com
 coban.pixiv.net
 coda.grammarly.com
@@ -7204,7 +7186,6 @@ money.x.com
 moneybird.com
 moneybirdstorage.com
 monitor.mozilla.org
-monzo.com
 moonpay.com
 movie.indrive.com
 movieapi.kinepolis.megatix.be
@@ -8397,7 +8378,6 @@ www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
-www.monzo.com
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
