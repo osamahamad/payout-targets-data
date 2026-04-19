@@ -1069,6 +1069,10 @@
 *.vimla.se
 *.vimla.work
 *.vine.co
+*.vinted.com
+*.vinted.fr
+*.vinted.net
+*.vintedgo.com
 *.visamiddleeast.com
 *.vliegwinkel.nl
 *.voi.com
@@ -1155,18 +1159,26 @@
 *.zmifi.com
 *.zomans.com
 *.zomato.com
+*badger.it.vinted.com
+*careers.vinted.com
+*company.vinted.com
 *dev.uzleuven.be
 *developer.cloud.com
 *ensemble*.yahoo.com
 *gateway-apc.marriott.com
 *idp*.uzleuven.be
 *inf.fndlsb.net
+*news.vinted.com
+*old.vinted.com
 *omega*.yahoo.com
 *ripio.com
 *ripiotrade.co
+*sandbox*.vinted.com
+*sandbox*.vintedgo.com
 *signalservice.comcast.net
 *stag*.uzleuven.be
 *test*.bykea.net
+*test-escalations.vintedgo.com
 *tidalhi.fi
 *uat.marriott.com
 *ubereats.com
@@ -1947,7 +1959,6 @@ External service data leakage
 Extremely high properties
 F 21 Pro
 FIles.com REST API
-FPGA Solution Development Tools and Utilities
 Faucets
 Figma Atlassian App
 Figma Desktop App
@@ -2231,7 +2242,6 @@ Nintendo Switch 2 applications for which Nintendo is the publisher worldwide
 Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
 No Bounty
-Non Altera Products
 Non-Core Assets
 Non-Core Grafana Plugins
 NordPass - Linux Executable
@@ -2379,6 +2389,7 @@ Saily - iOS
 Sandboxes
 Savers Android
 Savers iOS
+Scam
 Scanwatch
 Scanwatch 2
 Scanwatch Light
@@ -2561,6 +2572,7 @@ VS Code Plugin
 Vectorize
 Video Conferencing Products
 Video Doorbell
+Vinted: Shop & sell pre-loved
 Virtual Office Desktop
 Voi – e-scooter & e-bike hire
 Voi – e-scooters & e-bikes
