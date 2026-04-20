@@ -113,6 +113,16 @@ https://apps.apple.com/fr/app/doctolib/id925339063
 http://play.google.com/store/apps/details?id=fr.doctolib.www
 https://apps.apple.com/ie/app/doctolib-siilo/id1083002150
 https://play.google.com/store/apps/details?id=com.siilo.android&hl=en
+https://www.dmp.fr
+https://www.dmp.gouv.fr
+api.dmp.gouv.fr
+auth.dmp.gouv.fr
+wps-cps.dmp.gouv.fr
+wps-cps.cv.dmp.gouv.fr
+web-mh.dmp.gouv.fr
+lps.dmp.gouv.fr
+lps2.dmp.gouv.fr
+https://sip2.dmp.gouv.fr
 app.expressmailguard.com
 expressvpn.jobs
 ExpressVPN APIs
@@ -311,6 +321,15 @@ www.editeur.am.monespacesante.fr
 www.editeur.api.monespacesante.fr
 apps.apple.com/fr/app/mon-espace-sant%C3%A9/id1589255019 (iOS)
 play.google.com/store/apps/details?id=fr.assurancemaladie.monespacesante&showAllReviews=true (Android)
+fhir.monespacesante.fr
+am.developer.monespacesante.fr
+api.developer.monespacesante.fr
+fhir.developer.monespacesante.fr
+editeurs.developer.monespacesante.fr
+knowage.developer.monespacesante.fr
+adminstore.developer.monespacesante.fr
+admincms.developer.monespacesante.fr
+wps-cps.dmp.monespacesante.fr
 https://api.moneyboxapp.com/
 https://admin.moneyboxapp.org/
 https://admin-roundups.moneyboxapp.org/
@@ -516,7 +535,6 @@ essentials.vinci.com
 www.chaire-arpenter.fr
 www.habileoh.com
 stats.vinci.com
-https://wgr-industries.com
 https://wbsapi.withings.net
 https://healthmate.withings.com
 https://account.withings.com

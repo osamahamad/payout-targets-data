@@ -3175,7 +3175,9 @@ admin.stage.vismaonline.com
 admin.stg-idfapi.aws3.ezshield.ws
 admin.wickr.com
 admin2.infomaniak.com
+admincms.developer.monespacesante.fr
 admincms.monespacesante.fr
+adminstore.developer.monespacesante.fr
 adminstore.monespacesante.fr
 admintool.lime.bike
 adobe.fresco.ios
@@ -3223,6 +3225,7 @@ alipayhk.com
 all systemd (except out of scope)
 all-inclusive.marriott.com
 alternativa.film
+am.developer.monespacesante.fr
 am.editeur.preprod.monespacesante.fr
 am.monespacesante.fr
 am.preprod.monespacesante.fr
@@ -3290,11 +3293,13 @@ api.dashlane.com
 api.data.gov
 api.deezer.com
 api.deriv.com
+api.developer.monespacesante.fr
 api.dicey.com
 api.digital.delen.be 
 api.digital.delen.lu 
 api.digitalocean.com
 api.direct.playstation.com
+api.dmp.gouv.fr
 api.doppler.com
 api.drogas.lt
 api.drogas.lv
@@ -3603,6 +3608,7 @@ auth-identity.nba.com
 auth.23andme.com
 auth.digital.delen.be 
 auth.digital.delen.lu 
+auth.dmp.gouv.fr
 auth.grammarly.com
 auth.hhc247.org
 auth.magic.link
@@ -4616,6 +4622,7 @@ edgeapi.slack.com
 edgeapis.onecloud.harman.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
+editeurs.developer.monespacesante.fr
 editeurs.monespacesante.fr
 edition.iciparisxl.nl
 editionhotels.com
@@ -4730,6 +4737,8 @@ fever-dev.wnba.com
 fever-qa.wnba.com
 fever.wnba.com
 fhdn.fareharbor.com
+fhir.developer.monespacesante.fr
+fhir.monespacesante.fr
 fhir.redoxengine.com
 fi.mariacasino.com
 fi.reworks.redecor
@@ -7493,6 +7502,7 @@ https://signup.sendgrid.com/
 https://simnext.bullish-test.com
 https://simplisafe.co.uk
 https://simplisafe.com
+https://sip2.dmp.gouv.fr
 https://sitepixel.blis.com
 https://sitepixel.dev.blis.com
 https://skippayments.com
@@ -7878,6 +7888,8 @@ https://www.demarches-simplifiees.fr/graphql
 https://www.denon.com
 https://www.dermstore.com
 https://www.designify.com
+https://www.dmp.fr
+https://www.dmp.gouv.fr
 https://www.drogas.lt/blog
 https://www.drogas.lv/blog/
 https://www.drogas.lv/lv/blog
@@ -8407,6 +8419,7 @@ klarna.com
 klarna.net
 klarnacdn.net
 kmeet.infomaniak.com
+knowage.developer.monespacesante.fr
 knowage.monespacesante.fr
 knowledge.nextcloud.com
 knox.beta.blendlabs.com
@@ -8516,6 +8529,8 @@ lol.onevone
 lookatme.com.ph
 lookup.nextcloud.com
 louvre.veriff.me
+lps.dmp.gouv.fr
+lps2.dmp.gouv.fr
 lrc20.lightspark.com
 luxfilmfestfilms.megatix.be
 luxfilmfestproducts.megatix.be
@@ -9821,6 +9836,7 @@ weather.opera-api.com
 web-edge.clearme.com
 web-message-high.lime.bike
 web-message.lime.bike
+web-mh.dmp.gouv.fr
 web-production.lime.bike
 web.crypto.com
 web.geneva-staging.com
@@ -9886,6 +9902,9 @@ world.hyatt.com
 world.org
 worldcoin.org
 wp5-truststroke.uzleuven.be
+wps-cps.cv.dmp.gouv.fr
+wps-cps.dmp.gouv.fr
+wps-cps.dmp.monespacesante.fr
 wpscan.com
 ws.blockchain.info
 ws.deezer.com
