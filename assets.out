@@ -391,8 +391,6 @@
 *.fuze.com
 *.fuze.site
 *.gaming.gopayapi.com
-*.gamma.be/*
-*.gamma.nl/*
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
@@ -524,9 +522,6 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
-*.intergamma-test.nl
-*.intergamma.cloud
-*.intergamma.nl/*
 *.internal.exoscale.ch
 *.intigriti.me
 *.itcapital.io
@@ -544,8 +539,6 @@
 *.jobstreet.com.sg
 *.jora.com
 *.jora.xyz
-*.karwei.nl/*
-*.karweioutletstore.nl
 *.kayak.com
 *.khealth.com
 *.khealth.io/
@@ -845,7 +838,6 @@
 *.registry.eu
 *.rentalcars.com
 *.reposify.com
-*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -1125,9 +1117,6 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
 *.wf.com
 *.whatnot.com
 *.whois.eu
@@ -1227,6 +1216,8 @@
 1089294040
 1091010942
 10x.redoxengine.com
+1114799709
+1114800186
 1116488672
 1118448159
 1127881507
@@ -1312,7 +1303,6 @@
 1532153219
 1541949985
 1552455423
-1558129454
 1570215232
 1579372261
 1579530451
@@ -1623,9 +1613,6 @@
 94.107.237.192/26
 944011620
 947984433
-949829216
-950680989
-950693949
 955837609
 960335206
 97.105.243.96/28
@@ -2977,6 +2964,7 @@ api.slack.com
 api.smtp2go.com
 api.sokos.fi
 api.sorare.com
+api.soundtrackyourbrand.com
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -3182,7 +3170,6 @@ bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
 be.delen.digital
-be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -3195,6 +3182,7 @@ bettrfinancing.com
 bid.*.aws.indriverapp.com
 bigcommerce-adapter.judge.me
 bild.de
+billing.api.soundtrackyourbrand.com
 billingsupport.chaturbate.com
 bilt.marriott.com
 biolibre.ar
@@ -3250,6 +3238,7 @@ bugcrowd-pam-###.pam.oktapreview.com
 bugzilla.mozilla.org
 builder.hostinger.com
 building-blocks.com
+builds.soundtrackyourbrand.com
 bulten.watsons.com.tr
 business-resources.truecaller.com
 business.kayak.com
@@ -3259,6 +3248,7 @@ business.kinepolis.nl
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
+business.soundtrackyourbrand.com
 business.tiktok.com
 business.truecaller.com
 businesshelp.snapchat.com
@@ -3677,6 +3667,7 @@ com.skypicker.Skypicker
 com.skypicker.main
 com.slack.slackmdm
 com.snapchat.android
+com.soundtrackyourbrand.soundtrack.player
 com.spotify.client
 com.spotify.kids
 com.spotify.music
@@ -4121,8 +4112,6 @@ g2-gw-cf.*.aws.indriverapp.com
 gamenotes.nba.com
 gaming.logicool.co.jp
 gamma.grab.co
-gammacademy.be
-gammalokaal.nl
 gasstation.polygon.technology/
 gatekeeper.prd.iat.it.xvservice.net
 gateway*.marriott.com
@@ -4690,6 +4679,7 @@ https://audio.20min.ch/
 https://aus.api.just-eat.io/
 https://auth-adx.op-mobile.opera.com
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
+https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.immutable.com
@@ -4754,6 +4744,7 @@ https://bugcrowd.charm.felixforus.ca/home
 https://bugcrowd.com/programs
 https://bugcrowd.lucky.felixforus.ca
 https://bugs.opera.com/
+https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
@@ -6227,6 +6218,7 @@ https://push-real-hk-lightstreamer.cloud.etoro.com
 https://pyszne.pl
 https://quantum-events.onecloud.harman.com
 https://r.etoro.com
+https://radio.api.soundtrackyourbrand.com/
 https://rankings.etoro.com
 https://ray.dailymotion.com/
 https://rc.fstr.rocks
@@ -6758,6 +6750,7 @@ https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
 https://www.sophos.com/en-us/products/mobile-control/free-trial
 https://www.sophos.com/en-us/products/next-gen-firewall
+https://www.soundtrackyourbrand.com
 https://www.sourcetreeapp.com/
 https://www.staging.jobstreet.co.id
 https://www.staging.jobstreet.com.my
@@ -6956,7 +6949,6 @@ ir.remitly.com
 ir.ui.com
 irclogs.wordpress.org
 iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
-irmg.nl
 isa-cf.*.aws.indriverapp.com
 ispdesign.ui.com
 issuer.idpay-uat.unico.io
@@ -6990,10 +6982,6 @@ k8s.gcr.io
 k8s.io
 kaccount.khealth.com
 kartaview.org
-karwei-promotiepunt.nl
-kassa.gamma.be/*
-kassa.gamma.nl/*
-kassa.karwei.nl/*
 katalog.watsons.com.tr
 kayak.ai
 kidswebservices.com
@@ -7097,6 +7085,7 @@ m.chaturbate.com
 m.reddit.com
 m.trendyol.com
 mUSD Stablecoin
+macOS app
 magazine.kruidvat.be
 magento.com
 magiceden.io
@@ -7222,9 +7211,6 @@ mgmt-sensors.iris.production.forescoutcloud.net
 mgmtpod-1-dashboard.production.forescoutcloud.net
 mgmtpod-1.production.forescoutcloud.net
 mgs.marriott.com
-mijn.gamma.be/*
-mijn.gamma.nl/*
-mijn.karwei.nl/*
 mijnacc.uzleuven.be
 minerva.robinhood.com
 mipartnerprivileges.marriott.com
@@ -7393,9 +7379,6 @@ nha-gw-cf.*.aws.indriverapp.com
 niantic.kidswebservices.com
 ninja.kiwi
 ninjakiwi.com
-nl.gamma.app.android
-nl.gamma.verf
-nl.karwei.app.android
 nmtracking.netflix.com
 no-cf.*.aws.indriverapp.com
 no-gw-cf.*.aws.indriverapp.com
@@ -8356,8 +8339,6 @@ www.fortress.com.hk
 www.fraedom.com
 www.funjet.com
 www.fuzemeeting.com
-www.gamma.be/*
-www.gamma.nl/*
 www.geneva-staging.chat
 www.geneva-staging.com
 www.getaroom.com
@@ -8388,7 +8369,6 @@ www.iciparisxl.nl
 www.instacart.com
 www.intigriti.com
 www.jaybirdsport.com
-www.karwei.nl/*
 www.kayak.com
 www.kinepolis.be 
 www.kinepolis.biz
