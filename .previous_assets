@@ -1940,6 +1940,7 @@ Any host/web property verified to be owned by Twilio et al.
 Any host/web property/mobile app verified to be owned by Indeed
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 Any other Epic games owned asset not listed in the out of scope section
+Any other Malwarebytes and ThreatDown asset
 Any other Malwarebytes asset
 Any other domain reasonably attributable to Silicon Labs
 Any public (Internet-facing) infrastructure owned and operated by Palantir.
@@ -3897,6 +3898,7 @@ cloud.elastic.co
 cloud.forescout.com
 cloud.gov
 cloud.malwarebytes.com
+cloud.threatdown.com
 cloud8.8x8.com
 cloudflareworkers.com
 cm.com/[locale]/app/*
