@@ -72,6 +72,9 @@
 *.aleenote.cn
 *.aleenote.com
 *.alipayplus.com
+*.allegro.cz.allegrosandbox.pl
+*.allegro.pl.allegrosandbox.pl
+*.allegro.sk.allegrosandbox.pl
 *.amazon.ae
 *.amazon.ca
 *.amazon.cl
@@ -4330,11 +4333,11 @@ https://acorns.com/
 https://addons.mozilla.org/en-US/firefox/addon/pinterest/
 https://adhoc-bugcrowd-studio.cdn-code.org
 https://adhoc-bugcrowd.cdn-code.org
-https://admin-roundups.moneyboxapp.org/
+https://admin-roundups.moneyboxapp.org
 https://admin.atlassian.com/
 https://admin.atlassian.com/atlassian-guard
 https://admin.lastpass.com
-https://admin.moneyboxapp.org/
+https://admin.moneyboxapp.org
 https://admin.ring.com/*
 https://admin3.pentest.clicsante.ca/
 https://admintool.lime.bike
@@ -4400,7 +4403,7 @@ https://api.intercom.com
 https://api.justeat-int.com
 https://api.jwks.kape.com
 https://api.mafshoppingmalls.com/
-https://api.moneyboxapp.com/
+https://api.moneyboxapp.com
 https://api.myntra.com
 https://api.neogov.com
 https://api.netgear.com
@@ -6364,7 +6367,7 @@ https://support.moovitapp.com/hc/en-us/articles/11389054527122-WayFinder-Augment
 https://support.newrelic.com/
 https://support.okta.com
 https://supportportal.thalesgroup.com
-https://sycamore.moneyboxapp.org/
+https://sycamore.moneyboxapp.org
 https://t-mobile.com
 https://takeaway.com
 https://takeaway.pay-creditcard.takeaway.com/
