@@ -1810,7 +1810,6 @@ larksuite.us
 open.larksuite.com
 passport.larksuite.com
 status.larksuite.com
-https://github.com/curl/curl
 All other Assets
 Core Assets
 Dynatrace ActiveGate
@@ -2856,10 +2855,6 @@ http1mustdie.com
 links.portswigger.net
 portswigger.net
 share.portswigger.net
-Malicious or compromised gem
-https://github.com/rubygems/rubygems
-rubygems.org
-shipit.rubygems.org
 FIles.com REST API
 Files.com Command Line Interface (CLI) App
 Files.com Desktop v4 App (previously known as Desktop App) 
@@ -2926,100 +2921,6 @@ lists.wordpress.org
 mercantile.wordpress.org
 planet.wordpress.org
 wordpressfoundation.org
-Desktop Client
-apps.nextcloud.com
-auth.nextcloud.com
-com.nextcloud.Talk
-com.nextcloud.client
-com.nextcloud.talk2
-com.peterandlinda.iOCNotes
-crm.nextcloud.com
-customerupdates.nextcloud.com
-docs.nextcloud.com
-download.nextcloud.com
-help.nextcloud.com
-https://github.com/nextcloud/collectives
-https://github.com/nextcloud/files_confidential
-https://github.com/nextcloud/tables
-https://github.com/roundcube/roundcubemail
-it.niedermann.owncloud.notes
-it.twsweb.Nextcloud
-knowledge.nextcloud.com
-lists.nextcloud.com
-logs.nextcloud.com
-lookup.nextcloud.com
-newsletter.nextcloud.com
-nextcloud.com
-nextcloud/3rdparty
-nextcloud/activity
-nextcloud/approval
-nextcloud/bruteforcesettings
-nextcloud/calendar
-nextcloud/calendar_resource_management
-nextcloud/circles
-nextcloud/contacts
-nextcloud/data_request
-nextcloud/deck
-nextcloud/end_to_end_encryption
-nextcloud/external
-nextcloud/files_accesscontrol
-nextcloud/files_antivirus
-nextcloud/files_automatedtagging
-nextcloud/files_fulltextsearch
-nextcloud/files_fulltextsearch_tesseract
-nextcloud/files_lock
-nextcloud/files_pdfviewer
-nextcloud/files_retention
-nextcloud/files_rightclick
-nextcloud/files_texteditor
-nextcloud/firstrunwizard
-nextcloud/flow_notifications
-nextcloud/fulltextsearch
-nextcloud/fulltextsearch_elasticsearch
-nextcloud/globalsiteselector
-nextcloud/groupfolders
-nextcloud/guests
-nextcloud/logreader
-nextcloud/mail
-nextcloud/nextcloud_announcements
-nextcloud/notes
-nextcloud/notifications
-nextcloud/notify_push
-nextcloud/password_policy
-nextcloud/photos
-nextcloud/preferred_providers
-nextcloud/privacy
-nextcloud/recommendations
-nextcloud/related_resources
-nextcloud/richdocuments
-nextcloud/server
-nextcloud/serverinfo
-nextcloud/sharepoint
-nextcloud/socialsharing
-nextcloud/spreed
-nextcloud/survey_client
-nextcloud/suspicious_login
-nextcloud/terms_of_service
-nextcloud/text
-nextcloud/twofactor_totp
-nextcloud/twofactor_webauthn
-nextcloud/updater
-nextcloud/user_migration
-nextcloud/user_oidc
-nextcloud/user_saml
-nextcloud/viewer
-nextcloud/workflow_script
-portal.nextcloud.com
-projects.nextcloud.com
-push-notifications.nextcloud.com
-pushfeed.nextcloud.com
-scan.nextcloud.com
-static.apps.nextcloud.com
-stats.nextcloud.com
-support.nextcloud.com
-surveyserver.nextcloud.com
-updates.nextcloud.com
-usercontent.apps.nextcloud.com
 Other assets
 Subdomain Takeover (SDTO)
 app.starbucks.com
