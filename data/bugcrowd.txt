@@ -1299,6 +1299,17 @@ https://business-staging.getmoneytree.com/
 https://jp-api-staging.getmoneytree.com
 https://play.google.com/store/apps/details?id=jp.moneytree.moneytree&hl=en_AU&gl=US
 https://apps.apple.com/vc/app/moneytree-finance-made-easy/id586847189
+https://wwws-staging.moneytree.jp/link/
+https://vault-staging.getmoneytree.com
+https://redash-staging.getmoneytree.com/
+https://app-staging.getmoneytree.com
+https://wwws-staging.moneytree.jp/link/mobile/
+https://wwws-staging.moneytree.jp/link/mobile/#/signup?client_id=38d99a6e8e9fc87c866f5aa82bdc2569c464b2323a55e0b28f658efa678e9623&redirect_uri=https://wwws-staging.moneytree.jp/link/mobile/callback&response_type=token&scope=guest_read+accounts_read+transactions_read+request_refresh
+https://myaccount-staging.getmoneytree.com
+https://business-staging.getmoneytree.com/
+https://jp-api-staging.getmoneytree.com
+https://play.google.com/store/apps/details?id=jp.moneytree.moneytree&hl=en_AU&gl=US
+https://apps.apple.com/vc/app/moneytree-finance-made-easy/id586847189
 All In Scope Targets
 https://play.google.com/store/apps/details?id=com.tranzmate&hl=en_US
 https://apps.apple.com/us/app/moovit-all-transit-options/id498477945
@@ -1720,7 +1731,6 @@ https://mg.n0c.com/
 https://www.planethoster.com
 https://marketplace.atlassian.com/apps/4832/enterprise-mail-handler-for-jira-jemh?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/4832/enterprise-mail-handler-for-jira-jemh?hosting=datacenter&tab=overview
-Additional Loyalty scope included under resources tab
 ████████████████████████████████████████████████████
 ██████████████████████████████████████████
 █████████████████████████████████████████████
