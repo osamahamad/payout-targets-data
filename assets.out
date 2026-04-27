@@ -147,6 +147,7 @@
 *.ayco.com
 *.backblazeb2.com
 *.backend-capital.com
+*.bancoplata.mx
 *.baoliyun.com
 *.base.org
 *.berush.com
@@ -262,6 +263,7 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
+*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
@@ -2995,6 +2997,9 @@ app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -3086,6 +3091,9 @@ as2-accpt.portofantwerpbruges.com
 as2.portofantwerp.com
 as2.portofantwerpbruges.com
 ask.khealth.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com 
+assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.spotify.com
@@ -3261,6 +3269,7 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
+campus.datacamp.com
 cancellation.prod.ps.welt.de
 capital.com/*
 capturingreality.com
@@ -3460,6 +3469,7 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
+com.datacamp
 com.dd.doordash
 com.defi.wallet
 com.deribit
@@ -4086,7 +4096,6 @@ gateway.superhuman.com
 gc.watsons.com.tr
 geneva-staging.chat
 geofilters.snapchat.com
-getworldcoin.com
 gh-mail.expressvpn.com
 gift.starbucks.co.jp
 giftcards.marriott.com
@@ -4474,6 +4483,7 @@ https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
@@ -5210,6 +5220,13 @@ https://github.com/vercel/turborepo
 https://github.com/vercel/vercel
 https://github.com/vercel/workflow
 https://github.com/worldcoin
+https://github.com/worldcoin/orb-core
+https://github.com/worldcoin/orb-firmware
+https://github.com/worldcoin/orb-messages
+https://github.com/worldcoin/orb-relay-messages
+https://github.com/worldcoin/orb-rustzone
+https://github.com/worldcoin/orb-secure-element
+https://github.com/worldcoin/orb-software
 https://gitlab.com/gitlab-org/gitaly
 https://gitlab.com/gitlab-org/gitlab
 https://gitlab.com/gitlab-org/gitlab-pages
@@ -7417,6 +7434,7 @@ pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
 pr*.indriverapp.com
 pr-gw-cf.*.aws.indriverapp.com
+practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -7459,6 +7477,8 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profiler.firefox.com
+profiles-api.datacamp.com
+projects.datacamp.com
 prow.k8s.io
 proxy-production.lime.bike
 ps5.np.playstation.net
@@ -8093,6 +8113,8 @@ www.crowdstrike.com
 www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
+www.datacamp.com
+www.datacamp.com/datalab
 www.ddfcontent.com
 www.delen.bank
 www.delen.be/en 

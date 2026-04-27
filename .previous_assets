@@ -166,6 +166,7 @@
 *.ayco.com
 *.backblazeb2.com
 *.backend-capital.com
+*.bancoplata.mx
 *.baoliyun.com
 *.base.org
 *.berush.com
@@ -6338,6 +6339,13 @@ https://github.com/vercel/turborepo
 https://github.com/vercel/vercel
 https://github.com/vercel/workflow
 https://github.com/worldcoin
+https://github.com/worldcoin/orb-core
+https://github.com/worldcoin/orb-firmware
+https://github.com/worldcoin/orb-messages
+https://github.com/worldcoin/orb-relay-messages
+https://github.com/worldcoin/orb-rustzone
+https://github.com/worldcoin/orb-secure-element
+https://github.com/worldcoin/orb-software
 https://gitlab.com/gitlab-org/gitaly
 https://gitlab.com/gitlab-org/gitlab
 https://gitlab.com/gitlab-org/gitlab-pages
