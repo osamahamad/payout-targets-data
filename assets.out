@@ -263,7 +263,6 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
-*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
@@ -2997,9 +2996,6 @@ app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
-app.datacamp.com/certification
-app.datacamp.com/groups
-app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -3091,9 +3087,6 @@ as2-accpt.portofantwerpbruges.com
 as2.portofantwerp.com
 as2.portofantwerpbruges.com
 ask.khealth.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com 
-assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.spotify.com
@@ -3269,7 +3262,6 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
-campus.datacamp.com
 cancellation.prod.ps.welt.de
 capital.com/*
 capturingreality.com
@@ -3469,7 +3461,6 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
-com.datacamp
 com.dd.doordash
 com.defi.wallet
 com.deribit
@@ -4427,7 +4418,6 @@ https://apigw.prod.quintoandar.com.br/rental-guarantee-api/*
 https://apigw.prod.quintoandar.com.br/sales-flow-api/*
 https://apis.indeed.com/graphql
 https://apis.onecloud.harman.com
-https://app-staging.getmoneytree.com
 https://app.agency360.com
 https://app.asana.com
 https://app.aurory.io
@@ -4482,7 +4472,6 @@ https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
-https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
@@ -4623,7 +4612,6 @@ https://apps.apple.com/us/app/wise-ex-transferwise/id612261027
 https://apps.apple.com/us/app/xfinity/id1178765645
 https://apps.apple.com/us/developer/10bis-co-il-ltd/id434368194
 https://apps.apple.com/us/developer/skipthedishes/id969229980
-https://apps.apple.com/vc/app/moneytree-finance-made-easy/id586847189
 https://apps.facebook.com/pearls-peril
 https://apps.facebook.com/pokerheat
 https://apps.facebook.com/vegas_downtown_slots
@@ -4714,7 +4702,6 @@ https://bugcrowd.com/programs
 https://bugcrowd.lucky.felixforus.ca
 https://bugs.opera.com/
 https://bullish.com/
-https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
 https://business.dailymotion.com/
 https://business.rivian.com/api
@@ -5313,7 +5300,6 @@ https://jet-external.com
 https://job-svc-b.vistarmedia.com
 https://jobs.mgm.mo
 https://jointhemoment.net/
-https://jp-api-staging.getmoneytree.com
 https://judge.me/reviews
 https://just-data.io
 https://just-eat.ch
@@ -5837,7 +5823,6 @@ https://my.thesecurityteam.rocks
 https://my.ultramobile.com
 https://my.wpengine.com
 https://my.wyze.com
-https://myaccount-staging.getmoneytree.com
 https://myapi.arlo.com
 https://myapp.monash.edu/
 https://mydesktop.usaa.com
@@ -6101,7 +6086,6 @@ https://play.google.com/store/apps/details?id=io.aurory.seekersoftokane&hl=en_CA
 https://play.google.com/store/apps/details?id=io.gonative.android.xjndrq&hl=fr
 https://play.google.com/store/apps/details?id=io.opensea&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=it.mediamarket.mediaworld
-https://play.google.com/store/apps/details?id=jp.moneytree.moneytree&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=mo.mgm.app
 https://play.google.com/store/apps/details?id=nl.com.media.markt
 https://play.google.com/store/apps/details?id=piuk.blockchain.android
@@ -6184,7 +6168,6 @@ https://rankings.etoro.com
 https://ray.dailymotion.com/
 https://rc.fstr.rocks
 https://rc.wmaudience.com
-https://redash-staging.getmoneytree.com/
 https://regatta.aiven.io/
 https://rentals.tripadvisor.com
 https://repair.voiweb.net
@@ -6421,7 +6404,6 @@ https://us.identity.konghq.com/*
 https://usdstandard.com/
 https://utv.usaa.com
 https://v.utv.usaa.com
-https://vault-staging.getmoneytree.com
 https://vault.chiatest.net/
 https://vc.tasheer.com/
 https://velocitize.com
@@ -6789,9 +6771,6 @@ https://www.ynab.com/
 https://www.zabbix.com/download_sources
 https://www.zoop.com.br
 https://www.zoop.ws
-https://wwws-staging.moneytree.jp/link/
-https://wwws-staging.moneytree.jp/link/mobile/
-https://wwws-staging.moneytree.jp/link/mobile/#/signup?client_id=38d99a6e8e9fc87c866f5aa82bdc2569c464b2323a55e0b28f658efa678e9623&redirect_uri=https://wwws-staging.moneytree.jp/link/mobile/callback&response_type=token&scope=guest_read+accounts_read+transactions_read+request_refresh
 https://xv-cp.apis-staging.xvtest.net/
 https://xyzbmojn.net/
 https://yeswehack.com
@@ -7433,7 +7412,6 @@ pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
 pr*.indriverapp.com
 pr-gw-cf.*.aws.indriverapp.com
-practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -7476,8 +7454,6 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profiler.firefox.com
-profiles-api.datacamp.com
-projects.datacamp.com
 prow.k8s.io
 proxy-production.lime.bike
 ps5.np.playstation.net
@@ -8112,8 +8088,6 @@ www.crowdstrike.com
 www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
-www.datacamp.com
-www.datacamp.com/datalab
 www.ddfcontent.com
 www.delen.bank
 www.delen.be/en 
