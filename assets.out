@@ -463,6 +463,7 @@
 *.hackerone-ext-content.com
 *.hackerone-user-content.com/
 *.happening.dev
+*.harman.com
 *.harmanaudio.com
 *.harmankardon.com
 *.harmonixmusic.com
@@ -781,7 +782,6 @@
 *.pns.hk
 *.points.com
 *.polymoon.it
-*.porchlightgroup.com
 *.portofantwerp.com
 *.portofantwerpbruges.com
 *.pourvous.nl
@@ -800,6 +800,7 @@
 *.preempt.com
 *.preemptsecurity.com
 *.prelert.com
+*.preview.8x8.vc
 *.prijsmepper.nl
 *.privateinternetaccess.com
 *.prod-ffs.io
@@ -2129,9 +2130,6 @@ Leaked Credentials and Secrets (Canva User)
 Leaked/compromised employee accounts *.here.com
 Leaked/Сompromised Employee accounts
 Lens Studio
-Liferay DXP 2024.Q1
-Liferay DXP 2025.Q1
-Liferay DXP 2026.Q1
 Lightroom "Edit suggestions" Tech Preview
 Lightroom AI Edits
 Lightroom Classic
@@ -2713,6 +2711,7 @@ adayevrak.watsons.com.tr
 adb.nba.com
 addons.allizom.org
 adm.cloud.com
+admin-portal.api-xperience.com
 admin.8x8.com
 admin.booking.com
 admin.instacart.com
@@ -3080,6 +3079,7 @@ as2-accpt.portofantwerpbruges.com
 as2.portofantwerp.com
 as2.portofantwerpbruges.com
 ask.khealth.com
+askpeopleteam.visa.com
 assessment-api.datacamp.com
 assessment-v2.datacamp.com 
 assessment.datacamp.com
@@ -3351,6 +3351,7 @@ codacontent.io
 codahosted.io
 code.playcanvas.com
 code.yoti.com
+codeofconduct.visa.com
 codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
 coinbase.com
 coinmarketcap.com
@@ -3886,6 +3887,7 @@ developer.valvesoftware.com
 developer.visa.com
 developer.worldcoin.org
 developers.cloudways.com
+developers.pismo.io
 developers.reddit.com
 developers.tiktok.com
 device.marriott.com
@@ -3933,6 +3935,7 @@ dream-qa.wnba.com
 dream.wnba.com
 drive.wolt.com
 dropbox.com/paper
+dwy.visa.com
 dx-demo.deriv.com
 dx.deriv.com
 e-Commerce
@@ -6281,6 +6284,7 @@ https://snc.underarmour.com/
 https://sncf-connect.com
 https://snctest-c.underarmour.com/
 https://snctest-s.underarmour.com/
+https://solutions.visaacceptance.com/subscription
 https://song.link
 https://songlink.io
 https://sora.chatgpt.com
@@ -7248,6 +7252,7 @@ myservices.stage.vismaonline.com
 mystics-dev.wnba.com
 mystics-qa.wnba.com
 mystics.wnba.com
+myvu.visauniversity.com
 nadex.com
 nbafedsvc-dev.nba.com
 nbafedsvc-qa.nba.com
@@ -7617,6 +7622,7 @@ sandbox.authorize.net
 sandbox.braintreegateway.com
 sandbox.secure.checkout.visa.com
 sandbox.securegateway.com
+sap.api-xperience.com
 sc-cf.*.aws.indriverapp.com
 scan.clearme.com
 scan.snapchat.com
@@ -7868,6 +7874,7 @@ test.deribit.com
 test.payworks.io
 testapi.redoxengine.com
 testapp.redoxengine.com
+testbank.xs2a.com
 testing.maventa.com
 testnet.bitmex.com
 testnet.immutable.com
@@ -7939,6 +7946,7 @@ valkyries-dev.wnba.com
 valkyries-qa.wnba.com
 valkyries.wnba.com
 vap.8x8.com
+vasdemos.visa.com
 vault2.faraday.ai
 vcc-*.8x8.com
 vcc-ce.8x8.com
@@ -7971,6 +7979,9 @@ visa.com.bo
 visa.com.jm
 visa.com.ru
 visa.com.ua
+visainnovationprogram.com
+visaonchainanalytics.com
+visasgic.api-xperience.com
 vm-gw-cf.*.aws.indriverapp.com
 voapi.8x8.com
 voi.com
