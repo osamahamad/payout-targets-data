@@ -3457,6 +3457,7 @@ com.coloros.assistantscreen
 com.coloros.browser
 com.coloros.findmyphone
 com.coloros.pictorial
+com.coloros.video
 com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
@@ -3489,6 +3490,7 @@ com.fintech.life
 com.foxnextgames.m3
 com.frame.FrameIO
 com.frontapp.mobile
+com.fullmetalgamedev.fruitshooting
 com.genevachat.staging
 com.goodrx
 com.goodrx.iphone
@@ -3548,6 +3550,9 @@ com.instacart.client
 com.iphone.workfront
 com.jellybtn.boardkings
 com.jellybtn.cashkingmobile
+com.katanlabs.bubblepop
+com.katanlabs.matchballgame
+com.katanlabs.worm.ioeatemall
 com.kayak.android
 com.kayak.travel
 com.kitkagames.fallbuddies
@@ -3596,6 +3601,7 @@ com.oceanwing.care.cam
 com.oplus.accesscard
 com.oplus.account
 com.oplus.aimemory
+com.oplus.games
 com.oplus.melody
 com.oplus.play
 com.oplus.studycenter
@@ -4418,6 +4424,7 @@ https://apigw.prod.quintoandar.com.br/rental-guarantee-api/*
 https://apigw.prod.quintoandar.com.br/sales-flow-api/*
 https://apis.indeed.com/graphql
 https://apis.onecloud.harman.com
+https://app-staging.getmoneytree.com
 https://app.agency360.com
 https://app.asana.com
 https://app.aurory.io
@@ -4612,6 +4619,7 @@ https://apps.apple.com/us/app/wise-ex-transferwise/id612261027
 https://apps.apple.com/us/app/xfinity/id1178765645
 https://apps.apple.com/us/developer/10bis-co-il-ltd/id434368194
 https://apps.apple.com/us/developer/skipthedishes/id969229980
+https://apps.apple.com/vc/app/moneytree-finance-made-easy/id586847189
 https://apps.facebook.com/pearls-peril
 https://apps.facebook.com/pokerheat
 https://apps.facebook.com/vegas_downtown_slots
@@ -4702,6 +4710,7 @@ https://bugcrowd.com/programs
 https://bugcrowd.lucky.felixforus.ca
 https://bugs.opera.com/
 https://bullish.com/
+https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
 https://business.dailymotion.com/
 https://business.rivian.com/api
@@ -5300,6 +5309,7 @@ https://jet-external.com
 https://job-svc-b.vistarmedia.com
 https://jobs.mgm.mo
 https://jointhemoment.net/
+https://jp-api-staging.getmoneytree.com
 https://judge.me/reviews
 https://just-data.io
 https://just-eat.ch
@@ -5823,6 +5833,7 @@ https://my.thesecurityteam.rocks
 https://my.ultramobile.com
 https://my.wpengine.com
 https://my.wyze.com
+https://myaccount-staging.getmoneytree.com
 https://myapi.arlo.com
 https://myapp.monash.edu/
 https://mydesktop.usaa.com
@@ -6086,6 +6097,7 @@ https://play.google.com/store/apps/details?id=io.aurory.seekersoftokane&hl=en_CA
 https://play.google.com/store/apps/details?id=io.gonative.android.xjndrq&hl=fr
 https://play.google.com/store/apps/details?id=io.opensea&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=it.mediamarket.mediaworld
+https://play.google.com/store/apps/details?id=jp.moneytree.moneytree&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=mo.mgm.app
 https://play.google.com/store/apps/details?id=nl.com.media.markt
 https://play.google.com/store/apps/details?id=piuk.blockchain.android
@@ -6168,6 +6180,7 @@ https://rankings.etoro.com
 https://ray.dailymotion.com/
 https://rc.fstr.rocks
 https://rc.wmaudience.com
+https://redash-staging.getmoneytree.com/
 https://regatta.aiven.io/
 https://rentals.tripadvisor.com
 https://repair.voiweb.net
@@ -6404,6 +6417,7 @@ https://us.identity.konghq.com/*
 https://usdstandard.com/
 https://utv.usaa.com
 https://v.utv.usaa.com
+https://vault-staging.getmoneytree.com
 https://vault.chiatest.net/
 https://vc.tasheer.com/
 https://velocitize.com
@@ -6771,6 +6785,9 @@ https://www.ynab.com/
 https://www.zabbix.com/download_sources
 https://www.zoop.com.br
 https://www.zoop.ws
+https://wwws-staging.moneytree.jp/link/
+https://wwws-staging.moneytree.jp/link/mobile/
+https://wwws-staging.moneytree.jp/link/mobile/#/signup?client_id=38d99a6e8e9fc87c866f5aa82bdc2569c464b2323a55e0b28f658efa678e9623&redirect_uri=https://wwws-staging.moneytree.jp/link/mobile/callback&response_type=token&scope=guest_read+accounts_read+transactions_read+request_refresh
 https://xv-cp.apis-staging.xvtest.net/
 https://xyzbmojn.net/
 https://yeswehack.com
