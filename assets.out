@@ -263,7 +263,6 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
-*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
@@ -806,6 +805,7 @@
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
 *.prod.ftl.netflix.com
+*.prod.innovexperiments.com
 *.projectbaseline.com/
 *.prowly.com
 *.psynet.gg
@@ -2910,6 +2910,7 @@ api.prd.commerce.simplisafe.com
 api.preprod.monespacesante.fr
 api.privateinternetaccess.com
 api.privy.io
+api.prod.innovexperiments.com
 api.prod.whoop.com
 api.profiler.firefox.com
 api.qwant.com
@@ -2979,12 +2980,10 @@ app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
-app.datacamp.com/certification
-app.datacamp.com/groups
-app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
+app.demand.cybersource.com
 app.deriv.com
 app.drogas.lt
 app.drogas.lv
@@ -3073,9 +3072,6 @@ as2-accpt.portofantwerpbruges.com
 as2.portofantwerp.com
 as2.portofantwerpbruges.com
 ask.khealth.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com 
-assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.spotify.com
@@ -3251,8 +3247,8 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
-campus.datacamp.com
 cancellation.prod.ps.welt.de
+capability.prod.innovexperiments.com
 capital.com/*
 capturingreality.com
 cardpayments.remitly.io
@@ -3451,7 +3447,6 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
-com.datacamp
 com.dd.doordash
 com.defi.wallet
 com.deribit
@@ -3807,6 +3802,7 @@ cweb-ott-uc.nba.com
 cweb-ott.nba.com
 cyberghost.app
 cyberghost.com
+cybersourcebouncebacks.visa.com
 cz.skodaauto.myskoda
 dailymotionadvertising.com
 dash.ai
@@ -3947,6 +3943,7 @@ ecom-data.trekpleister.nl
 ecom-static.kruidvat.be
 ecom-static.kruidvat.nl
 ecrf.uzleuven.be
+edge.bookbeat.com
 edge.lansweeper.com
 edgeapi.slack.com
 editeur.am.monespacesante.fr
@@ -3996,6 +3993,7 @@ exchange.opera.com
 exness.com
 exnessaffiliates.com
 exodus-movement.exodus
+experience.prod.innovexperiments.com
 experiences.booking.com
 explore.redoxengine.com
 expressvpn.jobs
@@ -4053,6 +4051,7 @@ folder.kruidvat.nl
 folder.trekpleister.nl
 folders.iciparisxl.nl
 fonts.adobe.com
+forms.cybersource.com
 forms.mobilevikings.be
 fortnite.com
 forum.playcanvas.com
@@ -4074,6 +4073,7 @@ g2-gw-cf.*.aws.indriverapp.com
 gamenotes.nba.com
 gaming.logicool.co.jp
 gamma.grab.co
+garp.visa.com
 gasstation.polygon.technology/
 gatekeeper.prd.iat.it.xvservice.net
 gateway*.marriott.com
@@ -4472,7 +4472,6 @@ https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
-https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
@@ -6858,6 +6857,7 @@ idpay-uat.unico.io
 ifast.marriott.com
 iframe.arkoselabs.com
 ik.watsons.com.tr
+images.demand.cybersource.com
 img.swapcard.com
 imove.bpost.cloud
 imx.community
@@ -6870,6 +6870,8 @@ inc-gw-cf.*.aws.indriverapp.com
 indicative-pricing.taxi.booking.com
 indrive.com
 infinite.visa.fr
+info.authorize.net
+info.cybersource.com
 ingest.clairvoyance.indrive.tech
 innersloth.kidswebservices.com
 innovation.superdrug.com
@@ -7132,6 +7134,8 @@ merch.23andme.com
 merchandise.opera-api.com
 merchant.crypto.com
 merchant.wolt.com
+merchantsignage.visa.com
+merchantsignageeu.visa.com
 mercury-dev.wnba.com
 mercury-qa.wnba.com
 mercury.wnba.com
@@ -7429,7 +7433,6 @@ pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
 pr*.indriverapp.com
 pr-gw-cf.*.aws.indriverapp.com
-practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -7472,8 +7475,6 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profiler.firefox.com
-profiles-api.datacamp.com
-projects.datacamp.com
 prow.k8s.io
 proxy-production.lime.bike
 ps5.np.playstation.net
@@ -7920,6 +7921,7 @@ vap.8x8.com
 vault2.faraday.ai
 vcc-*.8x8.com
 vcc-ce.8x8.com
+vdam.visa.com
 vector.prd.iat.it.xvservice.net
 verified.clearme.com
 verified.clearme.com/v1/verification_sessions
@@ -7961,6 +7963,7 @@ vrt.be/vrtnws
 vth.nba.com
 vtm.be/vtmgo
 vtmgo.be
+vwcm.visa.com
 vœux.vinci.com
 w1.uzleuven.be
 w1.uzleuven.be/random
@@ -8108,8 +8111,6 @@ www.crowdstrike.com
 www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
-www.datacamp.com
-www.datacamp.com/datalab
 www.ddfcontent.com
 www.delen.bank
 www.delen.be/en 
@@ -8350,6 +8351,7 @@ www.travelocity.com
 www.trekpleister.nl
 www.trendyol-milla.com
 www.trendyol.com
+www.trialpay.com
 www.triseptapi.com
 www.triseptdemo.com
 www.triseptsolutions.com
@@ -8522,7 +8524,6 @@ zooplus.net
 ██████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████████
-█████████████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████████████████████████████████████████████
 ████████████████████████████████████████████████████████████████████████████████████████████████████
