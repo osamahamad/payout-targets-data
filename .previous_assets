@@ -72,6 +72,7 @@
 *.advisor-connection.com
 *.advisorsolutions.gs.com
 *.adx.opera.com
+*.ai.8x8.vc
 *.aips-internal.com
 *.airbnb-aws.com
 *.airbnb.com
@@ -8731,7 +8732,11 @@ merchandise.opera-api.com
 merchant.crypto.com
 merchant.wolt.com
 merchantsignage.visa.com
+merchantsignageap.visa.com
+merchantsignageca.visa.com
 merchantsignageeu.visa.com
+merchantsignageglobal.visa.com
+merchantsignagejp.visa.com
 mercury-dev.wnba.com
 mercury-qa.wnba.com
 mercury.wnba.com
@@ -9848,6 +9853,7 @@ verify.rapyd.net
 vfo01.vodafone.om
 vfo02.vodafone.om
 vfo03.vodafone.om
+vgov.catalogue.digitalcontrolroom.com
 vhx.tv
 via.rider
 video-agent.8x8.com
