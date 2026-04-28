@@ -115,7 +115,6 @@ A16k
 A76
 A96
 ColorOS
-Extremely high properties
 F 21 Pro
 FindN2
 FindN2Flip
@@ -125,14 +124,12 @@ FindX6
 FindX6Pro
 FindX7
 FindX7Ultra
-High Level Properties
 K10
 K105G
 K9
 K9Pro
 K9s
 Low Level Properties and Test environment
-Moderate Level Properties
 NARZO 80 Lite 4G
 NARZO 80 Pro 5G
 NARZO 80x 5G
@@ -150,7 +147,6 @@ Reno8Pro5G
 Reno9Pro+5G
 Reno9Pro5G
 com.coloros.assistantscreen
-com.coloros.browser
 com.coloros.findmyphone
 com.coloros.pictorial
 com.coloros.video
@@ -185,6 +181,7 @@ com.heytap.wearable.healthassessment
 com.heytap.wearable.market
 com.heytap.wearable.research
 com.heytap.wearable.themestore
+com.heytap.xgame
 com.katanlabs.bubblepop
 com.katanlabs.matchballgame
 com.katanlabs.worm.ioeatemall
@@ -199,6 +196,7 @@ com.oplus.play
 com.oplus.studycenter
 com.oplus.themestore
 com.oppo.market
+com.oppo.quicksearchbox
 com.oppo.speechassist
 com.oppo.store
 com.qpon.merchant
@@ -206,7 +204,15 @@ com.qpon.platform
 com.realme.storecn
 com.realmestore.app
 com.shopai.apps
+http://open.oppomobile.com
+https://c.realme.com/eg/
+https://c.realme.com/global/
+https://c.realme.com/id/
+https://c.realme.com/in/
+https://c.realme.com/ru/
 https://cloud.oppo.com/
+https://community.oppo.com/
+https://communityin.oppo.com/
 https://developers.oppomobile.com/
 https://drp.myoppo.com/
 https://e.oppo.com/
@@ -217,7 +223,6 @@ https://www.coloros.com/
 https://www.oppo.com/id/store
 https://www.oppo.com/in/store
 https://www.oppo.com/my/store
-https://www.oppo.com/th
 https://www.oppo.com/th/store
 https://www.opposhop.cn/
 https://www.opposhop.cn/m/

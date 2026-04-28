@@ -4142,6 +4142,7 @@ com.heytap.wearable.healthassessment
 com.heytap.wearable.market
 com.heytap.wearable.research
 com.heytap.wearable.themestore
+com.heytap.xgame
 com.hotornot.app
 com.hotwire.hotels
 com.hypr.one
@@ -4216,6 +4217,7 @@ com.oplus.studycenter
 com.oplus.themestore
 com.oplus.vip
 com.oppo.market
+com.oppo.quicksearchbox
 com.oppo.speechassist
 com.oppo.store
 com.orbitz
@@ -5018,6 +5020,7 @@ http://my.ultramobile.com
 http://myvisainfinite.com/suntrust/en_us/home.html
 http://nav.naspers.com/
 http://nexus.live.ucs.on.epicgames.com/
+http://open.oppomobile.com
 http://ourhouse.underarmour.com/
 http://partners.deriv.com
 http://pay.monashcollege.edu.au/
@@ -5599,6 +5602,11 @@ https://business.rivian.com/api
 https://businessportal.origin.com.au
 https://butlerfortrello.com/
 https://buyersedge.co.nz
+https://c.realme.com/eg/
+https://c.realme.com/global/
+https://c.realme.com/id/
+https://c.realme.com/in/
+https://c.realme.com/ru/
 https://candle-src.etoro.com
 https://candle.etoro.com
 https://carecredit.com.au
@@ -5661,7 +5669,9 @@ https://community.arlo.com
 https://community.cloud.databricks.com/
 https://community.etsy.com
 https://community.exoscale.com/
+https://community.oppo.com/
 https://community.personio.com
+https://communityin.oppo.com/
 https://compulsoryunits.monash.edu/
 https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://connect.monash.edu
