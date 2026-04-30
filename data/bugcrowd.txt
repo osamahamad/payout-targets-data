@@ -1449,6 +1449,7 @@ push.opera.com
 https://bugs.opera.com/
 https://gx.games
 https://create.gx.games
+https://gx.me
 https://features.opera-api.com
 https://cdn-store.opera-api.com
 exchange.opera.com
@@ -1475,11 +1476,19 @@ api.gx.games/dc
 api.gx.games/dev 
 api.gx.games/profile
 api.gx.games/session
+api.gx.games/gms
+api.gx.games/gx
+api.gx.games/pub
+api.gx.me/me
 https://ofp.adx.opera.com
 https://ofa.adx.opera.com
 https://cms.adx.opera.com
 https://auth-adx.op-mobile.opera.com
 https://operaneon.com
+api.neon.opera.com/neon/pub
+api.neon.opera.com/neon/store
+api.neon.opera.com/pub
+https://neon.opera.com/cards/
 https://app.opsgenie.com
 https://mobileapp.opsgenie.com
 Opsgenie (IoS)

@@ -3357,9 +3357,13 @@ api.greenhouse.io
 api.grofers.com
 api.gx.games/dc
 api.gx.games/dev 
+api.gx.games/gms
+api.gx.games/gx
 api.gx.games/gxc
 api.gx.games/profile
+api.gx.games/pub
 api.gx.games/session
+api.gx.me/me
 api.hackerone.com
 api.iciparisxl.be
 api.iciparisxl.lu
@@ -3398,6 +3402,9 @@ api.midtrans.com
 api.monespacesante.fr
 api.moonpay.com
 api.mtls.truelayer[-sandbox].com
+api.neon.opera.com/neon/pub
+api.neon.opera.com/neon/store
+api.neon.opera.com/pub
 api.netlify.com
 api.ninjakiwi.com
 api.omise.co
@@ -6419,6 +6426,7 @@ https://gwapi.tripadvisor.com
 https://gwapi1.tripadvisor.com
 https://gwapi2.tripadvisor.com
 https://gx.games
+https://gx.me
 https://gx.opera-api.com
 https://hackme.matrixreq.com
 https://hatching.io
@@ -7114,6 +7122,7 @@ https://napoleongames.be
 https://napoleonsports.be
 https://nbs.pinelabs.com
 https://nbs.pinelabs.com/
+https://neon.opera.com/cards/
 https://net.geo.opera.com
 https://newrelic.com/
 https://newrelic.com/blog
