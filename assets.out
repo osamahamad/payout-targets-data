@@ -263,7 +263,6 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
-*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
@@ -1088,10 +1087,6 @@
 *.vimla.se
 *.vimla.work
 *.vine.co
-*.vinted.com
-*.vinted.fr
-*.vinted.net
-*.vintedgo.com
 *.visamiddleeast.com
 *.vliegwinkel.nl
 *.voi.com
@@ -1178,26 +1173,18 @@
 *.zmifi.com
 *.zomans.com
 *.zomato.com
-*badger.it.vinted.com
-*careers.vinted.com
-*company.vinted.com
 *dev.uzleuven.be
 *developer.cloud.com
 *ensemble*.yahoo.com
 *gateway-apc.marriott.com
 *idp*.uzleuven.be
 *inf.fndlsb.net
-*news.vinted.com
-*old.vinted.com
 *omega*.yahoo.com
 *ripio.com
 *ripiotrade.co
-*sandbox*.vinted.com
-*sandbox*.vintedgo.com
 *signalservice.comcast.net
 *stag*.uzleuven.be
 *test*.bykea.net
-*test-escalations.vintedgo.com
 *tidalhi.fi
 *uat.marriott.com
 *ubereats.com
@@ -1965,7 +1952,6 @@ Elastic Package Registry
 Elastic Synthetics Monitoring
 Elasticsearch
 Elvenar
-Engadget
 Enjin - Ethereum ERC-1155 Contract
 Enjin Blockchain
 Enjin Coin - Ethereum ERC-20 Contract
@@ -2412,7 +2398,6 @@ Saily - iOS
 Sandboxes
 Savers Android
 Savers iOS
-Scam
 Scanwatch
 Scanwatch 2
 Scanwatch Light
@@ -2595,7 +2580,6 @@ VS Code Plugin
 Vectorize
 Video Conferencing Products
 Video Doorbell
-Vinted: Shop & sell pre-loved
 Virtual Office Desktop
 Voi – e-scooter & e-bike hire
 Voi – e-scooters & e-bikes
@@ -3018,9 +3002,6 @@ app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
-app.datacamp.com/certification
-app.datacamp.com/groups
-app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -3114,9 +3095,6 @@ as2.portofantwerp.com
 as2.portofantwerpbruges.com
 ask.khealth.com
 askpeopleteam.visa.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com 
-assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.spotify.com
@@ -3299,7 +3277,6 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
-campus.datacamp.com
 cancellation.prod.ps.welt.de
 capability.prod.innovexperiments.com
 capital.com/*
@@ -3501,7 +3478,6 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
-com.datacamp
 com.dd.doordash
 com.defi.wallet
 com.deribit
@@ -4534,7 +4510,6 @@ https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
-https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
@@ -7536,7 +7511,6 @@ pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
 pr*.indriverapp.com
 pr-gw-cf.*.aws.indriverapp.com
-practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -7579,8 +7553,6 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profiler.firefox.com
-profiles-api.datacamp.com
-projects.datacamp.com
 prow.k8s.io
 proxy-production.lime.bike
 ps5.np.playstation.net
@@ -8233,8 +8205,6 @@ www.crowdstrike.com
 www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
-www.datacamp.com
-www.datacamp.com/datalab
 www.ddfcontent.com
 www.delen.bank
 www.delen.be/en 
