@@ -7,6 +7,7 @@
  UniFi OS Server
  com.citymapper.app.release
  https://api-*exoscale.com/v2
+ idp-contact.nexuzhealth.be
  login-test.portofantwerpbruges.com/
  mix.monash.edu 
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
@@ -2329,7 +2330,6 @@ PlayStation 5
 Podsights
 Point Smart
 Porsche-B
-PowerDNS authoritative server, recursor and DNSdist (see "Software packages" and "Source-code")
 Premiere Pro
 Premiere Rush
 Presentation Remotes
@@ -6849,7 +6849,13 @@ https:/pbgq-pes.deontologie-policiere.gouv.qc.ca/demande-acces-info/
 hub-api-sandbox.remitly.io
 hub.myconnect.com.au
 hub.vroid.com
+hub.vznkul.be/* 
+hub.vznkul.be/services/interhub/InterHubService
+hub.vznkul.be/services/intrahub/IntraHubService
 hub.yoti.com
+hubacc.vznkul.be/*
+hubacc.vznkul.be/services/acceptance/interhub/InterHubService
+hubacc.vznkul.be/services/acceptance/intrahub/IntraHubService
 hubspot.net
 humo.be/registreren
 hungrygowhere.com
@@ -7141,6 +7147,7 @@ media.marionnaud.hu
 media.marionnaud.it
 media.marionnaud.ro
 media.marionnaud.sk
+media.nexuzhealth.be/patient/ 
 media.remitly.io
 media.savers.co.uk
 media.simplisafe.com
