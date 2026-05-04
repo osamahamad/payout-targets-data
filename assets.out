@@ -1809,7 +1809,6 @@ C100447517
 C103149579
 C2PA Tool
 CDNJS
-CHP Cloud Portal
 Canva (Android)
 Canva (Chrome Extension)
 Canva (iOS)
@@ -2101,9 +2100,6 @@ In-Scope Products (for the full list please visit https://en.security.tencent.co
 InCopy
 InDesign
 Indoor Cam
-Insight Android App
-Insight Managed Smart Cloud Wireless Access Point
-Insight iOS App
 Insomnia CLI (inso)
 Insomnia Desktop Client
 Intellectual Property on Public Domains
@@ -2201,7 +2197,6 @@ Membership
 Merchant Portal
 MetaMask Browser Extension
 MetaMask SDK
-Meural
 Mi Band
 Mi Electric Scooter 
 Mi Home Webcam 
@@ -2239,11 +2234,6 @@ NetScaler Gateway
 Netflix Gaming Target
 Netflix Mobile Application for Android
 Netflix Mobile Application for iOS
-Nighthawk Android App
-Nighthawk Pro Gaming Switch
-Nighthawk Router
-Nighthawk Switch
-Nighthawk iOS App
 Nintendo Switch 2 Kernel / ARM® TrustZone®
 Nintendo Switch 2 Security controller known as PSC or Platform Security Controller (any component) / Security controller known as TSEC (bootROM only)
 Nintendo Switch 2 System Processes
@@ -2287,9 +2277,6 @@ Open source tools from Cloudflare
 OpenAI API Keys
 Opsgenie (Android)
 Opsgenie (IoS)
-Orbi 
-Orbi Android App 
-Orbi iOS App 
 Other
 Other (Misc)
 Other - (all other Atlassian targets)
@@ -4404,7 +4391,6 @@ https://api.mafshoppingmalls.com/
 https://api.moneyboxapp.com
 https://api.myntra.com
 https://api.neogov.com
-https://api.netgear.com
 https://api.onedoc.ch
 https://api.openai.com
 https://api.optimizely.com/
@@ -4799,6 +4785,7 @@ https://cms.adx.opera.com
 https://cms.mobile.monash/ 
 https://cmsnationaltrainingprogram.cms.gov/
 https://cockpit-eu-west-2.outscale.com/
+https://collabora.stg.inspectorio.com
 https://collections.monash.edu/
 https://com.etoro.openbook
 https://com.etoro.wallet
@@ -5042,6 +5029,18 @@ https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
 https://getflywheel.com
+https://github.com/AikidoSec/firewall-node#Detection Bypass
+https://github.com/AikidoSec/firewall-node#False Positive
+https://github.com/AikidoSec/firewall-node#Vulnerability
+https://github.com/AikidoSec/firewall-php#Detection Bypass
+https://github.com/AikidoSec/firewall-php#False Positive
+https://github.com/AikidoSec/firewall-php#Vulnerability
+https://github.com/AikidoSec/firewall-python#Detection Bypass
+https://github.com/AikidoSec/firewall-python#False Positive
+https://github.com/AikidoSec/firewall-python#Vulnerability
+https://github.com/AikidoSec/firewall-ruby#Detection Bypass
+https://github.com/AikidoSec/firewall-ruby#False Positive
+https://github.com/AikidoSec/firewall-ruby#Vulnerability
 https://github.com/AikidoSec/safe-chain
 https://github.com/Aiven
 https://github.com/Aiven-Open
@@ -8588,11 +8587,14 @@ ziekenhuisschool.be
 zooplus.net
 ███
 ████
+█████
+██████
 ███████
 █████████████
 ██████████████
 ███████████████
 ████████████████
+█████████████████
 ██████████████████
 ███████████████████
 ████████████████████
