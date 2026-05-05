@@ -248,6 +248,7 @@
 *.dailymotion.com
 *.dancecentral.com
 *.das.eu
+*.dash.ai
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
@@ -275,6 +276,7 @@
 *.dmcdn.net
 *.dmxleo.com
 *.dns.eu
+*.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
@@ -284,6 +286,10 @@
 *.dpgmedia.nl
 *.drogas.lt
 *.drogas.lv
+*.dropbox.com
+*.dropboxer.net
+*.dropboxforum.com
+*.dropboxpartners.com
 *.dropmix.com
 *.duokan.com
 *.e2ro.com
@@ -374,8 +380,6 @@
 *.fuze.com
 *.fuze.site
 *.gaming.gopayapi.com
-*.gamma.be/*
-*.gamma.nl/*
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
@@ -445,6 +449,9 @@
 *.harmankardon.com
 *.harmonixmusic.com
 *.harmonyremote.com
+*.hellofax.com
+*.hellosign.com
+*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.bild.de
@@ -503,9 +510,6 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
-*.intergamma-test.nl
-*.intergamma.cloud
-*.intergamma.nl/*
 *.internal.exoscale.ch
 *.intigriti.me
 *.itcapital.io
@@ -523,8 +527,6 @@
 *.jobstreet.com.sg
 *.jora.com
 *.jora.xyz
-*.karwei.nl/*
-*.karweioutletstore.nl
 *.kayak.com
 *.khealth.com
 *.khealth.io/
@@ -816,6 +818,7 @@
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
+*.reclaim.ai
 *.reddit.com
 *.redditblog.com
 *.reddithelp.com
@@ -825,7 +828,6 @@
 *.registry.eu
 *.rentalcars.com
 *.reposify.com
-*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -1101,9 +1103,6 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
 *.wf.com
 *.whatnot.com
 *.whois.eu
