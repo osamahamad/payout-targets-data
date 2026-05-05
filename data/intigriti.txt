@@ -1,18 +1,6 @@
 app.aikido.dev
 https://marketplace.visualstudio.com/items?itemName=AikidoSecurity.aikido
 https://github.com/AikidoSec/safe-chain
-https://github.com/AikidoSec/firewall-node#Vulnerability
-https://github.com/AikidoSec/firewall-ruby#Vulnerability
-https://github.com/AikidoSec/firewall-php#Vulnerability
-https://github.com/AikidoSec/firewall-python#Vulnerability
-https://github.com/AikidoSec/firewall-node#Detection Bypass
-https://github.com/AikidoSec/firewall-ruby#Detection Bypass
-https://github.com/AikidoSec/firewall-php#Detection Bypass
-https://github.com/AikidoSec/firewall-python#Detection Bypass
-https://github.com/AikidoSec/firewall-node#False Positive
-https://github.com/AikidoSec/firewall-ruby#False Positive
-https://github.com/AikidoSec/firewall-php#False Positive
-https://github.com/AikidoSec/firewall-python#False Positive
 myaccount.ad.nl
 webwinkel.ad.nl
 www.ad.nl
@@ -585,6 +573,37 @@ shop.trouw.nl
 webwinkel.trouw.nl
 www.trouw.nl
 www.trouw.nl/abonnementen
+api.truelayer[-sandbox].com
+api.mtls.truelayer[-sandbox].com
+auth.truelayer[-sandbox].com
+auth.mtls.truelayer[-sandbox].com
+app.truelayer[-sandbox].com
+login-api.truelayer[-sandbox].com
+login.truelayer[-sandbox].com
+onboarding-api.truelayer.com
+pay-api.truelayer[-sandbox].com
+pay.truelayer[-sandbox].com
+paydirect.truelayer[-sandbox].com
+payment.truelayer[-sandbox].com
+payments-experience-api.truelayer[-sandbox].com
+user-authentication-api.truelayer[-sandbox].com
+users-api.truelayer.com
+C# SDK
+console-backend.truelayer[-sandbox].com
+console.truelayer[-sandbox].com
+sftp.reports.truelayer.com
+Java SDK
+PHP SDK
+TrueLayer for Magento (Magento plugin)
+TrueLayer for WooCommerce (WordPress plugin)
+shopify-admin.truelayer.com
+shop-pay-app-api.truelayer.com
+truelayer-signing
+webhooks.truelayer[-sandbox].com
+iOS SDK
+React Native SDK
+Web SDK
+Rust SDK
 OP-TEE
 Mbed TLS & TF-PSA-Crypto
 TrustedFirmware-A (TF-A)
@@ -661,6 +680,15 @@ login.arkane.network
 login.venly.io
 wallet.venly.io
 api-wallet-sandbox.venly.io
+Vinted: Shop & sell pre-loved
+Vinted: Shop & sell pre-loved
+*old.vinted.com
+*test-escalations.vintedgo.com
+*badger.it.vinted.com
+*careers.vinted.com
+*news.vinted.com
+*company.vinted.com
+Scam
 564141518
 accountsettings.connect.identity.stagaws.visma.com
 admin.stage.vismaonline.com

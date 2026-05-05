@@ -1002,6 +1002,9 @@
 *.trip.com
 *.triplinkintl.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tumblr.com
@@ -1062,6 +1065,10 @@
 *.vimla.se
 *.vimla.work
 *.vine.co
+*.vinted.com
+*.vinted.fr
+*.vinted.net
+*.vintedgo.com
 *.visamiddleeast.com
 *.vliegwinkel.nl
 *.voi.com
@@ -1151,6 +1158,8 @@
 *ensemble*.yahoo.com
 *idp*.uzleuven.be
 *omega*.yahoo.com
+*sandbox*.vinted.com
+*sandbox*.vintedgo.com
 *stag*.uzleuven.be
 *test*.bykea.net
 3rd party services hosted at *.sophos.com
