@@ -263,6 +263,7 @@
 *.dailymotion.com
 *.dancecentral.com
 *.das.eu
+*.dash.ai
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
@@ -290,6 +291,7 @@
 *.dmcdn.net
 *.dmxleo.com
 *.dns.eu
+*.docsend.com
 *.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
@@ -299,6 +301,10 @@
 *.dpgmedia.nl
 *.drogas.lt
 *.drogas.lv
+*.dropbox.com
+*.dropboxer.net
+*.dropboxforum.com
+*.dropboxpartners.com
 *.dropmix.com
 *.duokan.com
 *.e2ro.com
@@ -389,6 +395,8 @@
 *.fuze.com
 *.fuze.site
 *.gaming.gopayapi.com
+*.gamma.be/*
+*.gamma.nl/*
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
@@ -458,6 +466,9 @@
 *.harmankardon.com
 *.harmonixmusic.com
 *.harmonyremote.com
+*.hellofax.com
+*.hellosign.com
+*.helloworks.com
 *.here.com
 *.hereapi.com
 *.hey.bild.de
@@ -516,6 +527,9 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
+*.intergamma-test.nl
+*.intergamma.cloud
+*.intergamma.nl/*
 *.internal.exoscale.ch
 *.intigriti.me
 *.itcapital.io
@@ -533,6 +547,8 @@
 *.jobstreet.com.sg
 *.jora.com
 *.jora.xyz
+*.karwei.nl/*
+*.karweioutletstore.nl
 *.kayak.com
 *.khealth.com
 *.khealth.io/
@@ -824,6 +840,7 @@
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
+*.reclaim.ai
 *.reddit.com
 *.redditblog.com
 *.reddithelp.com
@@ -833,6 +850,7 @@
 *.registry.eu
 *.rentalcars.com
 *.reposify.com
+*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -1111,6 +1129,9 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
 *.wf.com
 *.whatnot.com
 *.whois.eu
@@ -1205,6 +1226,7 @@
 1052238659
 1057338687
 107.167.96.0/19
+1080074001
 1080248000
 1089294040
 1091010942
@@ -1294,6 +1316,7 @@
 1532153219
 1541949985
 1552455423
+1558129454
 1570215232
 1579372261
 1579530451
@@ -1483,6 +1506,7 @@
 3.basecamp.com
 302584613
 319881193
+327630330
 328407587
 335187483
 336381998
@@ -1558,6 +1582,7 @@
 6444040977
 6444868926
 6449737830
+6450553960
 6452192521
 645949180
 6462308655
@@ -1600,6 +1625,9 @@
 94.107.237.192/26
 944011620
 947984433
+949829216
+950680989
+950693949
 955837609
 960335206
 97.105.243.96/28
@@ -1928,6 +1956,8 @@ Drogas Latvia Android
 Drogas Latvia iOS
 Drogas Lithuania Android
 Drogas Lithuania iOS
+Dropbox Desktop Application
+Dropbox.com
 Dynatrace ActiveGate
 Dynatrace MobileAgent
 Dynatrace OneAgent
@@ -2079,6 +2109,8 @@ Hardware found on https://www.ezviz.com/category/security-wifi-cameras
 Hardware found on https://www.ezviz.com/category/smart-home
 Harmony Remote Software
 Harmony Remotes
+HelloFax.com
+HelloSign.com
 Hermes Relayer
 Horcrux
 HubSpot Android Mobile App
@@ -2833,6 +2865,7 @@ api.dmp.gouv.fr
 api.doppler.com
 api.drogas.lt
 api.drogas.lv
+api.dropbox.com
 api.dyson.at
 api.dyson.be
 api.dyson.ch
@@ -2989,6 +3022,7 @@ apix.vodafone.om
 app*.hubspot.com
 app-*.easy4ipcloud.com
 app-insiders.marriott.com
+app.Reclaim.ai
 app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
@@ -3155,6 +3189,7 @@ bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
 be.delen.digital
+be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -3473,6 +3508,8 @@ com.dd.doordash
 com.defi.wallet
 com.deribit
 com.dolap.android
+com.dropbox.android
+com.dropbox.dash
 com.dyson.mobile.android
 com.ebookers
 com.eero.android
@@ -3832,7 +3869,9 @@ cyberghost.com
 cybersourcebouncebacks.visa.com
 cz.skodaauto.myskoda
 dailymotionadvertising.com
+dash.ai
 dash.cloudflare.com
+dash.dropbox.com
 dashboard.doppler.com
 dashboard.magic.link
 dashboard.mergify.com
@@ -3933,6 +3972,7 @@ docs.optimuscards.com
 docs.redoxengine.com
 docs.topperpay.com
 docs.uphold.com
+docsend.com
 docuflow.stg.inspectorio.com
 donations.livestream.com
 doordash.DoorDashConsumer
@@ -3944,6 +3984,7 @@ dream-dev.wnba.com
 dream-qa.wnba.com
 dream.wnba.com
 drive.wolt.com
+dropbox.com/paper
 dwy.visa.com
 dx-demo.deriv.com
 dx.deriv.com
@@ -4101,6 +4142,8 @@ g2-gw-cf.*.aws.indriverapp.com
 gamenotes.nba.com
 gaming.logicool.co.jp
 gamma.grab.co
+gammacademy.be
+gammalokaal.nl
 garp.visa.com
 gasstation.polygon.technology/
 gatekeeper.prd.iat.it.xvservice.net
@@ -6955,6 +6998,7 @@ ir.remitly.com
 ir.ui.com
 irclogs.wordpress.org
 iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
+irmg.nl
 isa-cf.*.aws.indriverapp.com
 ispdesign.ui.com
 issuer.idpay-uat.unico.io
@@ -6986,6 +7030,10 @@ k8s.gcr.io
 k8s.io
 kaccount.khealth.com
 kartaview.org
+karwei-promotiepunt.nl
+kassa.gamma.be/*
+kassa.gamma.nl/*
+kassa.karwei.nl/*
 katalog.watsons.com.tr
 kayak.ai
 kidswebservices.com
@@ -7220,6 +7268,9 @@ mgmt-sensors.iris.production.forescoutcloud.net
 mgmtpod-1-dashboard.production.forescoutcloud.net
 mgmtpod-1.production.forescoutcloud.net
 mgs.marriott.com
+mijn.gamma.be/*
+mijn.gamma.nl/*
+mijn.karwei.nl/*
 mijnacc.uzleuven.be
 minerva.robinhood.com
 mipartnerprivileges.marriott.com
@@ -7328,6 +7379,9 @@ nha-gw-cf.*.aws.indriverapp.com
 niantic.kidswebservices.com
 ninja.kiwi
 ninjakiwi.com
+nl.gamma.app.android
+nl.gamma.verf
+nl.karwei.app.android
 nmtracking.netflix.com
 no-cf.*.aws.indriverapp.com
 no-gw-cf.*.aws.indriverapp.com
@@ -7607,6 +7661,7 @@ rei.com
 relay.firefox.com
 relay.playcanvas.com
 remitly.com
+replay.dropbox.com
 repo.magento.com
 report-html-sight.stg.inspectorio.com
 report.voi.com
@@ -7739,6 +7794,7 @@ shopify-admin.truelayer.com
 shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
+sign.dropbox.com
 signature-insights.api.cx.metamask.io
 signin.auth.welt.de
 signup.sendgrid.com
@@ -8282,6 +8338,8 @@ www.fortress.com.hk
 www.fraedom.com
 www.funjet.com
 www.fuzemeeting.com
+www.gamma.be/*
+www.gamma.nl/*
 www.geneva-staging.chat
 www.geneva-staging.com
 www.getaroom.com
@@ -8312,6 +8370,7 @@ www.iciparisxl.nl
 www.instacart.com
 www.intigriti.com
 www.jaybirdsport.com
+www.karwei.nl/*
 www.kayak.com
 www.kinepolis.be 
 www.kinepolis.biz
