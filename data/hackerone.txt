@@ -1849,6 +1849,7 @@ api-sandbox.gocardless.com
 auth0.gocardless.com
 bankaccountdata.gocardless.com
 connect-sandbox.gocardless.com
+http://sso-demo.gocardless-staging.io
 https://ob-sandbox.gocardless.io
 manage-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
