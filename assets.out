@@ -547,14 +547,7 @@
 *.khealth.io/
 *.kibana.wtf
 *.kiln.it
-*.kinepolis.be
-*.kinepolis.ch
-*.kinepolis.com
-*.kinepolis.fr
-*.kinepolis.lu
-*.kinepolis.nl
 *.kiwi.com
-*.klubcinema.fr
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
@@ -563,7 +556,6 @@
 *.kruidvatkids.nl
 *.kube.dm.gg
 *.kwsdose.be
-*.landmarkcinemas.com
 *.landmarkglobal-group.com
 *.lansweeper.com
 *.lastminute.co.nz
@@ -624,7 +616,6 @@
 *.mb-cosmos.com
 *.mbamupdates.com
 *.mediatonic.co.uk
-*.megatix.be  
 *.melonapp.com
 *.meraki.com
 *.mercadolibre.cl
@@ -665,7 +656,6 @@
 *.miui.cn
 *.miui.com
 *.miwifi.com
-*.mjrtheatres.com
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
@@ -1534,7 +1524,6 @@
 52.67.69.35
 52.76.174.107
 52.86.17.52
-522089287
 524362642
 529996768
 531549799
@@ -2710,6 +2699,7 @@ accountsettings.connect.identity.stagaws.visma.com
 accountshomolog.acesso.io
 aces-dev.wnba.com
 aces-qa.wnba.com
+aces-qa2.wnba.com
 aces.wnba.com
 actionnaires.vinci.com
 activities.marriott.com
@@ -3101,8 +3091,12 @@ auction-service.whatnot.com
 auroratechaward.com
 aus5.mozilla.org
 auth-apc.marriott.com
+auth-identity-dev-ping.nba.com
 auth-identity-dev.nba.com
+auth-identity-ping.nba.com
+auth-identity-qa-ping.nba.com
 auth-identity-qa.nba.com
+auth-identity-uat-ping.nba.com
 auth-identity-uat.nba.com
 auth-identity.nba.com
 auth.23andme.com
@@ -3205,7 +3199,6 @@ booking.applevacations.com
 booking.beachbound.com
 booking.cheapcaribbean.com
 booking.com
-booking.mjrtheatres.com
 bookingholdings-coe.com
 boomer2.ninjakiwi.com
 boost.vinci.com
@@ -3227,9 +3220,6 @@ building-blocks.com
 bulten.watsons.com.tr
 business-resources.truecaller.com
 business.kayak.com
-business.kinepolis.be
-business.kinepolis.lu
-business.kinepolis.nl
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
@@ -3566,7 +3556,6 @@ com.hypr.one
 com.imdbtv.livingroom
 com.immediasemi.android.blink
 com.instacart.client
-com.inthepocket.kinepolis
 com.iphone.workfront
 com.jellybtn.boardkings
 com.jellybtn.cashkingmobile
@@ -3789,6 +3778,11 @@ contentportal.marriott.com
 contentportalauth.marriott.com
 contributor.stock.adobe.com
 converse.8x8.com
+core-api-aws-dev.nba.com
+core-api-aws-prod-east1.nba.com
+core-api-aws-prod.nba.com
+core-api-aws-qa.nba.com
+core-api-aws-uat.nba.com
 core-api-dev.nba.com
 core-api-devint.nba.com
 core-api-qa.nba.com
@@ -3828,12 +3822,31 @@ customer-sessions.arkoselabs.com
 customerevents.netflix.com
 customers.gitlab.com
 cw.visa.com
+cweb-ott-aws-qa.nba.com
+cweb-ott-aws-uat-uw2.nba.com
+cweb-ott-aws-uat.nba.com
+cweb-ott-dev-aws.nba.com
+cweb-ott-dev-preview.nba.com
 cweb-ott-dev.nba.com
 cweb-ott-devint.nba.com
+cweb-ott-preview.nba.com
+cweb-ott-qa-aws.nba.com
+cweb-ott-qa-preview.nba.com
 cweb-ott-qa.nba.com
+cweb-ott-uat-preview.nba.com
+cweb-ott-uat-uc-preview.nba.com
 cweb-ott-uat-uc.nba.com
+cweb-ott-uc-preview.nba.com
 cweb-ott-uc.nba.com
 cweb-ott.nba.com
+cweb-qa-aws-preview.nba.com
+cweb-slot1-ott-dev.nba.com
+cweb-slot2-ott-dev.nba.com
+cweb-slot3-ott-dev.nba.com
+cweb-slot4-ott-dev.nba.com
+cweb-slot5-ott-dev.nba.com
+cweb-slot6-ott-dev.nba.com
+cweb-slot6-preview-ott-dev.nba.com
 cyberghost.app
 cyberghost.com
 cybersourcebouncebacks.visa.com
@@ -3954,6 +3967,7 @@ download.krisp.ai
 dr-cf.*.aws.indriverapp.com
 dream-dev.wnba.com
 dream-qa.wnba.com
+dream-qa2.wnba.com
 dream.wnba.com
 drive.wolt.com
 dropbox.com/paper
@@ -3996,7 +4010,6 @@ education.github.com
 eero Devices
 efast.marriott.com
 effecthouse.tiktok.com
-egaming.kinepolis.es
 eidhelp.marriott.com
 elastic.co credentials
 eligibility.khealth.com
@@ -4043,8 +4056,6 @@ extranet-asa.uzleuven.be
 extranet.marionnaud.ch
 extranet.s-pankki.fi
 extranet.uzleuven.be
-extras-acc.landmarkcinemas.com
-extras.landmarkcinemas.com
 fab.com
 falcon-sandbox.com
 fareharborsites.com
@@ -4061,6 +4072,7 @@ fetlife.com
 fetlifemail.com
 fever-dev.wnba.com
 fever-qa.wnba.com
+fever-qa2.wnba.com
 fever.wnba.com
 fhdn.fareharbor.com
 fhir.developer.monespacesante.fr
@@ -5842,6 +5854,7 @@ https://marketplace.ifood.com.br
 https://marketplace.visualstudio.com/items?itemName=AikidoSecurity.aikido
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
 https://master.servicecentre.digitalservicing-np.lfscnp.com/
+https://matlab.mathworks.com/
 https://matrix.agent.tchap.gouv.fr
 https://matrix.e.tchap.gouv.fr
 https://matrix.i.tchap.gouv.fr
@@ -5880,8 +5893,6 @@ https://monash.app.nutrip.com
 https://monashcollege.edu.au
 https://monster-customizer.classdojo.com/cf6dfa68-1a81-4c6d-bc0b-38f3666b37d6/index.html
 https://move.monash.edu/
-https://movieclub-int.kinepolis.com
-https://movienow-int.kinepolis.be/admin
 https://mstatic.usaa.com
 https://my.arlo.com
 https://my.electroneum.com/
@@ -6312,7 +6323,6 @@ https://service.post.ch/zopa/app/
 https://services.chipotle.com
 https://sfleet.cortexpowered.com
 https://sflower.cortexpowered.com
-https://shop-acc.kinepolis.be/
 https://shop.ifood.com.br
 https://shop.monash.edu/
 https://shop.post.ch/shop
@@ -6915,15 +6925,22 @@ idcash-uat.unico.io
 identi.robinhood.com
 identity-dev.nba.com
 identity-ng.nba.com
+identity-ping.nba.com
 identity-qa.nba.com
+identity-server-dev.nba.com
+identity-server-ping-dev.nba.com
+identity-server-ping-qa.nba.com
+identity-server-ping-uat.nba.com
+identity-server-ping.nba.com
+identity-server-qa.nba.com
+identity-server-uat.nba.com
+identity-server.nba.com
 identity-uat.nba.com
 identity.clearme.com
 identity.nba.com
 identity.stage.vismaonline.com
 identity.yoti.com
 identityhomolog.acesso.io
-identityserver-acc.landmarkcinemas.com
-identityserver.landmarkcinemas.com
 idp-cf.*.aws.indriverapp.com
 idpay-uat.unico.io
 ifast.marriott.com
@@ -7009,9 +7026,6 @@ kartaview.org
 katalog.watsons.com.tr
 kayak.ai
 kidswebservices.com
-kinepolis-studio.be
-kinepolis.megatix.be
-kinepolis/id368204284
 kit.snapchat.com
 klarna.com
 klarna.net
@@ -7042,6 +7056,7 @@ lemon8-api.tiktokv.us
 leonard.vinci.com
 liberty-dev.wnba.com
 liberty-qa.wnba.com
+liberty-qa2.wnba.com
 liberty.wnba.com
 lightsparkdev/flutter-sdk
 lightsparkdev/js-sdk
@@ -7070,6 +7085,10 @@ logilife.logitech.com
 login-4ngbets.us.betfair.com
 login-4njbets.us.betfair.com
 login-accpt.portofantwerpbruges.com
+login-dev.nba.com
+login-qa.nba.com
+login-sandbox.nba.com
+login-uat.nba.com
 login.arkane.network
 login.cm.com
 login.delen.be 
@@ -7077,6 +7096,7 @@ login.delen.ch
 login.delen.lu 
 login.insightly.com
 login.lansweeper.com
+login.nba.com
 login.oyens.com
 login.playcanvas.com
 login.rei.com
@@ -7096,11 +7116,9 @@ lol.onevone
 loyalty.tw.coupang.com
 lps.dmp.gouv.fr
 lps2.dmp.gouv.fr
-luxfilmfestfilms.megatix.be
-luxfilmfestproducts.megatix.be
-luxfilmfesttickets.megatix.be
 lynx-dev.wnba.com
 lynx-qa.wnba.com
+lynx-qa2.wnba.com
 lynx.wnba.com
 m-pesa.africa
 m.airbnb.com
@@ -7231,6 +7249,7 @@ merchantsignageglobal.visa.com
 merchantsignagejp.visa.com
 mercury-dev.wnba.com
 mercury-qa.wnba.com
+mercury-qa2.wnba.com
 mercury.wnba.com
 merino.services.mozilla.com
 messenger.eu-east-1.indriverapp.com
@@ -7272,7 +7291,6 @@ monitor.mozilla.org
 monzo.com
 moonpay.com
 movie.indrive.com
-movieapi.kinepolis.megatix.be
 mpa.ekyc.backoffice.m-pesa.com
 mpa.ekyc.selfregister.m-pesa.com
 mpa.qr.web.m-pesa.com
@@ -7325,6 +7343,7 @@ myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
 mystics-dev.wnba.com
 mystics-qa.wnba.com
+mystics-qa2.wnba.com
 mystics.wnba.com
 myvu.visauniversity.com
 nadex.com
@@ -7370,7 +7389,6 @@ npmjs.org
 ns1.optusnet.com.au
 ns2.optusnet.com.au
 nummus.robinhood.com
-nz.co.vista.android.movie.mjrtheatres
 oasisprod.marriott.com
 oauth-sandbox.gocardless.com
 oauth.deriv.com
@@ -7784,6 +7802,7 @@ skills-store.amazon.com
 sks-*.exo.io
 sky-dev.wnba.com
 sky-qa.wnba.com
+sky-qa2.wnba.com
 sky.wnba.com
 skyscanner.net/*
 skyscanner.net/hotels/book/*
@@ -7819,6 +7838,7 @@ spaces.pm
 spark.fareharbor.com
 sparks-dev.wnba.com
 sparks-qa.wnba.com
+sparks-qa2.wnba.com
 sparks.wnba.com
 spectacles.com
 speedtest-blacktown.optusnet.com.au
@@ -7847,7 +7867,6 @@ sso.marriott.com
 sso.oft.hyatt.com
 sso.ryadom.kz
 st*.indriverapp.com
-stage.landmarkcinemas.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 staging-app.bany.dev
 staging.airtable.com
@@ -7858,7 +7877,17 @@ staking.polygon.technology
 starling-ttp.lemon8-app.us
 start.khealth.com
 static*.twilio.com
+stats-dev.nba.com
+stats-qa.nba.com
+stats-trafficcop-aws-dev.nba.com
+stats-trafficcop-aws-prod-east1.nba.com
+stats-trafficcop-aws-prod.nba.com
+stats-trafficcop-aws-qa.nba.com
+stats-trafficcop-aws-uat.nba.com
+stats-trafficcop-dev.nba.com
 stats-trafficcop-prod.nba.com
+stats-trafficcop-qa.nba.com
+stats-trafficcop-uat.nba.com
 stats.gleague.nba.com
 stats.nba.com
 stats.vinci.com
@@ -7880,6 +7909,7 @@ store.ui.com
 storefront.steampowered.com
 storm-dev.wnba.com
 storm-qa.wnba.com
+storm-qa2.wnba.com
 storm.wnba.com
 story.snapchat.com
 strapi.reddit.com
@@ -7897,6 +7927,7 @@ style.23andme.com
 sub*.aws.indriverapp.com
 sun-dev.wnba.com
 sun-qa.wnba.com
+sun-qa2.wnba.com
 sun.wnba.com
 super6.skysports.com
 superbet.bet.br
@@ -7963,12 +7994,6 @@ testnet.bitmex.com
 testnet.immutable.com
 teststs.uzleuven.be
 thebrowser.company
-tickets.kinepolis.be
-tickets.kinepolis.ch
-tickets.kinepolis.es
-tickets.kinepolis.fr
-tickets.kinepolis.lu
-tickets.kinepolis.nl
 tiktok.com
 tiktokdata-us-open.tiktokw.us
 tlbe.prod.tomorrowland.com
@@ -8025,8 +8050,6 @@ usa.visa.com
 user-profile-staging.8x8.com
 user-profile.8x8.com
 usercontent.koho.ca
-userprofile-acc.landmarkcinemas.com
-userprofile-ui.landmarkcinemas.com
 uwa.mobilevikings.be
 v1. kidswebservices.com
 v1staging.kidswebservices.com 
@@ -8151,6 +8174,7 @@ wiki.ui.com
 winecellar.zomato.com
 wings-dev.wnba.com
 wings-qa.wnba.com
+wings-qa2.wnba.com
 wings.wnba.com
 winter.tomorrowland.com
 winterpackages.tomorrowland.com
@@ -8344,14 +8368,6 @@ www.instacart.com
 www.intigriti.com
 www.jaybirdsport.com
 www.kayak.com
-www.kinepolis.be 
-www.kinepolis.biz
-www.kinepolis.ch 
-www.kinepolis.com 
-www.kinepolis.es 
-www.kinepolis.fr 
-www.kinepolis.lu 
-www.kinepolis.nl 
 www.kiwi.com
 www.koho.ca
 www.kolikkopelit.com
@@ -8360,7 +8376,6 @@ www.kruidvat.be
 www.kruidvat.nl
 www.kruidvatkids.nl
 www.lab-recherche-environnement.org
-www.landmarkcinemas.com
 www.lansweeper.com
 www.lastminute.co.nz
 www.lastminute.com.au
@@ -8403,7 +8418,6 @@ www.mercadolibre.com.sv
 www.mercadolivre.com
 www.mercadopago.com.ec
 www.midtrans.com
-www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
