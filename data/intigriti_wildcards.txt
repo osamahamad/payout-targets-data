@@ -46,6 +46,16 @@
 *.volkskrant.nl
 *.digitalocean.com
 *.snapshooter.com
+*.dropbox.com
+*.dropboxer.net
+*.dropboxforum.com
+*.dropboxpartners.com
+*.hellofax.com
+*.docsend.com
+*.reclaim.ai
+*.helloworks.com
+*.hellosign.com
+*.dash.ai
 *.das.eu
 *.dns.eu
 *.eurid.eu
@@ -134,6 +144,9 @@ Leaked/compromised employee accounts *.here.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
@@ -156,6 +169,8 @@ Leaked/compromised employee accounts *.here.com
 *.vintedgo.com
 *sandbox*.vintedgo.com
 *sandbox*.vinted.com
+*.voi.com
+*.voiscooters.com
 *. advancedcustomfields.com
 *. bettersearchreplace.com
 *.deliciousbrains.com
