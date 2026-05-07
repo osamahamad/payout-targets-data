@@ -1636,6 +1636,7 @@ A76
 A96
 AI Gateway
 AMP Real URL
+API & SDKs
 API Shield
 API calls going to disco-api from https://www.tagesanzeiger.ch 
 API's
@@ -1854,6 +1855,9 @@ Citrix Secure Access client for Linux
 Citrix Secure Access client for Windows
 Citrix Secure Access client for iOS
 Citrix Secure Access client for macOS
+Claude Code
+Claude Desktop Extensions and Claude.ai MCP servers
+Claude in Chrome
 ClickHouse Cloud environment hosted by ClickHouse
 Cloud Misconfigurations
 Cloudflare Access
@@ -2117,6 +2121,7 @@ In-Scope Products (for the full list please visit https://en.security.tencent.co
 InCopy
 InDesign
 Indoor Cam
+Infrastructure & Internal Apps/Services
 Insomnia CLI (inso)
 Insomnia Desktop Client
 Intellectual Property on Public Domains
@@ -2149,6 +2154,7 @@ LaunchDarkly Open Source SDKs
 Leaked Credentials
 Leaked Credentials and Secrets (Canva Employee/Contractor)
 Leaked Credentials and Secrets (Canva User)
+Leaked Employee API Keys
 Leaked/compromised employee accounts *.here.com
 Leaked/Сompromised Employee accounts
 Lens Studio
@@ -2282,6 +2288,7 @@ OKX iOS APP
 OP-TEE
 Observability - APM Agents
 Observability - APM Server
+Official Clients
 Official WordPress plugins
 Okta
 Okta On-Prem Agents ( AD, LDAP, RDP, IWA )
@@ -2800,6 +2807,7 @@ analytics.ninjakiwi.com
 analytics.pinelabs.com
 anext.com.sg
 antbank.hk
+anthropic.atlassian.com
 ap-s.cloud.com
 apcgateway.marriott.com
 api*.hubapi.com
@@ -2828,6 +2836,7 @@ api.adm.cloud.com
 api.airbnb.com
 api.alasco.de
 api.amazonalexa.com/*
+api.anthropic.com
 api.arkane.network
 api.atg.se
 api.au.frontegg.com
@@ -3370,6 +3379,7 @@ circle.logi.com
 circolocorecords.com/
 cl.nba.com
 classroom.github.com
+claude.ai
 clay.earth
 clearme.atlassian.net
 clearme.com
@@ -3808,6 +3818,7 @@ connect.identity.stagaws.visma.com
 connect.secure.wellsfargo.com
 connect.venly.io
 console-backend.truelayer[-sandbox].com
+console.anthropic.com
 console.circle.com
 console.ort-one-pingone.com
 console.tink.com
@@ -3998,6 +4009,7 @@ dns0.optus.net.au
 dns1.optus.net.au
 do.co
 doaction.org
+docs.anthropic.com
 docs.api.enterprise.uphold.com
 docs.gitlab.com
 docs.lansweeper.com
@@ -4204,6 +4216,7 @@ gifts.grab.com
 gifts.marriott.com
 gist.github.com
 github.com
+github.com/anthropics
 github.com/binary-com
 github.com/deriv-com
 github.com/kubernetes-csi
@@ -8089,6 +8102,7 @@ support-api.airbnb.com
 support-portal.8x8.com
 support-sandbox.uphold.com
 support-staging.topperpay.com
+support.anthropic.com
 support.creditkarma.ca
 support.cs.money
 support.greenhouse.io
