@@ -41,6 +41,7 @@
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -70,6 +71,16 @@ Leaked/compromised employee accounts *.here.com
 *.iciparisxl.nl
 *.iciparisxl.be
 *.pourvous.nl
+*.klubcinema.fr
+*.megatix.be  
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
+*.landmarkcinemas.com
+*.mjrtheatres.com
 *.kruidvatkids.nl
 *.kruidvat.nl
 *.kruidvat.be
@@ -139,6 +150,12 @@ Leaked/compromised employee accounts *.here.com
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
+*.vinted.net
+*.vinted.com
+*.vinted.fr
+*.vintedgo.com
+*sandbox*.vintedgo.com
+*sandbox*.vinted.com
 *. advancedcustomfields.com
 *. bettersearchreplace.com
 *.deliciousbrains.com
