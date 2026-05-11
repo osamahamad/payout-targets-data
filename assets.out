@@ -588,6 +588,7 @@
 *.luckydays.com
 *.lucra.live
 *.lukwerks.com
+*.lululemon.com
 *.luxuryretreats.com
 *.lyst.co
 *.lyst.com
@@ -1075,10 +1076,6 @@
 *.vimla.se
 *.vimla.work
 *.vine.co
-*.vinted.com
-*.vinted.fr
-*.vinted.net
-*.vintedgo.com
 *.visamiddleeast.com
 *.vliegwinkel.nl
 *.voi.com
@@ -1164,26 +1161,18 @@
 *.zmifi.com
 *.zomans.com
 *.zomato.com
-*badger.it.vinted.com
-*careers.vinted.com
-*company.vinted.com
 *dev.uzleuven.be
 *developer.cloud.com
 *ensemble*.yahoo.com
 *gateway-apc.marriott.com
 *idp*.uzleuven.be
 *inf.fndlsb.net
-*news.vinted.com
-*old.vinted.com
 *omega*.yahoo.com
 *ripio.com
 *ripiotrade.co
-*sandbox*.vinted.com
-*sandbox*.vintedgo.com
 *signalservice.comcast.net
 *stag*.uzleuven.be
 *test*.bykea.net
-*test-escalations.vintedgo.com
 *tidalhi.fi
 *uat.marriott.com
 *ubereats.com
@@ -2387,7 +2376,6 @@ Sandboxes
 Save to Spotify CLI
 Savers Android
 Savers iOS
-Scam
 Scanwatch
 Scanwatch 2
 Scanwatch Light
@@ -2570,7 +2558,6 @@ VS Code Plugin
 Vectorize
 Video Conferencing Products
 Video Doorbell
-Vinted: Shop & sell pre-loved
 Virtual Office Desktop
 Voi – e-scooter & e-bike hire
 Voi – e-scooters & e-bikes
@@ -4337,6 +4324,7 @@ http://www.bybit.com/en/alpha/overview/
 http://www.bybit.com/trade/tradfi/
 http://www.byreal.io
 http://www.kiwi.com/stories
+http://www.lululemon.co.kr/
 http://www.myvisacardportal.com/welcome/enbd/product/#
 http://www.rei.com/learn/expert-advice
 http://www.shopmarriott.com
@@ -4646,6 +4634,7 @@ https://apps.apple.com/us/app/kucoin-buy-bitcoin-crypto/id1378956601?mt=8
 https://apps.apple.com/us/app/lastpass-authenticator/id1079110004
 https://apps.apple.com/us/app/lastpass-password-manager/id324613447
 https://apps.apple.com/us/app/loom-screen-recorder/id1474480829
+https://apps.apple.com/us/app/lululemon/id920098546
 https://apps.apple.com/us/app/mattermost/id1257222717
 https://apps.apple.com/us/app/mint-mobile/id1295303441
 https://apps.apple.com/us/app/monash-study/id1462126829
@@ -6344,6 +6333,7 @@ https://services.chipotle.com
 https://sfleet.cortexpowered.com
 https://sflower.cortexpowered.com
 https://shop.ifood.com.br
+https://shop.lululemon.com
 https://shop.monash.edu/
 https://shop.post.ch/shop
 https://sign.originzero.com.au
@@ -6652,6 +6642,7 @@ https://www.etoro.com
 https://www.etsy.com
 https://www.etsy.com/developers/documentation/getting_started/api_basics
 https://www.etsy.com/mobile
+https://www.eu.lululemon.com/
 https://www.exoscale.com/
 https://www.financeiro.quintoandar.com.br/*
 https://www.finicity.com
@@ -6700,6 +6691,14 @@ https://www.logitech.com/blog
 https://www.lookfantastic.com/
 https://www.loom.com/
 https://www.loom.com/download
+https://www.lululemon.co.jp/
+https://www.lululemon.co.nz/
+https://www.lululemon.co.uk/
+https://www.lululemon.com.au/  
+https://www.lululemon.com.hk/
+https://www.lululemon.de/
+https://www.lululemon.es/ 
+https://www.lululemon.fr/
 https://www.lululemon.me
 https://www.magicplanetmena.com/
 https://www.malloftheemirates.com
