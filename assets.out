@@ -147,7 +147,6 @@
 *.avecspotify.com
 *.ayco.com
 *.backblazeb2.com
-*.backend-capital.com
 *.bancoplata.mx
 *.baoliyun.com
 *.base.org
@@ -202,7 +201,6 @@
 *.canva.cn
 *.canva.com
 *.canva.tech
-*.capital.com
 *.capitalone.ca
 *.capitalone.com
 *.capitalonegslbex.com
@@ -507,9 +505,7 @@
 *.id.realestate.com.au
 *.ikarem.io
 *.immedia-semi.com/*
-*.immutable.com
 *.imperva.com
-*.imtbl.com
 *.in.jbl.com
 *.in2tel.ie
 *.incapsula.com
@@ -530,7 +526,6 @@
 *.intercomassets.com / *.intercomcdn.com
 *.internal.exoscale.ch
 *.intigriti.me
-*.itcapital.io
 *.jbl.com
 *.jbl.com.br
 *.jbl.nl
@@ -942,8 +937,6 @@
 *.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
-*.sqills.com
-*.sqills.team
 *.srvcs.tumblr.com
 *.ssr.ccp.xcal.tv 
 *.stadtwien.onmicrosoft.com
@@ -985,7 +978,6 @@
 *.tesla.services
 *.teslainsuranceservices.com
 *.teslamotors.com
-*.testnet.immutable.com
 *.theelasticast.com
 *.theperfumeshop.com
 *.thetradedesk.com
@@ -2745,7 +2737,6 @@ ads.tiktok.com
 adtechnology.axelspringer.com
 advisories.gitlab.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
-aff.capital.com
 affiliate-id.tokopedia.com
 affiliate.meesho.com
 agents.hostinger.com
@@ -3288,7 +3279,6 @@ campaigns.theperfumeshop.com
 campus.datacamp.com
 cancellation.prod.ps.welt.de
 capability.prod.innovexperiments.com
-capital.com/*
 capturingreality.com
 cardpayments.remitly.io
 cards.remitly.io
@@ -3296,7 +3286,6 @@ cardsonline.azdiest.be
 cardsonlinetst.azdiest.be
 career.bpost.be
 careers.booking.com
-careers.capital.com
 careers.indrive.com
 careers.marriott.com
 careers.remitly.com
@@ -3474,7 +3463,6 @@ com.bumble.app
 com.bumblebff.app
 com.bykea.pk
 com.bykea.pk.partner
-com.capital.trading
 com.cheaptickets
 com.clay.ios
 com.clearme.Clear
@@ -4196,7 +4184,6 @@ globaljourney.tomorrowland.com
 gnip.com
 gnocchi-www.buffalo-ggn.net
 go-cms.tw.coupang.com
-go.capital.com
 go.geneva-staging.com
 go.stripchat.com
 go.welt.de
@@ -4453,7 +4440,6 @@ https://api.fstr.rocks
 https://api.ibops.net
 https://api.ibops.net/ad-management
 https://api.ibotta.com
-https://api.immutable.com
 https://api.int.ibops.net
 https://api.int.ibops.net/customer-loyalty-service
 https://api.intercom.com
@@ -4499,7 +4485,6 @@ https://api.vistarmedia.eu
 https://api.voiapp.io/
 https://api.welcomesoftware.com/
 https://api.wyzecam.com
-https://api.x.immutable.com/
 https://api.yeswehack.com
 https://api3.pentest.clicsante.ca/
 https://apigw.prod.quintoandar.com.br/checkout-api/*
@@ -4735,7 +4720,6 @@ https://auth-adx.op-mobile.opera.com
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
-https://auth.immutable.com
 https://auth.lastpass.com
 https://auth.myopenpass.com
 https://auth.opera.com
@@ -4960,7 +4944,6 @@ https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j
 https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1281087877#gid=1281087877
 https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1767553194#gid=1767553194
 https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1817816238#gid=1817816238
-https://docs.immutable.com/
 https://docs.keeper.io/en/keeperpam
 https://docs.keeper.io/en/keeperpam/commander-cli/overview
 https://docs.keeper.io/en/keeperpam/privileged-access-manager/getting-started/gateways
@@ -5188,7 +5171,6 @@ https://github.com/freedomofpress/securedrop
 https://github.com/freedomofpress/securedrop-client
 https://github.com/freedomofpress/securedrop-workstation
 https://github.com/grafana/*
-https://github.com/immutable/ts-immutable-sdk/tree/main/packages/passport/
 https://github.com/innocraft/
 https://github.com/iqlusioninc/crates/tree/main/signatory
 https://github.com/iqlusioninc/tmkms
@@ -5370,7 +5352,6 @@ https://home.xfinity.com
 https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
 https://hr.neogov.com
 https://hr.prosus.com/
-https://hub.immutable.com/
 https://hug.personio.com
 https://i18n.api.just-eat.io
 https://ibconnect.internetbrands.com
@@ -5459,7 +5440,6 @@ https://life.pulsepoint.com/EngagementAudience/#/dashboard
 https://life.pulsepoint.com/MediaPlanner/#/dashboard/targetview
 https://lifeapi.pulsepoint.com
 https://link.uma.me
-https://link.x.immutable.com/
 https://linktr.ee
 https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
 https://linktree.com
@@ -5493,7 +5473,6 @@ https://mapi.usaa.com/
 https://maps.bykea.net
 https://maps.vistarmedia.com
 https://market.android.com/details?id=com.myfitnesspal.android&rdid=com.myfitnesspal.android
-https://market.immutable.com/
 https://marketplace.atlassian.com
 https://marketplace.atlassian.com/apps/1210722/confluence-source-editor?hosting=server
 https://marketplace.atlassian.com/apps/1210725/data-generator-for-jira?hosting=server
@@ -6052,7 +6031,6 @@ https://partnerhelp.viator.com/
 https://partners.etoro.com
 https://partners.usaa.com
 https://partners.viator.com
-https://passport.immutable.com/
 https://pay.payzippy.com
 https://pay.unity.com
 https://paymayabiller-prod.paymaya.com/
@@ -6244,7 +6222,6 @@ https://play.google.com/store/search?q=chipotle+mexican+grill&c=apps
 https://play.google.com/store/search?q=mattermost&c=apps
 https://play.google.com/store/search?q=plann&c=apps
 https://play.google.com/store/search?q=simplisafe&c=apps
-https://play.immutable.com
 https://playlist.link
 https://plmcixt.pinelabs.com
 https://plugins.matomo.org/developer/innocraft
@@ -6999,7 +6976,6 @@ ik.watsons.com.tr
 images.demand.cybersource.com
 img.swapcard.com
 imove.bpost.cloud
-imx.community
 in-cf.*.aws.indriverapp.com
 in-gw-cf.*.aws.indriverapp.com
 in.amazon.mShop.android.business.shopping
@@ -7470,7 +7446,6 @@ onlinepharmacy.superdrug.com
 onum-labs.com
 onum.com
 open redirect at *.epam.com
-open-api.capital.com
 open.airbnb.com
 open.larksuite.com
 open.ys7.com
@@ -7533,7 +7508,6 @@ pay.wallet.tg
 pay.{business_critical_assets} *see business assets for more information
 paybridge.booking.com
 payer-details-sandbox.gocardless.com
-payment.backend-capital.com
 payment.bingo.com
 payment.casinohuone.com
 payment.kolikkopelit.com
@@ -7712,7 +7686,6 @@ refined.site/admin
 register-accpt.portofantwerp.com
 register-accpt.portofantwerpbruges.com
 register.bpost.be
-register.capital.com
 registre.notebleue.pro
 registry.gitlab.com
 rei.com
@@ -8090,7 +8063,6 @@ testapp.redoxengine.com
 testbank.xs2a.com
 testing.maventa.com
 testnet.bitmex.com
-testnet.immutable.com
 teststs.uzleuven.be
 thebrowser.company
 tiktok.com
@@ -8749,6 +8721,8 @@ zooplus.net
 █████
 ██████
 ███████
+███████████
+████████████
 █████████████
 ██████████████
 ███████████████
@@ -8765,8 +8739,10 @@ zooplus.net
 ██████████████████████████
 ███████████████████████████
 ████████████████████████████
+█████████████████████████████
 ██████████████████████████████
 ████████████████████████████████
+█████████████████████████████████
 ██████████████████████████████████
 ███████████████████████████████████
 ████████████████████████████████████
