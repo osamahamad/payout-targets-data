@@ -147,6 +147,7 @@
 *.avecspotify.com
 *.ayco.com
 *.backblazeb2.com
+*.backend-capital.com
 *.bancoplata.mx
 *.baoliyun.com
 *.base.org
@@ -201,6 +202,7 @@
 *.canva.cn
 *.canva.com
 *.canva.tech
+*.capital.com
 *.capitalone.ca
 *.capitalone.com
 *.capitalonegslbex.com
@@ -526,6 +528,7 @@
 *.intercomassets.com / *.intercomcdn.com
 *.internal.exoscale.ch
 *.intigriti.me
+*.itcapital.io
 *.jbl.com
 *.jbl.com.br
 *.jbl.nl
@@ -866,8 +869,6 @@
 *.sc-corp.net
 *.scatec.io
 *.scbe.api.here.com
-*.scopely.com
-*.scopely.io
 *.sec-tunnel.com
 *.securecircle.com
 *.securegatewayaccess.com
@@ -1115,7 +1116,6 @@
 *.wise.com
 *.wissen-sie-mehr.de
 *.withairbnb.com
-*.withbuddies.com
 *.withspotify.com
 *.wlo.link
 *.wolt.com
@@ -2022,9 +2022,6 @@ G Hub
 GHE
 GS Select iOS app
 GameMaker Studio 2
-Games Tier 1
-Games Tier 2
-Games Tier 3
 Gardener
 Gateway
 Gemini
@@ -2292,6 +2289,7 @@ Other Amazon Retail Mobile Apps (Please only actively test explicitly stated sco
 Other Amazon Retail Sites (Please only actively test explicitly stated scope)
 Other Asset (Campaigns)
 Other Assets
+Other BMW Domains
 Other Dyson Assets
 Other Hardware Assets
 Other HubSpot-owned (sub)domains not listed as Out of Scope
@@ -2737,6 +2735,7 @@ ads.tiktok.com
 adtechnology.axelspringer.com
 advisories.gitlab.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
+aff.capital.com
 affiliate-id.tokopedia.com
 affiliate.meesho.com
 agents.hostinger.com
@@ -2748,7 +2747,6 @@ ai.x.GrokApp
 ai.x.grok
 aiassistant.stage.vismaonline.com
 aiq-prod.codebig2.net
-air.com.bitrhymes.bingo
 air.com.buffalo_studios.newflashbingo
 air.com.playtika.cvs
 air.com.playtika.slotomania
@@ -3279,6 +3277,7 @@ campaigns.theperfumeshop.com
 campus.datacamp.com
 cancellation.prod.ps.welt.de
 capability.prod.innovexperiments.com
+capital.com/*
 capturingreality.com
 cardpayments.remitly.io
 cards.remitly.io
@@ -3286,6 +3285,7 @@ cardsonline.azdiest.be
 cardsonlinetst.azdiest.be
 career.bpost.be
 careers.booking.com
+careers.capital.com
 careers.indrive.com
 careers.marriott.com
 careers.remitly.com
@@ -3441,7 +3441,6 @@ com.anker.charging
 com.application.zomato
 com.application.zomato.district
 com.application.zomatomerchant
-com.aqupepgames.projectpepe
 com.atebits.Tweetie2
 com.audible.application
 com.badoo.mobile
@@ -3463,6 +3462,7 @@ com.bumble.app
 com.bumblebff.app
 com.bykea.pk
 com.bykea.pk.partner
+com.capital.trading
 com.cheaptickets
 com.clay.ios
 com.clearme.Clear
@@ -3507,7 +3507,6 @@ com.fanduel.sportsbook
 com.finshell.finance
 com.finshell.wallet
 com.fintech.life
-com.foxnextgames.m3
 com.frame.FrameIO
 com.freshchat.agent.android
 com.freshdesk.helpdesk
@@ -3533,9 +3532,6 @@ com.gs.mobile.trader
 com.gs.pfmg.wellness
 com.gs.pwmdigital.external
 com.gs.pwmdigital.external.android
-com.gsn.android.casino
-com.gsn.android.tripeaks
-com.gsn.grandcasino
 com.hcom.android
 com.here.app.maps
 com.hey.app.ios
@@ -3580,7 +3576,6 @@ com.katanlabs.matchballgame
 com.katanlabs.worm.ioeatemall
 com.kayak.android
 com.kayak.travel
-com.kitkagames.fallbuddies
 com.konylabs.capitalone
 com.larksuite.suite
 com.linkedin.android
@@ -3640,7 +3635,6 @@ com.pacificinteractive.HouseOfFun
 com.paypal.android.p2pmobile
 com.paypal.merchant
 com.paypal.merchant.client
-com.pieyel.scrabble
 com.playtika.caesarscasino
 com.playtika.wsop.gp
 com.priceline.android.negotiator
@@ -3661,9 +3655,6 @@ com.robinhood.gateway
 com.robinhood.global Android
 com.robinhood.money
 com.romwe
-com.scopely.monopolygo
-com.scopely.startrek
-com.scopely.yux
 com.security.BatteryCam
 com.security.care
 com.shopai.apps
@@ -3728,7 +3719,6 @@ com.whoop.android
 com.whoop.iphone
 com.wikibuy.prod.main
 com.wisdomtree.wtprime
-com.withbuddies.dice.free
 com.wooga.pearlsperil
 com.wotif.android
 com.xiaomi.account
@@ -3769,6 +3759,8 @@ components.stag.tomorrowland.com
 components.tomorrowland.com
 concierge.clearme.com
 config.cic-bug-bounty.auth0app.com
+configure.bmw.de
+configure.mini.de
 confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
@@ -4184,6 +4176,7 @@ globaljourney.tomorrowland.com
 gnip.com
 gnocchi-www.buffalo-ggn.net
 go-cms.tw.coupang.com
+go.capital.com
 go.geneva-staging.com
 go.stripchat.com
 go.welt.de
@@ -6756,7 +6749,9 @@ https://www.ooredoo.qa
 https://www.opensincera.com
 https://www.opera.com/
 https://www.opera.com/computer/thanks?ni=eapgx&os=windows
+https://www.opera.com/computer/thanks?ni=opera_air&os=windows
 https://www.opera.com/computer/thanks?ni=stable&os=windows
+https://www.operaneon.com
 https://www.oppo.com/id/store
 https://www.oppo.com/in/store
 https://www.oppo.com/my/store
@@ -6941,11 +6936,8 @@ id.oppo.com
 id.stg.inspectorio.com
 id.superhuman.com
 id.tw.coupang.com
-id1427744264
 id1520720139
 id1534920947
-id1541153375
-id1621328561
 id6443932656
 id6472513080
 idcash-uat.unico.io
@@ -7061,6 +7053,7 @@ klarnacdn.net
 knowage.developer.monespacesante.fr
 knowage.monespacesante.fr
 knox.beta.blendlabs.com
+konfigurator.bmw-motorrad.de
 konghq.com
 krisp.ai
 kronor.io
@@ -7446,6 +7439,7 @@ onlinepharmacy.superdrug.com
 onum-labs.com
 onum.com
 open redirect at *.epam.com
+open-api.capital.com
 open.airbnb.com
 open.larksuite.com
 open.ys7.com
@@ -7508,6 +7502,7 @@ pay.wallet.tg
 pay.{business_critical_assets} *see business assets for more information
 paybridge.booking.com
 payer-details-sandbox.gocardless.com
+payment.backend-capital.com
 payment.bingo.com
 payment.casinohuone.com
 payment.kolikkopelit.com
@@ -7686,6 +7681,7 @@ refined.site/admin
 register-accpt.portofantwerp.com
 register-accpt.portofantwerpbruges.com
 register.bpost.be
+register.capital.com
 registre.notebleue.pro
 registry.gitlab.com
 rei.com
@@ -8303,6 +8299,8 @@ www.bitmoji.com
 www.bitstamp.net
 www.bitstrips.com
 www.blueskytours.com
+www.bmw-motorrad.de
+www.bmw.de
 www.bolsasymercados.es
 www.bookabach.co.nz
 www.bookingholdings.com
@@ -8494,6 +8492,7 @@ www.mercadolibre.com.sv
 www.mercadolivre.com
 www.mercadopago.com.ec
 www.midtrans.com
+www.mini.de
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
