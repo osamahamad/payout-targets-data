@@ -1656,8 +1656,6 @@ AdwCleaner
 Affiliates or entities such as recently acquired companies
 After Effects
 Agentic Tools
-Agora for Android (see dowload link for APK file and mobile app GitHub repository in description)
-Agora for iOS (see dowload link for IPA file and mobile app GitHub repository in description)
 Aiven for Apache Flink
 Aiven for Apache Kafka
 Aiven for Caching
@@ -4446,7 +4444,6 @@ https://api.ring.com/*
 https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
 https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql
 https://api.rx.originenergy.com.au/v1/lpg/graphql
-https://api.sandbox.agora.incubateur.net  (source code available on GitHub, see description)
 https://api.shop.ua.com/graphql
 https://api.simnext.bullish-test.com
 https://api.staging.luno.com/
@@ -4504,7 +4501,6 @@ https://app.recordedfuture.com
 https://app.ring.com/*
 https://app.ripio.com
 https://app.saltlabs.com/
-https://app.sandbox.agora.incubateur.net
 https://app.staging.luno.com/
 https://app.staging.saltlabs.com/
 https://app.thousandeyes.com/
@@ -5342,7 +5338,6 @@ https://id.atlassian.com/login
 https://id.employer.staging.seek.com
 https://id.recordedfuture.com
 https://id.unity.com
-https://identite-sandbox.proconnect.gouv.fr
 https://identity.bugcrowd.com/
 https://identity.majidalfuttaim.com
 https://identity.monash.edu
