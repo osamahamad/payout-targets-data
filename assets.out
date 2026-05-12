@@ -3,6 +3,7 @@
  *.test.*.lfscnp.com
  203.13.125.32/27
  Finicity Connect
+ Mobile Apps
  UniFi OS Server
  com.citymapper.app.release
  https://api-*exoscale.com/v2
@@ -113,7 +114,6 @@
 *.apexnews.com
 *.apexscores.io
 *.api.cx.metamask.io
-*.api.dailymotion.com
 *.api.id.realestate.com.au
 *.api.konghq.com
 *.api.louisvuitton.com
@@ -259,7 +259,6 @@
 *.cyberghostvpn.com
 *.cyrus-security.com
 *.dailyadvent.com
-*.dailymotion.com
 *.dancecentral.com
 *.das.eu
 *.dash.ai
@@ -286,10 +285,6 @@
 *.digitalocean.com
 *.directverify.in
 *.district.in
-*.dm-event.net
-*.dm.gg
-*.dmcdn.net
-*.dmxleo.com
 *.dns.eu
 *.docsend.com
 *.docswallet.com
@@ -554,7 +549,6 @@
 *.kruidvat.be
 *.kruidvat.nl
 *.kruidvatkids.nl
-*.kube.dm.gg
 *.kwsdose.be
 *.landmarkglobal-group.com
 *.lansweeper.com
@@ -859,6 +853,7 @@
 *.say.rocks
 *.saytechnologies.com
 *.sba.marriott.com
+*.sbb.ch
 *.sbgcdn.com
 *.sbgcore.com
 *.sbgorigin.com
@@ -966,6 +961,7 @@
 *.support.jbl.com
 *.support.originenergy.com.au
 *.swiftype.com
+*.swisspass.ch
 *.sys.comcast.net
 *.tdl.sh
 *.teams.cloudflare.com
@@ -1609,7 +1605,6 @@ API Shield
 API calls going to disco-api from https://www.tagesanzeiger.ch 
 API's
 AS16314
-AS41690
 AS6720 1/2
 AS6720 2/2
 AS6720 IPv6 1/2
@@ -1673,6 +1668,8 @@ All internet facing Sky DACH assets
 All internet facing Sky Italy assets 
 All internet facing Sky UK/ROI assets
 All other Assets
+All other SBB owned IT assets
+All other Web and mobile APPs owned by SBB 
 All the Blockchain Infrastructure
 Amazon Subsidiaries (Please only actively test explicitly stated scope)
 AmpliFi
@@ -2190,6 +2187,7 @@ Mi TV Box
 Mi/Redmi Phone
 Microsites
 Mobile Applications
+Mobile Apps
 Moneyback Android
 Moneyback iOS
 MongoDB Assistant
@@ -3840,7 +3838,6 @@ cyberghost.app
 cyberghost.com
 cybersourcebouncebacks.visa.com
 cz.skodaauto.myskoda
-dailymotionadvertising.com
 dash.ai
 dash.cloudflare.com
 dash.dropbox.com
@@ -4363,7 +4360,6 @@ https://aemdam.usaa360.com/
 https://afterpay.com
 https://agent.apps.monash.edu/
 https://aggregator.etoro.com
-https://airflow-mcp.data.dailymotion.com/
 https://aiven.io/
 https://aiven.io/clickhouse
 https://aiven.io/docs/products/metrics/concepts/metrics-overview
@@ -4548,7 +4544,6 @@ https://apps.apple.com/es/app/mediamarkt-comprar-online/id1438532508
 https://apps.apple.com/es/app/osl-buy-bitcoin-crypto/id6743699672
 https://apps.apple.com/fr/app/blablalines-covoiturage/id1225543288
 https://apps.apple.com/fr/app/cryptobox/id972602802
-https://apps.apple.com/fr/app/dailymotion/id336978041
 https://apps.apple.com/fr/app/decathlon-shopping/id1168607403
 https://apps.apple.com/fr/app/doctolib/id925339063
 https://apps.apple.com/fr/app/jbl-one/id1610239857
@@ -4714,7 +4709,6 @@ https://basescan.org/address/0xf469eC9dEBf7F0adEBA4d1Db2FF5c70707bEeB30
 https://bb1.simplisafe.com
 https://bb2.simplisafe.com
 https://beta.arlo.com
-https://bigquery-mcp.data.dailymotion.com/
 https://billing-pci.etoro.com
 https://billing.etoro.com
 https://billing.ring.com/*
@@ -4759,7 +4753,6 @@ https://bugs.opera.com/
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
-https://business.dailymotion.com/
 https://business.rivian.com/api
 https://businessportal.origin.com.au
 https://butlerfortrello.com/
@@ -4869,7 +4862,6 @@ https://cw-api.takeaway.com
 https://d1.utv.usaa.com
 https://d2.utv.usaa.com
 https://daily.blablacar.fr
-https://dailymotion.webflow.io/
 https://dash.zoop.com.br/
 https://dashboard-101.moengage.com
 https://dashboard.fga.dev/
@@ -5917,8 +5909,6 @@ https://myopenpass.com
 https://myopenpassdemo.com/
 https://myplutus.pinelabs.my
 https://myvpn.usaa.com
-https://n8n-staging.k8s.dm.gg/
-https://n8n.pub.k8s.dm.gg/
 https://namestudio.com
 https://namestudioforsocial.com/
 https://napoleoncasino.be
@@ -6079,7 +6069,6 @@ https://play.google.com/store/apps/details?id=com.coindcx.btc
 https://play.google.com/store/apps/details?id=com.coindcx.okto
 https://play.google.com/store/apps/details?id=com.coindesk.mobile
 https://play.google.com/store/apps/details?id=com.comuto&hl=en
-https://play.google.com/store/apps/details?id=com.dailymotion.dailymotion&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.decathlon.app
 https://play.google.com/store/apps/details?id=com.ecwid.android&pli=1
 https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
@@ -6225,7 +6214,6 @@ https://preprod-xam.xelians.fr/
 https://priceless.com/golf/
 https://privacy.blismedia.com
 https://privateinternetaccess.com/api/client/v5
-https://pro.dailymotion.com/
 https://pro.onedoc.ch
 https://prod.euid.eu
 https://prod.uidapi.com
@@ -6251,7 +6239,6 @@ https://pyszne.pl
 https://quantum-events.onecloud.harman.com
 https://r.etoro.com
 https://rankings.etoro.com
-https://ray.dailymotion.com/
 https://rc.fstr.rocks
 https://rc.wmaudience.com
 https://redash-staging.getmoneytree.com/
@@ -8379,6 +8366,7 @@ www.ebookers.com
 www.ebookers.fi
 www.editeur.am.monespacesante.fr
 www.editeur.api.monespacesante.fr
+www.elvetino.ch
 www.evernote.com
 www.expedia-aarp.com
 www.expedia.com
@@ -8525,6 +8513,8 @@ www.s-kaupat.fi
 www.s-pankki.fi
 www.sa.dyson.com
 www.savers.co.uk
+www.sbb.ch
+www.sbbcargo.com
 www.sheer.com
 www.six-group.com
 www.socialdeal.nl
@@ -8556,6 +8546,7 @@ www.tomorrowland.com
 www.topperpay.com
 www.tradepmr.com
 www.trajeoh.com
+www.transsicura.ch
 www.travel-brilliantly.marriott.com
 www.travelocity.ca
 www.travelocity.com

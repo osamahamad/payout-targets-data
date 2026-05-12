@@ -99,7 +99,6 @@
 *.apexnews.com
 *.apexscores.io
 *.api.cx.metamask.io
-*.api.dailymotion.com
 *.api.id.realestate.com.au
 *.api.konghq.com
 *.api.louisvuitton.com
@@ -245,7 +244,6 @@
 *.cyberghostvpn.com
 *.cyrus-security.com
 *.dailyadvent.com
-*.dailymotion.com
 *.dancecentral.com
 *.das.eu
 *.dash.ai
@@ -272,10 +270,6 @@
 *.digitalocean.com
 *.directverify.in
 *.district.in
-*.dm-event.net
-*.dm.gg
-*.dmcdn.net
-*.dmxleo.com
 *.dns.eu
 *.docsend.com
 *.docswallet.com
@@ -540,7 +534,6 @@
 *.kruidvat.be
 *.kruidvat.nl
 *.kruidvatkids.nl
-*.kube.dm.gg
 *.kwsdose.be
 *.landmarkglobal-group.com
 *.lansweeper.com
@@ -845,6 +838,7 @@
 *.say.rocks
 *.saytechnologies.com
 *.sba.marriott.com
+*.sbb.ch
 *.sbgcdn.com
 *.sbgcore.com
 *.sbgorigin.com
@@ -952,6 +946,7 @@
 *.support.jbl.com
 *.support.originenergy.com.au
 *.swiftype.com
+*.swisspass.ch
 *.sys.comcast.net
 *.tdl.sh
 *.teams.cloudflare.com
