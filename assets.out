@@ -835,6 +835,7 @@
 *.rentalcars.com
 *.reposify.com
 *.rhinternal.net
+*.ripe.net
 *.robinhood.com
 *.robinhood.net
 *.roblox.com
@@ -1296,6 +1297,7 @@
 192.251.124.0/24
 192.251.125.0/24
 192.251.126.0/24
+193.0.0.0/19 and 2001:67c:2e8::/48
 193.109.229.0/24
 193.110.154.0/24
 193.5.66.0/23
@@ -1735,6 +1737,7 @@ Aruba InstantOn Switches
 Aruba User Experience Insight Sensors
 ArubaOS-CX Switches
 Assets labeled as in-scope
+Assets owned by RIPE NCC
 Atlas
 Atlas Charts
 Atlas Data Federation
@@ -2653,6 +2656,7 @@ academy-outbound-ads.tiktok.com
 academy.deriv.com
 access-sandbox.remitly.com
 access.remitly.com
+access.ripe.net
 accommodations.booking.com
 account-sprint.dynatracelabs.com
 account.acronis.com
@@ -5053,8 +5057,14 @@ https://github.com/Dynatrace
 https://github.com/Hacker0x01/react-datepicker
 https://github.com/OctopusDeploy
 https://github.com/ProjectOpenSea/seaport#deployments
+https://github.com/RIPE-NCC/rpki-commons
+https://github.com/RIPE-NCC/rpki-core
+https://github.com/RIPE-NCC/rpki-monitoring
+https://github.com/RIPE-NCC/rpki-publication-server
+https://github.com/RIPE-NCC/rpki-ta-0
+https://github.com/RIPE-NCC/rsyncit
+https://github.com/RIPE-NCC/whois
 https://github.com/Shopify/*
-https://github.com/Web3Auth/web3auth-web
 https://github.com/afterpay/sdk-android
 https://github.com/afterpay/sdk-ios
 https://github.com/auth0/Auth0.Net
@@ -7052,6 +7062,7 @@ links.geneva-staging.chat
 links.geneva-staging.com
 links.portswigger.net
 liquidfiles.nexuzhealth.com
+lirportal.ripe.net
 list-v2--netlify-plugins.netlify.app
 lists.wordpress.org
 live-backstage.tiktok.com
