@@ -1791,8 +1791,10 @@ com.romwe
 com.zzkko
 api.faraday.ai
 app.faraday.ai
+buy.faraday.ai
 gs://faraday-secret
 gs://fdy-production-sdk-uploads
+row.pro
 s3://faraday-secret
 s3://faraday-uploads
 vault2.faraday.ai
