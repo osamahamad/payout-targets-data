@@ -140,16 +140,17 @@ prod-*.nu.com.co
 *.id.realestate.com.au
 *.accounts.realestate.com.au
 *.realestate.com.au
-*.seek.com.au
-*.skinfra.xyz
-*.outfra.xyz
-*.sol-data.com
-*.jobapi.net
+*.seek.com
+*.employer.seek.com
 *.seekpass.co
-*.seekpass-staging.com
+*.jobsdb.com
+*.jobstreet.com
+*.myseek.xyz
+*.outfra.xyz
+*.skinfra.xyz
+*.jobapi.net
+*.sol-data.com
 *.aips-internal.com
-*.certsy.com
-*.certsynonprod.com
 *.prd.cam.simplisafe.com (HSP Endpoints)
 *.prd.platform.simplisafe.com (HSP Endpoints)
 *.prd.services.simplisafe.com (HSP Endpoints)

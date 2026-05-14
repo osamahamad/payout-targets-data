@@ -199,8 +199,6 @@
 *.cceng.8x8.com
 *.central.arubanetworks.com
 *.certinia.com
-*.certsy.com
-*.certsynonprod.com
 *.chalet.8x8.com
 *.chalet.8x8.com/ws/v1
 *.cheaptickets.com
@@ -322,6 +320,7 @@
 *.emakina.group
 *.emakina.nl 
 *.emakina.us
+*.employer.seek.com
 *.enjinusercontent.com
 *.enspotify.com
 *.eops.nl
@@ -420,7 +419,6 @@
 *.grammarly.com
 *.grammarly.io
 *.grammarlyaws.com
-*.grateful.me
 *.grindr.com
 *.grindr.io
 *.grindr.mobi
@@ -513,6 +511,8 @@
 *.jit.si
 *.jitsi.net
 *.jobapi.net
+*.jobsdb.com
+*.jobstreet.com
 *.jora.com
 *.jora.xyz
 *.kayak.com
@@ -661,6 +661,7 @@
 *.myharmony.com
 *.myhomebook.de
 *.myinsights.io
+*.myseek.xyz
 *.mysqueezebox.com
 *.myteksi.com
 *.myteksi.net
@@ -850,8 +851,7 @@
 *.securecircle.com
 *.securegatewayaccess.com
 *.securityservices.io
-*.seek.com.au
-*.seekpass-staging.com
+*.seek.com
 *.seekpass.co
 *.sellzone.com
 *.semrush.com
@@ -991,6 +991,9 @@
 *.trip.com
 *.triplinkintl.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tumblr.com
