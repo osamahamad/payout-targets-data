@@ -607,41 +607,37 @@ shop.trouw.nl
 webwinkel.trouw.nl
 www.trouw.nl
 www.trouw.nl/abonnementen
-api.truelayer[-sandbox].com
-api.mtls.truelayer[-sandbox].com
-auth.truelayer[-sandbox].com
-auth.mtls.truelayer[-sandbox].com
-app.truelayer[-sandbox].com
-login-api.truelayer[-sandbox].com
-login.truelayer[-sandbox].com
-onboarding-api.truelayer.com
-pay-api.truelayer[-sandbox].com
-pay.truelayer[-sandbox].com
-paydirect.truelayer[-sandbox].com
-payment.truelayer[-sandbox].com
-payments-experience-api.truelayer[-sandbox].com
-user-authentication-api.truelayer[-sandbox].com
-users-api.truelayer.com
-C# SDK
-console-backend.truelayer[-sandbox].com
-console.truelayer[-sandbox].com
-sftp.reports.truelayer.com
-Java SDK
-PHP SDK
-TrueLayer for Magento (Magento plugin)
-TrueLayer for WooCommerce (WordPress plugin)
-shopify-admin.truelayer.com
-shop-pay-app-api.truelayer.com
-truelayer-signing
-webhooks.truelayer[-sandbox].com
-iOS SDK
-React Native SDK
-Web SDK
-Rust SDK
 OP-TEE
 Mbed TLS & TF-PSA-Crypto
 TrustedFirmware-A (TF-A)
 TrustedFirmware-M (TF-M)
+autodiscover.uzleuven.be
+ecrf.uzleuven.be
+extranet-asa.uzleuven.be
+extranet.uzleuven.be
+liquidfiles.uzleuven.be
+mx1.uzleuven.be
+mx2.uzleuven.be
+pcrstudioruzb.uzleuven.be
+prddsplunkhf.uzleuven.be
+sts.uzleuven.be
+www.uzleuven.be
+193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111
+wp5-truststroke.uzleuven.be
+cardsonline.azdiest.be
+liquidfilestest.uzleuven.be
+random.uzleuven.be/random/
+teststs.uzleuven.be
+w1.uzleuven.be
+cardsonlinetst.azdiest.be
+*dev.uzleuven.be
+files.uzleuven.be
+kumulus.uzleuven.be
+mijnacc.uzleuven.be
+mirc.uzleuven.be
+prddnighting01.uzleuven.be
+w1.uzleuven.be/random
+ziekenhuisschool.be
 Uphold: Buy BTC, ETH and 360+
 UpHODL
 api-sandbox.uphold.com
