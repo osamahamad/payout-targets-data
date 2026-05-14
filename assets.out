@@ -337,7 +337,6 @@
 *.emakina.group
 *.emakina.nl 
 *.emakina.us
-*.employer.seek.com
 *.enjinusercontent.com
 *.enspotify.com
 *.eops.nl
@@ -529,11 +528,6 @@
 *.jit.si
 *.jitsi.net
 *.jobapi.net
-*.jobsdb.com
-*.jobstreet.co.id
-*.jobstreet.com
-*.jobstreet.com.my
-*.jobstreet.com.sg
 *.jora.com
 *.jora.xyz
 *.kayak.com
@@ -872,7 +866,6 @@
 *.securegatewayaccess.com
 *.securityservices.io
 *.seek.com.au
-*.seekasia.com
 *.seekpass-staging.com
 *.seekpass.co
 *.sellzone.com
@@ -1834,6 +1827,7 @@ Cloudflare Zero Trust/Cloudflare One
 Cloudkey
 Cluster-To-Cluster sync
 Coda Chrome Extension
+Codex Desktop
 CoinMarketCap Android app
 CoinMarketCap iOS app
 Coinbase WaaS (Wallet as a Service)
@@ -4633,7 +4627,6 @@ https://apps.apple.com/us/app/save-to-pinterest/id6473649042
 https://apps.apple.com/us/app/share-rewards/id1465450657
 https://apps.apple.com/us/app/shuffles-by-pinterest/id1573869498
 https://apps.apple.com/us/app/simplisafe-home-security-app/id555798051
-https://apps.apple.com/us/app/sora-by-openai/id6744034028
 https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
 https://apps.apple.com/us/app/syncup-drive/id1576574297
@@ -5225,7 +5218,6 @@ https://github.com/moonpay
 https://github.com/nitrojs/nitro
 https://github.com/nodejs/node
 https://github.com/nuxt/nuxt
-https://github.com/openai/codex/
 https://github.com/pinterest/
 https://github.com/plaid/plaid-link-android
 https://github.com/plaid/plaid-link-ios
@@ -5299,8 +5291,6 @@ https://help.okta.com/en/prod/Content/Topics/Settings/download-browser-plugin.ht
 https://help.supplier.viator.com/en
 https://hg.easy4ipcloud.com
 https://hipaa.staging.gearset.com/
-https://hk.employer.staging.seek.com
-https://hk.staging.jobsdb.com
 https://home.classdojo.com
 https://home.xfinity.com
 https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
@@ -5311,7 +5301,6 @@ https://i18n.api.just-eat.io
 https://ibconnect.internetbrands.com
 https://icu.eu-west-2.outscale.com
 https://id.atlassian.com/login
-https://id.employer.staging.seek.com
 https://id.recordedfuture.com
 https://id.unity.com
 https://identity.bugcrowd.com/
@@ -5879,7 +5868,6 @@ https://mstatic.usaa.com
 https://my.arlo.com
 https://my.electroneum.com/
 https://my.elementor.com/
-https://my.employer.staging.seek.com
 https://my.exness.com/pa/pim/manager
 https://my.exness.com/pa/socialtrading
 https://my.exness.com/webtrading/
@@ -6004,7 +5992,6 @@ https://performance.neogov.com
 https://performancemarketing.mastercard.com/portal/
 https://pets.webmd.com
 https://pg.paymaya.com
-https://ph.employer.staging.seek.com
 https://pinepg.in
 https://pinepgconsole.in:9099
 https://pioneer.truata.com/
@@ -6324,7 +6311,6 @@ https://snctest-s.underarmour.com/
 https://solutions.visaacceptance.com/subscription
 https://song.link
 https://songlink.io
-https://sora.chatgpt.com
 https://soundcloud.com
 https://soundcloud.org
 https://speeddials.opera.com
@@ -6398,8 +6384,6 @@ https://testflight.apple.com/join/Y4cHu289
 https://testflight.apple.com/join/vwFxXX7t
 https://testnet-blockexplorer.electroneum.com
 https://tfb.t-mobile.com
-https://th.employer.staging.seek.com
-https://th.staging.jobsdb.com
 https://thatconceptstore.com
 https://thinkglobalhealth.org
 https://thueringer-foerderportal.eu
@@ -6773,10 +6757,6 @@ https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial
 https://www.sophos.com/en-us/products/mobile-control/free-trial
 https://www.sophos.com/en-us/products/next-gen-firewall
 https://www.sourcetreeapp.com/
-https://www.staging.jobstreet.co.id
-https://www.staging.jobstreet.com.my
-https://www.staging.jobstreet.com.ph
-https://www.staging.jobstreet.com.sg
 https://www.tagesanzeiger.ch
 https://www.tchap.gouv.fr
 https://www.teamviewer.com/en/products/teamviewer/
