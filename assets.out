@@ -1762,6 +1762,7 @@ Brand Sites
 Brave Browser Desktop
 Brave websites
 Bridge
+Broken Link
 Browser Isolation
 BrowserGuard (Firefox/Chrome/Safari browser extension)
 BuddyPress Core
@@ -4276,6 +4277,7 @@ http://verified.clearme.com/dashboard
 http://vimeo.com/api
 http://vimeo.com/create
 http://vimeo.com/ondemand
+http://wallet.opensea.io/
 http://wellsfargo.com
 http://wf.com
 http://www.bybit.com/en/alpha/overview/
@@ -4594,6 +4596,7 @@ https://apps.apple.com/us/app/moovit-all-transit-options/id498477945
 https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718
 https://apps.apple.com/us/app/northwestern-mutual/id1132579006
 https://apps.apple.com/us/app/okta-verify/id490179405
+https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
 https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974
 https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
@@ -4685,7 +4688,6 @@ https://bitgo.ae/
 https://bitso.com
 https://blablacardaily.com
 https://blis.com
-https://blockexplorer.electroneum.com
 https://blog.bitpanda.com/en
 https://blog.etsy.com
 https://blog.lastpass.com
@@ -4946,6 +4948,8 @@ https://equatorialguinea-evisa.com
 https://eshop.salt.ch
 https://esp-jssdk-integ.uidapi.com
 https://esp-srvonly-integ.uidapi.com
+https://etherscan.io/address/0x00005EA00Ac477B1030CE78506496e8C2dE24bf5
+https://etherscan.io/address/0x0000a26b00c1F0DF003000390027140000fAa719
 https://etherscan.io/address/0x0DC4F92879B7670e5f4e4e6e3c801D229129D90D
 https://etherscan.io/address/0x337E7456B420bD3481e7FA61fA9850343d610d34
 https://etherscan.io/address/0x46167cB034feC6ceC46CaeD4f61281f5Aa0Eb0e6
@@ -5025,6 +5029,7 @@ https://github.com/DopplerHQ/cli
 https://github.com/Dynatrace
 https://github.com/Hacker0x01/react-datepicker
 https://github.com/OctopusDeploy
+https://github.com/ProjectOpenSea/seaport#deployments
 https://github.com/RIPE-NCC/rpki-commons
 https://github.com/RIPE-NCC/rpki-core
 https://github.com/RIPE-NCC/rpki-monitoring
@@ -5088,7 +5093,6 @@ https://github.com/digitalocean/do-agent
 https://github.com/digitalocean/doctl
 https://github.com/digitalocean/droplet-agent
 https://github.com/discourse/discourse
-https://github.com/electroneum/electroneum-sc/
 https://github.com/electroneum/electroneum/
 https://github.com/expressvpn/lightway
 https://github.com/fireblocks/mpc-lib
@@ -5821,6 +5825,7 @@ https://matrix.i.tchap.gouv.fr
 https://mattermost.com/apps/
 https://mcp-server.zomato.com/mcp
 https://mcp.atlassian.com
+https://mcp.opensea.io
 https://mcs.arlo.com
 https://media.irobot.com
 https://mediaflows.cloudinary.com/
@@ -5929,6 +5934,7 @@ https://openapitest.pulsepoint.com
 https://opendata-demo.test-socrata.com
 https://opendata.test-socrata.com
 https://opendata.test-socrata.com/admin/gateway
+https://opensea.io/
 https://opensource.epam.com
 https://operaneon.com
 https://ops-sso.adsrvr.org/
@@ -6126,6 +6132,7 @@ https://play.google.com/store/apps/details?id=exodusmovement.exodus&hl=en_IN
 https://play.google.com/store/apps/details?id=fr.gouv.tchap.a&hl=fr
 https://play.google.com/store/apps/details?id=io.aurory.seekersoftokane&hl=en_CA
 https://play.google.com/store/apps/details?id=io.gonative.android.xjndrq&hl=fr
+https://play.google.com/store/apps/details?id=io.opensea&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=it.mediamarket.mediaworld
 https://play.google.com/store/apps/details?id=jp.moneytree.moneytree&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=mo.mgm.app
@@ -6370,7 +6377,6 @@ https://testflight.apple.com/join/533gFghn
 https://testflight.apple.com/join/FuaxsScP
 https://testflight.apple.com/join/Y4cHu289
 https://testflight.apple.com/join/vwFxXX7t
-https://testnet-blockexplorer.electroneum.com
 https://tfb.t-mobile.com
 https://thatconceptstore.com
 https://thinkglobalhealth.org
