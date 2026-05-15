@@ -775,6 +775,7 @@
 *.plannthat.com
 *.platacard.mx
 *.platformservices.io
+*.playstation.com
 *.playstation.net
 *.playticorp.com
 *.playtika.com
@@ -1983,6 +1984,7 @@ ExpressVPN VPN servers
 External service data leakage 
 F 21 Pro
 FIles.com REST API
+FPGA Solution Development Tools and Utilities
 Faucets
 Figma Atlassian App
 Figma Desktop App
@@ -2253,6 +2255,7 @@ Nintendo Switch 2 System Processes allowing piracy
 Nintendo Switch 2 applications for which Nintendo is the publisher worldwide
 Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
+Non Altera Products
 Non-Core Assets
 NordPass - Linux Executable
 NordPass - MacOS Executable
@@ -3777,6 +3780,7 @@ community.watsons.com.my
 community.watsons.com.ph
 company.thebrowser.arc
 compass.fareharbor.com
+compete.playstation.com
 competitive.fortnite.com
 components.stag.tomorrowland.com
 components.tomorrowland.com
@@ -4433,9 +4437,6 @@ https://api-portal.originzero.com.au
 https://api-prod.retailsso.com
 https://api-prod.thatconceptstore.com/
 https://api-skipthedishes.skipthedishes.com
-https://api-{app-id}.calls.sendbird.com
-https://api-{app-id}.notifications.sendbird.com
-https://api-{app-id}.sendbird.com
 https://api.20min.ch/
 https://api.aiven.io/login
 https://api.bitpanda.com
@@ -4919,7 +4920,6 @@ https://dashboard-101.moengage.com
 https://dashboard.fga.dev/
 https://dashboard.pantheon.io
 https://dashboard.rapyd.net/
-https://dashboard.sendbird.com/
 https://data.limeinternal.com
 https://data.prosus.com/
 https://datadome.co
@@ -4932,7 +4932,6 @@ https://dealflowapi.prosus.com
 https://delta.app
 https://demo.adstruc.com
 https://demo.priceless.com/
-https://desk-api-{region}.sendbird.com
 https://desk.thetradedesk.com
 https://desktop.water-link.be/
 https://dev.tutoring.classdojo.com
@@ -5088,7 +5087,6 @@ https://gaadmin.vfsglobal.com/GAR1Ph1ApptAdmin/
 https://gaadmin.vfsglobal.com/Global-Admin/
 https://gaadmin.vfsglobal.com/GlobalAdmin/
 https://gap.citizenportal-test.bugbounty.akinox.dev/
-https://gate.sendbird.com
 https://gateway.optus.com.au/api/ai-search/search/v1
 https://gatewaydsapdev2.marriott.com/
 https://gatewaydsaptst1.marriott.com/
@@ -6360,8 +6358,6 @@ https://segment.com/docs/connections/sources/
 https://selector.viator.com
 https://selfcare.ooredoo.qa
 https://send2.co/
-https://sendbird.com
-https://sendbird.com/docs
 https://service.platform.tripadvisor.com
 https://service.post.ch/ekp-web/
 https://service.post.ch/ele-klp/ele/
@@ -6587,8 +6583,6 @@ https://world.planethoster.net
 https://worldscan.org/address/0xDe7Ec97CFDeE9F20f9d256F4a0A0d694479fa2E0
 https://wowjobs.ca
 https://wpengine.com
-https://ws-{app-id}.calls.sendbird.com
-https://ws-{app-id}.sendbird.com
 https://ws.multiplayer.classdojo.com/
 https://ws.usaa.com
 https://wsloja.ifood.com.br
@@ -7685,6 +7679,7 @@ profiel.vrt.be
 profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
+profile.playstation.com
 profiler.firefox.com
 promo.tw.coupang.com
 prow.k8s.io
@@ -7888,6 +7883,7 @@ servicefr.iciparisxl.be
 servicefr.iciparisxl.lu
 servicefr.kruidvat.be
 servicenl.iciparisxl.be
+session-share.playstation.com
 settings.superhuman.com
 sfc-cf.*.aws.indriverapp.com
 sfc-gw-cf.*.aws.indriverapp.com
@@ -8283,6 +8279,7 @@ web.crypto.com
 web.geneva-staging.com
 web.grindr.com
 web.koho.ca
+web.np.playstation.com
 web.ryadom.kz
 web.snapchat.com
 web.truecaller.com
@@ -8601,6 +8598,7 @@ www.parool.nl
 www.parool.nl/abonnementen
 www.paypal-*.com
 www.pixiv.net
+www.playstation.com
 www.pns.hk
 www.pornbox.com
 www.pornworld.com
