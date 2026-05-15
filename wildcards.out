@@ -131,6 +131,7 @@
 *.avecspotify.com
 *.ayco.com
 *.backblazeb2.com
+*.backend-capital.com
 *.bancoplata.mx
 *.baoliyun.com
 *.base.org
@@ -185,6 +186,7 @@
 *.canva.cn
 *.canva.com
 *.canva.tech
+*.capital.com
 *.capitalone.ca
 *.capitalone.com
 *.capitalonegslbex.com
@@ -243,6 +245,7 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
+*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
@@ -371,6 +374,8 @@
 *.fuze.com
 *.fuze.site
 *.gaming.gopayapi.com
+*.gamma.be/*
+*.gamma.nl/*
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
@@ -440,6 +445,7 @@
 *.harmankardon.com
 *.harmonixmusic.com
 *.harmonyremote.com
+*.hel.io
 *.hellofax.com
 *.hellosign.com
 *.helloworks.com
@@ -499,8 +505,12 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
+*.intergamma-test.nl
+*.intergamma.cloud
+*.intergamma.nl/*
 *.internal.exoscale.ch
 *.intigriti.me
+*.itcapital.io
 *.jbl.com
 *.jbl.com.br
 *.jbl.nl
@@ -512,6 +522,8 @@
 *.jobstreet.com
 *.jora.com
 *.jora.xyz
+*.karwei.nl/*
+*.karweioutletstore.nl
 *.kayak.com
 *.khealth.com
 *.khealth.io/
@@ -646,6 +658,7 @@
 *.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
+*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.movilepay.com
@@ -778,6 +791,7 @@
 *.preview.8x8.vc
 *.prijsmepper.nl
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -812,6 +826,7 @@
 *.registry.eu
 *.rentalcars.com
 *.reposify.com
+*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -991,6 +1006,9 @@
 *.trip.com
 *.triplinkintl.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tumblr.com
@@ -1051,8 +1069,14 @@
 *.vimla.se
 *.vimla.work
 *.vine.co
+*.vinted.com
+*.vinted.fr
+*.vinted.net
+*.vintedgo.com
 *.visamiddleeast.com
 *.vliegwinkel.nl
+*.voi.com
+*.voiscooters.com
 *.volkskrant.nl
 *.volkswagen.de
 *.vpn.hackerone.net
@@ -1076,6 +1100,9 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
 *.wf.com
 *.whatnot.com
 *.whois.eu
@@ -1137,6 +1164,8 @@
 *ensemble*.yahoo.com
 *idp*.uzleuven.be
 *omega*.yahoo.com
+*sandbox*.vinted.com
+*sandbox*.vintedgo.com
 *stag*.uzleuven.be
 *test*.bykea.net
 3rd party services hosted at *.sophos.com
