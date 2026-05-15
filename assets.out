@@ -241,7 +241,6 @@
 *.comcast.com
 *.computerbild.de
 *.consumer.worldcoin.org
-*.contactallerg(y|ie).uzleuven.be
 *.contentsquare.com
 *.cp.dyson.com
 *.creditkarma.ca
@@ -546,7 +545,6 @@
 *.kruidvat.be
 *.kruidvat.nl
 *.kruidvatkids.nl
-*.kwsdose.be
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
 *.lansweeper.com
@@ -646,7 +644,6 @@
 *.miot-spec.org
 *.mipay.com
 *.mipay.net
-*.mir.uzleuven.be
 *.miui.cn
 *.miui.com
 *.miwifi.com
@@ -767,7 +764,6 @@
 *.playstation.net
 *.playticorp.com
 *.playtika.com
-*.playuzleuven.be
 *.playwsop.com
 *.pns.hk
 *.points.com
@@ -1039,7 +1035,6 @@
 *.uscc.com
 *.uscc.net
 *.uscellular.com
-*.uzleuven.*
 *.vacationhomerentals.com
 *.varonis.com
 *.varonis.io
@@ -1149,17 +1144,14 @@
 *.zmifi.com
 *.zomans.com
 *.zomato.com
-*dev.uzleuven.be
 *developer.cloud.com
 *ensemble*.yahoo.com
 *gateway-apc.marriott.com
-*idp*.uzleuven.be
 *inf.fndlsb.net
 *omega*.yahoo.com
 *ripio.com
 *ripiotrade.co
 *signalservice.comcast.net
-*stag*.uzleuven.be
 *test*.bykea.net
 *tidalhi.fi
 *uat.marriott.com
@@ -1293,7 +1285,6 @@
 193.109.229.0/24
 193.110.154.0/24
 193.5.66.0/23
-193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111
 193.8.251.0/24
 194.209.121.0/24
 194.35.79.0/24
@@ -1771,7 +1762,6 @@ Brand Sites
 Brave Browser Desktop
 Brave websites
 Bridge
-Broken Link
 Browser Isolation
 BrowserGuard (Firefox/Chrome/Safari browser extension)
 BuddyPress Core
@@ -3095,7 +3085,6 @@ authentication.clearme.com
 authentication.wolt.com
 authz.workbox.dk
 autocomplete.booking.com
-autodiscover.uzleuven.be
 autointerface.stag.visma.net
 autoupdateapi.lansweeper.com
 aw.visa.com
@@ -3247,8 +3236,6 @@ capability.prod.innovexperiments.com
 capturingreality.com
 cardpayments.remitly.io
 cards.remitly.io
-cardsonline.azdiest.be
-cardsonlinetst.azdiest.be
 career.bpost.be
 careers.booking.com
 careers.indrive.com
@@ -3965,7 +3952,6 @@ ecom-data.theperfumeshop.com
 ecom-data.trekpleister.nl
 ecom-static.kruidvat.be
 ecom-static.kruidvat.nl
-ecrf.uzleuven.be
 edge.bookbeat.com
 edge.lansweeper.com
 edgeapi.slack.com
@@ -4023,10 +4009,8 @@ expressvpn.jobs
 external-api.lime.bike
 external.indrive.dev
 external.logitech.com
-extranet-asa.uzleuven.be
 extranet.marionnaud.ch
 extranet.s-pankki.fi
-extranet.uzleuven.be
 extras-acc.landmarkcinemas.com
 extras.landmarkcinemas.com
 fab.com
@@ -4058,7 +4042,6 @@ fi.unibet.com
 file-storage-front.eu-east-1.indriverapp.com
 file.larksuite.com
 files-stg.inspectorio.com
-files.uzleuven.be
 fileupload-video.tw.coupang.com
 fileupload.tw.coupang.com
 fintech-aml-kyc-tw.coupang.com
@@ -4293,7 +4276,6 @@ http://verified.clearme.com/dashboard
 http://vimeo.com/api
 http://vimeo.com/create
 http://vimeo.com/ondemand
-http://wallet.opensea.io/
 http://wellsfargo.com
 http://wf.com
 http://www.bybit.com/en/alpha/overview/
@@ -4612,7 +4594,6 @@ https://apps.apple.com/us/app/moovit-all-transit-options/id498477945
 https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718
 https://apps.apple.com/us/app/northwestern-mutual/id1132579006
 https://apps.apple.com/us/app/okta-verify/id490179405
-https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
 https://apps.apple.com/us/app/opera-ai-browser-with-vpn/id1411869974
 https://apps.apple.com/us/app/pinterest/id429047995
 https://apps.apple.com/us/app/private-internet-access-anonymous/id955626407
@@ -4965,8 +4946,6 @@ https://equatorialguinea-evisa.com
 https://eshop.salt.ch
 https://esp-jssdk-integ.uidapi.com
 https://esp-srvonly-integ.uidapi.com
-https://etherscan.io/address/0x00005EA00Ac477B1030CE78506496e8C2dE24bf5
-https://etherscan.io/address/0x0000a26b00c1F0DF003000390027140000fAa719
 https://etherscan.io/address/0x0DC4F92879B7670e5f4e4e6e3c801D229129D90D
 https://etherscan.io/address/0x337E7456B420bD3481e7FA61fA9850343d610d34
 https://etherscan.io/address/0x46167cB034feC6ceC46CaeD4f61281f5Aa0Eb0e6
@@ -5046,7 +5025,6 @@ https://github.com/DopplerHQ/cli
 https://github.com/Dynatrace
 https://github.com/Hacker0x01/react-datepicker
 https://github.com/OctopusDeploy
-https://github.com/ProjectOpenSea/seaport#deployments
 https://github.com/RIPE-NCC/rpki-commons
 https://github.com/RIPE-NCC/rpki-core
 https://github.com/RIPE-NCC/rpki-monitoring
@@ -5843,7 +5821,6 @@ https://matrix.i.tchap.gouv.fr
 https://mattermost.com/apps/
 https://mcp-server.zomato.com/mcp
 https://mcp.atlassian.com
-https://mcp.opensea.io
 https://mcs.arlo.com
 https://media.irobot.com
 https://mediaflows.cloudinary.com/
@@ -5952,7 +5929,6 @@ https://openapitest.pulsepoint.com
 https://opendata-demo.test-socrata.com
 https://opendata.test-socrata.com
 https://opendata.test-socrata.com/admin/gateway
-https://opensea.io/
 https://opensource.epam.com
 https://operaneon.com
 https://ops-sso.adsrvr.org/
@@ -6150,7 +6126,6 @@ https://play.google.com/store/apps/details?id=exodusmovement.exodus&hl=en_IN
 https://play.google.com/store/apps/details?id=fr.gouv.tchap.a&hl=fr
 https://play.google.com/store/apps/details?id=io.aurory.seekersoftokane&hl=en_CA
 https://play.google.com/store/apps/details?id=io.gonative.android.xjndrq&hl=fr
-https://play.google.com/store/apps/details?id=io.opensea&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=it.mediamarket.mediaworld
 https://play.google.com/store/apps/details?id=jp.moneytree.moneytree&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=mo.mgm.app
@@ -7025,7 +7000,6 @@ kronor.io
 kronos*.bykea.net
 kubernetes-csi.github.io
 kubernetes.io
-kumulus.uzleuven.be
 kws-companion/id1342124012
 kyc-onboarding.booking.com
 landing.ryadom.kz
@@ -7055,8 +7029,6 @@ links.geneva-staging.chat
 links.geneva-staging.com
 links.portswigger.net
 liquidfiles.nexuzhealth.com
-liquidfiles.uzleuven.be
-liquidfilestest.uzleuven.be
 lirportal.ripe.net
 list-v2--netlify-plugins.netlify.app
 lists.wordpress.org
@@ -7256,10 +7228,8 @@ mgmt-sensors.iris.production.forescoutcloud.net
 mgmtpod-1-dashboard.production.forescoutcloud.net
 mgmtpod-1.production.forescoutcloud.net
 mgs.marriott.com
-mijnacc.uzleuven.be
 minerva.robinhood.com
 mipartnerprivileges.marriott.com
-mirc.uzleuven.be
 mix-dev.monash.edu/*
 mix-qat.monash.edu/*
 mobile.clearme.com
@@ -7290,8 +7260,6 @@ msg.playcanvas.com
 mta-sts.wearehackerone.com
 munin-*.wordpress.org
 mus1.badoo.com
-mx1.uzleuven.be
-mx2.uzleuven.be
 my-accpt.portofantwerp.com
 my-accpt.portofantwerpbruges.com
 my.account.sony.com
@@ -7492,7 +7460,6 @@ payroll.razorpay.com
 pb.deribit.com
 pc-cf.*.aws.indriverapp.com
 pc-gw-cf.*.aws.indriverapp.com
-pcrstudioruzb.uzleuven.be
 personal.trexcloud.com
 phabricator.allizom.org
 phlonline.vfsevisa.cn
@@ -7550,8 +7517,6 @@ pr*.indriverapp.com
 pr-gw-cf.*.aws.indriverapp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
-prddnighting01.uzleuven.be
-prddsplunkhf.uzleuven.be
 premium.pixiv.net
 preprod.am.monespacesante.fr
 preprod.api.monespacesante.fr
@@ -7611,7 +7576,6 @@ ra-gw-cf.*.aws.indriverapp.com
 rafflee.co.uk
 rancher.ninjakiwi.com
 rancher.ninjakiwi.me
-random.uzleuven.be/random/
 raptor*.bykea.net
 ras1.optus.com.au 
 rates.rewire.com
@@ -7951,7 +7915,6 @@ streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 sts.delen.be 
-sts.uzleuven.be
 studio-api.swapcard.com
 studio.swapcard.com
 style.23andme.com
@@ -8023,7 +7986,6 @@ testapp.redoxengine.com
 testbank.xs2a.com
 testing.maventa.com
 testnet.bitmex.com
-teststs.uzleuven.be
 thebrowser.company
 tickets.kinepolis.be
 tickets.kinepolis.ch
@@ -8154,8 +8116,6 @@ vtm.be/vtmgo
 vtmgo.be
 vwcm.visa.com
 vœux.vinci.com
-w1.uzleuven.be
-w1.uzleuven.be/random
 waf.cumulusfire.net
 wallet-sandbox.uphold.com
 wallet.tg
@@ -8233,7 +8193,6 @@ world.hey.com
 world.hyatt.com
 world.org
 worldcoin.org
-wp5-truststroke.uzleuven.be
 wps-cps.cv.dmp.gouv.fr
 wps-cps.dmp.gouv.fr
 wps-cps.dmp.monespacesante.fr
@@ -8573,7 +8532,6 @@ www.uphold.com
 www.upwork.com/api 
 www.urbanclap.com
 www.urbancompany.com
-www.uzleuven.be
 www.valmo.in
 www.valvesoftware.com
 www.vfsvisaonline.com
@@ -8691,7 +8649,6 @@ ywh.static.zecible.fr
 ywh.update.zecible.fr
 zelleservice.my.salesforce.com
 zelleservice.my.site.com
-ziekenhuisschool.be
 zooplus.net
 ███
 ████
