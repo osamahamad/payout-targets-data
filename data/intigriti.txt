@@ -224,27 +224,6 @@ Firmware
 Software
 Services
 IT Infrastructure
-www.gamma.nl/*
-www.gamma.be/*
-www.karwei.nl/*
-kassa.gamma.nl/*
-kassa.gamma.be/*
-kassa.karwei.nl/*
-mijn.gamma.nl/*
-mijn.gamma.be/*
-mijn.karwei.nl/*
-949829216
-950693949
-950680989
-1558129454
-nl.gamma.app.android
-be.gamma.app.android
-nl.karwei.app.android
-irmg.nl
-gammacademy.be
-karwei-promotiepunt.nl
-gammalokaal.nl
-nl.gamma.verf
 booking.mjrtheatres.com
 extras.landmarkcinemas.com
 identityserver.landmarkcinemas.com
@@ -449,11 +428,6 @@ mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
 rancher.ninjakiwi.com
 rancher.ninjakiwi.me
-https://a.simplemdm.com/
-https://auth2.pdq.com/
-https://library.pdq.com/
-https://portal.pdq.com/
-https://app.pdq.com/
 api.personio-dev.com
 api.personio.com
 https://community.personio.com
@@ -623,37 +597,6 @@ shop.trouw.nl
 webwinkel.trouw.nl
 www.trouw.nl
 www.trouw.nl/abonnementen
-api.truelayer[-sandbox].com
-api.mtls.truelayer[-sandbox].com
-auth.truelayer[-sandbox].com
-auth.mtls.truelayer[-sandbox].com
-app.truelayer[-sandbox].com
-login-api.truelayer[-sandbox].com
-login.truelayer[-sandbox].com
-onboarding-api.truelayer.com
-pay-api.truelayer[-sandbox].com
-pay.truelayer[-sandbox].com
-paydirect.truelayer[-sandbox].com
-payment.truelayer[-sandbox].com
-payments-experience-api.truelayer[-sandbox].com
-user-authentication-api.truelayer[-sandbox].com
-users-api.truelayer.com
-C# SDK
-console-backend.truelayer[-sandbox].com
-console.truelayer[-sandbox].com
-sftp.reports.truelayer.com
-Java SDK
-PHP SDK
-TrueLayer for Magento (Magento plugin)
-TrueLayer for WooCommerce (WordPress plugin)
-shopify-admin.truelayer.com
-shop-pay-app-api.truelayer.com
-truelayer-signing
-webhooks.truelayer[-sandbox].com
-iOS SDK
-React Native SDK
-Web SDK
-Rust SDK
 OP-TEE
 Mbed TLS & TF-PSA-Crypto
 TrustedFirmware-A (TF-A)
