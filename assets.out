@@ -1188,8 +1188,6 @@
 1089294040
 1091010942
 10x.redoxengine.com
-1114799709
-1114800186
 1116488672
 1118448159
 1127881507
@@ -1484,7 +1482,6 @@
 3d.cs.money
 3rd party services hosted at *.sophos.com
 3rd-Party Provider Vulnerability
-3rdparty-apis.coinmarketcap.com
 403546234
 403684733
 406056744
@@ -1760,10 +1757,6 @@ Beats - Packetbeat
 Beats - Winlogbeat
 Beeper
 Behance Freelance Job creation
-Binance Desktop Application
-Binance Mobile Application for Android
-Binance Mobile Application for iOS
-Binance macOS Application
 Bitdefender Antimalware Engines
 Bitdefender BOX v2
 Bitdefender Total Security
@@ -1842,8 +1835,6 @@ Cloudkey
 Cluster-To-Cluster sync
 Coda Chrome Extension
 Codex Desktop
-CoinMarketCap Android app
-CoinMarketCap iOS app
 Coinbase WaaS (Wallet as a Service)
 ColdFusion
 ColorOS
@@ -2501,9 +2492,6 @@ Tribal Wars
 TrustedFirmware-A (TF-A)
 TrustedFirmware-M (TF-M)
 TrustedServer 100,000 Bonus Award (See Program Policy for Info)
-Trustwallet Android App
-Trustwallet Chrome Extension
-Trustwallet iOS App
 Turnstile
 Twilio APIs
 UCRM
@@ -2787,7 +2775,6 @@ api.anthropic.com
 api.arkane.network
 api.atg.se
 api.au.frontegg.com
-api.binance.com
 api.blockchain.info
 api.chainabuse-staging.com
 api.circle.com
@@ -2797,7 +2784,6 @@ api.cm.com
 api.cmtelecom.com
 api.coinbase.com
 api.coindcx.com
-api.coinmarketcap.com
 api.creditkarma.com
 api.custody.coinbase.com
 api.deriv.com
@@ -2924,7 +2910,6 @@ api.slack.com
 api.smtp2go.com
 api.sokos.fi
 api.sorare.com
-api.soundtrackyourbrand.com
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -3147,7 +3132,6 @@ bettrfinancing.com
 bid.*.aws.indriverapp.com
 bigcommerce-adapter.judge.me
 bild.de
-billing.api.soundtrackyourbrand.com
 billingsupport.chaturbate.com
 bilt.marriott.com
 biolibre.ar
@@ -3203,14 +3187,12 @@ bugcrowd-pam-###.pam.oktapreview.com
 bugzilla.mozilla.org
 builder.hostinger.com
 building-blocks.com
-builds.soundtrackyourbrand.com
 bulten.watsons.com.tr
 business-resources.truecaller.com
 business.kayak.com
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
-business.soundtrackyourbrand.com
 business.tiktok.com
 business.truecaller.com
 businesshelp.snapchat.com
@@ -3348,7 +3330,6 @@ code.yoti.com
 codeofconduct.visa.com
 codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
 coinbase.com
-coinmarketcap.com
 collections.portswigger.net
 com.3mosquitos.MercadoLibre
 com.Hyatt
@@ -3632,7 +3613,6 @@ com.skypicker.Skypicker
 com.skypicker.main
 com.slack.slackmdm
 com.snapchat.android
-com.soundtrackyourbrand.soundtrack.player
 com.spotify.client
 com.spotify.kids
 com.spotify.music
@@ -4671,7 +4651,6 @@ https://audio.20min.ch/
 https://aus.api.just-eat.io/
 https://auth-adx.op-mobile.opera.com
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
-https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.lastpass.com
@@ -4699,7 +4678,6 @@ https://billing.etoro.com
 https://billing.ring.com/*
 https://billingonline.post.ch/OnlinePayment/Web/v1/BOI
 https://billingserver.pinelabs.com
-https://binance.tr
 https://bistro.sk
 https://bitbucket.org
 https://bitgo.ae/
@@ -4735,7 +4713,6 @@ https://bugcrowd.charm.felixforus.ca/home
 https://bugcrowd.com/programs
 https://bugcrowd.lucky.felixforus.ca
 https://bugs.opera.com/
-https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
@@ -5235,7 +5212,6 @@ https://github.com/tchapgouv
 https://github.com/tempus-ex
 https://github.com/transferwise/*
 https://github.com/tronprotocol/java-tron
-https://github.com/trustwallet/wallet-core/
 https://github.com/valvesoftware
 https://github.com/vercel-labs/agent-skills
 https://github.com/vercel-labs/skills
@@ -6224,7 +6200,6 @@ https://push-real-hk-lightstreamer.cloud.etoro.com
 https://pyszne.pl
 https://quantum-events.onecloud.harman.com
 https://r.etoro.com
-https://radio.api.soundtrackyourbrand.com/
 https://rankings.etoro.com
 https://rc.fstr.rocks
 https://rc.wmaudience.com
@@ -6544,8 +6519,6 @@ https://www.atlassian.com/software/rovo
 https://www.atlassian.com/software/rovo-dev
 https://www.authy.com/download/
 https://www.beta.tchap.gouv.fr
-https://www.binance.com/
-https://www.binance.us/
 https://www.bitdefender.com/business/smb-products/business-security.html?cid=ppc|b|google|smb&s_kwcid=AL!6076!3!514235572261!p!!g!!bitdefender%20business&utm_term=bitdefender%20business&utm_campaign=USA+SMB+Branded+30&utm_source=adwords&utm_medium=ppc&hsa_acc=8155205354&hsa_cam=7848657822&hsa_grp=124745713150&hsa_ad=514235572261&hsa_src=g&hsa_tgt=kwd-308396066873&hsa_kw=bitdefender%20business&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwqIiFBhAHEiwANg9szk-Rr3iSn4mrwsvAUOn-pzrO12ufWDmyCLopWigaLQW0t_xtlBE65RoCr6kQAvD_BwE
 https://www.bitpanda.com/
 https://www.bitpanda.com/academy/en/
@@ -6634,6 +6607,7 @@ https://www.just-eat.co.uk
 https://www.justeattakeaway.com
 https://www.kaleido.ai
 https://www.keepersecurity.com/download.html
+https://www.keepersecurity.com/download.html?t=db
 https://www.kohls.com
 https://www.kohls.com/feature/app.jsp
 https://www.kuleuven.be/sapredir/huisvesting
@@ -6760,7 +6734,6 @@ https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
 https://www.sophos.com/en-us/products/mobile-control/free-trial
 https://www.sophos.com/en-us/products/next-gen-firewall
-https://www.soundtrackyourbrand.com
 https://www.sourcetreeapp.com/
 https://www.tagesanzeiger.ch
 https://www.tchap.gouv.fr
@@ -7102,7 +7075,6 @@ m.reddit.com
 m.trendyol.com
 m.tw.coupang.com
 mUSD Stablecoin
-macOS app
 magazine.kruidvat.be
 magento.com
 magiceden.io
@@ -7511,7 +7483,6 @@ pm-gw-cf.*.aws.indriverapp.com
 pmtcards.newegg.com
 politico.eu
 pontoon.allizom.org
-portal-api.coinmarketcap.com
 portal.23andme.com
 portal.arkoselabs.com
 portal.au.frontegg.com
@@ -7557,9 +7528,7 @@ pricerunner.com
 prime.coinbase.com
 primevideo.com/*
 priority.eu-east-1.indriverapp.com
-pro-api.coinmarketcap.com
 pro.coinbase.com
-pro.coinmarketcap.com
 pro.doctolib.(fr|de|it) (see "Free features for healthcare professionals"))
 procuration.bpost.be
 prod-*.nu.com.co
