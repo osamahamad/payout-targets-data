@@ -2792,8 +2792,6 @@ api.custody.coinbase.com
 api.deriv.com
 api.developer.monespacesante.fr
 api.dicey.com
-api.digital.delen.be 
-api.digital.delen.lu 
 api.digitalocean.com
 api.direct.playstation.com
 api.dmp.gouv.fr
@@ -2960,9 +2958,6 @@ app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
-app.delen.be 
-app.delen.ch 
-app.delen.lu 
 app.demand.cybersource.com
 app.deriv.com
 app.drogas.lt
@@ -3071,8 +3066,6 @@ auth-identity-uat-ping.nba.com
 auth-identity-uat.nba.com
 auth-identity.nba.com
 auth.23andme.com
-auth.digital.delen.be 
-auth.digital.delen.lu 
 auth.dmp.gouv.fr
 auth.hhc247.org
 auth.magic.link
@@ -3121,7 +3114,6 @@ bdese.marionnaud.fr
 bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
-be.delen.digital
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -3849,7 +3841,6 @@ decision.swiftfinancial.com
 deeplinks.geneva-staging.chat
 deeplinks.geneva-staging.com
 defi.ripio.com
-delen/id1064839588
 delivery-webview.indrive.com
 demo.arkoselabs.com
 demo.dynamic.xyz
@@ -4689,6 +4680,7 @@ https://bitgo.ae/
 https://bitso.com
 https://blablacardaily.com
 https://blis.com
+https://blockexplorer.electroneum.com
 https://blog.bitpanda.com/en
 https://blog.etsy.com
 https://blog.lastpass.com
@@ -4896,6 +4888,7 @@ https://download.krisp.ai/win
 https://download.opera.com
 https://drp.myoppo.com/
 https://dxc.episerver.net/ 
+https://e-global.heytap.com/marketing/login
 https://e.oppo.com/
 https://ebctest.cybersource.com/CGK2
 https://ebctest.cybersource.com/bin
@@ -5091,6 +5084,7 @@ https://github.com/digitalocean/do-agent
 https://github.com/digitalocean/doctl
 https://github.com/digitalocean/droplet-agent
 https://github.com/discourse/discourse
+https://github.com/electroneum/electroneum-sc/
 https://github.com/electroneum/electroneum/
 https://github.com/expressvpn/lightway
 https://github.com/fireblocks/mpc-lib
@@ -6369,6 +6363,7 @@ https://testflight.apple.com/join/533gFghn
 https://testflight.apple.com/join/FuaxsScP
 https://testflight.apple.com/join/Y4cHu289
 https://testflight.apple.com/join/vwFxXX7t
+https://testnet-blockexplorer.electroneum.com
 https://tfb.t-mobile.com
 https://thatconceptstore.com
 https://thinkglobalhealth.org
@@ -7043,13 +7038,9 @@ login-qa.nba.com
 login-sandbox.nba.com
 login-uat.nba.com
 login.cm.com
-login.delen.be 
-login.delen.ch 
-login.delen.lu 
 login.insightly.com
 login.lansweeper.com
 login.nba.com
-login.oyens.com
 login.playcanvas.com
 login.rei.com
 login.remitly.com
@@ -7886,7 +7877,6 @@ stats.gleague.nba.com
 stats.nba.com
 stats.vinci.com
 stats.wnba.com
-status.delen.be 
 status.larksuite.com
 status.uphold.com
 steamcommunity.com
@@ -7912,7 +7902,6 @@ streaming-api.iris.production.forescoutcloud.net
 streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
-sts.delen.be 
 sts.uzleuven.be
 studio-api.swapcard.com
 studio.swapcard.com
@@ -8232,8 +8221,6 @@ www.bookingholdings.com
 www.bpost.be
 www.bpost2.be
 www.bumble.com
-www.cadelam.be 
-www.cadelux.lu/en 
 www.cardinalcommerce.com
 www.carrentals.com
 www.cart.starbucks.co.jp/
@@ -8259,8 +8246,6 @@ www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
 www.ddfcontent.com
-www.delen.bank
-www.delen.be/en 
 www.demorgen.be
 www.demorgen.be/abonnementen
 www.digitalocean.com
