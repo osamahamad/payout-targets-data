@@ -1,0 +1,3 @@
+*.arlo.com (subdomains impacting production customer-facing services)
+*dev*.arlo.com
+*qa*.arlo.com

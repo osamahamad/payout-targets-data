@@ -122,6 +122,7 @@
 *.appmiral.com
 *.arlo.com
 *.arlo.com (subdomains impacting customer-facing services)
+*.arlo.com (subdomains impacting production customer-facing services)
 *.arlocloud.com
 *.arloxcld.com
 *.artifactory.marriott.com
@@ -1306,9 +1307,11 @@
 *.zmifi.com
 *.zomans.com
 *.zomato.com
+*dev*.arlo.com
 *ensemble*.yahoo.com
 *idp*.uzleuven.be
 *omega*.yahoo.com
+*qa*.arlo.com
 *sandbox*.vinted.com
 *sandbox*.vintedgo.com
 *stag*.uzleuven.be

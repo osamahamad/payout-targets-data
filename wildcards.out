@@ -111,7 +111,7 @@
 *.app.personio-dev.com
 *.app.personio.com
 *.appmiral.com
-*.arlo.com (subdomains impacting customer-facing services)
+*.arlo.com (subdomains impacting production customer-facing services)
 *.arlocloud.com
 *.arloxcld.com
 *.artifactory.marriott.com
@@ -521,7 +521,14 @@
 *.khealth.io/
 *.kibana.wtf
 *.kiln.it
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
 *.kiwi.com
+*.klubcinema.fr
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
@@ -529,6 +536,7 @@
 *.kruidvat.nl
 *.kruidvatkids.nl
 *.kwsdose.be
+*.landmarkcinemas.com
 *.landmarkglobal-group.com
 *.lansweeper.com
 *.lastminute.co.nz
@@ -587,6 +595,7 @@
 *.mb-cosmos.com
 *.mbamupdates.com
 *.mediatonic.co.uk
+*.megatix.be  
 *.melonapp.com
 *.meraki.com
 *.mercadolibre.cl
@@ -627,6 +636,7 @@
 *.miui.cn
 *.miui.com
 *.miwifi.com
+*.mjrtheatres.com
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
@@ -1132,9 +1142,11 @@
 *.zmifi.com
 *.zomans.com
 *.zomato.com
+*dev*.arlo.com
 *ensemble*.yahoo.com
 *idp*.uzleuven.be
 *omega*.yahoo.com
+*qa*.arlo.com
 *sandbox*.vinted.com
 *sandbox*.vintedgo.com
 *stag*.uzleuven.be

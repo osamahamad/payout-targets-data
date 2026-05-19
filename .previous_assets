@@ -147,6 +147,7 @@
 *.appmiral.com
 *.arlo.com
 *.arlo.com (subdomains impacting customer-facing services)
+*.arlo.com (subdomains impacting production customer-facing services)
 *.arlocloud.com
 *.arloxcld.com
 *.artifactory.marriott.com
@@ -1334,6 +1335,7 @@
 *badger.it.vinted.com
 *careers.vinted.com
 *company.vinted.com
+*dev*.arlo.com
 *dev.uzleuven.be
 *developer.cloud.com
 *ensemble*.yahoo.com
@@ -1343,6 +1345,7 @@
 *news.vinted.com
 *old.vinted.com
 *omega*.yahoo.com
+*qa*.arlo.com
 *racing.fanduel.com
 *ripio.com
 *ripiotrade.co
