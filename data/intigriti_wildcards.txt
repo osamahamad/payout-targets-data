@@ -38,7 +38,6 @@
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -174,6 +173,8 @@ Leaked/compromised employee accounts *.here.com
 *.vintedgo.com
 *sandbox*.vintedgo.com
 *sandbox*.vinted.com
+*.voi.com
+*.voiscooters.com
 *. advancedcustomfields.com
 *. bettersearchreplace.com
 *.deliciousbrains.com
