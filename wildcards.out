@@ -245,6 +245,7 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
+*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
@@ -373,6 +374,8 @@
 *.fuze.com
 *.fuze.site
 *.gaming.gopayapi.com
+*.gamma.be/*
+*.gamma.nl/*
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
@@ -501,6 +504,9 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
+*.intergamma-test.nl
+*.intergamma.cloud
+*.intergamma.nl/*
 *.internal.exoscale.ch
 *.intigriti.me
 *.itcapital.io
@@ -515,6 +521,8 @@
 *.jobstreet.com
 *.jora.com
 *.jora.xyz
+*.karwei.nl/*
+*.karweioutletstore.nl
 *.kayak.com
 *.khealth.com
 *.khealth.io/
@@ -815,6 +823,7 @@
 *.registry.eu
 *.rentalcars.com
 *.reposify.com
+*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -1083,6 +1092,9 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
 *.wf.com
 *.whatnot.com
 *.whois.eu
