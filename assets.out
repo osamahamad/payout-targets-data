@@ -146,6 +146,7 @@
 *.avecspotify.com
 *.ayco.com
 *.backblazeb2.com
+*.backend-capital.com
 *.bancoplata.mx
 *.baoliyun.com
 *.base.org
@@ -200,6 +201,7 @@
 *.canva.cn
 *.canva.com
 *.canva.tech
+*.capital.com
 *.capitalone.ca
 *.capitalone.com
 *.capitalonegslbex.com
@@ -517,6 +519,7 @@
 *.intercomassets.com / *.intercomcdn.com
 *.internal.exoscale.ch
 *.intigriti.me
+*.itcapital.io
 *.jbl.com
 *.jbl.com.br
 *.jbl.nl
@@ -1786,6 +1789,8 @@ Body Scan scale
 Bot Management
 Braintree SDK
 Brand Sites
+Brave Browser Desktop
+Brave websites
 Bridge
 Broken Link
 Browser Isolation
@@ -1948,7 +1953,6 @@ Enterprise Edition Products and Tools
 EpicGamesLauncher.exe    
 EpicOnlineServices
 Exness Investor
-Exness Social Trading
 Exness Trade: Online Trading
 Exodus Desktop Wallet
 Express AI Assistant
@@ -2716,6 +2720,7 @@ ads.tiktok.com
 adtechnology.axelspringer.com
 advisories.gitlab.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
+aff.capital.com
 affiliate-id.tokopedia.com
 affiliate.meesho.com
 agents.hostinger.com
@@ -3262,6 +3267,7 @@ campaigns.theperfumeshop.com
 campus.datacamp.com
 cancellation.prod.ps.welt.de
 capability.prod.innovexperiments.com
+capital.com/*
 capturingreality.com
 cardpayments.remitly.io
 cards.remitly.io
@@ -3269,6 +3275,7 @@ cardsonline.azdiest.be
 cardsonlinetst.azdiest.be
 career.bpost.be
 careers.booking.com
+careers.capital.com
 careers.indrive.com
 careers.marriott.com
 careers.remitly.com
@@ -3439,10 +3446,13 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
 com.bykea.pk.partner
+com.capital.trading
 com.cheaptickets
 com.clay.ios
 com.clearme.Clear
@@ -3476,7 +3486,6 @@ com.enjin.mobile.wallet
 com.eufylife.EufyHome
 com.evernote
 com.exness.android.pa
-com.exness.investments
 com.expedia.bookings
 com.expediapartnercentral
 com.fanduel.android.self
@@ -4160,6 +4169,7 @@ globaljourney.tomorrowland.com
 gnip.com
 gnocchi-www.buffalo-ggn.net
 go-cms.tw.coupang.com
+go.capital.com
 go.geneva-staging.com
 go.stripchat.com
 go.welt.de
@@ -5085,6 +5095,7 @@ https://github.com/auth0/react-native-auth0
 https://github.com/backstage/backstage
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
+https://github.com/brave/*, https://github.com/brave-intl/*
 https://github.com/buildonspark/spark
 https://github.com/cashapp/cash-app-pay-android-sdk
 https://github.com/cashapp/cash-app-pay-ios-sdk
@@ -5903,7 +5914,6 @@ https://my.arlo.com
 https://my.electroneum.com/
 https://my.elementor.com/
 https://my.exness.com/pa/pim/manager
-https://my.exness.com/pa/socialtrading
 https://my.exness.com/webtrading/
 https://my.mintmobile.com
 https://my.planethoster.com
@@ -7424,6 +7434,7 @@ onlinepharmacy.superdrug.com
 onum-labs.com
 onum.com
 open redirect at *.epam.com
+open-api.capital.com
 open.airbnb.com
 open.larksuite.com
 open.ys7.com
@@ -7486,6 +7497,7 @@ pay.wallet.tg
 pay.{business_critical_assets} *see business assets for more information
 paybridge.booking.com
 payer-details-sandbox.gocardless.com
+payment.backend-capital.com
 payment.bingo.com
 payment.casinohuone.com
 payment.kolikkopelit.com
@@ -7665,6 +7677,7 @@ refined.site/admin
 register-accpt.portofantwerp.com
 register-accpt.portofantwerpbruges.com
 register.bpost.be
+register.capital.com
 registre.notebleue.pro
 registry.gitlab.com
 rei.com
@@ -7876,7 +7889,6 @@ sn-api-gw-cf.*.aws.indriverapp.com
 snappublisher.snapchat.com
 snaps.metamask.io
 soaext.oft.hyatt.com
-social-trading.exness.com
 social.geneva-staging.chat
 social.geneva-staging.com
 social.playstation.com
