@@ -1067,10 +1067,6 @@
 *.vimla.se
 *.vimla.work
 *.vine.co
-*.vinted.com
-*.vinted.fr
-*.vinted.net
-*.vintedgo.com
 *.visamiddleeast.com
 *.vliegwinkel.nl
 *.voi.com
@@ -1156,9 +1152,6 @@
 *.zmifi.com
 *.zomans.com
 *.zomato.com
-*badger.it.vinted.com
-*careers.vinted.com
-*company.vinted.com
 *dev*.arlo.com
 *dev.uzleuven.be
 *developer.cloud.com
@@ -1166,18 +1159,13 @@
 *gateway-apc.marriott.com
 *idp*.uzleuven.be
 *inf.fndlsb.net
-*news.vinted.com
-*old.vinted.com
 *omega*.yahoo.com
 *qa*.arlo.com
 *ripio.com
 *ripiotrade.co
-*sandbox*.vinted.com
-*sandbox*.vintedgo.com
 *signalservice.comcast.net
 *stag*.uzleuven.be
 *test*.bykea.net
-*test-escalations.vintedgo.com
 *tidalhi.fi
 *uat.marriott.com
 *ubereats.com
@@ -2370,7 +2358,6 @@ Sandboxes
 Save to Spotify CLI
 Savers Android
 Savers iOS
-Scam
 Scanwatch
 Scanwatch 2
 Scanwatch Light
@@ -2552,7 +2539,6 @@ VS Code Plugin
 Vectorize
 Video Conferencing Products
 Video Doorbell
-Vinted: Shop & sell pre-loved
 Virtual Office Desktop
 Voi – e-scooter & e-bike hire
 Voi – e-scooters & e-bikes
@@ -2808,8 +2794,6 @@ api.custody.coinbase.com
 api.deriv.com
 api.developer.monespacesante.fr
 api.dicey.com
-api.digital.delen.be 
-api.digital.delen.lu 
 api.digitalocean.com
 api.direct.playstation.com
 api.dmp.gouv.fr
@@ -2979,9 +2963,6 @@ app.circle.com
 app.datacamp.com/certification
 app.datacamp.com/groups
 app.datacamp.com/learn
-app.delen.be 
-app.delen.ch 
-app.delen.lu 
 app.demand.cybersource.com
 app.deriv.com
 app.drogas.lt
@@ -3093,8 +3074,6 @@ auth-identity-uat-ping.nba.com
 auth-identity-uat.nba.com
 auth-identity.nba.com
 auth.23andme.com
-auth.digital.delen.be 
-auth.digital.delen.lu 
 auth.dmp.gouv.fr
 auth.hhc247.org
 auth.magic.link
@@ -3143,7 +3122,6 @@ bdese.marionnaud.fr
 bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
-be.delen.digital
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -3879,7 +3857,6 @@ decision.swiftfinancial.com
 deeplinks.geneva-staging.chat
 deeplinks.geneva-staging.com
 defi.ripio.com
-delen/id1064839588
 delivery-webview.indrive.com
 demo.arkoselabs.com
 demo.dynamic.xyz
@@ -7096,13 +7073,9 @@ login-sandbox.nba.com
 login-uat.nba.com
 login.arkane.network
 login.cm.com
-login.delen.be 
-login.delen.ch 
-login.delen.lu 
 login.insightly.com
 login.lansweeper.com
 login.nba.com
-login.oyens.com
 login.playcanvas.com
 login.rei.com
 login.remitly.com
@@ -7947,7 +7920,6 @@ stats.gleague.nba.com
 stats.nba.com
 stats.vinci.com
 stats.wnba.com
-status.delen.be 
 status.larksuite.com
 status.uphold.com
 steamcommunity.com
@@ -7973,7 +7945,6 @@ streaming-api.iris.production.forescoutcloud.net
 streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
-sts.delen.be 
 sts.uzleuven.be
 studio-api.swapcard.com
 studio.swapcard.com
@@ -8303,8 +8274,6 @@ www.bookingholdings.com
 www.bpost.be
 www.bpost2.be
 www.bumble.com
-www.cadelam.be 
-www.cadelux.lu/en 
 www.cardinalcommerce.com
 www.carrentals.com
 www.cart.starbucks.co.jp/
@@ -8332,8 +8301,6 @@ www.cybersource.com
 www.datacamp.com
 www.datacamp.com/datalab
 www.ddfcontent.com
-www.delen.bank
-www.delen.be/en 
 www.demorgen.be
 www.demorgen.be/abonnementen
 www.digitalocean.com
