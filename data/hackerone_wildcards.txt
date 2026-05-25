@@ -321,8 +321,6 @@ GenAI Apps under *.amazon.*
 *.exodus.io
 *.gocardless-cicd.io
 *.gocardless-lab.io
-*.gocardless-staging.io
-*.gocardless.com
 *.gocardless.dev
 *.gocardless.io,*.gocardless-banking.io
 *.sprint.apps.dynatracelabs.com
