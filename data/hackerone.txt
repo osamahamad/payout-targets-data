@@ -2719,6 +2719,7 @@ Elastic Enterprise Search
 Elastic Maps Server
 Elastic Package Registry
 Elastic Synthetics Monitoring
+Elastic credentials
 Elasticsearch
 Fleet Server
 Kibana
@@ -2728,7 +2729,6 @@ Observability - APM Server
 Other
 Software Supply Chain
 cloud.elastic.co
-elastic.co credentials
 GS Select iOS app
 api.foliofn.com
 apigw.foliofn.com
