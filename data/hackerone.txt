@@ -814,6 +814,7 @@ releasor.payworks.com/
 sandbox.authorize.net
 sandbox.secure.checkout.visa.com
 sap.api-xperience.com
+survey.visa.com
 test.payworks.io
 testbank.xs2a.com
 usa.visa.com
@@ -3627,7 +3628,6 @@ https://gitlab.com/gitlab-org/gitlab-pages
 https://gitlab.com/gitlab-org/gitlab-runner
 https://gitlab.com/gitlab-org/gitlab-shell
 https://gitlab.com/gitlab-org/gitlab-vscode-extension
-https://gitlab.com/gitlab-org/opstrace/opstrace
 registry.gitlab.com
 ai.x.GrokApp
 ai.x.grok
@@ -3635,6 +3635,7 @@ chat.x.com
 com.atebits.Tweetie2
 com.twitter.android
 gnip.com
+grok-build-cli
 grok.com
 grokipedia.com
 money.x.com
