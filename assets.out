@@ -388,6 +388,8 @@
 *.fuze.com
 *.fuze.site
 *.gaming.gopayapi.com
+*.gamma.be/*
+*.gamma.nl/*
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
@@ -514,6 +516,9 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
+*.intergamma-test.nl
+*.intergamma.cloud
+*.intergamma.nl/*
 *.internal.exoscale.ch
 *.intigriti.me
 *.itcapital.io
@@ -528,6 +533,8 @@
 *.jobstreet.com
 *.jora.com
 *.jora.xyz
+*.karwei.nl/*
+*.karweioutletstore.nl
 *.kayak.com
 *.khealth.com
 *.khealth.io/
@@ -826,6 +833,7 @@
 *.registry.eu
 *.rentalcars.com
 *.reposify.com
+*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -1065,10 +1073,6 @@
 *.vimla.se
 *.vimla.work
 *.vine.co
-*.vinted.com
-*.vinted.fr
-*.vinted.net
-*.vintedgo.com
 *.visamiddleeast.com
 *.vliegwinkel.nl
 *.volkskrant.nl
@@ -1094,6 +1098,9 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
+*.werkenbijgamma.be
+*.werkenbijgamma.nl
+*.werkenbijkarwei.nl
 *.wf.com
 *.whatnot.com
 *.whois.eu
@@ -1152,9 +1159,6 @@
 *.zmifi.com
 *.zomans.com
 *.zomato.com
-*badger.it.vinted.com
-*careers.vinted.com
-*company.vinted.com
 *dev*.arlo.com
 *dev.uzleuven.be
 *developer.cloud.com
@@ -1162,18 +1166,13 @@
 *gateway-apc.marriott.com
 *idp*.uzleuven.be
 *inf.fndlsb.net
-*news.vinted.com
-*old.vinted.com
 *omega*.yahoo.com
 *qa*.arlo.com
 *ripio.com
 *ripiotrade.co
-*sandbox*.vinted.com
-*sandbox*.vintedgo.com
 *signalservice.comcast.net
 *stag*.uzleuven.be
 *test*.bykea.net
-*test-escalations.vintedgo.com
 *tidalhi.fi
 *uat.marriott.com
 *ubereats.com
@@ -1280,6 +1279,7 @@
 1532153219
 1541949985
 1552455423
+1558129454
 1570215232
 1579372261
 1579530451
@@ -1588,6 +1588,9 @@
 94.107.237.192/26
 944011620
 947984433
+949829216
+950680989
+950693949
 955837609
 960335206
 97.105.243.96/28
@@ -2367,7 +2370,6 @@ Sandboxes
 Save to Spotify CLI
 Savers Android
 Savers iOS
-Scam
 Scanwatch
 Scanwatch 2
 Scanwatch Light
@@ -2549,7 +2551,6 @@ VS Code Plugin
 Vectorize
 Video Conferencing Products
 Video Doorbell
-Vinted: Shop & sell pre-loved
 Virtual Office Desktop
 Voice - Hardware and service
 Vox Cinemas Android
@@ -3135,6 +3136,7 @@ bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
 be.delen.digital
+be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -4116,6 +4118,8 @@ g2-gw-cf.*.aws.indriverapp.com
 gamenotes.nba.com
 gaming.logicool.co.jp
 gamma.grab.co
+gammacademy.be
+gammalokaal.nl
 garp.visa.com
 gasstation.polygon.technology/
 gatekeeper.prd.iat.it.xvservice.net
@@ -6990,6 +6994,7 @@ ir.remitly.com
 ir.ui.com
 irclogs.wordpress.org
 iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
+irmg.nl
 isa-cf.*.aws.indriverapp.com
 ispdesign.ui.com
 issuer.idpay-uat.unico.io
@@ -7020,6 +7025,10 @@ k8s.gcr.io
 k8s.io
 kaccount.khealth.com
 kartaview.org
+karwei-promotiepunt.nl
+kassa.gamma.be/*
+kassa.gamma.nl/*
+kassa.karwei.nl/*
 katalog.watsons.com.tr
 kayak.ai
 kidswebservices.com
@@ -7270,6 +7279,9 @@ mgmt-sensors.iris.production.forescoutcloud.net
 mgmtpod-1-dashboard.production.forescoutcloud.net
 mgmtpod-1.production.forescoutcloud.net
 mgs.marriott.com
+mijn.gamma.be/*
+mijn.gamma.nl/*
+mijn.karwei.nl/*
 mijnacc.uzleuven.be
 minerva.robinhood.com
 mipartnerprivileges.marriott.com
@@ -7380,6 +7392,9 @@ nha-gw-cf.*.aws.indriverapp.com
 niantic.kidswebservices.com
 ninja.kiwi
 ninjakiwi.com
+nl.gamma.app.android
+nl.gamma.verf
+nl.karwei.app.android
 nmtracking.netflix.com
 no-cf.*.aws.indriverapp.com
 no-gw-cf.*.aws.indriverapp.com
@@ -8398,6 +8413,8 @@ www.fortress.com.hk
 www.fraedom.com
 www.funjet.com
 www.fuzemeeting.com
+www.gamma.be/*
+www.gamma.nl/*
 www.geneva-staging.chat
 www.geneva-staging.com
 www.getaroom.com
@@ -8428,6 +8445,7 @@ www.iciparisxl.nl
 www.instacart.com
 www.intigriti.com
 www.jaybirdsport.com
+www.karwei.nl/*
 www.kayak.com
 www.kinepolis.be 
 www.kinepolis.biz
