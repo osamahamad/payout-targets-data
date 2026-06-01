@@ -263,6 +263,7 @@
 *.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
+*.demo.bp.mortgagechoice.com.au
 *.demorgen.be
 *.deribit.com
 *.deriv.cloud
@@ -603,6 +604,7 @@
 *.mas.mobilevikings.be
 *.mb-cosmos.com
 *.mbamupdates.com
+*.mclead.com.au
 *.mediatonic.co.uk
 *.megatix.be  
 *.melonapp.com
@@ -658,6 +660,7 @@
 *.monopoly-poker.com
 *.moonpay.com
 *.moonpaycloud.com
+*.mortgagechoice.com.au
 *.movilepay.com
 *.movilepay.com.br
 *.msgsvc.io
@@ -907,6 +910,7 @@
 *.slimdevices.com
 *.slotomania.com
 *.smartcontract.com
+*.smartline.com.au
 *.snapshooter.com
 *.snooguts.net
 *.sol-data.com
@@ -2786,8 +2790,6 @@ api.custody.coinbase.com
 api.deriv.com
 api.developer.monespacesante.fr
 api.dicey.com
-api.digital.delen.be 
-api.digital.delen.lu 
 api.digitalocean.com
 api.direct.playstation.com
 api.dmp.gouv.fr
@@ -2954,9 +2956,6 @@ app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
-app.delen.be 
-app.delen.ch 
-app.delen.lu 
 app.demand.cybersource.com
 app.deriv.com
 app.drogas.lt
@@ -3065,8 +3064,6 @@ auth-identity-uat-ping.nba.com
 auth-identity-uat.nba.com
 auth-identity.nba.com
 auth.23andme.com
-auth.digital.delen.be 
-auth.digital.delen.lu 
 auth.dmp.gouv.fr
 auth.hhc247.org
 auth.magic.link
@@ -3115,7 +3112,6 @@ bdese.marionnaud.fr
 bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
-be.delen.digital
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -3844,7 +3840,6 @@ decision.swiftfinancial.com
 deeplinks.geneva-staging.chat
 deeplinks.geneva-staging.com
 defi.ripio.com
-delen/id1064839588
 delivery-webview.indrive.com
 demo.arkoselabs.com
 demo.dynamic.xyz
@@ -4329,6 +4324,7 @@ https://admin.ring.com/*
 https://admintool.lime.bike
 https://aemdam.usaa360.com/
 https://afterpay.com
+https://agent-contact.realestate.com.au/lead-capture-page/campaign-id/8e50c3d0-0d2b-44d1-9df6-f4e02b9a690e
 https://agent.apps.monash.edu/
 https://aggregator.etoro.com
 https://aiven.io/
@@ -6563,6 +6559,8 @@ https://www.definitivetechnology.com
 https://www.demandforced3.com/
 https://www.denon.com
 https://www.designify.com
+https://www.developersites.com.au/testing-2505-houston/
+https://www.developersites.com.au/testing-2505-lms/
 https://www.dmp.fr
 https://www.dmp.gouv.fr
 https://www.enjoyselfish.com
@@ -7039,13 +7037,9 @@ login-sandbox.nba.com
 login-uat.nba.com
 login.arkane.network
 login.cm.com
-login.delen.be 
-login.delen.ch 
-login.delen.lu 
 login.insightly.com
 login.lansweeper.com
 login.nba.com
-login.oyens.com
 login.playcanvas.com
 login.rei.com
 login.remitly.com
@@ -7718,6 +7712,7 @@ scapegoat.hyatt.com
 scp.watsons.com.tr
 scpapi.watsons.com.tr
 screenshot-proxy.netlify.app
+scripts.developersites.com.au
 scrutiny.swiftfinancial.com
 secure-dfadmin.deriv.com
 secure-supply-xml.booking.com
@@ -7755,6 +7750,7 @@ session-share.playstation.com
 settings.superhuman.com
 sfc-cf.*.aws.indriverapp.com
 sfc-gw-cf.*.aws.indriverapp.com
+sftp://ftp.developersites.com.au:45875
 sgnl.ai
 sgnl.cloud
 sgnl.team
@@ -7888,7 +7884,6 @@ stats.gleague.nba.com
 stats.nba.com
 stats.vinci.com
 stats.wnba.com
-status.delen.be 
 status.larksuite.com
 status.uphold.com
 steamcommunity.com
@@ -7914,7 +7909,6 @@ streaming-api.iris.production.forescoutcloud.net
 streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
-sts.delen.be 
 sts.uzleuven.be
 studio-api.swapcard.com
 studio.swapcard.com
@@ -8243,8 +8237,6 @@ www.bookingholdings.com
 www.bpost.be
 www.bpost2.be
 www.bumble.com
-www.cadelam.be 
-www.cadelux.lu/en 
 www.cardinalcommerce.com
 www.carrentals.com
 www.cart.starbucks.co.jp/
@@ -8270,8 +8262,6 @@ www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
 www.ddfcontent.com
-www.delen.bank
-www.delen.be/en 
 www.demorgen.be
 www.demorgen.be/abonnementen
 www.digitalocean.com
