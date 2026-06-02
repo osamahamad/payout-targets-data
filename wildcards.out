@@ -58,6 +58,9 @@
 *.aleenote.cn
 *.aleenote.com
 *.alipayplus.com
+*.allegro.cz.allegrosandbox.pl
+*.allegro.pl.allegrosandbox.pl
+*.allegro.sk.allegrosandbox.pl
 *.amazon.ae
 *.amazon.ca
 *.amazon.cl
@@ -128,7 +131,6 @@
 *.avecspotify.com
 *.ayco.com
 *.backblazeb2.com
-*.backend-capital.com
 *.bancoplata.mx
 *.baoliyun.com
 *.base.org
@@ -183,7 +185,6 @@
 *.canva.cn
 *.canva.com
 *.canva.tech
-*.capital.com
 *.capitalone.ca
 *.capitalone.com
 *.capitalonegslbex.com
@@ -242,6 +243,7 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
+*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
@@ -499,7 +501,6 @@
 *.intercomassets.com / *.intercomcdn.com
 *.internal.exoscale.ch
 *.intigriti.me
-*.itcapital.io
 *.jbl.com
 *.jbl.com.br
 *.jbl.nl
@@ -512,6 +513,8 @@
 *.jora.com
 *.jora.xyz
 *.kayak.com
+*.kchat.infomaniak.com
+*.kdrive.infomaniak.com
 *.khealth.com
 *.khealth.io/
 *.kibana.wtf
@@ -643,6 +646,7 @@
 *.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
+*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.mortgagechoice.com.au
@@ -759,6 +763,7 @@
 *.portofantwerp.com
 *.portofantwerpbruges.com
 *.pourvous.nl
+*.ppb.com
 *.ppbdev.com
 *.prd-pub.mobilevikings.be
 *.prd.aser.simplisafe.com
@@ -777,6 +782,7 @@
 *.preview.8x8.vc
 *.prijsmepper.nl
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -1051,8 +1057,13 @@
 *.vimla.se
 *.vimla.work
 *.vine.co
+*.vinted.com
+*.vinted.fr
+*.vinted.net
+*.vintedgo.com
 *.visamiddleeast.com
 *.vliegwinkel.nl
+*.vod2.infomaniak.com
 *.volkskrant.nl
 *.volkswagen.de
 *.vpn.hackerone.net
@@ -1139,6 +1150,8 @@
 *idp*.uzleuven.be
 *omega*.yahoo.com
 *qa*.arlo.com
+*sandbox*.vinted.com
+*sandbox*.vintedgo.com
 *stag*.uzleuven.be
 *test*.bykea.net
 3rd party services hosted at *.sophos.com
@@ -1241,9 +1254,11 @@ sn-api-gw-cf.*.aws.indriverapp.com
 sos-*.exo.io
 st*.indriverapp.com
 static*.twilio.com
+storage*.infomaniak.com
 sub*.aws.indriverapp.com
 support*.earlywarning.com
 sur-cf.*.aws.indriverapp.com
+swiss-backup*.infomaniak.com
 test*.redoxengine.com
 tr-cf.*.aws.indriverapp.com
 tr-gw-cf.*.aws.indriverapp.com

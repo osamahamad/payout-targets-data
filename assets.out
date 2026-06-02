@@ -73,6 +73,9 @@
 *.aleenote.cn
 *.aleenote.com
 *.alipayplus.com
+*.allegro.cz.allegrosandbox.pl
+*.allegro.pl.allegrosandbox.pl
+*.allegro.sk.allegrosandbox.pl
 *.amazon.ae
 *.amazon.ca
 *.amazon.cl
@@ -143,7 +146,6 @@
 *.avecspotify.com
 *.ayco.com
 *.backblazeb2.com
-*.backend-capital.com
 *.bancoplata.mx
 *.baoliyun.com
 *.base.org
@@ -198,7 +200,6 @@
 *.canva.cn
 *.canva.com
 *.canva.tech
-*.capital.com
 *.capitalone.ca
 *.capitalone.com
 *.capitalonegslbex.com
@@ -257,6 +258,7 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
+*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
@@ -514,7 +516,6 @@
 *.intercomassets.com / *.intercomcdn.com
 *.internal.exoscale.ch
 *.intigriti.me
-*.itcapital.io
 *.jbl.com
 *.jbl.com.br
 *.jbl.nl
@@ -527,6 +528,8 @@
 *.jora.com
 *.jora.xyz
 *.kayak.com
+*.kchat.infomaniak.com
+*.kdrive.infomaniak.com
 *.khealth.com
 *.khealth.io/
 *.kibana.wtf
@@ -658,6 +661,7 @@
 *.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
+*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.mortgagechoice.com.au
@@ -774,6 +778,7 @@
 *.portofantwerp.com
 *.portofantwerpbruges.com
 *.pourvous.nl
+*.ppb.com
 *.ppbdev.com
 *.prd-pub.mobilevikings.be
 *.prd.aser.simplisafe.com
@@ -792,6 +797,7 @@
 *.preview.8x8.vc
 *.prijsmepper.nl
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -1066,8 +1072,13 @@
 *.vimla.se
 *.vimla.work
 *.vine.co
+*.vinted.com
+*.vinted.fr
+*.vinted.net
+*.vintedgo.com
 *.visamiddleeast.com
 *.vliegwinkel.nl
+*.vod2.infomaniak.com
 *.volkskrant.nl
 *.volkswagen.de
 *.vpn.hackerone.net
@@ -1149,6 +1160,9 @@
 *.zmifi.com
 *.zomans.com
 *.zomato.com
+*badger.it.vinted.com
+*careers.vinted.com
+*company.vinted.com
 *dev*.arlo.com
 *dev.uzleuven.be
 *developer.cloud.com
@@ -1156,13 +1170,18 @@
 *gateway-apc.marriott.com
 *idp*.uzleuven.be
 *inf.fndlsb.net
+*news.vinted.com
+*old.vinted.com
 *omega*.yahoo.com
 *qa*.arlo.com
 *ripio.com
 *ripiotrade.co
+*sandbox*.vinted.com
+*sandbox*.vintedgo.com
 *signalservice.comcast.net
 *stag*.uzleuven.be
 *test*.bykea.net
+*test-escalations.vintedgo.com
 *tidalhi.fi
 *uat.marriott.com
 *ubereats.com
@@ -1175,6 +1194,7 @@
 1023499075
 103.83.120.0/22
 1032480595
+1052238659
 1057338687
 107.167.96.0/19
 1080074001
@@ -1517,6 +1537,7 @@
 594802437
 597940518
 599664106
+5k8vrbdyje.infomaniak.site
 603097018
 61.88.222.56
 61.88.222.57
@@ -2353,6 +2374,7 @@ Sandboxes
 Save to Spotify CLI
 Savers Android
 Savers iOS
+Scam
 Scanwatch
 Scanwatch 2
 Scanwatch Light
@@ -2537,6 +2559,7 @@ VS Code Plugin
 Vectorize
 Video Conferencing Products
 Video Doorbell
+Vinted: Shop & sell pre-loved
 Virtual Office Desktop
 Voice - Hardware and service
 Vox Cinemas Android
@@ -2640,6 +2663,7 @@ ablink.info.remitly.com
 about.gitlab.com
 academy-outbound-ads.tiktok.com
 academy.deriv.com
+academy.infomaniak.com
 access-sandbox.remitly.com
 access.remitly.com
 access.ripe.net
@@ -2686,6 +2710,7 @@ admin.meeshosupply.com
 admin.shopify.com
 admin.stage.vismaonline.com
 admin.wickr.com
+admin2.infomaniak.com
 admincms.developer.monespacesante.fr
 admincms.monespacesante.fr
 adminstore.developer.monespacesante.fr
@@ -2700,12 +2725,12 @@ ads.tiktok.com
 adtechnology.axelspringer.com
 advisories.gitlab.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
-aff.capital.com
 affiliate-id.tokopedia.com
 affiliate.meesho.com
 agents.hostinger.com
 agents.tasheer.com
 ai-testing.maventa.com
+ai-tools.infomaniak.com
 ai.kanghealth
 ai.portswigger.net
 ai.x.GrokApp
@@ -2846,6 +2871,7 @@ api.hackerone.com
 api.iciparisxl.be
 api.iciparisxl.lu
 api.iciparisxl.nl
+api.infomaniak.com
 api.instacart.com
 api.khealth.com
 api.klarna.com
@@ -2960,6 +2986,9 @@ app.aikido.dev
 app.alasco.de
 app.blueskytravelvietnam.com
 app.circle.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -3051,6 +3080,9 @@ as2.portofantwerp.com
 as2.portofantwerpbruges.com
 ask.khealth.com
 askpeopleteam.visa.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com 
+assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.spotify.com
@@ -3211,6 +3243,7 @@ ca.koho
 cache.judge.me
 cache.marriott.com
 caldav.larksuite.com
+calendar.infomaniak.com
 calendar.notion.so
 callbacks.airbnb.com
 callroute.com
@@ -3237,9 +3270,9 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
+campus.datacamp.com
 cancellation.prod.ps.welt.de
 capability.prod.innovexperiments.com
-capital.com/*
 capturingreality.com
 cardpayments.remitly.io
 cards.remitly.io
@@ -3247,7 +3280,6 @@ cardsonline.azdiest.be
 cardsonlinetst.azdiest.be
 career.bpost.be
 careers.booking.com
-careers.capital.com
 careers.indrive.com
 careers.marriott.com
 careers.remitly.com
@@ -3295,6 +3327,7 @@ checkout.rapyd.net
 checkout.razorpay.com
 checkout.tw.coupang.com
 checkout.vimeo.com
+chk.infomaniak.com
 cht-cf.*.aws.indriverapp.com
 cht-gw-cf.*.aws.indriverapp.com
 ci-propertyconversionportal.marriott.com
@@ -3326,6 +3359,7 @@ co-cf.*.aws.indriverapp.com
 co-gw-cf.*.aws.indriverapp.com
 co-in-gw-cf.*.aws.indriverapp.com
 co.mona.android
+co.uk.getmondo
 coaching.supernovas.indrive.com
 coban.pixiv.net
 coda.grammarly.com
@@ -3423,7 +3457,6 @@ com.bumble.app
 com.bumblebff.app
 com.bykea.pk
 com.bykea.pk.partner
-com.capital.trading
 com.cheaptickets
 com.clay.ios
 com.clearme.Clear
@@ -3442,6 +3475,7 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
+com.datacamp
 com.dd.doordash
 com.defi.wallet
 com.deribit
@@ -3731,6 +3765,7 @@ console.anthropic.com
 console.circle.com
 console.ort-one-pingone.com
 console.tink.com
+contacts.infomaniak.com
 content-api-dev.nba.com
 content-api-nextgen-dev.nba.com
 content-api-nextgen-prod.nba.com
@@ -3881,6 +3916,7 @@ developer.currencycloud.com
 developer.cybersource.com
 developer.gocardless.com
 developer.gs.com
+developer.infomaniak.com
 developer.konghq.com
 developer.mozilla.org
 developer.playcanvas.com
@@ -4001,11 +4037,13 @@ eshop.bpost.be
 essentials.vinci.com
 essentiel.vinci.com
 esupplier.marriott.com
+etickets.infomaniak.com
 eu.cloud.com
 eu.remix.com
 eu1.badoo.com
 eufyMake E1
 eufyMake Studio software
+euria.infomaniak.com
 evisa.gov.mz
 ews-fusion.my.site.com
 exchange.opera.com
@@ -4093,6 +4131,7 @@ furycloud.io
 furydocs.io
 fusion.tradepmr.com
 fuze.me
+fv3lfbdyjh.infomaniak.site
 fw-update.ubnt.com
 g2-cf.*.aws.indriverapp.com
 g2-gw-cf.*.aws.indriverapp.com
@@ -4136,7 +4175,6 @@ globaljourney.tomorrowland.com
 gnip.com
 gnocchi-www.buffalo-ggn.net
 go-cms.tw.coupang.com
-go.capital.com
 go.geneva-staging.com
 go.stripchat.com
 go.welt.de
@@ -4204,6 +4242,7 @@ horizonchase.com
 horizonchase.com.br
 horizonchaseturbo.com
 horizons.hostinger.com
+hosting-ik.com
 hotel-deals.marriott.com
 hotel-development.marriott.com
 hotornot.com
@@ -4491,12 +4530,14 @@ https://apps.apple.com/app/chia-signer/id6504493785
 https://apps.apple.com/app/id1216446440
 https://apps.apple.com/app/id1503045795
 https://apps.apple.com/app/id1635031432
+https://apps.apple.com/app/infomaniak-kdrive/id1482778676
 https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693
 https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
@@ -4524,6 +4565,7 @@ https://apps.apple.com/fr/app/blablalines-covoiturage/id1225543288
 https://apps.apple.com/fr/app/cryptobox/id972602802
 https://apps.apple.com/fr/app/decathlon-shopping/id1168607403
 https://apps.apple.com/fr/app/doctolib/id925339063
+https://apps.apple.com/fr/app/infomaniak-mail/id1622596573
 https://apps.apple.com/fr/app/jbl-one/id1610239857
 https://apps.apple.com/fr/app/louis-vuitton-city-guide/id1014618396
 https://apps.apple.com/fr/app/louis-vuitton/id709101942
@@ -5034,6 +5076,7 @@ https://github.com/ClickHouse/ClickHouse
 https://github.com/DopplerHQ/cli
 https://github.com/Dynatrace
 https://github.com/Hacker0x01/react-datepicker
+https://github.com/Infomaniak/desktop-kDrive
 https://github.com/OctopusDeploy
 https://github.com/ProjectOpenSea/seaport#deployments
 https://github.com/RIPE-NCC/rpki-commons
@@ -6061,6 +6104,8 @@ https://play.google.com/store/apps/details?id=com.gojek.app
 https://play.google.com/store/apps/details?id=com.gojek.gopay&hl=id
 https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
 https://play.google.com/store/apps/details?id=com.indeed.resume
+https://play.google.com/store/apps/details?id=com.infomaniak.drive
+https://play.google.com/store/apps/details?id=com.infomaniak.mail&hl=en_US
 https://play.google.com/store/apps/details?id=com.irobot.home.prime
 https://play.google.com/store/apps/details?id=com.jbl.oneapp&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US	
@@ -6925,6 +6970,7 @@ infinite.visa.fr
 influencers.tw.coupang.com
 info.authorize.net
 info.cybersource.com
+infomaniak.events
 ingest.clairvoyance.indrive.tech
 innersloth.kidswebservices.com
 innovation.superdrug.com
@@ -6946,6 +6992,7 @@ interseller.io
 investor.meesho.com
 investors.semrush.com
 invisionu.education
+invitation.infomaniak.com
 invoices.razorpay.com
 io.coda
 io.coda.codaapp
@@ -6963,6 +7010,7 @@ issuer.idpay-uat.unico.io
 it.xvservice.net
 itmss://apps.apple.com/us/app/id1510360750?ign-mscache=1
 itv7.itv.com
+ix2smbdyjt.infomaniak.site
 j.root-servers.net (DNS service; DNS related)
 jimmobile.be
 jira.hyattdev.com
@@ -6997,19 +7045,23 @@ kit.snapchat.com
 klarna.com
 klarna.net
 klarnacdn.net
+kmeet.infomaniak.com
 knowage.developer.monespacesante.fr
 knowage.monespacesante.fr
 knox.beta.blendlabs.com
 konfigurator.bmw-motorrad.de
 konghq.com
+kpaste.infomaniak.com
 krisp.ai
 kronor.io
 kronos*.bykea.net
+ksuite.infomaniak.com
 kubernetes-csi.github.io
 kubernetes.io
 kumulus.uzleuven.be
 kws-companion/id1342124012
 kyc-onboarding.booking.com
+l75pvbdyjo.infomaniak.site
 landing.ryadom.kz
 lando.services.mozilla.com
 lark-frontier.byteoversea.com
@@ -7062,6 +7114,7 @@ login.cm.com
 login.delen.be 
 login.delen.ch 
 login.delen.lu 
+login.infomaniak.com
 login.insightly.com
 login.lansweeper.com
 login.nba.com
@@ -7103,7 +7156,9 @@ mUSD Stablecoin
 magazine.kruidvat.be
 magento.com
 magisto.com,www.magisto.com
+mail-builder.infomaniak.com/
 mail.hostinger.com/v2
+mail.infomaniak.com
 mail.notion.so
 mailpoet.com
 maintenance.logitech.com
@@ -7116,6 +7171,7 @@ manage-teams.nba.com
 manage-uat.nba.com
 manage.grab.co
 manage.nba.com
+manager.infomaniak.com/v3/*
 mangerbouger.fr
 map.snapchat.com
 mapi.moneyback.com.hk
@@ -7258,6 +7314,7 @@ money.x.com
 moneybird.com
 moneybirdstorage.com
 monitor.mozilla.org
+monzo.com
 moonpay.com
 movie.indrive.com
 movieapi.kinepolis.megatix.be
@@ -7337,6 +7394,7 @@ new.www.vaxvacationaccess.com
 news.remitly.com
 newsletter-feedback.iciparisxl.nl
 newsletter.iciparisxl.nl
+newsletter.infomaniak.com
 newsroom.images.hyatt.com
 next.airbnb.com
 nft.coinbase.com
@@ -7387,7 +7445,6 @@ onlinepharmacy.superdrug.com
 onum-labs.com
 onum.com
 open redirect at *.epam.com
-open-api.capital.com
 open.airbnb.com
 open.larksuite.com
 open.ys7.com
@@ -7449,7 +7506,6 @@ pay.wallet.tg
 pay.{business_critical_assets} *see business assets for more information
 paybridge.booking.com
 payer-details-sandbox.gocardless.com
-payment.backend-capital.com
 payment.bingo.com
 payment.casinohuone.com
 payment.kolikkopelit.com
@@ -7497,6 +7553,7 @@ playartifact.com
 playcanv.as
 playcanvas.com
 player-login.unity.com
+player-radio.infomaniak.com
 player.vimeo.com
 player.vrt.be
 playwonderbox.com
@@ -7528,6 +7585,7 @@ pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
 pr*.indriverapp.com
 pr-gw-cf.*.aws.indriverapp.com
+practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -7572,6 +7630,8 @@ profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile.playstation.com
 profiler.firefox.com
+profiles-api.datacamp.com
+projects.datacamp.com
 promo.tw.coupang.com
 prow.k8s.io
 proxy-production.lime.bike
@@ -7625,7 +7685,6 @@ refined.site/admin
 register-accpt.portofantwerp.com
 register-accpt.portofantwerpbruges.com
 register.bpost.be
-register.capital.com
 registre.notebleue.pro
 registry.gitlab.com
 rei.com
@@ -7796,6 +7855,7 @@ shop.demorgen.be
 shop.dyson.co.za
 shop.dyson.tw
 shop.humo.be
+shop.infomaniak.com
 shop.judge.me
 shop.parool.nl
 shop.tiktok.com
@@ -7835,6 +7895,7 @@ slackb.com
 smartinet.xfinity.com
 smarttrader.deriv.com
 smetrics.marriott.com
+sms.infomaniak.com
 smtp.sendgrid.net
 smtp2go.com
 sn-api-cf.*.aws.indriverapp.com
@@ -7917,6 +7978,7 @@ status.larksuite.com
 status.uphold.com
 steamcommunity.com
 stock.adobe.com
+storage*.infomaniak.com
 store-display.tw.coupang.com
 store.23andme.com
 store.playcanvas.com
@@ -7979,6 +8041,8 @@ svn.notebleue.pro
 svtselb.tasheer.com
 swiftcapital.com
 swiftfinancial.com
+swiss-backup*.infomaniak.com
+sync.infomaniak.com
 sync.logitech.com
 sync.services.mozilla.com
 syndication.nba.com
@@ -8130,6 +8194,7 @@ visaonchainanalytics.com
 visasgic.api-xperience.com
 vm-gw-cf.*.aws.indriverapp.com
 voapi.8x8.com
+vod.infomaniak.com
 volans.tech
 vote.nba.com
 vpn.mobilevikings.be
@@ -8187,6 +8252,7 @@ webwinkel.parool.nl
 webwinkel.trouw.nl
 webwinkel.volkskrant.nl
 wechat.api.marriott.com
+welcome.infomaniak.com
 welt.de
 wga.volans.tech
 whyisend.com
@@ -8293,6 +8359,8 @@ www.crowdstrike.com
 www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
+www.datacamp.com
+www.datacamp.com/datalab
 www.ddfcontent.com
 www.delen.bank
 www.delen.be/en 
@@ -8395,6 +8463,7 @@ www.iciparisxl.be
 www.iciparisxl.com
 www.iciparisxl.lu
 www.iciparisxl.nl
+www.infomaniak.com
 www.instacart.com
 www.intigriti.com
 www.jaybirdsport.com
@@ -8463,6 +8532,7 @@ www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
+www.monzo.com
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
@@ -8525,6 +8595,7 @@ www.superdrugmobile.com
 www.supernovas.indrive.com
 www.swiftcapital.com
 www.swiftfinancial.com
+www.swisstransfer.com
 www.swoodoo.com
 www.syfe.com
 www.tabac-info-service.fr
