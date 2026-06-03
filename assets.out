@@ -146,7 +146,6 @@
 *.avecspotify.com
 *.ayco.com
 *.backblazeb2.com
-*.backend-capital.com
 *.bancoplata.mx
 *.baoliyun.com
 *.base.org
@@ -201,7 +200,6 @@
 *.canva.cn
 *.canva.com
 *.canva.tech
-*.capital.com
 *.capitalone.ca
 *.capitalone.com
 *.capitalonegslbex.com
@@ -517,7 +515,6 @@
 *.intercomassets.com / *.intercomcdn.com
 *.internal.exoscale.ch
 *.intigriti.me
-*.itcapital.io
 *.jbl.com
 *.jbl.com.br
 *.jbl.nl
@@ -536,14 +533,7 @@
 *.khealth.io/
 *.kibana.wtf
 *.kiln.it
-*.kinepolis.be
-*.kinepolis.ch
-*.kinepolis.com
-*.kinepolis.fr
-*.kinepolis.lu
-*.kinepolis.nl
 *.kiwi.com
-*.klubcinema.fr
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
@@ -551,7 +541,6 @@
 *.kruidvat.nl
 *.kruidvatkids.nl
 *.kwsdose.be
-*.landmarkcinemas.com
 *.landmarkglobal-group.com
 *.lansweeper.com
 *.lastminute.co.nz
@@ -611,7 +600,6 @@
 *.mbamupdates.com
 *.mclead.com.au
 *.mediatonic.co.uk
-*.megatix.be  
 *.melonapp.com
 *.meraki.com
 *.mercadolibre.cl
@@ -652,7 +640,6 @@
 *.miui.cn
 *.miui.com
 *.miwifi.com
-*.mjrtheatres.com
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
@@ -1520,7 +1507,6 @@
 52.67.69.35
 52.76.174.107
 52.86.17.52
-522089287
 524362642
 529996768
 531549799
@@ -2121,6 +2107,7 @@ Kruidvat BE iOS
 Kruidvat NL Android
 Kruidvat NL iOS
 Lansweeper Discovery
+LaunchDarkly Open Source SDKs
 Leaked Credentials
 Leaked Credentials and Secrets (Canva Employee/Contractor)
 Leaked Credentials and Secrets (Canva User)
@@ -2727,7 +2714,6 @@ ads.tiktok.com
 adtechnology.axelspringer.com
 advisories.gitlab.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
-aff.capital.com
 affiliate-id.tokopedia.com
 affiliate.meesho.com
 agents.hostinger.com
@@ -3020,6 +3006,7 @@ app.kruidvat.nl
 app.lansweeper.com
 app.lansweeper.com/trial
 app.larksuite.com
+app.launchdarkly.com
 app.marionnaud.at
 app.marionnaud.ch
 app.marionnaud.cz
@@ -3200,7 +3187,6 @@ booking.applevacations.com
 booking.beachbound.com
 booking.cheapcaribbean.com
 booking.com
-booking.mjrtheatres.com
 bookingholdings-coe.com
 boomer2.ninjakiwi.com
 boost.vinci.com
@@ -3223,9 +3209,6 @@ building-blocks.com
 bulten.watsons.com.tr
 business-resources.truecaller.com
 business.kayak.com
-business.kinepolis.be
-business.kinepolis.lu
-business.kinepolis.nl
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
@@ -3270,7 +3253,6 @@ campaign.watsons.com.tr
 campaigns.theperfumeshop.com
 cancellation.prod.ps.welt.de
 capability.prod.innovexperiments.com
-capital.com/*
 capturingreality.com
 cardpayments.remitly.io
 cards.remitly.io
@@ -3278,7 +3260,6 @@ cardsonline.azdiest.be
 cardsonlinetst.azdiest.be
 career.bpost.be
 careers.booking.com
-careers.capital.com
 careers.indrive.com
 careers.marriott.com
 careers.remitly.com
@@ -3455,7 +3436,6 @@ com.bumble.app
 com.bumblebff.app
 com.bykea.pk
 com.bykea.pk.partner
-com.capital.trading
 com.cheaptickets
 com.clay.ios
 com.clearme.Clear
@@ -3559,7 +3539,6 @@ com.hypr.one
 com.imdbtv.livingroom
 com.immediasemi.android.blink
 com.instacart.client
-com.inthepocket.kinepolis
 com.iphone.workfront
 com.jellybtn.boardkings
 com.jellybtn.cashkingmobile
@@ -3955,6 +3934,7 @@ docs.anthropic.com
 docs.api.enterprise.uphold.com
 docs.gitlab.com
 docs.lansweeper.com
+docs.launchdarkly.com
 docs.optimuscards.com
 docs.redoxengine.com
 docs.topperpay.com
@@ -4012,7 +3992,6 @@ education.github.com
 eero Devices
 efast.marriott.com
 effecthouse.tiktok.com
-egaming.kinepolis.es
 eidhelp.marriott.com
 eligibility.khealth.com
 elm.nba.com
@@ -4042,6 +4021,7 @@ eu1.badoo.com
 eufyMake E1
 eufyMake Studio software
 euria.infomaniak.com
+events.launchdarkly.com
 evisa.gov.mz
 ews-fusion.my.site.com
 exchange.opera.com
@@ -4059,8 +4039,6 @@ extranet-asa.uzleuven.be
 extranet.marionnaud.ch
 extranet.s-pankki.fi
 extranet.uzleuven.be
-extras-acc.landmarkcinemas.com
-extras.landmarkcinemas.com
 fab.com
 falcon-sandbox.com
 fareharborsites.com
@@ -4173,7 +4151,6 @@ globaljourney.tomorrowland.com
 gnip.com
 gnocchi-www.buffalo-ggn.net
 go-cms.tw.coupang.com
-go.capital.com
 go.geneva-staging.com
 go.stripchat.com
 go.welt.de
@@ -5390,6 +5367,7 @@ https://lapi.yellowblocks.me
 https://lastpass.com
 https://lastpass.com/misc_download2.php
 https://latitudeinfinity.com.au
+https://launchdarkly.com/docs
 https://lbu.eu-west-2.outscale.com
 https://leaflet-map.bykea.net
 https://learn.neogov.com
@@ -5913,8 +5891,6 @@ https://monash.app.nutrip.com
 https://monashcollege.edu.au
 https://monster-customizer.classdojo.com/cf6dfa68-1a81-4c6d-bc0b-38f3666b37d6/index.html
 https://move.monash.edu/
-https://movieclub-int.kinepolis.com
-https://movienow-int.kinepolis.be/admin
 https://mstatic.usaa.com
 https://my.arlo.com
 https://my.electroneum.com/
@@ -6328,7 +6304,6 @@ https://services.chipotle.com
 https://services.unity.com
 https://sfleet.cortexpowered.com
 https://sflower.cortexpowered.com
-https://shop-acc.kinepolis.be/
 https://shop.ifood.com.br
 https://shop.lululemon.com
 https://shop.monash.edu/
@@ -6946,8 +6921,6 @@ identity.nba.com
 identity.stage.vismaonline.com
 identity.yoti.com
 identityhomolog.acesso.io
-identityserver-acc.landmarkcinemas.com
-identityserver.landmarkcinemas.com
 idp-cf.*.aws.indriverapp.com
 idpay-uat.unico.io
 ifast.marriott.com
@@ -7036,9 +7009,6 @@ kartaview.org
 katalog.watsons.com.tr
 kayak.ai
 kidswebservices.com
-kinepolis-studio.be
-kinepolis.megatix.be
-kinepolis/id368204284
 kit.snapchat.com
 klarna.com
 klarna.net
@@ -7135,9 +7105,6 @@ lol.onevone
 loyalty.tw.coupang.com
 lps.dmp.gouv.fr
 lps2.dmp.gouv.fr
-luxfilmfestfilms.megatix.be
-luxfilmfestproducts.megatix.be
-luxfilmfesttickets.megatix.be
 lynx-dev.wnba.com
 lynx-qa.wnba.com
 lynx-qa2.wnba.com
@@ -7314,7 +7281,6 @@ moneybirdstorage.com
 monitor.mozilla.org
 moonpay.com
 movie.indrive.com
-movieapi.kinepolis.megatix.be
 mpa.ekyc.backoffice.m-pesa.com
 mpa.ekyc.selfregister.m-pesa.com
 mpa.qr.web.m-pesa.com
@@ -7414,7 +7380,6 @@ npmjs.org
 ns1.optusnet.com.au
 ns2.optusnet.com.au
 nummus.robinhood.com
-nz.co.vista.android.movie.mjrtheatres
 oasisprod.marriott.com
 oauth-sandbox.gocardless.com
 oauth.deriv.com
@@ -7442,7 +7407,6 @@ onlinepharmacy.superdrug.com
 onum-labs.com
 onum.com
 open redirect at *.epam.com
-open-api.capital.com
 open.airbnb.com
 open.larksuite.com
 open.ys7.com
@@ -7504,7 +7468,6 @@ pay.wallet.tg
 pay.{business_critical_assets} *see business assets for more information
 paybridge.booking.com
 payer-details-sandbox.gocardless.com
-payment.backend-capital.com
 payment.bingo.com
 payment.casinohuone.com
 payment.kolikkopelit.com
@@ -7681,7 +7644,6 @@ refined.site/admin
 register-accpt.portofantwerp.com
 register-accpt.portofantwerpbruges.com
 register.bpost.be
-register.capital.com
 registre.notebleue.pro
 registry.gitlab.com
 rei.com
@@ -7945,7 +7907,6 @@ sso.marriott.com
 sso.oft.hyatt.com
 sso.ryadom.kz
 st*.indriverapp.com
-stage.landmarkcinemas.com
 stage.taskcluster.nonprod.cloudops.mozgcp.net
 staging-app.bany.dev
 staging.airtable.com
@@ -7993,6 +7954,7 @@ storm-qa2.wnba.com
 storm.wnba.com
 story.snapchat.com
 strapi.reddit.com
+stream.launchdarkly.com
 streaming-api.iris.acceptance.forescoutcloud.net
 streaming-api.iris.production.forescoutcloud.net
 streaming-gw.iris.production.forescoutcloud.net
@@ -8076,12 +8038,6 @@ testing.maventa.com
 testnet.bitmex.com
 teststs.uzleuven.be
 thebrowser.company
-tickets.kinepolis.be
-tickets.kinepolis.ch
-tickets.kinepolis.es
-tickets.kinepolis.fr
-tickets.kinepolis.lu
-tickets.kinepolis.nl
 tiktok.com
 tiktokdata-us-open.tiktokw.us
 tlbe.prod.tomorrowland.com
@@ -8139,8 +8095,6 @@ usa.visa.com
 user-profile-staging.8x8.com
 user-profile.8x8.com
 usercontent.koho.ca
-userprofile-acc.landmarkcinemas.com
-userprofile-ui.landmarkcinemas.com
 uwa.mobilevikings.be
 v1. kidswebservices.com
 v1staging.kidswebservices.com 
@@ -8465,14 +8419,6 @@ www.instacart.com
 www.intigriti.com
 www.jaybirdsport.com
 www.kayak.com
-www.kinepolis.be 
-www.kinepolis.biz
-www.kinepolis.ch 
-www.kinepolis.com 
-www.kinepolis.es 
-www.kinepolis.fr 
-www.kinepolis.lu 
-www.kinepolis.nl 
 www.kiwi.com
 www.koho.ca
 www.kolikkopelit.com
@@ -8481,7 +8427,6 @@ www.kruidvat.be
 www.kruidvat.nl
 www.kruidvatkids.nl
 www.lab-recherche-environnement.org
-www.landmarkcinemas.com
 www.lansweeper.com
 www.lastminute.co.nz
 www.lastminute.com.au
@@ -8525,7 +8470,6 @@ www.mercadolivre.com
 www.mercadopago.com.ec
 www.midtrans.com
 www.mini.de
-www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
