@@ -988,21 +988,9 @@ https://marketplace.atlassian.com/apps/1212840/reminders-for-bitbucket?hosting=d
 https://marketplace.atlassian.com/apps/1236742/advanced-content-status-labels-for-confluence?hosting=cloud
 https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665	
 https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US	
-https://api-payments-secure-prod.skippayments.com
-https://takeawaypay.azurefd.net/en/takeawaypay/
-https://takeaway.pay-creditcard.takeaway.com/
-pay.{business_critical_assets} *see business assets for more information
-https://global-payments-web.payments.pmt-1.eu-west-1.production.jet-external.com
-https://rest.api.eu-central-1.production.jet-external.com
-https://uk.api.just-eat.io
-https://aus.api.just-eat.io/
-https://api-skipthedishes.skipthedishes.com
-https://i18n.api.just-eat.io
-https://cw-api.takeaway.com
 https://www.thuisbezorgd.nl/
 https://takeaway.com
 https://skipthedishes.com
-https://just-eat.dk
 https://lieferando.de
 https://pyszne.pl
 https://bistro.sk
@@ -1011,8 +999,11 @@ https://www.just-eat.co.uk
 https://just-eat.ch
 https://10bis.co.il
 https://scoober.com
+https://jet-external.com
 https://just-eat.com
 https://skippayments.com
+https://just-eat.io/
+https://just-eat.co.il
 https://play.google.com/store/apps/developer?id=Takeaway.com
 https://play.google.com/store/apps/developer?id=Just-Eat+Holding+Limited
 https://play.google.com/store/apps/developer?id=10bis.co.il+ltd.
@@ -1022,11 +1013,9 @@ https://apps.apple.com/it/developer/takeaway-com-central-core-b-v/id329472762
 https://apps.apple.com/us/developer/skipthedishes/id969229980
 https://apps.apple.com/us/developer/10bis-co-il-ltd/id434368194
 https://www.justeattakeaway.com
-https://just-eat.io/
 https://api.justeat-int.com
 https://yourdelivery.de
 https://just-data.io
-https://jet-external.com
 https://github.com/justeattakeaway
 https://marketplace.atlassian.com/apps/1215199/backbone-issue-sync-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1217608/scroll-documents-for-confluence?hosting=cloud

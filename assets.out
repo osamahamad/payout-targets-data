@@ -653,6 +653,7 @@
 *.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
+*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.mortgagechoice.com.au
@@ -788,6 +789,7 @@
 *.preview.8x8.vc
 *.prijsmepper.nl
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -1184,6 +1186,7 @@
 1023499075
 103.83.120.0/22
 1032480595
+1052238659
 1057338687
 107.167.96.0/19
 1080074001
@@ -3344,6 +3347,7 @@ co-cf.*.aws.indriverapp.com
 co-gw-cf.*.aws.indriverapp.com
 co-in-gw-cf.*.aws.indriverapp.com
 co.mona.android
+co.uk.getmondo
 coaching.supernovas.indrive.com
 coban.pixiv.net
 coda.grammarly.com
@@ -4380,12 +4384,10 @@ https://api-businessportal.origin.com.au
 https://api-iam.intercom.io
 https://api-js.datadome.co
 https://api-next.flatmates.com.au
-https://api-payments-secure-prod.skippayments.com
 https://api-portal.etoro.com
 https://api-portal.originzero.com.au
 https://api-prod.retailsso.com
 https://api-prod.thatconceptstore.com/
-https://api-skipthedishes.skipthedishes.com
 https://api.20min.ch/
 https://api.aiven.io/login
 https://api.bitpanda.com
@@ -4681,7 +4683,6 @@ https://atlantis-ext.myopenpass.com
 https://audience-builder.vistarmedia.com
 https://audiencelogos.blis.com
 https://audio.20min.ch/
-https://aus.api.just-eat.io/
 https://auth-adx.op-mobile.opera.com
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
@@ -4854,7 +4855,6 @@ https://customer-api.datadome.co
 https://customer-portal.paddle.com
 https://customerportal.winconnect.com.au/login
 https://customers.us1.fga.dev/
-https://cw-api.takeaway.com
 https://d1.utv.usaa.com
 https://d2.utv.usaa.com
 https://daily.blablacar.fr
@@ -5271,7 +5271,6 @@ https://gitlab.com/gitlab-org/gitlab-pages
 https://gitlab.com/gitlab-org/gitlab-runner
 https://gitlab.com/gitlab-org/gitlab-shell
 https://gitlab.com/gitlab-org/gitlab-vscode-extension
-https://global-payments-web.payments.pmt-1.eu-west-1.production.jet-external.com
 https://glow.imoulife.com
 https://go.elementor.com/
 https://gomastercard.com.au
@@ -5301,7 +5300,6 @@ https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
 https://hr.neogov.com
 https://hr.prosus.com/
 https://hug.personio.com
-https://i18n.api.just-eat.io
 https://ibconnect.internetbrands.com
 https://icu.eu-west-2.outscale.com
 https://id.atlassian.com/login
@@ -5351,8 +5349,8 @@ https://jp-api-staging.getmoneytree.com
 https://judge.me/reviews
 https://just-data.io
 https://just-eat.ch
+https://just-eat.co.il
 https://just-eat.com
-https://just-eat.dk
 https://just-eat.es
 https://just-eat.io/
 https://keepersecurity.com
@@ -6273,7 +6271,6 @@ https://rentals.tripadvisor.com
 https://res.cloudinary.com
 https://research.monash.edu/
 https://researchmgt.monash.edu/
-https://rest.api.eu-central-1.production.jet-external.com
 https://resume.com
 https://retail-api.otto.de
 https://ring.com/*
@@ -6407,8 +6404,6 @@ https://supportportal.thalesgroup.com
 https://sycamore.moneyboxapp.org
 https://t-mobile.com
 https://takeaway.com
-https://takeaway.pay-creditcard.takeaway.com/
-https://takeawaypay.azurefd.net/en/takeawaypay/
 https://tapi-demo.etoro.com
 https://tapi-real.etoro.com
 https://taxify.eu/
@@ -6482,7 +6477,6 @@ https://uapi-front.etoro.com
 https://ui.com/distributors/
 https://ui.com/training/partners/
 https://uiscoop.payzippy.com
-https://uk.api.just-eat.io
 https://ultramobile.com
 https://umiloans.com.au
 https://underarmour.co.kr
@@ -7306,6 +7300,7 @@ money.x.com
 moneybird.com
 moneybirdstorage.com
 monitor.mozilla.org
+monzo.com
 moonpay.com
 movie.indrive.com
 mpa.ekyc.backoffice.m-pesa.com
@@ -7493,7 +7488,6 @@ pay.ibex.exchange
 pay.tokopediax.com
 pay.tw.coupang.com
 pay.wallet.tg
-pay.{business_critical_assets} *see business assets for more information
 paybridge.booking.com
 payer-details-sandbox.gocardless.com
 payment.backend-capital.com
@@ -8503,6 +8497,7 @@ www.mini.de
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
+www.monzo.com
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
