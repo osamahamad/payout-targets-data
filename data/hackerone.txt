@@ -1396,21 +1396,8 @@ com.whatnot_mobile
 live-service.whatnot.com
 www.whatnot.com
 6741442288
-Tier 1
-Tier 2
-accounts.khealth.com
-api.khealth.com
-ask.khealth.com
-auth.hhc247.org
-eligibility.khealth.com
-http://auth.khealth.com/cedars/sign-up
-http://auth.khealth.com/khealth/sign-up
-http://auth.khealth.com/mayo-la-crosse/sign-up
-http://clinical-quality.khealth.com/api/v1
 https://apps.apple.com/us/app/hhc-24-7/id6741442288
-kaccount.khealth.com
 org.hartfordhealthcare.hhc247
-treatments.khealth.com
 api.smtp2go.com
 app.smtp2go.com
 smtp2go.com
@@ -3313,7 +3300,7 @@ https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
 launchpad.37signals.com
 world.hey.com
-Identity
+Authentication & ATO
 Shopify Developed Apps
 Shopify Mobile Applications
 Shopify Third Party Apps

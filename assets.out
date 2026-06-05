@@ -250,6 +250,7 @@
 *.crossclip.com
 *.crowdstrike.com
 *.crypto.com
+*.csconnect.org
 *.cubicmotion.com
 *.cyberghost.com
 *.cyberghostvpn.com
@@ -463,6 +464,7 @@
 *.hereapi.com
 *.hey.bild.de
 *.hey.com
+*.hhc247.org
 *.hicloudcam.com,
 *.highwebmedia.com
 *.hikops.com,
@@ -471,6 +473,7 @@
 *.hiltonbusinessonline.com
 *.hiltonlocalbiz.com
 *.hln.be
+*.hmh247.org
 *.hmxservices.com
 *.hmxwebservices.com
 *.holidaylettings.com
@@ -537,8 +540,8 @@
 *.kayak.com
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
+*.khealth-test.com
 *.khealth.com
-*.khealth.io/
 *.kibana.wtf
 *.kiln.it
 *.kiwi.com
@@ -628,6 +631,7 @@
 *.metamask.io
 *.metronome.com
 *.mevo.com
+*.mgbcareconnect.org
 *.mgmt.fndlsb.net
 *.mgs.marriott.com
 *.mi.cn
@@ -698,6 +702,8 @@
 *.nml.com
 *.nnip.com
 *.nordvpn.com
+*.northwellprimarycarenow.com
+*.novanthealthvirtualprimarycare.org
 *.nr-data.net
 *.nr-ops.net
 *.ociadmin.cloud.8x8.com
@@ -747,6 +753,7 @@
 *.paypal.com
 *.paypalcorp.com
 *.pci.shopifyinc.com
+*.pennmedicine.connect-visit.com
 *.personio-internal.de
 *.personio.de
 *.personio.tools
@@ -788,6 +795,7 @@
 *.prelert.com
 *.preview.8x8.vc
 *.prijsmepper.nl
+*.primarycareondemand.mayoclinic.org
 *.privateinternetaccess.com
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
@@ -1756,6 +1764,7 @@ Atlas Data Federation
 Atlas IAM
 Atlas Payments/Billing
 Audition
+Authentication & ATO
 BBPress Core
 Backend endpoint: bug-bounty-be.glean.com
 Backend/Non-Game
@@ -2083,7 +2092,6 @@ ICI Paris XL iOS
 IT Infrastructure
 Ibotta App Data & Memory
 Id1406825640
-Identity
 Identity Services
 Illustrator
 Images
@@ -2682,7 +2690,6 @@ accounts.creditkarma.com
 accounts.evernote.com
 accounts.firefox.com
 accounts.insightly.com
-accounts.khealth.com
 accounts.logi.com
 accounts.pixiv.net
 accounts.reddit.com
@@ -2873,7 +2880,6 @@ api.iciparisxl.lu
 api.iciparisxl.nl
 api.infomaniak.com
 api.instacart.com
-api.khealth.com
 api.klarna.com
 api.krisp.ai
 api.kruidvat.be
@@ -3078,7 +3084,6 @@ as2-accpt.portofantwerp.com
 as2-accpt.portofantwerpbruges.com
 as2.portofantwerp.com
 as2.portofantwerpbruges.com
-ask.khealth.com
 askpeopleteam.visa.com
 assessment-api.datacamp.com
 assessment-v2.datacamp.com 
@@ -3105,7 +3110,6 @@ auth.23andme.com
 auth.digital.delen.be 
 auth.digital.delen.lu 
 auth.dmp.gouv.fr
-auth.hhc247.org
 auth.magic.link
 auth.monespacesante.fr
 auth.moonpay.com
@@ -4013,7 +4017,6 @@ eero Devices
 efast.marriott.com
 effecthouse.tiktok.com
 eidhelp.marriott.com
-eligibility.khealth.com
 elm.nba.com
 emag.vinci.com
 embed.tumblr.com
@@ -4260,13 +4263,9 @@ http://app.lightspark.com
 http://app.scaleft.com/
 http://apps.connect.monash.edu/
 http://artists.soundcloud.com/
-http://auth.khealth.com/cedars/sign-up
-http://auth.khealth.com/khealth/sign-up
-http://auth.khealth.com/mayo-la-crosse/sign-up
 http://auth.ripio.com
 http://backend-api.devicecloud.production.forescoutcloud.net/api/v1/settings
 http://bumba.global
-http://clinical-quality.khealth.com/api/v1
 http://cloud.konghq.com
 http://coinbase.com
 http://collaboration.rei.com
@@ -7005,7 +7004,6 @@ juicer.lime.bike
 jwt.io
 k8s.gcr.io
 k8s.io
-kaccount.khealth.com
 kartaview.org
 karwei-promotiepunt.nl
 kassa.gamma.be/*
@@ -8068,7 +8066,6 @@ travel.crypto.com
 travelagents.marriott.com/
 travelcash.money
 traveler.marriott.com
-treatments.khealth.com
 trello.com
 trendyol.com
 trm.pinepaymentsolutions.com
