@@ -388,8 +388,6 @@
 *.fuze.com
 *.fuze.site
 *.gaming.gopayapi.com
-*.gamma.be/*
-*.gamma.nl/*
 *.gateway.marriott.com
 *.genoapay.co.nz
 *.genoapay.com
@@ -518,9 +516,6 @@
 *.instacart.tools
 *.int.remitly.com
 *.intercomassets.com / *.intercomcdn.com
-*.intergamma-test.nl
-*.intergamma.cloud
-*.intergamma.nl/*
 *.internal.exoscale.ch
 *.intigriti.me
 *.itcapital.io
@@ -535,8 +530,6 @@
 *.jobstreet.com
 *.jora.com
 *.jora.xyz
-*.karwei.nl/*
-*.karweioutletstore.nl
 *.kayak.com
 *.kchat.infomaniak.com
 *.kdrive.infomaniak.com
@@ -553,7 +546,6 @@
 *.kruidvatkids.nl
 *.kwsdose.be
 *.landmarkglobal-group.com
-*.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
 *.latitudefinancial.co.nz
@@ -831,7 +823,6 @@
 *.registry.eu
 *.rentalcars.com
 *.reposify.com
-*.restintergamma.nl
 *.rhinternal.net
 *.ripe.net
 *.robinhood.com
@@ -1102,9 +1093,6 @@
 *.wellsfargo.com
 *.wellsfargoadvisors.com
 *.welt.de
-*.werkenbijgamma.be
-*.werkenbijgamma.nl
-*.werkenbijkarwei.nl
 *.wf.com
 *.whatnot.com
 *.whois.eu
@@ -1288,7 +1276,6 @@
 1532153219
 1541949985
 1552455423
-1558129454
 1570215232
 1579372261
 1579530451
@@ -1597,9 +1584,6 @@
 94.107.237.192/26
 944011620
 947984433
-949829216
-950680989
-950693949
 955837609
 960335206
 97.105.243.96/28
@@ -2126,7 +2110,6 @@ Kruidvat BE Android
 Kruidvat BE iOS
 Kruidvat NL Android
 Kruidvat NL iOS
-Lansweeper Discovery
 LaunchDarkly Open Source SDKs
 Leaked Credentials
 Leaked Credentials and Secrets (Canva Employee/Contractor)
@@ -2884,7 +2867,6 @@ api.klarna.com
 api.krisp.ai
 api.kruidvat.be
 api.kruidvat.nl
-api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
@@ -3021,8 +3003,6 @@ app.koho.ca
 app.krisp.ai
 app.kruidvat.be
 app.kruidvat.nl
-app.lansweeper.com
-app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
 app.marionnaud.at
@@ -3128,12 +3108,10 @@ authz.workbox.dk
 autocomplete.booking.com
 autodiscover.uzleuven.be
 autointerface.stag.visma.net
-autoupdateapi.lansweeper.com
 aw.visa.com
 ax-stage.maventa.com
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
-backoffice.lansweeper.com
 backstage.io
 badoo.com
 badoocdn.com
@@ -3157,7 +3135,6 @@ bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
 be.delen.digital
-be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
 be.nexuzhealth.mobile.mynexuz
@@ -3957,7 +3934,6 @@ doaction.org
 docs.anthropic.com
 docs.api.enterprise.uphold.com
 docs.gitlab.com
-docs.lansweeper.com
 docs.launchdarkly.com
 docs.optimuscards.com
 docs.redoxengine.com
@@ -4002,7 +3978,6 @@ ecom-static.kruidvat.be
 ecom-static.kruidvat.nl
 ecrf.uzleuven.be
 edge.bookbeat.com
-edge.lansweeper.com
 edgeapi.slack.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
@@ -4068,7 +4043,6 @@ fareharborsites.com
 fashion4less.me
 faucet-api.polygon.technology/
 faucet.polygon.technology
-fb.lansweeper.com
 fch-cf.*.aws.indriverapp.com
 fe-cf.*.aws.indriverapp.com
 fe-gw-cf.*.aws.indriverapp.com
@@ -4136,8 +4110,6 @@ g2-gw-cf.*.aws.indriverapp.com
 gamenotes.nba.com
 gaming.logicool.co.jp
 gamma.grab.co
-gammacademy.be
-gammalokaal.nl
 garp.visa.com
 gasstation.polygon.technology/
 gatekeeper.prd.iat.it.xvservice.net
@@ -5402,7 +5374,6 @@ https://login.salt.ch
 https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
-https://lsagentrelay.lansweeper.com/
 https://luna.amazon.com/*
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://m.csqtrk.net
@@ -6975,7 +6946,6 @@ ir.remitly.com
 ir.ui.com
 irclogs.wordpress.org
 iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
-irmg.nl
 isa-cf.*.aws.indriverapp.com
 ispdesign.ui.com
 issuer.idpay-uat.unico.io
@@ -7005,10 +6975,6 @@ jwt.io
 k8s.gcr.io
 k8s.io
 kartaview.org
-karwei-promotiepunt.nl
-kassa.gamma.be/*
-kassa.gamma.nl/*
-kassa.karwei.nl/*
 katalog.watsons.com.tr
 kayak.ai
 kidswebservices.com
@@ -7087,7 +7053,6 @@ login.delen.ch
 login.delen.lu 
 login.infomaniak.com
 login.insightly.com
-login.lansweeper.com
 login.nba.com
 login.oyens.com
 login.playcanvas.com
@@ -7259,9 +7224,6 @@ mgmt-sensors.iris.production.forescoutcloud.net
 mgmtpod-1-dashboard.production.forescoutcloud.net
 mgmtpod-1.production.forescoutcloud.net
 mgs.marriott.com
-mijn.gamma.be/*
-mijn.gamma.nl/*
-mijn.karwei.nl/*
 mijnacc.uzleuven.be
 minerva.robinhood.com
 mipartnerprivileges.marriott.com
@@ -7371,9 +7333,6 @@ nha-gw-cf.*.aws.indriverapp.com
 niantic.kidswebservices.com
 ninja.kiwi
 ninjakiwi.com
-nl.gamma.app.android
-nl.gamma.verf
-nl.karwei.app.android
 nmtracking.netflix.com
 no-cf.*.aws.indriverapp.com
 no-gw-cf.*.aws.indriverapp.com
@@ -7399,7 +7358,6 @@ odoo14.notebleue.pro
 odul.watsons.com.tr
 og.com
 om.vodafone.mva
-on-premises software
 onboarding-*.cloud.com
 onboarding.cloud.com
 onboarding.greenhouse.io
@@ -8393,8 +8351,6 @@ www.fortress.com.hk
 www.fraedom.com
 www.funjet.com
 www.fuzemeeting.com
-www.gamma.be/*
-www.gamma.nl/*
 www.geneva-staging.chat
 www.geneva-staging.com
 www.getaroom.com
@@ -8426,7 +8382,6 @@ www.infomaniak.com
 www.instacart.com
 www.intigriti.com
 www.jaybirdsport.com
-www.karwei.nl/*
 www.kayak.com
 www.kiwi.com
 www.koho.ca
@@ -8435,7 +8390,6 @@ www.kruidvat.be
 www.kruidvat.nl
 www.kruidvatkids.nl
 www.lab-recherche-environnement.org
-www.lansweeper.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.libelle.nl
