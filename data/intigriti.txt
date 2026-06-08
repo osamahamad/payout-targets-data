@@ -53,6 +53,22 @@ quickstamp-gb.bpost.be
 register.bpost.be
 validationlist.bpost.be
 www.bpost.be
+login.cm.com
+api.cm.com
+api.cmtelecom.com
+cm.com/[locale]/app/*
+cm.com/[locale]/register
+appmiral.com
+building-blocks.com
+cm.com/app/messagingtrial/
+cmcom.atlassian.net
+www.cm.com
+1199521324
+1579530451
+com.cm.cashregister
+com.ticketflow.ticketscanner
+demo.globalticket.com/*
+https://github.com/cmdotcom
 payment.backend-capital.com
 capital.com/*
 com.capital.trading
@@ -69,6 +85,20 @@ unified.cloudways.com
 www.cloudways.com
 css-tricks.com
 Any related DPG media domain
+profiles-api.datacamp.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
+assessment-api.datacamp.com
+assessment-v2.datacamp.com 
+assessment.datacamp.com
+campus.datacamp.com
+com.datacamp
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
+practice.datacamp.com
+projects.datacamp.com
+www.datacamp.com
+www.datacamp.com/datalab
 myaccount.demorgen.be
 shop.demorgen.be
 www.demorgen.be
@@ -131,6 +161,10 @@ docsend.com
 app.Reclaim.ai
 dropbox.com/paper
 replay.dropbox.com
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1208823298#gid=1208823298
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1281087877#gid=1281087877
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1767553194#gid=1767553194
+https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1817816238#gid=1817816238
 my.eurid.eu
 https://portal.exoscale.com/
  https://api-*exoscale.com/v2
@@ -254,6 +288,19 @@ ecom-data.trekpleister.nl
 service.trekpleister.nl
 folder.trekpleister.nl
 www.prijsmepper.nl
+Lansweeper Discovery
+app.lansweeper.com
+fb.lansweeper.com
+edge.lansweeper.com
+api.lansweeper.com
+backoffice.lansweeper.com
+https://lsagentrelay.lansweeper.com/
+app.lansweeper.com/trial
+autoupdateapi.lansweeper.com
+docs.lansweeper.com
+login.lansweeper.com
+on-premises software
+www.lansweeper.com
 www.libelle.nl
 www.marionnaud.fr
 Marionnaud France Android
@@ -317,6 +364,17 @@ Marionnaud Slovakia Android
 media.marionnaud.sk
 app.marionnaud.sk
 api.marionnaud.sk
+1052238659
+co.uk.getmondo
+www.monzo.com
+monzo.com
+be.nexuzhealth.mobile.cpv
+be.nexuzhealth.mobile.kws
+be.nexuzhealth.mobile.mynexuz
+kws-companion/id1342124012
+mynexuz.be
+mynexuzhealth/id1459856321
+liquidfiles.nexuzhealth.com
  idp-contact.nexuzhealth.be
 media.nexuzhealth.be/patient/ 
 analytics.ninjakiwi.com
@@ -443,6 +501,37 @@ shop.trouw.nl
 webwinkel.trouw.nl
 www.trouw.nl
 www.trouw.nl/abonnementen
+api.truelayer[-sandbox].com
+api.mtls.truelayer[-sandbox].com
+auth.truelayer[-sandbox].com
+auth.mtls.truelayer[-sandbox].com
+app.truelayer[-sandbox].com
+login-api.truelayer[-sandbox].com
+login.truelayer[-sandbox].com
+onboarding-api.truelayer.com
+pay-api.truelayer[-sandbox].com
+pay.truelayer[-sandbox].com
+paydirect.truelayer[-sandbox].com
+payment.truelayer[-sandbox].com
+payments-experience-api.truelayer[-sandbox].com
+user-authentication-api.truelayer[-sandbox].com
+users-api.truelayer.com
+C# SDK
+console-backend.truelayer[-sandbox].com
+console.truelayer[-sandbox].com
+sftp.reports.truelayer.com
+Java SDK
+PHP SDK
+TrueLayer for Magento (Magento plugin)
+TrueLayer for WooCommerce (WordPress plugin)
+shopify-admin.truelayer.com
+shop-pay-app-api.truelayer.com
+truelayer-signing
+webhooks.truelayer[-sandbox].com
+iOS SDK
+React Native SDK
+Web SDK
+Rust SDK
 OP-TEE
 Mbed TLS & TF-PSA-Crypto
 TrustedFirmware-A (TF-A)
@@ -519,6 +608,15 @@ login.arkane.network
 login.venly.io
 wallet.venly.io
 api-wallet-sandbox.venly.io
+Vinted: Shop & sell pre-loved
+Vinted: Shop & sell pre-loved
+*old.vinted.com
+*test-escalations.vintedgo.com
+*badger.it.vinted.com
+*careers.vinted.com
+*news.vinted.com
+*company.vinted.com
+Scam
 564141518
 accountsettings.connect.identity.stagaws.visma.com
 admin.stage.vismaonline.com

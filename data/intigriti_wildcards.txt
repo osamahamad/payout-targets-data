@@ -31,12 +31,17 @@
 *.bpost.cloud
 *.landmarkglobal-group.com
 *.stbpost.be
+*.ticketing.cm.com
+*.appmiral.com
+*.cm.com
+*.cmtelecom.com
 *.backend-capital.com
 *.capital.com
 *.itcapital.io
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -81,6 +86,7 @@ Leaked/compromised employee accounts *.here.com
 *.kruidvat.be
 *.trekpleister.nl
 *.prijsmepper.nl
+*.lansweeper.com
 *.libelle.nl
 *.marionnaud.fr
 *.marionnaud.es
@@ -94,6 +100,9 @@ Leaked/compromised employee accounts *.here.com
 *.marionnaud.cz
 *.marionnaud.ro
 *.marionnaud.sk
+*.monzo.com
+*.prod-ffs.io
+*.nexuzhealth.*
 *.ninjakiwi.me
 *.nkstatic.com
 *.souparea.com
@@ -107,6 +116,8 @@ Leaked/compromised employee accounts *.here.com
  *.rivian.com
 *.swisspass.ch
 *.sbb.ch
+*.sqills.com
+*.sqills.team
 *.superdrug.com
 *.savers.co.uk
 *.theperfumeshop.com
@@ -115,6 +126,9 @@ Leaked/compromised employee accounts *.here.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
@@ -131,6 +145,12 @@ Leaked/compromised employee accounts *.here.com
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
+*.vinted.net
+*.vinted.com
+*.vinted.fr
+*.vintedgo.com
+*sandbox*.vintedgo.com
+*sandbox*.vinted.com
 *. advancedcustomfields.com
 *. bettersearchreplace.com
 *.deliciousbrains.com

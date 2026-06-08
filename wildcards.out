@@ -108,6 +108,7 @@
 *.app.asana.com
 *.app.personio-dev.com
 *.app.personio.com
+*.appmiral.com
 *.arlo.com (subdomains impacting production customer-facing services)
 *.arlocloud.com
 *.arloxcld.com
@@ -215,6 +216,8 @@
 *.cloudflare.com
 *.cloudflarepartners.com
 *.cloudways.com
+*.cm.com
+*.cmtelecom.com
 *.coda.io
 *.cognitiveperformer.com
 *.coinbase-corp.com
@@ -241,6 +244,7 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
+*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
@@ -527,6 +531,7 @@
 *.kruidvatkids.nl
 *.kwsdose.be
 *.landmarkglobal-group.com
+*.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
 *.latitudefinancial.co.nz
@@ -633,6 +638,7 @@
 *.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
+*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.mortgagechoice.com.au
@@ -661,6 +667,7 @@
 *.newegg.ca
 *.newegg.com
 *.nextcapital.com
+*.nexuzhealth.*
 *.nflxext.com
 *.nflximg.net
 *.nflxso.net
@@ -767,6 +774,7 @@
 *.prijsmepper.nl
 *.primarycareondemand.mayoclinic.org
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -905,6 +913,8 @@
 *.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
+*.sqills.com
+*.sqills.team
 *.srvcs.tumblr.com
 *.ssr.ccp.xcal.tv 
 *.stadtwien.onmicrosoft.com
@@ -952,6 +962,7 @@
 *.thinkingphones.com
 *.thinkingphones.net
 *.threatdown.com
+*.ticketing.cm.com
 *.ticketnew.com
 *.tidalhifi.com
 *.tiktok.com
@@ -981,6 +992,9 @@
 *.trip.com
 *.triplinkintl.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tumblr.com
@@ -1041,6 +1055,10 @@
 *.vimla.se
 *.vimla.work
 *.vine.co
+*.vinted.com
+*.vinted.fr
+*.vinted.net
+*.vintedgo.com
 *.visamiddleeast.com
 *.vliegwinkel.nl
 *.vod2.infomaniak.com
@@ -1130,6 +1148,8 @@
 *idp*.uzleuven.be
 *omega*.yahoo.com
 *qa*.arlo.com
+*sandbox*.vinted.com
+*sandbox*.vintedgo.com
 *stag*.uzleuven.be
 *test*.bykea.net
 3rd party services hosted at *.sophos.com
