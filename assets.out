@@ -142,6 +142,7 @@
 *.avecspotify.com
 *.ayco.com
 *.backblazeb2.com
+*.backend-capital.com
 *.bancoplata.mx
 *.baoliyun.com
 *.base.org
@@ -196,6 +197,7 @@
 *.canva.cn
 *.canva.com
 *.canva.tech
+*.capital.com
 *.capitalone.ca
 *.capitalone.com
 *.capitalonegslbex.com
@@ -511,6 +513,7 @@
 *.intercomassets.com / *.intercomcdn.com
 *.internal.exoscale.ch
 *.intigriti.me
+*.itcapital.io
 *.jbl.com
 *.jbl.com.br
 *.jbl.nl
@@ -813,6 +816,7 @@
 *.rentalcars.com
 *.reposify.com
 *.rhinternal.net
+*.ripe.net
 *.robinhood.com
 *.robinhood.net
 *.roblox.com
@@ -1273,6 +1277,7 @@
 192.251.124.0/24
 192.251.125.0/24
 192.251.126.0/24
+193.0.0.0/19 and 2001:67c:2e8::/48
 193.109.229.0/24
 193.110.154.0/24
 193.5.66.0/23
@@ -1712,6 +1717,7 @@ Aruba InstantOn Switches
 Aruba User Experience Insight Sensors
 ArubaOS-CX Switches
 Assets labeled as in-scope
+Assets owned by RIPE NCC
 Atlas
 Atlas Charts
 Atlas Data Federation
@@ -2623,6 +2629,7 @@ academy.deriv.com
 academy.infomaniak.com
 access-sandbox.remitly.com
 access.remitly.com
+access.ripe.net
 accommodations.booking.com
 account-sprint.dynatracelabs.com
 account.acronis.com
@@ -2680,6 +2687,7 @@ ads.tiktok.com
 adtechnology.axelspringer.com
 advisories.gitlab.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
+aff.capital.com
 affiliate-id.tokopedia.com
 affiliate.meesho.com
 agents.hostinger.com
@@ -3189,6 +3197,7 @@ campaign.watsons.com.tr
 campaigns.theperfumeshop.com
 cancellation.prod.ps.welt.de
 capability.prod.innovexperiments.com
+capital.com/*
 capturingreality.com
 cardpayments.remitly.io
 cards.remitly.io
@@ -3196,6 +3205,7 @@ cardsonline.azdiest.be
 cardsonlinetst.azdiest.be
 career.bpost.be
 careers.booking.com
+careers.capital.com
 careers.indrive.com
 careers.marriott.com
 careers.remitly.com
@@ -3366,6 +3376,7 @@ com.bumble.app
 com.bumblebff.app
 com.bykea.pk
 com.bykea.pk.partner
+com.capital.trading
 com.cheaptickets
 com.clay.ios
 com.clearme.Clear
@@ -4068,6 +4079,7 @@ globaljourney.tomorrowland.com
 gnip.com
 gnocchi-www.buffalo-ggn.net
 go-cms.tw.coupang.com
+go.capital.com
 go.geneva-staging.com
 go.stripchat.com
 go.welt.de
@@ -4947,6 +4959,13 @@ https://github.com/Hacker0x01/react-datepicker
 https://github.com/Infomaniak/desktop-kDrive
 https://github.com/OctopusDeploy
 https://github.com/ProjectOpenSea/seaport#deployments
+https://github.com/RIPE-NCC/rpki-commons
+https://github.com/RIPE-NCC/rpki-core
+https://github.com/RIPE-NCC/rpki-monitoring
+https://github.com/RIPE-NCC/rpki-publication-server
+https://github.com/RIPE-NCC/rpki-ta-0
+https://github.com/RIPE-NCC/rsyncit
+https://github.com/RIPE-NCC/whois
 https://github.com/Shopify/*
 https://github.com/afterpay/sdk-android
 https://github.com/afterpay/sdk-ios
@@ -6085,7 +6104,6 @@ https://play.google.com/store/search?q=mattermost&c=apps
 https://play.google.com/store/search?q=plann&c=apps
 https://play.google.com/store/search?q=simplisafe&c=apps
 https://playlist.link
-https://plmcixt.pinelabs.com
 https://plugins.matomo.org/developer/innocraft
 https://plugins.matomo.org/developer/matomo-org
 https://pluralcheckout.pinepg.in
@@ -6932,6 +6950,7 @@ links.geneva-staging.com
 links.portswigger.net
 liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
+lirportal.ripe.net
 list-v2--netlify-plugins.netlify.app
 lists.wordpress.org
 live-backstage.tiktok.com
@@ -7262,6 +7281,7 @@ onlinepharmacy.superdrug.com
 onum-labs.com
 onum.com
 open redirect at *.epam.com
+open-api.capital.com
 open.airbnb.com
 open.larksuite.com
 open.ys7.com
@@ -7321,6 +7341,7 @@ pay.tw.coupang.com
 pay.wallet.tg
 paybridge.booking.com
 payer-details-sandbox.gocardless.com
+payment.backend-capital.com
 payment.bingo.com
 payment.casinohuone.com
 payment.kolikkopelit.com
@@ -7495,6 +7516,7 @@ redditforbusiness.com
 refer.23andme.com
 refined.site/admin
 register.bpost.be
+register.capital.com
 registre.notebleue.pro
 registry.gitlab.com
 rei.com
