@@ -2657,6 +2657,7 @@ about.gitlab.com
 academy-outbound-ads.tiktok.com
 academy.deriv.com
 academy.infomaniak.com
+academy.mercadoads.com
 access-sandbox.remitly.com
 access.remitly.com
 access.ripe.net
@@ -2807,6 +2808,8 @@ api.custody.coinbase.com
 api.deriv.com
 api.developer.monespacesante.fr
 api.dicey.com
+api.digital.delen.be 
+api.digital.delen.lu 
 api.digitalocean.com
 api.direct.playstation.com
 api.dmp.gouv.fr
@@ -2973,6 +2976,9 @@ app.circle.com
 app.datacamp.com/certification
 app.datacamp.com/groups
 app.datacamp.com/learn
+app.delen.be 
+app.delen.ch 
+app.delen.lu 
 app.demand.cybersource.com
 app.deriv.com
 app.drogas.lt
@@ -3075,6 +3081,8 @@ auth-identity-uat-ping.nba.com
 auth-identity-uat.nba.com
 auth-identity.nba.com
 auth.23andme.com
+auth.digital.delen.be 
+auth.digital.delen.lu 
 auth.dmp.gouv.fr
 auth.magic.link
 auth.monespacesante.fr
@@ -3122,6 +3130,7 @@ bdese.marionnaud.fr
 bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
+be.delen.digital
 beacon.netflix.com
 beamitmobile.com
 beauty-and-you.iciparisxl.nl
@@ -3324,7 +3333,6 @@ co-gw-cf.*.aws.indriverapp.com
 co-in-gw-cf.*.aws.indriverapp.com
 co.mona.android
 co.uk.getmondo
-coaching.supernovas.indrive.com
 coban.pixiv.net
 coda.grammarly.com
 coda.io
@@ -3853,6 +3861,7 @@ decision.swiftfinancial.com
 deeplinks.geneva-staging.chat
 deeplinks.geneva-staging.com
 defi.ripio.com
+delen/id1064839588
 delivery-webview.indrive.com
 demo.arkoselabs.com
 demo.dynamic.xyz
@@ -6293,6 +6302,7 @@ https://sign.originzero.com.au
 https://signal.pulsepoint.com/hcp365/#/dashboard/advertiser/6603/overview
 https://signal.pulsepoint.com/hcpexplorer/#/dashboard/eventsExplorer
 https://signature.blis.com
+https://signin-hackerone.hbstaging.website/
 https://simnext.bullish-test.com
 https://simplisafe.co.uk
 https://simplisafe.com
@@ -6917,6 +6927,7 @@ innersloth.kidswebservices.com
 innovation.superdrug.com
 insight2.tradepmr.com
 insights.deribit.com
+insights.judgeme.dev
 institutional.coinbase.com
 insuritly.com
 int.32red.com
@@ -7044,10 +7055,14 @@ login-sandbox.nba.com
 login-uat.nba.com
 login.arkane.network
 login.cm.com
+login.delen.be 
+login.delen.ch 
+login.delen.lu 
 login.infomaniak.com
 login.insightly.com
 login.lansweeper.com
 login.nba.com
+login.oyens.com
 login.playcanvas.com
 login.rei.com
 login.remitly.com
@@ -7178,8 +7193,11 @@ meliplay.com.pe
 meliplay.com.uy
 member.tw.coupang.com
 member.watsons.com.tw
+mercadobackoffice.com
+mercadoenvios.com.ve
 mercadolibreexperience.cl
 mercadolivreexperience.com.br/
+mercadopago.com.ve
 mercadoplay.co
 mercadoplay.com.pe
 mercadoplay.com.uy
@@ -7241,6 +7259,8 @@ movie.indrive.com
 mpa.ekyc.backoffice.m-pesa.com
 mpa.ekyc.selfregister.m-pesa.com
 mpa.qr.web.m-pesa.com
+mpago.la
+mpago.li
 msg-cf.*.aws.indriverapp.com
 msg-gw-cf.*.aws.indriverapp.com
 msg.playcanvas.com
@@ -7874,6 +7894,7 @@ stats.gleague.nba.com
 stats.nba.com
 stats.vinci.com
 stats.wnba.com
+status.delen.be 
 status.larksuite.com
 status.uphold.com
 steamcommunity.com
@@ -7901,6 +7922,7 @@ streaming-api.iris.production.forescoutcloud.net
 streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
+sts.delen.be 
 sts.uzleuven.be
 studio-api.swapcard.com
 studio.swapcard.com
@@ -8211,6 +8233,8 @@ www.bookingholdings.com
 www.bpost.be
 www.bpost2.be
 www.bumble.com
+www.cadelam.be 
+www.cadelux.lu/en 
 www.cardinalcommerce.com
 www.carrentals.com
 www.cart.starbucks.co.jp/
@@ -8238,6 +8262,8 @@ www.cybersource.com
 www.datacamp.com
 www.datacamp.com/datalab
 www.ddfcontent.com
+www.delen.bank
+www.delen.be/en 
 www.demorgen.be
 www.demorgen.be/abonnementen
 www.digitalocean.com
@@ -8458,7 +8484,6 @@ www.storspiller.com
 www.stripe.partners
 www.superdrug.com
 www.superdrugmobile.com
-www.supernovas.indrive.com
 www.swiftcapital.com
 www.swiftfinancial.com
 www.swisstransfer.com
