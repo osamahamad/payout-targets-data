@@ -18,6 +18,7 @@
  idp-contact.nexuzhealth.be
  login-test.portofantwerpbruges.com/
  mix.monash.edu 
+ new CDI-based architecture
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 (se|fi|uk).bingo.com
 * hln.be/inloggen
@@ -1942,6 +1943,7 @@ All Mobile Assets
 All Motorola Devices running Android 13 and above. 
 All Other BitMEX Assets
 All Other In-Scope Assets
+All Other NVIDIA Container Toolkit Assets
 All Zomato Assets (Other than BlinkIT & Hyperpure)
 All internet facing Sky DACH assets
 All internet facing Sky Italy assets 
@@ -2091,6 +2093,9 @@ CDNJS
 CFEngine Enterprise
 CHP Cloud Portal
 CS2
+CUDA Driver APIs
+CUDA Libraries
+CUDA Runtime APIs
 Canva (Android)
 Canva (Chrome Extension)
 Canva (iOS)
@@ -2636,6 +2641,9 @@ Munkisrv Open Source Project
 NARZO 80 Lite 4G
 NARZO 80 Pro 5G
 NARZO 80x 5G
+NVCC
+NVIDIA Nsight Developer Tools
+NVRTC library
 Naasapi.optus.com.au
 Narzo 80 lite 5G
 Native K8S workers and operator
@@ -2675,6 +2683,7 @@ Notion Authentication
 Notion Desktop App
 Notion Frontend
 Notion Integrations
+Nsight Systems
 OIDC-based API keys
 OKX Android APK
 OKX Wallet Chrome Extension
@@ -8781,6 +8790,7 @@ lego.me
 lemon8-api.tiktokv.us
 lemonaidhealth.com
 leonard.vinci.com
+libNVVM API
 liberty-dev.wnba.com
 liberty-qa.wnba.com
 liberty-qa2.wnba.com
@@ -9256,6 +9266,7 @@ npmjs.org
 ns1.optusnet.com.au
 ns2.optusnet.com.au
 nummus.robinhood.com
+nvJitLink APIs
 nz.co.vista.android.movie.mjrtheatres
 oasisprod.marriott.com
 oauth-sandbox.gocardless.com
