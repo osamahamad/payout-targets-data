@@ -1754,7 +1754,6 @@ Atlas IAM
 Atlas Payments/Billing
 Audition
 Authentication & ATO
-BBPress Core
 Backend endpoint: bug-bounty-be.glean.com
 Backend/Non-Game
 Basecamp.app
@@ -3134,6 +3133,7 @@ basecamp.rivian.com
 basecamp3.exe
 battles.tv
 bb.visa.com
+bbPress Core
 bcny.com
 bd.visa.com
 bdes-api.marionnaud.fr
