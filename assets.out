@@ -5414,6 +5414,9 @@ https://marketplace.atlassian.com/apps/1211203/bitbucket-server-protect-unmerged
 https://marketplace.atlassian.com/apps/1211243/timetracker-time-tracking-timesheet-reporting-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1211246/autolink-plugin-for-jira?hosting=datacenter
 https://marketplace.atlassian.com/apps/1211246/autolink-plugin-for-jira?hosting=server
+https://marketplace.atlassian.com/apps/1211303/workzone-pullrequest-workflow?hosting=cloud
+https://marketplace.atlassian.com/apps/1211303/workzone-pullrequest-workflow?hosting=datacenter
+https://marketplace.atlassian.com/apps/1211303/workzone-pullrequest-workflow?hosting=server
 https://marketplace.atlassian.com/apps/1211312/confluence-issue-tab-plugin-for-jira?hosting=server
 https://marketplace.atlassian.com/apps/1211376/jenkins-integration-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1211376/jenkins-integration-for-jira?hosting=datacenter&tab=overview
@@ -5452,6 +5455,8 @@ https://marketplace.atlassian.com/apps/1212632/look-and-feel-for-bitbucket-serve
 https://marketplace.atlassian.com/apps/1212736/predator-plugin-for-bamboo?hosting=server
 https://marketplace.atlassian.com/apps/1212778/my-reminders-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1212796/balsamiq-wireframes-for-jira-cloud?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1212840/reminders-for-bitbucket?hosting=datacenter
+https://marketplace.atlassian.com/apps/1212840/reminders-for-bitbucket?hosting=server&tab=overview
 https://marketplace.atlassian.com/apps/1213019/k-sso-saml-sso-oauth-kerberos-user-management-for-bitbucket
 https://marketplace.atlassian.com/apps/1213092/google-drive-for-confluence-official-legacy-editor-only?hosting=cloud
 https://marketplace.atlassian.com/apps/1213146/risk-register?hosting=cloud
@@ -5500,6 +5505,8 @@ https://marketplace.atlassian.com/apps/1215768/agile-velocity-chart-gadget?hosti
 https://marketplace.atlassian.com/apps/1215795/analytics-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1215833/proforma-forms-checklist-for-jira?hosting=datacenter
 https://marketplace.atlassian.com/apps/1215833/proforma-forms-checklist-for-jira?hosting=server
+https://marketplace.atlassian.com/apps/1215843/global-pull-request-organizr?hosting=datacenter
+https://marketplace.atlassian.com/apps/1215843/global-pull-request-organizr?hosting=server
 https://marketplace.atlassian.com/apps/1215924/agent-usage-visualization-for-bamboo?hosting=server
 https://marketplace.atlassian.com/apps/1215948/jira-cloud-for-slack?hosting=cloud
 https://marketplace.atlassian.com/apps/1215965/build-times-for-bamboo-5-10?hosting=server
@@ -5690,6 +5697,7 @@ https://marketplace.atlassian.com/apps/1223533/?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1223584/github-webhooks-for-fisheye?hosting=server
 https://marketplace.atlassian.com/apps/1223877/advanced-agile-boards?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1224009/content-mirror-for-confluence?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/1224025/ai-insights-for-jira-service-management?hosting=cloud
 https://marketplace.atlassian.com/apps/1224167/security-for-confluence-enhanced-secret-scanner-by-soteri?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1224167/security-for-confluence-enhanced-secret-scanner-by-soteri?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1224300/opsgenie-bamboo-plugin?hosting=server
@@ -5800,6 +5808,7 @@ https://marketplace.atlassian.com/apps/1235496/jira-board-buddy?hosting=cloud
 https://marketplace.atlassian.com/apps/1236240/burnup-burndown-chart-gadget-forecast-on-jira-dashboard?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1236248/jenkins-for-confluence/?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1236260/?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/1236742/advanced-content-status-labels-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1236998/refined-ui-toolkit-for-confluence-page-builder-navigation?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1237512/latex-math-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1237517/captionizer-ai-image-analyzer
@@ -6557,7 +6566,6 @@ https://www.classdojo.com
 https://www.classeaudio.com
 https://www.cloudvector.com/
 https://www.cms.gov/
-https://www.coindesk.com/
 https://www.coinspot.com.au/v2/api
 https://www.coloros.com/
 https://www.coral.co.uk
