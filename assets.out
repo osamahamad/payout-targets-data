@@ -549,7 +549,6 @@
 *.kruidvatkids.nl
 *.kwsdose.be
 *.landmarkglobal-group.com
-*.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
 *.latitudefinancial.co.nz
@@ -2120,7 +2119,6 @@ Kruidvat BE Android
 Kruidvat BE iOS
 Kruidvat NL Android
 Kruidvat NL iOS
-Lansweeper Discovery
 LaunchDarkly Open Source SDKs
 Leaked Credentials
 Leaked Credentials and Secrets (Canva Employee/Contractor)
@@ -2881,7 +2879,6 @@ api.klarna.com
 api.krisp.ai
 api.kruidvat.be
 api.kruidvat.nl
-api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
@@ -3018,8 +3015,6 @@ app.koho.ca
 app.krisp.ai
 app.kruidvat.be
 app.kruidvat.nl
-app.lansweeper.com
-app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
 app.marionnaud.at
@@ -3125,12 +3120,10 @@ authz.workbox.dk
 autocomplete.booking.com
 autodiscover.uzleuven.be
 autointerface.stag.visma.net
-autoupdateapi.lansweeper.com
 aw.visa.com
 ax-stage.maventa.com
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
-backoffice.lansweeper.com
 backstage.io
 badoo.com
 badoocdn.com
@@ -3952,7 +3945,6 @@ doaction.org
 docs.anthropic.com
 docs.api.enterprise.uphold.com
 docs.gitlab.com
-docs.lansweeper.com
 docs.launchdarkly.com
 docs.optimuscards.com
 docs.redoxengine.com
@@ -3997,7 +3989,6 @@ ecom-static.kruidvat.be
 ecom-static.kruidvat.nl
 ecrf.uzleuven.be
 edge.bookbeat.com
-edge.lansweeper.com
 edgeapi.slack.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
@@ -4063,7 +4054,6 @@ fareharborsites.com
 fashion4less.me
 faucet-api.polygon.technology/
 faucet.polygon.technology
-fb.lansweeper.com
 fch-cf.*.aws.indriverapp.com
 fe-cf.*.aws.indriverapp.com
 fe-gw-cf.*.aws.indriverapp.com
@@ -5397,7 +5387,6 @@ https://login.salt.ch
 https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
-https://lsagentrelay.lansweeper.com/
 https://luna.amazon.com/*
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://m.csqtrk.net
@@ -7096,7 +7085,6 @@ login.delen.ch
 login.delen.lu 
 login.infomaniak.com
 login.insightly.com
-login.lansweeper.com
 login.nba.com
 login.oyens.com
 login.playcanvas.com
@@ -7408,7 +7396,6 @@ odoo14.notebleue.pro
 odul.watsons.com.tr
 og.com
 om.vodafone.mva
-on-premises software
 onboarding-*.cloud.com
 onboarding.cloud.com
 onboarding.greenhouse.io
@@ -8000,8 +7987,6 @@ supply-xml.booking.com
 support*.earlywarning.com
 support-api.airbnb.com
 support-portal.8x8.com
-support-sandbox.uphold.com
-support-staging.topperpay.com
 support.anthropic.com
 support.creditkarma.ca
 support.cs.money
@@ -8443,7 +8428,6 @@ www.kruidvat.be
 www.kruidvat.nl
 www.kruidvatkids.nl
 www.lab-recherche-environnement.org
-www.lansweeper.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.libelle.nl
