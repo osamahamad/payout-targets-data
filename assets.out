@@ -41,6 +41,8 @@
 *.8x8testb.com
 *.a.exodus.io
 *.acbpost.be
+*.acc-pub.mobilevikings.be
+*.acc.mobilevikings.be
 *.acceptance.cloud.8x8.com
 *.account.api.here.com
 *.account.here.com
@@ -273,8 +275,10 @@
 *.deriv.cloud
 *.deriv.com
 *.derivws.com
+*.dev-pub.mobilevikings.be
 *.dev.*.lfscnp.com
 *.dev.grindr.io
+*.dev.mobilevikings.be
 *.dev.remitly.com
 *.dev2.grindr.io
 *.devicelock.com
@@ -600,6 +604,7 @@
 *.marionnaud.paris
 *.marionnaud.ro
 *.marionnaud.sk
+*.mas.mobilevikings.be
 *.mb-cosmos.com
 *.mbamupdates.com
 *.mclead.com.au
@@ -649,6 +654,7 @@
 *.mmcdn.com
 *.mmwebc.dev
 *.mobile-messenger.intercom.com
+*.mobilevikings.be
 *.mobilitygraph.hereapi.com
 *.mona.co
 *.moneyback.com.hk
@@ -773,10 +779,12 @@
 *.pourvous.nl
 *.ppb.com
 *.ppbdev.com
+*.prd-pub.mobilevikings.be
 *.prd.aser.simplisafe.com
 *.prd.cam.simplisafe.com (App Endpoints)
 *.prd.cam.simplisafe.com (HSP Endpoints)
 *.prd.fndlsb.net
+*.prd.mobilevikings.be
 *.prd.platform.simplisafe.com (App Endpoints)
 *.prd.platform.simplisafe.com (HSP Endpoints)
 *.prd.services.simplisafe.com (App Endpoints)
@@ -2727,7 +2735,6 @@ affiliate-id.tokopedia.com
 affiliate.meesho.com
 agents.hostinger.com
 agents.tasheer.com
-ai-testing.maventa.com
 ai-tools.infomaniak.com
 ai.portswigger.net
 ai.x.GrokApp
@@ -2945,6 +2952,7 @@ api.tidal.com
 api.trello.com
 api.tumblr.com
 api.twilio.com
+api.unleashed.be
 api.upwork.com/graphql
 api.vault.chiatest.net
 api.vhx.tv
@@ -3102,9 +3110,7 @@ authentication.wolt.com
 authz.workbox.dk
 autocomplete.booking.com
 autodiscover.uzleuven.be
-autointerface.stag.visma.net
 aw.visa.com
-ax-stage.maventa.com
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
 backstage.io
@@ -4078,6 +4084,7 @@ folder.trekpleister.nl
 folders.iciparisxl.nl
 fonts.adobe.com
 forms.cybersource.com
+forms.mobilevikings.be
 fortnite.com
 forum.playcanvas.com
 forum.sketchfab.com
@@ -6962,6 +6969,7 @@ itmss://apps.apple.com/us/app/id1510360750?ign-mscache=1
 itv7.itv.com
 ix2smbdyjt.infomaniak.site
 j.root-servers.net (DNS service; DNS related)
+jimmobile.be
 jira.hyattdev.com
 jira.logitech.com
 job.ryadom.kz
@@ -7225,6 +7233,7 @@ metasearch-api.booking.com
 metrics.int.remitly.com
 meu1.badoo.com
 mfa.simplisafe.com
+mgm.mobilevikings.be
 mgmt-sensors.iris.acceptance.forescoutcloud.net
 mgmt-sensors.iris.production.forescoutcloud.net
 mgmtpod-1-dashboard.production.forescoutcloud.net
@@ -7242,6 +7251,7 @@ mobileapi.insightly.com
 mobileapi.lystit.com
 mobileapi.na1.insightly.com
 mobileapp.hyatt.com
+mobilevikings.be
 mod.reddit.com
 modefestival.com
 mokapos.com
@@ -7993,7 +8003,6 @@ test.payworks.io
 testapi.redoxengine.com
 testapp.redoxengine.com
 testbank.xs2a.com
-testing.maventa.com
 testnet.bitmex.com
 teststs.uzleuven.be
 thebrowser.company
@@ -8053,6 +8062,7 @@ usa.visa.com
 user-profile-staging.8x8.com
 user-profile.8x8.com
 usercontent.koho.ca
+uwa.mobilevikings.be
 v1. kidswebservices.com
 v1staging.kidswebservices.com 
 vacation.marriott.com
@@ -8084,6 +8094,9 @@ via.rider
 video-agent.8x8.com
 videogp-api.superdrug.com
 videogp.superdrug.com
+vikingco.be
+vikingdeals.be
+vikinglab.be
 vimeo.magisto.com
 vimeopro.com
 vinci-groupe.profils.org
@@ -8103,6 +8116,7 @@ voapi.8x8.com
 vod.infomaniak.com
 volans.tech
 vote.nba.com
+vpn.mobilevikings.be
 vpn.mozilla.org
 vpn01.syd.optusnet.com.au
 vroid.com
