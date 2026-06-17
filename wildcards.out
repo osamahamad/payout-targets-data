@@ -26,8 +26,6 @@
 *.8x8testb.com
 *.a.exodus.io
 *.acbpost.be
-*.acc-pub.mobilevikings.be
-*.acc.mobilevikings.be
 *.acceptance.cloud.8x8.com
 *.account.api.here.com
 *.account.here.com
@@ -260,10 +258,8 @@
 *.deriv.cloud
 *.deriv.com
 *.derivws.com
-*.dev-pub.mobilevikings.be
 *.dev.*.lfscnp.com
 *.dev.grindr.io
-*.dev.mobilevikings.be
 *.dev.remitly.com
 *.dev2.grindr.io
 *.devicelock.com
@@ -590,7 +586,6 @@
 *.marionnaud.paris
 *.marionnaud.ro
 *.marionnaud.sk
-*.mas.mobilevikings.be
 *.mb-cosmos.com
 *.mbamupdates.com
 *.mclead.com.au
@@ -640,7 +635,6 @@
 *.mmcdn.com
 *.mmwebc.dev
 *.mobile-messenger.intercom.com
-*.mobilevikings.be
 *.mobilitygraph.hereapi.com
 *.mona.co
 *.moneyback.com.hk
@@ -767,12 +761,10 @@
 *.pourvous.nl
 *.ppb.com
 *.ppbdev.com
-*.prd-pub.mobilevikings.be
 *.prd.aser.simplisafe.com
 *.prd.cam.simplisafe.com (App Endpoints)
 *.prd.cam.simplisafe.com (HSP Endpoints)
 *.prd.fndlsb.net
-*.prd.mobilevikings.be
 *.prd.platform.simplisafe.com (App Endpoints)
 *.prd.platform.simplisafe.com (HSP Endpoints)
 *.prd.services.simplisafe.com (App Endpoints)
