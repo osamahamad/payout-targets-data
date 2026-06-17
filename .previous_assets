@@ -292,6 +292,7 @@
 *.crypto.com
 *.csconnect.org
 *.cubicmotion.com
+*.cyber.gouv.qc.ca
 *.cyber.gouv.qc.ca/
 *.cyberghost.com
 *.cyberghostvpn.com
@@ -5365,6 +5366,8 @@ https://api.production.cde.tamg.cloud
 https://api.rec.net
 https://api.recordedfuture.com
 https://api.ring.com/*
+https://api.riskrecon.com
+https://api.riskrecon.eu
 https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
 https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql
 https://api.rx.originenergy.com.au/v1/lpg/graphql
@@ -5662,6 +5665,8 @@ https://auth.lastpass.com
 https://auth.myopenpass.com
 https://auth.opera.com
 https://auth.pentest.clicsante.ca/
+https://auth.riskrecon.com
+https://auth.riskrecon.eu
 https://auth.seek.com
 https://auth.thetradedesk.com
 https://auth.wyze.com
@@ -7264,6 +7269,7 @@ https://mcp.atlassian.com
 https://mcp.datadoghq.eu/*
 https://mcp.datadoghq.eu/api/unstable/mcp-server/mcp/*
 https://mcp.opensea.io
+https://mcp.recordedfuture.com
 https://mcs.arlo.com
 https://media.irobot.com
 https://mediaflows.cloudinary.com/
@@ -7665,6 +7671,8 @@ https://portal.originzero.com.au
 https://portal.pdq.com/
 https://portal.pnimedia.com/
 https://portal.pnimedia.com/Account/Login
+https://portal.riskrecon.com
+https://portal.riskrecon.eu
 https://portal.unifiedid.com
 https://portal3.pentest.clicsante.ca/
 https://portalapi.eu.clearpay.co.uk
@@ -8055,6 +8063,8 @@ https://vault-staging.getmoneytree.com
 https://vault.chiatest.net/
 https://vc.tasheer.com/
 https://velocitize.com
+https://vendor.riskrecon.com
+https://vendor.riskrecon.eu
 https://vendors.paddle.com
 https://vendorss.usaa.com
 https://vfs-ai-tiff-image-api-hchkdabjdsdya6ea.switzerlandnorth-01.azurewebsites.net/
@@ -8424,6 +8434,7 @@ https://www.redtube.com/
 https://www.redtubepremium.com/
 https://www.remove.bg
 https://www.restaurant-information.com
+https://www.riskrecon.com
 https://www.saturn.de
 https://www.sdx.com/
 https://www.sharerewards.com/

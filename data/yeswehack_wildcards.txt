@@ -71,7 +71,7 @@ storage*.infomaniak.com
 *.privateinternetaccess.com
 *.piaservers.com
 *.piaservers.net
-*.cyber.gouv.qc.ca/
+*.cyber.gouv.qc.ca
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *.telenor.se
 *.bredbandsbolaget.se
