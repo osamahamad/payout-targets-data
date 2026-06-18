@@ -379,6 +379,24 @@ NVCC
 nvJitLink APIs
 CUDA Runtime APIs
 CUDA Driver APIs
+https://platform.nexo.com/api/1/create_recurring_payment
+https://platform.nexo.com/api/1/exchange_order
+https://platform.nexo.com/api/1/exchange_request_quote
+https://platform.nexo.com/api/1/get_pay_to_card_fee
+https://platform.nexo.com/api/1/request_bwc_quote
+https://platform.nexo.com/api/1/request_capture_payment
+https://platform.nexo.com/api/1/request_crypto_withdrawal
+https://platform.nexo.com/api/1/request_pay_to_card
+https://platform.nexo.com/api/1/term/deposits/user/create
+https://platform.nexo.com/api/platform/exchange/v1/booster/quotes
+https://platform.nexo.com/api/platform/exchange/v2/booster/orders
+https://platform.nexo.com/api/platform/exchange/v2/exchange/orders
+https://platform.nexo.com/api/trading/advanced/facade/api/v1/deposit
+https://platform.nexo.com/api/trading/advanced/facade/api/v1/fees
+https://platform.nexo.com/api/trading/advanced/facade/api/v1/order/futures
+https://platform.nexo.com/api/trading/advanced/facade/api/v1/withdraw
+https://nexo.com/
+https://platform.nexo.com/
  idp-contact.nexuzhealth.be
 media.nexuzhealth.be/patient/ 
 analytics.ninjakiwi.com
