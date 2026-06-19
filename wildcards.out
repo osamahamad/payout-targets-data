@@ -390,10 +390,6 @@
 *.global-liquidity.gs.com
 *.go-pay.co.id
 *.gobiz.co.id
-*.gocardless-cicd.io
-*.gocardless-lab.io
-*.gocardless.dev
-*.gocardless.io,*.gocardless-banking.io
 *.gofin.io
 *.gofood.co.id
 *.gofoodmerchant.co.id
@@ -669,6 +665,7 @@
 *.newegg.ca
 *.newegg.com
 *.nextcapital.com
+*.nexuzhealth.*
 *.nflxext.com
 *.nflximg.net
 *.nflxso.net
@@ -756,6 +753,8 @@
 *.pns.hk
 *.points.com
 *.polymoon.it
+*.portofantwerp.com
+*.portofantwerpbruges.com
 *.pourvous.nl
 *.ppb.com
 *.ppbdev.com
