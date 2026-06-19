@@ -100,6 +100,14 @@ Leaked/compromised employee accounts *.here.com
 *.marionnaud.cz
 *.marionnaud.ro
 *.marionnaud.sk
+*.mas.mobilevikings.be
+*.mobilevikings.be
+*.prd-pub.mobilevikings.be
+*.prd.mobilevikings.be
+*.acc-pub.mobilevikings.be
+*.acc.mobilevikings.be
+*.dev-pub.mobilevikings.be
+*.dev.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
 *.nexuzhealth.*
@@ -141,6 +149,7 @@ Leaked/compromised employee accounts *.here.com
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
+*.veriff.com
 *.vinted.net
 *.vinted.com
 *.vinted.fr

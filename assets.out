@@ -42,6 +42,8 @@
 *.8x8testb.com
 *.a.exodus.io
 *.acbpost.be
+*.acc-pub.mobilevikings.be
+*.acc.mobilevikings.be
 *.acceptance.cloud.8x8.com
 *.account.api.here.com
 *.account.here.com
@@ -274,8 +276,10 @@
 *.deriv.cloud
 *.deriv.com
 *.derivws.com
+*.dev-pub.mobilevikings.be
 *.dev.*.lfscnp.com
 *.dev.grindr.io
+*.dev.mobilevikings.be
 *.dev.remitly.com
 *.dev2.grindr.io
 *.devicelock.com
@@ -598,6 +602,7 @@
 *.marionnaud.paris
 *.marionnaud.ro
 *.marionnaud.sk
+*.mas.mobilevikings.be
 *.mb-cosmos.com
 *.mbamupdates.com
 *.mclead.com.au
@@ -647,6 +652,7 @@
 *.mmcdn.com
 *.mmwebc.dev
 *.mobile-messenger.intercom.com
+*.mobilevikings.be
 *.mobilitygraph.hereapi.com
 *.mona.co
 *.moneyback.com.hk
@@ -774,10 +780,12 @@
 *.pourvous.nl
 *.ppb.com
 *.ppbdev.com
+*.prd-pub.mobilevikings.be
 *.prd.aser.simplisafe.com
 *.prd.cam.simplisafe.com (App Endpoints)
 *.prd.cam.simplisafe.com (HSP Endpoints)
 *.prd.fndlsb.net
+*.prd.mobilevikings.be
 *.prd.platform.simplisafe.com (App Endpoints)
 *.prd.platform.simplisafe.com (HSP Endpoints)
 *.prd.services.simplisafe.com (App Endpoints)
@@ -1047,6 +1055,7 @@
 *.vayama.com
 *.venmo.com
 *.vennhypotheken.nl
+*.veriff.com
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
@@ -1250,6 +1259,7 @@
 146.109.68.0/24
 146.109.8.0/21
 146.109.8.0/22
+1467907532
 1474700 (Steam app id)
 1475021574
 1476615877
@@ -2744,6 +2754,7 @@ airFiber
 airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 akismet.com
+alchemy.veriff.com
 alert.logitech.com
 alerts.ninjakiwi.com
 alexa.amazon.com
@@ -2848,6 +2859,7 @@ api.ezvizlife.com
 api.faraday.ai
 api.fi.dyson.com
 api.figma.com
+api.flamingo-eu.veriff.com
 api.foliofn.com
 api.fortress.com.hk
 api.geneva-staging.com
@@ -2953,8 +2965,11 @@ api.tidal.com
 api.trello.com
 api.tumblr.com
 api.twilio.com
+api.unleashed.be
 api.upwork.com/graphql
+api.us.veriff.me
 api.vault.chiatest.net
+api.veriff.me
 api.vhx.tv
 api.vimeo.com
 api.watsons.co.id
@@ -3685,6 +3700,7 @@ com.urbanclap.urbanclap
 com.valmo.valmo
 com.valvesoftware.Steam
 com.venmo
+com.veriff.demo
 com.vilcsak.bitcoin2
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
@@ -3919,6 +3935,7 @@ developers.pismo.io
 developers.reddit.com
 developers.tiktok.com
 developers.tw.coupangcorp.com
+developers.veriff.me
 device.marriott.com
 dh-gw-cf.*.aws.indriverapp.com
 diabrowser.com
@@ -4103,6 +4120,7 @@ folder.trekpleister.nl
 folders.iciparisxl.nl
 fonts.adobe.com
 forms.cybersource.com
+forms.mobilevikings.be
 fortnite.com
 forum.playcanvas.com
 forum.sketchfab.com
@@ -7036,6 +7054,7 @@ itmss://apps.apple.com/us/app/id1510360750?ign-mscache=1
 itv7.itv.com
 ix2smbdyjt.infomaniak.site
 j.root-servers.net (DNS service; DNS related)
+jimmobile.be
 jira.hyattdev.com
 jira.logitech.com
 job.ryadom.kz
@@ -7154,6 +7173,7 @@ logitechgchallenge.com
 logs-partners.tw.coupang.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
+louvre.veriff.me
 loyalty.tw.coupang.com
 lps.dmp.gouv.fr
 lps2.dmp.gouv.fr
@@ -7172,6 +7192,7 @@ mUSD Stablecoin
 macOS app
 magazine.kruidvat.be
 magento.com
+magic.veriff.me
 magisto.com,www.magisto.com
 mail-builder.infomaniak.com/
 mail.hostinger.com/v2
@@ -7306,6 +7327,7 @@ metasearch-api.booking.com
 metrics.int.remitly.com
 meu1.badoo.com
 mfa.simplisafe.com
+mgm.mobilevikings.be
 mgmt-sensors.iris.acceptance.forescoutcloud.net
 mgmt-sensors.iris.production.forescoutcloud.net
 mgmtpod-1-dashboard.production.forescoutcloud.net
@@ -7323,6 +7345,7 @@ mobileapi.insightly.com
 mobileapi.lystit.com
 mobileapi.na1.insightly.com
 mobileapp.hyatt.com
+mobilevikings.be
 mod.reddit.com
 modefestival.com
 mokapos.com
@@ -7974,6 +7997,8 @@ staking-api.polygon.technology
 staking.polygon.technology
 starling-ttp.lemon8-app.us
 static*.twilio.com
+station.veriff.com
+stationapi.veriff.com
 stats-dev.nba.com
 stats-qa.nba.com
 stats-trafficcop-aws-dev.nba.com
@@ -8148,6 +8173,7 @@ usa.visa.com
 user-profile-staging.8x8.com
 user-profile.8x8.com
 usercontent.koho.ca
+uwa.mobilevikings.be
 v1. kidswebservices.com
 v1staging.kidswebservices.com 
 vacation.marriott.com
@@ -8179,6 +8205,9 @@ via.rider
 video-agent.8x8.com
 videogp-api.superdrug.com
 videogp.superdrug.com
+vikingco.be
+vikingdeals.be
+vikinglab.be
 vimeo.magisto.com
 vimeopro.com
 vinci-groupe.profils.org
@@ -8198,6 +8227,7 @@ voapi.8x8.com
 vod.infomaniak.com
 volans.tech
 vote.nba.com
+vpn.mobilevikings.be
 vpn.mozilla.org
 vpn01.syd.optusnet.com.au
 vroid.com
@@ -8629,6 +8659,7 @@ www.urbancompany.com
 www.uzleuven.be
 www.valmo.in
 www.valvesoftware.com
+www.veriff.com
 www.vfsvisaonline.com
 www.vfsvisaservicesrussia.com
 www.vimeo.com
