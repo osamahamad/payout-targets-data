@@ -1189,6 +1189,8 @@
 1089294040
 1091010942
 10x.redoxengine.com
+1114799709
+1114800186
 1116488672
 1118448159
 1127881507
@@ -2924,6 +2926,7 @@ api.slack.com
 api.smtp2go.com
 api.sokos.fi
 api.sorare.com
+api.soundtrackyourbrand.com
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -3137,6 +3140,7 @@ bettrfinancing.com
 bid.*.aws.indriverapp.com
 bigcommerce-adapter.judge.me
 bild.de
+billing.api.soundtrackyourbrand.com
 billingsupport.chaturbate.com
 bilt.marriott.com
 biolibre.ar
@@ -3192,12 +3196,14 @@ bugcrowd-pam-###.pam.oktapreview.com
 bugzilla.mozilla.org
 builder.hostinger.com
 building-blocks.com
+builds.soundtrackyourbrand.com
 bulten.watsons.com.tr
 business-resources.truecaller.com
 business.kayak.com
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
+business.soundtrackyourbrand.com
 business.tiktok.com
 business.truecaller.com
 businesshelp.snapchat.com
@@ -3621,6 +3627,7 @@ com.skypicker.Skypicker
 com.skypicker.main
 com.slack.slackmdm
 com.snapchat.android
+com.soundtrackyourbrand.soundtrack.player
 com.spotify.client
 com.spotify.kids
 com.spotify.music
@@ -4651,6 +4658,7 @@ https://audiencelogos.blis.com
 https://audio.20min.ch/
 https://auth-adx.op-mobile.opera.com
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
+https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.lastpass.com
@@ -4714,6 +4722,7 @@ https://bugcrowd.charm.felixforus.ca/home
 https://bugcrowd.com/programs
 https://bugcrowd.lucky.felixforus.ca
 https://bugs.opera.com/
+https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
@@ -5429,12 +5438,12 @@ https://marketplace.atlassian.com/apps/1211644/questions-for-confluence?hosting=
 https://marketplace.atlassian.com/apps/1211715/inbox-hook-for-bitbucket-server?hosting=server
 https://marketplace.atlassian.com/apps/1211738/file-tagging-plugin-for-crucible?hosting=server
 https://marketplace.atlassian.com/apps/1211836/automation-for-jira-server-lite?hosting=server
-https://marketplace.atlassian.com/apps/1211923/k-sso-saml-sso-oauth-kerberos-user-management-for-jira
+https://marketplace.atlassian.com/apps/1211923/k-sso-saml-sso-oauth-kerberos-user-management-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1212078/easy-agile-user-story-maps-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1212096/customfield-editor-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1212100/repository-quickadd-for-fisheye-crucible?hosting=server
 https://marketplace.atlassian.com/apps/1212120/agile-reports-and-gadgets?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1212126/k-sso-saml-sso-oauth-kerberos-user-management-for-confluence
+https://marketplace.atlassian.com/apps/1212126/k-sso-saml-sso-oauth-kerberos-user-management-for-confluence?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1212136/advanced-roadmaps-formerly-portfolio?hosting=datacenter
 https://marketplace.atlassian.com/apps/1212136/advanced-roadmaps-formerly-portfolio?hosting=server
 https://marketplace.atlassian.com/apps/1212137/assets?hosting=server
@@ -5450,7 +5459,7 @@ https://marketplace.atlassian.com/apps/1212778/my-reminders-for-jira?hosting=clo
 https://marketplace.atlassian.com/apps/1212796/balsamiq-wireframes-for-jira-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1212840/reminders-for-bitbucket?hosting=datacenter
 https://marketplace.atlassian.com/apps/1212840/reminders-for-bitbucket?hosting=server&tab=overview
-https://marketplace.atlassian.com/apps/1213019/k-sso-saml-sso-oauth-kerberos-user-management-for-bitbucket
+https://marketplace.atlassian.com/apps/1213019/k-sso-saml-sso-oauth-kerberos-user-management-for-bitbucket?hosting=datacenter
 https://marketplace.atlassian.com/apps/1213092/google-drive-for-confluence-official-legacy-editor-only?hosting=cloud
 https://marketplace.atlassian.com/apps/1213146/risk-register?hosting=cloud
 https://marketplace.atlassian.com/apps/1213346/issue-sync-integration-for-jira?hosting=cloud&tab=overview
@@ -5483,8 +5492,7 @@ https://marketplace.atlassian.com/apps/1215192/image-paste-for-fisheye-crucible?
 https://marketplace.atlassian.com/apps/1215199/backbone-issue-sync-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1215199/backbone-issue-sync-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1215235/fail-build-trigger-for-bamboo?hosting=server
-https://marketplace.atlassian.com/apps/1215262/k-sso-saml-sso-oauth-kerberos-user-management-for-bamboo
-https://marketplace.atlassian.com/apps/1215263/k-sso-saml-sso-oauth-kerberos-user-management-for-fecru
+https://marketplace.atlassian.com/apps/1215263/k-sso-saml-sso-oauth-kerberos-user-management-for-fecru?hosting=server&tab=overview
 https://marketplace.atlassian.com/apps/1215311/stagil-assets-advanced-links-data-model-matrix-structure?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1215414/pivot-report?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1215414/pivot-report?hosting=datacenter&tab=overview
@@ -5744,7 +5752,7 @@ https://marketplace.atlassian.com/apps/1227949/hackathon-workflow-alan?hosting=d
 https://marketplace.atlassian.com/apps/1228153/comms-dashboard?hosting=cloud
 https://marketplace.atlassian.com/apps/1228296/rapidoc-openapi-swagger-specification-ui-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1228657/easy-peasy-roadmap-for-jira?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1228920/issue-work-item-summary-description-templates-for-jira
+https://marketplace.atlassian.com/apps/1228920/issue-work-item-summary-description-templates-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1228937/atlas-for-jira-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1229003/glean-activity-plugin-for-jira-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1229162/issue-templates-agent-for-jira?hosting=cloud&tab=overview
@@ -5762,7 +5770,6 @@ https://marketplace.atlassian.com/apps/1229966/scrum-master-assistant-for-jira?h
 https://marketplace.atlassian.com/apps/1230032/databricks-visualization?hosting=cloud
 https://marketplace.atlassian.com/apps/1230311/app-usage-for-jira?hosting=datacenter
 https://marketplace.atlassian.com/apps/1230311/app-usage-for-jira?hosting=server
-https://marketplace.atlassian.com/apps/1230481/kantega-user-management-license-optimizer-for-jira
 https://marketplace.atlassian.com/apps/1230481/kantega-user-management-license-optimizer-for-jira?hosting=datacenter
 https://marketplace.atlassian.com/apps/1230671/extension-point-finder-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1230672/extension-point-finder-for-jira?hosting=cloud
@@ -5782,7 +5789,7 @@ https://marketplace.atlassian.com/apps/1232887/mermaid-diagrams-viewer?hosting=c
 https://marketplace.atlassian.com/apps/1233346/audio-recorder-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1233451/create-ticket-template-issue-template-easy-templates?hosting=cloud
 https://marketplace.atlassian.com/apps/1233583/email-this-issue-for-jira?hosting=cloud
-https://marketplace.atlassian.com/apps/1233591/kantega-user-management-license-optimizer-for-confluence
+https://marketplace.atlassian.com/apps/1233591/kantega-user-management-license-optimizer-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1233591/kantega-user-management-license-optimizer-for-confluence?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1233642/workflow-building-blocks-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1233647/rich-text-editor-for-jira?hosting=cloud
@@ -5833,6 +5840,7 @@ https://marketplace.atlassian.com/apps/1899492230/live-tables-from-csv-json-for-
 https://marketplace.atlassian.com/apps/207/latex-and-mathjax?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/212/copy-space-for-confluence?hosting=server
 https://marketplace.atlassian.com/apps/2121739236/kantega-user-management-license-optimizer-for-bitbucket?hosting=datacenter
+https://marketplace.atlassian.com/apps/22817756/procuro-complete-procurement-management-in-jsm?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/23337/elements-connect-external-data-fields?hosting=cloud
 https://marketplace.atlassian.com/apps/23915/atlassian-universal-plugin-manager?hosting=datacenter
 https://marketplace.atlassian.com/apps/23915/atlassian-universal-plugin-manager?hosting=server
@@ -6272,6 +6280,7 @@ https://property.com.au
 https://pt-runner.app.ridewithvia.com
 https://pyszne.pl
 https://quantum-events.onecloud.harman.com
+https://radio.api.soundtrackyourbrand.com/
 https://rc.fstr.rocks
 https://rc.wmaudience.com
 https://redash-staging.getmoneytree.com/
@@ -6363,6 +6372,7 @@ https://song.link
 https://songlink.io
 https://soundcloud.com
 https://soundcloud.org
+https://soundtrack.io
 https://speeddials.opera.com
 https://sprint.com
 https://square.online
@@ -7140,6 +7150,7 @@ m.chaturbate.com
 m.reddit.com
 m.tw.coupang.com
 mUSD Stablecoin
+macOS app
 magazine.kruidvat.be
 magento.com
 magisto.com,www.magisto.com
