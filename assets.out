@@ -177,6 +177,7 @@
 *.booking.com
 *.boozt.com
 *.booztlet.com
+*.boredapeyachtclub.com
 *.bpost.be
 *.bpost.cloud
 *.braintree-api.com
@@ -198,11 +199,6 @@
 *.cadastro.uat.unico.app
 *.caesarsgames.com
 *.call-control.ie
-*.canva-apps.cn
-*.canva-apps.com
-*.canva.cn
-*.canva.com
-*.canva.tech
 *.capital.com
 *.capitalone.ca
 *.capitalone.com
@@ -732,6 +728,7 @@
 *.osite99.com
 *.oslo.io
 *.osp.opera.software
+*.otherside.xyz
 *.outfra.xyz
 *.ovo.id
 *.ovofinansial.com
@@ -1150,6 +1147,8 @@
 *.youpin.cn
 *.yoyogames.com
 *.ys7.com
+*.yuga.com
+*.yugalabs.io
 *.zdev.net
 *.zelle.com
 *.zellepay.com
@@ -1190,8 +1189,6 @@
 1089294040
 1091010942
 10x.redoxengine.com
-1114799709
-1114800186
 1116488672
 1118448159
 1127881507
@@ -1484,7 +1481,6 @@
 3CX SBC
 3d.cs.money
 3rd party services hosted at *.sophos.com
-3rd-Party Provider Vulnerability
 3rdparty-apis.coinmarketcap.com
 403546234
 403684733
@@ -1566,6 +1562,7 @@
 794141485
 82.145.208.0/20
 82.196.42.196/28
+831287358355275877
 835599320
 868013618
 878577184
@@ -1586,6 +1583,7 @@
 947984433
 955837609
 960335206
+961114489414094898
 97.105.243.96/28
 975035622
 978342143
@@ -1715,7 +1713,6 @@ Anything that Clearly Affects Northwestern Mutual But is Not Own by Northwestern
 App Services/Realm
 Applications/Extensions under https://www.cyberghostvpn.com/download
 Applications/Extensions under https://www.privateinternetaccess.com/download
-Apps SDK Sandboxing
 Arc on Mac
 Arc on Windows
 Area 1
@@ -1800,10 +1797,6 @@ CDNJS
 CUDA Driver APIs
 CUDA Libraries
 CUDA Runtime APIs
-Canva (Android)
-Canva (Chrome Extension)
-Canva (iOS)
-Canva Desktop (macOS / Windows)
 Capital One Shopping Browser Extension
 Capture the Flag
 Career Scout
@@ -2117,8 +2110,6 @@ Kruidvat NL Android
 Kruidvat NL iOS
 LaunchDarkly Open Source SDKs
 Leaked Credentials
-Leaked Credentials and Secrets (Canva Employee/Contractor)
-Leaked Credentials and Secrets (Canva User)
 Leaked Employee API Keys
 Leaked/compromised employee accounts *.here.com
 Leaked/Сompromised Employee accounts
@@ -2918,7 +2909,6 @@ api.reddit.com
 api.remitly.io
 api.robinhood.com
 api.ryadom.kz
-api.s-kaupat.fi
 api.sandbox.topperpay.com
 api.savers.co.uk
 api.segment.io
@@ -2929,9 +2919,7 @@ api.simplisafe.com (App Endpoints)
 api.simplisafe.com (HSP Endpoints)
 api.slack.com
 api.smtp2go.com
-api.sokos.fi
 api.sorare.com
-api.soundtrackyourbrand.com
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -3146,7 +3134,6 @@ bettrfinancing.com
 bid.*.aws.indriverapp.com
 bigcommerce-adapter.judge.me
 bild.de
-billing.api.soundtrackyourbrand.com
 billingsupport.chaturbate.com
 bilt.marriott.com
 biolibre.ar
@@ -3202,14 +3189,12 @@ bugcrowd-pam-###.pam.oktapreview.com
 bugzilla.mozilla.org
 builder.hostinger.com
 building-blocks.com
-builds.soundtrackyourbrand.com
 bulten.watsons.com.tr
 business-resources.truecaller.com
 business.kayak.com
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
-business.soundtrackyourbrand.com
 business.tiktok.com
 business.truecaller.com
 businesshelp.snapchat.com
@@ -3633,7 +3618,6 @@ com.skypicker.Skypicker
 com.skypicker.main
 com.slack.slackmdm
 com.snapchat.android
-com.soundtrackyourbrand.soundtrack.player
 com.spotify.client
 com.spotify.kids
 com.spotify.music
@@ -4374,7 +4358,6 @@ https://api.blts.kape.com
 https://api.bookbeat.com
 https://api.bugcrowd.com
 https://api.bykea.net
-https://api.canva.com
 https://api.classdojo.com
 https://api.clearpay.com
 https://api.cloudinary.com
@@ -4665,7 +4648,6 @@ https://audiencelogos.blis.com
 https://audio.20min.ch/
 https://auth-adx.op-mobile.opera.com
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
-https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.lastpass.com
@@ -4729,7 +4711,6 @@ https://bugcrowd.charm.felixforus.ca/home
 https://bugcrowd.com/programs
 https://bugcrowd.lucky.felixforus.ca
 https://bugs.opera.com/
-https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
@@ -6289,7 +6270,6 @@ https://property.com.au
 https://pt-runner.app.ridewithvia.com
 https://pyszne.pl
 https://quantum-events.onecloud.harman.com
-https://radio.api.soundtrackyourbrand.com/
 https://rc.fstr.rocks
 https://rc.wmaudience.com
 https://redash-staging.getmoneytree.com/
@@ -6381,7 +6361,6 @@ https://song.link
 https://songlink.io
 https://soundcloud.com
 https://soundcloud.org
-https://soundtrack.io
 https://speeddials.opera.com
 https://sprint.com
 https://square.online
@@ -6610,10 +6589,6 @@ https://www.bookbeat.com
 https://www.bostonacoustics.com
 https://www.bowerswilkins.com
 https://www.bwin.com
-https://www.canva.com
-https://www.canva.com/developers/
-https://www.canva.com/en_au/help/chatgpt-templates/
-https://www.canva.com/integrations/slack/
 https://www.carrefouruae.com/
 https://www.carsdirect.com
 https://www.cb2.ae/en
@@ -7158,7 +7133,6 @@ m.chaturbate.com
 m.reddit.com
 m.tw.coupang.com
 mUSD Stablecoin
-macOS app
 magazine.kruidvat.be
 magento.com
 magisto.com,www.magisto.com
@@ -8107,7 +8081,6 @@ try.discourse.org
 tucarro.com
 tucarro.com.co
 tumoto.com
-tunnistus.s-ryhma.fi
 tw.coupang.com
 tw.coupangcorp.com
 tw.coupangls.com
@@ -8546,13 +8519,11 @@ www.preprod1.monespacesante.fr
 www.preprod2.monespacesante.fr
 www.priceline.com
 www.prijsmepper.nl
-www.prisma.fi
 www.quip.com
 www.qwant.com
 www.redoxengine.com
 www.ritzcarlton.com/
 www.rockstargames.com
-www.s-kaupat.fi
 www.s-pankki.fi
 www.sa.dyson.com
 www.samenfittorfs.be
@@ -8564,7 +8535,6 @@ www.schoenentorfs.nl
 www.sheer.com
 www.six-group.com
 www.socialdeal.nl
-www.sokos.fi
 www.soundon.global
 www.soundonw.us
 www.starbucks.ca
