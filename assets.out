@@ -2,7 +2,6 @@
  *.rivian.com
  *.test.*.lfscnp.com
  203.13.125.32/27
- Finicity Connect
  Mobile Apps
  UniFi OS Server
  com.citymapper.app.release
@@ -199,6 +198,11 @@
 *.cadastro.uat.unico.app
 *.caesarsgames.com
 *.call-control.ie
+*.canva-apps.cn
+*.canva-apps.com
+*.canva.cn
+*.canva.com
+*.canva.tech
 *.capital.com
 *.capitalone.ca
 *.capitalone.com
@@ -1481,6 +1485,7 @@
 3CX SBC
 3d.cs.money
 3rd party services hosted at *.sophos.com
+3rd-Party Provider Vulnerability
 3rdparty-apis.coinmarketcap.com
 403546234
 403684733
@@ -1713,6 +1718,7 @@ Anything that Clearly Affects Northwestern Mutual But is Not Own by Northwestern
 App Services/Realm
 Applications/Extensions under https://www.cyberghostvpn.com/download
 Applications/Extensions under https://www.privateinternetaccess.com/download
+Apps SDK Sandboxing
 Arc on Mac
 Arc on Windows
 Area 1
@@ -1797,6 +1803,10 @@ CDNJS
 CUDA Driver APIs
 CUDA Libraries
 CUDA Runtime APIs
+Canva (Android)
+Canva (Chrome Extension)
+Canva (iOS)
+Canva Desktop (macOS / Windows)
 Capital One Shopping Browser Extension
 Capture the Flag
 Career Scout
@@ -1974,10 +1984,6 @@ FindX6Pro
 FindX7
 FindX7Ultra
 Fing desktop
-Finicity - OBB (Open Banking Business Service) 
-Finicity Decisioning
-Finicity- Data Services
-Finicity- Open Banking Payment History application
 FireTV
 Firefly Image Models
 Firefly Video Model
@@ -2110,6 +2116,8 @@ Kruidvat NL Android
 Kruidvat NL iOS
 LaunchDarkly Open Source SDKs
 Leaked Credentials
+Leaked Credentials and Secrets (Canva Employee/Contractor)
+Leaked Credentials and Secrets (Canva User)
 Leaked Employee API Keys
 Leaked/compromised employee accounts *.here.com
 Leaked/Сompromised Employee accounts
@@ -2308,7 +2316,6 @@ Product API
 Product Delivery
 Protocol of the Swiss Post Voting System
 Public API
-Public Others Target
 Recon Data
 Recruitment services
 Relational Migrator
@@ -2355,7 +2362,6 @@ SAP WalkMe
 SAP Watch List Screening
 SOPHOS/Secureworks : Redcloak
 SOPHOS/Secureworks : Taegis
-SRC integration on https://masterpassteststore.com/. Only the Masterpass checkout functionality is in scope
 SSL/TLS
 SUPERAPP (AOS)
 SUPERAPP (IOS)
@@ -4358,6 +4364,7 @@ https://api.blts.kape.com
 https://api.bookbeat.com
 https://api.bugcrowd.com
 https://api.bykea.net
+https://api.canva.com
 https://api.classdojo.com
 https://api.clearpay.com
 https://api.cloudinary.com
@@ -4789,7 +4796,6 @@ https://console.neon.tech/api/v2/
 https://console.ort-one-pingone.com/?env=361b34ef-2725-4fd9-af1b-a2b189df3d05
 https://console.ort-one-pingone.com/?env=7f327541-54e0-4ba4-8335-65eac2a25b5e
 https://consumer-sustainability.underarmour.com/en
-https://consumer.finicityreports.com
 https://contadigital.ifoodpago.com.br/
 https://content-server.ibotta.com/graphql
 https://content.usaa.com
@@ -4832,13 +4838,11 @@ https://dealflow.prosus.com
 https://dealflowapi.prosus.com
 https://delta.app
 https://demo.adstruc.com
-https://demo.priceless.com/
 https://desk.thetradedesk.com
 https://desktop.water-link.be/
 https://dev.tutoring.classdojo.com
 https://devedge.t-mobile.com
 https://developer.ifood.com.br
-https://developer.mastercard.com
 https://developer.newrelic.com/
 https://developer.paddle.com
 https://developer.withings.com/dashboard/
@@ -4878,7 +4882,6 @@ https://docs.sophos.com/central/customer/help/en-us/ManageYourProducts/ThreatAna
 https://docs.tempus-ex.com
 https://docs.world.org/world-chain/reference/address-book
 https://docsite.vistarmedia.com
-https://donate.mastercard.com
 https://download.krisp.ai/mac
 https://download.krisp.ai/win
 https://download.opera.com
@@ -6037,12 +6040,10 @@ https://pci.kindredgroup.com
 https://pentest-app.onetrust.com/
 https://peopleview.naspers.com
 https://performance.neogov.com
-https://performancemarketing.mastercard.com/portal/
 https://pets.webmd.com
 https://pg.paymaya.com
 https://pinepg.in
 https://pinepgconsole.in:9099
-https://pioneer.truata.com/
 https://pit.water-link.be/
 https://pixabay.com/
 https://platform.blis.com
@@ -6254,7 +6255,6 @@ https://powerpak.com
 https://pprd.cybermalveillance.gouv.fr
 https://preprod-datahub.xelians.fr/
 https://preprod-xam.xelians.fr/
-https://priceless.com/golf/
 https://privacy.blismedia.com
 https://privateinternetaccess.com/api/client/v5
 https://pro.onedoc.ch
@@ -6365,8 +6365,6 @@ https://speeddials.opera.com
 https://sprint.com
 https://square.online
 https://squareup.com/
-https://src.mastercard.com/*
-https://src.mastercard.com/profile/enroll
 https://ssu.staging.myconnect.com.au/get-connected
 https://stadtwien-my.sharepoint.com/
 https://staff.monash
@@ -6589,6 +6587,10 @@ https://www.bookbeat.com
 https://www.bostonacoustics.com
 https://www.bowerswilkins.com
 https://www.bwin.com
+https://www.canva.com
+https://www.canva.com/developers/
+https://www.canva.com/en_au/help/chatgpt-templates/
+https://www.canva.com/integrations/slack/
 https://www.carrefouruae.com/
 https://www.carsdirect.com
 https://www.cb2.ae/en
@@ -6630,7 +6632,6 @@ https://www.etsy.com/mobile
 https://www.eu.lululemon.com/
 https://www.exoscale.com/
 https://www.financeiro.quintoandar.com.br/*
-https://www.finicity.com
 https://www.flipkart.com
 https://www.galabingo.com
 https://www.galacasino.com
@@ -6691,11 +6692,6 @@ https://www.malloftheemirates.com
 https://www.mankind.co.uk/
 https://www.mapbox.com/mapbox-gl-js/
 https://www.marantz.com
-https://www.mastercard.ch/de-ch.html
-https://www.mastercard.ch/fr-ch.html
-https://www.mastercard.com.au/en-au.html
-https://www.mastercard.nl/nl-nl.html
-https://www.mastercard.us/en-us.html
 https://www.matalan.co.uk
 https://www.mdedge.com
 https://www.mediamarkt.at
