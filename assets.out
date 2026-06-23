@@ -549,7 +549,6 @@
 *.kruidvatkids.nl
 *.kwsdose.be
 *.landmarkglobal-group.com
-*.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
 *.latitudefinancial.co.nz
@@ -687,7 +686,6 @@
 *.newegg.ca
 *.newegg.com
 *.nextcapital.com
-*.nexuzhealth.*
 *.nflxext.com
 *.nflximg.net
 *.nflxso.net
@@ -1192,6 +1190,8 @@
 1089294040
 1091010942
 10x.redoxengine.com
+1114799709
+1114800186
 1116488672
 1118448159
 1127881507
@@ -2115,7 +2115,6 @@ Kruidvat BE Android
 Kruidvat BE iOS
 Kruidvat NL Android
 Kruidvat NL iOS
-Lansweeper Discovery
 LaunchDarkly Open Source SDKs
 Leaked Credentials
 Leaked Credentials and Secrets (Canva Employee/Contractor)
@@ -2812,6 +2811,8 @@ api.custody.coinbase.com
 api.deriv.com
 api.developer.monespacesante.fr
 api.dicey.com
+api.digital.delen.be 
+api.digital.delen.lu 
 api.digitalocean.com
 api.direct.playstation.com
 api.dmp.gouv.fr
@@ -2870,7 +2871,6 @@ api.klarna.com
 api.krisp.ai
 api.kruidvat.be
 api.kruidvat.nl
-api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
@@ -2931,6 +2931,7 @@ api.slack.com
 api.smtp2go.com
 api.sokos.fi
 api.sorare.com
+api.soundtrackyourbrand.com
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -2981,6 +2982,9 @@ app.circle.com
 app.datacamp.com/certification
 app.datacamp.com/groups
 app.datacamp.com/learn
+app.delen.be 
+app.delen.ch 
+app.delen.lu 
 app.demand.cybersource.com
 app.deriv.com
 app.drogas.lt
@@ -3003,8 +3007,6 @@ app.koho.ca
 app.krisp.ai
 app.kruidvat.be
 app.kruidvat.nl
-app.lansweeper.com
-app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
 app.marionnaud.at
@@ -3089,6 +3091,8 @@ auth-identity-uat-ping.nba.com
 auth-identity-uat.nba.com
 auth-identity.nba.com
 auth.23andme.com
+auth.digital.delen.be 
+auth.digital.delen.lu 
 auth.dmp.gouv.fr
 auth.magic.link
 auth.monespacesante.fr
@@ -3106,11 +3110,9 @@ authentication.wolt.com
 authz.workbox.dk
 autocomplete.booking.com
 autodiscover.uzleuven.be
-autoupdateapi.lansweeper.com
 aw.visa.com
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
-backoffice.lansweeper.com
 backstage.io
 badoo.com
 badoocdn.com
@@ -3133,9 +3135,7 @@ bdese.marionnaud.fr
 bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
-be.nexuzhealth.mobile.cpv
-be.nexuzhealth.mobile.kws
-be.nexuzhealth.mobile.mynexuz
+be.delen.digital
 beacon.netflix.com
 beamitmobile.com
 beauty-and-you.iciparisxl.nl
@@ -3146,6 +3146,7 @@ bettrfinancing.com
 bid.*.aws.indriverapp.com
 bigcommerce-adapter.judge.me
 bild.de
+billing.api.soundtrackyourbrand.com
 billingsupport.chaturbate.com
 bilt.marriott.com
 biolibre.ar
@@ -3201,12 +3202,14 @@ bugcrowd-pam-###.pam.oktapreview.com
 bugzilla.mozilla.org
 builder.hostinger.com
 building-blocks.com
+builds.soundtrackyourbrand.com
 bulten.watsons.com.tr
 business-resources.truecaller.com
 business.kayak.com
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
+business.soundtrackyourbrand.com
 business.tiktok.com
 business.truecaller.com
 businesshelp.snapchat.com
@@ -3630,6 +3633,7 @@ com.skypicker.Skypicker
 com.skypicker.main
 com.slack.slackmdm
 com.snapchat.android
+com.soundtrackyourbrand.soundtrack.player
 com.spotify.client
 com.spotify.kids
 com.spotify.music
@@ -3863,6 +3867,7 @@ decision.swiftfinancial.com
 deeplinks.geneva-staging.chat
 deeplinks.geneva-staging.com
 defi.ripio.com
+delen/id1064839588
 delivery-webview.indrive.com
 demo.arkoselabs.com
 demo.fareharbor.com
@@ -3927,7 +3932,6 @@ doaction.org
 docs.anthropic.com
 docs.api.enterprise.uphold.com
 docs.gitlab.com
-docs.lansweeper.com
 docs.launchdarkly.com
 docs.optimuscards.com
 docs.redoxengine.com
@@ -3972,7 +3976,6 @@ ecom-static.kruidvat.be
 ecom-static.kruidvat.nl
 ecrf.uzleuven.be
 edge.bookbeat.com
-edge.lansweeper.com
 edgeapi.slack.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
@@ -4038,7 +4041,6 @@ fareharborsites.com
 fashion4less.me
 faucet-api.polygon.technology/
 faucet.polygon.technology
-fb.lansweeper.com
 fch-cf.*.aws.indriverapp.com
 fe-cf.*.aws.indriverapp.com
 fe-gw-cf.*.aws.indriverapp.com
@@ -4663,6 +4665,7 @@ https://audiencelogos.blis.com
 https://audio.20min.ch/
 https://auth-adx.op-mobile.opera.com
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
+https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.lastpass.com
@@ -4726,6 +4729,7 @@ https://bugcrowd.charm.felixforus.ca/home
 https://bugcrowd.com/programs
 https://bugcrowd.lucky.felixforus.ca
 https://bugs.opera.com/
+https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
@@ -4868,6 +4872,7 @@ https://digits.t-mobile.com
 https://digits.t-mobile.com/
 https://dimensions.cloudinary.com
 https://directlink.eu-west-2.outscale.com
+https://disclosure-test.six-exchange-regulation.com/
 https://doc.komoju.com/docs/fields-overview
 https://docker-staging.adstruc.com
 https://docs.bugcrowd.com/
@@ -5373,7 +5378,6 @@ https://login.salt.ch
 https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
-https://lsagentrelay.lansweeper.com/
 https://luna.amazon.com/*
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://m.csqtrk.net
@@ -6285,6 +6289,7 @@ https://property.com.au
 https://pt-runner.app.ridewithvia.com
 https://pyszne.pl
 https://quantum-events.onecloud.harman.com
+https://radio.api.soundtrackyourbrand.com/
 https://rc.fstr.rocks
 https://rc.wmaudience.com
 https://redash-staging.getmoneytree.com/
@@ -6376,6 +6381,7 @@ https://song.link
 https://songlink.io
 https://soundcloud.com
 https://soundcloud.org
+https://soundtrack.io
 https://speeddials.opera.com
 https://sprint.com
 https://square.online
@@ -6685,6 +6691,7 @@ https://www.keepersecurity.com/download.html
 https://www.keepersecurity.com/download.html?t=db
 https://www.kohls.com
 https://www.kohls.com/feature/app.jsp
+https://www.kuleuven.be/sapredir/huisvesting
 https://www.ladbrokes.com
 https://www.ladbrokes.com/en/games
 https://www.lascana.de/
@@ -7063,7 +7070,6 @@ ksuite.infomaniak.com
 kubernetes-csi.github.io
 kubernetes.io
 kumulus.uzleuven.be
-kws-companion/id1342124012
 kyc-onboarding.booking.com
 l75pvbdyjo.infomaniak.site
 landing.ryadom.kz
@@ -7093,7 +7099,6 @@ linkpop.com
 links.geneva-staging.chat
 links.geneva-staging.com
 links.portswigger.net
-liquidfiles.nexuzhealth.com
 liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
 lirportal.ripe.net
@@ -7116,10 +7121,13 @@ login-sandbox.nba.com
 login-uat.nba.com
 login.arkane.network
 login.cm.com
+login.delen.be 
+login.delen.ch 
+login.delen.lu 
 login.infomaniak.com
 login.insightly.com
-login.lansweeper.com
 login.nba.com
+login.oyens.com
 login.playcanvas.com
 login.rei.com
 login.remitly.com
@@ -7150,6 +7158,7 @@ m.chaturbate.com
 m.reddit.com
 m.tw.coupang.com
 mUSD Stablecoin
+macOS app
 magazine.kruidvat.be
 magento.com
 magisto.com,www.magisto.com
@@ -7362,8 +7371,6 @@ myaccount.trouw.nl
 myaccount.volkskrant.nl
 myaccount.vtm.be
 myconnect.com.au
-mynexuz.be
-mynexuzhealth/id1459856321
 mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
 myself.tw.coupang.com
@@ -7429,7 +7436,6 @@ odoo14.notebleue.pro
 odul.watsons.com.tr
 og.com
 om.vodafone.mva
-on-premises software
 onboarding-*.cloud.com
 onboarding.cloud.com
 onboarding.greenhouse.io
@@ -7971,6 +7977,7 @@ stats.gleague.nba.com
 stats.nba.com
 stats.vinci.com
 stats.wnba.com
+status.delen.be 
 status.larksuite.com
 status.uphold.com
 steamcommunity.com
@@ -7998,6 +8005,7 @@ streaming-api.iris.production.forescoutcloud.net
 streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
+sts.delen.be 
 sts.uzleuven.be
 studio-api.swapcard.com
 studio.swapcard.com
@@ -8320,6 +8328,8 @@ www.bookingholdings.com
 www.bpost.be
 www.bpost2.be
 www.bumble.com
+www.cadelam.be 
+www.cadelux.lu/en 
 www.cardinalcommerce.com
 www.carrentals.com
 www.cart.starbucks.co.jp/
@@ -8347,6 +8357,8 @@ www.cybersource.com
 www.datacamp.com
 www.datacamp.com/datalab
 www.ddfcontent.com
+www.delen.bank
+www.delen.be/en 
 www.demorgen.be
 www.demorgen.be/abonnementen
 www.digitalocean.com
@@ -8458,7 +8470,6 @@ www.kruidvat.be
 www.kruidvat.nl
 www.kruidvatkids.nl
 www.lab-recherche-environnement.org
-www.lansweeper.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.libelle.nl
