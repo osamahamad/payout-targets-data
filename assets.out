@@ -1694,7 +1694,8 @@ Any host/web property verified to be owned by Twilio et al.
 Any host/web property/mobile app verified to be owned by Indeed
 Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited directly from a *.atlassian.net instance
 Any other Epic games owned asset not listed in the out of scope section
-Any other Malwarebytes and ThreatDown asset
+Any other Malwarebytes asset
+Any other ThreatDown asset
 Any public (Internet-facing) infrastructure owned and operated by Palantir.
 Any public cloud (e.g. Amazon AWS, Microsoft Azure) resource or infrastructure operated and managed by Palantir.
 Any public cloud resource or infrastructure operated and managed by REI.
@@ -2511,7 +2512,6 @@ TrustedServer 100,000 Bonus Award (See Program Policy for Info)
 Trustwallet Android App
 Trustwallet Chrome Extension
 Trustwallet iOS App
-Turnstile
 Twilio APIs
 UCRM
 UEFN
