@@ -5419,9 +5419,6 @@ https://marketplace.atlassian.com/apps/1211303/workzone-pullrequest-workflow?hos
 https://marketplace.atlassian.com/apps/1211303/workzone-pullrequest-workflow?hosting=datacenter
 https://marketplace.atlassian.com/apps/1211303/workzone-pullrequest-workflow?hosting=server
 https://marketplace.atlassian.com/apps/1211312/confluence-issue-tab-plugin-for-jira?hosting=server
-https://marketplace.atlassian.com/apps/1211376/jenkins-integration-for-jira?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1211376/jenkins-integration-for-jira?hosting=datacenter&tab=overview
-https://marketplace.atlassian.com/apps/1211376/jenkins-integration-for-jira?hosting=server&tab=overview
 https://marketplace.atlassian.com/apps/1211449/auto-unapprove-for-bitbucket-server?hosting=datacenter
 https://marketplace.atlassian.com/apps/1211449/auto-unapprove-for-bitbucket-server?hosting=server
 https://marketplace.atlassian.com/apps/1211500/bitbucket-server-backup-client?hosting=server
@@ -5815,7 +5812,6 @@ https://marketplace.atlassian.com/apps/1234378/modify-my-request?hosting=cloud&t
 https://marketplace.atlassian.com/apps/1234673/jsm-incident-timeline?hosting=cloud
 https://marketplace.atlassian.com/apps/1234690/data-manager-clients-for-jsm-assets?hosting=cloud
 https://marketplace.atlassian.com/apps/1234690/data-manager-clients-for-jsm-assets?hosting=datacenter
-https://marketplace.atlassian.com/apps/1234756/jenkins-for-compass?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1234873/user-activity-timeline-history-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1235122/event-sign-up-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1235338/cycle-time-gadgets-time-in-status-trend-reports-for-jira?tab=overview&hosting=cloud
@@ -5823,7 +5819,6 @@ https://marketplace.atlassian.com/apps/1235463/?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1235488/confluence-widget-for-figma-beta?hosting=cloud
 https://marketplace.atlassian.com/apps/1235496/jira-board-buddy?hosting=cloud
 https://marketplace.atlassian.com/apps/1236240/burnup-burndown-chart-gadget-forecast-on-jira-dashboard?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1236248/jenkins-for-confluence/?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1236260/?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1236742/advanced-content-status-labels-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1236750?tab=overview&hosting=cloud
@@ -6002,9 +5997,6 @@ https://openai.com/
 https://openam-bug-bounty-stag.forgeblocks.com/*
 https://openapi.pulsepoint.com
 https://openapitest.pulsepoint.com
-https://opendata-demo.test-socrata.com
-https://opendata.test-socrata.com
-https://opendata.test-socrata.com/admin/gateway
 https://opensea.io/
 https://opensource.epam.com
 https://operaneon.com
