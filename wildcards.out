@@ -249,6 +249,7 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
+*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
@@ -1179,6 +1180,7 @@ bdu-cf.*.aws.indriverapp.com
 bid.*.aws.indriverapp.com
 bugcrowd-*your-own-instance*.cloud.mattermost.com/
 cas-cf.*.aws.indriverapp.com
+casino.*.betmgm.com/en/games (read "Find a Game to test on our targets")
 cht-cf.*.aws.indriverapp.com
 cht-gw-cf.*.aws.indriverapp.com
 co-cf.*.aws.indriverapp.com
