@@ -8,7 +8,6 @@
  com.citymapper.app.release
  https://api-*exoscale.com/v2
  idp-contact.nexuzhealth.be
- login-test.portofantwerpbruges.com/
  mix.monash.edu 
  new CDI-based architecture
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
@@ -550,7 +549,6 @@
 *.kruidvatkids.nl
 *.kwsdose.be
 *.landmarkglobal-group.com
-*.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
 *.latitudefinancial.co.nz
@@ -659,7 +657,6 @@
 *.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
-*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.mortgagechoice.com.au
@@ -688,7 +685,6 @@
 *.newegg.ca
 *.newegg.com
 *.nextcapital.com
-*.nexuzhealth.*
 *.nflxext.com
 *.nflximg.net
 *.nflxso.net
@@ -701,7 +697,6 @@
 *.nmfn.com
 *.nml.com
 *.nnip.com
-*.nordvpn.com
 *.northwellprimarycarenow.com
 *.novanthealthvirtualprimarycare.org
 *.nr-data.net
@@ -777,8 +772,6 @@
 *.pns.hk
 *.points.com
 *.polymoon.it
-*.portofantwerp.com
-*.portofantwerpbruges.com
 *.pourvous.nl
 *.ppb.com
 *.ppbdev.com
@@ -800,7 +793,6 @@
 *.prijsmepper.nl
 *.primarycareondemand.mayoclinic.org
 *.privateinternetaccess.com
-*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -836,7 +828,6 @@
 *.rentalcars.com
 *.reposify.com
 *.rhinternal.net
-*.ripe.net
 *.robinhood.com
 *.robinhood.net
 *.roblox.com
@@ -1016,9 +1007,6 @@
 *.trip.com
 *.triplinkintl.com
 *.trouw.nl
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tumblr.com
@@ -1193,7 +1181,6 @@
 1023499075
 103.83.120.0/22
 1032480595
-1052238659
 1057338687
 107.167.96.0/19
 1080074001
@@ -1262,7 +1249,6 @@
 1478350915
 1481198245
 1485539253
-1486322860
 1491791513
 1494755014
 1498197033
@@ -1306,12 +1292,10 @@
 18.184.198.198, 18.185.214.59, 18.194.109.179, 3.121.117.72, 3.121.138.10, 3.121.138.128, 3.121.138.134, 3.121.138.170, 3.121.138.33, 3.121.138.43, 3.124.248.208, 35.156.137.39
 185.210.32.0/22
 185.26.180.0/22
-188.118.8.0/25
 192.251.123.0/24
 192.251.124.0/24
 192.251.125.0/24
 192.251.126.0/24
-193.0.0.0/19 and 2001:67c:2e8::/48
 193.109.229.0/24
 193.110.154.0/24
 193.5.66.0/23
@@ -1586,14 +1570,12 @@
 8x8 Partner Portal
 8x8-work
 8x8.my.site.com
-905953485
 91.203.96.0/22
 910898851
 926252661
 930441707
 936983378
 938003185
-94.107.237.192/26
 944011620
 947984433
 955837609
@@ -1676,7 +1658,6 @@ All Assets (other than Blinkit)
 All Chime Assets
 All Evergreen Assets (Excluding staging)
 All In Scope Targets
-All Mobile Assets
 All Motorola Devices running Android 13 and above. 
 All Other BitMEX Assets
 All Other NVIDIA Container Toolkit Assets
@@ -1753,7 +1734,6 @@ Aruba InstantOn Switches
 Aruba User Experience Insight Sensors
 ArubaOS-CX Switches
 Assets labeled as in-scope
-Assets owned by RIPE NCC
 Atlas
 Atlas Charts
 Atlas Data Federation
@@ -1791,8 +1771,6 @@ Body Scan scale
 Bot Management
 Braintree SDK
 Brand Sites
-Brave Browser Desktop
-Brave websites
 Bridge
 Broken Link
 Browser Isolation
@@ -1802,7 +1780,6 @@ Burp Collaborator
 Burp Suite DAST
 Burp Suite Extension (BApps)
 Burp Suite Pro/Community
-C# SDK
 C100447517
 C103149579
 C2PA Tool
@@ -2106,7 +2083,6 @@ Insomnia CLI (inso)
 Insomnia Desktop Client
 Intellectual Property on Public Domains
 Internet.xfinity.com
-Java SDK
 Jetpack
 Jira
 Jira Projects
@@ -2128,7 +2104,6 @@ Kruidvat BE Android
 Kruidvat BE iOS
 Kruidvat NL Android
 Kruidvat NL iOS
-Lansweeper Discovery
 LaunchDarkly Open Source SDKs
 Leaked Credentials
 Leaked Credentials and Secrets (Canva Employee/Contractor)
@@ -2248,13 +2223,6 @@ Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
 Non Altera Products
 Non-Core Assets
-NordPass - Linux Executable
-NordPass - MacOS Executable
-NordPass - Windows Executable
-NordVPN - Linux Executable
-NordVPN - MacOS Executable
-NordVPN - Windows Executable
-NordVPN Browser Extension
 Notion AI
 Notion Authentication
 Notion Desktop App
@@ -2306,7 +2274,6 @@ Other assets
 Other assets owned by Personio
 Other non-production infrastructure
 Other related e-commerce services
-PHP SDK
 PIA VPN servers
 PNS Android
 PNS iOS
@@ -2333,7 +2300,6 @@ Product Delivery
 Protocol of the Swiss Post Voting System
 Public API
 Public Others Target
-React Native SDK
 Recon Data
 Recruitment services
 Relational Migrator
@@ -2355,7 +2321,6 @@ Roblox Client
 Roblox Engine
 Roblox Studio
 Rockstar Games Launcher
-Rust SDK
 SAP AI Core
 SAP Business Network for Asset Collaboration
 SAP Business Network for Logistics	
@@ -2385,8 +2350,6 @@ SRC integration on https://masterpassteststore.com/. Only the Masterpass checkou
 SSL/TLS
 SUPERAPP (AOS)
 SUPERAPP (IOS)
-Saily - Android
-Saily - iOS
 Sandboxes
 Save to Spotify CLI
 Savers Android
@@ -2527,8 +2490,6 @@ Trello Mobile App for Android
 Trello Mobile App for iOS
 Trello Third Party Powerups
 Tribal Wars
-TrueLayer for Magento (Magento plugin)
-TrueLayer for WooCommerce (WordPress plugin)
 TrustedFirmware-A (TF-A)
 TrustedFirmware-M (TF-M)
 TrustedServer 100,000 Bonus Award (See Program Policy for Info)
@@ -2610,7 +2571,6 @@ Watsons Turkey iOS
 Watsons Vietnam Android
 Watsons Vietnam iOS
 Web Playback SDK
-Web SDK
 Web3 - Smart Contracts Scope
 Web3 Smart Contracts
 Whatnot: Shop, Sell, Connect
@@ -2665,12 +2625,6 @@ Yahoo Video
 Yahoo Weather
 Yahoo! (Misc)
 Your Own GitLab Instance
-Zendesk AI
-Zendesk Front End
-Zendesk Marketplace Apps created by Zendesk
-Zendesk Mobile Applications
-Zendesk Public Repositories
-Zendesk Suite
 [Unico] Liveness Bypass
 a.root-servers.net (DNS service; DNS related)
 a4k.amazon.com
@@ -2685,7 +2639,6 @@ academy.deriv.com
 academy.infomaniak.com
 access-sandbox.remitly.com
 access.remitly.com
-access.ripe.net
 accommodations.booking.com
 account-sprint.dynatracelabs.com
 account.acronis.com
@@ -2792,8 +2745,6 @@ api*.hubapi.com
 api*.hubspot.com
 api*.netflix.com
 api-*.soundcloud.com
-api-accpt.portofantwerp.com
-api-accpt.portofantwerpbruges.com
 api-eu.floqast.app
 api-gateway.polygon.technology
 api-gw-cf.*.aws.indriverapp.com
@@ -2893,7 +2844,6 @@ api.klarna.com
 api.krisp.ai
 api.kruidvat.be
 api.kruidvat.nl
-api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
@@ -2914,7 +2864,6 @@ api.mergify.com
 api.midtrans.com
 api.monespacesante.fr
 api.moonpay.com
-api.mtls.truelayer[-sandbox].com
 api.neon.opera.com/neon/pub
 api.neon.opera.com/neon/store
 api.neon.opera.com/pub
@@ -2926,8 +2875,6 @@ api.personio-dev.com
 api.personio.com
 api.pns.hk
 api.portal.enterprise.uphold.com 
-api.portofantwerp.com
-api.portofantwerpbruges.com
 api.prd.commerce.simplisafe.com
 api.preprod.monespacesante.fr
 api.privateinternetaccess.com
@@ -2967,7 +2914,6 @@ api.taxjar.com
 api.theperfumeshop.com
 api.tidal.com
 api.trello.com
-api.truelayer[-sandbox].com
 api.tumblr.com
 api.twilio.com
 api.unleashed.be
@@ -3030,8 +2976,6 @@ app.koho.ca
 app.krisp.ai
 app.kruidvat.be
 app.kruidvat.nl
-app.lansweeper.com
-app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
 app.marionnaud.at
@@ -3048,7 +2992,6 @@ app.mona.co
 app.moonpay.com
 app.netlify.com
 app.nl.socialdeal
-app.nordpass.com
 app.pharmacy.superdrug.com
 app.pullrequest.com
 app.rewire.to
@@ -3065,7 +3008,6 @@ app.superdrug.com
 app.swapcard.com
 app.taxjar.com
 app.theperfumeshop.com
-app.truelayer[-sandbox].com
 app.uma.money
 app.watsons.com.tr
 app.whoop.com
@@ -3073,14 +3015,10 @@ app.workbox.dk
 app3.rewire.to
 applause1.magisto.com
 appmiral.com
-apps-accpt.portofantwerp.com
-apps-accpt.portofantwerpbruges.com
 apps.8x8.com
 apps.apple.com/fr/app/mon-espace-sant%C3%A9/id1589255019 (iOS)
 apps.apple.com/us/app/crowdstrike-falcon/id1458815656
 apps.ort-one-pingone.com
-apps.portofantwerp.com
-apps.portofantwerpbruges.com
 appt.healthclinics.superdrug.com
 aqtooling.com
 aquiris.com.br
@@ -3090,10 +3028,6 @@ arc.net
 arrive-server.shopifycloud.com
 as-cf.*.aws.indriverapp.com
 as-gw-cf.*.aws.indriverapp.com
-as2-accpt.portofantwerp.com
-as2-accpt.portofantwerpbruges.com
-as2.portofantwerp.com
-as2.portofantwerpbruges.com
 askpeopleteam.visa.com
 assessment-api.datacamp.com
 assessment-v2.datacamp.com 
@@ -3123,14 +3057,12 @@ auth.dmp.gouv.fr
 auth.magic.link
 auth.monespacesante.fr
 auth.moonpay.com
-auth.mtls.truelayer[-sandbox].com
 auth.ort-one-pingone.com
 auth.preprod.monespacesante.fr
 auth.privy.io
 auth.remitly.com
 auth.services.adobe.com
 auth.skypicker.com
-auth.truelayer[-sandbox].com
 auth0.com	
 auth0.net
 authentication.clearme.com
@@ -3138,11 +3070,9 @@ authentication.wolt.com
 authz.workbox.dk
 autocomplete.booking.com
 autodiscover.uzleuven.be
-autoupdateapi.lansweeper.com
 aw.visa.com
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
-backoffice.lansweeper.com
 backstage.io
 badoo.com
 badoocdn.com
@@ -3166,9 +3096,6 @@ bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
 be.delen.digital
-be.nexuzhealth.mobile.cpv
-be.nexuzhealth.mobile.kws
-be.nexuzhealth.mobile.mynexuz
 beacon.netflix.com
 beamitmobile.com
 beauty-and-you.iciparisxl.nl
@@ -3372,7 +3299,6 @@ co-cf.*.aws.indriverapp.com
 co-gw-cf.*.aws.indriverapp.com
 co-in-gw-cf.*.aws.indriverapp.com
 co.mona.android
-co.uk.getmondo
 coban.pixiv.net
 coda.grammarly.com
 coda.io
@@ -3463,8 +3389,6 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
-com.brave.browser
-com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -3620,8 +3544,6 @@ com.nbaimd.gametime.universal
 com.nearme.gamecenter
 com.netease.my.nearme.gamecenter
 com.newegg.app
-com.nordpass.android.app.password.manager
-com.nordvpn.android
 com.oceanwing.FDMPrint
 com.oceanwing.battery.cam
 com.oceanwing.care.cam
@@ -3774,12 +3696,10 @@ connect.arkane.network
 connect.identity.stagaws.visma.com
 connect.secure.wellsfargo.com
 connect.venly.io
-console-backend.truelayer[-sandbox].com
 console.anthropic.com
 console.circle.com
 console.ort-one-pingone.com
 console.tink.com
-console.truelayer[-sandbox].com
 contacts.infomaniak.com
 content-api-dev.nba.com
 content-api-nextgen-dev.nba.com
@@ -3956,7 +3876,6 @@ digitaloceanmirrors.com
 digitaloceanpartners.com
 digitaloceanstatus.com
 digitaloceantest.com
-digitalspecs.portofantwerpbruges.com
 direct-demo.currencycloud.com
 direct.playstation.com
 discover.23andme.com
@@ -3969,7 +3888,6 @@ doaction.org
 docs.anthropic.com
 docs.api.enterprise.uphold.com
 docs.gitlab.com
-docs.lansweeper.com
 docs.launchdarkly.com
 docs.optimuscards.com
 docs.redoxengine.com
@@ -4014,7 +3932,6 @@ ecom-static.kruidvat.be
 ecom-static.kruidvat.nl
 ecrf.uzleuven.be
 edge.bookbeat.com
-edge.lansweeper.com
 edgeapi.slack.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
@@ -4039,9 +3956,6 @@ en.ottokasino.com
 enroll.clearme.com
 epaper.welt.de
 epptool-ctld.verisign-grs.com (EPP service; DNS related)
-erpx.unit4cloud.com/u4erx_pab_acp1
-erpx.unit4cloud.com/u4erx_pab_prev
-erpx.unit4cloud.com/u4erx_pab_prod
 errors.hackerone.net
 es-cf.*.aws.indriverapp.com
 es-gw-cf.*.aws.indriverapp.com
@@ -4080,7 +3994,6 @@ fareharborsites.com
 fashion4less.me
 faucet-api.polygon.technology/
 faucet.polygon.technology
-fb.lansweeper.com
 fch-cf.*.aws.indriverapp.com
 fe-cf.*.aws.indriverapp.com
 fe-gw-cf.*.aws.indriverapp.com
@@ -4362,7 +4275,6 @@ https://28degreescard.com.au
 https://8x8.vc/xmpp-websocket
 https://Mlife.mo
 https://[it | fr | us | sg | …].louisvuitton.com
-https://a.simplemdm.com/
 https://account-registration.monash.edu/
 https://account.bitpanda.com
 https://account.post.ch
@@ -4511,7 +4423,6 @@ https://app.latitudepayapps.com/
 https://app.navan.com
 https://app.opsgenie.com
 https://app.optimizely.com/
-https://app.pdq.com/
 https://app.recordedfuture.com
 https://app.requirementyogi.com
 https://app.ring.com/*
@@ -4722,7 +4633,6 @@ https://auth.riskrecon.eu
 https://auth.seek.com
 https://auth.thetradedesk.com
 https://auth.wyze.com
-https://auth2.pdq.com/
 https://authn.usaa.com/
 https://autoupdate.geo.opera.com
 https://b2bapi-a.usaa.com
@@ -5082,13 +4992,6 @@ https://github.com/Hacker0x01/react-datepicker
 https://github.com/Infomaniak/desktop-kDrive
 https://github.com/OctopusDeploy
 https://github.com/ProjectOpenSea/seaport#deployments
-https://github.com/RIPE-NCC/rpki-commons
-https://github.com/RIPE-NCC/rpki-core
-https://github.com/RIPE-NCC/rpki-monitoring
-https://github.com/RIPE-NCC/rpki-publication-server
-https://github.com/RIPE-NCC/rpki-ta-0
-https://github.com/RIPE-NCC/rsyncit
-https://github.com/RIPE-NCC/whois
 https://github.com/Shopify/*
 https://github.com/afterpay/sdk-android
 https://github.com/afterpay/sdk-ios
@@ -5103,7 +5006,6 @@ https://github.com/auth0/react-native-auth0
 https://github.com/backstage/backstage
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
-https://github.com/brave/*, https://github.com/brave-intl/*
 https://github.com/buildonspark/spark
 https://github.com/cashapp/cash-app-pay-android-sdk
 https://github.com/cashapp/cash-app-pay-ios-sdk
@@ -5400,7 +5302,6 @@ https://learn.newrelic.com/
 https://legacy-blockexplorer.electroneum.com
 https://lensstudio.snapchat.com/api/
 https://library.elementor.com/
-https://library.pdq.com/
 https://lieferando.de
 https://life.pulsepoint.com/Buyer/#/campaign
 https://life.pulsepoint.com/EngagementAudience/#/dashboard
@@ -5425,7 +5326,6 @@ https://login.salt.ch
 https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
-https://lsagentrelay.lansweeper.com/
 https://luna.amazon.com/*
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://m.csqtrk.net
@@ -6323,7 +6223,6 @@ https://portal.cms.gov/
 https://portal.exoscale.com/
 https://portal.iFoodpago.com.br
 https://portal.originzero.com.au
-https://portal.pdq.com/
 https://portal.riskrecon.com
 https://portal.riskrecon.eu
 https://portal.unifiedid.com
@@ -7136,7 +7035,6 @@ ksuite.infomaniak.com
 kubernetes-csi.github.io
 kubernetes.io
 kumulus.uzleuven.be
-kws-companion/id1342124012
 kyc-onboarding.booking.com
 l75pvbdyjo.infomaniak.site
 landing.ryadom.kz
@@ -7164,10 +7062,8 @@ linkpop.com
 links.geneva-staging.chat
 links.geneva-staging.com
 links.portswigger.net
-liquidfiles.nexuzhealth.com
 liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
-lirportal.ripe.net
 list-v2--netlify-plugins.netlify.app
 lists.wordpress.org
 live-backstage.tiktok.com
@@ -7180,8 +7076,6 @@ lockervision.nba.com
 logilife.logitech.com
 login-4ngbets.us.betfair.com
 login-4njbets.us.betfair.com
-login-accpt.portofantwerpbruges.com
-login-api.truelayer[-sandbox].com
 login-dev.nba.com
 login-qa.nba.com
 login-sandbox.nba.com
@@ -7193,7 +7087,6 @@ login.delen.ch
 login.delen.lu 
 login.infomaniak.com
 login.insightly.com
-login.lansweeper.com
 login.nba.com
 login.oyens.com
 login.playcanvas.com
@@ -7201,7 +7094,6 @@ login.rei.com
 login.remitly.com
 login.starbucks.co.jp
 login.swapcard.com
-login.truelayer[-sandbox].com
 login.venly.io
 login.www.vaxvacationaccess.com
 logiq.logitech.io
@@ -7261,10 +7153,6 @@ marrtool.com
 matomo.cloud
 matrix.redditspace.com
 mauth.tw.coupang.com
-maximo-accpt.portofantwerp.com
-maximo-accpt.portofantwerpbruges.com
-maximo.portofantwerp.com
-maximo.portofantwerpbruges.com
 maxiresponse.bpost.be
 mc.sendgrid.com
 mc.tw.coupang.com
@@ -7393,7 +7281,6 @@ money.x.com
 moneybird.com
 moneybirdstorage.com
 monitor.mozilla.org
-monzo.com
 moonpay.com
 movie.indrive.com
 mpa.ekyc.backoffice.m-pesa.com
@@ -7409,8 +7296,6 @@ munin-*.wordpress.org
 mus1.badoo.com
 mx1.uzleuven.be
 mx2.uzleuven.be
-my-accpt.portofantwerp.com
-my-accpt.portofantwerpbruges.com
 my.account.sony.com
 my.bpost.be
 my.clearme.com
@@ -7420,8 +7305,6 @@ my.loanbuilder.com
 my.malwarebytes.com
 my.plaid.com
 my.playstation.com
-my.portofantwerp.com
-my.portofantwerpbruges.com
 my.pressable.com
 my.sheer.com
 my.snapchat.com
@@ -7441,8 +7324,6 @@ myaccount.trouw.nl
 myaccount.volkskrant.nl
 myaccount.vtm.be
 myconnect.com.au
-mynexuz.be
-mynexuzhealth/id1459856321
 mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
 myself.tw.coupang.com
@@ -7489,7 +7370,6 @@ no-cf.*.aws.indriverapp.com
 no-gw-cf.*.aws.indriverapp.com
 notification-front-web.tw.coupang.com
 notion.id
-notula-accpt.portofantwerpbruges.com
 novel.pixiv.net
 npm CLI
 npmjs.com
@@ -7508,9 +7388,7 @@ odoo14.notebleue.pro
 odul.watsons.com.tr
 og.com
 om.vodafone.mva
-on-premises software
 onboarding-*.cloud.com
-onboarding-api.truelayer.com
 onboarding.cloud.com
 onboarding.greenhouse.io
 one-world-radio-tomorrowland/id1485778856
@@ -7534,7 +7412,6 @@ openapiportal.m-pesa.com
 openfinance.unico.io
 openidconnect.net	
 opposhop.cn
-oprc.portofantwerpbruges.com
 ops.lime.bike
 ops.wolt.com
 orc-xfi.com
@@ -7576,15 +7453,12 @@ passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
 pay*.indriverapp.com
-pay-api.truelayer[-sandbox].com
 pay.8x8.com
 pay.ibex.exchange
 pay.tokopediax.com
-pay.truelayer[-sandbox].com
 pay.tw.coupang.com
 pay.wallet.tg
 paybridge.booking.com
-paydirect.truelayer[-sandbox].com
 payment.backend-capital.com
 payment.bingo.com
 payment.casinohuone.com
@@ -7595,12 +7469,10 @@ payment.ottokasino.com
 payment.pixiv.net
 payment.storspelare.se
 payment.storspiller.com
-payment.truelayer[-sandbox].com
 payment.tw.coupang.com
 payment.unibet.(com­|it|se|co.uk|be|nl|dk|ro|ee|ie|com.au|mt)
 payment.vladcazino.ro
 paymentcomponent.booking.com
-payments-experience-api.truelayer[-sandbox].com
 payments.geneva-staging.chat
 payments.geneva-staging.com
 paynotifications.booking.com
@@ -7764,8 +7636,6 @@ recovery.privy.io
 redditforbusiness.com
 refer.23andme.com
 refined.site/admin
-register-accpt.portofantwerp.com
-register-accpt.portofantwerpbruges.com
 register.bpost.be
 register.capital.com
 registre.notebleue.pro
@@ -7809,7 +7679,6 @@ remitlypayments.com
 remitlytest.com
 remitlywallet.com
 remitresearch.com
-replay.dropbox.com
 repo.magento.com
 report-html-sight.stg.inspectorio.com
 report.voi.com
@@ -7909,10 +7778,6 @@ service.iciparisxl.nl
 service.kruidvat.be
 service.kruidvat.nl
 service.trekpleister.nl
-servicedesk-accpt.portofantwerp.com
-servicedesk-accpt.portofantwerpbruges.com
-servicedesk.portofantwerp.com
-servicedesk.portofantwerpbruges.com
 servicefr.iciparisxl.be
 servicefr.iciparisxl.lu
 servicefr.kruidvat.be
@@ -7921,21 +7786,15 @@ session-share.playstation.com
 settings.superhuman.com
 sfc-cf.*.aws.indriverapp.com
 sfc-gw-cf.*.aws.indriverapp.com
-sftp.reports.truelayer.com
 sftp://ftp.developersites.com.au:45875
 sgnl.ai
 sgnl.cloud
 sgnl.team
 sgnlapis.cloud
 sh.reddit.com
-share-accpt.portofantwerp.com
-share-accpt.portofantwerpbruges.com
 share.doppler.com
-share.portofantwerp.com
-share.portofantwerpbruges.com
 share.portswigger.net
 shop-id.tokopedia.com
-shop-pay-app-api.truelayer.com
 shop.app
 shop.demorgen.be
 shop.dyson.co.za
@@ -7950,7 +7809,6 @@ shop.tw.coupang.com
 shop.volkskrant.nl
 shop.whoop.com
 shop.wyndhamvacationownership.trisept.travel
-shopify-admin.truelayer.com
 shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
@@ -8181,7 +8039,6 @@ trello.com
 trendyol.com
 trm.pinepaymentsolutions.com
 truck-api.eu-east-1.indriverapp.com
-truelayer-signing
 trust.23andme.com
 try.discourse.org
 tucarro.com
@@ -8212,11 +8069,9 @@ us.cloud.com
 us.forescout.cloud
 us1.badoo.com
 usa.visa.com
-user-authentication-api.truelayer[-sandbox].com
 user-profile-staging.8x8.com
 user-profile.8x8.com
 usercontent.koho.ca
-users-api.truelayer.com
 uwa.mobilevikings.be
 v1. kidswebservices.com
 v1staging.kidswebservices.com 
@@ -8314,15 +8169,9 @@ web.ryadom.kz
 web.snapchat.com
 web.truecaller.com
 web3.moonpay.com
-webapps-accpt.portofantwerp.com
-webapps-accpt.portofantwerpbruges.com
-webapps-test.portofantwerpbruges.com/xui
-webapps.portofantwerp.com
-webapps.portofantwerpbruges.com
 webauthn.me	
 webgateway.koho.ca
 webhooks.booking.com
-webhooks.truelayer[-sandbox].com
 webtoolbox.notebleue.pro
 webwinkel.ad.nl
 webwinkel.parool.nl
@@ -8337,11 +8186,7 @@ widget.rentalcars.com
 wifi-in-store.iciparisxl.be
 wifi-in-store.iciparisxl.lu
 wifi-in-store.iciparisxl.nl
-wiki-accpt.portofantwerp.com
-wiki-accpt.portofantwerpbruges.com
 wiki.cs.money
-wiki.portofantwerp.com
-wiki.portofantwerpbruges.com
 wiki.teamfortress.com
 wiki.ui.com
 winecellar.zomato.com
@@ -8553,7 +8398,6 @@ www.kruidvat.be
 www.kruidvat.nl
 www.kruidvatkids.nl
 www.lab-recherche-environnement.org
-www.lansweeper.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.libelle.nl
@@ -8599,7 +8443,6 @@ www.mini.de
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
-www.monzo.com
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
@@ -8620,7 +8463,6 @@ www.playstation.com
 www.pns.hk
 www.pornbox.com
 www.pornworld.com
-www.portofantwerpbruges.com
 www.pourvous.nl
 www.practicalbusinessskills.org
 www.practicalmoneyskills.com
@@ -8647,7 +8489,6 @@ www.sheer.com
 www.six-group.com
 www.socialdeal.nl
 www.soundon.global
-www.soundonw.us
 www.starbucks.ca
 www.starbucks.co.jp
 www.starbucks.com

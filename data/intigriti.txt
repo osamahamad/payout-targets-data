@@ -160,7 +160,6 @@ HelloFax.com
 docsend.com
 app.Reclaim.ai
 dropbox.com/paper
-replay.dropbox.com
 https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1208823298#gid=1208823298
 https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1281087877#gid=1281087877
 https://docs.google.com/spreadsheets/d/1CzscF67guNFMy-L_v79ng2mW36dQWb2rQSbK540j-ys/edit?gid=1767553194#gid=1767553194
@@ -288,19 +287,6 @@ ecom-data.trekpleister.nl
 service.trekpleister.nl
 folder.trekpleister.nl
 www.prijsmepper.nl
-Lansweeper Discovery
-app.lansweeper.com
-fb.lansweeper.com
-edge.lansweeper.com
-api.lansweeper.com
-backoffice.lansweeper.com
-https://lsagentrelay.lansweeper.com/
-app.lansweeper.com/trial
-autoupdateapi.lansweeper.com
-docs.lansweeper.com
-login.lansweeper.com
-on-premises software
-www.lansweeper.com
 www.libelle.nl
 www.marionnaud.fr
 Marionnaud France Android
@@ -374,10 +360,6 @@ vikingco.be
 vikingdeals.be
 vikinglab.be
 forms.mobilevikings.be
-1052238659
-co.uk.getmondo
-www.monzo.com
-monzo.com
  new CDI-based architecture
 All Other NVIDIA Container Toolkit Assets
 libNVVM API
@@ -407,13 +389,6 @@ https://platform.nexo.com/api/trading/advanced/facade/api/v1/order/futures
 https://platform.nexo.com/api/trading/advanced/facade/api/v1/withdraw
 https://nexo.com/
 https://platform.nexo.com/
-be.nexuzhealth.mobile.cpv
-be.nexuzhealth.mobile.kws
-be.nexuzhealth.mobile.mynexuz
-kws-companion/id1342124012
-mynexuz.be
-mynexuzhealth/id1459856321
-liquidfiles.nexuzhealth.com
  idp-contact.nexuzhealth.be
 media.nexuzhealth.be/patient/ 
 analytics.ninjakiwi.com
@@ -432,11 +407,6 @@ rancher.ninjakiwi.com
 rancher.ninjakiwi.me
 https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
-https://a.simplemdm.com/
-https://auth2.pdq.com/
-https://library.pdq.com/
-https://portal.pdq.com/
-https://app.pdq.com/
 api.personio-dev.com
 api.personio.com
 https://community.personio.com
@@ -445,68 +415,6 @@ https://sec-test-<intigriti handle>-<nn>.personio.de
 https://www.personio.com/free-trial/
 https://www.personio.de/kostenlos-testen/
 Other assets owned by Personio
-188.118.8.0/25
-94.107.237.192/26
- login-test.portofantwerpbruges.com/
-api-accpt.portofantwerp.com
-api-accpt.portofantwerpbruges.com
-api.portofantwerp.com
-api.portofantwerpbruges.com
-apps-accpt.portofantwerp.com
-apps-accpt.portofantwerpbruges.com
-apps.portofantwerp.com
-apps.portofantwerpbruges.com
-as2-accpt.portofantwerp.com
-as2-accpt.portofantwerpbruges.com
-as2.portofantwerp.com
-as2.portofantwerpbruges.com
-digitalspecs.portofantwerpbruges.com
-login-accpt.portofantwerpbruges.com
-maximo-accpt.portofantwerp.com
-maximo-accpt.portofantwerpbruges.com
-maximo.portofantwerp.com
-maximo.portofantwerpbruges.com
-maximo.portofantwerpbruges.com
-my-accpt.portofantwerp.com
-my-accpt.portofantwerpbruges.com
-my.portofantwerp.com
-my.portofantwerpbruges.com
-notula-accpt.portofantwerpbruges.com
-oprc.portofantwerpbruges.com
-register-accpt.portofantwerp.com
-register-accpt.portofantwerpbruges.com
-servicedesk-accpt.portofantwerp.com
-servicedesk-accpt.portofantwerpbruges.com
-servicedesk.portofantwerp.com
-servicedesk.portofantwerpbruges.com
-share-accpt.portofantwerp.com
-share-accpt.portofantwerpbruges.com
-share.portofantwerp.com
-share.portofantwerpbruges.com
-webapps-accpt.portofantwerp.com
-webapps-accpt.portofantwerpbruges.com
-webapps-test.portofantwerpbruges.com/xui
-webapps.portofantwerp.com
-webapps.portofantwerpbruges.com
-wiki-accpt.portofantwerp.com
-wiki-accpt.portofantwerpbruges.com
-wiki.portofantwerp.com
-wiki.portofantwerpbruges.com
-www.portofantwerpbruges.com
-erpx.unit4cloud.com/u4erx_pab_acp1
-erpx.unit4cloud.com/u4erx_pab_prev
-erpx.unit4cloud.com/u4erx_pab_prod
-access.ripe.net
-https://github.com/RIPE-NCC/rpki-commons
-https://github.com/RIPE-NCC/rpki-core
-https://github.com/RIPE-NCC/whois
-lirportal.ripe.net
-193.0.0.0/19 and 2001:67c:2e8::/48
-https://github.com/RIPE-NCC/rpki-monitoring
-https://github.com/RIPE-NCC/rpki-publication-server
-https://github.com/RIPE-NCC/rpki-ta-0
-https://github.com/RIPE-NCC/rsyncit
-Assets owned by RIPE NCC
 https://business.rivian.com/api
 https://rivian.com/api/gql/content/graphql
 https://rivian.com/api/gql/gateway/graphql
@@ -612,37 +520,6 @@ shop.trouw.nl
 webwinkel.trouw.nl
 www.trouw.nl
 www.trouw.nl/abonnementen
-api.truelayer[-sandbox].com
-api.mtls.truelayer[-sandbox].com
-auth.truelayer[-sandbox].com
-auth.mtls.truelayer[-sandbox].com
-app.truelayer[-sandbox].com
-login-api.truelayer[-sandbox].com
-login.truelayer[-sandbox].com
-onboarding-api.truelayer.com
-pay-api.truelayer[-sandbox].com
-pay.truelayer[-sandbox].com
-paydirect.truelayer[-sandbox].com
-payment.truelayer[-sandbox].com
-payments-experience-api.truelayer[-sandbox].com
-user-authentication-api.truelayer[-sandbox].com
-users-api.truelayer.com
-C# SDK
-console-backend.truelayer[-sandbox].com
-console.truelayer[-sandbox].com
-sftp.reports.truelayer.com
-Java SDK
-PHP SDK
-TrueLayer for Magento (Magento plugin)
-TrueLayer for WooCommerce (WordPress plugin)
-shopify-admin.truelayer.com
-shop-pay-app-api.truelayer.com
-truelayer-signing
-webhooks.truelayer[-sandbox].com
-iOS SDK
-React Native SDK
-Web SDK
-Rust SDK
 OP-TEE
 Mbed TLS & TF-PSA-Crypto
 TrustedFirmware-A (TF-A)
