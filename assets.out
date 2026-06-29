@@ -548,6 +548,7 @@
 *.kruidvatkids.nl
 *.kwsdose.be
 *.landmarkglobal-group.com
+*.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
 *.latitudefinancial.co.nz
@@ -656,6 +657,7 @@
 *.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
+*.monzo.com
 *.moonpay.com
 *.moonpaycloud.com
 *.mortgagechoice.com.au
@@ -792,6 +794,7 @@
 *.prijsmepper.nl
 *.primarycareondemand.mayoclinic.org
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -825,8 +828,10 @@
 *.redecor.com
 *.registry.eu
 *.rentalcars.com
+*.report.uat.proptrack.com
 *.reposify.com
 *.rhinternal.net
+*.ripe.net
 *.robinhood.com
 *.robinhood.net
 *.roblox.com
@@ -1180,6 +1185,7 @@
 1023499075
 103.83.120.0/22
 1032480595
+1052238659
 1057338687
 107.167.96.0/19
 1080074001
@@ -1295,6 +1301,7 @@
 192.251.124.0/24
 192.251.125.0/24
 192.251.126.0/24
+193.0.0.0/19 and 2001:67c:2e8::/48
 193.109.229.0/24
 193.110.154.0/24
 193.5.66.0/23
@@ -1733,6 +1740,7 @@ Aruba InstantOn Switches
 Aruba User Experience Insight Sensors
 ArubaOS-CX Switches
 Assets labeled as in-scope
+Assets owned by RIPE NCC
 Atlas
 Atlas Charts
 Atlas Data Federation
@@ -2102,6 +2110,7 @@ Kruidvat BE Android
 Kruidvat BE iOS
 Kruidvat NL Android
 Kruidvat NL iOS
+Lansweeper Discovery
 LaunchDarkly Open Source SDKs
 Leaked Credentials
 Leaked Credentials and Secrets (Canva Employee/Contractor)
@@ -2637,6 +2646,7 @@ academy.deriv.com
 academy.infomaniak.com
 access-sandbox.remitly.com
 access.remitly.com
+access.ripe.net
 accommodations.booking.com
 account-sprint.dynatracelabs.com
 account.acronis.com
@@ -2842,6 +2852,7 @@ api.klarna.com
 api.krisp.ai
 api.kruidvat.be
 api.kruidvat.nl
+api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
@@ -2971,6 +2982,8 @@ app.koho.ca
 app.krisp.ai
 app.kruidvat.be
 app.kruidvat.nl
+app.lansweeper.com
+app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
 app.marionnaud.at
@@ -3062,9 +3075,11 @@ authentication.wolt.com
 authz.workbox.dk
 autocomplete.booking.com
 autodiscover.uzleuven.be
+autoupdateapi.lansweeper.com
 aw.visa.com
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
+backoffice.lansweeper.com
 backstage.io
 badoo.com
 badoocdn.com
@@ -3290,6 +3305,7 @@ co-cf.*.aws.indriverapp.com
 co-gw-cf.*.aws.indriverapp.com
 co-in-gw-cf.*.aws.indriverapp.com
 co.mona.android
+co.uk.getmondo
 coban.pixiv.net
 coda.grammarly.com
 coda.io
@@ -3878,6 +3894,7 @@ doaction.org
 docs.anthropic.com
 docs.api.enterprise.uphold.com
 docs.gitlab.com
+docs.lansweeper.com
 docs.launchdarkly.com
 docs.optimuscards.com
 docs.redoxengine.com
@@ -3922,6 +3939,7 @@ ecom-static.kruidvat.be
 ecom-static.kruidvat.nl
 ecrf.uzleuven.be
 edge.bookbeat.com
+edge.lansweeper.com
 edgeapi.slack.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
@@ -3984,6 +4002,7 @@ fareharborsites.com
 fashion4less.me
 faucet-api.polygon.technology/
 faucet.polygon.technology
+fb.lansweeper.com
 fch-cf.*.aws.indriverapp.com
 fe-cf.*.aws.indriverapp.com
 fe-gw-cf.*.aws.indriverapp.com
@@ -4265,6 +4284,8 @@ https://28degreescard.com.au
 https://8x8.vc/xmpp-websocket
 https://Mlife.mo
 https://[it | fr | us | sg | …].louisvuitton.com
+https://a.simplemdm.com/
+https://access-sit.uat.proptrack.com
 https://account-registration.monash.edu/
 https://account.bitpanda.com
 https://account.post.ch
@@ -4415,6 +4436,7 @@ https://app.latitudepayapps.com/
 https://app.navan.com
 https://app.opsgenie.com
 https://app.optimizely.com/
+https://app.pdq.com/
 https://app.recordedfuture.com
 https://app.requirementyogi.com
 https://app.ring.com/*
@@ -4626,6 +4648,7 @@ https://auth.riskrecon.eu
 https://auth.seek.com
 https://auth.thetradedesk.com
 https://auth.wyze.com
+https://auth2.pdq.com/
 https://authn.usaa.com/
 https://autoupdate.geo.opera.com
 https://b2bapi-a.usaa.com
@@ -4802,6 +4825,7 @@ https://delta.app
 https://demo.adstruc.com
 https://demo.priceless.com/
 https://desk.thetradedesk.com
+https://desktop-sit.uat.proptrack.com
 https://desktop.water-link.be/
 https://dev.tutoring.classdojo.com
 https://devedge.t-mobile.com
@@ -4930,6 +4954,7 @@ https://example-jssdk-integ.uidapi.com
 https://example-srvonly-integ.uidapi.com
 https://exchange.pulsepoint.com
 https://exchange.pulsepoint.com/AdminPortal/AdminDashBoard.aspx
+https://explore-sit.uat.proptrack.com
 https://explorer.cronos.org/token/0x2e53c5586e12a99d4CAE366E9Fc5C14fE9c6495d
 https://externalconnect.usaa.com/
 https://fcu.eu-west-2.outscale.com
@@ -4985,6 +5010,13 @@ https://github.com/Hacker0x01/react-datepicker
 https://github.com/Infomaniak/desktop-kDrive
 https://github.com/OctopusDeploy
 https://github.com/ProjectOpenSea/seaport#deployments
+https://github.com/RIPE-NCC/rpki-commons
+https://github.com/RIPE-NCC/rpki-core
+https://github.com/RIPE-NCC/rpki-monitoring
+https://github.com/RIPE-NCC/rpki-publication-server
+https://github.com/RIPE-NCC/rpki-ta-0
+https://github.com/RIPE-NCC/rsyncit
+https://github.com/RIPE-NCC/whois
 https://github.com/Shopify/*
 https://github.com/afterpay/sdk-android
 https://github.com/afterpay/sdk-ios
@@ -5297,6 +5329,7 @@ https://learn.newrelic.com/
 https://legacy-blockexplorer.electroneum.com
 https://lensstudio.snapchat.com/api/
 https://library.elementor.com/
+https://library.pdq.com/
 https://lieferando.de
 https://life.pulsepoint.com/Buyer/#/campaign
 https://life.pulsepoint.com/EngagementAudience/#/dashboard
@@ -5321,6 +5354,7 @@ https://login.salt.ch
 https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
+https://lsagentrelay.lansweeper.com/
 https://luna.amazon.com/*
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://m.csqtrk.net
@@ -5954,6 +5988,7 @@ https://offer.tidal.com/download
 https://ofp.adx.opera.com
 https://ogws.optusnet.com.au/
 https://onboard.neogov.com
+https://one-sit.uat.proptrack.com/
 https://one.newrelic.com
 https://oneview.threatdownstage.com
 https://online.monash.edu/
@@ -6221,12 +6256,14 @@ https://portal.cms.gov/
 https://portal.exoscale.com/
 https://portal.iFoodpago.com.br
 https://portal.originzero.com.au
+https://portal.pdq.com/
 https://portal.riskrecon.com
 https://portal.riskrecon.eu
 https://portal.unifiedid.com
 https://portalapi.eu.clearpay.co.uk
 https://portalapi.us.afterpay.com
 https://portalv2.lh360.com
+https://portfolio-manager-sit.uat.proptrack.com/
 https://powerdms.com/
 https://powerpak.com
 https://pprd.cybermalveillance.gouv.fr
@@ -6476,6 +6513,7 @@ https://us.identity.konghq.com/*
 https://usdstandard.com/
 https://utv.usaa.com
 https://v.utv.usaa.com
+https://valuations-sit.uat.proptrack.com
 https://vault-staging.getmoneytree.com
 https://vault.chiatest.net/
 https://vc.tasheer.com/
@@ -6757,6 +6795,8 @@ https://www.priceline.com/pwd/v0/pcln-graphql/
 https://www.privateinternetaccess.com/download/linux-vpn
 https://www.privateinternetaccess.com/download/mac-vpn
 https://www.privateinternetaccess.com/download/windows-vpn
+https://www.proptrack.com
+https://www.proptrack.com.au
 https://www.quintoandar.com.br/*
 https://www.realcommercial.com.au/
 https://www.recordedfuture.com
@@ -7062,6 +7102,7 @@ links.geneva-staging.com
 links.portswigger.net
 liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
+lirportal.ripe.net
 list-v2--netlify-plugins.netlify.app
 lists.wordpress.org
 live-backstage.tiktok.com
@@ -7085,6 +7126,7 @@ login.delen.ch
 login.delen.lu 
 login.infomaniak.com
 login.insightly.com
+login.lansweeper.com
 login.nba.com
 login.oyens.com
 login.playcanvas.com
@@ -7280,6 +7322,7 @@ money.x.com
 moneybird.com
 moneybirdstorage.com
 monitor.mozilla.org
+monzo.com
 moonpay.com
 movie.indrive.com
 mpa.ekyc.backoffice.m-pesa.com
@@ -7387,6 +7430,7 @@ odoo14.notebleue.pro
 odul.watsons.com.tr
 og.com
 om.vodafone.mva
+on-premises software
 onboarding-*.cloud.com
 onboarding.cloud.com
 onboarding.greenhouse.io
@@ -8392,6 +8436,7 @@ www.kruidvat.be
 www.kruidvat.nl
 www.kruidvatkids.nl
 www.lab-recherche-environnement.org
+www.lansweeper.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.libelle.nl
@@ -8437,6 +8482,7 @@ www.mini.de
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
+www.monzo.com
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
