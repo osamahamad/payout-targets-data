@@ -1201,8 +1201,6 @@
 1089294040
 1091010942
 10x.redoxengine.com
-1114799709
-1114800186
 1116488672
 1118448159
 1127881507
@@ -2932,7 +2930,6 @@ api.simplisafe.com (HSP Endpoints)
 api.slack.com
 api.smtp2go.com
 api.sorare.com
-api.soundtrackyourbrand.com
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -3154,7 +3151,6 @@ bettrfinancing.com
 bid.*.aws.indriverapp.com
 bigcommerce-adapter.judge.me
 bild.de
-billing.api.soundtrackyourbrand.com
 billingsupport.chaturbate.com
 bilt.marriott.com
 biolibre.ar
@@ -3210,14 +3206,12 @@ bugcrowd-pam-###.pam.oktapreview.com
 bugzilla.mozilla.org
 builder.hostinger.com
 building-blocks.com
-builds.soundtrackyourbrand.com
 bulten.watsons.com.tr
 business-resources.truecaller.com
 business.kayak.com
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
-business.soundtrackyourbrand.com
 business.tiktok.com
 business.truecaller.com
 businesshelp.snapchat.com
@@ -3640,7 +3634,6 @@ com.skypicker.Skypicker
 com.skypicker.main
 com.slack.slackmdm
 com.snapchat.android
-com.soundtrackyourbrand.soundtrack.player
 com.spotify.client
 com.spotify.kids
 com.spotify.music
@@ -4689,7 +4682,6 @@ https://audiencelogos.blis.com
 https://audio.20min.ch/
 https://auth-adx.op-mobile.opera.com
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
-https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.immutable.com
@@ -4756,7 +4748,6 @@ https://bugcrowd.charm.felixforus.ca/home
 https://bugcrowd.com/programs
 https://bugcrowd.lucky.felixforus.ca
 https://bugs.opera.com/
-https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.comcast.com/account
@@ -5293,7 +5284,6 @@ https://gwapi2.tripadvisor.com
 https://gx.games
 https://gx.me
 https://gx.opera-api.com
-https://hackerone-m1rtuq8orz.hbstaging.website/
 https://hatching.io
 https://healthmate.withings.com
 https://help.etsy.com
@@ -5914,6 +5904,7 @@ https://marketplace.atlassian.com/apps/2903137599/sprintretro-pro-retrospective-
 https://marketplace.atlassian.com/apps/293/jira-calendar-plugin?hosting=server
 https://marketplace.atlassian.com/apps/2974674253/assets-analytics-custom-dashboards-reporting-for-jira
 https://marketplace.atlassian.com/apps/30318/directory-scanning-plugin?hosting=server
+https://marketplace.atlassian.com/apps/3076252818/gliffy-zero-egress-compliance-ready-diagramming?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/31399/jql-tricks-plugin?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/322837/mobile-connect-plugin-for-jira?hosting=server
 https://marketplace.atlassian.com/apps/3443905353?hosting=cloud&tab=overviewPartner
@@ -6342,7 +6333,6 @@ https://property.com.au
 https://pt-runner.app.ridewithvia.com
 https://pyszne.pl
 https://quantum-events.onecloud.harman.com
-https://radio.api.soundtrackyourbrand.com/
 https://rc.fstr.rocks
 https://rc.wmaudience.com
 https://redash-staging.getmoneytree.com/
@@ -6416,7 +6406,6 @@ https://sign.originzero.com.au
 https://signal.pulsepoint.com/hcp365/#/dashboard/advertiser/6603/overview
 https://signal.pulsepoint.com/hcpexplorer/#/dashboard/eventsExplorer
 https://signature.blis.com
-https://signin-hackerone.hbstaging.website/
 https://simnext.bullish-test.com
 https://simplisafe.co.uk
 https://simplisafe.com
@@ -6434,7 +6423,6 @@ https://song.link
 https://songlink.io
 https://soundcloud.com
 https://soundcloud.org
-https://soundtrack.io
 https://speeddials.opera.com
 https://sprint.com
 https://square.online
@@ -6749,7 +6737,6 @@ https://www.keepersecurity.com/download.html
 https://www.keepersecurity.com/download.html?t=db
 https://www.kohls.com
 https://www.kohls.com/feature/app.jsp
-https://www.kuleuven.be/sapredir/huisvesting
 https://www.ladbrokes.com
 https://www.ladbrokes.com/en/games
 https://www.lascana.de/
@@ -7223,7 +7210,6 @@ m.dana.id
 m.reddit.com
 m.tw.coupang.com
 mUSD Stablecoin
-macOS app
 magazine.kruidvat.be
 magento.com
 magisto.com,www.magisto.com
@@ -7367,6 +7353,7 @@ mgmt-sensors.iris.acceptance.forescoutcloud.net
 mgmt-sensors.iris.production.forescoutcloud.net
 mgmtpod-1-dashboard.production.forescoutcloud.net
 mgmtpod-1.production.forescoutcloud.net
+mgs.dana.id
 mgs.marriott.com
 mijnacc.uzleuven.be
 minerva.robinhood.com
