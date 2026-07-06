@@ -115,6 +115,7 @@
 *.apex-football.com
 *.apexnews.com
 *.apexscores.io
+*.api-app.telenor.se
 *.api.cx.metamask.io
 *.api.id.realestate.com.au
 *.api.konghq.com
@@ -122,8 +123,10 @@
 *.api.originenergy.com.au
 *.api.playstation.com
 *.api.ua.com/
+*.api.vimla.se
 *.apigatewayc.marriott.com
 *.apigwc.marriott.com
+*.apis.telenor.se
 *.app.asana.com
 *.app.personio-dev.com
 *.app.personio.com
@@ -386,6 +389,7 @@
 *.folioidentity.com
 *.folioinstitutional.com
 *.folioinvesting.com
+*.foretagsportalen.telenor.se
 *.forspotify.com
 *.fortnite.com
 *.fortress.com.hk
@@ -645,6 +649,8 @@
 *.mipay.com
 *.mipay.net
 *.mir.uzleuven.be
+*.mitt.vimla.se
+*.mittforetag.telenor.se
 *.miui.cn
 *.miui.com
 *.miwifi.com
@@ -765,6 +771,7 @@
 *.plannthat.com
 *.platacard.mx
 *.platformservices.io
+*.play.ownit.se
 *.playstation.com
 *.playstation.net
 *.playticorp.com
@@ -803,6 +810,7 @@
 *.prod.dradis.netflix.com
 *.prod.ftl.netflix.com
 *.prod.innovexperiments.com
+*.profile.telenor.se
 *.projectbaseline.com/
 *.prowly.com
 *.psynet.gg
@@ -893,6 +901,7 @@
 *.shopifykloud.com
 *.sidefx.com
 *.signalpath.com/
+*.signin.telenor.se
 *.siilo.com
 *.simpletax.ca
 *.singspacegame.com
@@ -949,6 +958,7 @@
 *.statuspage.io
 *.stbpost.be
 *.steamstatic.com
+*.stream.telenor.se
 *.streamlabs.com
 *.streamlabscharity.com
 *.stripchat.com
@@ -1020,6 +1030,7 @@
 *.tstaging.com
 *.tstaging.tools
 *.tumblr.com
+*.tv.telenor.se
 *.tvg.com
 *.tweakblogs.net
 *.tweakers.net
@@ -4204,6 +4215,7 @@ horizonchase.com.br
 horizonchaseturbo.com
 horizons.hostinger.com
 hosting-ik.com
+hosting.ownit.nu
 hotel-deals.marriott.com
 hotel-development.marriott.com
 hotornot.com
@@ -4558,6 +4570,7 @@ https://apps.apple.com/qa/app/ooredoo-qatar/id619828745
 https://apps.apple.com/se/app/atg-live/id1608156355
 https://apps.apple.com/se/app/atg/id1434660322
 https://apps.apple.com/se/app/bookbeat-audiobooks-e-books/id1056652614?l=en-GB
+https://apps.apple.com/se/app/vimla/id1233271881  https://play.google.com/store/apps/details?id=com.vimlaapp&hl=en
 https://apps.apple.com/sg/app/syfe-stay-invested/id1497156434
 https://apps.apple.com/tr/app/mediamarkt-t%C3%BCrkiye/id908956795
 https://apps.apple.com/tt/app/blofin/id1616804346
@@ -6231,6 +6244,7 @@ https://play.google.com/store/apps/details?id=com.usaa.mobile.android.usaa&hl=en
 https://play.google.com/store/apps/details?id=com.uvnv.mintsim
 https://play.google.com/store/apps/details?id=com.verily.me
 https://play.google.com/store/apps/details?id=com.viator.mobile.android&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.vimlaapp&hl=en
 https://play.google.com/store/apps/details?id=com.vuitton.android&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.worldcoin
 https://play.google.com/store/apps/details?id=com.xfinity.digitalhome&hl=en_US&gl=US
@@ -7514,6 +7528,7 @@ outagehistory.logitech.com
 outlook.insightly.com
 ovo.id
 owa.marriott.com
+ownit.se
 oymyakon.indriver.io
 p.grabtaxi.com
 p2p.walletbot.me
@@ -8100,6 +8115,7 @@ teamportal.nba.com
 teams.krisp.ai
 technik.autobild.de
 technik.beta.autobild.de
+telenor.se
 teleport.fareharbor.engineering
 template.uat.foodstorm.com
 tempo-dev.wnba.com
@@ -8209,6 +8225,7 @@ vikingdeals.be
 vikinglab.be
 vimeo.magisto.com
 vimeopro.com
+vimla.se
 vinci-groupe.profils.org
 visa.co.cr
 visa.co.ni
@@ -8278,6 +8295,7 @@ webauthn.me
 webgateway.koho.ca
 webhooks.booking.com
 webhooks.truelayer[-sandbox].com
+webmail.ownit.nu
 webtoolbox.notebleue.pro
 webwinkel.ad.nl
 webwinkel.parool.nl
