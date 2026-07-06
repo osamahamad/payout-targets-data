@@ -41,7 +41,6 @@
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -110,6 +109,7 @@ Leaked/compromised employee accounts *.here.com
 *.dev.mobilevikings.be
 *.monzo.com
 *.prod-ffs.io
+*.nexuzhealth.*
 *.ninjakiwi.me
 *.nkstatic.com
 *.souparea.com
