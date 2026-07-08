@@ -1737,6 +1737,7 @@
 3CX Phone System
 3CX SBC
 3d.cs.money
+3rd Party Integrations (Hytale-side issues only)
 3rd party services hosted at *.sophos.com
 3rd-Party Provider Vulnerability
 3rdparty-apis.coinmarketcap.com
@@ -2453,7 +2454,11 @@ HubSpot Android Mobile App
 HubSpot Sales Office 365 add-in
 HubSpot iOS Mobile App
 Hyperdrive
+Hypixel Public APIs
 HyprUnlock.exe
+Hytale Game Client
+Hytale Game Server
+Hytale Launcher
 IBC Go Relayer
 ICI Paris XL Android
 ICI Paris XL iOS
@@ -5135,6 +5140,7 @@ http://app-qa.chime.com/users/sign_in
 http://app.lightspark.com
 http://app.scaleft.com/
 http://apps.connect.monash.edu/
+http://arcanitegames.ca/
 http://artists.soundcloud.com/
 http://auth.khealth.com/cedars/sign-up
 http://auth.khealth.com/khealth/sign-up
@@ -5280,6 +5286,7 @@ https://account.t-mobile.com
 https://account.teamviewer.com
 https://account.withings.com
 https://accounts.cmp.optimizely.com/
+https://accounts.hytale.com/login
 https://accounts.lastpass.com
 https://accounts.opera.com
 https://accounts.webmd.com
@@ -6635,6 +6642,8 @@ https://hr.neogov.com
 https://hr.prosus.com/
 https://hub.immutable.com/
 https://hug.personio.com
+https://hytale.com/
+https://hytale.dev/
 https://i18n.api.just-eat.io
 https://ibconnect.internetbrands.com
 https://icu.eu-west-2.outscale.com
@@ -8033,6 +8042,7 @@ https://status.mobile.monash/
 https://storage.googleapis.com/kubernetes-release/
 https://store.epicgames.com/en-US/p/amiko-legends-a5986d
 https://store.epicgames.com/en-US/p/seekers-of-tokane-a5986d
+https://store.hytale.com/
 https://store.playstation.com/en-us/product/UP2662-CUSA08481_00-RECROOM000000001
 https://store.playstation.com/en-us/product/UP2662-PPSA05532_00-6681199027107223
 https://store.retail.lightspeed.app
