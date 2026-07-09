@@ -267,7 +267,6 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
-*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
@@ -1468,6 +1467,7 @@
 212.95.227.64/26
 213.139.133.32/28
 216.20.176.0/20
+23andme.org/ancestry/last-names
 23andme.org/blog
 23andme.org/clinicians
 23andme.org/education
@@ -3004,9 +3004,6 @@ app.basecamp.com
 app.blueskytravelvietnam.com
 app.circle.com
 app.codacy.com
-app.datacamp.com/certification
-app.datacamp.com/groups
-app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -3092,9 +3089,6 @@ arrive-server.shopifycloud.com
 as-cf.*.aws.indriverapp.com
 as-gw-cf.*.aws.indriverapp.com
 askpeopleteam.visa.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com 
-assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.spotify.com
@@ -3271,7 +3265,6 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
-campus.datacamp.com
 cancellation.prod.ps.welt.de
 capability.prod.innovexperiments.com
 capital.com/*
@@ -3476,7 +3469,6 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
-com.datacamp
 com.dd.doordash
 com.defi.wallet
 com.deribit
@@ -3944,7 +3936,6 @@ digitaloceantest.com
 digitalspecs.portofantwerpbruges.com
 direct-demo.currencycloud.com
 direct.playstation.com
-discover.23andme.com
 distribution-xml.booking.com
 dmm.bpost.be
 dns0.optus.net.au
@@ -4535,7 +4526,6 @@ https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
-https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
@@ -7702,7 +7692,6 @@ pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
 pr*.indriverapp.com
 pr-gw-cf.*.aws.indriverapp.com
-practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -7747,8 +7736,6 @@ profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile.playstation.com
 profiler.firefox.com
-profiles-api.datacamp.com
-projects.datacamp.com
 promo.tw.coupang.com
 prow.k8s.io
 proxy-production.lime.bike
@@ -8122,7 +8109,7 @@ sts.delen.be
 sts.uzleuven.be
 studio-api.swapcard.com
 studio.swapcard.com
-style.23andme.com
+style.23andme.org
 sub*.aws.indriverapp.com
 sun-dev.wnba.com
 sun-qa.wnba.com
@@ -8416,7 +8403,7 @@ www-qa.nba.com
 www-qa.wnba.com
 www-uat.nba.com
 www.1000-premiers-jours.fr
-www.23andme.com
+www.23andme.org
 www.4njbets.com
 www.abritel.fr
 www.ad.nl
@@ -8472,8 +8459,6 @@ www.crowdstrike.com
 www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
-www.datacamp.com
-www.datacamp.com/datalab
 www.ddfcontent.com
 www.delen.bank
 www.delen.be/en 
