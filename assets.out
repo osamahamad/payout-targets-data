@@ -694,6 +694,7 @@
 *.newegg.ca
 *.newegg.com
 *.nextcapital.com
+*.nexuzhealth.*
 *.nflxext.com
 *.nflximg.net
 *.nflxso.net
@@ -3163,6 +3164,9 @@ bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
 be.delen.digital
+be.nexuzhealth.mobile.cpv
+be.nexuzhealth.mobile.kws
+be.nexuzhealth.mobile.mynexuz
 beacon.netflix.com
 beamitmobile.com
 beauty-and-you.iciparisxl.nl
@@ -7174,6 +7178,7 @@ ksuite.infomaniak.com
 kubernetes-csi.github.io
 kubernetes.io
 kumulus.uzleuven.be
+kws-companion/id1342124012
 kyc-onboarding.booking.com
 l75pvbdyjo.infomaniak.site
 landing.ryadom.kz
@@ -7201,6 +7206,7 @@ linkpop.com
 links.geneva-staging.chat
 links.geneva-staging.com
 links.portswigger.net
+liquidfiles.nexuzhealth.com
 liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
 lirportal.ripe.net
@@ -7477,6 +7483,8 @@ myaccount.trouw.nl
 myaccount.volkskrant.nl
 myaccount.vtm.be
 myconnect.com.au
+mynexuz.be
+mynexuzhealth/id1459856321
 mynk-dash.ninjakiwi.com
 mynk.ninjakiwi.com
 myself.tw.coupang.com
