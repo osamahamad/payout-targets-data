@@ -2,7 +2,6 @@
  *.test.*.lfscnp.com
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *-api-*.acronis.com
-*-cvr-aws-*.sys.comcast.net
 *. advancedcustomfields.com
 *. bettersearchreplace.com
 *. vfsevisa.id
@@ -230,7 +229,6 @@
 *.coinbase-corp.com
 *.coinbase.com
 *.coindcx.com
-*.comcast.com
 *.computerbild.de
 *.consumer.worldcoin.org
 *.contactallerg(y|ie).uzleuven.be
@@ -270,7 +268,6 @@
 *.dev.remitly.com
 *.dev2.grindr.io
 *.devicelock.com
-*.dh-commerce.com 
 *.dibz.co.uk
 *.digitalocean.com
 *.directverify.in
@@ -932,7 +929,6 @@
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.srvcs.tumblr.com
-*.ssr.ccp.xcal.tv 
 *.stadtwien.onmicrosoft.com
 *.stag.tomorrowland.com
 *.stag.weareone.world
@@ -1126,10 +1122,6 @@
 *.wpesvc.net
 *.x.ai
 *.x.com
-*.xcal.tv
-*.xfinity.com	
-*.xfinityhome.com
-*.xfiplatform.com
 *.xiangkankeji.cn
 *.xiangkankeji.com
 *.xiangkannews.cn
@@ -1282,5 +1274,3 @@ was-gw-cf.*.aws.indriverapp.com
 wd2*.indriverapp.com
 wlr-cf.*.aws.indriverapp.com
 www.paypal-*.com
-xhomeapi-*.cloud.comcast.net
-xhomeapi-*.codebig2.net
