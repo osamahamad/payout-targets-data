@@ -1168,6 +1168,7 @@
 *.zmifi.com
 *.zomans.com
 *.zomato.com
+*app.simple-reports.com/demo
 *dev*.arlo.com
 *dev.uzleuven.be
 *developer.cloud.com
@@ -3036,6 +3037,7 @@ app.sandbox.topperpay.com
 app.savers.co.uk
 app.segment.com
 app.sendgrid.com
+app.simple-reports.com/demo
 app.slack.com
 app.smtp2go.com
 app.snapchat.com
@@ -5834,7 +5836,6 @@ https://marketplace.atlassian.com/apps/1232491?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1232506/jsm-assets-microsoft-entra-id-azure-ad-beta-integration?hosting=cloud
 https://marketplace.atlassian.com/apps/1232630/external-data-for-jira-fields-extension?hosting=cloud
 https://marketplace.atlassian.com/apps/1232793/azure-devops-for-jira-official?tab=overview&hosting=cloud
-https://marketplace.atlassian.com/apps/1232798/fillchecker-timesheet-checks-and-reports-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1232887/mermaid-diagrams-viewer?hosting=cloud
 https://marketplace.atlassian.com/apps/1233038/agility-poker-planning?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1233346/audio-recorder-for-confluence?hosting=cloud
