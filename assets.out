@@ -150,7 +150,6 @@
 *.avecspotify.com
 *.ayco.com
 *.backblazeb2.com
-*.backend-capital.com
 *.bancoplata.mx
 *.baoliyun.com
 *.base.org
@@ -206,7 +205,6 @@
 *.canva.cn
 *.canva.com
 *.canva.tech
-*.capital.com
 *.capitalone.ca
 *.capitalone.com
 *.capitalonegslbex.com
@@ -410,6 +408,10 @@
 *.global-liquidity.gs.com
 *.go-pay.co.id
 *.gobiz.co.id
+*.gocardless-cicd.io
+*.gocardless-lab.io
+*.gocardless.dev
+*.gocardless.io,*.gocardless-banking.io
 *.gofin.io
 *.gofood.co.id
 *.gofoodmerchant.co.id
@@ -521,7 +523,6 @@
 *.intercomassets.com / *.intercomcdn.com
 *.internal.exoscale.ch
 *.intigriti.me
-*.itcapital.io
 *.jbl.com
 *.jbl.com.br
 *.jbl.nl
@@ -2727,7 +2728,6 @@ ads.tiktok.com
 adtechnology.axelspringer.com
 advisories.gitlab.com
 aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
-aff.capital.com
 affiliate-id.tokopedia.com
 affiliate.meesho.com
 agents.hostinger.com
@@ -2783,6 +2783,7 @@ api-gw-cf.*.aws.indriverapp.com
 api-js.datadome.co
 api-partner.spotify.com
 api-polygon-tokens.polygon.technology/
+api-sandbox.gocardless.com
 api-sandbox.uphold.com
 api-sandbox.uphold.com/graphql
 api-staging.airtable.com
@@ -3103,6 +3104,7 @@ auth.services.adobe.com
 auth.skypicker.com
 auth.truelayer[-sandbox].com
 auth0.com	
+auth0.gocardless.com
 auth0.net
 authentication.clearme.com
 authentication.wolt.com
@@ -3122,6 +3124,7 @@ bal-uat.nba.com
 bal.nba.com
 ballistic.com
 ballistic.com.br
+bankaccountdata.gocardless.com
 basecamp-setup.exe
 basecamp.rivian.com
 battles.tv
@@ -3248,7 +3251,6 @@ campaign.watsons.com.tr
 campaigns.theperfumeshop.com
 cancellation.prod.ps.welt.de
 capability.prod.innovexperiments.com
-capital.com/*
 capturingreality.com
 cardpayments.remitly.io
 cards.remitly.io
@@ -3256,7 +3258,6 @@ cardsonline.azdiest.be
 cardsonlinetst.azdiest.be
 career.bpost.be
 careers.booking.com
-careers.capital.com
 careers.indrive.com
 careers.marriott.com
 careers.remitly.com
@@ -3431,7 +3432,6 @@ com.bumble.app
 com.bumblebff.app
 com.bykea.pk
 com.bykea.pk.partner
-com.capital.trading
 com.cheaptickets
 com.clay.ios
 com.clearme.Clear
@@ -3726,6 +3726,7 @@ config.cic-bug-bounty.auth0app.com
 configure.bmw.de
 configure.mini.de
 confluence.hyattdev.com
+connect-sandbox.gocardless.com
 connect.8x8.com
 connect.arkane.network 
 connect.identity.stagaws.visma.com
@@ -3884,6 +3885,7 @@ developer.authorize.net
 developer.crypto.com
 developer.currencycloud.com
 developer.cybersource.com
+developer.gocardless.com
 developer.gs.com
 developer.infomaniak.com
 developer.konghq.com
@@ -4136,7 +4138,6 @@ globaljourney.tomorrowland.com
 gnip.com
 gnocchi-www.buffalo-ggn.net
 go-cms.tw.coupang.com
-go.capital.com
 go.geneva-staging.com
 go.stripchat.com
 go.welt.de
@@ -4279,6 +4280,7 @@ http://play.google.com/store/apps/details?id=fr.doctolib.www
 http://poe.com
 http://secure-iphone-xml.booking.com/json/
 http://socialdeal.nl/inspirations/bluemonday/
+http://sso-demo.gocardless-staging.io
 http://testnet.bybit.eu
 http://tsock.us1.twilio.com
 http://twilio.com/blog
@@ -4778,6 +4780,7 @@ https://clearpay.com
 https://clickhou.se/bugcrowd
 https://clients.adstruc.com
 https://clients.multiplayer.classdojo.com/launcher/prod/latest
+https://cloud.langfuse.com/
 https://cloud.oppo.com/
 https://cloud.unity.com
 https://cloudinary.com/console
@@ -6032,6 +6035,7 @@ https://nvio.mx/
 https://nvoice.usaa.com/
 https://nw.ring.com/*
 https://oauth.ring.com/*
+https://ob-sandbox.gocardless.io
 https://octopus.com
 https://octopus.com/downloads
 https://odesli.co
@@ -7234,6 +7238,7 @@ mail.notion.so
 mailpoet.com
 maintenance.logitech.com
 manage-dev.nba.com
+manage-sandbox.gocardless.com
 manage-teams-dev.nba.com
 manage-teams-qa.nba.com
 manage-teams-uat.nba.com
@@ -7495,8 +7500,10 @@ ns2.optusnet.com.au
 nummus.robinhood.com
 nvJitLink APIs
 oasisprod.marriott.com
+oauth-sandbox.gocardless.com
 oauth.deriv.com
 oauth.developers.stagaws.visma.com
+ob.gocardless.com
 obs-sensors.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 ocijlbex1prd.marriott.com
@@ -7519,7 +7526,6 @@ onlinepharmacy.superdrug.com
 onum-labs.com
 onum.com
 open redirect at *.epam.com
-open-api.capital.com
 open.airbnb.com
 open.larksuite.com
 open.ys7.com
@@ -7572,6 +7578,7 @@ passwordchallenge.marriott.com
 pastela.app
 pay*.indriverapp.com
 pay-api.truelayer[-sandbox].com
+pay-sandbox.gocardless.com
 pay.8x8.com
 pay.ibex.exchange
 pay.tokopediax.com
@@ -7580,7 +7587,7 @@ pay.tw.coupang.com
 pay.wallet.tg
 paybridge.booking.com
 paydirect.truelayer[-sandbox].com
-payment.backend-capital.com
+payer-details-sandbox.gocardless.com
 payment.bingo.com
 payment.casinohuone.com
 payment.kolikkopelit.com
@@ -7757,7 +7764,6 @@ refined.site/admin
 register-accpt.portofantwerp.com
 register-accpt.portofantwerpbruges.com
 register.bpost.be
-register.capital.com
 registre.notebleue.pro
 registry.gitlab.com
 rei.com
@@ -8503,6 +8509,7 @@ www.geneva-staging.com
 www.getaroom.com
 www.github.com/cosmos/evm
 www.giving.marriott.com
+www.gocardless.com
 www.goodrx.com
 www.gr.dyson.com
 www.greenhouse.io
