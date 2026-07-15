@@ -238,6 +238,8 @@
 *.cloudflare.com
 *.cloudflarepartners.com
 *.cloudways.com
+*.clovesoftware-dev.com
+*.clovesoftware.com
 *.cm.com
 *.cmtelecom.com
 *.coda.io
@@ -545,6 +547,8 @@
 *.kibana.wtf
 *.kiln.it
 *.kiwi.com
+*.klaviyo-dev.com/*
+*.klaviyomsv.com/*
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
@@ -681,6 +685,7 @@
 *.myharmony.com
 *.myhomebook.de
 *.myinsights.io
+*.myklpages.com/*
 *.myseek.xyz
 *.mysqueezebox.com
 *.myteksi.com
@@ -892,6 +897,7 @@
 *.serious.li
 *.seriously.com
 *.services-prod.nsvcs.net
+*.services.klaviyo.com
 *.services.netlify.com
 *.services.repostnetwork.com
 *.shein.com
@@ -2123,6 +2129,48 @@ Kibana
 Kindle E-Reader
 Klarna Android App (com.myklarnamobile)
 Klarna iOS App (com.klarna.app)
+Klaviyo AWS/S3 Assets
+Klaviyo Infrascucture - 50.150.76.0/30
+Klaviyo Infrastructure - 12.109.179.242/32
+Klaviyo Infrastructure - 12.109.179.243/32
+Klaviyo Infrastructure - 12.109.179.244/32
+Klaviyo Infrastructure - 12.162.226.194/32
+Klaviyo Infrastructure - 12.162.226.195/32
+Klaviyo Infrastructure - 12.162.226.196/32
+Klaviyo Infrastructure - 12.162.226.197/32
+Klaviyo Infrastructure - 12.162.226.198/32
+Klaviyo Infrastructure - 13.236.111.63/32
+Klaviyo Infrastructure - 14.200.250.155/32
+Klaviyo Infrastructure - 14.200.250.156/32
+Klaviyo Infrastructure - 144.121.5.144/29
+Klaviyo Infrastructure - 144.121.57.208/29
+Klaviyo Infrastructure - 18.133.56.249/32
+Klaviyo Infrastructure - 18.144.159.16/32
+Klaviyo Infrastructure - 18.168.137.251/32
+Klaviyo Infrastructure - 18.168.212.94/32
+Klaviyo Infrastructure - 18.168.232.92/32
+Klaviyo Infrastructure - 23.20.21.255/32
+Klaviyo Infrastructure - 3.105.93.78/32
+Klaviyo Infrastructure - 3.208.141.108/32
+Klaviyo Infrastructure - 3.222.226.200/32
+Klaviyo Infrastructure - 38.140.97.154/32
+Klaviyo Infrastructure - 38.140.97.155/32
+Klaviyo Infrastructure - 38.140.97.156/32
+Klaviyo Infrastructure - 44.197.10.144/32
+Klaviyo Infrastructure - 46.31.171.122/32
+Klaviyo Infrastructure - 46.31.171.123/32
+Klaviyo Infrastructure - 50.18.34.165/32
+Klaviyo Infrastructure - 50.228.235.80/29
+Klaviyo Infrastructure - 52.8.118.227/32
+Klaviyo Infrastructure - 54.160.106.200/32
+Klaviyo Infrastructure - 64.125.104.194/32
+Klaviyo Infrastructure - 64.125.104.195/32
+Klaviyo Infrastructure - 64.125.104.196/32
+Klaviyo Infrastructure - 64.125.104.197/32
+Klaviyo Infrastructure - 64.125.104.198/32
+Klaviyo Infrastructure - 64.71.19.71/32
+Klaviyo Infrastructure - 82.144.244.58/32
+Klaviyo Infrastructure - 82.144.244.59/32
 Kohl’s entire public digital footprint that is not Out-Of-Scope(See list below)
 Kong Gateway Enterprise
 Kong Gateway OSS
@@ -4257,6 +4305,7 @@ http://logstash-props.devicecloud.production.forescoutcloud.net/api/v1/propertie
 http://market.android.com/details?id=com.ibotta.android
 http://marlo.ext.tripadvisor.com
 http://mcp.intercom.com
+http://mcp.klaviyo.com/
 http://media.itsfogo.com/media/upload/mobile/android/apk/partycasino_com.apk
 http://member-qa.chime.com/enroll
 http://mgmtpod-1.production.forescoutcloud.net/oauth/token
@@ -4309,6 +4358,7 @@ https://28degreescard.com.au
 https://8x8.vc/xmpp-websocket
 https://Mlife.mo
 https://[it | fr | us | sg | …].louisvuitton.com
+https://a.klaviyo.com/api/*
 https://a.simplemdm.com/
 https://access-sit.uat.proptrack.com
 https://account-registration.monash.edu/
@@ -5348,6 +5398,7 @@ https://keepersecurity.com/console
 https://keepersecurity.com/password-manager-free-trial.html
 https://keepersecurity.com/vault
 https://kiwi.partner.viator.com
+https://klaviyo.com/*
 https://knowledge.newrelic.com/
 https://kucoin.com
 https://kw-bugcrowd-pub.bounty.kiteworks.dev/

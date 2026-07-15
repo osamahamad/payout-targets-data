@@ -245,6 +245,8 @@
 *.cloudflare.com
 *.cloudflarepartners.com
 *.cloudways.com
+*.clovesoftware-dev.com
+*.clovesoftware.com
 *.cm.com
 *.cmtelecom.com
 *.coda.io
@@ -600,6 +602,8 @@
 *.kinepolis.lu
 *.kinepolis.nl
 *.kiwi.com
+*.klaviyo-dev.com/*
+*.klaviyomsv.com/*
 *.klubcinema.fr
 *.korta.is
 *.kortathjonustan.is
@@ -766,6 +770,7 @@
 *.myharmony.com
 *.myhomebook.de
 *.myinsights.io
+*.myklpages.com/*
 *.myseek.xyz
 *.mysqueezebox.com
 *.myteksi.com
@@ -1007,6 +1012,7 @@
 *.serious.li
 *.seriously.com
 *.services-prod.nsvcs.net
+*.services.klaviyo.com
 *.services.netlify.com
 *.services.repostnetwork.com
 *.shein.com
