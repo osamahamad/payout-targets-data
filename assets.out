@@ -8,6 +8,7 @@
  com.citymapper.app.release
  https://api-*exoscale.com/v2
  idp-contact.nexuzhealth.be
+ login-test.portofantwerpbruges.com/
  mix.monash.edu 
  new CDI-based architecture
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
@@ -781,6 +782,8 @@
 *.pns.hk
 *.points.com
 *.polymoon.it
+*.portofantwerp.com
+*.portofantwerpbruges.com
 *.pourvous.nl
 *.ppb.com
 *.ppbdev.com
@@ -1301,6 +1304,7 @@
 18.184.198.198, 18.185.214.59, 18.194.109.179, 3.121.117.72, 3.121.138.10, 3.121.138.128, 3.121.138.134, 3.121.138.170, 3.121.138.33, 3.121.138.43, 3.124.248.208, 35.156.137.39
 185.210.32.0/22
 185.26.180.0/22
+188.118.8.0/25
 192.251.123.0/24
 192.251.124.0/24
 192.251.125.0/24
@@ -1592,6 +1596,7 @@
 930441707
 936983378
 938003185
+94.107.237.192/26
 944011620
 947984433
 955837609
@@ -2764,6 +2769,8 @@ api*.hubapi.com
 api*.hubspot.com
 api*.netflix.com
 api-*.soundcloud.com
+api-accpt.portofantwerp.com
+api-accpt.portofantwerpbruges.com
 api-eu.floqast.app
 api-gateway.polygon.technology
 api-gw-cf.*.aws.indriverapp.com
@@ -2896,6 +2903,8 @@ api.personio-dev.com
 api.personio.com
 api.pns.hk
 api.portal.enterprise.uphold.com 
+api.portofantwerp.com
+api.portofantwerpbruges.com
 api.prd.commerce.simplisafe.com
 api.preprod.monespacesante.fr
 api.privateinternetaccess.com
@@ -3034,10 +3043,14 @@ app.workbox.dk
 app3.rewire.to
 applause1.magisto.com
 appmiral.com
+apps-accpt.portofantwerp.com
+apps-accpt.portofantwerpbruges.com
 apps.8x8.com
 apps.apple.com/fr/app/mon-espace-sant%C3%A9/id1589255019 (iOS)
 apps.apple.com/us/app/crowdstrike-falcon/id1458815656
 apps.ort-one-pingone.com
+apps.portofantwerp.com
+apps.portofantwerpbruges.com
 appt.healthclinics.superdrug.com
 aqtooling.com
 aquiris.com.br
@@ -3891,6 +3904,7 @@ digitaloceanmirrors.com
 digitaloceanpartners.com
 digitaloceanstatus.com
 digitaloceantest.com
+digitalspecs.portofantwerpbruges.com
 direct-demo.currencycloud.com
 direct.playstation.com
 distribution-xml.booking.com
@@ -3967,6 +3981,9 @@ en.ottokasino.com
 enroll.clearme.com
 epaper.welt.de
 epptool-ctld.verisign-grs.com (EPP service; DNS related)
+erpx.unit4cloud.com/u4erx_pab_acp1
+erpx.unit4cloud.com/u4erx_pab_prev
+erpx.unit4cloud.com/u4erx_pab_prod
 errors.hackerone.net
 es-cf.*.aws.indriverapp.com
 es-gw-cf.*.aws.indriverapp.com
@@ -5089,7 +5106,17 @@ https://github.com/immutable/ts-immutable-sdk/tree/main/packages/passport/
 https://github.com/innocraft/
 https://github.com/jitsi
 https://github.com/justeattakeaway
-https://github.com/kiwicom/*
+https://github.com/kiwicom/flask-ninja
+https://github.com/kiwicom/js-iam-middleware
+https://github.com/kiwicom/k8s-vault-operator
+https://github.com/kiwicom/kiwi-cache
+https://github.com/kiwicom/kiwi-json
+https://github.com/kiwicom/kiwi-structlog-config
+https://github.com/kiwicom/konfetti
+https://github.com/kiwicom/navigation-compose-typed
+https://github.com/kiwicom/orbit
+https://github.com/kiwicom/pg2avro
+https://github.com/kiwicom/request-session
 https://github.com/kubernetes-client
 https://github.com/kubernetes-incubator
 https://github.com/kubernetes-security
@@ -7154,6 +7181,7 @@ lockervision.nba.com
 logilife.logitech.com
 login-4ngbets.us.betfair.com
 login-4njbets.us.betfair.com
+login-accpt.portofantwerpbruges.com
 login-dev.nba.com
 login-qa.nba.com
 login-sandbox.nba.com
@@ -7233,6 +7261,10 @@ marrtool.com
 matomo.cloud
 matrix.redditspace.com
 mauth.tw.coupang.com
+maximo-accpt.portofantwerp.com
+maximo-accpt.portofantwerpbruges.com
+maximo.portofantwerp.com
+maximo.portofantwerpbruges.com
 maxiresponse.bpost.be
 mc.sendgrid.com
 mc.tw.coupang.com
@@ -7377,6 +7409,8 @@ munin-*.wordpress.org
 mus1.badoo.com
 mx1.uzleuven.be
 mx2.uzleuven.be
+my-accpt.portofantwerp.com
+my-accpt.portofantwerpbruges.com
 my.account.sony.com
 my.bpost.be
 my.clearme.com
@@ -7386,6 +7420,8 @@ my.loanbuilder.com
 my.malwarebytes.com
 my.plaid.com
 my.playstation.com
+my.portofantwerp.com
+my.portofantwerpbruges.com
 my.pressable.com
 my.sheer.com
 my.snapchat.com
@@ -7453,6 +7489,7 @@ no-cf.*.aws.indriverapp.com
 no-gw-cf.*.aws.indriverapp.com
 notification-front-web.tw.coupang.com
 notion.id
+notula-accpt.portofantwerpbruges.com
 novel.pixiv.net
 npm CLI
 npmjs.com
@@ -7497,6 +7534,7 @@ openapiportal.m-pesa.com
 openfinance.unico.io
 openidconnect.net	
 opposhop.cn
+oprc.portofantwerpbruges.com
 ops.lime.bike
 ops.wolt.com
 org.hartfordhealthcare.hhc247
@@ -7718,6 +7756,8 @@ recovery.privy.io
 redditforbusiness.com
 refer.23andme.com
 refined.site/admin
+register-accpt.portofantwerp.com
+register-accpt.portofantwerpbruges.com
 register.bpost.be
 register.capital.com
 registre.notebleue.pro
@@ -7858,6 +7898,10 @@ service.iciparisxl.nl
 service.kruidvat.be
 service.kruidvat.nl
 service.trekpleister.nl
+servicedesk-accpt.portofantwerp.com
+servicedesk-accpt.portofantwerpbruges.com
+servicedesk.portofantwerp.com
+servicedesk.portofantwerpbruges.com
 servicefr.iciparisxl.be
 servicefr.iciparisxl.lu
 servicefr.kruidvat.be
@@ -7872,7 +7916,11 @@ sgnl.cloud
 sgnl.team
 sgnlapis.cloud
 sh.reddit.com
+share-accpt.portofantwerp.com
+share-accpt.portofantwerpbruges.com
 share.doppler.com
+share.portofantwerp.com
+share.portofantwerpbruges.com
 share.portswigger.net
 shop-id.tokopedia.com
 shop.app
@@ -8219,7 +8267,6 @@ vwcm.visa.com
 vœux.vinci.com
 w1.uzleuven.be
 w1.uzleuven.be/random
-waf.cumulusfire.net
 wallet-sandbox.uphold.com
 wallet.tg
 wallet.venly.io
@@ -8247,6 +8294,11 @@ web.ryadom.kz
 web.snapchat.com
 web.truecaller.com
 web3.moonpay.com
+webapps-accpt.portofantwerp.com
+webapps-accpt.portofantwerpbruges.com
+webapps-test.portofantwerpbruges.com/xui
+webapps.portofantwerp.com
+webapps.portofantwerpbruges.com
 webauthn.me	
 webgateway.koho.ca
 webhooks.booking.com
@@ -8264,7 +8316,11 @@ widget.rentalcars.com
 wifi-in-store.iciparisxl.be
 wifi-in-store.iciparisxl.lu
 wifi-in-store.iciparisxl.nl
+wiki-accpt.portofantwerp.com
+wiki-accpt.portofantwerpbruges.com
 wiki.cs.money
+wiki.portofantwerp.com
+wiki.portofantwerpbruges.com
 wiki.teamfortress.com
 wiki.ui.com
 winecellar.zomato.com
@@ -8541,6 +8597,7 @@ www.playstation.com
 www.pns.hk
 www.pornbox.com
 www.pornworld.com
+www.portofantwerpbruges.com
 www.pourvous.nl
 www.practicalbusinessskills.org
 www.practicalmoneyskills.com
