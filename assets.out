@@ -554,6 +554,7 @@
 *.kwsdose.be
 *.labs.8x8.com
 *.landmarkglobal-group.com
+*.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
 *.latitudefinancial.co.nz
@@ -2131,6 +2132,7 @@ Kruidvat BE Android
 Kruidvat BE iOS
 Kruidvat NL Android
 Kruidvat NL iOS
+Lansweeper Discovery
 LaunchDarkly Open Source SDKs
 Leaked Credentials
 Leaked Credentials and Secrets (Canva Employee/Contractor)
@@ -2871,6 +2873,7 @@ api.klarna.com
 api.krisp.ai
 api.kruidvat.be
 api.kruidvat.nl
+api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
@@ -3002,6 +3005,8 @@ app.koho.ca
 app.krisp.ai
 app.kruidvat.be
 app.kruidvat.nl
+app.lansweeper.com
+app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
 app.marionnaud.at
@@ -3099,9 +3104,11 @@ authentication.wolt.com
 authz.workbox.dk
 autocomplete.booking.com
 autodiscover.uzleuven.be
+autoupdateapi.lansweeper.com
 aw.visa.com
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
+backoffice.lansweeper.com
 backstage.io
 badoo.com
 badoocdn.com
@@ -3913,6 +3920,7 @@ doaction.org
 docs.anthropic.com
 docs.api.enterprise.uphold.com
 docs.gitlab.com
+docs.lansweeper.com
 docs.launchdarkly.com
 docs.optimuscards.com
 docs.redoxengine.com
@@ -3955,6 +3963,7 @@ ecom-static.kruidvat.be
 ecom-static.kruidvat.nl
 ecrf.uzleuven.be
 edge.bookbeat.com
+edge.lansweeper.com
 edgeapi.slack.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
@@ -4019,6 +4028,7 @@ fareharborsites.com
 fashion4less.me
 faucet-api.polygon.technology/
 faucet.polygon.technology
+fb.lansweeper.com
 fch-cf.*.aws.indriverapp.com
 fe-cf.*.aws.indriverapp.com
 fe-gw-cf.*.aws.indriverapp.com
@@ -4301,6 +4311,7 @@ https://28degreescard.com.au
 https://8x8.vc/xmpp-websocket
 https://Mlife.mo
 https://[it | fr | us | sg | …].louisvuitton.com
+https://a.simplemdm.com/
 https://access-sit.uat.proptrack.com
 https://account-registration.monash.edu/
 https://account.bitpanda.com
@@ -4366,7 +4377,6 @@ https://api.dbs.kape.com
 https://api.dextf.com/dcd/
 https://api.dextf.com/dd/
 https://api.dts.kape.com
-https://api.electroneum.com/
 https://api.enc.kape.com
 https://api.expressvpn.com
 https://api.fstr.rocks
@@ -4409,7 +4419,6 @@ https://api.t-mobile.com
 https://api.test.latitudefinancial.com
 https://api.thefork.com
 https://api.thefork.io
-https://api.thesecurityteam.rocks
 https://api.thetradedesk.com
 https://api.thousandeyes.com/
 https://api.tripadvisor.com
@@ -4454,6 +4463,7 @@ https://app.latitudepayapps.com/
 https://app.navan.com
 https://app.opsgenie.com
 https://app.optimizely.com/
+https://app.pdq.com/
 https://app.recordedfuture.com
 https://app.requirementyogi.com
 https://app.ring.com/*
@@ -4577,7 +4587,6 @@ https://apps.apple.com/us/app/compass-real-estate-homes/id692766504
 https://apps.apple.com/us/app/confluence-cloud/id1006971684
 https://apps.apple.com/us/app/confluence-server/id1288365159
 https://apps.apple.com/us/app/ecwid-ecommerce/id626731456
-https://apps.apple.com/us/app/electroneum/id1270774992
 https://apps.apple.com/us/app/exodus-crypto-bitcoin-wallet/id1414384820
 https://apps.apple.com/us/app/grateful-by-exodus/id6754093889
 https://apps.apple.com/us/app/hhc-24-7/id6741442288
@@ -4667,6 +4676,7 @@ https://auth.riskrecon.eu
 https://auth.seek.com
 https://auth.thetradedesk.com
 https://auth.wyze.com
+https://auth2.pdq.com/
 https://authn.usaa.com/
 https://autoupdate.geo.opera.com
 https://b2bapi-a.usaa.com
@@ -4939,7 +4949,6 @@ https://edgeapis.onecloud.harman.com
 https://education.cfr.org/
 https://eforms.neogov.com
 https://eim.eu-west-2.outscale.com
-https://electroneum.com/
 https://elementor.careers
 https://emistores.pinelabs.com
 https://equatorialguinea-evisa.com
@@ -5360,6 +5369,7 @@ https://learn.newrelic.com/
 https://legacy-blockexplorer.electroneum.com
 https://lensstudio.snapchat.com/api/
 https://library.elementor.com/
+https://library.pdq.com/
 https://lieferando.de
 https://life.pulsepoint.com/Buyer/#/campaign
 https://life.pulsepoint.com/EngagementAudience/#/dashboard
@@ -5384,6 +5394,7 @@ https://login.salt.ch
 https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
+https://lsagentrelay.lansweeper.com/
 https://luna.amazon.com/*
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://m.thefork.com
@@ -5980,7 +5991,6 @@ https://monster-customizer.classdojo.com/cf6dfa68-1a81-4c6d-bc0b-38f3666b37d6/in
 https://move.monash.edu/
 https://mstatic.usaa.com
 https://my.arlo.com
-https://my.electroneum.com/
 https://my.elementor.com/
 https://my.exness.com/pa/pim/manager
 https://my.exness.com/webtrading/
@@ -5988,7 +5998,6 @@ https://my.mintmobile.com
 https://my.planethoster.com
 https://my.salt.ch
 https://my.sogexia.com
-https://my.thesecurityteam.rocks
 https://my.ultramobile.com
 https://my.wpengine.com
 https://my.wyze.com
@@ -6180,7 +6189,6 @@ https://play.google.com/store/apps/details?id=com.coindesk.mobile
 https://play.google.com/store/apps/details?id=com.comuto&hl=en
 https://play.google.com/store/apps/details?id=com.decathlon.app
 https://play.google.com/store/apps/details?id=com.ecwid.android&pli=1
-https://play.google.com/store/apps/details?id=com.electroneum.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr
 https://play.google.com/store/apps/details?id=com.exodus.grateful
 https://play.google.com/store/apps/details?id=com.flipkart.android
@@ -6311,6 +6319,7 @@ https://portal.cms.gov/
 https://portal.exoscale.com/
 https://portal.iFoodpago.com.br
 https://portal.originzero.com.au
+https://portal.pdq.com/
 https://portal.riskrecon.com
 https://portal.riskrecon.eu
 https://portal.unifiedid.com
@@ -7184,6 +7193,7 @@ login.delen.ch
 login.delen.lu 
 login.infomaniak.com
 login.insightly.com
+login.lansweeper.com
 login.nba.com
 login.oyens.com
 login.playcanvas.com
@@ -7500,6 +7510,7 @@ odoo14.notebleue.pro
 odul.watsons.com.tr
 og.com
 om.vodafone.mva
+on-premises software
 onboarding-*.cloud.com
 onboarding.cloud.com
 onboarding.greenhouse.io
@@ -8520,6 +8531,7 @@ www.kruidvat.be
 www.kruidvat.nl
 www.kruidvatkids.nl
 www.lab-recherche-environnement.org
+www.lansweeper.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.libelle.nl
