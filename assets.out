@@ -705,8 +705,10 @@
 *.nflxso.net
 *.nflxvideo.net
 *.nic.eu
+*.ninjakiwi.me
 *.nitropack.io
 *.niumba.com
+*.nkstatic.com
 *.nmfn.com
 *.nml.com
 *.nnip.com
@@ -940,6 +942,7 @@
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
 *.soundon.global
+*.souparea.com
 *.soyoustart.com
 *.spiketrap.io
 *.spinaway.com
@@ -2788,6 +2791,7 @@ airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 akismet.com
 alert.logitech.com
+alerts.ninjakiwi.com
 alexa.amazon.com
 alexaanswers.amazon.com
 alfred-uat-31.nonprod.syfe.com
@@ -2806,6 +2810,7 @@ amd.digitalocean.com
 amp.reddit.com
 analytics-*.8x8.com
 analytics.krisp.ai
+analytics.ninjakiwi.com
 analytics.pinelabs.com
 anext.com.sg
 antbank.hk
@@ -2940,6 +2945,7 @@ api.neon.opera.com/neon/pub
 api.neon.opera.com/neon/store
 api.neon.opera.com/pub
 api.netlify.com
+api.ninjakiwi.com
 api.ort-one-pingone.com
 api.ovh.com
 api.personio-dev.com
@@ -3162,6 +3168,7 @@ ballistic.com.br
 bankaccountdata.gocardless.com
 basecamp-setup.exe
 basecamp.rivian.com
+battles.tv
 bb.visa.com
 bbPress Core
 bcny.com
@@ -3221,6 +3228,7 @@ booking.beachbound.com
 booking.cheapcaribbean.com
 booking.com
 bookingholdings-coe.com
+boomer2.ninjakiwi.com
 boost.vinci.com
 booth.pm
 bpa2.marriott.com
@@ -3822,6 +3830,7 @@ cruises.priceline.com
 cs.money
 css-tricks.com
 ct.deriv.com
+ct.ninjakiwi.com
 ctf.hacker101.com
 custody.coinbase.com
 customer-sessions.arkoselabs.com
@@ -3869,6 +3878,7 @@ dashboard.privy.io
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
 data.mail.yahoo.com
+data.ninjakiwi.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 datapod-1-100-druid-ingest.testing.forescoutcloud.net
@@ -4190,6 +4200,7 @@ gs://faraday-secret
 gs://fdy-production-sdk-uploads
 gt-cf.*.aws.indriverapp.com
 gt-gw-cf.*.aws.indriverapp.com
+guts.ninjakiwi.com
 gvt-cf.*.aws.indriverapp.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
@@ -7485,6 +7496,8 @@ myaccount.vtm.be
 myconnect.com.au
 mynexuz.be
 mynexuzhealth/id1459856321
+mynk-dash.ninjakiwi.com
+mynk.ninjakiwi.com
 myself.tw.coupang.com
 myservices-api.stage.vismaonline.com
 myservices.stage.vismaonline.com
@@ -7522,6 +7535,8 @@ nft.io
 nha-cf.*.aws.indriverapp.com
 nha-gw-cf.*.aws.indriverapp.com
 niantic.kidswebservices.com
+ninja.kiwi
+ninjakiwi.com
 nmtracking.netflix.com
 no-cf.*.aws.indriverapp.com
 no-gw-cf.*.aws.indriverapp.com
@@ -7763,6 +7778,8 @@ qwantjunior.com
 ra-cf.*.aws.indriverapp.com
 ra-gw-cf.*.aws.indriverapp.com
 rafflee.co.uk
+rancher.ninjakiwi.com
+rancher.ninjakiwi.me
 random.uzleuven.be/random/
 raptor*.bykea.net
 ras1.optus.com.au 
