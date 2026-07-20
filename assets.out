@@ -1791,6 +1791,8 @@ Body Scan scale
 Bot Management
 Braintree SDK
 Brand Sites
+Brave Browser Desktop
+Brave websites
 Bridge
 Broken Link
 Browser Isolation
@@ -3461,6 +3463,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -5080,6 +5084,7 @@ https://github.com/auth0/react-native-auth0
 https://github.com/backstage/backstage
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
+https://github.com/brave/*, https://github.com/brave-intl/*
 https://github.com/buildonspark/spark
 https://github.com/cashapp/cash-app-pay-android-sdk
 https://github.com/cashapp/cash-app-pay-ios-sdk
@@ -5929,8 +5934,6 @@ https://marketplace.atlassian.com/apps/2501894527/throughput-charts-for-scrum-ka
 https://marketplace.atlassian.com/apps/253/scroll-imagemap-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/253/scroll-imagemap-for-confluence?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/254/gliffy-diagrams-for-confluence?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/254/gliffy-diagrams-for-confluence?hosting=datacenter&tab=overview 
-https://marketplace.atlassian.com/apps/254/gliffy-diagrams-for-confluence?hosting=server&tab=overview 
 https://marketplace.atlassian.com/apps/256/balsamiq-wireframes-for-confluence?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/2576221793/easy-markdown-exporter-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/27447/table-filter-and-charts-for-confluence?hosting=cloud
