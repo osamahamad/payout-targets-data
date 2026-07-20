@@ -2836,6 +2836,8 @@ api-sandbox.uphold.com
 api-sandbox.uphold.com/graphql
 api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
+api-wallet-sandbox.venly.io
+api-wallet.venly.io
 api-wallet.web3auth.io
 api.23andme.com
 api.8x8.com
@@ -2844,6 +2846,7 @@ api.airbnb.com
 api.alasco.de
 api.amazonalexa.com/*
 api.anthropic.com
+api.arkane.network
 api.atg.se
 api.au.frontegg.com
 api.binance.com
@@ -3762,8 +3765,10 @@ configure.mini.de
 confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
+connect.arkane.network 
 connect.identity.stagaws.visma.com
 connect.secure.wellsfargo.com
+connect.venly.io
 console.anthropic.com
 console.circle.com
 console.ort-one-pingone.com
@@ -7204,6 +7209,7 @@ login-dev.nba.com
 login-qa.nba.com
 login-sandbox.nba.com
 login-uat.nba.com
+login.arkane.network
 login.cm.com
 login.delen.be 
 login.delen.ch 
@@ -7217,6 +7223,7 @@ login.rei.com
 login.remitly.com
 login.starbucks.co.jp
 login.swapcard.com
+login.venly.io
 login.www.vaxvacationaccess.com
 logiq.logitech.io
 logistica.redelcom.cl
@@ -8270,6 +8277,7 @@ w1.uzleuven.be
 w1.uzleuven.be/random
 wallet-sandbox.uphold.com
 wallet.tg
+wallet.venly.io
 wallet.web3auth.io
 walletbot.me
 wallets.api.playstation.com
