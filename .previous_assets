@@ -4624,6 +4624,7 @@ core-api-sandbox.nba.com
 core-api-uat-uc.nba.com
 core-api-uat.nba.com
 core-api-uc.nba.com
+core-api.deriv.com
 core-api.nba.com
 core.yoti.com
 corp-dev.nba.com
@@ -5187,6 +5188,7 @@ holidays-hk.fijiairways.com
 holidays-nz.fijiairways.com
 holidays-sg.fijiairways.com
 holidays-us.fijiairways.com
+home.deriv.com
 home.privy.io
 homeloans.wellsfargo.com
 homes-and-villas.marriott.com
@@ -5408,6 +5410,7 @@ https://api-a.usaa.com
 https://api-app.datadome.co/
 https://api-businessportal.origin.com.au
 https://api-ch-gva-2.exoscale.com/v2
+https://api-core.deriv.com
 https://api-docs.vaix.ai/swagger.json
 https://api-iam.intercom.io
 https://api-js.datadome.co
