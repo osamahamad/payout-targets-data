@@ -853,6 +853,21 @@ https://staging.gearset.com/
 https://hipaa.staging.gearset.com/
 https://staging.claytonapp.com
 https://staging.claytonapp.com/api
+https://api.glassdoor.com/*
+https://www.glassdoor.com/*
+https://www.glassdoor.com/member/*
+https://www.glassdoor.com/employers/ec/*
+https://www.glassdoor.com/Job/*
+https://www.glassdoor.com/Reviews/*
+https://www.glassdoor.com/Compare/*
+https://www.glassdoor.com/mz-survey/*
+https://www.glassdoor.com/Salaries/*
+https://www.fishbowlapp.com/
+https://api.fishbowlapp.com/*
+https://play.google.com/store/apps/details?id=com.fishbowlmedia.fishbowl&hl=en_US
+https://apps.apple.com/us/app/fishbowl-professional-network/id1005070636
+https://apps.apple.com/us/app/glassdoor-jobs-careers/id589698942
+https://play.google.com/store/apps/details?id=com.glassdoor.app&hl=en_US
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 Backend endpoint: bug-bounty-be.glean.com
 https://marketplace.atlassian.com/apps/1222714/scio-search-crawler-for-confluence?hosting=cloud&tab=overview
