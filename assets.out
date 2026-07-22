@@ -2799,6 +2799,9 @@ affiliate-id.tokopedia.com
 affiliate.meesho.com
 agents.hostinger.com
 agents.tasheer.com
+aguacaliente-dev.gleague.nba.com
+aguacaliente-qa.gleague.nba.com
+aguacaliente.gleague.nba.com
 ai-tools.infomaniak.com
 ai.portswigger.net
 ai.x.GrokApp
@@ -3151,6 +3154,9 @@ ath-gw-cf.*.aws.indriverapp.com
 auction-service.whatnot.com
 auroratechaward.com
 aus5.mozilla.org
+austin-dev.gleague.nba.com
+austin-qa.gleague.nba.com
+austin.gleague.nba.com
 auth-apc.marriott.com
 auth-identity-dev-ping.nba.com
 auth-identity-dev.nba.com
@@ -3190,6 +3196,8 @@ backstage.io
 badoo.com
 badoocdn.com
 baf-cf.*.aws.indriverapp.com
+bakersfield-qa.gleague.nba.com
+bakersfield.gleague.nba.com
 bal-dev.nba.com
 bal-qa.nba.com
 bal-uat.nba.com
@@ -3231,6 +3239,9 @@ biolibre.co
 biolibre.mx
 biolivre.com.br
 biometservices.com
+birmingham-dev.gleague.nba.com
+birmingham-qa.gleague.nba.com
+birmingham.gleague.nba.com
 bistro-api.blinkit.com
 blinkit.com
 blocklist.opera-api.com
@@ -3244,6 +3255,8 @@ blog.ui.com
 blog.unico.io
 blog.watsons.com.tr
 blox.link
+bluecoats-qa.gleague.nba.com
+bluecoats.gleague.nba.com
 blueprints.amazon.com
 blueskytours.globalbookingsolutions.com
 bm.visa.com
@@ -3323,8 +3336,17 @@ campaign.watsons.com.tr
 campaigns.theperfumeshop.com
 campus.datacamp.com
 cancellation.prod.ps.welt.de
+canton-dev.gleague.nba.com
+canton-qa.gleague.nba.com
+canton.gleague.nba.com
 capability.prod.innovexperiments.com
 capital.com/*
+capitalcity-dev.gleague.nba.com
+capitalcity-qa.gleague.nba.com
+capitalcity.gleague.nba.com
+capitanes-dev.gleague.nba.com
+capitanes-qa.gleague.nba.com
+capitanes.gleague.nba.com
 capturingreality.com
 cardpayments.remitly.io
 cards.remitly.io
@@ -3355,7 +3377,11 @@ ccardseu1.badoo.com
 ccardsus1.badoo.com
 ccloud.yoti.com
 cdn-bal.nba.com
+cdn-gleague.nba.com
+cdn-qa.gleague.nba.com
+cdn-uat.gleague.nba.com
 cdn.arkoselabs.com
+cdn.gleague.nba.com
 cdn.moderntreasury.com
 cdn.nba.com
 cdn.plaid.com
@@ -3389,6 +3415,7 @@ claude.ai
 clay.earth
 clearme.atlassian.net
 clearme.com
+cleveland.gleague.nba.com
 client-api.arkoselabs.com
 cloud.coinbase.com
 cloud.digitalocean.com
@@ -3857,6 +3884,9 @@ cover-photos-us-east-2.hackerone-user-content.com
 cover-photos.hackerone-user-content.com
 cpanel.hostinger.com
 cpp.marriott.com
+cpskyhawks-dev.gleague.nba.com
+cpskyhawks-qa.gleague.nba.com
+cpskyhawks.gleague.nba.com
 crash-reports.allizom.org
 crash-stats.allizom.org
 create.fortnite.com
@@ -3939,6 +3969,9 @@ decision.swiftfinancial.com
 deeplinks.geneva-staging.chat
 deeplinks.geneva-staging.com
 defi.ripio.com
+delaware-dev.gleague.nba.com
+delaware-qa.gleague.nba.com
+delaware.gleague.nba.com
 delen/id1064839588
 delivery-webview.indrive.com
 demo.arkoselabs.com
@@ -3950,8 +3983,12 @@ deriv.partners
 derivws.com
 design.gitlab.com
 design.ui.com
+detroit-dev.gleague.nba.com
+detroit-qa.gleague.nba.com
+detroit.gleague.nba.com
 dev-training.ui.com
 dev.epicgames.com/*
+dev.stats.gleague.nba.com
 devcenter.unico.io
 developer*.earlywarning.com
 developer-api.crypto.com
@@ -4069,6 +4106,9 @@ en.ottokasino.com
 enroll.clearme.com
 epaper.welt.de
 epptool-ctld.verisign-grs.com (EPP service; DNS related)
+erie-dev.gleague.nba.com
+erie-qa.gleague.nba.com
+erie.gleague.nba.com
 erpx.unit4cloud.com/u4erx_pab_acp1
 erpx.unit4cloud.com/u4erx_pab_prev
 erpx.unit4cloud.com/u4erx_pab_prod
@@ -4158,6 +4198,9 @@ fonts.adobe.com
 forms.cybersource.com
 forms.mobilevikings.be
 fortnite.com
+fortwayne-dev.gleague.nba.com
+fortwayne-qa.gleague.nba.com
+fortwayne.gleague.nba.com
 forum.playcanvas.com
 forum.sketchfab.com
 forums.malwarebytes.com
@@ -4226,8 +4269,14 @@ gopaymerchant.midtrans.com
 gql.reddit.com
 grab.careers
 grae.nba.com
+grandrapids-dev.gleague.nba.com
+grandrapids-qa.gleague.nba.com
+grandrapids.gleague.nba.com
 graphql.sandbox.topperpay.com/graphql
 gravatar.com
+greensboro-dev.gleague.nba.com
+greensboro-qa.gleague.nba.com
+greensboro.gleague.nba.com
 grok-build-cli
 grok.com
 grokipedia.com
@@ -7101,6 +7150,9 @@ idp-cf.*.aws.indriverapp.com
 idpay-uat.unico.io
 ifast.marriott.com
 iframe.arkoselabs.com
+ignite-dev.gleague.nba.com
+ignite-qa.gleague.nba.com
+ignite.gleague.nba.com
 ik.watsons.com.tr
 images.demand.cybersource.com
 img.swapcard.com
@@ -7147,6 +7199,9 @@ io.coda
 io.coda.codaapp
 io.metamask
 io.metamask.Metamask
+iowa-dev.gleague.nba.com
+iowa-qa.gleague.nba.com
+iowa.gleague.nba.com
 ir.bookingholdings.com
 ir.clearme.com
 ir.remitly.com
@@ -7208,6 +7263,9 @@ kumulus.uzleuven.be
 kws-companion/id1342124012
 kyc-onboarding.booking.com
 l75pvbdyjo.infomaniak.site
+lakeland-dev.gleague.nba.com
+lakeland-qa.gleague.nba.com
+lakeland.gleague.nba.com
 landing.ryadom.kz
 lando.services.mozilla.com
 lark-frontier.byteoversea.com
@@ -7280,6 +7338,9 @@ logitechgchallenge.com
 logs-partners.tw.coupang.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
+longisland-dev.gleague.nba.com
+longisland-qa.gleague.nba.com
+longisland.gleague.nba.com
 loyalty.tw.coupang.com
 lps.dmp.gouv.fr
 lps2.dmp.gouv.fr
@@ -7304,6 +7365,9 @@ mail.infomaniak.com
 mail.notion.so
 mail.superhuman.com
 mailpoet.com
+maine-dev.gleague.nba.com
+maine-qa.gleague.nba.com
+maine.gleague.nba.com
 maintenance.logitech.com
 manage-dev.nba.com
 manage-sandbox.gocardless.com
@@ -7399,6 +7463,9 @@ meliplay.com.pe
 meliplay.com.uy
 member.tw.coupang.com
 member.watsons.com.tw
+memphis-dev.gleague.nba.com
+memphis-qa.gleague.nba.com
+memphis.gleague.nba.com
 mercadobackoffice.com
 mercadoenvios.com.ve
 mercadolibreexperience.cl
@@ -7464,6 +7531,7 @@ moneybirdstorage.com
 monitor.mozilla.org
 monzo.com
 moonpay.com
+motorcity.gleague.nba.com
 movie.indrive.com
 mpago.la
 mpago.li
@@ -7553,6 +7621,9 @@ ninjakiwi.com
 nmtracking.netflix.com
 no-cf.*.aws.indriverapp.com
 no-gw-cf.*.aws.indriverapp.com
+northernarizona-dev.gleague.nba.com
+northernarizona-qa.gleague.nba.com
+northernarizona.gleague.nba.com
 notification-front-web.tw.coupang.com
 notion.id
 notula-accpt.portofantwerpbruges.com
@@ -7575,6 +7646,9 @@ ocijlbex1prd.marriott.com
 odoo14.notebleue.pro
 odul.watsons.com.tr
 og.com
+oklahomacity-dev.gleague.nba.com
+oklahomacity-qa.gleague.nba.com
+oklahomacity.gleague.nba.com
 om.vodafone.mva
 onboarding-*.cloud.com
 onboarding-api.truelayer.com
@@ -7588,6 +7662,7 @@ oneview.threatdown.com
 online.s-pankki.fi
 onlinedoctor.superdrug.com
 onlinepharmacy.superdrug.com
+ontario.gleague.nba.com
 onum-labs.com
 onum.com
 open redirect at *.epam.com
@@ -7801,6 +7876,9 @@ rancher.ninjakiwi.com
 rancher.ninjakiwi.me
 random.uzleuven.be/random/
 raptor*.bykea.net
+raptors905-dev.gleague.nba.com
+raptors905-qa.gleague.nba.com
+raptors905.gleague.nba.com
 ras1.optus.com.au 
 rates.rewire.com
 rc-gw-cf.*.aws.indriverapp.com
@@ -7874,6 +7952,8 @@ remitlypayments.com
 remitlytest.com
 remitlywallet.com
 remitresearch.com
+reno-dev.gleague.nba.com
+reno.gleague.nba.com
 repo.magento.com
 report-html-sight.stg.inspectorio.com
 report.voi.com
@@ -7902,6 +7982,12 @@ rewire.com
 rezagent.triseptsolutions.com
 ridewithvia.neoridelittlerock
 ridewithvia.par.piercetransit
+riograndevalley-dev.gleague.nba.com
+riograndevalley-qa.gleague.nba.com
+riograndevalley.gleague.nba.com
+ripcity-dev.gleague.nba.com
+ripcity-qa.gleague.nba.com
+ripcity.gleague.nba.com
 rise-api.stg.inspectorio.com
 rise.stg.inspectorio.com
 rivian.com
@@ -7930,6 +8016,9 @@ s3://faraday-secret
 s3://faraday-uploads
 safe.tumblr.com
 salesportal.hyatt.com
+saltlakecity-dev.gleague.nba.com
+saltlakecity-qa.gleague.nba.com
+saltlakecity.gleague.nba.com
 samltool.io	
 sandbox-b2b.ripio.com
 sandbox-royal.securegateway.com
@@ -7938,6 +8027,9 @@ sandbox.authorize.net
 sandbox.braintreegateway.com
 sandbox.secure.checkout.visa.com
 sandbox.securegateway.com
+santacruz-dev.gleague.nba.com
+santacruz-qa.gleague.nba.com
+santacruz.gleague.nba.com
 sap.api-xperience.com
 sc-cf.*.aws.indriverapp.com
 scan.clearme.com
@@ -8022,6 +8114,9 @@ signin.auth.welt.de
 signup.sendgrid.com
 simperium.com
 simplenote.com
+siouxfalls-dev.gleague.nba.com
+siouxfalls-qa.gleague.nba.com
+siouxfalls.gleague.nba.com
 sipsynergy.co.uk
 site.rewire.com
 sites.fareharbor.com
@@ -8060,6 +8155,9 @@ sockets.geneva-staging.com
 solutions-environnement.vinci.com
 sorare.com
 sos-*.exo.io
+southbay-dev.gleague.nba.com
+southbay-qa.gleague.nba.com
+southbay.gleague.nba.com
 sp1y1tpaf1.execute-api.eu-west-1.amazonaws.com
 spaces.pm
 spark.fareharbor.com
@@ -8099,6 +8197,7 @@ staging.magisto.com
 staking-api.polygon.technology
 staking.polygon.technology
 static*.twilio.com
+stats-dev.gleague.nba.com
 stats-dev.nba.com
 stats-qa.nba.com
 stats-trafficcop-aws-dev.nba.com
