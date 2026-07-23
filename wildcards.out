@@ -113,6 +113,7 @@
 *.app.asana.com
 *.app.personio-dev.com
 *.app.personio.com
+*.appmiral.com
 *.arlo.com (subdomains impacting production customer-facing services)
 *.arlocloud.com
 *.arloxcld.com
@@ -221,6 +222,8 @@
 *.cloudways.com
 *.clovesoftware-dev.com
 *.clovesoftware.com
+*.cm.com
+*.cmtelecom.com
 *.coda.io
 *.cognitiveperformer.com
 *.coinbase-corp.com
@@ -978,6 +981,7 @@
 *.thinkingphones.com
 *.thinkingphones.net
 *.threatdown.com
+*.ticketing.cm.com
 *.ticketnew.com
 *.tidalhifi.com
 *.tiktok.com
