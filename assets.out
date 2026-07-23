@@ -169,7 +169,6 @@
 *.bitdefender.com
 *.bitdefender.net
 *.bitgo.com
-*.bitmex.com
 *.bitoasis.net
 *.blinkforhome.com/*
 *.blofin.com
@@ -1289,7 +1288,6 @@
 1570215232
 1579372261
 1579530451
-1589023233
 1589071345
 1591003012
 1592204907
@@ -1682,7 +1680,6 @@ All Chime Assets
 All Evergreen Assets (Excluding staging)
 All In Scope Targets
 All Motorola Devices running Android 13 and above. 
-All Other BitMEX Assets
 All Other NVIDIA Container Toolkit Assets
 All internet facing Sky DACH assets
 All internet facing Sky Italy assets 
@@ -3491,7 +3488,6 @@ com.basecamp.bc3
 com.basecamp.bc3-ios
 com.basecamp.hey
 com.bigblueparrot.pokerfriends
-com.bitmex.app.android
 com.bitstrips.imoji
 com.blinkit.bistro
 com.boozt
@@ -6260,7 +6256,6 @@ https://play.google.com/store/apps/details?id=com.backblaze.android&hl=en_US&gl=
 https://play.google.com/store/apps/details?id=com.belongi.moe
 https://play.google.com/store/apps/details?id=com.bitgo.mobileapp
 https://play.google.com/store/apps/details?id=com.bitgo.verify&hl=en_US
-https://play.google.com/store/apps/details?id=com.bitmex.app.android.testnet
 https://play.google.com/store/apps/details?id=com.bitoasis&hl=en
 https://play.google.com/store/apps/details?id=com.bitpanda.bitpanda
 https://play.google.com/store/apps/details?id=com.bitso.alpha
@@ -6589,7 +6584,6 @@ https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/upload
 https://teleoptiprd.otto.de
 https://tempus-ex.com
 https://tess.service-now.com
-https://testflight.apple.com/join/533gFghn
 https://testflight.apple.com/join/FuaxsScP
 https://testflight.apple.com/join/Y4cHu289
 https://testflight.apple.com/join/vwFxXX7t
@@ -8279,7 +8273,6 @@ test.payworks.io
 testapi.redoxengine.com
 testapp.redoxengine.com
 testbank.xs2a.com
-testnet.bitmex.com
 teststs.uzleuven.be
 thebrowser.company
 tiktok.com
@@ -8515,7 +8508,6 @@ www.atg.se
 www.authorize.net
 www.beachbound.com
 www.bingo.com
-www.bitmex.com
 www.bitmoji.com
 www.bitstamp.net
 www.bitstrips.com
